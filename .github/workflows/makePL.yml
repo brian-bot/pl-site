@@ -1,0 +1,48 @@
+name: Make-PL-Website
+
+## Run this workflow every early morning to ensure we get the past days games
+on:
+  schedule:
+    - cron: '15 9 * * *'
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  get-data:
+    name: Get all of the MLB data
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        r-version: [4.0.4]
+    
+    steps:
+      ## Check out a copy of this repository
+      - name: Checkout code
+        uses: actions/checkout@v2
+      
+      - name: Set up R ${{ matrix.r-version }}
+        uses: r-lib/actions/setup-R@v1
+        with: 
+          r-version: ${{ matrix.r-version }}
+          
+      - name: Cache R packages
+        id: cache
+        uses: actions/cache@v2
+        with:
+          path: ${{ env.R_LIBS_USER }}
+          key: ${{ runner.os }}-plpackages
+          restore-keys: |
+            ${{ runner.os }}-
+            
+      - name: Install dependencies
+        if: steps.cache.outputs.cache-hit != 'true'
+        run: |
+          install.packages(c("plyr", "devtools"))
+        shell: Rscript {0}
+        
+      - name: Run hello world
+        run: |
+          require("plyr")
+          system("echo Hello World")
+        shell: Rscript {0}
