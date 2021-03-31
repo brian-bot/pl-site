@@ -27,14 +27,14 @@ jobs:
           r-version: ${{ matrix.r-version }}
           
       - name: Cache R packages
-        id: cache
+        id: cache-pkg
         uses: actions/cache@v2
         with:
           path: ${{ env.R_LIBS_USER }}
           key: ${{ runner.os }}-plpackages
 
       - name: Install dependencies
-        # if: steps.cache.outputs.cache-hit != 'true'
+        # if: steps.cache-pkg.outputs.cache-hit != 'true'
         run: |
           install.packages(c("plyr", "dplyr", "devtools"))
           require("devtools")
