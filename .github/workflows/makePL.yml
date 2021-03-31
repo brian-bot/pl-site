@@ -36,11 +36,12 @@ jobs:
       - name: Install dependencies
         if: steps.cache.outputs.cache-hit != 'true'
         run: |
-          install.packages(c("plyr", "devtools"))
+          install.packages(c("plyr", "dplyr", "devtools"))
+          require("devtools")
+          install_github("brian-bot/mlbstats")
         shell: Rscript {0}
         
       - name: Run hello world
         run: |
-          require("plyr")
           system("echo Hello World")
         shell: Rscript {0}
