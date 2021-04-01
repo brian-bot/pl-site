@@ -23,7 +23,7 @@ jobs:
         with: 
           r-version: ${{ matrix.r-version }}
       
-      - name: Install libcurl and make a temp file
+      - name: Install libcurl
         run: |
           sudo apt-get install libcurl4-openssl-dev
           
@@ -54,5 +54,7 @@ jobs:
           })
           length(allData)
           length(allData[[1]])
-          dim(allData[[1]]$batters)
+          dim(allData[[length(allData)]]$batters)
+          getwd()
+          list.files(all.files=TRUE)
         shell: Rscript {0}
