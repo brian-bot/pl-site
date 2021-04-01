@@ -35,7 +35,7 @@ jobs:
         uses: actions/cache@v2
         with:
           path: ${{ env.R_LIBS_USER }}
-          key: ${{ runner.os }}-plpackages
+          key: ${{ runner.os }}-plpackagesall
 
       - name: Install dependencies
         if: steps.cache-pkgall.outputs.cache-hit != 'true'
