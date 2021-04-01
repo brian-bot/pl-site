@@ -34,16 +34,16 @@ jobs:
         id: cache-home
         uses: actions/cache@v2
         with:
-          path: ${{ env.HOME }}
+          path: $HOME
           key: ${{ runner.os }}-home
           
       - name: Add random file
         run: | 
-          echo blah >> ${{ env.HOME }}/this.txt
+          echo blah >> $HOME/this.txt
       
       - name: Print out this file
         run: |
-          cat ${{ env.HOME }}/this.txt
+          cat $HOME/this.txt
           
       - name: Cache R packages
         id: cache-pkg
