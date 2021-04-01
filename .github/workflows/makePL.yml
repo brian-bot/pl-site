@@ -45,7 +45,14 @@ jobs:
       - name: Run hello world
         run: |
           require(mlbstats)
-          a <- getMlbDate("2017-07-04")
-          a$batters[1:4, 1:4]
-          getwd()
+          firstDate <- as.Date("2019-03-20")
+          lastDate <- firstDate + 20
+          allData <- lapply(firstDate:lastDate, function(d){
+            d <- as.Date(d)
+            dateData <- getMlbDate(d)
+            return(dateData)
+          })
+          length(allData)
+          legnth(allData[[1]])
+          dim(allData[[1]]$batters)
         shell: Rscript {0}
