@@ -1,12 +1,9 @@
 name: Make-PL-Website
 
 ## Run this workflow every early morning to ensure we get the past days games
-on:
+on: [push, workflow_dispatch]
 #  schedule:
 #    - cron: '15 9 * * *'
-
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
 
 jobs:
   get-data:
@@ -49,5 +46,5 @@ jobs:
         run: |
           require(mlbstats)
           a <- getMlbDate("2017-07-04")
-          a[1:4, 1:4]
+          a$batters[1:4, 1:4]
         shell: Rscript {0}
