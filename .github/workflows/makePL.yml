@@ -52,5 +52,5 @@ jobs:
             dateData <- getMlbDate(d)
             return(dateData)
           })
-          save("allStats", file="data/allStats.RData")
+          save("allData", file="data/allData.RData")
         shell: Rscript {0}
