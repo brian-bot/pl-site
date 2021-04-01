@@ -38,6 +38,7 @@ jobs:
           key: ${{ runner.os }}-home
           
       - name: Add random file
+        if: steps.cache-home.outputs.cache-hit != 'true'
         run: | 
           echo blah >> $HOME/this.txt
       
