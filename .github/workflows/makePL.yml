@@ -31,14 +31,14 @@ jobs:
           sudo apt-get install libcurl4-openssl-dev
           
       - name: Cache R packages
-        id: cache-pkg
+        id: cache-pkgall
         uses: actions/cache@v2
         with:
           path: ${{ env.R_LIBS_USER }}
           key: ${{ runner.os }}-plpackages
 
       - name: Install dependencies
-        # if: steps.cache-pkg.outputs.cache-hit != 'true'
+        if: steps.cache-pkgall.outputs.cache-hit != 'true'
         run: |
           install.packages(c("plyr", "dplyr", "remotes"))
           require("remotes")
@@ -47,5 +47,7 @@ jobs:
         
       - name: Run hello world
         run: |
-          system("echo Hello World")
+          require(mlbstats)
+          a <- getMlbDate("2017-07-04")
+          a[1:4, 1:4]
         shell: Rscript {0}
