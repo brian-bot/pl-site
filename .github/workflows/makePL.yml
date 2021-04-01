@@ -30,22 +30,6 @@ jobs:
         run: |
           sudo apt-get install libcurl4-openssl-dev
           
-      - name: Cache home directory
-        id: cache-home
-        uses: actions/cache@v2
-        with:
-          path: $HOME
-          key: ${{ runner.os }}-home
-          
-      - name: Add random file
-        # if: steps.cache-home.outputs.cache-hit != 'true'
-        run: | 
-          echo blah >> $HOME/this.txt
-      
-      - name: Print out this file
-        run: |
-          cat $HOME/this.txt
-          
       - name: Cache R packages
         id: cache-pkg
         uses: actions/cache@v2
