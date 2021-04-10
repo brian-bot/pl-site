@@ -143,4 +143,4 @@ if(length(finishedPeriods) > 0){
 }
 
 
-print(standings)
+print(leagueStats$period1)
