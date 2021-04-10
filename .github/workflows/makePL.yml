@@ -44,5 +44,6 @@ jobs:
         
       - name: Run hello world
         run: |
-          ls()
+          source("code/populateStats.R")
+          source("code/calculatePeriodStats.R")
         shell: Rscript {0}
