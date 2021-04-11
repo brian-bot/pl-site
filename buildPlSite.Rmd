@@ -7,7 +7,7 @@ source("code/calculatePeriodStats.R")
 ```
 
 ```{r leagueStats, echo=FALSE, results='asis'}
-require(DT)
-datatable(leagueStats[[ currentPeriod ]], options = list(info = FALSE, paginate = FALSE, filter = FALSE, searching = FALSE, ordering = FALSE))
+require(knitr)
+kable(leagueStats[[ currentPeriod ]], row.names = FALSE)
 ```
 
