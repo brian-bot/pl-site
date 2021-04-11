@@ -2,8 +2,5 @@
 
 
 
-
-```
-## Error in loadNamespace(name): there is no package called 'webshot'
-```
+![plot of chunk leagueStats](figure/leagueStats-1.png)
 
