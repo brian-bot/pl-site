@@ -28,16 +28,16 @@ jobs:
           sudo apt-get install libcurl4-openssl-dev
           
       - name: Cache R packages
-        id: cache-pkgallknit
+        id: cache-rpkg
         uses: actions/cache@v2
         with:
           path: ${{ env.R_LIBS_USER }}
-          key: ${{ runner.os }}-plpackagesallknit
+          key: ${{ runner.os }}-rpkg
 
       - name: Install dependencies
-        if: steps.cache-pkgallknit.outputs.cache-hit != 'true'
+        if: steps.cache-rpkg.outputs.cache-hit != 'true'
         run: |
-          install.packages(c("plyr", "dplyr", "remotes", "knitr"))
+          install.packages(c("plyr", "dplyr", "remotes", "knitr", "DT"))
           require("remotes")
           install_github("brian-bot/mlbstats")
         shell: Rscript {0}
