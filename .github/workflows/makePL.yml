@@ -1,13 +1,14 @@
 name: Make-PL-Website
 
 ## Run this workflow every early morning to ensure we get the past days games
-on: [workflow_dispatch]
-#  schedule:
-#    - cron: '15 9 * * *'
+on: 
+  schedule:
+    - cron: '15 9 * * *'
+  workflow_dispatch:
 
 jobs:
   get-data:
-    name: Get all of the MLB data
+    name: Get MLB data and build PL website
     runs-on: ubuntu-latest
     strategy:
       matrix:
