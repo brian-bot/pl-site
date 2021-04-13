@@ -19,10 +19,10 @@
 * * *
 * * *
 
-### Period 1: team stats
+## Period 1: team stats
 
 
-#### Washington Generals
+### Washington Generals
 
 
 Table: batters
@@ -66,7 +66,10 @@ Table: pitchers
 |Adbert Alzolay  |PITCH BENCH |  2| 10.333333|  7| 6.0967742|     10| 0.9677419| 10|  0|  0|
 |Jose Alvarado   |PITCH BENCH |  5|  4.666667|  1| 1.9285714|      6| 1.2857143|  9|  2|  1|
 
-#### Vass Deferens
+* * *
+* * *
+
+### Vass Deferens
 
 
 Table: batters
@@ -111,7 +114,10 @@ Table: pitchers
 |Casey Mize        |PITCH BENCH |  2| 11.000000|  1|  0.8181818|     13| 1.1818182|  9|  1|  0|
 |David Price       |PITCH BENCH |  2|  3.666667|  5| 12.2727273|     11| 3.0000000|  2|  0|  0|
 
-#### Mean Wieners
+* * *
+* * *
+
+### Mean Wieners
 
 
 Table: batters
@@ -157,7 +163,10 @@ Table: pitchers
 |Randy Dobnak      |OP          |  2|  3.000000|  5| 15.000000|      7| 2.3333333|  1|  0|  1|
 |Richard Rodriguez |PITCH BENCH |  4|  3.333333|  0|  0.000000|      2| 0.6000000|  4|  0|  1|
 
-#### Wonderbots
+* * *
+* * *
+
+### Wonderbots
 
 
 Table: batters
@@ -196,7 +205,10 @@ Table: pitchers
 |Emmanuel Clase  |OP       |  5|  4.3333333|  0|  0.000000|      4| 0.9230769|  6|  1|  2|
 |Rich Hill       |OP       |  2| 10.0000000|  8|  7.200000|     11| 1.1000000| 11|  1|  0|
 
-#### T and A
+* * *
+* * *
+
+### T and A
 
 
 Table: batters
@@ -237,7 +249,10 @@ Table: pitchers
 |Matt Barnes         |OP       |  4|  5.000000|  0|  0.000000|      1| 0.2000000| 11|  1|  0|
 |Yusei Kikuchi       |OP       |  2| 12.000000|  5|  3.750000|     14| 1.1666667| 16|  0|  0|
 
-#### SYWA
+* * *
+* * *
+
+### SYWA
 
 
 Table: batters
@@ -281,7 +296,10 @@ Table: pitchers
 |Dane Dunning      |PITCH BENCH |  2|  9.000000|  1|  1.000000|      7| 0.7777778| 11|  1|  0|
 |Sam Howard        |PITCH BENCH |  5|  4.000000|  2|  4.500000|      5| 1.2500000|  7|  1|  0|
 
-#### Overwhelming Underdogs
+* * *
+* * *
+
+### Overwhelming Underdogs
 
 
 Table: batters
@@ -324,7 +342,10 @@ Table: pitchers
 |Merrill Kelly     |OP          |  2| 10.000000|  9|  8.1000000|     17| 1.7000000|  5|  0|  0|
 |Eduardo Rodriguez |PITCH BENCH |  1|  5.000000|  3|  5.4000000|      4| 0.8000000|  7|  1|  0|
 
-#### Boys of Summer
+* * *
+* * *
+
+### Boys of Summer
 
 
 Table: batters
@@ -369,7 +390,10 @@ Table: pitchers
 |Tarik Skubal   |OP       |  2|  9.333333|  8|  7.7142857|     14| 1.5000000|  7|  0|  0|
 |Taylor Rogers  |OP       |  4|  5.000000|  0|  0.0000000|      3| 0.6000000|  5|  0|  0|
 
-#### Terminoeckers
+* * *
+* * *
+
+### Terminoeckers
 
 
 Table: batters
@@ -414,7 +438,10 @@ Table: pitchers
 |Chris Paddack     |PITCH BENCH |  2|  8.000000|  5| 5.6250000|     12| 1.5000000|  6|  0|  0|
 |Jordan Montgomery |PITCH BENCH |  2| 11.000000|  4| 3.2727273|     11| 1.0000000| 11|  1|  0|
 
-#### Nuclear Arms
+* * *
+* * *
+
+### Nuclear Arms
 
 
 Table: batters
@@ -456,3 +483,6 @@ Table: pitchers
 |Griffin Canning  |OP       |  1|  5.333333|  4|  6.7500000|      4| 0.7500000|  7|  0|  0|
 |Matthew Boyd     |OP       |  2| 12.666667|  3|  2.1315789|     14| 1.1052632| 10|  1|  0|
 |Nathan Eovaldi   |OP       |  2| 12.333333|  2|  1.4594595|     11| 0.8918919| 11|  1|  0|
+
+* * *
+* * *
