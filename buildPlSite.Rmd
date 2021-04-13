@@ -1,13 +1,25 @@
-## Penguin League Leaderboard
-
 ```{r setup, include=FALSE, results='hide'}
 knitr::opts_chunk$set(warning = FALSE, message = FALSE)
 source("code/populateStats.R")
 source("code/calculatePeriodStats.R")
 ```
 
+## Leaderboard: period `r currentPeriod`
+
 ```{r leagueStats, echo=FALSE, results='asis'}
 require(knitr)
 kable(leagueStats[[ currentPeriod ]], row.names = FALSE)
 ```
 
+* * *
+* * *
+
+### Period `r currentPeriod`: team stats
+
+```{r teamStats, echo=FALSE, results='asis'}
+for(i in names(allRosters[[names(currentPeriod)]])){
+  cat(paste0("\n#### ", i, "\n"))
+  print(kable(allRosters[[names(currentPeriod)]][[i]]$battingStats, caption="batters", row.names = FALSE))
+  print(kable(allRosters[[names(currentPeriod)]][[i]]$pitchingStats, caption="pitchers", row.names = FALSE))
+}
+```
