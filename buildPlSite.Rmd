@@ -14,12 +14,13 @@ kable(leagueStats[[ currentPeriod ]], row.names = FALSE)
 * * *
 * * *
 
-### Period `r currentPeriod`: team stats
+## Period `r currentPeriod`: team stats
 
 ```{r teamStats, echo=FALSE, results='asis'}
 for(i in names(allRosters[[names(currentPeriod)]])){
-  cat(paste0("\n#### ", i, "\n"))
+  cat(paste0("\n### ", i, "\n"))
   print(kable(allRosters[[names(currentPeriod)]][[i]]$battingStats, caption="batters", row.names = FALSE))
   print(kable(allRosters[[names(currentPeriod)]][[i]]$pitchingStats, caption="pitchers", row.names = FALSE))
+  cat("\n* * *\n* * *\n")
 }
 ```
