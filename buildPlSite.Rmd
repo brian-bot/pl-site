@@ -8,19 +8,24 @@ source("code/calculatePeriodStats.R")
 
 ```{r leagueStats, echo=FALSE, results='asis'}
 require(knitr)
-kable(leagueStats[[ currentPeriod ]], row.names = FALSE)
+teamNames <- names(allRosters[[names(currentPeriod)]])
+
+tmpDF <- leagueStats[[ currentPeriod ]]
+tmpDF$team <- paste0("[", tmpDF$team, "](./", paste0(gsub(" ", "", tolower(tmpDF$team))), ")")
+kable(tmpDF, row.names = FALSE)
 ```
 
 * * *
 * * *
 
-## Period `r currentPeriod`: team stats
-
-```{r teamStats, echo=FALSE, results='asis'}
-for(i in names(allRosters[[names(currentPeriod)]])){
-  cat(paste0("\n### ", i, "\n"))
-  print(kable(allRosters[[names(currentPeriod)]][[i]]$battingStats, caption="batters", row.names = FALSE))
-  print(kable(allRosters[[names(currentPeriod)]][[i]]$pitchingStats, caption="pitchers", row.names = FALSE))
-  cat("\n* * *\n* * *\n")
+```{r teamStats, include=FALSE, results='hide'}
+for(i in teamNames){
+  cat(paste0("### ", i, "\n\n"),
+      kable(allRosters[[names(currentPeriod)]][[i]]$battingStats, caption="batters", row.names = FALSE),
+      "\n\n* * *\n\n",
+      kable(allRosters[[names(currentPeriod)]][[i]]$pitchingStats, caption="pitchers", row.names = FALSE),
+      "\n\n* * *\n\n",
+      fill=TRUE,
+      file=paste0(gsub(" ", "", tolower(i)), ".md"))
 }
 ```
