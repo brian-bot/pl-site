@@ -20,10 +20,10 @@ kable(tmpDF, row.names = FALSE)
 
 ```{r teamStats, include=FALSE, results='hide'}
 for(i in teamNames){
-  cat(paste0("### ", i, "\n\n"),
-      kable(allRosters[[names(currentPeriod)]][[i]]$battingStats, caption="batters", row.names = FALSE),
-      "\n\n* * *\n\n",
-      kable(allRosters[[names(currentPeriod)]][[i]]$pitchingStats, caption="pitchers", row.names = FALSE),
+  cat(paste0("## ", i, "\n\n### Batters\n\n"),
+      kable(allRosters[[names(currentPeriod)]][[i]]$battingStats, row.names = FALSE),
+      "\n\n* * *\n\n### Pitchers\n\n",
+      kable(allRosters[[names(currentPeriod)]][[i]]$pitchingStats, row.names = FALSE),
       "\n\n* * *\n\n",
       fill=TRUE,
       file=paste0(gsub(" ", "", tolower(i)), ".md"))
