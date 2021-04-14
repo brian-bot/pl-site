@@ -1,6 +1,8 @@
-### Mean Wieners
+## Mean Wieners
 
- Table: batters  
+### Batters
+
+ 
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Omar Narvaez      |C         |     14|  3|   5|  2|  0| 
@@ -22,10 +24,12 @@
 |Nick Solak        |BAT BENCH |     10|  7|   5|  1|  2| 
 |Tommy Edman       |BAT BENCH |     18|  7|   2|  1|  3| 
 
+
 * * *
 
+### Pitchers
+
  
-Table: pitchers  
 |players           |position    |  g|        ip| er|      era| hitsbb|      whip| so|  w| sv| 
 |:-----------------|:-----------|--:|---------:|--:|--------:|------:|---------:|--:|--:|--:| 
 |Brandon Woodruff  |SP          |  3| 17.000000|  4| 2.117647|     13| 0.7647059| 19|  0|  0| 

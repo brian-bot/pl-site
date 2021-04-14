@@ -1,6 +1,8 @@
-### Washington Generals
+## Washington Generals
 
- Table: batters  
+### Batters
+
+ 
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |J.T. Realmuto    |C         |     12|  4|   6|  1|  1| 
@@ -23,8 +25,9 @@
 
 * * *
 
+### Pitchers
+
  
-Table: pitchers  
 |players         |position    |  g|        ip| er|      era| hitsbb|      whip| so|  w| sv| 
 |:---------------|:-----------|--:|---------:|--:|--------:|------:|---------:|--:|--:|--:| 
 |Clayton Kershaw |SP          |  3| 18.666667|  6| 2.892857|     20| 1.0714286| 16|  2|  0| 

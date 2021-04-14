@@ -1,6 +1,8 @@
-### SYWA
+## SYWA
 
- Table: batters  
+### Batters
+
+ 
 |players               |position | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:--------|------:|--:|---:|--:|--:| 
 |Willson Contreras     |C        |     12|  6|   5|  2|  1| 
@@ -19,10 +21,12 @@
 |Brandon Nimmo         |DH       |     18|  3|   4|  0|  1| 
 |Vladimir Guerrero Jr. |DH       |     23|  5|   9|  2|  1| 
 
+
 * * *
 
+### Pitchers
+
  
-Table: pitchers  
 |players           |position    |  g|        ip| er|      era| hitsbb|      whip| so|  w| sv| 
 |:-----------------|:-----------|--:|---------:|--:|--------:|------:|---------:|--:|--:|--:| 
 |Elieser Hernandez |SP          |  1|  2.333333|  2| 7.714286|      2| 0.8571429|  3|  0|  0| 

@@ -1,6 +1,8 @@
-### Terminoeckers
+## Terminoeckers
 
- Table: batters  
+### Batters
+
+ 
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Yasmani Grandal   |C         |     13|  5|   6|  1|  0| 
@@ -20,10 +22,12 @@
 |Justin Upton      |DH        |     11|  5|   5|  1|  0| 
 |Andrew Vaughn     |BAT BENCH |      7|  2|   1|  0|  0| 
 
+
 * * *
 
+### Pitchers
+
  
-Table: pitchers  
 |players           |position    |  g|        ip| er|       era| hitsbb|      whip| so|  w| sv| 
 |:-----------------|:-----------|--:|---------:|--:|---------:|------:|---------:|--:|--:|--:| 
 |Domingo German    |SP          |  2|  7.000000|  7| 9.0000000|     14| 2.0000000|  7|  0|  0| 

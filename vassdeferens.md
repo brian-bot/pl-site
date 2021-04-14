@@ -1,6 +1,8 @@
-### Vass Deferens
+## Vass Deferens
 
- Table: batters  
+### Batters
+
+ 
 |players           |position | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:--------|------:|--:|---:|--:|--:| 
 |Will Smith        |C        |     13|  6|   4|  2|  0| 
@@ -21,8 +23,9 @@
 
 * * *
 
+### Pitchers
+
  
-Table: pitchers  
 |players           |position    |  g|        ip| er|        era| hitsbb|      whip| so|  w| sv| 
 |:-----------------|:-----------|--:|---------:|--:|----------:|------:|---------:|--:|--:|--:| 
 |Hyun Jin Ryu      |SP          |  3| 19.000000|  4|  1.8947368|     17| 0.8947368| 19|  1|  0| 

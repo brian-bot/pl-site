@@ -1,6 +1,8 @@
-### T and A
+## T and A
 
- Table: batters  
+### Batters
+
+ 
 |players           |position | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:--------|------:|--:|---:|--:|--:| 
 |Sean Murphy       |C        |      6|  0|   2|  0|  0| 
@@ -21,8 +23,9 @@
 
 * * *
 
+### Pitchers
+
  
-Table: pitchers  
 |players             |position |  g|        ip| er|       era| hitsbb|      whip| so|  w| sv| 
 |:-------------------|:--------|--:|---------:|--:|---------:|------:|---------:|--:|--:|--:| 
 |Andrew Heaney       |SP       |  2|  9.000000|  7|  7.000000|     12| 1.3333333| 13|  1|  0| 

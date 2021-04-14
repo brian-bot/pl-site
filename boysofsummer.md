@@ -1,6 +1,8 @@
-### Boys of Summer
+## Boys of Summer
 
- Table: batters  
+### Batters
+
+ 
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Gary Sanchez     |C         |     13|  5|   4|  2|  0| 
@@ -24,8 +26,9 @@
 
 * * *
 
+### Pitchers
+
  
-Table: pitchers  
 |players        |position |  g|        ip| er|        era| hitsbb|      whip| so|  w| sv| 
 |:--------------|:--------|--:|---------:|--:|----------:|------:|---------:|--:|--:|--:| 
 |Frankie Montas |SP       |  2|  8.666667|  8|  8.3076923|     17| 1.9615385|  9|  1|  0| 

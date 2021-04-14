@@ -1,6 +1,8 @@
-### Wonderbots
+## Wonderbots
 
- Table: batters  
+### Batters
+
+ 
 |players          |position | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:--------|------:|--:|---:|--:|--:| 
 |Travis d'Arnaud  |C        |     11|  2|   5|  1|  0| 
@@ -20,8 +22,9 @@
 
 * * *
 
+### Pitchers
+
  
-Table: pitchers  
 |players         |position |  g|         ip| er|       era| hitsbb|      whip| so|  w| sv| 
 |:---------------|:--------|--:|----------:|--:|---------:|------:|---------:|--:|--:|--:| 
 |Aaron Nola      |SP       |  3| 15.6666667|  6|  3.446808|     22| 1.4042553| 18|  0|  0| 

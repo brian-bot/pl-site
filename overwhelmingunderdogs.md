@@ -1,6 +1,8 @@
-### Overwhelming Underdogs
+## Overwhelming Underdogs
 
- Table: batters  
+### Batters
+
+ 
 |players           |position | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:--------|------:|--:|---:|--:|--:| 
 |Christian Vazquez |C        |     15|  8|   5|  2|  2| 
@@ -21,8 +23,9 @@
 
 * * *
 
+### Pitchers
+
  
-Table: pitchers  
 |players           |position    |  g|        ip| er|        era| hitsbb|      whip| so|  w| sv| 
 |:-----------------|:-----------|--:|---------:|--:|----------:|------:|---------:|--:|--:|--:| 
 |Johnny Cueto      |SP          |  2| 14.333333|  4|  2.5116279|     14| 0.9767442| 14|  1|  0| 

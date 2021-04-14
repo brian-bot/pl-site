@@ -1,6 +1,8 @@
-### Nuclear Arms
+## Nuclear Arms
 
- Table: batters  
+### Batters
+
+ 
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Salvador Perez      |C         |     14|  6|   6|  2|  0| 
@@ -20,10 +22,12 @@
 |Justin Turner       |DH        |     17|  7|   9|  2|  0| 
 |Chris Taylor        |BAT BENCH |     16|  7|   6|  2|  0| 
 
+
 * * *
 
+### Pitchers
+
  
-Table: pitchers  
 |players          |position |  g|        ip| er|        era| hitsbb|      whip| so|  w| sv| 
 |:----------------|:--------|--:|---------:|--:|----------:|------:|---------:|--:|--:|--:| 
 |Blake Snell      |SP       |  3| 10.333333|  5|  4.3548387|     17| 1.6451613| 17|  0|  0| 
