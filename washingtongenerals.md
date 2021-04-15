@@ -5,14 +5,14 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto    |C         |     12|  4|   6|  1|  1| 
+|J.T. Realmuto    |C         |     13|  4|   6|  1|  1| 
 |Trey Mancini     |1B        |     11|  6|   8|  2|  0| 
 |Marcus Semien    |2B        |     16|  7|   6|  4|  2| 
 |Nolan Arenado    |3B        |     19|  7|   8|  3|  0| 
-|Carlos Correa    |SS        |     16|  4|   6|  3|  0| 
+|Carlos Correa    |SS        |     17|  4|   6|  3|  0| 
 |Willi Castro     |MI        |     11|  2|   1|  0|  0| 
 |Kyle Seager      |CI        |     18|  4|  10|  2|  1| 
-|Dominic Smith    |OF        |      5|  2|   5|  2|  0| 
+|Dominic Smith    |OF        |      8|  2|   6|  2|  0| 
 |Mark Canha       |OF        |     20| 13|   4|  2|  1| 
 |Mike Trout       |OF        |     27| 10|   8|  4|  0| 
 |Raimel Tapia     |OF        |     12|  2|   4|  1|  1| 

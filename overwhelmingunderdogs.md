@@ -9,8 +9,8 @@
 |Max Muncy         |1B       |     24|  9|   7|  2|  0| 
 |Gavin Lux         |2B       |     11|  4|   4|  0|  1| 
 |Alex Bregman      |3B       |     13|  4|   6|  2|  0| 
-|Dansby Swanson    |SS       |      8|  2|   3|  1|  0| 
-|Nick Madrigal     |MI       |     10|  7|   0|  0|  1| 
+|Dansby Swanson    |SS       |      9|  2|   3|  1|  0| 
+|Nick Madrigal     |MI       |     13|  8|   1|  0|  1| 
 |Cavan Biggio      |CI       |     13|  5|   2|  2|  0| 
 |Andrew McCutchen  |OF       |     12|  4|   2|  1|  1| 
 |Christian Yelich  |OF       |     16|  8|   1|  0|  2| 

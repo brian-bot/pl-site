@@ -6,7 +6,7 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Yasmani Grandal   |C         |     13|  5|   6|  1|  0| 
-|Eric Hosmer       |1B        |     20|  5|   9|  3|  1| 
+|Eric Hosmer       |1B        |     21|  5|   9|  3|  1| 
 |Mike Moustakas    |2B        |     18| 10|   5|  2|  0| 
 |Rafael Devers     |3B        |     17|  8|  13|  5|  0| 
 |Corey Seager      |SS        |     23|  8|   8|  1|  0| 
@@ -15,12 +15,12 @@
 |Byron Buxton      |OF        |     17|  8|   9|  5|  1| 
 |Giancarlo Stanton |OF        |     10|  3|   9|  1|  0| 
 |J.D. Martinez     |OF        |     22| 11|  16|  5|  0| 
-|Michael Conforto  |OF        |      5|  0|   3|  0|  0| 
+|Michael Conforto  |OF        |      6|  1|   3|  0|  0| 
 |Aaron Hicks       |DH        |     11|  3|   5|  1|  0| 
-|Austin Meadows    |DH        |     17|  6|   3|  3|  0| 
+|Austin Meadows    |DH        |     18|  6|   3|  3|  0| 
 |C.J. Cron         |DH        |      9|  5|   1|  0|  0| 
 |Justin Upton      |DH        |     11|  5|   5|  1|  0| 
-|Andrew Vaughn     |BAT BENCH |      7|  2|   1|  0|  0| 
+|Andrew Vaughn     |BAT BENCH |      8|  3|   1|  0|  0| 
 
 
 * * *
