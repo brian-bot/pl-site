@@ -9,15 +9,15 @@
 |Pete Alonso       |1B       |     10|  3|   4|  1|  0| 
 |Ozzie Albies      |2B       |      9|  6|   7|  2|  0| 
 |Yoan Moncada      |3B       |     12|  4|   2|  1|  0| 
-|Xander Bogaerts   |SS       |     16|  6|   2|  0|  1| 
+|Xander Bogaerts   |SS       |     20|  6|   2|  0|  1| 
 |Tim Anderson      |MI       |      3|  3|   1|  1|  0| 
 |Christian Walker  |CI       |     11|  6|   3|  1|  0| 
-|Juan Soto         |OF       |     16|  7|   6|  2|  1| 
-|Nelson Cruz       |OF       |     15|  9|  10|  4|  0| 
+|Juan Soto         |OF       |     18|  9|   7|  2|  1| 
+|Nelson Cruz       |OF       |     17|  9|  10|  4|  0| 
 |Starling Marte    |OF       |     17|  9|   3|  0|  2| 
 |Teoscar Hernandez |OF       |      6|  3|   2|  1|  0| 
-|Bobby Dalbec      |DH       |      8|  0|   3|  0|  0| 
-|Mike Yastrzemski  |DH       |     11|  4|   3|  2|  1| 
+|Bobby Dalbec      |DH       |      9|  1|   3|  0|  0| 
+|Mike Yastrzemski  |DH       |     13|  4|   3|  2|  1| 
 |Myles Straw       |DH       |     13|  4|   4|  0|  3| 
 |Ryan Mountcastle  |DH       |     12|  6|   6|  1|  1| 
 
@@ -35,7 +35,7 @@
 |Sean Manaea       |SP          |  2| 10.666667|  6|  5.0625000|     16| 1.5000000|  8|  0|  0| 
 |Yu Darvish        |SP          |  3| 17.666667|  6|  3.0566038|     17| 0.9622642| 19|  1|  0| 
 |Drew Pomeranz     |RP          |  4|  4.000000|  0|  0.0000000|      3| 0.7500000|  7|  0|  0| 
-|Giovanny Gallegos |RP          |  5|  7.000000|  1|  1.2857143|      2| 0.2857143| 10|  2|  0| 
+|Giovanny Gallegos |RP          |  6|  8.000000|  2|  2.2500000|      4| 0.5000000| 11|  2|  0| 
 |Anthony Bass      |OP          |  5|  4.000000|  6| 13.5000000|     10| 2.5000000|  3|  0|  0| 
 |Brady Singer      |OP          |  2|  8.333333|  6|  6.4800000|     15| 1.8000000| 11|  0|  0| 
 |Hector Neris      |OP          |  6|  5.333333|  1|  1.6875000|      7| 1.3125000|  5|  0|  2| 

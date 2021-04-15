@@ -11,7 +11,7 @@
 |Matt Chapman      |3B       |     13|  4|   6|  2|  0| 
 |Trevor Story      |SS       |     15|  3|   3|  0|  1| 
 |Jazz Chisholm Jr. |MI       |     11|  3|   2|  1|  2| 
-|Miguel Sano       |CI       |     12|  5|   3|  1|  0| 
+|Miguel Sano       |CI       |     13|  5|   3|  1|  0| 
 |Joey Gallo        |OF       |     18|  4|   5|  1|  2| 
 |Jorge Soler       |OF       |     10|  3|   4|  1|  0| 
 |Luis Robert       |OF       |     14|  4|   4|  1|  1| 
@@ -39,7 +39,7 @@
 |Amir Garrett        |OP       |  3|  3.000000|  5| 15.000000|      9| 3.0000000|  3|  0|  2| 
 |Jordan Romano       |OP       |  4|  3.333333|  1|  2.700000|      7| 2.1000000|  4|  1|  0| 
 |Jose Quintana       |OP       |  2|  5.000000|  9| 16.200000|     17| 3.4000000|  9|  0|  0| 
-|Matt Barnes         |OP       |  5|  6.000000|  0|  0.000000|      1| 0.1666667| 12|  1|  1| 
+|Matt Barnes         |OP       |  6|  7.000000|  0|  0.000000|      2| 0.2857143| 14|  1|  2| 
 |Yusei Kikuchi       |OP       |  2| 12.000000|  5|  3.750000|     14| 1.1666667| 16|  0|  0| 
 
 

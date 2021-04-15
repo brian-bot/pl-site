@@ -16,10 +16,10 @@
 |Eddie Rosario         |OF       |     13|  6|   7|  2|  1| 
 |Joc Pederson          |OF       |      8|  2|   4|  1|  0| 
 |Trent Grisham         |OF       |     10|  6|   4|  3|  0| 
-|Anthony Rizzo         |DH       |     12|  3|   2|  1|  2| 
+|Anthony Rizzo         |DH       |     13|  3|   2|  1|  2| 
 |Austin Hays           |DH       |      2|  1|   2|  0|  0| 
 |Brandon Nimmo         |DH       |     18|  3|   4|  0|  1| 
-|Vladimir Guerrero Jr. |DH       |     23|  5|   9|  2|  1| 
+|Vladimir Guerrero Jr. |DH       |     25|  5|   9|  2|  1| 
 
 
 * * *
@@ -36,7 +36,7 @@
 |Luis Castillo     |SP          |  3| 15.333333| 12| 7.043478|     22| 1.4347826| 12|  1|  0| 
 |Zack Wheeler      |SP          |  2| 11.666667|  3| 2.314286|     12| 1.0285714| 14|  1|  0| 
 |Adam Ottavino     |RP          |  4|  3.333333|  3| 8.100000|      8| 2.4000000|  4|  1|  0| 
-|Raisel Iglesias   |RP          |  5|  5.000000|  4| 7.200000|      6| 1.2000000| 10|  1|  2| 
+|Raisel Iglesias   |RP          |  6|  5.333333|  4| 6.750000|      6| 1.1250000| 11|  1|  2| 
 |Aaron Civale      |OP          |  2| 14.666667|  4| 2.454546|      8| 0.5454545| 12|  2|  0| 
 |Daniel Bard       |OP          |  4|  3.666667|  0| 0.000000|      4| 1.0909091|  6|  0|  2| 
 |Jake Diekman      |OP          |  5|  5.333333|  3| 5.062500|      9| 1.6875000|  5|  0|  0| 
