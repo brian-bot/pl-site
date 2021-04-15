@@ -9,7 +9,7 @@
 |Matt Olson        |1B       |     10|  2|   6|  1|  0| 
 |Brandon Lowe      |2B       |     14|  5|   4|  1|  0| 
 |Matt Chapman      |3B       |     13|  4|   6|  2|  0| 
-|Trevor Story      |SS       |     15|  3|   3|  0|  1| 
+|Trevor Story      |SS       |     16|  3|   4|  0|  1| 
 |Jazz Chisholm Jr. |MI       |     14|  4|   5|  2|  3| 
 |Miguel Sano       |CI       |     13|  5|   3|  1|  0| 
 |Joey Gallo        |OF       |     21|  5|   5|  1|  2| 

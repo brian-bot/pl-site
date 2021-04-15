@@ -9,7 +9,7 @@
 |Eric Hosmer       |1B        |     21|  5|   9|  3|  1| 
 |Mike Moustakas    |2B        |     18| 10|   5|  2|  0| 
 |Rafael Devers     |3B        |     17|  8|  13|  5|  0| 
-|Corey Seager      |SS        |     23|  8|   8|  1|  0| 
+|Corey Seager      |SS        |     25|  9|   8|  1|  0| 
 |Bo Bichette       |MI        |     18| 11|  10|  4|  2| 
 |Ke'Bryan Hayes    |CI        |      3|  2|   2|  1|  0| 
 |Byron Buxton      |OF        |     17|  8|   9|  5|  1| 
@@ -18,7 +18,7 @@
 |Michael Conforto  |OF        |      6|  1|   3|  0|  0| 
 |Aaron Hicks       |DH        |     11|  3|   5|  1|  0| 
 |Austin Meadows    |DH        |     18|  6|   3|  3|  0| 
-|C.J. Cron         |DH        |      9|  5|   1|  0|  0| 
+|C.J. Cron         |DH        |     11|  5|   1|  0|  0| 
 |Justin Upton      |DH        |     11|  5|   5|  1|  0| 
 |Andrew Vaughn     |BAT BENCH |      8|  3|   1|  0|  0| 
 

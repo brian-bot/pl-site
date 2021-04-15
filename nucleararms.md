@@ -19,7 +19,7 @@
 |Andrew Benintendi   |DH        |     14|  5|   1|  0|  3| 
 |Bryan Reynolds      |DH        |     18|  6|   4|  1|  0| 
 |Jean Segura         |DH        |     15|  4|   4|  1|  1| 
-|Justin Turner       |DH        |     17|  7|   9|  2|  0| 
+|Justin Turner       |DH        |     19|  8|  11|  3|  0| 
 |Chris Taylor        |BAT BENCH |     16|  7|   6|  2|  0| 
 
 

@@ -13,13 +13,13 @@
 |Jorge Polanco    |MI        |     11|  5|   6|  0|  1| 
 |Gio Urshela      |CI        |     13|  4|   6|  1|  1| 
 |Bryce Harper     |OF        |     18|  7|   4|  2|  0| 
-|Mookie Betts     |OF        |     13|  7|   2|  2|  2| 
+|Mookie Betts     |OF        |     16|  8|   2|  2|  2| 
 |Nick Castellanos |OF        |     16| 10|   8|  4|  0| 
 |Shohei Ohtani    |OF        |     18| 10|  12|  4|  2| 
 |Alex Verdugo     |DH        |     15| 11|   8|  2|  0| 
 |Austin Riley     |DH        |     10|  3|   0|  0|  0| 
 |Clint Frazier    |DH        |     10|  3|   0|  0|  0| 
-|Ryan McMahon     |DH        |     13|  7|   9|  5|  1| 
+|Ryan McMahon     |DH        |     14|  7|   9|  5|  1| 
 |Jared Walsh      |BAT BENCH |     16|  8|  10|  3|  0| 
 |Mitch Garver     |BAT BENCH |      7|  3|   4|  2|  0| 
 |Nick Senzel      |BAT BENCH |     13|  9|   2|  0|  1| 

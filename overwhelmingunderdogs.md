@@ -6,8 +6,8 @@
 |players           |position | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:--------|------:|--:|---:|--:|--:| 
 |Christian Vazquez |C        |     16|  9|   5|  2|  2| 
-|Max Muncy         |1B       |     24|  9|   7|  2|  0| 
-|Gavin Lux         |2B       |     11|  4|   4|  0|  1| 
+|Max Muncy         |1B       |     25|  9|   7|  2|  0| 
+|Gavin Lux         |2B       |     11|  4|   5|  0|  1| 
 |Alex Bregman      |3B       |     13|  4|   6|  2|  0| 
 |Dansby Swanson    |SS       |      9|  2|   3|  1|  0| 
 |Nick Madrigal     |MI       |     13|  8|   1|  0|  1| 

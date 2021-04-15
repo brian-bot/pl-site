@@ -12,7 +12,7 @@
 |Javier Baez      |SS       |     10|  4|   8|  3|  3| 
 |Didi Gregorius   |MI       |     14|  2|   9|  2|  1| 
 |Kris Bryant      |CI       |     14|  7|   6|  3|  0| 
-|Charlie Blackmon |OF       |     11|  3|   4|  1|  0| 
+|Charlie Blackmon |OF       |     11|  3|   5|  1|  0| 
 |Dylan Carlson    |OF       |     15|  7|   9|  3|  0| 
 |Ronald Acuna Jr. |OF       |     27| 15|  12|  6|  3| 
 |Adam Eaton       |DH       |     16| 11|  10|  3|  1| 

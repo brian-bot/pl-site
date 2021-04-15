@@ -15,7 +15,7 @@
 |Dominic Smith    |OF        |      8|  2|   6|  2|  0| 
 |Mark Canha       |OF        |     20| 13|   4|  2|  1| 
 |Mike Trout       |OF        |     27| 10|   8|  4|  0| 
-|Raimel Tapia     |OF        |     12|  2|   4|  1|  1| 
+|Raimel Tapia     |OF        |     15|  2|   4|  1|  1| 
 |Andres Gimenez   |DH        |      5|  3|   2|  1|  0| 
 |Franmil Reyes    |DH        |     12|  7|   8|  4|  0| 
 |Jake Cronenworth |DH        |     22|  7|   1|  0|  0| 
@@ -31,7 +31,7 @@
 |players         |position    |  g|        ip| er|      era| hitsbb|      whip| so|  w| sv| 
 |:---------------|:-----------|--:|---------:|--:|--------:|------:|---------:|--:|--:|--:| 
 |Clayton Kershaw |SP          |  3| 18.666667|  6| 2.892857|     20| 1.0714286| 16|  2|  0| 
-|Dustin May      |SP          |  1|  6.000000|  0| 0.000000|      4| 0.6666667|  8|  1|  0| 
+|Dustin May      |SP          |  2| 10.333333|  2| 1.741936|     12| 1.1612903| 14|  1|  0| 
 |Lucas Giolito   |SP          |  3| 17.666667|  5| 2.547170|     14| 0.7924528| 26|  1|  0| 
 |Pablo Lopez     |SP          |  3| 15.666667|  8| 4.595745|     19| 1.2127660| 16|  0|  0| 
 |Walker Buehler  |SP          |  2| 12.000000|  2| 1.500000|     10| 0.8333333|  8|  1|  0| 
