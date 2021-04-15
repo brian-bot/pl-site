@@ -20,7 +20,7 @@ kable(tmpDF, row.names = FALSE)
 
 ## Season standings
 
-```{r leagueStats, echo=FALSE, results='asis'}
+```{r seasonStandings, echo=FALSE, results='asis'}
 kable(standings, row.names = FALSE)
 ```
 
