@@ -18,6 +18,12 @@ kable(tmpDF, row.names = FALSE)
 * * *
 * * *
 
+## Season standings
+
+```{r leagueStats, echo=FALSE, results='asis'}
+kable(standings, row.names = FALSE)
+```
+
 ```{r teamStats, include=FALSE, results='hide'}
 for(i in teamNames){
   cat(paste0("## ", i, "\n\n### Batters\n\n"),
