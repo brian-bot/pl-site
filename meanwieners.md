@@ -7,21 +7,21 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Omar Narvaez      |C         |     15|  4|   6|  2|  0| 
 |Rhys Hoskins      |1B        |     13|  8|   5|  2|  0| 
-|Enrique Hernandez |2B        |     12|  5|   4|  1|  0| 
-|Eduardo Escobar   |3B        |     12| 10|   8|  4|  1| 
+|Enrique Hernandez |2B        |     13|  5|   4|  1|  0| 
+|Eduardo Escobar   |3B        |     15| 12|   9|  5|  1| 
 |Gleyber Torres    |SS        |     16|  3|   1|  0|  1| 
 |Paul DeJong       |MI        |     12|  9|   4|  2|  0| 
-|Nate Lowe         |CI        |     15|  6|  15|  4|  1| 
+|Nate Lowe         |CI        |     17|  6|  15|  4|  2| 
 |Aaron Judge       |OF        |     17|  6|   7|  4|  0| 
 |Cody Bellinger    |OF        |      6|  2|   2|  0|  0| 
-|Whit Merrifield   |OF        |     17|  9|  11|  3|  3| 
+|Whit Merrifield   |OF        |     18| 10|  11|  3|  3| 
 |Yordan Alvarez    |OF        |     14|  7|   8|  2|  0| 
-|Hunter Renfroe    |DH        |      6|  6|   3|  1|  0| 
+|Hunter Renfroe    |DH        |      8|  7|   3|  1|  0| 
 |Ian Happ          |DH        |     12|  5|   1|  1|  0| 
 |Tommy Pham        |DH        |     14|  3|   2|  0|  2| 
 |Victor Robles     |DH        |     11|  4|   0|  0|  1| 
-|Mitch Haniger     |BAT BENCH |     16|  8|   7|  2|  0| 
-|Nick Solak        |BAT BENCH |     10|  7|   5|  1|  2| 
+|Mitch Haniger     |BAT BENCH |     19| 10|  10|  4|  0| 
+|Nick Solak        |BAT BENCH |     13|  9|   7|  2|  2| 
 |Tommy Edman       |BAT BENCH |     20|  7|   2|  1|  3| 
 
 

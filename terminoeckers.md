@@ -6,19 +6,19 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Yasmani Grandal   |C         |     13|  5|   6|  1|  0| 
-|Eric Hosmer       |1B        |     21|  5|   9|  3|  1| 
+|Eric Hosmer       |1B        |     23|  6|  11|  3|  1| 
 |Mike Moustakas    |2B        |     18| 10|   5|  2|  0| 
 |Rafael Devers     |3B        |     17|  8|  13|  5|  0| 
 |Corey Seager      |SS        |     25|  9|   8|  1|  0| 
-|Bo Bichette       |MI        |     18| 11|  10|  4|  2| 
+|Bo Bichette       |MI        |     19| 12|  10|  4|  2| 
 |Ke'Bryan Hayes    |CI        |      3|  2|   2|  1|  0| 
 |Byron Buxton      |OF        |     17|  8|   9|  5|  1| 
 |Giancarlo Stanton |OF        |     10|  3|   9|  1|  0| 
 |J.D. Martinez     |OF        |     22| 11|  16|  5|  0| 
 |Michael Conforto  |OF        |      6|  1|   3|  0|  0| 
 |Aaron Hicks       |DH        |     11|  3|   5|  1|  0| 
-|Austin Meadows    |DH        |     18|  6|   3|  3|  0| 
-|C.J. Cron         |DH        |     11|  5|   1|  0|  0| 
+|Austin Meadows    |DH        |     19|  6|   4|  3|  0| 
+|C.J. Cron         |DH        |     12|  6|   2|  0|  0| 
 |Justin Upton      |DH        |     11|  5|   5|  1|  0| 
 |Andrew Vaughn     |BAT BENCH |      8|  3|   1|  0|  0| 
 
@@ -38,12 +38,12 @@
 |Stephen Strasburg |SP          |  2| 10.000000|  7| 6.3000000|     16| 1.6000000| 11|  0|  0| 
 |Greg Holland      |RP          |  4|  4.333333|  2| 4.1538462|     12| 2.7692308|  4|  1|  1| 
 |Jordan Hicks      |RP          |  5|  5.333333|  1| 1.6875000|      7| 1.3125000|  4|  0|  0| 
-|Diego Castillo    |OP          |  5|  5.666667|  1| 1.5882353|      6| 1.0588235|  8|  0|  3| 
+|Diego Castillo    |OP          |  6|  6.666667|  1| 1.3500000|      6| 0.9000000|  9|  0|  3| 
 |Dylan Cease       |OP          |  2|  9.333333|  4| 3.8571429|     15| 1.6071429|  9|  0|  0| 
 |Logan Webb        |OP          |  3| 11.333333|  6| 4.7647059|     20| 1.7647059| 12|  0|  0| 
 |Pete Fairbanks    |OP          |  3|  2.666667|  1| 3.3750000|      5| 1.8750000|  2|  0|  0| 
-|Trevor Rogers     |OP          |  2| 10.000000|  2| 1.8000000|     11| 1.1000000| 16|  1|  0| 
-|Chris Paddack     |PITCH BENCH |  2|  8.000000|  5| 5.6250000|     12| 1.5000000|  6|  0|  0| 
+|Trevor Rogers     |OP          |  3| 15.000000|  4| 2.4000000|     17| 1.1333333| 23|  1|  0| 
+|Chris Paddack     |PITCH BENCH |  3| 13.000000|  6| 4.1538462|     19| 1.4615385| 10|  1|  0| 
 |Jordan Montgomery |PITCH BENCH |  2| 11.000000|  4| 3.2727273|     11| 1.0000000| 11|  1|  0| 
 
 

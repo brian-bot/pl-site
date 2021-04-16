@@ -5,20 +5,20 @@
  
 |players           |position | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:--------|------:|--:|---:|--:|--:| 
-|Sean Murphy       |C        |      6|  0|   2|  0|  0| 
-|Matt Olson        |1B       |     10|  2|   6|  1|  0| 
-|Brandon Lowe      |2B       |     14|  5|   4|  1|  0| 
-|Matt Chapman      |3B       |     13|  4|   6|  2|  0| 
+|Sean Murphy       |C        |      8|  0|   3|  0|  0| 
+|Matt Olson        |1B       |     13|  4|   7|  2|  0| 
+|Brandon Lowe      |2B       |     15|  5|   4|  1|  0| 
+|Matt Chapman      |3B       |     14|  4|   8|  2|  0| 
 |Trevor Story      |SS       |     16|  3|   4|  0|  1| 
-|Jazz Chisholm Jr. |MI       |     14|  4|   5|  2|  3| 
-|Miguel Sano       |CI       |     13|  5|   3|  1|  0| 
-|Joey Gallo        |OF       |     21|  5|   5|  1|  2| 
-|Jorge Soler       |OF       |     10|  3|   4|  1|  0| 
-|Luis Robert       |OF       |     16|  5|   5|  1|  1| 
-|Randy Arozarena   |OF       |     15|  7|   5|  2|  1| 
-|Anthony Santander |DH       |     10|  5|   7|  2|  0| 
-|Evan White        |DH       |      4|  4|   3|  0|  0| 
-|Ramon Laureano    |DH       |     13|  8|   4|  1|  8| 
+|Jazz Chisholm Jr. |MI       |     15|  5|   5|  2|  3| 
+|Miguel Sano       |CI       |     16|  6|   4|  2|  0| 
+|Joey Gallo        |OF       |     24|  6|   5|  1|  2| 
+|Jorge Soler       |OF       |     12|  4|   4|  1|  0| 
+|Luis Robert       |OF       |     19|  6|   5|  1|  1| 
+|Randy Arozarena   |OF       |     16|  7|   5|  2|  1| 
+|Anthony Santander |DH       |     11|  5|   7|  2|  0| 
+|Evan White        |DH       |      6|  4|   3|  0|  0| 
+|Ramon Laureano    |DH       |     14|  9|   5|  1|  8| 
 |Tyler O'Neill     |DH       |      4|  3|   3|  1|  0| 
 
 * * *
@@ -32,7 +32,7 @@
 |Charlie Morton      |SP       |  3| 17.000000|  9|  4.764706|     22| 1.2941176| 21|  1|  0| 
 |Gerrit Cole         |SP       |  3| 18.333333|  3|  1.472727|     15| 0.8181818| 29|  2|  0| 
 |Lance McCullers Jr. |SP       |  3| 13.666667|  8|  5.268293|     17| 1.2439024| 16|  1|  0| 
-|Michael Pineda      |SP       |  2| 11.000000|  2|  1.636364|     10| 0.9090909| 11|  1|  0| 
+|Michael Pineda      |SP       |  3| 18.000000|  2|  1.000000|     13| 0.7222222| 17|  1|  0| 
 |Zach Eflin          |SP       |  2| 13.000000|  5|  3.461539|     13| 1.0000000| 10|  0|  0| 
 |Robbie Ray          |RP       |  1|  5.000000|  2|  3.600000|      6| 1.2000000|  3|  0|  0| 
 |Ryan Pressly        |RP       |  4|  5.000000|  0|  0.000000|      6| 1.2000000|  5|  1|  0| 

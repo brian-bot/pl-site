@@ -8,19 +8,19 @@
 |Salvador Perez      |C         |     16|  8|   8|  3|  0| 
 |Paul Goldschmidt    |1B        |     14|  8|   5|  1|  0| 
 |Ketel Marte         |2B        |     14|  5|   5|  2|  0| 
-|Manny Machado       |3B        |     21|  7|   5|  2|  2| 
-|Trea Turner         |SS        |     11|  5|   5|  2|  1| 
+|Manny Machado       |3B        |     23|  8|   8|  3|  2| 
+|Trea Turner         |SS        |     13|  5|   5|  2|  1| 
 |Jeff McNeil         |MI        |      7|  3|   1|  1|  0| 
 |Alec Bohm           |CI        |     13|  5|   5|  1|  2| 
 |Kyle Tucker         |OF        |     12|  7|  11|  4|  0| 
-|Lourdes Gurriel Jr. |OF        |      7|  3|   1|  0|  0| 
-|Max Kepler          |OF        |     12|  4|   7|  0|  3| 
+|Lourdes Gurriel Jr. |OF        |     10|  4|   1|  0|  0| 
+|Max Kepler          |OF        |     13|  4|   8|  0|  3| 
 |Michael Brantley    |OF        |     12|  6|   4|  2|  0| 
-|Andrew Benintendi   |DH        |     14|  5|   1|  0|  3| 
+|Andrew Benintendi   |DH        |     15|  5|   2|  0|  3| 
 |Bryan Reynolds      |DH        |     18|  6|   4|  1|  0| 
 |Jean Segura         |DH        |     15|  4|   4|  1|  1| 
-|Justin Turner       |DH        |     19|  8|  11|  3|  0| 
-|Chris Taylor        |BAT BENCH |     16|  7|   6|  2|  0| 
+|Justin Turner       |DH        |     23| 10|  14|  4|  0| 
+|Chris Taylor        |BAT BENCH |     18|  9|   6|  2|  0| 
 
 
 * * *
@@ -35,10 +35,10 @@
 |Dallas Keuchel   |SP       |  3| 14.000000| 10| 6.4285714|     20| 1.4285714|  9|  0|  0| 
 |Danny Duffy      |SP       |  2| 12.000000|  1| 0.7500000|     14| 1.1666667| 11|  2|  0| 
 |Triston McKenzie |SP       |  2|  7.666667|  4| 4.6956522|     10| 1.3043478| 11|  0|  0| 
-|Tyler Mahle      |SP       |  3| 14.000000|  3| 1.9285714|     14| 1.0000000| 22|  1|  0| 
+|Tyler Mahle      |SP       |  3| 14.000000|  4| 2.5714286|     14| 1.0000000| 22|  1|  0| 
 |Aroldis Chapman  |RP       |  4|  4.000000|  0| 0.0000000|      3| 0.7500000| 11|  1|  1| 
 |Edwin Diaz       |RP       |  4|  3.666667|  2| 4.9090909|      5| 1.3636364|  4|  1|  0| 
-|Alex Colome      |OP       |  5|  5.333333|  4| 6.7500000|      9| 1.6875000|  5|  0|  2| 
+|Alex Colome      |OP       |  6|  6.333333|  4| 5.6842105|     10| 1.5789474|  7|  1|  2| 
 |Brad Keller      |OP       |  3| 10.333333| 11| 9.5806452|     25| 2.4193548|  8|  1|  0| 
 |Griffin Canning  |OP       |  2| 10.333333|  6| 5.2258065|     12| 1.1612903| 12|  0|  0| 
 |Matthew Boyd     |OP       |  3| 19.333333|  4| 1.8620690|     21| 1.0862069| 14|  2|  0| 
