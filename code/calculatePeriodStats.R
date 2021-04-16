@@ -141,6 +141,3 @@ if(length(finishedPeriods) > 0){
                           t = rep(0, 10), 
                           stringsAsFactors = FALSE)
 }
-
-
-print(leagueStats$period1)
