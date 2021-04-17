@@ -5,18 +5,18 @@
  
 |players               |position | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:--------|------:|--:|---:|--:|--:| 
-|Willson Contreras     |C        |     12|  6|   5|  2|  1| 
-|Freddie Freeman       |1B       |     17|  7|   9|  4|  1| 
+|Willson Contreras     |C        |     14|  7|   6|  3|  1| 
+|Freddie Freeman       |1B       |     20|  8|   9|  4|  1| 
 |Kolten Wong           |2B       |      7|  2|   0|  0|  1| 
-|Jose Ramirez          |3B       |     14|  5|   6|  3|  2| 
-|Fernando Tatis Jr.    |SS       |      6|  4|   1|  1|  0| 
-|Josh Rojas            |MI       |      6|  1|   0|  0|  0| 
-|Eugenio Suarez        |CI       |     16|  8|   4|  2|  0| 
-|Alex Dickerson        |OF       |      7|  4|   4|  2|  0| 
+|Jose Ramirez          |3B       |     16|  5|   7|  3|  2| 
+|Fernando Tatis Jr.    |SS       |      7|  5|   2|  2|  0| 
+|Josh Rojas            |MI       |      7|  1|   0|  0|  0| 
+|Eugenio Suarez        |CI       |     18| 10|   6|  2|  0| 
+|Alex Dickerson        |OF       |      8|  4|   4|  2|  0| 
 |Eddie Rosario         |OF       |     15|  6|   7|  2|  3| 
-|Joc Pederson          |OF       |      8|  2|   4|  1|  0| 
-|Trent Grisham         |OF       |     12|  8|   4|  3|  1| 
-|Anthony Rizzo         |DH       |     13|  3|   2|  1|  2| 
+|Joc Pederson          |OF       |      9|  2|   4|  1|  0| 
+|Trent Grisham         |OF       |     15|  8|   4|  3|  1| 
+|Anthony Rizzo         |DH       |     16|  3|   2|  1|  2| 
 |Austin Hays           |DH       |      2|  1|   2|  0|  0| 
 |Brandon Nimmo         |DH       |     21|  4|   4|  0|  1| 
 |Vladimir Guerrero Jr. |DH       |     28|  7|  10|  3|  1| 
@@ -39,11 +39,11 @@
 |Raisel Iglesias   |RP          |  6|  5.333333|  4| 6.750000|      6| 1.1250000| 11|  1|  2| 
 |Aaron Civale      |OP          |  3| 20.666667|  5| 2.177419|     15| 0.7258065| 16|  3|  0| 
 |Daniel Bard       |OP          |  5|  4.666667|  1| 1.928571|      7| 1.5000000|  7|  0|  2| 
-|Jake Diekman      |OP          |  5|  5.333333|  3| 5.062500|      9| 1.6875000|  5|  0|  0| 
-|Jose Urquidy      |OP          |  2| 10.333333|  6| 5.225807|     13| 1.2580645| 12|  0|  0| 
-|Logan Allen       |OP          |  2| 10.000000|  3| 2.700000|     12| 1.2000000|  8|  1|  0| 
+|Jake Diekman      |OP          |  6|  6.333333|  3| 4.263158|      9| 1.4210526|  8|  0|  0| 
+|Jose Urquidy      |OP          |  3| 16.000000|  8| 4.500000|     20| 1.2500000| 19|  0|  0| 
+|Logan Allen       |OP          |  3| 12.000000|  7| 5.250000|     15| 1.2500000| 10|  1|  0| 
 |Dane Dunning      |PITCH BENCH |  2|  9.000000|  1| 1.000000|      7| 0.7777778| 11|  1|  0| 
-|Sam Howard        |PITCH BENCH |  7|  5.666667|  2| 3.176471|      7| 1.2352941|  8|  1|  0| 
+|Sam Howard        |PITCH BENCH |  8|  6.000000|  2| 3.000000|      7| 1.1666667|  8|  1|  0| 
 
 
 * * *

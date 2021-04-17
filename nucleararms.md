@@ -6,21 +6,21 @@
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Salvador Perez      |C         |     16|  8|   8|  3|  0| 
-|Paul Goldschmidt    |1B        |     14|  8|   5|  1|  0| 
+|Paul Goldschmidt    |1B        |     15|  8|   5|  1|  0| 
 |Ketel Marte         |2B        |     14|  5|   5|  2|  0| 
-|Manny Machado       |3B        |     23|  8|   8|  3|  2| 
-|Trea Turner         |SS        |     13|  5|   5|  2|  1| 
+|Manny Machado       |3B        |     27| 11|   8|  3|  4| 
+|Trea Turner         |SS        |     14|  5|   5|  2|  2| 
 |Jeff McNeil         |MI        |      7|  3|   1|  1|  0| 
-|Alec Bohm           |CI        |     13|  5|   5|  1|  2| 
+|Alec Bohm           |CI        |     14|  6|   5|  1|  2| 
 |Kyle Tucker         |OF        |     12|  7|  11|  4|  0| 
 |Lourdes Gurriel Jr. |OF        |     10|  4|   1|  0|  0| 
-|Max Kepler          |OF        |     13|  4|   8|  0|  3| 
+|Max Kepler          |OF        |     16|  5|   8|  0|  3| 
 |Michael Brantley    |OF        |     12|  6|   4|  2|  0| 
 |Andrew Benintendi   |DH        |     15|  5|   2|  0|  3| 
-|Bryan Reynolds      |DH        |     18|  6|   4|  1|  0| 
-|Jean Segura         |DH        |     15|  4|   4|  1|  1| 
-|Justin Turner       |DH        |     23| 10|  14|  4|  0| 
-|Chris Taylor        |BAT BENCH |     18|  9|   6|  2|  0| 
+|Bryan Reynolds      |DH        |     21|  7|   5|  1|  0| 
+|Jean Segura         |DH        |     18|  6|   5|  1|  1| 
+|Justin Turner       |DH        |     26| 12|  15|  4|  0| 
+|Chris Taylor        |BAT BENCH |     19| 11|   7|  2|  0| 
 
 
 * * *

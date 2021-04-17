@@ -6,22 +6,22 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Gary Sanchez     |C         |     14|  5|   4|  2|  0| 
-|Keston Hiura     |1B        |      7|  4|   4|  1|  1| 
+|Keston Hiura     |1B        |      8|  4|   4|  1|  1| 
 |DJ LeMahieu      |2B        |     20|  6|   3|  1|  0| 
-|Josh Donaldson   |3B        |      3|  1|   0|  0|  0| 
+|Josh Donaldson   |3B        |      5|  1|   1|  0|  0| 
 |Francisco Lindor |SS        |     13|  5|   1|  0|  0| 
-|Jorge Polanco    |MI        |     12|  5|   6|  0|  1| 
-|Gio Urshela      |CI        |     13|  4|   6|  1|  1| 
-|Bryce Harper     |OF        |     18|  7|   4|  2|  0| 
-|Mookie Betts     |OF        |     16|  8|   2|  2|  2| 
-|Nick Castellanos |OF        |     16| 10|   8|  4|  0| 
-|Shohei Ohtani    |OF        |     18| 10|  12|  4|  2| 
+|Jorge Polanco    |MI        |     13|  6|   6|  0|  1| 
+|Gio Urshela      |CI        |     14|  4|   6|  1|  1| 
+|Bryce Harper     |OF        |     20|  8|   6|  2|  0| 
+|Mookie Betts     |OF        |     18| 10|   2|  2|  2| 
+|Nick Castellanos |OF        |     18| 12|  10|  5|  0| 
+|Shohei Ohtani    |OF        |     19| 11|  12|  4|  2| 
 |Alex Verdugo     |DH        |     16| 11|  11|  2|  0| 
-|Austin Riley     |DH        |     10|  4|   0|  0|  0| 
+|Austin Riley     |DH        |     11|  4|   0|  0|  0| 
 |Clint Frazier    |DH        |     10|  3|   0|  0|  0| 
 |Ryan McMahon     |DH        |     16|  9|  10|  6|  1| 
-|Jared Walsh      |BAT BENCH |     16|  8|  10|  3|  0| 
-|Mitch Garver     |BAT BENCH |      7|  3|   4|  2|  0| 
+|Jared Walsh      |BAT BENCH |     18|  9|  13|  4|  0| 
+|Mitch Garver     |BAT BENCH |     10|  4|   6|  2|  0| 
 |Nick Senzel      |BAT BENCH |     13|  9|   2|  0|  1| 
 
 * * *
@@ -31,7 +31,7 @@
  
 |players        |position |  g|        ip| er|        era| hitsbb|      whip| so|  w| sv| 
 |:--------------|:--------|--:|---------:|--:|----------:|------:|---------:|--:|--:|--:| 
-|Frankie Montas |SP       |  2|  8.666667|  8|  8.3076923|     17| 1.9615385|  9|  1|  0| 
+|Frankie Montas |SP       |  3| 14.666667|  8|  4.9090909|     20| 1.3636364| 16|  2|  0| 
 |German Marquez |SP       |  3| 15.666667|  7|  4.0212766|     28| 1.7872340| 14|  0|  0| 
 |Julio Urias    |SP       |  3| 18.666667|  8|  3.8571429|     22| 1.1785714| 15|  2|  0| 
 |Max Fried      |SP       |  3| 11.000000| 14| 11.4545455|     28| 2.5454545| 14|  0|  0| 

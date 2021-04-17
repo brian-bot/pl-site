@@ -5,20 +5,20 @@
  
 |players          |position | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:--------|------:|--:|---:|--:|--:| 
-|Travis d'Arnaud  |C        |     11|  2|   5|  1|  0| 
+|Travis d'Arnaud  |C        |     12|  2|   6|  1|  0| 
 |Jose Abreu       |1B       |     19|  5|   9|  2|  1| 
 |Jose Altuve      |2B       |     19| 11|   5|  1|  0| 
 |Anthony Rendon   |3B       |     14|  5|   3|  1|  0| 
-|Javier Baez      |SS       |     10|  4|   8|  3|  3| 
-|Didi Gregorius   |MI       |     14|  2|   9|  2|  1| 
-|Kris Bryant      |CI       |     14|  7|   6|  3|  0| 
+|Javier Baez      |SS       |     10|  5|   8|  3|  4| 
+|Didi Gregorius   |MI       |     15|  3|   9|  2|  1| 
+|Kris Bryant      |CI       |     15|  7|   6|  3|  0| 
 |Charlie Blackmon |OF       |     11|  3|   5|  1|  0| 
-|Dylan Carlson    |OF       |     15|  7|   9|  3|  0| 
-|Ronald Acuna Jr. |OF       |     29| 17|  14|  7|  3| 
+|Dylan Carlson    |OF       |     16|  8|   9|  3|  0| 
+|Ronald Acuna Jr. |OF       |     31| 18|  16|  7|  3| 
 |Adam Eaton       |DH       |     17| 11|  10|  3|  1| 
 |AJ Pollock       |DH       |     13|  5|   4|  0|  0| 
 |Hunter Dozier    |DH       |      6|  3|   2|  0|  0| 
-|Ty France        |DH       |     19|  9|   5|  2|  0| 
+|Ty France        |DH       |     21| 10|   7|  2|  0| 
 
 * * *
 
