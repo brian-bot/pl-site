@@ -4,7 +4,9 @@ source("code/populateStats.R")
 source("code/calculatePeriodStats.R")
 ```
 
-## Leaderboard: period `r currentPeriod` (current as of `r as.character(lastDate)`)
+## Leaderboard: period `r currentPeriod`
+
+Through games on `r as.character(lastDate)`
 
 ```{r leagueStats, echo=FALSE, results='asis'}
 require(knitr)
