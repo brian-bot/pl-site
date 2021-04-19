@@ -5,22 +5,22 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Yasmani Grandal   |C         |     13|  5|   6|  1|  0| 
-|Eric Hosmer       |1B        |     25|  6|  12|  3|  1| 
+|Yasmani Grandal   |C         |     14|  5|   7|  1|  0| 
+|Eric Hosmer       |1B        |     27|  7|  14|  3|  2| 
 |Mike Moustakas    |2B        |     18| 10|   5|  2|  0| 
-|Rafael Devers     |3B        |     19|  8|  14|  5|  0| 
+|Rafael Devers     |3B        |     20|  8|  14|  5|  0| 
 |Corey Seager      |SS        |     27| 10|  10|  2|  0| 
-|Bo Bichette       |MI        |     19| 12|  10|  4|  2| 
+|Bo Bichette       |MI        |     20| 12|  10|  4|  3| 
 |Ke'Bryan Hayes    |CI        |      3|  2|   2|  1|  0| 
 |Byron Buxton      |OF        |     17|  8|   9|  5|  1| 
-|Giancarlo Stanton |OF        |     11|  4|  11|  2|  0| 
-|J.D. Martinez     |OF        |     24| 12|  17|  5|  0| 
-|Michael Conforto  |OF        |      8|  1|   3|  0|  0| 
+|Giancarlo Stanton |OF        |     13|  5|  12|  3|  0| 
+|J.D. Martinez     |OF        |     26| 13|  18|  5|  0| 
+|Michael Conforto  |OF        |     10|  2|   3|  0|  0| 
 |Aaron Hicks       |DH        |     12|  3|   5|  1|  0| 
 |Austin Meadows    |DH        |     23|  8|   4|  3|  0| 
 |C.J. Cron         |DH        |     15|  7|   3|  0|  0| 
 |Justin Upton      |DH        |     13|  7|   9|  2|  0| 
-|Andrew Vaughn     |BAT BENCH |     10|  4|   1|  0|  0| 
+|Andrew Vaughn     |BAT BENCH |     11|  4|   1|  0|  0| 
 
 
 * * *
@@ -36,9 +36,9 @@
 |Max Scherzer      |SP          |  3| 19.000000|  5| 2.368421|     13| 0.6842105| 24|  0|  0| 
 |Mike Minor        |SP          |  3| 15.666667|  9| 5.170213|     20| 1.2765957| 12|  1|  0| 
 |Stephen Strasburg |SP          |  2| 10.000000|  7| 6.300000|     16| 1.6000000| 11|  0|  0| 
-|Greg Holland      |RP          |  5|  5.333333|  2| 3.375000|     12| 2.2500000|  4|  2|  1| 
+|Greg Holland      |RP          |  6|  6.333333|  2| 2.842105|     12| 1.8947368|  5|  2|  2| 
 |Jordan Hicks      |RP          |  6|  7.000000|  1| 1.285714|      8| 1.1428571|  7|  0|  0| 
-|Diego Castillo    |OP          |  7|  7.666667|  1| 1.173913|      6| 0.7826087| 11|  0|  4| 
+|Diego Castillo    |OP          |  8|  9.000000|  1| 1.000000|      7| 0.7777778| 13|  0|  4| 
 |Dylan Cease       |OP          |  3| 14.000000|  6| 3.857143|     24| 1.7142857| 15|  0|  0| 
 |Logan Webb        |OP          |  3| 11.333333|  6| 4.764706|     20| 1.7647059| 12|  0|  0| 
 |Pete Fairbanks    |OP          |  3|  2.666667|  1| 3.375000|      5| 1.8750000|  2|  0|  0| 
