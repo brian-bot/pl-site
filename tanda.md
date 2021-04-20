@@ -3,23 +3,25 @@
 ### Batters
 
  
-|players           |position | hitsbb|  r| rbi| hr| sb| 
-|:-----------------|:--------|------:|--:|---:|--:|--:| 
-|Sean Murphy       |C        |     11|  1|   5|  1|  0| 
-|Matt Olson        |1B       |     19|  7|   8|  3|  0| 
-|Brandon Lowe      |2B       |     17|  5|   6|  1|  0| 
-|Matt Chapman      |3B       |     17|  6|  10|  3|  0| 
-|Trevor Story      |SS       |     19|  5|   5|  0|  1| 
-|Jazz Chisholm Jr. |MI       |     22|  8|   6|  3|  3| 
-|Miguel Sano       |CI       |     18|  6|   4|  2|  0| 
-|Joey Gallo        |OF       |     27|  7|   5|  1|  2| 
-|Jorge Soler       |OF       |     15|  4|   5|  1|  0| 
-|Luis Robert       |OF       |     24|  6|   6|  1|  2| 
-|Randy Arozarena   |OF       |     19|  8|   6|  2|  1| 
-|Anthony Santander |DH       |     12|  5|   8|  2|  0| 
-|Evan White        |DH       |     11|  5|   5|  1|  0| 
-|Ramon Laureano    |DH       |     16| 10|   6|  1|  8| 
-|Tyler O'Neill     |DH       |      4|  3|   3|  1|  0| 
+|players           |position  | hitsbb|  r| rbi| hr| sb| 
+|:-----------------|:---------|------:|--:|---:|--:|--:| 
+|Sean Murphy       |C         |     11|  1|   5|  1|  0| 
+|Matt Olson        |1B        |     19|  7|   8|  3|  0| 
+|Brandon Lowe      |2B        |     17|  5|   6|  1|  0| 
+|Matt Chapman      |3B        |     17|  6|  10|  3|  0| 
+|Trevor Story      |SS        |     19|  5|   5|  0|  1| 
+|Jazz Chisholm Jr. |MI        |     22|  8|   6|  3|  3| 
+|Miguel Sano       |CI        |     18|  6|   4|  2|  0| 
+|Joey Gallo        |OF        |     27|  7|   5|  1|  2| 
+|Jorge Soler       |OF        |     15|  4|   5|  1|  0| 
+|Luis Robert       |OF        |     24|  6|   6|  1|  2| 
+|Randy Arozarena   |OF        |     19|  8|   6|  2|  1| 
+|Anthony Santander |DH        |     12|  5|   8|  2|  0| 
+|Evan White        |DH        |     11|  5|   5|  1|  0| 
+|Ramon Laureano    |DH        |     16| 10|   6|  1|  8| 
+|Tyler O'Neill     |DH        |      4|  3|   3|  1|  0| 
+|Kyle Schwarber    |BAT BENCH |      9|  3|   2|  1|  0| 
+
 
 * * *
 

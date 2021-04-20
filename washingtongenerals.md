@@ -20,6 +20,7 @@
 |Franmil Reyes    |DH        |     14|  7|   8|  4|  0| 
 |Jake Cronenworth |DH        |     29| 10|   4|  1|  1| 
 |Joey Votto       |DH        |     20|  6|  10|  3|  0| 
+|Josh Bell        |BAT BENCH |      6|  6|   2|  0|  0| 
 |Kole Calhoun     |BAT BENCH |      9|  3|   4|  1|  0| 
 |Tim Locastro     |BAT BENCH |     18|  7|   2|  1|  3| 
 
