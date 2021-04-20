@@ -12,12 +12,12 @@
 |Trevor Story      |SS       |     19|  5|   5|  0|  1| 
 |Jazz Chisholm Jr. |MI       |     22|  8|   6|  3|  3| 
 |Miguel Sano       |CI       |     18|  6|   4|  2|  0| 
-|Joey Gallo        |OF       |     26|  6|   5|  1|  2| 
-|Jorge Soler       |OF       |     15|  4|   4|  1|  0| 
-|Luis Robert       |OF       |     23|  6|   5|  1|  2| 
-|Randy Arozarena   |OF       |     18|  8|   6|  2|  1| 
+|Joey Gallo        |OF       |     27|  7|   5|  1|  2| 
+|Jorge Soler       |OF       |     15|  4|   5|  1|  0| 
+|Luis Robert       |OF       |     24|  6|   6|  1|  2| 
+|Randy Arozarena   |OF       |     19|  8|   6|  2|  1| 
 |Anthony Santander |DH       |     12|  5|   8|  2|  0| 
-|Evan White        |DH       |     10|  5|   5|  1|  0| 
+|Evan White        |DH       |     11|  5|   5|  1|  0| 
 |Ramon Laureano    |DH       |     16| 10|   6|  1|  8| 
 |Tyler O'Neill     |DH       |      4|  3|   3|  1|  0| 
 

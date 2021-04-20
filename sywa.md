@@ -9,10 +9,10 @@
 |Freddie Freeman       |1B       |     27| 10|  10|  5|  1| 
 |Kolten Wong           |2B       |      7|  2|   0|  0|  1| 
 |Jose Ramirez          |3B       |     19|  6|   8|  4|  3| 
-|Fernando Tatis Jr.    |SS       |      8|  6|   2|  2|  0| 
+|Fernando Tatis Jr.    |SS       |      9|  6|   3|  2|  0| 
 |Josh Rojas            |MI       |     11|  4|   1|  1|  0| 
 |Eugenio Suarez        |CI       |     18| 11|   5|  2|  0| 
-|Alex Dickerson        |OF       |      9|  4|   5|  2|  0| 
+|Alex Dickerson        |OF       |     10|  4|   5|  2|  0| 
 |Eddie Rosario         |OF       |     18|  7|   8|  2|  4| 
 |Joc Pederson          |OF       |     14|  5|   4|  1|  0| 
 |Trent Grisham         |OF       |     17|  8|   4|  3|  2| 
@@ -30,7 +30,7 @@
 |players           |position    |  g|        ip| er|      era| hitsbb|      whip| so|  w| sv| 
 |:-----------------|:-----------|--:|---------:|--:|--------:|------:|---------:|--:|--:|--:| 
 |Elieser Hernandez |SP          |  1|  2.333333|  2| 7.714286|      2| 0.8571429|  3|  0|  0| 
-|Jack Flaherty     |SP          |  3| 15.333333|  7| 4.108696|     16| 1.0434783| 16|  2|  0| 
+|Jack Flaherty     |SP          |  4| 21.333333|  9| 3.796875|     24| 1.1250000| 21|  3|  0| 
 |Jameson Taillon   |SP          |  2|  8.333333|  7| 7.560000|     12| 1.4400000| 10|  0|  0| 
 |Jesus Luzardo     |SP          |  3| 13.000000| 12| 8.307692|     26| 2.0000000| 15|  0|  0| 
 |Luis Castillo     |SP          |  3| 15.333333| 12| 7.043478|     22| 1.4347826| 12|  1|  0| 

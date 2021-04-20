@@ -13,12 +13,12 @@
 |Didi Gregorius   |MI       |     18|  3|  10|  2|  1| 
 |Kris Bryant      |CI       |     20| 11|  10|  5|  0| 
 |Charlie Blackmon |OF       |     14|  4|   7|  1|  0| 
-|Dylan Carlson    |OF       |     19|  9|  10|  3|  0| 
+|Dylan Carlson    |OF       |     21| 11|  10|  3|  0| 
 |Ronald Acuna Jr. |OF       |     35| 21|  16|  7|  3| 
-|Adam Eaton       |DH       |     20| 12|  11|  3|  1| 
+|Adam Eaton       |DH       |     22| 12|  14|  3|  1| 
 |AJ Pollock       |DH       |     13|  5|   4|  0|  0| 
 |Hunter Dozier    |DH       |      8|  3|   2|  0|  1| 
-|Ty France        |DH       |     25| 12|  10|  3|  0| 
+|Ty France        |DH       |     26| 13|  10|  3|  0| 
 
 * * *
 
@@ -34,7 +34,7 @@
 |Marco Gonzales  |SP       |  3| 15.3333333| 14| 8.2173913|     27| 1.7608696| 13|  1|  0| 
 |Taijuan Walker  |SP       |  2| 10.3333333|  3| 2.6129032|     12| 1.1612903| 12|  0|  0| 
 |Joakim Soria    |RP       |  1|  0.6666667|  0| 0.0000000|      2| 3.0000000|  0|  0|  0| 
-|Rafael Montero  |RP       |  8|  8.3333333|  3| 3.2400000|      7| 0.8400000|  8|  1|  2| 
+|Rafael Montero  |RP       |  9|  9.3333333|  3| 2.8928571|      8| 0.8571429|  8|  1|  3| 
 |Adam Wainwright |OP       |  3| 12.6666667| 10| 7.1052632|     24| 1.8947368| 14|  0|  0| 
 |Alex Wood       |OP       |  1|  5.0000000|  0| 0.0000000|      3| 0.6000000|  4|  1|  0| 
 |Emmanuel Clase  |OP       |  8|  7.3333333|  0| 0.0000000|      9| 1.2272727| 10|  1|  4| 

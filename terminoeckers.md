@@ -8,18 +8,18 @@
 |Yasmani Grandal   |C         |     14|  5|   7|  1|  0| 
 |Eric Hosmer       |1B        |     27|  7|  14|  3|  2| 
 |Mike Moustakas    |2B        |     18| 10|   5|  2|  0| 
-|Rafael Devers     |3B        |     20|  8|  14|  5|  0| 
-|Corey Seager      |SS        |     27| 10|  10|  2|  0| 
+|Rafael Devers     |3B        |     24| 10|  15|  5|  0| 
+|Corey Seager      |SS        |     29| 11|  12|  3|  0| 
 |Bo Bichette       |MI        |     20| 12|  10|  4|  3| 
 |Ke'Bryan Hayes    |CI        |      3|  2|   2|  1|  0| 
 |Byron Buxton      |OF        |     17|  8|   9|  5|  1| 
 |Giancarlo Stanton |OF        |     13|  5|  12|  3|  0| 
-|J.D. Martinez     |OF        |     26| 13|  18|  5|  0| 
+|J.D. Martinez     |OF        |     29| 15|  20|  6|  0| 
 |Michael Conforto  |OF        |     10|  2|   3|  0|  0| 
 |Aaron Hicks       |DH        |     12|  3|   5|  1|  0| 
 |Austin Meadows    |DH        |     23|  8|   4|  3|  0| 
 |C.J. Cron         |DH        |     15|  7|   3|  0|  0| 
-|Justin Upton      |DH        |     13|  7|   9|  2|  0| 
+|Justin Upton      |DH        |     14|  8|  10|  3|  0| 
 |Andrew Vaughn     |BAT BENCH |     11|  4|   1|  0|  0| 
 
 
@@ -31,7 +31,7 @@
 |players           |position    |  g|        ip| er|      era| hitsbb|      whip| so|  w| sv| 
 |:-----------------|:-----------|--:|---------:|--:|--------:|------:|---------:|--:|--:|--:| 
 |Domingo German    |SP          |  2|  7.000000|  7| 9.000000|     14| 2.0000000|  7|  0|  0| 
-|Dylan Bundy       |SP          |  3| 19.000000|  7| 3.315790|     20| 1.0526316| 22|  0|  0| 
+|Dylan Bundy       |SP          |  4| 24.000000| 12| 4.500000|     29| 1.2083333| 28|  0|  0| 
 |Jacob deGrom      |SP          |  3| 20.000000|  1| 0.450000|     14| 0.7000000| 35|  1|  0| 
 |Max Scherzer      |SP          |  3| 19.000000|  5| 2.368421|     13| 0.6842105| 24|  0|  0| 
 |Mike Minor        |SP          |  3| 15.666667|  9| 5.170213|     20| 1.2765957| 12|  1|  0| 

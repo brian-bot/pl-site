@@ -5,18 +5,18 @@
  
 |players           |position | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:--------|------:|--:|---:|--:|--:| 
-|Christian Vazquez |C        |     16|  9|   5|  2|  2| 
+|Christian Vazquez |C        |     19| 11|   5|  2|  2| 
 |Max Muncy         |1B       |     29| 12|  10|  3|  0| 
 |Gavin Lux         |2B       |     11|  4|   5|  0|  1| 
 |Alex Bregman      |3B       |     13|  4|   6|  2|  0| 
 |Dansby Swanson    |SS       |     18|  3|   4|  1|  0| 
-|Nick Madrigal     |MI       |     17|  9|   3|  0|  1| 
+|Nick Madrigal     |MI       |     18| 10|   3|  0|  1| 
 |Cavan Biggio      |CI       |     13|  5|   2|  2|  0| 
-|Andrew McCutchen  |OF       |     18|  5|   5|  1|  1| 
+|Andrew McCutchen  |OF       |     19|  5|   5|  1|  1| 
 |Christian Yelich  |OF       |     16|  8|   1|  0|  2| 
 |Marcell Ozuna     |OF       |     23|  5|   8|  1|  0| 
-|Wil Myers         |OF       |     25|  9|  11|  3|  1| 
-|Carlos Santana    |DH       |     20|  6|   9|  2|  0| 
+|Wil Myers         |OF       |     26|  9|  11|  3|  1| 
+|Carlos Santana    |DH       |     22|  6|   9|  2|  0| 
 |Dylan Moore       |DH       |     13|  5|   6|  1|  2| 
 |Jesse Winker      |DH       |     16|  8|   5|  1|  0| 
 |Miguel Cabrera    |DH       |      6|  2|   3|  1|  0| 
