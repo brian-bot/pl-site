@@ -5,22 +5,22 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto    |C         |     19|  5|   9|  2|  1| 
-|Trey Mancini     |1B        |     15|  7|  11|  3|  0| 
-|Marcus Semien    |2B        |     18|  7|   7|  4|  2| 
-|Nolan Arenado    |3B        |     22|  9|  10|  4|  0| 
-|Carlos Correa    |SS        |     20|  6|   6|  3|  0| 
+|J.T. Realmuto    |C         |     21|  6|   9|  2|  1| 
+|Trey Mancini     |1B        |     18|  9|  12|  4|  0| 
+|Marcus Semien    |2B        |     19|  7|   7|  4|  3| 
+|Nolan Arenado    |3B        |     23|  9|  10|  4|  0| 
+|Carlos Correa    |SS        |     21|  7|   7|  3|  0| 
 |Willi Castro     |MI        |     16|  4|   3|  0|  0| 
 |Kyle Seager      |CI        |     20|  4|  12|  2|  1| 
-|Dominic Smith    |OF        |     10|  2|   6|  2|  0| 
-|Mark Canha       |OF        |     28| 18|   5|  3|  2| 
-|Mike Trout       |OF        |     30| 12|  10|  4|  0| 
-|Raimel Tapia     |OF        |     17|  3|   5|  2|  1| 
+|Dominic Smith    |OF        |     12|  2|   6|  2|  0| 
+|Mark Canha       |OF        |     29| 19|   5|  3|  3| 
+|Mike Trout       |OF        |     33| 14|  11|  5|  0| 
+|Raimel Tapia     |OF        |     20|  3|   5|  2|  1| 
 |Andres Gimenez   |DH        |     10|  6|   4|  2|  2| 
-|Franmil Reyes    |DH        |     14|  7|   8|  4|  0| 
+|Franmil Reyes    |DH        |     18|  8|   9|  4|  0| 
 |Jake Cronenworth |DH        |     29| 10|   4|  1|  1| 
 |Joey Votto       |DH        |     20|  6|  10|  3|  0| 
-|Josh Bell        |BAT BENCH |      6|  6|   2|  0|  0| 
+|Josh Bell        |BAT BENCH |      7|  7|   3|  1|  0| 
 |Kole Calhoun     |BAT BENCH |      9|  3|   4|  1|  0| 
 |Tim Locastro     |BAT BENCH |     18|  7|   2|  1|  3| 
 
@@ -37,7 +37,7 @@
 |Pablo Lopez     |SP          |  4| 21.666667|  8| 3.323077|     27| 1.2461538| 25|  0|  0| 
 |Sonny Gray      |SP          |  1|  4.333333|  2| 4.153846|      8| 1.8461538|  6|  0|  0| 
 |Walker Buehler  |SP          |  3| 18.000000|  4| 2.000000|     18| 1.0000000| 12|  1|  0| 
-|Jake McGee      |RP          |  9|  8.333333|  2| 2.160000|      8| 0.9600000| 10|  1|  6| 
+|Jake McGee      |RP          | 10|  9.333333|  3| 2.892857|      9| 0.9642857| 11|  1|  6| 
 |Mark Melancon   |RP          |  8|  9.000000|  1| 1.000000|      3| 0.3333333|  7|  0|  6| 
 |Chris Bassitt   |OP          |  4| 22.333333| 11| 4.432836|     30| 1.3432836| 19|  1|  0| 
 |Cristian Javier |OP          |  2|  8.666667|  2| 2.076923|      8| 0.9230769| 11|  1|  0| 
