@@ -15,7 +15,7 @@
 |Bryce Harper     |OF        |     31| 11|   7|  3|  1| 
 |Mookie Betts     |OF        |     22| 11|   2|  2|  2| 
 |Nick Castellanos |OF        |     20| 12|  10|  5|  0| 
-|Shohei Ohtani    |OF        |     NA| NA|  NA| NA| NA| 
+|Shohei Ohtani    |OF        |     19| 11|  12|  4|  2| 
 |Alex Verdugo     |DH        |     23| 14|  13|  3|  0| 
 |Austin Riley     |DH        |     16|  6|   1|  0|  0| 
 |Clint Frazier    |DH        |     10|  3|   0|  0|  0| 
