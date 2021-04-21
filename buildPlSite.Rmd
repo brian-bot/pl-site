@@ -4,7 +4,7 @@ source("code/populateStats.R")
 source("code/calculatePeriodStats.R")
 ```
 
-## Leaderboard: period `r currentPeriod`
+## Period `r currentPeriod` scores
 
 Through games on `r as.character(lastDate)`
 
