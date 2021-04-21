@@ -20,7 +20,7 @@
 |Ian Happ          |DH        |     17|  5|   1|  1|  0| 
 |Tommy Pham        |DH        |     17|  3|   4|  0|  2| 
 |Victor Robles     |DH        |     16|  4|   1|  0|  1| 
-|Mitch Haniger     |BAT BENCH |     25| 13|  14|  4|  0| 
+|Mitch Haniger     |BAT BENCH |     26| 13|  14|  4|  0| 
 |Nick Solak        |BAT BENCH |     21| 11|   8|  3|  2| 
 |Tommy Edman       |BAT BENCH |     26|  8|   4|  2|  3| 
 
@@ -38,7 +38,7 @@
 |Kenta Maeda       |SP          |  3| 14.666667|  5|  3.068182|     25| 1.7045455| 16|  1|  0| 
 |Kevin Gausman     |SP          |  4| 25.666667|  7|  2.454546|     26| 1.0129870| 23|  1|  0| 
 |Shane Bieber      |SP          |  4| 29.333333|  8|  2.454546|     27| 0.9204545| 48|  2|  0| 
-|Kenley Jansen     |RP          |  6|  7.000000|  2|  2.571429|      8| 1.1428571|  8|  0|  3| 
+|Kenley Jansen     |RP          |  7|  8.000000|  2|  2.250000|      8| 1.0000000| 10|  0|  4| 
 |Will Smith        |RP          |  8|  7.000000|  3|  3.857143|      9| 1.2857143| 12|  0|  3| 
 |Carlos Rodon      |OP          |  2| 14.000000|  0|  0.000000|      5| 0.3571429| 16|  2|  0| 
 |Chris Martin      |OP          |  2|  1.666667|  1|  5.400000|      5| 3.0000000|  1|  0|  0| 

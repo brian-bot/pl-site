@@ -17,7 +17,7 @@
 |Marcell Ozuna     |OF        |     23|  5|   8|  1|  0| 
 |Wil Myers         |OF        |     26|  9|  11|  3|  1| 
 |Carlos Santana    |DH        |     22|  6|   9|  2|  0| 
-|Dylan Moore       |DH        |     13|  5|   6|  1|  2| 
+|Dylan Moore       |DH        |     14|  5|   6|  1|  3| 
 |Jesse Winker      |DH        |     16|  8|   5|  1|  0| 
 |Miguel Cabrera    |DH        |      6|  2|   3|  1|  0| 
 |Patrick Corbin    |BAT BENCH |      2|  0|   0|  0|  0| 

@@ -20,7 +20,7 @@
 |Bryan Reynolds      |DH        |     26| 11|   7|  2|  0| 
 |Jean Segura         |DH        |     23|  7|   5|  1|  1| 
 |Justin Turner       |DH        |     31| 14|  16|  5|  0| 
-|Chris Taylor        |BAT BENCH |     21| 12|   9|  3|  1| 
+|Chris Taylor        |BAT BENCH |     22| 12|   9|  3|  2| 
 
 
 * * *

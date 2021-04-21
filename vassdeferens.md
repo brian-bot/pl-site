@@ -5,7 +5,7 @@
  
 |players           |position | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:--------|------:|--:|---:|--:|--:| 
-|Will Smith        |C        |     17|  9|   4|  2|  0| 
+|Will Smith        |C        |     18|  9|   4|  2|  0| 
 |Pete Alonso       |1B       |     14|  5|   7|  2|  0| 
 |Ozzie Albies      |2B       |     14|  7|   8|  2|  0| 
 |Yoan Moncada      |3B       |     18|  6|   7|  1|  0| 

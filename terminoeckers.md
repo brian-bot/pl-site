@@ -9,7 +9,7 @@
 |Eric Hosmer       |1B        |     27|  7|  14|  3|  2| 
 |Mike Moustakas    |2B        |     18| 10|   5|  2|  0| 
 |Rafael Devers     |3B        |     24| 10|  15|  5|  0| 
-|Corey Seager      |SS        |     29| 11|  12|  3|  0| 
+|Corey Seager      |SS        |     30| 11|  13|  3|  0| 
 |Bo Bichette       |MI        |     20| 12|  10|  4|  3| 
 |Ke'Bryan Hayes    |CI        |      3|  2|   2|  1|  0| 
 |Byron Buxton      |OF        |     17|  8|   9|  5|  1| 
