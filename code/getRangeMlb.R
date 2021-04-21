@@ -22,11 +22,11 @@ getRange <- function(startDate, endDate){
   b <- bind_rows(b)
   # b <- do.call(rbind, b)
   bb <- ddply(b, .(fullName, id), summarize,
-              hitsbb = sum(hits) + sum(baseOnBalls),
-              r = sum(runs),
-              rbi = sum(rbi),
-              hr = sum(homeRuns),
-              sb = sum(stolenBases))
+              hitsbb = sum(hits, na.rm = TRUE) + sum(baseOnBalls, na.rm = TRUE),
+              r = sum(runs, na.rm = TRUE),
+              rbi = sum(rbi, na.rm = TRUE),
+              hr = sum(homeRuns, na.rm = TRUE),
+              sb = sum(stolenBases, na.rm = TRUE))
   
   ## PITCHERS
   p <- lapply(as.list(these), function(i){
@@ -53,13 +53,13 @@ getRange <- function(startDate, endDate){
   p$save <- grepl("(S,", p$note, fixed=TRUE)
   pp <- ddply(p, .(fullName, id), summarize,
               # team = team_abbreviation[ length(team_abbreviation) ],
-              g = sum(battersFaced > 0),
-              er = sum(earnedRuns),
-              ip = sum(inningsPitched),
-              hitsbb = sum(hits) + sum(baseOnBalls),
-              so = sum(strikeOuts),
-              w = sum(win),
-              sv = sum(save))
+              g = sum(battersFaced > 0, na.rm = TRUE),
+              er = sum(earnedRuns, na.rm = TRUE),
+              ip = sum(inningsPitched, na.rm = TRUE),
+              hitsbb = sum(hits, na.rm = TRUE) + sum(baseOnBalls, na.rm = TRUE),
+              so = sum(strikeOuts, na.rm = TRUE),
+              w = sum(win, na.rm = TRUE),
+              sv = sum(save, na.rm = TRUE))
   pp$era <- pp$er / pp$ip * 9
   pp$whip <- pp$hitsbb / pp$ip
   
