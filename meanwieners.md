@@ -8,7 +8,7 @@
 |Omar Narvaez      |C         |     23|  7|  10|  3|  0| 
 |Rhys Hoskins      |1B        |     20| 13|   6|  3|  0| 
 |Enrique Hernandez |2B        |     22| 11|   8|  3|  0| 
-|Eduardo Escobar   |3B        |     27| 14|  11|  6|  1| 
+|Eduardo Escobar   |3B        |     24| 14|  11|  6|  1| 
 |Gleyber Torres    |SS        |     20|  4|   1|  0|  1| 
 |Paul DeJong       |MI        |     22| 13|  10|  5|  0| 
 |Nate Lowe         |CI        |     27|  9|  17|  5|  2| 

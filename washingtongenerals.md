@@ -19,9 +19,9 @@
 |Andres Gimenez   |DH        |     10|  6|   4|  2|  2| 
 |Franmil Reyes    |DH        |     18|  8|   9|  4|  0| 
 |Jake Cronenworth |DH        |     30| 10|   4|  1|  1| 
-|Joey Votto       |DH        |     23|  6|  10|  3|  0| 
+|Joey Votto       |DH        |     22|  6|  10|  3|  0| 
 |Josh Bell        |BAT BENCH |      8|  8|   3|  1|  0| 
-|Kole Calhoun     |BAT BENCH |     14|  5|   4|  1|  0| 
+|Kole Calhoun     |BAT BENCH |     12|  4|   4|  1|  0| 
 |Tim Locastro     |BAT BENCH |     18|  7|   2|  1|  3| 
 
 * * *

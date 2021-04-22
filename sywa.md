@@ -11,7 +11,7 @@
 |Jose Ramirez          |3B       |     20|  6|   8|  4|  4| 
 |Fernando Tatis Jr.    |SS       |     12|  6|   3|  2|  1| 
 |Josh Rojas            |MI       |     12|  4|   1|  1|  0| 
-|Eugenio Suarez        |CI       |     21| 12|   5|  2|  0| 
+|Eugenio Suarez        |CI       |     20| 12|   5|  2|  0| 
 |Alex Dickerson        |OF       |     14|  5|   9|  3|  0| 
 |Eddie Rosario         |OF       |     18|  7|   8|  2|  4| 
 |Joc Pederson          |OF       |     14|  5|   4|  1|  0| 
@@ -33,7 +33,7 @@
 |Jack Flaherty     |SP          |  4| 21.333333|  9| 3.796875|     24| 1.1250000| 21|  3|  0| 
 |Jameson Taillon   |SP          |  3| 13.333333|  8| 5.400000|     17| 1.2750000| 15|  0|  0| 
 |Jesus Luzardo     |SP          |  4| 18.333333| 12| 5.890909|     29| 1.5818182| 21|  1|  0| 
-|Luis Castillo     |SP          |  5| 23.333333| 14| 5.400000|     42| 1.8000000| 20|  1|  0| 
+|Luis Castillo     |SP          |  4| 19.333333| 13| 6.051724|     32| 1.6551724| 16|  1|  0| 
 |Zack Wheeler      |SP          |  4| 23.666667| 10| 3.802817|     31| 1.3098592| 26|  1|  0| 
 |Adam Ottavino     |RP          |  7|  5.666667|  4| 6.352941|     11| 1.9411765|  9|  2|  0| 
 |Raisel Iglesias   |RP          |  7|  6.333333|  4| 5.684210|      7| 1.1052632| 11|  1|  2| 

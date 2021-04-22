@@ -18,7 +18,7 @@
 |Wil Myers         |OF        |     26|  9|  11|  3|  1| 
 |Carlos Santana    |DH        |     26|  8|  14|  4|  0| 
 |Dylan Moore       |DH        |     14|  5|   6|  1|  3| 
-|Jesse Winker      |DH        |     23|  9|   6|  1|  0| 
+|Jesse Winker      |DH        |     20|  9|   6|  1|  0| 
 |Miguel Cabrera    |DH        |      6|  2|   3|  1|  0| 
 |Patrick Corbin    |BAT BENCH |      2|  0|   0|  0|  0| 
 
