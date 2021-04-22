@@ -5,23 +5,23 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto    |C         |     21|  6|   9|  2|  1| 
+|J.T. Realmuto    |C         |     22|  6|   9|  2|  1| 
 |Trey Mancini     |1B        |     18|  9|  12|  4|  0| 
-|Marcus Semien    |2B        |     19|  7|   7|  4|  3| 
-|Nolan Arenado    |3B        |     23|  9|  10|  4|  0| 
-|Carlos Correa    |SS        |     21|  7|   7|  3|  0| 
-|Willi Castro     |MI        |     16|  4|   3|  0|  0| 
+|Marcus Semien    |2B        |     22|  8|   7|  4|  4| 
+|Nolan Arenado    |3B        |     25|  9|  10|  4|  0| 
+|Carlos Correa    |SS        |     23|  8|   7|  3|  0| 
+|Willi Castro     |MI        |     18|  4|   4|  0|  0| 
 |Kyle Seager      |CI        |     20|  4|  12|  2|  1| 
 |Dominic Smith    |OF        |     12|  2|   6|  2|  0| 
-|Mark Canha       |OF        |     29| 19|   5|  3|  3| 
-|Mike Trout       |OF        |     33| 14|  11|  5|  0| 
-|Raimel Tapia     |OF        |     20|  3|   5|  2|  1| 
+|Mark Canha       |OF        |     32| 20|   5|  3|  4| 
+|Mike Trout       |OF        |     35| 15|  12|  6|  0| 
+|Raimel Tapia     |OF        |     22|  4|   6|  2|  1| 
 |Andres Gimenez   |DH        |     10|  6|   4|  2|  2| 
 |Franmil Reyes    |DH        |     18|  8|   9|  4|  0| 
-|Jake Cronenworth |DH        |     29| 10|   4|  1|  1| 
-|Joey Votto       |DH        |     20|  6|  10|  3|  0| 
-|Josh Bell        |BAT BENCH |      7|  7|   3|  1|  0| 
-|Kole Calhoun     |BAT BENCH |      9|  3|   4|  1|  0| 
+|Jake Cronenworth |DH        |     30| 10|   4|  1|  1| 
+|Joey Votto       |DH        |     23|  6|  10|  3|  0| 
+|Josh Bell        |BAT BENCH |      8|  8|   3|  1|  0| 
+|Kole Calhoun     |BAT BENCH |     14|  5|   4|  1|  0| 
 |Tim Locastro     |BAT BENCH |     18|  7|   2|  1|  3| 
 
 * * *

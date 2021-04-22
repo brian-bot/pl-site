@@ -9,15 +9,15 @@
 |Jose Abreu       |1B       |     25|  9|  14|  4|  1| 
 |Jose Altuve      |2B       |     19| 11|   5|  1|  0| 
 |Anthony Rendon   |3B       |     14|  5|   3|  1|  0| 
-|Javier Baez      |SS       |     13|  6|  12|  4|  5| 
+|Javier Baez      |SS       |     14|  9|  16|  5|  5| 
 |Didi Gregorius   |MI       |     18|  3|  10|  2|  1| 
-|Kris Bryant      |CI       |     21| 11|  10|  5|  0| 
-|Charlie Blackmon |OF       |     15|  6|   7|  1|  0| 
-|Dylan Carlson    |OF       |     22| 12|  11|  3|  0| 
+|Kris Bryant      |CI       |     24| 14|  10|  5|  0| 
+|Charlie Blackmon |OF       |     17|  6|   7|  1|  0| 
+|Dylan Carlson    |OF       |     23| 12|  11|  3|  0| 
 |Ronald Acuna Jr. |OF       |     35| 21|  16|  7|  3| 
 |Adam Eaton       |DH       |     23| 13|  14|  3|  1| 
 |AJ Pollock       |DH       |     14|  6|   4|  0|  0| 
-|Hunter Dozier    |DH       |      9|  3|   3|  0|  1| 
+|Hunter Dozier    |DH       |     10|  4|   5|  1|  1| 
 |Ty France        |DH       |     26| 13|  10|  3|  0| 
 
 * * *
@@ -28,7 +28,7 @@
 |players         |position    |  g|         ip| er|        era| hitsbb|      whip| so|  w| sv| 
 |:---------------|:-----------|--:|----------:|--:|----------:|------:|---------:|--:|--:|--:| 
 |Aaron Nola      |SP          |  4| 24.6666667|  6|  2.1891892|     24| 0.9729730| 28|  1|  0| 
-|Corey Kluber    |SP          |  3| 10.3333333|  7|  6.0967742|     23| 2.2258065| 12|  0|  0| 
+|Corey Kluber    |SP          |  4| 15.0000000|  9|  5.4000000|     29| 1.9333333| 14|  0|  0| 
 |Kyle Hendricks  |SP          |  3| 13.0000000| 10|  6.9230769|     22| 1.6923077| 12|  0|  0| 
 |Lance Lynn      |SP          |  3| 19.6666667|  2|  0.9152542|     18| 0.9152542| 27|  1|  0| 
 |Marco Gonzales  |SP          |  4| 22.3333333| 15|  6.0447761|     30| 1.3432836| 19|  1|  0| 
