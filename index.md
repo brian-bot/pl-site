@@ -2,21 +2,21 @@
 
 ## Period 1 scores
 
-Through games on 2021-04-20
+Through games on 2021-04-21
 
 
 |team                                              | points|   r| hitsbb| hr| rbi| sb|  w| sv|  so|      era|     whip|
 |:-------------------------------------------------|------:|---:|------:|--:|---:|--:|--:|--:|---:|--------:|--------:|
-|[Washington Generals](./washingtongenerals)       |   76.0| 114|    309| 41| 114| 12| 11| 12| 203| 2.898032| 1.057245|
-|[Vass Deferens](./vassdeferens)                   |   51.0| 104|    259| 24|  87| 13| 13|  5| 207| 3.227787| 1.075929|
-|[Mean Wieners](./meanwieners)                     |   72.5| 112|    272| 34| 101| 12| 12|  8| 223| 2.719780| 0.978022|
-|[Wonderbots](./wonderbots)                        |   52.0| 123|    269| 36| 128| 12|  7|  7| 177| 4.158111| 1.318275|
-|[T and A](./tanda)                                |   49.0|  94|    271| 25|  95| 18| 10|  6| 197| 3.652941| 1.170588|
-|[SYWA](./sywa)                                    |   39.5|  98|    255| 35|  81| 18| 13|  5| 185| 4.552941| 1.264706|
-|[Overwhelming Underdogs](./overwhelmingunderdogs) |   41.5|  98|    266| 21|  87| 11| 16|  5| 221| 4.129934| 1.189145|
-|[Boys of Summer](./boysofsummer)                  |   35.0| 117|    267| 29|  85|  9| 12|  6| 183| 4.562624| 1.300199|
-|[Terminoeckers](./terminoeckers)                  |   57.0| 120|    286| 44| 142|  6|  5|  6| 199| 3.748491| 1.279678|
-|[Nuclear Arms](./nucleararms)                     |   76.5| 120|    291| 33| 112| 17| 16|  6| 226| 3.409556| 1.146758|
+|[Washington Generals](./washingtongenerals)       |   76.5| 119|    330| 42| 117| 14| 11| 12| 203| 2.898032| 1.057245|
+|[Vass Deferens](./vassdeferens)                   |   53.0| 109|    268| 28|  94| 14| 15|  6| 217| 3.083333| 1.078704|
+|[Mean Wieners](./meanwieners)                     |   69.5| 118|    298| 36| 105| 12| 12|  8| 227| 3.015957| 1.005319|
+|[Wonderbots](./wonderbots)                        |   48.0| 130|    277| 38| 134| 12|  7|  7| 179| 4.149701| 1.317365|
+|[T and A](./tanda)                                |   47.0| 104|    288| 29| 106| 19| 10|  6| 209| 3.751371| 1.201097|
+|[SYWA](./sywa)                                    |   37.0| 105|    279| 35|  85| 20| 13|  5| 194| 4.548913| 1.336957|
+|[Overwhelming Underdogs](./overwhelmingunderdogs) |   42.5| 102|    284| 22|  93| 12| 16|  5| 231| 4.127925| 1.198128|
+|[Boys of Summer](./boysofsummer)                  |   44.0| 131|    293| 34|  93| 10| 12|  7| 194| 4.601124| 1.331461|
+|[Terminoeckers](./terminoeckers)                  |   59.0| 127|    303| 46| 148|  6|  7|  6| 216| 3.563197| 1.254647|
+|[Nuclear Arms](./nucleararms)                     |   73.5| 124|    304| 33| 115| 19| 16|  6| 236| 3.314239| 1.134206|
 
 * * *
 * * *
@@ -24,17 +24,17 @@ Through games on 2021-04-20
 ## Season standings
 
 
-|team                   |  w|  l|  t|
-|:----------------------|--:|--:|--:|
-|Washington Generals    |  0|  0|  0|
-|Vass Deferens          |  0|  0|  0|
-|Mean Wieners           |  0|  0|  0|
-|Wonderbots             |  0|  0|  0|
-|T and A                |  0|  0|  0|
-|SYWA                   |  0|  0|  0|
-|Overwhelming Underdogs |  0|  0|  0|
-|Boys of Summer         |  0|  0|  0|
-|Terminoeckers          |  0|  0|  0|
-|Nuclear Arms           |  0|  0|  0|
+|team                   |  w|  l|  t| points|
+|:----------------------|--:|--:|--:|------:|
+|Washington Generals    |  1|  0|  0|   76.5|
+|Nuclear Arms           |  1|  0|  0|   73.5|
+|Mean Wieners           |  1|  0|  0|   69.5|
+|T and A                |  1|  0|  0|   47.0|
+|Boys of Summer         |  1|  0|  0|   44.0|
+|Terminoeckers          |  0|  1|  0|   59.0|
+|Vass Deferens          |  0|  1|  0|   53.0|
+|Wonderbots             |  0|  1|  0|   48.0|
+|Overwhelming Underdogs |  0|  1|  0|   42.5|
+|SYWA                   |  0|  1|  0|   37.0|
 
 
