@@ -12,7 +12,7 @@ Through games on `r as.character(lastDate)`
 require(knitr)
 teamNames <- names(allRosters[[names(currentPeriod)]])
 
-tmpDF <- leagueStats[[ currentPeriod ]]
+tmpDF <- leagueStats[[ currentPeriod ]][ unlist(periods[[currentPeriod]]$matchups), ]
 tmpDF$team <- paste0("[", tmpDF$team, "](./", paste0(gsub(" ", "", tolower(tmpDF$team))), ")")
 kable(tmpDF, row.names = FALSE)
 ```
