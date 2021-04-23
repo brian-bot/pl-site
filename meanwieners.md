@@ -3,49 +3,48 @@
 ### Batters
 
  
-|players           |position  | hitsbb|  r| rbi| hr| sb| 
-|:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Omar Narvaez      |C         |     23|  7|  10|  3|  0| 
-|Rhys Hoskins      |1B        |     20| 13|   6|  3|  0| 
-|Enrique Hernandez |2B        |     22| 11|   8|  3|  0| 
-|Eduardo Escobar   |3B        |     24| 14|  11|  6|  1| 
-|Gleyber Torres    |SS        |     20|  4|   1|  0|  1| 
-|Paul DeJong       |MI        |     22| 13|  10|  5|  0| 
-|Nate Lowe         |CI        |     27|  9|  17|  5|  2| 
-|Aaron Judge       |OF        |     23|  6|   8|  4|  0| 
-|Cody Bellinger    |OF        |      6|  2|   2|  0|  0| 
-|Whit Merrifield   |OF        |     24| 12|  12|  3|  5| 
-|Yordan Alvarez    |OF        |     14|  7|   8|  2|  0| 
-|Hunter Renfroe    |DH        |     10|  7|   6|  1|  0| 
-|Ian Happ          |DH        |     22|  6|   1|  1|  0| 
-|Tommy Pham        |DH        |     20|  3|   4|  0|  2| 
-|Victor Robles     |DH        |     18|  4|   1|  0|  1| 
-|Mitch Haniger     |BAT BENCH |     26| 13|  14|  4|  0| 
-|Nick Solak        |BAT BENCH |     25| 13|   9|  4|  2| 
-|Tommy Edman       |BAT BENCH |     27|  8|   4|  2|  3| 
-
+|players         |position  | hitsbb|  r| rbi| hr| sb| 
+|:---------------|:---------|------:|--:|---:|--:|--:| 
+|Omar Narvaez    |C         |     NA| NA|  NA| NA| NA| 
+|Rhys Hoskins    |1B        |     NA| NA|  NA| NA| NA| 
+|Jed Lowrie      |2B        |     NA| NA|  NA| NA| NA| 
+|Eduardo Escobar |3B        |      2|  0|   1|  0|  0| 
+|Gleyber Torres  |SS        |      3|  1|   1|  0|  0| 
+|Paul DeJong     |MI        |     NA| NA|  NA| NA| NA| 
+|Nate Lowe       |CI        |     NA| NA|  NA| NA| NA| 
+|Aaron Judge     |OF        |      3|  1|   0|  0|  0| 
+|Mitch Haniger   |OF        |      3|  2|   3|  1|  0| 
+|Whit Merrifield |OF        |     NA| NA|  NA| NA| NA| 
+|Yordan Alvarez  |OF        |      2|  0|   0|  0|  0| 
+|Colin Moran     |DH        |      1|  0|   1|  0|  0| 
+|Ian Happ        |DH        |      0|  0|   0|  0|  0| 
+|Tommy Pham      |DH        |     NA| NA|  NA| NA| NA| 
+|Yuli Gurriel    |DH        |      2|  0|   1|  0|  0| 
+|Cody Bellinger  |BAT BENCH |     NA| NA|  NA| NA| NA| 
+|Garrett Hampson |BAT BENCH |     NA| NA|  NA| NA| NA| 
+|Victor Robles   |BAT BENCH |     NA| NA|  NA| NA| NA| 
 
 * * *
 
 ### Pitchers
 
  
-|players           |position    |  g|        ip| er|        era| hitsbb|      whip| so|  w| sv| 
-|:-----------------|:-----------|--:|---------:|--:|----------:|------:|---------:|--:|--:|--:| 
-|Brandon Woodruff  |SP          |  4| 23.000000|  5|  1.9565217|     17| 0.7391304| 26|  1|  0| 
-|James Paxton      |SP          |  1|  1.333333|  1|  6.7500000|      1| 0.7500000|  2|  0|  0| 
-|Joe Musgrove      |SP          |  4| 26.000000|  3|  1.0384615|     14| 0.5384615| 37|  2|  0| 
-|Kenta Maeda       |SP          |  4| 17.666667| 12|  6.1132075|     33| 1.8679245| 17|  1|  0| 
-|Kevin Gausman     |SP          |  4| 25.666667|  7|  2.4545455|     26| 1.0129870| 23|  1|  0| 
-|Shane Bieber      |SP          |  4| 29.333333|  8|  2.4545455|     27| 0.9204545| 48|  2|  0| 
-|Kenley Jansen     |RP          |  7|  8.000000|  2|  2.2500000|      8| 1.0000000| 10|  0|  4| 
-|Will Smith        |RP          |  9|  8.000000|  4|  4.5000000|     11| 1.3750000| 13|  0|  3| 
-|Carlos Rodon      |OP          |  3| 19.000000|  1|  0.4736842|     13| 0.6842105| 24|  3|  0| 
-|Chris Martin      |OP          |  2|  1.666667|  1|  5.4000000|      5| 3.0000000|  1|  0|  0| 
-|Drew Smyly        |OP          |  2| 11.000000|  7|  5.7272727|     10| 0.9090909| 11|  0|  0| 
-|Emilio Pagan      |OP          |  9|  8.000000|  1|  1.1250000|      8| 1.0000000| 10|  2|  0| 
-|Randy Dobnak      |OP          |  5|  9.333333| 11| 10.6071429|     16| 1.7142857|  5|  0|  1| 
-|Richard Rodriguez |PITCH BENCH |  7|  7.333333|  0|  0.0000000|      2| 0.2727273|  7|  1|  2| 
+|players           |position    |  g|        ip| er|  era| hitsbb|  whip| so|  w| sv| 
+|:-----------------|:-----------|--:|---------:|--:|----:|------:|-----:|--:|--:|--:| 
+|Brandon Woodruff  |SP          | NA|        NA| NA|   NA|     NA|    NA| NA| NA| NA| 
+|Carlos Rodon      |SP          | NA|        NA| NA|   NA|     NA|    NA| NA| NA| NA| 
+|Joe Musgrove      |SP          | NA|        NA| NA|   NA|     NA|    NA| NA| NA| NA| 
+|Kenta Maeda       |SP          | NA|        NA| NA|   NA|     NA|    NA| NA| NA| NA| 
+|Kevin Gausman     |SP          | NA|        NA| NA|   NA|     NA|    NA| NA| NA| NA| 
+|Shane Bieber      |SP          | NA|        NA| NA|   NA|     NA|    NA| NA| NA| NA| 
+|Kenley Jansen     |RP          | NA|        NA| NA|   NA|     NA|    NA| NA| NA| NA| 
+|Will Smith        |RP          | NA|        NA| NA|   NA|     NA|    NA| NA| NA| NA| 
+|Alex Cobb         |OP          |  1| 2.6666667|  4| 13.5|      9| 3.375|  4|  0|  0| 
+|Garrett Whitlock  |OP          | NA|        NA| NA|   NA|     NA|    NA| NA| NA| NA| 
+|Jonathan Loaisiga |OP          |  1| 1.0000000|  0|  0.0|      1| 1.000|  1|  0|  0| 
+|Richard Rodriguez |OP          |  1| 1.0000000|  0|  0.0|      0| 0.000|  1|  0|  1| 
+|Ryne Stanek       |OP          | NA|        NA| NA|   NA|     NA|    NA| NA| NA| NA| 
+|Emilio Pagan      |PITCH BENCH |  1| 0.3333333|  2| 54.0|      3| 9.000|  0|  0|  0| 
 
 
 * * *
