@@ -19,7 +19,7 @@
 |Akil Baddoo       |DH        |      2|  0|   1|  0|  0| 
 |Bobby Dalbec      |DH        |     NA| NA|  NA| NA| NA| 
 |Christian Arroyo  |DH        |     NA| NA|  NA| NA| NA| 
-|Myles Straw       |DH        |      1|  1|   2|  0|  0| 
+|Myles Straw       |DH        |      1|  1|   2|  0|  1| 
 |Starling Marte    |BAT BENCH |     NA| NA|  NA| NA| NA| 
 |Teoscar Hernandez |BAT BENCH |     NA| NA|  NA| NA| NA| 
 
