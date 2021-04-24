@@ -10,11 +10,12 @@ Through games on `r as.character(lastDate)`
 
 ```{r leagueStats, echo=FALSE, results='asis'}
 require(knitr)
+options(knitr.kable.NA = "**")
 teamNames <- names(allRosters[[names(currentPeriod)]])
 
 tmpDF <- leagueStats[[ currentPeriod ]][ unlist(periods[[currentPeriod]]$matchups), ]
 tmpDF$team <- paste0("[", tmpDF$team, "](./", paste0(gsub(" ", "", tolower(tmpDF$team))), ")")
-kable(tmpDF, row.names = FALSE)
+kable(tmpDF, row.names = FALSE, digits=3)
 ```
 
 * * *
@@ -29,9 +30,9 @@ kable(standings, row.names = FALSE)
 ```{r teamStats, include=FALSE, results='hide'}
 for(i in teamNames){
   cat(paste0("## ", i, "\n\n### Batters\n\n"),
-      kable(allRosters[[names(currentPeriod)]][[i]]$battingStats, row.names = FALSE),
+      kable(allRosters[[names(currentPeriod)]][[i]]$battingStats, row.names = FALSE, digits=3),
       "\n\n* * *\n\n### Pitchers\n\n",
-      kable(allRosters[[names(currentPeriod)]][[i]]$pitchingStats, row.names = FALSE),
+      kable(allRosters[[names(currentPeriod)]][[i]]$pitchingStats, row.names = FALSE, digits=3),
       "\n\n* * *\n\n",
       fill=TRUE,
       file=paste0(gsub(" ", "", tolower(i)), ".md"))
