@@ -28,23 +28,23 @@
 ### Pitchers
 
  
-|players        |position    |  g|        ip| er| era| hitsbb|      whip| so|  w| sv| 
-|:--------------|:-----------|--:|---------:|--:|---:|------:|---------:|--:|--:|--:| 
-|Frankie Montas |SP          | NA|        NA| NA|  NA|     NA|        NA| NA| NA| NA| 
-|German Marquez |SP          |  1| 6.0000000|  2| 3.0|      9| 1.5000000|  8|  0|  0| 
-|Julio Urias    |SP          | NA|        NA| NA|  NA|     NA|        NA| NA| NA| NA| 
-|Max Fried      |SP          | NA|        NA| NA|  NA|     NA|        NA| NA| NA| NA| 
-|Tyler Glasnow  |SP          |  1| 6.0000000|  5| 7.5|      7| 1.1666667| 10|  0|  0| 
-|Zach Plesac    |SP          | NA|        NA| NA|  NA|     NA|        NA| NA| NA| NA| 
-|Josh Hader     |RP          | NA|        NA| NA|  NA|     NA|        NA| NA| NA| NA| 
-|Liam Hendriks  |RP          |  1| 1.6666667|  1| 5.4|      1| 0.6000000|  5|  0|  1| 
-|Drew Pomeranz  |OP          |  1| 1.0000000|  0| 0.0|      0| 0.0000000|  1|  0|  0| 
-|Luke Weaver    |OP          |  1| 5.0000000|  4| 7.2|     10| 2.0000000|  5|  0|  0| 
-|Mitch Keller   |OP          |  1| 5.0000000|  2| 3.6|      5| 1.0000000|  5|  0|  0| 
-|Nick Pivetta   |OP          |  1| 6.0000000|  2| 3.0|      4| 0.6666667|  4|  0|  0| 
-|Taylor Rogers  |OP          |  1| 0.6666667|  0| 0.0|      0| 0.0000000|  1|  0|  1| 
-|Dinelson Lamet |PITCH BENCH | NA|        NA| NA|  NA|     NA|        NA| NA| NA| NA| 
-|Tarik Skubal   |PITCH BENCH | NA|        NA| NA|  NA|     NA|        NA| NA| NA| NA| 
+|players        |position    |  g|    ip| er| era| hitsbb|  whip| so|  w| sv| 
+|:--------------|:-----------|--:|-----:|--:|---:|------:|-----:|--:|--:|--:| 
+|Frankie Montas |SP          | **|    **| **|  **|     **|    **| **| **| **| 
+|German Marquez |SP          |  1| 6.000|  2| 3.0|      9| 1.500|  8|  0|  0| 
+|Julio Urias    |SP          | **|    **| **|  **|     **|    **| **| **| **| 
+|Max Fried      |SP          | **|    **| **|  **|     **|    **| **| **| **| 
+|Tyler Glasnow  |SP          |  1| 6.000|  5| 7.5|      7| 1.167| 10|  0|  0| 
+|Zach Plesac    |SP          | **|    **| **|  **|     **|    **| **| **| **| 
+|Josh Hader     |RP          | **|    **| **|  **|     **|    **| **| **| **| 
+|Liam Hendriks  |RP          |  1| 1.667|  1| 5.4|      1| 0.600|  5|  0|  1| 
+|Drew Pomeranz  |OP          |  1| 1.000|  0| 0.0|      0| 0.000|  1|  0|  0| 
+|Luke Weaver    |OP          |  1| 5.000|  4| 7.2|     10| 2.000|  5|  0|  0| 
+|Mitch Keller   |OP          |  1| 5.000|  2| 3.6|      5| 1.000|  5|  0|  0| 
+|Nick Pivetta   |OP          |  1| 6.000|  2| 3.0|      4| 0.667|  4|  0|  0| 
+|Taylor Rogers  |OP          |  1| 0.667|  0| 0.0|      0| 0.000|  1|  0|  1| 
+|Dinelson Lamet |PITCH BENCH | **|    **| **|  **|     **|    **| **| **| **| 
+|Tarik Skubal   |PITCH BENCH | **|    **| **|  **|     **|    **| **| **| **| 
 
 
 * * *
