@@ -7,20 +7,20 @@
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
 |Willson Contreras     |C         |      3|  2|   4|  1|  0| 
 |Freddie Freeman       |1B        |      0|  0|   0|  0|  0| 
-|Starlin Castro        |2B        |      1|  0|   0|  0|  0| 
-|Jose Ramirez          |3B        |      5|  2|   0|  0|  0| 
-|Fernando Tatis Jr.    |SS        |      4|  3|   3|  2|  1| 
+|Starlin Castro        |2B        |      4|  1|   1|  0|  0| 
+|Jose Ramirez          |3B        |      6|  3|   0|  0|  0| 
+|Fernando Tatis Jr.    |SS        |      6|  5|   5|  4|  1| 
 |Eugenio Suarez        |MI        |      1|  1|   2|  1|  0| 
 |Vladimir Guerrero Jr. |CI        |      2|  1|   0|  0|  0| 
-|Brandon Nimmo         |OF        |      3|  2|   4|  1|  0| 
-|Eddie Rosario         |OF        |      1|  1|   2|  0|  0| 
+|Brandon Nimmo         |OF        |      5|  2|   4|  1|  0| 
+|Eddie Rosario         |OF        |      2|  1|   3|  0|  1| 
 |Kyle Lewis            |OF        |      2|  0|   0|  0|  0| 
 |Trent Grisham         |OF        |      4|  1|   1|  1|  1| 
-|Anthony Rizzo         |DH        |      2|  2|   2|  1|  0| 
-|Austin Hays           |DH        |      0|  0|   0|  0|  0| 
+|Anthony Rizzo         |DH        |      3|  2|   2|  1|  1| 
+|Austin Hays           |DH        |      2|  1|   0|  0|  0| 
 |Joc Pederson          |DH        |     **| **|  **| **| **| 
-|Yermin Mercedes       |DH        |      4|  1|   3|  0|  0| 
-|Kolten Wong           |BAT BENCH |      3|  1|   1|  1|  1| 
+|Yermin Mercedes       |DH        |      6|  1|   3|  0|  0| 
+|Kolten Wong           |BAT BENCH |      6|  2|   1|  1|  1| 
 
 
 * * *

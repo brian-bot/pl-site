@@ -6,17 +6,17 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Yasmani Grandal   |C         |      1|  0|   0|  0|  0| 
-|Eric Hosmer       |1B        |      2|  0|   0|  0|  0| 
-|Nick Solak        |2B        |      1|  1|   2|  1|  0| 
-|Rafael Devers     |3B        |      2|  2|   1|  1|  1| 
-|Corey Seager      |SS        |      0|  0|   0|  0|  0| 
-|Bo Bichette       |MI        |      0|  0|   0|  0|  0| 
+|Eric Hosmer       |1B        |      4|  0|   0|  0|  0| 
+|Nick Solak        |2B        |      3|  1|   2|  1|  0| 
+|Rafael Devers     |3B        |      4|  3|   2|  1|  1| 
+|Corey Seager      |SS        |      2|  0|   2|  0|  0| 
+|Bo Bichette       |MI        |      1|  0|   0|  0|  0| 
 |Mike Moustakas    |CI        |     **| **|  **| **| **| 
 |Byron Buxton      |OF        |      1|  0|   0|  0|  0| 
-|Giancarlo Stanton |OF        |      2|  2|   2|  2|  0| 
-|J.D. Martinez     |OF        |      4|  1|   1|  1|  0| 
-|Michael Conforto  |OF        |      4|  0|   0|  0|  0| 
-|Aaron Hicks       |DH        |      3|  1|   1|  1|  0| 
+|Giancarlo Stanton |OF        |      3|  2|   2|  2|  0| 
+|J.D. Martinez     |OF        |      5|  1|   1|  1|  0| 
+|Michael Conforto  |OF        |      5|  1|   1|  1|  0| 
+|Aaron Hicks       |DH        |      4|  2|   2|  2|  0| 
 |Austin Meadows    |DH        |      1|  0|   0|  0|  0| 
 |Avisail Garcia    |DH        |      0|  0|   0|  0|  0| 
 |Jordan Luplow     |DH        |      2|  0|   0|  0|  0| 
