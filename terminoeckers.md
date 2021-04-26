@@ -6,20 +6,20 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Yasmani Grandal   |C         |      1|  0|   0|  0|  0| 
-|Eric Hosmer       |1B        |      4|  0|   0|  0|  0| 
-|Nick Solak        |2B        |      3|  1|   2|  1|  0| 
-|Rafael Devers     |3B        |      4|  3|   2|  1|  1| 
-|Corey Seager      |SS        |      2|  0|   2|  0|  0| 
+|Eric Hosmer       |1B        |      7|  1|   2|  0|  0| 
+|Nick Solak        |2B        |      5|  1|   3|  1|  0| 
+|Rafael Devers     |3B        |      6|  4|   2|  1|  1| 
+|Corey Seager      |SS        |      4|  2|   2|  0|  0| 
 |Bo Bichette       |MI        |      1|  0|   0|  0|  0| 
 |Mike Moustakas    |CI        |     **| **|  **| **| **| 
-|Byron Buxton      |OF        |      1|  0|   0|  0|  0| 
-|Giancarlo Stanton |OF        |      3|  2|   2|  2|  0| 
-|J.D. Martinez     |OF        |      5|  1|   1|  1|  0| 
-|Michael Conforto  |OF        |      5|  1|   1|  1|  0| 
+|Byron Buxton      |OF        |      2|  0|   1|  0|  0| 
+|Giancarlo Stanton |OF        |      4|  2|   2|  2|  0| 
+|J.D. Martinez     |OF        |      8|  2|   1|  1|  0| 
+|Michael Conforto  |OF        |      6|  1|   1|  1|  0| 
 |Aaron Hicks       |DH        |      4|  2|   2|  2|  0| 
 |Austin Meadows    |DH        |      1|  0|   0|  0|  0| 
-|Avisail Garcia    |DH        |      0|  0|   0|  0|  0| 
-|Jordan Luplow     |DH        |      2|  0|   0|  0|  0| 
+|Avisail Garcia    |DH        |      1|  0|   0|  0|  1| 
+|Jordan Luplow     |DH        |      3|  1|   1|  0|  0| 
 |Ke'Bryan Hayes    |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -30,13 +30,13 @@
  
 |players           |position    |  g|    ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|-----:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Dylan Bundy       |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Dylan Bundy       |SP          |  1| 6.000|  2| 3.000|      4| 0.667|  6|  0|  0| 
 |Jacob deGrom      |SP          |  1| 9.000|  0| 0.000|      2| 0.222| 15|  1|  0| 
 |Jordan Montgomery |SP          |  1| 4.667|  3| 5.786|      7| 1.500|  5|  0|  0| 
 |Max Scherzer      |SP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Mike Minor        |SP          |  1| 5.667|  2| 3.176|      6| 1.059|  9|  1|  0| 
 |Trevor Rogers     |SP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Alex Reyes        |RP          |  1| 0.667|  0| 0.000|      2| 3.000|  2|  0|  1| 
+|Alex Reyes        |RP          |  2| 1.667|  0| 0.000|      5| 3.000|  3|  0|  2| 
 |Diego Castillo    |RP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Chris Paddack     |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Corey Knebel      |OP          |  1| 0.000|  1|   Inf|      1|   Inf|  0|  0|  0| 
