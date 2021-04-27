@@ -5,22 +5,22 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto    |C         |      6|  2|   0|  0|  1| 
-|Trey Mancini     |1B        |      5|  1|   3|  0|  0| 
+|J.T. Realmuto    |C         |      9|  2|   0|  0|  1| 
+|Trey Mancini     |1B        |      6|  1|   3|  0|  0| 
 |Marcus Semien    |2B        |      5|  2|   3|  1|  1| 
-|Nolan Arenado    |3B        |      2|  1|   2|  0|  0| 
-|Carlos Correa    |SS        |      5|  5|   4|  1|  0| 
+|Nolan Arenado    |3B        |      3|  1|   2|  0|  0| 
+|Carlos Correa    |SS        |      6|  6|   4|  1|  0| 
 |Jake Cronenworth |MI        |      5|  3|   0|  0|  2| 
 |Joey Votto       |CI        |      4|  2|   1|  1|  0| 
 |Dominic Smith    |OF        |      3|  1|   1|  0|  0| 
 |Mark Canha       |OF        |      2|  3|   2|  0|  0| 
-|Mike Trout       |OF        |      1|  0|   0|  0|  0| 
-|Raimel Tapia     |OF        |      7|  4|   4|  1|  0| 
+|Mike Trout       |OF        |      5|  0|   2|  0|  0| 
+|Raimel Tapia     |OF        |      8|  4|   4|  1|  0| 
 |C.J. Cron        |DH        |      8|  3|   3|  2|  0| 
-|Franmil Reyes    |DH        |      5|  3|   5|  1|  1| 
+|Franmil Reyes    |DH        |      6|  3|   6|  1|  1| 
 |Josh Bell        |DH        |      1|  2|   0|  0|  0| 
-|Manuel Margot    |DH        |      2|  1|   0|  0|  0| 
-|Andres Gimenez   |BAT BENCH |      1|  0|   0|  0|  1| 
+|Manuel Margot    |DH        |      3|  1|   0|  0|  0| 
+|Andres Gimenez   |BAT BENCH |      2|  0|   0|  0|  1| 
 |Kole Calhoun     |BAT BENCH |      4|  2|   1|  1|  0| 
 |Tim Locastro     |BAT BENCH |     **| **|  **| **| **| 
 
