@@ -6,21 +6,21 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Christian Vazquez |C         |      3|  1|   1|  0|  0| 
-|Max Muncy         |1B        |     11|  2|   1|  0|  0| 
+|Max Muncy         |1B        |     13|  3|   1|  0|  0| 
 |Gavin Lux         |2B        |      1|  0|   1|  0|  0| 
-|Alex Bregman      |3B        |      8|  5|   6|  1|  0| 
-|Dansby Swanson    |SS        |      3|  1|   2|  1|  0| 
+|Alex Bregman      |3B        |      9|  6|   6|  1|  0| 
+|Dansby Swanson    |SS        |      6|  2|   3|  1|  1| 
 |Nick Madrigal     |MI        |      5|  3|   4|  0|  0| 
-|Cavan Biggio      |CI        |      5|  1|   0|  0|  0| 
+|Cavan Biggio      |CI        |      8|  2|   1|  0|  0| 
 |Andrew McCutchen  |OF        |      3|  1|   1|  0|  0| 
 |Christian Yelich  |OF        |     **| **|  **| **| **| 
-|Marcell Ozuna     |OF        |      3|  2|   0|  0|  0| 
-|Wil Myers         |OF        |      3|  3|   1|  1|  3| 
-|Carlos Santana    |DH        |      6|  2|   4|  1|  1| 
+|Marcell Ozuna     |OF        |      4|  2|   0|  0|  0| 
+|Wil Myers         |OF        |      4|  3|   1|  1|  3| 
+|Carlos Santana    |DH        |      8|  2|   5|  1|  1| 
 |Dylan Moore       |DH        |      3|  1|   0|  0|  1| 
-|Jesse Winker      |DH        |     12|  5|   7|  4|  0| 
-|Jurickson Profar  |DH        |      2|  1|   2|  0|  1| 
-|Miguel Cabrera    |BAT BENCH |      3|  0|   1|  0|  0| 
+|Jesse Winker      |DH        |     15|  7|   9|  5|  0| 
+|Jurickson Profar  |DH        |      3|  1|   2|  0|  1| 
+|Miguel Cabrera    |BAT BENCH |      5|  1|   2|  1|  0| 
 
 
 * * *
@@ -36,11 +36,11 @@
 |Patrick Corbin     |SP          |  1| 4.000|  4|  9.000|     10| 2.500|  3|  0|  0| 
 |Trevor Bauer       |SP          |  1| 6.000|  2|  3.000|      5| 0.833|  9|  1|  0| 
 |Zack Greinke       |SP          |  1| 7.000|  2|  2.571|     10| 1.429|  6|  0|  0| 
-|James Karinchak    |RP          |  3| 2.333|  0|  0.000|      0| 0.000|  7|  0|  0| 
+|James Karinchak    |RP          |  4| 3.667|  0|  0.000|      0| 0.000|  9|  0|  1| 
 |Jordan Hicks       |RP          |  2| 1.333|  4| 27.000|      5| 3.750|  1|  0|  0| 
 |Anthony DeSclafani |OP          |  1| 9.000|  0|  0.000|      4| 0.444|  9|  1|  0| 
 |Craig Kimbrel      |OP          |  1| 1.000|  0|  0.000|      0| 0.000|  1|  0|  0| 
-|Devin Williams     |OP          |  2| 2.000|  1|  4.500|      1| 0.500|  3|  0|  0| 
+|Devin Williams     |OP          |  3| 3.000|  1|  3.000|      2| 0.667|  5|  0|  0| 
 |Freddy Peralta     |OP          |  1| 4.000|  2|  4.500|      6| 1.500|  7|  0|  0| 
 |Jake Arrieta       |OP          |  1| 6.000|  1|  1.500|      5| 0.833|  8|  0|  0| 
 |Johnny Cueto       |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
