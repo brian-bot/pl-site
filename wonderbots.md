@@ -5,20 +5,20 @@
  
 |players          |position | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:--------|------:|--:|---:|--:|--:| 
-|Travis d'Arnaud  |C        |      3|  1|   2|  0|  0| 
-|Jose Abreu       |1B       |      4|  2|   3|  1|  0| 
+|Travis d'Arnaud  |C        |      4|  1|   2|  0|  0| 
+|Jose Abreu       |1B       |      7|  2|   5|  1|  0| 
 |Jose Altuve      |2B       |      4|  1|   3|  0|  1| 
 |Anthony Rendon   |3B       |      2|  1|   2|  0|  0| 
-|Javier Baez      |SS       |      5|  3|   1|  1|  0| 
+|Javier Baez      |SS       |      6|  4|   2|  1|  0| 
 |Didi Gregorius   |MI       |      3|  1|   4|  0|  0| 
-|Kris Bryant      |CI       |     10|  2|   6|  1|  0| 
-|Charlie Blackmon |OF       |      6|  0|   3|  0|  0| 
+|Kris Bryant      |CI       |     13|  3|   7|  1|  0| 
+|Charlie Blackmon |OF       |      8|  0|   4|  0|  0| 
 |Dylan Carlson    |OF       |     11|  4|   2|  0|  0| 
-|Ronald Acuna Jr. |OF       |      7|  3|   1|  1|  0| 
+|Ronald Acuna Jr. |OF       |      8|  3|   2|  1|  0| 
 |Adam Eaton       |DH       |      4|  3|   4|  0|  0| 
-|AJ Pollock       |DH       |      8|  3|   2|  1|  2| 
+|AJ Pollock       |DH       |      9|  3|   2|  1|  2| 
 |Hunter Dozier    |DH       |      4|  1|   3|  1|  0| 
-|Ty France        |DH       |     11|  4|   3|  0|  0| 
+|Ty France        |DH       |     12|  4|   3|  0|  0| 
 
 * * *
 
@@ -27,7 +27,7 @@
  
 |players         |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:---------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Aaron Nola      |SP          |  1|  7.000|  4|  5.143|      7| 1.000|  4|  1|  0| 
+|Aaron Nola      |SP          |  2| 13.000|  7|  4.846|     12| 0.923| 11|  1|  0| 
 |Corey Kluber    |SP          |  1|  6.667|  1|  1.350|      8| 1.200|  5|  1|  0| 
 |Kyle Hendricks  |SP          |  2|  9.667|  9|  8.379|     18| 1.862|  9|  1|  0| 
 |Lance Lynn      |SP          | **|     **| **|     **|     **|    **| **| **| **| 
