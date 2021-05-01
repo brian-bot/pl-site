@@ -5,20 +5,20 @@
  
 |players          |position | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:--------|------:|--:|---:|--:|--:| 
-|Travis d'Arnaud  |C        |      4|  1|   2|  0|  0| 
+|Travis d'Arnaud  |C        |      6|  1|   2|  0|  0| 
 |Jose Abreu       |1B       |      7|  2|   5|  1|  0| 
 |Jose Altuve      |2B       |      4|  1|   3|  0|  1| 
-|Anthony Rendon   |3B       |      2|  1|   2|  0|  0| 
-|Javier Baez      |SS       |      6|  4|   2|  1|  0| 
+|Anthony Rendon   |3B       |      3|  1|   3|  0|  0| 
+|Javier Baez      |SS       |      7|  4|   4|  1|  0| 
 |Didi Gregorius   |MI       |      3|  1|   4|  0|  0| 
-|Kris Bryant      |CI       |     13|  3|   7|  1|  0| 
+|Kris Bryant      |CI       |     17|  5|   9|  2|  0| 
 |Charlie Blackmon |OF       |      8|  0|   4|  0|  0| 
-|Dylan Carlson    |OF       |     11|  4|   2|  0|  0| 
-|Ronald Acuna Jr. |OF       |      8|  3|   2|  1|  0| 
+|Dylan Carlson    |OF       |     12|  5|   2|  0|  0| 
+|Ronald Acuna Jr. |OF       |     10|  4|   2|  1|  0| 
 |Adam Eaton       |DH       |      4|  3|   4|  0|  0| 
-|AJ Pollock       |DH       |      9|  3|   2|  1|  2| 
-|Hunter Dozier    |DH       |      4|  1|   3|  1|  0| 
-|Ty France        |DH       |     12|  4|   3|  0|  0| 
+|AJ Pollock       |DH       |     10|  4|   3|  2|  2| 
+|Hunter Dozier    |DH       |      5|  1|   3|  1|  0| 
+|Ty France        |DH       |     13|  5|   3|  0|  0| 
 
 * * *
 
@@ -34,10 +34,10 @@
 |Marco Gonzales  |SP          |  1|  6.000|  2|  3.000|      8| 1.333|  4|  0|  0| 
 |Taijuan Walker  |SP          |  1|  7.000|  0|  0.000|      6| 0.857|  4|  1|  0| 
 |Rafael Dolis    |RP          |  3|  3.333|  0|  0.000|      0| 0.000|  2|  0|  2| 
-|Rafael Montero  |RP          |  2|  1.667|  2| 10.800|      4| 2.400|  1|  1|  0| 
+|Rafael Montero  |RP          |  3|  2.667|  3| 10.125|      6| 2.250|  1|  1|  0| 
 |Adam Wainwright |OP          |  1|  9.000|  2|  2.000|      6| 0.667|  8|  0|  0| 
 |Alex Wood       |OP          |  2| 13.000|  3|  2.077|      8| 0.615| 16|  2|  0| 
-|Emmanuel Clase  |OP          |  3|  3.000|  0|  0.000|      1| 0.333|  2|  1|  0| 
+|Emmanuel Clase  |OP          |  4|  4.000|  0|  0.000|      2| 0.500|  2|  1|  1| 
 |Huascar Ynoa    |OP          |  2| 11.333|  2|  1.588|      9| 0.794| 14|  2|  0| 
 |Jake Odorizzi   |OP          |  1|  0.333|  0|  0.000|      0| 0.000|  0|  0|  0| 
 |Rich Hill       |PITCH BENCH |  1|  6.000|  2|  3.000|      4| 0.667| 10|  0|  0| 

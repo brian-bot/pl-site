@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Yasmani Grandal   |C         |      4|  2|   0|  0|  0| 
-|Eric Hosmer       |1B        |      9|  2|   2|  0|  0| 
+|Yasmani Grandal   |C         |      5|  2|   0|  0|  0| 
+|Eric Hosmer       |1B        |     12|  3|   3|  0|  0| 
 |Nick Solak        |2B        |     10|  5|   5|  3|  0| 
-|Rafael Devers     |3B        |     11|  4|   4|  1|  1| 
+|Rafael Devers     |3B        |     13|  5|   5|  2|  1| 
 |Corey Seager      |SS        |      9|  3|   4|  1|  1| 
-|Bo Bichette       |MI        |      4|  3|   1|  1|  0| 
+|Bo Bichette       |MI        |      6|  5|   3|  2|  0| 
 |Mike Moustakas    |CI        |      1|  0|   0|  0|  0| 
-|Byron Buxton      |OF        |      9|  4|   3|  2|  1| 
-|Giancarlo Stanton |OF        |     14|  6|   3|  3|  0| 
-|J.D. Martinez     |OF        |     10|  2|   1|  1|  0| 
-|Michael Conforto  |OF        |      8|  1|   1|  1|  0| 
-|Aaron Hicks       |DH        |      5|  2|   3|  2|  0| 
-|Austin Meadows    |DH        |      2|  0|   2|  0|  0| 
-|Avisail Garcia    |DH        |      3|  1|   0|  0|  1| 
-|Jordan Luplow     |DH        |      6|  2|   4|  1|  0| 
+|Byron Buxton      |OF        |     11|  5|   3|  2|  2| 
+|Giancarlo Stanton |OF        |     17|  8|   3|  3|  0| 
+|J.D. Martinez     |OF        |     13|  4|   5|  3|  0| 
+|Michael Conforto  |OF        |     10|  1|   1|  1|  0| 
+|Aaron Hicks       |DH        |      7|  3|   5|  3|  0| 
+|Austin Meadows    |DH        |      4|  0|   2|  0|  0| 
+|Avisail Garcia    |DH        |      5|  2|   0|  0|  1| 
+|Jordan Luplow     |DH        |      8|  3|   4|  1|  0| 
 |Ke'Bryan Hayes    |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -41,7 +41,7 @@
 |Chris Paddack     |OP          |  1|  5.333|  3| 5.062|      6| 1.125|  5|  0|  0| 
 |Corey Knebel      |OP          |  1|  0.000|  1|   Inf|      1|   Inf|  0|  0|  0| 
 |Domingo German    |OP          |  2| 13.000|  2| 1.385|     12| 0.923| 12|  2|  0| 
-|JT Brubaker       |OP          |  1|  7.000|  2| 2.571|      5| 0.714|  5|  0|  0| 
+|JT Brubaker       |OP          |  2| 12.000|  5| 3.750|     12| 1.000| 12|  0|  0| 
 |Lou Trivino       |OP          |  2|  2.000|  0| 0.000|      3| 1.500|  2|  0|  2| 
 |Dylan Cease       |PITCH BENCH |  2| 10.333|  2| 1.742|      9| 0.871| 14|  1|  0| 
 |Kendall Graveman  |PITCH BENCH |  3|  3.000|  0| 0.000|      1| 0.333|  4|  0|  1| 
