@@ -5,23 +5,23 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Gary Sanchez     |C         |      5|  1|   0|  0|  0| 
-|Jared Walsh      |1B        |     12|  2|   5|  0|  0| 
-|DJ LeMahieu      |2B        |     13|  6|   1|  0|  0| 
+|Gary Sanchez     |C         |      6|  2|   0|  0|  0| 
+|Jared Walsh      |1B        |     17|  4|   8|  2|  0| 
+|DJ LeMahieu      |2B        |     16|  8|   1|  0|  1| 
 |Gio Urshela      |3B        |     11|  2|   9|  2|  0| 
-|Francisco Lindor |SS        |      6|  0|   0|  0|  0| 
-|Luis Arraez      |MI        |      6|  2|   2|  0|  0| 
-|Austin Riley     |CI        |     14|  5|   5|  2|  0| 
+|Francisco Lindor |SS        |      6|  1|   0|  0|  0| 
+|Luis Arraez      |MI        |      8|  2|   2|  0|  0| 
+|Austin Riley     |CI        |     15|  6|   5|  2|  0| 
 |Bryce Harper     |OF        |      7|  4|   2|  2|  1| 
-|Mookie Betts     |OF        |     11|  3|   3|  0|  1| 
-|Nick Castellanos |OF        |     14|  5|   6|  2|  1| 
-|Shohei Ohtani    |OF        |      9|  6|   6|  3|  1| 
-|Alex Verdugo     |DH        |     11|  5|   0|  0|  2| 
-|Josh Donaldson   |DH        |      6|  1|   2|  1|  0| 
-|Keston Hiura     |DH        |      7|  2|   0|  0|  0| 
-|Ryan McMahon     |DH        |     12|  6|   6|  2|  0| 
-|Clint Frazier    |BAT BENCH |     11|  3|   2|  2|  0| 
-|Jorge Polanco    |BAT BENCH |      6|  4|   3|  1|  0| 
+|Mookie Betts     |OF        |     14|  5|   4|  1|  1| 
+|Nick Castellanos |OF        |     15|  6|   6|  2|  1| 
+|Shohei Ohtani    |OF        |     10|  7|   7|  3|  2| 
+|Alex Verdugo     |DH        |     13|  6|   0|  0|  2| 
+|Josh Donaldson   |DH        |      7|  1|   2|  1|  0| 
+|Keston Hiura     |DH        |      7|  3|   0|  0|  0| 
+|Ryan McMahon     |DH        |     15|  6|  10|  2|  0| 
+|Clint Frazier    |BAT BENCH |     12|  4|   2|  2|  0| 
+|Jorge Polanco    |BAT BENCH |      7|  4|   3|  1|  0| 
 
 * * *
 
@@ -36,7 +36,7 @@
 |Max Fried      |SP          | **|     **| **|    **|     **|    **| **| **| **| 
 |Tyler Glasnow  |SP          |  2| 13.000|  5| 3.462|     14| 1.077| 20|  1|  0| 
 |Zach Plesac    |SP          |  1|  7.667|  3| 3.522|      6| 0.783|  4|  0|  0| 
-|Josh Hader     |RP          |  4|  4.000|  1| 2.250|      3| 0.750|  8|  0|  4| 
+|Josh Hader     |RP          |  5|  5.000|  1| 1.800|      4| 0.800|  8|  0|  4| 
 |Liam Hendriks  |RP          |  3|  3.667|  2| 4.909|      2| 0.545|  8|  1|  2| 
 |Drew Pomeranz  |OP          |  4|  4.000|  1| 2.250|      5| 1.250|  5|  0|  0| 
 |Luke Weaver    |OP          |  2|  9.000|  7| 7.000|     19| 2.111|  9|  0|  0| 

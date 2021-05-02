@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |      8|  2|   3|  1|  1| 
-|Pete Alonso       |1B        |     10|  4|   3|  2|  0| 
-|Ozzie Albies      |2B        |     12|  8|   6|  3|  1| 
-|Yoan Moncada      |3B        |     16|  4|   7|  2|  0| 
-|Xander Bogaerts   |SS        |      8|  3|   5|  2|  0| 
-|Tim Anderson      |MI        |     11|  5|   2|  0|  2| 
-|Travis Shaw       |CI        |      6|  1|   4|  1|  0| 
+|Will Smith        |C         |      9|  3|   5|  1|  1| 
+|Pete Alonso       |1B        |     12|  5|   4|  2|  0| 
+|Ozzie Albies      |2B        |     14|  8|   6|  3|  1| 
+|Yoan Moncada      |3B        |     17|  4|   7|  2|  0| 
+|Xander Bogaerts   |SS        |     10|  4|   6|  2|  1| 
+|Tim Anderson      |MI        |     12|  6|   6|  1|  2| 
+|Travis Shaw       |CI        |      9|  2|   6|  2|  1| 
 |Juan Soto         |OF        |     **| **|  **| **| **| 
 |Mike Yastrzemski  |OF        |      7|  5|   3|  2|  0| 
-|Nelson Cruz       |OF        |     10|  6|   5|  1|  0| 
-|Ryan Mountcastle  |OF        |      8|  2|   0|  0|  1| 
-|Akil Baddoo       |DH        |      4|  0|   1|  0|  0| 
-|Bobby Dalbec      |DH        |      3|  2|   1|  1|  0| 
-|Christian Arroyo  |DH        |      2|  1|   1|  0|  0| 
-|Myles Straw       |DH        |     11|  5|   5|  0|  2| 
+|Nelson Cruz       |OF        |     11|  7|   7|  2|  0| 
+|Ryan Mountcastle  |OF        |      9|  2|   1|  0|  1| 
+|Akil Baddoo       |DH        |      5|  0|   1|  0|  1| 
+|Bobby Dalbec      |DH        |      3|  2|   2|  1|  0| 
+|Christian Arroyo  |DH        |      4|  2|   1|  0|  0| 
+|Myles Straw       |DH        |     12|  5|   5|  0|  2| 
 |Starling Marte    |BAT BENCH |     **| **|  **| **| **| 
-|Teoscar Hernandez |BAT BENCH |      2|  1|   3|  1|  0| 
+|Teoscar Hernandez |BAT BENCH |      4|  2|   3|  1|  0| 
 
 
 * * *
@@ -42,9 +42,9 @@
 |Brady Singer      |OP          |  2|  9.000|  2|  2.000|      8| 0.889|  9|  1|  0| 
 |Casey Mize        |OP          |  2| 10.667|  9|  7.594|     17| 1.594|  7|  0|  0| 
 |Drew Smyly        |OP          |  2|  8.000| 10| 11.250|     19| 2.375|  7|  0|  0| 
-|Hector Neris      |OP          |  5|  4.333|  1|  2.077|      3| 0.692|  5|  0|  3| 
+|Hector Neris      |OP          |  6|  5.333|  2|  3.375|      4| 0.750|  6|  0|  3| 
 |Michael Wacha     |OP          |  1|  5.000|  1|  1.800|      5| 1.000|  2|  0|  0| 
-|Giovanny Gallegos |PITCH BENCH |  4|  5.000|  0|  0.000|      1| 0.200|  5|  0|  1| 
+|Giovanny Gallegos |PITCH BENCH |  5|  6.000|  0|  0.000|      1| 0.167|  7|  0|  1| 
 
 
 * * *

@@ -5,20 +5,20 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Yasmani Grandal   |C         |      5|  2|   0|  0|  0| 
-|Eric Hosmer       |1B        |     12|  3|   3|  0|  0| 
-|Nick Solak        |2B        |     10|  5|   5|  3|  0| 
-|Rafael Devers     |3B        |     13|  5|   5|  2|  1| 
-|Corey Seager      |SS        |      9|  3|   4|  1|  1| 
-|Bo Bichette       |MI        |      6|  5|   3|  2|  0| 
-|Mike Moustakas    |CI        |      1|  0|   0|  0|  0| 
+|Yasmani Grandal   |C         |      9|  4|   0|  0|  0| 
+|Eric Hosmer       |1B        |     14|  4|   3|  0|  1| 
+|Nick Solak        |2B        |     12|  6|   6|  3|  0| 
+|Rafael Devers     |3B        |     15|  6|   5|  2|  1| 
+|Corey Seager      |SS        |     11|  3|   5|  1|  1| 
+|Bo Bichette       |MI        |      8|  5|   3|  2|  0| 
+|Mike Moustakas    |CI        |      2|  0|   1|  0|  0| 
 |Byron Buxton      |OF        |     11|  5|   3|  2|  2| 
 |Giancarlo Stanton |OF        |     17|  8|   3|  3|  0| 
-|J.D. Martinez     |OF        |     13|  4|   5|  3|  0| 
-|Michael Conforto  |OF        |     10|  1|   1|  1|  0| 
-|Aaron Hicks       |DH        |      7|  3|   5|  3|  0| 
+|J.D. Martinez     |OF        |     17|  4|   6|  3|  0| 
+|Michael Conforto  |OF        |     12|  3|   4|  2|  0| 
+|Aaron Hicks       |DH        |      8|  4|   5|  3|  0| 
 |Austin Meadows    |DH        |      4|  0|   2|  0|  0| 
-|Avisail Garcia    |DH        |      5|  2|   0|  0|  1| 
+|Avisail Garcia    |DH        |      9|  2|   1|  0|  2| 
 |Jordan Luplow     |DH        |      8|  3|   4|  1|  0| 
 |Ke'Bryan Hayes    |BAT BENCH |     **| **|  **| **| **| 
 
