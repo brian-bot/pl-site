@@ -9,18 +9,18 @@
 |Paul Goldschmidt    |1B        |     11|  6|   8|  1|  1| 
 |Ketel Marte         |2B        |     **| **|  **| **| **| 
 |Manny Machado       |3B        |      7|  2|   9|  1|  1| 
-|Trea Turner         |SS        |      9|  5|   2|  2|  2| 
-|Jeff McNeil         |MI        |      7|  3|   1|  1|  0| 
-|Alec Bohm           |CI        |      8|  4|   5|  1|  0| 
-|Bryan Reynolds      |OF        |     12|  7|   4|  0|  0| 
-|Chris Taylor        |OF        |     12|  7|   4|  1|  1| 
-|Kyle Tucker         |OF        |     11|  5|   4|  1|  2| 
-|Lourdes Gurriel Jr. |OF        |      9|  3|   3|  2|  0| 
-|Andrew Benintendi   |DH        |     14|  7|   6|  3|  1| 
+|Trea Turner         |SS        |     11|  6|   2|  2|  2| 
+|Jeff McNeil         |MI        |     11|  5|   1|  1|  0| 
+|Alec Bohm           |CI        |      9|  5|   5|  1|  0| 
+|Bryan Reynolds      |OF        |     13|  7|   4|  0|  0| 
+|Chris Taylor        |OF        |     16| 12|   4|  1|  1| 
+|Kyle Tucker         |OF        |     14|  6|   4|  1|  2| 
+|Lourdes Gurriel Jr. |OF        |     10|  4|   3|  2|  0| 
+|Andrew Benintendi   |DH        |     16|  8|   6|  3|  1| 
 |Jean Segura         |DH        |     **| **|  **| **| **| 
-|Justin Turner       |DH        |     15|  3|   5|  1|  0| 
-|Michael Brantley    |DH        |     15|  9|   1|  0|  0| 
-|Max Kepler          |BAT BENCH |      1|  1|   0|  0|  0| 
+|Justin Turner       |DH        |     17|  5|   5|  1|  0| 
+|Michael Brantley    |DH        |     17|  9|   2|  0|  0| 
+|Max Kepler          |BAT BENCH |      2|  1|   0|  0|  0| 
 |Miguel Rojas        |BAT BENCH |      6|  4|   1|  0|  0| 
 
 
@@ -35,11 +35,11 @@
 |Corbin Burnes    |SP          |  1|  5.000|  4|  7.200|      8| 1.600|  9|  0|  0| 
 |Danny Duffy      |SP          |  2| 12.000|  1|  0.750|      9| 0.750| 15|  2|  0| 
 |Triston McKenzie |SP          |  2|  6.000|  8| 12.000|     13| 2.167| 11|  0|  0| 
-|Tyler Mahle      |SP          |  1|  5.000|  1|  1.800|      7| 1.400|  5|  0|  0| 
-|Aroldis Chapman  |RP          |  4|  4.000|  0|  0.000|      1| 0.250|  9|  0|  3| 
-|Edwin Diaz       |RP          |  4|  4.333|  0|  0.000|      3| 0.692|  6|  0|  1| 
+|Tyler Mahle      |SP          |  2| 10.000|  7|  6.300|     16| 1.600| 10|  0|  0| 
+|Aroldis Chapman  |RP          |  5|  5.000|  0|  0.000|      1| 0.200| 11|  0|  4| 
+|Edwin Diaz       |RP          |  5|  5.000|  3|  5.400|      7| 1.400|  7|  0|  1| 
 |Alex Colome      |OP          |  3|  1.667|  3| 16.200|      5| 3.000|  2|  0|  0| 
-|Brad Keller      |OP          |  1|  6.000|  2|  3.000|     10| 1.667|  4|  1|  0| 
+|Brad Keller      |OP          |  2| 10.333|  4|  3.484|     17| 1.645|  7|  1|  0| 
 |Erick Fedde      |OP          |  2| 11.000|  4|  3.273|     11| 1.000| 10|  1|  0| 
 |Matthew Boyd     |OP          |  2|  9.000|  3|  3.000|      7| 0.778|  5|  0|  0| 
 |Nathan Eovaldi   |OP          |  2| 11.000|  6|  4.909|     15| 1.364|  8|  1|  0| 

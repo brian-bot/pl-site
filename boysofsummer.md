@@ -6,20 +6,20 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Gary Sanchez     |C         |      6|  2|   0|  0|  0| 
-|Jared Walsh      |1B        |     17|  4|   8|  2|  0| 
+|Jared Walsh      |1B        |     18|  4|   8|  2|  0| 
 |DJ LeMahieu      |2B        |     16|  8|   1|  0|  1| 
-|Gio Urshela      |3B        |     11|  2|   9|  2|  0| 
-|Francisco Lindor |SS        |      6|  1|   0|  0|  0| 
-|Luis Arraez      |MI        |      8|  2|   2|  0|  0| 
-|Austin Riley     |CI        |     15|  6|   5|  2|  0| 
-|Bryce Harper     |OF        |      7|  4|   2|  2|  1| 
+|Gio Urshela      |3B        |     12|  3|   9|  2|  0| 
+|Francisco Lindor |SS        |      7|  2|   0|  0|  0| 
+|Luis Arraez      |MI        |     11|  5|   3|  0|  0| 
+|Austin Riley     |CI        |     19|  7|   5|  2|  0| 
+|Bryce Harper     |OF        |      9|  5|   2|  2|  2| 
 |Mookie Betts     |OF        |     14|  5|   4|  1|  1| 
-|Nick Castellanos |OF        |     15|  6|   6|  2|  1| 
-|Shohei Ohtani    |OF        |     10|  7|   7|  3|  2| 
-|Alex Verdugo     |DH        |     13|  6|   0|  0|  2| 
-|Josh Donaldson   |DH        |      7|  1|   2|  1|  0| 
+|Nick Castellanos |OF        |     20| 10|  10|  4|  1| 
+|Shohei Ohtani    |OF        |     10|  7|   7|  3|  4| 
+|Alex Verdugo     |DH        |     15|  6|   0|  0|  2| 
+|Josh Donaldson   |DH        |      9|  3|   3|  1|  0| 
 |Keston Hiura     |DH        |      7|  3|   0|  0|  0| 
-|Ryan McMahon     |DH        |     15|  6|  10|  2|  0| 
+|Ryan McMahon     |DH        |     17|  6|  10|  2|  0| 
 |Clint Frazier    |BAT BENCH |     12|  4|   2|  2|  0| 
 |Jorge Polanco    |BAT BENCH |      7|  4|   3|  1|  0| 
 
@@ -32,12 +32,12 @@
 |:--------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Frankie Montas |SP          |  1|  6.000|  3| 4.500|      8| 1.333|  5|  0|  0| 
 |German Marquez |SP          |  2| 10.000|  6| 5.400|     16| 1.600| 13|  0|  0| 
-|Julio Urias    |SP          |  1|  5.000|  3| 5.400|      6| 1.200|  6|  0|  0| 
+|Julio Urias    |SP          |  2| 12.000|  4| 3.000|     10| 0.833| 16|  1|  0| 
 |Max Fried      |SP          | **|     **| **|    **|     **|    **| **| **| **| 
 |Tyler Glasnow  |SP          |  2| 13.000|  5| 3.462|     14| 1.077| 20|  1|  0| 
-|Zach Plesac    |SP          |  1|  7.667|  3| 3.522|      6| 0.783|  4|  0|  0| 
+|Zach Plesac    |SP          |  2| 13.333|  3| 2.025|     13| 0.975| 10|  1|  0| 
 |Josh Hader     |RP          |  5|  5.000|  1| 1.800|      4| 0.800|  8|  0|  4| 
-|Liam Hendriks  |RP          |  3|  3.667|  2| 4.909|      2| 0.545|  8|  1|  2| 
+|Liam Hendriks  |RP          |  4|  4.667|  2| 3.857|      2| 0.429| 10|  1|  2| 
 |Drew Pomeranz  |OP          |  4|  4.000|  1| 2.250|      5| 1.250|  5|  0|  0| 
 |Luke Weaver    |OP          |  2|  9.000|  7| 7.000|     19| 2.111|  9|  0|  0| 
 |Mitch Keller   |OP          |  2|  7.333|  6| 7.364|     13| 1.773|  7|  0|  0| 

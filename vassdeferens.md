@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |      9|  3|   5|  1|  1| 
-|Pete Alonso       |1B        |     12|  5|   4|  2|  0| 
-|Ozzie Albies      |2B        |     14|  8|   6|  3|  1| 
-|Yoan Moncada      |3B        |     17|  4|   7|  2|  0| 
-|Xander Bogaerts   |SS        |     10|  4|   6|  2|  1| 
+|Will Smith        |C         |     11|  5|   5|  1|  1| 
+|Pete Alonso       |1B        |     13|  5|   7|  2|  0| 
+|Ozzie Albies      |2B        |     15|  9|   6|  3|  1| 
+|Yoan Moncada      |3B        |     18|  4|   7|  2|  0| 
+|Xander Bogaerts   |SS        |     13|  6|   7|  3|  1| 
 |Tim Anderson      |MI        |     12|  6|   6|  1|  2| 
-|Travis Shaw       |CI        |      9|  2|   6|  2|  1| 
+|Travis Shaw       |CI        |      9|  2|   6|  2|  0| 
 |Juan Soto         |OF        |     **| **|  **| **| **| 
 |Mike Yastrzemski  |OF        |      7|  5|   3|  2|  0| 
-|Nelson Cruz       |OF        |     11|  7|   7|  2|  0| 
-|Ryan Mountcastle  |OF        |      9|  2|   1|  0|  1| 
+|Nelson Cruz       |OF        |     13|  9|   7|  2|  0| 
+|Ryan Mountcastle  |OF        |     11|  2|   1|  0|  1| 
 |Akil Baddoo       |DH        |      5|  0|   1|  0|  1| 
 |Bobby Dalbec      |DH        |      3|  2|   2|  1|  0| 
 |Christian Arroyo  |DH        |      4|  2|   1|  0|  0| 
-|Myles Straw       |DH        |     12|  5|   5|  0|  2| 
+|Myles Straw       |DH        |     14|  6|   6|  0|  2| 
 |Starling Marte    |BAT BENCH |     **| **|  **| **| **| 
-|Teoscar Hernandez |BAT BENCH |      4|  2|   3|  1|  0| 
+|Teoscar Hernandez |BAT BENCH |      5|  2|   3|  1|  0| 
 
 
 * * *
@@ -32,18 +32,18 @@
 |players           |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Hyun Jin Ryu      |SP          |  1|  3.667|  0|  0.000|      4| 1.091|  5|  0|  0| 
-|Ian Anderson      |SP          |  1|  7.000|  0|  0.000|      2| 0.286|  8|  1|  0| 
+|Ian Anderson      |SP          |  2| 11.000|  4|  3.273|     10| 0.909| 13|  1|  0| 
 |Marcus Stroman    |SP          |  2|  9.000|  4|  4.000|     14| 1.556| 12|  0|  0| 
 |Sandy Alcantara   |SP          |  2| 12.000|  4|  3.000|     13| 1.083|  8|  1|  0| 
-|Sean Manaea       |SP          |  1|  5.000|  1|  1.800|      6| 1.200|  6|  1|  0| 
+|Sean Manaea       |SP          |  2| 10.000|  5|  4.500|     13| 1.300| 11|  1|  0| 
 |Yu Darvish        |SP          |  2| 13.333|  2|  1.350|     14| 1.050| 21|  2|  0| 
-|Tyler Rogers      |RP          |  4|  4.000|  1|  2.250|      5| 1.250|  1|  0|  1| 
+|Tyler Rogers      |RP          |  5|  5.000|  1|  1.800|      6| 1.200|  1|  0|  1| 
 |Yimi Garcia       |RP          |  3|  2.000|  2|  9.000|      4| 2.000|  0|  0|  0| 
 |Brady Singer      |OP          |  2|  9.000|  2|  2.000|      8| 0.889|  9|  1|  0| 
 |Casey Mize        |OP          |  2| 10.667|  9|  7.594|     17| 1.594|  7|  0|  0| 
 |Drew Smyly        |OP          |  2|  8.000| 10| 11.250|     19| 2.375|  7|  0|  0| 
 |Hector Neris      |OP          |  6|  5.333|  2|  3.375|      4| 0.750|  6|  0|  3| 
-|Michael Wacha     |OP          |  1|  5.000|  1|  1.800|      5| 1.000|  2|  0|  0| 
+|Michael Wacha     |OP          |  2|  7.667|  5|  5.870|     10| 1.304|  5|  0|  0| 
 |Giovanny Gallegos |PITCH BENCH |  5|  6.000|  0|  0.000|      1| 0.167|  7|  0|  1| 
 
 
