@@ -14,6 +14,7 @@
 |Kris Bryant      |CI       |     20|  7|  12|  4|  0| 
 |Charlie Blackmon |OF       |     11|  2|   5|  0|  0| 
 |Dylan Carlson    |OF       |     14|  6|   2|  0|  0| 
+|George Springer  |OF       |      5|  3|   3|  2|  1| 
 |Ronald Acuna Jr. |OF       |     13|  5|   4|  2|  0| 
 |Adam Eaton       |DH       |      5|  3|   4|  0|  0| 
 |AJ Pollock       |DH       |     13|  7|  11|  4|  2| 
