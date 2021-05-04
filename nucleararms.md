@@ -6,21 +6,21 @@
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Salvador Perez      |C         |      9|  3|   4|  1|  0| 
-|Paul Goldschmidt    |1B        |     11|  6|   8|  1|  1| 
+|Paul Goldschmidt    |1B        |     13|  7|   8|  1|  1| 
 |Ketel Marte         |2B        |     **| **|  **| **| **| 
-|Manny Machado       |3B        |      7|  2|   9|  1|  1| 
+|Manny Machado       |3B        |      8|  3|   9|  1|  1| 
 |Trea Turner         |SS        |     11|  6|   2|  2|  2| 
-|Jeff McNeil         |MI        |     11|  5|   1|  1|  0| 
+|Jeff McNeil         |MI        |     14|  5|   2|  1|  0| 
 |Alec Bohm           |CI        |      9|  5|   5|  1|  0| 
-|Bryan Reynolds      |OF        |     13|  7|   4|  0|  0| 
+|Bryan Reynolds      |OF        |     14|  7|   4|  0|  0| 
 |Chris Taylor        |OF        |     16| 12|   4|  1|  1| 
 |Kyle Tucker         |OF        |     14|  6|   4|  1|  2| 
-|Lourdes Gurriel Jr. |OF        |     10|  4|   3|  2|  0| 
-|Andrew Benintendi   |DH        |     16|  8|   6|  3|  1| 
+|Lourdes Gurriel Jr. |OF        |     11|  4|   3|  2|  0| 
+|Andrew Benintendi   |DH        |     18|  9|   6|  3|  1| 
 |Jean Segura         |DH        |     **| **|  **| **| **| 
 |Justin Turner       |DH        |     17|  5|   5|  1|  0| 
 |Michael Brantley    |DH        |     17|  9|   2|  0|  0| 
-|Max Kepler          |BAT BENCH |      2|  1|   0|  0|  0| 
+|Max Kepler          |BAT BENCH |      3|  1|   1|  0|  1| 
 |Miguel Rojas        |BAT BENCH |      6|  4|   1|  0|  0| 
 
 

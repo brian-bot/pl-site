@@ -11,12 +11,12 @@
 |Alex Bregman      |3B        |     15|  9|   9|  2|  0| 
 |Dansby Swanson    |SS        |     10|  3|   3|  1|  1| 
 |Nick Madrigal     |MI        |     11|  6|   5|  0|  0| 
-|Cavan Biggio      |CI        |     10|  2|   1|  0|  0| 
+|Cavan Biggio      |CI        |     11|  3|   1|  0|  0| 
 |Andrew McCutchen  |OF        |     10|  3|   4|  1|  0| 
-|Christian Yelich  |OF        |     **| **|  **| **| **| 
+|Christian Yelich  |OF        |      2|  0|   0|  0|  0| 
 |Marcell Ozuna     |OF        |     10|  5|   5|  2|  0| 
-|Wil Myers         |OF        |      7|  3|   2|  1|  3| 
-|Carlos Santana    |DH        |     17|  8|   7|  2|  1| 
+|Wil Myers         |OF        |      8|  4|   2|  1|  3| 
+|Carlos Santana    |DH        |     19|  9|   7|  2|  1| 
 |Dylan Moore       |DH        |      9|  3|   5|  1|  3| 
 |Jesse Winker      |DH        |     18| 11|  10|  5|  0| 
 |Jurickson Profar  |DH        |      9|  4|   5|  1|  2| 
@@ -36,7 +36,7 @@
 |Patrick Corbin     |SP          |  2| 11.000|  6|  4.909|     18| 1.636|  7|  1|  0| 
 |Trevor Bauer       |SP          |  2| 14.000|  4|  2.571|     11| 0.786| 15|  1|  0| 
 |Zack Greinke       |SP          |  2| 11.000|  6|  4.909|     16| 1.455| 11|  0|  0| 
-|James Karinchak    |RP          |  6|  5.667|  0|  0.000|      0| 0.000| 14|  0|  1| 
+|James Karinchak    |RP          |  7|  7.000|  1|  1.286|      1| 0.143| 16|  0|  1| 
 |Jordan Hicks       |RP          |  4|  3.000|  5| 15.000|      7| 2.333|  3|  0|  0| 
 |Anthony DeSclafani |OP          |  2| 15.000|  3|  1.800|      9| 0.600| 12|  1|  0| 
 |Craig Kimbrel      |OP          |  4|  3.000|  0|  0.000|      4| 1.333|  4|  0|  1| 

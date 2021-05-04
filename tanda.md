@@ -6,20 +6,20 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Sean Murphy       |C         |     10|  5|   4|  3|  0| 
-|Matt Olson        |1B        |     10|  3|   4|  1|  0| 
+|Matt Olson        |1B        |     11|  3|   4|  1|  0| 
 |Brandon Lowe      |2B        |     10|  4|   1|  1|  0| 
-|Matt Chapman      |3B        |     16|  4|   2|  1|  0| 
+|Matt Chapman      |3B        |     17|  5|   2|  1|  0| 
 |Trevor Story      |SS        |     17| 11|  11|  4|  2| 
 |Jazz Chisholm Jr. |MI        |      5|  3|   1|  1|  3| 
-|Kyle Seager       |CI        |     15|  5|   8|  2|  0| 
-|Joey Gallo        |OF        |     12|  5|   2|  1|  0| 
-|Jorge Soler       |OF        |      6|  4|   6|  0|  0| 
+|Kyle Seager       |CI        |     16|  5|   8|  2|  0| 
+|Joey Gallo        |OF        |     15|  7|   4|  2|  0| 
+|Jorge Soler       |OF        |      8|  5|   8|  0|  0| 
 |Luis Robert       |OF        |     10|  4|   2|  0|  1| 
-|Randy Arozarena   |OF        |     12|  5|   4|  1|  2| 
-|Justin Upton      |DH        |     10|  2|   1|  1|  0| 
+|Randy Arozarena   |OF        |     14|  6|   4|  1|  2| 
+|Justin Upton      |DH        |     11|  2|   1|  1|  1| 
 |Kyle Schwarber    |DH        |      7|  4|   3|  1|  0| 
-|Ramon Laureano    |DH        |     14|  5|   6|  4|  0| 
-|Tommy Edman       |DH        |     15|  6|   2|  0|  1| 
+|Ramon Laureano    |DH        |     16|  6|   8|  5|  0| 
+|Tommy Edman       |DH        |     17|  7|   2|  0|  1| 
 |Anthony Santander |BAT BENCH |     **| **|  **| **| **| 
 |Miguel Sano       |BAT BENCH |     **| **|  **| **| **| 
 
@@ -42,7 +42,7 @@
 |Ian Kennedy         |OP       |  4|  4.000|  0| 0.000|      0| 0.000|  5|  0|  3| 
 |Matt Barnes         |OP       |  6|  5.333|  3| 5.062|      4| 0.750|  9|  0|  3| 
 |Robbie Ray          |OP       |  2| 12.667|  5| 3.553|     11| 0.868| 14|  1|  0| 
-|Steven Matz         |OP       |  2|  8.667|  9| 9.346|     16| 1.846|  9|  1|  0| 
+|Steven Matz         |OP       |  3| 13.667| 14| 9.220|     24| 1.756| 15|  1|  0| 
 |Yusei Kikuchi       |OP       |  2| 11.667|  5| 3.857|     12| 1.029|  8|  1|  0| 
 
 
