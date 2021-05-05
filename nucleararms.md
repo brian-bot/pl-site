@@ -5,23 +5,23 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez      |C         |      9|  3|   4|  1|  0| 
+|Salvador Perez      |C         |     11|  4|   6|  2|  0| 
 |Paul Goldschmidt    |1B        |     13|  7|   8|  1|  1| 
 |Ketel Marte         |2B        |     **| **|  **| **| **| 
-|Manny Machado       |3B        |      8|  3|   9|  1|  1| 
-|Trea Turner         |SS        |     11|  6|   2|  2|  2| 
+|Manny Machado       |3B        |      9|  3|   9|  1|  1| 
+|Trea Turner         |SS        |     14|  6|   2|  2|  2| 
 |Jeff McNeil         |MI        |     14|  5|   2|  1|  0| 
-|Alec Bohm           |CI        |      9|  5|   5|  1|  0| 
-|Bryan Reynolds      |OF        |     14|  7|   4|  0|  0| 
-|Chris Taylor        |OF        |     16| 12|   4|  1|  1| 
+|Alec Bohm           |CI        |     10|  6|   5|  1|  0| 
+|Bryan Reynolds      |OF        |     16|  7|   5|  0|  0| 
+|Chris Taylor        |OF        |     18| 12|   4|  1|  1| 
 |Kyle Tucker         |OF        |     14|  6|   4|  1|  2| 
 |Lourdes Gurriel Jr. |OF        |     11|  4|   3|  2|  0| 
-|Andrew Benintendi   |DH        |     18|  9|   6|  3|  1| 
+|Andrew Benintendi   |DH        |     20|  9|   6|  3|  2| 
 |Jean Segura         |DH        |     **| **|  **| **| **| 
-|Justin Turner       |DH        |     17|  5|   5|  1|  0| 
-|Michael Brantley    |DH        |     17|  9|   2|  0|  0| 
+|Justin Turner       |DH        |     19|  6|   6|  2|  0| 
+|Michael Brantley    |DH        |     18| 10|   3|  1|  0| 
 |Max Kepler          |BAT BENCH |      3|  1|   1|  0|  1| 
-|Miguel Rojas        |BAT BENCH |      6|  4|   1|  0|  0| 
+|Miguel Rojas        |BAT BENCH |      9|  5|   2|  0|  0| 
 
 
 * * *
