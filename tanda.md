@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Sean Murphy       |C         |     12|  6|   4|  3|  0| 
-|Matt Olson        |1B        |     11|  3|   4|  1|  0| 
-|Brandon Lowe      |2B        |     11|  4|   1|  1|  0| 
-|Matt Chapman      |3B        |     18|  6|   2|  1|  0| 
-|Trevor Story      |SS        |     22| 12|  13|  4|  3| 
+|Sean Murphy       |C         |     14|  6|   6|  3|  0| 
+|Matt Olson        |1B        |     12|  4|   4|  1|  0| 
+|Brandon Lowe      |2B        |     13|  5|   4|  2|  0| 
+|Matt Chapman      |3B        |     19|  7|   3|  2|  0| 
+|Trevor Story      |SS        |     24| 13|  13|  4|  3| 
 |Jazz Chisholm Jr. |MI        |      5|  3|   1|  1|  3| 
 |Kyle Seager       |CI        |     17|  6|  10|  3|  0| 
-|Joey Gallo        |OF        |     16|  8|   4|  2|  0| 
-|Jorge Soler       |OF        |      8|  5|   8|  0|  0| 
+|Joey Gallo        |OF        |     17|  8|   5|  2|  0| 
+|Jorge Soler       |OF        |      9|  5|  10|  0|  0| 
 |Luis Robert       |OF        |     10|  4|   2|  0|  1| 
 |Randy Arozarena   |OF        |     15|  8|   4|  1|  3| 
 |Justin Upton      |DH        |     12|  2|   1|  1|  1| 
-|Kyle Schwarber    |DH        |      7|  4|   4|  1|  0| 
-|Ramon Laureano    |DH        |     17|  6|   8|  5|  0| 
-|Tommy Edman       |DH        |     17|  7|   2|  0|  1| 
+|Kyle Schwarber    |DH        |      8|  4|   4|  1|  0| 
+|Ramon Laureano    |DH        |     20|  8|   9|  6|  0| 
+|Tommy Edman       |DH        |     20|  7|   2|  0|  1| 
 |Anthony Santander |BAT BENCH |     **| **|  **| **| **| 
-|Miguel Sano       |BAT BENCH |     **| **|  **| **| **| 
+|Miguel Sano       |BAT BENCH |      2|  0|   0|  0|  0| 
 
 
 * * *
@@ -39,11 +39,11 @@
 |Zach Eflin          |SP       |  2| 12.667|  7| 4.974|     19| 1.500| 15|  0|  0| 
 |Brad Hand           |RP       |  2|  3.000|  0| 0.000|      3| 1.000|  2|  1|  0| 
 |Ryan Pressly        |RP       |  5|  6.000|  2| 3.000|      8| 1.333|  7|  1|  3| 
-|Ian Kennedy         |OP       |  5|  5.000|  0| 0.000|      1| 0.200|  6|  0|  4| 
-|Matt Barnes         |OP       |  7|  7.000|  3| 3.857|      4| 0.571| 10|  0|  4| 
-|Robbie Ray          |OP       |  2| 12.667|  5| 3.553|     11| 0.868| 14|  1|  0| 
+|Ian Kennedy         |OP       |  6|  6.000|  0| 0.000|      2| 0.333|  9|  0|  5| 
+|Matt Barnes         |OP       |  8|  8.000|  3| 3.375|      4| 0.500| 13|  0|  4| 
+|Robbie Ray          |OP       |  3| 18.667|  8| 3.857|     17| 0.911| 23|  1|  0| 
 |Steven Matz         |OP       |  3| 13.667| 14| 9.220|     24| 1.756| 15|  1|  0| 
-|Yusei Kikuchi       |OP       |  2| 11.667|  5| 3.857|     12| 1.029|  8|  1|  0| 
+|Yusei Kikuchi       |OP       |  3| 18.667|  8| 3.857|     18| 0.964| 15|  1|  0| 
 
 
 * * *

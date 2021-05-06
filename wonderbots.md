@@ -6,19 +6,19 @@
 |players          |position | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:--------|------:|--:|---:|--:|--:| 
 |Travis d'Arnaud  |C        |      7|  1|   2|  0|  0| 
-|Jose Abreu       |1B       |     10|  4|   8|  2|  0| 
-|Jose Altuve      |2B       |      6|  2|   4|  0|  1| 
+|Jose Abreu       |1B       |     11|  4|   8|  2|  0| 
+|Jose Altuve      |2B       |      7|  2|   4|  0|  1| 
 |Anthony Rendon   |3B       |      9|  4|   8|  2|  0| 
-|Javier Baez      |SS       |     12|  8|   8|  3|  1| 
-|Didi Gregorius   |MI       |      9|  4|   8|  1|  0| 
-|Kris Bryant      |CI       |     23|  9|  12|  4|  1| 
-|Charlie Blackmon |OF       |     12|  3|   8|  1|  0| 
-|Dylan Carlson    |OF       |     15|  7|   3|  0|  0| 
+|Javier Baez      |SS       |     14|  8|   9|  3|  1| 
+|Didi Gregorius   |MI       |     10|  5|  12|  2|  0| 
+|Kris Bryant      |CI       |     24|  9|  12|  4|  1| 
+|Charlie Blackmon |OF       |     14|  4|  10|  1|  0| 
+|Dylan Carlson    |OF       |     17|  8|   4|  0|  0| 
 |George Springer  |OF       |      5|  3|   3|  2|  1| 
-|Ronald Acuna Jr. |OF       |     15|  6|   5|  3|  0| 
+|Ronald Acuna Jr. |OF       |     16|  7|   5|  3|  1| 
 |Adam Eaton       |DH       |      5|  3|   4|  0|  0| 
-|AJ Pollock       |DH       |     15|  7|  11|  4|  2| 
-|Hunter Dozier    |DH       |     12|  5|   8|  3|  0| 
+|AJ Pollock       |DH       |     16|  7|  11|  4|  2| 
+|Hunter Dozier    |DH       |     13|  6|   9|  4|  0| 
 |Ty France        |DH       |     16|  6|   3|  0|  0| 
 
 * * *

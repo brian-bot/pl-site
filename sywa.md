@@ -5,20 +5,20 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|Willson Contreras     |C         |     10|  5|   7|  2|  1| 
-|Freddie Freeman       |1B        |     12|  5|   8|  2|  0| 
-|Starlin Castro        |2B        |     10|  1|   2|  0|  0| 
-|Jose Ramirez          |3B        |     23| 13|   9|  4|  0| 
-|Fernando Tatis Jr.    |SS        |     16| 14|   9|  6|  4| 
-|Eugenio Suarez        |MI        |      6|  3|   7|  3|  0| 
-|Vladimir Guerrero Jr. |CI        |     17|  8|   8|  3|  0| 
+|Willson Contreras     |C         |     10|  6|   7|  2|  1| 
+|Freddie Freeman       |1B        |     13|  6|   8|  2|  0| 
+|Starlin Castro        |2B        |     12|  1|   2|  0|  0| 
+|Jose Ramirez          |3B        |     24| 15|  10|  5|  0| 
+|Fernando Tatis Jr.    |SS        |     18| 15|   9|  6|  4| 
+|Eugenio Suarez        |MI        |      7|  3|   7|  3|  0| 
+|Vladimir Guerrero Jr. |CI        |     20| 10|  10|  3|  0| 
 |Brandon Nimmo         |OF        |      8|  2|   4|  1|  0| 
-|Eddie Rosario         |OF        |     12|  5|   9|  1|  1| 
+|Eddie Rosario         |OF        |     14|  6|  11|  1|  1| 
 |Kyle Lewis            |OF        |     11|  4|   5|  3|  0| 
-|Trent Grisham         |OF        |     17|  4|   2|  1|  3| 
-|Anthony Rizzo         |DH        |     15|  5|   5|  2|  1| 
-|Austin Hays           |DH        |     15| 10|   8|  4|  0| 
-|Joc Pederson          |DH        |      1|  0|   0|  0|  0| 
+|Trent Grisham         |OF        |     19|  5|   2|  1|  3| 
+|Anthony Rizzo         |DH        |     17|  5|   6|  2|  1| 
+|Austin Hays           |DH        |     16| 11|   8|  4|  0| 
+|Joc Pederson          |DH        |      3|  1|   1|  0|  0| 
 |Yermin Mercedes       |DH        |     12|  3|   4|  1|  0| 
 |Kolten Wong           |BAT BENCH |     19|  9|   5|  2|  1| 
 
@@ -36,7 +36,7 @@
 |Luis Castillo     |SP          |  2| 10.333|  7|  6.097|     16| 1.548|  8|  0|  0| 
 |Zac Gallen        |SP          |  2| 11.000|  4|  3.273|     11| 1.000| 13|  1|  0| 
 |Zack Wheeler      |SP          |  2| 15.000|  5|  3.000|     12| 0.800| 15|  1|  0| 
-|Daniel Bard       |RP          |  2|  1.333|  5| 33.750|      7| 5.250|  0|  1|  0| 
+|Daniel Bard       |RP          |  3|  2.333|  5| 19.286|      9| 3.857|  2|  1|  1| 
 |Raisel Iglesias   |RP          |  4|  3.667|  4|  9.818|      6| 1.636|  2|  0|  2| 
 |Cesar Valdez      |OP          |  4|  4.333|  1|  2.077|      6| 1.385|  5|  0|  3| 
 |Dane Dunning      |OP          |  3| 13.333| 11|  7.425|     22| 1.650| 13|  0|  0| 
