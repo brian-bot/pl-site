@@ -6,21 +6,21 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Gary Sanchez     |C         |      7|  2|   0|  0|  0| 
-|Jared Walsh      |1B        |     22|  4|   9|  2|  0| 
+|Jared Walsh      |1B        |     23|  4|   9|  2|  0| 
 |DJ LeMahieu      |2B        |     21| 11|   2|  0|  1| 
-|Gio Urshela      |3B        |     16|  3|   9|  2|  0| 
-|Francisco Lindor |SS        |      8|  2|   0|  0|  0| 
+|Gio Urshela      |3B        |     19|  3|   9|  2|  0| 
+|Francisco Lindor |SS        |     12|  3|   0|  0|  0| 
 |Luis Arraez      |MI        |     12|  6|   3|  0|  0| 
 |Austin Riley     |CI        |     19|  7|   5|  2|  0| 
 |Bryce Harper     |OF        |      9|  5|   2|  2|  2| 
 |Mookie Betts     |OF        |     18|  5|   4|  1|  2| 
 |Nick Castellanos |OF        |     20| 10|  10|  4|  1| 
-|Shohei Ohtani    |OF        |     13|  9|   9|  4|  4| 
-|Alex Verdugo     |DH        |     18|  7|   1|  1|  2| 
+|Shohei Ohtani    |OF        |     15| 10|  11|  5|  4| 
+|Alex Verdugo     |DH        |     20|  8|   3|  1|  2| 
 |Josh Donaldson   |DH        |     12|  4|   4|  1|  0| 
 |Keston Hiura     |DH        |      7|  3|   0|  0|  0| 
 |Ryan McMahon     |DH        |     20|  9|  11|  2|  0| 
-|Clint Frazier    |BAT BENCH |     13|  4|   2|  2|  0| 
+|Clint Frazier    |BAT BENCH |     14|  5|   4|  3|  0| 
 |Jorge Polanco    |BAT BENCH |     11|  5|   5|  1|  0| 
 
 * * *
@@ -42,7 +42,7 @@
 |Luke Weaver    |OP          |  3| 13.000| 13|  9.000|     27| 2.077| 15|  0|  0| 
 |Mitch Keller   |OP          |  3| 13.000|  6|  4.154|     17| 1.308| 12|  1|  0| 
 |Nick Pivetta   |OP          |  3| 16.000|  5|  2.812|     16| 1.000| 19|  2|  0| 
-|Taylor Rogers  |OP          |  4|  4.000|  3|  6.750|      6| 1.500|  4|  0|  2| 
+|Taylor Rogers  |OP          |  5|  5.333|  4|  6.750|      7| 1.312|  8|  0|  2| 
 |Dinelson Lamet |PITCH BENCH |  1|  2.000|  0|  0.000|      4| 2.000|  0|  0|  0| 
 |Tarik Skubal   |PITCH BENCH |  2|  5.667|  6|  9.529|     11| 1.941|  4|  0|  0| 
 

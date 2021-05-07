@@ -7,11 +7,11 @@
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
 |Willson Contreras     |C         |     10|  6|   7|  2|  1| 
 |Freddie Freeman       |1B        |     13|  6|   8|  2|  0| 
-|Starlin Castro        |2B        |     12|  1|   2|  0|  0| 
-|Jose Ramirez          |3B        |     24| 15|  10|  5|  0| 
+|Starlin Castro        |2B        |     15|  1|   2|  0|  0| 
+|Jose Ramirez          |3B        |     23| 15|   9|  5|  0| 
 |Fernando Tatis Jr.    |SS        |     18| 15|   9|  6|  4| 
 |Eugenio Suarez        |MI        |      7|  3|   7|  3|  0| 
-|Vladimir Guerrero Jr. |CI        |     20| 10|  10|  3|  0| 
+|Vladimir Guerrero Jr. |CI        |     20| 11|  10|  3|  0| 
 |Brandon Nimmo         |OF        |      8|  2|   4|  1|  0| 
 |Eddie Rosario         |OF        |     14|  6|  11|  1|  1| 
 |Kyle Lewis            |OF        |     11|  4|   5|  3|  0| 
@@ -35,7 +35,7 @@
 |Jesus Luzardo     |SP          |  2|  9.667|  6|  5.586|     16| 1.655|  9|  0|  0| 
 |Luis Castillo     |SP          |  2| 10.333|  7|  6.097|     16| 1.548|  8|  0|  0| 
 |Zac Gallen        |SP          |  2| 11.000|  4|  3.273|     11| 1.000| 13|  1|  0| 
-|Zack Wheeler      |SP          |  2| 15.000|  5|  3.000|     12| 0.800| 15|  1|  0| 
+|Zack Wheeler      |SP          |  3| 24.000|  5|  1.875|     15| 0.625| 23|  2|  0| 
 |Daniel Bard       |RP          |  3|  2.333|  5| 19.286|      9| 3.857|  2|  1|  1| 
 |Raisel Iglesias   |RP          |  4|  3.667|  4|  9.818|      6| 1.636|  2|  0|  2| 
 |Cesar Valdez      |OP          |  4|  4.333|  1|  2.077|      6| 1.385|  5|  0|  3| 
