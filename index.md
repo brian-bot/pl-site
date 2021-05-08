@@ -2,21 +2,21 @@
 
 ## Period 2 scores
 
-Through games on 2021-05-06
+Through games on 2021-05-07
 
 
 |team                                              | points|   r| hitsbb| hr| rbi| sb|  w| sv|  so|   era|  whip|
 |:-------------------------------------------------|------:|---:|------:|--:|---:|--:|--:|--:|---:|-----:|-----:|
-|[Washington Generals](./washingtongenerals)       |   77.0|  94|    245| 27| 115| 11|  8|  7| 218| 2.764| 0.957|
-|[Mean Wieners](./meanwieners)                     |   57.0|  75|    232| 24| 105| 11|  6| 10| 149| 2.618| 1.089|
-|[Vass Deferens](./vassdeferens)                   |   33.5|  79|    192| 20|  77| 10|  8|  6| 146| 3.788| 1.269|
-|[Wonderbots](./wonderbots)                        |   54.5|  79|    188| 28| 107|  8| 18|  6| 132| 2.718| 0.973|
-|[T and A](./tanda)                                |   73.5|  94|    229| 28|  83| 12| 10| 13| 203| 3.789| 1.047|
-|[Boys of Summer](./boysofsummer)                  |   55.0|  90|    234| 22|  73| 12| 10|  8| 162| 4.522| 1.256|
-|[SYWA](./sywa)                                    |   42.5|  94|    206| 34|  93| 10|  7|  7| 113| 4.929| 1.278|
-|[Terminoeckers](./terminoeckers)                  |   75.0| 100|    253| 31|  92| 13|  7| 12| 154| 3.536| 1.129|
-|[Overwhelming Underdogs](./overwhelmingunderdogs) |   48.0|  83|    211| 22|  81| 11|  8|  3| 170| 3.813| 1.039|
-|[Nuclear Arms](./nucleararms)                     |   34.0|  97|    212| 22|  69|  9|  7|  7| 131| 4.488| 1.338|
+|[Washington Generals](./washingtongenerals)       |   82.0|  99|    265| 30| 122| 13|  8|  8| 221| 2.748| 0.957|
+|[Mean Wieners](./meanwieners)                     |   56.5|  84|    246| 26| 112| 11|  7| 10| 158| 2.728| 1.111|
+|[Vass Deferens](./vassdeferens)                   |   34.5|  88|    211| 23|  83| 10|  8|  6| 156| 3.646| 1.222|
+|[Wonderbots](./wonderbots)                        |   49.5|  85|    205| 28| 111|  8| 18|  6| 132| 2.960| 1.007|
+|[T and A](./tanda)                                |   68.5|  97|    239| 29|  85| 12| 11| 13| 212| 3.735| 1.071|
+|[Boys of Summer](./boysofsummer)                  |   59.5| 102|    254| 27|  81| 13| 10|  9| 175| 4.400| 1.225|
+|[SYWA](./sywa)                                    |   42.5|  98|    224| 35|  96| 10|  8|  7| 124| 4.522| 1.256|
+|[Terminoeckers](./terminoeckers)                  |   77.5| 106|    268| 33|  98| 14|  8| 12| 160| 3.476| 1.131|
+|[Overwhelming Underdogs](./overwhelmingunderdogs) |   50.5|  89|    229| 24|  89| 12|  9|  3| 177| 3.818| 1.051|
+|[Nuclear Arms](./nucleararms)                     |   29.0| 103|    233| 22|  76|  9|  7|  7| 144| 4.534| 1.316|
 
 * * *
 * * *

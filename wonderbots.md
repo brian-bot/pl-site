@@ -6,20 +6,20 @@
 |players          |position | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:--------|------:|--:|---:|--:|--:| 
 |Travis d'Arnaud  |C        |      7|  1|   2|  0|  0| 
-|Jose Abreu       |1B       |     11|  4|   8|  2|  0| 
-|Jose Altuve      |2B       |      9|  3|   7|  1|  1| 
+|Jose Abreu       |1B       |     12|  4|   9|  2|  0| 
+|Jose Altuve      |2B       |     12|  4|   7|  1|  1| 
 |Anthony Rendon   |3B       |      9|  4|   8|  2|  0| 
-|Javier Baez      |SS       |     14|  8|   9|  3|  1| 
-|Didi Gregorius   |MI       |     10|  5|  12|  2|  0| 
-|Kris Bryant      |CI       |     24|  9|  12|  4|  1| 
-|Charlie Blackmon |OF       |     14|  4|  10|  1|  0| 
-|Dylan Carlson    |OF       |     18|  8|   4|  0|  0| 
+|Javier Baez      |SS       |     16|  9|   9|  3|  1| 
+|Didi Gregorius   |MI       |     12|  7|  12|  2|  0| 
+|Kris Bryant      |CI       |     25|  9|  12|  4|  1| 
+|Charlie Blackmon |OF       |     15|  4|  10|  1|  0| 
+|Dylan Carlson    |OF       |     20|  8|   5|  0|  0| 
 |George Springer  |OF       |      5|  3|   3|  2|  1| 
-|Ronald Acuna Jr. |OF       |     17|  8|   5|  3|  2| 
-|Adam Eaton       |DH       |      5|  3|   4|  0|  0| 
-|AJ Pollock       |DH       |     16|  7|  11|  4|  2| 
+|Ronald Acuna Jr. |OF       |     18|  8|   6|  3|  2| 
+|Adam Eaton       |DH       |      7|  4|   5|  0|  0| 
+|AJ Pollock       |DH       |     17|  7|  11|  4|  2| 
 |Hunter Dozier    |DH       |     13|  6|   9|  4|  0| 
-|Ty France        |DH       |     16|  6|   3|  0|  0| 
+|Ty France        |DH       |     17|  7|   3|  0|  0| 
 
 * * *
 
@@ -34,14 +34,14 @@
 |Lance Lynn      |SP          |  1|  5.000|  3| 5.400|      6| 1.200|  2|  1|  0| 
 |Marco Gonzales  |SP          |  1|  6.000|  2| 3.000|      8| 1.333|  4|  0|  0| 
 |Taijuan Walker  |SP          |  3| 20.000|  4| 1.800|     15| 0.750| 16|  2|  0| 
-|Rafael Dolis    |RP          |  5|  4.667|  0| 0.000|      1| 0.214|  3|  0|  3| 
+|Rafael Dolis    |RP          |  6|  4.667|  2| 3.857|      3| 0.643|  3|  0|  3| 
 |Rafael Montero  |RP          |  5|  4.667|  3| 5.786|      8| 1.714|  2|  2|  1| 
 |Adam Wainwright |OP          |  2| 14.667|  7| 4.295|     16| 1.091| 13|  1|  0| 
 |Alex Wood       |OP          |  3| 18.000|  5| 2.500|     14| 0.778| 18|  2|  0| 
-|Emmanuel Clase  |OP          |  7|  7.000|  0| 0.000|      6| 0.857|  5|  1|  2| 
+|Emmanuel Clase  |OP          |  8|  7.000|  2| 2.571|      9| 1.286|  5|  1|  2| 
 |Huascar Ynoa    |OP          |  3| 18.333|  2| 0.982|     15| 0.818| 18|  3|  0| 
 |Jake Odorizzi   |OP          |  1|  0.333|  0| 0.000|      0| 0.000|  0|  0|  0| 
-|Rich Hill       |PITCH BENCH |  2|  9.000|  2| 2.000|      6| 0.667| 14|  0|  0| 
+|Rich Hill       |PITCH BENCH |  3| 15.000|  2| 1.200|     10| 0.667| 18|  0|  0| 
 
 
 * * *
