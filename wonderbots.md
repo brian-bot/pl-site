@@ -6,20 +6,20 @@
 |players          |position | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:--------|------:|--:|---:|--:|--:| 
 |Travis d'Arnaud  |C        |      7|  1|   2|  0|  0| 
-|Jose Abreu       |1B       |     12|  4|   9|  2|  0| 
-|Jose Altuve      |2B       |     12|  4|   7|  1|  1| 
+|Jose Abreu       |1B       |     14|  5|   9|  2|  0| 
+|Jose Altuve      |2B       |     14|  4|   7|  1|  1| 
 |Anthony Rendon   |3B       |      9|  4|   8|  2|  0| 
-|Javier Baez      |SS       |     16|  9|   9|  3|  1| 
+|Javier Baez      |SS       |     17|  9|   9|  3|  1| 
 |Didi Gregorius   |MI       |     12|  7|  12|  2|  0| 
-|Kris Bryant      |CI       |     25|  9|  12|  4|  1| 
-|Charlie Blackmon |OF       |     15|  4|  10|  1|  0| 
-|Dylan Carlson    |OF       |     20|  8|   5|  0|  0| 
+|Kris Bryant      |CI       |     26| 10|  12|  4|  1| 
+|Charlie Blackmon |OF       |     19|  5|  12|  1|  0| 
+|Dylan Carlson    |OF       |     23| 11|   5|  0|  0| 
 |George Springer  |OF       |      5|  3|   3|  2|  1| 
 |Ronald Acuna Jr. |OF       |     18|  8|   6|  3|  2| 
 |Adam Eaton       |DH       |      7|  4|   5|  0|  0| 
 |AJ Pollock       |DH       |     17|  7|  11|  4|  2| 
-|Hunter Dozier    |DH       |     13|  6|   9|  4|  0| 
-|Ty France        |DH       |     17|  7|   3|  0|  0| 
+|Hunter Dozier    |DH       |     14|  6|   9|  4|  0| 
+|Ty France        |DH       |     17|  7|   4|  0|  0| 
 
 * * *
 
@@ -29,9 +29,9 @@
 |players         |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:---------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Aaron Nola      |SP          |  3| 19.000|  8| 3.789|     19| 1.000| 21|  2|  0| 
-|Corey Kluber    |SP          |  2| 14.667|  1| 0.614|     11| 0.750| 15|  2|  0| 
+|Corey Kluber    |SP          |  3| 20.333|  3| 1.328|     20| 0.984| 21|  2|  0| 
 |Kyle Hendricks  |SP          |  3| 16.667| 10| 5.400|     26| 1.560| 15|  2|  0| 
-|Lance Lynn      |SP          |  1|  5.000|  3| 5.400|      6| 1.200|  2|  1|  0| 
+|Lance Lynn      |SP          |  2| 10.000|  3| 2.700|     11| 1.100|  8|  2|  0| 
 |Marco Gonzales  |SP          |  1|  6.000|  2| 3.000|      8| 1.333|  4|  0|  0| 
 |Taijuan Walker  |SP          |  3| 20.000|  4| 1.800|     15| 0.750| 16|  2|  0| 
 |Rafael Dolis    |RP          |  6|  4.667|  2| 3.857|      3| 0.643|  3|  0|  3| 
