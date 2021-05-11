@@ -16,7 +16,7 @@
 |Jorge Soler       |OF        |     13|  5|  10|  0|  0| 
 |Luis Robert       |OF        |     10|  4|   2|  0|  1| 
 |Randy Arozarena   |OF        |     22|  9|   5|  1|  3| 
-|Justin Upton      |DH        |     14|  3|   2|  2|  1| 
+|Justin Upton      |DH        |     16|  4|   3|  3|  1| 
 |Kyle Schwarber    |DH        |     14|  7|   7|  2|  0| 
 |Ramon Laureano    |DH        |     24|  9|   9|  6|  0| 
 |Tommy Edman       |DH        |     25|  9|   2|  0|  1| 

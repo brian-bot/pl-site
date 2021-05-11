@@ -8,7 +8,7 @@
 |Christian Vazquez |C         |     17|  6|   9|  0|  2| 
 |Max Muncy         |1B        |     27|  7|   6|  2|  0| 
 |Gavin Lux         |2B        |     12|  2|   3|  0|  0| 
-|Alex Bregman      |3B        |     26| 15|  12|  3|  0| 
+|Alex Bregman      |3B        |     29| 15|  13|  3|  0| 
 |Dansby Swanson    |SS        |     20|  8|   6|  3|  1| 
 |Nick Madrigal     |MI        |     17| 10|   6|  0|  0| 
 |Cavan Biggio      |CI        |     20|  5|   4|  1|  0| 
@@ -18,7 +18,7 @@
 |Wil Myers         |OF        |     15|  6|   4|  1|  3| 
 |Carlos Santana    |DH        |     28| 10|   7|  2|  1| 
 |Dylan Moore       |DH        |     16|  6|   7|  2|  3| 
-|Jesse Winker      |DH        |     25| 12|  11|  5|  0| 
+|Jesse Winker      |DH        |     27| 14|  11|  5|  0| 
 |Jurickson Profar  |DH        |     13|  5|   5|  1|  2| 
 |Miguel Cabrera    |BAT BENCH |     13|  2|   3|  1|  0| 
 

@@ -7,14 +7,14 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Yasmani Grandal   |C         |     19|  6|   1|  0|  0| 
 |Eric Hosmer       |1B        |     23|  5|   6|  1|  1| 
-|Nick Solak        |2B        |     22| 12|  10|  3|  0| 
-|Rafael Devers     |3B        |     25| 11|  12|  3|  2| 
+|Nick Solak        |2B        |     23| 12|  10|  3|  0| 
+|Rafael Devers     |3B        |     25| 11|  13|  3|  2| 
 |Corey Seager      |SS        |     24|  8|   6|  1|  1| 
 |Bo Bichette       |MI        |     19| 13|   8|  3|  3| 
-|Mike Moustakas    |CI        |      5|  1|   5|  1|  0| 
+|Mike Moustakas    |CI        |      7|  3|   6|  1|  0| 
 |Byron Buxton      |OF        |     17|  9|   6|  3|  4| 
 |Giancarlo Stanton |OF        |     32| 11|  12|  6|  0| 
-|J.D. Martinez     |OF        |     29| 13|  11|  4|  0| 
+|J.D. Martinez     |OF        |     31| 14|  11|  4|  0| 
 |Michael Conforto  |OF        |     28|  7|   8|  2|  0| 
 |Aaron Hicks       |DH        |     20|  8|   8|  3|  0| 
 |Austin Meadows    |DH        |     12|  6|  10|  3|  1| 

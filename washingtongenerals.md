@@ -6,15 +6,15 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |J.T. Realmuto    |C         |     23|  9|   7|  2|  2| 
-|Trey Mancini     |1B        |     25|  7|  15|  2|  0| 
+|Trey Mancini     |1B        |     27|  8|  17|  3|  0| 
 |Marcus Semien    |2B        |     26| 10|  12|  4|  2| 
 |Nolan Arenado    |3B        |     24| 10|  13|  2|  0| 
-|Carlos Correa    |SS        |     16|  9|   9|  2|  0| 
+|Carlos Correa    |SS        |     17| 10|   9|  2|  0| 
 |Jake Cronenworth |MI        |     20|  8|   7|  2|  2| 
 |Joey Votto       |CI        |     13|  3|   7|  2|  0| 
 |Dominic Smith    |OF        |     16|  4|   5|  0|  0| 
 |Mark Canha       |OF        |     18|  8|   4|  2|  2| 
-|Mike Trout       |OF        |     23|  6|   6|  2|  1| 
+|Mike Trout       |OF        |     25|  7|   6|  2|  2| 
 |Raimel Tapia     |OF        |     25| 11|  14|  2|  2| 
 |C.J. Cron        |DH        |     24|  9|   7|  4|  0| 
 |Franmil Reyes    |DH        |     19|  9|  14|  4|  1| 
@@ -37,7 +37,7 @@
 |Pablo Lopez     |SP          |  3| 18.000|  1| 0.500|     16| 0.889| 15|  0|  0| 
 |Sonny Gray      |SP          |  3| 16.333|  7| 3.857|     20| 1.224| 25|  0|  0| 
 |Walker Buehler  |SP          |  3| 19.333|  9| 4.190|     17| 0.879| 27|  0|  0| 
-|Jake McGee      |RP          |  5|  4.667|  5| 9.643|      7| 1.500| 10|  0|  2| 
+|Jake McGee      |RP          |  6|  5.667|  5| 7.941|      9| 1.588| 11|  0|  3| 
 |Mark Melancon   |RP          |  6|  6.000|  0| 0.000|      4| 0.667|  7|  0|  5| 
 |Chris Bassitt   |OP          |  3| 19.000|  6| 2.842|     20| 1.053| 24|  1|  0| 
 |Cristian Javier |OP          |  4| 22.333|  8| 3.224|     23| 1.030| 27|  2|  0| 

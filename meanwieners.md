@@ -11,7 +11,7 @@
 |Eduardo Escobar |3B        |     15|  5|   7|  1|  0| 
 |Gleyber Torres  |SS        |     26|  8|   9|  1|  1| 
 |Paul DeJong     |MI        |     15|  5|   7|  2|  2| 
-|Nate Lowe       |CI        |     30|  9|   8|  2|  2| 
+|Nate Lowe       |CI        |     32|  9|   8|  2|  2| 
 |Aaron Judge     |OF        |     22|  6|  10|  3|  0| 
 |Mitch Haniger   |OF        |     18| 10|  11|  4|  0| 
 |Whit Merrifield |OF        |     23|  8|  11|  1|  6| 
@@ -19,7 +19,7 @@
 |Colin Moran     |DH        |     16|  2|   5|  0|  1| 
 |Ian Happ        |DH        |      7|  3|   3|  1|  1| 
 |Tommy Pham      |DH        |      9|  2|   2|  0|  0| 
-|Yuli Gurriel    |DH        |     25| 10|  17|  3|  0| 
+|Yuli Gurriel    |DH        |     27| 10|  17|  3|  0| 
 |Cody Bellinger  |BAT BENCH |     **| **|  **| **| **| 
 |Garrett Hampson |BAT BENCH |     18|  9|   4|  2|  2| 
 |Victor Robles   |BAT BENCH |     15|  4|   0|  0|  1| 

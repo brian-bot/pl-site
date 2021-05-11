@@ -12,14 +12,14 @@
 |Trea Turner         |SS        |     20|  8|   6|  3|  2| 
 |Jeff McNeil         |MI        |     21|  9|   4|  2|  1| 
 |Alec Bohm           |CI        |     14|  8|   9|  2|  0| 
-|Bryan Reynolds      |OF        |     17|  8|   6|  1|  0| 
+|Bryan Reynolds      |OF        |     21|  8|   6|  1|  0| 
 |Chris Taylor        |OF        |     27| 15|   5|  1|  2| 
-|Kyle Tucker         |OF        |     20| 11|   9|  2|  2| 
+|Kyle Tucker         |OF        |     22| 12|   9|  2|  2| 
 |Lourdes Gurriel Jr. |OF        |     14|  5|   4|  2|  0| 
 |Andrew Benintendi   |DH        |     25| 10|   6|  3|  2| 
 |Jean Segura         |DH        |      8|  3|   3|  1|  0| 
 |Justin Turner       |DH        |     27|  8|   7|  2|  0| 
-|Michael Brantley    |DH        |     24| 12|   4|  1|  0| 
+|Michael Brantley    |DH        |     26| 12|   5|  1|  0| 
 |Max Kepler          |BAT BENCH |      9|  5|   4|  2|  1| 
 |Miguel Rojas        |BAT BENCH |     19| 13|   6|  2|  0| 
 
@@ -35,7 +35,7 @@
 |Corbin Burnes    |SP          |  1|  5.000|  4| 7.200|      8| 1.600|  9|  0|  0| 
 |Danny Duffy      |SP          |  3| 17.667|  4| 2.038|     18| 1.019| 21|  2|  0| 
 |Triston McKenzie |SP          |  3| 11.000|  8| 6.545|     19| 1.727| 16|  1|  0| 
-|Tyler Mahle      |SP          |  2| 10.000|  7| 6.300|     16| 1.600| 10|  0|  0| 
+|Tyler Mahle      |SP          |  3| 15.333|  8| 4.696|     24| 1.565| 17|  1|  0| 
 |Aroldis Chapman  |RP          |  8|  8.000|  0| 0.000|      4| 0.500| 16|  1|  5| 
 |Edwin Diaz       |RP          |  8|  8.667|  3| 3.115|     11| 1.269| 11|  0|  3| 
 |Alex Colome      |OP          |  5|  4.667|  3| 5.786|      8| 1.714|  5|  0|  0| 
