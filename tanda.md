@@ -43,7 +43,7 @@
 |Matt Barnes         |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Robbie Ray          |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Steven Matz         |OP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Tim Anderson        |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Tyler Anderson      |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 
 
 * * *
