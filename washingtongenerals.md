@@ -7,22 +7,22 @@
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |J.T. Realmuto    |C         |     **| **|  **| **| **| 
 |Trey Mancini     |1B        |      2|  0|   0|  0|  0| 
-|Marcus Semien    |2B        |      1|  0|   1|  0|  0| 
-|Nolan Arenado    |3B        |      1|  0|   0|  0|  0| 
+|Marcus Semien    |2B        |      3|  1|   1|  0|  0| 
+|Nolan Arenado    |3B        |      4|  0|   1|  0|  0| 
 |Carlos Correa    |SS        |      4|  2|   0|  0|  0| 
 |Jake Cronenworth |MI        |      1|  0|   0|  0|  0| 
 |Brandon Belt     |CI        |     **| **|  **| **| **| 
 |Dominic Smith    |OF        |      3|  1|   2|  0|  0| 
-|Mark Canha       |OF        |      1|  0|   0|  0|  0| 
+|Mark Canha       |OF        |      2|  0|   0|  0|  0| 
 |Mike Trout       |OF        |     **| **|  **| **| **| 
-|Raimel Tapia     |OF        |      1|  0|   0|  0|  1| 
-|Franmil Reyes    |DH        |      2|  0|   0|  0|  0| 
-|Josh Bell        |DH        |      0|  0|   0|  0|  0| 
-|Manuel Margot    |DH        |      0|  0|   0|  0|  0| 
-|Tommy Edman      |DH        |      0|  0|   0|  0|  0| 
+|Raimel Tapia     |OF        |      5|  2|   0|  0|  1| 
+|Franmil Reyes    |DH        |      3|  1|   1|  1|  0| 
+|Josh Bell        |DH        |      1|  1|   2|  1|  0| 
+|Manuel Margot    |DH        |      1|  1|   0|  0|  0| 
+|Tommy Edman      |DH        |      2|  1|   0|  0|  2| 
 |C.J. Cron        |BAT BENCH |     **| **|  **| **| **| 
-|Dom Nunez        |BAT BENCH |      0|  0|   0|  0|  0| 
-|Tim Locastro     |BAT BENCH |      0|  0|   0|  0|  0| 
+|Dom Nunez        |BAT BENCH |      1|  1|   0|  0|  0| 
+|Tim Locastro     |BAT BENCH |      2|  1|   0|  0|  0| 
 
 * * *
 
@@ -40,7 +40,7 @@
 |Jake McGee      |RP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Mark Melancon   |RP          |  1| 1.667|  0| 0.000|      5| 3.000|  0|  0|  1| 
 |Chris Bassitt   |OP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Cristian Javier |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Cristian Javier |OP          |  1| 7.000|  3| 3.857|      6| 0.857|  6|  0|  0| 
 |John Means      |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Jose Alvarado   |OP          |  1| 1.000|  0| 0.000|      2| 2.000|  1|  1|  0| 
 |Michael Kopech  |OP          | **|    **| **|    **|     **|    **| **| **| **| 
