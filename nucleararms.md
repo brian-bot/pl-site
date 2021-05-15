@@ -5,23 +5,23 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez      |C         |      4|  0|   2|  0|  0| 
-|Paul Goldschmidt    |1B        |      4|  0|   0|  0|  1| 
+|Salvador Perez      |C         |      6|  1|   5|  1|  0| 
+|Paul Goldschmidt    |1B        |      7|  0|   0|  0|  1| 
 |Ketel Marte         |2B        |     **| **|  **| **| **| 
-|Manny Machado       |3B        |      2|  0|   0|  0|  1| 
-|Trea Turner         |SS        |      1|  0|   0|  0|  0| 
-|Miguel Rojas        |MI        |      3|  2|   1|  0|  0| 
-|Alec Bohm           |CI        |      2|  0|   0|  0|  0| 
-|Chris Taylor        |OF        |      1|  1|   0|  0|  0| 
-|Kyle Tucker         |OF        |      4|  3|   2|  1|  0| 
-|Lourdes Gurriel Jr. |OF        |      1|  0|   1|  0|  0| 
-|Max Kepler          |OF        |      3|  2|   1|  1|  0| 
-|Andrew Benintendi   |DH        |      3|  0|   1|  0|  0| 
-|Jean Segura         |DH        |      1|  0|   0|  0|  0| 
-|Justin Turner       |DH        |      2|  2|   0|  0|  0| 
-|Michael Brantley    |DH        |      2|  0|   0|  0|  0| 
-|Bryan Reynolds      |BAT BENCH |      2|  0|   0|  0|  0| 
-|Jeff McNeil         |BAT BENCH |     **| **|  **| **| **| 
+|Manny Machado       |3B        |      6|  1|   2|  0|  1| 
+|Trea Turner         |SS        |      3|  1|   3|  1|  0| 
+|Miguel Rojas        |MI        |      5|  4|   1|  0|  0| 
+|Alec Bohm           |CI        |      3|  0|   1|  0|  0| 
+|Chris Taylor        |OF        |      3|  2|   0|  0|  0| 
+|Kyle Tucker         |OF        |      6|  5|   4|  1|  0| 
+|Lourdes Gurriel Jr. |OF        |      3|  0|   1|  0|  0| 
+|Max Kepler          |OF        |      6|  2|   1|  1|  0| 
+|Andrew Benintendi   |DH        |      5|  1|   1|  0|  0| 
+|Jean Segura         |DH        |      3|  1|   0|  0|  0| 
+|Justin Turner       |DH        |      4|  3|   0|  0|  0| 
+|Michael Brantley    |DH        |      2|  0|   1|  0|  0| 
+|Bryan Reynolds      |BAT BENCH |      4|  0|   1|  0|  0| 
+|Jeff McNeil         |BAT BENCH |      1|  0|   0|  0|  0| 
 
 
 * * *

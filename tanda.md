@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Sean Murphy       |C         |      2|  0|   1|  0|  0| 
+|Sean Murphy       |C         |      3|  1|   3|  1|  0| 
 |Matt Olson        |1B        |      2|  1|   2|  1|  0| 
-|Brandon Lowe      |2B        |      3|  1|   0|  0|  0| 
-|Matt Chapman      |3B        |      1|  0|   0|  0|  0| 
-|Trevor Story      |SS        |      3|  1|   1|  0|  1| 
+|Brandon Lowe      |2B        |      4|  2|   0|  0|  0| 
+|Matt Chapman      |3B        |      4|  1|   0|  0|  0| 
+|Trevor Story      |SS        |      7|  3|   1|  0|  2| 
 |Jazz Chisholm Jr. |MI        |     **| **|  **| **| **| 
-|Kyle Seager       |CI        |      1|  0|   0|  0|  0| 
+|Kyle Seager       |CI        |      2|  1|   1|  1|  0| 
 |Joey Gallo        |OF        |      0|  0|   1|  0|  0| 
-|Jorge Soler       |OF        |      2|  0|   0|  0|  0| 
-|Ramon Laureano    |OF        |      1|  0|   0|  0|  0| 
+|Jorge Soler       |OF        |      5|  1|   0|  0|  0| 
+|Ramon Laureano    |OF        |      2|  1|   1|  1|  0| 
 |Randy Arozarena   |OF        |      4|  2|   3|  1|  0| 
-|Adolis Garcia     |DH        |      1|  1|   0|  0|  0| 
-|Kyle Schwarber    |DH        |      3|  1|   2|  1|  0| 
+|Adolis Garcia     |DH        |      4|  2|   1|  1|  0| 
+|Kyle Schwarber    |DH        |      8|  3|   4|  2|  0| 
 |Miguel Sano       |DH        |      0|  0|   0|  0|  0| 
-|Randal Grichuk    |DH        |      0|  0|   0|  0|  0| 
+|Randal Grichuk    |DH        |      1|  0|   0|  0|  0| 
 |Anthony Santander |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -40,9 +40,9 @@
 |Ryan Pressly        |RP          |  1| 1.000|  0|  0.000|      0| 0.000|  1|  0|  0| 
 |Ian Kennedy         |OP          |  1| 1.000|  0|  0.000|      2| 2.000|  0|  0|  0| 
 |Kyle Gibson         |OP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Matt Barnes         |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Matt Barnes         |OP          |  1| 1.000|  0|  0.000|      0| 0.000|  3|  0|  1| 
 |Robbie Ray          |OP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Steven Matz         |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Steven Matz         |OP          |  1| 5.000|  0|  0.000|      7| 1.400|  9|  0|  0| 
 |Tyler Anderson      |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 
 
