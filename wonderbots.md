@@ -14,6 +14,7 @@
 |Kris Bryant      |CI        |      2|  2|   2|  1|  0| 
 |Charlie Blackmon |OF        |      7|  3|   1|  0|  0| 
 |Dylan Carlson    |OF        |      3|  0|   0|  0|  0| 
+|Jarred Kelenic   |OF        |      3|  2|   3|  1|  0| 
 |Ronald Acuna Jr. |OF        |      2|  1|   1|  1|  0| 
 |Adam Eaton       |DH        |      3|  1|   0|  0|  0| 
 |AJ Pollock       |DH        |      2|  0|   2|  0|  0| 
