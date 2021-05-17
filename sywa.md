@@ -5,21 +5,21 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|Willson Contreras     |C         |      5|  1|   0|  0|  0| 
-|Freddie Freeman       |1B        |      5|  4|   2|  1|  0| 
-|Kolten Wong           |2B        |      3|  0|   0|  0|  0| 
-|Jose Ramirez          |3B        |      5|  2|   2|  1|  0| 
-|Eugenio Suarez        |SS        |      3|  2|   6|  1|  0| 
-|Josh Rojas            |MI        |      5|  4|   0|  0|  1| 
-|Vladimir Guerrero Jr. |CI        |      5|  2|   2|  2|  0| 
+|Willson Contreras     |C         |      7|  1|   0|  0|  0| 
+|Freddie Freeman       |1B        |      7|  6|   6|  2|  0| 
+|Kolten Wong           |2B        |      6|  3|   0|  0|  0| 
+|Jose Ramirez          |3B        |      7|  3|   2|  1|  0| 
+|Eugenio Suarez        |SS        |      5|  3|   7|  1|  0| 
+|Josh Rojas            |MI        |      6|  4|   0|  0|  1| 
+|Vladimir Guerrero Jr. |CI        |      8|  4|   4|  3|  0| 
 |Brandon Nimmo         |OF        |     **| **|  **| **| **| 
-|Eddie Rosario         |OF        |      2|  0|   1|  0|  0| 
-|Kyle Lewis            |OF        |      6|  1|   0|  0|  0| 
-|Trent Grisham         |OF        |      9|  3|   1|  0|  0| 
-|Anthony Rizzo         |DH        |      7|  1|   4|  0|  0| 
-|Austin Hays           |DH        |      4|  2|   1|  1|  0| 
+|Eddie Rosario         |OF        |      3|  1|   1|  0|  0| 
+|Kyle Lewis            |OF        |     10|  1|   1|  0|  0| 
+|Trent Grisham         |OF        |     10|  3|   2|  0|  1| 
+|Anthony Rizzo         |DH        |      9|  1|   4|  0|  0| 
+|Austin Hays           |DH        |      6|  4|   1|  1|  0| 
 |Joc Pederson          |DH        |      7|  1|   1|  0|  0| 
-|Yermin Mercedes       |DH        |      5|  0|   2|  0|  0| 
+|Yermin Mercedes       |DH        |      7|  0|   2|  0|  0| 
 |Fernando Tatis Jr.    |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -37,12 +37,12 @@
 |Zac Gallen        |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Zack Wheeler      |SP          |  1| 6.000|  2|  3.000|      9| 1.500|  7|  0|  0| 
 |Daniel Bard       |RP          |  3| 3.667|  1|  2.455|      6| 1.636|  3|  0|  1| 
-|Raisel Iglesias   |RP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Raisel Iglesias   |RP          |  1| 1.000|  0|  0.000|      0| 0.000|  1|  1|  0| 
 |Adrian Houser     |OP          |  1| 3.000|  2|  6.000|      7| 2.333|  3|  0|  0| 
-|Cesar Valdez      |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Cesar Valdez      |OP          |  1| 1.000|  1|  9.000|      3| 3.000|  2|  0|  0| 
 |Dane Dunning      |OP          |  1| 4.000|  4|  9.000|     10| 2.500|  3|  0|  0| 
-|Ryan Weathers     |OP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Stefan Crichton   |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Ryan Weathers     |OP          |  1| 4.000|  2|  4.500|      4| 1.000|  0|  0|  0| 
+|Stefan Crichton   |OP          |  1| 1.000|  3| 27.000|      4| 4.000|  0|  0|  0| 
 |Elieser Hernandez |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Jameson Taillon   |PITCH BENCH |  1| 4.667|  4|  7.714|      8| 1.714|  9|  0|  0| 
 |Jesus Luzardo     |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
