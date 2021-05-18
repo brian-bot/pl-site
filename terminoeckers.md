@@ -5,21 +5,21 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Yasmani Grandal    |C         |      4|  3|   1|  1|  0| 
+|Yasmani Grandal    |C         |      8|  6|   2|  1|  0| 
 |Jesus Aguilar      |1B        |      7|  2|   3|  1|  0| 
 |Nick Solak         |2B        |      7|  4|   0|  0|  0| 
 |Rafael Devers      |3B        |      6|  4|   4|  2|  0| 
 |Corey Seager       |SS        |      3|  1|   1|  0|  0| 
 |Bo Bichette        |MI        |      9|  5|   5|  1|  1| 
-|Mike Moustakas     |CI        |      6|  2|   2|  1|  0| 
+|Mike Moustakas     |CI        |      7|  2|   2|  1|  0| 
 |Austin Meadows     |OF        |      7|  4|   5|  1|  0| 
 |Giancarlo Stanton  |OF        |      1|  0|   0|  0|  0| 
 |J.D. Martinez      |OF        |      9|  2|   1|  0|  0| 
 |Michael Conforto   |OF        |      3|  1|   1|  0|  0| 
 |Aaron Hicks        |DH        |      0|  0|   1|  0|  0| 
 |Carson Kelly       |DH        |      3|  0|   0|  0|  0| 
-|Isiah Kiner-Falefa |DH        |      7|  2|   0|  0|  0| 
-|Tyler Naquin       |DH        |      4|  2|   2|  0|  1| 
+|Isiah Kiner-Falefa |DH        |      8|  3|   1|  0|  1| 
+|Tyler Naquin       |DH        |      6|  3|   3|  1|  1| 
 |Byron Buxton       |BAT BENCH |     **| **|  **| **| **| 
 |Eric Hosmer        |BAT BENCH |     **| **|  **| **| **| 
 |Ke'Bryan Hayes     |BAT BENCH |     **| **|  **| **| **| 
