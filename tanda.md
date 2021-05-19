@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Sean Murphy       |C         |      5|  2|   4|  1|  0| 
-|Matt Olson        |1B        |      7|  3|   4|  2|  0| 
-|Brandon Lowe      |2B        |      6|  5|   1|  1|  0| 
-|Matt Chapman      |3B        |      7|  1|   3|  0|  0| 
+|Sean Murphy       |C         |      6|  2|   4|  1|  0| 
+|Matt Olson        |1B        |      8|  4|   5|  3|  0| 
+|Brandon Lowe      |2B        |      8|  5|   2|  1|  0| 
+|Matt Chapman      |3B        |      9|  1|   4|  0|  0| 
 |Trevor Story      |SS        |      8|  3|   1|  0|  3| 
-|Jazz Chisholm Jr. |MI        |      2|  1|   0|  0|  1| 
+|Jazz Chisholm Jr. |MI        |      4|  3|   2|  1|  1| 
 |Kyle Seager       |CI        |      7|  3|   1|  1|  0| 
-|Joey Gallo        |OF        |      6|  1|   4|  1|  0| 
+|Joey Gallo        |OF        |      7|  1|   4|  1|  0| 
 |Jorge Soler       |OF        |      8|  1|   1|  0|  0| 
-|Ramon Laureano    |OF        |      5|  2|   2|  1|  0| 
-|Randy Arozarena   |OF        |      8|  3|   4|  1|  0| 
-|Adolis Garcia     |DH        |      8|  4|   2|  2|  1| 
-|Kyle Schwarber    |DH        |     12|  4|   7|  3|  1| 
-|Miguel Sano       |DH        |      4|  2|   3|  1|  0| 
-|Randal Grichuk    |DH        |      3|  1|   2|  0|  0| 
+|Ramon Laureano    |OF        |      8|  5|   5|  3|  0| 
+|Randy Arozarena   |OF        |     10|  5|   4|  1|  0| 
+|Adolis Garcia     |DH        |      9|  4|   4|  2|  2| 
+|Kyle Schwarber    |DH        |     13|  4|   7|  3|  1| 
+|Miguel Sano       |DH        |      7|  5|   7|  4|  0| 
+|Randal Grichuk    |DH        |      5|  3|   4|  1|  0| 
 |Anthony Santander |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -30,7 +30,7 @@
  
 |players             |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:-------------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Andrew Heaney       |SP          |  1|  5.333|  5| 8.438|      9| 1.688|  5|  0|  0| 
+|Andrew Heaney       |SP          |  2|  8.333|  9| 9.720|     17| 2.040|  6|  0|  0| 
 |Charlie Morton      |SP          |  1|  4.667|  3| 5.786|      9| 1.929|  4|  0|  0| 
 |Gerrit Cole         |SP          |  2| 13.000|  5| 3.462|     13| 1.000| 19|  1|  0| 
 |Lance McCullers Jr. |SP          |  1|  6.000|  0| 0.000|      7| 1.167|  5|  0|  0| 
