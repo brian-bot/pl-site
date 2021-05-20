@@ -5,22 +5,22 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez      |C         |      9|  2|   9|  2|  0| 
-|Paul Goldschmidt    |1B        |      9|  1|   0|  0|  1| 
-|Ketel Marte         |2B        |     **| **|  **| **| **| 
+|Salvador Perez      |C         |     10|  3|   9|  2|  0| 
+|Paul Goldschmidt    |1B        |     12|  1|   2|  0|  1| 
+|Ketel Marte         |2B        |      0|  0|   0|  0|  0| 
 |Manny Machado       |3B        |     10|  3|   6|  1|  1| 
-|Trea Turner         |SS        |     12|  5|   7|  2|  0| 
-|Miguel Rojas        |MI        |      7|  4|   1|  0|  1| 
+|Trea Turner         |SS        |     14|  6|   8|  2|  1| 
+|Miguel Rojas        |MI        |      8|  5|   1|  0|  1| 
 |Alec Bohm           |CI        |      9|  2|   3|  0|  1| 
-|Chris Taylor        |OF        |      8|  5|   4|  1|  0| 
+|Chris Taylor        |OF        |      9|  6|   4|  1|  0| 
 |Kyle Tucker         |OF        |     11|  8|   7|  3|  0| 
 |Lourdes Gurriel Jr. |OF        |     10|  3|   3|  0|  0| 
 |Max Kepler          |OF        |      9|  4|   5|  2|  0| 
 |Andrew Benintendi   |DH        |      8|  1|   2|  0|  0| 
-|Jean Segura         |DH        |      8|  2|   1|  0|  0| 
+|Jean Segura         |DH        |      9|  2|   1|  0|  0| 
 |Justin Turner       |DH        |      7|  4|   0|  0|  0| 
-|Michael Brantley    |DH        |      5|  2|   2|  0|  0| 
-|Bryan Reynolds      |BAT BENCH |      9|  3|   1|  0|  0| 
+|Michael Brantley    |DH        |      8|  3|   3|  0|  0| 
+|Bryan Reynolds      |BAT BENCH |     10|  4|   2|  0|  0| 
 |Jeff McNeil         |BAT BENCH |      2|  0|   0|  0|  0| 
 
 
@@ -32,14 +32,14 @@
 |players          |position |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:--------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Blake Snell      |SP       |  2| 10.000|  3|  2.700|     14| 1.400| 18|  0|  0| 
-|Corbin Burnes    |SP       |  1|  5.000|  1|  1.800|      6| 1.200|  9|  0|  0| 
+|Corbin Burnes    |SP       |  2| 11.000|  3|  2.455|      9| 0.818| 18|  0|  0| 
 |Danny Duffy      |SP       |  1|  6.000|  4|  6.000|      9| 1.500|  8|  0|  0| 
 |Shane McClanahan |SP       |  1|  5.333|  4|  6.750|      7| 1.312|  7|  1|  0| 
 |Triston McKenzie |SP       |  1|  4.333|  5| 10.385|      8| 1.846|  6|  0|  0| 
 |Tyler Mahle      |SP       |  1|  7.000|  2|  2.571|      7| 1.000|  4|  0|  0| 
 |Aroldis Chapman  |RP       |  2|  2.000|  0|  0.000|      1| 0.500|  4|  0|  2| 
 |Edwin Diaz       |RP       |  3|  3.000|  2|  6.000|      4| 1.333|  3|  0|  2| 
-|Alex Colome      |OP       |  3|  2.667|  0|  0.000|      2| 0.750|  4|  1|  0| 
+|Alex Colome      |OP       |  4|  3.667|  0|  0.000|      2| 0.545|  5|  1|  0| 
 |Dallas Keuchel   |OP       |  2| 12.667|  9|  6.395|     16| 1.263|  7|  2|  0| 
 |Erick Fedde      |OP       |  1|  7.000|  0|  0.000|      5| 0.714|  4|  1|  0| 
 |Matthew Boyd     |OP       |  1|  6.000|  4|  6.000|      7| 1.167|  8|  0|  0| 
