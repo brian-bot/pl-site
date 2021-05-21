@@ -6,18 +6,18 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |J.T. Realmuto    |C         |      1|  1|   1|  0|  0| 
-|Trey Mancini     |1B        |     14|  5|   9|  2|  0| 
-|Marcus Semien    |2B        |     13|  5|   7|  2|  1| 
+|Trey Mancini     |1B        |     16|  6|  10|  3|  0| 
+|Marcus Semien    |2B        |     15|  7|   7|  2|  1| 
 |Nolan Arenado    |3B        |     14|  5|   8|  4|  0| 
-|Carlos Correa    |SS        |     16|  8|   5|  1|  0| 
+|Carlos Correa    |SS        |     18|  8|   5|  1|  0| 
 |Jake Cronenworth |MI        |     14|  7|   1|  1|  0| 
 |Brandon Belt     |CI        |      2|  0|   0|  0|  0| 
 |Dominic Smith    |OF        |     11|  3|   2|  0|  0| 
-|Mark Canha       |OF        |      9|  5|   3|  2|  0| 
+|Mark Canha       |OF        |     12|  6|   4|  3|  0| 
 |Mike Trout       |OF        |      5|  1|   0|  0|  0| 
 |Raimel Tapia     |OF        |      9|  4|   2|  0|  1| 
 |Franmil Reyes    |DH        |     10|  3|   4|  2|  0| 
-|Josh Bell        |DH        |     10|  5|   5|  1|  0| 
+|Josh Bell        |DH        |     11|  6|   6|  2|  0| 
 |Manuel Margot    |DH        |      7|  3|   5|  1|  0| 
 |Tommy Edman      |DH        |     10|  4|   5|  0|  3| 
 |C.J. Cron        |BAT BENCH |      3|  1|   0|  0|  0| 

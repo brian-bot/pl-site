@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Sean Murphy       |C         |      7|  2|   5|  1|  0| 
-|Matt Olson        |1B        |      8|  4|   5|  3|  0| 
-|Brandon Lowe      |2B        |      8|  5|   2|  1|  0| 
+|Sean Murphy       |C         |      8|  2|   5|  1|  0| 
+|Matt Olson        |1B        |     10|  5|   5|  3|  0| 
+|Brandon Lowe      |2B        |     10|  5|   3|  1|  0| 
 |Matt Chapman      |3B        |      9|  1|   4|  0|  0| 
 |Trevor Story      |SS        |      9|  3|   1|  0|  3| 
 |Jazz Chisholm Jr. |MI        |      5|  3|   3|  1|  1| 
 |Kyle Seager       |CI        |      8|  4|   3|  2|  0| 
-|Joey Gallo        |OF        |      7|  1|   4|  1|  0| 
+|Joey Gallo        |OF        |      9|  1|   4|  1|  0| 
 |Jorge Soler       |OF        |      9|  2|   2|  1|  0| 
 |Ramon Laureano    |OF        |      8|  5|   5|  3|  0| 
-|Randy Arozarena   |OF        |     13|  7|   8|  3|  0| 
-|Adolis Garcia     |DH        |      9|  4|   4|  2|  2| 
-|Kyle Schwarber    |DH        |     15|  4|   7|  3|  1| 
-|Miguel Sano       |DH        |      7|  5|   7|  4|  0| 
-|Randal Grichuk    |DH        |      6|  3|   4|  1|  0| 
+|Randy Arozarena   |OF        |     17| 10|  12|  4|  0| 
+|Adolis Garcia     |DH        |     10|  4|   4|  2|  2| 
+|Kyle Schwarber    |DH        |     16|  5|   8|  4|  1| 
+|Miguel Sano       |DH        |     10|  7|  11|  5|  0| 
+|Randal Grichuk    |DH        |      8|  3|   6|  1|  0| 
 |Anthony Santander |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -37,12 +37,12 @@
 |Michael Pineda      |SP          |  1|  5.333|  3| 5.062|      7| 1.312|  7|  0|  0| 
 |Zach Eflin          |SP          |  2| 12.000|  7| 5.250|     15| 1.250| 15|  0|  0| 
 |Brad Hand           |RP          |  3|  3.000|  3| 9.000|      4| 1.333|  8|  0|  2| 
-|Ryan Pressly        |RP          |  2|  2.000|  0| 0.000|      0| 0.000|  2|  0|  1| 
+|Ryan Pressly        |RP          |  3|  2.333|  0| 0.000|      0| 0.000|  2|  0|  1| 
 |Ian Kennedy         |OP          |  2|  2.000|  0| 0.000|      2| 1.000|  1|  0|  1| 
 |Kyle Gibson         |OP          |  1|  7.000|  2| 2.571|      6| 0.857|  3|  0|  0| 
-|Matt Barnes         |OP          |  2|  2.333|  2| 7.714|      2| 0.857|  5|  0|  1| 
+|Matt Barnes         |OP          |  3|  3.333|  2| 5.400|      3| 0.900|  8|  0|  2| 
 |Robbie Ray          |OP          |  1|  5.667|  4| 6.353|      8| 1.412|  9|  1|  0| 
-|Steven Matz         |OP          |  1|  5.000|  0| 0.000|      7| 1.400|  9|  0|  0| 
+|Steven Matz         |OP          |  2| 11.000|  5| 4.091|     19| 1.727| 13|  0|  0| 
 |Tyler Anderson      |PITCH BENCH |  1|  5.000|  4| 7.200|      8| 1.600|  7|  0|  0| 
 
 

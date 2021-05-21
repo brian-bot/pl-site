@@ -7,14 +7,14 @@
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Yasmani Grandal    |C         |     11|  7|   4|  2|  0| 
 |Jesus Aguilar      |1B        |      8|  2|   3|  1|  0| 
-|Nick Solak         |2B        |      9|  6|   2|  1|  0| 
-|Rafael Devers      |3B        |      8|  5|   4|  2|  0| 
+|Nick Solak         |2B        |     10|  6|   2|  1|  0| 
+|Rafael Devers      |3B        |     10|  5|   4|  2|  1| 
 |Corey Seager       |SS        |      3|  1|   1|  0|  0| 
-|Bo Bichette        |MI        |     12|  7|   6|  1|  1| 
+|Bo Bichette        |MI        |     16|  8|   7|  1|  1| 
 |Mike Moustakas     |CI        |      7|  2|   2|  1|  0| 
-|Austin Meadows     |OF        |     10|  6|   8|  2|  0| 
+|Austin Meadows     |OF        |     13|  8|   9|  2|  0| 
 |Giancarlo Stanton  |OF        |      1|  0|   0|  0|  0| 
-|J.D. Martinez      |OF        |     10|  3|   2|  1|  0| 
+|J.D. Martinez      |OF        |     12|  4|   5|  2|  0| 
 |Michael Conforto   |OF        |      3|  1|   1|  0|  0| 
 |Aaron Hicks        |DH        |      0|  0|   1|  0|  0| 
 |Carson Kelly       |DH        |      3|  0|   0|  0|  0| 
@@ -41,7 +41,7 @@
 |Alex Reyes        |RP          |  4|  4.000|  0|  0.000|      6| 1.500|  7|  0|  3| 
 |Diego Castillo    |RP          |  2|  2.000|  1|  4.500|      2| 1.000|  3|  0|  0| 
 |Chris Paddack     |OP          |  1|  4.000|  1|  2.250|      4| 1.000|  2|  0|  0| 
-|Domingo German    |OP          |  1|  6.000|  1|  1.500|      6| 1.000|  6|  1|  0| 
+|Domingo German    |OP          |  2| 13.000|  1|  0.692|     12| 0.923| 11|  2|  0| 
 |Garrett Richards  |OP          |  2| 12.667|  2|  1.421|     19| 1.500|  9|  2|  0| 
 |JT Brubaker       |OP          |  1|  5.667|  5|  7.941|     11| 1.941|  3|  0|  0| 
 |Lou Trivino       |OP          |  3|  3.333|  0|  0.000|      4| 1.200|  1|  1|  0| 
