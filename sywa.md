@@ -5,22 +5,22 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|Willson Contreras     |C         |     12|  3|   3|  1|  0| 
-|Freddie Freeman       |1B        |     14|  7|   7|  3|  0| 
-|Kolten Wong           |2B        |     10|  4|   1|  0|  1| 
-|Jose Ramirez          |3B        |     12|  6|   5|  2|  2| 
-|Eugenio Suarez        |SS        |      9|  6|  10|  3|  0| 
-|Josh Rojas            |MI        |     10|  5|   0|  0|  1| 
-|Vladimir Guerrero Jr. |CI        |     14|  7|   6|  3|  0| 
+|Willson Contreras     |C         |     13|  3|   4|  1|  0| 
+|Freddie Freeman       |1B        |     16|  9|   7|  3|  0| 
+|Kolten Wong           |2B        |     10|  5|   1|  0|  1| 
+|Jose Ramirez          |3B        |     13|  6|   5|  2|  2| 
+|Eugenio Suarez        |SS        |     10|  7|  10|  3|  0| 
+|Josh Rojas            |MI        |     12|  5|   1|  0|  1| 
+|Vladimir Guerrero Jr. |CI        |     18|  9|  10|  5|  0| 
 |Brandon Nimmo         |OF        |     **| **|  **| **| **| 
-|Eddie Rosario         |OF        |      5|  2|   1|  0|  0| 
-|Kyle Lewis            |OF        |     12|  2|   1|  0|  1| 
-|Trent Grisham         |OF        |     13|  5|   2|  0|  1| 
-|Anthony Rizzo         |DH        |     13|  2|   5|  0|  0| 
-|Austin Hays           |DH        |      9|  5|   3|  1|  0| 
-|Joc Pederson          |DH        |     12|  1|   2|  0|  0| 
-|Yermin Mercedes       |DH        |     13|  2|   5|  1|  0| 
-|Fernando Tatis Jr.    |BAT BENCH |      4|  1|   2|  1|  1| 
+|Eddie Rosario         |OF        |      7|  2|   1|  0|  0| 
+|Kyle Lewis            |OF        |     13|  2|   1|  0|  1| 
+|Trent Grisham         |OF        |     16|  7|   3|  1|  1| 
+|Anthony Rizzo         |DH        |     16|  3|   7|  0|  0| 
+|Austin Hays           |DH        |     10|  5|   3|  1|  0| 
+|Joc Pederson          |DH        |     14|  3|   4|  1|  0| 
+|Yermin Mercedes       |DH        |     16|  2|   5|  1|  0| 
+|Fernando Tatis Jr.    |BAT BENCH |      7|  3|   6|  2|  2| 
 
 
 * * *
@@ -37,8 +37,8 @@
 |Zac Gallen        |SP          | **|     **| **|     **|     **|    **| **| **| **| 
 |Zack Wheeler      |SP          |  2| 13.000|  2|  1.385|     14| 1.077| 17|  0|  0| 
 |Daniel Bard       |RP          |  4|  5.000|  1|  1.800|      6| 1.200|  5|  0|  1| 
-|Raisel Iglesias   |RP          |  2|  2.000|  0|  0.000|      0| 0.000|  4|  1|  1| 
-|Adrian Houser     |OP          |  1|  3.000|  2|  6.000|      7| 2.333|  3|  0|  0| 
+|Raisel Iglesias   |RP          |  3|  3.000|  2|  6.000|      3| 1.000|  5|  1|  1| 
+|Adrian Houser     |OP          |  2|  7.000|  8| 10.286|     16| 2.286|  7|  0|  0| 
 |Cesar Valdez      |OP          |  2|  2.000|  1|  4.500|      6| 3.000|  3|  0|  0| 
 |Dane Dunning      |OP          |  2| 10.000|  4|  3.600|     15| 1.500|  9|  0|  0| 
 |Ryan Weathers     |OP          |  1|  4.000|  2|  4.500|      4| 1.000|  0|  0|  0| 

@@ -6,22 +6,22 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |J.T. Realmuto    |C         |      1|  1|   1|  0|  0| 
-|Trey Mancini     |1B        |     16|  6|  10|  3|  0| 
-|Marcus Semien    |2B        |     15|  7|   7|  2|  1| 
-|Nolan Arenado    |3B        |     14|  5|   8|  4|  0| 
-|Carlos Correa    |SS        |     18|  8|   5|  1|  0| 
-|Jake Cronenworth |MI        |     14|  7|   1|  1|  0| 
-|Brandon Belt     |CI        |      2|  0|   0|  0|  0| 
-|Dominic Smith    |OF        |     11|  3|   2|  0|  0| 
-|Mark Canha       |OF        |     12|  6|   4|  3|  0| 
+|Trey Mancini     |1B        |     19|  7|  10|  3|  0| 
+|Marcus Semien    |2B        |     18| 10|   9|  3|  2| 
+|Nolan Arenado    |3B        |     15|  5|   8|  4|  0| 
+|Carlos Correa    |SS        |     19| 10|   6|  1|  0| 
+|Jake Cronenworth |MI        |     17|  9|   6|  2|  0| 
+|Brandon Belt     |CI        |      3|  0|   0|  0|  0| 
+|Dominic Smith    |OF        |     12|  5|   2|  0|  0| 
+|Mark Canha       |OF        |     14|  7|   5|  4|  0| 
 |Mike Trout       |OF        |      5|  1|   0|  0|  0| 
-|Raimel Tapia     |OF        |      9|  4|   2|  0|  1| 
-|Franmil Reyes    |DH        |     10|  3|   4|  2|  0| 
-|Josh Bell        |DH        |     11|  6|   6|  2|  0| 
-|Manuel Margot    |DH        |      7|  3|   5|  1|  0| 
-|Tommy Edman      |DH        |     10|  4|   5|  0|  3| 
-|C.J. Cron        |BAT BENCH |      3|  1|   0|  0|  0| 
-|Dom Nunez        |BAT BENCH |      3|  2|   0|  0|  0| 
+|Raimel Tapia     |OF        |     11|  6|   4|  1|  1| 
+|Franmil Reyes    |DH        |     11|  3|   4|  2|  0| 
+|Josh Bell        |DH        |     14|  7|   7|  2|  0| 
+|Manuel Margot    |DH        |      8|  3|   5|  1|  0| 
+|Tommy Edman      |DH        |     11|  4|   6|  0|  3| 
+|C.J. Cron        |BAT BENCH |      5|  2|   2|  0|  0| 
+|Dom Nunez        |BAT BENCH |      5|  3|   0|  0|  0| 
 |Tim Locastro     |BAT BENCH |      3|  1|   0|  0|  0| 
 
 * * *
@@ -43,7 +43,7 @@
 |Cristian Javier |OP          |  2| 13.000|  6| 4.154|     12| 0.923| 15|  0|  0| 
 |John Means      |OP          |  1|  6.333|  4| 5.684|      7| 1.105|  6|  0|  0| 
 |Jose Alvarado   |OP          |  3|  2.667|  2| 6.750|      5| 1.875|  3|  1|  0| 
-|Michael Kopech  |OP          |  2|  5.000|  1| 1.800|      5| 1.000|  5|  0|  0| 
+|Michael Kopech  |OP          |  3|  6.000|  2| 3.000|      8| 1.333|  7|  0|  0| 
 |Aaron Sanchez   |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 
 
