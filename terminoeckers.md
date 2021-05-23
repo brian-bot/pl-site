@@ -7,21 +7,21 @@
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Yasmani Grandal    |C         |     11|  7|   4|  2|  0| 
 |Jesus Aguilar      |1B        |      8|  2|   3|  1|  0| 
-|Nick Solak         |2B        |     10|  6|   2|  1|  0| 
-|Rafael Devers      |3B        |     13|  7|   7|  3|  1| 
+|Nick Solak         |2B        |     13|  6|   2|  1|  0| 
+|Rafael Devers      |3B        |     14|  7|   8|  3|  1| 
 |Corey Seager       |SS        |      3|  1|   1|  0|  0| 
 |Bo Bichette        |MI        |     17|  9|   7|  1|  1| 
 |Mike Moustakas     |CI        |      7|  2|   2|  1|  0| 
 |Austin Meadows     |OF        |     15|  8|   9|  2|  0| 
 |Giancarlo Stanton  |OF        |      1|  0|   0|  0|  0| 
-|J.D. Martinez      |OF        |     15|  7|   5|  2|  0| 
+|J.D. Martinez      |OF        |     16|  7|   5|  2|  0| 
 |Michael Conforto   |OF        |      3|  1|   1|  0|  0| 
 |Aaron Hicks        |DH        |      0|  0|   1|  0|  0| 
 |Carson Kelly       |DH        |      3|  0|   0|  0|  0| 
-|Isiah Kiner-Falefa |DH        |     10|  3|   1|  0|  3| 
+|Isiah Kiner-Falefa |DH        |     13|  4|   3|  0|  3| 
 |Tyler Naquin       |DH        |     10|  4|   6|  2|  1| 
 |Byron Buxton       |BAT BENCH |     **| **|  **| **| **| 
-|Eric Hosmer        |BAT BENCH |      2|  2|   2|  0|  0| 
+|Eric Hosmer        |BAT BENCH |      4|  3|   4|  0|  0| 
 |Ke'Bryan Hayes     |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -33,13 +33,13 @@
 |players           |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Dylan Bundy       |SP          |  1|  4.000|  7| 15.750|     10| 2.500|  3|  0|  0| 
-|Dylan Cease       |SP          |  1|  5.667|  0|  0.000|      6| 1.059|  3|  0|  0| 
+|Dylan Cease       |SP          |  2| 10.000|  5|  4.500|     15| 1.500|  9|  0|  0| 
 |Jacob deGrom      |SP          | **|     **| **|     **|     **|    **| **| **| **| 
 |Jordan Montgomery |SP          |  2| 10.000|  5|  4.500|     12| 1.200| 15|  0|  0| 
 |Max Scherzer      |SP          |  2| 10.000|  2|  1.800|     12| 1.200| 15|  2|  0| 
 |Trevor Rogers     |SP          |  2| 13.667|  2|  1.317|     13| 0.951| 15|  2|  0| 
-|Alex Reyes        |RP          |  4|  4.000|  0|  0.000|      6| 1.500|  7|  0|  3| 
-|Diego Castillo    |RP          |  3|  3.333|  2|  5.400|      3| 0.900|  5|  1|  0| 
+|Alex Reyes        |RP          |  5|  5.000|  0|  0.000|      7| 1.400|  8|  0|  4| 
+|Diego Castillo    |RP          |  4|  4.333|  2|  4.154|      4| 0.923|  6|  1|  1| 
 |Chris Paddack     |OP          |  2| 10.000|  2|  1.800|      9| 0.900|  8|  1|  0| 
 |Domingo German    |OP          |  2| 13.000|  1|  0.692|     12| 0.923| 11|  2|  0| 
 |Garrett Richards  |OP          |  2| 12.667|  2|  1.421|     19| 1.500|  9|  2|  0| 
