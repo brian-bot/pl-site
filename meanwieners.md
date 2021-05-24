@@ -6,24 +6,24 @@
 |players         |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------|:---------|------:|--:|---:|--:|--:| 
 |Buster Posey    |C         |     11|  3|   5|  1|  0| 
-|Rhys Hoskins    |1B        |     18|  4|   6|  1|  0| 
-|Whit Merrifield |2B        |     12|  7|   1|  0|  2| 
+|Rhys Hoskins    |1B        |     20|  5|   7|  1|  1| 
+|Whit Merrifield |2B        |     13|  8|   1|  0|  2| 
 |Evan Longoria   |3B        |     10|  3|   3|  1|  1| 
-|Gleyber Torres  |SS        |      9|  3|   6|  1|  1| 
+|Gleyber Torres  |SS        |     12|  3|   8|  1|  1| 
 |Paul DeJong     |MI        |      0|  0|   0|  0|  0| 
-|Luke Voit       |CI        |     11|  3|   3|  1|  0| 
-|Aaron Judge     |OF        |     23| 10|   6|  4|  0| 
-|Garrett Hampson |OF        |     11|  5|   3|  2|  2| 
-|Mitch Haniger   |OF        |     14|  7|   4|  3|  0| 
+|Luke Voit       |CI        |     12|  4|   3|  1|  0| 
+|Aaron Judge     |OF        |     26| 11|   7|  4|  0| 
+|Garrett Hampson |OF        |     12|  5|   3|  2|  2| 
+|Mitch Haniger   |OF        |     15|  7|   4|  3|  0| 
 |Yordan Alvarez  |OF        |     11|  6|   5|  1|  0| 
 |Eduardo Escobar |DH        |     13|  7|  16|  5|  0| 
-|Nate Lowe       |DH        |     10|  4|   2|  0|  0| 
+|Nate Lowe       |DH        |     12|  4|   3|  0|  0| 
 |Tyler O'Neill   |DH        |      6|  2|   3|  2|  1| 
-|Yuli Gurriel    |DH        |     13|  5|  10|  1|  0| 
+|Yuli Gurriel    |DH        |     14|  5|  10|  1|  0| 
 |Cody Bellinger  |BAT BENCH |     **| **|  **| **| **| 
-|Jed Lowrie      |BAT BENCH |     10|  2|   3|  1|  0| 
-|Tommy Pham      |BAT BENCH |     16|  7|   4|  1|  1| 
-|Willie Calhoun  |BAT BENCH |      8|  3|   2|  2|  0| 
+|Jed Lowrie      |BAT BENCH |     11|  2|   4|  1|  0| 
+|Tommy Pham      |BAT BENCH |     17|  8|   4|  1|  1| 
+|Willie Calhoun  |BAT BENCH |     11|  4|   2|  2|  0| 
 
 * * *
 
@@ -40,10 +40,10 @@
 |Shane Bieber      |SP          |  2| 10.000|  6|  5.400|     18| 1.800| 13|  0|  0| 
 |Kenley Jansen     |RP          |  5|  5.333|  0|  0.000|      2| 0.375|  7|  0|  5| 
 |Will Smith        |RP          |  5|  4.000|  5| 11.250|      9| 2.250|  6|  1|  0| 
-|Jonathan Loaisiga |OP          |  3|  3.667|  1|  2.455|      2| 0.545|  1|  0|  1| 
+|Jonathan Loaisiga |OP          |  4|  4.667|  1|  1.929|      3| 0.643|  2|  0|  1| 
 |Logan Webb        |OP          |  1|  6.000|  0|  0.000|      7| 1.167|  4|  1|  0| 
 |Richard Rodriguez |OP          |  4|  5.000|  0|  0.000|      2| 0.400|  3|  2|  0| 
-|Ryne Stanek       |OP          |  5|  3.667|  5| 12.273|     11| 3.000|  6|  0|  0| 
+|Ryne Stanek       |OP          |  6|  4.667|  5|  9.643|     12| 2.571|  6|  0|  0| 
 |Trevor May        |OP          |  4|  3.667|  2|  4.909|      7| 1.909|  6|  0|  0| 
 |Cole Irvin        |PITCH BENCH |  2| 11.667|  6|  4.629|     17| 1.457|  3|  0|  0| 
 
