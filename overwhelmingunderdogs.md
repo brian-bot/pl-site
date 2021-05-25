@@ -10,18 +10,18 @@
 |Gavin Lux         |2B        |     18|  6|  11|  2|  0| 
 |Alex Bregman      |3B        |     24|  6|   5|  0|  0| 
 |Dansby Swanson    |SS        |     15|  9|   9|  4|  1| 
-|Nick Madrigal     |MI        |     10|  4|   3|  1|  0| 
+|Nick Madrigal     |MI        |     11|  5|   3|  1|  0| 
 |Cavan Biggio      |CI        |     10|  3|   3|  0|  2| 
-|Alex Kirilloff    |OF        |      4|  3|   3|  0|  0| 
-|Andrew McCutchen  |OF        |     16|  6|   4|  2|  1| 
+|Alex Kirilloff    |OF        |      6|  4|   3|  0|  0| 
+|Andrew McCutchen  |OF        |     18|  7|   5|  2|  1| 
 |Christian Yelich  |OF        |      6|  2|   3|  1|  1| 
 |Marcell Ozuna     |OF        |     16|  8|   4|  2|  0| 
 |Carlos Santana    |DH        |     17| 10|  10|  3|  1| 
 |Dylan Moore       |DH        |      6|  3|   6|  2|  2| 
 |Jesse Winker      |DH        |     19| 10|   9|  6|  0| 
-|Miguel Cabrera    |DH        |     15|  4|  10|  2|  0| 
-|Jurickson Profar  |BAT BENCH |     11|  8|   2|  0|  2| 
-|Wil Myers         |BAT BENCH |      1|  0|   1|  0|  0| 
+|Miguel Cabrera    |DH        |     16|  4|  10|  2|  0| 
+|Jurickson Profar  |BAT BENCH |     11|  9|   2|  0|  2| 
+|Wil Myers         |BAT BENCH |      2|  0|   1|  0|  0| 
 
 
 * * *
@@ -45,7 +45,7 @@
 |Freddy Peralta     |OP          |  2| 10.667|  2| 1.687|     10| 0.937| 15|  1|  0| 
 |Johnny Cueto       |OP          |  2|  9.333|  3| 2.893|     14| 1.500|  6|  1|  0| 
 |Jake Arrieta       |PITCH BENCH |  2| 11.000|  6| 4.909|     14| 1.273|  3|  1|  0| 
-|Yusei Kikuchi      |PITCH BENCH |  1|  6.000|  3| 4.500|      7| 1.167|  8|  0|  0| 
+|Yusei Kikuchi      |PITCH BENCH |  2| 12.000|  4| 3.000|     13| 1.083| 11|  1|  0| 
 
 
 * * *

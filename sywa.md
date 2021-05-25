@@ -7,20 +7,20 @@
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
 |Willson Contreras     |C         |     17|  4|   4|  1|  0| 
 |Freddie Freeman       |1B        |     20| 11|   8|  3|  1| 
-|Kolten Wong           |2B        |     13|  7|   3|  0|  1| 
-|Jose Ramirez          |3B        |     14|  8|   6|  2|  2| 
+|Kolten Wong           |2B        |     15|  7|   5|  0|  1| 
+|Jose Ramirez          |3B        |     15|  8|   6|  2|  2| 
 |Eugenio Suarez        |SS        |     10|  7|  10|  3|  0| 
 |Josh Rojas            |MI        |     17|  6|   1|  0|  1| 
-|Vladimir Guerrero Jr. |CI        |     21| 10|  10|  5|  0| 
+|Vladimir Guerrero Jr. |CI        |     23| 12|  13|  7|  0| 
 |Brandon Nimmo         |OF        |     **| **|  **| **| **| 
-|Eddie Rosario         |OF        |      9|  2|   2|  0|  0| 
-|Kyle Lewis            |OF        |     16|  2|   1|  0|  2| 
+|Eddie Rosario         |OF        |     11|  2|   4|  0|  0| 
+|Kyle Lewis            |OF        |     19|  3|   3|  1|  2| 
 |Trent Grisham         |OF        |     16|  7|   3|  1|  1| 
 |Anthony Rizzo         |DH        |     17|  3|   7|  0|  0| 
 |Austin Hays           |DH        |     12|  6|   3|  1|  0| 
 |Joc Pederson          |DH        |     14|  4|   4|  1|  0| 
-|Yermin Mercedes       |DH        |     16|  2|   5|  1|  0| 
-|Fernando Tatis Jr.    |BAT BENCH |     14|  7|  12|  4|  3| 
+|Yermin Mercedes       |DH        |     18|  3|   6|  1|  0| 
+|Fernando Tatis Jr.    |BAT BENCH |     15|  7|  12|  4|  3| 
 
 
 * * *
@@ -39,7 +39,7 @@
 |Daniel Bard       |RP          |  6|  7.000|  1|  1.286|      9| 1.286| 10|  1|  2| 
 |Raisel Iglesias   |RP          |  4|  4.333|  2|  4.154|      3| 0.692|  7|  2|  1| 
 |Adrian Houser     |OP          |  2|  7.000|  8| 10.286|     16| 2.286|  7|  0|  0| 
-|Cesar Valdez      |OP          |  3|  3.000|  1|  3.000|      7| 2.333|  3|  0|  0| 
+|Cesar Valdez      |OP          |  4|  3.333|  4| 10.800|     10| 3.000|  3|  0|  0| 
 |Dane Dunning      |OP          |  2| 10.000|  4|  3.600|     15| 1.500|  9|  0|  0| 
 |Ryan Weathers     |OP          |  2|  8.000|  3|  3.375|     12| 1.500|  2|  0|  0| 
 |Stefan Crichton   |OP          |  3|  1.667|  4| 21.600|      5| 3.000|  0|  0|  0| 
