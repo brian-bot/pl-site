@@ -6,21 +6,21 @@
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
 |Willson Contreras     |C         |     17|  4|   4|  1|  0| 
-|Freddie Freeman       |1B        |     20| 11|   8|  3|  1| 
+|Freddie Freeman       |1B        |     23| 12|   8|  3|  1| 
 |Kolten Wong           |2B        |     15|  7|   5|  0|  1| 
-|Jose Ramirez          |3B        |     15|  8|   6|  2|  2| 
-|Eugenio Suarez        |SS        |     10|  7|  10|  3|  0| 
-|Josh Rojas            |MI        |     17|  6|   1|  0|  1| 
-|Vladimir Guerrero Jr. |CI        |     23| 12|  13|  7|  0| 
+|Jose Ramirez          |3B        |     16|  9|   6|  2|  2| 
+|Eugenio Suarez        |SS        |     11|  8|  11|  4|  0| 
+|Josh Rojas            |MI        |     18|  6|   1|  0|  1| 
+|Vladimir Guerrero Jr. |CI        |     26| 13|  15|  8|  0| 
 |Brandon Nimmo         |OF        |     **| **|  **| **| **| 
-|Eddie Rosario         |OF        |     11|  2|   4|  0|  0| 
-|Kyle Lewis            |OF        |     19|  3|   3|  1|  2| 
+|Eddie Rosario         |OF        |     13|  3|   4|  0|  0| 
+|Kyle Lewis            |OF        |     20|  4|   3|  1|  2| 
 |Trent Grisham         |OF        |     16|  7|   3|  1|  1| 
-|Anthony Rizzo         |DH        |     17|  3|   7|  0|  0| 
+|Anthony Rizzo         |DH        |     18|  3|   8|  0|  0| 
 |Austin Hays           |DH        |     12|  6|   3|  1|  0| 
-|Joc Pederson          |DH        |     14|  4|   4|  1|  0| 
+|Joc Pederson          |DH        |     17|  6|   7|  3|  0| 
 |Yermin Mercedes       |DH        |     18|  3|   6|  1|  0| 
-|Fernando Tatis Jr.    |BAT BENCH |     15|  7|  12|  4|  3| 
+|Fernando Tatis Jr.    |BAT BENCH |     16|  8|  13|  4|  4| 
 
 
 * * *
@@ -30,8 +30,8 @@
  
 |players           |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Aaron Civale      |SP          |  2| 13.667|  7|  4.610|     13| 0.951| 14|  1|  0| 
-|Jack Flaherty     |SP          |  2| 12.000|  2|  1.500|     14| 1.167| 13|  2|  0| 
+|Aaron Civale      |SP          |  3| 21.667|  8|  3.323|     20| 0.923| 20|  2|  0| 
+|Jack Flaherty     |SP          |  3| 15.667|  5|  2.872|     22| 1.404| 16|  2|  0| 
 |Jose Urquidy      |SP          |  1|  3.667|  0|  0.000|      2| 0.545|  4|  0|  0| 
 |Luis Castillo     |SP          |  3| 13.667| 16| 10.537|     30| 2.195| 19|  0|  0| 
 |Zac Gallen        |SP          | **|     **| **|     **|     **|    **| **| **| **| 
