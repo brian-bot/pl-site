@@ -6,20 +6,20 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Yadier Molina    |C         |     12|  2|   3|  2|  0| 
-|Jose Abreu       |1B        |     15|  6|  11|  3|  0| 
-|Jose Altuve      |2B        |     23| 10|   6|  2|  0| 
-|Anthony Rendon   |3B        |     12|  4|   1|  0|  0| 
-|Javier Baez      |SS        |     16|  8|   7|  3|  1| 
+|Jose Abreu       |1B        |     17|  6|  11|  3|  0| 
+|Jose Altuve      |2B        |     25| 12|   8|  3|  0| 
+|Anthony Rendon   |3B        |     13|  5|   2|  0|  0| 
+|Javier Baez      |SS        |     17|  8|   7|  3|  1| 
 |Didi Gregorius   |MI        |      0|  0|   0|  0|  0| 
-|Kris Bryant      |CI        |     17|  6|   6|  1|  1| 
+|Kris Bryant      |CI        |     20|  6|   8|  1|  1| 
 |Charlie Blackmon |OF        |     16|  6|   3|  1|  0| 
 |Dylan Carlson    |OF        |     15|  3|   3|  0|  0| 
-|Jarred Kelenic   |OF        |     11|  4|   5|  2|  1| 
-|Ronald Acuna Jr. |OF        |     13|  5|   9|  4|  0| 
-|Adam Eaton       |DH        |     11|  6|   3|  1|  0| 
+|Jarred Kelenic   |OF        |     11|  4|   6|  2|  1| 
+|Ronald Acuna Jr. |OF        |     15|  5|   9|  4|  0| 
+|Adam Eaton       |DH        |     12|  6|   3|  1|  1| 
 |AJ Pollock       |DH        |      2|  0|   2|  0|  0| 
 |Hunter Dozier    |DH        |      0|  0|   0|  0|  0| 
-|Ty France        |DH        |      5|  1|   1|  0|  0| 
+|Ty France        |DH        |      7|  1|   1|  0|  0| 
 |George Springer  |BAT BENCH |     **| **|  **| **| **| 
 
 * * *
@@ -29,7 +29,7 @@
  
 |players         |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:---------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Aaron Nola      |SP          |  2| 11.667|  7|  5.400|     18| 1.543| 17|  0|  0| 
+|Aaron Nola      |SP          |  3| 17.667|  8|  4.075|     23| 1.302| 23|  0|  0| 
 |Corey Kluber    |SP          |  3| 18.000|  6|  3.000|     15| 0.833| 20|  2|  0| 
 |Kyle Hendricks  |SP          |  2| 14.667|  2|  1.227|     16| 1.091| 12|  2|  0| 
 |Lance Lynn      |SP          |  3| 18.000|  3|  1.500|     17| 0.944| 15|  2|  0| 
