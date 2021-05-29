@@ -5,22 +5,22 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Mitch Garver     |C         |     16|  6|   3|  1|  0| 
+|Mitch Garver     |C         |     18|  7|   4|  2|  0| 
 |Jared Walsh      |1B        |     14|  7|   8|  4|  0| 
-|DJ LeMahieu      |2B        |     16|  7|   5|  0|  0| 
-|Gio Urshela      |3B        |     16|  4|   8|  1|  0| 
+|DJ LeMahieu      |2B        |     18|  7|   5|  0|  0| 
+|Gio Urshela      |3B        |     17|  4|   8|  1|  0| 
 |Francisco Lindor |SS        |     12|  4|   2|  1|  3| 
 |Austin Riley     |MI        |     24| 11|  14|  7|  0| 
 |Ryan McMahon     |CI        |     19| 12|   9|  5|  2| 
 |Bryce Harper     |OF        |     12|  2|   2|  0|  1| 
 |Mookie Betts     |OF        |     17|  8|   6|  1|  1| 
-|Nick Castellanos |OF        |     33| 10|   9|  3|  0| 
+|Nick Castellanos |OF        |     35| 10|   9|  3|  0| 
 |Shohei Ohtani    |OF        |     20|  8|  12|  5|  0| 
-|Alex Verdugo     |DH        |     15|  6|   4|  2|  0| 
+|Alex Verdugo     |DH        |     16|  7|   7|  3|  0| 
 |Cedric Mullins   |DH        |     20|  5|   2|  0|  2| 
 |Josh Donaldson   |DH        |     19|  7|  10|  2|  0| 
 |Luis Arraez      |DH        |     16|  5|   2|  0|  0| 
-|Jorge Polanco    |BAT BENCH |     13|  6|   4|  1|  1| 
+|Jorge Polanco    |BAT BENCH |     16|  7|   4|  1|  1| 
 |Nick Senzel      |BAT BENCH |      2|  2|   0|  0|  0| 
 
 * * *
@@ -43,7 +43,7 @@
 |Luis Garcia    |OP          |  3| 16.000|  3|  1.688|     15| 0.938| 19|  3|  0| 
 |Taylor Rogers  |OP          |  7|  7.333|  1|  1.227|     10| 1.364| 11|  1|  1| 
 |Wade Miley     |OP          |  2|  7.667|  9| 10.565|     20| 2.609|  7|  0|  0| 
-|Dinelson Lamet |PITCH BENCH |  2|  5.000|  1|  1.800|      6| 1.200|  7|  1|  0| 
+|Dinelson Lamet |PITCH BENCH |  3|  8.000|  3|  3.375|     13| 1.625| 10|  1|  0| 
 |Frankie Montas |PITCH BENCH |  3| 17.000|  7|  3.706|     24| 1.412| 21|  1|  0| 
 
 

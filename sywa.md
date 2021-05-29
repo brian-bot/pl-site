@@ -8,19 +8,19 @@
 |Willson Contreras     |C         |     20|  5|   4|  1|  1| 
 |Freddie Freeman       |1B        |     25| 13|   8|  3|  1| 
 |Kolten Wong           |2B        |     17|  8|   5|  0|  3| 
-|Jose Ramirez          |3B        |     20| 11|   6|  2|  2| 
+|Jose Ramirez          |3B        |     21| 12|   6|  2|  2| 
 |Eugenio Suarez        |SS        |     15| 11|  12|  5|  0| 
-|Josh Rojas            |MI        |     22|  7|   3|  0|  1| 
-|Vladimir Guerrero Jr. |CI        |     27| 13|  15|  8|  0| 
+|Josh Rojas            |MI        |     26|  8|   3|  0|  1| 
+|Vladimir Guerrero Jr. |CI        |     28| 14|  15|  8|  0| 
 |Brandon Nimmo         |OF        |     **| **|  **| **| **| 
-|Eddie Rosario         |OF        |     18|  4|   7|  1|  0| 
-|Kyle Lewis            |OF        |     21|  4|   3|  1|  2| 
+|Eddie Rosario         |OF        |     19|  4|   9|  1|  0| 
+|Kyle Lewis            |OF        |     23|  6|   5|  2|  2| 
 |Trent Grisham         |OF        |     16|  7|   3|  1|  1| 
 |Anthony Rizzo         |DH        |     18|  3|   8|  0|  0| 
 |Austin Hays           |DH        |     12|  6|   3|  1|  0| 
-|Joc Pederson          |DH        |     17|  6|   7|  3|  0| 
+|Joc Pederson          |DH        |     18|  6|   7|  3|  0| 
 |Yermin Mercedes       |DH        |     20|  4|   9|  2|  0| 
-|Fernando Tatis Jr.    |BAT BENCH |     20| 10|  16|  4|  4| 
+|Fernando Tatis Jr.    |BAT BENCH |     22| 11|  18|  5|  5| 
 
 
 * * *
