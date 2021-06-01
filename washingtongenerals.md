@@ -5,21 +5,21 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto    |C         |      3|  1|   2|  0|  1| 
-|Trey Mancini     |1B        |     28| 13|  13|  4|  0| 
+|J.T. Realmuto    |C         |      5|  1|   3|  0|  1| 
+|Trey Mancini     |1B        |     30| 13|  13|  4|  0| 
 |Marcus Semien    |2B        |     35| 14|  13|  5|  2| 
 |Nolan Arenado    |3B        |     22|  9|  12|  5|  0| 
-|Carlos Correa    |SS        |     35| 15|  10|  3|  0| 
+|Carlos Correa    |SS        |     39| 17|  11|  3|  0| 
 |Jake Cronenworth |MI        |     25| 16|   7|  2|  0| 
 |Brandon Belt     |CI        |      5|  1|   0|  0|  0| 
-|Dominic Smith    |OF        |     18|  6|   4|  0|  0| 
-|Mark Canha       |OF        |     28| 13|   6|  5|  1| 
+|Dominic Smith    |OF        |     20|  6|   4|  0|  0| 
+|Mark Canha       |OF        |     29| 14|   6|  5|  1| 
 |Mike Trout       |OF        |      5|  1|   0|  0|  0| 
 |Raimel Tapia     |OF        |     18|  6|   6|  1|  1| 
 |Franmil Reyes    |DH        |     12|  4|   6|  3|  0| 
-|Josh Bell        |DH        |     22| 10|  10|  3|  0| 
-|Manuel Margot    |DH        |     17|  5|  12|  1|  2| 
-|Tommy Edman      |DH        |     23| 10|   9|  2|  5| 
+|Josh Bell        |DH        |     23| 11|  12|  4|  0| 
+|Manuel Margot    |DH        |     18|  5|  13|  1|  2| 
+|Tommy Edman      |DH        |     24| 11|   9|  2|  5| 
 |C.J. Cron        |BAT BENCH |     11|  5|   3|  0|  0| 
 |Dom Nunez        |BAT BENCH |      8|  4|   0|  0|  0| 
 |Tim Locastro     |BAT BENCH |      6|  2|   1|  0|  1| 

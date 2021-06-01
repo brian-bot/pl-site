@@ -5,8 +5,8 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Sean Murphy       |C         |     14|  3|  11|  1|  0| 
-|Matt Olson        |1B        |     24| 12|  11|  6|  0| 
+|Sean Murphy       |C         |     15|  3|  12|  1|  0| 
+|Matt Olson        |1B        |     27| 14|  12|  6|  0| 
 |Brandon Lowe      |2B        |     23| 11|   6|  3|  3| 
 |Matt Chapman      |3B        |     21|  4|   6|  0|  0| 
 |Trevor Story      |SS        |     16|  5|   3|  1|  4| 
@@ -15,12 +15,12 @@
 |Joey Gallo        |OF        |     24|  6|   8|  3|  1| 
 |Jorge Soler       |OF        |     12|  3|   2|  1|  0| 
 |Ramon Laureano    |OF        |     22| 10|   7|  4|  0| 
-|Randy Arozarena   |OF        |     29| 18|  14|  4|  3| 
+|Randy Arozarena   |OF        |     30| 18|  15|  4|  4| 
 |Adolis Garcia     |DH        |     22| 11|  15|  7|  3| 
-|Kyle Schwarber    |DH        |     28|  9|  13|  6|  1| 
+|Kyle Schwarber    |DH        |     29|  9|  13|  6|  1| 
 |Miguel Sano       |DH        |     18| 10|  17|  7|  0| 
 |Randal Grichuk    |DH        |     22|  9|  11|  3|  0| 
-|Anthony Santander |BAT BENCH |     15|  3|   3|  1|  0| 
+|Anthony Santander |BAT BENCH |     16|  3|   3|  1|  0| 
 
 
 * * *
@@ -31,7 +31,7 @@
 |players             |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:-------------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Andrew Heaney       |SP          |  3| 14.000| 12| 7.714|     25| 1.786| 11|  1|  0| 
-|Charlie Morton      |SP          |  3| 17.667|  4| 2.038|     16| 0.906| 21|  1|  0| 
+|Charlie Morton      |SP          |  4| 22.667|  7| 2.779|     25| 1.103| 27|  2|  0| 
 |Gerrit Cole         |SP          |  4| 26.000|  6| 2.077|     27| 1.038| 31|  2|  0| 
 |Lance McCullers Jr. |SP          |  2| 11.000|  3| 2.455|     17| 1.545| 12|  0|  0| 
 |Michael Pineda      |SP          |  2| 11.333|  4| 3.176|     12| 1.059| 15|  1|  0| 

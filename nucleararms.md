@@ -5,22 +5,22 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez      |C         |     20|  5|  14|  3|  0| 
-|Paul Goldschmidt    |1B        |     26|  7|   6|  0|  2| 
-|Ketel Marte         |2B        |     12|  6|   6|  1|  0| 
-|Manny Machado       |3B        |     16|  6|   9|  1|  1| 
+|Salvador Perez      |C         |     21|  5|  15|  3|  0| 
+|Paul Goldschmidt    |1B        |     27|  7|   6|  0|  2| 
+|Ketel Marte         |2B        |     13|  6|   6|  1|  0| 
+|Manny Machado       |3B        |     17|  6|   9|  1|  1| 
 |Trea Turner         |SS        |     27| 10|  12|  2|  5| 
 |Miguel Rojas        |MI        |     18|  9|   3|  1|  1| 
-|Alec Bohm           |CI        |     15|  3|   4|  0|  1| 
-|Chris Taylor        |OF        |     18|  9|  10|  2|  1| 
-|Kyle Tucker         |OF        |     25| 14|  10|  4|  3| 
+|Alec Bohm           |CI        |     17|  3|   4|  0|  1| 
+|Chris Taylor        |OF        |     21| 11|  14|  3|  1| 
+|Kyle Tucker         |OF        |     28| 15|  14|  4|  3| 
 |Lourdes Gurriel Jr. |OF        |     22|  8|   8|  2|  0| 
 |Max Kepler          |OF        |     19| 10|  10|  3|  0| 
-|Andrew Benintendi   |DH        |     20|  5|   8|  1|  1| 
-|Jean Segura         |DH        |     23|  7|   4|  1|  3| 
-|Justin Turner       |DH        |     17| 10|   5|  2|  0| 
+|Andrew Benintendi   |DH        |     22|  6|   8|  1|  1| 
+|Jean Segura         |DH        |     24|  8|   4|  1|  3| 
+|Justin Turner       |DH        |     18| 11|   5|  2|  0| 
 |Michael Brantley    |DH        |     15|  4|   5|  0|  0| 
-|Bryan Reynolds      |BAT BENCH |     25|  7|   7|  3|  0| 
+|Bryan Reynolds      |BAT BENCH |     26|  8|   9|  4|  0| 
 |Jeff McNeil         |BAT BENCH |      2|  0|   0|  0|  0| 
 
 
@@ -32,10 +32,10 @@
 |players          |position |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:--------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Blake Snell      |SP       |  4| 16.667| 15| 8.100|     30| 1.800| 28|  0|  0| 
-|Corbin Burnes    |SP       |  3| 17.000|  7| 3.706|     14| 0.824| 25|  0|  0| 
+|Corbin Burnes    |SP       |  4| 23.000|  8| 3.130|     22| 0.957| 32|  0|  0| 
 |Danny Duffy      |SP       |  1|  6.000|  4| 6.000|      9| 1.500|  8|  0|  0| 
 |Shane McClanahan |SP       |  3| 15.333|  5| 2.935|     16| 1.043| 17|  2|  0| 
-|Triston McKenzie |SP       |  3| 12.667| 11| 7.816|     19| 1.500| 15|  0|  0| 
+|Triston McKenzie |SP       |  4| 18.000| 16| 8.000|     25| 1.389| 25|  0|  0| 
 |Tyler Mahle      |SP       |  4| 19.333|  9| 4.190|     22| 1.138| 16|  2|  0| 
 |Aroldis Chapman  |RP       |  6|  6.000|  1| 1.500|      6| 1.000|  8|  2|  3| 
 |Edwin Diaz       |RP       |  6|  6.000|  2| 3.000|      5| 0.833|  9|  0|  4| 
