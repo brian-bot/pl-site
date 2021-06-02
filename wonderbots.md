@@ -39,10 +39,10 @@
 |Blake Treinen   |RP          |  1| 1.333|  1|  6.750|      2| 1.500|  1|  0|  0| 
 |Rafael Montero  |RP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Adam Wainwright |OP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Adolis Garcia   |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Austin Gomber   |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Emmanuel Clase  |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Marco Gonzales  |OP          |  1| 4.000|  1|  2.250|      3| 0.750|  6|  0|  0| 
+|Rafael Dolis    |OP          |  1| 1.000|  0|  0.000|      0| 0.000|  3|  0|  0| 
 |Corey Kluber    |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Nate Pearson    |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 
