@@ -5,21 +5,21 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Yasmani Grandal    |C         |     **| **|  **| **| **| 
+|Yasmani Grandal    |C         |      1|  1|   1|  1|  0| 
 |Eric Hosmer        |1B        |      1|  0|   0|  0|  0| 
 |Nick Solak         |2B        |      0|  0|   0|  0|  0| 
-|Rafael Devers      |3B        |      2|  0|   0|  0|  0| 
+|Rafael Devers      |3B        |      5|  1|   0|  0|  0| 
 |Bo Bichette        |SS        |      3|  1|   2|  0|  0| 
-|Isiah Kiner-Falefa |MI        |      3|  1|   1|  0|  0| 
-|Ke'Bryan Hayes     |CI        |     **| **|  **| **| **| 
-|Austin Meadows     |OF        |      4|  2|   2|  1|  1| 
-|Avisail Garcia     |OF        |      1|  0|   1|  0|  0| 
-|J.D. Martinez      |OF        |      1|  1|   0|  0|  0| 
+|Isiah Kiner-Falefa |MI        |      4|  1|   1|  0|  0| 
+|Ke'Bryan Hayes     |CI        |      2|  1|   0|  0|  0| 
+|Austin Meadows     |OF        |      6|  4|   7|  2|  1| 
+|Avisail Garcia     |OF        |      3|  1|   2|  1|  0| 
+|J.D. Martinez      |OF        |      3|  2|   0|  0|  0| 
 |Tommy Pham         |OF        |      2|  1|   2|  1|  0| 
 |Amed Rosario       |DH        |      2|  2|   0|  0|  1| 
-|Hunter Renfroe     |DH        |      3|  1|   1|  0|  0| 
+|Hunter Renfroe     |DH        |      5|  2|   1|  0|  0| 
 |Ian Happ           |DH        |      0|  1|   1|  0|  0| 
-|Tyler Naquin       |DH        |      2|  1|   2|  1|  0| 
+|Tyler Naquin       |DH        |      3|  1|   3|  1|  0| 
 |Byron Buxton       |BAT BENCH |     **| **|  **| **| **| 
 |Corey Seager       |BAT BENCH |     **| **|  **| **| **| 
 |Giancarlo Stanton  |BAT BENCH |      2|  0|   0|  0|  0| 

@@ -5,16 +5,16 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|Willson Contreras     |C         |      2|  1|   2|  1|  0| 
+|Willson Contreras     |C         |      3|  1|   2|  1|  0| 
 |Freddie Freeman       |1B        |      3|  1|   0|  0|  0| 
 |Kolten Wong           |2B        |      2|  2|   3|  2|  0| 
 |Jose Ramirez          |3B        |      2|  1|   1|  0|  0| 
-|Fernando Tatis Jr.    |SS        |      0|  0|   0|  0|  0| 
-|Eugenio Suarez        |MI        |      1|  0|   0|  0|  0| 
+|Fernando Tatis Jr.    |SS        |      2|  2|   2|  1|  0| 
+|Eugenio Suarez        |MI        |      1|  1|   0|  0|  0| 
 |Vladimir Guerrero Jr. |CI        |      6|  2|   3|  1|  0| 
 |Austin Hays           |OF        |     **| **|  **| **| **| 
 |Eddie Rosario         |OF        |      0|  1|   0|  0|  0| 
-|Joc Pederson          |OF        |      2|  1|   0|  0|  0| 
+|Joc Pederson          |OF        |      3|  2|   2|  1|  0| 
 |Trent Grisham         |OF        |     **| **|  **| **| **| 
 |Anthony Rizzo         |DH        |      5|  1|   2|  0|  0| 
 |Josh Rojas            |DH        |      1|  0|   1|  0|  0| 
@@ -31,7 +31,7 @@
 |players           |position    |  g|    ip| er|    era| hitsbb| whip| so|  w| sv| 
 |:-----------------|:-----------|--:|-----:|--:|------:|------:|----:|--:|--:|--:| 
 |Aaron Civale      |SP          | **|    **| **|     **|     **|   **| **| **| **| 
-|Elieser Hernandez |SP          | **|    **| **|     **|     **|   **| **| **| **| 
+|Elieser Hernandez |SP          |  1| 5.000|  1|  1.800|      3|  0.6|  6|  0|  0| 
 |Framber Valdez    |SP          |  1| 7.000|  1|  1.286|      7|  1.0| 10|  1|  0| 
 |Jack Flaherty     |SP          | **|    **| **|     **|     **|   **| **| **| **| 
 |Jose Urquidy      |SP          | **|    **| **|     **|     **|   **| **| **| **| 

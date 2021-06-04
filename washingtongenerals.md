@@ -10,16 +10,16 @@
 |Marcus Semien    |2B        |      5|  4|   0|  0|  0| 
 |Nolan Arenado    |3B        |      1|  0|   1|  0|  0| 
 |Carlos Correa    |SS        |      2|  0|   1|  0|  0| 
-|Jake Cronenworth |MI        |      1|  1|   0|  0|  0| 
+|Jake Cronenworth |MI        |      2|  1|   0|  0|  0| 
 |C.J. Cron        |CI        |      3|  0|   0|  0|  0| 
 |Dominic Smith    |OF        |      6|  1|   3|  1|  1| 
-|Manuel Margot    |OF        |      1|  0|   1|  0|  0| 
+|Manuel Margot    |OF        |      2|  0|   1|  0|  0| 
 |Mark Canha       |OF        |      3|  2|   4|  0|  0| 
-|Raimel Tapia     |OF        |      3|  1|   3|  0|  0| 
+|Raimel Tapia     |OF        |      6|  4|   4|  0|  0| 
 |Jed Lowrie       |DH        |      3|  2|   0|  0|  0| 
 |Josh Bell        |DH        |      2|  0|   0|  0|  0| 
-|Mike Zunino      |DH        |      1|  0|   0|  0|  0| 
-|Tommy Edman      |DH        |      2|  1|   0|  0|  0| 
+|Mike Zunino      |DH        |      2|  1|   0|  0|  0| 
+|Tommy Edman      |DH        |      4|  2|   0|  0|  1| 
 |Brandon Belt     |BAT BENCH |     **| **|  **| **| **| 
 |Franmil Reyes    |BAT BENCH |     **| **|  **| **| **| 
 |Mike Trout       |BAT BENCH |     **| **|  **| **| **| 
@@ -39,9 +39,9 @@
 |Sonny Gray      |SP          |  1| 4.667|  3| 5.786|      7| 1.50|  8|  0|  0| 
 |Walker Buehler  |SP          |  1| 6.000|  3| 4.500|      9| 1.50|  8|  1|  0| 
 |Jake McGee      |RP          | **|    **| **|    **|     **|   **| **| **| **| 
-|Mark Melancon   |RP          | **|    **| **|    **|     **|   **| **| **| **| 
+|Mark Melancon   |RP          |  1| 1.000|  0| 0.000|      2| 2.00|  0|  0|  1| 
 |Chris Bassitt   |OP          |  1| 4.000|  4| 9.000|      7| 1.75|  6|  0|  0| 
-|Cristian Javier |OP          | **|    **| **|    **|     **|   **| **| **| **| 
+|Cristian Javier |OP          |  1| 3.000|  2| 6.000|      6| 2.00|  6|  0|  0| 
 |John Means      |OP          | **|    **| **|    **|     **|   **| **| **| **| 
 |Jose Alvarado   |OP          | **|    **| **|    **|     **|   **| **| **| **| 
 |Aaron Sanchez   |PITCH BENCH | **|    **| **|    **|     **|   **| **| **| **| 

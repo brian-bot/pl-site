@@ -5,23 +5,23 @@
  
 |players         |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------|:---------|------:|--:|---:|--:|--:| 
-|Buster Posey    |C         |      0|  0|   0|  0|  0| 
+|Buster Posey    |C         |      2|  1|   0|  0|  0| 
 |Rhys Hoskins    |1B        |      3|  1|   3|  1|  0| 
-|Whit Merrifield |2B        |      3|  2|   1|  0|  1| 
-|Eduardo Escobar |3B        |      3|  2|   0|  0|  0| 
+|Whit Merrifield |2B        |      4|  2|   2|  0|  1| 
+|Eduardo Escobar |3B        |      7|  2|   0|  0|  0| 
 |Gleyber Torres  |SS        |      4|  1|   0|  0|  0| 
-|Willy Adames    |MI        |      1|  0|   0|  0|  0| 
+|Willy Adames    |MI        |      2|  0|   0|  0|  0| 
 |Nate Lowe       |CI        |      3|  1|   0|  0|  0| 
-|Aaron Judge     |OF        |      3|  1|   1|  0|  0| 
+|Aaron Judge     |OF        |      4|  1|   1|  0|  0| 
 |Cody Bellinger  |OF        |      4|  2|   6|  1|  0| 
-|Mitch Haniger   |OF        |      3|  1|   1|  0|  0| 
-|Robbie Grossman |OF        |      2|  1|   0|  0|  0| 
-|Garrett Hampson |DH        |      2|  1|   0|  0|  1| 
-|Tyler O'Neill   |DH        |      3|  1|   0|  0|  1| 
+|Mitch Haniger   |OF        |      5|  1|   2|  0|  0| 
+|Robbie Grossman |OF        |      3|  1|   0|  0|  0| 
+|Garrett Hampson |DH        |      6|  3|   1|  0|  1| 
+|Tyler O'Neill   |DH        |      4|  2|   1|  0|  1| 
 |Yordan Alvarez  |DH        |      2|  1|   1|  0|  0| 
-|Yuli Gurriel    |DH        |      1|  0|   1|  0|  0| 
+|Yuli Gurriel    |DH        |      4|  1|   2|  1|  0| 
 |Evan Longoria   |BAT BENCH |     **| **|  **| **| **| 
-|Jorge Soler     |BAT BENCH |     **| **|  **| **| **| 
+|Jorge Soler     |BAT BENCH |      1|  0|   0|  0|  0| 
 |Luke Voit       |BAT BENCH |     **| **|  **| **| **| 
 |Paul DeJong     |BAT BENCH |     **| **|  **| **| **| 
 
@@ -39,12 +39,12 @@
 |Logan Webb        |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Shane Bieber      |SP          |  1| 7.000|  2|  2.571|      7| 1.000|  7|  1|  0| 
 |Kenley Jansen     |RP          |  1| 0.667|  0|  0.000|      0| 0.000|  0|  0|  0| 
-|Will Smith        |RP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Will Smith        |RP          |  1| 1.000|  1|  9.000|      2| 2.000|  2|  0|  0| 
 |Alek Manoah       |OP          |  1| 3.333|  4| 10.800|      7| 2.100|  5|  0|  0| 
 |Jonathan Loaisiga |OP          |  2| 2.333|  0|  0.000|      3| 1.286|  2|  0|  0| 
-|Richard Rodriguez |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Richard Rodriguez |OP          |  1| 1.000|  0|  0.000|      1| 1.000|  0|  0|  1| 
 |Ryan Tepera       |OP          |  1| 1.000|  0|  0.000|      1| 1.000|  1|  0|  0| 
-|Tejay Antone      |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Tejay Antone      |OP          |  1| 2.000|  0|  0.000|      2| 1.000|  3|  0|  0| 
 |Kenta Maeda       |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 
 
