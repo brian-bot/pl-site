@@ -5,24 +5,24 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Yasmani Grandal    |C         |      1|  1|   1|  1|  0| 
+|Yasmani Grandal    |C         |      5|  4|   3|  3|  0| 
 |Eric Hosmer        |1B        |      1|  0|   0|  0|  0| 
-|Nick Solak         |2B        |      0|  0|   0|  0|  0| 
-|Rafael Devers      |3B        |      5|  1|   0|  0|  0| 
-|Bo Bichette        |SS        |      3|  1|   2|  0|  0| 
-|Isiah Kiner-Falefa |MI        |      4|  1|   1|  0|  0| 
-|Ke'Bryan Hayes     |CI        |      2|  1|   0|  0|  0| 
-|Austin Meadows     |OF        |      6|  4|   7|  2|  1| 
-|Avisail Garcia     |OF        |      3|  1|   2|  1|  0| 
-|J.D. Martinez      |OF        |      3|  2|   0|  0|  0| 
-|Tommy Pham         |OF        |      2|  1|   2|  1|  0| 
+|Nick Solak         |2B        |      3|  1|   0|  0|  0| 
+|Rafael Devers      |3B        |      6|  2|   3|  1|  0| 
+|Bo Bichette        |SS        |      4|  1|   2|  0|  0| 
+|Isiah Kiner-Falefa |MI        |      6|  1|   1|  0|  0| 
+|Ke'Bryan Hayes     |CI        |      5|  3|   3|  1|  0| 
+|Austin Meadows     |OF        |      7|  5|   7|  2|  1| 
+|Avisail Garcia     |OF        |      5|  2|   2|  1|  0| 
+|J.D. Martinez      |OF        |      4|  2|   0|  0|  0| 
+|Tommy Pham         |OF        |      3|  1|   2|  1|  0| 
 |Amed Rosario       |DH        |      2|  2|   0|  0|  1| 
-|Hunter Renfroe     |DH        |      5|  2|   1|  0|  0| 
+|Hunter Renfroe     |DH        |      6|  3|   1|  0|  0| 
 |Ian Happ           |DH        |      0|  1|   1|  0|  0| 
 |Tyler Naquin       |DH        |      3|  1|   3|  1|  0| 
 |Byron Buxton       |BAT BENCH |     **| **|  **| **| **| 
 |Corey Seager       |BAT BENCH |     **| **|  **| **| **| 
-|Giancarlo Stanton  |BAT BENCH |      2|  0|   0|  0|  0| 
+|Giancarlo Stanton  |BAT BENCH |      4|  0|   0|  0|  0| 
 
 
 * * *
@@ -36,7 +36,7 @@
 |Dylan Cease       |SP          |  1| 3.333|  6| 16.200|      9| 2.700|  2|  0|  0| 
 |Garrett Richards  |SP          |  1| 6.000|  2|  3.000|      8| 1.333|  5|  0|  0| 
 |Jacob deGrom      |SP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Max Scherzer      |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Max Scherzer      |SP          |  1| 7.667|  1|  1.174|      6| 0.783|  9|  1|  0| 
 |Trevor Rogers     |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Alex Reyes        |RP          |  1| 1.000|  0|  0.000|      2| 2.000|  1|  0|  1| 
 |Diego Castillo    |RP          | **|    **| **|     **|     **|    **| **| **| **| 
@@ -44,7 +44,7 @@
 |J.P. Feyereisen   |OP          |  1| 1.000|  0|  0.000|      2| 2.000|  1|  0|  0| 
 |Jordan Montgomery |OP          |  1| 6.333|  1|  1.421|      7| 1.105|  6|  1|  0| 
 |Mike Minor        |OP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Spencer Turnbull  |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Spencer Turnbull  |OP          |  1| 4.000|  1|  2.250|      2| 0.500|  4|  0|  0| 
 |Chris Paddack     |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Stephen Strasburg |PITCH BENCH |  1| 1.333|  1|  6.750|      3| 2.250|  1|  0|  0| 
 
