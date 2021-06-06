@@ -2,21 +2,21 @@
 
 ## Period 4 scores
 
-Through games on 2021-06-04
+Through games on 2021-06-05
 
 
 |team                                              | points|  r| hitsbb| hr| rbi| sb|  w| sv| so|   era|  whip|
 |:-------------------------------------------------|------:|--:|------:|--:|---:|--:|--:|--:|--:|-----:|-----:|
-|[Washington Generals](./washingtongenerals)       |   47.5| 29|     67|  4|  27|  2|  2|  2| 47| 4.451| 1.418|
-|[T and A](./tanda)                                |   56.5| 34|     58| 10|  30|  4|  2|  5| 31| 5.337| 1.500|
-|[Vass Deferens](./vassdeferens)                   |   62.0| 28|     72|  9|  35|  4|  3|  1| 43| 5.084| 1.227|
-|[SYWA](./sywa)                                    |   51.0| 20|     40|  8|  20|  0|  2|  2| 48| 3.162| 1.054|
-|[Mean Wieners](./meanwieners)                     |   49.0| 30|     75|  5|  27|  4|  1|  1| 21| 3.259| 1.293|
-|[Terminoeckers](./terminoeckers)                  |   55.5| 29|     60| 10|  28|  2|  2|  1| 33| 3.670| 1.136|
-|[Wonderbots](./wonderbots)                        |   53.0| 24|     62|  7|  28|  4|  4|  0| 38| 4.304| 1.261|
-|[Overwhelming Underdogs](./overwhelmingunderdogs) |   37.0| 19|     51|  7|  21|  0|  3|  2| 30| 4.673| 1.240|
-|[Boys of Summer](./boysofsummer)                  |   55.5| 29|     71|  4|  15|  2|  4|  2| 55| 4.895| 1.175|
-|[Nuclear Arms](./nucleararms)                     |   83.0| 33|     73| 10|  33|  6|  2|  3| 34| 2.585| 1.117|
+|[Washington Generals](./washingtongenerals)       |   42.5| 35|     94|  6|  32|  3|  2|  2| 69| 5.207| 1.393|
+|[T and A](./tanda)                                |   63.0| 38|     70| 13|  38|  4|  4|  6| 48| 4.615| 1.410|
+|[Vass Deferens](./vassdeferens)                   |   59.0| 36|     92| 11|  40|  5|  3|  2| 44| 4.894| 1.200|
+|[SYWA](./sywa)                                    |   40.5| 29|     55| 12|  29|  3|  3|  2| 61| 5.185| 1.272|
+|[Mean Wieners](./meanwieners)                     |   60.5| 39|     90|  8|  37|  5|  2|  2| 57| 2.786| 1.214|
+|[Terminoeckers](./terminoeckers)                  |   62.5| 36|     74| 10|  33|  2|  4|  2| 63| 3.754| 0.979|
+|[Wonderbots](./wonderbots)                        |   47.5| 29|     74|  7|  31|  8|  5|  0| 45| 4.000| 1.259|
+|[Overwhelming Underdogs](./overwhelmingunderdogs) |   35.5| 25|     66|  9|  29|  0|  5|  2| 43| 4.754| 1.225|
+|[Boys of Summer](./boysofsummer)                  |   64.5| 43|     94|  8|  23|  3|  4|  3| 58| 4.576| 1.136|
+|[Nuclear Arms](./nucleararms)                     |   74.5| 41|     90| 11|  36|  6|  3|  3| 46| 2.415| 1.098|
 
 * * *
 * * *
