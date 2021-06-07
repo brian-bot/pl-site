@@ -5,25 +5,25 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto    |C         |      5|  3|   1|  0|  0| 
-|Trey Mancini     |1B        |      7|  1|   2|  0|  0| 
-|Marcus Semien    |2B        |      7|  4|   0|  0|  0| 
-|Nolan Arenado    |3B        |      4|  0|   3|  0|  0| 
-|Carlos Correa    |SS        |      8|  2|   5|  2|  0| 
-|Jake Cronenworth |MI        |      4|  1|   0|  0|  0| 
+|J.T. Realmuto    |C         |      9|  5|   4|  1|  0| 
+|Trey Mancini     |1B        |      7|  3|   2|  0|  0| 
+|Marcus Semien    |2B        |      7|  5|   0|  0|  0| 
+|Nolan Arenado    |3B        |      9|  1|   5|  0|  0| 
+|Carlos Correa    |SS        |      9|  2|   5|  2|  0| 
+|Jake Cronenworth |MI        |      5|  1|   0|  0|  0| 
 |C.J. Cron        |CI        |      5|  0|   0|  0|  0| 
-|Dominic Smith    |OF        |      8|  1|   3|  1|  2| 
-|Manuel Margot    |OF        |      4|  2|   2|  1|  0| 
+|Dominic Smith    |OF        |     10|  2|   4|  2|  2| 
+|Manuel Margot    |OF        |      5|  2|   2|  1|  0| 
 |Mark Canha       |OF        |     10|  5|   7|  1|  0| 
-|Raimel Tapia     |OF        |     11|  7|   4|  0|  0| 
+|Raimel Tapia     |OF        |     12|  7|   5|  0|  0| 
 |Jed Lowrie       |DH        |      8|  4|   1|  0|  0| 
-|Josh Bell        |DH        |      5|  1|   2|  1|  0| 
+|Josh Bell        |DH        |      7|  1|   2|  1|  0| 
 |Mike Zunino      |DH        |      2|  1|   0|  0|  0| 
-|Tommy Edman      |DH        |      6|  3|   2|  0|  1| 
+|Tommy Edman      |DH        |      7|  4|   3|  0|  2| 
 |Brandon Belt     |BAT BENCH |     **| **|  **| **| **| 
 |Franmil Reyes    |BAT BENCH |     **| **|  **| **| **| 
 |Mike Trout       |BAT BENCH |     **| **|  **| **| **| 
-|Trevor Larnach   |BAT BENCH |      5|  1|   0|  0|  0| 
+|Trevor Larnach   |BAT BENCH |      6|  1|   1|  0|  0| 
 
 * * *
 
