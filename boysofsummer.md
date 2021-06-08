@@ -6,7 +6,7 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Mitch Garver     |C         |      0|  0|   0|  0|  0| 
-|Jared Walsh      |1B        |      6|  3|   2|  1|  0| 
+|Jared Walsh      |1B        |      8|  5|   2|  1|  0| 
 |DJ LeMahieu      |2B        |      7|  1|   0|  0|  0| 
 |Gio Urshela      |3B        |      9|  3|   2|  1|  0| 
 |Francisco Lindor |SS        |     10|  7|   2|  1|  0| 
@@ -15,9 +15,9 @@
 |Bryce Harper     |OF        |      2|  2|   1|  0|  1| 
 |Mookie Betts     |OF        |      8|  4|   2|  0|  0| 
 |Nick Castellanos |OF        |      9|  1|   0|  0|  0| 
-|Shohei Ohtani    |OF        |      6|  2|   2|  1|  1| 
+|Shohei Ohtani    |OF        |      9|  3|   2|  1|  2| 
 |Adam Frazier     |DH        |     10|  7|   5|  0|  0| 
-|Alex Verdugo     |DH        |     10|  4|   1|  1|  1| 
+|Alex Verdugo     |DH        |     12|  4|   2|  1|  1| 
 |Cedric Mullins   |DH        |     16|  7|   4|  3|  1| 
 |Josh Donaldson   |DH        |      9|  3|   2|  2|  0| 
 |Brandon Crawford |BAT BENCH |      7|  3|   5|  1|  0| 
@@ -33,7 +33,7 @@
 |German Marquez |SP          |  2| 13.000|  2|  1.385|      9| 0.692| 13|  1|  0| 
 |Julio Urias    |SP          |  1|  5.000|  1|  1.800|      6| 1.200|  5|  1|  0| 
 |Max Fried      |SP          |  2|  9.667|  5|  4.655|     14| 1.448| 11|  1|  0| 
-|Nick Pivetta   |SP          |  1|  6.000|  2|  3.000|      5| 0.833|  9|  0|  0| 
+|Nick Pivetta   |SP          |  2| 10.667|  4|  3.375|     15| 1.406| 15|  0|  0| 
 |Tyler Glasnow  |SP          |  1|  7.000|  3|  3.857|      6| 0.857|  8|  0|  0| 
 |Josh Hader     |RP          |  2|  2.000|  0|  0.000|      1| 0.500|  4|  0|  2| 
 |Liam Hendriks  |RP          |  3|  2.333|  0|  0.000|      0| 0.000|  4|  1|  2| 

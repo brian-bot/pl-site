@@ -9,7 +9,7 @@
 |Pete Alonso       |1B       |      7|  3|   2|  0|  0| 
 |Ozzie Albies      |2B       |     12|  4|  10|  0|  2| 
 |Yoan Moncada      |3B       |      9|  2|   1|  1|  0| 
-|Xander Bogaerts   |SS       |      9|  3|   5|  0|  0| 
+|Xander Bogaerts   |SS       |     11|  4|   5|  0|  0| 
 |Tim Anderson      |MI       |      9|  3|   5|  1|  0| 
 |Joey Wendle       |CI       |      3|  1|   1|  0|  1| 
 |Juan Soto         |OF       |     13|  6|   9|  3|  0| 
@@ -18,7 +18,7 @@
 |Ryan Mountcastle  |OF       |     10|  6|   9|  3|  0| 
 |Bobby Dalbec      |DH       |      2|  2|   2|  1|  0| 
 |Pavin Smith       |DH       |      9|  5|   3|  1|  0| 
-|Starling Marte    |DH       |      8|  3|   2|  1|  1| 
+|Starling Marte    |DH       |     12|  4|   3|  2|  2| 
 |Teoscar Hernandez |DH       |      7|  2|   2|  0|  0| 
 
 * * *

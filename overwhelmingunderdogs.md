@@ -16,10 +16,10 @@
 |Andrew McCutchen  |OF        |      9|  5|   8|  3|  0| 
 |Christian Yelich  |OF        |      7|  5|   4|  2|  0| 
 |Wil Myers         |OF        |      6|  0|   0|  0|  0| 
-|Carlos Santana    |DH        |      8|  3|   2|  0|  0| 
+|Carlos Santana    |DH        |      9|  3|   2|  0|  0| 
 |Dylan Moore       |DH        |     **| **|  **| **| **| 
 |Jesse Winker      |DH        |     10|  7|   8|  4|  0| 
-|Jurickson Profar  |DH        |      5|  1|   1|  0|  0| 
+|Jurickson Profar  |DH        |      7|  2|   1|  0|  0| 
 |Marcell Ozuna     |BAT BENCH |     **| **|  **| **| **| 
 |Miguel Cabrera    |BAT BENCH |      6|  4|   4|  1|  0| 
 

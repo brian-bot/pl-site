@@ -8,18 +8,18 @@
 |Yadier Molina    |C         |      3|  0|   1|  0|  0| 
 |Jose Abreu       |1B        |      2|  0|   0|  0|  0| 
 |Jose Altuve      |2B        |     12|  4|   4|  2|  1| 
-|Anthony Rendon   |3B        |      9|  1|   8|  0|  0| 
+|Anthony Rendon   |3B        |     10|  2|   9|  0|  0| 
 |Javier Baez      |SS        |      3|  2|   3|  1|  1| 
 |Ty France        |MI        |      6|  1|   1|  0|  0| 
-|Kris Bryant      |CI        |      4|  2|   2|  1|  1| 
+|Kris Bryant      |CI        |      5|  3|   2|  1|  1| 
 |Charlie Blackmon |OF        |     12|  3|   7|  1|  0| 
 |Dylan Carlson    |OF        |     10|  2|   2|  1|  0| 
 |Jarred Kelenic   |OF        |      1|  1|   0|  0|  0| 
 |Ronald Acuna Jr. |OF        |     12|  7|   2|  1|  5| 
 |Adam Eaton       |DH        |      2|  2|   1|  0|  0| 
 |AJ Pollock       |DH        |      2|  1|   1|  0|  0| 
-|David Fletcher   |DH        |      6|  6|   0|  0|  0| 
-|Hunter Dozier    |DH        |      3|  2|   1|  1|  0| 
+|David Fletcher   |DH        |      7|  6|   1|  0|  0| 
+|Hunter Dozier    |DH        |      6|  3|   2|  1|  0| 
 |Didi Gregorius   |BAT BENCH |     **| **|  **| **| **| 
 |George Springer  |BAT BENCH |     **| **|  **| **| **| 
 

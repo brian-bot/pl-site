@@ -5,10 +5,10 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez      |C         |      6|  5|   7|  4|  0| 
+|Salvador Perez      |C         |      8|  5|   7|  4|  0| 
 |Paul Goldschmidt    |1B        |      9|  2|   2|  1|  0| 
 |Ketel Marte         |2B        |     13|  4|   3|  1|  0| 
-|Manny Machado       |3B        |      6|  2|   2|  1|  0| 
+|Manny Machado       |3B        |      8|  3|   5|  2|  0| 
 |Trea Turner         |SS        |     11|  5|   2|  0|  1| 
 |Jean Segura         |MI        |      5|  4|   0|  0|  2| 
 |Jeimer Candelario   |CI        |      3|  1|   0|  0|  0| 

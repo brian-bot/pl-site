@@ -10,7 +10,7 @@
 |Brandon Lowe      |2B        |      7|  6|   3|  1|  0| 
 |Matt Chapman      |3B        |      6|  2|   2|  0|  0| 
 |Adalberto Mondesi |SS        |     **| **|  **| **| **| 
-|Jazz Chisholm Jr. |MI        |      5|  3|   5|  2|  0| 
+|Jazz Chisholm Jr. |MI        |      6|  3|   5|  2|  0| 
 |Miguel Sano       |CI        |      4|  3|   6|  2|  0| 
 |Adolis Garcia     |OF        |      5|  1|   1|  0|  1| 
 |Joey Gallo        |OF        |      8|  5|   1|  1|  1| 

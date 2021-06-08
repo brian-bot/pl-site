@@ -7,7 +7,7 @@
 |:---------------|:---------|------:|--:|---:|--:|--:| 
 |Buster Posey    |C         |      7|  2|   1|  0|  0| 
 |Rhys Hoskins    |1B        |      5|  3|   4|  1|  0| 
-|Whit Merrifield |2B        |      9|  5|   7|  1|  2| 
+|Whit Merrifield |2B        |     10|  5|   8|  1|  2| 
 |Eduardo Escobar |3B        |      9|  3|   2|  1|  0| 
 |Gleyber Torres  |SS        |      9|  3|   4|  1|  1| 
 |Willy Adames    |MI        |      5|  1|   2|  1|  0| 
@@ -21,7 +21,7 @@
 |Yordan Alvarez  |DH        |      6|  3|   2|  0|  0| 
 |Yuli Gurriel    |DH        |     13|  5|   3|  1|  1| 
 |Evan Longoria   |BAT BENCH |      6|  2|   1|  0|  0| 
-|Jorge Soler     |BAT BENCH |      4|  3|   0|  0|  0| 
+|Jorge Soler     |BAT BENCH |      5|  4|   1|  1|  0| 
 |Luke Voit       |BAT BENCH |     **| **|  **| **| **| 
 |Paul DeJong     |BAT BENCH |     **| **|  **| **| **| 
 

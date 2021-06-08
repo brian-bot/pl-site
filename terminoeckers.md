@@ -6,19 +6,19 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Yasmani Grandal    |C         |      7|  5|   3|  3|  0| 
-|Eric Hosmer        |1B        |      3|  0|   1|  0|  0| 
+|Eric Hosmer        |1B        |      4|  1|   3|  0|  0| 
 |Nick Solak         |2B        |      3|  1|   0|  0|  0| 
-|Rafael Devers      |3B        |      8|  4|   5|  1|  0| 
+|Rafael Devers      |3B        |      9|  4|   5|  1|  0| 
 |Bo Bichette        |SS        |      6|  3|   2|  0|  0| 
 |Isiah Kiner-Falefa |MI        |      8|  1|   1|  0|  0| 
 |Ke'Bryan Hayes     |CI        |      8|  4|   3|  1|  0| 
 |Austin Meadows     |OF        |     10|  6|  11|  2|  1| 
 |Avisail Garcia     |OF        |      5|  2|   2|  1|  0| 
 |J.D. Martinez      |OF        |      4|  2|   0|  0|  0| 
-|Tommy Pham         |OF        |      7|  1|   3|  1|  2| 
+|Tommy Pham         |OF        |     10|  2|   4|  1|  3| 
 |Amed Rosario       |DH        |      4|  4|   3|  1|  1| 
 |Hunter Renfroe     |DH        |     11|  4|   1|  0|  0| 
-|Ian Happ           |DH        |      3|  2|   1|  0|  0| 
+|Ian Happ           |DH        |      4|  3|   2|  1|  0| 
 |Tyler Naquin       |DH        |      5|  2|   3|  1|  0| 
 |Byron Buxton       |BAT BENCH |     **| **|  **| **| **| 
 |Corey Seager       |BAT BENCH |     **| **|  **| **| **| 
