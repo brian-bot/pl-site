@@ -18,6 +18,7 @@
 |Trent Grisham         |OF        |     **| **|  **| **| **| 
 |Anthony Rizzo         |DH        |      8|  3|   3|  0|  1| 
 |Josh Rojas            |DH        |      4|  2|   3|  2|  0| 
+|Rob Refsnyder         |DH        |     **| **|  **| **| **| 
 |Yermin Mercedes       |DH        |      3|  0|   1|  0|  0| 
 |Brandon Nimmo         |BAT BENCH |     **| **|  **| **| **| 
 |Kyle Lewis            |BAT BENCH |     **| **|  **| **| **| 
