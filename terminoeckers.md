@@ -5,24 +5,24 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Yasmani Grandal    |C         |      7|  5|   3|  3|  0| 
-|Eric Hosmer        |1B        |      4|  1|   3|  0|  0| 
-|Nick Solak         |2B        |      3|  1|   0|  0|  0| 
-|Rafael Devers      |3B        |      9|  4|   5|  1|  0| 
-|Bo Bichette        |SS        |      6|  3|   2|  0|  0| 
-|Isiah Kiner-Falefa |MI        |      8|  1|   1|  0|  0| 
-|Ke'Bryan Hayes     |CI        |      8|  4|   3|  1|  0| 
-|Austin Meadows     |OF        |     10|  6|  11|  2|  1| 
-|Avisail Garcia     |OF        |      5|  2|   2|  1|  0| 
-|J.D. Martinez      |OF        |      4|  2|   0|  0|  0| 
-|Tommy Pham         |OF        |     10|  2|   4|  1|  3| 
-|Amed Rosario       |DH        |      4|  4|   3|  1|  1| 
-|Hunter Renfroe     |DH        |     11|  4|   1|  0|  0| 
+|Yasmani Grandal    |C         |      9|  6|   3|  3|  0| 
+|Eric Hosmer        |1B        |      5|  1|   3|  0|  0| 
+|Nick Solak         |2B        |      4|  1|   2|  0|  0| 
+|Rafael Devers      |3B        |      9|  5|   5|  1|  0| 
+|Bo Bichette        |SS        |      9|  3|   2|  0|  0| 
+|Isiah Kiner-Falefa |MI        |     11|  2|   1|  0|  0| 
+|Ke'Bryan Hayes     |CI        |      9|  4|   3|  1|  0| 
+|Austin Meadows     |OF        |     11|  7|  11|  2|  1| 
+|Avisail Garcia     |OF        |      7|  3|   4|  2|  0| 
+|J.D. Martinez      |OF        |      5|  2|   0|  0|  0| 
+|Tommy Pham         |OF        |     12|  3|   4|  1|  3| 
+|Amed Rosario       |DH        |      7|  7|   4|  1|  1| 
+|Hunter Renfroe     |DH        |     11|  4|   2|  0|  0| 
 |Ian Happ           |DH        |      4|  3|   2|  1|  0| 
-|Tyler Naquin       |DH        |      5|  2|   3|  1|  0| 
+|Tyler Naquin       |DH        |      6|  2|   3|  1|  0| 
 |Byron Buxton       |BAT BENCH |     **| **|  **| **| **| 
 |Corey Seager       |BAT BENCH |     **| **|  **| **| **| 
-|Giancarlo Stanton  |BAT BENCH |      4|  0|   0|  0|  0| 
+|Giancarlo Stanton  |BAT BENCH |      6|  0|   0|  0|  0| 
 
 
 * * *
@@ -39,10 +39,10 @@
 |Max Scherzer      |SP          |  1|  7.667|  1| 1.174|      6| 0.783|  9|  1|  0| 
 |Trevor Rogers     |SP          |  1|  6.000|  2| 3.000|      6| 1.000|  5|  0|  0| 
 |Alex Reyes        |RP          |  2|  2.000|  1| 4.500|      4| 2.000|  3|  0|  1| 
-|Diego Castillo    |RP          |  1|  1.000|  0| 0.000|      0| 0.000|  3|  0|  1| 
+|Diego Castillo    |RP          |  2|  2.000|  0| 0.000|      0| 0.000|  4|  0|  2| 
 |Alex Cobb         |OP          |  1|  7.000|  5| 6.429|      4| 0.571|  6|  1|  0| 
-|J.P. Feyereisen   |OP          |  2|  2.333|  0| 0.000|      4| 1.714|  3|  1|  0| 
-|Jordan Montgomery |OP          |  1|  6.333|  1| 1.421|      7| 1.105|  6|  1|  0| 
+|J.P. Feyereisen   |OP          |  3|  2.667|  0| 0.000|      7| 2.625|  3|  1|  0| 
+|Jordan Montgomery |OP          |  2| 12.000|  4| 3.000|     15| 1.250| 12|  1|  0| 
 |Mike Minor        |OP          |  1|  7.000|  5| 6.429|      8| 1.143|  5|  0|  0| 
 |Spencer Turnbull  |OP          |  1|  4.000|  1| 2.250|      2| 0.500|  4|  0|  0| 
 |Chris Paddack     |PITCH BENCH |  1|  6.000|  3| 4.500|      7| 1.167|  6|  0|  0| 

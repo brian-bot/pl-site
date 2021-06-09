@@ -5,20 +5,20 @@
  
 |players           |position | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:--------|------:|--:|---:|--:|--:| 
-|Will Smith        |C        |      3|  1|   1|  0|  0| 
-|Pete Alonso       |1B       |      7|  3|   2|  0|  0| 
-|Ozzie Albies      |2B       |     12|  4|  10|  0|  2| 
-|Yoan Moncada      |3B       |      9|  2|   1|  1|  0| 
-|Xander Bogaerts   |SS       |     11|  4|   5|  0|  0| 
-|Tim Anderson      |MI       |      9|  3|   5|  1|  0| 
-|Joey Wendle       |CI       |      3|  1|   1|  0|  1| 
-|Juan Soto         |OF       |     13|  6|   9|  3|  0| 
+|Will Smith        |C        |      4|  2|   1|  0|  0| 
+|Pete Alonso       |1B       |      9|  5|   5|  2|  0| 
+|Ozzie Albies      |2B       |     14|  5|  10|  0|  2| 
+|Yoan Moncada      |3B       |     10|  2|   1|  1|  1| 
+|Xander Bogaerts   |SS       |     13|  4|   5|  0|  0| 
+|Tim Anderson      |MI       |     11|  3|   6|  1|  1| 
+|Joey Wendle       |CI       |      4|  1|   1|  0|  1| 
+|Juan Soto         |OF       |     15|  6|   9|  3|  0| 
 |Mike Yastrzemski  |OF       |      1|  0|   0|  0|  0| 
 |Nelson Cruz       |OF       |      9|  2|   0|  0|  1| 
-|Ryan Mountcastle  |OF       |     10|  6|   9|  3|  0| 
+|Ryan Mountcastle  |OF       |     11|  6|  10|  3|  0| 
 |Bobby Dalbec      |DH       |      2|  2|   2|  1|  0| 
-|Pavin Smith       |DH       |      9|  5|   3|  1|  0| 
-|Starling Marte    |DH       |     12|  4|   3|  2|  2| 
+|Pavin Smith       |DH       |     11|  5|   3|  1|  0| 
+|Starling Marte    |DH       |     15|  6|   3|  2|  3| 
 |Teoscar Hernandez |DH       |      7|  2|   2|  0|  0| 
 
 * * *
