@@ -6,7 +6,7 @@ source("code/calculatePeriodStats.R")
 
 ## Period `r currentPeriod` scores
 
-Through games on `r as.character(lastDate)`
+Through games on `r as.character(lastDate)` ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 ```{r leagueStats, echo=FALSE, results='asis'}
 require(knitr)
