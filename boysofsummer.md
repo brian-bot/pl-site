@@ -6,19 +6,19 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Mitch Garver     |C         |      0|  0|   0|  0|  0| 
-|Jared Walsh      |1B        |      8|  5|   2|  1|  0| 
+|Jared Walsh      |1B        |     10|  6|   2|  1|  0| 
 |DJ LeMahieu      |2B        |      9|  1|   1|  0|  0| 
-|Gio Urshela      |3B        |     10|  4|   2|  1|  0| 
-|Francisco Lindor |SS        |     11|  8|   2|  1|  0| 
+|Gio Urshela      |3B        |     13|  5|   2|  1|  0| 
+|Francisco Lindor |SS        |     13|  9|   2|  1|  0| 
 |Austin Riley     |MI        |      9|  4|   5|  1|  0| 
-|Ryan McMahon     |CI        |      5|  3|   2|  0|  0| 
-|Bryce Harper     |OF        |      5|  3|   2|  1|  1| 
+|Ryan McMahon     |CI        |      7|  3|   2|  0|  0| 
+|Bryce Harper     |OF        |      6|  3|   2|  1|  1| 
 |Mookie Betts     |OF        |      9|  5|   3|  0|  0| 
-|Nick Castellanos |OF        |     10|  1|   0|  0|  0| 
-|Shohei Ohtani    |OF        |     12|  5|   4|  2|  2| 
-|Adam Frazier     |DH        |     11|  7|   6|  0|  0| 
+|Nick Castellanos |OF        |     12|  3|   2|  0|  0| 
+|Shohei Ohtani    |OF        |     14|  6|   4|  2|  2| 
+|Adam Frazier     |DH        |     13|  7|   6|  0|  0| 
 |Alex Verdugo     |DH        |     12|  4|   2|  1|  1| 
-|Cedric Mullins   |DH        |     19|  8|   5|  3|  1| 
+|Cedric Mullins   |DH        |     20|  9|   5|  3|  1| 
 |Josh Donaldson   |DH        |     10|  4|   2|  2|  0| 
 |Brandon Crawford |BAT BENCH |     11|  6|   9|  3|  0| 
 
