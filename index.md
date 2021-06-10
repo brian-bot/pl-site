@@ -2,7 +2,7 @@
 
 ## Period 4 scores
 
-Through games on 2021-06-09
+Through games on 2021-06-09 ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 
 |team                                              | points|  r| hitsbb| hr| rbi| sb|  w| sv| so|   era|  whip|
