@@ -6,20 +6,20 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Yadier Molina    |C         |      4|  1|   2|  0|  0| 
-|Jose Abreu       |1B        |      3|  1|   0|  0|  0| 
-|Jose Altuve      |2B        |     15|  5|   5|  3|  1| 
+|Jose Abreu       |1B        |      5|  2|   2|  0|  0| 
+|Jose Altuve      |2B        |     17|  6|   6|  4|  1| 
 |Anthony Rendon   |3B        |     12|  2|  11|  0|  0| 
 |Javier Baez      |SS        |      3|  2|   3|  1|  1| 
-|Ty France        |MI        |      8|  2|   1|  0|  0| 
+|Ty France        |MI        |      9|  2|   1|  0|  0| 
 |Kris Bryant      |CI        |      6|  4|   2|  1|  1| 
-|Charlie Blackmon |OF        |     17|  5|   8|  1|  0| 
+|Charlie Blackmon |OF        |     18|  5|   8|  1|  0| 
 |Dylan Carlson    |OF        |     10|  2|   2|  1|  0| 
 |Jarred Kelenic   |OF        |      1|  1|   0|  0|  0| 
-|Ronald Acuna Jr. |OF        |     17|  9|   5|  2|  5| 
+|Ronald Acuna Jr. |OF        |     18|  9|   5|  2|  5| 
 |Adam Eaton       |DH        |      3|  3|   2|  0|  0| 
 |AJ Pollock       |DH        |      4|  2|   2|  0|  0| 
 |David Fletcher   |DH        |      9|  6|   1|  0|  0| 
-|Hunter Dozier    |DH        |      8|  3|   2|  1|  0| 
+|Hunter Dozier    |DH        |      9|  4|   3|  1|  0| 
 |Didi Gregorius   |BAT BENCH |     **| **|  **| **| **| 
 |George Springer  |BAT BENCH |     **| **|  **| **| **| 
 
