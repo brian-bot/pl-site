@@ -5,21 +5,21 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Yadier Molina    |C         |      4|  1|   2|  0|  0| 
-|Jose Abreu       |1B        |      5|  2|   2|  0|  0| 
-|Jose Altuve      |2B        |     17|  6|   6|  4|  1| 
-|Anthony Rendon   |3B        |     12|  2|  11|  0|  0| 
+|Yadier Molina    |C         |      7|  1|   2|  0|  0| 
+|Jose Abreu       |1B        |      7|  3|   2|  0|  0| 
+|Jose Altuve      |2B        |     19|  8|   7|  5|  1| 
+|Anthony Rendon   |3B        |     14|  2|  12|  0|  0| 
 |Javier Baez      |SS        |      3|  2|   3|  1|  1| 
 |Ty France        |MI        |      9|  2|   1|  0|  0| 
 |Kris Bryant      |CI        |      6|  4|   2|  1|  1| 
-|Charlie Blackmon |OF        |     18|  5|   8|  1|  0| 
-|Dylan Carlson    |OF        |     10|  2|   2|  1|  0| 
+|Charlie Blackmon |OF        |     20|  6|   8|  1|  0| 
+|Dylan Carlson    |OF        |     11|  3|   3|  1|  0| 
 |Jarred Kelenic   |OF        |      1|  1|   0|  0|  0| 
-|Ronald Acuna Jr. |OF        |     18|  9|   5|  2|  5| 
+|Ronald Acuna Jr. |OF        |     21| 11|   6|  2|  6| 
 |Adam Eaton       |DH        |      3|  3|   2|  0|  0| 
-|AJ Pollock       |DH        |      4|  2|   2|  0|  0| 
-|David Fletcher   |DH        |      9|  6|   1|  0|  0| 
-|Hunter Dozier    |DH        |      9|  4|   3|  1|  0| 
+|AJ Pollock       |DH        |      7|  2|   2|  0|  0| 
+|David Fletcher   |DH        |     10|  6|   1|  0|  0| 
+|Hunter Dozier    |DH        |     10|  4|   3|  1|  0| 
 |Didi Gregorius   |BAT BENCH |     **| **|  **| **| **| 
 |George Springer  |BAT BENCH |     **| **|  **| **| **| 
 
@@ -42,7 +42,7 @@
 |Austin Gomber   |OP          |  2| 11.000|  1|  0.818|      8| 0.727| 11|  2|  0| 
 |Emmanuel Clase  |OP          |  2|  2.000|  0|  0.000|      3| 1.500|  4|  0|  0| 
 |Marco Gonzales  |OP          |  2|  8.000|  5|  5.625|      9| 1.125|  8|  0|  0| 
-|Rafael Dolis    |OP          |  3|  2.667|  1|  3.375|      5| 1.875|  6|  0|  0| 
+|Rafael Dolis    |OP          |  4|  2.667|  1|  3.375|      6| 2.250|  6|  0|  0| 
 |Corey Kluber    |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Nate Pearson    |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 
