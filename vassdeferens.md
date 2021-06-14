@@ -6,20 +6,20 @@
 |players           |position | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:--------|------:|--:|---:|--:|--:| 
 |Will Smith        |C        |      9|  4|   2|  1|  0| 
-|Pete Alonso       |1B       |     14|  8|   8|  3|  0| 
-|Ozzie Albies      |2B       |     21|  5|  12|  0|  3| 
-|Yoan Moncada      |3B       |     12|  2|   3|  1|  1| 
-|Xander Bogaerts   |SS       |     17|  7|   7|  1|  0| 
+|Pete Alonso       |1B       |     15|  8|   8|  3|  0| 
+|Ozzie Albies      |2B       |     22|  5|  12|  0|  3| 
+|Yoan Moncada      |3B       |     13|  3|   3|  1|  1| 
+|Xander Bogaerts   |SS       |     19|  8|   8|  2|  0| 
 |Tim Anderson      |MI       |     18|  7|   8|  1|  3| 
 |Joey Wendle       |CI       |      8|  3|   4|  1|  1| 
-|Juan Soto         |OF       |     20| 10|  11|  4|  0| 
-|Mike Yastrzemski  |OF       |      2|  0|   0|  0|  0| 
-|Nelson Cruz       |OF       |     16|  4|   5|  2|  1| 
+|Juan Soto         |OF       |     21| 10|  11|  4|  0| 
+|Mike Yastrzemski  |OF       |      3|  0|   0|  0|  0| 
+|Nelson Cruz       |OF       |     18|  5|   6|  3|  1| 
 |Ryan Mountcastle  |OF       |     13|  7|  11|  3|  0| 
-|Bobby Dalbec      |DH       |      6|  3|   5|  2|  0| 
-|Pavin Smith       |DH       |     14|  6|   3|  1|  0| 
-|Starling Marte    |DH       |     22| 10|   4|  3|  4| 
-|Teoscar Hernandez |DH       |     10|  2|   5|  0|  0| 
+|Bobby Dalbec      |DH       |      8|  4|   6|  3|  0| 
+|Pavin Smith       |DH       |     16|  6|   4|  1|  0| 
+|Starling Marte    |DH       |     24| 11|   7|  3|  5| 
+|Teoscar Hernandez |DH       |     13|  4|  11|  2|  0| 
 
 * * *
 
@@ -42,7 +42,7 @@
 |Jordan Romano     |OP          |  3|  3.000|  0|  0.000|      4| 1.333|  3|  0|  0| 
 |Justin Dunn       |OP          |  1|  3.000|  5| 15.000|     11| 3.667|  3|  0|  0| 
 |Giovanny Gallegos |PITCH BENCH |  3|  4.667|  2|  3.857|      4| 0.857|  5|  1|  0| 
-|Logan Gilbert     |PITCH BENCH |  1|  5.000|  1|  1.800|      6| 1.200|  7|  1|  0| 
+|Logan Gilbert     |PITCH BENCH |  2| 11.667|  2|  1.543|     11| 0.943| 13|  2|  0| 
 
 
 * * *

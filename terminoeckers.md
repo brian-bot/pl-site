@@ -5,21 +5,21 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Yasmani Grandal    |C         |     15|  9|   5|  4|  0| 
-|Eric Hosmer        |1B        |      5|  1|   3|  0|  0| 
+|Yasmani Grandal    |C         |     16|  9|   5|  4|  0| 
+|Eric Hosmer        |1B        |      8|  2|   3|  0|  0| 
 |Nick Solak         |2B        |      5|  1|   2|  0|  0| 
 |Rafael Devers      |3B        |     14|  9|   6|  1|  0| 
-|Bo Bichette        |SS        |     15|  8|   4|  1|  0| 
-|Isiah Kiner-Falefa |MI        |     17|  6|   3|  0|  4| 
-|Ke'Bryan Hayes     |CI        |     13|  6|   5|  2|  0| 
-|Austin Meadows     |OF        |     13|  9|  11|  2|  1| 
-|Avisail Garcia     |OF        |     10|  3|   6|  2|  0| 
-|J.D. Martinez      |OF        |      9|  5|   2|  1|  0| 
-|Tommy Pham         |OF        |     16|  4|   4|  1|  5| 
-|Amed Rosario       |DH        |     15| 10|   4|  1|  2| 
-|Hunter Renfroe     |DH        |     17|  7|   4|  0|  0| 
+|Bo Bichette        |SS        |     20| 13|   7|  2|  1| 
+|Isiah Kiner-Falefa |MI        |     19|  6|   4|  0|  5| 
+|Ke'Bryan Hayes     |CI        |     14|  6|   5|  2|  0| 
+|Austin Meadows     |OF        |     14| 10|  11|  2|  1| 
+|Avisail Garcia     |OF        |     11|  4|   8|  3|  0| 
+|J.D. Martinez      |OF        |     10|  5|   2|  1|  0| 
+|Tommy Pham         |OF        |     20|  6|   6|  2|  5| 
+|Amed Rosario       |DH        |     16| 10|   5|  1|  2| 
+|Hunter Renfroe     |DH        |     18|  7|   4|  0|  0| 
 |Ian Happ           |DH        |      8|  5|   4|  2|  0| 
-|Tyler Naquin       |DH        |      9|  3|   5|  1|  0| 
+|Tyler Naquin       |DH        |     10|  4|   6|  1|  0| 
 |Byron Buxton       |BAT BENCH |     **| **|  **| **| **| 
 |Corey Seager       |BAT BENCH |     **| **|  **| **| **| 
 |Giancarlo Stanton  |BAT BENCH |     10|  3|   8|  3|  0| 
@@ -32,7 +32,7 @@
  
 |players           |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Domingo German    |SP          |  2| 10.667|  4| 3.375|      8| 0.750|  8|  0|  0| 
+|Domingo German    |SP          |  3| 15.000| 11| 6.600|     19| 1.267| 10|  0|  0| 
 |Dylan Cease       |SP          |  3| 15.333|  8| 4.696|     20| 1.304| 19|  2|  0| 
 |Garrett Richards  |SP          |  3| 16.333|  9| 4.959|     31| 1.898| 14|  0|  0| 
 |Jacob deGrom      |SP          |  2| 13.000|  0| 0.000|      5| 0.385| 21|  2|  0| 
@@ -45,7 +45,7 @@
 |Jordan Montgomery |OP          |  2| 12.000|  4| 3.000|     15| 1.250| 12|  1|  0| 
 |Mike Minor        |OP          |  2| 14.000|  6| 3.857|     12| 0.857| 13|  1|  0| 
 |Spencer Turnbull  |OP          |  1|  4.000|  1| 2.250|      2| 0.500|  4|  0|  0| 
-|Chris Paddack     |PITCH BENCH |  1|  6.000|  3| 4.500|      7| 1.167|  6|  0|  0| 
+|Chris Paddack     |PITCH BENCH |  2| 12.000|  5| 3.750|     13| 1.083| 15|  1|  0| 
 |Stephen Strasburg |PITCH BENCH |  1|  1.333|  1| 6.750|      3| 2.250|  1|  0|  0| 
 
 
