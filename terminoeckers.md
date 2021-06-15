@@ -5,18 +5,18 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Yasmani Grandal    |C         |     16|  9|   5|  4|  0| 
+|Yasmani Grandal    |C         |     17|  9|   5|  4|  0| 
 |Eric Hosmer        |1B        |      8|  2|   3|  0|  0| 
 |Nick Solak         |2B        |      5|  1|   2|  0|  0| 
-|Rafael Devers      |3B        |     14|  9|   6|  1|  0| 
-|Bo Bichette        |SS        |     20| 13|   7|  2|  1| 
+|Rafael Devers      |3B        |     16|  9|   7|  1|  0| 
+|Bo Bichette        |SS        |     21| 13|   7|  2|  2| 
 |Isiah Kiner-Falefa |MI        |     19|  6|   4|  0|  5| 
-|Ke'Bryan Hayes     |CI        |     14|  6|   5|  2|  0| 
-|Austin Meadows     |OF        |     14| 10|  11|  2|  1| 
+|Ke'Bryan Hayes     |CI        |     15|  6|   5|  2|  0| 
+|Austin Meadows     |OF        |     15| 11|  13|  3|  1| 
 |Avisail Garcia     |OF        |     11|  4|   8|  3|  0| 
-|J.D. Martinez      |OF        |     10|  5|   2|  1|  0| 
-|Tommy Pham         |OF        |     20|  6|   6|  2|  5| 
-|Amed Rosario       |DH        |     16| 10|   5|  1|  2| 
+|J.D. Martinez      |OF        |     11|  5|   2|  1|  0| 
+|Tommy Pham         |OF        |     22|  7|   6|  2|  5| 
+|Amed Rosario       |DH        |     16| 11|   5|  1|  2| 
 |Hunter Renfroe     |DH        |     18|  7|   4|  0|  0| 
 |Ian Happ           |DH        |      8|  5|   4|  2|  0| 
 |Tyler Naquin       |DH        |     10|  4|   6|  1|  0| 
@@ -38,10 +38,10 @@
 |Jacob deGrom      |SP          |  2| 13.000|  0| 0.000|      5| 0.385| 21|  2|  0| 
 |Max Scherzer      |SP          |  2|  8.000|  1| 1.125|      6| 0.750|  9|  1|  0| 
 |Trevor Rogers     |SP          |  2| 13.000|  4| 2.769|     11| 0.846| 13|  1|  0| 
-|Alex Reyes        |RP          |  3|  3.000|  1| 3.000|      5| 1.667|  5|  0|  1| 
-|Diego Castillo    |RP          |  4|  4.000|  1| 2.250|      3| 0.750|  6|  0|  3| 
+|Alex Reyes        |RP          |  4|  4.000|  1| 2.250|      5| 1.250|  6|  0|  2| 
+|Diego Castillo    |RP          |  5|  5.000|  1| 1.800|      4| 0.800|  8|  0|  3| 
 |Alex Cobb         |OP          |  2| 10.000| 10| 9.000|     12| 1.200|  9|  1|  0| 
-|J.P. Feyereisen   |OP          |  4|  3.667|  0| 0.000|      9| 2.455|  3|  1|  0| 
+|J.P. Feyereisen   |OP          |  5|  5.667|  0| 0.000|      9| 1.588|  5|  2|  0| 
 |Jordan Montgomery |OP          |  2| 12.000|  4| 3.000|     15| 1.250| 12|  1|  0| 
 |Mike Minor        |OP          |  2| 14.000|  6| 3.857|     12| 0.857| 13|  1|  0| 
 |Spencer Turnbull  |OP          |  1|  4.000|  1| 2.250|      2| 0.500|  4|  0|  0| 
