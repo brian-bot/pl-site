@@ -5,22 +5,22 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto    |C         |     17|  8|   7|  2|  0| 
-|Trey Mancini     |1B        |     16|  5|   5|  1|  0| 
-|Marcus Semien    |2B        |     16| 10|   5|  2|  0| 
+|J.T. Realmuto    |C         |     18|  8|   7|  2|  0| 
+|Trey Mancini     |1B        |     17|  5|   6|  1|  0| 
+|Marcus Semien    |2B        |     19| 12|   5|  2|  1| 
 |Nolan Arenado    |3B        |     15|  4|   9|  1|  0| 
-|Carlos Correa    |SS        |     21|  9|   8|  3|  0| 
-|Jake Cronenworth |MI        |     12|  4|   2|  1|  0| 
-|C.J. Cron        |CI        |     12|  2|   1|  1|  0| 
-|Dominic Smith    |OF        |     14|  5|   6|  3|  2| 
-|Manuel Margot    |OF        |     13|  5|   6|  2|  0| 
-|Mark Canha       |OF        |     16|  8|  12|  1|  0| 
-|Raimel Tapia     |OF        |     22| 12|   5|  0|  1| 
-|Jed Lowrie       |DH        |     16|  7|   3|  1|  0| 
+|Carlos Correa    |SS        |     24| 10|   9|  4|  0| 
+|Jake Cronenworth |MI        |     13|  5|   2|  1|  0| 
+|C.J. Cron        |CI        |     13|  3|   1|  1|  0| 
+|Dominic Smith    |OF        |     16|  6|   6|  3|  2| 
+|Manuel Margot    |OF        |     14|  5|   6|  2|  0| 
+|Mark Canha       |OF        |     18|  9|  13|  1|  0| 
+|Raimel Tapia     |OF        |     24| 14|   7|  0|  1| 
+|Jed Lowrie       |DH        |     17|  8|   3|  1|  0| 
 |Josh Bell        |DH        |     12|  1|   2|  1|  0| 
 |Mike Zunino      |DH        |      7|  3|   1|  0|  0| 
 |Tommy Edman      |DH        |     12|  7|   3|  0|  2| 
-|Brandon Belt     |BAT BENCH |      9|  3|   1|  0|  0| 
+|Brandon Belt     |BAT BENCH |     13|  6|   1|  0|  0| 
 |Franmil Reyes    |BAT BENCH |     **| **|  **| **| **| 
 |Mike Trout       |BAT BENCH |     **| **|  **| **| **| 
 |Trevor Larnach   |BAT BENCH |     16|  4|   2|  0|  0| 
