@@ -6,22 +6,22 @@
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Salvador Perez      |C         |     22| 11|  12|  7|  0| 
-|Paul Goldschmidt    |1B        |     18|  6|   6|  3|  2| 
+|Paul Goldschmidt    |1B        |     19|  6|   6|  3|  2| 
 |Ketel Marte         |2B        |     23|  9|   5|  1|  0| 
-|Manny Machado       |3B        |     18|  6|   8|  3|  0| 
+|Manny Machado       |3B        |     20|  8|   9|  4|  0| 
 |Trea Turner         |SS        |     23|  8|   4|  0|  1| 
 |Jean Segura         |MI        |     20|  6|   8|  0|  2| 
-|Jeimer Candelario   |CI        |      7|  2|   1|  0|  0| 
+|Jeimer Candelario   |CI        |     10|  2|   1|  0|  0| 
 |Andrew Benintendi   |OF        |     13|  7|  13|  4|  1| 
 |Chris Taylor        |OF        |     17| 10|   7|  2|  0| 
 |Kyle Tucker         |OF        |     19|  7|   8|  2|  0| 
 |Lourdes Gurriel Jr. |OF        |     16|  5|   5|  2|  0| 
 |Bryan Reynolds      |DH        |     24|  8|   9|  3|  1| 
-|David Peralta       |DH        |     13|  2|   5|  0|  0| 
+|David Peralta       |DH        |     14|  2|   6|  0|  0| 
 |Justin Turner       |DH        |     20|  8|   6|  3|  0| 
-|Niko Goodrum        |DH        |      9|  5|   4|  1|  3| 
+|Niko Goodrum        |DH        |     12|  5|   5|  1|  4| 
 |Alec Bohm           |BAT BENCH |     16|  7|   5|  0|  0| 
-|Michael Brantley    |BAT BENCH |     19|  5|   6|  0|  0| 
+|Michael Brantley    |BAT BENCH |     20|  6|   9|  1|  0| 
 
 
 * * *

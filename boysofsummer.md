@@ -7,15 +7,15 @@
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Mitch Garver     |C         |      0|  0|   0|  0|  0| 
 |Jared Walsh      |1B        |     17| 11|   8|  3|  0| 
-|DJ LeMahieu      |2B        |     19|  4|   5|  1|  0| 
-|Gio Urshela      |3B        |     17|  7|   3|  2|  0| 
+|DJ LeMahieu      |2B        |     21|  4|   5|  1|  0| 
+|Gio Urshela      |3B        |     20| 10|   5|  3|  0| 
 |Francisco Lindor |SS        |     22| 12|   5|  2|  1| 
 |Austin Riley     |MI        |     16|  7|   9|  2|  0| 
-|Ryan McMahon     |CI        |     14|  7|  12|  3|  0| 
+|Ryan McMahon     |CI        |     15|  8|  12|  3|  0| 
 |Bryce Harper     |OF        |     12|  5|   5|  1|  1| 
 |Mookie Betts     |OF        |     21| 13|   7|  3|  1| 
-|Nick Castellanos |OF        |     22| 10|   6|  1|  1| 
-|Shohei Ohtani    |OF        |     21|  9|   7|  4|  3| 
+|Nick Castellanos |OF        |     23| 10|   6|  1|  1| 
+|Shohei Ohtani    |OF        |     23|  9|   7|  4|  3| 
 |Adam Frazier     |DH        |     22|  8|   6|  0|  1| 
 |Alex Verdugo     |DH        |     22|  9|   7|  2|  1| 
 |Cedric Mullins   |DH        |     27| 11|   5|  3|  4| 
@@ -30,7 +30,7 @@
 |players        |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:--------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Frankie Montas |SP          |  3| 18.333|  7|  3.436|     18| 0.982| 18|  2|  0| 
-|German Marquez |SP          |  3| 18.000| 10|  5.000|     23| 1.278| 18|  1|  0| 
+|German Marquez |SP          |  4| 24.000| 10|  3.750|     27| 1.125| 20|  2|  0| 
 |Julio Urias    |SP          |  3| 16.667|  6|  3.240|     20| 1.200| 15|  2|  0| 
 |Max Fried      |SP          |  3| 15.667|  8|  4.596|     21| 1.340| 15|  1|  0| 
 |Nick Pivetta   |SP          |  3| 15.667| 10|  5.745|     23| 1.468| 21|  0|  0| 
