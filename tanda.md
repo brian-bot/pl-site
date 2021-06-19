@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Sean Murphy       |C         |     15|  7|  10|  3|  0| 
-|Matt Olson        |1B        |     27| 12|  16|  5|  0| 
+|Sean Murphy       |C         |     16|  8|  10|  3|  0| 
+|Matt Olson        |1B        |     28| 13|  17|  6|  0| 
 |Brandon Lowe      |2B        |     17| 10|   9|  3|  1| 
-|Matt Chapman      |3B        |     21| 10|  10|  2|  0| 
-|Adalberto Mondesi |SS        |      1|  1|   1|  1|  0| 
-|Jazz Chisholm Jr. |MI        |     19|  9|  13|  3|  0| 
+|Matt Chapman      |3B        |     22| 11|  10|  2|  0| 
+|Adalberto Mondesi |SS        |      3|  2|   4|  2|  0| 
+|Jazz Chisholm Jr. |MI        |     20| 10|  13|  3|  0| 
 |Miguel Sano       |CI        |     13|  8|  10|  4|  0| 
-|Adolis Garcia     |OF        |     13|  3|   5|  0|  1| 
-|Joey Gallo        |OF        |     20|  8|   5|  2|  3| 
-|Kyle Schwarber    |OF        |     18|  6|  11|  4|  0| 
+|Adolis Garcia     |OF        |     14|  4|   6|  1|  1| 
+|Joey Gallo        |OF        |     23|  9|   6|  2|  3| 
+|Kyle Schwarber    |OF        |     20|  6|  11|  4|  0| 
 |Randy Arozarena   |OF        |     19| 10|  10|  3|  3| 
 |Anthony Santander |DH        |     14|  7|   5|  1|  0| 
 |Jonathan Villar   |DH        |     17|  8|   2|  1|  2| 
-|Kyle Seager       |DH        |     16|  6|   9|  3|  1| 
+|Kyle Seager       |DH        |     18|  7|  10|  3|  1| 
 |Randal Grichuk    |DH        |     12|  4|   6|  4|  0| 
-|Ramon Laureano    |BAT BENCH |      1|  1|   1|  1|  0| 
-|Trevor Story      |BAT BENCH |     12|  7|   3|  0|  3| 
+|Ramon Laureano    |BAT BENCH |      2|  1|   1|  1|  0| 
+|Trevor Story      |BAT BENCH |     13|  7|   4|  0|  4| 
 
 
 * * *
@@ -35,11 +35,11 @@
 |Gerrit Cole         |SP          |  3| 19.000|  9| 4.263|     17| 0.895| 20|  2|  0| 
 |Jake Odorizzi       |SP          |  3| 12.000|  6| 4.500|     13| 1.083| 11|  1|  0| 
 |Kyle Gibson         |SP          |  3| 17.333|  3| 1.558|     19| 1.096| 13|  1|  0| 
-|Robbie Ray          |SP          |  3| 18.333|  5| 2.455|     20| 1.091| 32|  2|  0| 
+|Robbie Ray          |SP          |  4| 22.667|  7| 2.779|     28| 1.235| 37|  2|  0| 
 |Zach Eflin          |SP          |  2| 11.000|  4| 3.273|     17| 1.545|  9|  0|  0| 
-|Brad Hand           |RP          |  8|  9.000|  2| 2.000|      9| 1.000|  8|  1|  5| 
-|Ryan Pressly        |RP          |  4|  4.000|  0| 0.000|      4| 1.000|  5|  1|  3| 
-|Ian Kennedy         |OP          |  3|  3.000|  3| 9.000|      7| 2.333|  3|  0|  1| 
+|Brad Hand           |RP          |  9| 10.000|  2| 1.800|      9| 0.900|  9|  2|  5| 
+|Ryan Pressly        |RP          |  5|  5.000|  0| 0.000|      4| 0.800|  8|  2|  3| 
+|Ian Kennedy         |OP          |  4|  4.000|  3| 6.750|      9| 2.250|  4|  0|  1| 
 |Matt Barnes         |OP          |  6|  5.333|  3| 5.062|      7| 1.312| 11|  2|  3| 
 |Michael Pineda      |OP          |  3| 11.333| 10| 7.941|     20| 1.765|  4|  0|  0| 
 |Steven Matz         |OP          |  2| 10.000|  5| 4.500|     18| 1.800| 11|  1|  0| 
