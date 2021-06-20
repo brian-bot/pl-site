@@ -7,21 +7,21 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Christian Vazquez |C         |     18|  6|   5|  0|  1| 
 |Max Muncy         |1B        |      6|  2|   3|  1|  0| 
-|Gavin Lux         |2B        |     20| 10|   5|  1|  0| 
+|Gavin Lux         |2B        |     22| 11|   6|  1|  0| 
 |Alex Bregman      |3B        |     13|  6|   5|  1|  1| 
 |Dansby Swanson    |SS        |     18|  9|   9|  3|  0| 
 |Nick Madrigal     |MI        |     11|  2|   4|  1|  0| 
-|Cavan Biggio      |CI        |     13|  4|   3|  3|  0| 
+|Cavan Biggio      |CI        |     15|  5|   3|  3|  0| 
 |Alex Kirilloff    |OF        |     19|  3|   6|  1|  0| 
-|Andrew McCutchen  |OF        |     22| 10|  14|  5|  0| 
-|Christian Yelich  |OF        |     29|  9|  11|  2|  1| 
-|Wil Myers         |OF        |     17|  2|   2|  2|  0| 
-|Carlos Santana    |DH        |     22|  7|   5|  1|  0| 
-|Dylan Moore       |DH        |      8|  2|   3|  1|  2| 
-|Jesse Winker      |DH        |     29| 12|  13|  4|  0| 
+|Andrew McCutchen  |OF        |     25| 12|  14|  5|  0| 
+|Christian Yelich  |OF        |     32|  9|  12|  2|  1| 
+|Wil Myers         |OF        |     19|  2|   2|  2|  0| 
+|Carlos Santana    |DH        |     22|  7|   6|  1|  0| 
+|Dylan Moore       |DH        |     10|  3|   3|  1|  2| 
+|Jesse Winker      |DH        |     31| 13|  14|  4|  0| 
 |Jurickson Profar  |DH        |     12|  4|   1|  0|  0| 
 |Marcell Ozuna     |BAT BENCH |     **| **|  **| **| **| 
-|Miguel Cabrera    |BAT BENCH |     18|  9|   9|  1|  0| 
+|Miguel Cabrera    |BAT BENCH |     19| 10|   9|  1|  0| 
 
 
 * * *
@@ -38,13 +38,13 @@
 |Trevor Bauer       |SP          |  3| 19.333|  7|  3.259|     27| 1.397| 23|  1|  0| 
 |Zack Greinke       |SP          |  3| 17.667|  8|  4.075|     21| 1.189|  9|  2|  0| 
 |Jake Diekman       |RP          |  8|  7.667|  3|  3.522|      9| 1.174|  9|  0|  0| 
-|James Karinchak    |RP          |  7|  6.667|  2|  2.700|      7| 1.050| 11|  2|  1| 
+|James Karinchak    |RP          |  8|  7.000|  4|  5.143|     10| 1.429| 12|  2|  1| 
 |Anthony DeSclafani |OP          |  3| 20.000|  3|  1.350|     13| 0.650| 17|  3|  0| 
 |Craig Kimbrel      |OP          |  7|  6.333|  0|  0.000|      1| 0.158| 11|  0|  7| 
 |Devin Williams     |OP          |  8|  7.000|  1|  1.286|     10| 1.429| 13|  1|  0| 
 |Freddy Peralta     |OP          |  3| 18.333|  4|  1.964|     13| 0.709| 21|  1|  0| 
 |Johnny Cueto       |OP          |  3| 15.667| 10|  5.745|     26| 1.660| 11|  1|  0| 
-|Jake Arrieta       |PITCH BENCH |  3| 12.000| 11|  8.250|     21| 1.750| 10|  0|  0| 
+|Jake Arrieta       |PITCH BENCH |  4| 15.000| 15|  9.000|     27| 1.800| 15|  0|  0| 
 |Yusei Kikuchi      |PITCH BENCH |  3| 18.000|  4|  2.000|     19| 1.056| 20|  1|  0| 
 
 
