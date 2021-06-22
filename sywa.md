@@ -5,19 +5,19 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|Willson Contreras     |C         |     13|  7|   4|  3|  0| 
-|Freddie Freeman       |1B        |     27| 13|  11|  4|  2| 
-|Kolten Wong           |2B        |      6|  4|   6|  3|  0| 
+|Willson Contreras     |C         |     16|  7|   4|  3|  0| 
+|Freddie Freeman       |1B        |     28| 14|  11|  4|  2| 
+|Kolten Wong           |2B        |      7|  5|   6|  3|  0| 
 |Jose Ramirez          |3B        |     23| 12|  14|  3|  0| 
 |Fernando Tatis Jr.    |SS        |     22| 14|  13|  6|  1| 
-|Eugenio Suarez        |MI        |     16|  6|  13|  2|  0| 
+|Eugenio Suarez        |MI        |     19|  7|  16|  3|  0| 
 |Vladimir Guerrero Jr. |CI        |     36| 14|  17|  7|  1| 
-|Austin Hays           |OF        |      6|  2|   3|  1|  1| 
-|Eddie Rosario         |OF        |     24|  7|  10|  1|  1| 
+|Austin Hays           |OF        |      6|  3|   3|  1|  1| 
+|Eddie Rosario         |OF        |     25|  7|  10|  1|  1| 
 |Joc Pederson          |OF        |     17| 11|  13|  7|  0| 
 |Trent Grisham         |OF        |      6|  2|   7|  2|  0| 
-|Anthony Rizzo         |DH        |     18|  8|  12|  4|  1| 
-|Josh Rojas            |DH        |     17|  9|   6|  4|  1| 
+|Anthony Rizzo         |DH        |     20|  8|  12|  4|  1| 
+|Josh Rojas            |DH        |     18|  9|   7|  4|  1| 
 |Rob Refsnyder         |DH        |      3|  0|   1|  0|  0| 
 |Yermin Mercedes       |DH        |      9|  3|   4|  0|  0| 
 |Brandon Nimmo         |BAT BENCH |     **| **|  **| **| **| 
@@ -31,7 +31,7 @@
  
 |players           |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Aaron Civale      |SP          |  3| 19.000|  9|  4.263|     20| 1.053| 17|  3|  0| 
+|Aaron Civale      |SP          |  4| 23.667|  9|  3.423|     25| 1.056| 22|  3|  0| 
 |Elieser Hernandez |SP          |  1|  5.000|  1|  1.800|      3| 0.600|  6|  0|  0| 
 |Framber Valdez    |SP          |  4| 28.333|  5|  1.588|     28| 0.988| 25|  4|  0| 
 |Jack Flaherty     |SP          | **|     **| **|     **|     **|    **| **| **| **| 

@@ -10,17 +10,17 @@
 |Nick Solak         |2B        |     11|  1|   5|  0|  1| 
 |Rafael Devers      |3B        |     24| 14|  14|  4|  0| 
 |Bo Bichette        |SS        |     29| 16|  15|  3|  3| 
-|Isiah Kiner-Falefa |MI        |     25| 10|   6|  1|  5| 
+|Isiah Kiner-Falefa |MI        |     26| 10|   6|  1|  5| 
 |Ke'Bryan Hayes     |CI        |     21|  8|   8|  2|  0| 
 |Austin Meadows     |OF        |     20| 13|  13|  3|  1| 
-|Avisail Garcia     |OF        |     15|  4|  10|  3|  0| 
+|Avisail Garcia     |OF        |     16|  4|  11|  3|  0| 
 |J.D. Martinez      |OF        |     18|  9|   5|  2|  0| 
 |Tommy Pham         |OF        |     32| 13|   7|  3|  5| 
-|Amed Rosario       |DH        |     25| 14|   7|  1|  3| 
+|Amed Rosario       |DH        |     26| 14|   7|  1|  3| 
 |Hunter Renfroe     |DH        |     26| 10|   8|  1|  0| 
 |Ian Happ           |DH        |     11|  5|   4|  2|  0| 
 |Tyler Naquin       |DH        |     14|  5|   8|  1|  0| 
-|Byron Buxton       |BAT BENCH |      3|  2|   2|  1|  0| 
+|Byron Buxton       |BAT BENCH |      4|  2|   2|  1|  0| 
 |Corey Seager       |BAT BENCH |     **| **|  **| **| **| 
 |Giancarlo Stanton  |BAT BENCH |     21|  5|  12|  4|  0| 
 
@@ -35,7 +35,7 @@
 |Domingo German    |SP          |  4| 19.000| 15| 7.105|     28| 1.474| 16|  0|  0| 
 |Dylan Cease       |SP          |  4| 18.667| 14| 6.750|     26| 1.393| 23|  2|  0| 
 |Garrett Richards  |SP          |  4| 20.333| 13| 5.754|     39| 1.918| 17|  0|  0| 
-|Jacob deGrom      |SP          |  3| 16.000|  0| 0.000|      5| 0.312| 29|  2|  0| 
+|Jacob deGrom      |SP          |  4| 21.000|  0| 0.000|      8| 0.381| 35|  3|  0| 
 |Max Scherzer      |SP          |  2|  8.000|  1| 1.125|      6| 0.750|  9|  1|  0| 
 |Trevor Rogers     |SP          |  3| 19.000|  4| 1.895|     14| 0.737| 19|  1|  0| 
 |Alex Reyes        |RP          |  5|  5.000|  1| 1.800|      6| 1.200|  7|  1|  2| 
