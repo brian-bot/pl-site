@@ -44,6 +44,7 @@
 |Cristian Javier |OP          |  4| 11.000|  3|  2.455|      9| 0.818| 13|  0|  1| 
 |John Means      |OP          |  1|  0.667|  2| 27.000|      3| 4.500|  1|  0|  0| 
 |Jose Alvarado   |OP          |  6|  7.333|  1|  1.227|      7| 0.955|  7|  1|  0| 
+|Tony Gonsolin   |OP          |  3|  9.000|  3|  3.000|     17| 1.889| 11|  0|  0| 
 |Aaron Sanchez   |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Michael Kopech  |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 
