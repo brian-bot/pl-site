@@ -6,7 +6,7 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Yasmani Grandal    |C         |     24| 11|   6|  4|  0| 
-|Eric Hosmer        |1B        |     13|  4|   5|  1|  0| 
+|Eric Hosmer        |1B        |     14|  4|   5|  1|  0| 
 |Nick Solak         |2B        |     11|  1|   5|  0|  1| 
 |Rafael Devers      |3B        |     24| 14|  14|  4|  0| 
 |Bo Bichette        |SS        |     29| 16|  15|  3|  3| 
@@ -15,7 +15,7 @@
 |Austin Meadows     |OF        |     20| 13|  13|  3|  1| 
 |Avisail Garcia     |OF        |     16|  4|  11|  3|  0| 
 |J.D. Martinez      |OF        |     18|  9|   5|  2|  0| 
-|Tommy Pham         |OF        |     32| 13|   7|  3|  5| 
+|Tommy Pham         |OF        |     33| 14|   7|  3|  5| 
 |Amed Rosario       |DH        |     26| 14|   7|  1|  3| 
 |Hunter Renfroe     |DH        |     26| 10|   8|  1|  0| 
 |Ian Happ           |DH        |     11|  5|   4|  2|  0| 

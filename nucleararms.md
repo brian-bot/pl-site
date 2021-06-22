@@ -8,17 +8,17 @@
 |Salvador Perez      |C         |     27| 14|  14|  8|  0| 
 |Paul Goldschmidt    |1B        |     24|  7|  11|  4|  2| 
 |Ketel Marte         |2B        |     33| 13|  10|  1|  1| 
-|Manny Machado       |3B        |     26| 10|  13|  4|  1| 
+|Manny Machado       |3B        |     29| 11|  16|  5|  2| 
 |Trea Turner         |SS        |     31| 11|   5|  1|  3| 
 |Jean Segura         |MI        |     20|  6|   8|  0|  2| 
 |Jeimer Candelario   |CI        |     14|  3|   1|  0|  0| 
 |Andrew Benintendi   |OF        |     13|  7|  13|  4|  1| 
-|Chris Taylor        |OF        |     23| 13|   9|  3|  1| 
+|Chris Taylor        |OF        |     24| 13|   9|  3|  1| 
 |Kyle Tucker         |OF        |     19|  7|   8|  2|  0| 
 |Lourdes Gurriel Jr. |OF        |     20|  8|   6|  3|  0| 
 |Bryan Reynolds      |DH        |     29| 11|  13|  5|  1| 
 |David Peralta       |DH        |     19|  4|   6|  0|  0| 
-|Justin Turner       |DH        |     27| 10|  10|  3|  0| 
+|Justin Turner       |DH        |     28| 10|  10|  3|  0| 
 |Niko Goodrum        |DH        |     12|  5|   5|  1|  4| 
 |Alec Bohm           |BAT BENCH |     19|  9|   7|  0|  0| 
 |Michael Brantley    |BAT BENCH |     30| 11|  14|  1|  0| 

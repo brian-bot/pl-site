@@ -10,7 +10,7 @@
 |Marcus Semien    |2B        |     25| 16|  10|  5|  1| 
 |Nolan Arenado    |3B        |     19|  5|  12|  2|  0| 
 |Carlos Correa    |SS        |     35| 16|  14|  6|  0| 
-|Jake Cronenworth |MI        |     22| 10|   6|  3|  0| 
+|Jake Cronenworth |MI        |     25| 12|   9|  4|  0| 
 |C.J. Cron        |CI        |     22|  7|  10|  4|  0| 
 |Dominic Smith    |OF        |     23|  7|  11|  4|  2| 
 |Manuel Margot    |OF        |     20|  7|   9|  3|  0| 

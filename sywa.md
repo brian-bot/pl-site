@@ -9,13 +9,13 @@
 |Freddie Freeman       |1B        |     28| 14|  11|  4|  2| 
 |Kolten Wong           |2B        |      7|  5|   6|  3|  0| 
 |Jose Ramirez          |3B        |     23| 12|  14|  3|  0| 
-|Fernando Tatis Jr.    |SS        |     22| 14|  13|  6|  1| 
+|Fernando Tatis Jr.    |SS        |     26| 16|  13|  6|  2| 
 |Eugenio Suarez        |MI        |     19|  7|  16|  3|  0| 
 |Vladimir Guerrero Jr. |CI        |     36| 14|  17|  7|  1| 
 |Austin Hays           |OF        |      6|  3|   3|  1|  1| 
 |Eddie Rosario         |OF        |     25|  7|  10|  1|  1| 
 |Joc Pederson          |OF        |     17| 11|  13|  7|  0| 
-|Trent Grisham         |OF        |      6|  2|   7|  2|  0| 
+|Trent Grisham         |OF        |      7|  2|   7|  2|  0| 
 |Anthony Rizzo         |DH        |     20|  8|  12|  4|  1| 
 |Josh Rojas            |DH        |     18|  9|   7|  4|  1| 
 |Rob Refsnyder         |DH        |      3|  0|   1|  0|  0| 

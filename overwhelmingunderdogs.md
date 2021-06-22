@@ -7,7 +7,7 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Christian Vazquez |C         |     19|  6|   5|  0|  1| 
 |Max Muncy         |1B        |      6|  2|   3|  1|  0| 
-|Gavin Lux         |2B        |     24| 12|   6|  1|  0| 
+|Gavin Lux         |2B        |     25| 12|   6|  1|  0| 
 |Alex Bregman      |3B        |     13|  6|   5|  1|  1| 
 |Dansby Swanson    |SS        |     20|  9|   9|  3|  0| 
 |Nick Madrigal     |MI        |     11|  2|   4|  1|  0| 
