@@ -7,12 +7,12 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Christian Vazquez |C         |     19|  6|   5|  0|  1| 
 |Max Muncy         |1B        |      6|  2|   3|  1|  0| 
-|Gavin Lux         |2B        |     24| 12|   6|  1|  0| 
+|Gavin Lux         |2B        |     25| 12|   6|  1|  0| 
 |Alex Bregman      |3B        |     13|  6|   5|  1|  1| 
-|Dansby Swanson    |SS        |     19|  9|   9|  3|  0| 
+|Dansby Swanson    |SS        |     20|  9|   9|  3|  0| 
 |Nick Madrigal     |MI        |     11|  2|   4|  1|  0| 
 |Cavan Biggio      |CI        |     17|  5|   4|  3|  0| 
-|Alex Kirilloff    |OF        |     19|  3|   6|  1|  0| 
+|Alex Kirilloff    |OF        |     23|  3|   7|  1|  1| 
 |Andrew McCutchen  |OF        |     25| 12|  14|  5|  0| 
 |Christian Yelich  |OF        |     34| 10|  13|  2|  1| 
 |Wil Myers         |OF        |     20|  3|   4|  2|  0| 
@@ -38,7 +38,7 @@
 |Trevor Bauer       |SP          |  3| 19.333|  7|  3.259|     27| 1.397| 23|  1|  0| 
 |Zack Greinke       |SP          |  3| 17.667|  8|  4.075|     21| 1.189|  9|  2|  0| 
 |Jake Diekman       |RP          |  8|  7.667|  3|  3.522|      9| 1.174|  9|  0|  0| 
-|James Karinchak    |RP          |  9|  8.000|  4|  4.500|     11| 1.375| 13|  2|  2| 
+|James Karinchak    |RP          | 10|  9.000|  4|  4.000|     13| 1.444| 15|  2|  2| 
 |Anthony DeSclafani |OP          |  3| 20.000|  3|  1.350|     13| 0.650| 17|  3|  0| 
 |Craig Kimbrel      |OP          |  8|  7.333|  0|  0.000|      1| 0.136| 13|  0|  8| 
 |Devin Williams     |OP          |  9|  8.000|  1|  1.125|     10| 1.250| 16|  2|  0| 
