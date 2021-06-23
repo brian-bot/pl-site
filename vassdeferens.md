@@ -19,6 +19,7 @@
 |Starling Marte    |DH        |      2|  0|   0|  0|  0| 
 |Steven Duggar     |DH        |      0|  0|   0|  0|  0| 
 |Teoscar Hernandez |DH        |      1|  0|   0|  0|  0| 
+|Wander Franco     |DH        |      3|  2|   3|  1|  0| 
 |Patrick Wisdom    |BAT BENCH |      1|  1|   1|  1|  0| 
 
 
