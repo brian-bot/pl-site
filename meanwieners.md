@@ -7,23 +7,23 @@
 |:---------------|:---------|------:|--:|---:|--:|--:| 
 |Buster Posey    |C         |      4|  1|   1|  0|  0| 
 |Rhys Hoskins    |1B        |      3|  1|   1|  1|  0| 
-|Whit Merrifield |2B        |      2|  2|   1|  0|  0| 
+|Whit Merrifield |2B        |      4|  2|   1|  0|  1| 
 |Eduardo Escobar |3B        |      1|  1|   1|  1|  0| 
 |Willy Adames    |SS        |      2|  0|   0|  0|  0| 
 |Luis Urias      |MI        |      2|  1|   2|  0|  0| 
-|Luke Voit       |CI        |      4|  1|   2|  1|  0| 
-|Aaron Judge     |OF        |      3|  0|   0|  0|  0| 
-|Cody Bellinger  |OF        |      2|  1|   0|  0|  0| 
+|Luke Voit       |CI        |      5|  2|   3|  2|  0| 
+|Aaron Judge     |OF        |      8|  3|   2|  1|  0| 
+|Cody Bellinger  |OF        |      4|  1|   0|  0|  0| 
 |Jorge Soler     |OF        |      2|  0|   0|  0|  0| 
-|Yordan Alvarez  |OF        |      4|  2|   1|  1|  0| 
+|Yordan Alvarez  |OF        |      6|  4|   6|  2|  0| 
 |Mitch Haniger   |DH        |      0|  0|   0|  0|  0| 
-|Robbie Grossman |DH        |      1|  0|   0|  0|  0| 
-|Tyler O'Neill   |DH        |      2|  0|   0|  0|  0| 
-|Yuli Gurriel    |DH        |      4|  2|   1|  0|  0| 
+|Robbie Grossman |DH        |      2|  1|   0|  0|  0| 
+|Tyler O'Neill   |DH        |      4|  1|   1|  0|  0| 
+|Yuli Gurriel    |DH        |      8|  4|   2|  0|  0| 
 |Garrett Hampson |BAT BENCH |      0|  0|   0|  0|  0| 
 |Gleyber Torres  |BAT BENCH |      3|  0|   0|  0|  0| 
 |Jesus Aguilar   |BAT BENCH |      1|  0|   0|  0|  0| 
-|Josh Donaldson  |BAT BENCH |      0|  0|   0|  0|  0| 
+|Josh Donaldson  |BAT BENCH |      2|  0|   0|  0|  0| 
 
 * * *
 
@@ -44,7 +44,7 @@
 |Jonathan Loaisiga |OP          |  1| 0.667|  4| 54.000|      5| 7.500|  2|  0|  0| 
 |Logan Gilbert     |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Richard Rodriguez |OP          |  1| 1.000|  0|  0.000|      0| 0.000|  1|  0|  1| 
-|Ryan Tepera       |OP          |  1| 1.000|  1|  9.000|      3| 3.000|  1|  0|  0| 
+|Ryan Tepera       |OP          |  2| 2.000|  1|  4.500|      4| 2.000|  1|  0|  0| 
 |Shane Bieber      |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 
 

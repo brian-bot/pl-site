@@ -7,18 +7,18 @@
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Yasmani Grandal    |C         |      2|  1|   5|  1|  0| 
 |Eric Hosmer        |1B        |      2|  0|   0|  0|  0| 
-|Jonathan India     |2B        |      1|  1|   0|  0|  0| 
-|Rafael Devers      |3B        |      3|  2|   3|  0|  0| 
-|Bo Bichette        |SS        |      3|  2|   1|  0|  2| 
+|Jonathan India     |2B        |      4|  4|   0|  0|  0| 
+|Rafael Devers      |3B        |      5|  2|   3|  0|  0| 
+|Bo Bichette        |SS        |      5|  3|   2|  0|  2| 
 |Isiah Kiner-Falefa |MI        |      0|  0|   0|  0|  0| 
-|Ke'Bryan Hayes     |CI        |      5|  0|   2|  0|  1| 
+|Ke'Bryan Hayes     |CI        |      8|  2|   2|  0|  1| 
 |Austin Meadows     |OF        |      4|  1|   2|  1|  0| 
-|Giancarlo Stanton  |OF        |      6|  1|   0|  0|  0| 
-|J.D. Martinez      |OF        |      3|  1|   2|  0|  0| 
+|Giancarlo Stanton  |OF        |      9|  1|   1|  0|  0| 
+|J.D. Martinez      |OF        |      4|  1|   2|  0|  0| 
 |Tommy Pham         |OF        |      1|  1|   0|  0|  0| 
-|Amed Rosario       |DH        |      0|  0|   1|  0|  0| 
+|Amed Rosario       |DH        |      0|  1|   1|  0|  0| 
 |Avisail Garcia     |DH        |      4|  1|   1|  0|  0| 
-|Hunter Renfroe     |DH        |      3|  2|   3|  1|  0| 
+|Hunter Renfroe     |DH        |      4|  2|   3|  1|  0| 
 |Jonathan Schoop    |DH        |      4|  2|   6|  2|  1| 
 |Byron Buxton       |BAT BENCH |     **| **|  **| **| **| 
 |Corey Seager       |BAT BENCH |     **| **|  **| **| **| 
@@ -46,7 +46,7 @@
 |Ross Stripling    |OP          |  1| 6.000|  1|  1.500|      3| 0.500|  7|  0|  0| 
 |Alex Cobb         |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Garrett Richards  |PITCH BENCH |  1| 1.667|  4| 21.600|      7| 4.200|  0|  0|  0| 
-|J.P. Feyereisen   |PITCH BENCH |  1| 2.000|  0|  0.000|      1| 0.500|  2|  0|  0| 
+|J.P. Feyereisen   |PITCH BENCH |  2| 3.000|  0|  0.000|      2| 0.667|  2|  1|  0| 
 
 
 * * *

@@ -7,20 +7,20 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith        |C         |      2|  0|   1|  0|  0| 
 |Pete Alonso       |1B        |      2|  0|   0|  0|  0| 
-|Ozzie Albies      |2B        |      3|  1|   0|  0|  2| 
+|Ozzie Albies      |2B        |      4|  2|   1|  1|  2| 
 |Yoan Moncada      |3B        |      3|  0|   0|  0|  1| 
-|Xander Bogaerts   |SS        |      6|  2|   1|  0|  1| 
+|Xander Bogaerts   |SS        |      7|  2|   1|  0|  1| 
 |Tim Anderson      |MI        |      3|  1|   1|  0|  0| 
 |Pavin Smith       |CI        |      2|  0|   0|  0|  0| 
-|Juan Soto         |OF        |      3|  3|   0|  0|  1| 
+|Juan Soto         |OF        |      5|  4|   2|  0|  1| 
 |Mike Yastrzemski  |OF        |      2|  3|   1|  1|  0| 
 |Nelson Cruz       |OF        |      3|  1|   0|  0|  0| 
-|Ryan Mountcastle  |OF        |      2|  0|   0|  0|  0| 
-|Starling Marte    |DH        |      4|  1|   1|  1|  1| 
+|Ryan Mountcastle  |OF        |      5|  0|   0|  0|  0| 
+|Starling Marte    |DH        |      5|  1|   1|  1|  1| 
 |Steven Duggar     |DH        |      3|  1|   3|  0|  1| 
-|Teoscar Hernandez |DH        |      2|  0|   1|  0|  0| 
-|Wander Franco     |DH        |      5|  3|   3|  1|  0| 
-|Patrick Wisdom    |BAT BENCH |      1|  1|   1|  1|  0| 
+|Teoscar Hernandez |DH        |      4|  1|   2|  0|  0| 
+|Wander Franco     |DH        |      5|  3|   3|  1|  1| 
+|Patrick Wisdom    |BAT BENCH |      2|  1|   1|  1|  0| 
 
 
 * * *

@@ -9,16 +9,16 @@
 |Jose Abreu       |1B        |      2|  1|   0|  0|  0| 
 |Jose Altuve      |2B        |      4|  2|   2|  1|  0| 
 |Anthony Rendon   |3B        |      3|  0|   0|  0|  0| 
-|Javier Baez      |SS        |      1|  0|   1|  0|  0| 
+|Javier Baez      |SS        |      2|  1|   2|  1|  0| 
 |Ty France        |MI        |      1|  0|   0|  0|  0| 
-|Kris Bryant      |CI        |      2|  2|   1|  1|  0| 
+|Kris Bryant      |CI        |      3|  3|   1|  1|  1| 
 |Charlie Blackmon |OF        |      3|  1|   0|  0|  0| 
-|Dylan Carlson    |OF        |      3|  0|   0|  0|  0| 
+|Dylan Carlson    |OF        |      5|  1|   0|  0|  0| 
 |George Springer  |OF        |      1|  0|   1|  0|  0| 
 |Ronald Acuna Jr. |OF        |      0|  0|   0|  0|  0| 
 |AJ Pollock       |DH        |      1|  0|   0|  0|  0| 
 |David Fletcher   |DH        |      4|  0|   0|  0|  0| 
-|Hunter Dozier    |DH        |      1|  0|   1|  0|  0| 
+|Hunter Dozier    |DH        |      2|  0|   1|  0|  0| 
 |Justin Upton     |DH        |      0|  0|   0|  0|  0| 
 |Didi Gregorius   |BAT BENCH |     **| **|  **| **| **| 
 |Jarred Kelenic   |BAT BENCH |     **| **|  **| **| **| 

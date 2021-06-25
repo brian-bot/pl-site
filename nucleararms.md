@@ -6,19 +6,19 @@
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Salvador Perez      |C         |      1|  1|   0|  0|  0| 
-|Paul Goldschmidt    |1B        |      2|  0|   1|  0|  0| 
+|Paul Goldschmidt    |1B        |      4|  0|   1|  0|  0| 
 |Ketel Marte         |2B        |      1|  0|   0|  0|  0| 
 |Manny Machado       |3B        |      2|  2|   1|  1|  0| 
-|Trea Turner         |SS        |      5|  2|   2|  0|  0| 
+|Trea Turner         |SS        |      8|  4|   2|  0|  0| 
 |Jeff McNeil         |MI        |      3|  1|   1|  0|  0| 
-|Jeimer Candelario   |CI        |      4|  0|   0|  0|  0| 
-|Chris Taylor        |OF        |      3|  1|   0|  0|  0| 
-|Kyle Tucker         |OF        |      4|  1|   1|  0|  0| 
-|Lourdes Gurriel Jr. |OF        |      1|  0|   1|  0|  0| 
-|Michael Brantley    |OF        |      4|  0|   1|  0|  0| 
+|Jeimer Candelario   |CI        |      5|  0|   0|  0|  0| 
+|Chris Taylor        |OF        |      4|  1|   0|  0|  0| 
+|Kyle Tucker         |OF        |      6|  1|   1|  0|  0| 
+|Lourdes Gurriel Jr. |OF        |      2|  1|   5|  1|  0| 
+|Michael Brantley    |OF        |      6|  1|   1|  0|  0| 
 |Alec Bohm           |DH        |      5|  3|   1|  0|  0| 
-|Bryan Reynolds      |DH        |      4|  0|   2|  0|  0| 
-|Cesar Hernandez     |DH        |      2|  0|   0|  0|  0| 
+|Bryan Reynolds      |DH        |      8|  1|   6|  1|  0| 
+|Cesar Hernandez     |DH        |      3|  0|   0|  0|  0| 
 |Justin Turner       |DH        |      4|  0|   1|  0|  0| 
 |Andrew Benintendi   |BAT BENCH |     **| **|  **| **| **| 
 |Jean Segura         |BAT BENCH |     **| **|  **| **| **| 
@@ -43,7 +43,7 @@
 |Erick Fedde      |OP          |  1| 4.000|  5| 11.250|      9| 2.250|  1|  0|  0| 
 |Scott Barlow     |OP          |  2| 1.333|  0|  0.000|      3| 2.250|  2|  0|  0| 
 |Yusmeiro Petit   |OP          |  1| 1.000|  2| 18.000|      3| 3.000|  0|  0|  0| 
-|Zach Davies      |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Zach Davies      |OP          |  1| 6.000|  0|  0.000|      5| 0.833|  4|  1|  0| 
 |Danny Duffy      |PITCH BENCH |  1| 2.000|  0|  0.000|      3| 1.500|  4|  0|  0| 
 
 
