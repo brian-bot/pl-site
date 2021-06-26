@@ -5,21 +5,21 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez      |C         |      1|  1|   0|  0|  0| 
+|Salvador Perez      |C         |      2|  1|   0|  0|  0| 
 |Paul Goldschmidt    |1B        |      4|  0|   1|  0|  0| 
 |Ketel Marte         |2B        |      1|  0|   0|  0|  0| 
-|Manny Machado       |3B        |      2|  2|   1|  1|  0| 
-|Trea Turner         |SS        |      8|  4|   2|  0|  0| 
+|Manny Machado       |3B        |      4|  3|   2|  1|  0| 
+|Trea Turner         |SS        |      9|  5|   2|  0|  1| 
 |Jeff McNeil         |MI        |      3|  1|   1|  0|  0| 
 |Jeimer Candelario   |CI        |      5|  0|   0|  0|  0| 
 |Chris Taylor        |OF        |      4|  1|   0|  0|  0| 
 |Kyle Tucker         |OF        |      6|  1|   1|  0|  0| 
-|Lourdes Gurriel Jr. |OF        |      2|  1|   5|  1|  0| 
+|Lourdes Gurriel Jr. |OF        |      5|  2|   6|  1|  0| 
 |Michael Brantley    |OF        |      6|  1|   1|  0|  0| 
 |Alec Bohm           |DH        |      5|  3|   1|  0|  0| 
-|Bryan Reynolds      |DH        |      8|  1|   6|  1|  0| 
+|Bryan Reynolds      |DH        |      9|  2|   6|  1|  0| 
 |Cesar Hernandez     |DH        |      3|  0|   0|  0|  0| 
-|Justin Turner       |DH        |      4|  0|   1|  0|  0| 
+|Justin Turner       |DH        |      6|  0|   1|  0|  0| 
 |Andrew Benintendi   |BAT BENCH |     **| **|  **| **| **| 
 |Jean Segura         |BAT BENCH |     **| **|  **| **| **| 
 
@@ -32,7 +32,7 @@
 |players          |position    |  g|    ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
 |Blake Snell      |SP          |  1| 5.000|  0|  0.000|      7| 1.400|  5|  1|  0| 
-|Corbin Burnes    |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Corbin Burnes    |SP          |  1| 6.000|  1|  1.500|      5| 0.833|  7|  0|  0| 
 |Dallas Keuchel   |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Nathan Eovaldi   |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Shane McClanahan |SP          | **|    **| **|     **|     **|    **| **| **| **| 
@@ -44,7 +44,7 @@
 |Scott Barlow     |OP          |  2| 1.333|  0|  0.000|      3| 2.250|  2|  0|  0| 
 |Yusmeiro Petit   |OP          |  1| 1.000|  2| 18.000|      3| 3.000|  0|  0|  0| 
 |Zach Davies      |OP          |  1| 6.000|  0|  0.000|      5| 0.833|  4|  1|  0| 
-|Danny Duffy      |PITCH BENCH |  1| 2.000|  0|  0.000|      3| 1.500|  4|  0|  0| 
+|Danny Duffy      |PITCH BENCH |  2| 3.000|  0|  0.000|      3| 1.000|  5|  0|  0| 
 
 
 * * *
