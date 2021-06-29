@@ -16,7 +16,7 @@
 |Cody Bellinger  |OF        |      9|  4|   4|  2|  1| 
 |Jorge Soler     |OF        |      7|  2|   0|  0|  0| 
 |Yordan Alvarez  |OF        |     11|  6|   8|  3|  0| 
-|Mitch Haniger   |DH        |      8|  3|   4|  1|  0| 
+|Mitch Haniger   |DH        |      6|  3|   4|  1|  0| 
 |Robbie Grossman |DH        |      5|  2|   2|  1|  0| 
 |Tyler O'Neill   |DH        |      9|  2|   1|  0|  0| 
 |Yuli Gurriel    |DH        |     14|  6|   2|  0|  0| 
@@ -42,7 +42,7 @@
 |Will Smith        |RP          |  3| 3.000|  0|  0.000|      2| 0.667|  4|  0|  2| 
 |Collin McHugh     |OP          |  2| 4.333|  0|  0.000|      1| 0.231|  5|  1|  0| 
 |Jonathan Loaisiga |OP          |  2| 2.000|  4| 18.000|      5| 2.500|  6|  0|  0| 
-|Logan Gilbert     |OP          |  2| 4.000|  0|  0.000|      2| 0.500|  6|  0|  0| 
+|Logan Gilbert     |OP          |  1| 2.000|  0|  0.000|      1| 0.500|  3|  0|  0| 
 |Richard Rodriguez |OP          |  2| 2.000|  0|  0.000|      0| 0.000|  3|  0|  2| 
 |Ryan Tepera       |OP          |  4| 3.000|  7| 21.000|     10| 3.333|  2|  0|  0| 
 |Shane Bieber      |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 

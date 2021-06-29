@@ -5,7 +5,7 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Yasmani Grandal    |C         |     10|  5|   8|  2|  0| 
+|Yasmani Grandal    |C         |      8|  4|   7|  2|  0| 
 |Eric Hosmer        |1B        |      4|  1|   1|  0|  0| 
 |Jonathan India     |2B        |      8|  7|   1|  0|  1| 
 |Rafael Devers      |3B        |     11|  4|   7|  1|  0| 

@@ -8,7 +8,7 @@
 |Will Smith        |C         |      5|  1|   2|  1|  0| 
 |Pete Alonso       |1B        |     12|  1|   3|  1|  1| 
 |Ozzie Albies      |2B        |      8|  3|   1|  1|  3| 
-|Yoan Moncada      |3B        |     11|  1|   2|  0|  1| 
+|Yoan Moncada      |3B        |      9|  1|   2|  0|  1| 
 |Xander Bogaerts   |SS        |     14|  8|   4|  0|  1| 
 |Tim Anderson      |MI        |      6|  3|   1|  0|  1| 
 |Pavin Smith       |CI        |      7|  2|   0|  0|  0| 

@@ -18,11 +18,11 @@
 |Trent Grisham         |OF        |      9|  2|   3|  0|  0| 
 |Akil Baddoo           |DH        |     10|  4|   3|  0|  1| 
 |Anthony Rizzo         |DH        |      3|  1|   1|  1|  0| 
-|J.P. Crawford         |DH        |      8|  1|   1|  0|  1| 
+|J.P. Crawford         |DH        |      7|  1|   1|  0|  1| 
 |Josh Rojas            |DH        |     11|  3|   5|  1|  0| 
 |Brandon Nimmo         |BAT BENCH |     **| **|  **| **| **| 
 |Kyle Lewis            |BAT BENCH |     **| **|  **| **| **| 
-|Yermin Mercedes       |BAT BENCH |      5|  2|   3|  0|  0| 
+|Yermin Mercedes       |BAT BENCH |      4|  2|   3|  0|  0| 
 
 
 * * *
@@ -43,7 +43,7 @@
 |Andrew Kittredge  |OP          |  3|  3.667|  2| 4.909|      5| 1.364|  5|  0|  0| 
 |Jesus Luzardo     |OP          | **|     **| **|    **|     **|    **| **| **| **| 
 |Josh Staumont     |OP          |  3|  4.333|  1| 2.077|      6| 1.385|  5|  0|  0| 
-|Kendall Graveman  |OP          |  3|  3.000|  0| 0.000|      2| 0.667|  1|  0|  3| 
+|Kendall Graveman  |OP          |  2|  2.000|  0| 0.000|      1| 0.500|  1|  0|  2| 
 |Ryan Weathers     |OP          | **|     **| **|    **|     **|    **| **| **| **| 
 |Elieser Hernandez |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 |Jack Flaherty     |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 

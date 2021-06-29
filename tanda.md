@@ -11,7 +11,7 @@
 |Matt Chapman      |3B        |      9|  4|   9|  2|  0| 
 |Trevor Story      |SS        |      6|  4|   5|  3|  1| 
 |Jazz Chisholm Jr. |MI        |      6|  3|   4|  1|  0| 
-|Kyle Seager       |CI        |      8|  0|   2|  0|  0| 
+|Kyle Seager       |CI        |      7|  0|   2|  0|  0| 
 |Adolis Garcia     |OF        |     11|  6|   6|  2|  0| 
 |Joey Gallo        |OF        |     12|  5|   8|  4|  0| 
 |Ramon Laureano    |OF        |      6|  5|   3|  1|  0| 
