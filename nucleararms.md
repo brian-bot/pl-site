@@ -6,20 +6,20 @@
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Salvador Perez      |C         |      2|  1|   0|  0|  0| 
-|Paul Goldschmidt    |1B        |      7|  1|   2|  1|  0| 
+|Paul Goldschmidt    |1B        |      8|  2|   3|  1|  0| 
 |Ketel Marte         |2B        |      2|  0|   0|  0|  0| 
 |Manny Machado       |3B        |      5|  3|   2|  1|  0| 
-|Trea Turner         |SS        |     11|  7|   4|  1|  1| 
-|Jeff McNeil         |MI        |      3|  1|   1|  0|  0| 
-|Jeimer Candelario   |CI        |      7|  0|   0|  0|  0| 
+|Trea Turner         |SS        |     13|  8|   5|  2|  1| 
+|Jeff McNeil         |MI        |      5|  1|   2|  0|  0| 
+|Jeimer Candelario   |CI        |      8|  0|   1|  0|  0| 
 |Chris Taylor        |OF        |      8|  2|   0|  0|  0| 
-|Kyle Tucker         |OF        |      7|  1|   1|  0|  0| 
+|Kyle Tucker         |OF        |     10|  2|   3|  0|  0| 
 |Lourdes Gurriel Jr. |OF        |      5|  2|   6|  1|  0| 
-|Michael Brantley    |OF        |      7|  1|   1|  0|  0| 
-|Alec Bohm           |DH        |      5|  3|   2|  0|  0| 
-|Bryan Reynolds      |DH        |     12|  3|   8|  1|  1| 
-|Cesar Hernandez     |DH        |      3|  0|   0|  0|  0| 
-|Justin Turner       |DH        |     10|  0|   2|  0|  0| 
+|Michael Brantley    |OF        |      8|  2|   1|  0|  0| 
+|Alec Bohm           |DH        |      8|  4|   4|  0|  1| 
+|Bryan Reynolds      |DH        |     13|  3|   8|  1|  2| 
+|Cesar Hernandez     |DH        |      6|  2|   1|  0|  0| 
+|Justin Turner       |DH        |     11|  0|   2|  0|  0| 
 |Andrew Benintendi   |BAT BENCH |     **| **|  **| **| **| 
 |Jean Segura         |BAT BENCH |     **| **|  **| **| **| 
 
@@ -44,7 +44,7 @@
 |Scott Barlow     |OP          |  3|  2.333|  0|  0.000|      3| 1.286|  5|  0|  0| 
 |Yusmeiro Petit   |OP          |  2|  2.000|  2|  9.000|      5| 2.500|  0|  0|  0| 
 |Zach Davies      |OP          |  1|  6.000|  0|  0.000|      5| 0.833|  4|  1|  0| 
-|Danny Duffy      |PITCH BENCH |  2|  3.000|  0|  0.000|      3| 1.000|  5|  0|  0| 
+|Danny Duffy      |PITCH BENCH |  3|  6.333|  4|  5.684|      9| 1.421|  7|  0|  0| 
 
 
 * * *

@@ -5,22 +5,22 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |      4|  0|   1|  0|  0| 
-|Pete Alonso       |1B        |     10|  0|   1|  0|  1| 
+|Will Smith        |C         |      5|  1|   2|  1|  0| 
+|Pete Alonso       |1B        |     12|  1|   3|  1|  1| 
 |Ozzie Albies      |2B        |      8|  3|   1|  1|  3| 
 |Yoan Moncada      |3B        |     11|  1|   2|  0|  1| 
-|Xander Bogaerts   |SS        |     13|  7|   4|  0|  1| 
+|Xander Bogaerts   |SS        |     14|  8|   4|  0|  1| 
 |Tim Anderson      |MI        |      6|  3|   1|  0|  1| 
-|Pavin Smith       |CI        |      6|  2|   0|  0|  0| 
-|Juan Soto         |OF        |      9|  5|   3|  0|  1| 
+|Pavin Smith       |CI        |      7|  2|   0|  0|  0| 
+|Juan Soto         |OF        |     10|  5|   3|  0|  1| 
 |Mike Yastrzemski  |OF        |      4|  4|   1|  1|  0| 
 |Nelson Cruz       |OF        |      5|  2|   4|  1|  0| 
-|Ryan Mountcastle  |OF        |     11|  2|   2|  1|  0| 
+|Ryan Mountcastle  |OF        |     15|  4|   5|  2|  0| 
 |Starling Marte    |DH        |      7|  2|   2|  1|  2| 
-|Steven Duggar     |DH        |      9|  3|   5|  0|  2| 
+|Steven Duggar     |DH        |     10|  3|   5|  0|  2| 
 |Teoscar Hernandez |DH        |      8|  5|   5|  1|  0| 
 |Wander Franco     |DH        |      8|  5|   4|  1|  1| 
-|Patrick Wisdom    |BAT BENCH |      3|  1|   1|  1|  0| 
+|Patrick Wisdom    |BAT BENCH |      4|  2|   3|  2|  0| 
 
 
 * * *
@@ -43,7 +43,7 @@
 |Greg Holland      |OP          |  3|  2.333|  2| 7.714|      5| 2.143|  3|  0|  1| 
 |Hector Neris      |OP          |  3|  2.667|  2| 6.750|      6| 2.250|  2|  0|  1| 
 |Jordan Romano     |OP          |  4|  4.333|  0| 0.000|      3| 0.692|  5|  0|  3| 
-|Giovanny Gallegos |PITCH BENCH |  3|  3.333|  0| 0.000|      1| 0.300|  3|  0|  0| 
+|Giovanny Gallegos |PITCH BENCH |  4|  4.333|  0| 0.000|      1| 0.231|  4|  1|  0| 
 |Justin Dunn       |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 
 

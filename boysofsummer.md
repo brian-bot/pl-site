@@ -5,22 +5,22 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Max Stassi       |C         |      2|  0|   0|  0|  0| 
-|Jared Walsh      |1B        |      4|  0|   1|  0|  0| 
-|DJ LeMahieu      |2B        |     14|  4|   6|  2|  0| 
-|Gio Urshela      |3B        |      4|  1|   0|  0|  0| 
+|Max Stassi       |C         |      2|  0|   1|  0|  0| 
+|Jared Walsh      |1B        |      6|  0|   2|  0|  0| 
+|DJ LeMahieu      |2B        |     15|  5|   6|  2|  0| 
+|Gio Urshela      |3B        |      6|  2|   1|  1|  0| 
 |Francisco Lindor |SS        |      7|  4|   4|  1|  1| 
-|Ryan McMahon     |MI        |      2|  0|   0|  0|  1| 
+|Ryan McMahon     |MI        |      3|  0|   0|  0|  1| 
 |Austin Riley     |CI        |      8|  3|   1|  1|  0| 
-|Bryce Harper     |OF        |      7|  4|   3|  3|  2| 
-|Mookie Betts     |OF        |      7|  4|   0|  0|  1| 
-|Nick Castellanos |OF        |      9|  3|   5|  1|  0| 
-|Shohei Ohtani    |OF        |      9|  4|   5|  2|  1| 
+|Bryce Harper     |OF        |      8|  5|   3|  3|  2| 
+|Mookie Betts     |OF        |     10|  5|   1|  1|  1| 
+|Nick Castellanos |OF        |     12|  5|  12|  2|  0| 
+|Shohei Ohtani    |OF        |     10|  5|   6|  3|  1| 
 |Adam Frazier     |DH        |     14|  9|   3|  2|  0| 
 |Alex Verdugo     |DH        |      8|  4|   0|  0|  0| 
-|Bobby Bradley    |DH        |      3|  3|   3|  1|  0| 
-|Cedric Mullins   |DH        |      7|  1|   3|  0|  0| 
-|Brandon Crawford |BAT BENCH |      7|  2|   2|  0|  0| 
+|Bobby Bradley    |DH        |      5|  4|   3|  1|  0| 
+|Cedric Mullins   |DH        |     10|  3|   3|  0|  2| 
+|Brandon Crawford |BAT BENCH |      8|  3|   3|  1|  0| 
 |Trevor Larnach   |BAT BENCH |      4|  2|   2|  1|  0| 
 
 * * *

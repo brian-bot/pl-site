@@ -6,19 +6,19 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |J.T. Realmuto    |C         |      3|  1|   0|  0|  0| 
-|Trey Mancini     |1B        |      2|  1|   0|  0|  0| 
+|Trey Mancini     |1B        |      4|  1|   0|  0|  0| 
 |Marcus Semien    |2B        |      8|  6|   3|  0|  0| 
-|Nolan Arenado    |3B        |      8|  2|   3|  2|  0| 
-|Carlos Correa    |SS        |     10|  4|   8|  1|  0| 
+|Nolan Arenado    |3B        |      9|  2|   3|  2|  0| 
+|Carlos Correa    |SS        |     12|  5|   8|  1|  0| 
 |Jake Cronenworth |MI        |     10|  5|   6|  3|  0| 
 |C.J. Cron        |CI        |      4|  1|   1|  1|  0| 
-|Dominic Smith    |OF        |      4|  1|   2|  0|  0| 
+|Dominic Smith    |OF        |      6|  2|   2|  0|  0| 
 |Franmil Reyes    |OF        |     **| **|  **| **| **| 
 |Mark Canha       |OF        |      4|  2|   2|  0|  0| 
-|Raimel Tapia     |OF        |      5|  2|   0|  0|  2| 
+|Raimel Tapia     |OF        |      5|  3|   0|  0|  2| 
 |Brandon Belt     |DH        |      2|  1|   1|  0|  0| 
-|Joey Votto       |DH        |      3|  0|   2|  0|  0| 
-|Josh Bell        |DH        |      6|  3|   7|  2|  0| 
+|Joey Votto       |DH        |      5|  1|   3|  1|  0| 
+|Josh Bell        |DH        |      7|  3|   7|  2|  0| 
 |Tommy Edman      |DH        |      5|  0|   1|  0|  0| 
 |Jed Lowrie       |BAT BENCH |      7|  3|   3|  1|  0| 
 |Manuel Margot    |BAT BENCH |      7|  4|   2|  1|  2| 

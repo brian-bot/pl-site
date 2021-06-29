@@ -7,19 +7,19 @@
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Yasmani Grandal    |C         |     10|  5|   8|  2|  0| 
 |Eric Hosmer        |1B        |      4|  1|   1|  0|  0| 
-|Jonathan India     |2B        |      7|  6|   0|  0|  1| 
-|Rafael Devers      |3B        |     10|  4|   7|  1|  0| 
+|Jonathan India     |2B        |      8|  7|   1|  0|  1| 
+|Rafael Devers      |3B        |     11|  4|   7|  1|  0| 
 |Bo Bichette        |SS        |     10|  5|   3|  0|  2| 
 |Isiah Kiner-Falefa |MI        |      3|  2|   0|  0|  0| 
 |Ke'Bryan Hayes     |CI        |     13|  5|   4|  0|  1| 
 |Austin Meadows     |OF        |     10|  4|   4|  1|  0| 
-|Giancarlo Stanton  |OF        |     13|  2|   1|  0|  0| 
-|J.D. Martinez      |OF        |      8|  4|   3|  1|  0| 
+|Giancarlo Stanton  |OF        |     14|  3|   2|  1|  0| 
+|J.D. Martinez      |OF        |      9|  4|   3|  1|  0| 
 |Tommy Pham         |OF        |      7|  6|   3|  2|  0| 
-|Amed Rosario       |DH        |      4|  2|   2|  1|  0| 
-|Avisail Garcia     |DH        |      7|  3|   2|  1|  0| 
-|Hunter Renfroe     |DH        |     11|  3|   6|  1|  0| 
-|Jonathan Schoop    |DH        |      6|  3|   7|  2|  1| 
+|Amed Rosario       |DH        |      7|  4|   2|  1|  0| 
+|Avisail Garcia     |DH        |     10|  5|   5|  2|  0| 
+|Hunter Renfroe     |DH        |     13|  5|   9|  3|  0| 
+|Jonathan Schoop    |DH        |      7|  3|   7|  2|  1| 
 |Byron Buxton       |BAT BENCH |     **| **|  **| **| **| 
 |Corey Seager       |BAT BENCH |     **| **|  **| **| **| 
 
@@ -45,7 +45,7 @@
 |Patrick Sandoval  |OP          |  1|  5.000|  3|  5.400|      6| 1.200|  6|  0|  0| 
 |Ross Stripling    |OP          |  2| 11.000|  3|  2.455|     10| 0.909| 10|  1|  0| 
 |Alex Cobb         |PITCH BENCH |  1|  4.000|  6| 13.500|      7| 1.750|  3|  0|  0| 
-|Garrett Richards  |PITCH BENCH |  1|  1.667|  4| 21.600|      7| 4.200|  0|  0|  0| 
+|Garrett Richards  |PITCH BENCH |  2|  7.333|  9| 11.045|     18| 2.455|  3|  0|  0| 
 |J.P. Feyereisen   |PITCH BENCH |  2|  3.000|  0|  0.000|      2| 0.667|  2|  1|  0| 
 
 
