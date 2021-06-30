@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Christian Vazquez |C         |      9|  1|   4|  1|  1| 
-|Max Muncy         |1B        |      9|  5|   4|  2|  0| 
+|Christian Vazquez |C         |     10|  1|   4|  1|  2| 
+|Max Muncy         |1B        |     12|  7|   5|  3|  0| 
 |Gavin Lux         |2B        |      7|  2|   1|  0|  1| 
-|Cavan Biggio      |3B        |      7|  2|   2|  0|  0| 
-|Dansby Swanson    |SS        |      9|  2|   4|  2|  2| 
+|Cavan Biggio      |3B        |      8|  2|   3|  0|  0| 
+|Dansby Swanson    |SS        |     10|  2|   4|  2|  2| 
 |Dylan Moore       |MI        |      4|  2|   1|  0|  2| 
-|Carlos Santana    |CI        |     10|  3|   5|  2|  0| 
-|Alex Kirilloff    |OF        |      3|  1|   4|  1|  0| 
-|Andrew McCutchen  |OF        |      9|  5|   5|  1|  2| 
-|Christian Yelich  |OF        |      9|  6|   4|  2|  0| 
-|Wil Myers         |OF        |      5|  0|   1|  0|  1| 
-|Jesse Winker      |DH        |      7|  3|   3|  1|  0| 
+|Carlos Santana    |CI        |     12|  4|   5|  2|  0| 
+|Alex Kirilloff    |OF        |      4|  1|   5|  1|  0| 
+|Andrew McCutchen  |OF        |     10|  5|   6|  1|  2| 
+|Christian Yelich  |OF        |     11|  7|   5|  2|  1| 
+|Wil Myers         |OF        |      7|  0|   1|  0|  1| 
+|Jesse Winker      |DH        |      9|  4|   5|  2|  0| 
 |Joey Wendle       |DH        |      5|  2|   1|  0|  0| 
-|Jurickson Profar  |DH        |      3|  1|   0|  0|  0| 
-|Max Kepler        |DH        |      1|  1|   2|  1|  0| 
+|Jurickson Profar  |DH        |      4|  1|   0|  0|  0| 
+|Max Kepler        |DH        |      3|  2|   3|  1|  0| 
 |Alex Bregman      |BAT BENCH |     **| **|  **| **| **| 
 |Marcell Ozuna     |BAT BENCH |     **| **|  **| **| **| 
 
