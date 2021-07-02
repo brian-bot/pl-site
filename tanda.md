@@ -6,18 +6,18 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Sean Murphy       |C         |      6|  3|   4|  1|  0| 
-|Matt Olson        |1B        |     10|  5|   0|  0|  2| 
+|Matt Olson        |1B        |     11|  5|   0|  0|  2| 
 |Brandon Lowe      |2B        |     10|  4|   6|  3|  0| 
-|Matt Chapman      |3B        |     11|  6|  10|  3|  0| 
+|Matt Chapman      |3B        |     13|  7|  10|  3|  0| 
 |Trevor Story      |SS        |      8|  4|   7|  3|  1| 
 |Jazz Chisholm Jr. |MI        |      9|  4|   4|  1|  0| 
-|Kyle Seager       |CI        |      9|  1|   4|  1|  0| 
-|Adolis Garcia     |OF        |     11|  6|   6|  2|  0| 
-|Joey Gallo        |OF        |     16|  8|  11|  7|  0| 
-|Ramon Laureano    |OF        |      7|  5|   4|  1|  0| 
+|Kyle Seager       |CI        |     11|  1|   6|  1|  0| 
+|Adolis Garcia     |OF        |     12|  7|   6|  2|  1| 
+|Joey Gallo        |OF        |     20| 10|  14|  8|  0| 
+|Ramon Laureano    |OF        |      8|  5|   5|  1|  0| 
 |Randy Arozarena   |OF        |     10|  3|   3|  0|  0| 
 |Adam Duvall       |DH        |     10|  6|   4|  2|  0| 
-|Kyle Schwarber    |DH        |     16| 11|  11|  7|  0| 
+|Kyle Schwarber    |DH        |     18| 12|  11|  7|  0| 
 |Miguel Sano       |DH        |      5|  2|   0|  0|  0| 
 |Randal Grichuk    |DH        |     10|  4|   7|  1|  0| 
 |Adalberto Mondesi |BAT BENCH |     **| **|  **| **| **| 
@@ -37,7 +37,7 @@
 |Robbie Ray          |SP          |  2| 12.000|  4|  3.000|     11| 0.917| 16|  2|  0| 
 |Tarik Skubal        |SP          |  2| 11.667|  3|  2.314|     10| 0.857| 13|  0|  0| 
 |Brad Hand           |RP          |  4|  5.000|  1|  1.800|      4| 0.800|  4|  0|  3| 
-|Ryan Pressly        |RP          |  3|  3.000|  0|  0.000|      1| 0.333|  6|  0|  2| 
+|Ryan Pressly        |RP          |  4|  4.000|  0|  0.000|      1| 0.250|  8|  0|  2| 
 |Jake Odorizzi       |OP          |  1|  5.000|  0|  0.000|      3| 0.600|  3|  0|  0| 
 |Lou Trivino         |OP          |  5|  4.333|  1|  2.077|      7| 1.615|  4|  0|  1| 
 |Matt Barnes         |OP          |  6|  5.667|  0|  0.000|      6| 1.059|  7|  0|  3| 

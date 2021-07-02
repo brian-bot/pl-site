@@ -6,19 +6,19 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Yadier Molina    |C         |     10|  4|   4|  0|  1| 
-|Jose Abreu       |1B        |      7|  5|   1|  1|  0| 
-|Jose Altuve      |2B        |     14|  4|   4|  1|  1| 
+|Jose Abreu       |1B        |      9|  6|   2|  1|  0| 
+|Jose Altuve      |2B        |     17|  5|   8|  2|  1| 
 |Anthony Rendon   |3B        |     15|  5|   3|  1|  0| 
 |Javier Baez      |SS        |     11|  4|   5|  2|  0| 
-|Ty France        |MI        |      7|  3|   4|  2|  0| 
+|Ty France        |MI        |      8|  3|   5|  2|  0| 
 |Kris Bryant      |CI        |      4|  4|   2|  2|  1| 
 |Charlie Blackmon |OF        |     10|  4|   1|  0|  0| 
 |Dylan Carlson    |OF        |     14|  5|   4|  1|  0| 
-|George Springer  |OF        |     12|  4|   4|  1|  0| 
-|Ronald Acuna Jr. |OF        |      7|  5|   3|  2|  1| 
-|AJ Pollock       |DH        |      5|  1|   2|  1|  0| 
+|George Springer  |OF        |     14|  4|   4|  1|  0| 
+|Ronald Acuna Jr. |OF        |      9|  5|   3|  2|  1| 
+|AJ Pollock       |DH        |      6|  2|   3|  2|  0| 
 |David Fletcher   |DH        |     12|  5|   0|  0|  1| 
-|Hunter Dozier    |DH        |      7|  3|   1|  0|  0| 
+|Hunter Dozier    |DH        |      9|  3|   1|  0|  0| 
 |Justin Upton     |DH        |      0|  0|   0|  0|  0| 
 |Didi Gregorius   |BAT BENCH |     **| **|  **| **| **| 
 |Jarred Kelenic   |BAT BENCH |     **| **|  **| **| **| 
@@ -38,7 +38,7 @@
 |Taijuan Walker  |SP          |  1|  5.000|  1|  1.800|      4| 0.800|  5|  0|  0| 
 |Blake Treinen   |RP          |  4|  4.000|  2|  4.500|      5| 1.250|  4|  1|  0| 
 |Rafael Montero  |RP          |  3|  2.333|  7| 27.000|     10| 4.286|  3|  0|  0| 
-|Adam Wainwright |OP          |  1|  6.000|  1|  1.500|      7| 1.167|  8|  1|  0| 
+|Adam Wainwright |OP          |  2| 14.000|  3|  1.929|     14| 1.000| 12|  1|  0| 
 |Austin Gomber   |OP          | **|     **| **|     **|     **|    **| **| **| **| 
 |Emmanuel Clase  |OP          |  2|  2.000|  1|  4.500|      3| 1.500|  3|  0|  0| 
 |Gregory Soto    |OP          |  3|  4.333|  0|  0.000|      1| 0.231|  5|  1|  0| 

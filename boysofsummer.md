@@ -9,19 +9,19 @@
 |Jared Walsh      |1B        |      9|  2|   7|  2|  0| 
 |DJ LeMahieu      |2B        |     19|  7|  10|  2|  0| 
 |Gio Urshela      |3B        |      8|  3|   1|  1|  0| 
-|Francisco Lindor |SS        |      8|  4|   5|  1|  1| 
-|Ryan McMahon     |MI        |      5|  1|   0|  0|  1| 
-|Austin Riley     |CI        |     12|  4|   4|  1|  0| 
+|Francisco Lindor |SS        |     10|  5|   5|  1|  2| 
+|Ryan McMahon     |MI        |      7|  2|   0|  0|  1| 
+|Austin Riley     |CI        |     14|  5|   6|  2|  0| 
 |Bryce Harper     |OF        |     12|  7|   5|  5|  2| 
 |Mookie Betts     |OF        |     10|  5|   1|  1|  1| 
-|Nick Castellanos |OF        |     14|  6|  15|  3|  0| 
+|Nick Castellanos |OF        |     18|  6|  15|  3|  0| 
 |Shohei Ohtani    |OF        |     12|  7|   9|  5|  1| 
-|Adam Frazier     |DH        |     16| 10|   3|  2|  0| 
-|Alex Verdugo     |DH        |     12|  8|   0|  0|  0| 
-|Bobby Bradley    |DH        |      7|  6|   5|  3|  0| 
+|Adam Frazier     |DH        |     17| 10|   3|  2|  0| 
+|Alex Verdugo     |DH        |     14|  9|   0|  0|  0| 
+|Bobby Bradley    |DH        |      8|  6|   5|  3|  0| 
 |Cedric Mullins   |DH        |     17|  5|   5|  1|  3| 
-|Brandon Crawford |BAT BENCH |      8|  3|   3|  1|  0| 
-|Trevor Larnach   |BAT BENCH |      5|  4|   2|  1|  0| 
+|Brandon Crawford |BAT BENCH |      9|  4|   3|  1|  0| 
+|Trevor Larnach   |BAT BENCH |      6|  5|   2|  1|  0| 
 
 * * *
 
@@ -37,7 +37,7 @@
 |Max Fried        |SP          |  1|  5.000|  2|  3.600|      5| 1.000|  7|  1|  0| 
 |Nick Pivetta     |SP          |  2| 11.000|  6|  4.909|     13| 1.182| 13|  0|  0| 
 |Josh Hader       |RP          |  3|  3.000|  0|  0.000|      2| 0.667|  5|  0|  2| 
-|Liam Hendriks    |RP          |  4|  3.667|  2|  4.909|      2| 0.545|  4|  0|  3| 
+|Liam Hendriks    |RP          |  5|  4.667|  3|  5.786|      4| 0.857|  5|  0|  3| 
 |Caleb Smith      |OP          |  2| 11.000|  3|  2.455|     15| 1.364| 14|  0|  0| 
 |Dinelson Lamet   |OP          |  1|  2.333|  4| 15.429|      6| 2.571|  1|  0|  0| 
 |James Kaprielian |OP          |  2| 12.000|  5|  3.750|     13| 1.083| 10|  0|  0| 
