@@ -6,20 +6,20 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Christian Vazquez |C         |     10|  1|   4|  1|  2| 
-|Max Muncy         |1B        |     13|  8|   9|  4|  0| 
+|Max Muncy         |1B        |     16|  8|  11|  4|  0| 
 |Gavin Lux         |2B        |      7|  2|   1|  0|  1| 
-|Cavan Biggio      |3B        |     11|  2|   4|  0|  0| 
+|Cavan Biggio      |3B        |     13|  3|   4|  0|  0| 
 |Dansby Swanson    |SS        |     12|  3|   4|  2|  2| 
 |Dylan Moore       |MI        |      7|  4|   4|  1|  3| 
-|Carlos Santana    |CI        |     14|  4|   6|  2|  0| 
-|Alex Kirilloff    |OF        |      7|  2|   5|  1|  0| 
-|Andrew McCutchen  |OF        |     12|  6|   6|  1|  2| 
-|Christian Yelich  |OF        |     15|  9|   5|  2|  1| 
+|Carlos Santana    |CI        |     16|  4|   7|  2|  0| 
+|Alex Kirilloff    |OF        |      9|  2|   6|  1|  0| 
+|Andrew McCutchen  |OF        |     12|  7|   6|  1|  2| 
+|Christian Yelich  |OF        |     16| 10|   5|  2|  1| 
 |Wil Myers         |OF        |      9|  1|   2|  1|  1| 
 |Jesse Winker      |DH        |     12|  5|   5|  2|  1| 
-|Joey Wendle       |DH        |      5|  2|   1|  0|  0| 
-|Jurickson Profar  |DH        |      8|  1|   1|  0|  0| 
-|Max Kepler        |DH        |      4|  2|   3|  1|  0| 
+|Joey Wendle       |DH        |      6|  2|   1|  0|  0| 
+|Jurickson Profar  |DH        |     10|  1|   3|  0|  0| 
+|Max Kepler        |DH        |      5|  3|   3|  1|  0| 
 |Alex Bregman      |BAT BENCH |     **| **|  **| **| **| 
 |Marcell Ozuna     |BAT BENCH |     **| **|  **| **| **| 
 
@@ -44,7 +44,7 @@
 |Devin Williams     |OP          |  4|  3.667|  1|  2.455|      6| 1.636|  4|  2|  0| 
 |Freddy Peralta     |OP          |  2| 12.000|  2|  1.500|     11| 0.917| 18|  1|  0| 
 |Michael Fulmer     |OP          |  2|  2.000|  3| 13.500|      4| 2.000|  2|  0|  0| 
-|Eduardo Rodriguez  |PITCH BENCH |  2| 12.000|  5|  3.750|     13| 1.083| 15|  1|  0| 
+|Eduardo Rodriguez  |PITCH BENCH |  3| 18.000|  5|  2.500|     16| 0.889| 21|  1|  0| 
 |Madison Bumgarner  |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 
 

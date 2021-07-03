@@ -7,20 +7,20 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith        |C         |      8|  1|   2|  1|  0| 
 |Pete Alonso       |1B        |     14|  2|   5|  2|  1| 
-|Ozzie Albies      |2B        |     15|  9|  12|  4|  5| 
+|Ozzie Albies      |2B        |     16|  9|  13|  4|  6| 
 |Yoan Moncada      |3B        |     12|  3|   2|  0|  1| 
-|Xander Bogaerts   |SS        |     19|  9|   6|  0|  1| 
-|Tim Anderson      |MI        |      9|  3|   3|  0|  1| 
-|Pavin Smith       |CI        |      9|  3|   2|  1|  0| 
-|Juan Soto         |OF        |     16|  9|   8|  1|  3| 
-|Mike Yastrzemski  |OF        |      6|  5|   2|  2|  0| 
+|Xander Bogaerts   |SS        |     20| 10|   6|  0|  1| 
+|Tim Anderson      |MI        |     10|  4|   3|  0|  1| 
+|Pavin Smith       |CI        |     10|  4|   3|  2|  0| 
+|Juan Soto         |OF        |     18|  9|   8|  1|  3| 
+|Mike Yastrzemski  |OF        |      8|  5|   3|  2|  0| 
 |Nelson Cruz       |OF        |     13|  4|   7|  2|  0| 
-|Ryan Mountcastle  |OF        |     16|  5|   7|  2|  0| 
-|Starling Marte    |DH        |     11|  3|   2|  1|  2| 
-|Steven Duggar     |DH        |     13|  3|   6|  0|  2| 
-|Teoscar Hernandez |DH        |     13|  5|   5|  1|  1| 
-|Wander Franco     |DH        |     11|  6|   5|  1|  2| 
-|Patrick Wisdom    |BAT BENCH |      7|  3|   6|  2|  0| 
+|Ryan Mountcastle  |OF        |     17|  6|   7|  2|  0| 
+|Starling Marte    |DH        |     12|  3|   2|  1|  2| 
+|Steven Duggar     |DH        |     15|  6|   6|  0|  2| 
+|Teoscar Hernandez |DH        |     14|  6|   5|  1|  1| 
+|Wander Franco     |DH        |     12|  6|   5|  1|  2| 
+|Patrick Wisdom    |BAT BENCH |      7|  3|   6|  2|  1| 
 
 
 * * *
@@ -38,9 +38,9 @@
 |Yu Darvish        |SP          |  1|  6.000|  1| 1.500|      7| 1.167|  7|  0|  0| 
 |Tyler Rogers      |RP          |  3|  3.000|  0| 0.000|      2| 0.667|  3|  0|  0| 
 |Yimi Garcia       |RP          |  3|  3.000|  1| 3.000|      3| 1.000|  6|  0|  1| 
-|Brady Singer      |OP          |  2|  8.667|  4| 4.154|     17| 1.962| 10|  0|  0| 
-|Casey Mize        |OP          |  1|  6.000|  1| 1.500|      8| 1.333|  5|  1|  0| 
-|Greg Holland      |OP          |  4|  4.333|  2| 4.154|      7| 1.615|  4|  0|  1| 
+|Brady Singer      |OP          |  3| 11.667|  6| 4.629|     24| 2.057| 14|  0|  0| 
+|Casey Mize        |OP          |  2|  9.000|  3| 3.000|     13| 1.444|  9|  1|  0| 
+|Greg Holland      |OP          |  5|  5.333|  2| 3.375|      7| 1.312|  5|  0|  1| 
 |Hector Neris      |OP          |  4|  3.667|  3| 7.364|     10| 2.727|  3|  0|  1| 
 |Jordan Romano     |OP          |  5|  5.333|  0| 0.000|      5| 0.938|  6|  0|  3| 
 |Giovanny Gallegos |PITCH BENCH |  5|  5.000|  3| 5.400|      4| 0.800|  5|  1|  0| 
