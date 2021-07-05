@@ -5,22 +5,22 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto    |C         |      6|  2|   1|  0|  0| 
-|Trey Mancini     |1B        |      8|  4|   1|  1|  0| 
+|J.T. Realmuto    |C         |      8|  3|   2|  1|  0| 
+|Trey Mancini     |1B        |      9|  5|   1|  1|  0| 
 |Marcus Semien    |2B        |     19| 13|  12|  3|  1| 
 |Nolan Arenado    |3B        |     17|  4|   5|  3|  0| 
-|Carlos Correa    |SS        |     19|  9|  11|  2|  0| 
-|Jake Cronenworth |MI        |     13|  8|   7|  3|  0| 
+|Carlos Correa    |SS        |     20| 10|  11|  2|  0| 
+|Jake Cronenworth |MI        |     17| 10|   7|  3|  0| 
 |C.J. Cron        |CI        |     10|  3|   4|  2|  0| 
-|Dominic Smith    |OF        |     12|  7|   7|  2|  0| 
+|Dominic Smith    |OF        |     15|  9|   8|  3|  0| 
 |Franmil Reyes    |OF        |      3|  0|   0|  0|  0| 
 |Mark Canha       |OF        |      4|  2|   2|  0|  0| 
-|Raimel Tapia     |OF        |     10|  6|   2|  0|  3| 
+|Raimel Tapia     |OF        |     12|  7|   2|  0|  4| 
 |Brandon Belt     |DH        |      2|  1|   1|  0|  0| 
-|Joey Votto       |DH        |     13|  6|   7|  3|  0| 
-|Josh Bell        |DH        |     13|  7|  10|  2|  0| 
-|Tommy Edman      |DH        |     15|  4|   5|  0|  2| 
-|Jed Lowrie       |BAT BENCH |     14|  6|   6|  3|  0| 
+|Joey Votto       |DH        |     14|  6|   7|  3|  0| 
+|Josh Bell        |DH        |     15|  7|  10|  2|  0| 
+|Tommy Edman      |DH        |     16|  4|   5|  0|  3| 
+|Jed Lowrie       |BAT BENCH |     15|  6|   6|  3|  0| 
 |Manuel Margot    |BAT BENCH |     11|  7|   3|  2|  3| 
 |Mike Trout       |BAT BENCH |     **| **|  **| **| **| 
 
@@ -33,7 +33,7 @@
 |:---------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Adbert Alzolay  |SP          |  2| 10.000|  7| 6.300|     14| 1.400|  9|  0|  0| 
 |Clayton Kershaw |SP          |  3| 18.000|  7| 3.500|     15| 0.833| 23|  1|  0| 
-|Lucas Giolito   |SP          |  2| 12.000|  5| 3.750|     13| 1.083|  8|  1|  0| 
+|Lucas Giolito   |SP          |  3| 17.000| 11| 5.824|     24| 1.412| 13|  1|  0| 
 |Pablo Lopez     |SP          |  2|  6.000|  3| 4.500|      7| 1.167|  9|  1|  0| 
 |Tony Gonsolin   |SP          |  2|  7.000|  2| 2.571|      8| 1.143| 11|  1|  0| 
 |Walker Buehler  |SP          |  2| 12.667|  3| 2.132|     11| 0.868| 13|  1|  0| 
