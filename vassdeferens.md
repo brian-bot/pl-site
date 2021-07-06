@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |      8|  2|   3|  1|  0| 
-|Pete Alonso       |1B        |     17|  4|   8|  4|  1| 
-|Ozzie Albies      |2B        |     19|  9|  14|  4|  6| 
-|Yoan Moncada      |3B        |     12|  3|   2|  0|  1| 
-|Xander Bogaerts   |SS        |     22| 11|   6|  0|  1| 
-|Tim Anderson      |MI        |     15|  8|   3|  0|  1| 
+|Will Smith        |C         |     10|  3|   3|  1|  0| 
+|Pete Alonso       |1B        |     18|  5|  10|  4|  1| 
+|Ozzie Albies      |2B        |     20|  9|  14|  4|  6| 
+|Yoan Moncada      |3B        |     13|  3|   4|  0|  1| 
+|Xander Bogaerts   |SS        |     23| 12|   6|  0|  1| 
+|Tim Anderson      |MI        |     18|  9|   3|  0|  1| 
 |Pavin Smith       |CI        |     13|  4|   3|  2|  0| 
-|Juan Soto         |OF        |     21| 10|   8|  1|  3| 
+|Juan Soto         |OF        |     21| 10|   9|  1|  3| 
 |Mike Yastrzemski  |OF        |     10|  7|   5|  3|  0| 
 |Nelson Cruz       |OF        |     16|  4|   7|  2|  0| 
 |Ryan Mountcastle  |OF        |     20|  6|   7|  2|  0| 
-|Starling Marte    |DH        |     16|  6|   2|  1|  3| 
-|Steven Duggar     |DH        |     15|  6|   6|  0|  2| 
+|Starling Marte    |DH        |     16|  7|   2|  1|  4| 
+|Steven Duggar     |DH        |     15|  6|   7|  0|  2| 
 |Teoscar Hernandez |DH        |     15|  7|   5|  1|  1| 
-|Wander Franco     |DH        |     15|  7|   6|  2|  2| 
+|Wander Franco     |DH        |     16|  7|   7|  2|  2| 
 |Patrick Wisdom    |BAT BENCH |      7|  3|   6|  2|  1| 
 
 
@@ -43,7 +43,7 @@
 |Greg Holland      |OP          |  6|  6.333|  3|  4.263|      8| 1.263|  6|  0|  1| 
 |Hector Neris      |OP          |  5|  4.333|  9| 18.692|     16| 3.692|  5|  0|  1| 
 |Jordan Romano     |OP          |  6|  6.333|  2|  2.842|      8| 1.263|  6|  0|  3| 
-|Giovanny Gallegos |PITCH BENCH |  6|  6.667|  4|  5.400|      5| 0.750|  6|  1|  0| 
+|Giovanny Gallegos |PITCH BENCH |  7|  7.667|  5|  5.870|      6| 0.783|  9|  1|  0| 
 |Justin Dunn       |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 
 

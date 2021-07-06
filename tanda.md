@@ -7,18 +7,18 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Sean Murphy       |C         |     11|  6|   4|  1|  0| 
 |Matt Olson        |1B        |     16|  5|   0|  0|  2| 
-|Brandon Lowe      |2B        |     11|  4|   7|  3|  0| 
+|Brandon Lowe      |2B        |     13|  6|  11|  4|  0| 
 |Matt Chapman      |3B        |     18|  8|  10|  3|  0| 
 |Trevor Story      |SS        |     12|  6|  12|  5|  2| 
-|Jazz Chisholm Jr. |MI        |     11|  5|   5|  1|  0| 
+|Jazz Chisholm Jr. |MI        |     13|  5|   6|  1|  0| 
 |Kyle Seager       |CI        |     15|  3|   7|  2|  0| 
-|Adolis Garcia     |OF        |     16|  7|   9|  2|  1| 
-|Joey Gallo        |OF        |     21| 10|  14|  8|  0| 
+|Adolis Garcia     |OF        |     17|  7|   9|  2|  1| 
+|Joey Gallo        |OF        |     22| 11|  16|  9|  0| 
 |Ramon Laureano    |OF        |     10|  6|   5|  1|  1| 
-|Randy Arozarena   |OF        |     12|  4|   3|  0|  0| 
-|Adam Duvall       |DH        |     14|  7|   8|  3|  0| 
+|Randy Arozarena   |OF        |     13|  5|   3|  0|  0| 
+|Adam Duvall       |DH        |     15|  8|   8|  3|  0| 
 |Kyle Schwarber    |DH        |     19| 12|  11|  7|  0| 
-|Miguel Sano       |DH        |      8|  2|   0|  0|  0| 
+|Miguel Sano       |DH        |     10|  3|   0|  0|  0| 
 |Randal Grichuk    |DH        |     11|  6|   8|  2|  0| 
 |Adalberto Mondesi |BAT BENCH |     **| **|  **| **| **| 
 
@@ -36,7 +36,7 @@
 |Lance McCullers Jr. |SP          |  2| 10.667|  4|  3.375|     17| 1.594| 15|  2|  0| 
 |Robbie Ray          |SP          |  3| 19.000|  6|  2.842|     18| 0.947| 22|  2|  0| 
 |Tarik Skubal        |SP          |  3| 16.667|  8|  4.320|     19| 1.140| 19|  1|  0| 
-|Brad Hand           |RP          |  5|  6.333|  1|  1.421|      5| 0.789|  6|  0|  3| 
+|Brad Hand           |RP          |  6|  7.333|  1|  1.227|      5| 0.682|  7|  0|  4| 
 |Ryan Pressly        |RP          |  6|  6.000|  0|  0.000|      2| 0.333| 12|  0|  4| 
 |Jake Odorizzi       |OP          |  2| 11.000|  1|  0.818|      9| 0.818|  5|  1|  0| 
 |Lou Trivino         |OP          |  7|  6.333|  1|  1.421|      9| 1.421|  6|  0|  1| 
