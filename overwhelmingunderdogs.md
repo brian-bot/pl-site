@@ -6,20 +6,20 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Christian Vazquez |C         |     13|  2|   4|  1|  2| 
-|Max Muncy         |1B        |     20|  9|  14|  4|  0| 
-|Gavin Lux         |2B        |     14|  5|   3|  0|  2| 
+|Max Muncy         |1B        |     22|  9|  14|  4|  0| 
+|Gavin Lux         |2B        |     15|  5|   3|  0|  2| 
 |Cavan Biggio      |3B        |     14|  4|   6|  0|  0| 
-|Dansby Swanson    |SS        |     17|  5|   5|  2|  3| 
-|Dylan Moore       |MI        |      7|  4|   4|  1|  3| 
-|Carlos Santana    |CI        |     21|  6|   8|  2|  0| 
-|Alex Kirilloff    |OF        |     11|  5|   7|  2|  0| 
-|Andrew McCutchen  |OF        |     19| 10|   7|  1|  3| 
+|Dansby Swanson    |SS        |     18|  5|   5|  2|  3| 
+|Dylan Moore       |MI        |      8|  4|   4|  1|  3| 
+|Carlos Santana    |CI        |     23|  6|   8|  2|  0| 
+|Alex Kirilloff    |OF        |     13|  5|   8|  2|  0| 
+|Andrew McCutchen  |OF        |     20| 11|  11|  2|  3| 
 |Christian Yelich  |OF        |     20| 13|   5|  2|  1| 
-|Wil Myers         |OF        |     12|  2|   3|  1|  1| 
+|Wil Myers         |OF        |     14|  3|   8|  2|  1| 
 |Jesse Winker      |DH        |     14|  5|   6|  2|  1| 
 |Joey Wendle       |DH        |      7|  2|   1|  0|  0| 
-|Jurickson Profar  |DH        |     15|  2|   3|  0|  0| 
-|Max Kepler        |DH        |      9|  7|   7|  4|  0| 
+|Jurickson Profar  |DH        |     16|  2|   3|  0|  0| 
+|Max Kepler        |DH        |     10|  7|   7|  4|  0| 
 |Alex Bregman      |BAT BENCH |     **| **|  **| **| **| 
 |Marcell Ozuna     |BAT BENCH |     **| **|  **| **| **| 
 
@@ -31,8 +31,8 @@
  
 |players            |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:------------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Johnny Cueto       |SP          |  2| 12.000|  5|  3.750|     14| 1.167| 11|  1|  0| 
-|Jose Berrios       |SP          |  2| 11.333|  4|  3.176|     17| 1.500|  9|  0|  0| 
+|Johnny Cueto       |SP          |  3| 18.000|  9|  4.500|     24| 1.333| 18|  1|  0| 
+|Jose Berrios       |SP          |  3| 18.333|  5|  2.455|     21| 1.145| 19|  0|  0| 
 |Patrick Corbin     |SP          |  2| 10.667|  8|  6.750|     14| 1.312|  8|  0|  0| 
 |Trevor Bauer       |SP          |  2| 12.000|  5|  3.750|     18| 1.500| 18|  1|  0| 
 |Yusei Kikuchi      |SP          |  2| 12.667|  2|  1.421|     12| 0.947| 12|  2|  0| 

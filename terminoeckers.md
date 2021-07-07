@@ -6,19 +6,19 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Yasmani Grandal    |C         |     15|  9|  14|  4|  0| 
-|Eric Hosmer        |1B        |     12|  4|   4|  0|  0| 
-|Jonathan India     |2B        |     18| 12|   3|  0|  2| 
-|Rafael Devers      |3B        |     24| 10|  14|  3|  0| 
-|Bo Bichette        |SS        |     22|  9|   7|  1|  2| 
-|Isiah Kiner-Falefa |MI        |      8|  3|   0|  0|  0| 
-|Ke'Bryan Hayes     |CI        |     17|  7|   7|  1|  2| 
+|Eric Hosmer        |1B        |     14|  5|   5|  0|  0| 
+|Jonathan India     |2B        |     20| 13|   4|  0|  2| 
+|Rafael Devers      |3B        |     25| 10|  14|  3|  0| 
+|Bo Bichette        |SS        |     24|  9|   7|  1|  2| 
+|Isiah Kiner-Falefa |MI        |      9|  3|   2|  0|  0| 
+|Ke'Bryan Hayes     |CI        |     20|  7|   7|  1|  2| 
 |Austin Meadows     |OF        |     17|  5|   6|  1|  0| 
-|Giancarlo Stanton  |OF        |     22|  7|   3|  1|  0| 
-|J.D. Martinez      |OF        |     21| 10|  12|  3|  0| 
-|Tommy Pham         |OF        |     14|  8|   7|  3|  1| 
+|Giancarlo Stanton  |OF        |     25|  8|   6|  2|  0| 
+|J.D. Martinez      |OF        |     22| 10|  14|  3|  0| 
+|Tommy Pham         |OF        |     15|  8|   7|  3|  1| 
 |Amed Rosario       |DH        |     12|  5|   3|  1|  1| 
 |Avisail Garcia     |DH        |     15|  6|  10|  2|  0| 
-|Hunter Renfroe     |DH        |     19|  9|  13|  4|  0| 
+|Hunter Renfroe     |DH        |     20| 10|  14|  5|  0| 
 |Jonathan Schoop    |DH        |     17|  9|  15|  3|  1| 
 |Byron Buxton       |BAT BENCH |     **| **|  **| **| **| 
 |Corey Seager       |BAT BENCH |     **| **|  **| **| **| 
