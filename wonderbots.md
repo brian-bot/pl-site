@@ -12,15 +12,15 @@
 |Javier Baez      |SS        |     19|  7|  12|  5|  1| 
 |Ty France        |MI        |     16|  5|   7|  2|  0| 
 |Kris Bryant      |CI        |     13|  9|   4|  3|  1| 
-|Charlie Blackmon |OF        |     17|  7|   1|  0|  0| 
+|Charlie Blackmon |OF        |     18|  7|   2|  0|  0| 
 |Dylan Carlson    |OF        |     21|  8|   4|  1|  0| 
 |George Springer  |OF        |     19|  7|   7|  3|  0| 
 |Ronald Acuna Jr. |OF        |     19| 12|   7|  4|  1| 
 |AJ Pollock       |DH        |     11|  4|   7|  4|  0| 
 |David Fletcher   |DH        |     23| 10|   3|  0|  1| 
-|Hunter Dozier    |DH        |     15|  6|   4|  0|  0| 
+|Hunter Dozier    |DH        |     17|  7|   5|  1|  0| 
 |Justin Upton     |DH        |      0|  0|   0|  0|  0| 
-|Didi Gregorius   |BAT BENCH |      6|  3|   2|  2|  0| 
+|Didi Gregorius   |BAT BENCH |      9|  4|   4|  3|  1| 
 |Jarred Kelenic   |BAT BENCH |     **| **|  **| **| **| 
 
 * * *
@@ -36,7 +36,7 @@
 |Lance Lynn      |SP          |  3| 15.000|  2|  1.200|     18| 1.200| 19|  2|  0| 
 |Rich Hill       |SP          |  3| 14.667|  6|  3.682|     21| 1.432| 12|  1|  0| 
 |Taijuan Walker  |SP          |  2| 10.667|  3|  2.531|      8| 0.750| 10|  1|  0| 
-|Blake Treinen   |RP          |  7|  7.000|  2|  2.571|      6| 0.857|  7|  1|  0| 
+|Blake Treinen   |RP          |  8|  8.000|  2|  2.250|      8| 1.000|  8|  1|  0| 
 |Rafael Montero  |RP          |  5|  7.000| 10| 12.857|     16| 2.286|  7|  0|  0| 
 |Adam Wainwright |OP          |  3| 19.000|  6|  2.842|     25| 1.316| 15|  2|  0| 
 |Austin Gomber   |OP          | **|     **| **|     **|     **|    **| **| **| **| 

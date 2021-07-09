@@ -7,23 +7,23 @@
 |:---------------|:---------|------:|--:|---:|--:|--:| 
 |Buster Posey    |C         |     17|  3|   2|  0|  0| 
 |Rhys Hoskins    |1B        |     19|  7|  11|  5|  0| 
-|Whit Merrifield |2B        |     24|  7|   5|  2|  3| 
-|Eduardo Escobar |3B        |     17|  6|  13|  4|  0| 
-|Willy Adames    |SS        |     28| 12|  12|  5|  1| 
-|Luis Urias      |MI        |     17| 10|  12|  4|  0| 
+|Whit Merrifield |2B        |     25|  7|   6|  2|  4| 
+|Eduardo Escobar |3B        |     18|  7|  13|  4|  0| 
+|Willy Adames    |SS        |     30| 13|  12|  5|  1| 
+|Luis Urias      |MI        |     20| 11|  12|  4|  1| 
 |Luke Voit       |CI        |     19|  9|   8|  2|  0| 
 |Aaron Judge     |OF        |     24| 10|  10|  5|  1| 
-|Cody Bellinger  |OF        |     15|  7|   5|  2|  1| 
+|Cody Bellinger  |OF        |     16|  7|   5|  2|  1| 
 |Jorge Soler     |OF        |     14|  4|   1|  0|  0| 
-|Yordan Alvarez  |OF        |     21| 11|  15|  6|  0| 
-|Mitch Haniger   |DH        |     15| 10|   6|  2|  0| 
+|Yordan Alvarez  |OF        |     22| 11|  15|  6|  0| 
+|Mitch Haniger   |DH        |     17| 11|   7|  3|  0| 
 |Robbie Grossman |DH        |     24|  6|   6|  2|  2| 
 |Tyler O'Neill   |DH        |     15|  6|   2|  0|  1| 
-|Yuli Gurriel    |DH        |     21|  9|   4|  0|  0| 
+|Yuli Gurriel    |DH        |     23|  9|   4|  0|  0| 
 |Garrett Hampson |BAT BENCH |     11|  2|   3|  0|  0| 
 |Gleyber Torres  |BAT BENCH |     14|  3|   5|  0|  1| 
-|Jesus Aguilar   |BAT BENCH |     14|  5|   8|  2|  0| 
-|Josh Donaldson  |BAT BENCH |     13|  5|   7|  3|  0| 
+|Jesus Aguilar   |BAT BENCH |     16|  5|   8|  2|  0| 
+|Josh Donaldson  |BAT BENCH |     14|  5|   7|  3|  0| 
 
 * * *
 
@@ -42,7 +42,7 @@
 |Will Smith        |RP          |  6|  6.000|  1|  1.500|      7| 1.167|  6|  2|  3| 
 |Collin McHugh     |OP          |  4|  9.333|  0|  0.000|      2| 0.214| 14|  1|  0| 
 |Jonathan Loaisiga |OP          |  5|  7.333|  4|  4.909|      8| 1.091| 14|  0|  0| 
-|Logan Gilbert     |OP          |  2|  7.667|  2|  2.348|      8| 1.043|  9|  0|  0| 
+|Logan Gilbert     |OP          |  3| 14.667|  2|  1.227|      9| 0.614| 17|  1|  0| 
 |Richard Rodriguez |OP          |  5|  5.000|  3|  5.400|      5| 1.000|  3|  1|  3| 
 |Ryan Tepera       |OP          |  4|  3.000|  7| 21.000|     10| 3.333|  2|  0|  0| 
 |Shane Bieber      |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
