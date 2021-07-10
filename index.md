@@ -2,21 +2,21 @@
 
 ## Period 5 scores
 
-Through games on 2021-07-08 ([website build status](https://github.com/brian-bot/pl-site/actions))
+Through games on 2021-07-09 ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 
 |team                                              | points|   r| hitsbb| hr| rbi| sb|  w| sv|  so|   era|  whip|
 |:-------------------------------------------------|------:|---:|------:|--:|---:|--:|--:|--:|---:|-----:|-----:|
-|[Washington Generals](./washingtongenerals)       |   45.0| 116|    235| 28| 100| 13| 10|  9| 167| 4.217| 1.217|
-|[SYWA](./sywa)                                    |   55.0| 110|    279| 29| 101| 21|  9| 12| 143| 3.123| 1.172|
-|[Vass Deferens](./vassdeferens)                   |   41.5| 117|    288| 25| 104| 24|  4|  8| 146| 4.649| 1.500|
-|[Overwhelming Underdogs](./overwhelmingunderdogs) |   49.5|  99|    260| 28| 104| 18| 13|  3| 169| 3.641| 1.239|
-|[Mean Wieners](./meanwieners)                     |   75.0| 121|    303| 40| 114| 11| 11|  9| 176| 3.438| 1.062|
-|[Boys of Summer](./boysofsummer)                  |   75.5| 132|    308| 43| 122| 13|  9|  8| 189| 3.682| 1.041|
-|[Wonderbots](./wonderbots)                        |   37.0| 109|    253| 32|  94|  8| 12|  1| 159| 3.894| 1.234|
-|[Nuclear Arms](./nucleararms)                     |   38.5| 112|    293| 29| 104|  9| 10|  5| 137| 4.783| 1.392|
-|[T and A](./tanda)                                |   76.0| 118|    257| 49| 126|  8| 11| 15| 205| 2.921| 1.105|
-|[Terminoeckers](./terminoeckers)                  |   57.0| 133|    305| 32| 139|  9|  6|  4| 193| 5.292| 1.266|
+|[Washington Generals](./washingtongenerals)       |   44.0| 122|    248| 28| 103| 13| 10| 11| 171| 4.136| 1.226|
+|[SYWA](./sywa)                                    |   58.0| 119|    300| 30| 107| 21| 10| 12| 146| 3.053| 1.146|
+|[Vass Deferens](./vassdeferens)                   |   42.5| 127|    307| 26| 111| 24|  4|  8| 146| 4.621| 1.509|
+|[Overwhelming Underdogs](./overwhelmingunderdogs) |   51.5| 104|    280| 28| 111| 20| 14|  4| 173| 3.582| 1.231|
+|[Mean Wieners](./meanwieners)                     |   74.0| 126|    321| 44| 124| 11| 11|  9| 193| 3.324| 1.056|
+|[Boys of Summer](./boysofsummer)                  |   76.5| 140|    330| 46| 135| 14|  9|  8| 189| 3.682| 1.041|
+|[Wonderbots](./wonderbots)                        |   37.5| 116|    275| 34| 105|  8| 13|  1| 166| 3.962| 1.258|
+|[Nuclear Arms](./nucleararms)                     |   37.0| 116|    309| 29| 108|  9| 11|  5| 145| 4.558| 1.390|
+|[T and A](./tanda)                                |   74.5| 120|    271| 49| 129|  9| 13| 15| 220| 2.717| 1.094|
+|[Terminoeckers](./terminoeckers)                  |   54.5| 139|    328| 34| 147|  9|  6|  4| 193| 5.292| 1.266|
 
 * * *
 * * *

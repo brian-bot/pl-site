@@ -6,20 +6,20 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Yasmani Grandal    |C         |     15|  9|  14|  4|  0| 
-|Eric Hosmer        |1B        |     17|  7|   6|  1|  0| 
-|Jonathan India     |2B        |     26| 14|   6|  0|  2| 
-|Rafael Devers      |3B        |     25| 10|  14|  3|  0| 
-|Bo Bichette        |SS        |     27| 11|  10|  2|  2| 
-|Isiah Kiner-Falefa |MI        |      9|  3|   2|  0|  0| 
-|Ke'Bryan Hayes     |CI        |     23|  8|   7|  1|  2| 
-|Austin Meadows     |OF        |     19|  7|   6|  1|  0| 
+|Eric Hosmer        |1B        |     18|  7|   6|  1|  0| 
+|Jonathan India     |2B        |     28| 14|   6|  0|  2| 
+|Rafael Devers      |3B        |     28| 11|  15|  4|  0| 
+|Bo Bichette        |SS        |     28| 12|  10|  2|  2| 
+|Isiah Kiner-Falefa |MI        |     10|  4|   2|  0|  0| 
+|Ke'Bryan Hayes     |CI        |     25|  8|   7|  1|  2| 
+|Austin Meadows     |OF        |     22|  7|   8|  1|  0| 
 |Giancarlo Stanton  |OF        |     28|  8|   6|  2|  0| 
-|J.D. Martinez      |OF        |     24| 11|  14|  3|  0| 
-|Tommy Pham         |OF        |     20| 12|   8|  3|  1| 
+|J.D. Martinez      |OF        |     28| 12|  18|  4|  0| 
+|Tommy Pham         |OF        |     22| 13|   8|  3|  1| 
 |Amed Rosario       |DH        |     14|  5|   3|  1|  1| 
-|Avisail Garcia     |DH        |     18|  7|  13|  3|  0| 
-|Hunter Renfroe     |DH        |     20| 10|  14|  5|  0| 
-|Jonathan Schoop    |DH        |     20| 11|  16|  3|  1| 
+|Avisail Garcia     |DH        |     19|  7|  13|  3|  0| 
+|Hunter Renfroe     |DH        |     22| 11|  15|  5|  0| 
+|Jonathan Schoop    |DH        |     21| 11|  16|  3|  1| 
 |Byron Buxton       |BAT BENCH |     **| **|  **| **| **| 
 |Corey Seager       |BAT BENCH |     **| **|  **| **| **| 
 
@@ -44,9 +44,9 @@
 |Lucas Sims        |OP          |  1|  0.000|  3|    Inf|      3|   Inf|  0|  0|  0| 
 |Patrick Sandoval  |OP          |  2| 10.000|  5|  4.500|     13| 1.300| 13|  0|  0| 
 |Ross Stripling    |OP          |  3| 16.667|  4|  2.160|     15| 0.900| 15|  1|  0| 
-|Alex Cobb         |PITCH BENCH |  2| 11.667|  7|  5.400|     12| 1.029|  9|  1|  0| 
-|Garrett Richards  |PITCH BENCH |  3| 12.333| 11|  8.027|     26| 2.108|  5|  0|  0| 
-|J.P. Feyereisen   |PITCH BENCH |  5|  5.667|  2|  3.176|      7| 1.235|  3|  1|  0| 
+|Alex Cobb         |PITCH BENCH |  3| 17.000|  7|  3.706|     19| 1.118| 14|  1|  0| 
+|Garrett Richards  |PITCH BENCH |  4| 17.333| 14|  7.269|     34| 1.962|  9|  1|  0| 
+|J.P. Feyereisen   |PITCH BENCH |  6|  6.667|  2|  2.700|      8| 1.200|  5|  1|  0| 
 
 
 * * *

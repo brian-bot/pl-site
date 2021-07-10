@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Christian Vazquez |C         |     14|  3|   4|  1|  2| 
-|Max Muncy         |1B        |     25| 11|  14|  4|  0| 
-|Gavin Lux         |2B        |     17|  5|   3|  0|  2| 
-|Cavan Biggio      |3B        |     16|  5|   8|  0|  0| 
-|Dansby Swanson    |SS        |     22|  7|   6|  2|  4| 
+|Christian Vazquez |C         |     17|  5|   6|  1|  2| 
+|Max Muncy         |1B        |     26| 11|  14|  4|  0| 
+|Gavin Lux         |2B        |     18|  5|   3|  0|  2| 
+|Cavan Biggio      |3B        |     17|  5|   8|  0|  1| 
+|Dansby Swanson    |SS        |     24|  8|   7|  2|  4| 
 |Dylan Moore       |MI        |     10|  5|   6|  2|  4| 
 |Carlos Santana    |CI        |     28|  9|  10|  4|  0| 
-|Alex Kirilloff    |OF        |     14|  5|   8|  2|  0| 
-|Andrew McCutchen  |OF        |     21| 12|  13|  3|  3| 
-|Christian Yelich  |OF        |     22| 13|   6|  2|  1| 
-|Wil Myers         |OF        |     18|  5|   9|  2|  1| 
-|Jesse Winker      |DH        |     16|  5|   6|  2|  1| 
-|Joey Wendle       |DH        |      8|  4|   1|  0|  0| 
+|Alex Kirilloff    |OF        |     16|  6|   8|  2|  0| 
+|Andrew McCutchen  |OF        |     22| 12|  13|  3|  3| 
+|Christian Yelich  |OF        |     23| 13|   6|  2|  1| 
+|Wil Myers         |OF        |     21|  5|  10|  2|  1| 
+|Jesse Winker      |DH        |     18|  5|   7|  2|  1| 
+|Joey Wendle       |DH        |      9|  5|   1|  0|  1| 
 |Jurickson Profar  |DH        |     16|  2|   3|  0|  0| 
-|Max Kepler        |DH        |     13|  8|   7|  4|  0| 
+|Max Kepler        |DH        |     15|  8|   9|  4|  0| 
 |Alex Bregman      |BAT BENCH |     **| **|  **| **| **| 
 |Marcell Ozuna     |BAT BENCH |     **| **|  **| **| **| 
 
@@ -37,8 +37,8 @@
 |Trevor Bauer       |SP          |  2| 12.000|  5|  3.750|     18| 1.500| 18|  1|  0| 
 |Yusei Kikuchi      |SP          |  3| 17.667|  7|  3.566|     23| 1.302| 17|  2|  0| 
 |Zack Greinke       |SP          |  3| 20.000|  7|  3.150|     21| 1.050| 16|  1|  0| 
-|Hansel Robles      |RP          |  5|  4.333|  8| 16.615|     12| 2.769|  2|  0|  2| 
-|James Karinchak    |RP          |  5|  5.667|  1|  1.588|      6| 1.059|  8|  1|  1| 
+|Hansel Robles      |RP          |  6|  6.000|  8| 12.000|     13| 2.167|  4|  0|  3| 
+|James Karinchak    |RP          |  6|  6.667|  1|  1.350|      7| 1.050| 10|  2|  1| 
 |Anthony DeSclafani |OP          |  3| 20.667|  5|  2.177|     20| 0.968| 22|  2|  0| 
 |Craig Kimbrel      |OP          |  3|  2.333|  0|  0.000|      2| 0.857|  5|  0|  0| 
 |Devin Williams     |OP          |  6|  5.000|  1|  1.800|      6| 1.200|  6|  3|  0| 
