@@ -5,22 +5,22 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Yadier Molina    |C         |     19|  6|  10|  1|  2| 
-|Jose Abreu       |1B        |     20| 11|  13|  3|  0| 
-|Jose Altuve      |2B        |     22|  9|  13|  3|  2| 
+|Yadier Molina    |C         |     20|  6|  10|  1|  2| 
+|Jose Abreu       |1B        |     23| 13|  13|  3|  0| 
+|Jose Altuve      |2B        |     24|  9|  13|  3|  2| 
 |Anthony Rendon   |3B        |     21|  7|   4|  2|  0| 
-|Javier Baez      |SS        |     20|  8|  12|  5|  1| 
-|Ty France        |MI        |     17|  5|   8|  2|  0| 
-|Kris Bryant      |CI        |     14|  9|   7|  3|  1| 
-|Charlie Blackmon |OF        |     18|  7|   2|  0|  0| 
+|Javier Baez      |SS        |     22|  8|  12|  5|  1| 
+|Ty France        |MI        |     18|  6|   8|  2|  0| 
+|Kris Bryant      |CI        |     16|  9|   7|  3|  1| 
+|Charlie Blackmon |OF        |     20|  7|   4|  0|  0| 
 |Dylan Carlson    |OF        |     25| 10|   4|  1|  0| 
 |George Springer  |OF        |     21|  7|   8|  3|  0| 
-|Ronald Acuna Jr. |OF        |     21| 13|   7|  4|  1| 
-|AJ Pollock       |DH        |     14|  6|   8|  5|  0| 
-|David Fletcher   |DH        |     26| 11|   4|  1|  1| 
-|Hunter Dozier    |DH        |     17|  7|   5|  1|  0| 
+|Ronald Acuna Jr. |OF        |     23| 14|   7|  4|  2| 
+|AJ Pollock       |DH        |     20|  9|  10|  7|  0| 
+|David Fletcher   |DH        |     27| 11|   4|  1|  1| 
+|Hunter Dozier    |DH        |     19|  8|   5|  1|  0| 
 |Justin Upton     |DH        |      0|  0|   0|  0|  0| 
-|Didi Gregorius   |BAT BENCH |     10|  5|   4|  3|  1| 
+|Didi Gregorius   |BAT BENCH |     10|  6|   4|  3|  1| 
 |Jarred Kelenic   |BAT BENCH |     **| **|  **| **| **| 
 
 * * *
