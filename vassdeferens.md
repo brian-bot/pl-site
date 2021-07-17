@@ -5,22 +5,22 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |      7|  1|   2|  1|  0| 
-|Pete Alonso       |1B        |     14|  2|   5|  2|  1| 
-|Ozzie Albies      |2B        |     14|  8|  11|  4|  4| 
-|Yoan Moncada      |3B        |     10|  2|   2|  0|  1| 
-|Xander Bogaerts   |SS        |     18|  8|   6|  0|  1| 
-|Tim Anderson      |MI        |      8|  3|   3|  0|  1| 
-|Pavin Smith       |CI        |      8|  2|   1|  0|  0| 
-|Juan Soto         |OF        |     15|  9|   7|  1|  3| 
-|Mike Yastrzemski  |OF        |      4|  4|   1|  1|  0| 
-|Nelson Cruz       |OF        |     10|  4|   6|  2|  0| 
-|Ryan Mountcastle  |OF        |     16|  5|   7|  2|  0| 
-|Starling Marte    |DH        |     11|  3|   2|  1|  2| 
-|Steven Duggar     |DH        |     11|  3|   6|  0|  2| 
-|Teoscar Hernandez |DH        |     11|  5|   5|  1|  1| 
-|Wander Franco     |DH        |     11|  6|   5|  1|  2| 
-|Patrick Wisdom    |BAT BENCH |      7|  3|   6|  2|  0| 
+|Will Smith        |C         |     14|  3|   6|  1|  0| 
+|Pete Alonso       |1B        |     22|  7|  14|  6|  1| 
+|Ozzie Albies      |2B        |     25| 12|  16|  4|  6| 
+|Yoan Moncada      |3B        |     21|  7|   6|  0|  1| 
+|Xander Bogaerts   |SS        |     31| 16|   9|  2|  1| 
+|Tim Anderson      |MI        |     28| 15|   7|  0|  1| 
+|Pavin Smith       |CI        |     18|  5|   3|  2|  0| 
+|Juan Soto         |OF        |     36| 18|  13|  3|  3| 
+|Mike Yastrzemski  |OF        |     19| 11|   8|  3|  0| 
+|Nelson Cruz       |OF        |     26|  8|   8|  2|  1| 
+|Ryan Mountcastle  |OF        |     25|  9|   8|  2|  0| 
+|Starling Marte    |DH        |     20| 12|   2|  1|  7| 
+|Steven Duggar     |DH        |     18|  7|   7|  0|  2| 
+|Teoscar Hernandez |DH        |     24|  9|   6|  1|  2| 
+|Wander Franco     |DH        |     17|  8|   7|  2|  2| 
+|Patrick Wisdom    |BAT BENCH |     12|  6|  10|  3|  1| 
 
 
 * * *
@@ -28,23 +28,23 @@
 ### Pitchers
 
  
-|players           |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
-|:-----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Hyun Jin Ryu      |SP          |  1|  6.667|  4| 5.400|      9| 1.350|  3|  1|  0| 
-|Ian Anderson      |SP          |  1|  6.000|  3| 4.500|      6| 1.000|  9|  0|  0| 
-|Marcus Stroman    |SP          |  2|  4.000|  2| 4.500|     10| 2.500|  3|  0|  0| 
-|Sandy Alcantara   |SP          |  2| 13.333|  5| 3.375|     15| 1.125|  6|  0|  0| 
-|Sean Manaea       |SP          |  1|  6.000|  1| 1.500|      6| 1.000|  7|  0|  0| 
-|Yu Darvish        |SP          |  1|  6.000|  1| 1.500|      7| 1.167|  7|  0|  0| 
-|Tyler Rogers      |RP          |  3|  3.000|  0| 0.000|      2| 0.667|  3|  0|  0| 
-|Yimi Garcia       |RP          |  3|  3.000|  1| 3.000|      3| 1.000|  6|  0|  1| 
-|Brady Singer      |OP          |  2|  8.667|  4| 4.154|     17| 1.962| 10|  0|  0| 
-|Casey Mize        |OP          |  1|  6.000|  1| 1.500|      8| 1.333|  5|  1|  0| 
-|Greg Holland      |OP          |  4|  4.333|  2| 4.154|      7| 1.615|  4|  0|  1| 
-|Hector Neris      |OP          |  4|  3.667|  3| 7.364|     10| 2.727|  3|  0|  1| 
-|Jordan Romano     |OP          |  5|  5.333|  0| 0.000|      5| 0.938|  6|  0|  3| 
-|Giovanny Gallegos |PITCH BENCH |  4|  4.333|  0| 0.000|      1| 0.231|  4|  1|  0| 
-|Justin Dunn       |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
+|players           |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
+|:-----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
+|Hyun Jin Ryu      |SP          |  3| 15.667|  9|  5.170|     25| 1.596| 12|  2|  0| 
+|Ian Anderson      |SP          |  4| 20.333| 10|  4.426|     30| 1.475| 19|  0|  0| 
+|Marcus Stroman    |SP          |  4| 14.000|  8|  5.143|     22| 1.571|  8|  0|  0| 
+|Sandy Alcantara   |SP          |  4| 23.333|  8|  3.086|     32| 1.371| 15|  1|  0| 
+|Sean Manaea       |SP          |  3| 17.667|  8|  4.075|     20| 1.132| 19|  0|  0| 
+|Yu Darvish        |SP          |  3| 15.000| 11|  6.600|     22| 1.467| 17|  0|  0| 
+|Tyler Rogers      |RP          |  8|  7.333|  1|  1.227|     10| 1.364|  5|  0|  1| 
+|Yimi Garcia       |RP          |  7|  7.000|  5|  6.429|     14| 2.000|  9|  0|  2| 
+|Brady Singer      |OP          |  4| 17.667|  7|  3.566|     30| 1.698| 20|  0|  0| 
+|Casey Mize        |OP          |  3| 13.000|  5|  3.462|     17| 1.308| 11|  1|  0| 
+|Greg Holland      |OP          |  8|  8.000|  7|  7.875|     14| 1.750|  9|  0|  1| 
+|Hector Neris      |OP          |  9|  7.333|  9| 11.045|     17| 2.318|  7|  0|  1| 
+|Jordan Romano     |OP          |  8|  8.333|  3|  3.240|     13| 1.560|  8|  0|  4| 
+|Giovanny Gallegos |PITCH BENCH |  8|  8.667|  5|  5.192|      6| 0.692| 10|  1|  0| 
+|Justin Dunn       |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 
 
 * * *

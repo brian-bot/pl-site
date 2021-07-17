@@ -5,23 +5,23 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Max Stassi       |C         |      4|  2|   1|  0|  0| 
-|Jared Walsh      |1B        |      9|  2|   7|  2|  0| 
-|DJ LeMahieu      |2B        |     19|  7|  10|  2|  0| 
-|Gio Urshela      |3B        |      8|  3|   1|  1|  0| 
-|Francisco Lindor |SS        |      8|  4|   5|  1|  1| 
-|Ryan McMahon     |MI        |      5|  1|   0|  0|  1| 
-|Austin Riley     |CI        |     12|  4|   4|  1|  0| 
-|Bryce Harper     |OF        |     12|  7|   5|  5|  2| 
-|Mookie Betts     |OF        |     10|  5|   1|  1|  1| 
-|Nick Castellanos |OF        |     14|  6|  15|  3|  0| 
-|Shohei Ohtani    |OF        |     12|  7|   9|  5|  1| 
-|Adam Frazier     |DH        |     16| 10|   3|  2|  0| 
-|Alex Verdugo     |DH        |     12|  8|   0|  0|  0| 
-|Bobby Bradley    |DH        |      7|  6|   5|  3|  0| 
-|Cedric Mullins   |DH        |     17|  5|   5|  1|  3| 
-|Brandon Crawford |BAT BENCH |      8|  3|   3|  1|  0| 
-|Trevor Larnach   |BAT BENCH |      5|  4|   2|  1|  0| 
+|Max Stassi       |C         |     14|  6|   4|  1|  0| 
+|Jared Walsh      |1B        |     19|  7|  14|  4|  0| 
+|DJ LeMahieu      |2B        |     34| 10|  13|  2|  1| 
+|Gio Urshela      |3B        |     19|  6|   7|  2|  0| 
+|Francisco Lindor |SS        |     29| 13|  15|  3|  3| 
+|Ryan McMahon     |MI        |     19|  6|   3|  0|  1| 
+|Austin Riley     |CI        |     28|  7|   9|  2|  0| 
+|Bryce Harper     |OF        |     26| 15|  16|  7|  2| 
+|Mookie Betts     |OF        |     28| 15|  10|  4|  1| 
+|Nick Castellanos |OF        |     27| 11|  21|  5|  0| 
+|Shohei Ohtani    |OF        |     28| 17|  16| 10|  2| 
+|Adam Frazier     |DH        |     35| 13|   4|  2|  1| 
+|Alex Verdugo     |DH        |     26| 12|   4|  0|  0| 
+|Bobby Bradley    |DH        |     20| 12|   8|  5|  0| 
+|Cedric Mullins   |DH        |     26|  9|  10|  3|  4| 
+|Brandon Crawford |BAT BENCH |     31| 10|  10|  2|  2| 
+|Trevor Larnach   |BAT BENCH |     19| 10|  10|  3|  1| 
 
 * * *
 
@@ -30,21 +30,21 @@
  
 |players          |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Andrew Heaney    |SP          |  2|  9.000| 12| 12.000|     19| 2.111| 14|  0|  0| 
-|German Marquez   |SP          |  2| 17.000|  1|  0.529|      4| 0.235| 12|  2|  0| 
-|Julio Urias      |SP          |  1|  5.333|  2|  3.375|      6| 1.125| 12|  0|  0| 
-|Luis Garcia      |SP          |  2| 10.000|  6|  5.400|     15| 1.500| 10|  1|  0| 
-|Max Fried        |SP          |  1|  5.000|  2|  3.600|      5| 1.000|  7|  1|  0| 
-|Nick Pivetta     |SP          |  2| 11.000|  6|  4.909|     13| 1.182| 13|  0|  0| 
-|Josh Hader       |RP          |  3|  3.000|  0|  0.000|      2| 0.667|  5|  0|  2| 
-|Liam Hendriks    |RP          |  4|  3.667|  2|  4.909|      2| 0.545|  4|  0|  3| 
-|Caleb Smith      |OP          |  2| 11.000|  3|  2.455|     15| 1.364| 14|  0|  0| 
+|Andrew Heaney    |SP          |  3| 14.333| 15|  9.419|     27| 1.884| 19|  1|  0| 
+|German Marquez   |SP          |  4| 30.000|  3|  0.900|     14| 0.467| 32|  3|  0| 
+|Julio Urias      |SP          |  3| 18.333|  4|  1.964|     20| 1.091| 24|  2|  0| 
+|Luis Garcia      |SP          |  3| 15.000|  7|  4.200|     19| 1.267| 17|  1|  0| 
+|Max Fried        |SP          |  3| 15.000| 11|  6.600|     24| 1.600| 17|  2|  0| 
+|Nick Pivetta     |SP          |  4| 22.000| 10|  4.091|     23| 1.045| 27|  1|  0| 
+|Josh Hader       |RP          |  7|  6.667|  4|  5.400|      7| 1.050| 13|  0|  3| 
+|Liam Hendriks    |RP          |  8|  9.000|  5|  5.000|      6| 0.667| 15|  1|  5| 
+|Caleb Smith      |OP          |  4| 18.000| 17|  8.500|     30| 1.667| 20|  0|  0| 
 |Dinelson Lamet   |OP          |  1|  2.333|  4| 15.429|      6| 2.571|  1|  0|  0| 
-|James Kaprielian |OP          |  2| 12.000|  5|  3.750|     13| 1.083| 10|  0|  0| 
-|Josh Fleming     |OP          |  1|  3.667|  0|  0.000|      3| 0.818|  2|  0|  0| 
-|Taylor Rogers    |OP          |  2|  1.667|  0|  0.000|      2| 1.200|  0|  0|  0| 
-|Frankie Montas   |PITCH BENCH |  1|  5.000|  2|  3.600|      5| 1.000|  5|  0|  0| 
-|Zach Plesac      |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
+|James Kaprielian |OP          |  4| 24.000|  8|  3.000|     27| 1.125| 24|  0|  0| 
+|Josh Fleming     |OP          |  2|  6.333|  0|  0.000|      4| 0.632|  4|  1|  0| 
+|Taylor Rogers    |OP          |  7|  7.333|  5|  6.136|      9| 1.227| 12|  0|  1| 
+|Frankie Montas   |PITCH BENCH |  3| 17.333|  5|  2.596|     19| 1.096| 18|  1|  0| 
+|Zach Plesac      |PITCH BENCH |  1|  4.000|  3|  6.750|      5| 1.250|  4|  0|  0| 
 
 
 * * *

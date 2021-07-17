@@ -2,21 +2,21 @@
 
 ## Period 5 scores
 
-Through games on 2021-06-30 ([website build status](https://github.com/brian-bot/pl-site/actions))
+Through games on 2021-07-11 ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 
-|team                                              | points|  r| hitsbb| hr| rbi| sb|  w| sv|  so|   era|  whip|
-|:-------------------------------------------------|------:|--:|------:|--:|---:|--:|--:|--:|---:|-----:|-----:|
-|[Washington Generals](./washingtongenerals)       |   51.0| 51|    116| 14|  57|  5|  7|  6|  93| 3.012| 1.073|
-|[SYWA](./sywa)                                    |   65.5| 65|    167| 22|  67| 10|  4|  7|  72| 2.143| 1.016|
-|[Vass Deferens](./vassdeferens)                   |   51.0| 65|    168| 16|  69| 18|  2|  6|  72| 3.197| 1.382|
-|[Overwhelming Underdogs](./overwhelmingunderdogs) |   55.5| 49|    134| 17|  55| 12|  8|  2|  96| 2.916| 1.152|
-|[Mean Wieners](./meanwieners)                     |   58.5| 69|    177| 24|  70|  6|  4|  6|  86| 4.125| 1.194|
-|[Boys of Summer](./boysofsummer)                  |   67.0| 77|    165| 27|  71|  9|  4|  5| 104| 4.088| 1.109|
-|[Wonderbots](./wonderbots)                        |   33.0| 56|    135| 14|  38|  5|  5|  0|  79| 4.015| 1.215|
-|[Nuclear Arms](./nucleararms)                     |   30.0| 48|    152| 11|  51|  6|  6|  2|  62| 4.788| 1.360|
-|[T and A](./tanda)                                |   77.0| 72|    148| 32|  81|  3|  5|  9| 117| 2.447| 0.961|
-|[Terminoeckers](./terminoeckers)                  |   61.5| 81|    181| 22|  84|  7|  5|  4|  89| 5.114| 1.364|
+|team                                              | points|   r| hitsbb| hr| rbi| sb|  w| sv|  so|   era|  whip|
+|:-------------------------------------------------|------:|---:|------:|--:|---:|--:|--:|--:|---:|-----:|-----:|
+|[Washington Generals](./washingtongenerals)       |   46.5| 130|    277| 32| 113| 15| 14| 12| 212| 3.823| 1.212|
+|[SYWA](./sywa)                                    |   56.0| 132|    325| 35| 118| 22| 10| 15| 160| 2.932| 1.208|
+|[Vass Deferens](./vassdeferens)                   |   41.5| 147|    344| 29| 120| 27|  4|  9| 159| 4.689| 1.523|
+|[Overwhelming Underdogs](./overwhelmingunderdogs) |   52.5| 117|    315| 33| 129| 21| 15|  4| 197| 3.520| 1.184|
+|[Mean Wieners](./meanwieners)                     |   72.0| 138|    350| 46| 130| 14| 13| 11| 216| 3.108| 1.081|
+|[Boys of Summer](./boysofsummer)                  |   77.0| 159|    378| 50| 154| 15| 12|  9| 225| 4.444| 1.147|
+|[Wonderbots](./wonderbots)                        |   35.5| 127|    308| 38| 117|  9| 13|  1| 171| 4.088| 1.291|
+|[Nuclear Arms](./nucleararms)                     |   41.0| 131|    350| 36| 128| 11| 11|  6| 164| 4.737| 1.433|
+|[T and A](./tanda)                                |   79.0| 133|    296| 59| 145| 11| 15| 16| 249| 2.476| 1.053|
+|[Terminoeckers](./terminoeckers)                  |   49.0| 144|    363| 34| 152| 10|  6|  5| 222| 5.391| 1.295|
 
 * * *
 * * *
@@ -26,15 +26,15 @@ Through games on 2021-06-30 ([website build status](https://github.com/brian-bot
 
 |team                   |  w|  l|  t| points|
 |:----------------------|--:|--:|--:|------:|
-|T and A                |  4|  0|  0|  247.0|
-|Washington Generals    |  3|  1|  0|  292.5|
-|Mean Wieners           |  3|  1|  0|  253.0|
-|Boys of Summer         |  3|  1|  0|  233.0|
-|Overwhelming Underdogs |  2|  2|  0|  190.5|
-|Wonderbots             |  2|  2|  0|  175.0|
-|Terminoeckers          |  1|  3|  0|  222.5|
-|Vass Deferens          |  1|  3|  0|  214.0|
-|Nuclear Arms           |  1|  3|  0|  201.0|
-|SYWA                   |  0|  4|  0|  171.5|
+|T and A                |  5|  0|  0|  326.0|
+|Boys of Summer         |  4|  1|  0|  310.0|
+|Washington Generals    |  3|  2|  0|  339.0|
+|Mean Wieners           |  3|  2|  0|  325.0|
+|Overwhelming Underdogs |  3|  2|  0|  243.0|
+|Nuclear Arms           |  2|  3|  0|  242.0|
+|Wonderbots             |  2|  3|  0|  210.5|
+|Terminoeckers          |  1|  4|  0|  271.5|
+|Vass Deferens          |  1|  4|  0|  255.5|
+|SYWA                   |  1|  4|  0|  227.5|
 
 

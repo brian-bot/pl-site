@@ -5,23 +5,23 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez      |C         |      7|  2|   1|  1|  0| 
-|Paul Goldschmidt    |1B        |     12|  3|   4|  1|  0| 
+|Salvador Perez      |C         |     16|  6|   6|  3|  0| 
+|Paul Goldschmidt    |1B        |     31| 10|  11|  3|  0| 
 |Ketel Marte         |2B        |      2|  0|   0|  0|  0| 
-|Manny Machado       |3B        |      7|  4|   3|  1|  0| 
-|Trea Turner         |SS        |     18| 13|   6|  3|  3| 
-|Jeff McNeil         |MI        |      6|  1|   2|  0|  0| 
-|Jeimer Candelario   |CI        |     10|  1|   2|  0|  0| 
-|Chris Taylor        |OF        |      9|  2|   2|  0|  0| 
-|Kyle Tucker         |OF        |     12|  2|   4|  0|  0| 
-|Lourdes Gurriel Jr. |OF        |     10|  4|   9|  2|  0| 
-|Michael Brantley    |OF        |     10|  3|   1|  0|  0| 
-|Alec Bohm           |DH        |     13|  5|   4|  0|  1| 
-|Bryan Reynolds      |DH        |     17|  4|   9|  2|  2| 
-|Cesar Hernandez     |DH        |      8|  3|   2|  1|  0| 
-|Justin Turner       |DH        |     11|  1|   2|  0|  0| 
-|Andrew Benintendi   |BAT BENCH |     **| **|  **| **| **| 
-|Jean Segura         |BAT BENCH |      2|  1|   1|  0|  0| 
+|Manny Machado       |3B        |     28| 17|  13|  4|  1| 
+|Trea Turner         |SS        |     30| 19|  10|  6|  4| 
+|Jeff McNeil         |MI        |     21|  6|   6|  0|  0| 
+|Jeimer Candelario   |CI        |     26|  8|   5|  1|  0| 
+|Chris Taylor        |OF        |     27| 10|   9|  0|  1| 
+|Kyle Tucker         |OF        |     21|  6|   6|  2|  2| 
+|Lourdes Gurriel Jr. |OF        |     21|  8|  13|  3|  0| 
+|Michael Brantley    |OF        |     20|  6|   2|  1|  0| 
+|Alec Bohm           |DH        |     26| 10|  10|  2|  1| 
+|Bryan Reynolds      |DH        |     30|  9|  15|  4|  2| 
+|Cesar Hernandez     |DH        |     22|  9|  10|  4|  0| 
+|Justin Turner       |DH        |     29|  7|  12|  3|  0| 
+|Andrew Benintendi   |BAT BENCH |      5|  3|   4|  2|  0| 
+|Jean Segura         |BAT BENCH |     18| 10|   6|  1|  0| 
 
 
 * * *
@@ -31,20 +31,20 @@
  
 |players          |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Blake Snell      |SP          |  1|  5.000|  0|  0.000|      7| 1.400|  5|  1|  0| 
-|Corbin Burnes    |SP          |  1|  6.000|  1|  1.500|      5| 0.833|  7|  0|  0| 
-|Dallas Keuchel   |SP          |  1|  5.000|  2|  3.600|      7| 1.400|  4|  0|  0| 
-|Nathan Eovaldi   |SP          |  1|  7.667|  1|  1.174|      7| 0.913|  6|  1|  0| 
-|Shane McClanahan |SP          |  1|  6.000|  3|  4.500|      6| 1.000|  7|  1|  0| 
-|Tyler Mahle      |SP          |  1|  6.000|  4|  6.000|      7| 1.167|  7|  0|  0| 
-|Aroldis Chapman  |RP          |  2|  1.333|  6| 40.500|      9| 6.750|  2|  1|  0| 
-|Edwin Diaz       |RP          |  3|  3.667|  1|  2.455|      2| 0.545|  3|  1|  2| 
-|Bailey Ober      |OP          |  2|  7.667|  9| 10.565|     14| 1.826|  5|  0|  0| 
-|Erick Fedde      |OP          |  1|  4.000|  5| 11.250|      9| 2.250|  1|  0|  0| 
-|Scott Barlow     |OP          |  3|  2.333|  0|  0.000|      3| 1.286|  5|  0|  0| 
-|Yusmeiro Petit   |OP          |  3|  3.000|  2|  6.000|      6| 2.000|  0|  0|  0| 
-|Zach Davies      |OP          |  2| 10.000|  2|  1.800|     10| 1.000| 10|  1|  0| 
-|Danny Duffy      |PITCH BENCH |  3|  6.333|  4|  5.684|      9| 1.421|  7|  0|  0| 
+|Blake Snell      |SP          |  2|  9.000|  0|  0.000|     13| 1.444|  8|  1|  0| 
+|Corbin Burnes    |SP          |  3| 19.000|  3|  1.421|     16| 0.842| 20|  1|  0| 
+|Dallas Keuchel   |SP          |  3| 16.000| 10|  5.625|     25| 1.562|  9|  1|  0| 
+|Nathan Eovaldi   |SP          |  3| 20.333|  6|  2.656|     22| 1.082| 21|  2|  0| 
+|Shane McClanahan |SP          |  3| 15.333|  7|  4.109|     18| 1.174| 17|  1|  0| 
+|Tyler Mahle      |SP          |  3| 17.000|  8|  4.235|     24| 1.412| 20|  0|  0| 
+|Aroldis Chapman  |RP          |  4|  2.333|  9| 34.714|     14| 6.000|  5|  1|  0| 
+|Edwin Diaz       |RP          |  7|  8.000|  4|  4.500|     12| 1.500| 12|  2|  4| 
+|Bailey Ober      |OP          |  4| 16.000| 13|  7.312|     25| 1.562| 16|  1|  0| 
+|Erick Fedde      |OP          |  3| 13.333| 14|  9.450|     29| 2.175| 10|  0|  0| 
+|Scott Barlow     |OP          |  8|  7.333|  6|  7.364|     12| 1.636| 10|  0|  2| 
+|Yusmeiro Petit   |OP          |  9|  8.000|  3|  3.375|     10| 1.250|  2|  0|  0| 
+|Zach Davies      |OP          |  4| 19.333|  7|  3.259|     25| 1.293| 14|  1|  0| 
+|Danny Duffy      |PITCH BENCH |  5| 15.333|  7|  4.109|     24| 1.565| 14|  0|  0| 
 
 
 * * *
