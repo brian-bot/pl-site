@@ -3,25 +3,26 @@
 ### Batters
 
  
-|players            |position  | hitsbb|  r| rbi| hr| sb| 
-|:------------------|:---------|------:|--:|---:|--:|--:| 
-|Yasmani Grandal    |C         |     15|  9|  14|  4|  0| 
-|Eric Hosmer        |1B        |     22|  7|   6|  1|  0| 
-|Jonathan India     |2B        |     31| 15|   6|  0|  2| 
-|Rafael Devers      |3B        |     29| 11|  15|  4|  0| 
-|Bo Bichette        |SS        |     30| 12|  10|  2|  2| 
-|Isiah Kiner-Falefa |MI        |     11|  4|   2|  0|  0| 
-|Ke'Bryan Hayes     |CI        |     28|  9|   8|  1|  2| 
-|Austin Meadows     |OF        |     23|  8|   8|  1|  1| 
-|Giancarlo Stanton  |OF        |     32|  9|   6|  2|  0| 
-|J.D. Martinez      |OF        |     31| 12|  18|  4|  0| 
-|Tommy Pham         |OF        |     23| 13|   8|  3|  1| 
-|Amed Rosario       |DH        |     15|  5|   4|  1|  1| 
-|Avisail Garcia     |DH        |     23|  7|  14|  3|  0| 
-|Hunter Renfroe     |DH        |     26| 12|  15|  5|  0| 
-|Jonathan Schoop    |DH        |     24| 11|  18|  3|  1| 
-|Byron Buxton       |BAT BENCH |     **| **|  **| **| **| 
-|Corey Seager       |BAT BENCH |     **| **|  **| **| **| 
+|players           |position  | hitsbb|  r| rbi| hr| sb| 
+|:-----------------|:---------|------:|--:|---:|--:|--:| 
+|Eric Haase        |C         |     **| **|  **| **| **| 
+|Eric Hosmer       |1B        |      4|  2|   3|  0|  1| 
+|Jonathan India    |2B        |      1|  0|   0|  0|  0| 
+|Rafael Devers     |3B        |      1|  1|   0|  0|  0| 
+|Bo Bichette       |SS        |      2|  1|   2|  0|  0| 
+|Jonathan Schoop   |MI        |     **| **|  **| **| **| 
+|Kyle Seager       |CI        |      2|  1|   2|  1|  0| 
+|Austin Meadows    |OF        |      2|  1|   3|  0|  0| 
+|Giancarlo Stanton |OF        |      0|  0|   0|  0|  0| 
+|J.D. Martinez     |OF        |      1|  1|   1|  1|  0| 
+|Tommy Pham        |OF        |      5|  5|   2|  1|  1| 
+|Avisail Garcia    |DH        |      1|  1|   1|  1|  0| 
+|Garrett Cooper    |DH        |      2|  1|   0|  0|  0| 
+|Hunter Renfroe    |DH        |      1|  0|   1|  0|  0| 
+|Ke'Bryan Hayes    |DH        |      1|  0|   0|  0|  0| 
+|Byron Buxton      |BAT BENCH |     **| **|  **| **| **| 
+|Corey Seager      |BAT BENCH |     **| **|  **| **| **| 
+|Yasmani Grandal   |BAT BENCH |     **| **|  **| **| **| 
 
 
 * * *
@@ -29,24 +30,23 @@
 ### Pitchers
 
  
-|players           |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
-|:-----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Chris Paddack     |SP          |  4| 13.333| 17| 11.475|     29| 2.175| 13|  0|  0| 
-|Dylan Cease       |SP          |  4| 22.000| 11|  4.500|     26| 1.182| 28|  2|  0| 
-|Jacob deGrom      |SP          |  3| 20.000|  7|  3.150|     13| 0.650| 29|  0|  0| 
-|Max Scherzer      |SP          |  4| 20.667| 10|  4.355|     23| 1.113| 30|  2|  0| 
-|Mike Minor        |SP          |  4| 20.000| 24| 10.800|     38| 1.900| 11|  0|  0| 
-|Trevor Rogers     |SP          |  4| 19.667|  9|  4.119|     25| 1.271| 27|  0|  0| 
-|Alex Reyes        |RP          |  7|  8.333|  4|  4.320|     10| 1.200|  8|  1|  3| 
-|Diego Castillo    |RP          |  6|  5.000|  0|  0.000|      2| 0.400|  5|  0|  2| 
-|Domingo German    |OP          |  4| 12.000|  8|  6.000|     17| 1.417| 12|  0|  0| 
-|Jordan Montgomery |OP          |  3| 17.000|  9|  4.765|     25| 1.471| 20|  0|  0| 
-|Lucas Sims        |OP          |  1|  0.000|  3|    Inf|      3|   Inf|  0|  0|  0| 
-|Patrick Sandoval  |OP          |  3| 17.000|  7|  3.706|     21| 1.235| 19|  0|  0| 
-|Ross Stripling    |OP          |  4| 20.333|  8|  3.541|     21| 1.033| 20|  1|  0| 
-|Alex Cobb         |PITCH BENCH |  3| 17.000|  7|  3.706|     19| 1.118| 14|  1|  0| 
-|Garrett Richards  |PITCH BENCH |  4| 17.333| 14|  7.269|     34| 1.962|  9|  1|  0| 
-|J.P. Feyereisen   |PITCH BENCH |  6|  6.667|  2|  2.700|      8| 1.200|  5|  1|  0| 
+|players           |position    |  g|    ip| er|   era| hitsbb|  whip| so|  w| sv| 
+|:-----------------|:-----------|--:|-----:|--:|-----:|------:|-----:|--:|--:|--:| 
+|Andrew Heaney     |SP          |  1| 4.000|  4| 9.000|      6| 1.500|  4|  0|  0| 
+|Dylan Cease       |SP          |  1| 5.667|  3| 4.765|      8| 1.412| 10|  0|  0| 
+|Jacob deGrom      |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Max Scherzer      |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Patrick Sandoval  |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Trevor Rogers     |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Alex Reyes        |RP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Diego Castillo    |RP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Jordan Montgomery |OP          |  1| 6.000|  3| 4.500|      5| 0.833|  4|  0|  0| 
+|Kyle Muller       |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Lou Trivino       |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Steven Matz       |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Tylor Megill      |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Chris Paddack     |PITCH BENCH |  1| 5.000|  4| 7.200|      6| 1.200|  2|  1|  0| 
+|Domingo German    |PITCH BENCH |  1| 1.000|  0| 0.000|      1| 1.000|  0|  0|  0| 
 
 
 * * *
