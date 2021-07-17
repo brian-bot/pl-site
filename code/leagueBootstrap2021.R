@@ -64,7 +64,7 @@ periods <- list(
          c(3, 8),
          c(4, 10),
          c(5, 9))),
-  list(startDate = as.Date("2021-07-15"),
+  list(startDate = as.Date("2021-07-16"),
        endDate = as.Date("2021-08-04"),
        matchups = list(
          c(1, 7),
