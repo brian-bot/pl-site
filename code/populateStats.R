@@ -16,7 +16,13 @@ lastDate <- today-1
 pullData <- lapply(firstDate:lastDate, function(d){
   d <- as.Date(d, origin="1970-01-01")
   dateData <- getMlbDate(d)
-  return(dateData)
+  if( is.null(dateData) ){
+    return(NULL)
+  }else if( nrow(dateData$batters) == 0 & nrow(dateData$pitchers) == 0){
+    return(NULL)
+  } else{
+    return(dateData)
+  }
 })
 names(pullData) <- as.character(as.Date(firstDate:lastDate, origin="1970-01-01"))
 
