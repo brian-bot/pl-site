@@ -6,20 +6,20 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Yadier Molina    |C         |      1|  0|   0|  0|  0| 
-|Jose Abreu       |1B        |      0|  0|   0|  0|  0| 
-|Jose Altuve      |2B        |      1|  1|   0|  0|  0| 
-|Ty France        |3B        |      2|  1|   1|  0|  0| 
-|Javier Baez      |SS        |      2|  1|   0|  0|  1| 
-|Didi Gregorius   |MI        |      2|  2|   0|  0|  0| 
+|Jose Abreu       |1B        |      2|  1|   3|  1|  0| 
+|Jose Altuve      |2B        |      2|  1|   0|  0|  0| 
+|Ty France        |3B        |      4|  1|   1|  0|  0| 
+|Javier Baez      |SS        |      3|  1|   1|  0|  2| 
+|Didi Gregorius   |MI        |      3|  2|   0|  0|  0| 
 |Kris Bryant      |CI        |      0|  0|   0|  0|  0| 
-|Charlie Blackmon |OF        |      2|  1|   0|  0|  0| 
-|Dylan Carlson    |OF        |      0|  0|   0|  0|  0| 
+|Charlie Blackmon |OF        |      3|  1|   0|  0|  0| 
+|Dylan Carlson    |OF        |      1|  1|   0|  0|  0| 
 |George Springer  |OF        |      0|  0|   0|  0|  0| 
-|Jarred Kelenic   |OF        |      1|  0|   0|  0|  0| 
-|AJ Pollock       |DH        |      2|  1|   0|  0|  0| 
+|Jarred Kelenic   |OF        |      2|  0|   0|  0|  0| 
+|AJ Pollock       |DH        |      4|  3|   1|  1|  0| 
 |Andrew Vaughn    |DH        |      0|  0|   0|  0|  0| 
-|David Fletcher   |DH        |      3|  2|   1|  0|  0| 
-|Hunter Dozier    |DH        |      3|  0|   0|  0|  0| 
+|David Fletcher   |DH        |      6|  2|   6|  0|  0| 
+|Hunter Dozier    |DH        |      4|  0|   0|  0|  0| 
 |Anthony Rendon   |BAT BENCH |     **| **|  **| **| **| 
 |Justin Upton     |BAT BENCH |     **| **|  **| **| **| 
 
@@ -36,11 +36,11 @@
 |Lance Lynn      |SP          | **|    **| **|   **|     **|   **| **| **| **| 
 |Rich Hill       |SP          | **|    **| **|   **|     **|   **| **| **| **| 
 |Taijuan Walker  |SP          | **|    **| **|   **|     **|   **| **| **| **| 
-|Blake Treinen   |RP          | **|    **| **|   **|     **|   **| **| **| **| 
-|Rafael Montero  |RP          | **|    **| **|   **|     **|   **| **| **| **| 
+|Blake Treinen   |RP          |  1| 1.000|  0|  0.0|      0|  0.0|  1|  0|  0| 
+|Rafael Montero  |RP          |  1| 1.000|  2| 18.0|      3|  3.0|  2|  0|  0| 
 |Adam Wainwright |OP          |  1| 6.000|  4|  6.0|      6|  1.0|  7|  0|  0| 
-|Emmanuel Clase  |OP          |  1| 0.333|  2| 54.0|      2|  6.0|  0|  0|  0| 
-|Gregory Soto    |OP          | **|    **| **|   **|     **|   **| **| **| **| 
+|Emmanuel Clase  |OP          |  2| 1.333|  2| 13.5|      2|  1.5|  2|  0|  0| 
+|Gregory Soto    |OP          |  1| 1.000|  0|  0.0|      0|  0.0|  0|  0|  1| 
 |Jameson Taillon |OP          | **|    **| **|   **|     **|   **| **| **| **| 
 |Marco Gonzales  |OP          | **|    **| **|   **|     **|   **| **| **| **| 
 |Austin Gomber   |PITCH BENCH | **|    **| **|   **|     **|   **| **| **| **| 
