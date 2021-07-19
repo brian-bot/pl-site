@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Gary Sanchez      |C         |      2|  1|   1|  1|  0| 
+|Gary Sanchez      |C         |      3|  1|   1|  1|  0| 
 |Matt Olson        |1B        |      6|  2|   1|  0|  0| 
-|Brandon Lowe      |2B        |      3|  1|   0|  0|  0| 
+|Brandon Lowe      |2B        |      5|  2|   0|  0|  0| 
 |Matt Chapman      |3B        |      3|  1|   0|  0|  0| 
-|Trevor Story      |SS        |      2|  0|   0|  0|  0| 
-|Brandon Crawford  |MI        |      2|  0|   0|  0|  0| 
-|Josh Donaldson    |CI        |      2|  1|   2|  1|  0| 
+|Trevor Story      |SS        |      2|  0|   1|  0|  0| 
+|Brandon Crawford  |MI        |      3|  0|   0|  0|  0| 
+|Josh Donaldson    |CI        |      5|  1|   2|  1|  0| 
 |Adolis Garcia     |OF        |      0|  0|   0|  0|  0| 
-|Joey Gallo        |OF        |      0|  0|   0|  0|  0| 
-|Ramon Laureano    |OF        |      0|  0|   0|  0|  0| 
+|Joey Gallo        |OF        |      1|  0|   0|  0|  0| 
+|Ramon Laureano    |OF        |      1|  0|   0|  0|  0| 
 |Randy Arozarena   |OF        |      1|  0|   0|  0|  0| 
-|Adam Duvall       |DH        |      1|  0|   0|  0|  0| 
-|Jazz Chisholm Jr. |DH        |      3|  3|   0|  0|  0| 
-|Jorge Polanco     |DH        |      2|  0|   0|  0|  0| 
-|Randal Grichuk    |DH        |      1|  1|   1|  1|  0| 
+|Adam Duvall       |DH        |      4|  1|   2|  1|  0| 
+|Jazz Chisholm Jr. |DH        |      4|  3|   0|  0|  0| 
+|Jorge Polanco     |DH        |      3|  0|   0|  0|  0| 
+|Randal Grichuk    |DH        |      3|  3|   5|  2|  0| 
 |Adalberto Mondesi |BAT BENCH |     **| **|  **| **| **| 
-|Jesus Aguilar     |BAT BENCH |      4|  2|   6|  2|  0| 
+|Jesus Aguilar     |BAT BENCH |      5|  2|   6|  2|  0| 
 |Kyle Schwarber    |BAT BENCH |     **| **|  **| **| **| 
 |Sean Murphy       |BAT BENCH |      1|  0|   1|  0|  0| 
 
@@ -39,7 +39,7 @@
 |Lance McCullers Jr. |SP       |  1| 7.000|  1|  1.286|      4| 0.571| 10|  1|  0| 
 |Robbie Ray          |SP       |  1| 6.667|  0|  0.000|      6| 0.900|  8|  1|  0| 
 |Wade Miley          |SP       | **|    **| **|     **|     **|    **| **| **| **| 
-|Brad Hand           |RP       | **|    **| **|     **|     **|    **| **| **| **| 
+|Brad Hand           |RP       |  1| 1.000|  1|  9.000|      4| 4.000|  3|  1|  0| 
 |Ryan Pressly        |RP       | **|    **| **|     **|     **|    **| **| **| **| 
 |Ian Kennedy         |OP       | **|    **| **|     **|     **|    **| **| **| **| 
 |Jake Odorizzi       |OP       |  1| 3.333|  4| 10.800|     10| 3.000|  1|  0|  0| 
