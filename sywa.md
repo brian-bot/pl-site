@@ -5,22 +5,22 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|Willson Contreras     |C         |      4|  2|   2|  1|  0| 
+|Willson Contreras     |C         |      5|  2|   2|  1|  0| 
 |Freddie Freeman       |1B        |      7|  6|   4|  2|  1| 
 |Kolten Wong           |2B        |      5|  4|   1|  0|  0| 
-|Jose Ramirez          |3B        |      2|  1|   0|  0|  0| 
+|Jose Ramirez          |3B        |      3|  2|   0|  0|  1| 
 |Fernando Tatis Jr.    |SS        |      8|  6|   4|  0|  2| 
-|Josh Rojas            |MI        |      8|  2|   2|  0|  1| 
-|Vladimir Guerrero Jr. |CI        |      4|  4|   5|  3|  0| 
-|Austin Hays           |OF        |      3|  2|   0|  0|  0| 
+|Josh Rojas            |MI        |     11|  2|   2|  0|  1| 
+|Vladimir Guerrero Jr. |CI        |      5|  5|   5|  3|  0| 
+|Austin Hays           |OF        |      6|  3|   1|  0|  0| 
 |Eddie Rosario         |OF        |     **| **|  **| **| **| 
 |Joc Pederson          |OF        |      5|  1|   4|  1|  0| 
 |Trent Grisham         |OF        |      6|  2|   2|  0|  1| 
-|Akil Baddoo           |DH        |      3|  1|   3|  0|  1| 
-|Anthony Rizzo         |DH        |      3|  1|   1|  1|  0| 
-|Brandon Nimmo         |DH        |      9|  2|   1|  1|  0| 
+|Akil Baddoo           |DH        |      6|  4|   7|  1|  1| 
+|Anthony Rizzo         |DH        |      5|  2|   1|  1|  0| 
+|Brandon Nimmo         |DH        |     12|  3|   1|  1|  0| 
 |J.P. Crawford         |DH        |      4|  2|   0|  0|  0| 
-|Eugenio Suarez        |BAT BENCH |      4|  0|   2|  0|  0| 
+|Eugenio Suarez        |BAT BENCH |      4|  1|   2|  0|  0| 
 
 
 * * *

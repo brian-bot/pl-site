@@ -7,17 +7,17 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Christian Vazquez |C         |      2|  0|   0|  0|  0| 
 |Alex Kirilloff    |1B        |      1|  0|   0|  0|  0| 
-|Max Muncy         |2B        |      6|  3|   5|  2|  0| 
-|Cavan Biggio      |3B        |      3|  1|   0|  0|  0| 
+|Max Muncy         |2B        |      9|  4|   6|  3|  0| 
+|Cavan Biggio      |3B        |      4|  2|   1|  1|  0| 
 |Dansby Swanson    |SS        |      2|  1|   2|  1|  0| 
 |Joey Wendle       |MI        |      5|  2|   1|  0|  0| 
 |Carlos Santana    |CI        |      3|  0|   1|  0|  0| 
 |Andrew McCutchen  |OF        |      6|  1|   3|  1|  0| 
-|Brian Goodwin     |OF        |      2|  0|   0|  0|  0| 
+|Brian Goodwin     |OF        |      3|  1|   0|  0|  0| 
 |Christian Yelich  |OF        |      6|  4|   3|  1|  1| 
 |Wil Myers         |OF        |      6|  4|   7|  2|  0| 
-|Adam Engel        |DH        |      2|  0|   1|  0|  0| 
-|Jesse Winker      |DH        |      2|  1|   0|  0|  0| 
+|Adam Engel        |DH        |      3|  0|   1|  0|  1| 
+|Jesse Winker      |DH        |      5|  3|   2|  0|  0| 
 |Jurickson Profar  |DH        |      2|  1|   1|  1|  0| 
 |Max Kepler        |DH        |      1|  0|   0|  0|  0| 
 |Alex Bregman      |BAT BENCH |     **| **|  **| **| **| 
@@ -34,10 +34,10 @@
 |:------------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
 |Anthony DeSclafani |SP          |  1| 6.000|  3|  4.500|      5| 0.833|  4|  0|  0| 
 |Johnny Cueto       |SP          |  1| 5.000|  1|  1.800|      3| 0.600|  5|  0|  0| 
-|Jose Berrios       |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Jose Berrios       |SP          |  1| 6.000|  5|  7.500|      5| 0.833|  8|  0|  0| 
 |Patrick Corbin     |SP          |  1| 5.333|  6| 10.125|     14| 2.625|  3|  0|  0| 
 |Yusei Kikuchi      |SP          |  1| 5.000|  7| 12.600|     10| 2.000|  7|  0|  0| 
-|Zack Greinke       |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Zack Greinke       |SP          |  1| 5.333|  2|  3.375|      6| 1.125|  4|  1|  0| 
 |Craig Kimbrel      |RP          |  2| 2.000|  0|  0.000|      1| 0.500|  4|  0|  1| 
 |James Karinchak    |RP          |  2| 2.000|  1|  4.500|      3| 1.500|  0|  0|  1| 
 |Devin Williams     |OP          | **|    **| **|     **|     **|    **| **| **| **| 

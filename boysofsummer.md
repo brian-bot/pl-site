@@ -15,11 +15,11 @@
 |Bryce Harper     |OF        |      5|  2|   0|  0|  1| 
 |Mookie Betts     |OF        |      7|  5|   2|  1|  0| 
 |Nick Castellanos |OF        |      0|  1|   0|  0|  0| 
-|Shohei Ohtani    |OF        |      5|  1|   4|  1|  0| 
-|Alex Verdugo     |DH        |      1|  0|   0|  0|  1| 
-|Bobby Bradley    |DH        |      2|  0|   0|  0|  0| 
+|Shohei Ohtani    |OF        |      6|  1|   4|  1|  0| 
+|Alex Verdugo     |DH        |      4|  2|   0|  0|  1| 
+|Bobby Bradley    |DH        |      4|  0|   0|  0|  0| 
 |Cedric Mullins   |DH        |      4|  2|   0|  0|  0| 
-|J.D. Davis       |DH        |      4|  2|   4|  2|  0| 
+|J.D. Davis       |DH        |      6|  3|   4|  2|  0| 
 |Brendan Rodgers  |BAT BENCH |      3|  2|   0|  0|  0| 
 |Gio Urshela      |BAT BENCH |     **| **|  **| **| **| 
 
@@ -28,23 +28,23 @@
 ### Pitchers
 
  
-|players          |position    |  g|    ip| er|    era| hitsbb|  whip| so|  w| sv| 
-|:----------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
-|German Marquez   |SP          | **|    **| **|     **|     **|    **| **| **| **| 
-|James Kaprielian |SP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Julio Urias      |SP          |  1| 5.667|  4|  6.353|      8| 1.412|  3|  1|  0| 
-|Luis Garcia      |SP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Max Fried        |SP          |  1| 7.000|  0|  0.000|      5| 0.714|  7|  1|  0| 
-|Nick Pivetta     |SP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Josh Hader       |RP          |  1| 1.000|  0|  0.000|      1| 1.000|  1|  0|  0| 
-|Liam Hendriks    |RP          |  1| 1.000|  0|  0.000|      0| 0.000|  2|  0|  0| 
-|Anthony Bender   |OP          |  2| 2.000|  2|  9.000|      5| 2.500|  1|  0|  0| 
-|Chris Flexen     |OP          |  1| 7.000|  1|  1.286|      7| 1.000|  2|  1|  0| 
-|Frankie Montas   |OP          |  1| 6.000|  2|  3.000|      7| 1.167|  7|  0|  0| 
-|Jon Gray         |OP          |  1| 7.000|  2|  2.571|      8| 1.143|  7|  0|  0| 
-|Kwang Hyun Kim   |OP          |  1| 6.000|  0|  0.000|      5| 0.833|  1|  1|  0| 
-|Taylor Rogers    |PITCH BENCH |  1| 0.667|  1| 13.500|      2| 3.000|  2|  0|  0| 
-|Zach Plesac      |PITCH BENCH |  1| 6.000|  2|  3.000|      5| 0.833|  3|  1|  0| 
+|players          |position    |  g|    ip| er|   era| hitsbb|  whip| so|  w| sv| 
+|:----------------|:-----------|--:|-----:|--:|-----:|------:|-----:|--:|--:|--:| 
+|German Marquez   |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|James Kaprielian |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Julio Urias      |SP          |  1| 5.667|  4| 6.353|      8| 1.412|  3|  1|  0| 
+|Luis Garcia      |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Max Fried        |SP          |  1| 7.000|  0| 0.000|      5| 0.714|  7|  1|  0| 
+|Nick Pivetta     |SP          |  1| 6.667|  4| 5.400|     13| 1.950|  4|  1|  0| 
+|Josh Hader       |RP          |  1| 1.000|  0| 0.000|      1| 1.000|  1|  0|  0| 
+|Liam Hendriks    |RP          |  1| 1.000|  0| 0.000|      0| 0.000|  2|  0|  0| 
+|Anthony Bender   |OP          |  2| 2.000|  2| 9.000|      5| 2.500|  1|  0|  0| 
+|Chris Flexen     |OP          |  1| 7.000|  1| 1.286|      7| 1.000|  2|  1|  0| 
+|Frankie Montas   |OP          |  1| 6.000|  2| 3.000|      7| 1.167|  7|  0|  0| 
+|Jon Gray         |OP          |  1| 7.000|  2| 2.571|      8| 1.143|  7|  0|  0| 
+|Kwang Hyun Kim   |OP          |  1| 6.000|  0| 0.000|      5| 0.833|  1|  1|  0| 
+|Taylor Rogers    |PITCH BENCH |  2| 1.667|  1| 5.400|      3| 1.800|  3|  0|  0| 
+|Zach Plesac      |PITCH BENCH |  1| 6.000|  2| 3.000|      5| 0.833|  3|  1|  0| 
 
 
 * * *

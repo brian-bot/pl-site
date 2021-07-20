@@ -6,20 +6,20 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Gary Sanchez      |C         |      3|  1|   1|  1|  0| 
-|Matt Olson        |1B        |      6|  2|   1|  0|  0| 
-|Brandon Lowe      |2B        |      5|  2|   0|  0|  0| 
-|Matt Chapman      |3B        |      3|  1|   0|  0|  0| 
+|Matt Olson        |1B        |      8|  3|   2|  1|  0| 
+|Brandon Lowe      |2B        |      6|  2|   0|  0|  0| 
+|Matt Chapman      |3B        |      4|  2|   0|  0|  0| 
 |Trevor Story      |SS        |      2|  0|   1|  0|  0| 
 |Brandon Crawford  |MI        |      3|  0|   0|  0|  0| 
-|Josh Donaldson    |CI        |      5|  1|   2|  1|  0| 
-|Adolis Garcia     |OF        |      0|  0|   0|  0|  0| 
+|Josh Donaldson    |CI        |      7|  1|   3|  1|  0| 
+|Adolis Garcia     |OF        |      1|  0|   0|  0|  0| 
 |Joey Gallo        |OF        |      1|  0|   0|  0|  0| 
-|Ramon Laureano    |OF        |      1|  0|   0|  0|  0| 
-|Randy Arozarena   |OF        |      1|  0|   0|  0|  0| 
-|Adam Duvall       |DH        |      4|  1|   2|  1|  0| 
+|Ramon Laureano    |OF        |      2|  1|   3|  1|  0| 
+|Randy Arozarena   |OF        |      3|  0|   1|  0|  0| 
+|Adam Duvall       |DH        |      5|  1|   2|  1|  0| 
 |Jazz Chisholm Jr. |DH        |      4|  3|   0|  0|  0| 
-|Jorge Polanco     |DH        |      3|  0|   0|  0|  0| 
-|Randal Grichuk    |DH        |      3|  3|   5|  2|  0| 
+|Jorge Polanco     |DH        |      5|  0|   1|  0|  1| 
+|Randal Grichuk    |DH        |      4|  3|   6|  2|  0| 
 |Adalberto Mondesi |BAT BENCH |     **| **|  **| **| **| 
 |Jesus Aguilar     |BAT BENCH |      5|  2|   6|  2|  0| 
 |Kyle Schwarber    |BAT BENCH |     **| **|  **| **| **| 
@@ -35,13 +35,13 @@
 |:-------------------|:--------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
 |Charlie Morton      |SP       |  1| 6.000|  3|  4.500|      9| 1.500|  8|  0|  0| 
 |Gerrit Cole         |SP       |  1| 6.000|  1|  1.500|      7| 1.167| 11|  1|  0| 
-|Kyle Gibson         |SP       | **|    **| **|     **|     **|    **| **| **| **| 
+|Kyle Gibson         |SP       |  1| 5.000|  8| 14.400|     12| 2.400|  2|  0|  0| 
 |Lance McCullers Jr. |SP       |  1| 7.000|  1|  1.286|      4| 0.571| 10|  1|  0| 
 |Robbie Ray          |SP       |  1| 6.667|  0|  0.000|      6| 0.900|  8|  1|  0| 
 |Wade Miley          |SP       | **|    **| **|     **|     **|    **| **| **| **| 
 |Brad Hand           |RP       |  1| 1.000|  1|  9.000|      4| 4.000|  3|  1|  0| 
-|Ryan Pressly        |RP       | **|    **| **|     **|     **|    **| **| **| **| 
-|Ian Kennedy         |OP       | **|    **| **|     **|     **|    **| **| **| **| 
+|Ryan Pressly        |RP       |  1| 1.000|  0|  0.000|      1| 1.000|  1|  0|  1| 
+|Ian Kennedy         |OP       |  1| 1.000|  0|  0.000|      2| 2.000|  1|  0|  0| 
 |Jake Odorizzi       |OP       |  1| 3.333|  4| 10.800|     10| 3.000|  1|  0|  0| 
 |Matt Barnes         |OP       | **|    **| **|     **|     **|    **| **| **| **| 
 |Tarik Skubal        |OP       | **|    **| **|     **|     **|    **| **| **| **| 
