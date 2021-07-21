@@ -5,23 +5,23 @@
  
 |players         |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------|:---------|------:|--:|---:|--:|--:| 
-|Omar Narvaez    |C         |      2|  0|   1|  0|  0| 
-|Rhys Hoskins    |1B        |      5|  2|   1|  0|  0| 
-|Whit Merrifield |2B        |      4|  2|   4|  0|  0| 
-|Eduardo Escobar |3B        |      5|  4|   4|  2|  0| 
+|Omar Narvaez    |C         |      3|  0|   1|  0|  0| 
+|Rhys Hoskins    |1B        |      8|  4|   2|  1|  0| 
+|Whit Merrifield |2B        |      6|  3|   4|  0|  0| 
+|Eduardo Escobar |3B        |      7|  5|   5|  2|  0| 
 |Willy Adames    |SS        |     11|  6|   7|  2|  0| 
 |Luis Urias      |MI        |      8|  4|   3|  1|  0| 
-|Yuli Gurriel    |CI        |      5|  1|   3|  0|  0| 
+|Yuli Gurriel    |CI        |      8|  2|   3|  0|  0| 
 |Aaron Judge     |OF        |     **| **|  **| **| **| 
 |Jake Fraley     |OF        |     **| **|  **| **| **| 
-|Robbie Grossman |OF        |      5|  4|   1|  1|  0| 
-|Yordan Alvarez  |OF        |      3|  1|   2|  1|  0| 
-|Cody Bellinger  |DH        |      4|  1|   2|  0|  0| 
+|Robbie Grossman |OF        |      6|  5|   2|  2|  0| 
+|Yordan Alvarez  |OF        |      4|  2|   4|  1|  0| 
+|Cody Bellinger  |DH        |      5|  2|   2|  0|  0| 
 |Luke Voit       |DH        |     **| **|  **| **| **| 
-|Mitch Haniger   |DH        |      7|  7|   6|  2|  0| 
-|Tyler O'Neill   |DH        |      5|  2|   1|  1|  0| 
-|Gleyber Torres  |BAT BENCH |      5|  2|   3|  2|  0| 
-|Paul DeJong     |BAT BENCH |      6|  3|   2|  1|  0| 
+|Mitch Haniger   |DH        |      9|  7|   6|  2|  0| 
+|Tyler O'Neill   |DH        |      6|  2|   1|  1|  1| 
+|Gleyber Torres  |BAT BENCH |      6|  2|   3|  2|  0| 
+|Paul DeJong     |BAT BENCH |      7|  4|   2|  1|  0| 
 
 * * *
 
@@ -37,8 +37,8 @@
 |Logan Gilbert     |SP          |  1| 5.333|  2| 3.375|      6| 1.125|  9|  1|  0| 
 |Logan Webb        |SP          |  1| 4.000|  1| 2.250|      6| 1.500|  2|  0|  0| 
 |Collin McHugh     |RP          |  1| 2.000|  0| 0.000|      2| 1.000|  2|  0|  0| 
-|Will Smith        |RP          |  1| 1.000|  0| 0.000|      0| 0.000|  2|  0|  0| 
-|Drew Steckenrider |OP          |  1| 1.000|  0| 0.000|      0| 0.000|  0|  0|  0| 
+|Will Smith        |RP          |  2| 2.000|  0| 0.000|      1| 0.500|  3|  0|  1| 
+|Drew Steckenrider |OP          |  2| 2.000|  0| 0.000|      1| 0.500|  2|  0|  0| 
 |Joe Musgrove      |OP          |  1| 5.000|  4| 7.200|     10| 2.000|  3|  0|  0| 
 |Kenley Jansen     |OP          |  1| 1.000|  1| 9.000|      2| 2.000|  0|  0|  0| 
 |Kenta Maeda       |OP          |  1| 5.000|  3| 5.400|      4| 0.800|  8|  0|  0| 

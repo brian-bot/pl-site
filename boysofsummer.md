@@ -8,17 +8,17 @@
 |Max Stassi       |C         |      3|  2|   1|  1|  0| 
 |Jared Walsh      |1B        |      4|  0|   1|  0|  0| 
 |DJ LeMahieu      |2B        |      3|  0|   1|  0|  0| 
-|Ryan McMahon     |3B        |      4|  3|   1|  0|  0| 
+|Ryan McMahon     |3B        |      6|  3|   1|  0|  0| 
 |Francisco Lindor |SS        |      1|  0|   0|  0|  0| 
-|Adam Frazier     |MI        |      3|  0|   2|  0|  0| 
+|Adam Frazier     |MI        |      5|  1|   2|  0|  0| 
 |Austin Riley     |CI        |      6|  1|   3|  1|  0| 
-|Bryce Harper     |OF        |      5|  2|   0|  0|  1| 
+|Bryce Harper     |OF        |      8|  2|   0|  0|  1| 
 |Mookie Betts     |OF        |      7|  5|   2|  1|  0| 
 |Nick Castellanos |OF        |      0|  1|   0|  0|  0| 
-|Shohei Ohtani    |OF        |      6|  1|   4|  1|  0| 
+|Shohei Ohtani    |OF        |      7|  1|   4|  1|  0| 
 |Alex Verdugo     |DH        |      4|  2|   0|  0|  1| 
 |Bobby Bradley    |DH        |      4|  0|   0|  0|  0| 
-|Cedric Mullins   |DH        |      4|  2|   0|  0|  0| 
+|Cedric Mullins   |DH        |      5|  2|   0|  0|  0| 
 |J.D. Davis       |DH        |      6|  3|   4|  2|  0| 
 |Brendan Rodgers  |BAT BENCH |      3|  2|   0|  0|  0| 
 |Gio Urshela      |BAT BENCH |     **| **|  **| **| **| 
@@ -30,15 +30,15 @@
  
 |players          |position    |  g|    ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:-----------|--:|-----:|--:|-----:|------:|-----:|--:|--:|--:| 
-|German Marquez   |SP          | **|    **| **|    **|     **|    **| **| **| **| 
-|James Kaprielian |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|German Marquez   |SP          |  1| 6.000|  4| 6.000|      9| 1.500|  5|  0|  0| 
+|James Kaprielian |SP          |  1| 6.000|  0| 0.000|      7| 1.167|  7|  1|  0| 
 |Julio Urias      |SP          |  1| 5.667|  4| 6.353|      8| 1.412|  3|  1|  0| 
-|Luis Garcia      |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Luis Garcia      |SP          |  1| 6.000|  0| 0.000|      3| 0.500|  8|  1|  0| 
 |Max Fried        |SP          |  1| 7.000|  0| 0.000|      5| 0.714|  7|  1|  0| 
 |Nick Pivetta     |SP          |  1| 6.667|  4| 5.400|     13| 1.950|  4|  1|  0| 
 |Josh Hader       |RP          |  1| 1.000|  0| 0.000|      1| 1.000|  1|  0|  0| 
-|Liam Hendriks    |RP          |  1| 1.000|  0| 0.000|      0| 0.000|  2|  0|  0| 
-|Anthony Bender   |OP          |  2| 2.000|  2| 9.000|      5| 2.500|  1|  0|  0| 
+|Liam Hendriks    |RP          |  2| 2.000|  0| 0.000|      1| 0.500|  4|  0|  0| 
+|Anthony Bender   |OP          |  3| 2.333|  2| 7.714|      7| 3.000|  1|  0|  0| 
 |Chris Flexen     |OP          |  1| 7.000|  1| 1.286|      7| 1.000|  2|  1|  0| 
 |Frankie Montas   |OP          |  1| 6.000|  2| 3.000|      7| 1.167|  7|  0|  0| 
 |Jon Gray         |OP          |  1| 7.000|  2| 2.571|      8| 1.143|  7|  0|  0| 
