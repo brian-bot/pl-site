@@ -2,21 +2,21 @@
 
 ## Period 6 scores
 
-Through games on 2021-07-21 ([website build status](https://github.com/brian-bot/pl-site/actions))
+Through games on 2021-07-22 ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 
 |team                                              | points|  r| hitsbb| hr| rbi| sb|  w| sv| so|   era|  whip|
 |:-------------------------------------------------|------:|--:|------:|--:|---:|--:|--:|--:|--:|-----:|-----:|
-|[Washington Generals](./washingtongenerals)       |   36.0| 34|     88| 14|  41|  1|  2|  2| 51| 4.404| 1.170|
-|[Overwhelming Underdogs](./overwhelmingunderdogs) |   49.0| 31|     88| 13|  37|  3|  2|  4| 59| 4.223| 1.073|
-|[Vass Deferens](./vassdeferens)                   |   74.5| 64|    123| 27|  67| 11|  2|  2| 46| 4.119| 1.085|
-|[Boys of Summer](./boysofsummer)                  |   43.5| 28|     83|  6|  21|  2|  7|  0| 62| 2.379| 1.123|
-|[Mean Wieners](./meanwieners)                     |   59.0| 48|     94| 14|  44|  2|  3|  2| 63| 3.682| 1.188|
-|[SYWA](./sywa)                                    |   50.5| 60|    120| 14|  42|  9|  2|  2| 48| 4.390| 1.488|
-|[Wonderbots](./wonderbots)                        |   58.0| 45|    106| 13|  52|  7|  3|  3| 54| 4.050| 1.305|
-|[Terminoeckers](./terminoeckers)                  |   57.0| 52|    108| 16|  56|  2|  1|  3| 56| 4.131| 1.213|
-|[T and A](./tanda)                                |   52.5| 37|     94| 16|  38|  2|  6|  3| 77| 4.500| 1.353|
-|[Nuclear Arms](./nucleararms)                     |   70.0| 56|    121| 20|  61|  8|  2|  5| 73| 4.709| 1.308|
+|[Washington Generals](./washingtongenerals)       |   49.0| 36|     97| 16|  46|  2|  2|  4| 62| 3.834| 1.101|
+|[Overwhelming Underdogs](./overwhelmingunderdogs) |   39.5| 32|     96| 14|  43|  3|  2|  4| 67| 4.455| 1.110|
+|[Vass Deferens](./vassdeferens)                   |   79.0| 69|    135| 28|  71| 11|  3|  2| 59| 3.818| 1.061|
+|[Boys of Summer](./boysofsummer)                  |   45.0| 32|     93|  6|  22|  3|  8|  0| 71| 2.455| 1.091|
+|[Mean Wieners](./meanwieners)                     |   49.0| 49|     98| 14|  45|  3|  3|  2| 72| 4.200| 1.267|
+|[SYWA](./sywa)                                    |   43.0| 63|    129| 14|  42| 12|  2|  3| 50| 4.605| 1.488|
+|[Wonderbots](./wonderbots)                        |   53.5| 49|    119| 14|  53|  7|  3|  4| 57| 4.095| 1.322|
+|[Terminoeckers](./terminoeckers)                  |   67.5| 57|    122| 17|  62|  2|  2|  6| 74| 3.522| 1.122|
+|[T and A](./tanda)                                |   50.0| 41|    104| 16|  42|  2|  8|  3| 86| 4.320| 1.333|
+|[Nuclear Arms](./nucleararms)                     |   74.5| 58|    132| 20|  64|  8|  3|  5| 81| 4.405| 1.279|
 
 * * *
 * * *
@@ -26,15 +26,15 @@ Through games on 2021-07-21 ([website build status](https://github.com/brian-bot
 
 |team                   |  w|  l|  t| points|
 |:----------------------|--:|--:|--:|------:|
-|T and A                |  5|  0|  0|  326.0|
-|Boys of Summer         |  4|  1|  0|  310.0|
+|T and A                |  5|  0|  0|  327.5|
+|Boys of Summer         |  4|  1|  0|  312.5|
 |Washington Generals    |  3|  2|  0|  339.0|
-|Mean Wieners           |  3|  2|  0|  323.5|
-|Overwhelming Underdogs |  3|  2|  0|  244.0|
-|Nuclear Arms           |  2|  3|  0|  241.5|
+|Mean Wieners           |  3|  2|  0|  314.5|
+|Overwhelming Underdogs |  3|  2|  0|  244.5|
+|Nuclear Arms           |  2|  3|  0|  242.5|
 |Wonderbots             |  2|  3|  0|  211.0|
-|Terminoeckers          |  1|  4|  0|  271.5|
-|Vass Deferens          |  1|  4|  0|  255.5|
-|SYWA                   |  1|  4|  0|  228.0|
+|Terminoeckers          |  1|  4|  0|  272.5|
+|Vass Deferens          |  1|  4|  0|  256.5|
+|SYWA                   |  1|  4|  0|  229.5|
 
 
