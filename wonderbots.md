@@ -6,22 +6,22 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Yadier Molina    |C         |      6|  2|   1|  0|  0| 
-|Jose Abreu       |1B        |      9|  5|   9|  3|  0| 
-|Jose Altuve      |2B        |      8|  5|   4|  3|  0| 
-|Ty France        |3B        |     10|  4|   6|  1|  0| 
-|Javier Baez      |SS        |     10|  4|   5|  0|  3| 
+|Jose Abreu       |1B        |     10|  5|   9|  3|  0| 
+|Jose Altuve      |2B        |      9|  7|   4|  3|  0| 
+|Ty France        |3B        |     13|  5|   6|  1|  0| 
+|Javier Baez      |SS        |     12|  6|   8|  1|  3| 
 |Didi Gregorius   |MI        |      7|  5|   1|  1|  0| 
-|Kris Bryant      |CI        |      3|  3|   2|  0|  0| 
-|Charlie Blackmon |OF        |      8|  4|   3|  1|  2| 
-|Dylan Carlson    |OF        |     10|  4|   7|  2|  0| 
+|Kris Bryant      |CI        |      5|  4|   2|  0|  0| 
+|Charlie Blackmon |OF        |     12|  7|   6|  2|  2| 
+|Dylan Carlson    |OF        |     11|  4|   8|  2|  0| 
 |George Springer  |OF        |      8|  5|   3|  2|  1| 
 |Jarred Kelenic   |OF        |      4|  0|   0|  0|  0| 
-|AJ Pollock       |DH        |      9|  3|   2|  1|  0| 
-|Andrew Vaughn    |DH        |      4|  2|   2|  0|  0| 
-|David Fletcher   |DH        |     11|  2|   6|  0|  1| 
-|Hunter Dozier    |DH        |     12|  1|   2|  0|  0| 
+|AJ Pollock       |DH        |     11|  3|   3|  1|  0| 
+|Andrew Vaughn    |DH        |      7|  3|   3|  1|  0| 
+|David Fletcher   |DH        |     13|  2|   6|  0|  1| 
+|Hunter Dozier    |DH        |     14|  2|   2|  0|  0| 
 |Anthony Rendon   |BAT BENCH |     **| **|  **| **| **| 
-|Justin Upton     |BAT BENCH |      0|  0|   0|  0|  0| 
+|Justin Upton     |BAT BENCH |      2|  0|   0|  0|  0| 
 
 * * *
 
