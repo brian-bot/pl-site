@@ -7,19 +7,19 @@
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Max Stassi       |C         |      4|  2|   1|  1|  0| 
 |Jared Walsh      |1B        |      5|  0|   1|  0|  0| 
-|DJ LeMahieu      |2B        |      8|  1|   1|  0|  1| 
-|Ryan McMahon     |3B        |     10|  4|   3|  0|  0| 
+|DJ LeMahieu      |2B        |      9|  1|   1|  0|  1| 
+|Ryan McMahon     |3B        |     12|  4|   3|  0|  0| 
 |Francisco Lindor |SS        |      1|  0|   0|  0|  0| 
-|Adam Frazier     |MI        |      9|  3|   3|  0|  0| 
-|Austin Riley     |CI        |     11|  3|   5|  1|  0| 
-|Bryce Harper     |OF        |     14|  3|   1|  0|  4| 
+|Adam Frazier     |MI        |     12|  5|   3|  0|  0| 
+|Austin Riley     |CI        |     14|  5|   7|  2|  0| 
+|Bryce Harper     |OF        |     17|  4|   1|  0|  5| 
 |Mookie Betts     |OF        |      7|  5|   2|  1|  0| 
 |Nick Castellanos |OF        |      0|  1|   0|  0|  0| 
-|Shohei Ohtani    |OF        |      7|  1|   4|  1|  0| 
+|Shohei Ohtani    |OF        |      9|  2|   4|  1|  0| 
 |Alex Verdugo     |DH        |      8|  4|   0|  0|  1| 
-|Bobby Bradley    |DH        |      6|  1|   0|  0|  0| 
-|Cedric Mullins   |DH        |      8|  4|   0|  0|  0| 
-|J.D. Davis       |DH        |      8|  3|   4|  2|  0| 
+|Bobby Bradley    |DH        |      7|  2|   1|  1|  0| 
+|Cedric Mullins   |DH        |     10|  5|   0|  0|  0| 
+|J.D. Davis       |DH        |      9|  3|   4|  2|  0| 
 |Brendan Rodgers  |BAT BENCH |      4|  2|   0|  0|  0| 
 |Gio Urshela      |BAT BENCH |     **| **|  **| **| **| 
 

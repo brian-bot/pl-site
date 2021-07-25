@@ -5,19 +5,19 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Christian Vazquez |C         |      4|  0|   1|  0|  0| 
+|Christian Vazquez |C         |      5|  0|   1|  0|  0| 
 |Alex Kirilloff    |1B        |      1|  0|   0|  0|  0| 
 |Max Muncy         |2B        |     12|  4|   7|  3|  0| 
-|Cavan Biggio      |3B        |      5|  2|   1|  1|  0| 
-|Dansby Swanson    |SS        |      6|  2|   6|  2|  0| 
-|Joey Wendle       |MI        |      7|  3|   3|  0|  0| 
-|Carlos Santana    |CI        |      7|  2|   2|  1|  0| 
-|Andrew McCutchen  |OF        |     11|  2|   4|  2|  0| 
-|Brian Goodwin     |OF        |      5|  1|   1|  0|  0| 
+|Cavan Biggio      |3B        |      6|  2|   1|  1|  0| 
+|Dansby Swanson    |SS        |     10|  3|   7|  2|  0| 
+|Joey Wendle       |MI        |     11|  3|   3|  0|  0| 
+|Carlos Santana    |CI        |      8|  3|   5|  2|  0| 
+|Andrew McCutchen  |OF        |     15|  3|   4|  2|  0| 
+|Brian Goodwin     |OF        |      7|  1|   1|  0|  0| 
 |Christian Yelich  |OF        |     10|  5|   4|  1|  1| 
-|Wil Myers         |OF        |     10|  5|   8|  2|  0| 
+|Wil Myers         |OF        |     11|  5|   8|  2|  0| 
 |Adam Engel        |DH        |      7|  1|   2|  0|  1| 
-|Jesse Winker      |DH        |      8|  3|   2|  0|  0| 
+|Jesse Winker      |DH        |     11|  4|   6|  1|  0| 
 |Jurickson Profar  |DH        |      7|  2|   3|  1|  0| 
 |Max Kepler        |DH        |      8|  4|   2|  2|  1| 
 |Alex Bregman      |BAT BENCH |     **| **|  **| **| **| 
@@ -34,7 +34,7 @@
 |:------------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Anthony DeSclafani |SP          |  2| 12.000|  6| 4.500|     12| 1.000| 11|  0|  0| 
 |Johnny Cueto       |SP          |  2| 10.000|  4| 3.600|      7| 0.700| 12|  0|  0| 
-|Jose Berrios       |SP          |  1|  6.000|  5| 7.500|      5| 0.833|  8|  0|  0| 
+|Jose Berrios       |SP          |  2| 13.000|  5| 3.462|      8| 0.615| 12|  0|  0| 
 |Patrick Corbin     |SP          |  2| 10.667| 10| 8.438|     20| 1.875|  7|  0|  0| 
 |Yusei Kikuchi      |SP          |  2| 11.000| 10| 8.182|     17| 1.545| 19|  0|  0| 
 |Zack Greinke       |SP          |  1|  5.333|  2| 3.375|      6| 1.125|  4|  1|  0| 
