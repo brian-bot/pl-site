@@ -11,15 +11,15 @@
 |Matt Chapman      |3B        |      8|  5|   1|  1|  1| 
 |Trevor Story      |SS        |      8|  3|   4|  1|  0| 
 |Brandon Crawford  |MI        |      3|  0|   0|  0|  0| 
-|Josh Donaldson    |CI        |     16|  3|   7|  2|  0| 
+|Josh Donaldson    |CI        |     19|  5|   9|  3|  0| 
 |Adolis Garcia     |OF        |      6|  1|   0|  0|  0| 
 |Joey Gallo        |OF        |      4|  3|   0|  0|  0| 
 |Ramon Laureano    |OF        |      9|  1|   6|  1|  0| 
 |Randy Arozarena   |OF        |     11|  8|   5|  3|  0| 
 |Adam Duvall       |DH        |     11|  4|   6|  3|  0| 
 |Jazz Chisholm Jr. |DH        |      4|  3|   0|  0|  0| 
-|Jorge Polanco     |DH        |     14|  5|   6|  2|  2| 
-|Randal Grichuk    |DH        |      5|  3|   6|  2|  0| 
+|Jorge Polanco     |DH        |     16|  6|   6|  2|  2| 
+|Randal Grichuk    |DH        |      6|  3|   6|  2|  0| 
 |Adalberto Mondesi |BAT BENCH |     **| **|  **| **| **| 
 |Jesus Aguilar     |BAT BENCH |     11|  2|   9|  2|  0| 
 |Kyle Schwarber    |BAT BENCH |     **| **|  **| **| **| 
@@ -38,12 +38,12 @@
 |Kyle Gibson         |SP       |  2| 11.000| 10|  8.182|     24| 2.182|  6|  0|  0| 
 |Lance McCullers Jr. |SP       |  2| 12.000|  5|  3.750|     12| 1.000| 18|  1|  0| 
 |Robbie Ray          |SP       |  2| 11.667|  4|  3.086|     12| 1.029| 12|  1|  0| 
-|Wade Miley          |SP       |  1|  6.333|  1|  1.421|      9| 1.421|  8|  1|  0| 
-|Brad Hand           |RP       |  4|  4.333|  4|  8.308|      8| 1.846|  4|  1|  1| 
+|Wade Miley          |SP       |  2| 10.667|  4|  3.375|     21| 1.969| 10|  1|  0| 
+|Brad Hand           |RP       |  5|  4.667|  7| 13.500|     11| 2.357|  5|  1|  1| 
 |Ryan Pressly        |RP       |  4|  4.000|  1|  2.250|      3| 0.750|  6|  0|  2| 
 |Ian Kennedy         |OP       |  1|  1.000|  0|  0.000|      2| 2.000|  1|  0|  0| 
 |Jake Odorizzi       |OP       |  2|  8.000|  7|  7.875|     16| 2.000|  7|  0|  0| 
-|Matt Barnes         |OP       |  3|  3.000|  0|  0.000|      1| 0.333|  2|  1|  2| 
+|Matt Barnes         |OP       |  4|  4.000|  0|  0.000|      1| 0.250|  2|  1|  3| 
 |Tarik Skubal        |OP       |  2| 11.000|  6|  4.909|      9| 0.818|  8|  1|  0| 
 |Zach Eflin          |OP       |  1|  3.667|  5| 12.273|      8| 2.182|  5|  0|  0| 
 

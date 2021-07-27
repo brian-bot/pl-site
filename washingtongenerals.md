@@ -5,19 +5,19 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto    |C         |      9|  4|   5|  2|  0| 
+|J.T. Realmuto    |C         |     10|  4|   5|  2|  1| 
 |Trey Mancini     |1B        |     15|  8|   4|  2|  0| 
-|Marcus Semien    |2B        |     11|  7|   5|  2|  0| 
+|Marcus Semien    |2B        |     12|  7|   6|  2|  0| 
 |Nolan Arenado    |3B        |     11|  7|   5|  3|  0| 
-|Carlos Correa    |SS        |      5|  2|   3|  0|  0| 
+|Carlos Correa    |SS        |      7|  4|   4|  0|  0| 
 |Jake Cronenworth |MI        |     11|  5|   7|  1|  0| 
-|C.J. Cron        |CI        |     11|  3|   7|  2|  0| 
-|Dominic Smith    |OF        |     12|  3|   7|  2|  0| 
+|C.J. Cron        |CI        |     12|  3|   7|  2|  0| 
+|Dominic Smith    |OF        |     13|  3|   7|  2|  0| 
 |Franmil Reyes    |OF        |      9|  4|   7|  3|  0| 
 |Mark Canha       |OF        |     12|  3|   1|  0|  1| 
-|Raimel Tapia     |OF        |      5|  2|   1|  0|  3| 
-|Joey Votto       |DH        |     18|  6|   8|  3|  0| 
-|Josh Bell        |DH        |      9|  3|   4|  3|  0| 
+|Raimel Tapia     |OF        |      6|  2|   1|  0|  3| 
+|Joey Votto       |DH        |     20|  7|  11|  4|  0| 
+|Josh Bell        |DH        |     11|  4|   6|  3|  0| 
 |Mike Trout       |DH        |     **| **|  **| **| **| 
 |Tommy Edman      |DH        |     12|  4|   3|  1|  1| 
 |Buster Posey     |BAT BENCH |      8|  4|   2|  1|  0| 

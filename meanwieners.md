@@ -6,16 +6,16 @@
 |players         |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------|:---------|------:|--:|---:|--:|--:| 
 |Omar Narvaez    |C         |      5|  0|   1|  0|  0| 
-|Rhys Hoskins    |1B        |     16|  6|   4|  1|  1| 
-|Whit Merrifield |2B        |     11|  6|   5|  0|  1| 
+|Rhys Hoskins    |1B        |     17|  7|   7|  2|  1| 
+|Whit Merrifield |2B        |     12|  6|   6|  0|  1| 
 |Eduardo Escobar |3B        |     12|  5|   5|  2|  0| 
 |Willy Adames    |SS        |     17|  7|   9|  2|  0| 
 |Luis Urias      |MI        |     12|  7|   3|  1|  0| 
-|Yuli Gurriel    |CI        |     12|  4|   5|  0|  0| 
+|Yuli Gurriel    |CI        |     13|  5|   5|  0|  0| 
 |Aaron Judge     |OF        |     **| **|  **| **| **| 
 |Jake Fraley     |OF        |     **| **|  **| **| **| 
-|Robbie Grossman |OF        |     13|  8|   4|  3|  1| 
-|Yordan Alvarez  |OF        |      9|  4|   7|  2|  0| 
+|Robbie Grossman |OF        |     14|  9|   6|  4|  1| 
+|Yordan Alvarez  |OF        |     11|  5|   8|  2|  0| 
 |Cody Bellinger  |DH        |      7|  5|   3|  0|  0| 
 |Luke Voit       |DH        |     **| **|  **| **| **| 
 |Mitch Haniger   |DH        |     15| 12|  10|  5|  0| 
@@ -37,13 +37,13 @@
 |Logan Gilbert     |SP          |  2|  8.000|  5|  5.625|     12| 1.500| 14|  1|  0| 
 |Logan Webb        |SP          |  2|  9.000|  3|  3.000|     12| 1.333|  7|  0|  0| 
 |Collin McHugh     |RP          |  2|  4.000|  0|  0.000|      4| 1.000|  5|  1|  0| 
-|Will Smith        |RP          |  2|  2.000|  0|  0.000|      1| 0.500|  3|  0|  1| 
+|Will Smith        |RP          |  3|  3.000|  0|  0.000|      2| 0.667|  3|  0|  2| 
 |Drew Steckenrider |OP          |  5|  5.000|  1|  1.800|      5| 1.000|  3|  0|  1| 
 |Joe Musgrove      |OP          |  2| 11.000|  6|  4.909|     17| 1.545|  7|  1|  0| 
 |Kenley Jansen     |OP          |  4|  3.000|  8| 24.000|     14| 4.667|  4|  0|  1| 
 |Kenta Maeda       |OP          |  2| 12.000|  6|  4.500|     11| 0.917| 14|  0|  0| 
 |Richard Rodriguez |OP          |  3|  3.000|  3|  9.000|      5| 1.667|  4|  0|  2| 
-|Joe Ross          |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
+|Joe Ross          |PITCH BENCH |  1|  5.000|  0|  0.000|      5| 1.000|  4|  0|  0| 
 |Jonathan Loaisiga |PITCH BENCH |  2|  1.000|  4| 36.000|      6| 6.000|  0|  0|  0| 
 |Shane Bieber      |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 
