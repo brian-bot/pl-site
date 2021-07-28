@@ -7,17 +7,17 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Christian Vazquez |C         |      8|  1|   2|  0|  0| 
 |Alex Kirilloff    |1B        |      1|  0|   0|  0|  0| 
-|Max Muncy         |2B        |     12|  4|   7|  3|  0| 
+|Max Muncy         |2B        |     13|  4|   7|  3|  0| 
 |Cavan Biggio      |3B        |      6|  2|   1|  1|  0| 
-|Dansby Swanson    |SS        |     12|  4|   7|  2|  0| 
+|Dansby Swanson    |SS        |     15|  5|   9|  2|  0| 
 |Joey Wendle       |MI        |     12|  3|   3|  0|  0| 
 |Carlos Santana    |CI        |      9|  4|   5|  2|  0| 
-|Andrew McCutchen  |OF        |     18|  5|   7|  3|  0| 
+|Andrew McCutchen  |OF        |     19|  6|   8|  4|  0| 
 |Brian Goodwin     |OF        |      8|  2|   1|  0|  0| 
 |Christian Yelich  |OF        |     10|  5|   4|  1|  1| 
-|Wil Myers         |OF        |     11|  5|   8|  2|  0| 
-|Adam Engel        |DH        |      9|  1|   3|  0|  1| 
-|Jesse Winker      |DH        |     18|  6|   6|  1|  0| 
+|Wil Myers         |OF        |     12|  5|   8|  2|  0| 
+|Adam Engel        |DH        |      9|  2|   3|  0|  1| 
+|Jesse Winker      |DH        |     19|  7|   7|  2|  0| 
 |Jurickson Profar  |DH        |      8|  2|   3|  1|  0| 
 |Max Kepler        |DH        |     11|  5|   4|  3|  1| 
 |Alex Bregman      |BAT BENCH |     **| **|  **| **| **| 
@@ -43,7 +43,7 @@
 |Devin Williams     |OP          | **|     **| **|    **|     **|    **| **| **| **| 
 |Eduardo Rodriguez  |OP          |  2|  6.667|  1| 1.350|      7| 1.050|  9|  1|  0| 
 |Freddy Peralta     |OP          |  1|  4.000|  0| 0.000|      3| 0.750|  5|  0|  0| 
-|Giovanny Gallegos  |OP          |  6|  5.667|  1| 1.588|      5| 0.882|  7|  0|  0| 
+|Giovanny Gallegos  |OP          |  7|  6.667|  1| 1.350|      6| 0.900|  8|  0|  0| 
 |Madison Bumgarner  |OP          |  2| 11.000|  2| 1.636|     10| 0.909|  7|  0|  0| 
 |Stephen Strasburg  |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 |Trevor Bauer       |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
