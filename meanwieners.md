@@ -5,22 +5,22 @@
  
 |players         |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------|:---------|------:|--:|---:|--:|--:| 
-|Omar Narvaez    |C         |      7|  2|   5|  1|  0| 
+|Omar Narvaez    |C         |      9|  3|   5|  1|  0| 
 |Rhys Hoskins    |1B        |     21|  8|   7|  2|  1| 
-|Whit Merrifield |2B        |     13|  6|   6|  0|  1| 
+|Whit Merrifield |2B        |     14|  6|   6|  0|  1| 
 |Eduardo Escobar |3B        |     13|  5|   5|  2|  0| 
-|Willy Adames    |SS        |     18|  9|   9|  2|  0| 
-|Luis Urias      |MI        |     14|  7|   3|  1|  0| 
-|Yuli Gurriel    |CI        |     16|  6|   5|  0|  0| 
-|Aaron Judge     |OF        |      1|  0|   0|  0|  0| 
+|Willy Adames    |SS        |     19|  9|   9|  2|  0| 
+|Luis Urias      |MI        |     16|  7|   5|  1|  0| 
+|Yuli Gurriel    |CI        |     19|  8|   8|  1|  0| 
+|Aaron Judge     |OF        |      2|  0|   1|  0|  1| 
 |Jake Fraley     |OF        |     **| **|  **| **| **| 
-|Robbie Grossman |OF        |     17| 10|   6|  4|  1| 
-|Yordan Alvarez  |OF        |     14|  7|  11|  3|  0| 
-|Cody Bellinger  |DH        |      8|  6|   3|  0|  0| 
+|Robbie Grossman |OF        |     20| 12|   7|  4|  1| 
+|Yordan Alvarez  |OF        |     15|  7|  11|  3|  0| 
+|Cody Bellinger  |DH        |      9|  7|   4|  1|  0| 
 |Luke Voit       |DH        |     **| **|  **| **| **| 
 |Mitch Haniger   |DH        |     16| 12|  10|  5|  0| 
 |Tyler O'Neill   |DH        |     13|  4|   3|  2|  1| 
-|Gleyber Torres  |BAT BENCH |     14|  5|   8|  3|  4| 
+|Gleyber Torres  |BAT BENCH |     16|  5|   8|  3|  4| 
 |Paul DeJong     |BAT BENCH |     14|  8|   5|  2|  0| 
 
 * * *
