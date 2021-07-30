@@ -5,22 +5,22 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Max Stassi       |C         |     11|  4|   6|  3|  0| 
+|Max Stassi       |C         |     12|  4|   6|  3|  0| 
 |Jared Walsh      |1B        |      7|  0|   2|  0|  0| 
 |DJ LeMahieu      |2B        |     14|  1|   3|  0|  1| 
 |Ryan McMahon     |3B        |     16|  6|   4|  0|  0| 
 |Francisco Lindor |SS        |      1|  0|   0|  0|  0| 
 |Adam Frazier     |MI        |     14|  7|   3|  0|  0| 
-|Austin Riley     |CI        |     24|  9|  15|  6|  0| 
-|Bryce Harper     |OF        |     25|  7|   3|  1|  5| 
+|Austin Riley     |CI        |     26| 10|  18|  7|  0| 
+|Bryce Harper     |OF        |     29|  7|   3|  1|  5| 
 |Mookie Betts     |OF        |      7|  5|   2|  1|  0| 
 |Nick Castellanos |OF        |      0|  1|   0|  0|  0| 
-|Shohei Ohtani    |OF        |     19|  7|  11|  4|  2| 
-|Alex Verdugo     |DH        |     14|  8|   3|  1|  1| 
+|Shohei Ohtani    |OF        |     22|  7|  11|  4|  3| 
+|Alex Verdugo     |DH        |     15|  8|   3|  1|  1| 
 |Bobby Bradley    |DH        |      7|  2|   2|  1|  0| 
-|Cedric Mullins   |DH        |     16|  7|   1|  1|  1| 
+|Cedric Mullins   |DH        |     18|  8|   1|  1|  1| 
 |J.D. Davis       |DH        |     13|  5|   4|  2|  0| 
-|Brendan Rodgers  |BAT BENCH |     12|  6|   3|  2|  0| 
+|Brendan Rodgers  |BAT BENCH |     13|  6|   3|  2|  0| 
 |Gio Urshela      |BAT BENCH |      4|  2|   3|  0|  0| 
 
 * * *
@@ -40,7 +40,7 @@
 |Liam Hendriks    |RP          |  5|  6.000|  1| 1.500|      3| 0.500|  8|  0|  2| 
 |Anthony Bender   |OP          |  6|  6.333|  3| 4.263|     10| 1.579|  6|  1|  0| 
 |Chris Flexen     |OP          |  3| 16.333| 10| 5.510|     24| 1.469|  6|  1|  0| 
-|Frankie Montas   |OP          |  2| 12.000|  5| 3.750|     12| 1.000| 17|  0|  0| 
+|Frankie Montas   |OP          |  3| 19.000|  5| 2.368|     18| 0.947| 27|  1|  0| 
 |Jon Gray         |OP          |  2| 12.000|  4| 3.000|     15| 1.250| 11|  0|  0| 
 |Kwang Hyun Kim   |OP          |  3| 14.667|  7| 4.295|     14| 0.955|  8|  2|  0| 
 |Taylor Rogers    |PITCH BENCH |  3|  2.667|  1| 3.375|      4| 1.500|  5|  0|  1| 

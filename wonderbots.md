@@ -9,17 +9,17 @@
 |Jose Abreu       |1B        |     14|  6|   9|  3|  0| 
 |Jose Altuve      |2B        |     18| 11|   5|  3|  0| 
 |Ty France        |3B        |     19| 10|   7|  1|  0| 
-|Javier Baez      |SS        |     13|  6|   9|  1|  3| 
+|Javier Baez      |SS        |     15|  6|   9|  1|  3| 
 |Didi Gregorius   |MI        |      9|  5|   2|  1|  0| 
 |Kris Bryant      |CI        |     14|  8|   5|  2|  0| 
-|Charlie Blackmon |OF        |     16|  7|   7|  2|  2| 
+|Charlie Blackmon |OF        |     18|  7|   7|  2|  2| 
 |Dylan Carlson    |OF        |     16|  7|  12|  4|  0| 
-|George Springer  |OF        |     16| 11|   5|  4|  1| 
+|George Springer  |OF        |     19| 13|   6|  4|  1| 
 |Jarred Kelenic   |OF        |     11|  3|   3|  0|  0| 
-|AJ Pollock       |DH        |     18|  4|   4|  1|  2| 
+|AJ Pollock       |DH        |     20|  4|   4|  1|  2| 
 |Andrew Vaughn    |DH        |     14|  5|   5|  1|  0| 
 |David Fletcher   |DH        |     18|  5|   6|  0|  1| 
-|Hunter Dozier    |DH        |     20|  4|   3|  0|  0| 
+|Hunter Dozier    |DH        |     21|  4|   4|  0|  0| 
 |Anthony Rendon   |BAT BENCH |     **| **|  **| **| **| 
 |Justin Upton     |BAT BENCH |      5|  2|   2|  1|  0| 
 
@@ -35,7 +35,7 @@
 |Kyle Hendricks  |SP          |  3| 16.667|  8|  4.320|     28| 1.680| 11|  1|  0| 
 |Lance Lynn      |SP          |  2| 13.000|  2|  1.385|     12| 0.923| 10|  1|  0| 
 |Rich Hill       |SP          |  2|  9.000|  6|  6.000|     15| 1.667|  5|  0|  0| 
-|Taijuan Walker  |SP          |  2|  4.333| 11| 22.846|     18| 4.154|  1|  0|  0| 
+|Taijuan Walker  |SP          |  3|  9.333| 16| 15.429|     26| 2.786|  8|  0|  0| 
 |Blake Treinen   |RP          |  6|  6.000|  0|  0.000|      2| 0.333|  5|  0|  0| 
 |Rafael Montero  |RP          |  2|  2.000|  4| 18.000|      7| 3.500|  2|  0|  0| 
 |Adam Wainwright |OP          |  3| 20.000|  7|  3.150|     18| 0.900| 20|  1|  0| 
