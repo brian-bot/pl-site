@@ -6,19 +6,19 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith        |C         |     19|  9|  16|  4|  1| 
-|Pete Alonso       |1B        |     26| 10|  13|  6|  0| 
+|Pete Alonso       |1B        |     28| 11|  14|  7|  0| 
 |Ozzie Albies      |2B        |     25| 13|   8|  2|  0| 
 |Yoan Moncada      |3B        |     18|  8|   7|  4|  0| 
 |Xander Bogaerts   |SS        |     14|  5|   4|  1|  0| 
 |Tim Anderson      |MI        |     16|  9|   5|  3|  2| 
 |Patrick Wisdom    |CI        |     22| 10|   6|  4|  1| 
-|Juan Soto         |OF        |     38| 16|  16|  7|  1| 
-|Mike Yastrzemski  |OF        |     17|  8|   9|  5|  1| 
-|Nelson Cruz       |OF        |     14|  7|   7|  3|  1| 
-|Ryan Mountcastle  |OF        |     16|  7|  10|  3|  1| 
+|Juan Soto         |OF        |     40| 16|  16|  7|  1| 
+|Mike Yastrzemski  |OF        |     19| 10|  11|  6|  1| 
+|Nelson Cruz       |OF        |     16|  7|   7|  3|  1| 
+|Ryan Mountcastle  |OF        |     19|  9|  11|  4|  1| 
 |Starling Marte    |DH        |     30| 11|   7|  1|  9| 
-|Steven Duggar     |DH        |     12|  4|   1|  1|  0| 
-|Teoscar Hernandez |DH        |     17| 11|  15|  5|  1| 
+|Steven Duggar     |DH        |     13|  4|   2|  1|  0| 
+|Teoscar Hernandez |DH        |     18| 11|  15|  5|  1| 
 |Wander Franco     |DH        |     23|  9|   7|  1|  0| 
 |Pavin Smith       |BAT BENCH |     17|  6|   4|  2|  0| 
 |Vidal Brujan      |BAT BENCH |      1|  2|   1|  0|  0| 
@@ -37,7 +37,7 @@
 |Sandy Alcantara |SP          |  3| 16.000|  6|  3.375|     17| 1.062| 18|  1|  0| 
 |Sean Manaea     |SP          |  3| 18.333|  4|  1.964|     15| 0.818| 29|  2|  0| 
 |Yu Darvish      |SP          |  3| 16.667| 11|  5.940|     19| 1.140| 17|  0|  0| 
-|Jordan Romano   |RP          |  4|  3.667|  3|  7.364|      3| 0.818|  4|  0|  2| 
+|Jordan Romano   |RP          |  5|  4.667|  3|  5.786|      4| 0.857|  5|  0|  2| 
 |Tyler Rogers    |RP          |  8|  7.000|  4|  5.143|      8| 1.143|  8|  1|  1| 
 |Brady Singer    |OP          |  1|  2.000|  7| 31.500|      9| 4.500|  1|  0|  0| 
 |Casey Mize      |OP          |  3| 15.667|  4|  2.298|     14| 0.894| 10|  1|  0| 

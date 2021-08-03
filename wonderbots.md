@@ -8,17 +8,17 @@
 |Yadier Molina    |C         |     12|  2|   2|  0|  1| 
 |Jose Abreu       |1B        |     17|  6|  12|  3|  0| 
 |Jose Altuve      |2B        |     22| 15|  10|  5|  0| 
-|Ty France        |3B        |     21| 13|   8|  2|  0| 
-|Javier Baez      |SS        |     16|  7|  11|  2|  3| 
-|Didi Gregorius   |MI        |     13|  6|   5|  1|  0| 
-|Kris Bryant      |CI        |     15|  9|   6|  3|  0| 
+|Ty France        |3B        |     24| 15|  11|  3|  0| 
+|Javier Baez      |SS        |     18|  8|  11|  2|  3| 
+|Didi Gregorius   |MI        |     14|  6|   5|  1|  0| 
+|Kris Bryant      |CI        |     17| 10|   6|  3|  0| 
 |Charlie Blackmon |OF        |     21|  8|   8|  2|  2| 
 |Dylan Carlson    |OF        |     20|  8|  13|  4|  1| 
-|George Springer  |OF        |     27| 16|  11|  6|  1| 
-|Jarred Kelenic   |OF        |     16|  5|   7|  1|  0| 
+|George Springer  |OF        |     29| 17|  11|  6|  1| 
+|Jarred Kelenic   |OF        |     18|  5|   8|  1|  0| 
 |AJ Pollock       |DH        |     27|  7|   7|  1|  3| 
 |Andrew Vaughn    |DH        |     18|  6|   6|  1|  0| 
-|David Fletcher   |DH        |     22|  6|   6|  0|  1| 
+|David Fletcher   |DH        |     23|  6|   6|  0|  1| 
 |Hunter Dozier    |DH        |     23|  5|   4|  0|  1| 
 |Anthony Rendon   |BAT BENCH |     **| **|  **| **| **| 
 |Justin Upton     |BAT BENCH |      8|  2|   2|  1|  0| 
@@ -39,7 +39,7 @@
 |Blake Treinen   |RP          |  8|  8.000|  0|  0.000|      3| 0.375|  7|  0|  0| 
 |Rafael Montero  |RP          |  3|  3.333|  4| 10.800|      8| 2.400|  3|  0|  0| 
 |Adam Wainwright |OP          |  4| 27.000| 10|  3.333|     25| 0.926| 25|  2|  0| 
-|Emmanuel Clase  |OP          |  7|  7.000|  2|  2.571|      5| 0.714|  6|  0|  2| 
+|Emmanuel Clase  |OP          |  8|  8.000|  2|  2.250|      5| 0.625|  6|  0|  3| 
 |Gregory Soto    |OP          |  7|  7.667|  2|  2.348|      9| 1.174| 10|  0|  4| 
 |Jameson Taillon |OP          |  3| 18.000|  1|  0.500|     20| 1.111| 12|  3|  0| 
 |Marco Gonzales  |OP          |  3| 16.667|  5|  2.700|     21| 1.260| 11|  2|  0| 

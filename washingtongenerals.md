@@ -5,24 +5,24 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto    |C         |     18|  9|  12|  3|  2| 
+|J.T. Realmuto    |C         |     21| 10|  14|  3|  2| 
 |Trey Mancini     |1B        |     21| 10|   5|  3|  0| 
-|Marcus Semien    |2B        |     19| 10|  10|  3|  0| 
+|Marcus Semien    |2B        |     20| 10|  10|  3|  0| 
 |Nolan Arenado    |3B        |     19|  8|   6|  3|  0| 
 |Carlos Correa    |SS        |     16|  7|   6|  0|  0| 
 |Jake Cronenworth |MI        |     20| 11|  15|  3|  0| 
 |C.J. Cron        |CI        |     14|  4|   8|  2|  1| 
-|Dominic Smith    |OF        |     19|  3|   9|  2|  0| 
-|Franmil Reyes    |OF        |     18|  8|  13|  6|  1| 
+|Dominic Smith    |OF        |     20|  3|   9|  2|  0| 
+|Franmil Reyes    |OF        |     19|  9|  13|  6|  1| 
 |Mark Canha       |OF        |     22|  7|   4|  0|  3| 
 |Raimel Tapia     |OF        |     17|  6|   4|  0|  4| 
 |Joey Votto       |DH        |     31| 14|  19| 10|  0| 
-|Josh Bell        |DH        |     18|  8|  13|  5|  0| 
+|Josh Bell        |DH        |     19|  8|  13|  5|  0| 
 |Mike Trout       |DH        |     **| **|  **| **| **| 
 |Tommy Edman      |DH        |     18|  6|   6|  1|  2| 
-|Buster Posey     |BAT BENCH |     16|  8|   4|  1|  0| 
+|Buster Posey     |BAT BENCH |     19| 10|   6|  1|  0| 
 |Jed Lowrie       |BAT BENCH |     17|  4|  11|  1|  0| 
-|Manuel Margot    |BAT BENCH |      3|  0|   1|  0|  1| 
+|Manuel Margot    |BAT BENCH |      4|  0|   1|  0|  1| 
 
 * * *
 
@@ -42,7 +42,7 @@
 |Chris Bassitt   |OP          |  3| 19.000|  7| 3.316|     21| 1.105| 21|  1|  0| 
 |Cristian Javier |OP          |  5|  6.667|  1| 1.350|     10| 1.500| 10|  0|  0| 
 |Michael Kopech  |OP          |  6|  7.000|  6| 7.714|     12| 1.714|  9|  0|  0| 
-|Ranger Suarez   |OP          |  6|  5.333|  2| 3.375|      9| 1.688|  7|  1|  2| 
+|Ranger Suarez   |OP          |  7|  8.333|  2| 2.160|     10| 1.200|  8|  1|  2| 
 |Sonny Gray      |OP          |  3| 14.000| 14| 9.000|     25| 1.786| 16|  1|  0| 
 |Adbert Alzolay  |PITCH BENCH |  4| 21.000| 13| 5.571|     32| 1.524| 18|  0|  0| 
 |David Bednar    |PITCH BENCH |  6|  6.000|  1| 1.500|      7| 1.167|  8|  0|  0| 

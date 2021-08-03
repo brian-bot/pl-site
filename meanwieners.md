@@ -5,22 +5,22 @@
  
 |players         |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------|:---------|------:|--:|---:|--:|--:| 
-|Omar Narvaez    |C         |     10|  4|   6|  1|  0| 
+|Omar Narvaez    |C         |     12|  6|   6|  1|  0| 
 |Rhys Hoskins    |1B        |     23|  9|   8|  3|  1| 
 |Whit Merrifield |2B        |     19|  6|   6|  0|  3| 
-|Eduardo Escobar |3B        |     16|  7|   6|  3|  0| 
+|Eduardo Escobar |3B        |     20|  9|  10|  4|  0| 
 |Willy Adames    |SS        |     26| 13|  12|  4|  0| 
 |Luis Urias      |MI        |     19|  7|   5|  1|  0| 
 |Yuli Gurriel    |CI        |     26| 10|  12|  2|  0| 
 |Aaron Judge     |OF        |      7|  1|   2|  0|  1| 
-|Jake Fraley     |OF        |     **| **|  **| **| **| 
+|Jake Fraley     |OF        |      3|  1|   2|  0|  1| 
 |Robbie Grossman |OF        |     24| 14|   8|  4|  1| 
 |Yordan Alvarez  |OF        |     17|  8|  11|  3|  0| 
 |Cody Bellinger  |DH        |     11|  8|   4|  1|  0| 
 |Luke Voit       |DH        |     **| **|  **| **| **| 
-|Mitch Haniger   |DH        |     21| 13|  11|  5|  1| 
+|Mitch Haniger   |DH        |     24| 14|  11|  5|  1| 
 |Tyler O'Neill   |DH        |     16|  7|   3|  2|  2| 
-|Gleyber Torres  |BAT BENCH |     18|  6|   8|  3|  4| 
+|Gleyber Torres  |BAT BENCH |     20|  7|   8|  3|  4| 
 |Paul DeJong     |BAT BENCH |     14|  8|   5|  2|  0| 
 
 * * *

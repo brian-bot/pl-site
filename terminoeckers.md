@@ -11,12 +11,12 @@
 |Rafael Devers     |3B        |     25|  9|  10|  5|  0| 
 |Bo Bichette       |SS        |     22| 10|  14|  3|  4| 
 |Jonathan Schoop   |MI        |     24| 12|   9|  1|  0| 
-|Kyle Seager       |CI        |     26| 11|  15|  6|  0| 
+|Kyle Seager       |CI        |     28| 12|  16|  6|  0| 
 |Austin Meadows    |OF        |     19|  9|  18|  4|  0| 
-|Giancarlo Stanton |OF        |     18|  5|   4|  1|  0| 
+|Giancarlo Stanton |OF        |     19|  5|   4|  1|  0| 
 |J.D. Martinez     |OF        |     16|  8|   4|  2|  0| 
 |Tommy Pham        |OF        |     20| 14|   5|  2|  1| 
-|Avisail Garcia    |DH        |     19| 10|   8|  2|  0| 
+|Avisail Garcia    |DH        |     20| 10|   8|  2|  1| 
 |Garrett Cooper    |DH        |      2|  1|   1|  0|  0| 
 |Hunter Renfroe    |DH        |     16|  7|  11|  3|  0| 
 |Ke'Bryan Hayes    |DH        |     16|  3|   3|  0|  0| 
@@ -32,7 +32,7 @@
  
 |players           |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Andrew Heaney     |SP          |  3| 17.000|  9| 4.765|     19| 1.118| 19|  1|  0| 
+|Andrew Heaney     |SP          |  4| 21.000| 13| 5.571|     25| 1.190| 23|  1|  0| 
 |Dylan Cease       |SP          |  3| 16.667|  8| 4.320|     24| 1.440| 21|  0|  0| 
 |Jacob deGrom      |SP          | **|     **| **|    **|     **|    **| **| **| **| 
 |Max Scherzer      |SP          |  2| 13.000|  5| 3.462|     13| 1.000| 13|  1|  0| 
@@ -44,7 +44,7 @@
 |Kyle Muller       |OP          |  3| 14.000|  2| 1.286|     17| 1.214| 13|  1|  0| 
 |Lou Trivino       |OP          |  5|  5.667|  2| 3.176|      7| 1.235|  4|  0|  3| 
 |Steven Matz       |OP          |  3| 14.000|  6| 3.857|     20| 1.429|  9|  1|  0| 
-|Tylor Megill      |OP          |  3| 17.333|  1| 0.519|     16| 0.923| 13|  1|  0| 
+|Tylor Megill      |OP          |  4| 22.333|  5| 2.015|     22| 0.985| 17|  1|  0| 
 |Chris Paddack     |PITCH BENCH |  3| 16.000|  7| 3.938|     19| 1.188|  9|  3|  0| 
 |Domingo German    |PITCH BENCH |  4| 16.000|  5| 2.812|     13| 0.812| 20|  0|  0| 
 
