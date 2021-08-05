@@ -6,22 +6,22 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Yadier Molina    |C         |     14|  2|   3|  0|  1| 
-|Jose Abreu       |1B        |     18|  6|  14|  3|  0| 
+|Jose Abreu       |1B        |     19|  7|  15|  4|  0| 
 |Jose Altuve      |2B        |     25| 15|  10|  5|  0| 
 |Ty France        |3B        |     25| 15|  11|  3|  0| 
-|Javier Baez      |SS        |     18|  8|  11|  2|  3| 
-|Didi Gregorius   |MI        |     14|  6|   5|  1|  0| 
-|Kris Bryant      |CI        |     17| 10|   6|  3|  0| 
+|Javier Baez      |SS        |     20| 10|  12|  3|  3| 
+|Didi Gregorius   |MI        |     15|  7|   7|  2|  0| 
+|Kris Bryant      |CI        |     18| 10|   6|  3|  0| 
 |Charlie Blackmon |OF        |     21|  8|   8|  2|  2| 
-|Dylan Carlson    |OF        |     21|  8|  13|  4|  1| 
-|George Springer  |OF        |     31| 19|  13|  7|  1| 
+|Dylan Carlson    |OF        |     22|  9|  13|  4|  1| 
+|George Springer  |OF        |     35| 21|  16|  8|  1| 
 |Jarred Kelenic   |OF        |     19|  6|   9|  2|  0| 
-|AJ Pollock       |DH        |     28|  7|   7|  1|  3| 
-|Andrew Vaughn    |DH        |     20|  8|   7|  2|  0| 
-|David Fletcher   |DH        |     25|  7|   6|  0|  3| 
+|AJ Pollock       |DH        |     30|  8|   9|  2|  3| 
+|Andrew Vaughn    |DH        |     23|  8|   7|  2|  0| 
+|David Fletcher   |DH        |     26|  7|   6|  0|  3| 
 |Hunter Dozier    |DH        |     24|  6|   4|  0|  1| 
 |Anthony Rendon   |BAT BENCH |     **| **|  **| **| **| 
-|Justin Upton     |BAT BENCH |     10|  4|   2|  1|  0| 
+|Justin Upton     |BAT BENCH |     12|  4|   2|  1|  0| 
 
 * * *
 
@@ -37,11 +37,11 @@
 |Rich Hill       |SP          |  3| 14.000| 10|  6.429|     21| 1.500|  9|  0|  0| 
 |Taijuan Walker  |SP          |  4| 15.000| 20| 12.000|     36| 2.400| 12|  0|  0| 
 |Blake Treinen   |RP          |  9|  9.000|  0|  0.000|      4| 0.444|  8|  0|  0| 
-|Rafael Montero  |RP          |  3|  3.333|  4| 10.800|      8| 2.400|  3|  0|  0| 
+|Rafael Montero  |RP          |  4|  5.333|  4|  6.750|     10| 1.875|  4|  0|  0| 
 |Adam Wainwright |OP          |  4| 27.000| 10|  3.333|     25| 0.926| 25|  2|  0| 
 |Emmanuel Clase  |OP          |  8|  8.000|  2|  2.250|      5| 0.625|  6|  0|  3| 
 |Gregory Soto    |OP          |  8|  8.667|  2|  2.077|     10| 1.154| 12|  0|  5| 
-|Jameson Taillon |OP          |  3| 18.000|  1|  0.500|     20| 1.111| 12|  3|  0| 
+|Jameson Taillon |OP          |  4| 24.333|  3|  1.110|     25| 1.027| 22|  3|  0| 
 |Marco Gonzales  |OP          |  3| 16.667|  5|  2.700|     21| 1.260| 11|  2|  0| 
 |Austin Gomber   |PITCH BENCH |  3| 13.000|  9|  6.231|     17| 1.308| 13|  2|  0| 
 |Corey Kluber    |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 

@@ -7,20 +7,20 @@
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Max Stassi       |C         |     19|  7|   8|  4|  0| 
 |Jared Walsh      |1B        |      7|  0|   2|  0|  0| 
-|DJ LeMahieu      |2B        |     17|  3|   4|  0|  1| 
-|Ryan McMahon     |3B        |     23| 10|   8|  1|  0| 
+|DJ LeMahieu      |2B        |     20|  4|   8|  0|  1| 
+|Ryan McMahon     |3B        |     26| 10|   8|  1|  0| 
 |Francisco Lindor |SS        |      1|  0|   0|  0|  0| 
-|Adam Frazier     |MI        |     17| 10|   3|  0|  0| 
-|Austin Riley     |CI        |     34| 14|  21|  8|  0| 
-|Bryce Harper     |OF        |     41| 12|   5|  2|  5| 
-|Mookie Betts     |OF        |     12|  7|   3|  2|  0| 
+|Adam Frazier     |MI        |     18| 10|   4|  0|  0| 
+|Austin Riley     |CI        |     35| 15|  21|  8|  0| 
+|Bryce Harper     |OF        |     44| 14|   7|  2|  5| 
+|Mookie Betts     |OF        |     14|  9|   5|  4|  0| 
 |Nick Castellanos |OF        |      0|  1|   0|  0|  0| 
 |Shohei Ohtani    |OF        |     26|  9|  12|  4|  3| 
-|Alex Verdugo     |DH        |     18|  9|   3|  1|  1| 
-|Bobby Bradley    |DH        |      9|  2|   3|  1|  0| 
-|Cedric Mullins   |DH        |     26| 11|   2|  2|  4| 
-|J.D. Davis       |DH        |     17|  7|   5|  2|  0| 
-|Brendan Rodgers  |BAT BENCH |     19|  9|   6|  4|  0| 
+|Alex Verdugo     |DH        |     20|  9|   3|  1|  1| 
+|Bobby Bradley    |DH        |     10|  3|   3|  1|  0| 
+|Cedric Mullins   |DH        |     28| 12|   2|  2|  4| 
+|J.D. Davis       |DH        |     18|  7|   5|  2|  0| 
+|Brendan Rodgers  |BAT BENCH |     22| 10|   7|  4|  0| 
 |Gio Urshela      |BAT BENCH |      5|  2|   3|  0|  0| 
 
 * * *
@@ -40,8 +40,8 @@
 |Liam Hendriks    |RP          |  7|  8.000|  1| 1.125|      4| 0.500| 12|  1|  3| 
 |Anthony Bender   |OP          | 10|  9.000|  3| 3.000|     11| 1.222| 10|  1|  0| 
 |Chris Flexen     |OP          |  4| 23.000| 12| 4.696|     33| 1.435| 12|  2|  0| 
-|Frankie Montas   |OP          |  3| 19.000|  5| 2.368|     18| 0.947| 27|  1|  0| 
-|Jon Gray         |OP          |  3| 18.333|  6| 2.945|     22| 1.200| 15|  1|  0| 
+|Frankie Montas   |OP          |  4| 25.000|  8| 2.880|     26| 1.040| 35|  1|  0| 
+|Jon Gray         |OP          |  4| 24.333|  9| 3.329|     31| 1.274| 21|  1|  0| 
 |Kwang Hyun Kim   |OP          |  3| 14.667|  7| 4.295|     14| 0.955|  8|  2|  0| 
 |Taylor Rogers    |PITCH BENCH |  3|  2.667|  1| 3.375|      4| 1.500|  5|  0|  1| 
 |Zach Plesac      |PITCH BENCH |  4| 22.667| 14| 5.559|     33| 1.456| 10|  2|  0| 

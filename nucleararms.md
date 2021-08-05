@@ -5,23 +5,23 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez      |C         |     19|  8|  13|  5|  1| 
-|Paul Goldschmidt    |1B        |     24|  8|   8|  4|  2| 
-|Jean Segura         |2B        |     27| 11|  12|  3|  1| 
-|Manny Machado       |3B        |     27| 15|  15|  5|  0| 
+|Salvador Perez      |C         |     21|  9|  15|  6|  1| 
+|Paul Goldschmidt    |1B        |     25|  9|   9|  4|  2| 
+|Jean Segura         |2B        |     29| 12|  13|  3|  1| 
+|Manny Machado       |3B        |     28| 15|  15|  5|  0| 
 |Trea Turner         |SS        |     17| 10|   7|  1|  2| 
-|Jeff McNeil         |MI        |     23|  9|  11|  3|  1| 
-|Jeimer Candelario   |CI        |     31| 10|  12|  2|  0| 
-|Chris Taylor        |OF        |     26| 15|  14|  7|  2| 
-|Kyle Tucker         |OF        |     23|  6|  15|  5|  2| 
+|Jeff McNeil         |MI        |     25|  9|  11|  3|  1| 
+|Jeimer Candelario   |CI        |     33| 10|  12|  2|  0| 
+|Chris Taylor        |OF        |     28| 16|  14|  7|  2| 
+|Kyle Tucker         |OF        |     26|  7|  18|  6|  3| 
 |Lourdes Gurriel Jr. |OF        |     17|  6|   6|  1|  0| 
-|Michael Brantley    |OF        |     24| 12|   5|  1|  1| 
-|Bryan Reynolds      |DH        |     25| 11|  10|  2|  0| 
-|Cesar Hernandez     |DH        |     23|  8|   9|  3|  0| 
+|Michael Brantley    |OF        |     26| 13|   6|  2|  1| 
+|Bryan Reynolds      |DH        |     29| 13|  10|  2|  0| 
+|Cesar Hernandez     |DH        |     24|  8|   9|  3|  0| 
 |Justin Turner       |DH        |     21| 11|  15|  5|  0| 
-|Alec Bohm           |BAT BENCH |     18|  4|   5|  1|  0| 
+|Alec Bohm           |BAT BENCH |     19|  4|   5|  1|  0| 
 |Andrew Benintendi   |BAT BENCH |     12|  7|   3|  1|  1| 
-|Ketel Marte         |BAT BENCH |      3|  2|   0|  0|  0| 
+|Ketel Marte         |BAT BENCH |      4|  2|   0|  0|  0| 
 
 
 * * *
