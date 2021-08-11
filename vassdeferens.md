@@ -5,23 +5,22 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |     22| 10|  19|  5|  1| 
-|Pete Alonso       |1B        |     31| 12|  14|  7|  1| 
-|Ozzie Albies      |2B        |     27| 14|   8|  2|  0| 
-|Yoan Moncada      |3B        |     19|  9|   7|  4|  0| 
-|Xander Bogaerts   |SS        |     19|  6|   4|  1|  0| 
-|Tim Anderson      |MI        |     20| 11|   8|  4|  2| 
-|Patrick Wisdom    |CI        |     26| 10|   9|  4|  1| 
-|Juan Soto         |OF        |     41| 16|  16|  7|  1| 
-|Mike Yastrzemski  |OF        |     19| 10|  11|  6|  1| 
-|Nelson Cruz       |OF        |     16|  7|   7|  3|  1| 
-|Ryan Mountcastle  |OF        |     22| 10|  14|  5|  1| 
-|Starling Marte    |DH        |     34| 13|   8|  2| 10| 
-|Steven Duggar     |DH        |     13|  4|   2|  1|  0| 
-|Teoscar Hernandez |DH        |     22| 13|  18|  6|  1| 
-|Wander Franco     |DH        |     25|  9|   7|  1|  0| 
-|Pavin Smith       |BAT BENCH |     17|  6|   4|  2|  0| 
-|Vidal Brujan      |BAT BENCH |      1|  2|   1|  0|  0| 
+|Will Smith        |C         |      5|  2|   1|  0|  0| 
+|Pete Alonso       |1B        |      5|  1|   0|  0|  0| 
+|Ozzie Albies      |2B        |      6|  3|   3|  1|  0| 
+|Yoan Moncada      |3B        |      8|  4|   3|  1|  1| 
+|Xander Bogaerts   |SS        |      6|  3|   1|  0|  0| 
+|Tim Anderson      |MI        |      8|  4|   4|  2|  0| 
+|Patrick Wisdom    |CI        |      6|  4|   3|  1|  0| 
+|Juan Soto         |OF        |      5|  3|   0|  0|  0| 
+|Mike Yastrzemski  |OF        |      3|  1|   2|  0|  0| 
+|Nelson Cruz       |OF        |      6|  4|   7|  2|  0| 
+|Ryan Mountcastle  |OF        |      1|  0|   1|  0|  0| 
+|Starling Marte    |DH        |      9|  4|   5|  1|  3| 
+|Steven Duggar     |DH        |      0|  1|   0|  0|  0| 
+|Teoscar Hernandez |DH        |     10|  4|   7|  0|  0| 
+|Wander Franco     |DH        |      6|  4|   5|  1|  0| 
+|Pavin Smith       |BAT BENCH |      5|  2|   4|  0|  0| 
 
 
 * * *
@@ -29,23 +28,24 @@
 ### Pitchers
 
  
-|players         |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
-|:---------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Drew Smyly      |SP          |  4| 17.667|  9|  4.585|     29| 1.642| 17|  0|  0| 
-|Hyun Jin Ryu    |SP          |  4| 24.333|  5|  1.849|     24| 0.986| 21|  3|  0| 
-|Marcus Stroman  |SP          |  4| 23.667|  8|  3.042|     28| 1.183| 18|  1|  0| 
-|Sandy Alcantara |SP          |  3| 16.000|  6|  3.375|     17| 1.062| 18|  1|  0| 
-|Sean Manaea     |SP          |  4| 22.667|  9|  3.574|     23| 1.015| 33|  2|  0| 
-|Yu Darvish      |SP          |  3| 16.667| 11|  5.940|     19| 1.140| 17|  0|  0| 
-|Jordan Romano   |RP          |  6|  5.667|  5|  7.941|      7| 1.235|  8|  0|  2| 
-|Tyler Rogers    |RP          |  8|  7.000|  4|  5.143|      8| 1.143|  8|  1|  1| 
-|Brady Singer    |OP          |  1|  2.000|  7| 31.500|      9| 4.500|  1|  0|  0| 
-|Casey Mize      |OP          |  4| 20.667|  8|  3.484|     22| 1.065| 13|  1|  0| 
-|Greg Holland    |OP          |  7|  6.667|  3|  4.050|      6| 0.900|  7|  0|  2| 
-|Heath Hembree   |OP          |  9|  8.333|  7|  7.560|     10| 1.200| 12|  0|  2| 
-|Zach Thompson   |OP          |  4| 18.667|  6|  2.893|     23| 1.232| 12|  0|  0| 
-|Ian Anderson    |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Yimi Garcia     |PITCH BENCH |  5|  4.333|  2|  4.154|      3| 0.692|  3|  0|  2| 
+|players          |position    |  g|    ip| er|    era| hitsbb|  whip| so|  w| sv| 
+|:----------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
+|Drew Smyly       |SP          |  1| 6.000|  2|  3.000|      4| 0.667|  7|  1|  0| 
+|Hyun Jin Ryu     |SP          |  1| 3.667|  7| 17.182|     11| 3.000|  1|  0|  0| 
+|Marcus Stroman   |SP          |  1| 5.000|  2|  3.600|      6| 1.200|  5|  0|  0| 
+|Sandy Alcantara  |SP          |  1| 3.667| 10| 24.545|     12| 3.273|  1|  0|  0| 
+|Sean Manaea      |SP          |  1| 1.667|  3| 16.200|      8| 4.800|  2|  0|  0| 
+|Yu Darvish       |SP          |  1| 7.000|  2|  2.571|      4| 0.571| 12|  0|  0| 
+|Jordan Romano    |RP          |  3| 3.000|  0|  0.000|      3| 1.000|  6|  1|  1| 
+|Tyler Rogers     |RP          |  4| 4.000|  0|  0.000|      3| 0.750|  1|  1|  0| 
+|Casey Mize       |OP          |  1| 4.333|  3|  6.231|      6| 1.385|  4|  0|  0| 
+|Greg Holland     |OP          |  4| 3.000|  5| 15.000|      7| 2.333|  1|  0|  0| 
+|Heath Hembree    |OP          |  2| 1.333|  1|  6.750|      3| 2.250|  2|  0|  0| 
+|Manuel Rodriguez |OP          |  3| 2.000|  2|  9.000|      5| 2.500|  1|  0|  0| 
+|Zach Thompson    |OP          |  1| 4.000|  4|  9.000|      8| 2.000|  2|  0|  0| 
+|Brady Singer     |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Ian Anderson     |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Yimi Garcia      |PITCH BENCH |  3| 2.000|  0|  0.000|      1| 0.500|  4|  0|  0| 
 
 
 * * *

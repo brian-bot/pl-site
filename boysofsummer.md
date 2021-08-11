@@ -5,46 +5,46 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Max Stassi       |C         |     19|  7|   8|  4|  0| 
-|Jared Walsh      |1B        |      7|  0|   2|  0|  0| 
-|DJ LeMahieu      |2B        |     20|  4|   8|  0|  1| 
-|Ryan McMahon     |3B        |     26| 10|   8|  1|  0| 
-|Francisco Lindor |SS        |      1|  0|   0|  0|  0| 
-|Adam Frazier     |MI        |     18| 10|   4|  0|  0| 
-|Austin Riley     |CI        |     35| 15|  21|  8|  0| 
-|Bryce Harper     |OF        |     44| 14|   7|  2|  5| 
-|Mookie Betts     |OF        |     14|  9|   5|  4|  0| 
-|Nick Castellanos |OF        |      0|  1|   0|  0|  0| 
-|Shohei Ohtani    |OF        |     26|  9|  12|  4|  3| 
-|Alex Verdugo     |DH        |     20|  9|   3|  1|  1| 
-|Bobby Bradley    |DH        |     10|  3|   3|  1|  0| 
-|Cedric Mullins   |DH        |     28| 12|   2|  2|  4| 
-|J.D. Davis       |DH        |     18|  7|   5|  2|  0| 
-|Brendan Rodgers  |BAT BENCH |     22| 10|   7|  4|  0| 
-|Gio Urshela      |BAT BENCH |      5|  2|   3|  0|  0| 
+|Max Stassi       |C         |      4|  0|   1|  0|  0| 
+|DJ LeMahieu      |1B        |     10|  1|   2|  0|  0| 
+|Adam Frazier     |2B        |     10|  4|   0|  0|  1| 
+|Austin Riley     |3B        |      6|  4|   5|  1|  0| 
+|Brendan Rodgers  |SS        |      5|  4|   1|  0|  0| 
+|Ryan McMahon     |MI        |      7|  4|   3|  1|  0| 
+|J.D. Davis       |CI        |      4|  0|   0|  0|  0| 
+|Bryce Harper     |OF        |      5|  4|   4|  3|  0| 
+|Mookie Betts     |OF        |      3|  1|   1|  0|  0| 
+|Nick Castellanos |OF        |      6|  3|   3|  1|  0| 
+|Shohei Ohtani    |OF        |      6|  1|   0|  0|  1| 
+|Alex Verdugo     |DH        |      8|  2|   2|  1|  0| 
+|Cedric Mullins   |DH        |      6|  5|   3|  2|  1| 
+|Harrison Bader   |DH        |      5|  1|   1|  0|  0| 
+|Jo Adell         |DH        |      5|  2|   1|  0|  0| 
+|Francisco Lindor |BAT BENCH |     **| **|  **| **| **| 
+|Jared Walsh      |BAT BENCH |     **| **|  **| **| **| 
 
 * * *
 
 ### Pitchers
 
  
-|players          |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
-|:----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|German Marquez   |SP          |  3| 18.333|  9| 4.418|     25| 1.364| 20|  1|  0| 
-|James Kaprielian |SP          |  2| 10.333|  6| 5.226|     15| 1.452| 13|  1|  0| 
-|Julio Urias      |SP          |  4| 23.333|  6| 2.314|     22| 0.943| 20|  2|  0| 
-|Luis Garcia      |SP          |  3| 15.333| 10| 5.870|     20| 1.304| 24|  1|  0| 
-|Max Fried        |SP          |  4| 25.000|  6| 2.160|     27| 1.080| 29|  2|  0| 
-|Nick Pivetta     |SP          |  3| 16.000| 11| 6.188|     25| 1.562| 13|  1|  0| 
-|Josh Hader       |RP          |  3|  3.000|  2| 6.000|      3| 1.000|  4|  0|  1| 
-|Liam Hendriks    |RP          |  7|  8.000|  1| 1.125|      4| 0.500| 12|  1|  3| 
-|Anthony Bender   |OP          | 10|  9.000|  3| 3.000|     11| 1.222| 10|  1|  0| 
-|Chris Flexen     |OP          |  4| 23.000| 12| 4.696|     33| 1.435| 12|  2|  0| 
-|Frankie Montas   |OP          |  4| 25.000|  8| 2.880|     26| 1.040| 35|  1|  0| 
-|Jon Gray         |OP          |  4| 24.333|  9| 3.329|     31| 1.274| 21|  1|  0| 
-|Kwang Hyun Kim   |OP          |  3| 14.667|  7| 4.295|     14| 0.955|  8|  2|  0| 
-|Taylor Rogers    |PITCH BENCH |  3|  2.667|  1| 3.375|      4| 1.500|  5|  0|  1| 
-|Zach Plesac      |PITCH BENCH |  4| 22.667| 14| 5.559|     33| 1.456| 10|  2|  0| 
+|players        |position    |  g|    ip| er|   era| hitsbb|  whip| so|  w| sv| 
+|:--------------|:-----------|--:|-----:|--:|-----:|------:|-----:|--:|--:|--:| 
+|German Marquez |SP          |  1| 6.000|  0| 0.000|      3| 0.500|  7|  1|  0| 
+|Julio Urias    |SP          |  1| 5.000|  2| 3.600|      9| 1.800|  5|  0|  0| 
+|Luis Garcia    |SP          |  1| 6.000|  0| 0.000|      2| 0.333|  8|  1|  0| 
+|Max Fried      |SP          |  1| 6.000|  1| 1.500|      8| 1.333|  5|  1|  0| 
+|Nick Pivetta   |SP          |  1| 6.000|  0| 0.000|      2| 0.333|  5|  0|  0| 
+|Kyle Finnegan  |RP          |  2| 2.000|  0| 0.000|      4| 2.000|  1|  0|  1| 
+|Liam Hendriks  |RP          |  1| 1.333|  0| 0.000|      1| 0.750|  4|  1|  0| 
+|Anthony Bender |OP          |  2| 2.000|  1| 4.500|      3| 1.500|  1|  0|  1| 
+|Chris Flexen   |OP          |  1| 5.000|  3| 5.400|      9| 1.800|  7|  0|  0| 
+|Frankie Montas |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Jon Gray       |OP          |  1| 4.333|  4| 8.308|      8| 1.846|  9|  0|  0| 
+|Kwang Hyun Kim |OP          |  1| 4.000|  2| 4.500|      6| 1.500|  3|  0|  0| 
+|Josh Hader     |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
+|Tarik Skubal   |PITCH BENCH |  1| 5.000|  0| 0.000|      6| 1.200|  4|  1|  0| 
+|Zach Plesac    |PITCH BENCH |  1| 4.000|  4| 9.000|      5| 1.250|  6|  0|  0| 
 
 
 * * *

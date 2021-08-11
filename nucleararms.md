@@ -5,23 +5,25 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez      |C         |     21|  9|  15|  6|  1| 
-|Paul Goldschmidt    |1B        |     25|  9|   9|  4|  2| 
-|Jean Segura         |2B        |     29| 12|  13|  3|  1| 
-|Manny Machado       |3B        |     28| 15|  15|  5|  0| 
-|Trea Turner         |SS        |     17| 10|   7|  1|  2| 
-|Jeff McNeil         |MI        |     25|  9|  11|  3|  1| 
-|Jeimer Candelario   |CI        |     33| 10|  12|  2|  0| 
-|Chris Taylor        |OF        |     28| 16|  14|  7|  2| 
-|Kyle Tucker         |OF        |     26|  7|  18|  6|  3| 
-|Lourdes Gurriel Jr. |OF        |     17|  6|   6|  1|  0| 
-|Michael Brantley    |OF        |     26| 13|   6|  2|  1| 
-|Bryan Reynolds      |DH        |     29| 13|  10|  2|  0| 
-|Cesar Hernandez     |DH        |     24|  8|   9|  3|  0| 
-|Justin Turner       |DH        |     21| 11|  15|  5|  0| 
-|Alec Bohm           |BAT BENCH |     19|  4|   5|  1|  0| 
-|Andrew Benintendi   |BAT BENCH |     12|  7|   3|  1|  1| 
-|Ketel Marte         |BAT BENCH |      4|  2|   0|  0|  0| 
+|Salvador Perez      |C         |      8|  3|   4|  2|  0| 
+|Paul Goldschmidt    |1B        |      7|  2|   5|  1|  0| 
+|Jean Segura         |2B        |      6|  2|   1|  1|  0| 
+|Manny Machado       |3B        |      6|  4|   3|  1|  0| 
+|Trea Turner         |SS        |      6|  4|   0|  0|  1| 
+|Jeff McNeil         |MI        |      1|  0|   0|  0|  0| 
+|Jeimer Candelario   |CI        |      8|  4|   5|  1|  0| 
+|Chris Taylor        |OF        |      6|  1|   2|  0|  1| 
+|Eloy Jimenez        |OF        |     11|  5|  11|  4|  0| 
+|Kyle Tucker         |OF        |      6|  2|   0|  0|  1| 
+|Michael Brantley    |OF        |      6|  1|   1|  0|  0| 
+|Bryan Reynolds      |DH        |      5|  2|   4|  1|  0| 
+|Cesar Hernandez     |DH        |     10|  7|   3|  2|  0| 
+|Justin Turner       |DH        |      2|  1|   1|  0|  1| 
+|Ketel Marte         |DH        |      6|  1|   2|  0|  0| 
+|Alec Bohm           |BAT BENCH |      4|  2|   0|  0|  0| 
+|Andrew Benintendi   |BAT BENCH |      4|  2|   1|  0|  0| 
+|Jarren Duran        |BAT BENCH |      4|  0|   0|  0|  0| 
+|Lourdes Gurriel Jr. |BAT BENCH |      3|  1|   4|  1|  0| 
 
 
 * * *
@@ -29,21 +31,22 @@
 ### Pitchers
 
  
-|players          |position |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
-|:----------------|:--------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Blake Snell      |SP       |  4| 19.000| 13| 6.158|     36| 1.895| 18|  2|  0| 
-|Corbin Burnes    |SP       |  3| 18.333|  6| 2.945|     23| 1.255| 24|  2|  0| 
-|Dallas Keuchel   |SP       |  3| 16.333| 11| 6.061|     19| 1.163| 13|  0|  0| 
-|Nathan Eovaldi   |SP       |  3| 18.000|  8| 4.000|     17| 0.944| 21|  0|  0| 
-|Shane McClanahan |SP       |  3| 17.000|  5| 2.647|     23| 1.353| 20|  2|  0| 
-|Tyler Mahle      |SP       |  4| 21.333| 11| 4.641|     32| 1.500| 20|  1|  0| 
-|Aroldis Chapman  |RP       |  9|  9.000|  1| 1.000|      7| 0.778| 15|  0|  6| 
-|Edwin Diaz       |RP       |  7|  6.667|  5| 6.750|      9| 1.350| 13|  1|  4| 
-|Danny Duffy      |OP       |  1|  4.000|  1| 2.250|      3| 0.750|  3|  0|  0| 
-|David Price      |OP       |  4| 15.000|  7| 4.200|     15| 1.000| 11|  0|  0| 
-|Joakim Soria     |OP       |  6|  6.000|  3| 4.500|      7| 1.167|  9|  0|  3| 
-|Paul Sewald      |OP       |  9|  8.667|  4| 4.154|      7| 0.808| 14|  1|  2| 
-|Zach Davies      |OP       |  4| 20.000| 15| 6.750|     38| 1.900| 20|  1|  0| 
+|players           |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
+|:-----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
+|Blake Snell       |SP          |  1|  7.000|  0|  0.000|      5| 0.714| 13|  1|  0| 
+|Corbin Burnes     |SP          |  1|  7.000|  1|  1.286|      5| 0.714|  5|  0|  0| 
+|Dallas Keuchel    |SP          |  2| 12.000|  6|  4.500|     14| 1.167|  6|  0|  0| 
+|Nathan Eovaldi    |SP          |  1|  4.667|  7| 13.500|     10| 2.143|  4|  0|  0| 
+|Shane McClanahan  |SP          |  1|  7.000|  3|  3.857|      6| 0.857|  8|  1|  0| 
+|Tyler Mahle       |SP          |  1|  7.000|  2|  2.571|      6| 0.857| 10|  1|  0| 
+|Aroldis Chapman   |RP          |  1|  1.000|  0|  0.000|      2| 2.000|  1|  0|  1| 
+|Edwin Diaz        |RP          |  1|  1.000|  2| 18.000|      2| 2.000|  1|  0|  0| 
+|Carlos Carrasco   |OP          | **|     **| **|     **|     **|    **| **| **| **| 
+|Cole Sulser       |OP          |  2|  2.000|  1|  4.500|      1| 0.500|  0|  0|  0| 
+|David Price       |OP          |  1|  5.333|  2|  3.375|      4| 0.750|  4|  0|  0| 
+|Jonathan Loaisiga |OP          |  3|  3.333|  1|  2.700|      6| 1.800|  2|  0|  1| 
+|Paul Sewald       |OP          |  3|  3.667|  4|  9.818|      4| 1.091|  6|  1|  0| 
+|Danny Duffy       |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 
 
 * * *
