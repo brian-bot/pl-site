@@ -26,15 +26,15 @@ Through games on 2021-08-10 ([website build status](https://github.com/brian-bot
 
 |team                   |  w|  l|  t| points|
 |:----------------------|--:|--:|--:|------:|
-|T and A                |  5|  1|  0|  368.5|
+|T and A                |  5|  1|  0|  364.5|
 |Washington Generals    |  4|  2|  0|  397.5|
-|Boys of Summer         |  4|  2|  0|  363.0|
-|Terminoeckers          |  3|  3|  0|  348.5|
-|Nuclear Arms           |  3|  3|  0|  316.5|
-|Overwhelming Underdogs |  3|  3|  0|  284.0|
-|Mean Wieners           |  2|  4|  0|  333.5|
-|Vass Deferens          |  2|  4|  0|  326.0|
-|SYWA                   |  2|  4|  0|  286.5|
-|Wonderbots             |  2|  4|  0|  276.0|
+|Boys of Summer         |  4|  2|  0|  358.5|
+|Mean Wieners           |  3|  3|  0|  366.5|
+|Nuclear Arms           |  3|  3|  0|  313.5|
+|Overwhelming Underdogs |  3|  3|  0|  278.0|
+|Terminoeckers          |  2|  4|  0|  344.0|
+|Vass Deferens          |  2|  4|  0|  322.0|
+|SYWA                   |  2|  4|  0|  283.5|
+|Wonderbots             |  2|  4|  0|  272.0|
 
 
