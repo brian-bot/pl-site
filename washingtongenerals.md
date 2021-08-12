@@ -6,21 +6,21 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |J.T. Realmuto    |C         |      4|  2|   3|  1|  0| 
-|Trey Mancini     |1B        |      5|  1|   0|  0|  0| 
-|Marcus Semien    |2B        |     10|  4|   3|  1|  2| 
-|Nolan Arenado    |3B        |      6|  2|   3|  1|  0| 
-|Carlos Correa    |SS        |      5|  3|   1|  1|  0| 
+|Trey Mancini     |1B        |      7|  1|   0|  0|  0| 
+|Marcus Semien    |2B        |     12|  5|   3|  1|  2| 
+|Nolan Arenado    |3B        |      8|  3|   3|  1|  0| 
+|Carlos Correa    |SS        |      7|  4|   2|  1|  0| 
 |Jake Cronenworth |MI        |      7|  3|   5|  1|  0| 
-|C.J. Cron        |CI        |     10|  8|  13|  4|  0| 
-|Dominic Smith    |OF        |      3|  0|   1|  0|  0| 
-|Franmil Reyes    |OF        |      8|  0|   2|  0|  0| 
-|Mark Canha       |OF        |      6|  4|   0|  0|  0| 
+|C.J. Cron        |CI        |     11|  8|  14|  4|  0| 
+|Dominic Smith    |OF        |      5|  0|   3|  0|  0| 
+|Franmil Reyes    |OF        |      9|  1|   2|  0|  0| 
+|Mark Canha       |OF        |      7|  5|   0|  0|  0| 
 |Raimel Tapia     |OF        |      3|  1|   1|  0|  0| 
-|Buster Posey     |DH        |      9|  4|   3|  1|  0| 
-|Joey Votto       |DH        |      9|  4|   7|  2|  0| 
+|Buster Posey     |DH        |     11|  5|   4|  2|  0| 
+|Joey Votto       |DH        |     14|  6|  11|  4|  0| 
 |Josh Bell        |DH        |      8|  3|   3|  1|  0| 
-|Tommy Edman      |DH        |      6|  2|   1|  1|  0| 
-|Jed Lowrie       |BAT BENCH |      5|  3|   4|  0|  0| 
+|Tommy Edman      |DH        |      7|  2|   1|  1|  0| 
+|Jed Lowrie       |BAT BENCH |      7|  5|   7|  1|  0| 
 |Manuel Margot    |BAT BENCH |     11|  5|   1|  0|  0| 
 |Mike Trout       |BAT BENCH |     **| **|  **| **| **| 
 

@@ -7,21 +7,21 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Christian Vazquez |C         |      3|  0|   0|  0|  0| 
 |Carlos Santana    |1B        |      5|  2|   0|  0|  0| 
-|Max Muncy         |2B        |      5|  3|   3|  1|  0| 
+|Max Muncy         |2B        |      5|  4|   3|  1|  0| 
 |Alex Bregman      |3B        |     **| **|  **| **| **| 
-|Dansby Swanson    |SS        |      8|  3|   1|  0|  0| 
-|Joey Wendle       |MI        |      4|  4|   0|  0|  0| 
-|Aledmys Diaz      |CI        |      5|  1|   3|  0|  0| 
+|Dansby Swanson    |SS        |      8|  3|   2|  0|  0| 
+|Joey Wendle       |MI        |      5|  5|   1|  0|  0| 
+|Aledmys Diaz      |CI        |      9|  1|   6|  0|  0| 
 |Brian Goodwin     |OF        |      3|  2|   3|  1|  0| 
-|Christian Yelich  |OF        |      1|  1|   1|  0|  0| 
-|Jesse Winker      |OF        |     11|  5|   7|  2|  0| 
-|Wil Myers         |OF        |      9|  4|   1|  0|  1| 
+|Christian Yelich  |OF        |      3|  3|   2|  0|  0| 
+|Jesse Winker      |OF        |     14|  5|   7|  2|  0| 
+|Wil Myers         |OF        |     10|  4|   1|  0|  1| 
 |Adam Engel        |DH        |      6|  4|   2|  1|  3| 
-|Max Kepler        |DH        |      5|  1|   2|  0|  0| 
-|Rafael Ortega     |DH        |     12|  1|   1|  0|  3| 
-|Yadiel Hernandez  |DH        |      5|  1|   0|  0|  0| 
+|Max Kepler        |DH        |      6|  1|   2|  0|  0| 
+|Rafael Ortega     |DH        |     13|  1|   1|  0|  3| 
+|Yadiel Hernandez  |DH        |     11|  3|   0|  0|  2| 
 |Alex Kirilloff    |BAT BENCH |     **| **|  **| **| **| 
-|Andrew McCutchen  |BAT BENCH |     **| **|  **| **| **| 
+|Andrew McCutchen  |BAT BENCH |      2|  0|   0|  0|  0| 
 |Cavan Biggio      |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -40,8 +40,8 @@
 |Zack Greinke      |SP          |  1| 6.000|  3|  4.500|      7| 1.167|  3|  0|  0| 
 |Devin Williams    |RP          |  2| 2.000|  0|  0.000|      4| 2.000|  3|  0|  1| 
 |James Karinchak   |RP          |  3| 3.000|  1|  3.000|      2| 0.667|  3|  0|  0| 
-|Alex Colome       |OP          |  4| 3.333|  0|  0.000|      0| 0.000|  1|  0|  3| 
-|Craig Kimbrel     |OP          |  2| 1.667|  3| 16.200|      4| 2.400|  2|  0|  0| 
+|Alex Colome       |OP          |  5| 4.333|  0|  0.000|      1| 0.231|  1|  0|  4| 
+|Craig Kimbrel     |OP          |  3| 2.667|  3| 10.125|      5| 1.875|  3|  0|  0| 
 |Eduardo Rodriguez |OP          |  1| 5.333|  2|  3.375|      5| 0.938|  8|  0|  0| 
 |Giovanny Gallegos |OP          |  2| 1.667|  3| 16.200|      3| 1.800|  0|  0|  1| 
 |Madison Bumgarner |OP          |  1| 7.000|  2|  2.571|      7| 1.000|  5|  0|  0| 
