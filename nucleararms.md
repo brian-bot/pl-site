@@ -5,25 +5,25 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez      |C         |     10|  3|   5|  2|  0| 
-|Paul Goldschmidt    |1B        |     17|  4|   6|  1|  1| 
+|Salvador Perez      |C         |     12|  3|   5|  2|  0| 
+|Paul Goldschmidt    |1B        |     18|  5|   9|  1|  1| 
 |Jean Segura         |2B        |      9|  3|   1|  1|  0| 
 |Manny Machado       |3B        |      8|  5|   3|  1|  0| 
 |Trea Turner         |SS        |      8|  6|   2|  0|  1| 
 |Jeff McNeil         |MI        |      6|  2|   3|  0|  0| 
-|Jeimer Candelario   |CI        |     14|  6|   6|  1|  0| 
-|Chris Taylor        |OF        |     10|  2|   2|  0|  1| 
-|Eloy Jimenez        |OF        |     15|  6|  14|  5|  0| 
+|Jeimer Candelario   |CI        |     16|  8|   8|  2|  0| 
+|Chris Taylor        |OF        |     11|  2|   2|  0|  1| 
+|Eloy Jimenez        |OF        |     17|  7|  16|  5|  0| 
 |Kyle Tucker         |OF        |      7|  3|   4|  1|  1| 
-|Michael Brantley    |OF        |      9|  3|   1|  0|  0| 
-|Bryan Reynolds      |DH        |      7|  3|   6|  2|  0| 
-|Cesar Hernandez     |DH        |     11|  7|   3|  2|  0| 
+|Michael Brantley    |OF        |     11|  5|   1|  0|  0| 
+|Bryan Reynolds      |DH        |     12|  5|  10|  3|  0| 
+|Cesar Hernandez     |DH        |     13|  8|   3|  2|  0| 
 |Justin Turner       |DH        |      2|  1|   1|  0|  1| 
-|Ketel Marte         |DH        |     10|  3|   3|  1|  0| 
+|Ketel Marte         |DH        |     12|  4|   4|  1|  0| 
 |Alec Bohm           |BAT BENCH |      4|  3|   0|  0|  0| 
-|Andrew Benintendi   |BAT BENCH |      5|  2|   1|  0|  0| 
-|Jarren Duran        |BAT BENCH |      7|  2|   2|  0|  0| 
-|Lourdes Gurriel Jr. |BAT BENCH |      8|  4|   9|  3|  0| 
+|Andrew Benintendi   |BAT BENCH |      5|  3|   1|  0|  0| 
+|Jarren Duran        |BAT BENCH |      8|  3|   3|  0|  0| 
+|Lourdes Gurriel Jr. |BAT BENCH |      9|  4|  10|  3|  0| 
 
 
 * * *
@@ -44,7 +44,7 @@
 |Carlos Carrasco   |OP          |  1|  1.000|  4| 36.000|      5| 5.000|  0|  0|  0| 
 |Cole Sulser       |OP          |  3|  3.000|  1|  3.000|      3| 1.000|  0|  0|  0| 
 |David Price       |OP          |  2|  9.333|  4|  3.857|     10| 1.071|  5|  0|  0| 
-|Jonathan Loaisiga |OP          |  4|  4.333|  1|  2.077|      6| 1.385|  3|  0|  1| 
+|Jonathan Loaisiga |OP          |  5|  5.667|  1|  1.588|      8| 1.412|  3|  0|  1| 
 |Paul Sewald       |OP          |  3|  3.667|  4|  9.818|      4| 1.091|  6|  1|  0| 
 |Danny Duffy       |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 

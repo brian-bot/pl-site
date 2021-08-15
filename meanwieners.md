@@ -5,22 +5,22 @@
  
 |players         |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------|:---------|------:|--:|---:|--:|--:| 
-|Omar Narvaez    |C         |      6|  4|   7|  2|  0| 
+|Omar Narvaez    |C         |      8|  5|   7|  2|  0| 
 |Rhys Hoskins    |1B        |      3|  1|   2|  0|  0| 
-|Whit Merrifield |2B        |     11|  5|   0|  0|  5| 
+|Whit Merrifield |2B        |     14|  6|   2|  0|  5| 
 |Eduardo Escobar |3B        |     13|  7|   1|  0|  0| 
-|Willy Adames    |SS        |     11|  4|   5|  2|  1| 
+|Willy Adames    |SS        |     13|  4|   5|  2|  1| 
 |Gleyber Torres  |MI        |      5|  1|   1|  0|  2| 
-|Yuli Gurriel    |CI        |     **| **|  **| **| **| 
-|Aaron Judge     |OF        |     13|  5|   9|  3|  0| 
-|Mitch Haniger   |OF        |      8|  3|   3|  1|  0| 
-|Robbie Grossman |OF        |     11|  4|   4|  2|  1| 
-|Yordan Alvarez  |OF        |     11|  5|   5|  2|  0| 
-|Jake Fraley     |DH        |      4|  1|   2|  1|  0| 
+|Yuli Gurriel    |CI        |      1|  1|   0|  0|  0| 
+|Aaron Judge     |OF        |     16|  7|  13|  4|  0| 
+|Mitch Haniger   |OF        |     10|  5|   3|  1|  0| 
+|Robbie Grossman |OF        |     12|  4|   4|  2|  1| 
+|Yordan Alvarez  |OF        |     14|  5|   7|  2|  0| 
+|Jake Fraley     |DH        |      6|  1|   2|  1|  1| 
 |Ji-Man Choi     |DH        |      3|  1|   2|  0|  0| 
-|Jorge Soler     |DH        |     14|  4|   2|  1|  0| 
-|Tyler O'Neill   |DH        |     11|  5|   2|  2|  0| 
-|Cody Bellinger  |BAT BENCH |      9|  5|   7|  4|  0| 
+|Jorge Soler     |DH        |     15|  5|   2|  1|  0| 
+|Tyler O'Neill   |DH        |     12|  5|   2|  2|  0| 
+|Cody Bellinger  |BAT BENCH |     10|  5|   8|  4|  0| 
 |Luis Urias      |BAT BENCH |     10|  7|   8|  3|  0| 
 |Paul DeJong     |BAT BENCH |      9|  5|   7|  2|  0| 
 
@@ -33,8 +33,8 @@
 |:-----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Alek Manoah       |SP          |  2| 11.667|  4| 3.086|     14| 1.200| 15|  2|  0| 
 |Carlos Rodon      |SP          |  1|  5.000|  0| 0.000|      4| 0.800| 11|  1|  0| 
-|Joe Musgrove      |SP          |  1|  6.000|  1| 1.500|      6| 1.000|  8|  1|  0| 
-|Kenta Maeda       |SP          |  1|  5.000|  3| 5.400|      9| 1.800|  5|  1|  0| 
+|Joe Musgrove      |SP          |  2| 11.000|  7| 5.727|     18| 1.636| 12|  1|  0| 
+|Kenta Maeda       |SP          |  2| 11.000|  3| 2.455|     13| 1.182|  9|  2|  0| 
 |Logan Gilbert     |SP          |  1|  6.000|  2| 3.000|      5| 0.833|  5|  0|  0| 
 |Logan Webb        |SP          |  2| 12.000|  1| 0.750|      9| 0.750| 17|  1|  0| 
 |Collin McHugh     |RP          |  2|  3.000|  0| 0.000|      3| 1.000|  5|  1|  0| 
