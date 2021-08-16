@@ -5,23 +5,23 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez      |C         |     12|  3|   5|  2|  0| 
-|Paul Goldschmidt    |1B        |     18|  5|   9|  1|  1| 
-|Jean Segura         |2B        |      9|  3|   1|  1|  0| 
-|Manny Machado       |3B        |      8|  5|   3|  1|  0| 
-|Trea Turner         |SS        |      8|  6|   2|  0|  1| 
-|Jeff McNeil         |MI        |      6|  2|   3|  0|  0| 
+|Salvador Perez      |C         |     13|  4|   7|  3|  0| 
+|Paul Goldschmidt    |1B        |     20|  7|  10|  1|  2| 
+|Jean Segura         |2B        |     10|  4|   1|  1|  0| 
+|Manny Machado       |3B        |     10|  5|   3|  1|  0| 
+|Trea Turner         |SS        |     12| 10|   3|  0|  2| 
+|Jeff McNeil         |MI        |      7|  2|   4|  0|  0| 
 |Jeimer Candelario   |CI        |     16|  8|   8|  2|  0| 
-|Chris Taylor        |OF        |     11|  2|   2|  0|  1| 
-|Eloy Jimenez        |OF        |     17|  7|  16|  5|  0| 
+|Chris Taylor        |OF        |     12|  2|   3|  0|  1| 
+|Eloy Jimenez        |OF        |     19|  7|  16|  5|  0| 
 |Kyle Tucker         |OF        |      7|  3|   4|  1|  1| 
-|Michael Brantley    |OF        |     11|  5|   1|  0|  0| 
-|Bryan Reynolds      |DH        |     12|  5|  10|  3|  0| 
-|Cesar Hernandez     |DH        |     13|  8|   3|  2|  0| 
-|Justin Turner       |DH        |      2|  1|   1|  0|  1| 
-|Ketel Marte         |DH        |     12|  4|   4|  1|  0| 
-|Alec Bohm           |BAT BENCH |      4|  3|   0|  0|  0| 
-|Andrew Benintendi   |BAT BENCH |      5|  3|   1|  0|  0| 
+|Michael Brantley    |OF        |     13|  6|   2|  1|  0| 
+|Bryan Reynolds      |DH        |     13|  5|  10|  3|  0| 
+|Cesar Hernandez     |DH        |     14|  8|   3|  2|  0| 
+|Justin Turner       |DH        |      6|  2|   3|  1|  1| 
+|Ketel Marte         |DH        |     13|  4|   5|  1|  0| 
+|Alec Bohm           |BAT BENCH |      6|  4|   1|  0|  0| 
+|Andrew Benintendi   |BAT BENCH |      7|  3|   1|  0|  0| 
 |Jarren Duran        |BAT BENCH |      8|  3|   3|  0|  0| 
 |Lourdes Gurriel Jr. |BAT BENCH |      9|  4|  10|  3|  0| 
 
@@ -41,10 +41,10 @@
 |Tyler Mahle       |SP          |  2| 14.000|  2|  1.286|      9| 0.643| 17|  2|  0| 
 |Aroldis Chapman   |RP          |  1|  1.000|  0|  0.000|      2| 2.000|  1|  0|  1| 
 |Edwin Diaz        |RP          |  4|  4.000|  2|  4.500|      4| 1.000|  4|  0|  2| 
-|Carlos Carrasco   |OP          |  1|  1.000|  4| 36.000|      5| 5.000|  0|  0|  0| 
+|Carlos Carrasco   |OP          |  2|  3.000| 10| 30.000|     12| 4.000|  3|  0|  0| 
 |Cole Sulser       |OP          |  3|  3.000|  1|  3.000|      3| 1.000|  0|  0|  0| 
 |David Price       |OP          |  2|  9.333|  4|  3.857|     10| 1.071|  5|  0|  0| 
-|Jonathan Loaisiga |OP          |  5|  5.667|  1|  1.588|      8| 1.412|  3|  0|  1| 
+|Jonathan Loaisiga |OP          |  6|  6.667|  1|  1.350|      8| 1.200|  4|  0|  1| 
 |Paul Sewald       |OP          |  3|  3.667|  4|  9.818|      4| 1.091|  6|  1|  0| 
 |Danny Duffy       |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 

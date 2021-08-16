@@ -6,22 +6,22 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Yadier Molina    |C         |      9|  2|   5|  0|  0| 
-|Jose Abreu       |1B        |     17| 10|   5|  5|  0| 
+|Jose Abreu       |1B        |     19| 10|   5|  5|  0| 
 |Jose Altuve      |2B        |      9|  3|   1|  0|  0| 
 |Ty France        |3B        |     18|  4|   3|  1|  0| 
 |Javier Baez      |SS        |      3|  0|   0|  0|  0| 
-|David Fletcher   |MI        |     16|  5|   0|  0|  4| 
-|Kris Bryant      |CI        |     16|  5|   3|  0|  2| 
-|Charlie Blackmon |OF        |     12|  5|   2|  1|  0| 
+|David Fletcher   |MI        |     16|  5|   1|  0|  4| 
+|Kris Bryant      |CI        |     16|  6|   3|  0|  2| 
+|Charlie Blackmon |OF        |     13|  5|   3|  1|  0| 
 |Dylan Carlson    |OF        |     12|  6|   2|  1|  1| 
 |George Springer  |OF        |     13|  9|   8|  3|  0| 
-|Jarred Kelenic   |OF        |     12|  6|   5|  2|  0| 
+|Jarred Kelenic   |OF        |     13|  6|   5|  2|  0| 
 |AJ Pollock       |DH        |     11|  2|   5|  0|  3| 
-|Andrew Vaughn    |DH        |     11|  2|   4|  1|  0| 
+|Andrew Vaughn    |DH        |     12|  3|   5|  2|  0| 
 |Hunter Dozier    |DH        |     13|  5|   2|  0|  1| 
-|Justin Upton     |DH        |      3|  1|   2|  0|  1| 
+|Justin Upton     |DH        |      4|  1|   2|  0|  1| 
 |Anthony Rendon   |BAT BENCH |     **| **|  **| **| **| 
-|Didi Gregorius   |BAT BENCH |      9|  2|   2|  1|  0| 
+|Didi Gregorius   |BAT BENCH |     10|  2|   3|  1|  0| 
 
 * * *
 
@@ -30,8 +30,8 @@
  
 |players         |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:---------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Aaron Nola      |SP          |  2|  9.000|  5| 5.000|      9| 1.000| 14|  0|  0| 
-|Alex Wood       |SP          |  2| 10.000|  9| 8.100|     16| 1.600| 10|  0|  0| 
+|Aaron Nola      |SP          |  3| 13.333|  9| 6.075|     18| 1.350| 18|  0|  0| 
+|Alex Wood       |SP          |  3| 16.667| 11| 5.940|     23| 1.380| 16|  1|  0| 
 |Kyle Hendricks  |SP          |  2| 10.000| 11| 9.900|     22| 2.200| 10|  0|  0| 
 |Lance Lynn      |SP          |  2| 11.000|  5| 4.091|     12| 1.091| 15|  0|  0| 
 |Rich Hill       |SP          |  2|  8.000|  3| 3.375|     11| 1.375|  7|  0|  0| 
@@ -39,7 +39,7 @@
 |Blake Treinen   |RP          |  4|  4.667|  0| 0.000|      4| 0.857|  6|  0|  0| 
 |Rafael Montero  |RP          |  2|  2.667|  0| 0.000|      2| 0.750|  3|  0|  0| 
 |Adam Wainwright |OP          |  2| 16.000|  2| 1.125|     11| 0.688| 13|  2|  0| 
-|Emmanuel Clase  |OP          |  3|  2.667|  0| 0.000|      3| 1.125|  3|  0|  2| 
+|Emmanuel Clase  |OP          |  4|  3.667|  0| 0.000|      3| 0.818|  5|  0|  2| 
 |Gregory Soto    |OP          |  4|  3.667|  1| 2.455|      4| 1.091|  7|  0|  3| 
 |Jameson Taillon |OP          |  2| 11.000|  3| 2.455|     14| 1.273|  8|  0|  0| 
 |Marco Gonzales  |OP          |  2| 15.667|  1| 0.574|      8| 0.511| 14|  1|  0| 
