@@ -8,21 +8,21 @@
 |Omar Narvaez    |C         |     10|  5|   8|  2|  0| 
 |Rhys Hoskins    |1B        |      3|  1|   2|  0|  0| 
 |Whit Merrifield |2B        |     19|  7|   3|  0|  6| 
-|Eduardo Escobar |3B        |     15|  7|   1|  0|  0| 
-|Willy Adames    |SS        |     18|  6|   5|  2|  2| 
+|Eduardo Escobar |3B        |     16|  7|   1|  0|  0| 
+|Willy Adames    |SS        |     21|  7|   6|  3|  2| 
 |Gleyber Torres  |MI        |      5|  1|   1|  0|  2| 
-|Yuli Gurriel    |CI        |      3|  1|   0|  0|  0| 
-|Aaron Judge     |OF        |     24|  9|  13|  4|  2| 
-|Mitch Haniger   |OF        |     12|  6|   4|  1|  0| 
+|Yuli Gurriel    |CI        |      4|  2|   0|  0|  0| 
+|Aaron Judge     |OF        |     27|  9|  13|  4|  3| 
+|Mitch Haniger   |OF        |     13|  7|   4|  1|  0| 
 |Robbie Grossman |OF        |     14|  4|   5|  2|  1| 
 |Yordan Alvarez  |OF        |     17|  5|   8|  2|  0| 
 |Jake Fraley     |DH        |      6|  1|   2|  1|  1| 
-|Ji-Man Choi     |DH        |      6|  3|   2|  0|  0| 
-|Jorge Soler     |DH        |     19|  5|   3|  1|  0| 
-|Tyler O'Neill   |DH        |     14|  6|   3|  3|  0| 
+|Ji-Man Choi     |DH        |      8|  3|   4|  0|  0| 
+|Jorge Soler     |DH        |     21|  6|   3|  1|  0| 
+|Tyler O'Neill   |DH        |     16|  8|   4|  3|  0| 
 |Cody Bellinger  |BAT BENCH |     12|  7|   8|  4|  0| 
-|Luis Urias      |BAT BENCH |     11|  7|   8|  3|  0| 
-|Paul DeJong     |BAT BENCH |      9|  5|   7|  2|  0| 
+|Luis Urias      |BAT BENCH |     11|  8|   8|  3|  0| 
+|Paul DeJong     |BAT BENCH |     11|  5|   7|  2|  0| 
 
 * * *
 
@@ -38,12 +38,12 @@
 |Logan Gilbert     |SP          |  2| 10.000|  7| 6.300|     13| 1.300|  8|  0|  0| 
 |Logan Webb        |SP          |  3| 19.333|  3| 1.397|     17| 0.879| 25|  2|  0| 
 |Collin McHugh     |RP          |  3|  5.000|  0| 0.000|      3| 0.600|  6|  1|  0| 
-|Drew Steckenrider |RP          |  5|  6.000|  0| 0.000|      8| 1.333|  5|  2|  1| 
+|Drew Steckenrider |RP          |  6|  7.000|  0| 0.000|      8| 1.143|  5|  2|  2| 
 |Brandon Woodruff  |OP          |  2|  9.000|  1| 1.000|     12| 1.333| 11|  0|  0| 
 |Kenley Jansen     |OP          |  6|  7.000|  1| 1.286|      6| 0.857|  7|  1|  3| 
 |Kevin Gausman     |OP          |  2| 10.000|  4| 3.600|     15| 1.500| 12|  2|  0| 
 |Matt Wisler       |OP          |  3|  2.000|  0| 0.000|      1| 0.500|  1|  0|  0| 
-|Will Smith        |OP          |  7|  7.000|  5| 6.429|     11| 1.571|  8|  0|  4| 
+|Will Smith        |OP          |  8|  7.333|  6| 7.364|     14| 1.909|  9|  0|  4| 
 |Eli Morgan        |PITCH BENCH |  3| 17.000|  7| 3.706|     18| 1.059| 12|  1|  0| 
 |Shane Bieber      |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 
