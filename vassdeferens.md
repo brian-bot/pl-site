@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |     15|  6|   8|  3|  0| 
-|Pete Alonso       |1B        |     17|  9|   6|  2|  1| 
+|Will Smith        |C         |     16|  7|   8|  3|  0| 
+|Pete Alonso       |1B        |     20| 10|   6|  2|  1| 
 |Ozzie Albies      |2B        |     21| 12|  15|  5|  3| 
-|Yoan Moncada      |3B        |     16|  8|   3|  1|  1| 
+|Yoan Moncada      |3B        |     18|  8|   3|  1|  1| 
 |Xander Bogaerts   |SS        |     20| 11|  12|  3|  0| 
 |Tim Anderson      |MI        |     17|  8|   9|  3|  1| 
 |Patrick Wisdom    |CI        |     10|  5|   5|  2|  0| 
 |Juan Soto         |OF        |     26|  9|   8|  2|  0| 
 |Mike Yastrzemski  |OF        |      9|  4|   2|  0|  1| 
-|Nelson Cruz       |OF        |     13| 10|  14|  5|  0| 
-|Ryan Mountcastle  |OF        |      4|  1|   2|  1|  0| 
-|Starling Marte    |DH        |     20|  7|  11|  1|  7| 
+|Nelson Cruz       |OF        |     14| 10|  14|  5|  0| 
+|Ryan Mountcastle  |OF        |      5|  1|   2|  1|  0| 
+|Starling Marte    |DH        |     21|  7|  11|  1|  8| 
 |Steven Duggar     |DH        |      0|  1|   0|  0|  0| 
 |Teoscar Hernandez |DH        |     25| 13|  18|  5|  1| 
-|Wander Franco     |DH        |     17| 10|  12|  3|  0| 
+|Wander Franco     |DH        |     19| 12|  12|  3|  0| 
 |Pavin Smith       |BAT BENCH |     13|  7|   8|  0|  0| 
 
 
