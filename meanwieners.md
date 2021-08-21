@@ -7,22 +7,22 @@
 |:---------------|:---------|------:|--:|---:|--:|--:| 
 |Omar Narvaez    |C         |     10|  5|   8|  2|  0| 
 |Rhys Hoskins    |1B        |      3|  1|   2|  0|  0| 
-|Whit Merrifield |2B        |     20|  8|   3|  0|  7| 
+|Whit Merrifield |2B        |     21|  9|   3|  0|  8| 
 |Eduardo Escobar |3B        |     17|  7|   1|  0|  0| 
 |Willy Adames    |SS        |     22|  7|   7|  3|  2| 
 |Gleyber Torres  |MI        |      5|  1|   1|  0|  2| 
-|Yuli Gurriel    |CI        |      4|  3|   0|  0|  0| 
-|Aaron Judge     |OF        |     28|  9|  13|  4|  3| 
+|Yuli Gurriel    |CI        |      7|  4|   2|  1|  0| 
+|Aaron Judge     |OF        |     30| 11|  15|  5|  3| 
 |Mitch Haniger   |OF        |     16| 10|   7|  2|  0| 
-|Robbie Grossman |OF        |     17|  6|   5|  2|  2| 
-|Yordan Alvarez  |OF        |     19|  6|   8|  2|  0| 
-|Jake Fraley     |DH        |      7|  1|   2|  1|  1| 
-|Ji-Man Choi     |DH        |      9|  3|   6|  0|  0| 
-|Jorge Soler     |DH        |     21|  6|   3|  1|  0| 
+|Robbie Grossman |OF        |     19|  7|   5|  2|  3| 
+|Yordan Alvarez  |OF        |     21|  8|  12|  3|  0| 
+|Jake Fraley     |DH        |      8|  1|   2|  1|  1| 
+|Ji-Man Choi     |DH        |     11|  4|   7|  1|  0| 
+|Jorge Soler     |DH        |     23|  7|   4|  2|  0| 
 |Tyler O'Neill   |DH        |     19| 10|   7|  4|  0| 
 |Cody Bellinger  |BAT BENCH |     12|  7|   8|  4|  0| 
-|Luis Urias      |BAT BENCH |     13|  9|   8|  3|  0| 
-|Paul DeJong     |BAT BENCH |     12|  5|   7|  2|  0| 
+|Luis Urias      |BAT BENCH |     14|  9|   8|  3|  0| 
+|Paul DeJong     |BAT BENCH |     14|  5|   7|  2|  0| 
 
 * * *
 
@@ -40,7 +40,7 @@
 |Collin McHugh     |RP          |  3|  5.000|  0| 0.000|      3| 0.600|  6|  1|  0| 
 |Drew Steckenrider |RP          |  6|  7.000|  0| 0.000|      8| 1.143|  5|  2|  2| 
 |Brandon Woodruff  |OP          |  3| 14.000|  7| 4.500|     21| 1.500| 15|  0|  0| 
-|Kenley Jansen     |OP          |  6|  7.000|  1| 1.286|      6| 0.857|  7|  1|  3| 
+|Kenley Jansen     |OP          |  7|  8.000|  1| 1.125|      6| 0.750|  8|  1|  4| 
 |Kevin Gausman     |OP          |  2| 10.000|  4| 3.600|     15| 1.500| 12|  2|  0| 
 |Matt Wisler       |OP          |  3|  2.000|  0| 0.000|      1| 0.500|  1|  0|  0| 
 |Will Smith        |OP          |  8|  7.333|  6| 7.364|     14| 1.909|  9|  0|  4| 
