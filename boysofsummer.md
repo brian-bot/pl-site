@@ -7,21 +7,21 @@
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Max Stassi       |C         |      8|  2|   4|  1|  0| 
 |DJ LeMahieu      |1B        |     30| 10|   5|  1|  0| 
-|Adam Frazier     |2B        |     18|  7|   1|  0|  1| 
+|Adam Frazier     |2B        |     19|  7|   1|  0|  1| 
 |Austin Riley     |3B        |     25| 14|  13|  5|  0| 
-|Brendan Rodgers  |SS        |     16|  7|   2|  0|  0| 
-|Ryan McMahon     |MI        |     18|  6|   6|  1|  0| 
-|J.D. Davis       |CI        |     21|  3|   5|  0|  1| 
-|Bryce Harper     |OF        |     23|  9|  11|  6|  0| 
+|Brendan Rodgers  |SS        |     17|  8|   2|  0|  0| 
+|Ryan McMahon     |MI        |     21|  6|   8|  1|  0| 
+|J.D. Davis       |CI        |     24|  5|   9|  1|  1| 
+|Bryce Harper     |OF        |     24| 10|  11|  6|  0| 
 |Mookie Betts     |OF        |      3|  1|   1|  0|  0| 
-|Nick Castellanos |OF        |     19| 13|  11|  4|  0| 
-|Shohei Ohtani    |OF        |     25|  8|   6|  3|  3| 
+|Nick Castellanos |OF        |     20| 13|  11|  4|  0| 
+|Shohei Ohtani    |OF        |     28|  8|   6|  3|  4| 
 |Alex Verdugo     |DH        |     19|  6|   5|  1|  0| 
-|Cedric Mullins   |DH        |     15|  8|   5|  3|  2| 
-|Harrison Bader   |DH        |     14|  3|   2|  0|  0| 
-|Jo Adell         |DH        |     13|  7|   9|  1|  0| 
+|Cedric Mullins   |DH        |     17|  8|   5|  3|  2| 
+|Harrison Bader   |DH        |     15|  3|   3|  0|  0| 
+|Jo Adell         |DH        |     14|  7|   9|  1|  0| 
 |Francisco Lindor |BAT BENCH |     **| **|  **| **| **| 
-|Jared Walsh      |BAT BENCH |     16|  2|   5|  0|  0| 
+|Jared Walsh      |BAT BENCH |     17|  2|   5|  0|  0| 
 
 * * *
 
@@ -39,10 +39,10 @@
 |Liam Hendriks  |RP          |  6|  6.333|  6| 8.526|      7| 1.105| 14|  3|  2| 
 |Anthony Bender |OP          |  7|  7.000|  7| 9.000|     12| 1.714|  9|  0|  2| 
 |Chris Flexen   |OP          |  3| 18.000|  6| 3.000|     21| 1.167| 15|  0|  0| 
-|Frankie Montas |OP          |  2| 11.000|  4| 3.273|     16| 1.455| 12|  0|  0| 
-|Jon Gray       |OP          |  2|  8.667|  7| 7.269|     16| 1.846| 14|  0|  0| 
+|Frankie Montas |OP          |  3| 18.000|  4| 2.000|     20| 1.111| 21|  0|  0| 
+|Jon Gray       |OP          |  3| 14.000| 12| 7.714|     25| 1.786| 22|  0|  0| 
 |Kwang Hyun Kim |OP          |  1|  4.000|  2| 4.500|      6| 1.500|  3|  0|  0| 
-|Josh Hader     |PITCH BENCH |  5|  5.000|  0| 0.000|      4| 0.800| 10|  1|  3| 
+|Josh Hader     |PITCH BENCH |  6|  5.333|  0| 0.000|      4| 0.750| 10|  1|  4| 
 |Tarik Skubal   |PITCH BENCH |  3| 17.667|  2| 1.019|     18| 1.019| 17|  2|  0| 
 |Zach Plesac    |PITCH BENCH |  3| 16.333| 11| 6.061|     18| 1.102| 17|  1|  0| 
 

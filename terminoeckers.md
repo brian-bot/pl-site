@@ -9,17 +9,17 @@
 |Rowdy Tellez      |1B        |     10|  4|   4|  1|  0| 
 |Jonathan India    |2B        |     21| 17|  11|  5|  1| 
 |Rafael Devers     |3B        |     20|  8|   7|  2|  0| 
-|Bo Bichette       |SS        |     15|  7|   4|  1|  1| 
-|Corey Seager      |MI        |     24| 11|   9|  2|  0| 
-|Kyle Seager       |CI        |     18|  9|  12|  6|  1| 
-|Austin Meadows    |OF        |     15|  4|   9|  1|  0| 
+|Bo Bichette       |SS        |     18|  8|   4|  1|  1| 
+|Corey Seager      |MI        |     25| 12|   9|  2|  0| 
+|Kyle Seager       |CI        |     19| 10|  15|  7|  1| 
+|Austin Meadows    |OF        |     18|  4|  12|  1|  0| 
 |Giancarlo Stanton |OF        |     26|  9|   8|  3|  0| 
 |J.D. Martinez     |OF        |     19|  8|  11|  2|  0| 
-|Tommy Pham        |OF        |     15|  5|   2|  1|  0| 
-|Abraham Toro      |DH        |     21|  3|   5|  0|  0| 
-|Avisail Garcia    |DH        |     18| 11|   7|  6|  0| 
+|Tommy Pham        |OF        |     16|  5|   2|  1|  0| 
+|Abraham Toro      |DH        |     22|  3|   5|  0|  0| 
+|Avisail Garcia    |DH        |     21| 11|   7|  6|  1| 
 |Hunter Renfroe    |DH        |     19| 10|  13|  5|  0| 
-|Jonathan Schoop   |DH        |     21|  7|   6|  0|  0| 
+|Jonathan Schoop   |DH        |     21|  7|   7|  0|  0| 
 |Byron Buxton      |BAT BENCH |     **| **|  **| **| **| 
 |Yasmani Grandal   |BAT BENCH |     **| **|  **| **| **| 
 
@@ -36,8 +36,8 @@
 |Kyle Freeland     |SP          |  3| 18.000|  7|  3.500|     22| 1.222| 22|  2|  0| 
 |Max Scherzer      |SP          |  3| 14.333|  3|  1.884|     15| 1.047| 21|  2|  0| 
 |Patrick Sandoval  |SP          |  2|  9.667|  6|  5.586|     16| 1.655|  7|  0|  0| 
-|Touki Toussaint   |SP          |  3| 16.667|  6|  3.240|     19| 1.140| 15|  1|  0| 
-|Alex Reyes        |RP          |  6|  6.000|  5|  7.500|     10| 1.667|  9|  0|  3| 
+|Touki Toussaint   |SP          |  4| 22.000|  7|  2.864|     27| 1.227| 20|  2|  0| 
+|Alex Reyes        |RP          |  7|  7.000|  5|  6.429|     12| 1.714| 10|  0|  4| 
 |Diego Castillo    |RP          |  7|  7.333|  3|  3.682|      6| 0.818|  7|  0|  0| 
 |Kyle Muller       |OP          |  2|  7.000|  9| 11.571|     12| 1.714|  4|  0|  0| 
 |Lou Trivino       |OP          |  8|  8.000|  2|  2.250|      9| 1.125|  4|  1|  4| 

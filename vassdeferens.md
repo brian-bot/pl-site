@@ -6,21 +6,21 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith        |C         |     17|  7|   8|  3|  0| 
-|Pete Alonso       |1B        |     23| 12|  10|  4|  1| 
+|Pete Alonso       |1B        |     24| 13|  10|  4|  1| 
 |Ozzie Albies      |2B        |     23| 12|  15|  5|  3| 
-|Yoan Moncada      |3B        |     21|  9|   5|  2|  1| 
+|Yoan Moncada      |3B        |     23|  9|   5|  2|  1| 
 |Xander Bogaerts   |SS        |     23| 12|  14|  4|  0| 
 |Tim Anderson      |MI        |     20| 12|  11|  4|  1| 
-|Patrick Wisdom    |CI        |     12|  7|   8|  4|  0| 
-|Juan Soto         |OF        |     33| 11|   9|  2|  0| 
-|Mike Yastrzemski  |OF        |     10|  6|   3|  1|  1| 
+|Patrick Wisdom    |CI        |     13|  7|   8|  4|  0| 
+|Juan Soto         |OF        |     34| 11|   9|  2|  0| 
+|Mike Yastrzemski  |OF        |     11|  6|   3|  1|  1| 
 |Nelson Cruz       |OF        |     17| 11|  15|  5|  0| 
-|Ryan Mountcastle  |OF        |      7|  2|   3|  2|  0| 
-|Starling Marte    |DH        |     24|  9|  13|  1| 10| 
+|Ryan Mountcastle  |OF        |      8|  2|   3|  2|  0| 
+|Starling Marte    |DH        |     27|  9|  13|  1| 12| 
 |Steven Duggar     |DH        |      0|  1|   0|  0|  0| 
 |Teoscar Hernandez |DH        |     26| 13|  18|  5|  1| 
-|Wander Franco     |DH        |     22| 15|  14|  3|  0| 
-|Pavin Smith       |BAT BENCH |     17|  8|   8|  0|  0| 
+|Wander Franco     |DH        |     24| 18|  15|  3|  0| 
+|Pavin Smith       |BAT BENCH |     19|  8|   9|  0|  0| 
 
 
 * * *
@@ -32,12 +32,12 @@
 |:----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Drew Smyly       |SP          |  3| 15.000|  8|  4.800|     16| 1.067| 19|  2|  0| 
 |Hyun Jin Ryu     |SP          |  3| 17.000| 11|  5.824|     22| 1.294|  9|  1|  0| 
-|Marcus Stroman   |SP          |  3| 17.333|  6|  3.115|     18| 1.038| 22|  1|  0| 
-|Sandy Alcantara  |SP          |  3| 18.667| 11|  5.304|     24| 1.286| 15|  1|  0| 
+|Marcus Stroman   |SP          |  4| 23.333|  8|  3.086|     24| 1.029| 28|  2|  0| 
+|Sandy Alcantara  |SP          |  4| 25.667| 13|  4.558|     30| 1.169| 26|  1|  0| 
 |Sean Manaea      |SP          |  3| 11.333| 12|  9.529|     23| 2.029| 10|  0|  0| 
 |Yu Darvish       |SP          |  2|  9.667|  7|  6.517|     11| 1.138| 16|  0|  0| 
 |Jordan Romano    |RP          |  6|  6.000|  0|  0.000|      7| 1.167| 12|  1|  2| 
-|Tyler Rogers     |RP          |  9|  9.000|  2|  2.000|      8| 0.889|  6|  2|  0| 
+|Tyler Rogers     |RP          | 10| 10.000|  2|  1.800|     10| 1.000|  6|  2|  0| 
 |Casey Mize       |OP          |  2|  8.333|  5|  5.400|     14| 1.680|  8|  0|  0| 
 |Greg Holland     |OP          |  6|  5.000|  8| 14.400|     12| 2.400|  3|  0|  0| 
 |Heath Hembree    |OP          |  5|  4.000|  7| 15.750|     10| 2.500|  5|  0|  0| 

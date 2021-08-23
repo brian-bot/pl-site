@@ -6,20 +6,20 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Christian Vazquez |C         |     10|  3|   1|  1|  0| 
-|Carlos Santana    |1B        |     15|  3|   3|  0|  0| 
+|Carlos Santana    |1B        |     18|  4|   4|  0|  0| 
 |Max Muncy         |2B        |     18| 14|  14|  6|  0| 
 |Alex Bregman      |3B        |     **| **|  **| **| **| 
-|Dansby Swanson    |SS        |     26| 13|  16|  4|  1| 
+|Dansby Swanson    |SS        |     29| 14|  16|  4|  1| 
 |Joey Wendle       |MI        |     13|  8|   5|  0|  0| 
-|Aledmys Diaz      |CI        |     22|  4|  10|  1|  0| 
-|Brian Goodwin     |OF        |     12|  4|   3|  1|  1| 
-|Christian Yelich  |OF        |     17| 10|  10|  2|  1| 
+|Aledmys Diaz      |CI        |     23|  4|  10|  1|  0| 
+|Brian Goodwin     |OF        |     13|  4|   3|  1|  1| 
+|Christian Yelich  |OF        |     19| 10|  11|  2|  1| 
 |Jesse Winker      |OF        |     17|  7|  11|  3|  0| 
 |Wil Myers         |OF        |     20|  8|   6|  3|  1| 
 |Adam Engel        |DH        |      7|  5|   2|  1|  3| 
 |Max Kepler        |DH        |     20| 10|   5|  2|  0| 
 |Rafael Ortega     |DH        |     23|  7|   4|  0|  3| 
-|Yadiel Hernandez  |DH        |     16|  5|   6|  2|  1| 
+|Yadiel Hernandez  |DH        |     17|  5|   6|  2|  1| 
 |Alex Kirilloff    |BAT BENCH |     **| **|  **| **| **| 
 |Andrew McCutchen  |BAT BENCH |      6|  1|   2|  1|  0| 
 |Cavan Biggio      |BAT BENCH |     **| **|  **| **| **| 
@@ -39,7 +39,7 @@
 |Yusei Kikuchi     |SP          |  3| 12.000| 10| 7.500|     26| 2.167| 13|  0|  0| 
 |Zack Greinke      |SP          |  3| 19.000|  4| 1.895|     14| 0.737| 10|  1|  0| 
 |Devin Williams    |RP          |  7|  7.000|  0| 0.000|      7| 1.000| 10|  1|  2| 
-|James Karinchak   |RP          |  6|  6.000|  3| 4.500|      5| 0.833|  4|  0|  0| 
+|James Karinchak   |RP          |  7|  6.333|  3| 4.263|      8| 1.263|  4|  0|  0| 
 |Alex Colome       |OP          |  8|  7.333|  2| 2.455|      6| 0.818|  1|  1|  4| 
 |Craig Kimbrel     |OP          |  7|  6.333|  5| 7.105|     10| 1.579| 10|  0|  0| 
 |Eduardo Rodriguez |OP          |  3| 15.000|  7| 4.200|     20| 1.333| 17|  1|  0| 
