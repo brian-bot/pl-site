@@ -11,7 +11,7 @@
 |Jose Ramirez          |3B        |     25| 12|  14|  5|  5| 
 |Fernando Tatis Jr.    |SS        |      9|  6|   6|  3|  0| 
 |Josh Rojas            |MI        |     22|  5|   8|  1|  0| 
-|Vladimir Guerrero Jr. |CI        |     25| 11|   4|  2|  1| 
+|Vladimir Guerrero Jr. |CI        |     27| 11|   5|  2|  1| 
 |Austin Hays           |OF        |     16|  5|   5|  2|  1| 
 |Brandon Nimmo         |OF        |     29| 11|   5|  2|  1| 
 |Joc Pederson          |OF        |     15|  6|   3|  2|  0| 
@@ -19,7 +19,7 @@
 |Akil Baddoo           |DH        |      6|  2|   2|  0|  0| 
 |Anthony Rizzo         |DH        |      3|  1|   3|  0|  2| 
 |Eugenio Suarez        |DH        |      9|  6|   8|  2|  0| 
-|J.P. Crawford         |DH        |     18|  6|   4|  1|  0| 
+|J.P. Crawford         |DH        |     19|  7|   4|  1|  0| 
 |Eddie Rosario         |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -36,7 +36,7 @@
 |Ryan Weathers     |SP          |  4| 13.667| 20| 13.171|     29| 2.122| 13|  0|  0| 
 |Zac Gallen        |SP          |  3| 18.000|  9|  4.500|     23| 1.278| 21|  0|  0| 
 |Zack Wheeler      |SP          |  3| 21.667| 10|  4.154|     16| 0.738| 24|  1|  0| 
-|Daniel Bard       |RP          |  6|  6.000|  3|  4.500|      8| 1.333|  6|  2|  4| 
+|Daniel Bard       |RP          |  7|  6.333|  5|  7.105|     10| 1.579|  7|  2|  4| 
 |Raisel Iglesias   |RP          |  6|  6.000|  1|  1.500|      5| 0.833| 11|  0|  4| 
 |Andrew Kittredge  |OP          |  5|  6.000|  1|  1.500|      8| 1.333|  9|  1|  0| 
 |Chad Green        |OP          |  8| 10.333|  3|  2.613|      9| 0.871| 14|  3|  3| 

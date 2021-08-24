@@ -6,9 +6,9 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Max Stassi       |C         |      8|  2|   4|  1|  0| 
-|DJ LeMahieu      |1B        |     30| 10|   5|  1|  0| 
+|DJ LeMahieu      |1B        |     31| 11|   5|  1|  0| 
 |Adam Frazier     |2B        |     19|  7|   1|  0|  1| 
-|Austin Riley     |3B        |     25| 14|  13|  5|  0| 
+|Austin Riley     |3B        |     26| 14|  13|  5|  0| 
 |Brendan Rodgers  |SS        |     17|  8|   2|  0|  0| 
 |Ryan McMahon     |MI        |     21|  6|   8|  1|  0| 
 |J.D. Davis       |CI        |     24|  5|   9|  1|  1| 
@@ -16,7 +16,7 @@
 |Mookie Betts     |OF        |      3|  1|   1|  0|  0| 
 |Nick Castellanos |OF        |     20| 13|  11|  4|  0| 
 |Shohei Ohtani    |OF        |     28|  8|   6|  3|  4| 
-|Alex Verdugo     |DH        |     19|  6|   5|  1|  0| 
+|Alex Verdugo     |DH        |     23|  8|   7|  2|  0| 
 |Cedric Mullins   |DH        |     17|  8|   5|  3|  2| 
 |Harrison Bader   |DH        |     15|  3|   3|  0|  0| 
 |Jo Adell         |DH        |     14|  7|   9|  1|  0| 

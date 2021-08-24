@@ -8,17 +8,17 @@
 |Eric Haase        |C         |     10|  4|   3|  1|  1| 
 |Rowdy Tellez      |1B        |     10|  4|   4|  1|  0| 
 |Jonathan India    |2B        |     21| 17|  11|  5|  1| 
-|Rafael Devers     |3B        |     20|  8|   7|  2|  0| 
-|Bo Bichette       |SS        |     18|  8|   4|  1|  1| 
+|Rafael Devers     |3B        |     22|  9|   8|  2|  0| 
+|Bo Bichette       |SS        |     18|  9|   4|  1|  1| 
 |Corey Seager      |MI        |     25| 12|   9|  2|  0| 
 |Kyle Seager       |CI        |     19| 10|  15|  7|  1| 
 |Austin Meadows    |OF        |     18|  4|  12|  1|  0| 
-|Giancarlo Stanton |OF        |     26|  9|   8|  3|  0| 
+|Giancarlo Stanton |OF        |     28| 10|  11|  4|  0| 
 |J.D. Martinez     |OF        |     19|  8|  11|  2|  0| 
 |Tommy Pham        |OF        |     16|  5|   2|  1|  0| 
-|Abraham Toro      |DH        |     22|  3|   5|  0|  0| 
+|Abraham Toro      |DH        |     25|  4|   5|  0|  0| 
 |Avisail Garcia    |DH        |     21| 11|   7|  6|  1| 
-|Hunter Renfroe    |DH        |     19| 10|  13|  5|  0| 
+|Hunter Renfroe    |DH        |     20| 12|  14|  6|  0| 
 |Jonathan Schoop   |DH        |     21|  7|   7|  0|  0| 
 |Byron Buxton      |BAT BENCH |     **| **|  **| **| **| 
 |Yasmani Grandal   |BAT BENCH |     **| **|  **| **| **| 
@@ -40,12 +40,12 @@
 |Alex Reyes        |RP          |  7|  7.000|  5|  6.429|     12| 1.714| 10|  0|  4| 
 |Diego Castillo    |RP          |  7|  7.333|  3|  3.682|      6| 0.818|  7|  0|  0| 
 |Kyle Muller       |OP          |  2|  7.000|  9| 11.571|     12| 1.714|  4|  0|  0| 
-|Lou Trivino       |OP          |  8|  8.000|  2|  2.250|      9| 1.125|  4|  1|  4| 
+|Lou Trivino       |OP          |  9|  8.667|  5|  5.192|     13| 1.500|  6|  1|  4| 
 |Luis Patino       |OP          |  3| 15.000|  8|  4.800|     22| 1.467| 14|  1|  0| 
 |Merrill Kelly     |OP          |  2| 13.000|  5|  3.462|     17| 1.308|  7|  0|  0| 
 |Tylor Megill      |OP          |  3| 15.667|  8|  4.596|     20| 1.277| 17|  0|  0| 
 |Jacob deGrom      |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Jordan Montgomery |PITCH BENCH |  1|  4.667|  3|  5.786|      7| 1.500|  6|  0|  0| 
+|Jordan Montgomery |PITCH BENCH |  2|  9.667|  4|  3.724|     13| 1.345|  8|  1|  0| 
 |Trevor Rogers     |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 
 
