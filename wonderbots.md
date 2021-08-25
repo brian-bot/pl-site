@@ -5,23 +5,23 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Yadier Molina    |C         |     16|  3|   8|  0|  0| 
-|Jose Abreu       |1B        |     27| 13|  11|  6|  0| 
-|Jose Altuve      |2B        |     26|  8|   2|  0|  0| 
-|Ty France        |3B        |     30| 11|  11|  5|  0| 
-|Javier Baez      |SS        |      5|  2|   1|  0|  0| 
-|David Fletcher   |MI        |     24|  7|   2|  0|  4| 
+|Yadier Molina    |C         |     17|  3|   8|  0|  0| 
+|Jose Abreu       |1B        |     30| 14|  15|  7|  0| 
+|Jose Altuve      |2B        |     26|  9|   2|  0|  0| 
+|Ty France        |3B        |     31| 11|  11|  5|  0| 
+|Javier Baez      |SS        |      6|  2|   1|  0|  0| 
+|David Fletcher   |MI        |     26|  7|   4|  0|  4| 
 |Kris Bryant      |CI        |     22|  9|   9|  3|  3| 
 |Charlie Blackmon |OF        |     22| 12|  11|  3|  0| 
-|Dylan Carlson    |OF        |     12|  6|   2|  1|  1| 
+|Dylan Carlson    |OF        |     13|  7|   2|  1|  1| 
 |George Springer  |OF        |     13|  9|   8|  3|  0| 
-|Jarred Kelenic   |OF        |     16|  7|   5|  2|  0| 
-|AJ Pollock       |DH        |     21|  6|   9|  1|  3| 
+|Jarred Kelenic   |OF        |     18|  8|   7|  2|  0| 
+|AJ Pollock       |DH        |     22|  6|  11|  1|  3| 
 |Andrew Vaughn    |DH        |     21|  5|  10|  3|  0| 
-|Hunter Dozier    |DH        |     20|  9|   7|  2|  1| 
+|Hunter Dozier    |DH        |     21|  9|   7|  2|  1| 
 |Justin Upton     |DH        |      8|  3|   6|  2|  1| 
 |Anthony Rendon   |BAT BENCH |     **| **|  **| **| **| 
-|Didi Gregorius   |BAT BENCH |     13|  2|   4|  1|  0| 
+|Didi Gregorius   |BAT BENCH |     15|  3|   4|  1|  0| 
 
 * * *
 
@@ -36,7 +36,7 @@
 |Lance Lynn      |SP          |  4| 22.000|  7| 2.864|     22| 1.000| 23|  0|  0| 
 |Rich Hill       |SP          |  4| 16.667|  8| 4.320|     23| 1.380| 11|  0|  0| 
 |Taijuan Walker  |SP          |  3| 18.667|  8| 3.857|     17| 0.911| 13|  0|  0| 
-|Blake Treinen   |RP          |  8|  9.000|  2| 2.000|      6| 0.667| 14|  1|  1| 
+|Blake Treinen   |RP          |  9|  9.333|  2| 1.929|      8| 0.857| 15|  1|  1| 
 |Rafael Montero  |RP          |  2|  2.667|  0| 0.000|      2| 0.750|  3|  0|  0| 
 |Adam Wainwright |OP          |  4| 30.000|  4| 1.200|     24| 0.800| 26|  3|  0| 
 |Emmanuel Clase  |OP          |  8|  7.667|  0| 0.000|      4| 0.522| 10|  0|  4| 
