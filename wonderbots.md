@@ -10,13 +10,13 @@
 |Jose Altuve      |2B        |      0|  0|   0|  0|  0| 
 |Ty France        |3B        |     **| **|  **| **| **| 
 |Javier Baez      |SS        |      1|  0|   0|  0|  0| 
-|David Fletcher   |MI        |     **| **|  **| **| **| 
+|David Fletcher   |MI        |      0|  0|   0|  0|  0| 
 |Kris Bryant      |CI        |      1|  2|   1|  1|  0| 
-|Charlie Blackmon |OF        |      0|  0|   0|  0|  0| 
+|Charlie Blackmon |OF        |      0|  1|   0|  0|  0| 
 |Dylan Carlson    |OF        |      0|  0|   0|  0|  0| 
 |George Springer  |OF        |     **| **|  **| **| **| 
 |Jarred Kelenic   |OF        |     **| **|  **| **| **| 
-|AJ Pollock       |DH        |     **| **|  **| **| **| 
+|AJ Pollock       |DH        |      1|  1|   2|  1|  0| 
 |Andrew Vaughn    |DH        |      0|  0|   0|  0|  0| 
 |Didi Gregorius   |DH        |      0|  0|   0|  0|  0| 
 |Hunter Dozier    |DH        |      2|  0|   0|  0|  0| 
@@ -36,7 +36,7 @@
 |Lance Lynn      |SP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Rich Hill       |SP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Taijuan Walker  |SP          |  1| 6.000|  2| 3.000|      3| 0.500|  3|  0|  0| 
-|Blake Treinen   |RP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Blake Treinen   |RP          |  1| 1.000|  0| 0.000|      0| 0.000|  0|  0|  0| 
 |Gregory Soto    |RP          |  1| 1.000|  0| 0.000|      0| 0.000|  1|  0|  0| 
 |Adam Wainwright |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Austin Gomber   |OP          |  1| 4.667|  5| 9.643|      8| 1.714|  8|  0|  0| 

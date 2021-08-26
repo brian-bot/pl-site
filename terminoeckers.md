@@ -6,22 +6,22 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Yasmani Grandal   |C         |     **| **|  **| **| **| 
-|Miguel Sano       |1B        |     **| **|  **| **| **| 
-|Jonathan India    |2B        |     **| **|  **| **| **| 
-|Rafael Devers     |3B        |     **| **|  **| **| **| 
+|Miguel Sano       |1B        |      1|  1|   1|  1|  0| 
+|Jonathan India    |2B        |      0|  0|   0|  0|  0| 
+|Rafael Devers     |3B        |      2|  0|   0|  0|  0| 
 |Bo Bichette       |SS        |      0|  0|   0|  0|  0| 
-|Corey Seager      |MI        |     **| **|  **| **| **| 
+|Corey Seager      |MI        |      1|  0|   0|  0|  0| 
 |Kyle Seager       |CI        |     **| **|  **| **| **| 
 |Austin Meadows    |OF        |      0|  0|   0|  0|  0| 
 |Byron Buxton      |OF        |     **| **|  **| **| **| 
 |Giancarlo Stanton |OF        |     **| **|  **| **| **| 
-|J.D. Martinez     |OF        |     **| **|  **| **| **| 
+|J.D. Martinez     |OF        |      0|  0|   0|  0|  0| 
 |Abraham Toro      |DH        |     **| **|  **| **| **| 
-|Avisail Garcia    |DH        |     **| **|  **| **| **| 
-|Hunter Renfroe    |DH        |     **| **|  **| **| **| 
+|Avisail Garcia    |DH        |      2|  1|   1|  0|  0| 
+|Hunter Renfroe    |DH        |      2|  1|   0|  0|  0| 
 |Jonathan Schoop   |DH        |      4|  0|   1|  0|  0| 
 |Eric Haase        |BAT BENCH |     **| **|  **| **| **| 
-|Tommy Pham        |BAT BENCH |     **| **|  **| **| **| 
+|Tommy Pham        |BAT BENCH |      2|  0|   0|  0|  0| 
 
 
 * * *
