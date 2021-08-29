@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |      6|  3|   2|  2|  1| 
+|Will Smith        |C         |      9|  3|   4|  2|  1| 
 |Pete Alonso       |1B        |      4|  1|   2|  1|  0| 
-|Ozzie Albies      |2B        |      1|  1|   1|  0|  0| 
-|Yoan Moncada      |3B        |      4|  2|   3|  0|  0| 
-|Xander Bogaerts   |SS        |      2|  0|   0|  0|  0| 
+|Ozzie Albies      |2B        |      3|  1|   1|  0|  1| 
+|Yoan Moncada      |3B        |      6|  2|   3|  0|  0| 
+|Xander Bogaerts   |SS        |      3|  0|   0|  0|  0| 
 |Tim Anderson      |MI        |      6|  4|   2|  0|  0| 
-|Patrick Wisdom    |CI        |      5|  6|   7|  3|  0| 
-|Juan Soto         |OF        |      3|  2|   3|  1|  0| 
-|Mike Yastrzemski  |OF        |      3|  2|   0|  0|  0| 
+|Patrick Wisdom    |CI        |      7|  8|   9|  5|  0| 
+|Juan Soto         |OF        |      4|  2|   3|  1|  0| 
+|Mike Yastrzemski  |OF        |      5|  3|   2|  1|  0| 
 |Nelson Cruz       |OF        |      0|  0|   0|  0|  0| 
-|Ryan Mountcastle  |OF        |      4|  2|   2|  0|  0| 
+|Ryan Mountcastle  |OF        |      5|  2|   3|  0|  0| 
 |Mike Zunino       |DH        |      1|  1|   3|  1|  0| 
-|Starling Marte    |DH        |      3|  1|   0|  0|  1| 
+|Starling Marte    |DH        |      3|  1|   0|  0|  3| 
 |Teoscar Hernandez |DH        |      3|  1|   0|  0|  0| 
-|Wander Franco     |DH        |      4|  3|   0|  0|  0| 
+|Wander Franco     |DH        |      5|  3|   0|  0|  0| 
 |Pavin Smith       |BAT BENCH |      5|  4|   1|  1|  0| 
 |Steven Duggar     |BAT BENCH |     **| **|  **| **| **| 
 
@@ -33,12 +33,12 @@
 |:----------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
 |Hyun Jin Ryu     |SP          |  1| 3.667|  7| 17.182|      8| 2.182|  4|  0|  0| 
 |Ian Anderson     |SP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Marcus Stroman   |SP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Sandy Alcantara  |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Marcus Stroman   |SP          |  1| 6.000|  2|  3.000|      8| 1.333|  5|  0|  0| 
+|Sandy Alcantara  |SP          |  1| 7.000|  1|  1.286|      7| 1.000| 12|  1|  0| 
 |Sean Manaea      |SP          |  1| 4.333|  5| 10.385|      7| 1.615|  5|  0|  0| 
 |Yu Darvish       |SP          |  1| 6.000|  4|  6.000|      6| 1.000|  6|  0|  0| 
-|Jordan Romano    |RP          |  1| 1.000|  0|  0.000|      1| 1.000|  0|  0|  1| 
-|Tyler Rogers     |RP          |  2| 2.000|  0|  0.000|      0| 0.000|  2|  0|  1| 
+|Jordan Romano    |RP          |  2| 3.000|  0|  0.000|      2| 0.667|  2|  1|  1| 
+|Tyler Rogers     |RP          |  3| 3.000|  0|  0.000|      2| 0.667|  3|  0|  1| 
 |Casey Mize       |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |David Bednar     |OP          |  1| 1.000|  0|  0.000|      0| 0.000|  1|  0|  0| 
 |Drew Smyly       |OP          | **|    **| **|     **|     **|    **| **| **| **| 
