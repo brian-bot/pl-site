@@ -5,22 +5,22 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto    |C         |      6|  2|   2|  0|  0| 
-|Trey Mancini     |1B        |      4|  3|   1|  0|  0| 
-|Marcus Semien    |2B        |      6|  2|   4|  2|  0| 
-|Nolan Arenado    |3B        |      4|  2|   2|  1|  0| 
+|J.T. Realmuto    |C         |      8|  3|   2|  0|  0| 
+|Trey Mancini     |1B        |      7|  3|   2|  0|  0| 
+|Marcus Semien    |2B        |      8|  2|   4|  2|  0| 
+|Nolan Arenado    |3B        |      5|  2|   2|  1|  0| 
 |Carlos Correa    |SS        |      5|  3|   1|  1|  0| 
 |Jake Cronenworth |MI        |      7|  1|   0|  0|  0| 
-|C.J. Cron        |CI        |      4|  2|   2|  2|  0| 
-|Franmil Reyes    |OF        |     12|  3|   4|  2|  0| 
+|C.J. Cron        |CI        |      7|  3|   5|  3|  0| 
+|Franmil Reyes    |OF        |     13|  4|   4|  2|  0| 
 |Manuel Margot    |OF        |      2|  1|   2|  0|  0| 
-|Mark Canha       |OF        |      3|  0|   0|  0|  0| 
-|Tommy Edman      |OF        |     10|  5|   7|  1|  1| 
+|Mark Canha       |OF        |      4|  1|   1|  0|  0| 
+|Tommy Edman      |OF        |     12|  7|   9|  2|  1| 
 |Buster Posey     |DH        |      3|  2|   2|  1|  0| 
-|Jed Lowrie       |DH        |      1|  0|   0|  0|  0| 
-|Joey Votto       |DH        |      2|  1|   1|  0|  0| 
-|Josh Bell        |DH        |      6|  1|   4|  1|  0| 
-|Dominic Smith    |BAT BENCH |      3|  0|   1|  0|  0| 
+|Jed Lowrie       |DH        |      2|  0|   0|  0|  0| 
+|Joey Votto       |DH        |      2|  1|   2|  0|  0| 
+|Josh Bell        |DH        |      8|  3|   7|  3|  0| 
+|Dominic Smith    |BAT BENCH |      4|  1|   2|  0|  0| 
 |Mike Trout       |BAT BENCH |     **| **|  **| **| **| 
 |Raimel Tapia     |BAT BENCH |     **| **|  **| **| **| 
 
@@ -41,9 +41,9 @@
 |Mark Melancon   |RP          |  1| 1.000|  0|  0.000|      1| 1.000|  1|  0|  0| 
 |Adam Ottavino   |OP          |  2| 1.667|  0|  0.000|      2| 1.200|  3|  0|  2| 
 |Cristian Javier |OP          |  1| 1.333|  1|  6.750|      1| 0.750|  2|  0|  0| 
-|Ian Kennedy     |OP          |  1| 1.000|  2| 18.000|      2| 2.000|  2|  0|  0| 
-|Michael Kopech  |OP          |  1| 1.000|  5| 45.000|      4| 4.000|  1|  0|  0| 
-|Ranger Suarez   |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Ian Kennedy     |OP          |  2| 2.000|  2|  9.000|      2| 1.000|  4|  0|  1| 
+|Michael Kopech  |OP          |  2| 2.000|  5| 22.500|      5| 2.500|  3|  0|  0| 
+|Ranger Suarez   |OP          |  1| 5.333|  1|  1.688|      7| 1.312|  5|  1|  0| 
 |Andre Jackson   |PITCH BENCH |  1| 4.667|  1|  1.929|      6| 1.286|  2|  0|  0| 
 |Clayton Kershaw |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 
