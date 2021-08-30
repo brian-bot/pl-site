@@ -42,7 +42,7 @@
 |Daniel Lynch      |OP          |  1| 4.667|  1|  1.929|     10| 2.143|  4|  0|  0| 
 |Kyle Freeland     |OP          |  1| 6.000|  2|  3.000|      4| 0.667|  7|  1|  0| 
 |Luis Patino       |OP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Nestor Cortes     |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Nestor Cortes Jr. |OP          |  1| 5.333|  3|  5.062|      7| 1.312|  4|  0|  0| 
 |Tylor Megill      |OP          |  1| 5.000|  2|  3.600|      4| 0.800|  5|  1|  0| 
 |Jacob deGrom      |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Patrick Sandoval  |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
