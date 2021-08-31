@@ -6,22 +6,22 @@
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Salvador Perez      |C         |     11|  5|  13|  5|  0| 
-|Paul Goldschmidt    |1B        |     10|  3|   6|  2|  1| 
-|Ketel Marte         |2B        |      6|  1|   2|  1|  0| 
-|Manny Machado       |3B        |      7|  1|   0|  0|  0| 
-|Trea Turner         |SS        |      9|  3|   2|  1|  1| 
+|Paul Goldschmidt    |1B        |     12|  4|   8|  3|  1| 
+|Ketel Marte         |2B        |      7|  2|   6|  2|  0| 
+|Manny Machado       |3B        |      9|  2|   0|  0|  0| 
+|Trea Turner         |SS        |     10|  3|   2|  1|  1| 
 |Cesar Hernandez     |MI        |      7|  3|   1|  1|  0| 
 |Jeimer Candelario   |CI        |      5|  1|   1|  0|  0| 
 |Bryan Reynolds      |OF        |      6|  2|   2|  0|  1| 
 |Chris Taylor        |OF        |      4|  2|   1|  1|  1| 
 |Eloy Jimenez        |OF        |      6|  5|   6|  2|  0| 
-|Michael Brantley    |OF        |      5|  0|   3|  0|  0| 
-|Justin Turner       |DH        |      4|  2|   0|  0|  0| 
-|Kyle Tucker         |DH        |      7|  4|   0|  0|  0| 
+|Michael Brantley    |OF        |      6|  1|   3|  0|  0| 
+|Justin Turner       |DH        |      6|  2|   0|  0|  0| 
+|Kyle Tucker         |DH        |      9|  5|   2|  0|  1| 
 |Nicky Lopez         |DH        |     13|  4|   2|  0|  0| 
 |Tyler Naquin        |DH        |      9|  2|   2|  1|  0| 
 |Andrew Benintendi   |BAT BENCH |      2|  0|   0|  0|  0| 
-|Jake Meyers         |BAT BENCH |      6|  2|   4|  0|  0| 
+|Jake Meyers         |BAT BENCH |      8|  2|   5|  0|  0| 
 |Jean Segura         |BAT BENCH |     10|  7|   4|  2|  0| 
 |Lourdes Gurriel Jr. |BAT BENCH |      6|  0|   0|  0|  0| 
 
@@ -34,7 +34,7 @@
 |players           |position    |  g|    ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
 |Blake Snell       |SP          |  1| 7.667|  1|  1.174|      3| 0.391| 10|  0|  0| 
-|Corbin Burnes     |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Corbin Burnes     |SP          |  1| 6.000|  1|  1.500|      4| 0.667|  9|  1|  0| 
 |Dallas Keuchel    |SP          |  1| 1.000|  5| 45.000|      8| 8.000|  1|  0|  0| 
 |Nathan Eovaldi    |SP          |  1| 5.333|  2|  3.375|      6| 1.125|  7|  0|  0| 
 |Shane McClanahan  |SP          |  1| 6.000|  2|  3.000|      8| 1.333|  4|  1|  0| 

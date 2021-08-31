@@ -5,21 +5,21 @@
  
 |players         |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------|:---------|------:|--:|---:|--:|--:| 
-|Omar Narvaez    |C         |      3|  1|   0|  0|  0| 
+|Omar Narvaez    |C         |      4|  2|   1|  0|  0| 
 |Rhys Hoskins    |1B        |      1|  1|   1|  1|  0| 
 |Whit Merrifield |2B        |      9|  5|   6|  2|  1| 
-|Luis Urias      |3B        |      4|  2|   3|  2|  0| 
+|Luis Urias      |3B        |      5|  2|   4|  2|  0| 
 |Willy Adames    |SS        |      2|  0|   0|  0|  0| 
 |Paul DeJong     |MI        |      1|  1|   0|  0|  0| 
-|Yuli Gurriel    |CI        |      5|  1|   1|  0|  0| 
-|Aaron Judge     |OF        |      9|  3|   7|  2|  0| 
+|Yuli Gurriel    |CI        |      8|  2|   1|  0|  0| 
+|Aaron Judge     |OF        |     11|  3|   8|  2|  0| 
 |Mitch Haniger   |OF        |      8|  4|   0|  0|  0| 
 |Robbie Grossman |OF        |      4|  1|   0|  0|  0| 
-|Yordan Alvarez  |OF        |      6|  3|   3|  3|  0| 
+|Yordan Alvarez  |OF        |      8|  3|   4|  3|  0| 
 |Jake Fraley     |DH        |      3|  1|   3|  1|  0| 
-|Jorge Soler     |DH        |      6|  4|   4|  2|  0| 
+|Jorge Soler     |DH        |      7|  5|   5|  3|  0| 
 |Luke Voit       |DH        |      2|  1|   1|  1|  0| 
-|Tyler O'Neill   |DH        |      4|  1|   1|  0|  0| 
+|Tyler O'Neill   |DH        |      6|  1|   2|  0|  0| 
 |Cody Bellinger  |BAT BENCH |      3|  0|   1|  0|  0| 
 |Eduardo Escobar |BAT BENCH |     **| **|  **| **| **| 
 |Gleyber Torres  |BAT BENCH |     **| **|  **| **| **| 
