@@ -5,22 +5,22 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Yasmani Grandal   |C         |      7|  3|  10|  3|  0| 
-|Miguel Sano       |1B        |      7|  4|   5|  2|  0| 
+|Yasmani Grandal   |C         |     10|  4|  11|  4|  0| 
+|Miguel Sano       |1B        |      8|  4|   5|  2|  1| 
 |Jonathan India    |2B        |      5|  3|   3|  1|  1| 
-|Rafael Devers     |3B        |      9|  3|   5|  3|  1| 
-|Bo Bichette       |SS        |      9|  4|   4|  1|  1| 
-|Corey Seager      |MI        |      6|  1|   3|  1|  0| 
-|Kyle Seager       |CI        |      6|  6|   3|  2|  0| 
-|Austin Meadows    |OF        |      4|  3|   4|  1|  0| 
-|Byron Buxton      |OF        |      2|  1|   0|  0|  0| 
-|Giancarlo Stanton |OF        |      7|  3|   5|  3|  0| 
-|J.D. Martinez     |OF        |      6|  2|   4|  1|  0| 
-|Abraham Toro      |DH        |      6|  1|   2|  0|  0| 
-|Avisail Garcia    |DH        |      5|  1|   1|  0|  0| 
-|Hunter Renfroe    |DH        |      2|  1|   0|  0|  0| 
-|Jonathan Schoop   |DH        |      7|  2|   1|  0|  0| 
-|Eric Haase        |BAT BENCH |      3|  0|   1|  0|  0| 
+|Rafael Devers     |3B        |     10|  3|   6|  3|  1| 
+|Bo Bichette       |SS        |     11|  4|   4|  1|  1| 
+|Corey Seager      |MI        |      8|  1|   4|  1|  0| 
+|Kyle Seager       |CI        |      7|  7|   3|  2|  0| 
+|Austin Meadows    |OF        |      5|  4|   5|  1|  0| 
+|Byron Buxton      |OF        |      3|  1|   0|  0|  0| 
+|Giancarlo Stanton |OF        |      8|  3|   6|  3|  0| 
+|J.D. Martinez     |OF        |      8|  3|   5|  1|  0| 
+|Abraham Toro      |DH        |      9|  2|   6|  1|  0| 
+|Avisail Garcia    |DH        |      6|  2|   2|  0|  0| 
+|Hunter Renfroe    |DH        |      4|  2|   0|  0|  0| 
+|Jonathan Schoop   |DH        |      8|  2|   1|  0|  0| 
+|Eric Haase        |BAT BENCH |      4|  0|   1|  0|  0| 
 |Tommy Pham        |BAT BENCH |      5|  1|   0|  0|  0| 
 
 

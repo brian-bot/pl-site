@@ -6,25 +6,25 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Daulton Varsho    |C         |      4|  3|   0|  0|  0| 
-|Matt Olson        |1B        |      6|  1|   1|  0|  0| 
+|Matt Olson        |1B        |      8|  3|   2|  0|  0| 
 |Brandon Lowe      |2B        |      7|  5|   3|  2|  0| 
-|Matt Chapman      |3B        |      6|  2|   3|  2|  0| 
-|Trevor Story      |SS        |      7|  4|   3|  2|  0| 
-|Jorge Polanco     |MI        |      6|  5|   3|  1|  0| 
-|Brandon Belt      |CI        |      4|  1|   0|  0|  0| 
+|Matt Chapman      |3B        |      8|  4|   6|  4|  0| 
+|Trevor Story      |SS        |      8|  4|   3|  2|  0| 
+|Jorge Polanco     |MI        |      8|  5|   4|  1|  0| 
+|Brandon Belt      |CI        |      5|  2|   1|  1|  0| 
 |Adam Duvall       |OF        |      3|  2|   2|  2|  0| 
-|Adolis Garcia     |OF        |      9|  5|   6|  2|  0| 
-|Joey Gallo        |OF        |      7|  1|   3|  1|  0| 
-|Randy Arozarena   |OF        |      3|  3|   4|  1|  1| 
-|Anthony Santander |DH        |      5|  3|   1|  1|  0| 
+|Adolis Garcia     |OF        |     12|  7|   6|  2|  1| 
+|Joey Gallo        |OF        |      8|  1|   3|  1|  0| 
+|Randy Arozarena   |OF        |      4|  5|   5|  2|  1| 
+|Anthony Santander |DH        |      7|  4|   1|  1|  0| 
 |Enrique Hernandez |DH        |      5|  4|   1|  1|  0| 
-|Jazz Chisholm Jr. |DH        |      5|  2|   0|  0|  1| 
+|Jazz Chisholm Jr. |DH        |      9|  3|   1|  0|  3| 
 |Luis Robert       |DH        |      8|  7|   6|  3|  0| 
 |Adalberto Mondesi |BAT BENCH |     **| **|  **| **| **| 
-|Brandon Crawford  |BAT BENCH |      4|  0|   3|  0|  0| 
-|Jesus Aguilar     |BAT BENCH |      6|  1|   1|  0|  0| 
-|Josh Donaldson    |BAT BENCH |     12|  4|   7|  3|  0| 
-|Kyle Schwarber    |BAT BENCH |     13|  5|   3|  2|  0| 
+|Brandon Crawford  |BAT BENCH |      5|  0|   3|  0|  0| 
+|Jesus Aguilar     |BAT BENCH |      8|  1|   4|  0|  0| 
+|Josh Donaldson    |BAT BENCH |     13|  4|   7|  3|  0| 
+|Kyle Schwarber    |BAT BENCH |     16|  7|   5|  3|  0| 
 
 
 * * *
@@ -34,10 +34,10 @@
  
 |players             |position |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:-------------------|:--------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Charlie Morton      |SP       | **|     **| **|     **|     **|    **| **| **| **| 
+|Charlie Morton      |SP       |  1|  6.000|  1|  1.500|      5| 0.833|  8|  0|  0| 
 |Gerrit Cole         |SP       |  1|  6.000|  0|  0.000|      8| 1.333|  9|  1|  0| 
 |Kyle Gibson         |SP       |  1|  6.000|  0|  0.000|      3| 0.500|  3|  1|  0| 
-|Lance McCullers Jr. |SP       |  1|  6.667|  4|  5.400|      9| 1.350|  7|  0|  0| 
+|Lance McCullers Jr. |SP       |  2| 11.667|  4|  3.086|     16| 1.371| 10|  0|  0| 
 |Robbie Ray          |SP       |  2| 14.000|  3|  1.929|     11| 0.786| 24|  1|  0| 
 |Wade Miley          |SP       |  1|  7.000|  0|  0.000|      7| 1.000|  5|  1|  0| 
 |Matt Barnes         |RP       |  2|  1.333|  0|  0.000|      2| 1.500|  2|  0|  0| 
