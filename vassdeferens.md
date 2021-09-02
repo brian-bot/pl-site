@@ -8,19 +8,19 @@
 |Will Smith        |C         |     11|  4|   5|  3|  1| 
 |Pete Alonso       |1B        |      9|  2|   3|  1|  0| 
 |Ozzie Albies      |2B        |      6|  3|   2|  1|  1| 
-|Yoan Moncada      |3B        |      7|  2|   3|  0|  0| 
+|Yoan Moncada      |3B        |      9|  2|   3|  0|  0| 
 |Xander Bogaerts   |SS        |      6|  1|   1|  0|  0| 
 |Tim Anderson      |MI        |      6|  4|   2|  0|  0| 
 |Patrick Wisdom    |CI        |      9|  8|   9|  5|  0| 
 |Juan Soto         |OF        |     12|  6|   4|  2|  1| 
 |Mike Yastrzemski  |OF        |      6|  3|   2|  1|  0| 
-|Nelson Cruz       |OF        |      3|  2|   1|  0|  0| 
-|Ryan Mountcastle  |OF        |     13|  8|   6|  2|  0| 
-|Mike Zunino       |DH        |      4|  2|   3|  1|  0| 
-|Starling Marte    |DH        |      6|  3|   0|  0|  3| 
-|Teoscar Hernandez |DH        |      5|  1|   2|  0|  0| 
-|Wander Franco     |DH        |     11|  6|   4|  0|  0| 
-|Pavin Smith       |BAT BENCH |      7|  5|   1|  1|  0| 
+|Nelson Cruz       |OF        |      5|  3|   1|  0|  0| 
+|Ryan Mountcastle  |OF        |     16|  9|   7|  2|  0| 
+|Mike Zunino       |DH        |      6|  2|   3|  1|  0| 
+|Starling Marte    |DH        |      8|  5|   1|  1|  3| 
+|Teoscar Hernandez |DH        |      6|  2|   3|  0|  0| 
+|Wander Franco     |DH        |     13|  7|   6|  1|  0| 
+|Pavin Smith       |BAT BENCH |     10|  7|   2|  1|  0| 
 |Steven Duggar     |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -36,9 +36,9 @@
 |Marcus Stroman   |SP          |  2| 6.333|  2|  2.842|      9| 1.421|  5|  0|  0| 
 |Sandy Alcantara  |SP          |  1| 7.000|  1|  1.286|      7| 1.000| 12|  1|  0| 
 |Sean Manaea      |SP          |  1| 4.333|  5| 10.385|      7| 1.615|  5|  0|  0| 
-|Yu Darvish       |SP          |  1| 6.000|  4|  6.000|      6| 1.000|  6|  0|  0| 
-|Jordan Romano    |RP          |  3| 3.667|  0|  0.000|      2| 0.545|  3|  1|  2| 
-|Tyler Rogers     |RP          |  3| 3.000|  0|  0.000|      2| 0.667|  3|  0|  1| 
+|Yu Darvish       |SP          |  2| 8.667|  9|  9.346|     15| 1.731|  9|  0|  0| 
+|Jordan Romano    |RP          |  4| 4.667|  0|  0.000|      2| 0.429|  5|  1|  3| 
+|Tyler Rogers     |RP          |  4| 4.000|  0|  0.000|      3| 0.750|  3|  0|  1| 
 |Casey Mize       |OP          |  1| 6.000|  3|  4.500|      6| 1.000|  4|  0|  0| 
 |David Bednar     |OP          |  2| 2.000|  0|  0.000|      0| 0.000|  2|  0|  0| 
 |Drew Smyly       |OP          |  1| 4.667|  5|  9.643|      9| 1.929|  5|  0|  0| 

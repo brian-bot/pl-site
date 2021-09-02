@@ -6,24 +6,24 @@
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Salvador Perez      |C         |     11|  6|  13|  5|  0| 
-|Paul Goldschmidt    |1B        |     12|  4|   8|  3|  1| 
-|Ketel Marte         |2B        |      7|  2|   6|  2|  0| 
-|Manny Machado       |3B        |     11|  3|   2|  1|  0| 
-|Trea Turner         |SS        |     11|  3|   2|  1|  1| 
-|Cesar Hernandez     |MI        |      7|  3|   1|  1|  0| 
-|Jeimer Candelario   |CI        |      6|  1|   1|  0|  0| 
-|Bryan Reynolds      |OF        |      7|  2|   2|  0|  1| 
-|Chris Taylor        |OF        |      4|  2|   2|  1|  1| 
-|Eloy Jimenez        |OF        |      7|  6|   6|  2|  0| 
-|Michael Brantley    |OF        |      6|  1|   3|  0|  0| 
-|Justin Turner       |DH        |      8|  2|   0|  0|  0| 
+|Paul Goldschmidt    |1B        |     16|  6|  11|  5|  1| 
+|Ketel Marte         |2B        |     10|  4|   6|  2|  0| 
+|Manny Machado       |3B        |     12|  3|   2|  1|  0| 
+|Trea Turner         |SS        |     13|  4|   2|  1|  1| 
+|Cesar Hernandez     |MI        |      8|  3|   1|  1|  0| 
+|Jeimer Candelario   |CI        |      8|  2|   1|  0|  0| 
+|Bryan Reynolds      |OF        |      8|  2|   2|  0|  1| 
+|Chris Taylor        |OF        |      5|  2|   2|  1|  1| 
+|Eloy Jimenez        |OF        |      8|  6|   6|  2|  0| 
+|Michael Brantley    |OF        |      8|  1|   3|  0|  0| 
+|Justin Turner       |DH        |      9|  3|   1|  0|  0| 
 |Kyle Tucker         |DH        |     10|  5|   2|  0|  1| 
-|Nicky Lopez         |DH        |     14|  4|   2|  0|  0| 
+|Nicky Lopez         |DH        |     16|  4|   2|  0|  0| 
 |Tyler Naquin        |DH        |      9|  2|   2|  1|  0| 
 |Andrew Benintendi   |BAT BENCH |      3|  0|   1|  0|  0| 
-|Jake Meyers         |BAT BENCH |      8|  2|   5|  0|  0| 
+|Jake Meyers         |BAT BENCH |      9|  2|   5|  0|  0| 
 |Jean Segura         |BAT BENCH |     12| 10|   4|  2|  0| 
-|Lourdes Gurriel Jr. |BAT BENCH |      8|  0|   0|  0|  0| 
+|Lourdes Gurriel Jr. |BAT BENCH |     10|  0|   2|  0|  0| 
 
 
 * * *
@@ -39,13 +39,13 @@
 |Nathan Eovaldi    |SP          |  1|  5.333|  2|  3.375|      6| 1.125|  7|  0|  0| 
 |Shane McClanahan  |SP          |  1|  6.000|  2|  3.000|      8| 1.333|  4|  1|  0| 
 |Tyler Mahle       |SP          |  1|  7.000|  2|  2.571|      6| 0.857|  6|  0|  0| 
-|Aroldis Chapman   |RP          |  1|  1.000|  0|  0.000|      1| 1.000|  1|  0|  1| 
+|Aroldis Chapman   |RP          |  2|  2.000|  0|  0.000|      1| 0.500|  2|  0|  2| 
 |Edwin Diaz        |RP          |  3|  3.000|  0|  0.000|      1| 0.333|  6|  0|  2| 
 |Brad Keller       |OP          |  1|  4.333|  2|  4.154|      9| 2.077|  3|  0|  0| 
 |Carlos Carrasco   |OP          |  1|  7.000|  2|  2.571|      3| 0.429|  5|  0|  0| 
-|Jonathan Loaisiga |OP          |  2|  3.000|  0|  0.000|      3| 1.000|  3|  1|  0| 
-|Paul Sewald       |OP          |  3|  3.333|  1|  2.700|      4| 1.200|  5|  1|  0| 
-|Scott Barlow      |OP          |  3|  3.333|  1|  2.700|      5| 1.500|  3|  0|  2| 
+|Jonathan Loaisiga |OP          |  3|  4.000|  0|  0.000|      3| 0.750|  3|  1|  0| 
+|Paul Sewald       |OP          |  4|  4.667|  1|  1.929|      6| 1.286|  8|  1|  1| 
+|Scott Barlow      |OP          |  4|  4.333|  1|  2.077|      6| 1.385|  4|  0|  2| 
 |David Price       |PITCH BENCH |  1|  3.667|  2|  4.909|      4| 1.091|  1|  0|  0| 
 
 
