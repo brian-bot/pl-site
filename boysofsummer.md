@@ -8,20 +8,20 @@
 |Max Stassi       |C         |      6|  5|   0|  0|  0| 
 |DJ LeMahieu      |1B        |     11|  6|   1|  0|  0| 
 |Adam Frazier     |2B        |      5|  1|   1|  0|  0| 
-|Austin Riley     |3B        |      8|  2|   3|  1|  0| 
-|Francisco Lindor |SS        |      5|  1|   2|  0|  2| 
-|Brendan Rodgers  |MI        |      9|  4|   9|  2|  0| 
-|Ryan McMahon     |CI        |      5|  2|   5|  2|  0| 
-|Bryce Harper     |OF        |     19|  8|  11|  3|  0| 
+|Austin Riley     |3B        |     11|  3|   5|  1|  0| 
+|Francisco Lindor |SS        |      6|  2|   3|  0|  2| 
+|Brendan Rodgers  |MI        |     11|  5|   9|  2|  0| 
+|Ryan McMahon     |CI        |      6|  2|   5|  2|  0| 
+|Bryce Harper     |OF        |     20|  9|  11|  3|  0| 
 |Mookie Betts     |OF        |      8|  4|   2|  2|  0| 
 |Nick Castellanos |OF        |     12|  6|   8|  4|  0| 
 |Shohei Ohtani    |OF        |      7|  6|   2|  2|  3| 
 |Alex Verdugo     |DH        |     11|  3|   1|  0|  1| 
 |Cedric Mullins   |DH        |     12|  6|   7|  3|  3| 
-|Connor Joe       |DH        |     13|  5|   5|  1|  0| 
+|Connor Joe       |DH        |     14|  6|   6|  1|  0| 
 |Jared Walsh      |DH        |     10|  5|   7|  3|  0| 
 |Gio Urshela      |BAT BENCH |      2|  0|   0|  0|  0| 
-|Lewis Brinson    |BAT BENCH |      2|  1|   0|  0|  1| 
+|Lewis Brinson    |BAT BENCH |      3|  1|   1|  0|  1| 
 |Luis Arraez      |BAT BENCH |      4|  1|   1|  0|  0| 
 
 * * *
@@ -41,7 +41,7 @@
 |Liam Hendriks  |RP          |  3|  3.667|  0| 0.000|      2| 0.545|  4|  0|  2| 
 |Chris Flexen   |OP          |  1|  5.667|  2| 3.176|     10| 1.765|  4|  0|  0| 
 |Dylan Floro    |OP          |  4|  2.333|  1| 3.857|      5| 2.143|  2|  1|  2| 
-|Frankie Montas |OP          |  1|  7.000|  0| 0.000|      3| 0.429|  6|  1|  0| 
+|Frankie Montas |OP          |  2| 13.667|  3| 1.976|     11| 0.805| 13|  2|  0| 
 |Kyle Finnegan  |OP          |  2|  1.333|  0| 0.000|      4| 3.000|  0|  0|  1| 
 |Nick Pivetta   |OP          |  2|  9.000|  8| 8.000|     19| 2.111| 11|  0|  0| 
 |Cole Irvin     |PITCH BENCH |  1|  4.667|  3| 5.786|      9| 1.929|  2|  0|  0| 

@@ -6,25 +6,25 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Daulton Varsho    |C         |      5|  3|   0|  0|  0| 
-|Matt Olson        |1B        |     10|  5|   5|  0|  0| 
+|Matt Olson        |1B        |     11|  6|   5|  0|  0| 
 |Brandon Lowe      |2B        |      7|  5|   3|  2|  0| 
-|Matt Chapman      |3B        |      8|  4|   6|  4|  0| 
-|Trevor Story      |SS        |     10|  5|   4|  2|  0| 
+|Matt Chapman      |3B        |     11|  5|   6|  4|  0| 
+|Trevor Story      |SS        |     12|  5|   4|  2|  1| 
 |Jorge Polanco     |MI        |      8|  5|   4|  1|  0| 
-|Brandon Belt      |CI        |      7|  2|   1|  1|  0| 
-|Adam Duvall       |OF        |      4|  2|   2|  2|  0| 
+|Brandon Belt      |CI        |      9|  3|   1|  1|  0| 
+|Adam Duvall       |OF        |      5|  3|   4|  3|  0| 
 |Adolis Garcia     |OF        |     13|  7|   6|  2|  1| 
 |Joey Gallo        |OF        |      8|  1|   3|  1|  0| 
-|Randy Arozarena   |OF        |      4|  5|   5|  2|  1| 
+|Randy Arozarena   |OF        |      5|  5|   5|  2|  1| 
 |Anthony Santander |DH        |      8|  5|   1|  1|  0| 
 |Enrique Hernandez |DH        |      5|  4|   1|  1|  0| 
-|Jazz Chisholm Jr. |DH        |      9|  3|   1|  0|  3| 
+|Jazz Chisholm Jr. |DH        |     10|  4|   1|  0|  3| 
 |Luis Robert       |DH        |     10|  7|   6|  3|  0| 
 |Adalberto Mondesi |BAT BENCH |      2|  2|   1|  1|  1| 
 |Brandon Crawford  |BAT BENCH |      7|  0|   3|  0|  0| 
-|Jesus Aguilar     |BAT BENCH |      8|  1|   4|  0|  0| 
+|Jesus Aguilar     |BAT BENCH |     10|  1|   5|  0|  0| 
 |Josh Donaldson    |BAT BENCH |     14|  4|   7|  3|  0| 
-|Kyle Schwarber    |BAT BENCH |     17|  7|   5|  3|  0| 
+|Kyle Schwarber    |BAT BENCH |     19|  8|   5|  3|  0| 
 
 
 * * *

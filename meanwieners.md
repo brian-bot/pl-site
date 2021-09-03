@@ -7,17 +7,17 @@
 |:---------------|:---------|------:|--:|---:|--:|--:| 
 |Omar Narvaez    |C         |      8|  3|   3|  0|  0| 
 |Rhys Hoskins    |1B        |      1|  1|   1|  1|  0| 
-|Whit Merrifield |2B        |     12|  6|   6|  2|  1| 
-|Luis Urias      |3B        |      7|  2|   4|  2|  0| 
+|Whit Merrifield |2B        |     13|  6|   6|  2|  1| 
+|Luis Urias      |3B        |      8|  3|   4|  2|  0| 
 |Willy Adames    |SS        |      6|  1|   1|  0|  0| 
 |Paul DeJong     |MI        |      1|  1|   0|  0|  0| 
 |Yuli Gurriel    |CI        |     11|  2|   1|  0|  0| 
 |Aaron Judge     |OF        |     17|  4|  10|  3|  0| 
 |Mitch Haniger   |OF        |      9|  4|   0|  0|  0| 
-|Robbie Grossman |OF        |      8|  3|   1|  1|  0| 
+|Robbie Grossman |OF        |     10|  4|   1|  1|  0| 
 |Yordan Alvarez  |OF        |      9|  3|   4|  3|  0| 
 |Jake Fraley     |DH        |      3|  1|   3|  1|  0| 
-|Jorge Soler     |DH        |      7|  5|   5|  3|  0| 
+|Jorge Soler     |DH        |      9|  7|   6|  4|  0| 
 |Luke Voit       |DH        |      4|  1|   3|  1|  0| 
 |Tyler O'Neill   |DH        |      8|  1|   2|  0|  0| 
 |Cody Bellinger  |BAT BENCH |      4|  0|   1|  0|  0| 
@@ -36,14 +36,14 @@
 |Eli Morgan        |SP          |  1|  3.000|  2| 6.000|      3| 1.000|  3|  0|  0| 
 |Joe Musgrove      |SP          |  1|  9.000|  0| 0.000|      5| 0.556|  9|  1|  0| 
 |Logan Gilbert     |SP          |  2|  9.000|  5| 5.000|     14| 1.556|  9|  0|  0| 
-|Logan Webb        |SP          |  1|  7.000|  0| 0.000|      6| 0.857|  6|  1|  0| 
+|Logan Webb        |SP          |  2| 14.000|  1| 0.643|     11| 0.786| 16|  1|  0| 
 |Collin McHugh     |RP          |  3|  5.000|  2| 3.600|      6| 1.200|  2|  1|  0| 
 |Drew Steckenrider |RP          |  3|  2.333|  0| 0.000|      5| 2.143|  0|  0|  1| 
 |Brandon Woodruff  |OP          |  2| 12.000|  1| 0.750|     12| 1.000| 18|  2|  0| 
 |Kenley Jansen     |OP          |  4|  4.000|  0| 0.000|      0| 0.000|  5|  0|  2| 
 |Kevin Gausman     |OP          |  2| 11.000|  4| 3.273|     11| 1.000|  9|  0|  0| 
 |Matt Wisler       |OP          | **|     **| **|    **|     **|    **| **| **| **| 
-|Will Smith        |OP          |  1|  1.000|  1| 9.000|      1| 1.000|  1|  0|  1| 
+|Will Smith        |OP          |  2|  2.000|  1| 4.500|      2| 1.000|  2|  0|  2| 
 |Kenta Maeda       |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 |Shane Bieber      |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 
