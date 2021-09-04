@@ -5,24 +5,24 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Max Stassi       |C         |      6|  5|   0|  0|  0| 
-|DJ LeMahieu      |1B        |     11|  6|   1|  0|  0| 
-|Adam Frazier     |2B        |      5|  1|   1|  0|  0| 
-|Austin Riley     |3B        |     11|  3|   5|  1|  0| 
-|Francisco Lindor |SS        |      6|  2|   3|  0|  2| 
-|Brendan Rodgers  |MI        |     11|  5|   9|  2|  0| 
+|Max Stassi       |C         |      7|  5|   1|  0|  0| 
+|DJ LeMahieu      |1B        |     12|  6|   3|  0|  0| 
+|Adam Frazier     |2B        |      6|  1|   1|  0|  1| 
+|Austin Riley     |3B        |     13|  3|   6|  1|  0| 
+|Francisco Lindor |SS        |      6|  3|   3|  0|  2| 
+|Brendan Rodgers  |MI        |     12|  5|  10|  2|  0| 
 |Ryan McMahon     |CI        |      6|  2|   5|  2|  0| 
 |Bryce Harper     |OF        |     20|  9|  11|  3|  0| 
-|Mookie Betts     |OF        |      8|  4|   2|  2|  0| 
-|Nick Castellanos |OF        |     12|  6|   8|  4|  0| 
+|Mookie Betts     |OF        |      9|  4|   2|  2|  0| 
+|Nick Castellanos |OF        |     14|  6|   8|  4|  0| 
 |Shohei Ohtani    |OF        |      7|  6|   2|  2|  3| 
-|Alex Verdugo     |DH        |     11|  3|   1|  0|  1| 
+|Alex Verdugo     |DH        |     13|  4|   1|  0|  1| 
 |Cedric Mullins   |DH        |     12|  6|   7|  3|  3| 
-|Connor Joe       |DH        |     14|  6|   6|  1|  0| 
-|Jared Walsh      |DH        |     10|  5|   7|  3|  0| 
+|Connor Joe       |DH        |     15|  6|   6|  1|  0| 
+|Jared Walsh      |DH        |     12|  5|   8|  3|  0| 
 |Gio Urshela      |BAT BENCH |      2|  0|   0|  0|  0| 
 |Lewis Brinson    |BAT BENCH |      3|  1|   1|  0|  1| 
-|Luis Arraez      |BAT BENCH |      4|  1|   1|  0|  0| 
+|Luis Arraez      |BAT BENCH |      5|  2|   1|  0|  0| 
 
 * * *
 
