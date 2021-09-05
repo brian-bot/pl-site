@@ -5,26 +5,26 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Daulton Varsho    |C         |      5|  3|   0|  0|  0| 
-|Matt Olson        |1B        |     14|  8|   7|  0|  0| 
-|Brandon Lowe      |2B        |      7|  5|   3|  2|  0| 
-|Matt Chapman      |3B        |     13|  5|   9|  4|  0| 
-|Trevor Story      |SS        |     13|  6|   4|  2|  1| 
-|Jorge Polanco     |MI        |     11|  6|   6|  2|  0| 
+|Daulton Varsho    |C         |      6|  3|   0|  0|  0| 
+|Matt Olson        |1B        |     15|  9|   7|  0|  0| 
+|Brandon Lowe      |2B        |      9|  6|   4|  3|  0| 
+|Matt Chapman      |3B        |     15|  7|  10|  5|  0| 
+|Trevor Story      |SS        |     15|  6|   5|  2|  1| 
+|Jorge Polanco     |MI        |     14|  8|   8|  3|  0| 
 |Brandon Belt      |CI        |     11|  4|   1|  1|  0| 
-|Adam Duvall       |OF        |      6|  4|   4|  3|  0| 
-|Adolis Garcia     |OF        |     15|  7|   6|  2|  1| 
-|Joey Gallo        |OF        |      9|  1|   3|  1|  0| 
-|Randy Arozarena   |OF        |      5|  6|   6|  2|  1| 
+|Adam Duvall       |OF        |      8|  4|   5|  3|  0| 
+|Adolis Garcia     |OF        |     15|  7|   7|  2|  1| 
+|Joey Gallo        |OF        |     10|  2|   5|  2|  0| 
+|Randy Arozarena   |OF        |      8|  9|   7|  3|  1| 
 |Anthony Santander |DH        |      9|  5|   1|  1|  0| 
 |Enrique Hernandez |DH        |      5|  4|   1|  1|  0| 
 |Jazz Chisholm Jr. |DH        |     13|  6|   1|  0|  3| 
-|Luis Robert       |DH        |     10|  7|   6|  3|  0| 
+|Luis Robert       |DH        |     14| 10|   7|  4|  0| 
 |Adalberto Mondesi |BAT BENCH |      3|  3|   3|  1|  2| 
 |Brandon Crawford  |BAT BENCH |     10|  0|   4|  0|  0| 
 |Jesus Aguilar     |BAT BENCH |     11|  2|   5|  0|  0| 
-|Josh Donaldson    |BAT BENCH |     14|  4|   7|  3|  0| 
-|Kyle Schwarber    |BAT BENCH |     21| 10|   8|  4|  0| 
+|Josh Donaldson    |BAT BENCH |     15|  4|   7|  3|  0| 
+|Kyle Schwarber    |BAT BENCH |     23| 11|   8|  4|  0| 
 
 
 * * *

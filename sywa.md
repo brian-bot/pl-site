@@ -5,21 +5,21 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|Willson Contreras     |C         |     **| **|  **| **| **| 
-|Freddie Freeman       |1B        |      8|  4|   2|  1|  1| 
+|Willson Contreras     |C         |      1|  1|   0|  0|  0| 
+|Freddie Freeman       |1B        |     10|  6|   2|  1|  1| 
 |Kolten Wong           |2B        |      7|  2|   2|  0|  0| 
-|Jose Ramirez          |3B        |     17|  8|   7|  3|  3| 
-|Fernando Tatis Jr.    |SS        |     12|  3|   5|  2|  0| 
+|Jose Ramirez          |3B        |     19|  9|   7|  3|  4| 
+|Fernando Tatis Jr.    |SS        |     16|  5|   9|  3|  0| 
 |Josh Rojas            |MI        |      8|  3|   4|  0|  0| 
-|Vladimir Guerrero Jr. |CI        |     17|  7|   7|  3|  0| 
-|Austin Hays           |OF        |     14|  6|   6|  1|  0| 
-|Brandon Nimmo         |OF        |     18|  4|   2|  1|  1| 
+|Vladimir Guerrero Jr. |CI        |     19|  9|   7|  3|  0| 
+|Austin Hays           |OF        |     16|  6|   7|  1|  0| 
+|Brandon Nimmo         |OF        |     20|  5|   3|  1|  2| 
 |Joc Pederson          |OF        |      6|  3|   2|  1|  0| 
 |Trent Grisham         |OF        |     12|  4|   2|  1|  0| 
 |Akil Baddoo           |DH        |      8|  4|   4|  2|  0| 
-|Anthony Rizzo         |DH        |     13|  8|   3|  1|  0| 
-|Eugenio Suarez        |DH        |      7|  4|   2|  2|  0| 
-|J.P. Crawford         |DH        |     13|  6|   0|  0|  0| 
+|Anthony Rizzo         |DH        |     13|  9|   3|  1|  0| 
+|Eugenio Suarez        |DH        |      9|  5|   3|  2|  0| 
+|J.P. Crawford         |DH        |     17|  8|   2|  0|  0| 
 |Eddie Rosario         |BAT BENCH |      7|  2|   5|  1|  1| 
 
 
@@ -30,13 +30,13 @@
  
 |players           |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Framber Valdez    |SP          |  1|  7.000|  2|  2.571|      4| 0.571|  7|  1|  0| 
+|Framber Valdez    |SP          |  2| 13.000|  6|  4.154|     12| 0.923| 11|  1|  0| 
 |Jack Flaherty     |SP          | **|     **| **|     **|     **|    **| **| **| **| 
 |Luis Castillo     |SP          |  2| 12.333|  5|  3.649|     13| 1.054| 14|  0|  0| 
 |Triston McKenzie  |SP          |  1|  6.000|  1|  1.500|      3| 0.500|  6|  1|  0| 
 |Zac Gallen        |SP          |  2| 11.000|  3|  2.455|     14| 1.273| 10|  1|  0| 
 |Zack Wheeler      |SP          |  2| 14.000|  9|  5.786|     19| 1.357| 14|  1|  0| 
-|Daniel Bard       |RP          |  5|  3.333|  6| 16.200|     12| 3.600|  5|  0|  0| 
+|Daniel Bard       |RP          |  6|  3.667|  7| 17.182|     15| 4.091|  5|  0|  0| 
 |Raisel Iglesias   |RP          |  4|  4.000|  0|  0.000|      2| 0.500|  7|  0|  3| 
 |Andrew Kittredge  |OP          |  3|  3.667|  0|  0.000|      0| 0.000|  6|  0|  3| 
 |Chad Green        |OP          |  3|  3.667|  2|  4.909|      5| 1.364|  4|  0|  0| 
