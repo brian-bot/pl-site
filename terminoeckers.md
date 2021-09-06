@@ -7,21 +7,21 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Yasmani Grandal   |C         |     18|  8|  15|  5|  0| 
 |Miguel Sano       |1B        |     11|  5|   6|  3|  1| 
-|Jonathan India    |2B        |     12|  6|   5|  2|  1| 
+|Jonathan India    |2B        |     13|  6|   5|  2|  1| 
 |Rafael Devers     |3B        |     16|  5|   9|  4|  1| 
-|Bo Bichette       |SS        |     15|  9|   4|  1|  2| 
-|Corey Seager      |MI        |     14|  2|   6|  2|  0| 
-|Kyle Seager       |CI        |     11| 10|   9|  4|  0| 
-|Austin Meadows    |OF        |      7|  5|   6|  1|  0| 
-|Byron Buxton      |OF        |      4|  2|   0|  0|  0| 
-|Giancarlo Stanton |OF        |     10|  4|   8|  4|  0| 
-|J.D. Martinez     |OF        |     13|  3|   6|  1|  0| 
-|Abraham Toro      |DH        |     13|  2|   7|  1|  0| 
-|Avisail Garcia    |DH        |      7|  3|   2|  0|  0| 
-|Hunter Renfroe    |DH        |      8|  4|   4|  1|  0| 
-|Jonathan Schoop   |DH        |     15|  7|   3|  1|  0| 
-|Eric Haase        |BAT BENCH |      7|  1|   4|  1|  0| 
-|Tommy Pham        |BAT BENCH |      7|  1|   1|  0|  0| 
+|Bo Bichette       |SS        |     19| 11|   5|  1|  2| 
+|Corey Seager      |MI        |     17|  2|   6|  2|  0| 
+|Kyle Seager       |CI        |     12| 11|  11|  4|  0| 
+|Austin Meadows    |OF        |      8|  6|   8|  2|  0| 
+|Byron Buxton      |OF        |      6|  3|   0|  0|  0| 
+|Giancarlo Stanton |OF        |     11|  4|   8|  4|  0| 
+|J.D. Martinez     |OF        |     16|  5|   9|  2|  0| 
+|Abraham Toro      |DH        |     15|  4|   9|  1|  1| 
+|Avisail Garcia    |DH        |      8|  3|   2|  0|  0| 
+|Hunter Renfroe    |DH        |     11|  6|   4|  1|  0| 
+|Jonathan Schoop   |DH        |     16|  7|   4|  1|  0| 
+|Eric Haase        |BAT BENCH |      8|  1|   5|  1|  0| 
+|Tommy Pham        |BAT BENCH |      8|  1|   1|  0|  0| 
 
 
 * * *
@@ -31,17 +31,17 @@
  
 |players           |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Andrew Heaney     |SP          |  1|  2.000|  2|  9.000|      3| 1.500|  2|  0|  0| 
-|Dylan Cease       |SP          |  1|  6.000|  1|  1.500|      6| 1.000| 11|  1|  0| 
+|Andrew Heaney     |SP          |  2|  2.333|  6| 23.143|      7| 3.000|  2|  0|  0| 
+|Dylan Cease       |SP          |  2| 11.000|  4|  3.273|     13| 1.182| 20|  1|  0| 
 |Jordan Montgomery |SP          |  2| 10.667|  1|  0.844|     14| 1.312|  8|  0|  0| 
 |Max Scherzer      |SP          |  2| 13.667|  0|  0.000|      6| 0.439| 19|  1|  0| 
 |Tanner Houck      |SP          |  2| 10.333|  3|  2.613|      8| 0.774| 10|  0|  0| 
 |Touki Toussaint   |SP          |  2|  4.000|  4|  9.000|      7| 1.750|  0|  0|  0| 
-|Alex Reyes        |RP          |  5|  4.333|  4|  8.308|      6| 1.385|  7|  0|  1| 
+|Alex Reyes        |RP          |  6|  4.333|  5| 10.385|      7| 1.615|  7|  0|  1| 
 |Lou Trivino       |RP          |  3|  2.000|  8| 36.000|      7| 3.500|  1|  0|  0| 
 |Daniel Lynch      |OP          |  2|  7.333|  7|  8.591|     18| 2.455|  7|  0|  0| 
 |Kyle Freeland     |OP          |  2|  7.000|  3|  3.857|      6| 0.857|  8|  1|  0| 
-|Luis Patino       |OP          |  1|  5.667|  1|  1.588|      6| 1.059|  5|  1|  0| 
+|Luis Patino       |OP          |  2|  8.333|  5|  5.400|     15| 1.800|  9|  1|  0| 
 |Nestor Cortes Jr. |OP          |  2| 11.000|  4|  3.273|     13| 1.182| 11|  0|  0| 
 |Tylor Megill      |OP          |  2| 11.000|  6|  4.909|     12| 1.091| 13|  1|  0| 
 |Jacob deGrom      |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 

@@ -6,20 +6,20 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Christian Vazquez |C         |     14|  4|   3|  1|  0| 
-|Carlos Santana    |1B        |      7|  3|   2|  1|  0| 
-|Max Muncy         |2B        |     10|  3|   2|  2|  0| 
-|Alex Bregman      |3B        |     13|  5|   1|  0|  0| 
+|Carlos Santana    |1B        |      8|  3|   2|  1|  0| 
+|Max Muncy         |2B        |     11|  3|   2|  2|  0| 
+|Alex Bregman      |3B        |     14|  5|   2|  0|  0| 
 |Dansby Swanson    |SS        |      6|  2|   3|  1|  0| 
-|Joey Wendle       |MI        |     12|  4|   7|  2|  0| 
+|Joey Wendle       |MI        |     14|  4|   7|  2|  0| 
 |Aledmys Diaz      |CI        |      3|  0|   1|  0|  0| 
-|Andrew McCutchen  |OF        |     16| 10|   9|  2|  0| 
-|Brian Goodwin     |OF        |      5|  2|   4|  1|  0| 
+|Andrew McCutchen  |OF        |     17| 10|   9|  2|  0| 
+|Brian Goodwin     |OF        |      7|  2|   4|  1|  0| 
 |Christian Yelich  |OF        |     17|  6|   1|  0|  0| 
-|Wil Myers         |OF        |      9|  6|   5|  2|  1| 
-|Amed Rosario      |DH        |     12|  4|   6|  2|  0| 
-|Max Kepler        |DH        |     12|  0|   1|  0|  1| 
-|Rafael Ortega     |DH        |     10|  3|   9|  2|  1| 
-|Yadiel Hernandez  |DH        |      5|  1|   2|  1|  0| 
+|Wil Myers         |OF        |      9|  6|   6|  2|  1| 
+|Amed Rosario      |DH        |     14|  6|   7|  2|  0| 
+|Max Kepler        |DH        |     14|  0|   1|  0|  1| 
+|Rafael Ortega     |DH        |     12|  5|   9|  2|  1| 
+|Yadiel Hernandez  |DH        |      6|  2|   2|  1|  0| 
 |Alex Kirilloff    |BAT BENCH |     **| **|  **| **| **| 
 |Cavan Biggio      |BAT BENCH |     **| **|  **| **| **| 
 |Jesse Winker      |BAT BENCH |     **| **|  **| **| **| 
@@ -40,10 +40,10 @@
 |Zack Greinke       |SP          |  1|  4.000|  6| 13.500|     11| 2.750|  1|  0|  0| 
 |Devin Williams     |RP          |  4|  3.667|  4|  9.818|      5| 1.364|  6|  0|  0| 
 |James Karinchak    |RP          |  2|  1.333|  3| 20.250|      4| 3.000|  2|  0|  0| 
-|Alex Colome        |OP          |  5|  5.000|  2|  3.600|      7| 1.400|  4|  1|  3| 
+|Alex Colome        |OP          |  6|  6.000|  2|  3.000|     10| 1.667|  4|  1|  4| 
 |Craig Kimbrel      |OP          |  4|  4.000|  3|  6.750|      5| 1.250|  7|  1|  1| 
 |Eduardo Rodriguez  |OP          |  2| 13.000|  3|  2.077|     14| 1.077|  8|  2|  0| 
-|Giovanny Gallegos  |OP          |  5|  5.000|  1|  1.800|      4| 0.800|  4|  0|  2| 
+|Giovanny Gallegos  |OP          |  6|  6.000|  5|  7.500|      8| 1.333|  6|  0|  2| 
 |Madison Bumgarner  |OP          |  2| 11.000| 10|  8.182|     21| 1.909|  8|  0|  0| 
 |Anthony DeSclafani |PITCH BENCH |  2|  9.000|  3|  3.000|     11| 1.222|  9|  0|  0| 
 |Trevor Bauer       |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
