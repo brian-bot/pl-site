@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Christian Vazquez |C         |     14|  4|   3|  1|  0| 
-|Carlos Santana    |1B        |      8|  3|   2|  1|  0| 
-|Max Muncy         |2B        |     11|  3|   2|  2|  0| 
-|Alex Bregman      |3B        |     14|  5|   2|  0|  0| 
+|Christian Vazquez |C         |     15|  5|   3|  1|  0| 
+|Carlos Santana    |1B        |      9|  3|   2|  1|  0| 
+|Max Muncy         |2B        |     12|  4|   2|  2|  0| 
+|Alex Bregman      |3B        |     16|  5|   3|  0|  0| 
 |Dansby Swanson    |SS        |      6|  2|   3|  1|  0| 
-|Joey Wendle       |MI        |     14|  4|   7|  2|  0| 
-|Aledmys Diaz      |CI        |      3|  0|   1|  0|  0| 
-|Andrew McCutchen  |OF        |     17| 10|   9|  2|  0| 
+|Joey Wendle       |MI        |     15|  4|   7|  2|  0| 
+|Aledmys Diaz      |CI        |      5|  1|   2|  0|  0| 
+|Andrew McCutchen  |OF        |     18| 11|  10|  3|  0| 
 |Brian Goodwin     |OF        |      7|  2|   4|  1|  0| 
-|Christian Yelich  |OF        |     17|  6|   1|  0|  0| 
+|Christian Yelich  |OF        |     19|  6|   1|  0|  0| 
 |Wil Myers         |OF        |      9|  6|   6|  2|  1| 
-|Amed Rosario      |DH        |     14|  6|   7|  2|  0| 
+|Amed Rosario      |DH        |     15|  6|   7|  2|  0| 
 |Max Kepler        |DH        |     14|  0|   1|  0|  1| 
-|Rafael Ortega     |DH        |     12|  5|   9|  2|  1| 
-|Yadiel Hernandez  |DH        |      6|  2|   2|  1|  0| 
+|Rafael Ortega     |DH        |     12|  6|   9|  2|  1| 
+|Yadiel Hernandez  |DH        |      7|  2|   2|  1|  0| 
 |Alex Kirilloff    |BAT BENCH |     **| **|  **| **| **| 
 |Cavan Biggio      |BAT BENCH |     **| **|  **| **| **| 
 |Jesse Winker      |BAT BENCH |     **| **|  **| **| **| 
@@ -35,12 +35,12 @@
 |Freddy Peralta     |SP          |  1|  2.000|  4| 18.000|      5| 2.500|  4|  0|  0| 
 |Johnny Cueto       |SP          |  2|  8.333|  6|  6.480|     20| 2.400|  3|  0|  0| 
 |Jose Berrios       |SP          |  2| 13.667|  3|  1.976|     10| 0.732| 18|  2|  0| 
-|Patrick Corbin     |SP          |  2|  8.000| 12| 13.500|     19| 2.375|  7|  0|  0| 
-|Yusei Kikuchi      |SP          |  2| 12.000|  4|  3.000|     11| 0.917|  7|  0|  0| 
+|Patrick Corbin     |SP          |  3| 15.000| 15|  9.000|     31| 2.067| 11|  0|  0| 
+|Yusei Kikuchi      |SP          |  3| 13.667|  8|  5.268|     18| 1.317|  7|  0|  0| 
 |Zack Greinke       |SP          |  1|  4.000|  6| 13.500|     11| 2.750|  1|  0|  0| 
 |Devin Williams     |RP          |  4|  3.667|  4|  9.818|      5| 1.364|  6|  0|  0| 
 |James Karinchak    |RP          |  2|  1.333|  3| 20.250|      4| 3.000|  2|  0|  0| 
-|Alex Colome        |OP          |  6|  6.000|  2|  3.000|     10| 1.667|  4|  1|  4| 
+|Alex Colome        |OP          |  7|  7.000|  2|  2.571|     10| 1.429|  5|  1|  5| 
 |Craig Kimbrel      |OP          |  4|  4.000|  3|  6.750|      5| 1.250|  7|  1|  1| 
 |Eduardo Rodriguez  |OP          |  2| 13.000|  3|  2.077|     14| 1.077|  8|  2|  0| 
 |Giovanny Gallegos  |OP          |  6|  6.000|  5|  7.500|      8| 1.333|  6|  0|  2| 
