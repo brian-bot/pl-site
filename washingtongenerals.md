@@ -7,20 +7,20 @@
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |J.T. Realmuto    |C         |     15|  5|   2|  0|  0| 
 |Trey Mancini     |1B        |     18|  6|   4|  1|  0| 
-|Marcus Semien    |2B        |     18|  8|  14|  7|  1| 
-|Nolan Arenado    |3B        |     13|  7|   6|  4|  0| 
-|Carlos Correa    |SS        |     16|  8|   5|  3|  0| 
-|Jake Cronenworth |MI        |     14|  5|   1|  1|  0| 
-|C.J. Cron        |CI        |     15|  5|   8|  5|  0| 
+|Marcus Semien    |2B        |     21|  9|  15|  8|  1| 
+|Nolan Arenado    |3B        |     14|  7|   8|  4|  0| 
+|Carlos Correa    |SS        |     18|  8|   6|  3|  0| 
+|Jake Cronenworth |MI        |     16|  5|   1|  1|  0| 
+|C.J. Cron        |CI        |     18|  5|   9|  5|  0| 
 |Franmil Reyes    |OF        |     23|  8|  11|  5|  0| 
-|Manuel Margot    |OF        |      9|  2|   3|  1|  1| 
-|Mark Canha       |OF        |     16|  8|  10|  4|  0| 
+|Manuel Margot    |OF        |     10|  3|   4|  1|  1| 
+|Mark Canha       |OF        |     18|  8|  10|  4|  0| 
 |Tommy Edman      |OF        |     22| 12|  11|  3|  3| 
-|Buster Posey     |DH        |     10|  5|   5|  2|  0| 
-|Jed Lowrie       |DH        |      7|  2|   5|  1|  0| 
-|Joey Votto       |DH        |     11|  6|   4|  0|  0| 
-|Josh Bell        |DH        |     24|  6|  10|  4|  0| 
-|Dominic Smith    |BAT BENCH |      7|  2|   3|  0|  0| 
+|Buster Posey     |DH        |     11|  6|   6|  2|  0| 
+|Jed Lowrie       |DH        |      8|  2|   5|  1|  0| 
+|Joey Votto       |DH        |     13|  7|   4|  0|  0| 
+|Josh Bell        |DH        |     25|  6|  10|  4|  0| 
+|Dominic Smith    |BAT BENCH |      8|  3|   3|  0|  0| 
 |Mike Trout       |BAT BENCH |     **| **|  **| **| **| 
 |Raimel Tapia     |BAT BENCH |      6|  2|   1|  0|  1| 
 
