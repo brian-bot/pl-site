@@ -5,25 +5,25 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez      |C         |     23| 14|  23|  9|  0| 
-|Paul Goldschmidt    |1B        |     23|  9|  11|  5|  2| 
+|Salvador Perez      |C         |     24| 15|  23|  9|  0| 
+|Paul Goldschmidt    |1B        |     25|  9|  11|  5|  2| 
 |Ketel Marte         |2B        |     17|  6|   9|  3|  0| 
 |Manny Machado       |3B        |     21|  6|   5|  2|  1| 
-|Trea Turner         |SS        |     21|  8|   4|  2|  1| 
-|Cesar Hernandez     |MI        |     13|  3|   4|  1|  0| 
+|Trea Turner         |SS        |     23|  8|   5|  2|  1| 
+|Cesar Hernandez     |MI        |     14|  4|   4|  1|  0| 
 |Jeimer Candelario   |CI        |     20|  9|   9|  2|  0| 
 |Bryan Reynolds      |OF        |     18|  7|   6|  1|  2| 
 |Chris Taylor        |OF        |      7|  3|   5|  2|  1| 
 |Eloy Jimenez        |OF        |     15|  8|   6|  2|  0| 
 |Michael Brantley    |OF        |     15|  3|   3|  0|  0| 
-|Justin Turner       |DH        |     17|  9|   4|  2|  1| 
+|Justin Turner       |DH        |     18|  9|   4|  2|  1| 
 |Kyle Tucker         |DH        |     25| 12|   8|  2|  1| 
-|Nicky Lopez         |DH        |     27|  9|   4|  0|  1| 
+|Nicky Lopez         |DH        |     30| 11|   6|  1|  1| 
 |Tyler Naquin        |DH        |     14|  2|   4|  1|  0| 
-|Andrew Benintendi   |BAT BENCH |     14|  1|   8|  1|  0| 
+|Andrew Benintendi   |BAT BENCH |     15|  1|   9|  1|  0| 
 |Jake Meyers         |BAT BENCH |     14|  3|  10|  1|  0| 
-|Jean Segura         |BAT BENCH |     22| 12|   8|  3|  0| 
-|Lourdes Gurriel Jr. |BAT BENCH |     20|  6|  14|  2|  0| 
+|Jean Segura         |BAT BENCH |     23| 13|   8|  3|  0| 
+|Lourdes Gurriel Jr. |BAT BENCH |     21|  6|  14|  2|  0| 
 
 
 * * *
@@ -45,7 +45,7 @@
 |Carlos Carrasco   |OP          |  3| 17.333|  6|  3.115|     16| 0.923| 14|  1|  0| 
 |Jonathan Loaisiga |OP          |  4|  5.333|  1|  1.688|      4| 0.750|  4|  1|  0| 
 |Paul Sewald       |OP          |  8|  8.000|  4|  4.500|     12| 1.500| 13|  1|  1| 
-|Scott Barlow      |OP          |  5|  5.333|  1|  1.688|      7| 1.312|  5|  0|  3| 
+|Scott Barlow      |OP          |  6|  6.333|  1|  1.421|      8| 1.263|  7|  0|  3| 
 |David Price       |PITCH BENCH |  2|  5.333|  2|  3.375|      9| 1.688|  2|  0|  0| 
 
 

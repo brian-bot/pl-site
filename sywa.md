@@ -6,18 +6,18 @@
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
 |Willson Contreras     |C         |      4|  3|   1|  1|  0| 
-|Freddie Freeman       |1B        |     15| 10|   3|  1|  1| 
+|Freddie Freeman       |1B        |     17| 12|   4|  2|  1| 
 |Kolten Wong           |2B        |     12|  4|   4|  0|  0| 
-|Jose Ramirez          |3B        |     23| 10|   7|  3|  5| 
+|Jose Ramirez          |3B        |     25| 11|   8|  4|  5| 
 |Fernando Tatis Jr.    |SS        |     19|  6|  10|  3|  0| 
 |Josh Rojas            |MI        |     11|  6|   5|  0|  0| 
-|Vladimir Guerrero Jr. |CI        |     29| 13|   9|  5|  0| 
+|Vladimir Guerrero Jr. |CI        |     30| 14|  10|  6|  0| 
 |Austin Hays           |OF        |     21| 10|  13|  3|  0| 
 |Brandon Nimmo         |OF        |     20|  5|   3|  1|  2| 
-|Joc Pederson          |OF        |      7|  3|   2|  1|  0| 
+|Joc Pederson          |OF        |      9|  3|   3|  1|  0| 
 |Trent Grisham         |OF        |     13|  6|   2|  1|  0| 
 |Akil Baddoo           |DH        |     14|  7|   4|  2|  0| 
-|Anthony Rizzo         |DH        |     20|  9|   5|  1|  0| 
+|Anthony Rizzo         |DH        |     21| 10|   7|  2|  0| 
 |Eugenio Suarez        |DH        |      9|  6|   3|  2|  0| 
 |J.P. Crawford         |DH        |     24| 11|   6|  1|  0| 
 |Eddie Rosario         |BAT BENCH |     10|  4|   6|  2|  1| 
