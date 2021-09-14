@@ -10,20 +10,20 @@
 |Brandon Lowe      |2B        |     19| 10|   9|  4|  0| 
 |Matt Chapman      |3B        |     20|  8|  12|  6|  0| 
 |Trevor Story      |SS        |     22| 12|  10|  5|  1| 
-|Jorge Polanco     |MI        |     24| 13|  12|  6|  0| 
-|Brandon Belt      |CI        |     24| 12|   8|  4|  0| 
+|Jorge Polanco     |MI        |     25| 14|  14|  7|  0| 
+|Brandon Belt      |CI        |     25| 13|  10|  5|  0| 
 |Adam Duvall       |OF        |     16|  8|  13|  7|  0| 
-|Adolis Garcia     |OF        |     21| 10|   8|  2|  2| 
-|Joey Gallo        |OF        |     18|  5|   7|  3|  0| 
+|Adolis Garcia     |OF        |     22| 10|   8|  2|  2| 
+|Joey Gallo        |OF        |     20|  6|   8|  4|  0| 
 |Randy Arozarena   |OF        |     16| 14|   9|  3|  2| 
 |Anthony Santander |DH        |     19| 14|   9|  4|  0| 
 |Enrique Hernandez |DH        |      9|  6|   2|  1|  0| 
-|Jazz Chisholm Jr. |DH        |     19| 11|   3|  1|  5| 
+|Jazz Chisholm Jr. |DH        |     20| 12|   3|  1|  6| 
 |Luis Robert       |DH        |     26| 12|  12|  4|  0| 
 |Adalberto Mondesi |BAT BENCH |      6|  5|   4|  2|  6| 
-|Brandon Crawford  |BAT BENCH |     24|  6|   9|  1|  0| 
+|Brandon Crawford  |BAT BENCH |     26|  7|   9|  1|  0| 
 |Jesus Aguilar     |BAT BENCH |     11|  2|   5|  0|  0| 
-|Josh Donaldson    |BAT BENCH |     25|  8|  10|  4|  0| 
+|Josh Donaldson    |BAT BENCH |     26|  9|  10|  4|  0| 
 |Kyle Schwarber    |BAT BENCH |     31| 17|   8|  4|  0| 
 
 
