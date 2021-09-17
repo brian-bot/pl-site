@@ -14,14 +14,14 @@
 |Kyle Seager       |CI        |      4|  1|   2|  0|  0| 
 |Austin Meadows    |OF        |      1|  0|   0|  0|  0| 
 |Byron Buxton      |OF        |      1|  1|   0|  0|  0| 
-|Giancarlo Stanton |OF        |      4|  1|   2|  1|  0| 
+|Giancarlo Stanton |OF        |      6|  1|   2|  1|  0| 
 |J.D. Martinez     |OF        |      3|  2|   3|  1|  0| 
 |Abraham Toro      |DH        |      0|  0|   0|  0|  0| 
 |Avisail Garcia    |DH        |      1|  0|   0|  0|  1| 
 |Hunter Renfroe    |DH        |      3|  2|   1|  1|  0| 
-|Jonathan Schoop   |DH        |      1|  0|   0|  0|  0| 
+|Jonathan Schoop   |DH        |      2|  0|   0|  0|  0| 
 |Eric Haase        |BAT BENCH |      0|  0|   0|  0|  0| 
-|Tommy Pham        |BAT BENCH |      2|  0|   0|  0|  0| 
+|Tommy Pham        |BAT BENCH |      4|  0|   2|  0|  1| 
 
 
 * * *
@@ -32,14 +32,14 @@
 |players           |position    |  g|    ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
 |Dylan Cease       |SP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Jordan Montgomery |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Jordan Montgomery |SP          |  1| 5.667|  1|  1.588|      7| 1.235| 12|  0|  0| 
 |Max Scherzer      |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Tanner Houck      |SP          |  1| 4.333|  3|  6.231|      5| 1.154|  7|  0|  0| 
 |Touki Toussaint   |SP          |  1| 4.000|  4|  9.000|      8| 2.000|  5|  0|  0| 
 |Trevor Rogers     |SP          |  1| 4.000|  1|  2.250|      8| 2.000|  3|  0|  0| 
 |Alex Reyes        |RP          |  1| 1.000|  0|  0.000|      1| 1.000|  0|  1|  0| 
 |Lou Trivino       |RP          |  1| 2.000|  1|  4.500|      3| 1.500|  5|  0|  0| 
-|Daniel Lynch      |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Daniel Lynch      |OP          |  1| 2.000|  1|  4.500|      3| 1.500|  1|  0|  0| 
 |Kyle Freeland     |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Luis Patino       |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Nestor Cortes Jr. |OP          |  1| 6.333|  1|  1.421|      5| 0.789| 11|  0|  0| 

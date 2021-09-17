@@ -5,23 +5,23 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto    |C         |      3|  1|   2|  1|  1| 
+|J.T. Realmuto    |C         |      4|  2|   4|  1|  1| 
 |Trey Mancini     |1B        |      1|  0|   0|  0|  0| 
 |Marcus Semien    |2B        |      4|  2|   0|  0|  0| 
 |Nolan Arenado    |3B        |      5|  1|   2|  1|  0| 
-|Carlos Correa    |SS        |      1|  0|   1|  0|  0| 
+|Carlos Correa    |SS        |      4|  2|   4|  1|  0| 
 |Jake Cronenworth |MI        |     **| **|  **| **| **| 
 |C.J. Cron        |CI        |      1|  0|   0|  0|  0| 
 |Franmil Reyes    |OF        |      4|  2|   3|  1|  0| 
-|Mark Canha       |OF        |      5|  3|   1|  0|  0| 
+|Mark Canha       |OF        |      6|  4|   2|  0|  0| 
 |Raimel Tapia     |OF        |      2|  1|   1|  0|  0| 
 |Tommy Edman      |OF        |      5|  2|   0|  0|  0| 
 |Buster Posey     |DH        |      3|  2|   2|  1|  0| 
-|Joey Votto       |DH        |      3|  1|   1|  0|  0| 
+|Joey Votto       |DH        |      5|  1|   1|  0|  0| 
 |Josh Bell        |DH        |      5|  1|   2|  1|  0| 
 |Myles Straw      |DH        |      6|  2|   0|  0|  0| 
 |Dominic Smith    |BAT BENCH |      0|  0|   0|  0|  0| 
-|Manuel Margot    |BAT BENCH |      1|  0|   0|  0|  1| 
+|Manuel Margot    |BAT BENCH |      4|  1|   1|  0|  1| 
 |Mike Trout       |BAT BENCH |     **| **|  **| **| **| 
 
 * * *
@@ -38,9 +38,9 @@
 |Sonny Gray      |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Walker Buehler  |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Jake McGee      |RP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Mark Melancon   |RP          |  2| 1.333|  2| 13.500|      4| 3.000|  0|  0|  0| 
+|Mark Melancon   |RP          |  3| 2.333|  3| 11.571|      6| 2.571|  2|  0|  0| 
 |Adam Ottavino   |OP          |  2| 1.667|  0|  0.000|      0| 0.000|  2|  2|  0| 
-|Cole Sulser     |OP          |  1| 1.000|  0|  0.000|      0| 0.000|  1|  0|  0| 
+|Cole Sulser     |OP          |  2| 3.000|  0|  0.000|      0| 0.000|  3|  1|  0| 
 |Ian Kennedy     |OP          |  1| 1.000|  1|  9.000|      1| 1.000|  2|  1|  0| 
 |Ranger Suarez   |OP          |  1| 6.000|  2|  3.000|      7| 1.167|  8|  0|  0| 
 |Tony Gonsolin   |OP          |  1| 5.000|  0|  0.000|      4| 0.800|  6|  1|  0| 

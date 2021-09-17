@@ -10,17 +10,17 @@
 |Ozzie Albies      |2B        |      5|  0|   0|  0|  0| 
 |Yoan Moncada      |3B        |      3|  2|   1|  1|  0| 
 |Xander Bogaerts   |SS        |      3|  3|   0|  0|  0| 
-|Tim Anderson      |MI        |      1|  0|   0|  0|  0| 
-|Patrick Wisdom    |CI        |      3|  1|   2|  1|  0| 
+|Tim Anderson      |MI        |      2|  1|   0|  0|  0| 
+|Patrick Wisdom    |CI        |      5|  2|   4|  1|  0| 
 |Juan Soto         |OF        |      6|  1|   2|  0|  0| 
 |Mike Yastrzemski  |OF        |      1|  0|   0|  0|  0| 
 |Nelson Cruz       |OF        |      1|  0|   0|  0|  0| 
-|Ryan Mountcastle  |OF        |      1|  0|   1|  0|  0| 
+|Ryan Mountcastle  |OF        |      2|  1|   2|  1|  0| 
 |Bobby Dalbec      |DH        |      4|  2|   1|  1|  1| 
 |Pavin Smith       |DH        |      0|  0|   0|  0|  0| 
-|Starling Marte    |DH        |      4|  2|   1|  0|  0| 
+|Starling Marte    |DH        |      5|  2|   1|  0|  0| 
 |Teoscar Hernandez |DH        |      1|  0|   1|  0|  0| 
-|Mike Zunino       |BAT BENCH |      1|  1|   1|  1|  0| 
+|Mike Zunino       |BAT BENCH |      2|  2|   3|  2|  0| 
 |Steven Duggar     |BAT BENCH |      2|  2|   1|  1|  0| 
 |Wander Franco     |BAT BENCH |     **| **|  **| **| **| 
 
@@ -46,7 +46,7 @@
 |Spencer Patton   |OP          |  1| 1.000|  0| 0.000|      0| 0.000|  2|  0|  0| 
 |Tyler Anderson   |OP          |  1| 4.333|  1| 2.077|      6| 1.385|  5|  0|  0| 
 |Drew Smyly       |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
-|Manuel Rodriguez |PITCH BENCH |  1| 1.000|  1| 9.000|      3| 3.000|  0|  0|  0| 
+|Manuel Rodriguez |PITCH BENCH |  2| 1.667|  1| 5.400|      6| 3.600|  1|  0|  0| 
 
 
 * * *
