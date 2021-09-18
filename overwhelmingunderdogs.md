@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Christian Vazquez |C         |      1|  1|   2|  0|  0| 
-|Carlos Santana    |1B        |      4|  0|   0|  0|  0| 
+|Christian Vazquez |C         |      3|  3|   2|  0|  0| 
+|Carlos Santana    |1B        |      6|  0|   0|  0|  0| 
 |Max Muncy         |2B        |      5|  4|   3|  2|  0| 
 |Alex Bregman      |3B        |      4|  1|   4|  0|  0| 
-|Dansby Swanson    |SS        |      3|  0|   1|  0|  0| 
-|Joey Wendle       |MI        |      2|  1|   0|  0|  0| 
-|Aledmys Diaz      |CI        |      1|  0|   0|  0|  0| 
+|Dansby Swanson    |SS        |      4|  0|   1|  0|  0| 
+|Joey Wendle       |MI        |      3|  2|   0|  0|  0| 
+|Aledmys Diaz      |CI        |      2|  0|   0|  0|  0| 
 |Andrew McCutchen  |OF        |      3|  3|   2|  0|  0| 
 |Brian Goodwin     |OF        |      1|  0|   0|  0|  0| 
-|Christian Yelich  |OF        |      0|  0|   0|  0|  0| 
+|Christian Yelich  |OF        |      3|  1|   1|  0|  0| 
 |Wil Myers         |OF        |      2|  1|   2|  0|  0| 
 |Amed Rosario      |DH        |      1|  1|   1|  0|  0| 
-|Max Kepler        |DH        |      2|  1|   0|  0|  0| 
-|Rafael Ortega     |DH        |      3|  1|   1|  0|  0| 
-|Yadiel Hernandez  |DH        |      2|  1|   0|  0|  0| 
+|Max Kepler        |DH        |      3|  1|   0|  0|  0| 
+|Rafael Ortega     |DH        |      5|  1|   1|  0|  0| 
+|Yadiel Hernandez  |DH        |      3|  1|   0|  0|  0| 
 |Alex Kirilloff    |BAT BENCH |     **| **|  **| **| **| 
 |Cavan Biggio      |BAT BENCH |     **| **|  **| **| **| 
-|Jesse Winker      |BAT BENCH |     **| **|  **| **| **| 
+|Jesse Winker      |BAT BENCH |      0|  0|   0|  0|  0| 
 
 
 * * *
@@ -38,15 +38,15 @@
 |Patrick Corbin     |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Yusei Kikuchi      |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Zack Greinke       |SP          |  1| 5.000|  7| 12.600|      8| 1.600|  4|  0|  0| 
-|Alex Colome        |RP          |  1| 1.000|  0|  0.000|      1| 1.000|  1|  0|  1| 
+|Alex Colome        |RP          |  2| 2.000|  0|  0.000|      2| 1.000|  2|  0|  1| 
 |Devin Williams     |RP          |  1| 1.000|  0|  0.000|      0| 0.000|  3|  0|  0| 
 |Andrew Chafin      |OP          |  2| 2.333|  1|  3.857|      6| 2.571|  3|  0|  1| 
 |Craig Kimbrel      |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Eduardo Rodriguez  |OP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Garrett Whitlock   |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Garrett Whitlock   |OP          |  1| 1.000|  0|  0.000|      0| 0.000|  1|  0|  0| 
 |Giovanny Gallegos  |OP          |  1| 1.000|  1|  9.000|      1| 1.000|  1|  0|  0| 
 |James Karinchak    |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
-|Madison Bumgarner  |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Madison Bumgarner  |PITCH BENCH |  1| 7.000|  2|  2.571|      2| 0.286|  3|  0|  0| 
 
 
 * * *
