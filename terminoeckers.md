@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Yasmani Grandal   |C         |      5|  1|   3|  1|  0| 
-|Miguel Sano       |1B        |      7|  4|   4|  2|  0| 
-|Jonathan India    |2B        |      4|  1|   2|  0|  1| 
-|Rafael Devers     |3B        |      7|  5|   1|  0|  0| 
-|Bo Bichette       |SS        |      5|  2|   7|  1|  0| 
-|Corey Seager      |MI        |      6|  1|   0|  0|  0| 
+|Yasmani Grandal   |C         |      7|  2|   4|  2|  0| 
+|Miguel Sano       |1B        |      8|  5|   4|  2|  0| 
+|Jonathan India    |2B        |      5|  2|   3|  0|  2| 
+|Rafael Devers     |3B        |      9|  6|   2|  0|  0| 
+|Bo Bichette       |SS        |      6|  3|   9|  2|  0| 
+|Corey Seager      |MI        |     10|  2|   3|  1|  0| 
 |Kyle Seager       |CI        |      5|  2|   2|  0|  0| 
-|Austin Meadows    |OF        |      3|  0|   1|  0|  1| 
-|Byron Buxton      |OF        |      3|  2|   1|  0|  0| 
+|Austin Meadows    |OF        |      4|  0|   1|  0|  1| 
+|Byron Buxton      |OF        |      4|  2|   1|  0|  0| 
 |Giancarlo Stanton |OF        |      8|  3|   4|  3|  0| 
-|J.D. Martinez     |OF        |      6|  2|   4|  1|  0| 
-|Abraham Toro      |DH        |      0|  2|   1|  0|  0| 
+|J.D. Martinez     |OF        |      7|  3|   5|  2|  0| 
+|Abraham Toro      |DH        |      1|  3|   1|  0|  0| 
 |Avisail Garcia    |DH        |      1|  0|   0|  0|  1| 
-|Hunter Renfroe    |DH        |      6|  4|   5|  1|  0| 
-|Jonathan Schoop   |DH        |      4|  1|   0|  0|  0| 
-|Eric Haase        |BAT BENCH |      1|  0|   0|  0|  0| 
-|Tommy Pham        |BAT BENCH |      7|  1|   3|  0|  1| 
+|Hunter Renfroe    |DH        |      8|  6|   6|  1|  0| 
+|Jonathan Schoop   |DH        |      5|  1|   0|  0|  0| 
+|Eric Haase        |BAT BENCH |      3|  1|   1|  1|  0| 
+|Tommy Pham        |BAT BENCH |      9|  3|   6|  1|  1| 
 
 
 * * *
@@ -37,8 +37,8 @@
 |Tanner Houck      |SP          |  2| 7.000|  3|  3.857|      6| 0.857| 10|  1|  0| 
 |Touki Toussaint   |SP          |  1| 4.000|  4|  9.000|      8| 2.000|  5|  0|  0| 
 |Trevor Rogers     |SP          |  1| 4.000|  1|  2.250|      8| 2.000|  3|  0|  0| 
-|Alex Reyes        |RP          |  2| 1.667|  0|  0.000|      2| 1.200|  2|  1|  0| 
-|Lou Trivino       |RP          |  2| 3.000|  1|  3.000|      5| 1.667|  5|  0|  0| 
+|Alex Reyes        |RP          |  3| 3.667|  1|  2.455|      4| 1.091|  3|  2|  0| 
+|Lou Trivino       |RP          |  3| 4.667|  1|  1.929|      5| 1.071|  7|  1|  0| 
 |Daniel Lynch      |OP          |  1| 2.000|  1|  4.500|      3| 1.500|  1|  0|  0| 
 |Kyle Freeland     |OP          |  1| 6.000|  0|  0.000|      8| 1.333|  7|  1|  0| 
 |Luis Patino       |OP          |  1| 6.000|  4|  6.000|      7| 1.167|  4|  0|  0| 
