@@ -7,14 +7,14 @@
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Max Stassi       |C         |      5|  2|   0|  0|  0| 
 |Frank Schwindel  |1B        |     11|  6|   5|  2|  1| 
-|DJ LeMahieu      |2B        |      8|  3|   1|  1|  0| 
-|Austin Riley     |3B        |      7|  4|   0|  0|  0| 
+|DJ LeMahieu      |2B        |     10|  4|   1|  1|  0| 
+|Austin Riley     |3B        |     10|  5|   3|  0|  0| 
 |Francisco Lindor |SS        |      6|  3|   1|  0|  0| 
 |Brendan Rodgers  |MI        |      9|  5|   7|  3|  0| 
 |Ryan McMahon     |CI        |      9|  2|   1|  0|  1| 
-|Bryce Harper     |OF        |     16|  6|   8|  1|  1| 
+|Bryce Harper     |OF        |     17|  6|   8|  1|  1| 
 |Mookie Betts     |OF        |      8|  2|   1|  0|  1| 
-|Nick Castellanos |OF        |      6|  3|   2|  1|  0| 
+|Nick Castellanos |OF        |      9|  5|   5|  1|  0| 
 |Shohei Ohtani    |OF        |      8|  2|   0|  0|  0| 
 |Brandon Belt     |DH        |      7|  4|   4|  2|  0| 
 |Cedric Mullins   |DH        |     10|  3|   0|  0|  2| 
@@ -40,7 +40,7 @@
 |Liam Hendriks    |RP          |  1|  1.000|  0|  0.000|      0| 0.000|  3|  0|  0| 
 |Adrian Houser    |OP          |  1|  4.000|  4|  9.000|      9| 2.250|  3|  0|  0| 
 |Chris Flexen     |OP          |  1|  5.667|  1|  1.588|      8| 1.412|  3|  1|  0| 
-|Dylan Floro      |OP          |  2|  2.000|  2|  9.000|      2| 1.000|  3|  0|  1| 
+|Dylan Floro      |OP          |  3|  3.000|  2|  6.000|      4| 1.333|  3|  1|  1| 
 |Eric Lauer       |OP          |  1|  5.333|  1|  1.688|      4| 0.750|  6|  0|  0| 
 |Kyle Finnegan    |OP          |  3|  3.333|  6| 16.200|     10| 3.000|  2|  0|  1| 
 |Chris Bassitt    |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 

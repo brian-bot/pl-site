@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Yasmani Grandal   |C         |      7|  2|   4|  2|  0| 
+|Yasmani Grandal   |C         |      9|  2|   5|  2|  0| 
 |Miguel Sano       |1B        |      8|  5|   4|  2|  0| 
-|Jonathan India    |2B        |      5|  2|   3|  0|  2| 
+|Jonathan India    |2B        |      6|  4|   3|  0|  2| 
 |Rafael Devers     |3B        |      9|  6|   2|  0|  0| 
 |Bo Bichette       |SS        |      6|  3|   9|  2|  0| 
 |Corey Seager      |MI        |     10|  2|   3|  1|  0| 
-|Kyle Seager       |CI        |      5|  2|   2|  0|  0| 
+|Kyle Seager       |CI        |      8|  2|   5|  0|  0| 
 |Austin Meadows    |OF        |      4|  0|   1|  0|  1| 
 |Byron Buxton      |OF        |      4|  2|   1|  0|  0| 
-|Giancarlo Stanton |OF        |      8|  3|   4|  3|  0| 
+|Giancarlo Stanton |OF        |      8|  3|   5|  3|  0| 
 |J.D. Martinez     |OF        |      7|  3|   5|  2|  0| 
 |Abraham Toro      |DH        |      1|  3|   1|  0|  0| 
-|Avisail Garcia    |DH        |      1|  0|   0|  0|  1| 
+|Avisail Garcia    |DH        |      2|  1|   1|  1|  1| 
 |Hunter Renfroe    |DH        |      8|  6|   6|  1|  0| 
-|Jonathan Schoop   |DH        |      5|  1|   0|  0|  0| 
+|Jonathan Schoop   |DH        |      6|  1|   1|  0|  0| 
 |Eric Haase        |BAT BENCH |      3|  1|   1|  1|  0| 
 |Tommy Pham        |BAT BENCH |      9|  3|   6|  1|  1| 
 

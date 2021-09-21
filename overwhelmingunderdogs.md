@@ -6,14 +6,14 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Christian Vazquez |C         |      4|  3|   2|  0|  0| 
-|Carlos Santana    |1B        |      8|  0|   1|  0|  0| 
+|Carlos Santana    |1B        |      9|  0|   2|  0|  0| 
 |Max Muncy         |2B        |      6|  4|   3|  2|  0| 
-|Alex Bregman      |3B        |      8|  3|   4|  0|  0| 
-|Dansby Swanson    |SS        |      5|  0|   1|  0|  0| 
-|Joey Wendle       |MI        |      4|  2|   0|  0|  0| 
+|Alex Bregman      |3B        |      9|  3|   4|  0|  0| 
+|Dansby Swanson    |SS        |      5|  1|   1|  0|  0| 
+|Joey Wendle       |MI        |      5|  4|   1|  1|  0| 
 |Aledmys Diaz      |CI        |      4|  0|   0|  0|  0| 
-|Andrew McCutchen  |OF        |      5|  3|   2|  0|  0| 
-|Brian Goodwin     |OF        |      1|  0|   0|  0|  0| 
+|Andrew McCutchen  |OF        |      6|  3|   2|  0|  0| 
+|Brian Goodwin     |OF        |      2|  1|   0|  0|  0| 
 |Christian Yelich  |OF        |      5|  2|   3|  0|  0| 
 |Wil Myers         |OF        |      4|  1|   3|  0|  0| 
 |Amed Rosario      |DH        |      1|  1|   1|  0|  0| 
@@ -33,7 +33,7 @@
 |players            |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:------------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Anthony DeSclafani |SP          |  2| 12.667|  3|  2.132|     10| 0.789|  9|  1|  0| 
-|Freddy Peralta     |SP          |  1|  6.000|  0|  0.000|      2| 0.333|  9|  0|  0| 
+|Freddy Peralta     |SP          |  2| 12.000|  3|  2.250|     10| 0.833| 18|  0|  0| 
 |Jose Berrios       |SP          |  2| 13.667|  4|  2.634|      9| 0.659| 10|  1|  0| 
 |Patrick Corbin     |SP          |  1|  4.000|  5| 11.250|     12| 3.000|  5|  0|  0| 
 |Yusei Kikuchi      |SP          |  1|  3.000|  3|  9.000|      8| 2.667|  3|  0|  0| 
@@ -41,7 +41,7 @@
 |Alex Colome        |RP          |  2|  2.000|  0|  0.000|      2| 1.000|  2|  0|  1| 
 |Devin Williams     |RP          |  2|  2.000|  0|  0.000|      1| 0.500|  6|  1|  0| 
 |Andrew Chafin      |OP          |  3|  3.333|  1|  2.700|      9| 2.700|  3|  0|  2| 
-|Craig Kimbrel      |OP          |  1|  1.000|  0|  0.000|      1| 1.000|  2|  0|  0| 
+|Craig Kimbrel      |OP          |  2|  2.000|  1|  4.500|      2| 1.000|  3|  0|  0| 
 |Eduardo Rodriguez  |OP          | **|     **| **|     **|     **|    **| **| **| **| 
 |Garrett Whitlock   |OP          |  2|  2.000|  1|  4.500|      2| 1.000|  1|  0|  0| 
 |Giovanny Gallegos  |OP          |  3|  3.000|  1|  3.000|      1| 0.333|  4|  0|  2| 
