@@ -8,20 +8,20 @@
 |Yasmani Grandal   |C         |     12|  2|   5|  2|  0| 
 |Miguel Sano       |1B        |      9|  6|   5|  2|  0| 
 |Jonathan India    |2B        |     10|  4|   3|  0|  2| 
-|Rafael Devers     |3B        |      9|  6|   2|  0|  0| 
-|Bo Bichette       |SS        |      7|  3|  10|  2|  0| 
-|Corey Seager      |MI        |     10|  2|   3|  1|  0| 
-|Kyle Seager       |CI        |     10|  2|   5|  0|  0| 
-|Austin Meadows    |OF        |      5|  0|   1|  0|  1| 
-|Byron Buxton      |OF        |      6|  4|   1|  0|  1| 
-|Giancarlo Stanton |OF        |      9|  4|   7|  4|  0| 
-|J.D. Martinez     |OF        |      7|  3|   5|  2|  0| 
-|Abraham Toro      |DH        |      1|  3|   1|  0|  0| 
-|Avisail Garcia    |DH        |      3|  1|   1|  1|  1| 
-|Hunter Renfroe    |DH        |      8|  6|   6|  1|  0| 
+|Rafael Devers     |3B        |     11|  6|   2|  0|  0| 
+|Bo Bichette       |SS        |      9|  3|  10|  2|  1| 
+|Corey Seager      |MI        |     12|  3|   3|  1|  0| 
+|Kyle Seager       |CI        |     13|  3|   6|  1|  0| 
+|Austin Meadows    |OF        |      6|  1|   4|  1|  1| 
+|Byron Buxton      |OF        |      7|  4|   1|  0|  1| 
+|Giancarlo Stanton |OF        |     11|  4|   7|  4|  0| 
+|J.D. Martinez     |OF        |     10|  4|   6|  2|  0| 
+|Abraham Toro      |DH        |      2|  4|   1|  0|  0| 
+|Avisail Garcia    |DH        |      4|  2|   2|  2|  1| 
+|Hunter Renfroe    |DH        |     10|  8|   6|  1|  0| 
 |Jonathan Schoop   |DH        |      8|  1|   1|  0|  0| 
 |Eric Haase        |BAT BENCH |      3|  1|   1|  1|  0| 
-|Tommy Pham        |BAT BENCH |     10|  4|   7|  2|  1| 
+|Tommy Pham        |BAT BENCH |     12|  5|   7|  2|  1| 
 
 
 * * *
@@ -41,10 +41,10 @@
 |Lou Trivino       |RP          |  3|  4.667|  1|  1.929|      5| 1.071|  7|  1|  0| 
 |Daniel Lynch      |OP          |  2|  8.000|  5|  5.625|     10| 1.250|  6|  0|  0| 
 |Kyle Freeland     |OP          |  1|  6.000|  0|  0.000|      8| 1.333|  7|  1|  0| 
-|Luis Patino       |OP          |  1|  6.000|  4|  6.000|      7| 1.167|  4|  0|  0| 
+|Luis Patino       |OP          |  2|  9.000|  4|  4.000|      9| 1.000|  5|  0|  0| 
 |Nestor Cortes Jr. |OP          |  1|  6.333|  1|  1.421|      5| 0.789| 11|  0|  0| 
 |Tylor Megill      |OP          |  1|  3.000|  6| 18.000|     11| 3.667|  3|  0|  0| 
-|Andrew Heaney     |PITCH BENCH |  1|  3.000|  2|  6.000|      5| 1.667|  4|  0|  0| 
+|Andrew Heaney     |PITCH BENCH |  1|  3.000|  3|  9.000|      6| 2.000|  4|  0|  0| 
 |Jacob deGrom      |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Patrick Sandoval  |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 

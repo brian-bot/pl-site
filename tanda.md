@@ -7,22 +7,22 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Travis d'Arnaud   |C         |      4|  3|   3|  1|  0| 
 |Matt Olson        |1B        |     15|  6|   6|  3|  0| 
-|Brandon Lowe      |2B        |      8|  3|   2|  1|  1| 
-|Matt Chapman      |3B        |      8|  2|   2|  1|  0| 
-|Trevor Story      |SS        |      9|  3|   4|  2|  1| 
-|Jorge Polanco     |MI        |      5|  3|   2|  1|  0| 
-|Jonathan Villar   |CI        |      4|  1|   0|  0|  0| 
-|Adam Duvall       |OF        |      7|  4|   8|  3|  0| 
-|Adolis Garcia     |OF        |      6|  2|   4|  1|  1| 
-|Joey Gallo        |OF        |      7|  6|   5|  5|  0| 
-|Randy Arozarena   |OF        |      6|  0|   2|  0|  2| 
+|Brandon Lowe      |2B        |     10|  4|   2|  1|  1| 
+|Matt Chapman      |3B        |     10|  3|   3|  2|  0| 
+|Trevor Story      |SS        |     11|  4|   5|  2|  1| 
+|Jorge Polanco     |MI        |      6|  3|   2|  1|  0| 
+|Jonathan Villar   |CI        |      5|  1|   0|  0|  0| 
+|Adam Duvall       |OF        |      9|  4|  10|  3|  0| 
+|Adolis Garcia     |OF        |      7|  3|   4|  1|  2| 
+|Joey Gallo        |OF        |     10|  7|   5|  5|  0| 
+|Randy Arozarena   |OF        |      9|  2|   2|  0|  2| 
 |Adalberto Mondesi |DH        |      8|  4|   3|  0|  6| 
 |Jazz Chisholm Jr. |DH        |      8|  6|   3|  2|  1| 
-|Kyle Schwarber    |DH        |      7|  4|   5|  0|  0| 
+|Kyle Schwarber    |DH        |     11|  8|   9|  2|  0| 
 |Luis Robert       |DH        |     12|  4|   7|  1|  0| 
 |Anthony Santander |BAT BENCH |      7|  3|   1|  0|  0| 
-|Brandon Crawford  |BAT BENCH |     11|  6|   2|  1|  0| 
-|Josh Donaldson    |BAT BENCH |     10|  5|   5|  2|  0| 
+|Brandon Crawford  |BAT BENCH |     13|  6|   3|  1|  0| 
+|Josh Donaldson    |BAT BENCH |     11|  6|   5|  2|  0| 
 
 
 * * *
@@ -39,7 +39,7 @@
 |Robbie Ray          |SP          |  2| 11.667|  4|  3.086|     13| 1.114| 18|  1|  0| 
 |Wade Miley          |SP          |  2|  7.333| 11| 13.500|     22| 3.000|  3|  0|  0| 
 |Mychal Givens       |RP          |  3|  2.667|  0|  0.000|      4| 1.500|  3|  0|  1| 
-|Ryan Pressly        |RP          |  3|  3.000|  0|  0.000|      1| 0.333|  5|  0|  1| 
+|Ryan Pressly        |RP          |  4|  4.000|  0|  0.000|      2| 0.500|  7|  0|  1| 
 |Cal Quantrill       |OP          |  2| 13.333|  1|  0.675|     14| 1.050| 10|  2|  0| 
 |Carlos Hernandez    |OP          |  1|  4.000|  7| 15.750|     13| 3.250|  3|  0|  0| 
 |Huascar Ynoa        |OP          |  2|  8.667|  5|  5.192|     13| 1.500| 10|  0|  0| 

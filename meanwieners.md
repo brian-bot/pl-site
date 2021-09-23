@@ -5,21 +5,21 @@
  
 |players         |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------|:---------|------:|--:|---:|--:|--:| 
-|Omar Narvaez    |C         |      4|  0|   0|  0|  0| 
-|Yuli Gurriel    |1B        |     13|  7|   1|  0|  0| 
+|Omar Narvaez    |C         |      5|  1|   0|  0|  0| 
+|Yuli Gurriel    |1B        |     15|  7|   2|  0|  0| 
 |Whit Merrifield |2B        |     13|  6|   1|  0|  0| 
-|Luis Urias      |3B        |     11|  2|   5|  1|  0| 
+|Luis Urias      |3B        |     12|  2|   6|  1|  0| 
 |Willy Adames    |SS        |      1|  0|   1|  0|  0| 
-|Gleyber Torres  |MI        |     15|  2|   1|  0|  2| 
+|Gleyber Torres  |MI        |     17|  4|   2|  0|  2| 
 |Eduardo Escobar |CI        |      8|  3|   2|  1|  0| 
-|Aaron Judge     |OF        |     10|  4|   7|  3|  0| 
-|Mitch Haniger   |OF        |      8|  3|   2|  1|  0| 
+|Aaron Judge     |OF        |     11|  5|   7|  3|  0| 
+|Mitch Haniger   |OF        |      9|  3|   2|  1|  0| 
 |Robbie Grossman |OF        |      8|  4|   0|  0|  1| 
-|Yordan Alvarez  |OF        |     12|  4|   4|  1|  0| 
+|Yordan Alvarez  |OF        |     15|  6|   7|  2|  0| 
 |Cody Bellinger  |DH        |      3|  0|   1|  0|  0| 
-|Jorge Soler     |DH        |      8|  3|   2|  1|  0| 
+|Jorge Soler     |DH        |     10|  4|   3|  1|  0| 
 |Nathaniel Lowe  |DH        |     12|  3|   3|  1|  0| 
-|Tyler O'Neill   |DH        |     12| 10|  11|  3|  1| 
+|Tyler O'Neill   |DH        |     14| 12|  14|  4|  1| 
 |Luke Voit       |BAT BENCH |      5|  2|   3|  2|  0| 
 |Paul DeJong     |BAT BENCH |      0|  0|   0|  0|  0| 
 |Rhys Hoskins    |BAT BENCH |     **| **|  **| **| **| 
@@ -38,7 +38,7 @@
 |Kevin Gausman     |SP          |  2|  9.000|  8|  8.000|     18| 2.000| 10|  0|  0| 
 |Logan Webb        |SP          |  1|  7.000|  2|  2.571|      6| 0.857|  9|  0|  0| 
 |Collin McHugh     |RP          |  2|  3.000|  0|  0.000|      0| 0.000|  2|  0|  0| 
-|Drew Steckenrider |RP          |  3|  2.000|  4| 18.000|      6| 3.000|  0|  0|  1| 
+|Drew Steckenrider |RP          |  4|  3.000|  4| 12.000|      7| 2.333|  1|  0|  2| 
 |Kenley Jansen     |OP          |  5|  4.333|  1|  2.077|      3| 0.692|  7|  1|  2| 
 |Logan Gilbert     |OP          |  1|  7.000|  1|  1.286|      4| 0.571|  5|  1|  0| 
 |Ryan Tepera       |OP          | **|     **| **|     **|     **|    **| **| **| **| 
