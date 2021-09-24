@@ -6,24 +6,24 @@
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Salvador Perez      |C         |     13|  7|  10|  4|  0| 
-|Paul Goldschmidt    |1B        |     15| 14|   6|  2|  0| 
-|Jean Segura         |2B        |     14|  6|   6|  2|  0| 
+|Paul Goldschmidt    |1B        |     18| 16|   9|  4|  0| 
+|Jean Segura         |2B        |     15|  7|   7|  2|  0| 
 |Manny Machado       |3B        |     13|  7|   6|  2|  0| 
-|Trea Turner         |SS        |     13|  5|   3|  1|  3| 
+|Trea Turner         |SS        |     17|  6|   4|  1|  4| 
 |Nicky Lopez         |MI        |     16|  9|   3|  0|  1| 
 |Jeimer Candelario   |CI        |      8|  2|   4|  2|  0| 
-|Bryan Reynolds      |OF        |     13|  5|   3|  1|  0| 
-|Eloy Jimenez        |OF        |      7|  1|   2|  0|  0| 
-|Kyle Tucker         |OF        |     15|  5|   5|  2|  0| 
+|Bryan Reynolds      |OF        |     14|  5|   3|  1|  0| 
+|Eloy Jimenez        |OF        |      8|  2|   3|  1|  0| 
+|Kyle Tucker         |OF        |     18|  6|   5|  2|  1| 
 |Michael Brantley    |OF        |     **| **|  **| **| **| 
 |Andrew Benintendi   |DH        |     15|  3|   8|  1|  0| 
-|Justin Turner       |DH        |      8|  4|   2|  0|  0| 
+|Justin Turner       |DH        |      8|  5|   2|  0|  0| 
 |Ketel Marte         |DH        |     14|  4|   4|  1|  0| 
-|Lourdes Gurriel Jr. |DH        |      8|  3|   3|  2|  0| 
-|Cesar Hernandez     |BAT BENCH |     10|  2|   4|  0|  0| 
+|Lourdes Gurriel Jr. |DH        |      9|  3|   4|  2|  0| 
+|Cesar Hernandez     |BAT BENCH |     13|  3|   4|  0|  0| 
 |Chris Taylor        |BAT BENCH |      2|  3|   1|  0|  0| 
-|Jake Meyers         |BAT BENCH |      7|  5|   5|  1|  1| 
-|Ke'Bryan Hayes      |BAT BENCH |     10|  6|   1|  0|  2| 
+|Jake Meyers         |BAT BENCH |      8|  5|   5|  1|  2| 
+|Ke'Bryan Hayes      |BAT BENCH |     11|  7|   4|  1|  2| 
 
 
 * * *
@@ -44,7 +44,7 @@
 |Bailey Ober      |OP          |  1|  4.000|  4| 9.000|      6| 1.500|  3|  0|  0| 
 |Carlos Carrasco  |OP          |  1|  6.000|  2| 3.000|      7| 1.167|  5|  0|  0| 
 |Joe Ryan         |OP          |  2| 10.000|  3| 2.700|      8| 0.800| 16|  1|  0| 
-|Paul Sewald      |OP          |  4|  5.333|  0| 0.000|      4| 0.750|  7|  0|  1| 
+|Paul Sewald      |OP          |  5|  6.333|  1| 1.421|      5| 0.789|  9|  0|  2| 
 |Scott Barlow     |OP          |  2|  2.000|  1| 4.500|      3| 1.500|  2|  0|  2| 
 |Blake Snell      |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 
