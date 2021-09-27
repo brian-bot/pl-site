@@ -6,19 +6,19 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Yadier Molina    |C         |      9|  3|   6|  0|  0| 
-|Jose Abreu       |1B        |     17|  3|   6|  0|  0| 
+|Jose Abreu       |1B        |     20|  4|   6|  0|  0| 
 |Jose Altuve      |2B        |     19| 12|   7|  3|  1| 
-|Ty France        |3B        |     18|  6|   7|  2|  0| 
-|Javier Baez      |SS        |     16|  4|   4|  1|  1| 
-|David Fletcher   |MI        |      7|  0|   2|  0|  0| 
-|Kris Bryant      |CI        |     16|  3|   4|  1|  0| 
-|Charlie Blackmon |OF        |     14|  4|   4|  0|  0| 
-|Dylan Carlson    |OF        |     11|  6|   9|  2|  0| 
-|George Springer  |OF        |     10|  5|   2|  1|  0| 
-|Jarred Kelenic   |OF        |     14|  8|   7|  3|  2| 
-|Andrew Vaughn    |DH        |      2|  0|   2|  0|  0| 
-|Didi Gregorius   |DH        |     11|  4|   8|  2|  0| 
-|Hunter Dozier    |DH        |     15|  6|   8|  4|  0| 
+|Ty France        |3B        |     19|  6|   7|  2|  0| 
+|Javier Baez      |SS        |     18|  4|   6|  1|  1| 
+|David Fletcher   |MI        |      8|  0|   2|  0|  0| 
+|Kris Bryant      |CI        |     18|  3|   5|  1|  1| 
+|Charlie Blackmon |OF        |     15|  4|   4|  0|  0| 
+|Dylan Carlson    |OF        |     13|  6|   9|  2|  0| 
+|George Springer  |OF        |     14|  6|   3|  2|  0| 
+|Jarred Kelenic   |OF        |     16|  9|   8|  4|  2| 
+|Andrew Vaughn    |DH        |      3|  1|   2|  0|  0| 
+|Didi Gregorius   |DH        |     12|  4|   8|  2|  0| 
+|Hunter Dozier    |DH        |     16|  6|   8|  4|  0| 
 |Ian Happ         |DH        |     16|  7|  10|  2|  3| 
 |Anthony Rendon   |BAT BENCH |     **| **|  **| **| **| 
 |Justin Upton     |BAT BENCH |     **| **|  **| **| **| 
@@ -42,7 +42,7 @@
 |Corey Kluber    |OP          |  2| 10.333|  3|  2.613|     14| 1.355|  8|  1|  0| 
 |Emmanuel Clase  |OP          |  5|  5.000|  0|  0.000|      5| 1.000|  6|  1|  2| 
 |Jameson Taillon |OP          | **|     **| **|     **|     **|    **| **| **| **| 
-|Marco Gonzales  |OP          |  2| 12.000|  5|  3.750|     10| 0.833| 10|  1|  0| 
+|Marco Gonzales  |OP          |  3| 19.000|  6|  2.842|     16| 0.842| 15|  2|  0| 
 |Austin Gomber   |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Nate Pearson    |PITCH BENCH |  4|  3.667|  1|  2.455|      5| 1.364|  6|  0|  0| 
 |Rafael Montero  |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
