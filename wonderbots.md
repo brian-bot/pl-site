@@ -6,17 +6,17 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Yadier Molina    |C         |      9|  3|   6|  0|  0| 
-|Jose Abreu       |1B        |     20|  4|   6|  0|  0| 
+|Jose Abreu       |1B        |     21|  4|   6|  0|  0| 
 |Jose Altuve      |2B        |     19| 12|   7|  3|  1| 
-|Ty France        |3B        |     19|  6|   7|  2|  0| 
+|Ty France        |3B        |     24|  9|  11|  2|  0| 
 |Javier Baez      |SS        |     18|  4|   6|  1|  1| 
 |David Fletcher   |MI        |      8|  0|   2|  0|  0| 
 |Kris Bryant      |CI        |     18|  3|   5|  1|  1| 
-|Charlie Blackmon |OF        |     15|  4|   4|  0|  0| 
+|Charlie Blackmon |OF        |     16|  5|   4|  0|  0| 
 |Dylan Carlson    |OF        |     13|  6|   9|  2|  0| 
 |George Springer  |OF        |     14|  6|   3|  2|  0| 
-|Jarred Kelenic   |OF        |     16|  9|   8|  4|  2| 
-|Andrew Vaughn    |DH        |      3|  1|   2|  0|  0| 
+|Jarred Kelenic   |OF        |     19| 11|   8|  4|  2| 
+|Andrew Vaughn    |DH        |      4|  2|   2|  0|  0| 
 |Didi Gregorius   |DH        |     12|  4|   8|  2|  0| 
 |Hunter Dozier    |DH        |     16|  6|   8|  4|  0| 
 |Ian Happ         |DH        |     16|  7|  10|  2|  3| 
@@ -40,7 +40,7 @@
 |Gregory Soto    |RP          |  2|  2.000|  3| 13.500|      4| 2.000|  3|  0|  0| 
 |Adam Wainwright |OP          |  2| 10.000|  7|  6.300|     13| 1.300|  3|  0|  0| 
 |Corey Kluber    |OP          |  2| 10.333|  3|  2.613|     14| 1.355|  8|  1|  0| 
-|Emmanuel Clase  |OP          |  5|  5.000|  0|  0.000|      5| 1.000|  6|  1|  2| 
+|Emmanuel Clase  |OP          |  6|  6.000|  0|  0.000|      5| 0.833|  7|  1|  2| 
 |Jameson Taillon |OP          | **|     **| **|     **|     **|    **| **| **| **| 
 |Marco Gonzales  |OP          |  3| 19.000|  6|  2.842|     16| 0.842| 15|  2|  0| 
 |Austin Gomber   |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 

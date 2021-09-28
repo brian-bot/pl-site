@@ -8,11 +8,11 @@
 |Will Smith        |C         |      8|  5|   5|  2|  0| 
 |Pete Alonso       |1B        |     13|  6|   4|  3|  0| 
 |Ozzie Albies      |2B        |     17|  8|   9|  2|  1| 
-|Yoan Moncada      |3B        |     16|  5|   2|  1|  0| 
+|Yoan Moncada      |3B        |     17|  6|   2|  1|  0| 
 |Xander Bogaerts   |SS        |     15|  7|   8|  2|  0| 
 |Tim Anderson      |MI        |     15|  9|   5|  2|  1| 
 |Patrick Wisdom    |CI        |     14|  5|  11|  3|  1| 
-|Juan Soto         |OF        |     37| 13|   9|  4|  0| 
+|Juan Soto         |OF        |     39| 13|  10|  4|  0| 
 |Mike Yastrzemski  |OF        |      8|  3|   9|  2|  1| 
 |Nelson Cruz       |OF        |      5|  1|   2|  0|  0| 
 |Ryan Mountcastle  |OF        |     14|  7|   5|  3|  0| 

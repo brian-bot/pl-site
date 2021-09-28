@@ -13,8 +13,8 @@
 |Gleyber Torres  |MI        |     21|  6|   4|  1|  2| 
 |Eduardo Escobar |CI        |     14|  4|   6|  1|  0| 
 |Aaron Judge     |OF        |     15|  9|  10|  3|  0| 
-|Mitch Haniger   |OF        |     13|  6|   6|  2|  0| 
-|Robbie Grossman |OF        |     14|  6|   0|  0|  1| 
+|Mitch Haniger   |OF        |     15|  8|  12|  4|  0| 
+|Robbie Grossman |OF        |     15|  6|   0|  0|  1| 
 |Yordan Alvarez  |OF        |     17|  7|   7|  2|  0| 
 |Cody Bellinger  |DH        |      3|  0|   1|  0|  0| 
 |Jorge Soler     |DH        |     15|  6|   7|  2|  0| 

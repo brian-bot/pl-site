@@ -11,15 +11,15 @@
 |Nolan Arenado    |3B        |     20|  8|   6|  2|  0| 
 |Carlos Correa    |SS        |     15|  8|  11|  2|  0| 
 |Jake Cronenworth |MI        |      9|  3|   4|  0|  0| 
-|C.J. Cron        |CI        |     16|  7|   6|  1|  0| 
-|Franmil Reyes    |OF        |     13|  4|   7|  2|  0| 
-|Mark Canha       |OF        |     17|  7|   6|  0|  0| 
-|Raimel Tapia     |OF        |      9|  3|   3|  1|  0| 
+|C.J. Cron        |CI        |     18|  7|   7|  1|  0| 
+|Franmil Reyes    |OF        |     13|  4|   8|  2|  0| 
+|Mark Canha       |OF        |     19|  8|   6|  0|  0| 
+|Raimel Tapia     |OF        |     10|  3|   3|  1|  0| 
 |Tommy Edman      |OF        |     18|  9|   6|  0|  3| 
 |Buster Posey     |DH        |     13|  5|   5|  1|  0| 
-|Joey Votto       |DH        |     22|  7|   5|  3|  0| 
-|Josh Bell        |DH        |     22|  6|   7|  1|  0| 
-|Myles Straw      |DH        |     19|  7|   1|  0|  1| 
+|Joey Votto       |DH        |     24|  9|   9|  5|  0| 
+|Josh Bell        |DH        |     22|  7|   7|  1|  0| 
+|Myles Straw      |DH        |     21|  9|   1|  0|  1| 
 |Dominic Smith    |BAT BENCH |      2|  0|   3|  0|  0| 
 |Manuel Margot    |BAT BENCH |     15|  6|   2|  0|  1| 
 |Mike Trout       |BAT BENCH |     **| **|  **| **| **| 

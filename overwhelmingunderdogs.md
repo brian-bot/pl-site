@@ -16,10 +16,10 @@
 |Brian Goodwin     |OF        |      2|  1|   0|  0|  0| 
 |Christian Yelich  |OF        |     14|  4|   5|  1|  0| 
 |Wil Myers         |OF        |      7|  3|   3|  0|  0| 
-|Amed Rosario      |DH        |      4|  2|   1|  0|  0| 
+|Amed Rosario      |DH        |      9|  4|   4|  1|  0| 
 |Max Kepler        |DH        |     11|  5|   5|  2|  0| 
 |Rafael Ortega     |DH        |     16|  3|   1|  0|  1| 
-|Yadiel Hernandez  |DH        |     11|  3|   4|  1|  0| 
+|Yadiel Hernandez  |DH        |     12|  4|   4|  1|  0| 
 |Alex Kirilloff    |BAT BENCH |     **| **|  **| **| **| 
 |Cavan Biggio      |BAT BENCH |     **| **|  **| **| **| 
 |Jesse Winker      |BAT BENCH |      0|  0|   0|  0|  0| 

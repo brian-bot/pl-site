@@ -5,22 +5,22 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez      |C         |     15|  7|  10|  4|  0| 
+|Salvador Perez      |C         |     17|  8|  12|  4|  0| 
 |Paul Goldschmidt    |1B        |     26| 20|  14|  6|  0| 
 |Jean Segura         |2B        |     19|  8|   7|  2|  0| 
 |Manny Machado       |3B        |     18|  8|  11|  3|  0| 
 |Trea Turner         |SS        |     23| 10|   7|  4|  4| 
-|Nicky Lopez         |MI        |     19|  9|   4|  0|  2| 
-|Jeimer Candelario   |CI        |     12|  2|   5|  2|  0| 
-|Bryan Reynolds      |OF        |     19|  7|   3|  1|  0| 
-|Eloy Jimenez        |OF        |     10|  2|   5|  1|  0| 
+|Nicky Lopez         |MI        |     20| 10|   4|  0|  2| 
+|Jeimer Candelario   |CI        |     15|  3|   5|  2|  0| 
+|Bryan Reynolds      |OF        |     20|  7|   3|  1|  0| 
+|Eloy Jimenez        |OF        |     14|  4|   7|  2|  0| 
 |Kyle Tucker         |OF        |     21|  7|   6|  3|  1| 
 |Michael Brantley    |OF        |     **| **|  **| **| **| 
-|Andrew Benintendi   |DH        |     18|  3|   9|  1|  0| 
+|Andrew Benintendi   |DH        |     19|  3|  10|  1|  0| 
 |Justin Turner       |DH        |     12|  6|   3|  0|  0| 
 |Ketel Marte         |DH        |     19|  6|   5|  2|  1| 
 |Lourdes Gurriel Jr. |DH        |      9|  3|   4|  2|  0| 
-|Cesar Hernandez     |BAT BENCH |     13|  3|   4|  0|  0| 
+|Cesar Hernandez     |BAT BENCH |     14|  4|   6|  0|  0| 
 |Chris Taylor        |BAT BENCH |      4|  3|   1|  0|  0| 
 |Jake Meyers         |BAT BENCH |      9|  5|   5|  1|  2| 
 |Ke'Bryan Hayes      |BAT BENCH |     14|  8|   6|  1|  3| 

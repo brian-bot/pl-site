@@ -6,20 +6,20 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Travis d'Arnaud   |C         |      9|  6|   4|  1|  0| 
-|Matt Olson        |1B        |     26|  8|  11|  4|  0| 
+|Matt Olson        |1B        |     28|  9|  11|  4|  0| 
 |Brandon Lowe      |2B        |     14|  4|   4|  1|  1| 
 |Matt Chapman      |3B        |     12|  4|   3|  2|  0| 
-|Trevor Story      |SS        |     13|  5|   5|  2|  1| 
+|Trevor Story      |SS        |     16|  7|   5|  2|  1| 
 |Jorge Polanco     |MI        |     10|  5|   3|  1|  1| 
 |Jonathan Villar   |CI        |      7|  1|   0|  0|  0| 
 |Adam Duvall       |OF        |     12|  5|  11|  3|  0| 
 |Adolis Garcia     |OF        |     12|  5|   7|  1|  3| 
 |Joey Gallo        |OF        |     12|  8|   5|  5|  0| 
 |Randy Arozarena   |OF        |     15|  3|   5|  0|  3| 
-|Adalberto Mondesi |DH        |     11|  5|   3|  0|  6| 
+|Adalberto Mondesi |DH        |     12|  5|   3|  0|  7| 
 |Jazz Chisholm Jr. |DH        |     12|  7|   3|  2|  1| 
 |Kyle Schwarber    |DH        |     13| 10|   9|  2|  0| 
-|Luis Robert       |DH        |     15|  6|  10|  3|  0| 
+|Luis Robert       |DH        |     16|  6|  11|  3|  0| 
 |Anthony Santander |BAT BENCH |      8|  4|   3|  1|  0| 
 |Brandon Crawford  |BAT BENCH |     20| 10|   8|  3|  0| 
 |Josh Donaldson    |BAT BENCH |     16|  7|   5|  2|  0| 
@@ -40,7 +40,7 @@
 |Wade Miley          |SP          |  2|  7.333| 11| 13.500|     22| 3.000|  3|  0|  0| 
 |Mychal Givens       |RP          |  5|  4.333|  3|  6.231|      9| 2.077|  4|  1|  1| 
 |Ryan Pressly        |RP          |  6|  4.333|  1|  2.077|      5| 1.154|  8|  0|  1| 
-|Cal Quantrill       |OP          |  2| 13.333|  1|  0.675|     14| 1.050| 10|  2|  0| 
+|Cal Quantrill       |OP          |  3| 19.333|  4|  1.862|     20| 1.034| 15|  3|  0| 
 |Carlos Hernandez    |OP          |  2|  9.000|  7|  7.000|     18| 2.000|  4|  0|  0| 
 |Huascar Ynoa        |OP          |  3| 13.333| 12|  8.100|     20| 1.500| 16|  0|  0| 
 |Joe Barlow          |OP          |  5|  4.333|  1|  2.077|      3| 0.692|  5|  0|  3| 

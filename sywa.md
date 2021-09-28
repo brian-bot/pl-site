@@ -16,10 +16,10 @@
 |Brandon Nimmo         |OF        |     11|  5|   1|  1|  0| 
 |Eddie Rosario         |OF        |     18|  5|   5|  3|  1| 
 |Trent Grisham         |OF        |     13|  5|   6|  1|  1| 
-|Akil Baddoo           |DH        |      8|  2|   3|  1|  0| 
+|Akil Baddoo           |DH        |      9|  2|   4|  1|  0| 
 |Anthony Rizzo         |DH        |     12|  8|   1|  0|  0| 
-|Eugenio Suarez        |DH        |     16|  4|   5|  2|  0| 
-|J.P. Crawford         |DH        |     19|  6|   6|  1|  0| 
+|Eugenio Suarez        |DH        |     20|  6|   6|  3|  0| 
+|J.P. Crawford         |DH        |     22|  9|   7|  1|  0| 
 |Joc Pederson          |BAT BENCH |      7|  4|   2|  1|  0| 
 
 
