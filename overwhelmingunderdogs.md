@@ -6,19 +6,19 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Christian Vazquez |C         |      7|  3|   4|  0|  0| 
-|Carlos Santana    |1B        |     15|  2|   3|  0|  0| 
-|Max Muncy         |2B        |     16|  8|   9|  4|  0| 
+|Carlos Santana    |1B        |     17|  2|   4|  0|  0| 
+|Max Muncy         |2B        |     17|  8|   9|  4|  0| 
 |Alex Bregman      |3B        |     17|  6|   7|  2|  0| 
-|Dansby Swanson    |SS        |     17|  5|   7|  1|  0| 
+|Dansby Swanson    |SS        |     20|  5|   8|  1|  0| 
 |Joey Wendle       |MI        |     12|  8|   3|  1|  0| 
 |Aledmys Diaz      |CI        |      7|  1|   3|  1|  0| 
-|Andrew McCutchen  |OF        |     17|  8|   6|  1|  0| 
+|Andrew McCutchen  |OF        |     20|  9|   8|  2|  0| 
 |Brian Goodwin     |OF        |      2|  1|   0|  0|  0| 
 |Christian Yelich  |OF        |     17|  5|   5|  1|  0| 
 |Wil Myers         |OF        |      9|  4|   4|  0|  0| 
 |Amed Rosario      |DH        |     11|  5|   5|  1|  0| 
-|Max Kepler        |DH        |     12|  5|   7|  2|  0| 
-|Rafael Ortega     |DH        |     22|  6|   1|  0|  1| 
+|Max Kepler        |DH        |     14|  6|   7|  2|  0| 
+|Rafael Ortega     |DH        |     25|  8|   2|  1|  3| 
 |Yadiel Hernandez  |DH        |     16|  6|   5|  1|  0| 
 |Alex Kirilloff    |BAT BENCH |     **| **|  **| **| **| 
 |Cavan Biggio      |BAT BENCH |     **| **|  **| **| **| 
@@ -46,7 +46,7 @@
 |Garrett Whitlock   |OP          |  2|  2.000|  1|  4.500|      2| 1.000|  1|  0|  0| 
 |Giovanny Gallegos  |OP          |  8|  8.000|  1|  1.125|      7| 0.875| 11|  0|  6| 
 |James Karinchak    |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Madison Bumgarner  |PITCH BENCH |  2| 12.000|  5|  3.750|      9| 0.750|  8|  0|  0| 
+|Madison Bumgarner  |PITCH BENCH |  3| 17.000|  9|  4.765|     17| 1.000| 12|  0|  0| 
 
 
 * * *

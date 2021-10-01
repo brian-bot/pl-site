@@ -6,20 +6,20 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Yasmani Grandal   |C         |     26|  5|   7|  3|  0| 
-|Miguel Sano       |1B        |     17|  7|   6|  3|  0| 
+|Miguel Sano       |1B        |     18|  7|   6|  3|  0| 
 |Jonathan India    |2B        |     22| 11|   5|  1|  3| 
-|Rafael Devers     |3B        |     18|  9|   5|  1|  1| 
-|Bo Bichette       |SS        |     18|  7|  13|  4|  2| 
-|Corey Seager      |MI        |     27|  7|  10|  4|  0| 
+|Rafael Devers     |3B        |     19|  9|   5|  1|  1| 
+|Bo Bichette       |SS        |     21|  8|  13|  4|  3| 
+|Corey Seager      |MI        |     30|  9|  12|  6|  0| 
 |Kyle Seager       |CI        |     16|  5|   6|  1|  0| 
-|Austin Meadows    |OF        |     10|  4|   4|  1|  1| 
-|Byron Buxton      |OF        |     18| 10|   4|  2|  4| 
-|Giancarlo Stanton |OF        |     21|  8|  20|  8|  0| 
-|J.D. Martinez     |OF        |     17|  6|  10|  3|  0| 
+|Austin Meadows    |OF        |     11|  4|   4|  1|  1| 
+|Byron Buxton      |OF        |     21| 13|   6|  4|  4| 
+|Giancarlo Stanton |OF        |     23|  9|  20|  8|  0| 
+|J.D. Martinez     |OF        |     18|  7|  10|  3|  0| 
 |Abraham Toro      |DH        |      9|  7|   3|  1|  0| 
-|Avisail Garcia    |DH        |      6|  3|   3|  2|  1| 
-|Hunter Renfroe    |DH        |     16| 10|   8|  3|  0| 
-|Jonathan Schoop   |DH        |     17|  4|   5|  1|  0| 
+|Avisail Garcia    |DH        |      7|  3|   3|  2|  1| 
+|Hunter Renfroe    |DH        |     18| 10|   8|  3|  0| 
+|Jonathan Schoop   |DH        |     21|  7|   7|  2|  0| 
 |Eric Haase        |BAT BENCH |     11|  3|   4|  1|  0| 
 |Tommy Pham        |BAT BENCH |     15|  6|   8|  2|  1| 
 
