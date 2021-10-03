@@ -5,16 +5,16 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Christian Vazquez |C         |      8|  3|   4|  0|  0| 
+|Christian Vazquez |C         |      9|  4|   5|  0|  0| 
 |Carlos Santana    |1B        |     19|  3|   5|  0|  0| 
-|Max Muncy         |2B        |     18|  8|  10|  4|  0| 
-|Alex Bregman      |3B        |     17|  6|   7|  2|  0| 
+|Max Muncy         |2B        |     21| 10|  11|  4|  0| 
+|Alex Bregman      |3B        |     18|  7|   8|  2|  0| 
 |Dansby Swanson    |SS        |     20|  5|   8|  1|  0| 
 |Joey Wendle       |MI        |     12|  8|   3|  1|  0| 
-|Aledmys Diaz      |CI        |      8|  1|   4|  1|  0| 
-|Andrew McCutchen  |OF        |     20|  9|   8|  2|  0| 
+|Aledmys Diaz      |CI        |      9|  1|   4|  1|  0| 
+|Andrew McCutchen  |OF        |     21|  9|   8|  2|  0| 
 |Brian Goodwin     |OF        |      2|  1|   0|  0|  0| 
-|Christian Yelich  |OF        |     20|  7|   5|  1|  1| 
+|Christian Yelich  |OF        |     21|  7|   6|  1|  1| 
 |Wil Myers         |OF        |     11|  4|   4|  0|  0| 
 |Amed Rosario      |DH        |     14|  7|   6|  1|  0| 
 |Max Kepler        |DH        |     14|  6|   7|  2|  0| 
@@ -38,7 +38,7 @@
 |Patrick Corbin     |SP          |  3| 16.667|  8|  4.320|     30| 1.800| 21|  1|  0| 
 |Yusei Kikuchi      |SP          |  2|  6.000|  6|  9.000|     15| 2.500|  6|  0|  0| 
 |Zack Greinke       |SP          |  2|  9.000| 12| 12.000|     14| 1.556|  7|  0|  0| 
-|Alex Colome        |RP          |  7|  7.000|  5|  6.429|     12| 1.714|  8|  0|  4| 
+|Alex Colome        |RP          |  8|  8.000|  5|  5.625|     13| 1.625|  8|  0|  4| 
 |Devin Williams     |RP          |  3|  3.000|  0|  0.000|      1| 0.333|  7|  1|  0| 
 |Andrew Chafin      |OP          |  8|  8.000|  2|  2.250|     14| 1.750|  7|  1|  2| 
 |Craig Kimbrel      |OP          |  6|  6.000|  2|  3.000|      5| 0.833|  9|  0|  0| 

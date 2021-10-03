@@ -7,19 +7,19 @@
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Yadier Molina    |C         |      9|  3|   6|  0|  0| 
 |Jose Abreu       |1B        |     25|  6|  10|  1|  0| 
-|Jose Altuve      |2B        |     20| 13|   8|  4|  1| 
-|Ty France        |3B        |     26| 10|  12|  2|  0| 
+|Jose Altuve      |2B        |     24| 15|   8|  4|  1| 
+|Ty France        |3B        |     29| 13|  12|  2|  0| 
 |Javier Baez      |SS        |     23|  7|   6|  1|  1| 
-|David Fletcher   |MI        |      9|  1|   2|  0|  0| 
-|Kris Bryant      |CI        |     20|  3|   6|  1|  1| 
-|Charlie Blackmon |OF        |     21|  9|   4|  0|  0| 
-|Dylan Carlson    |OF        |     19|  9|  13|  5|  0| 
-|George Springer  |OF        |     21|  9|   5|  2|  1| 
-|Jarred Kelenic   |OF        |     22| 12|  11|  4|  2| 
+|David Fletcher   |MI        |     11|  1|   2|  0|  0| 
+|Kris Bryant      |CI        |     21|  3|   7|  1|  1| 
+|Charlie Blackmon |OF        |     22|  9|   4|  0|  0| 
+|Dylan Carlson    |OF        |     21|  9|  15|  5|  0| 
+|George Springer  |OF        |     25| 11|   8|  3|  1| 
+|Jarred Kelenic   |OF        |     23| 12|  11|  4|  2| 
 |Andrew Vaughn    |DH        |      4|  2|   2|  0|  0| 
 |Didi Gregorius   |DH        |     13|  4|  10|  2|  0| 
 |Hunter Dozier    |DH        |     22|  9|  12|  5|  2| 
-|Ian Happ         |DH        |     24| 10|  11|  2|  6| 
+|Ian Happ         |DH        |     27| 12|  13|  3|  6| 
 |Anthony Rendon   |BAT BENCH |     **| **|  **| **| **| 
 |Justin Upton     |BAT BENCH |     **| **|  **| **| **| 
 
