@@ -5,21 +5,21 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Yadier Molina    |C         |      9|  3|   6|  0|  0| 
+|Yadier Molina    |C         |     10|  3|   6|  0|  0| 
 |Jose Abreu       |1B        |     25|  6|  10|  1|  0| 
-|Jose Altuve      |2B        |     24| 15|   8|  4|  1| 
-|Ty France        |3B        |     29| 13|  12|  2|  0| 
+|Jose Altuve      |2B        |     26| 16|   9|  4|  1| 
+|Ty France        |3B        |     30| 13|  12|  2|  0| 
 |Javier Baez      |SS        |     23|  7|   6|  1|  1| 
-|David Fletcher   |MI        |     11|  1|   2|  0|  0| 
-|Kris Bryant      |CI        |     21|  3|   7|  1|  1| 
-|Charlie Blackmon |OF        |     22|  9|   4|  0|  0| 
-|Dylan Carlson    |OF        |     21|  9|  15|  5|  0| 
-|George Springer  |OF        |     25| 11|   8|  3|  1| 
-|Jarred Kelenic   |OF        |     23| 12|  11|  4|  2| 
-|Andrew Vaughn    |DH        |      4|  2|   2|  0|  0| 
-|Didi Gregorius   |DH        |     13|  4|  10|  2|  0| 
-|Hunter Dozier    |DH        |     22|  9|  12|  5|  2| 
-|Ian Happ         |DH        |     27| 12|  13|  3|  6| 
+|David Fletcher   |MI        |     13|  2|   4|  0|  0| 
+|Kris Bryant      |CI        |     24|  6|   7|  1|  1| 
+|Charlie Blackmon |OF        |     23|  9|   4|  0|  0| 
+|Dylan Carlson    |OF        |     23| 10|  15|  5|  0| 
+|George Springer  |OF        |     29| 14|  13|  5|  1| 
+|Jarred Kelenic   |OF        |     25| 13|  12|  4|  2| 
+|Andrew Vaughn    |DH        |      5|  2|   3|  0|  0| 
+|Didi Gregorius   |DH        |     14|  4|  10|  2|  0| 
+|Hunter Dozier    |DH        |     23|  9|  12|  5|  2| 
+|Ian Happ         |DH        |     28| 12|  13|  3|  6| 
 |Anthony Rendon   |BAT BENCH |     **| **|  **| **| **| 
 |Justin Upton     |BAT BENCH |     **| **|  **| **| **| 
 
@@ -40,11 +40,11 @@
 |Gregory Soto    |RP          |  2|  2.000|  3| 13.500|      4| 2.000|  3|  0|  0| 
 |Adam Wainwright |OP          |  3| 16.000|  9|  5.062|     22| 1.375|  7|  1|  0| 
 |Corey Kluber    |OP          |  3| 15.000|  5|  3.000|     22| 1.467| 10|  1|  0| 
-|Emmanuel Clase  |OP          |  7|  7.000|  0|  0.000|      6| 0.857|  8|  1|  2| 
-|Jameson Taillon |OP          |  1|  2.333|  1|  3.857|      2| 0.857|  2|  0|  0| 
+|Emmanuel Clase  |OP          |  8|  8.000|  0|  0.000|      6| 0.750|  9|  1|  2| 
+|Jameson Taillon |OP          |  2|  5.667|  1|  1.588|      5| 0.882|  4|  0|  0| 
 |Marco Gonzales  |OP          |  4| 25.000|  8|  2.880|     21| 0.840| 20|  2|  0| 
 |Austin Gomber   |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Nate Pearson    |PITCH BENCH |  6|  6.667|  1|  1.350|      7| 1.050| 12|  0|  0| 
+|Nate Pearson    |PITCH BENCH |  7|  7.667|  1|  1.174|      9| 1.174| 13|  0|  0| 
 |Rafael Montero  |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 
 
