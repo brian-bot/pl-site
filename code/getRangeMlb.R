@@ -12,8 +12,8 @@ getRange <- function(startDate, endDate){
   
   ## BATTERS
   b <- lapply(as.list(these), function(i){
-    tmp <- pullData[[as.character(i)]]$batters[, c("id", "fullName", "hits", "baseOnBalls", "runs", "rbi", "homeRuns", "stolenBases")]
-    for(ii in c("id", "hits", "baseOnBalls", "runs", "rbi", "homeRuns", "stolenBases")){
+    tmp <- pullData[[as.character(i)]]$batters[, c("id", "fullName", "hits", "baseOnBalls", "intentionalWalks", "hitByPitch", "runs", "rbi", "homeRuns", "stolenBases")]
+    for(ii in c("id", "hits", "baseOnBalls", "intentionalWalks", "hitByPitch", "runs", "rbi", "homeRuns", "stolenBases")){
       tmp[[ii]] <- as.numeric(tmp[[ii]])
     }
     return(tmp)
@@ -22,7 +22,7 @@ getRange <- function(startDate, endDate){
   b <- bind_rows(b)
   # b <- do.call(rbind, b)
   bb <- ddply(b, .(fullName, id), summarize,
-              hitsbb = sum(hits, na.rm = TRUE) + sum(baseOnBalls, na.rm = TRUE),
+              hitsbb = sum(hits, na.rm = TRUE) + sum(baseOnBalls, na.rm = TRUE) + sum(intentionalWalks, na.rm = TRUE) + sum(hitByPitch, na.rm = TRUE),
               r = sum(runs, na.rm = TRUE),
               rbi = sum(rbi, na.rm = TRUE),
               hr = sum(homeRuns, na.rm = TRUE),
