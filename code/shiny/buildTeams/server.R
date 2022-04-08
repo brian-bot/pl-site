@@ -99,11 +99,6 @@ shinyServer(function(input, output, session){
     ## CHECK FOR DUPS
     vals$succMess <- character()
     vals$writeMess <- character()
-    if( any(duplicated(withId)) ){
-      vals$mess <- paste("These players are listed more than once:", paste(withId[duplicated(withId)], collapse=", "))
-    } else{
-      vals$mess <- character()
-    }
     if(length(withId) > 0){
       tmp <- data.frame(position = position,
                         withId = withId,
@@ -126,12 +121,8 @@ shinyServer(function(input, output, session){
       isolate({
         thisTeam <- input$penguinTeam
         d <- getPlayerTable()
-        if( length(vals$mess) == 0 ){
-          write.table(d, file=rosterFile(), row.names=F, col.names=T, quote=F, sep="\t")
-          vals$succMess <- "Roster successfully saved!"
-        } else{
-          vals$writeMess <- "Cannot save roster - resolve duplicates"
-        }
+        write.table(d, file=rosterFile(), row.names=F, col.names=T, quote=F, sep="\t")
+        vals$succMess <- "Roster successfully saved!"
       })
     }
   })
@@ -142,10 +133,6 @@ shinyServer(function(input, output, session){
   
   output$saveYesMess <- renderUI({
     h3(vals$succMess)
-  })
-  
-  output$dupMess <- renderUI({
-    h4(vals$mess)
   })
   
 })

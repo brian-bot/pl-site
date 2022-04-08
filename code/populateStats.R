@@ -8,7 +8,7 @@ if( !dir.exists("data/hidden") ){
   dir.create("data/hidden")
 }
 
-firstDate <- as.Date("2021-04-07")
+firstDate <- as.Date("2022-04-07")
 today <- Sys.Date()
 lastDate <- today-1
 
@@ -48,7 +48,7 @@ allStats <- lapply(as.list(seasonPeriods), function(y){
 })
 save(allStats, file="data/hidden/allStats.RData")
 
-if(firstDate < lastDate){
+if(firstDate <= lastDate){
   rangeData <- getRange(firstDate, lastDate)
   rownames(rangeData$batters) <- paste0(rangeData$batters$fullName, " (", rangeData$batters$id, ")")
   rownames(rangeData$pitchers) <- paste0(rangeData$pitchers$fullName, " (", rangeData$pitchers$id, ")")
