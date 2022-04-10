@@ -29,15 +29,17 @@
 ### Pitchers
 
  
-|players         |position    |  g|    ip| er|   era| hitsbb|  whip| so|  w| sv| 
-|:---------------|:-----------|--:|-----:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Nathan Eovaldi  |SP          |  1| 5.000|  3| 5.400|      6| 1.200|  7|  0|  0| 
-|Robert Suarez   |SP          |  1| 0.000|  3|   Inf|      2|   Inf|  0|  0|  0| 
-|Shohei Ohtani   |SP          |  1| 4.667|  1| 1.929|      5| 1.071|  9|  0|  0| 
-|Tyler Mahle     |SP          |  1| 5.000|  0| 0.000|      5| 1.000|  7|  1|  0| 
-|Aroldis Chapman |RP          |  2| 2.000|  0| 0.000|      0| 0.000|  3|  0|  1| 
-|Ryan Pressly    |RP          |  1| 1.000|  0| 0.000|      1| 1.000|  0|  0|  1| 
-|Dinelson Lamet  |PITCH BENCH |  1| 0.333|  0| 0.000|      0| 0.000|  0|  0|  0| 
+|players          |position    |  g|    ip| er|   era| hitsbb|  whip| so|  w| sv| 
+|:----------------|:-----------|--:|-----:|--:|-----:|------:|-----:|--:|--:|--:| 
+|Miles Mikolas    |SP          |  1| 3.667|  2| 4.909|      8| 2.182|  1|  0|  0| 
+|Nathan Eovaldi   |SP          |  1| 5.000|  3| 5.400|      6| 1.200|  7|  0|  0| 
+|Noah Syndergaard |SP          |  1| 5.333|  0| 0.000|      4| 0.750|  1|  1|  0| 
+|Robert Suarez    |SP          |  1| 0.000|  3|   Inf|      2|   Inf|  0|  0|  0| 
+|Shohei Ohtani    |SP          |  1| 4.667|  1| 1.929|      5| 1.071|  9|  0|  0| 
+|Tyler Mahle      |SP          |  1| 5.000|  0| 0.000|      5| 1.000|  7|  1|  0| 
+|Aroldis Chapman  |RP          |  2| 2.000|  0| 0.000|      0| 0.000|  3|  0|  1| 
+|Ryan Pressly     |RP          |  1| 1.000|  0| 0.000|      1| 1.000|  0|  0|  1| 
+|Dinelson Lamet   |PITCH BENCH |  1| 0.333|  0| 0.000|      0| 0.000|  0|  0|  0| 
 
 
 * * *

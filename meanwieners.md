@@ -29,9 +29,12 @@
 |players           |position    |  g| ip| er| era| hitsbb| whip| so|  w| sv| 
 |:-----------------|:-----------|--:|--:|--:|---:|------:|----:|--:|--:|--:| 
 |Joe Ryan          |SP          |  1|  4|  2| 4.5|      6| 1.50|  4|  0|  0| 
+|Justin Verlander  |SP          |  1|  5|  1| 1.8|      6| 1.20|  7|  0|  0| 
+|Logan Gilbert     |SP          |  1|  5|  1| 1.8|      4| 0.80|  7|  0|  0| 
 |Lucas Giolito     |SP          |  1|  4|  0| 0.0|      3| 0.75|  6|  0|  0| 
 |Paul Sewald       |RP          |  1|  1|  0| 0.0|      0| 0.00|  0|  0|  0| 
 |Taylor Rogers     |RP          |  2|  2|  0| 0.0|      0| 0.00|  1|  0|  2| 
+|David Bednar      |OP          |  1|  1|  0| 0.0|      1| 1.00|  1|  0|  0| 
 |Drew Steckenrider |OP          |  1|  1|  0| 0.0|      1| 1.00|  1|  0|  1| 
 |Merrill Kelly     |OP          |  1|  4|  0| 0.0|      6| 1.50|  7|  0|  0| 
 |Reid Detmers      |PITCH BENCH |  1|  4|  2| 4.5|      5| 1.25|  3|  0|  0| 
