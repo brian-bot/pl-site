@@ -1,22 +1,22 @@
 
 
-## Period 9 scores
+## Period 1 scores
 
-Through games on 2021-10-03 ([website build status](https://github.com/brian-bot/pl-site/actions))
+Through games on 2022-04-09 ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 
-|team                                              | points|   r| hitsbb| hr| rbi| sb|  w| sv|  so|   era|  whip|
-|:-------------------------------------------------|------:|---:|------:|--:|---:|--:|--:|--:|---:|-----:|-----:|
-|[Washington Generals](./washingtongenerals)       |   52.5| 135|    338| 30| 128| 11| 15|  6| 167| 3.669| 1.156|
-|[Nuclear Arms](./nucleararms)                     |   71.0| 148|    353| 44| 141| 11| 10| 15| 210| 4.316| 1.251|
-|[Vass Deferens](./vassdeferens)                   |   38.5| 128|    309| 43| 134| 10| 10|  7| 168| 4.721| 1.303|
-|[Mean Wieners](./meanwieners)                     |   65.5| 140|    328| 43| 136| 10|  9| 16| 187| 3.221| 1.080|
-|[Wonderbots](./wonderbots)                        |   40.0| 126|    321| 33| 136| 14| 10|  4| 153| 3.971| 1.165|
-|[SYWA](./sywa)                                    |   64.0| 140|    360| 35| 119| 18| 15|  5| 182| 3.494| 1.214|
-|[T and A](./tanda)                                |   48.5| 128|    295| 43| 127| 29| 12|  8| 205| 4.778| 1.320|
-|[Overwhelming Underdogs](./overwhelmingunderdogs) |   29.0|  90|    247| 18|  87|  7| 10| 12| 167| 3.874| 1.219|
-|[Boys of Summer](./boysofsummer)                  |   83.0| 152|    347| 39| 139| 12| 16| 13| 193| 3.119| 1.149|
-|[Terminoeckers](./terminoeckers)                  |   58.0| 138|    333| 51| 137| 15| 14|  1| 181| 3.898| 1.318|
+|team                                              | points|  r| hitsbb| hr| rbi| sb|  w| sv| so|   era|  whip|
+|:-------------------------------------------------|------:|--:|------:|--:|---:|--:|--:|--:|--:|-----:|-----:|
+|[Mean Wieners](./meanwieners)                     |   57.0| 10|     39|  3|  16|  0|  0|  2| 19| 1.200| 1.067|
+|[Vass Deferens](./vassdeferens)                   |   38.5| 11|     34|  4|  18|  0|  1|  0|  9| 6.000| 1.556|
+|[Overwhelming Underdogs](./overwhelmingunderdogs) |   49.5| 16|     38|  7|  11|  0|  0|  3| 12| 4.263| 1.342|
+|[Terminoeckers](./terminoeckers)                  |   64.0| 11|     45|  3|  15|  0|  2|  1| 21| 2.348| 1.217|
+|[T and A](./tanda)                                |   53.5| 11|     36|  4|  11|  0|  3|  0| 22| 5.961| 0.935|
+|[Nuclear Arms](./nucleararms)                     |   70.0| 19|     44|  2|  14|  1|  1|  2| 26| 3.566| 1.075|
+|[Washington Generals](./washingtongenerals)       |   42.5| 10|     29|  2|   9|  1|  1|  0| 26| 2.941| 1.248|
+|[Boys of Summer](./boysofsummer)                  |   52.0| 15|     45|  4|  14|  2|  0|  0| 15| 5.838| 1.378|
+|[Wonderbots](./wonderbots)                        |   65.5| 18|     39|  4|  14|  2|  3|  0| 18| 4.190| 1.086|
+|[SYWA](./sywa)                                    |   57.5| 15|     39|  3|  11|  0|  1|  2| 20| 4.030| 0.985|
 
 * * *
 * * *
@@ -24,17 +24,17 @@ Through games on 2021-10-03 ([website build status](https://github.com/brian-bot
 ## Season standings
 
 
-|team                   |  w|  l|  t| points|
-|:----------------------|--:|--:|--:|------:|
-|T and A                |  8|  1|  0|  545.0|
-|Boys of Summer         |  6|  3|  0|  576.0|
-|Washington Generals    |  6|  3|  0|  570.5|
-|Nuclear Arms           |  6|  3|  0|  517.5|
-|Mean Wieners           |  5|  4|  0|  548.5|
-|SYWA                   |  4|  5|  0|  438.0|
-|Vass Deferens          |  3|  6|  0|  486.5|
-|Overwhelming Underdogs |  3|  6|  0|  353.0|
-|Terminoeckers          |  2|  7|  0|  505.0|
-|Wonderbots             |  2|  7|  0|  410.0|
+|team                   |  w|  l|  t|
+|:----------------------|--:|--:|--:|
+|Mean Wieners           |  0|  0|  0|
+|Vass Deferens          |  0|  0|  0|
+|Overwhelming Underdogs |  0|  0|  0|
+|Terminoeckers          |  0|  0|  0|
+|T and A                |  0|  0|  0|
+|Nuclear Arms           |  0|  0|  0|
+|Washington Generals    |  0|  0|  0|
+|Boys of Summer         |  0|  0|  0|
+|Wonderbots             |  0|  0|  0|
+|SYWA                   |  0|  0|  0|
 
 

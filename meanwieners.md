@@ -3,49 +3,39 @@
 ### Batters
 
  
-|players         |position  | hitsbb|  r| rbi| hr| sb| 
-|:---------------|:---------|------:|--:|---:|--:|--:| 
-|Omar Narvaez    |C         |      8|  1|   2|  0|  0| 
-|Yuli Gurriel    |1B        |     25| 10|   6|  1|  0| 
-|Whit Merrifield |2B        |     25| 11|   5|  0|  0| 
-|Luis Urias      |3B        |     22|  6|  10|  3|  0| 
-|Willy Adames    |SS        |     14|  9|   7|  3|  0| 
-|Gleyber Torres  |MI        |     29| 10|   6|  2|  2| 
-|Eduardo Escobar |CI        |     21|  8|   9|  1|  0| 
-|Aaron Judge     |OF        |     26| 13|  16|  6|  0| 
-|Mitch Haniger   |OF        |     23| 11|  18|  6|  0| 
-|Robbie Grossman |OF        |     24|  8|   2|  0|  3| 
-|Yordan Alvarez  |OF        |     23|  8|  10|  3|  0| 
-|Cody Bellinger  |DH        |      7|  1|   3|  1|  1| 
-|Jorge Soler     |DH        |     24| 11|  11|  4|  0| 
-|Nathaniel Lowe  |DH        |     29| 12|   7|  4|  1| 
-|Tyler O'Neill   |DH        |     28| 21|  24|  9|  3| 
-|Luke Voit       |BAT BENCH |      5|  2|   3|  2|  0| 
-|Paul DeJong     |BAT BENCH |      7|  3|   4|  2|  0| 
-|Rhys Hoskins    |BAT BENCH |     **| **|  **| **| **| 
+|players          |position | hitsbb|  r| rbi| hr| sb| 
+|:----------------|:--------|------:|--:|---:|--:|--:| 
+|Tyler Stephenson |C        |      3|  1|   3|  0|  0| 
+|Josh Bell        |1B       |      3|  2|   2|  1|  0| 
+|Brandon Lowe     |2B       |      1|  0|   1|  0|  0| 
+|Rafael Devers    |3B       |      4|  1|   2|  1|  0| 
+|Bobby Witt Jr.   |SS       |      1|  1|   1|  0|  0| 
+|Willy Adames     |MI       |      3|  0|   1|  0|  0| 
+|Miguel Sano      |CI       |      1|  0|   0|  0|  0| 
+|Aaron Judge      |OF       |      3|  2|   0|  0|  0| 
+|Joey Gallo       |OF       |      3|  0|   0|  0|  0| 
+|Trent Grisham    |OF       |      2|  0|   0|  0|  0| 
+|Tyler O'Neill    |OF       |      4|  1|   5|  1|  0| 
+|AJ Pollock       |DH       |      4|  1|   1|  0|  0| 
+|Akil Baddoo      |DH       |      0|  0|   0|  0|  0| 
+|Christian Walker |DH       |      1|  1|   0|  0|  0| 
+|Steven Kwan      |DH       |      6|  0|   0|  0|  0| 
 
 * * *
 
 ### Pitchers
 
  
-|players           |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
-|:-----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Alek Manoah       |SP          |  3| 18.667|  5| 2.411|     21| 1.125| 25|  3|  0| 
-|Brandon Woodruff  |SP          |  3| 16.000|  6| 3.375|     15| 0.938| 20|  0|  0| 
-|Carlos Rodon      |SP          |  2|  8.000|  2| 2.250|      7| 0.875| 10|  1|  0| 
-|Joe Musgrove      |SP          |  4| 21.667| 12| 4.985|     32| 1.477| 23|  1|  0| 
-|Kevin Gausman     |SP          |  4| 22.000| 10| 4.091|     28| 1.273| 26|  0|  0| 
-|Logan Webb        |SP          |  4| 23.000| 10| 3.913|     24| 1.043| 26|  1|  0| 
-|Collin McHugh     |RP          |  5|  6.333|  2| 2.842|      6| 0.947|  4|  0|  0| 
-|Drew Steckenrider |RP          |  9|  8.333|  4| 4.320|     12| 1.440|  4|  0|  5| 
-|Kenley Jansen     |OP          | 10|  9.667|  1| 0.931|      5| 0.517| 16|  2|  6| 
-|Logan Gilbert     |OP          |  3| 18.000|  6| 3.000|     17| 0.944| 13|  1|  0| 
-|Ryan Tepera       |OP          |  2|  2.000|  0| 0.000|      4| 2.000|  2|  0|  0| 
-|Shane Bieber      |OP          |  2|  6.000|  1| 1.500|      4| 0.667|  4|  0|  0| 
-|Will Smith        |OP          |  8|  8.000|  1| 1.125|      6| 0.750| 14|  0|  5| 
-|Eli Morgan        |PITCH BENCH |  3| 17.667|  5| 2.547|     15| 0.849| 11|  3|  0| 
-|Kenta Maeda       |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
+|players           |position    |  g| ip| er| era| hitsbb| whip| so|  w| sv| 
+|:-----------------|:-----------|--:|--:|--:|---:|------:|----:|--:|--:|--:| 
+|Joe Ryan          |SP          |  1|  4|  2| 4.5|      6| 1.50|  4|  0|  0| 
+|Lucas Giolito     |SP          |  1|  4|  0| 0.0|      3| 0.75|  6|  0|  0| 
+|Paul Sewald       |RP          |  1|  1|  0| 0.0|      0| 0.00|  0|  0|  0| 
+|Taylor Rogers     |RP          |  1|  1|  0| 0.0|      0| 0.00|  1|  0|  1| 
+|Drew Steckenrider |OP          |  1|  1|  0| 0.0|      1| 1.00|  1|  0|  1| 
+|Merrill Kelly     |OP          |  1|  4|  0| 0.0|      6| 1.50|  7|  0|  0| 
+|Reid Detmers      |PITCH BENCH |  1|  4|  2| 4.5|      5| 1.25|  3|  0|  0| 
+|Tylor Megill      |PITCH BENCH |  1|  5|  0| 0.0|      3| 0.60|  6|  1|  0| 
 
 
 * * *
