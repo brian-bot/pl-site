@@ -2,7 +2,7 @@ require(shiny)
 
 readRosterFile <- function(path){
   a <- read.delim(path, as.is=T)
-  rownames(a) <- a$withId
+  # rownames(a) <- a$withId
   return(a)
 }
 
