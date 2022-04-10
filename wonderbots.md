@@ -7,10 +7,10 @@
 |:---------------------|:--------|------:|--:|---:|--:|--:| 
 |Yasmani Grandal       |C        |      2|  1|   2|  1|  0| 
 |Vladimir Guerrero Jr. |1B       |      4|  2|   3|  0|  0| 
-|Ketel Marte           |2B       |      0|  0|   0|  0|  0| 
+|Ketel Marte           |2B       |      1|  1|   0|  0|  0| 
 |Nolan Arenado         |3B       |      6|  3|   5|  1|  0| 
 |Brandon Crawford      |SS       |      2|  0|   0|  0|  0| 
-|Jake Cronenworth      |MI       |      5|  0|   0|  0|  0| 
+|Jake Cronenworth      |MI       |      6|  0|   1|  0|  0| 
 |Luis Arraez           |CI       |      2|  1|   1|  1|  0| 
 |Austin Meadows        |OF       |      6|  3|   0|  0|  0| 
 |Cody Bellinger        |OF       |      0|  0|   0|  0|  0| 

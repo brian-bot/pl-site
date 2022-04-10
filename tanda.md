@@ -6,11 +6,11 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Salvador Perez    |C         |      0|  0|   0|  0|  0| 
-|Matt Olson        |1B        |      5|  1|   0|  0|  0| 
+|Matt Olson        |1B        |      8|  2|   0|  0|  0| 
 |Javier Baez       |2B        |      4|  0|   1|  0|  0| 
 |Adalberto Mondesi |3B        |      2|  0|   1|  0|  0| 
 |Bo Bichette       |SS        |      4|  4|   1|  1|  0| 
-|Francisco Lindor  |MI        |      3|  1|   1|  0|  0| 
+|Francisco Lindor  |MI        |      6|  2|   1|  0|  0| 
 |Kyle Schwarber    |CI        |      5|  2|   2|  1|  0| 
 |Enrique Hernandez |OF        |      1|  1|   0|  0|  0| 
 |Franmil Reyes     |OF        |      1|  0|   0|  0|  0| 
@@ -19,7 +19,7 @@
 |Bobby Dalbec      |DH        |      2|  0|   0|  0|  0| 
 |Jazz Chisholm Jr. |DH        |      3|  1|   2|  1|  0| 
 |Jo Adell          |DH        |      0|  0|   0|  0|  0| 
-|Luke Voit         |DH        |      3|  0|   1|  0|  0| 
+|Luke Voit         |DH        |      5|  1|   1|  0|  0| 
 |Eugenio Suarez    |BAT BENCH |      0|  0|   0|  0|  0| 
 |Sean Murphy       |BAT BENCH |      1|  1|   0|  0|  0| 
 

@@ -7,18 +7,18 @@
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Keibert Ruiz       |C         |      4|  0|   0|  0|  0| 
 |Max Muncy          |1B        |      1|  0|   0|  0|  0| 
-|Ozzie Albies       |2B        |      2|  0|   1|  0|  0| 
+|Ozzie Albies       |2B        |      3|  0|   2|  0|  0| 
 |Alex Bregman       |3B        |      4|  3|   4|  2|  0| 
 |Corey Seager       |SS        |      5|  3|   1|  0|  0| 
 |DJ LeMahieu        |MI        |      4|  1|   1|  1|  0| 
-|Anthony Rendon     |CI        |      1|  1|   0|  0|  0| 
+|Anthony Rendon     |CI        |      3|  1|   0|  0|  0| 
 |Adolis Garcia      |OF        |      2|  1|   1|  1|  0| 
-|Juan Soto          |OF        |      3|  1|   1|  1|  0| 
-|Kris Bryant        |OF        |      2|  0|   0|  0|  0| 
+|Juan Soto          |OF        |      5|  1|   1|  1|  0| 
+|Kris Bryant        |OF        |      3|  1|   0|  0|  0| 
 |Robbie Grossman    |OF        |      3|  2|   0|  0|  0| 
 |Brandon Belt       |DH        |      3|  2|   1|  1|  0| 
 |Julio Rodriguez    |DH        |      1|  1|   0|  0|  0| 
-|Justin Turner      |DH        |      0|  0|   0|  0|  0| 
+|Justin Turner      |DH        |      1|  0|   0|  0|  0| 
 |Tommy Edman        |DH        |      3|  1|   1|  1|  0| 
 |Charlie Blackmon   |BAT BENCH |      1|  0|   1|  0|  0| 
 |Isiah Kiner-Falefa |BAT BENCH |      0|  1|   0|  0|  0| 

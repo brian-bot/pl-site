@@ -5,17 +5,17 @@
  |players        |position  | hitsbb|  r| rbi| hr| sb| 
 |:--------------|:---------|------:|--:|---:|--:|--:| 
 |J.T. Realmuto  |C         |      2|  1|   0|  0|  0| 
-|Pete Alonso    |1B        |      4|  2|   0|  0|  0| 
-|Jonathan India |2B        |      2|  1|   0|  0|  0| 
+|Pete Alonso    |1B        |      5|  3|   4|  1|  0| 
+|Jonathan India |2B        |      3|  1|   0|  0|  0| 
 |Matt Chapman   |3B        |      2|  0|   0|  0|  0| 
-|Dansby Swanson |SS        |      2|  1|   0|  0|  0| 
+|Dansby Swanson |SS        |      4|  1|   0|  0|  0| 
 |Kolten Wong    |MI        |      2|  1|   0|  0|  0| 
 |Carlos Santana |CI        |      2|  0|   0|  0|  0| 
 |Adam Duvall    |OF        |      3|  2|   1|  0|  0| 
 |J.D. Martinez  |OF        |      2|  1|   1|  0|  0| 
-|Kyle Tucker    |OF        |      4|  2|   4|  2|  0| 
+|Kyle Tucker    |OF        |      5|  2|   4|  2|  1| 
 |Yordan Alvarez |OF        |      4|  2|   2|  1|  0| 
-|Eddie Rosario  |DH        |      2|  2|   0|  0|  0| 
+|Eddie Rosario  |DH        |      3|  2|   0|  0|  0| 
 |Max Kepler     |DH        |      2|  0|   0|  0|  0| 
 |Nathaniel Lowe |DH        |      4|  0|   3|  0|  0| 
 |Trey Mancini   |DH        |      2|  0|   0|  0|  0| 
@@ -35,7 +35,7 @@
 |Liam Hendriks  |RP       |  1| 1.000|  2| 18.000|      4| 4.000|  2|  0|  0| 
 |Chad Green     |OP       |  2| 2.000|  0|  0.000|      1| 0.500|  1|  0|  0| 
 |Leury Garcia   |OP       | **|    **| **|     **|     **|    **| **| **| **| 
-|Will Smith     |OP       |  1| 1.000|  0|  0.000|      0| 0.000|  1|  0|  0| 
+|Will Smith     |OP       |  2| 2.000|  1|  4.500|      2| 1.000|  2|  0|  1| 
 
 
 * * *

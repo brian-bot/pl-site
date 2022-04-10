@@ -8,14 +8,14 @@
 |Will Smith       |C         |      2|  1|   0|  0|  0| 
 |Jose Abreu       |1B        |      3|  3|   0|  0|  0| 
 |Whit Merrifield  |2B        |      1|  0|   0|  0|  0| 
-|Manny Machado    |3B        |      2|  0|   0|  0|  0| 
+|Manny Machado    |3B        |      5|  2|   1|  0|  1| 
 |Xander Bogaerts  |SS        |      4|  2|   1|  0|  0| 
 |Chris Taylor     |MI        |      2|  1|   0|  0|  0| 
 |Ke'Bryan Hayes   |CI        |      3|  1|   0|  0|  0| 
 |Bryan Reynolds   |OF        |      2|  0|   0|  0|  0| 
 |Eloy Jimenez     |OF        |      2|  0|   3|  0|  0| 
 |Luis Robert      |OF        |      4|  1|   1|  0|  1| 
-|Michael Brantley |OF        |      3|  2|   1|  0|  0| 
+|Michael Brantley |OF        |      4|  2|   1|  0|  0| 
 |Anthony Rizzo    |DH        |      5|  2|   4|  2|  0| 
 |Harrison Bader   |DH        |      3|  2|   0|  0|  0| 
 |Ian Happ         |DH        |      7|  3|   4|  0|  0| 
