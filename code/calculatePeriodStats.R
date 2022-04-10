@@ -4,7 +4,7 @@
 allRosters <- lapply(as.list(names(seasonPeriods)), function(y){
   tr <- lapply(as.list(allTeams), function(x){
     a <- read.delim(file.path("data", "penguinRosters", y, paste(gsub(" ", "", tolower(x), fixed=T), ".tsv", sep="")), as.is=T)
-    rownames(a) <- a$withId
+    # rownames(a) <- a$withId
     
     if(nrow(allStats[[y]]$batters)==0 & nrow(allStats[[y]]$pitchers)==0){
       anyStats <- FALSE
@@ -15,6 +15,7 @@ allRosters <- lapply(as.list(names(seasonPeriods)), function(y){
     ## BATTER STATS
     batCols <- c("players", "position", "hitsbb", "r", "rbi", "hr", "sb")
     bs <- a[a$position %in% posMap[batMask], ]
+    rownames(bs) <- bs$withId
     bs <- merge(bs, allStats[[y]]$batters, by='row.names', all.x=T, all.y=F)
     bs <- bs[, intersect(batCols, names(bs))]
     bs$position <- factor(bs$position, levels=posMap[batMask])
@@ -23,6 +24,7 @@ allRosters <- lapply(as.list(names(seasonPeriods)), function(y){
     ## PTICHER STATS
     pitchCols <- c("players", "position", "g", "ip", "er", "era", "hitsbb", "whip", "so", "w", "sv")
     ps <- a[a$position %in% posMap[!batMask], ]
+    rownames(ps) <- ps$withId
     ps <- merge(ps, allStats[[y]]$pitchers, by='row.names', all.x=T, all.y=F)
     ps <- ps[, intersect(pitchCols, names(ps))]
     ps$position <- factor(ps$position, levels=posMap[!batMask])
