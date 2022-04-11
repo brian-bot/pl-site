@@ -5,21 +5,21 @@
  
 |players          |position | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:--------|------:|--:|---:|--:|--:| 
-|Tyler Stephenson |C        |      3|  1|   3|  0|  0| 
-|Josh Bell        |1B       |      5|  2|   2|  1|  0| 
-|Brandon Lowe     |2B       |      1|  0|   1|  0|  0| 
-|Rafael Devers    |3B       |      4|  1|   2|  1|  0| 
-|Bobby Witt Jr.   |SS       |      1|  1|   1|  0|  0| 
-|Willy Adames     |MI       |      3|  0|   1|  0|  0| 
-|Miguel Sano      |CI       |      1|  0|   0|  0|  0| 
-|Aaron Judge      |OF       |      3|  2|   0|  0|  0| 
-|Joey Gallo       |OF       |      3|  0|   0|  0|  0| 
-|Trent Grisham    |OF       |      3|  0|   0|  0|  0| 
-|Tyler O'Neill    |OF       |      4|  1|   5|  1|  0| 
+|Tyler Stephenson |C        |      5|  2|   4|  1|  0| 
+|Josh Bell        |1B       |      7|  2|   2|  1|  0| 
+|Brandon Lowe     |2B       |      3|  2|   3|  1|  0| 
+|Rafael Devers    |3B       |      5|  2|   2|  1|  0| 
+|Bobby Witt Jr.   |SS       |      2|  1|   3|  0|  0| 
+|Willy Adames     |MI       |      5|  2|   2|  1|  0| 
+|Miguel Sano      |CI       |      2|  0|   0|  0|  0| 
+|Aaron Judge      |OF       |      5|  2|   0|  0|  1| 
+|Joey Gallo       |OF       |      4|  0|   0|  0|  0| 
+|Trent Grisham    |OF       |      4|  0|   0|  0|  0| 
+|Tyler O'Neill    |OF       |      4|  1|   6|  1|  0| 
 |AJ Pollock       |DH       |      4|  1|   1|  0|  0| 
 |Akil Baddoo      |DH       |      0|  0|   0|  0|  0| 
-|Christian Walker |DH       |      2|  1|   0|  0|  0| 
-|Steven Kwan      |DH       |      6|  0|   0|  0|  0| 
+|Christian Walker |DH       |      5|  2|   1|  1|  0| 
+|Steven Kwan      |DH       |     12|  4|   0|  0|  0| 
 
 * * *
 

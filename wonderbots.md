@@ -6,19 +6,19 @@
 |players               |position | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:--------|------:|--:|---:|--:|--:| 
 |Yasmani Grandal       |C        |      2|  1|   2|  1|  0| 
-|Vladimir Guerrero Jr. |1B       |      4|  2|   3|  0|  0| 
-|Ketel Marte           |2B       |      1|  1|   0|  0|  0| 
-|Nolan Arenado         |3B       |      6|  3|   5|  1|  0| 
-|Brandon Crawford      |SS       |      2|  0|   0|  0|  0| 
-|Jake Cronenworth      |MI       |      6|  0|   1|  0|  0| 
+|Vladimir Guerrero Jr. |1B       |      6|  3|   4|  1|  0| 
+|Ketel Marte           |2B       |      3|  1|   0|  0|  1| 
+|Nolan Arenado         |3B       |      7|  4|   7|  2|  0| 
+|Brandon Crawford      |SS       |      3|  0|   0|  0|  0| 
+|Jake Cronenworth      |MI       |      6|  2|   2|  0|  0| 
 |Luis Arraez           |CI       |      2|  1|   1|  1|  0| 
-|Austin Meadows        |OF       |      6|  3|   0|  0|  0| 
-|Cody Bellinger        |OF       |      0|  0|   0|  0|  0| 
-|George Springer       |OF       |      4|  3|   0|  0|  0| 
-|Jarred Kelenic        |OF       |      1|  0|   0|  0|  1| 
-|Andrew Vaughn         |DH       |      2|  1|   2|  1|  0| 
-|Dylan Carlson         |DH       |      3|  3|   1|  0|  1| 
-|Nelson Cruz           |DH       |      1|  1|   0|  0|  0| 
+|Austin Meadows        |OF       |      7|  3|   0|  0|  0| 
+|Cody Bellinger        |OF       |      3|  1|   0|  0|  0| 
+|George Springer       |OF       |      6|  4|   1|  1|  0| 
+|Jarred Kelenic        |OF       |      2|  0|   0|  0|  1| 
+|Andrew Vaughn         |DH       |      5|  2|   6|  2|  0| 
+|Dylan Carlson         |DH       |      6|  4|   2|  0|  1| 
+|Nelson Cruz           |DH       |      3|  2|   3|  1|  0| 
 |Yuli Gurriel          |DH       |      1|  0|   0|  0|  0| 
 
 

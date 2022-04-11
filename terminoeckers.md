@@ -5,24 +5,24 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Daulton Varsho   |C         |      2|  0|   0|  0|  0| 
-|Freddie Freeman  |1B        |      3|  1|   0|  0|  0| 
-|Trea Turner      |2B        |      2|  0|   1|  0|  0| 
-|Josh Donaldson   |3B        |      3|  1|   1|  0|  0| 
-|Jeremy Pena      |SS        |      4|  1|   1|  1|  0| 
+|Daulton Varsho   |C         |      4|  0|   0|  0|  0| 
+|Freddie Freeman  |1B        |      4|  1|   0|  0|  0| 
+|Trea Turner      |2B        |      3|  0|   1|  0|  0| 
+|Josh Donaldson   |3B        |      4|  1|   1|  0|  0| 
+|Jeremy Pena      |SS        |      7|  2|   1|  1|  0| 
 |Ty France        |MI        |      7|  1|   2|  0|  0| 
-|Joey Votto       |CI        |      5|  2|   2|  0|  0| 
-|Byron Buxton     |OF        |      2|  1|   2|  1|  0| 
-|Christian Yelich |OF        |      4|  0|   1|  0|  0| 
+|Joey Votto       |CI        |      6|  3|   2|  0|  0| 
+|Byron Buxton     |OF        |      4|  3|   4|  3|  0| 
+|Christian Yelich |OF        |      7|  1|   2|  0|  0| 
 |Nick Castellanos |OF        |      2|  1|   3|  1|  0| 
 |Randy Arozarena  |OF        |      3|  0|   0|  0|  0| 
 |Andrew McCutchen |DH        |      4|  1|   0|  0|  0| 
-|Hunter Renfroe   |DH        |      1|  0|   0|  0|  0| 
-|Seiya Suzuki     |DH        |      5|  1|   3|  0|  0| 
+|Hunter Renfroe   |DH        |      3|  0|   0|  0|  0| 
+|Seiya Suzuki     |DH        |      7|  2|   6|  1|  0| 
 |Tommy Pham       |DH        |      4|  2|   0|  0|  1| 
-|Avisail Garcia   |BAT BENCH |      1|  0|   0|  0|  0| 
-|Cavan Biggio     |BAT BENCH |      0|  0|   0|  0|  0| 
-|Josh Lowe        |BAT BENCH |      4|  2|   0|  0|  0| 
+|Avisail Garcia   |BAT BENCH |      2|  0|   0|  0|  0| 
+|Cavan Biggio     |BAT BENCH |      1|  0|   0|  0|  0| 
+|Josh Lowe        |BAT BENCH |      5|  3|   0|  0|  0| 
 
 * * *
 
@@ -34,7 +34,7 @@
 |Dylan Cease      |SP          |  1| 5.000|  1| 1.8|      5| 1.000|  8|  1|  0| 
 |Sandy Alcantara  |SP          |  1| 5.000|  2| 3.6|      8| 1.600|  4|  0|  0| 
 |Shane McClanahan |SP          |  1| 4.333|  0| 0.0|      6| 1.385|  7|  0|  0| 
-|Tyler Rogers     |SP          |  1| 0.667|  0| 0.0|      0| 0.000|  2|  0|  0| 
+|Tyler Rogers     |SP          |  2| 1.667|  0| 0.0|      1| 0.600|  2|  0|  0| 
 |Yu Darvish       |SP          |  1| 6.000|  0| 0.0|      4| 0.667|  3|  0|  0| 
 |Andrew Kittredge |RP          |  2| 2.000|  1| 4.5|      4| 2.000|  3|  1|  1| 
 |Blake Treinen    |RP          |  2| 2.000|  1| 4.5|      1| 0.500|  4|  0|  0| 

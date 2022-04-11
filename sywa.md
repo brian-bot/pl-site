@@ -6,20 +6,20 @@
 |:--------------|:---------|------:|--:|---:|--:|--:| 
 |J.T. Realmuto  |C         |      2|  1|   0|  0|  0| 
 |Pete Alonso    |1B        |      5|  3|   4|  1|  0| 
-|Jonathan India |2B        |      3|  1|   0|  0|  0| 
-|Matt Chapman   |3B        |      2|  0|   0|  0|  0| 
-|Dansby Swanson |SS        |      4|  1|   0|  0|  0| 
+|Jonathan India |2B        |      5|  2|   0|  0|  0| 
+|Matt Chapman   |3B        |      4|  1|   3|  1|  0| 
+|Dansby Swanson |SS        |      5|  1|   0|  0|  0| 
 |Kolten Wong    |MI        |      2|  1|   0|  0|  0| 
-|Carlos Santana |CI        |      2|  0|   0|  0|  0| 
-|Adam Duvall    |OF        |      3|  2|   1|  0|  0| 
-|J.D. Martinez  |OF        |      2|  1|   1|  0|  0| 
+|Carlos Santana |CI        |      3|  1|   0|  0|  0| 
+|Adam Duvall    |OF        |      4|  2|   1|  0|  0| 
+|J.D. Martinez  |OF        |      3|  1|   2|  0|  0| 
 |Kyle Tucker    |OF        |      5|  2|   4|  2|  1| 
-|Yordan Alvarez |OF        |      4|  2|   2|  1|  0| 
+|Yordan Alvarez |OF        |      6|  2|   2|  1|  0| 
 |Eddie Rosario  |DH        |      3|  2|   0|  0|  0| 
-|Max Kepler     |DH        |      2|  0|   0|  0|  0| 
-|Nathaniel Lowe |DH        |      4|  0|   3|  0|  0| 
-|Trey Mancini   |DH        |      2|  0|   0|  0|  0| 
-|Jesus Sanchez  |BAT BENCH |      2|  0|   1|  0|  0| 
+|Max Kepler     |DH        |      3|  1|   1|  1|  0| 
+|Nathaniel Lowe |DH        |      6|  0|   4|  0|  0| 
+|Trey Mancini   |DH        |      4|  0|   0|  0|  0| 
+|Jesus Sanchez  |BAT BENCH |      4|  0|   1|  0|  0| 
 
 * * *
 

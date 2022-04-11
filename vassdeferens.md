@@ -5,21 +5,21 @@
  
 |players           |position | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:--------|------:|--:|---:|--:|--:| 
-|Mitch Garver      |C        |      3|  2|   2|  1|  0| 
-|Jared Walsh       |1B       |      5|  2|   3|  1|  0| 
-|Jorge Polanco     |2B       |      1|  0|   0|  0|  0| 
-|Spencer Torkelson |3B       |      2|  0|   0|  0|  0| 
-|Wander Franco     |SS       |      3|  0|   1|  0|  0| 
-|Carlos Correa     |MI       |      2|  0|   0|  0|  0| 
-|C.J. Cron         |CI       |      2|  1|   0|  0|  0| 
+|Mitch Garver      |C        |      4|  2|   2|  1|  0| 
+|Jared Walsh       |1B       |      6|  2|   3|  1|  0| 
+|Jorge Polanco     |2B       |      3|  2|   1|  1|  0| 
+|Spencer Torkelson |3B       |      3|  0|   0|  0|  0| 
+|Wander Franco     |SS       |      6|  1|   3|  0|  1| 
+|Carlos Correa     |MI       |      3|  1|   1|  1|  0| 
+|C.J. Cron         |CI       |      4|  3|   2|  1|  0| 
 |Bryce Harper      |OF       |      3|  3|   1|  0|  0| 
-|Giancarlo Stanton |OF       |      2|  2|   3|  2|  0| 
-|Mike Trout        |OF       |      3|  1|   1|  1|  0| 
+|Giancarlo Stanton |OF       |      5|  2|   4|  2|  0| 
+|Mike Trout        |OF       |      5|  1|   1|  1|  0| 
 |Starling Marte    |OF       |      4|  0|   4|  0|  0| 
 |Alejandro Kirk    |DH       |      2|  0|   1|  0|  0| 
 |Daniel Vogelbach  |DH       |      1|  1|   0|  0|  0| 
-|Gavin Lux         |DH       |      4|  2|   2|  0|  0| 
-|Ryan Mountcastle  |DH       |      3|  1|   2|  1|  0| 
+|Gavin Lux         |DH       |      5|  3|   2|  0|  0| 
+|Ryan Mountcastle  |DH       |      5|  1|   2|  1|  0| 
 
 * * *
 
