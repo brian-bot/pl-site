@@ -5,25 +5,25 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Keibert Ruiz       |C         |      4|  0|   0|  0|  0| 
+|Keibert Ruiz       |C         |      5|  1|   0|  0|  0| 
 |Max Muncy          |1B        |      1|  0|   0|  0|  0| 
-|Ozzie Albies       |2B        |      5|  0|   2|  0|  0| 
+|Ozzie Albies       |2B        |      6|  1|   2|  0|  0| 
 |Alex Bregman       |3B        |      6|  4|   6|  2|  0| 
-|Corey Seager       |SS        |      7|  3|   2|  0|  0| 
+|Corey Seager       |SS        |      8|  4|   2|  0|  0| 
 |DJ LeMahieu        |MI        |      4|  1|   1|  1|  0| 
 |Anthony Rendon     |CI        |      3|  1|   0|  0|  0| 
-|Adolis Garcia      |OF        |      3|  3|   1|  1|  1| 
-|Juan Soto          |OF        |      5|  1|   1|  1|  0| 
-|Kris Bryant        |OF        |      5|  2|   0|  0|  0| 
+|Adolis Garcia      |OF        |      7|  4|   3|  1|  1| 
+|Juan Soto          |OF        |      8|  2|   1|  1|  0| 
+|Kris Bryant        |OF        |      7|  4|   0|  0|  0| 
 |Robbie Grossman    |OF        |      3|  2|   0|  0|  0| 
-|Brandon Belt       |DH        |      3|  2|   1|  1|  0| 
-|Julio Rodriguez    |DH        |      1|  1|   0|  0|  0| 
+|Brandon Belt       |DH        |      7|  2|   1|  1|  0| 
+|Julio Rodriguez    |DH        |      2|  1|   0|  0|  1| 
 |Justin Turner      |DH        |      3|  1|   0|  0|  0| 
 |Tommy Edman        |DH        |      5|  1|   1|  1|  0| 
 |Charlie Blackmon   |BAT BENCH |      1|  0|   1|  0|  0| 
 |Isiah Kiner-Falefa |BAT BENCH |      2|  2|   0|  0|  0| 
-|Jonathan Schoop    |BAT BENCH |      3|  0|   1|  0|  0| 
-|Mark Canha         |BAT BENCH |     10|  2|   2|  0|  0| 
+|Jonathan Schoop    |BAT BENCH |      4|  0|   1|  0|  0| 
+|Mark Canha         |BAT BENCH |     11|  2|   3|  0|  0| 
 
 
 * * *

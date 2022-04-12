@@ -5,21 +5,21 @@
  
 |players           |position | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:--------|------:|--:|---:|--:|--:| 
-|Mitch Garver      |C        |      4|  2|   2|  1|  0| 
-|Jared Walsh       |1B       |      6|  2|   3|  1|  0| 
-|Jorge Polanco     |2B       |      3|  2|   1|  1|  0| 
+|Mitch Garver      |C        |      7|  2|   2|  1|  0| 
+|Jared Walsh       |1B       |      7|  2|   3|  1|  0| 
+|Jorge Polanco     |2B       |      6|  2|   3|  1|  0| 
 |Spencer Torkelson |3B       |      3|  0|   0|  0|  0| 
-|Wander Franco     |SS       |      6|  1|   3|  0|  1| 
-|Carlos Correa     |MI       |      3|  1|   1|  1|  0| 
-|C.J. Cron         |CI       |      4|  3|   2|  1|  0| 
-|Bryce Harper      |OF       |      3|  3|   1|  0|  0| 
+|Wander Franco     |SS       |      9|  3|   3|  0|  1| 
+|Carlos Correa     |MI       |      3|  2|   1|  1|  0| 
+|C.J. Cron         |CI       |      6|  4|   4|  2|  0| 
+|Bryce Harper      |OF       |      4|  3|   1|  0|  0| 
 |Giancarlo Stanton |OF       |      5|  2|   4|  2|  0| 
 |Mike Trout        |OF       |      5|  1|   1|  1|  0| 
-|Starling Marte    |OF       |      4|  0|   4|  0|  0| 
+|Starling Marte    |OF       |      5|  1|   4|  0|  0| 
 |Alejandro Kirk    |DH       |      2|  0|   1|  0|  0| 
 |Daniel Vogelbach  |DH       |      1|  1|   0|  0|  0| 
 |Gavin Lux         |DH       |      5|  3|   2|  0|  0| 
-|Ryan Mountcastle  |DH       |      5|  1|   2|  1|  0| 
+|Ryan Mountcastle  |DH       |      6|  1|   2|  1|  0| 
 
 * * *
 
@@ -35,9 +35,9 @@
 |Sonny Gray        |SP       |  1| 4.667|  2|  3.857|      6| 1.286|  4|  0|  0| 
 |Tanner Houck      |SP       |  1| 3.333|  3|  8.100|      9| 2.700|  3|  0|  0| 
 |Giovanny Gallegos |RP       |  1| 1.000|  0|  0.000|      1| 1.000|  1|  0|  0| 
-|Scott Barlow      |RP       |  1| 2.000|  0|  0.000|      2| 1.000|  3|  1|  0| 
+|Scott Barlow      |RP       |  2| 2.333|  1|  3.857|      4| 1.714|  3|  1|  0| 
 |Cole Sulser       |OP       |  2| 1.667|  0|  0.000|      2| 1.200|  2|  0|  0| 
-|Joe Barlow        |OP       |  1| 1.000|  0|  0.000|      1| 1.000|  2|  0|  0| 
+|Joe Barlow        |OP       |  2| 2.000|  1|  4.500|      2| 1.000|  5|  0|  0| 
 |Tony Gonsolin     |OP       |  1| 3.000|  1|  3.000|      6| 2.000|  3|  0|  0| 
 
 

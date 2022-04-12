@@ -7,8 +7,8 @@
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith       |C         |      3|  2|   0|  0|  0| 
 |Jose Abreu       |1B        |      6|  6|   2|  0|  0| 
-|Whit Merrifield  |2B        |      1|  0|   0|  0|  0| 
-|Manny Machado    |3B        |      6|  2|   2|  0|  1| 
+|Whit Merrifield  |2B        |      3|  0|   1|  0|  1| 
+|Manny Machado    |3B        |      8|  3|   3|  0|  1| 
 |Xander Bogaerts  |SS        |      6|  3|   1|  0|  0| 
 |Chris Taylor     |MI        |      4|  1|   1|  0|  0| 
 |Ke'Bryan Hayes   |CI        |      5|  2|   1|  0|  0| 
@@ -16,13 +16,13 @@
 |Eloy Jimenez     |OF        |      4|  1|   5|  0|  0| 
 |Luis Robert      |OF        |      5|  3|   1|  0|  2| 
 |Michael Brantley |OF        |      4|  2|   1|  0|  0| 
-|Anthony Rizzo    |DH        |      8|  3|   6|  2|  0| 
+|Anthony Rizzo    |DH        |     10|  3|   6|  2|  0| 
 |Harrison Bader   |DH        |      4|  3|   0|  0|  0| 
 |Ian Happ         |DH        |      7|  3|   4|  0|  0| 
-|Shohei Ohtani    |DH        |      2|  1|   0|  0|  0| 
-|Aaron Hicks      |BAT BENCH |      4|  0|   0|  0|  0| 
+|Shohei Ohtani    |DH        |      3|  2|   0|  0|  1| 
+|Aaron Hicks      |BAT BENCH |      6|  0|   0|  0|  0| 
 |Mike Moustakas   |BAT BENCH |      1|  2|   1|  0|  0| 
-|Nicky Lopez      |BAT BENCH |      4|  1|   1|  0|  0| 
+|Nicky Lopez      |BAT BENCH |      5|  2|   1|  0|  0| 
 
 * * *
 

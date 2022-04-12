@@ -8,19 +8,19 @@
 |Willson Contreras   |C         |      4|  3|   0|  0|  0| 
 |Paul Goldschmidt    |1B        |      8|  5|   0|  0|  1| 
 |Jose Altuve         |2B        |      2|  1|   2|  1|  1| 
-|Jose Ramirez        |3B        |      6|  3|   4|  1|  0| 
+|Jose Ramirez        |3B        |      8|  3|   5|  1|  0| 
 |Tyler Anderson      |SS        |      0|  0|   0|  0|  0| 
 |Trevor Story        |MI        |      2|  0|   0|  0|  0| 
 |Austin Riley        |CI        |      9|  3|   2|  1|  0| 
 |Alex Verdugo        |OF        |      7|  1|   3|  1|  0| 
-|Jesse Winker        |OF        |      6|  0|   0|  0|  0| 
-|Lourdes Gurriel Jr. |OF        |      2|  1|   3|  0|  0| 
+|Jesse Winker        |OF        |      7|  0|   0|  0|  0| 
+|Lourdes Gurriel Jr. |OF        |      3|  1|   3|  0|  0| 
 |Mookie Betts        |OF        |      3|  1|   2|  0|  0| 
-|Andrew Benintendi   |DH        |      5|  0|   1|  0|  0| 
+|Andrew Benintendi   |DH        |     10|  2|   4|  1|  0| 
 |Austin Hays         |DH        |      3|  0|   0|  0|  0| 
-|Jean Segura         |DH        |      5|  3|   2|  2|  0| 
-|Marcell Ozuna       |DH        |      5|  1|   2|  0|  0| 
-|Alex Kirilloff      |BAT BENCH |      0|  1|   0|  0|  0| 
+|Jean Segura         |DH        |      6|  3|   2|  2|  0| 
+|Marcell Ozuna       |DH        |      7|  1|   3|  0|  0| 
+|Alex Kirilloff      |BAT BENCH |      1|  1|   0|  0|  0| 
 |Frank Schwindel     |BAT BENCH |      3|  1|   1|  0|  0| 
 |Travis d'Arnaud     |BAT BENCH |      3|  2|   4|  1|  0| 
 
@@ -43,7 +43,7 @@
 |Kyle Gibson      |OP       |  1| 7.000|  0| 0.000|      2| 0.286| 10|  1|  0| 
 |Nick Pivetta     |OP       |  1| 5.667|  4| 6.353|      7| 1.235|  4|  0|  0| 
 |Patrick Corbin   |OP       |  1| 4.000|  2| 4.500|      7| 1.750|  4|  0|  0| 
-|Raisel Iglesias  |OP       |  1| 1.000|  0| 0.000|      0| 0.000|  1|  0|  1| 
+|Raisel Iglesias  |OP       |  2| 2.000|  1| 4.500|      1| 0.500|  1|  0|  1| 
 
 
 * * *
