@@ -43,6 +43,7 @@
 |Devin Williams    |OP          |  1| 1.000|  0| 0.000|      0| 0.000|  2|  0|  0| 
 |Jake McGee        |OP          |  2| 1.667|  1| 5.400|      2| 1.200|  0|  0|  0| 
 |Madison Bumgarner |OP          |  1| 3.000|  1| 3.000|      5| 1.667|  2|  0|  0| 
+|Matt Barnes       |OP          |  1| 1.000|  0| 0.000|      1| 1.000|  1|  0|  0| 
 |Collin McHugh     |PITCH BENCH |  2| 2.667|  1| 3.375|      2| 0.750|  6|  0|  0| 
 
 

@@ -26,21 +26,23 @@
 ### Pitchers
 
  
-|players           |position    |  g| ip| er|  era| hitsbb|  whip| so|  w| sv| 
-|:-----------------|:-----------|--:|--:|--:|----:|------:|-----:|--:|--:|--:| 
-|Joe Ryan          |SP          |  1|  4|  2| 4.50|      6| 1.500|  4|  0|  0| 
-|Justin Verlander  |SP          |  1|  5|  1| 1.80|      6| 1.200|  7|  0|  0| 
-|Logan Gilbert     |SP          |  1|  5|  1| 1.80|      4| 0.800|  7|  0|  0| 
-|Lucas Giolito     |SP          |  1|  4|  0| 0.00|      3| 0.750|  6|  0|  0| 
-|Michael Kopech    |SP          |  1|  4|  1| 2.25|      4| 1.000|  3|  0|  0| 
-|Paul Sewald       |RP          |  1|  1|  0| 0.00|      0| 0.000|  0|  0|  0| 
-|Taylor Rogers     |RP          |  3|  3|  0| 0.00|      1| 0.333|  3|  0|  3| 
-|Bailey Ober       |OP          |  1|  5|  4| 7.20|      6| 1.200|  4|  1|  0| 
-|David Bednar      |OP          |  1|  1|  0| 0.00|      1| 1.000|  1|  0|  0| 
-|Drew Steckenrider |OP          |  1|  1|  0| 0.00|      1| 1.000|  1|  0|  1| 
-|Merrill Kelly     |OP          |  1|  4|  0| 0.00|      6| 1.500|  7|  0|  0| 
-|Reid Detmers      |PITCH BENCH |  1|  4|  2| 4.50|      5| 1.250|  3|  0|  0| 
-|Tylor Megill      |PITCH BENCH |  1|  5|  0| 0.00|      3| 0.600|  6|  1|  0| 
+|players           |position    |  g|    ip| er|   era| hitsbb|  whip| so|  w| sv| 
+|:-----------------|:-----------|--:|-----:|--:|-----:|------:|-----:|--:|--:|--:| 
+|Alek Manoah       |SP          |  1| 6.000|  0| 0.000|      5| 0.833|  7|  1|  0| 
+|Joe Ryan          |SP          |  1| 4.000|  2| 4.500|      6| 1.500|  4|  0|  0| 
+|Justin Verlander  |SP          |  1| 5.000|  1| 1.800|      6| 1.200|  7|  0|  0| 
+|Logan Gilbert     |SP          |  1| 5.000|  1| 1.800|      4| 0.800|  7|  0|  0| 
+|Lucas Giolito     |SP          |  1| 4.000|  0| 0.000|      3| 0.750|  6|  0|  0| 
+|Michael Kopech    |SP          |  1| 4.000|  1| 2.250|      4| 1.000|  3|  0|  0| 
+|Paul Sewald       |RP          |  1| 1.000|  0| 0.000|      0| 0.000|  0|  0|  0| 
+|Taylor Rogers     |RP          |  3| 3.000|  0| 0.000|      1| 0.333|  3|  0|  3| 
+|Alex Wood         |OP          |  1| 4.333|  2| 4.154|      6| 1.385|  6|  0|  0| 
+|Bailey Ober       |OP          |  1| 5.000|  4| 7.200|      6| 1.200|  4|  1|  0| 
+|David Bednar      |OP          |  1| 1.000|  0| 0.000|      1| 1.000|  1|  0|  0| 
+|Drew Steckenrider |OP          |  1| 1.000|  0| 0.000|      1| 1.000|  1|  0|  1| 
+|Merrill Kelly     |OP          |  1| 4.000|  0| 0.000|      6| 1.500|  7|  0|  0| 
+|Reid Detmers      |PITCH BENCH |  1| 4.000|  2| 4.500|      5| 1.250|  3|  0|  0| 
+|Tylor Megill      |PITCH BENCH |  1| 5.000|  0| 0.000|      3| 0.600|  6|  1|  0| 
 
 
 * * *
