@@ -41,6 +41,8 @@
 |Blake Treinen    |RP          |  2| 2.000|  1|  4.500|      1| 0.500|  4|  0|  0| 
 |Gregory Soto     |OP          |  2| 2.000|  1|  4.500|      3| 1.500|  0|  1|  1| 
 |Hunter Greene    |OP          |  1| 5.000|  3|  5.400|      6| 1.200|  7|  1|  0| 
+|Jesus Luzardo    |OP          |  1| 5.000|  1|  1.800|      3| 0.600| 12|  0|  0| 
+|Patrick Sandoval |OP          |  1| 4.000|  0|  0.000|      6| 1.500|  6|  0|  0| 
 |Triston McKenzie |OP          |  1| 3.000|  2|  6.000|      4| 1.333|  1|  0|  0| 
 |Aaron Ashby      |PITCH BENCH |  2| 5.000|  1|  1.800|      8| 1.600|  5|  0|  0| 
 |Josiah Gray      |PITCH BENCH |  1| 4.000|  4|  9.000|     10| 2.500|  5|  0|  0| 
