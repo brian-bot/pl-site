@@ -8,18 +8,18 @@
 |Mitch Garver      |C        |     10|  3|   2|  1|  0| 
 |Jared Walsh       |1B       |      7|  2|   3|  1|  0| 
 |Jorge Polanco     |2B       |      7|  2|   3|  1|  0| 
-|Spencer Torkelson |3B       |      4|  1|   0|  0|  0| 
+|Spencer Torkelson |3B       |      6|  2|   2|  1|  0| 
 |Wander Franco     |SS       |     12|  5|   4|  0|  1| 
 |Carlos Correa     |MI       |      5|  2|   1|  1|  0| 
 |C.J. Cron         |CI       |      7|  4|   5|  2|  0| 
-|Bryce Harper      |OF       |      5|  3|   1|  0|  0| 
+|Bryce Harper      |OF       |      8|  5|   2|  1|  0| 
 |Giancarlo Stanton |OF       |      5|  2|   5|  2|  0| 
 |Mike Trout        |OF       |      7|  3|   1|  1|  0| 
-|Starling Marte    |OF       |      6|  2|   4|  0|  1| 
-|Alejandro Kirk    |DH       |      2|  0|   1|  0|  0| 
-|Daniel Vogelbach  |DH       |      1|  1|   0|  0|  0| 
-|Gavin Lux         |DH       |      7|  3|   4|  0|  0| 
-|Ryan Mountcastle  |DH       |      7|  1|   2|  1|  0| 
+|Starling Marte    |OF       |      8|  4|   5|  0|  1| 
+|Alejandro Kirk    |DH       |      3|  0|   1|  0|  0| 
+|Daniel Vogelbach  |DH       |      3|  1|   0|  0|  0| 
+|Gavin Lux         |DH       |      8|  4|   5|  1|  0| 
+|Ryan Mountcastle  |DH       |      8|  1|   3|  1|  0| 
 
 * * *
 
