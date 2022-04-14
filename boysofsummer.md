@@ -9,7 +9,7 @@
 |Paul Goldschmidt    |1B        |      8|  5|   0|  0|  1| 
 |Jose Altuve         |2B        |      6|  1|   2|  1|  2| 
 |Jose Ramirez        |3B        |     15|  5|  14|  3|  0| 
-|Tyler Anderson      |SS        |      0|  0|   0|  0|  0| 
+|Tim Anderson        |SS        |      6|  3|   4|  1|  0| 
 |Trevor Story        |MI        |      4|  0|   1|  0|  0| 
 |Austin Riley        |CI        |     15|  5|   5|  2|  0| 
 |Alex Verdugo        |OF        |     11|  1|   4|  1|  0| 
