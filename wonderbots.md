@@ -8,14 +8,14 @@
 |Yasmani Grandal       |C        |      4|  1|   2|  1|  0| 
 |Vladimir Guerrero Jr. |1B       |     10|  6|   8|  4|  0| 
 |Ketel Marte           |2B       |      7|  1|   2|  0|  1| 
-|Nolan Arenado         |3B       |      8|  5|   9|  3|  0| 
-|Brandon Crawford      |SS       |      6|  1|   0|  0|  0| 
-|Jake Cronenworth      |MI       |     13|  2|   4|  0|  0| 
+|Nolan Arenado         |3B       |      9|  5|   9|  3|  0| 
+|Brandon Crawford      |SS       |      5|  1|   0|  0|  0| 
+|Jake Cronenworth      |MI       |     12|  2|   4|  0|  0| 
 |Luis Arraez           |CI       |      5|  2|   2|  1|  0| 
 |Austin Meadows        |OF       |     12|  5|   1|  0|  0| 
 |Cody Bellinger        |OF       |      8|  3|   1|  1|  2| 
 |George Springer       |OF       |     12|  5|   5|  2|  1| 
-|Jarred Kelenic        |OF       |      3|  0|   0|  0|  1| 
+|Jarred Kelenic        |OF       |      5|  1|   2|  1|  2| 
 |Andrew Vaughn         |DH       |      8|  3|   6|  2|  0| 
 |Dylan Carlson         |DH       |      7|  4|   2|  0|  1| 
 |Nelson Cruz           |DH       |      6|  3|   3|  1|  0| 
@@ -30,7 +30,7 @@
 |players         |position |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:---------------|:--------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Aaron Nola      |SP       |  2|  9.333|  7|  6.750|     10| 1.071| 12|  1|  0| 
-|Adam Wainwright |SP       |  1|  6.000|  0|  0.000|      5| 0.833|  6|  1|  0| 
+|Adam Wainwright |SP       |  2| 10.333|  4|  3.484|     15| 1.452| 13|  1|  0| 
 |Jose Berrios    |SP       |  2|  5.333|  7| 11.812|     14| 2.625|  5|  0|  0| 
 |Kevin Gausman   |SP       |  1|  5.000|  3|  5.400|      8| 1.600|  5|  0|  0| 
 |Luis Severino   |SP       |  1|  3.000|  2|  6.000|      5| 1.667|  5|  0|  0| 

@@ -15,12 +15,12 @@
 |Bryan Reynolds   |OF        |      5|  2|   1|  1|  0| 
 |Eloy Jimenez     |OF        |      5|  2|   7|  1|  0| 
 |Luis Robert      |OF        |      8|  6|   3|  2|  4| 
-|Michael Brantley |OF        |     10|  2|   2|  0|  0| 
-|Anthony Rizzo    |DH        |     14|  4|   7|  3|  0| 
-|Harrison Bader   |DH        |      4|  3|   0|  0|  0| 
+|Michael Brantley |OF        |      9|  2|   2|  0|  0| 
+|Anthony Rizzo    |DH        |     13|  4|   7|  3|  0| 
+|Harrison Bader   |DH        |      5|  3|   0|  0|  0| 
 |Ian Happ         |DH        |     10|  3|   4|  0|  0| 
 |Shohei Ohtani    |DH        |      4|  2|   0|  0|  1| 
-|Aaron Hicks      |BAT BENCH |     10|  1|   2|  1|  0| 
+|Aaron Hicks      |BAT BENCH |      9|  1|   2|  1|  0| 
 |Mike Moustakas   |BAT BENCH |      2|  2|   1|  0|  0| 
 |Nicky Lopez      |BAT BENCH |      6|  3|   1|  0|  0| 
 

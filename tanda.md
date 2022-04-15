@@ -15,13 +15,13 @@
 |Enrique Hernandez |OF        |      8|  5|   3|  1|  0| 
 |Franmil Reyes     |OF        |      6|  1|   2|  0|  0| 
 |Jorge Soler       |OF        |      7|  0|   0|  0|  0| 
-|Mitch Haniger     |OF        |      3|  2|   5|  2|  0| 
+|Mitch Haniger     |OF        |      5|  3|   7|  3|  0| 
 |Bobby Dalbec      |DH        |      7|  3|   1|  1|  0| 
 |Jazz Chisholm Jr. |DH        |      5|  2|   5|  2|  0| 
 |Jo Adell          |DH        |      2|  1|   2|  1|  0| 
 |Luke Voit         |DH        |     13|  4|   1|  0|  1| 
-|Eugenio Suarez    |BAT BENCH |      5|  2|   1|  1|  0| 
-|Sean Murphy       |BAT BENCH |      7|  4|   4|  1|  0| 
+|Eugenio Suarez    |BAT BENCH |      7|  3|   1|  1|  0| 
+|Sean Murphy       |BAT BENCH |      9|  4|   5|  1|  0| 
 
 
 * * *

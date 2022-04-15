@@ -9,12 +9,12 @@
 |Jonathan India |2B        |      6|  3|   2|  0|  0| 
 |Matt Chapman   |3B        |      6|  1|   4|  1|  0| 
 |Dansby Swanson |SS        |      7|  2|   2|  0|  0| 
-|Kolten Wong    |MI        |      5|  2|   1|  0|  0| 
+|Kolten Wong    |MI        |      7|  3|   2|  0|  1| 
 |Carlos Santana |CI        |      4|  1|   0|  0|  0| 
 |Adam Duvall    |OF        |     10|  3|   4|  0|  0| 
 |J.D. Martinez  |OF        |     10|  4|   4|  1|  0| 
-|Kyle Tucker    |OF        |      6|  2|   4|  2|  1| 
-|Yordan Alvarez |OF        |      6|  2|   2|  1|  0| 
+|Kyle Tucker    |OF        |      5|  2|   4|  2|  1| 
+|Yordan Alvarez |OF        |      5|  2|   2|  1|  0| 
 |Eddie Rosario  |DH        |      4|  2|   0|  0|  0| 
 |Max Kepler     |DH        |      7|  2|   2|  1|  0| 
 |Nathaniel Lowe |DH        |      8|  0|   5|  0|  0| 
@@ -29,7 +29,7 @@
 |players          |position |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:--------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Aaron Civale     |SP       |  1|  3.333|  2|  5.400|      7| 2.100|  3|  0|  0| 
-|Brandon Woodruff |SP       |  1|  3.667|  7| 17.182|      9| 2.455|  2|  0|  0| 
+|Brandon Woodruff |SP       |  2|  8.667|  7|  7.269|     13| 1.500|  4|  1|  0| 
 |Framber Valdez   |SP       |  2|  9.667|  1|  0.931|     10| 1.034|  9|  1|  0| 
 |Gerrit Cole      |SP       |  2|  9.667|  6|  5.586|     10| 1.034|  9|  0|  0| 
 |Jose Urquidy     |SP       |  1|  5.000|  1|  1.800|      4| 0.800|  2|  1|  0| 

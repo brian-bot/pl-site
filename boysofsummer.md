@@ -9,11 +9,11 @@
 |Paul Goldschmidt    |1B        |      8|  5|   0|  0|  1| 
 |Jose Altuve         |2B        |      6|  1|   2|  1|  2| 
 |Jose Ramirez        |3B        |     15|  5|  14|  3|  0| 
-|Tim Anderson        |SS        |      6|  3|   4|  1|  0| 
+|Tim Anderson        |SS        |      8|  3|   4|  1|  0| 
 |Trevor Story        |MI        |      4|  0|   1|  0|  0| 
 |Austin Riley        |CI        |     15|  5|   5|  2|  0| 
-|Alex Verdugo        |OF        |     11|  1|   4|  1|  0| 
-|Jesse Winker        |OF        |     10|  0|   1|  0|  0| 
+|Alex Verdugo        |OF        |     10|  1|   4|  1|  0| 
+|Jesse Winker        |OF        |     11|  1|   1|  0|  0| 
 |Lourdes Gurriel Jr. |OF        |      5|  2|   3|  0|  0| 
 |Mookie Betts        |OF        |      6|  4|   2|  0|  0| 
 |Andrew Benintendi   |DH        |     10|  2|   4|  1|  0| 

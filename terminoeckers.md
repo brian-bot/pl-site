@@ -10,19 +10,19 @@
 |Trea Turner      |2B        |      6|  2|   3|  0|  1| 
 |Josh Donaldson   |3B        |      7|  3|   1|  0|  0| 
 |Jeremy Pena      |SS        |      8|  3|   1|  1|  0| 
-|Ty France        |MI        |     11|  2|   4|  1|  0| 
+|Ty France        |MI        |     12|  2|   4|  1|  0| 
 |Joey Votto       |CI        |      7|  3|   2|  0|  0| 
 |Byron Buxton     |OF        |      7|  5|   4|  3|  1| 
-|Christian Yelich |OF        |     11|  2|   2|  0|  0| 
+|Christian Yelich |OF        |     12|  3|   2|  0|  0| 
 |Nick Castellanos |OF        |      9|  3|   4|  1|  0| 
-|Randy Arozarena  |OF        |      4|  0|   1|  0|  0| 
-|Andrew McCutchen |DH        |      8|  1|   3|  0|  0| 
-|Hunter Renfroe   |DH        |      6|  1|   1|  0|  0| 
+|Randy Arozarena  |OF        |      5|  1|   1|  0|  0| 
+|Andrew McCutchen |DH        |      9|  1|   4|  0|  0| 
+|Hunter Renfroe   |DH        |      7|  1|   2|  0|  0| 
 |Seiya Suzuki     |DH        |     11|  4|   9|  3|  0| 
 |Tommy Pham       |DH        |      4|  2|   0|  0|  1| 
 |Avisail Garcia   |BAT BENCH |      2|  0|   0|  0|  0| 
 |Cavan Biggio     |BAT BENCH |      1|  1|   0|  0|  0| 
-|Josh Lowe        |BAT BENCH |      9|  3|   1|  0|  0| 
+|Josh Lowe        |BAT BENCH |      8|  3|   1|  0|  0| 
 
 * * *
 

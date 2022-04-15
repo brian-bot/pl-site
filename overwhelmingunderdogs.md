@@ -17,9 +17,9 @@
 |Kris Bryant        |OF        |      9|  4|   2|  0|  0| 
 |Robbie Grossman    |OF        |      4|  2|   1|  0|  0| 
 |Brandon Belt       |DH        |     10|  4|   3|  2|  0| 
-|Julio Rodriguez    |DH        |      2|  1|   0|  0|  1| 
+|Julio Rodriguez    |DH        |      4|  1|   0|  0|  2| 
 |Justin Turner      |DH        |      6|  2|   3|  0|  0| 
-|Tommy Edman        |DH        |      7|  2|   1|  1|  0| 
+|Tommy Edman        |DH        |      8|  3|   2|  2|  0| 
 |Charlie Blackmon   |BAT BENCH |      3|  0|   2|  0|  0| 
 |Isiah Kiner-Falefa |BAT BENCH |      2|  2|   0|  0|  0| 
 |Jonathan Schoop    |BAT BENCH |      6|  2|   3|  1|  0| 
