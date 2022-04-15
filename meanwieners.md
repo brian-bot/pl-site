@@ -5,19 +5,19 @@
  
 |players          |position | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:--------|------:|--:|---:|--:|--:| 
-|Tyler Stephenson |C        |      8|  3|   6|  2|  0| 
-|Josh Bell        |1B       |     13|  7|   6|  2|  0| 
+|Tyler Stephenson |C        |      9|  4|   6|  2|  0| 
+|Josh Bell        |1B       |     15|  9|   6|  2|  0| 
 |Brandon Lowe     |2B       |     11|  6|   6|  3|  0| 
 |Rafael Devers    |3B       |     10|  5|   5|  1|  0| 
-|Bobby Witt Jr.   |SS       |      3|  3|   3|  0|  1| 
+|Bobby Witt Jr.   |SS       |      4|  3|   3|  0|  1| 
 |Willy Adames     |MI       |      9|  5|   2|  1|  0| 
 |Miguel Sano      |CI       |      4|  0|   0|  0|  0| 
-|Aaron Judge      |OF       |     10|  3|   1|  1|  1| 
+|Aaron Judge      |OF       |     11|  4|   1|  1|  1| 
 |Joey Gallo       |OF       |      8|  0|   0|  0|  0| 
-|Trent Grisham    |OF       |      6|  1|   0|  0|  0| 
+|Trent Grisham    |OF       |      7|  1|   0|  0|  0| 
 |Tyler O'Neill    |OF       |      5|  2|   6|  1|  0| 
 |AJ Pollock       |DH       |      4|  1|   1|  0|  0| 
-|Akil Baddoo      |DH       |      2|  1|   1|  1|  0| 
+|Akil Baddoo      |DH       |      3|  1|   1|  1|  0| 
 |Christian Walker |DH       |      8|  3|   2|  2|  0| 
 |Steven Kwan      |DH       |     19|  7|   5|  0|  0| 
 

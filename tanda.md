@@ -6,20 +6,20 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Salvador Perez    |C         |      5|  2|   3|  2|  0| 
-|Matt Olson        |1B        |     17|  6|   1|  1|  0| 
+|Matt Olson        |1B        |     19|  6|   1|  1|  0| 
 |Javier Baez       |2B        |      7|  1|   4|  1|  0| 
-|Adalberto Mondesi |3B        |      4|  2|   1|  0|  1| 
-|Bo Bichette       |SS        |      6|  5|   1|  1|  0| 
+|Adalberto Mondesi |3B        |      5|  3|   1|  0|  3| 
+|Bo Bichette       |SS        |      7|  5|   1|  1|  0| 
 |Francisco Lindor  |MI        |     12|  5|   4|  1|  1| 
-|Kyle Schwarber    |CI        |      6|  3|   3|  1|  0| 
+|Kyle Schwarber    |CI        |      7|  4|   3|  1|  0| 
 |Enrique Hernandez |OF        |      8|  5|   3|  1|  0| 
 |Franmil Reyes     |OF        |      6|  1|   2|  0|  0| 
 |Jorge Soler       |OF        |      7|  0|   0|  0|  0| 
 |Mitch Haniger     |OF        |      5|  3|   7|  3|  0| 
 |Bobby Dalbec      |DH        |      7|  3|   1|  1|  0| 
-|Jazz Chisholm Jr. |DH        |      5|  2|   5|  2|  0| 
-|Jo Adell          |DH        |      2|  1|   2|  1|  0| 
-|Luke Voit         |DH        |     13|  4|   1|  0|  1| 
+|Jazz Chisholm Jr. |DH        |      6|  3|   5|  2|  0| 
+|Jo Adell          |DH        |      3|  1|   2|  1|  0| 
+|Luke Voit         |DH        |     15|  5|   4|  0|  1| 
 |Eugenio Suarez    |BAT BENCH |      7|  3|   1|  1|  0| 
 |Sean Murphy       |BAT BENCH |      9|  4|   5|  1|  0| 
 
@@ -31,7 +31,7 @@
  
 |players           |position |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:--------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Charlie Morton    |SP       |  1|  5.333|  2|  3.375|      3| 0.562|  5|  1|  0| 
+|Charlie Morton    |SP       |  2| 10.333|  7|  6.097|     15| 1.452| 10|  1|  0| 
 |Eduardo Rodriguez |SP       |  2|  7.667|  5|  5.870|     14| 1.826|  7|  0|  0| 
 |Ian Anderson      |SP       |  1|  2.667|  5| 16.875|      8| 3.000|  1|  0|  0| 
 |Max Scherzer      |SP       |  2| 11.000|  4|  3.273|     12| 1.091| 13|  2|  0| 

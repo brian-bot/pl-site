@@ -14,14 +14,14 @@
 |Austin Riley        |CI        |     15|  5|   5|  2|  0| 
 |Alex Verdugo        |OF        |     10|  1|   4|  1|  0| 
 |Jesse Winker        |OF        |     11|  1|   1|  0|  0| 
-|Lourdes Gurriel Jr. |OF        |      5|  2|   3|  0|  0| 
-|Mookie Betts        |OF        |      6|  4|   2|  0|  0| 
-|Andrew Benintendi   |DH        |     10|  2|   4|  1|  0| 
+|Lourdes Gurriel Jr. |OF        |      7|  2|   3|  0|  0| 
+|Mookie Betts        |OF        |      8|  4|   3|  0|  0| 
+|Andrew Benintendi   |DH        |     11|  2|   4|  1|  0| 
 |Austin Hays         |DH        |      6|  0|   0|  0|  0| 
 |Jean Segura         |DH        |      8|  3|   2|  2|  0| 
-|Marcell Ozuna       |DH        |     10|  4|   5|  2|  0| 
+|Marcell Ozuna       |DH        |     11|  4|   5|  2|  0| 
 |Alex Kirilloff      |BAT BENCH |      1|  1|   0|  0|  0| 
-|Frank Schwindel     |BAT BENCH |      6|  1|   1|  0|  0| 
+|Frank Schwindel     |BAT BENCH |      8|  3|   3|  1|  0| 
 |Travis d'Arnaud     |BAT BENCH |      7|  5|   4|  1|  0| 
 
 
@@ -41,7 +41,7 @@
 |Edwin Diaz       |RP       |  3|  3.000|  1|  3.000|      4| 1.333|  5|  0|  1| 
 |Josh Hader       |RP       |  3|  3.000|  0|  0.000|      3| 1.000|  4|  0|  3| 
 |Garrett Whitlock |OP       |  2|  6.333|  1|  1.421|      3| 0.474|  6|  1|  0| 
-|Kyle Gibson      |OP       |  1|  7.000|  0|  0.000|      2| 0.286| 10|  1|  0| 
+|Kyle Gibson      |OP       |  2| 11.667|  4|  3.086|     10| 0.857| 16|  1|  0| 
 |Nick Pivetta     |OP       |  1|  5.667|  4|  6.353|      7| 1.235|  4|  0|  0| 
 |Patrick Corbin   |OP       |  2|  6.667|  8| 10.800|     19| 2.850|  7|  0|  0| 
 |Raisel Iglesias  |OP       |  3|  3.000|  1|  3.000|      1| 0.333|  2|  1|  1| 
