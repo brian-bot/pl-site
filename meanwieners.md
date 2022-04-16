@@ -6,20 +6,20 @@
 |players          |position | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:--------|------:|--:|---:|--:|--:| 
 |Tyler Stephenson |C        |      9|  4|   6|  2|  0| 
-|Josh Bell        |1B       |     15|  9|   6|  2|  0| 
-|Brandon Lowe     |2B       |     11|  6|   6|  3|  0| 
-|Rafael Devers    |3B       |     10|  5|   5|  1|  0| 
+|Josh Bell        |1B       |     18|  9|   9|  2|  0| 
+|Brandon Lowe     |2B       |     12|  7|   6|  3|  0| 
+|Rafael Devers    |3B       |     12|  6|   7|  2|  0| 
 |Bobby Witt Jr.   |SS       |      4|  3|   3|  0|  1| 
-|Willy Adames     |MI       |      9|  5|   2|  1|  0| 
-|Miguel Sano      |CI       |      4|  0|   0|  0|  0| 
+|Willy Adames     |MI       |     10|  5|   2|  1|  0| 
+|Miguel Sano      |CI       |      6|  1|   2|  1|  1| 
 |Aaron Judge      |OF       |     11|  4|   1|  1|  1| 
-|Joey Gallo       |OF       |      8|  0|   0|  0|  0| 
-|Trent Grisham    |OF       |      7|  1|   0|  0|  0| 
-|Tyler O'Neill    |OF       |      5|  2|   6|  1|  0| 
+|Joey Gallo       |OF       |      9|  0|   0|  0|  0| 
+|Trent Grisham    |OF       |      8|  1|   0|  0|  0| 
+|Tyler O'Neill    |OF       |      8|  4|   6|  1|  0| 
 |AJ Pollock       |DH       |      4|  1|   1|  0|  0| 
 |Akil Baddoo      |DH       |      3|  1|   1|  1|  0| 
 |Christian Walker |DH       |      8|  3|   2|  2|  0| 
-|Steven Kwan      |DH       |     19|  7|   5|  0|  0| 
+|Steven Kwan      |DH       |     20|  7|   5|  0|  0| 
 
 * * *
 
@@ -29,7 +29,7 @@
 |players           |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Alek Manoah       |SP          |  1|  6.000|  0| 0.000|      5| 0.833|  7|  1|  0| 
-|Joe Ryan          |SP          |  1|  4.000|  2| 4.500|      6| 1.500|  4|  0|  0| 
+|Joe Ryan          |SP          |  2| 10.000|  3| 2.700|     11| 1.100| 11|  1|  0| 
 |Justin Verlander  |SP          |  1|  5.000|  1| 1.800|      6| 1.200|  7|  0|  0| 
 |Logan Gilbert     |SP          |  2| 10.000|  1| 0.900|      8| 0.800| 11|  1|  0| 
 |Lucas Giolito     |SP          |  1|  4.000|  0| 0.000|      3| 0.750|  6|  0|  0| 
@@ -41,7 +41,7 @@
 |David Bednar      |OP          |  2|  2.000|  0| 0.000|      1| 0.500|  2|  0|  0| 
 |Drew Steckenrider |OP          |  3|  3.000|  0| 0.000|      4| 1.333|  1|  0|  1| 
 |Merrill Kelly     |OP          |  2|  9.333|  0| 0.000|     11| 1.179| 13|  0|  0| 
-|Reid Detmers      |PITCH BENCH |  1|  4.000|  2| 4.500|      5| 1.250|  3|  0|  0| 
+|Reid Detmers      |PITCH BENCH |  2|  7.333|  7| 8.591|     12| 1.636|  8|  0|  0| 
 |Tylor Megill      |PITCH BENCH |  2| 10.333|  0| 0.000|      6| 0.581| 11|  2|  0| 
 
 

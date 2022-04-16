@@ -5,23 +5,23 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Daulton Varsho   |C         |      7|  0|   0|  0|  0| 
-|Freddie Freeman  |1B        |     11|  4|   0|  0|  0| 
-|Trea Turner      |2B        |      8|  4|   4|  0|  1| 
-|Josh Donaldson   |3B        |      7|  3|   1|  0|  0| 
-|Jeremy Pena      |SS        |      8|  3|   1|  1|  0| 
-|Ty France        |MI        |     12|  2|   4|  1|  0| 
-|Joey Votto       |CI        |      8|  3|   2|  0|  0| 
-|Byron Buxton     |OF        |      7|  5|   4|  3|  1| 
+|Daulton Varsho   |C         |      8|  1|   1|  1|  0| 
+|Freddie Freeman  |1B        |     12|  4|   0|  0|  0| 
+|Trea Turner      |2B        |     10|  4|   5|  0|  2| 
+|Josh Donaldson   |3B        |      8|  3|   1|  0|  0| 
+|Jeremy Pena      |SS        |      9|  3|   1|  1|  0| 
+|Ty France        |MI        |     14|  2|   6|  1|  0| 
+|Joey Votto       |CI        |     10|  3|   2|  0|  0| 
+|Byron Buxton     |OF        |      8|  5|   4|  3|  1| 
 |Christian Yelich |OF        |     12|  3|   2|  0|  0| 
-|Nick Castellanos |OF        |     10|  3|   4|  1|  0| 
+|Nick Castellanos |OF        |     12|  4|   5|  2|  0| 
 |Randy Arozarena  |OF        |      5|  1|   1|  0|  0| 
-|Andrew McCutchen |DH        |      9|  1|   4|  0|  0| 
-|Hunter Renfroe   |DH        |      7|  1|   2|  0|  0| 
-|Seiya Suzuki     |DH        |     12|  4|  10|  3|  0| 
+|Andrew McCutchen |DH        |     10|  2|   4|  0|  0| 
+|Hunter Renfroe   |DH        |      9|  1|   2|  0|  0| 
+|Seiya Suzuki     |DH        |     13|  4|  10|  3|  0| 
 |Tommy Pham       |DH        |      4|  2|   0|  0|  1| 
-|Avisail Garcia   |BAT BENCH |      4|  1|   0|  0|  0| 
-|Cavan Biggio     |BAT BENCH |      3|  1|   0|  0|  0| 
+|Avisail Garcia   |BAT BENCH |      5|  1|   0|  0|  0| 
+|Cavan Biggio     |BAT BENCH |      4|  1|   0|  0|  0| 
 |Josh Lowe        |BAT BENCH |      8|  3|   1|  0|  0| 
 
 * * *
@@ -31,7 +31,7 @@
  
 |players          |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Dylan Cease      |SP          |  1|  5.000|  1|  1.800|      5| 1.000|  8|  1|  0| 
+|Dylan Cease      |SP          |  2| 10.667|  2|  1.687|     10| 0.937| 16|  2|  0| 
 |Julio Urias      |SP          |  1|  2.000|  3| 13.500|      8| 4.000|  0|  0|  0| 
 |Sandy Alcantara  |SP          |  2| 11.333|  4|  3.176|     16| 1.412|  9|  1|  0| 
 |Shane McClanahan |SP          |  2|  9.000|  3|  3.000|     11| 1.222| 15|  0|  0| 
