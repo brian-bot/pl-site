@@ -4,21 +4,21 @@
 
  |players        |position  | hitsbb|  r| rbi| hr| sb| 
 |:--------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto  |C         |     12|  4|   2|  1|  1| 
+|J.T. Realmuto  |C         |     12|  5|   2|  1|  1| 
 |Pete Alonso    |1B        |     12|  5|  12|  2|  0| 
 |Jonathan India |2B        |      8|  3|   2|  0|  0| 
-|Matt Chapman   |3B        |      9|  1|   4|  1|  0| 
-|Dansby Swanson |SS        |      8|  2|   2|  0|  0| 
-|Kolten Wong    |MI        |      7|  3|   2|  0|  1| 
-|Carlos Santana |CI        |      6|  1|   1|  0|  0| 
-|Adam Duvall    |OF        |     12|  4|   6|  0|  0| 
-|J.D. Martinez  |OF        |     11|  4|   4|  1|  0| 
-|Kyle Tucker    |OF        |      5|  2|   4|  2|  1| 
+|Matt Chapman   |3B        |     11|  2|   6|  2|  0| 
+|Dansby Swanson |SS        |     10|  3|   2|  0|  0| 
+|Kolten Wong    |MI        |      8|  3|   2|  0|  1| 
+|Carlos Santana |CI        |      7|  2|   1|  0|  0| 
+|Adam Duvall    |OF        |     14|  5|   6|  0|  0| 
+|J.D. Martinez  |OF        |     12|  5|   4|  1|  0| 
+|Kyle Tucker    |OF        |      6|  2|   4|  2|  1| 
 |Yordan Alvarez |OF        |      5|  2|   2|  1|  0| 
-|Eddie Rosario  |DH        |      4|  2|   0|  0|  0| 
+|Eddie Rosario  |DH        |      5|  2|   0|  0|  0| 
 |Max Kepler     |DH        |      9|  2|   3|  1|  1| 
-|Nathaniel Lowe |DH        |     11|  2|   6|  0|  0| 
-|Trey Mancini   |DH        |      7|  0|   1|  0|  0| 
+|Nathaniel Lowe |DH        |     14|  2|   6|  0|  0| 
+|Trey Mancini   |DH        |      9|  0|   1|  0|  0| 
 |Jesus Sanchez  |BAT BENCH |     10|  5|   6|  2|  0| 
 
 * * *
@@ -35,11 +35,11 @@
 |Jose Urquidy     |SP       |  1|  5.000|  1|  1.800|      4| 0.800|  2|  1|  0| 
 |Max Fried        |SP       |  2| 11.000|  7|  5.727|     16| 1.455|  9|  0|  0| 
 |Jordan Romano    |RP       |  5|  5.000|  0|  0.000|      3| 0.600|  6|  0|  5| 
-|Liam Hendriks    |RP       |  4|  4.000|  3|  6.750|      9| 2.250|  8|  0|  3| 
+|Liam Hendriks    |RP       |  5|  5.000|  3|  5.400|     12| 2.400|  9|  0|  4| 
 |Chad Green       |OP       |  4|  3.667|  0|  0.000|      3| 0.818|  1|  0|  0| 
-|Hyun Jin Ryu     |OP       |  1|  3.333|  6| 16.200|      7| 2.100|  4|  0|  0| 
+|Hyun Jin Ryu     |OP       |  2|  7.333| 11| 13.500|     13| 1.773|  5|  0|  0| 
 |Luis Garcia      |OP       |  1|  4.000|  0|  0.000|      4| 1.000|  1|  0|  0| 
-|Will Smith       |OP       |  3|  3.000|  1|  3.000|      3| 1.000|  2|  0|  1| 
+|Will Smith       |OP       |  4|  4.333|  2|  4.154|      4| 0.923|  3|  0|  1| 
 
 
 * * *
