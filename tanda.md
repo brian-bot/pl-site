@@ -6,22 +6,22 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Salvador Perez    |C         |      7|  3|   4|  2|  0| 
-|Matt Olson        |1B        |     25|  7|   2|  2|  0| 
+|Matt Olson        |1B        |     27|  7|   2|  2|  0| 
 |Javier Baez       |2B        |      7|  1|   4|  1|  0| 
 |Adalberto Mondesi |3B        |      6|  3|   1|  0|  3| 
-|Bo Bichette       |SS        |      8|  5|   1|  1|  0| 
-|Francisco Lindor  |MI        |     17|  8|   7|  3|  2| 
-|Kyle Schwarber    |CI        |      7|  4|   3|  1|  0| 
-|Enrique Hernandez |OF        |     11|  7|   4|  1|  0| 
+|Bo Bichette       |SS        |     10|  5|   1|  1|  0| 
+|Francisco Lindor  |MI        |     19|  9|   7|  3|  2| 
+|Kyle Schwarber    |CI        |      9|  5|   4|  2|  0| 
+|Enrique Hernandez |OF        |     12|  8|   4|  1|  0| 
 |Franmil Reyes     |OF        |      7|  1|   2|  0|  0| 
-|Jorge Soler       |OF        |     10|  2|   2|  1|  0| 
+|Jorge Soler       |OF        |     12|  3|   2|  1|  0| 
 |Mitch Haniger     |OF        |      7|  3|   7|  3|  0| 
-|Bobby Dalbec      |DH        |      7|  3|   1|  1|  0| 
-|Jazz Chisholm Jr. |DH        |      8|  4|   7|  2|  0| 
-|Jo Adell          |DH        |      5|  2|   3|  2|  0| 
+|Bobby Dalbec      |DH        |      8|  4|   1|  1|  0| 
+|Jazz Chisholm Jr. |DH        |     10|  5|  10|  2|  0| 
+|Jo Adell          |DH        |      6|  3|   3|  2|  0| 
 |Luke Voit         |DH        |     15|  5|   4|  0|  1| 
-|Eugenio Suarez    |BAT BENCH |      9|  5|   4|  2|  0| 
-|Sean Murphy       |BAT BENCH |     12|  6|   7|  2|  0| 
+|Eugenio Suarez    |BAT BENCH |     10|  5|   5|  2|  0| 
+|Sean Murphy       |BAT BENCH |     13|  7|   8|  2|  0| 
 
 
 * * *

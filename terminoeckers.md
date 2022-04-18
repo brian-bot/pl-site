@@ -5,24 +5,24 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Daulton Varsho   |C         |     10|  2|   1|  1|  1| 
-|Freddie Freeman  |1B        |     12|  5|   1|  0|  0| 
-|Trea Turner      |2B        |     13|  5|   7|  1|  2| 
+|Daulton Varsho   |C         |     12|  2|   1|  1|  1| 
+|Freddie Freeman  |1B        |     16|  6|   4|  0|  0| 
+|Trea Turner      |2B        |     14|  6|   7|  1|  2| 
 |Josh Donaldson   |3B        |     11|  4|   3|  1|  0| 
 |Jeremy Pena      |SS        |     12|  5|   2|  1|  0| 
-|Ty France        |MI        |     16|  2|   6|  1|  0| 
+|Ty France        |MI        |     18|  4|   9|  2|  0| 
 |Joey Votto       |CI        |     10|  3|   2|  0|  0| 
 |Byron Buxton     |OF        |      8|  5|   4|  3|  1| 
-|Christian Yelich |OF        |     12|  3|   2|  0|  0| 
-|Nick Castellanos |OF        |     15|  5|   6|  2|  0| 
-|Randy Arozarena  |OF        |      6|  1|   1|  0|  0| 
-|Andrew McCutchen |DH        |     11|  2|   4|  0|  1| 
+|Christian Yelich |OF        |     14|  5|   2|  0|  0| 
+|Nick Castellanos |OF        |     17|  5|   6|  2|  0| 
+|Randy Arozarena  |OF        |      9|  2|   2|  0|  0| 
+|Andrew McCutchen |DH        |     13|  3|   5|  0|  2| 
 |Hunter Renfroe   |DH        |     10|  1|   2|  0|  0| 
-|Seiya Suzuki     |DH        |     16|  6|  10|  3|  0| 
-|Tommy Pham       |DH        |      5|  2|   1|  0|  1| 
+|Seiya Suzuki     |DH        |     19|  7|  11|  4|  0| 
+|Tommy Pham       |DH        |      6|  2|   1|  0|  1| 
 |Avisail Garcia   |BAT BENCH |      6|  2|   1|  1|  0| 
-|Cavan Biggio     |BAT BENCH |      4|  1|   0|  0|  0| 
-|Josh Lowe        |BAT BENCH |      8|  3|   1|  0|  0| 
+|Cavan Biggio     |BAT BENCH |      5|  1|   0|  0|  0| 
+|Josh Lowe        |BAT BENCH |      9|  4|   1|  0|  0| 
 
 * * *
 
@@ -36,7 +36,7 @@
 |Sandy Alcantara  |SP          |  2| 11.333|  4|  3.176|     16| 1.412|  9|  1|  0| 
 |Shane McClanahan |SP          |  2|  9.000|  3|  3.000|     11| 1.222| 15|  0|  0| 
 |Trevor Rogers    |SP          |  2|  6.667|  9| 12.150|     15| 2.250|  6|  0|  0| 
-|Yu Darvish       |SP          |  2|  7.667|  9| 10.565|     14| 1.826|  5|  0|  0| 
+|Yu Darvish       |SP          |  3| 14.333| 10|  6.279|     18| 1.256| 13|  1|  0| 
 |Andrew Kittredge |RP          |  4|  4.000|  1|  2.250|      4| 1.000|  6|  1|  1| 
 |Blake Treinen    |RP          |  3|  3.000|  1|  3.000|      1| 0.333|  5|  1|  0| 
 |Gregory Soto     |OP          |  4|  4.000|  1|  2.250|      5| 1.250|  2|  1|  2| 
@@ -44,7 +44,7 @@
 |Jesus Luzardo    |OP          |  1|  5.000|  1|  1.800|      3| 0.600| 12|  0|  0| 
 |Patrick Sandoval |OP          |  1|  4.000|  0|  0.000|      6| 1.500|  6|  0|  0| 
 |Triston McKenzie |OP          |  2|  7.000|  2|  2.571|      7| 1.000|  7|  0|  0| 
-|Aaron Ashby      |PITCH BENCH |  2|  5.000|  1|  1.800|      8| 1.600|  5|  0|  0| 
+|Aaron Ashby      |PITCH BENCH |  3|  9.000|  1|  1.000|     14| 1.556|  9|  0|  0| 
 |Josiah Gray      |PITCH BENCH |  2|  9.000|  4|  4.000|     14| 1.556| 10|  1|  0| 
 
 
