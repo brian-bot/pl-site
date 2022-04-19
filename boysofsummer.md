@@ -7,22 +7,22 @@
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Willson Contreras   |C         |     12|  7|   3|  2|  0| 
 |Paul Goldschmidt    |1B        |     10|  6|   1|  0|  1| 
-|Jose Altuve         |2B        |      9|  2|   3|  1|  2| 
+|Jose Altuve         |2B        |     11|  2|   3|  1|  2| 
 |Jose Ramirez        |3B        |     20|  6|  15|  3|  0| 
 |Tim Anderson        |SS        |     12|  4|   4|  1|  2| 
 |Trevor Story        |MI        |      7|  1|   3|  0|  0| 
-|Austin Riley        |CI        |     19|  7|   5|  2|  0| 
-|Alex Verdugo        |OF        |     13|  3|   8|  3|  0| 
+|Austin Riley        |CI        |     21|  8|   5|  2|  0| 
+|Alex Verdugo        |OF        |     16|  4|   8|  3|  0| 
 |Jesse Winker        |OF        |     15|  2|   2|  0|  0| 
 |Lourdes Gurriel Jr. |OF        |     14|  7|   5|  0|  0| 
-|Mookie Betts        |OF        |     11|  5|   3|  0|  1| 
+|Mookie Betts        |OF        |     13|  6|   3|  0|  1| 
 |Andrew Benintendi   |DH        |     14|  2|   4|  1|  0| 
-|Austin Hays         |DH        |     13|  3|   0|  0|  0| 
-|Jean Segura         |DH        |      8|  3|   2|  2|  0| 
+|Austin Hays         |DH        |     15|  3|   1|  0|  0| 
+|Jean Segura         |DH        |      9|  3|   2|  2|  0| 
 |Marcell Ozuna       |DH        |     15|  6|   8|  4|  0| 
 |Alex Kirilloff      |BAT BENCH |      1|  1|   0|  0|  0| 
-|Frank Schwindel     |BAT BENCH |     11|  3|   4|  1|  0| 
-|Travis d'Arnaud     |BAT BENCH |      8|  6|   4|  1|  0| 
+|Frank Schwindel     |BAT BENCH |     12|  4|   5|  2|  0| 
+|Travis d'Arnaud     |BAT BENCH |     10|  6|   5|  1|  0| 
 
 
 * * *
@@ -33,7 +33,7 @@
 |players          |position |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:--------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Blake Snell      |SP       |  0|  0.000|  0|    **|      0|    **|  0|  0|  0| 
-|Frankie Montas   |SP       |  2| 11.333|  6| 4.765|     12| 1.059| 12|  1|  0| 
+|Frankie Montas   |SP       |  3| 17.333|  7| 3.635|     16| 0.923| 17|  2|  0| 
 |German Marquez   |SP       |  2| 11.333|  5| 3.971|     14| 1.235|  8|  0|  0| 
 |Pablo Lopez      |SP       |  2| 10.333|  1| 0.871|     10| 0.968|  8|  1|  0| 
 |Tarik Skubal     |SP       |  2|  9.667|  4| 3.724|     12| 1.241| 10|  0|  0| 

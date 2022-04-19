@@ -12,9 +12,9 @@
 |Nolan Arenado         |3B       |     18|  9|  12|  4|  0| 
 |Brandon Crawford      |SS       |      9|  3|   1|  1|  0| 
 |Jake Cronenworth      |MI       |     16|  3|   5|  0|  0| 
-|Luis Arraez           |CI       |     10|  2|   4|  1|  0| 
+|Luis Arraez           |CI       |     11|  3|   4|  1|  0| 
 |Austin Meadows        |OF       |     15|  5|   2|  0|  0| 
-|Cody Bellinger        |OF       |     13|  4|   1|  1|  3| 
+|Cody Bellinger        |OF       |     15|  5|   3|  2|  3| 
 |George Springer       |OF       |     14|  7|   5|  2|  1| 
 |Jarred Kelenic        |OF       |      8|  3|   3|  1|  2| 
 |Andrew Vaughn         |DH       |     10|  3|   6|  2|  0| 
@@ -30,7 +30,7 @@
  
 |players         |position |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:---------------|:--------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Aaron Nola      |SP       |  2|  9.333|  7|  6.750|     10| 1.071| 12|  1|  0| 
+|Aaron Nola      |SP       |  3| 14.667|  9|  5.523|     17| 1.159| 16|  1|  0| 
 |Adam Wainwright |SP       |  2| 10.333|  4|  3.484|     15| 1.452| 13|  1|  0| 
 |Jose Berrios    |SP       |  2|  5.333|  7| 11.812|     14| 2.625|  5|  0|  0| 
 |Kevin Gausman   |SP       |  2| 10.667|  5|  4.219|     14| 1.312| 14|  0|  0| 

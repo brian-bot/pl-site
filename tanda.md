@@ -6,7 +6,7 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Salvador Perez    |C         |      7|  3|   4|  2|  0| 
-|Matt Olson        |1B        |     27|  7|   2|  2|  0| 
+|Matt Olson        |1B        |     30|  8|   2|  2|  0| 
 |Javier Baez       |2B        |      7|  1|   4|  1|  0| 
 |Adalberto Mondesi |3B        |      6|  3|   1|  0|  3| 
 |Bo Bichette       |SS        |     10|  5|   1|  1|  0| 
@@ -18,10 +18,10 @@
 |Mitch Haniger     |OF        |      7|  3|   7|  3|  0| 
 |Bobby Dalbec      |DH        |      8|  4|   1|  1|  0| 
 |Jazz Chisholm Jr. |DH        |     10|  5|  10|  2|  0| 
-|Jo Adell          |DH        |      6|  3|   3|  2|  0| 
-|Luke Voit         |DH        |     15|  5|   4|  0|  1| 
+|Jo Adell          |DH        |      7|  3|   3|  2|  0| 
+|Luke Voit         |DH        |     16|  5|   5|  0|  1| 
 |Eugenio Suarez    |BAT BENCH |     10|  5|   5|  2|  0| 
-|Sean Murphy       |BAT BENCH |     13|  7|   8|  2|  0| 
+|Sean Murphy       |BAT BENCH |     14|  7|   8|  2|  0| 
 
 
 * * *
@@ -35,7 +35,7 @@
 |Eduardo Rodriguez |SP       |  2|  7.667|  5| 5.870|     14| 1.826|  7|  0|  0| 
 |Ian Anderson      |SP       |  2|  8.333|  6| 6.480|     11| 1.320|  8|  1|  0| 
 |Max Scherzer      |SP       |  2| 11.000|  4| 3.273|     12| 1.091| 13|  2|  0| 
-|Sean Manaea       |SP       |  2| 13.000|  2| 1.385|      7| 0.538| 13|  1|  0| 
+|Sean Manaea       |SP       |  3| 19.000|  3| 1.421|     15| 0.789| 19|  2|  0| 
 |Zach Eflin        |SP       |  2|  8.000|  4| 4.500|     11| 1.375|  7|  0|  0| 
 |Kenley Jansen     |RP       |  4|  4.000|  3| 6.750|      4| 1.000|  5|  0|  2| 
 |Robert Suarez     |RP       |  4|  4.000|  4| 9.000|      5| 1.250|  6|  0|  0| 

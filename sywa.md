@@ -4,21 +4,21 @@
 
  |players        |position  | hitsbb|  r| rbi| hr| sb| 
 |:--------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto  |C         |     13|  6|   2|  1|  1| 
+|J.T. Realmuto  |C         |     14|  6|   2|  1|  1| 
 |Pete Alonso    |1B        |     13|  7|  14|  3|  0| 
 |Jonathan India |2B        |      8|  3|   2|  0|  0| 
 |Matt Chapman   |3B        |     12|  2|   7|  2|  0| 
 |Dansby Swanson |SS        |     10|  3|   2|  0|  0| 
-|Kolten Wong    |MI        |      9|  4|   2|  0|  1| 
+|Kolten Wong    |MI        |     10|  5|   3|  0|  1| 
 |Carlos Santana |CI        |      7|  2|   1|  0|  0| 
-|Adam Duvall    |OF        |     15|  5|   6|  0|  0| 
-|J.D. Martinez  |OF        |     13|  6|   6|  1|  0| 
-|Kyle Tucker    |OF        |      8|  2|   4|  2|  1| 
-|Yordan Alvarez |OF        |      5|  2|   2|  1|  0| 
-|Eddie Rosario  |DH        |      5|  2|   0|  0|  0| 
-|Max Kepler     |DH        |     10|  3|   3|  1|  1| 
+|Adam Duvall    |OF        |     15|  5|   7|  0|  0| 
+|J.D. Martinez  |OF        |     14|  6|   6|  1|  0| 
+|Kyle Tucker    |OF        |     10|  3|   4|  2|  1| 
+|Yordan Alvarez |OF        |      8|  5|   6|  3|  0| 
+|Eddie Rosario  |DH        |      6|  2|   0|  0|  0| 
+|Max Kepler     |DH        |     11|  4|   3|  1|  1| 
 |Nathaniel Lowe |DH        |     16|  3|   6|  0|  0| 
-|Trey Mancini   |DH        |     11|  1|   1|  0|  0| 
+|Trey Mancini   |DH        |     13|  1|   1|  0|  0| 
 |Jesus Sanchez  |BAT BENCH |     13|  6|   8|  2|  0| 
 
 * * *
@@ -38,7 +38,7 @@
 |Liam Hendriks    |RP       |  5|  5.000|  3|  5.400|     12| 2.400|  9|  0|  4| 
 |Chad Green       |OP       |  5|  5.333|  0|  0.000|      6| 1.125|  3|  0|  0| 
 |Hyun Jin Ryu     |OP       |  2|  7.333| 11| 13.500|     13| 1.773|  5|  0|  0| 
-|Luis Garcia      |OP       |  1|  4.000|  0|  0.000|      4| 1.000|  1|  0|  0| 
+|Luis Garcia      |OP       |  2|  9.667|  3|  2.793|      9| 0.931|  8|  1|  0| 
 |Will Smith       |OP       |  4|  4.333|  2|  4.154|      4| 0.923|  3|  0|  1| 
 
 

@@ -5,12 +5,12 @@
  
 |players          |position | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:--------|------:|--:|---:|--:|--:| 
-|Tyler Stephenson |C        |     12|  4|   6|  2|  0| 
+|Tyler Stephenson |C        |     14|  4|   6|  2|  0| 
 |Josh Bell        |1B       |     23|  9|  10|  2|  0| 
-|Brandon Lowe     |2B       |     13|  8|   6|  3|  0| 
-|Rafael Devers    |3B       |     15|  8|   7|  2|  0| 
+|Brandon Lowe     |2B       |     14|  8|   6|  3|  0| 
+|Rafael Devers    |3B       |     16|  8|   7|  2|  0| 
 |Bobby Witt Jr.   |SS       |      6|  4|   3|  0|  1| 
-|Willy Adames     |MI       |     13|  6|   3|  1|  0| 
+|Willy Adames     |MI       |     15|  7|   3|  1|  0| 
 |Miguel Sano      |CI       |     10|  1|   2|  1|  1| 
 |Aaron Judge      |OF       |     14|  5|   1|  1|  1| 
 |Joey Gallo       |OF       |     10|  0|   0|  0|  0| 
@@ -35,7 +35,7 @@
 |Lucas Giolito     |SP          |  1|  4.000|  0| 0.000|      3| 0.750|  6|  0|  0| 
 |Michael Kopech    |SP          |  2|  9.000|  1| 1.000|      7| 0.778|  8|  0|  0| 
 |Paul Sewald       |RP          |  3|  2.667|  0| 0.000|      0| 0.000|  3|  0|  0| 
-|Taylor Rogers     |RP          |  4|  4.000|  0| 0.000|      1| 0.250|  5|  0|  4| 
+|Taylor Rogers     |RP          |  5|  5.000|  0| 0.000|      2| 0.400|  5|  0|  5| 
 |Alex Wood         |OP          |  2|  9.333|  2| 1.929|     12| 1.286| 11|  1|  0| 
 |Bailey Ober       |OP          |  2| 11.000|  4| 3.273|     11| 1.000|  7|  1|  0| 
 |David Bednar      |OP          |  4|  4.667|  0| 0.000|      4| 0.857|  4|  0|  1| 

@@ -7,17 +7,17 @@
 |:-----------------|:--------|------:|--:|---:|--:|--:| 
 |Mitch Garver      |C        |     13|  4|   3|  1|  0| 
 |Jared Walsh       |1B       |     13|  5|   6|  2|  0| 
-|Jorge Polanco     |2B       |     12|  4|   3|  1|  0| 
+|Jorge Polanco     |2B       |     14|  5|   7|  2|  0| 
 |Spencer Torkelson |3B       |     12|  4|   5|  2|  0| 
 |Wander Franco     |SS       |     17|  8|   5|  0|  1| 
-|Carlos Correa     |MI       |      7|  4|   1|  1|  0| 
-|C.J. Cron         |CI       |     13|  7|  10|  5|  0| 
-|Bryce Harper      |OF       |     15|  9|   9|  2|  1| 
+|Carlos Correa     |MI       |     10|  5|   1|  1|  0| 
+|C.J. Cron         |CI       |     15|  8|  10|  5|  0| 
+|Bryce Harper      |OF       |     16|  9|   9|  2|  1| 
 |Giancarlo Stanton |OF       |     11|  3|   8|  2|  0| 
 |Mike Trout        |OF       |     15|  8|   3|  2|  0| 
 |Starling Marte    |OF       |     13|  8|  10|  2|  2| 
 |Alejandro Kirk    |DH       |     10|  0|   1|  0|  0| 
-|Daniel Vogelbach  |DH       |      9|  6|   2|  1|  0| 
+|Daniel Vogelbach  |DH       |     12|  6|   2|  1|  0| 
 |Gavin Lux         |DH       |     15|  9|   5|  1|  2| 
 |Ryan Mountcastle  |DH       |     12|  2|   3|  1|  0| 
 
@@ -39,7 +39,7 @@
 |Cole Sulser       |OP       |  5|  4.667|  1| 1.929|      6| 1.286|  3|  0|  0| 
 |Joe Barlow        |OP       |  3|  3.000|  2| 6.000|      5| 1.667|  5|  0|  0| 
 |Nick Martinez     |OP       |  2| 10.000|  5| 4.500|     17| 1.700|  9|  0|  0| 
-|Rich Hill         |OP       |  1|  4.333|  3| 6.231|      6| 1.385|  4|  0|  0| 
+|Rich Hill         |OP       |  2|  9.000|  7| 7.000|     14| 1.556|  6|  0|  0| 
 |Tony Gonsolin     |OP       |  2|  7.000|  1| 1.286|     12| 1.714|  5|  0|  0| 
 
 
