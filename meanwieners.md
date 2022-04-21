@@ -3,23 +3,24 @@
 ### Batters
 
  
-|players          |position | hitsbb|  r| rbi| hr| sb| 
-|:----------------|:--------|------:|--:|---:|--:|--:| 
-|Tyler Stephenson |C        |     14|  4|   6|  2|  0| 
-|Josh Bell        |1B       |     25| 10|  11|  2|  0| 
-|Brandon Lowe     |2B       |     16|  8|   7|  3|  0| 
-|Rafael Devers    |3B       |     16|  8|   7|  2|  0| 
-|Bobby Witt Jr.   |SS       |      6|  4|   3|  0|  1| 
-|Willy Adames     |MI       |     15|  7|   3|  1|  0| 
-|Miguel Sano      |CI       |     10|  1|   2|  1|  1| 
-|Aaron Judge      |OF       |     15|  5|   1|  1|  1| 
-|Joey Gallo       |OF       |     10|  0|   0|  0|  0| 
-|Trent Grisham    |OF       |     13|  2|   1|  1|  0| 
-|Tyler O'Neill    |OF       |     14|  7|   7|  1|  1| 
-|AJ Pollock       |DH       |      4|  1|   1|  0|  0| 
-|Akil Baddoo      |DH       |      5|  2|   1|  1|  0| 
-|Christian Walker |DH       |     10|  3|   2|  2|  0| 
-|Steven Kwan      |DH       |     20|  7|   5|  0|  0| 
+|players          |position  | hitsbb|  r| rbi| hr| sb| 
+|:----------------|:---------|------:|--:|---:|--:|--:| 
+|Tyler Stephenson |C         |     14|  4|   6|  2|  0| 
+|Josh Bell        |1B        |     26| 10|  11|  2|  0| 
+|Brandon Lowe     |2B        |     17| 10|   7|  3|  0| 
+|Rafael Devers    |3B        |     17|  9|   7|  2|  0| 
+|Bobby Witt Jr.   |SS        |      6|  4|   3|  0|  1| 
+|Willy Adames     |MI        |     15|  7|   3|  1|  0| 
+|Miguel Sano      |CI        |     11|  1|   2|  1|  1| 
+|Aaron Judge      |OF        |     16|  5|   2|  1|  1| 
+|Joey Gallo       |OF        |     10|  0|   0|  0|  0| 
+|Trent Grisham    |OF        |     14|  2|   2|  1|  0| 
+|Tyler O'Neill    |OF        |     15|  8|   7|  1|  1| 
+|AJ Pollock       |DH        |      4|  1|   1|  0|  0| 
+|Akil Baddoo      |DH        |      5|  2|   1|  1|  0| 
+|Christian Walker |DH        |     12|  6|   3|  2|  0| 
+|Steven Kwan      |DH        |     22|  8|   6|  0|  0| 
+|Edwin Rios       |BAT BENCH |      5|  3|   2|  1|  0| 
 
 * * *
 
@@ -31,7 +32,7 @@
 |Alek Manoah       |SP          |  2| 12.000|  2| 1.500|     11| 0.917| 13|  2|  0| 
 |Joe Ryan          |SP          |  2| 10.000|  3| 2.700|     11| 1.100| 11|  1|  0| 
 |Justin Verlander  |SP          |  2| 13.000|  1| 0.692|      9| 0.692| 15|  1|  0| 
-|Logan Gilbert     |SP          |  2| 10.000|  1| 0.900|      8| 0.800| 11|  1|  0| 
+|Logan Gilbert     |SP          |  3| 16.667|  1| 0.540|     14| 0.840| 15|  2|  0| 
 |Lucas Giolito     |SP          |  1|  4.000|  0| 0.000|      3| 0.750|  6|  0|  0| 
 |Michael Kopech    |SP          |  2|  9.000|  1| 1.000|      7| 0.778|  8|  0|  0| 
 |Paul Sewald       |RP          |  4|  3.667|  0| 0.000|      0| 0.000|  3|  0|  0| 
@@ -40,7 +41,8 @@
 |Bailey Ober       |OP          |  2| 11.000|  4| 3.273|     11| 1.000|  7|  1|  0| 
 |David Bednar      |OP          |  4|  4.667|  0| 0.000|      4| 0.857|  4|  0|  1| 
 |Drew Steckenrider |OP          |  5|  5.000|  0| 0.000|      6| 1.200|  2|  0|  1| 
-|Merrill Kelly     |OP          |  2|  9.333|  0| 0.000|     11| 1.179| 13|  0|  0| 
+|Merrill Kelly     |OP          |  3| 15.333|  1| 0.587|     18| 1.174| 18|  1|  0| 
+|Matt Brash        |PITCH BENCH |  2| 10.667|  4| 3.375|     13| 1.219| 11|  1|  0| 
 |Reid Detmers      |PITCH BENCH |  2|  7.333|  7| 8.591|     12| 1.636|  8|  0|  0| 
 |Tylor Megill      |PITCH BENCH |  3| 16.333|  4| 2.204|     15| 0.918| 15|  2|  0| 
 
