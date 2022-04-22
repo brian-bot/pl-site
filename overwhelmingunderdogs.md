@@ -5,25 +5,25 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Keibert Ruiz       |C         |     10|  2|   4|  0|  0| 
+|Keibert Ruiz       |C         |     12|  2|   4|  0|  0| 
 |Max Muncy          |1B        |     15|  4|   4|  1|  0| 
 |Ozzie Albies       |2B        |     19|  8|   9|  5|  1| 
 |Alex Bregman       |3B        |     16|  6|   8|  2|  0| 
-|Corey Seager       |SS        |     16|  6|   7|  1|  0| 
-|DJ LeMahieu        |MI        |     17|  3|   4|  1|  0| 
+|Corey Seager       |SS        |     16|  6|   8|  1|  0| 
+|DJ LeMahieu        |MI        |     18|  3|   4|  1|  0| 
 |Anthony Rendon     |CI        |     14|  4|   4|  1|  2| 
-|Adolis Garcia      |OF        |     13|  6|   6|  2|  2| 
-|Juan Soto          |OF        |     28| 10|   3|  3|  0| 
+|Adolis Garcia      |OF        |     15|  8|   7|  2|  2| 
+|Juan Soto          |OF        |     30| 11|   3|  3|  0| 
 |Kris Bryant        |OF        |     19| 11|   4|  0|  0| 
-|Robbie Grossman    |OF        |      9|  2|   2|  0|  0| 
+|Robbie Grossman    |OF        |     13|  3|   3|  0|  0| 
 |Brandon Belt       |DH        |     19|  8|   8|  4|  0| 
 |Julio Rodriguez    |DH        |     10|  4|   2|  0|  4| 
 |Justin Turner      |DH        |     15|  6|   6|  0|  0| 
 |Tommy Edman        |DH        |     16|  4|   7|  3|  1| 
 |Charlie Blackmon   |BAT BENCH |     14|  6|   4|  1|  0| 
-|Isiah Kiner-Falefa |BAT BENCH |     13|  6|   1|  0|  2| 
-|Jonathan Schoop    |BAT BENCH |      8|  2|   3|  1|  0| 
-|Mark Canha         |BAT BENCH |     14|  2|   4|  0|  0| 
+|Isiah Kiner-Falefa |BAT BENCH |     14|  6|   1|  0|  2| 
+|Jonathan Schoop    |BAT BENCH |      9|  3|   3|  1|  0| 
+|Mark Canha         |BAT BENCH |     16|  2|   6|  0|  0| 
 
 
 * * *

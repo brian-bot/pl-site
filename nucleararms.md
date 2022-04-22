@@ -6,19 +6,19 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith       |C         |     11|  7|   7|  1|  0| 
-|Jose Abreu       |1B        |     12|  8|   4|  1|  0| 
+|Jose Abreu       |1B        |     13|  8|   4|  1|  0| 
 |Whit Merrifield  |2B        |      8|  1|   2|  0|  3| 
 |Manny Machado    |3B        |     26| 12|  10|  3|  3| 
-|Xander Bogaerts  |SS        |     16|  6|   5|  1|  0| 
-|Chris Taylor     |MI        |     15|  4|   6|  0|  2| 
-|Ke'Bryan Hayes   |CI        |     16|  5|   4|  0|  2| 
-|Bryan Reynolds   |OF        |     13|  3|   3|  2|  0| 
-|Eloy Jimenez     |OF        |      8|  2|   7|  1|  0| 
-|Luis Robert      |OF        |      8|  7|   3|  2|  5| 
+|Xander Bogaerts  |SS        |     19|  6|   6|  1|  0| 
+|Chris Taylor     |MI        |     16|  4|   7|  0|  2| 
+|Ke'Bryan Hayes   |CI        |     20|  5|   4|  0|  2| 
+|Bryan Reynolds   |OF        |     15|  3|   3|  2|  0| 
+|Eloy Jimenez     |OF        |      9|  2|   7|  1|  0| 
+|Luis Robert      |OF        |     10|  7|   3|  2|  5| 
 |Michael Brantley |OF        |     16|  4|   5|  1|  0| 
-|Anthony Rizzo    |DH        |     21|  7|  10|  4|  2| 
+|Anthony Rizzo    |DH        |     22|  7|  10|  4|  2| 
 |Harrison Bader   |DH        |     12|  4|   2|  0|  1| 
-|Ian Happ         |DH        |     16|  5|   6|  0|  0| 
+|Ian Happ         |DH        |     18|  5|   6|  0|  0| 
 |Shohei Ohtani    |DH        |     17| 10|   9|  3|  2| 
 |Aaron Hicks      |BAT BENCH |     17|  4|   3|  1|  1| 
 |Mike Moustakas   |BAT BENCH |      4|  2|   1|  0|  0| 
@@ -39,7 +39,7 @@
 |Tyler Mahle      |SP          |  3| 12.667| 11| 7.816|     21| 1.658| 16|  1|  0| 
 |Aroldis Chapman  |RP          |  7|  5.333|  0| 0.000|      5| 0.938|  7|  0|  3| 
 |Ryan Pressly     |RP          |  4|  3.333|  1| 2.700|      5| 1.500|  2|  0|  3| 
-|Carlos Carrasco  |OP          |  2| 10.667|  1| 0.844|      7| 0.656| 13|  0|  0| 
+|Carlos Carrasco  |OP          |  3| 18.333|  3| 1.473|     11| 0.600| 20|  1|  0| 
 |Dylan Bundy      |OP          |  2| 10.333|  1| 0.871|      7| 0.677|  8|  2|  0| 
 |Lou Trivino      |OP          |  4|  3.667|  2| 4.909|      7| 1.909|  5|  0|  2| 
 |Nestor Cortes    |OP          |  2|  9.333|  0| 0.000|      7| 0.750| 17|  0|  0| 
