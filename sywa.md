@@ -41,6 +41,7 @@
 |Hyun Jin Ryu     |OP          |  2|  7.333| 11| 13.500|     13| 1.773|  5|  0|  0| 
 |Luis Garcia      |OP          |  2|  9.667|  3|  2.793|      9| 0.931|  8|  1|  0| 
 |Will Smith       |OP          |  5|  5.333|  2|  3.375|      5| 0.938|  4|  0|  1| 
+|Zac Gallen       |OP          |  1|  4.000|  0|  0.000|      3| 0.750|  2|  0|  0| 
 |Cristian Javier  |PITCH BENCH |  3|  8.333|  0|  0.000|      6| 0.720| 12|  0|  0| 
 |Kris Bubic       |PITCH BENCH |  2|  5.000|  6| 10.800|     13| 2.600|  4|  0|  0| 
 |Michael Fulmer   |PITCH BENCH |  6|  5.667|  0|  0.000|      2| 0.353|  7|  1|  1| 
