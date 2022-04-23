@@ -6,21 +6,21 @@
 |players               |position | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:--------|------:|--:|---:|--:|--:| 
 |Yasmani Grandal       |C        |      6|  1|   4|  1|  0| 
-|Vladimir Guerrero     |1B       |     18|  8|  10|  5|  0| 
+|Vladimir Guerrero     |1B       |     20|  9|  10|  5|  0| 
 |Vladimir Guerrero Jr. |1B       |      2|  0|   1|  0|  0| 
-|Ketel Marte           |2B       |     15|  3|   4|  0|  1| 
-|Nolan Arenado         |3B       |     22| 10|  14|  5|  0| 
-|Brandon Crawford      |SS       |     13|  4|   4|  1|  0| 
+|Ketel Marte           |2B       |     16|  3|   4|  0|  1| 
+|Nolan Arenado         |3B       |     25| 10|  14|  5|  0| 
+|Brandon Crawford      |SS       |     16|  5|   7|  1|  0| 
 |Jake Cronenworth      |MI       |     20|  5|   5|  0|  0| 
-|Luis Arraez           |CI       |     15|  4|   4|  1|  0| 
+|Luis Arraez           |CI       |     17|  5|   4|  1|  0| 
 |Austin Meadows        |OF       |     18|  5|   4|  0|  0| 
 |Cody Bellinger        |OF       |     17|  5|   4|  2|  3| 
 |George Springer       |OF       |     17|  7|   6|  2|  1| 
-|Jarred Kelenic        |OF       |     10|  4|   4|  2|  2| 
-|Andrew Vaughn         |DH       |     12|  3|   6|  2|  0| 
-|Dylan Carlson         |DH       |     10|  6|   2|  0|  1| 
-|Nelson Cruz           |DH       |     17|  7|   9|  2|  0| 
-|Yuli Gurriel          |DH       |      6|  1|   0|  0|  0| 
+|Jarred Kelenic        |OF       |     11|  4|   6|  2|  2| 
+|Andrew Vaughn         |DH       |     14|  4|   7|  3|  0| 
+|Dylan Carlson         |DH       |     13|  7|   2|  0|  1| 
+|Nelson Cruz           |DH       |     18|  7|   9|  2|  0| 
+|Yuli Gurriel          |DH       |      8|  1|   2|  0|  0| 
 
 
 * * *
@@ -38,7 +38,7 @@
 |Robbie Ray      |SP       |  3| 19.333|  9| 4.190|     24| 1.241| 13|  2|  0| 
 |Cal Quantrill   |RP       |  2|  9.667|  4| 3.724|     10| 1.034|  4|  1|  0| 
 |Emmanuel Clase  |RP       |  5|  4.000|  2| 4.500|      5| 1.250|  3|  0|  2| 
-|Chris Flexen    |OP       |  2| 10.333|  6| 5.226|     14| 1.355|  6|  0|  0| 
+|Chris Flexen    |OP       |  3| 17.333|  7| 3.635|     20| 1.154| 11|  1|  0| 
 |Dane Dunning    |OP       |  3| 12.667|  8| 5.684|     24| 1.895| 14|  0|  0| 
 |Drew Rasmussen  |OP       |  3| 12.000|  7| 5.250|     15| 1.250|  9|  0|  0| 
 |Marco Gonzales  |OP       |  3| 13.667|  5| 3.293|     19| 1.390| 13|  1|  0| 
