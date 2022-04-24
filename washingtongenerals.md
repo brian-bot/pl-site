@@ -6,21 +6,21 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Gary Sanchez      |C         |     11|  2|   8|  1|  1| 
-|Rhys Hoskins      |1B        |     20|  8|   4|  1|  0| 
+|Rhys Hoskins      |1B        |     22|  8|   4|  1|  0| 
 |Brendan Rodgers   |2B        |      8|  3|   1|  0|  0| 
-|Ryan McMahon      |3B        |     15|  6|   7|  1|  0| 
+|Ryan McMahon      |3B        |     17|  6|   7|  1|  0| 
 |Marcus Semien     |SS        |     14|  7|   5|  0|  2| 
-|Gleyber Torres    |MI        |     10|  1|   2|  1|  0| 
-|Eduardo Escobar   |CI        |     26|  7|   5|  1|  0| 
-|Cedric Mullins    |OF        |     15|  3|   8|  2|  1| 
-|Myles Straw       |OF        |     24| 14|   2|  0|  4| 
-|Randal Grichuk    |OF        |     13|  4|   6|  0|  1| 
+|Gleyber Torres    |MI        |     11|  1|   3|  1|  0| 
+|Eduardo Escobar   |CI        |     27|  7|   5|  1|  0| 
+|Cedric Mullins    |OF        |     18|  5|   8|  2|  3| 
+|Myles Straw       |OF        |     25| 14|   2|  0|  4| 
+|Randal Grichuk    |OF        |     16|  4|   6|  0|  1| 
 |Teoscar Hernandez |OF        |     10|  3|   3|  1|  0| 
-|Garrett Cooper    |DH        |     16|  3|   2|  1|  0| 
-|Jesus Aguilar     |DH        |     14|  1|   3|  0|  0| 
-|Mike Yastrzemski  |DH        |     16|  6|   3|  1|  0| 
+|Garrett Cooper    |DH        |     17|  3|   4|  1|  0| 
+|Jesus Aguilar     |DH        |     16|  1|   4|  0|  0| 
+|Mike Yastrzemski  |DH        |     17|  6|   3|  1|  0| 
 |Mike Zunino       |DH        |      4|  1|   1|  0|  0| 
-|Connor Joe        |BAT BENCH |     23|  8|   4|  2|  1| 
+|Connor Joe        |BAT BENCH |     25|  9|   5|  3|  1| 
 |Tyrone Taylor     |BAT BENCH |      7|  0|   2|  0|  0| 
 
 
@@ -39,9 +39,9 @@
 |Walker Buehler     |SP          |  3| 15.667|  7| 4.021|     23| 1.468| 11|  1|  0| 
 |Jonathan Loaisiga  |RP          |  7|  6.333|  5| 7.105|     11| 1.737|  6|  0|  0| 
 |Mark Melancon      |RP          |  6|  6.000|  1| 1.500|     10| 1.667|  2|  0|  2| 
-|Hector Neris       |OP          |  7|  6.333|  1| 1.421|      4| 0.632|  6|  1|  0| 
-|Kyle Hendricks     |OP          |  3| 13.333|  9| 6.075|     26| 1.950| 17|  0|  0| 
-|Ryan Tepera        |OP          |  5|  7.000|  2| 2.571|      3| 0.429|  8|  0|  0| 
+|Hector Neris       |OP          |  8|  7.333|  1| 1.227|      5| 0.682|  6|  1|  0| 
+|Kyle Hendricks     |OP          |  4| 20.333|  9| 3.984|     28| 1.377| 19|  1|  0| 
+|Ryan Tepera        |OP          |  6|  7.667|  2| 2.348|      6| 0.783|  8|  0|  0| 
 |Zach Plesac        |OP          |  3| 17.667|  3| 1.528|     19| 1.075| 10|  1|  0| 
 |Zack Greinke       |OP          |  3| 16.000|  4| 2.250|     19| 1.188|  2|  0|  0| 
 |Anthony Bender     |PITCH BENCH |  5|  4.333|  4| 8.308|      7| 1.615|  3|  0|  2| 
