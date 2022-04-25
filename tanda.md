@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez    |C         |     15|  8|   7|  5|  0| 
-|Matt Olson        |1B        |     34| 10|   4|  2|  0| 
+|Salvador Perez    |C         |     17|  8|   8|  5|  0| 
+|Matt Olson        |1B        |     35| 10|   6|  2|  0| 
 |Javier Baez       |2B        |      7|  1|   4|  1|  0| 
-|Adalberto Mondesi |3B        |      8|  3|   2|  0|  3| 
-|Bo Bichette       |SS        |     16|  6|   4|  1|  1| 
-|Francisco Lindor  |MI        |     29| 12|  11|  4|  3| 
-|Kyle Schwarber    |CI        |     15|  9|   9|  4|  0| 
-|Enrique Hernandez |OF        |     17|  9|   5|  1|  0| 
+|Adalberto Mondesi |3B        |      9|  3|   2|  0|  5| 
+|Bo Bichette       |SS        |     17|  7|   4|  1|  1| 
+|Francisco Lindor  |MI        |     31| 12|  12|  4|  3| 
+|Kyle Schwarber    |CI        |     16|  9|   9|  4|  0| 
+|Enrique Hernandez |OF        |     19| 10|   6|  1|  0| 
 |Franmil Reyes     |OF        |     12|  4|   5|  2|  0| 
-|Jorge Soler       |OF        |     18|  4|   3|  1|  0| 
+|Jorge Soler       |OF        |     20|  5|   3|  1|  0| 
 |Mitch Haniger     |OF        |      7|  3|   7|  3|  0| 
 |Bobby Dalbec      |DH        |     12|  6|   2|  1|  0| 
-|Jazz Chisholm Jr. |DH        |     16|  9|  15|  4|  3| 
-|Jo Adell          |DH        |     12|  3|   4|  2|  1| 
+|Jazz Chisholm Jr. |DH        |     17|  9|  15|  4|  4| 
+|Jo Adell          |DH        |     13|  4|   8|  3|  1| 
 |Luke Voit         |DH        |     17|  5|   5|  0|  1| 
-|Eugenio Suarez    |BAT BENCH |     22|  9|  10|  3|  0| 
-|Sean Murphy       |BAT BENCH |     19|  9|  11|  3|  0| 
+|Eugenio Suarez    |BAT BENCH |     23| 10|  10|  3|  0| 
+|Sean Murphy       |BAT BENCH |     20| 10|  11|  3|  0| 
 
 
 * * *
@@ -35,7 +35,7 @@
 |Eduardo Rodriguez |SP          |  3| 13.667|  8|  5.268|     19| 1.390| 12|  0|  0| 
 |Ian Anderson      |SP          |  3| 13.333|  8|  5.400|     20| 1.500| 12|  1|  0| 
 |Max Scherzer      |SP          |  3| 18.000|  5|  2.500|     16| 0.889| 23|  3|  0| 
-|Sean Manaea       |SP          |  3| 19.000|  3|  1.421|     15| 0.789| 19|  2|  0| 
+|Sean Manaea       |SP          |  4| 23.333|  9|  3.471|     24| 1.029| 24|  2|  0| 
 |Zach Eflin        |SP          |  3| 13.667|  8|  5.268|     20| 1.463| 12|  0|  0| 
 |Kenley Jansen     |RP          |  6|  6.000|  3|  4.500|      5| 0.833|  8|  0|  4| 
 |Robert Suarez     |RP          |  6|  6.667|  4|  5.400|      6| 0.900|  9|  1|  0| 

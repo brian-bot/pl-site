@@ -8,20 +8,20 @@
 |Gary Sanchez      |C         |     11|  2|   8|  1|  1| 
 |Rhys Hoskins      |1B        |     22|  8|   4|  1|  0| 
 |Brendan Rodgers   |2B        |      8|  3|   1|  0|  0| 
-|Ryan McMahon      |3B        |     17|  6|   7|  1|  0| 
-|Marcus Semien     |SS        |     14|  7|   5|  0|  2| 
-|Gleyber Torres    |MI        |     11|  1|   3|  1|  0| 
+|Ryan McMahon      |3B        |     18|  6|   8|  1|  0| 
+|Marcus Semien     |SS        |     17|  7|   5|  0|  2| 
+|Gleyber Torres    |MI        |     14|  1|   3|  1|  0| 
 |Eduardo Escobar   |CI        |     27|  7|   5|  1|  0| 
-|Cedric Mullins    |OF        |     18|  5|   8|  2|  3| 
+|Cedric Mullins    |OF        |     22|  7|   8|  2|  3| 
 |Myles Straw       |OF        |     25| 14|   2|  0|  4| 
-|Randal Grichuk    |OF        |     16|  4|   6|  0|  1| 
+|Randal Grichuk    |OF        |     19|  6|   8|  1|  1| 
 |Teoscar Hernandez |OF        |     10|  3|   3|  1|  0| 
-|Garrett Cooper    |DH        |     17|  3|   4|  1|  0| 
-|Jesus Aguilar     |DH        |     16|  1|   4|  0|  0| 
+|Garrett Cooper    |DH        |     21|  4|   6|  1|  0| 
+|Jesus Aguilar     |DH        |     18|  2|   4|  0|  0| 
 |Mike Yastrzemski  |DH        |     17|  6|   3|  1|  0| 
-|Mike Zunino       |DH        |      4|  1|   1|  0|  0| 
-|Connor Joe        |BAT BENCH |     25|  9|   5|  3|  1| 
-|Tyrone Taylor     |BAT BENCH |      7|  0|   2|  0|  0| 
+|Mike Zunino       |DH        |      5|  1|   1|  0|  0| 
+|Connor Joe        |BAT BENCH |     27| 10|   5|  3|  1| 
+|Tyrone Taylor     |BAT BENCH |      8|  0|   2|  0|  0| 
 
 
 * * *
@@ -35,7 +35,7 @@
 |Chris Bassitt      |SP          |  3| 18.000|  6| 3.000|     17| 0.944| 20|  2|  0| 
 |Corbin Burnes      |SP          |  3| 19.000|  5| 2.368|     15| 0.789| 22|  1|  0| 
 |John Means         |SP          |  2|  8.000|  3| 3.375|     10| 1.250|  7|  0|  0| 
-|Logan Webb         |SP          |  3| 17.667|  5| 2.547|     19| 1.075| 11|  1|  0| 
+|Logan Webb         |SP          |  4| 24.333|  8| 2.959|     27| 1.110| 17|  2|  0| 
 |Walker Buehler     |SP          |  3| 15.667|  7| 4.021|     23| 1.468| 11|  1|  0| 
 |Jonathan Loaisiga  |RP          |  7|  6.333|  5| 7.105|     11| 1.737|  6|  0|  0| 
 |Mark Melancon      |RP          |  6|  6.000|  1| 1.500|     10| 1.667|  2|  0|  2| 
