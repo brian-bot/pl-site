@@ -4,20 +4,20 @@
 
  |players         |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto   |C         |     21|  9|   2|  1|  1| 
-|Pete Alonso     |1B        |     22|  9|  16|  3|  0| 
+|J.T. Realmuto   |C         |     23| 11|   3|  1|  1| 
+|Pete Alonso     |1B        |     24|  9|  16|  3|  0| 
 |Jonathan India  |2B        |      8|  3|   2|  0|  0| 
-|Matt Chapman    |3B        |     19|  3|   9|  2|  0| 
+|Matt Chapman    |3B        |     20|  4|  10|  3|  0| 
 |Dansby Swanson  |SS        |     16|  5|   4|  0|  1| 
 |Kolten Wong     |MI        |     11|  5|   5|  0|  1| 
 |Carlos Santana  |CI        |     12|  4|   3|  1|  0| 
 |Adam Duvall     |OF        |     16|  5|   7|  0|  0| 
-|J.D. Martinez   |OF        |     17|  6|   7|  1|  0| 
-|Kyle Tucker     |OF        |     13|  4|   4|  2|  1| 
-|Yordan Alvarez  |OF        |     10|  5|   6|  3|  0| 
+|J.D. Martinez   |OF        |     18|  6|   7|  1|  0| 
+|Kyle Tucker     |OF        |     16|  4|   5|  2|  2| 
+|Yordan Alvarez  |OF        |     11|  6|   7|  4|  0| 
 |Eddie Rosario   |DH        |      8|  4|   0|  0|  0| 
 |Max Kepler      |DH        |     22|  4|   3|  1|  1| 
-|Nathaniel Lowe  |DH        |     26|  5|   9|  1|  0| 
+|Nathaniel Lowe  |DH        |     28|  6|   9|  1|  0| 
 |Trey Mancini    |DH        |     19|  3|   6|  1|  0| 
 |Jesus Sanchez   |BAT BENCH |     22|  9|   9|  3|  0| 
 |Jonathan Villar |BAT BENCH |     19|  8|   8|  0|  1| 
@@ -31,7 +31,7 @@
 |:----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Aaron Civale     |SP          |  3| 10.333| 11|  9.581|     20| 1.935| 11|  0|  0| 
 |Brandon Woodruff |SP          |  3| 14.667|  7|  4.295|     16| 1.091| 13|  2|  0| 
-|Framber Valdez   |SP          |  3| 14.000|  7|  4.500|     22| 1.571| 12|  1|  0| 
+|Framber Valdez   |SP          |  4| 20.000|  7|  3.150|     28| 1.400| 17|  1|  0| 
 |Gerrit Cole      |SP          |  4| 18.000|  8|  4.000|     21| 1.167| 21|  1|  0| 
 |Jose Urquidy     |SP          |  3| 14.667|  9|  5.523|     20| 1.364|  7|  1|  0| 
 |Max Fried        |SP          |  3| 18.000|  7|  3.500|     18| 1.000| 17|  1|  0| 

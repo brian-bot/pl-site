@@ -5,19 +5,19 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith       |C         |     14|  7|   7|  1|  0| 
+|Will Smith       |C         |     16|  8|   8|  2|  0| 
 |Jose Abreu       |1B        |     18|  9|   6|  2|  0| 
 |Whit Merrifield  |2B        |     10|  1|   2|  0|  3| 
 |Manny Machado    |3B        |     30| 13|  10|  3|  3| 
-|Xander Bogaerts  |SS        |     23|  8|   6|  1|  0| 
-|Chris Taylor     |MI        |     20|  5|   8|  0|  2| 
+|Xander Bogaerts  |SS        |     24|  8|   6|  1|  0| 
+|Chris Taylor     |MI        |     22|  5|   8|  0|  2| 
 |Ke'Bryan Hayes   |CI        |     24|  6|   4|  0|  2| 
 |Bryan Reynolds   |OF        |     17|  4|   3|  2|  0| 
 |Eloy Jimenez     |OF        |     10|  2|   7|  1|  0| 
 |Luis Robert      |OF        |     10|  7|   3|  2|  5| 
-|Michael Brantley |OF        |     22|  7|   7|  2|  0| 
+|Michael Brantley |OF        |     24|  7|   7|  2|  0| 
 |Anthony Rizzo    |DH        |     26|  9|  12|  5|  2| 
-|Harrison Bader   |DH        |     16|  6|   2|  0|  4| 
+|Harrison Bader   |DH        |     17|  7|   2|  0|  4| 
 |Ian Happ         |DH        |     25|  9|   9|  1|  0| 
 |Shohei Ohtani    |DH        |     21| 12|   9|  3|  3| 
 |Aaron Hicks      |BAT BENCH |     20|  6|   4|  1|  2| 
@@ -31,8 +31,8 @@
  
 |players          |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Miles Mikolas    |SP          |  3| 15.333|  3| 1.761|     16| 1.043| 13|  1|  0| 
-|Nathan Eovaldi   |SP          |  3| 14.667|  6| 3.682|     19| 1.295| 19|  1|  0| 
+|Miles Mikolas    |SP          |  4| 22.333|  3| 1.209|     21| 0.940| 18|  1|  0| 
+|Nathan Eovaldi   |SP          |  4| 21.667|  8| 3.323|     24| 1.108| 24|  1|  0| 
 |Noah Syndergaard |SP          |  3| 17.000|  4| 2.118|     14| 0.824| 11|  2|  0| 
 |Ranger Suarez    |SP          |  3| 12.333|  6| 4.378|     22| 1.784|  9|  1|  0| 
 |Shohei Ohtani    |SP          |  3| 14.333|  7| 4.395|     15| 1.047| 26|  1|  0| 

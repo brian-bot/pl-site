@@ -8,17 +8,17 @@
 |Tyler Stephenson |C         |     14|  4|   6|  2|  0| 
 |Josh Bell        |1B        |     29| 10|  12|  2|  0| 
 |Brandon Lowe     |2B        |     19| 10|   8|  3|  0| 
-|Rafael Devers    |3B        |     20| 11|   8|  3|  0| 
+|Rafael Devers    |3B        |     21| 11|   8|  3|  0| 
 |Bobby Witt Jr.   |SS        |     12|  4|   4|  0|  2| 
-|Willy Adames     |MI        |     20|  9|   4|  1|  1| 
+|Willy Adames     |MI        |     21| 10|   5|  2|  1| 
 |Miguel Sano      |CI        |     13|  1|   3|  1|  1| 
 |Aaron Judge      |OF        |     23|  8|   5|  3|  1| 
 |Joey Gallo       |OF        |     14|  1|   1|  0|  0| 
 |Trent Grisham    |OF        |     14|  2|   3|  1|  0| 
-|Tyler O'Neill    |OF        |     17|  8|   8|  1|  2| 
+|Tyler O'Neill    |OF        |     18|  8|  10|  1|  2| 
 |AJ Pollock       |DH        |      5|  1|   1|  0|  0| 
 |Akil Baddoo      |DH        |      7|  4|   2|  1|  0| 
-|Christian Walker |DH        |     17|  9|   7|  4|  0| 
+|Christian Walker |DH        |     18|  9|   7|  4|  0| 
 |Steven Kwan      |DH        |     26| 10|   7|  0|  0| 
 |Edwin Rios       |BAT BENCH |      5|  3|   2|  1|  0| 
 
@@ -41,7 +41,7 @@
 |Bailey Ober       |OP          |  3| 16.000|  5| 2.812|     16| 1.000| 13|  1|  0| 
 |David Bednar      |OP          |  7|  8.000|  0| 0.000|      8| 1.000| 12|  0|  2| 
 |Drew Steckenrider |OP          |  7|  6.667|  3| 4.050|     11| 1.650|  4|  0|  1| 
-|Merrill Kelly     |OP          |  3| 15.333|  1| 0.587|     18| 1.174| 18|  1|  0| 
+|Merrill Kelly     |OP          |  4| 21.333|  4| 1.688|     27| 1.266| 22|  1|  0| 
 |Matt Brash        |PITCH BENCH |  3| 15.000|  7| 4.200|     22| 1.467| 13|  1|  0| 
 |Reid Detmers      |PITCH BENCH |  3| 12.333|  9| 6.568|     16| 1.297| 12|  0|  0| 
 |Tylor Megill      |PITCH BENCH |  4| 23.000|  6| 2.348|     21| 0.913| 22|  3|  0| 

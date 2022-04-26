@@ -5,16 +5,16 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Daulton Varsho   |C         |     19|  6|   8|  4|  2| 
-|Freddie Freeman  |1B        |     27| 11|   9|  3|  1| 
-|Trea Turner      |2B        |     20|  8|  13|  1|  3| 
+|Daulton Varsho   |C         |     20|  6|   8|  4|  2| 
+|Freddie Freeman  |1B        |     29| 12|   9|  3|  1| 
+|Trea Turner      |2B        |     21|  8|  15|  1|  3| 
 |Josh Donaldson   |3B        |     20|  7|   4|  2|  0| 
 |Jeremy Pena      |SS        |     19| 10|   6|  3|  0| 
 |Ty France        |MI        |     34| 11|  19|  5|  0| 
 |Joey Votto       |CI        |     19|  3|   2|  0|  0| 
 |Byron Buxton     |OF        |     17| 10|  11|  6|  1| 
-|Christian Yelich |OF        |     19|  6|   8|  1|  2| 
-|Nick Castellanos |OF        |     25|  8|   9|  3|  0| 
+|Christian Yelich |OF        |     20|  6|   8|  1|  2| 
+|Nick Castellanos |OF        |     27|  9|   9|  3|  0| 
 |Randy Arozarena  |OF        |     16|  8|   4|  0|  1| 
 |Andrew McCutchen |DH        |     19|  4|   6|  0|  2| 
 |Hunter Renfroe   |DH        |     17|  5|   5|  2|  0| 
