@@ -5,24 +5,24 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith       |C         |     16|  8|   8|  2|  0| 
-|Jose Abreu       |1B        |     18|  9|   6|  2|  0| 
-|Whit Merrifield  |2B        |     10|  1|   2|  0|  3| 
-|Manny Machado    |3B        |     30| 13|  10|  3|  3| 
-|Xander Bogaerts  |SS        |     24|  8|   6|  1|  0| 
-|Chris Taylor     |MI        |     22|  5|   8|  0|  2| 
-|Ke'Bryan Hayes   |CI        |     24|  6|   4|  0|  2| 
+|Will Smith       |C         |     18|  8|  11|  2|  0| 
+|Jose Abreu       |1B        |     19|  9|   6|  2|  0| 
+|Whit Merrifield  |2B        |     11|  2|   2|  0|  3| 
+|Manny Machado    |3B        |     33| 14|  10|  3|  3| 
+|Xander Bogaerts  |SS        |     27| 10|   7|  1|  1| 
+|Chris Taylor     |MI        |     24|  5|   8|  0|  2| 
+|Ke'Bryan Hayes   |CI        |     28|  8|   5|  0|  2| 
 |Bryan Reynolds   |OF        |     17|  4|   3|  2|  0| 
 |Eloy Jimenez     |OF        |     10|  2|   7|  1|  0| 
 |Luis Robert      |OF        |     10|  7|   3|  2|  5| 
 |Michael Brantley |OF        |     24|  7|   7|  2|  0| 
-|Anthony Rizzo    |DH        |     26|  9|  12|  5|  2| 
+|Anthony Rizzo    |DH        |     30| 13|  18|  8|  2| 
 |Harrison Bader   |DH        |     17|  7|   2|  0|  4| 
-|Ian Happ         |DH        |     25|  9|   9|  1|  0| 
-|Shohei Ohtani    |DH        |     21| 12|   9|  3|  3| 
+|Ian Happ         |DH        |     26| 10|  10|  2|  0| 
+|Shohei Ohtani    |DH        |     22| 13|   9|  3|  3| 
 |Aaron Hicks      |BAT BENCH |     20|  6|   4|  1|  2| 
 |Mike Moustakas   |BAT BENCH |      4|  2|   1|  0|  0| 
-|Nicky Lopez      |BAT BENCH |     16|  4|   2|  0|  0| 
+|Nicky Lopez      |BAT BENCH |     18|  4|   2|  0|  0| 
 
 * * *
 
@@ -37,7 +37,7 @@
 |Ranger Suarez    |SP          |  3| 12.333|  6| 4.378|     22| 1.784|  9|  1|  0| 
 |Shohei Ohtani    |SP          |  3| 14.333|  7| 4.395|     15| 1.047| 26|  1|  0| 
 |Tyler Mahle      |SP          |  4| 17.000| 13| 6.882|     29| 1.706| 19|  1|  0| 
-|Aroldis Chapman  |RP          |  8|  6.333|  0| 0.000|      6| 0.947|  9|  0|  4| 
+|Aroldis Chapman  |RP          |  9|  7.333|  0| 0.000|      8| 1.091| 11|  0|  4| 
 |Ryan Pressly     |RP          |  4|  3.333|  1| 2.700|      5| 1.500|  2|  0|  3| 
 |Carlos Carrasco  |OP          |  3| 18.333|  3| 1.473|     11| 0.600| 20|  1|  0| 
 |Dylan Bundy      |OP          |  3| 15.333|  1| 0.587|     11| 0.717| 12|  3|  0| 

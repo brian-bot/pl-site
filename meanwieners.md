@@ -6,15 +6,15 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Tyler Stephenson |C         |     14|  4|   6|  2|  0| 
-|Josh Bell        |1B        |     29| 10|  12|  2|  0| 
-|Brandon Lowe     |2B        |     19| 10|   8|  3|  0| 
-|Rafael Devers    |3B        |     21| 11|   8|  3|  0| 
-|Bobby Witt Jr.   |SS        |     12|  4|   4|  0|  2| 
-|Willy Adames     |MI        |     21| 10|   5|  2|  1| 
-|Miguel Sano      |CI        |     13|  1|   3|  1|  1| 
-|Aaron Judge      |OF        |     23|  8|   5|  3|  1| 
-|Joey Gallo       |OF        |     14|  1|   1|  0|  0| 
-|Trent Grisham    |OF        |     14|  2|   3|  1|  0| 
+|Josh Bell        |1B        |     31| 10|  13|  2|  0| 
+|Brandon Lowe     |2B        |     21| 11|   8|  3|  0| 
+|Rafael Devers    |3B        |     22| 12|   8|  3|  0| 
+|Bobby Witt Jr.   |SS        |     14|  5|   5|  0|  2| 
+|Willy Adames     |MI        |     25| 12|  12|  4|  1| 
+|Miguel Sano      |CI        |     14|  1|   3|  1|  1| 
+|Aaron Judge      |OF        |     25| 10|   6|  4|  1| 
+|Joey Gallo       |OF        |     15|  2|   2|  1|  0| 
+|Trent Grisham    |OF        |     16|  3|   3|  1|  0| 
 |Tyler O'Neill    |OF        |     18|  8|  10|  1|  2| 
 |AJ Pollock       |DH        |      5|  1|   1|  0|  0| 
 |Akil Baddoo      |DH        |      7|  4|   2|  1|  0| 
@@ -32,7 +32,7 @@
 |Alek Manoah       |SP          |  3| 18.000|  4| 2.000|     18| 1.000| 18|  3|  0| 
 |Joe Ryan          |SP          |  3| 16.000|  3| 1.688|     14| 0.875| 16|  2|  0| 
 |Justin Verlander  |SP          |  3| 19.000|  4| 1.895|     14| 0.737| 20|  1|  0| 
-|Logan Gilbert     |SP          |  3| 16.667|  1| 0.540|     14| 0.840| 15|  2|  0| 
+|Logan Gilbert     |SP          |  4| 22.333|  1| 0.403|     19| 0.851| 22|  3|  0| 
 |Lucas Giolito     |SP          |  2|  8.000|  1| 1.125|     10| 1.250| 15|  0|  0| 
 |Michael Kopech    |SP          |  3| 14.000|  1| 0.643|     11| 0.786| 15|  0|  0| 
 |Paul Sewald       |RP          |  4|  3.667|  0| 0.000|      0| 0.000|  3|  0|  0| 
