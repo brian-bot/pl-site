@@ -5,21 +5,21 @@
  |players         |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------|:---------|------:|--:|---:|--:|--:| 
 |J.T. Realmuto   |C         |     24| 12|   3|  1|  2| 
-|Pete Alonso     |1B        |     25|  9|  16|  3|  0| 
-|Jonathan India  |2B        |      9|  4|   2|  0|  0| 
-|Matt Chapman    |3B        |     20|  4|  10|  3|  0| 
-|Dansby Swanson  |SS        |     17|  6|   4|  0|  1| 
-|Kolten Wong     |MI        |     14|  8|   6|  0|  2| 
-|Carlos Santana  |CI        |     14|  5|   5|  1|  0| 
-|Adam Duvall     |OF        |     16|  5|   8|  0|  0| 
-|J.D. Martinez   |OF        |     19|  6|   7|  1|  0| 
-|Kyle Tucker     |OF        |     17|  5|   8|  3|  2| 
-|Yordan Alvarez  |OF        |     14|  7|   7|  4|  0| 
+|Pete Alonso     |1B        |     27| 10|  16|  3|  0| 
+|Jonathan India  |2B        |     10|  4|   2|  0|  0| 
+|Matt Chapman    |3B        |     21|  4|  10|  3|  0| 
+|Dansby Swanson  |SS        |     19|  6|   6|  0|  1| 
+|Kolten Wong     |MI        |     16|  8|   7|  0|  2| 
+|Carlos Santana  |CI        |     16|  5|   5|  1|  0| 
+|Adam Duvall     |OF        |     18|  6|   8|  0|  0| 
+|J.D. Martinez   |OF        |     21|  7|   8|  1|  0| 
+|Kyle Tucker     |OF        |     18|  5|  11|  3|  2| 
+|Yordan Alvarez  |OF        |     18|  8|   7|  4|  0| 
 |Eddie Rosario   |DH        |      8|  4|   0|  0|  0| 
-|Max Kepler      |DH        |     24|  5|   6|  2|  1| 
+|Max Kepler      |DH        |     27|  7|   8|  4|  1| 
 |Nathaniel Lowe  |DH        |     29|  6|   9|  1|  0| 
-|Trey Mancini    |DH        |     20|  4|   7|  1|  0| 
-|Jesus Sanchez   |BAT BENCH |     23| 10|   9|  3|  0| 
+|Trey Mancini    |DH        |     21|  4|   7|  1|  0| 
+|Jesus Sanchez   |BAT BENCH |     24| 10|   9|  3|  0| 
 |Jonathan Villar |BAT BENCH |     19|  8|   8|  0|  1| 
 
 * * *
@@ -41,8 +41,8 @@
 |Hyun Jin Ryu     |OP          |  2|  7.333| 11| 13.500|     13| 1.773|  5|  0|  0| 
 |Luis Garcia      |OP          |  3| 15.667|  8|  4.596|     15| 0.957| 14|  1|  0| 
 |Will Smith       |OP          |  7|  7.333|  2|  2.455|      6| 0.818|  5|  0|  1| 
-|Zac Gallen       |OP          |  2|  9.000|  1|  1.000|      6| 0.667|  9|  0|  0| 
-|Cristian Javier  |PITCH BENCH |  3|  8.333|  0|  0.000|      6| 0.720| 12|  0|  0| 
+|Zac Gallen       |OP          |  3| 15.000|  1|  0.600|     10| 0.667| 14|  0|  0| 
+|Cristian Javier  |PITCH BENCH |  4| 13.333|  2|  1.350|     12| 0.900| 16|  1|  0| 
 |Kris Bubic       |PITCH BENCH |  3|  7.000| 11| 14.143|     21| 3.000|  5|  0|  0| 
 |Michael Fulmer   |PITCH BENCH |  8|  7.667|  0|  0.000|      5| 0.652|  8|  1|  1| 
 

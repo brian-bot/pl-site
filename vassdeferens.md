@@ -5,19 +5,19 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Mitch Garver      |C         |     16|  5|   4|  1|  0| 
-|Jared Walsh       |1B        |     18|  7|   8|  2|  0| 
-|Jorge Polanco     |2B        |     21|  6|   8|  2|  0| 
-|Spencer Torkelson |3B        |     21|  6|   8|  3|  0| 
+|Mitch Garver      |C         |     18|  6|   5|  2|  0| 
+|Jared Walsh       |1B        |     19|  7|   9|  2|  0| 
+|Jorge Polanco     |2B        |     22|  6|   8|  2|  0| 
+|Spencer Torkelson |3B        |     22|  6|   8|  3|  0| 
 |Wander Franco     |SS        |     25| 13|  12|  4|  1| 
 |Carlos Correa     |MI        |     17|  6|   3|  1|  0| 
-|C.J. Cron         |CI        |     22| 10|  17|  6|  0| 
-|Bryce Harper      |OF        |     24| 15|  13|  3|  2| 
-|Giancarlo Stanton |OF        |     15|  3|   9|  2|  0| 
-|Mike Trout        |OF        |     27| 13|   8|  5|  0| 
-|Starling Marte    |OF        |     25| 11|  15|  2|  4| 
+|C.J. Cron         |CI        |     23| 11|  18|  7|  0| 
+|Bryce Harper      |OF        |     27| 17|  13|  3|  3| 
+|Giancarlo Stanton |OF        |     17|  4|  12|  3|  0| 
+|Mike Trout        |OF        |     30| 14|  10|  5|  0| 
+|Starling Marte    |OF        |     26| 12|  15|  2|  4| 
 |Alejandro Kirk    |DH        |     19|  1|   1|  0|  0| 
-|Daniel Vogelbach  |DH        |     21| 10|   6|  3|  0| 
+|Daniel Vogelbach  |DH        |     22| 10|   6|  3|  0| 
 |Gavin Lux         |DH        |     19| 10|   5|  1|  2| 
 |Ryan Mountcastle  |DH        |     19|  6|   7|  1|  1| 
 |Bryson Stott      |BAT BENCH |      5|  1|   3|  0|  0| 
@@ -37,7 +37,7 @@
 |Sonny Gray        |SP       |  2|  6.333|  4|  5.684|      8| 1.263|  5|  0|  0| 
 |Tanner Houck      |SP       |  4| 15.667|  5|  2.872|     18| 1.149| 13|  1|  0| 
 |Giovanny Gallegos |RP       |  7|  7.000|  5|  6.429|     10| 1.429|  5|  0|  4| 
-|Scott Barlow      |RP       |  7|  8.000|  1|  1.125|      7| 0.875|  7|  1|  1| 
+|Scott Barlow      |RP       |  8|  8.333|  2|  2.160|      9| 1.080|  8|  1|  1| 
 |Cole Sulser       |OP       |  8|  7.333|  1|  1.227|      8| 1.091|  6|  0|  0| 
 |Joe Barlow        |OP       |  5|  5.333|  2|  3.375|      6| 1.125|  8|  1|  0| 
 |Nick Martinez     |OP       |  3| 14.667|  7|  4.295|     26| 1.773| 13|  0|  0| 
