@@ -5,22 +5,22 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Mitch Garver      |C         |     18|  6|   5|  2|  0| 
-|Jared Walsh       |1B        |     19|  7|   9|  2|  0| 
-|Jorge Polanco     |2B        |     22|  6|   8|  2|  0| 
-|Spencer Torkelson |3B        |     22|  6|   8|  3|  0| 
-|Wander Franco     |SS        |     25| 13|  12|  4|  1| 
-|Carlos Correa     |MI        |     17|  6|   3|  1|  0| 
-|C.J. Cron         |CI        |     23| 11|  18|  7|  0| 
-|Bryce Harper      |OF        |     27| 17|  13|  3|  3| 
-|Giancarlo Stanton |OF        |     17|  4|  12|  3|  0| 
-|Mike Trout        |OF        |     30| 14|  10|  5|  0| 
-|Starling Marte    |OF        |     26| 12|  15|  2|  4| 
-|Alejandro Kirk    |DH        |     19|  1|   1|  0|  0| 
-|Daniel Vogelbach  |DH        |     22| 10|   6|  3|  0| 
-|Gavin Lux         |DH        |     19| 10|   5|  1|  2| 
-|Ryan Mountcastle  |DH        |     19|  6|   7|  1|  1| 
-|Bryson Stott      |BAT BENCH |      5|  1|   3|  0|  0| 
+|Mitch Garver      |C         |      1|  0|   0|  0|  0| 
+|Jared Walsh       |1B        |      1|  0|   0|  0|  0| 
+|Jorge Polanco     |2B        |      2|  1|   0|  0|  0| 
+|Spencer Torkelson |3B        |      0|  0|   0|  0|  0| 
+|Wander Franco     |SS        |      1|  0|   0|  0|  1| 
+|Carlos Correa     |MI        |      3|  1|   3|  0|  0| 
+|C.J. Cron         |CI        |      1|  0|   0|  0|  0| 
+|Bryce Harper      |OF        |      2|  0|   1|  0|  0| 
+|Mike Trout        |OF        |      2|  0|   0|  0|  0| 
+|Ronald Acuna Jr.  |OF        |      1|  0|   0|  0|  2| 
+|Starling Marte    |OF        |     **| **|  **| **| **| 
+|Daniel Vogelbach  |DH        |      1|  0|   0|  0|  0| 
+|Gavin Lux         |DH        |     **| **|  **| **| **| 
+|Giancarlo Stanton |DH        |      2|  0|   1|  0|  0| 
+|Ryan Mountcastle  |DH        |     **| **|  **| **| **| 
+|Alejandro Kirk    |BAT BENCH |      2|  0|   1|  0|  0| 
 
 
 * * *
@@ -28,21 +28,22 @@
 ### Pitchers
 
  
-|players           |position |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
-|:-----------------|:--------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Casey Mize        |SP       |  2| 10.000|  6|  5.400|     15| 1.500|  4|  0|  0| 
-|Marcus Stroman    |SP       |  4| 19.333| 15|  6.983|     28| 1.448| 17|  0|  0| 
-|Reiver Sanmartin  |SP       |  4| 15.667| 19| 10.915|     29| 1.851| 10|  0|  0| 
-|Shane Bieber      |SP       |  4| 22.333|  7|  2.821|     20| 0.896| 22|  1|  0| 
-|Sonny Gray        |SP       |  2|  6.333|  4|  5.684|      8| 1.263|  5|  0|  0| 
-|Tanner Houck      |SP       |  4| 15.667|  5|  2.872|     18| 1.149| 13|  1|  0| 
-|Giovanny Gallegos |RP       |  7|  7.000|  5|  6.429|     10| 1.429|  5|  0|  4| 
-|Scott Barlow      |RP       |  8|  8.333|  2|  2.160|      9| 1.080|  8|  1|  1| 
-|Cole Sulser       |OP       |  8|  7.333|  1|  1.227|      8| 1.091|  6|  0|  0| 
-|Joe Barlow        |OP       |  5|  5.333|  2|  3.375|      6| 1.125|  8|  1|  0| 
-|Nick Martinez     |OP       |  3| 14.667|  7|  4.295|     26| 1.773| 13|  0|  0| 
-|Rich Hill         |OP       |  3| 13.000|  7|  4.846|     21| 1.615|  7|  0|  0| 
-|Tony Gonsolin     |OP       |  4| 17.000|  3|  1.588|     20| 1.176| 13|  1|  0| 
+|players           |position    |  g| ip| er|    era| hitsbb|  whip| so|  w| sv| 
+|:-----------------|:-----------|--:|--:|--:|------:|------:|-----:|--:|--:|--:| 
+|Marcus Stroman    |SP          | **| **| **|     **|     **|    **| **| **| **| 
+|Michael Pineda    |SP          | **| **| **|     **|     **|    **| **| **| **| 
+|Nick Martinez     |SP          |  1|  5|  2|  3.600|      7| 1.400|  5|  1|  0| 
+|Shane Bieber      |SP          | **| **| **|     **|     **|    **| **| **| **| 
+|Tanner Houck      |SP          | **| **| **|     **|     **|    **| **| **| **| 
+|Tyler Anderson    |SP          | **| **| **|     **|     **|    **| **| **| **| 
+|Giovanny Gallegos |RP          | **| **| **|     **|     **|    **| **| **| **| 
+|Scott Barlow      |RP          |  1|  1|  0|  0.000|      1| 1.000|  2|  1|  0| 
+|Brad Keller       |OP          |  1|  7|  1|  1.286|      3| 0.429|  3|  0|  0| 
+|Chris Stratton    |OP          |  1|  1|  2| 18.000|      4| 4.000|  0|  0|  0| 
+|Dany Jimenez      |OP          | **| **| **|     **|     **|    **| **| **| **| 
+|Joe Barlow        |OP          | **| **| **|     **|     **|    **| **| **| **| 
+|Tony Gonsolin     |OP          | **| **| **|     **|     **|    **| **| **| **| 
+|Sonny Gray        |PITCH BENCH | **| **| **|     **|     **|    **| **| **| **| 
 
 
 * * *
