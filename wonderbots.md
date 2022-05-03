@@ -5,21 +5,21 @@
  
 |players           |position | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:--------|------:|--:|---:|--:|--:| 
-|Yasmani Grandal   |C        |      5|  0|   1|  0|  0| 
-|Vladimir Guerrero |1B       |      1|  1|   3|  1|  0| 
+|Yasmani Grandal   |C        |      6|  0|   1|  0|  0| 
+|Vladimir Guerrero |1B       |      3|  1|   3|  1|  0| 
 |Ketel Marte       |2B       |      3|  3|   1|  1|  0| 
-|Nolan Arenado     |3B       |      4|  1|   1|  1|  0| 
+|Nolan Arenado     |3B       |      5|  1|   1|  1|  0| 
 |Brandon Crawford  |SS       |      5|  2|   1|  0|  1| 
 |Jake Cronenworth  |MI       |      7|  4|   3|  1|  0| 
-|Luis Arraez       |CI       |      1|  0|   0|  0|  0| 
+|Luis Arraez       |CI       |      2|  0|   0|  0|  0| 
 |Austin Meadows    |OF       |      9|  0|   2|  0|  0| 
 |Cody Bellinger    |OF       |      2|  1|   1|  0|  0| 
-|George Springer   |OF       |      7|  4|   2|  2|  1| 
+|George Springer   |OF       |      9|  5|   2|  2|  1| 
 |Jarred Kelenic    |OF       |      2|  2|   1|  0|  0| 
 |Andrew Vaughn     |DH       |      3|  0|   0|  0|  0| 
-|Dylan Carlson     |DH       |      0|  0|   0|  0|  0| 
+|Dylan Carlson     |DH       |      1|  0|   0|  0|  0| 
 |Nelson Cruz       |DH       |      3|  3|   2|  0|  0| 
-|Yuli Gurriel      |DH       |      4|  0|   1|  0|  0| 
+|Yuli Gurriel      |DH       |      5|  0|   1|  0|  0| 
 
 * * *
 
@@ -39,9 +39,9 @@
 |Brock Burke     |OP          |  1| 2.000|  1|  4.500|      3| 1.500|  4|  0|  0| 
 |Chris Flexen    |OP          |  1| 6.667|  2|  2.700|      8| 1.200|  4|  0|  0| 
 |Dane Dunning    |OP          |  1| 7.667|  1|  1.174|      4| 0.522|  7|  1|  0| 
-|Drew Rasmussen  |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Drew Rasmussen  |OP          |  1| 5.000|  1|  1.800|      2| 0.400|  3|  1|  0| 
 |Yusei Kikuchi   |OP          |  1| 2.667|  4| 13.500|      7| 2.625|  4|  0|  0| 
-|Marco Gonzales  |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Marco Gonzales  |PITCH BENCH |  1| 6.000|  3|  4.500|     10| 1.667|  2|  0|  0| 
 
 
 * * *

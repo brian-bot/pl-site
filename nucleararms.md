@@ -6,7 +6,7 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith       |C         |      3|  1|   1|  0|  0| 
-|Jose Abreu       |1B        |      7|  1|   1|  0|  0| 
+|Jose Abreu       |1B        |      9|  2|   1|  0|  0| 
 |Whit Merrifield  |2B        |      7|  2|   0|  0|  0| 
 |Manny Machado    |3B        |      8|  4|   5|  1|  1| 
 |Xander Bogaerts  |SS        |      6|  2|   1|  0|  0| 
@@ -15,14 +15,14 @@
 |Aaron Hicks      |OF        |      6|  2|   0|  0|  0| 
 |Bryan Reynolds   |OF        |      9|  4|   1|  0|  1| 
 |Ian Happ         |OF        |      5|  0|   0|  0|  0| 
-|Michael Brantley |OF        |      1|  0|   0|  0|  0| 
+|Michael Brantley |OF        |      3|  0|   0|  0|  0| 
 |Anthony Rizzo    |DH        |      6|  2|   3|  1|  0| 
 |Harrison Bader   |DH        |      7|  4|   2|  1|  2| 
 |Ji-Man Choi      |DH        |     **| **|  **| **| **| 
 |Shohei Ohtani    |DH        |      3|  3|   2|  1|  1| 
 |Eloy Jimenez     |BAT BENCH |     **| **|  **| **| **| 
 |Jo Adell         |BAT BENCH |      2|  0|   1|  0|  0| 
-|Luis Robert      |BAT BENCH |      3|  1|   3|  1|  0| 
+|Luis Robert      |BAT BENCH |      6|  2|   3|  1|  0| 
 |Nicky Lopez      |BAT BENCH |      4|  2|   0|  0|  0| 
 
 * * *
@@ -44,7 +44,7 @@
 |Dylan Bundy      |OP          |  1| 6.000|  6| 9.000|      9| 1.500|  7|  0|  0| 
 |Josh Staumont    |OP          |  2| 2.000|  2| 9.000|      4| 2.000|  2|  0|  0| 
 |Lou Trivino      |OP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Steven Matz      |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Steven Matz      |OP          |  1| 6.000|  0| 0.000|      4| 0.667|  4|  1|  0| 
 |Dinelson Lamet   |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
 |Ranger Suarez    |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
 
