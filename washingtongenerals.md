@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Max Stassi        |C         |      2|  1|   0|  0|  0| 
-|Rhys Hoskins      |1B        |      2|  1|   2|  1|  0| 
+|Max Stassi        |C         |      3|  1|   0|  0|  0| 
+|Rhys Hoskins      |1B        |      3|  2|   4|  1|  0| 
 |Andres Gimenez    |2B        |      6|  3|   6|  1|  0| 
 |Ryan McMahon      |3B        |      7|  3|   5|  1|  0| 
-|Marcus Semien     |SS        |      3|  2|   1|  0|  0| 
+|Marcus Semien     |SS        |      5|  2|   2|  0|  0| 
 |Gleyber Torres    |MI        |      5|  3|   6|  2|  0| 
-|Eduardo Escobar   |CI        |      4|  3|   0|  0|  0| 
-|Cedric Mullins    |OF        |      6|  2|   0|  0|  0| 
-|Garrett Cooper    |OF        |      7|  1|   1|  0|  0| 
+|Eduardo Escobar   |CI        |      5|  3|   1|  0|  0| 
+|Cedric Mullins    |OF        |      7|  3|   0|  0|  0| 
+|Garrett Cooper    |OF        |      8|  2|   1|  0|  0| 
 |Myles Straw       |OF        |     10|  2|   0|  0|  1| 
-|Randal Grichuk    |OF        |      6|  3|   4|  1|  0| 
-|Connor Joe        |DH        |      7|  3|   1|  0|  0| 
+|Randal Grichuk    |OF        |      7|  3|   5|  1|  0| 
+|Connor Joe        |DH        |      8|  4|   1|  0|  0| 
 |Owen Miller       |DH        |      5|  4|   1|  0|  0| 
-|Rowdy Tellez      |DH        |      6|  3|   3|  1|  0| 
+|Rowdy Tellez      |DH        |      7|  4|   4|  2|  0| 
 |Teoscar Hernandez |DH        |     **| **|  **| **| **| 
 |Brendan Rodgers   |BAT BENCH |      2|  1|   4|  0|  0| 
-|Gary Sanchez      |BAT BENCH |      2|  1|   1|  0|  0| 
+|Gary Sanchez      |BAT BENCH |      4|  2|   1|  0|  0| 
 |Mike Yastrzemski  |BAT BENCH |     **| **|  **| **| **| 
 |Seth Beer         |BAT BENCH |      2|  0|   0|  0|  0| 
 
@@ -47,7 +47,7 @@
 |Zach Plesac        |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Zack Greinke       |OP          |  1| 6.000|  1| 1.500|      3| 0.500|  1|  0|  0| 
 |Jonathan Loaisiga  |PITCH BENCH |  3| 3.333|  0| 0.000|      2| 0.600|  4|  0|  0| 
-|Michael Wacha      |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
+|Michael Wacha      |PITCH BENCH |  1| 5.667|  0| 0.000|      5| 0.882|  2|  1|  0| 
 
 
 * * *
