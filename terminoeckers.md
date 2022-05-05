@@ -5,23 +5,23 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Daulton Varsho   |C         |     10|  3|   1|  0|  0| 
-|Freddie Freeman  |1B        |      6|  1|   1|  0|  1| 
-|Trea Turner      |2B        |      3|  0|   2|  0|  1| 
-|Josh Donaldson   |3B        |      9|  3|   3|  0|  0| 
+|Daulton Varsho   |C         |     13|  5|   3|  1|  0| 
+|Freddie Freeman  |1B        |      8|  2|   3|  0|  1| 
+|Trea Turner      |2B        |      4|  0|   3|  0|  1| 
+|Josh Donaldson   |3B        |     11|  3|   3|  0|  0| 
 |Jeremy Pena      |SS        |      6|  4|   7|  2|  1| 
 |Ty France        |MI        |      8|  1|   0|  0|  0| 
 |Joey Votto       |CI        |      4|  0|   0|  0|  0| 
 |Byron Buxton     |OF        |      6|  5|   2|  1|  0| 
-|Christian Yelich |OF        |      9|  4|   4|  2|  0| 
-|Nick Castellanos |OF        |      3|  1|   1|  0|  0| 
+|Christian Yelich |OF        |     12|  7|   6|  2|  0| 
+|Nick Castellanos |OF        |      6|  1|   1|  0|  0| 
 |Seiya Suzuki     |OF        |      2|  0|   1|  0|  0| 
-|Andrew McCutchen |DH        |      5|  3|   4|  2|  0| 
-|Hunter Renfroe   |DH        |      5|  5|   5|  3|  0| 
-|Santiago Espinal |DH        |      5|  0|   1|  0|  1| 
-|Tommy Pham       |DH        |      9|  3|   3|  1|  0| 
-|Josh Naylor      |BAT BENCH |      5|  2|   3|  1|  0| 
-|Randy Arozarena  |BAT BENCH |      6|  0|   2|  0|  1| 
+|Andrew McCutchen |DH        |     10|  5|   8|  2|  0| 
+|Hunter Renfroe   |DH        |      6|  6|   5|  3|  0| 
+|Santiago Espinal |DH        |      6|  0|   1|  0|  1| 
+|Tommy Pham       |DH        |     12|  4|   3|  1|  0| 
+|Josh Naylor      |BAT BENCH |      8|  2|   6|  1|  0| 
+|Randy Arozarena  |BAT BENCH |      8|  1|   2|  0|  2| 
 
 * * *
 
@@ -36,11 +36,11 @@
 |Sandy Alcantara  |SP          |  1|  5.667|  5| 7.941|     10| 1.765|  6|  0|  0| 
 |Shane McClanahan |SP          |  1|  5.000|  3| 5.400|      6| 1.200| 11|  0|  0| 
 |Yu Darvish       |SP          |  1|  6.000|  3| 4.500|      9| 1.500|  5|  1|  0| 
-|Andrew Kittredge |RP          |  2|  2.000|  0| 0.000|      0| 0.000|  3|  1|  0| 
-|Gregory Soto     |RP          |  1|  1.000|  0| 0.000|      0| 0.000|  1|  0|  0| 
-|Hansel Robles    |OP          |  2|  1.667|  1| 5.400|      3| 1.800|  1|  0|  0| 
-|MacKenzie Gore   |OP          | **|     **| **|    **|     **|    **| **| **| **| 
-|Michael King     |OP          |  1|  1.667|  0| 0.000|      0| 0.000|  2|  0|  0| 
+|Andrew Kittredge |RP          |  3|  3.000|  0| 0.000|      0| 0.000|  3|  1|  1| 
+|Gregory Soto     |RP          |  2|  2.000|  0| 0.000|      0| 0.000|  3|  0|  1| 
+|Hansel Robles    |OP          |  3|  2.333|  2| 7.714|      5| 2.143|  2|  0|  0| 
+|MacKenzie Gore   |OP          |  1|  5.667|  1| 1.588|      7| 1.235|  2|  0|  0| 
+|Michael King     |OP          |  2|  4.667|  0| 0.000|      0| 0.000|  5|  0|  0| 
 |Patrick Sandoval |OP          |  1|  6.000|  3| 4.500|      9| 1.500|  2|  0|  0| 
 |Trevor Rogers    |OP          |  2| 10.333|  6| 5.226|     12| 1.161|  8|  1|  0| 
 |Aaron Ashby      |PITCH BENCH |  1|  2.333|  0| 0.000|      2| 0.857|  3|  0|  0| 
