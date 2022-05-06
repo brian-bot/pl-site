@@ -8,18 +8,18 @@
 |Salvador Perez    |C         |      2|  0|   1|  0|  0| 
 |Matt Olson        |1B        |     10|  2|   5|  1|  0| 
 |Javier Baez       |2B        |      8|  2|   3|  0|  0| 
-|Eugenio Suarez    |3B        |      4|  1|   3|  1|  0| 
-|Bo Bichette       |SS        |     10|  3|   4|  1|  1| 
-|Francisco Lindor  |MI        |      8|  3|   2|  0|  0| 
-|Kyle Schwarber    |CI        |      9|  3|   5|  3|  1| 
-|Franmil Reyes     |OF        |      4|  2|   2|  0|  0| 
+|Eugenio Suarez    |3B        |      5|  1|   4|  1|  0| 
+|Bo Bichette       |SS        |     13|  5|   4|  1|  1| 
+|Francisco Lindor  |MI        |      9|  4|   4|  1|  0| 
+|Kyle Schwarber    |CI        |     11|  5|   5|  3|  1| 
+|Franmil Reyes     |OF        |      7|  3|   3|  0|  0| 
 |Jorge Soler       |OF        |      8|  2|   4|  2|  0| 
 |Mitch Haniger     |OF        |      1|  0|   0|  0|  0| 
-|Taylor Ward       |OF        |     11|  4|   6|  2|  0| 
-|Avisail Garcia    |DH        |      6|  2|   0|  0|  0| 
-|Brandon Nimmo     |DH        |     10|  3|   0|  0|  0| 
+|Taylor Ward       |OF        |     13|  5|   6|  2|  0| 
+|Avisail Garcia    |DH        |      7|  2|   0|  0|  0| 
+|Brandon Nimmo     |DH        |     11|  4|   2|  0|  0| 
 |Enrique Hernandez |DH        |      6|  1|   1|  0|  0| 
-|Jazz Chisholm Jr. |DH        |      9|  4|   4|  0|  1| 
+|Jazz Chisholm Jr. |DH        |     10|  4|   4|  0|  2| 
 |Luke Voit         |BAT BENCH |     **| **|  **| **| **| 
 |Sean Murphy       |BAT BENCH |      5|  2|   4|  1|  0| 
 
@@ -41,7 +41,7 @@
 |Kenley Jansen     |RP          |  2|  2.000|  0|  0.000|      1|  0.500|  2|  0|  2| 
 |Corey Kluber      |OP          |  2| 12.000|  1|  0.750|      5|  0.417| 13|  1|  0| 
 |Dakota Hudson     |OP          |  2| 12.000|  3|  2.250|     15|  1.250|  8|  1|  0| 
-|Daniel Bard       |OP          |  2|  2.000|  0|  0.000|      0|  0.000|  4|  0|  2| 
+|Daniel Bard       |OP          |  3|  3.000|  0|  0.000|      1|  0.333|  4|  0|  3| 
 |Jameson Taillon   |OP          |  2| 10.667|  3|  2.531|     13|  1.219|  8|  1|  0| 
 |Jordan Montgomery |OP          |  1|  5.000|  2|  3.600|      6|  1.200|  5|  0|  0| 
 |Alex Cobb         |PITCH BENCH |  1|  0.667|  1| 13.500|      7| 10.500|  0|  0|  0| 
