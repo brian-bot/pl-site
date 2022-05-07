@@ -6,23 +6,23 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith       |C         |      6|  2|   2|  0|  0| 
-|Jose Abreu       |1B        |     12|  5|   2|  1|  0| 
+|Jose Abreu       |1B        |     13|  5|   3|  1|  0| 
 |Whit Merrifield  |2B        |      8|  2|   1|  0|  0| 
-|Manny Machado    |3B        |     15|  9|   9|  4|  2| 
-|Xander Bogaerts  |SS        |     10|  4|   2|  1|  0| 
+|Manny Machado    |3B        |     18| 10|  10|  4|  3| 
+|Xander Bogaerts  |SS        |     11|  4|   2|  1|  0| 
 |Chris Taylor     |MI        |      6|  3|   3|  1|  0| 
 |Ke'Bryan Hayes   |CI        |      8|  3|   1|  0|  0| 
 |Aaron Hicks      |OF        |     11|  4|   1|  0|  0| 
 |Bryan Reynolds   |OF        |     12|  5|   1|  0|  1| 
 |Ian Happ         |OF        |      8|  1|   0|  0|  0| 
-|Michael Brantley |OF        |      6|  0|   2|  0|  0| 
+|Michael Brantley |OF        |      7|  0|   2|  0|  0| 
 |Anthony Rizzo    |DH        |      7|  2|   3|  1|  0| 
-|Harrison Bader   |DH        |      9|  5|   3|  1|  2| 
+|Harrison Bader   |DH        |     10|  6|   5|  2|  2| 
 |Ji-Man Choi      |DH        |     **| **|  **| **| **| 
-|Shohei Ohtani    |DH        |      8|  5|   3|  1|  1| 
+|Shohei Ohtani    |DH        |      9|  5|   4|  1|  1| 
 |Eloy Jimenez     |BAT BENCH |     **| **|  **| **| **| 
 |Jo Adell         |BAT BENCH |      2|  0|   1|  0|  0| 
-|Luis Robert      |BAT BENCH |      9|  3|   3|  1|  0| 
+|Luis Robert      |BAT BENCH |     11|  4|   5|  2|  0| 
 |Nicky Lopez      |BAT BENCH |      7|  3|   0|  0|  0| 
 
 * * *
@@ -33,7 +33,7 @@
 |players          |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Miles Mikolas    |SP          |  2| 13.000|  3|  2.077|     14| 1.077| 10|  1|  0| 
-|Nathan Eovaldi   |SP          |  1|  7.000|  0|  0.000|      3| 0.429|  8|  0|  0| 
+|Nathan Eovaldi   |SP          |  2| 12.000|  3|  2.250|     12| 1.000| 12|  0|  0| 
 |Nestor Cortes    |SP          |  2|  9.000|  3|  3.000|     16| 1.778|  6|  1|  0| 
 |Noah Syndergaard |SP          |  1|  7.000|  3|  3.857|      9| 1.286|  3|  0|  0| 
 |Shohei Ohtani    |SP          |  1|  7.000|  0|  0.000|      6| 0.857| 11|  1|  0| 
@@ -43,7 +43,7 @@
 |Carlos Carrasco  |OP          |  1|  8.000|  0|  0.000|      8| 1.000|  5|  1|  0| 
 |Dylan Bundy      |OP          |  2|  9.667| 15| 13.966|     22| 2.276| 10|  0|  0| 
 |Josh Staumont    |OP          |  2|  2.000|  2|  9.000|      4| 2.000|  2|  0|  0| 
-|Lou Trivino      |OP          |  1|  0.667|  4| 54.000|      5| 7.500|  0|  0|  0| 
+|Lou Trivino      |OP          |  2|  1.000|  4| 36.000|      5| 5.000|  1|  0|  0| 
 |Steven Matz      |OP          |  1|  6.000|  0|  0.000|      4| 0.667|  4|  1|  0| 
 |Dinelson Lamet   |PITCH BENCH |  1|  0.000|  0|     **|      1|   Inf|  0|  0|  0| 
 |Ranger Suarez    |PITCH BENCH |  1|  5.000|  3|  5.400|      8| 1.600|  3|  0|  0| 

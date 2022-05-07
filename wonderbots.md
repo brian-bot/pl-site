@@ -5,20 +5,20 @@
  
 |players           |position | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:--------|------:|--:|---:|--:|--:| 
-|Yasmani Grandal   |C        |     10|  0|   1|  0|  0| 
+|Yasmani Grandal   |C        |     12|  0|   1|  0|  0| 
 |Vladimir Guerrero |1B       |      3|  1|   3|  1|  0| 
-|Ketel Marte       |2B       |      9|  6|   2|  1|  0| 
-|Nolan Arenado     |3B       |     10|  3|   6|  2|  0| 
-|Brandon Crawford  |SS       |      8|  3|   2|  1|  1| 
-|Jake Cronenworth  |MI       |     10|  6|   4|  1|  0| 
+|Ketel Marte       |2B       |     11|  6|   2|  1|  0| 
+|Nolan Arenado     |3B       |     11|  3|   6|  2|  0| 
+|Brandon Crawford  |SS       |     11|  3|   2|  1|  1| 
+|Jake Cronenworth  |MI       |     11|  6|   4|  1|  0| 
 |Luis Arraez       |CI       |      5|  1|   0|  0|  0| 
 |Austin Meadows    |OF       |     10|  0|   2|  0|  0| 
 |Cody Bellinger    |OF       |      4|  3|   1|  0|  0| 
 |George Springer   |OF       |      9|  5|   2|  2|  1| 
-|Jarred Kelenic    |OF       |      4|  2|   1|  0|  0| 
+|Jarred Kelenic    |OF       |      5|  3|   3|  1|  0| 
 |Andrew Vaughn     |DH       |      3|  0|   0|  0|  0| 
-|Dylan Carlson     |DH       |      6|  3|   0|  0|  0| 
-|Nelson Cruz       |DH       |      3|  3|   2|  0|  0| 
+|Dylan Carlson     |DH       |      7|  3|   1|  0|  0| 
+|Nelson Cruz       |DH       |      4|  3|   2|  0|  0| 
 |Yuli Gurriel      |DH       |      9|  1|   2|  0|  0| 
 
 * * *
