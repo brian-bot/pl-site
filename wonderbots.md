@@ -3,23 +3,25 @@
 ### Batters
 
  
-|players           |position | hitsbb|  r| rbi| hr| sb| 
-|:-----------------|:--------|------:|--:|---:|--:|--:| 
-|Yasmani Grandal   |C        |     15|  0|   1|  0|  1| 
-|Vladimir Guerrero |1B       |      4|  0|   0|  0|  0| 
-|Ketel Marte       |2B       |     16|  7|   2|  1|  1| 
-|Nolan Arenado     |3B       |     13|  3|   7|  2|  0| 
-|Brandon Crawford  |SS       |     11|  3|   2|  1|  1| 
-|Jake Cronenworth  |MI       |     14|  6|   4|  1|  0| 
-|Luis Arraez       |CI       |      5|  1|   0|  0|  0| 
-|Austin Meadows    |OF       |     10|  0|   2|  0|  0| 
-|Cody Bellinger    |OF       |      9|  4|   2|  0|  0| 
-|George Springer   |OF       |     14|  7|   6|  2|  1| 
-|Jarred Kelenic    |OF       |      7|  4|   3|  1|  1| 
-|Andrew Vaughn     |DH       |      3|  0|   0|  0|  0| 
-|Dylan Carlson     |DH       |     10|  4|   4|  1|  0| 
-|Nelson Cruz       |DH       |      8|  5|   4|  1|  0| 
-|Yuli Gurriel      |DH       |     10|  1|   2|  0|  0| 
+|players               |position | hitsbb|  r| rbi| hr| sb| 
+|:---------------------|:--------|------:|--:|---:|--:|--:| 
+|Yasmani Grandal       |C        |     15|  0|   1|  0|  1| 
+|Vladimir Guerrero     |1B       |      4|  0|   0|  0|  0| 
+|Vladimir Guerrero Jr. |1B       |      9|  3|   6|  2|  0| 
+|Ketel Marte           |2B       |     16|  7|   2|  1|  1| 
+|Nolan Arenado         |3B       |     13|  3|   7|  2|  0| 
+|Brandon Crawford      |SS       |     11|  3|   2|  1|  1| 
+|Jake Cronenworth      |MI       |     14|  6|   4|  1|  0| 
+|Luis Arraez           |CI       |      5|  1|   0|  0|  0| 
+|Austin Meadows        |OF       |     10|  0|   2|  0|  0| 
+|Cody Bellinger        |OF       |      9|  4|   2|  0|  0| 
+|George Springer       |OF       |     14|  7|   6|  2|  1| 
+|Jarred Kelenic        |OF       |      7|  4|   3|  1|  1| 
+|Andrew Vaughn         |DH       |      3|  0|   0|  0|  0| 
+|Dylan Carlson         |DH       |     10|  4|   4|  1|  0| 
+|Nelson Cruz           |DH       |      8|  5|   4|  1|  0| 
+|Yuli Gurriel          |DH       |     10|  1|   2|  0|  0| 
+
 
 * * *
 
