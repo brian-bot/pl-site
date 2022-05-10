@@ -5,15 +5,15 @@
  
 |players               |position | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:--------|------:|--:|---:|--:|--:| 
-|Yasmani Grandal       |C        |     15|  0|   1|  0|  1| 
-|Vladimir Guerrero     |1B       |      4|  0|   0|  0|  0| 
-|Vladimir Guerrero Jr. |1B       |      9|  3|   6|  2|  0| 
-|Ketel Marte           |2B       |     16|  7|   2|  1|  1| 
+|Yasmani Grandal       |C        |     17|  1|   1|  0|  1| 
+|Vladimir Guerrero     |1B       |      5|  0|   1|  0|  0| 
+|Vladimir Guerrero Jr. |1B       |      8|  3|   5|  2|  0| 
+|Ketel Marte           |2B       |     18|  8|   3|  2|  1| 
 |Nolan Arenado         |3B       |     13|  3|   7|  2|  0| 
-|Brandon Crawford      |SS       |     11|  3|   2|  1|  1| 
-|Jake Cronenworth      |MI       |     14|  6|   4|  1|  0| 
+|Brandon Crawford      |SS       |     13|  4|   2|  1|  1| 
+|Jake Cronenworth      |MI       |     15|  6|   4|  1|  0| 
 |Luis Arraez           |CI       |      5|  1|   0|  0|  0| 
-|Austin Meadows        |OF       |     10|  0|   2|  0|  0| 
+|Austin Meadows        |OF       |     12|  0|   2|  0|  0| 
 |Cody Bellinger        |OF       |      9|  4|   2|  0|  0| 
 |George Springer       |OF       |     14|  7|   6|  2|  1| 
 |Jarred Kelenic        |OF       |      7|  4|   3|  1|  1| 
@@ -37,9 +37,9 @@
 |Luis Severino   |SP          |  1|  5.000|  3| 5.400|      8| 1.600|  4|  0|  0| 
 |Robbie Ray      |SP          |  2| 11.667|  7| 5.400|     16| 1.371| 13|  0|  0| 
 |Cal Quantrill   |RP          |  2| 12.000|  4| 3.000|     15| 1.250| 11|  0|  0| 
-|Emmanuel Clase  |RP          |  6|  6.000|  0| 0.000|      2| 0.333|  5|  0|  4| 
-|Brock Burke     |OP          |  2|  4.333|  1| 2.077|      6| 1.385|  5|  1|  0| 
-|Chris Flexen    |OP          |  2| 11.667|  3| 2.314|     13| 1.114|  6|  0|  0| 
+|Emmanuel Clase  |RP          |  7|  7.000|  0| 0.000|      4| 0.571|  5|  1|  4| 
+|Brock Burke     |OP          |  3|  7.000|  1| 1.286|      8| 1.143| 10|  1|  0| 
+|Chris Flexen    |OP          |  3| 16.667|  9| 4.860|     23| 1.380| 11|  0|  0| 
 |Dane Dunning    |OP          |  2| 13.667|  2| 1.317|      9| 0.659| 12|  1|  0| 
 |Drew Rasmussen  |OP          |  2| 10.000|  2| 1.800|      9| 0.900|  8|  2|  0| 
 |Yusei Kikuchi   |OP          |  2|  8.667|  5| 5.192|     11| 1.269| 11|  1|  0| 

@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez    |C         |      6|  1|   2|  0|  0| 
+|Salvador Perez    |C         |      8|  1|   2|  0|  0| 
 |Matt Olson        |1B        |     13|  3|   7|  1|  0| 
-|Javier Baez       |2B        |     12|  3|   3|  0|  0| 
-|Eugenio Suarez    |3B        |     10|  4|   7|  3|  0| 
+|Javier Baez       |2B        |     13|  3|   3|  0|  0| 
+|Eugenio Suarez    |3B        |     12|  4|   7|  3|  0| 
 |Bo Bichette       |SS        |     15|  6|   6|  1|  1| 
 |Francisco Lindor  |MI        |     11|  5|   5|  1|  0| 
 |Kyle Schwarber    |CI        |     14|  6|   5|  3|  2| 
 |Franmil Reyes     |OF        |     14|  5|   5|  1|  0| 
-|Jorge Soler       |OF        |     11|  3|   8|  3|  0| 
+|Jorge Soler       |OF        |     12|  3|   8|  3|  0| 
 |Mitch Haniger     |OF        |      1|  0|   0|  0|  0| 
 |Taylor Ward       |OF        |     21|  7|   6|  2|  0| 
-|Avisail Garcia    |DH        |      9|  2|   0|  0|  0| 
+|Avisail Garcia    |DH        |     11|  3|   0|  0|  0| 
 |Brandon Nimmo     |DH        |     17|  6|   2|  0|  0| 
 |Enrique Hernandez |DH        |      7|  1|   1|  0|  0| 
 |Jazz Chisholm Jr. |DH        |     13|  7|   6|  1|  2| 
 |Luke Voit         |BAT BENCH |     **| **|  **| **| **| 
-|Sean Murphy       |BAT BENCH |      9|  4|   4|  1|  0| 
+|Sean Murphy       |BAT BENCH |     10|  5|   4|  1|  0| 
 
 
 * * *
