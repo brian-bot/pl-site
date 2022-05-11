@@ -5,22 +5,22 @@
  |players         |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------|:---------|------:|--:|---:|--:|--:| 
 |J.T. Realmuto   |C         |     12|  6|   4|  1|  1| 
-|Pete Alonso     |1B        |     16|  8|  10|  4|  0| 
+|Pete Alonso     |1B        |     20|  9|  10|  4|  0| 
 |Jonathan India  |2B        |      4|  1|   1|  0|  0| 
-|Matt Chapman    |3B        |     11|  6|   4|  2|  0| 
+|Matt Chapman    |3B        |     12|  7|   4|  2|  0| 
 |Dansby Swanson  |SS        |     16|  9|   4|  2|  2| 
-|Kolten Wong     |MI        |     16|  8|   2|  1|  3| 
+|Kolten Wong     |MI        |     17|  8|   3|  1|  4| 
 |Carlos Santana  |CI        |      8|  1|   1|  0|  0| 
-|Adam Duvall     |OF        |     11|  5|   6|  2|  0| 
-|J.D. Martinez   |OF        |     10|  2|   6|  2|  0| 
-|Kyle Tucker     |OF        |     19|  3|   6|  1|  3| 
-|Yordan Alvarez  |OF        |     20|  8|   8|  4|  0| 
-|Adam Frazier    |DH        |     14|  4|   3|  1|  0| 
+|Adam Duvall     |OF        |     12|  5|   6|  2|  0| 
+|J.D. Martinez   |OF        |     11|  3|   6|  2|  0| 
+|Kyle Tucker     |OF        |     23|  4|   6|  1|  5| 
+|Yordan Alvarez  |OF        |     20|  8|   9|  4|  0| 
+|Adam Frazier    |DH        |     18|  5|   3|  1|  0| 
 |Max Kepler      |DH        |     10|  3|   4|  1|  0| 
 |Nathaniel Lowe  |DH        |      6|  2|   0|  0|  0| 
-|Trey Mancini    |DH        |     14|  5|   3|  0|  0| 
-|Joc Pederson    |BAT BENCH |      1|  0|   1|  0|  0| 
-|Jonathan Villar |BAT BENCH |      2|  0|   0|  0|  0| 
+|Trey Mancini    |DH        |     16|  5|   4|  0|  0| 
+|Joc Pederson    |BAT BENCH |      2|  1|   1|  0|  0| 
+|Jonathan Villar |BAT BENCH |      3|  0|   0|  0|  0| 
 
 * * *
 
@@ -35,9 +35,9 @@
 |Jose Urquidy     |SP          |  2| 11.000|  4|  3.273|     15| 1.364|  9|  1|  0| 
 |Max Fried        |SP          |  2| 13.000|  3|  2.077|      9| 0.692| 14|  2|  0| 
 |Zac Gallen       |SP          |  2| 13.333|  2|  1.350|     10| 0.750| 12|  2|  0| 
-|Jordan Romano    |RP          |  4|  4.000|  0|  0.000|      5| 1.250|  4|  0|  4| 
+|Jordan Romano    |RP          |  5|  4.333|  3|  6.231|      8| 1.846|  5|  0|  4| 
 |Liam Hendriks    |RP          |  7|  6.333|  2|  2.842|      4| 0.632|  8|  0|  5| 
-|Chad Green       |OP          |  3|  3.000|  0|  0.000|      1| 0.333|  5|  0|  1| 
+|Chad Green       |OP          |  4|  4.000|  1|  2.250|      2| 0.500|  7|  0|  1| 
 |Cristian Javier  |OP          |  2|  8.333|  0|  0.000|      5| 0.600|  9|  1|  0| 
 |Luis Garcia      |OP          |  2| 13.000|  3|  2.077|     10| 0.769| 14|  1|  0| 
 |Michael Fulmer   |OP          |  3|  3.667|  2|  4.909|      6| 1.636|  0|  0|  0| 
