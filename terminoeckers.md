@@ -6,10 +6,10 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Daulton Varsho   |C         |     17|  7|   5|  2|  1| 
-|Freddie Freeman  |1B        |     20|  6|   4|  0|  1| 
-|Trea Turner      |2B        |     14|  4|   5|  0|  2| 
-|Josh Donaldson   |3B        |     15|  3|   3|  0|  0| 
-|Jeremy Pena      |SS        |     14|  7|  13|  3|  1| 
+|Freddie Freeman  |1B        |     21|  7|   4|  0|  1| 
+|Trea Turner      |2B        |     18|  6|   5|  0|  2| 
+|Josh Donaldson   |3B        |     17|  4|   6|  1|  0| 
+|Jeremy Pena      |SS        |     20|  8|  16|  3|  1| 
 |Ty France        |MI        |     20|  3|   3|  0|  0| 
 |Joey Votto       |CI        |      4|  0|   0|  0|  0| 
 |Byron Buxton     |OF        |     10|  7|   6|  3|  0| 
@@ -19,7 +19,7 @@
 |Andrew McCutchen |DH        |     11|  6|   8|  2|  0| 
 |Hunter Renfroe   |DH        |     13| 10|   8|  6|  0| 
 |Santiago Espinal |DH        |     17|  4|   4|  0|  1| 
-|Tommy Pham       |DH        |     24| 11|   7|  1|  1| 
+|Tommy Pham       |DH        |     26| 12|   7|  1|  1| 
 |Josh Naylor      |BAT BENCH |     17|  6|  17|  4|  0| 
 |Randy Arozarena  |BAT BENCH |     17|  5|   5|  1|  3| 
 
@@ -30,7 +30,7 @@
  
 |players          |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Dylan Cease      |SP          |  2| 12.000|  1|  0.750|      8| 0.667| 19|  1|  0| 
+|Dylan Cease      |SP          |  3| 16.000|  7|  3.938|     16| 1.000| 30|  1|  0| 
 |Jesus Luzardo    |SP          |  3| 14.667|  7|  4.295|     16| 1.091| 18|  1|  0| 
 |Julio Urias      |SP          |  2| 12.000|  2|  1.500|     15| 1.250|  8|  1|  0| 
 |Sandy Alcantara  |SP          |  3| 17.333|  8|  4.154|     22| 1.269| 17|  0|  0| 

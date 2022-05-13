@@ -6,17 +6,17 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Cooper Hummel     |C         |     11|  3|   2|  0|  1| 
-|Josh Bell         |1B        |     24| 12|   8|  2|  0| 
+|Josh Bell         |1B        |     25| 12|   8|  2|  0| 
 |Brandon Lowe      |2B        |     15|  7|   3|  2|  1| 
 |Rafael Devers     |3B        |     22|  6|   6|  2|  0| 
 |Willy Adames      |SS        |     19|  9|  11|  4|  0| 
 |J.P. Crawford     |MI        |     17|  5|   2|  1|  0| 
 |Patrick Wisdom    |CI        |     10|  5|   3|  2|  0| 
-|Aaron Judge       |OF        |     16| 10|  16|  6|  1| 
-|Joey Gallo        |OF        |      9|  3|   1|  1|  0| 
+|Aaron Judge       |OF        |     19| 13|  20|  7|  1| 
+|Joey Gallo        |OF        |     11|  4|   1|  1|  0| 
 |Jurickson Profar  |OF        |     14|  3|   1|  0|  0| 
-|Tyler O'Neill     |OF        |     11|  4|   9|  1|  0| 
-|Alec Bohm         |DH        |     16|  7|   2|  1|  1| 
+|Tyler O'Neill     |OF        |     12|  4|   9|  1|  0| 
+|Alec Bohm         |DH        |     18|  8|   2|  1|  1| 
 |Anthony Santander |DH        |     17|  4|   6|  0|  0| 
 |Bobby Witt Jr.    |DH        |     12|  4|   5|  1|  2| 
 |Christian Walker  |DH        |     16|  4|   6|  2|  0| 

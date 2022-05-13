@@ -5,19 +5,19 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez    |C         |     10|  2|   2|  0|  0| 
+|Salvador Perez    |C         |     11|  2|   3|  0|  0| 
 |Matt Olson        |1B        |     16|  4|   8|  1|  0| 
 |Javier Baez       |2B        |     15|  4|   3|  0|  0| 
 |Eugenio Suarez    |3B        |     14|  4|   8|  3|  0| 
 |Bo Bichette       |SS        |     20|  6|   6|  1|  1| 
-|Francisco Lindor  |MI        |     13|  5|   5|  1|  1| 
-|Kyle Schwarber    |CI        |     14|  6|   5|  3|  2| 
+|Francisco Lindor  |MI        |     14|  6|   5|  1|  1| 
+|Kyle Schwarber    |CI        |     15|  7|   7|  3|  2| 
 |Franmil Reyes     |OF        |     15|  5|   5|  1|  0| 
 |Jorge Soler       |OF        |     14|  5|  10|  4|  0| 
 |Mitch Haniger     |OF        |      1|  0|   0|  0|  0| 
 |Taylor Ward       |OF        |     22|  8|   8|  3|  0| 
 |Avisail Garcia    |DH        |     15|  4|   3|  1|  0| 
-|Brandon Nimmo     |DH        |     22|  7|   2|  0|  0| 
+|Brandon Nimmo     |DH        |     25|  8|   2|  0|  0| 
 |Enrique Hernandez |DH        |      7|  2|   1|  0|  0| 
 |Jazz Chisholm Jr. |DH        |     14|  8|   9|  2|  2| 
 |Luke Voit         |BAT BENCH |      5|  4|   2|  2|  0| 
@@ -41,7 +41,7 @@
 |Kenley Jansen     |RP          |  4|  4.000|  1|  2.250|      4| 1.000|  6|  1|  3| 
 |Corey Kluber      |OP          |  3| 15.000|  9|  5.400|     16| 1.067| 15|  1|  0| 
 |Dakota Hudson     |OP          |  3| 16.667|  6|  3.240|     24| 1.440|  8|  1|  0| 
-|Daniel Bard       |OP          |  5|  4.333|  2|  4.154|      5| 1.154|  6|  0|  4| 
+|Daniel Bard       |OP          |  5|  4.333|  1|  2.077|      5| 1.154|  6|  0|  4| 
 |Jameson Taillon   |OP          |  3| 16.000|  5|  2.812|     20| 1.250| 12|  2|  0| 
 |Jordan Montgomery |OP          |  2| 11.000|  4|  3.273|     10| 0.909| 10|  0|  0| 
 |Alex Cobb         |PITCH BENCH |  3| 11.000|  4|  3.273|     16| 1.455| 14|  1|  0| 

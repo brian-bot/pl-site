@@ -6,23 +6,23 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Keibert Ruiz       |C         |     12|  4|   6|  1|  1| 
-|Max Muncy          |1B        |     12|  6|   2|  1|  0| 
+|Max Muncy          |1B        |     15|  8|   2|  1|  0| 
 |Ozzie Albies       |2B        |     13|  6|   2|  0|  2| 
-|Alex Bregman       |3B        |     16|  8|   7|  2|  0| 
-|Corey Seager       |SS        |     15|  7|   6|  6|  0| 
-|DJ LeMahieu        |MI        |     14|  9|   2|  0|  1| 
+|Alex Bregman       |3B        |     21| 11|   9|  2|  0| 
+|Corey Seager       |SS        |     16|  7|   6|  6|  0| 
+|DJ LeMahieu        |MI        |     17| 11|   2|  0|  1| 
 |Anthony Rendon     |CI        |     13|  4|   9|  2|  0| 
-|Adolis Garcia      |OF        |      9|  5|   7|  1|  1| 
-|Juan Soto          |OF        |     20|  9|   7|  4|  2| 
+|Adolis Garcia      |OF        |     10|  6|   7|  1|  1| 
+|Juan Soto          |OF        |     22| 10|   8|  5|  2| 
 |Kris Bryant        |OF        |     **| **|  **| **| **| 
-|Robbie Grossman    |OF        |     17|  3|   4|  0|  1| 
+|Robbie Grossman    |OF        |     17|  3|   5|  0|  1| 
 |Brandon Belt       |DH        |      7|  2|   2|  0|  1| 
 |Julio Rodriguez    |DH        |     21|  4|   5|  1|  4| 
-|Justin Turner      |DH        |     11|  5|   9|  1|  0| 
-|Tommy Edman        |DH        |     18| 10|   7|  0|  3| 
+|Justin Turner      |DH        |     12|  5|  11|  1|  0| 
+|Tommy Edman        |DH        |     19| 11|   7|  0|  3| 
 |Charlie Blackmon   |BAT BENCH |     10|  4|   3|  0|  0| 
 |Isiah Kiner-Falefa |BAT BENCH |     10|  5|   2|  0|  0| 
-|Mark Canha         |BAT BENCH |      8|  5|   3|  1|  0| 
+|Mark Canha         |BAT BENCH |     11|  7|   6|  2|  0| 
 
 
 * * *
@@ -38,7 +38,7 @@
 |Eric Lauer        |SP          |  2| 13.333|  2|  1.350|     11| 0.825| 19|  2|  0| 
 |Freddy Peralta    |SP          |  3| 16.667|  4|  2.160|     15| 0.900| 22|  2|  0| 
 |Joe Musgrove      |SP          |  2| 14.000|  3|  1.929|     13| 0.929| 16|  1|  0| 
-|Corey Knebel      |RP          |  5|  5.333|  3|  5.062|      6| 1.125|  7|  0|  3| 
+|Corey Knebel      |RP          |  6|  6.333|  3|  4.263|      9| 1.421|  7|  0|  4| 
 |Craig Kimbrel     |RP          |  4|  3.667|  0|  0.000|      6| 1.636|  3|  0|  2| 
 |David Robertson   |OP          |  3|  3.333|  2|  5.400|      4| 1.200|  6|  0|  1| 
 |Devin Williams    |OP          |  4|  3.667|  3|  7.364|      6| 1.636|  6|  0|  2| 
