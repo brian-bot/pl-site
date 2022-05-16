@@ -6,21 +6,21 @@
 |players               |position | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:--------|------:|--:|---:|--:|--:| 
 |Yasmani Grandal       |C        |     20|  2|   1|  0|  1| 
-|Vladimir Guerrero     |1B       |     19|  5|   7|  2|  0| 
+|Vladimir Guerrero     |1B       |     20|  5|   7|  2|  0| 
 |Vladimir Guerrero Jr. |1B       |     **| **|  **| **| **| 
 |Ketel Marte           |2B       |     24| 11|   4|  2|  1| 
-|Nolan Arenado         |3B       |     17|  3|  10|  2|  0| 
+|Nolan Arenado         |3B       |     19|  5|  12|  3|  0| 
 |Brandon Crawford      |SS       |     17|  9|   6|  2|  1| 
-|Jake Cronenworth      |MI       |     20|  9|   5|  1|  0| 
-|Luis Arraez           |CI       |     12|  1|   0|  0|  0| 
+|Jake Cronenworth      |MI       |     20| 10|   5|  1|  0| 
+|Luis Arraez           |CI       |     15|  2|   0|  0|  1| 
 |Austin Meadows        |OF       |     17|  1|   2|  0|  0| 
-|Cody Bellinger        |OF       |     13|  7|   6|  1|  0| 
+|Cody Bellinger        |OF       |     14|  8|   6|  1|  0| 
 |George Springer       |OF       |     18|  9|   8|  3|  1| 
 |Jarred Kelenic        |OF       |      8|  5|   3|  1|  1| 
 |Andrew Vaughn         |DH       |      4|  0|   0|  0|  0| 
-|Dylan Carlson         |DH       |     14|  5|   5|  2|  0| 
+|Dylan Carlson         |DH       |     16|  5|   6|  2|  0| 
 |Nelson Cruz           |DH       |     18|  9|  10|  2|  0| 
-|Yuli Gurriel          |DH       |     20|  6|   5|  1|  1| 
+|Yuli Gurriel          |DH       |     23|  7|   6|  2|  1| 
 
 
 * * *
@@ -30,12 +30,12 @@
  
 |players         |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:---------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Aaron Nola      |SP          |  3| 18.333|  8| 3.927|     21| 1.145| 22|  0|  0| 
-|Adam Wainwright |SP          |  2| 13.000|  3| 2.077|     11| 0.846|  6|  1|  0| 
+|Aaron Nola      |SP          |  4| 25.333| 10| 3.553|     27| 1.066| 30|  0|  0| 
+|Adam Wainwright |SP          |  3| 19.000|  5| 2.368|     16| 0.842| 11|  2|  0| 
 |Jose Berrios    |SP          |  3| 15.667| 12| 6.894|     24| 1.532|  9|  1|  0| 
 |Kevin Gausman   |SP          |  3| 20.333|  6| 2.656|     19| 0.934| 23|  2|  0| 
 |Luis Severino   |SP          |  2|  9.667|  6| 5.586|     15| 1.552| 12|  0|  0| 
-|Robbie Ray      |SP          |  3| 17.333|  9| 4.673|     20| 1.154| 23|  1|  0| 
+|Robbie Ray      |SP          |  4| 23.333| 14| 5.400|     28| 1.200| 32|  2|  0| 
 |Cal Quantrill   |RP          |  3| 18.333|  8| 3.927|     25| 1.364| 14|  0|  0| 
 |Emmanuel Clase  |RP          |  8|  8.000|  0| 0.000|      5| 0.625|  6|  1|  5| 
 |Brock Burke     |OP          |  4|  9.000|  1| 1.000|      9| 1.000| 11|  1|  0| 

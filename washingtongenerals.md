@@ -6,23 +6,23 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Max Stassi        |C         |      6|  5|   2|  1|  0| 
-|Rhys Hoskins      |1B        |     17|  9|  12|  5|  0| 
-|Andres Gimenez    |2B        |     19|  9|  14|  3|  1| 
-|Ryan McMahon      |3B        |     22|  9|   7|  2|  0| 
-|Marcus Semien     |SS        |     10|  2|   2|  0|  0| 
+|Rhys Hoskins      |1B        |     19|  9|  14|  5|  0| 
+|Andres Gimenez    |2B        |     20|  9|  14|  3|  1| 
+|Ryan McMahon      |3B        |     24| 10|   8|  2|  0| 
+|Marcus Semien     |SS        |     11|  3|   2|  0|  0| 
 |Gleyber Torres    |MI        |     14|  6|  12|  4|  0| 
-|Eduardo Escobar   |CI        |     10|  4|   2|  0|  0| 
+|Eduardo Escobar   |CI        |     12|  6|   2|  0|  0| 
 |Cedric Mullins    |OF        |     25|  9|   7|  3|  3| 
 |Garrett Cooper    |OF        |     19|  5|   6|  1|  0| 
-|Myles Straw       |OF        |     21|  8|   1|  0|  4| 
-|Randal Grichuk    |OF        |     10|  6|   6|  2|  0| 
-|Connor Joe        |DH        |     21|  7|   4|  0|  1| 
+|Myles Straw       |OF        |     22|  8|   1|  0|  4| 
+|Randal Grichuk    |OF        |     12|  6|   8|  2|  0| 
+|Connor Joe        |DH        |     23|  8|   4|  0|  1| 
 |Owen Miller       |DH        |     16| 12|   6|  1|  0| 
-|Rowdy Tellez      |DH        |     19|  7|  18|  4|  0| 
+|Rowdy Tellez      |DH        |     22|  8|  20|  5|  0| 
 |Teoscar Hernandez |DH        |      4|  2|   4|  1|  1| 
-|Brendan Rodgers   |BAT BENCH |     15| 10|  13|  2|  0| 
+|Brendan Rodgers   |BAT BENCH |     17| 11|  13|  2|  0| 
 |Gary Sanchez      |BAT BENCH |     19|  5|   4|  1|  0| 
-|Mike Yastrzemski  |BAT BENCH |     16|  5|   5|  1|  0| 
+|Mike Yastrzemski  |BAT BENCH |     17|  5|   5|  1|  0| 
 |Seth Beer         |BAT BENCH |      4|  0|   1|  0|  0| 
 
 

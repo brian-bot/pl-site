@@ -5,23 +5,23 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Willson Contreras   |C         |     23|  7|   3|  2|  0| 
-|Paul Goldschmidt    |1B        |     27|  9|  11|  3|  1| 
-|Jose Altuve         |2B        |     21| 13|  10|  6|  0| 
-|Jose Ramirez        |3B        |     23| 10|   7|  1|  3| 
-|Tim Anderson        |SS        |     26| 10|   6|  2|  2| 
-|Trevor Story        |MI        |     15|  5|  10|  1|  1| 
+|Willson Contreras   |C         |     24|  7|   3|  2|  0| 
+|Paul Goldschmidt    |1B        |     30| 12|  14|  4|  1| 
+|Jose Altuve         |2B        |     23| 15|  11|  7|  0| 
+|Jose Ramirez        |3B        |     24| 11|   8|  2|  3| 
+|Tim Anderson        |SS        |     27| 10|   6|  2|  2| 
+|Trevor Story        |MI        |     16|  5|  10|  1|  2| 
 |Austin Riley        |CI        |     20|  6|   6|  3|  1| 
 |Alex Verdugo        |OF        |     10|  4|   2|  0|  0| 
-|Jesse Winker        |OF        |     21|  4|   7|  2|  0| 
-|Lourdes Gurriel Jr. |OF        |     14|  3|   2|  0|  1| 
-|Mookie Betts        |OF        |     20| 11|  10|  4|  0| 
-|Andrew Benintendi   |DH        |     21|  6|   7|  1|  0| 
-|Brandon Marsh       |DH        |     18|  8|   6|  2|  1| 
+|Jesse Winker        |OF        |     23|  6|   7|  2|  0| 
+|Lourdes Gurriel Jr. |OF        |     15|  3|   2|  0|  1| 
+|Mookie Betts        |OF        |     22| 12|  12|  5|  0| 
+|Andrew Benintendi   |DH        |     22|  7|   7|  1|  0| 
+|Brandon Marsh       |DH        |     19|  9|   6|  2|  1| 
 |Eric Hosmer         |DH        |     25|  8|  14|  2|  0| 
-|Marcell Ozuna       |DH        |     12|  5|   4|  1|  1| 
+|Marcell Ozuna       |DH        |     14|  6|   4|  1|  2| 
 |Austin Hays         |BAT BENCH |     24|  7|   4|  1|  0| 
-|Jean Segura         |BAT BENCH |     23| 11|  10|  4|  2| 
+|Jean Segura         |BAT BENCH |     25| 12|  10|  4|  3| 
 |Travis d'Arnaud     |BAT BENCH |     11|  4|   8|  1|  0| 
 
 
@@ -32,11 +32,11 @@
  
 |players           |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Frankie Montas    |SP          |  3| 18.333|  9| 4.418|     24| 1.309| 16|  0|  0| 
+|Frankie Montas    |SP          |  4| 24.333| 11| 4.068|     29| 1.192| 28|  0|  0| 
 |German Marquez    |SP          |  3| 17.000| 13| 6.882|     26| 1.529| 18|  1|  0| 
 |Kyle Hendricks    |SP          |  4| 24.333| 11| 4.068|     28| 1.151| 13|  1|  0| 
 |Pablo Lopez       |SP          |  3| 19.667|  4| 1.831|     18| 0.915| 23|  1|  0| 
-|Tarik Skubal      |SP          |  3| 18.000|  7| 3.500|     21| 1.167| 18|  1|  0| 
+|Tarik Skubal      |SP          |  4| 24.000|  7| 2.625|     26| 1.083| 29|  2|  0| 
 |Zack Wheeler      |SP          |  3| 19.000|  3| 1.421|     19| 1.000| 21|  1|  0| 
 |Edwin Diaz        |RP          |  6|  6.000|  1| 1.500|      3| 0.500| 13|  0|  5| 
 |Josh Hader        |RP          |  3|  3.000|  0| 0.000|      1| 0.333|  3|  0|  3| 

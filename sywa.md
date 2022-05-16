@@ -5,22 +5,22 @@
  |players         |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------|:---------|------:|--:|---:|--:|--:| 
 |J.T. Realmuto   |C         |     15|  7|   4|  1|  1| 
-|Pete Alonso     |1B        |     25| 10|  13|  5|  0| 
+|Pete Alonso     |1B        |     26| 11|  13|  5|  0| 
 |Jonathan India  |2B        |      4|  1|   1|  0|  0| 
-|Matt Chapman    |3B        |     13|  7|   5|  2|  0| 
-|Dansby Swanson  |SS        |     19| 11|   8|  3|  3| 
-|Kolten Wong     |MI        |     21| 10|   4|  2|  4| 
-|Carlos Santana  |CI        |     10|  2|   1|  0|  0| 
-|Adam Duvall     |OF        |     16|  8|   7|  2|  0| 
-|J.D. Martinez   |OF        |     20|  6|   8|  3|  0| 
+|Matt Chapman    |3B        |     14|  7|   5|  2|  0| 
+|Dansby Swanson  |SS        |     21| 13|  10|  4|  3| 
+|Kolten Wong     |MI        |     26| 12|   5|  3|  6| 
+|Carlos Santana  |CI        |     11|  2|   1|  0|  0| 
+|Adam Duvall     |OF        |     17|  8|   7|  2|  0| 
+|J.D. Martinez   |OF        |     21|  6|   8|  3|  0| 
 |Kyle Tucker     |OF        |     35|  8|  10|  3|  6| 
 |Yordan Alvarez  |OF        |     30| 14|  14|  7|  0| 
-|Adam Frazier    |DH        |     22|  6|   3|  1|  0| 
-|Max Kepler      |DH        |     17|  6|   6|  1|  0| 
-|Nathaniel Lowe  |DH        |      7|  2|   0|  0|  0| 
-|Trey Mancini    |DH        |     24|  6|   5|  1|  0| 
-|Joc Pederson    |BAT BENCH |      5|  1|   2|  0|  0| 
-|Jonathan Villar |BAT BENCH |      4|  1|   0|  0|  0| 
+|Adam Frazier    |DH        |     24|  6|   3|  1|  0| 
+|Max Kepler      |DH        |     18|  6|   7|  1|  0| 
+|Nathaniel Lowe  |DH        |      8|  2|   0|  0|  0| 
+|Trey Mancini    |DH        |     26|  7|   6|  2|  0| 
+|Joc Pederson    |BAT BENCH |      6|  2|   4|  1|  0| 
+|Jonathan Villar |BAT BENCH |      5|  1|   0|  0|  0| 
 
 * * *
 
@@ -29,7 +29,7 @@
  
 |players          |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Brandon Woodruff |SP          |  2| 10.000|  8|  7.200|     14| 1.400| 18|  1|  0| 
+|Brandon Woodruff |SP          |  3| 15.000|  9|  5.400|     21| 1.400| 24|  2|  0| 
 |Framber Valdez   |SP          |  3| 20.000|  6|  2.700|     23| 1.150| 15|  1|  0| 
 |Gerrit Cole      |SP          |  3| 18.667|  4|  1.929|     20| 1.071| 25|  2|  0| 
 |Jose Urquidy     |SP          |  4| 17.000|  6|  3.176|     21| 1.235| 15|  1|  0| 
