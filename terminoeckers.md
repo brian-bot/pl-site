@@ -9,7 +9,7 @@
 |Freddie Freeman  |1B        |     27|  8|   4|  0|  1| 
 |Trea Turner      |2B        |     23|  7|   6|  0|  3| 
 |Josh Donaldson   |3B        |     21|  6|   9|  2|  0| 
-|Jeremy Pena      |SS        |     20|  8|  16|  3|  1| 
+|Jeremy Pena      |SS        |     18|  8|  13|  3|  1| 
 |Ty France        |MI        |     26|  4|   4|  0|  0| 
 |Joey Votto       |CI        |      4|  0|   0|  0|  0| 
 |Byron Buxton     |OF        |     14| 10|   8|  5|  0| 

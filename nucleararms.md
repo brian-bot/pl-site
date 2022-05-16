@@ -15,7 +15,7 @@
 |Aaron Hicks      |OF        |     18|  6|   3|  0|  3| 
 |Bryan Reynolds   |OF        |     23|  7|   3|  2|  1| 
 |Ian Happ         |OF        |     18|  4|   4|  0|  2| 
-|Michael Brantley |OF        |     22|  7|   6|  0|  0| 
+|Michael Brantley |OF        |     20|  5|   5|  0|  0| 
 |Anthony Rizzo    |DH        |     17|  6|   5|  1|  1| 
 |Harrison Bader   |DH        |     18| 11|   8|  3|  4| 
 |Ji-Man Choi      |DH        |      1|  0|   2|  0|  0| 

@@ -7,7 +7,7 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Mitch Garver      |C         |      8|  1|   3|  1|  0| 
 |Jared Walsh       |1B        |     22|  8|  14|  4|  0| 
-|Jorge Polanco     |2B        |     30|  7|  14|  2|  1| 
+|Jorge Polanco     |2B        |     27|  7|  12|  2|  1| 
 |Spencer Torkelson |3B        |     10|  1|   1|  0|  0| 
 |Wander Franco     |SS        |     19|  8|   3|  0|  2| 
 |Carlos Correa     |MI        |     16|  6|   8|  1|  0| 

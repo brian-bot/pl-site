@@ -21,7 +21,7 @@
 |Rowdy Tellez      |DH        |     22|  8|  20|  5|  0| 
 |Teoscar Hernandez |DH        |      4|  2|   4|  1|  1| 
 |Brendan Rodgers   |BAT BENCH |     17| 11|  13|  2|  0| 
-|Gary Sanchez      |BAT BENCH |     19|  5|   4|  1|  0| 
+|Gary Sanchez      |BAT BENCH |     17|  5|   4|  1|  0| 
 |Mike Yastrzemski  |BAT BENCH |     17|  5|   5|  1|  0| 
 |Seth Beer         |BAT BENCH |      4|  0|   1|  0|  0| 
 
@@ -41,7 +41,7 @@
 |Walker Buehler     |SP          |  3| 17.000|  6|  3.176|     23| 1.353| 14|  2|  0| 
 |Anthony Bender     |RP          |  7|  6.333|  2|  2.842|      9| 1.421|  8|  0|  2| 
 |Mark Melancon      |RP          |  6|  3.667| 10| 24.545|     15| 4.091|  1|  0|  3| 
-|Hector Neris       |OP          |  8|  7.667|  0|  0.000|      3| 0.391|  8|  0|  0| 
+|Hector Neris       |OP          |  7|  6.667|  0|  0.000|      3| 0.450|  8|  0|  0| 
 |Lucas Sims         |OP          |  4|  4.667|  5|  9.643|      9| 1.929|  4|  1|  0| 
 |Ryan Tepera        |OP          |  9|  8.667|  2|  2.077|      8| 0.923|  5|  1|  1| 
 |Zach Plesac        |OP          |  2| 11.333|  8|  6.353|     16| 1.412|  8|  0|  0| 

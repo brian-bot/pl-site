@@ -8,7 +8,7 @@
 |Keibert Ruiz       |C         |     16|  7|   6|  1|  1| 
 |Max Muncy          |1B        |     17| 10|   4|  1|  0| 
 |Ozzie Albies       |2B        |     18|  8|   4|  0|  2| 
-|Alex Bregman       |3B        |     26| 12|  11|  2|  0| 
+|Alex Bregman       |3B        |     23| 10|  10|  2|  0| 
 |Corey Seager       |SS        |     20|  9|   7|  6|  0| 
 |DJ LeMahieu        |MI        |     20| 11|   4|  0|  1| 
 |Anthony Rendon     |CI        |     20|  6|  11|  2|  0| 

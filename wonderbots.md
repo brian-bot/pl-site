@@ -20,7 +20,7 @@
 |Andrew Vaughn         |DH       |      4|  0|   0|  0|  0| 
 |Dylan Carlson         |DH       |     16|  5|   6|  2|  0| 
 |Nelson Cruz           |DH       |     18|  9|  10|  2|  0| 
-|Yuli Gurriel          |DH       |     23|  7|   6|  2|  1| 
+|Yuli Gurriel          |DH       |     22|  6|   6|  2|  1| 
 
 
 * * *

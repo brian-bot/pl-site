@@ -13,10 +13,10 @@
 |Carlos Santana  |CI        |     11|  2|   1|  0|  0| 
 |Adam Duvall     |OF        |     17|  8|   7|  2|  0| 
 |J.D. Martinez   |OF        |     21|  6|   8|  3|  0| 
-|Kyle Tucker     |OF        |     35|  8|  10|  3|  6| 
-|Yordan Alvarez  |OF        |     30| 14|  14|  7|  0| 
+|Kyle Tucker     |OF        |     32|  7|   8|  2|  6| 
+|Yordan Alvarez  |OF        |     28| 13|  14|  7|  0| 
 |Adam Frazier    |DH        |     24|  6|   3|  1|  0| 
-|Max Kepler      |DH        |     18|  6|   7|  1|  0| 
+|Max Kepler      |DH        |     17|  5|   7|  1|  0| 
 |Nathaniel Lowe  |DH        |      8|  2|   0|  0|  0| 
 |Trey Mancini    |DH        |     26|  7|   6|  2|  0| 
 |Joc Pederson    |BAT BENCH |      6|  2|   4|  1|  0| 
@@ -32,7 +32,7 @@
 |Brandon Woodruff |SP          |  3| 15.000|  9|  5.400|     21| 1.400| 24|  2|  0| 
 |Framber Valdez   |SP          |  3| 20.000|  6|  2.700|     23| 1.150| 15|  1|  0| 
 |Gerrit Cole      |SP          |  3| 18.667|  4|  1.929|     20| 1.071| 25|  2|  0| 
-|Jose Urquidy     |SP          |  4| 17.000|  6|  3.176|     21| 1.235| 15|  1|  0| 
+|Jose Urquidy     |SP          |  3| 14.000|  5|  3.214|     18| 1.286| 12|  1|  0| 
 |Max Fried        |SP          |  3| 19.000|  7|  3.316|     20| 1.053| 20|  2|  0| 
 |Zac Gallen       |SP          |  3| 19.333|  3|  1.397|     13| 0.672| 21|  2|  0| 
 |Jordan Romano    |RP          |  6|  5.333|  3|  5.062|      9| 1.688|  6|  0|  4| 

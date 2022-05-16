@@ -7,7 +7,7 @@
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Willson Contreras   |C         |     24|  7|   3|  2|  0| 
 |Paul Goldschmidt    |1B        |     30| 12|  14|  4|  1| 
-|Jose Altuve         |2B        |     23| 15|  11|  7|  0| 
+|Jose Altuve         |2B        |     21| 13|   8|  6|  0| 
 |Jose Ramirez        |3B        |     24| 11|   8|  2|  3| 
 |Tim Anderson        |SS        |     27| 10|   6|  2|  2| 
 |Trevor Story        |MI        |     16|  5|  10|  1|  2| 
