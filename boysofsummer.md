@@ -5,21 +5,21 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Willson Contreras   |C         |     24|  7|   3|  2|  0| 
+|Willson Contreras   |C         |     26|  9|   7|  3|  0| 
 |Paul Goldschmidt    |1B        |     30| 12|  14|  4|  1| 
-|Jose Altuve         |2B        |     21| 13|   8|  6|  0| 
+|Jose Altuve         |2B        |     23| 13|   9|  6|  0| 
 |Jose Ramirez        |3B        |     24| 11|   8|  2|  3| 
-|Tim Anderson        |SS        |     27| 10|   6|  2|  2| 
-|Trevor Story        |MI        |     16|  5|  10|  1|  2| 
-|Austin Riley        |CI        |     20|  6|   6|  3|  1| 
-|Alex Verdugo        |OF        |     10|  4|   2|  0|  0| 
-|Jesse Winker        |OF        |     23|  6|   7|  2|  0| 
+|Tim Anderson        |SS        |     29| 10|   6|  2|  2| 
+|Trevor Story        |MI        |     18|  6|  11|  2|  3| 
+|Austin Riley        |CI        |     21|  6|   6|  3|  1| 
+|Alex Verdugo        |OF        |     10|  4|   3|  0|  0| 
+|Jesse Winker        |OF        |     24|  6|   7|  2|  0| 
 |Lourdes Gurriel Jr. |OF        |     15|  3|   2|  0|  1| 
-|Mookie Betts        |OF        |     22| 12|  12|  5|  0| 
-|Andrew Benintendi   |DH        |     22|  7|   7|  1|  0| 
-|Brandon Marsh       |DH        |     19|  9|   6|  2|  1| 
+|Mookie Betts        |OF        |     24| 13|  13|  5|  0| 
+|Andrew Benintendi   |DH        |     23|  7|   8|  1|  0| 
+|Brandon Marsh       |DH        |     20|  9|   8|  2|  1| 
 |Eric Hosmer         |DH        |     25|  8|  14|  2|  0| 
-|Marcell Ozuna       |DH        |     14|  6|   4|  1|  2| 
+|Marcell Ozuna       |DH        |     16|  6|   4|  1|  2| 
 |Austin Hays         |BAT BENCH |     24|  7|   4|  1|  0| 
 |Jean Segura         |BAT BENCH |     25| 12|  10|  4|  3| 
 |Travis d'Arnaud     |BAT BENCH |     11|  4|   8|  1|  0| 
@@ -39,9 +39,9 @@
 |Tarik Skubal      |SP          |  4| 24.000|  7| 2.625|     26| 1.083| 29|  2|  0| 
 |Zack Wheeler      |SP          |  3| 19.000|  3| 1.421|     19| 1.000| 21|  1|  0| 
 |Edwin Diaz        |RP          |  6|  6.000|  1| 1.500|      3| 0.500| 13|  0|  5| 
-|Josh Hader        |RP          |  3|  3.000|  0| 0.000|      1| 0.333|  3|  0|  3| 
+|Josh Hader        |RP          |  4|  4.000|  0| 0.000|      1| 0.250|  6|  0|  4| 
 |Daulton Jefferies |OP          |  3| 16.000| 12| 6.750|     23| 1.438| 11|  0|  0| 
-|Garrett Whitlock  |OP          |  3| 11.000|  5| 4.091|     16| 1.455| 16|  0|  0| 
+|Garrett Whitlock  |OP          |  4| 16.000|  7| 3.938|     21| 1.312| 19|  0|  0| 
 |Kyle Gibson       |OP          |  3| 14.000|  8| 5.143|     22| 1.571|  7|  1|  0| 
 |Paul Blackburn    |OP          |  3| 17.667|  4| 2.038|     18| 1.019| 11|  1|  0| 
 |Raisel Iglesias   |OP          |  7|  5.667|  5| 7.941|     10| 1.765|  6|  0|  4| 
