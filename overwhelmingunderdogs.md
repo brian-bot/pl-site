@@ -8,18 +8,18 @@
 |Keibert Ruiz     |C         |      5|  1|   1|  0|  0| 
 |Max Muncy        |1B        |      1|  1|   0|  0|  0| 
 |Ozzie Albies     |2B        |      2|  1|   0|  0|  0| 
-|Alex Bregman     |3B        |     **| **|  **| **| **| 
-|Corey Seager     |SS        |      3|  1|   0|  0|  0| 
-|DJ LeMahieu      |MI        |     **| **|  **| **| **| 
+|Alex Bregman     |3B        |      1|  0|   0|  0|  0| 
+|Corey Seager     |SS        |      4|  1|   1|  0|  0| 
+|DJ LeMahieu      |MI        |      2|  0|   1|  0|  0| 
 |Anthony Rendon   |CI        |      2|  1|   0|  0|  0| 
-|Adolis Garcia    |OF        |      0|  0|   0|  0|  0| 
+|Adolis Garcia    |OF        |      1|  0|   0|  0|  0| 
 |Juan Soto        |OF        |      3|  0|   0|  0|  1| 
-|Mark Canha       |OF        |      4|  3|   1|  0|  0| 
+|Mark Canha       |OF        |      5|  4|   1|  0|  0| 
 |Robbie Grossman  |OF        |      0|  0|   0|  0|  0| 
 |Brandon Belt     |DH        |      1|  0|   0|  0|  0| 
-|Julio Rodriguez  |DH        |      0|  0|   0|  0|  0| 
+|Julio Rodriguez  |DH        |      3|  1|   1|  1|  0| 
 |Justin Turner    |DH        |      1|  1|   3|  1|  0| 
-|Tommy Edman      |DH        |      0|  0|   0|  0|  0| 
+|Tommy Edman      |DH        |      2|  2|   0|  0|  0| 
 |Charlie Blackmon |BAT BENCH |      2|  1|   1|  1|  0| 
 |Kris Bryant      |BAT BENCH |     **| **|  **| **| **| 
 |Royce Lewis      |BAT BENCH |     **| **|  **| **| **| 
@@ -31,7 +31,7 @@
  
 |players           |position    |  g| ip| er|   era| hitsbb| whip| so|  w| sv| 
 |:-----------------|:-----------|--:|--:|--:|-----:|------:|----:|--:|--:|--:| 
-|Bruce Zimmermann  |SP          | **| **| **|    **|     **|   **| **| **| **| 
+|Bruce Zimmermann  |SP          |  1|  5|  5|  9.00|      8| 1.60|  2|  0|  0| 
 |Carlos Rodon      |SP          | **| **| **|    **|     **|   **| **| **| **| 
 |Eric Lauer        |SP          | **| **| **|    **|     **|   **| **| **| **| 
 |Freddy Peralta    |SP          | **| **| **|    **|     **|   **| **| **| **| 

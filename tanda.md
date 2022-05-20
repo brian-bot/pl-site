@@ -8,19 +8,19 @@
 |Sean Murphy       |C         |     **| **|  **| **| **| 
 |Matt Olson        |1B        |      3|  1|   0|  0|  0| 
 |Jazz Chisholm Jr. |2B        |      4|  2|   2|  1|  0| 
-|Eugenio Suarez    |3B        |      1|  0|   0|  0|  0| 
+|Eugenio Suarez    |3B        |      3|  2|   0|  0|  0| 
 |Bo Bichette       |SS        |      1|  0|   0|  0|  0| 
-|Francisco Lindor  |MI        |      4|  2|   0|  0|  0| 
-|Kyle Schwarber    |CI        |      2|  1|   0|  0|  0| 
-|Franmil Reyes     |OF        |     **| **|  **| **| **| 
+|Francisco Lindor  |MI        |      8|  5|   0|  0|  1| 
+|Kyle Schwarber    |CI        |      3|  1|   0|  0|  0| 
+|Franmil Reyes     |OF        |      1|  0|   1|  0|  0| 
 |Jorge Soler       |OF        |     **| **|  **| **| **| 
-|Juan Yepez        |OF        |      0|  0|   0|  0|  0| 
+|Juan Yepez        |OF        |      3|  1|   1|  1|  0| 
 |Taylor Ward       |OF        |      3|  0|   0|  0|  0| 
-|Brandon Nimmo     |DH        |      2|  2|   1|  0|  0| 
+|Brandon Nimmo     |DH        |      3|  3|   2|  0|  0| 
 |Javier Baez       |DH        |      0|  0|   0|  0|  0| 
 |Jean Segura       |DH        |      0|  0|   0|  0|  0| 
 |Jesus Aguilar     |DH        |      0|  0|   1|  0|  0| 
-|Luke Voit         |BAT BENCH |      0|  0|   0|  0|  0| 
+|Luke Voit         |BAT BENCH |      2|  0|   0|  0|  0| 
 |Mitch Haniger     |BAT BENCH |     **| **|  **| **| **| 
 |Salvador Perez    |BAT BENCH |     **| **|  **| **| **| 
 
@@ -34,7 +34,7 @@
 |:-----------------|:-----------|--:|-----:|--:|------:|------:|------:|--:|--:|--:| 
 |Charlie Morton    |SP          | **|    **| **|     **|     **|     **| **| **| **| 
 |Ian Anderson      |SP          | **|    **| **|     **|     **|     **| **| **| **| 
-|Jordan Montgomery |SP          | **|    **| **|     **|     **|     **| **| **| **| 
+|Jordan Montgomery |SP          |  1| 5.000|  3|  5.400|      7|  1.400|  3|  0|  0| 
 |Kyle Wright       |SP          | **|    **| **|     **|     **|     **| **| **| **| 
 |Max Scherzer      |SP          |  1| 5.667|  1|  1.588|      7|  1.235|  4|  1|  0| 
 |Sean Manaea       |SP          | **|    **| **|     **|     **|     **| **| **| **| 
@@ -46,7 +46,7 @@
 |Jameson Taillon   |OP          | **|    **| **|     **|     **|     **| **| **| **| 
 |Mike Clevinger    |OP          | **|    **| **|     **|     **|     **| **| **| **| 
 |Alex Cobb         |PITCH BENCH | **|    **| **|     **|     **|     **| **| **| **| 
-|Dakota Hudson     |PITCH BENCH | **|    **| **|     **|     **|     **| **| **| **| 
+|Dakota Hudson     |PITCH BENCH |  1| 4.667|  4|  7.714|      7|  1.500|  2|  0|  0| 
 |Merrill Kelly     |PITCH BENCH | **|    **| **|     **|     **|     **| **| **| **| 
 
 
