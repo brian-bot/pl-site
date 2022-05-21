@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Gary Sanchez      |C         |      3|  0|   3|  0|  0| 
-|Rhys Hoskins      |1B        |      4|  2|   1|  1|  0| 
+|Gary Sanchez      |C         |      4|  0|   4|  0|  0| 
+|Rhys Hoskins      |1B        |      5|  2|   1|  1|  0| 
 |Brendan Rodgers   |2B        |      1|  0|   1|  0|  0| 
 |Ryan McMahon      |3B        |      2|  1|   0|  0|  0| 
 |Andres Gimenez    |SS        |      0|  0|   0|  0|  0| 
 |Gleyber Torres    |MI        |      1|  1|   1|  0|  0| 
-|Rowdy Tellez      |CI        |      2|  0|   1|  0|  0| 
-|Cedric Mullins    |OF        |      1|  1|   1|  0|  0| 
-|Garrett Cooper    |OF        |      0|  0|   1|  0|  0| 
-|Myles Straw       |OF        |      1|  1|   0|  0|  0| 
+|Rowdy Tellez      |CI        |      4|  2|   3|  1|  0| 
+|Cedric Mullins    |OF        |      4|  2|   1|  0|  0| 
+|Garrett Cooper    |OF        |      1|  0|   1|  0|  0| 
+|Myles Straw       |OF        |      4|  3|   0|  0|  0| 
 |Randal Grichuk    |OF        |      1|  0|   0|  0|  0| 
 |Connor Joe        |DH        |      1|  1|   0|  0|  0| 
-|Mike Yastrzemski  |DH        |      2|  1|   1|  0|  0| 
-|Owen Miller       |DH        |      1|  1|   0|  0|  0| 
+|Mike Yastrzemski  |DH        |      3|  2|   1|  0|  0| 
+|Owen Miller       |DH        |      1|  1|   1|  0|  0| 
 |Teoscar Hernandez |DH        |      1|  0|   0|  0|  0| 
 |Eduardo Escobar   |BAT BENCH |      0|  0|   1|  0|  0| 
-|Jose Miranda      |BAT BENCH |      1|  0|   0|  0|  0| 
-|Marcus Semien     |BAT BENCH |      4|  0|   0|  0|  1| 
+|Jose Miranda      |BAT BENCH |      3|  1|   2|  0|  0| 
+|Marcus Semien     |BAT BENCH |      6|  0|   1|  0|  1| 
 
 
 * * *
@@ -46,7 +46,7 @@
 |Ryan Tepera       |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Zach Plesac       |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Luis Gil          |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
-|Michael Wacha     |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
+|Michael Wacha     |PITCH BENCH |  1| 4.667|  2| 3.857|      7| 1.500|  3|  0|  0| 
 |Tylor Megill      |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
 
 
