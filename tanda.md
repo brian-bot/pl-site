@@ -5,22 +5,22 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Sean Murphy       |C         |      4|  0|   0|  0|  0| 
-|Matt Olson        |1B        |      6|  1|   0|  0|  0| 
+|Sean Murphy       |C         |      5|  1|   0|  0|  0| 
+|Matt Olson        |1B        |      8|  1|   0|  0|  0| 
 |Jazz Chisholm Jr. |2B        |      7|  3|   2|  1|  0| 
-|Eugenio Suarez    |3B        |      7|  5|   2|  1|  0| 
+|Eugenio Suarez    |3B        |      9|  6|   4|  2|  0| 
 |Bo Bichette       |SS        |      4|  2|   5|  2|  0| 
-|Francisco Lindor  |MI        |     11|  6|   2|  0|  1| 
-|Kyle Schwarber    |CI        |      8|  3|   1|  1|  0| 
-|Franmil Reyes     |OF        |      2|  0|   1|  0|  0| 
+|Francisco Lindor  |MI        |     12|  7|   4|  0|  1| 
+|Kyle Schwarber    |CI        |     11|  5|   1|  1|  0| 
+|Franmil Reyes     |OF        |      3|  0|   1|  0|  0| 
 |Jorge Soler       |OF        |      5|  1|   3|  1|  0| 
-|Juan Yepez        |OF        |      8|  5|   2|  1|  0| 
+|Juan Yepez        |OF        |      9|  6|   3|  2|  0| 
 |Taylor Ward       |OF        |      4|  1|   0|  0|  0| 
-|Brandon Nimmo     |DH        |      8|  5|   3|  0|  0| 
-|Javier Baez       |DH        |      2|  2|   1|  1|  0| 
-|Jean Segura       |DH        |      3|  0|   2|  0|  0| 
+|Brandon Nimmo     |DH        |     10|  6|   3|  0|  0| 
+|Javier Baez       |DH        |      4|  2|   1|  1|  0| 
+|Jean Segura       |DH        |      5|  0|   3|  0|  1| 
 |Jesus Aguilar     |DH        |      4|  1|   1|  0|  0| 
-|Luke Voit         |BAT BENCH |      6|  2|   0|  0|  0| 
+|Luke Voit         |BAT BENCH |      8|  3|   0|  0|  0| 
 |Mitch Haniger     |BAT BENCH |     **| **|  **| **| **| 
 |Salvador Perez    |BAT BENCH |     **| **|  **| **| **| 
 
@@ -45,7 +45,7 @@
 |Eduardo Rodriguez |OP          |  1| 0.333|  3| 81.000|      6| 18.000|  0|  0|  0| 
 |Jameson Taillon   |OP          |  1| 7.000|  1|  1.286|      6|  0.857|  7|  0|  0| 
 |Mike Clevinger    |OP          | **|    **| **|     **|     **|     **| **| **| **| 
-|Alex Cobb         |PITCH BENCH | **|    **| **|     **|     **|     **| **| **| **| 
+|Alex Cobb         |PITCH BENCH |  1| 6.000|  6|  9.000|     10|  1.667|  7|  0|  0| 
 |Dakota Hudson     |PITCH BENCH |  1| 4.667|  4|  7.714|      7|  1.500|  2|  0|  0| 
 |Merrill Kelly     |PITCH BENCH |  1| 5.000|  3|  5.400|      8|  1.600|  2|  0|  0| 
 

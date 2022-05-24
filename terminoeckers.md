@@ -5,24 +5,24 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Daulton Varsho   |C         |      8|  5|   4|  1|  0| 
-|Freddie Freeman  |1B        |      4|  2|   3|  0|  1| 
-|Trea Turner      |2B        |      8|  0|   2|  0|  2| 
+|Daulton Varsho   |C         |     10|  7|   4|  1|  0| 
+|Freddie Freeman  |1B        |      7|  4|   5|  0|  1| 
+|Trea Turner      |2B        |      9|  0|   5|  0|  2| 
 |Josh Donaldson   |3B        |      3|  2|   1|  0|  0| 
-|Jeremy Pena      |SS        |      6|  1|   1|  0|  2| 
-|Ty France        |MI        |      9|  2|   3|  1|  0| 
-|Josh Naylor      |CI        |      3|  1|   1|  1|  0| 
+|Jeremy Pena      |SS        |      7|  1|   1|  0|  2| 
+|Ty France        |MI        |     11|  3|   3|  1|  0| 
+|Josh Naylor      |CI        |      4|  1|   1|  1|  0| 
 |Byron Buxton     |OF        |      4|  4|   1|  0|  0| 
-|Christian Yelich |OF        |      5|  4|   0|  0|  2| 
-|Hunter Renfroe   |OF        |      9|  3|   4|  0|  0| 
+|Christian Yelich |OF        |      7|  4|   0|  0|  2| 
+|Hunter Renfroe   |OF        |      9|  4|   4|  0|  0| 
 |Nick Castellanos |OF        |      4|  2|   0|  0|  0| 
 |Alek Thomas      |DH        |      6|  1|   2|  1|  0| 
 |Avisail Garcia   |DH        |      2|  0|   1|  0|  0| 
 |Randy Arozarena  |DH        |     12|  3|   5|  2|  1| 
-|Tommy Pham       |DH        |      2|  1|   0|  0|  0| 
-|Andrew McCutchen |BAT BENCH |      5|  2|   2|  1|  0| 
-|Joey Votto       |BAT BENCH |      4|  1|   2|  1|  0| 
-|Seiya Suzuki     |BAT BENCH |      4|  2|   1|  0|  0| 
+|Tommy Pham       |DH        |      3|  2|   1|  1|  0| 
+|Andrew McCutchen |BAT BENCH |      6|  3|   2|  1|  0| 
+|Joey Votto       |BAT BENCH |      6|  2|   2|  1|  0| 
+|Seiya Suzuki     |BAT BENCH |      7|  4|   1|  0|  1| 
 
 * * *
 
@@ -42,8 +42,8 @@
 |Aaron Ashby      |OP          |  1| 1.000|  0|  0.000|      0| 0.000|  1|  0|  0| 
 |Hunter Greene    |OP          |  1| 6.000|  1|  1.500|      6| 1.000|  6|  0|  0| 
 |Rafael Montero   |OP          |  3| 2.000|  0|  0.000|      3| 1.500|  2|  0|  0| 
-|Ryan Helsley     |OP          |  2| 2.000|  0|  0.000|      0| 0.000|  2|  0|  1| 
-|Triston McKenzie |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Ryan Helsley     |OP          |  3| 3.000|  0|  0.000|      1| 0.333|  3|  0|  1| 
+|Triston McKenzie |OP          |  1| 7.000|  1|  1.286|      4| 0.571|  3|  1|  0| 
 |Jesus Luzardo    |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Josiah Gray      |PITCH BENCH |  1| 6.000|  3|  4.500|      6| 1.000|  7|  0|  0| 
 |MacKenzie Gore   |PITCH BENCH |  1| 6.000|  1|  1.500|      5| 0.833|  6|  1|  0| 
