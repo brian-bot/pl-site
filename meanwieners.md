@@ -15,6 +15,7 @@
 |Aaron Judge       |OF        |     12|  5|   4|  3|  0| 
 |Darin Ruf         |OF        |     11|  7|   5|  2|  0| 
 |Joey Gallo        |OF        |      2|  0|   0|  0|  0| 
+|Kyle Lewis        |OF        |      2|  0|   0|  0|  0| 
 |Christian Walker  |DH        |      6|  4|   2|  2|  0| 
 |Jorge Mateo       |DH        |      3|  1|   1|  0|  2| 
 |Mike Moustakas    |DH        |      3|  1|   0|  0|  0| 

@@ -7,7 +7,7 @@ Through games on 2022-05-24 ([website build status](https://github.com/brian-bot
 
 |team                                              | points|  r| hitsbb| hr| rbi| sb|  w| sv| so|   era|  whip|
 |:-------------------------------------------------|------:|--:|------:|--:|---:|--:|--:|--:|--:|-----:|-----:|
-|[Mean Wieners](./meanwieners)                     |     57| 44|     94| 17|  31|  7|  5|  5| 61| 2.938| 1.197|
+|[Mean Wieners](./meanwieners)                     |     57| 44|     96| 17|  31|  7|  5|  5| 61| 2.938| 1.197|
 |[Terminoeckers](./terminoeckers)                  |     66| 47|    116|  9|  40|  8|  5|  3| 56| 2.160| 0.994|
 |[Vass Deferens](./vassdeferens)                   |     64| 43|    100| 12|  40|  5|  6|  3| 84| 2.411| 0.978|
 |[T and A](./tanda)                                |     42| 48|    115| 12|  39|  2|  5|  2| 51| 4.421| 1.386|
