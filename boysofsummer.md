@@ -7,20 +7,20 @@
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Willson Contreras   |C         |      4|  1|   0|  0|  1| 
 |Paul Goldschmidt    |1B        |     14|  3|  10|  2|  0| 
-|Jose Altuve         |2B        |     10|  6|   2|  2|  0| 
-|Jose Ramirez        |3B        |      9|  3|  10|  3|  1| 
+|Jose Altuve         |2B        |     11|  6|   2|  2|  0| 
+|Jose Ramirez        |3B        |     11|  3|  10|  3|  1| 
 |Tim Anderson        |SS        |     15|  4|   7|  1|  2| 
-|J.P. Crawford       |MI        |      8|  3|   0|  0|  0| 
-|Austin Riley        |CI        |      7|  2|   4|  1|  0| 
+|J.P. Crawford       |MI        |     10|  3|   0|  0|  0| 
+|Austin Riley        |CI        |     10|  3|   5|  2|  0| 
 |Andrew Benintendi   |OF        |     16|  1|   2|  0|  0| 
-|Jesse Winker        |OF        |      7|  2|   3|  0|  0| 
-|Marcell Ozuna       |OF        |      9|  3|   4|  2|  0| 
+|Jesse Winker        |OF        |      9|  2|   3|  0|  0| 
+|Marcell Ozuna       |OF        |     10|  3|   4|  2|  0| 
 |Mookie Betts        |OF        |     16|  9|  10|  4|  0| 
 |Brandon Marsh       |DH        |      6|  1|   2|  0|  0| 
-|Eric Hosmer         |DH        |      8|  1|   0|  0|  0| 
+|Eric Hosmer         |DH        |      9|  1|   0|  0|  0| 
 |Jeff McNeil         |DH        |     13|  6|   7|  1|  1| 
 |Yoan Moncada        |DH        |      2|  1|   0|  0|  0| 
-|Austin Hays         |BAT BENCH |     10|  6|   8|  1|  0| 
+|Austin Hays         |BAT BENCH |     11|  6|   8|  1|  0| 
 |Lourdes Gurriel Jr. |BAT BENCH |      2|  0|   0|  0|  0| 
 |Travis d'Arnaud     |BAT BENCH |      7|  2|   2|  1|  0| 
 |Trevor Story        |BAT BENCH |     11| 10|  17|  6|  1| 
@@ -44,10 +44,10 @@
 |Jorge Lopez      |OP          |  4|  4.000|  1|  2.250|      6| 1.500|  4|  0|  1| 
 |Kyle Gibson      |OP          |  2| 10.667|  4|  3.375|     16| 1.500| 15|  0|  0| 
 |Martin Perez     |OP          |  1|  9.000|  0|  0.000|      9| 1.000|  5|  1|  0| 
-|Paul Blackburn   |OP          |  1|  4.667|  2|  3.857|      8| 1.714|  5|  0|  0| 
+|Paul Blackburn   |OP          |  2| 10.000|  2|  1.800|     14| 1.400|  7|  1|  0| 
 |Raisel Iglesias  |OP          |  4|  2.667|  1|  3.375|      2| 0.750|  7|  0|  3| 
 |Blake Snell      |PITCH BENCH |  2|  9.000|  6|  6.000|     11| 1.222| 12|  0|  0| 
-|Kyle Hendricks   |PITCH BENCH |  1|  5.000|  7| 12.600|     10| 2.000|  3|  0|  0| 
+|Kyle Hendricks   |PITCH BENCH |  2|  9.000| 11| 11.000|     16| 1.778|  4|  0|  0| 
 
 
 * * *

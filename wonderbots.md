@@ -10,16 +10,16 @@
 |Ketel Marte       |2B        |      9|  6|   3|  0|  0| 
 |Nolan Arenado     |3B        |      9|  4|   3|  1|  0| 
 |Brandon Crawford  |SS        |      8|  2|   4|  1|  0| 
-|Jake Cronenworth  |MI        |      9|  5|   4|  1|  0| 
-|Luis Arraez       |CI        |     17| 10|   4|  0|  1| 
+|Jake Cronenworth  |MI        |     10|  5|   4|  1|  0| 
+|Luis Arraez       |CI        |     18| 10|   4|  0|  1| 
 |Austin Meadows    |OF        |     **| **|  **| **| **| 
 |Cody Bellinger    |OF        |      9|  3|   1|  0|  3| 
 |Dylan Carlson     |OF        |      7|  3|   1|  0|  0| 
 |George Springer   |OF        |     12|  5|   4|  1|  0| 
-|Andrew Vaughn     |DH        |     10|  5|   1|  0|  0| 
-|Nelson Cruz       |DH        |     10|  2|   3|  0|  1| 
-|Thairo Estrada    |DH        |     10|  1|   0|  0|  1| 
-|Yuli Gurriel      |DH        |      1|  0|   1|  0|  0| 
+|Andrew Vaughn     |DH        |     11|  5|   1|  0|  0| 
+|Nelson Cruz       |DH        |     12|  2|   3|  0|  1| 
+|Thairo Estrada    |DH        |     12|  2|   0|  0|  1| 
+|Yuli Gurriel      |DH        |      3|  0|   1|  0|  0| 
 |Jarred Kelenic    |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -35,16 +35,16 @@
 |Jose Berrios    |SP          |  1|  6.333|  3|  4.263|      7| 1.105|  7|  0|  0| 
 |Kevin Gausman   |SP          |  2| 11.000|  2|  1.636|     14| 1.273| 11|  1|  0| 
 |Luis Severino   |SP          |  1|  7.000|  0|  0.000|      8| 1.143|  5|  0|  0| 
-|Robbie Ray      |SP          |  1|  6.000|  4|  6.000|      7| 1.167|  8|  0|  0| 
-|Cal Quantrill   |RP          |  1|  7.000|  1|  1.286|      5| 0.714|  5|  0|  0| 
+|Robbie Ray      |SP          |  2| 12.000|  7|  5.250|     15| 1.250| 18|  0|  0| 
+|Cal Quantrill   |RP          |  2| 13.000|  3|  2.077|     15| 1.154|  8|  0|  0| 
 |Emmanuel Clase  |RP          |  2|  2.000|  0|  0.000|      0| 0.000|  2|  0|  0| 
-|Brock Burke     |OP          |  1|  1.000|  0|  0.000|      1| 1.000|  0|  0|  0| 
+|Brock Burke     |OP          |  2|  3.000|  0|  0.000|      2| 0.667|  1|  0|  0| 
 |Dane Dunning    |OP          |  2| 12.333|  7|  5.108|     18| 1.459| 14|  0|  0| 
-|Drew Rasmussen  |OP          |  1|  5.000|  0|  0.000|      4| 0.800|  7|  1|  0| 
+|Drew Rasmussen  |OP          |  2| 10.000|  3|  2.700|     12| 1.200| 14|  2|  0| 
 |Marco Gonzales  |OP          |  2| 11.333|  6|  4.765|     16| 1.412|  5|  2|  0| 
 |Yusei Kikuchi   |OP          |  1|  4.333|  2|  4.154|      5| 1.154|  7|  0|  0| 
 |Chris Flexen    |PITCH BENCH |  1|  4.000|  5| 11.250|     11| 2.750|  2|  0|  0| 
-|Luis Castillo   |PITCH BENCH |  1|  6.000|  2|  3.000|      7| 1.167|  5|  0|  0| 
+|Luis Castillo   |PITCH BENCH |  2| 11.000|  4|  3.273|     12| 1.091| 11|  1|  0| 
 
 
 * * *
