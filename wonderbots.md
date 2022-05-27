@@ -5,19 +5,19 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Yasmani Grandal   |C         |      4|  0|   1|  0|  0| 
-|Vladimir Guerrero |1B        |      8|  1|   2|  1|  0| 
-|Ketel Marte       |2B        |      9|  6|   3|  0|  0| 
-|Nolan Arenado     |3B        |      9|  4|   3|  1|  0| 
+|Yasmani Grandal   |C         |      6|  1|   1|  0|  0| 
+|Vladimir Guerrero |1B        |      9|  2|   3|  2|  0| 
+|Ketel Marte       |2B        |     10|  6|   3|  0|  0| 
+|Nolan Arenado     |3B        |     11|  4|   3|  1|  0| 
 |Brandon Crawford  |SS        |      8|  2|   4|  1|  0| 
 |Jake Cronenworth  |MI        |     10|  5|   4|  1|  0| 
-|Luis Arraez       |CI        |     18| 10|   4|  0|  1| 
+|Luis Arraez       |CI        |     20| 11|   4|  0|  1| 
 |Austin Meadows    |OF        |     **| **|  **| **| **| 
-|Cody Bellinger    |OF        |      9|  3|   1|  0|  3| 
+|Cody Bellinger    |OF        |     12|  4|   4|  0|  3| 
 |Dylan Carlson     |OF        |      7|  3|   1|  0|  0| 
-|George Springer   |OF        |     12|  5|   4|  1|  0| 
-|Andrew Vaughn     |DH        |     11|  5|   1|  0|  0| 
-|Nelson Cruz       |DH        |     12|  2|   3|  0|  1| 
+|George Springer   |OF        |     14|  7|   5|  2|  0| 
+|Andrew Vaughn     |DH        |     13|  6|   6|  1|  0| 
+|Nelson Cruz       |DH        |     14|  3|   4|  0|  1| 
 |Thairo Estrada    |DH        |     12|  2|   0|  0|  1| 
 |Yuli Gurriel      |DH        |      3|  0|   1|  0|  0| 
 |Jarred Kelenic    |BAT BENCH |     **| **|  **| **| **| 
@@ -30,8 +30,8 @@
  
 |players         |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:---------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Aaron Nola      |SP          |  1|  5.333|  4|  6.750|      6| 1.125|  9|  0|  0| 
-|Adam Wainwright |SP          |  1|  7.000|  1|  1.286|      7| 1.000|  3|  1|  0| 
+|Aaron Nola      |SP          |  2| 13.667|  5|  3.293|     11| 0.805| 19|  1|  0| 
+|Adam Wainwright |SP          |  2| 12.000|  4|  3.000|     18| 1.500|  5|  1|  0| 
 |Jose Berrios    |SP          |  1|  6.333|  3|  4.263|      7| 1.105|  7|  0|  0| 
 |Kevin Gausman   |SP          |  2| 11.000|  2|  1.636|     14| 1.273| 11|  1|  0| 
 |Luis Severino   |SP          |  1|  7.000|  0|  0.000|      8| 1.143|  5|  0|  0| 

@@ -6,17 +6,17 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Alejandro Kirk    |C         |      8|  2|   0|  0|  0| 
-|Josh Bell         |1B        |      5|  0|   1|  0|  0| 
-|Luis Urias        |2B        |      9|  5|   1|  1|  0| 
-|Rafael Devers     |3B        |     12|  6|   5|  3|  1| 
-|Bobby Witt Jr.    |SS        |      7|  5|   4|  2|  1| 
+|Josh Bell         |1B        |      6|  1|   3|  0|  0| 
+|Luis Urias        |2B        |     10|  6|   2|  2|  0| 
+|Rafael Devers     |3B        |     15|  9|   5|  3|  1| 
+|Bobby Witt Jr.    |SS        |      8|  5|   5|  2|  1| 
 |Ha-Seong Kim      |MI        |      7|  1|   2|  0|  2| 
-|Brandon Drury     |CI        |      4|  2|   0|  0|  0| 
-|Aaron Judge       |OF        |     13|  6|   4|  3|  0| 
+|Brandon Drury     |CI        |      6|  3|   3|  0|  0| 
+|Aaron Judge       |OF        |     15|  7|   6|  3|  1| 
 |Darin Ruf         |OF        |     11|  7|   5|  2|  0| 
 |Joey Gallo        |OF        |      2|  0|   0|  0|  0| 
 |Kyle Lewis        |OF        |      2|  0|   0|  0|  0| 
-|Christian Walker  |DH        |      6|  4|   2|  2|  0| 
+|Christian Walker  |DH        |      8|  5|   3|  3|  0| 
 |Jorge Mateo       |DH        |      3|  1|   1|  0|  2| 
 |Mike Moustakas    |DH        |      3|  1|   0|  0|  1| 
 |Patrick Wisdom    |DH        |     11|  8|   6|  4|  1| 

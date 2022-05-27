@@ -5,24 +5,24 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Daulton Varsho   |C         |     13|  9|   5|  2|  0| 
-|Freddie Freeman  |1B        |      9|  6|   5|  0|  1| 
-|Trea Turner      |2B        |     13|  1|   7|  1|  4| 
+|Daulton Varsho   |C         |     14|  9|   5|  2|  0| 
+|Freddie Freeman  |1B        |     13|  9|  10|  1|  1| 
+|Trea Turner      |2B        |     15|  2|   8|  1|  4| 
 |Josh Donaldson   |3B        |      3|  2|   1|  0|  0| 
 |Jeremy Pena      |SS        |      9|  2|   1|  0|  2| 
 |Ty France        |MI        |     17|  4|   6|  1|  0| 
 |Josh Naylor      |CI        |      5|  2|   1|  1|  0| 
-|Byron Buxton     |OF        |      4|  4|   1|  0|  0| 
-|Christian Yelich |OF        |      8|  5|   0|  0|  3| 
+|Byron Buxton     |OF        |      5|  4|   1|  0|  0| 
+|Christian Yelich |OF        |     11|  5|   1|  0|  3| 
 |Hunter Renfroe   |OF        |      9|  4|   4|  0|  0| 
-|Nick Castellanos |OF        |      6|  2|   1|  0|  0| 
-|Alek Thomas      |DH        |      7|  2|   2|  1|  0| 
+|Nick Castellanos |OF        |      7|  2|   2|  0|  0| 
+|Alek Thomas      |DH        |      8|  2|   2|  1|  0| 
 |Avisail Garcia   |DH        |      4|  1|   1|  0|  0| 
 |Randy Arozarena  |DH        |     15|  5|   7|  2|  1| 
-|Tommy Pham       |DH        |      6|  3|   2|  1|  0| 
-|Andrew McCutchen |BAT BENCH |     10|  4|   2|  1|  0| 
-|Joey Votto       |BAT BENCH |     10|  3|   6|  2|  0| 
-|Seiya Suzuki     |BAT BENCH |      9|  5|   3|  0|  1| 
+|Tommy Pham       |DH        |      8|  5|   5|  1|  0| 
+|Andrew McCutchen |BAT BENCH |     12|  5|   3|  1|  0| 
+|Joey Votto       |BAT BENCH |     12|  4|   6|  2|  0| 
+|Seiya Suzuki     |BAT BENCH |     10|  5|   3|  0|  2| 
 
 * * *
 
@@ -40,7 +40,7 @@
 |Andrew Kittredge |RP          | **|     **| **|     **|     **|    **| **| **| **| 
 |Clay Holmes      |RP          |  4|  5.333|  0|  0.000|      3| 0.562|  6|  0|  3| 
 |Aaron Ashby      |OP          |  2|  6.667|  0|  0.000|      7| 1.050|  6|  0|  0| 
-|Hunter Greene    |OP          |  1|  6.000|  1|  1.500|      6| 1.000|  6|  0|  0| 
+|Hunter Greene    |OP          |  2| 11.000|  6|  4.909|     15| 1.364| 12|  1|  0| 
 |Rafael Montero   |OP          |  5|  4.000|  0|  0.000|      4| 1.000|  4|  0|  0| 
 |Ryan Helsley     |OP          |  3|  3.000|  0|  0.000|      1| 0.333|  3|  0|  1| 
 |Triston McKenzie |OP          |  1|  7.000|  1|  1.286|      4| 0.571|  3|  1|  0| 
