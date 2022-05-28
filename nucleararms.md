@@ -7,23 +7,23 @@
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith       |C         |     13|  4|   4|  1|  0| 
 |Jose Abreu       |1B        |     16|  7|   5|  2|  0| 
-|Whit Merrifield  |2B        |     13|  7|   5|  1|  2| 
-|Manny Machado    |3B        |     16|  7|   4|  1|  1| 
-|Xander Bogaerts  |SS        |     13|  8|   2|  1|  0| 
-|Chris Taylor     |MI        |     11|  6|   6|  2|  0| 
+|Whit Merrifield  |2B        |     15|  8|   5|  1|  2| 
+|Manny Machado    |3B        |     18|  8|   4|  1|  1| 
+|Xander Bogaerts  |SS        |     16|  9|   5|  2|  0| 
+|Chris Taylor     |MI        |     13|  6|   6|  2|  0| 
 |Ke'Bryan Hayes   |CI        |      8|  4|   3|  0|  2| 
-|Bryan Reynolds   |OF        |     11|  4|   3|  1|  1| 
+|Bryan Reynolds   |OF        |     12|  5|   4|  2|  1| 
 |Ian Happ         |OF        |     12|  6|   9|  3|  0| 
 |Luis Robert      |OF        |      6|  1|   4|  1|  0| 
-|Michael Brantley |OF        |     11|  1|   1|  0|  0| 
-|Alec Bohm        |DH        |     10|  5|   2|  1|  0| 
+|Michael Brantley |OF        |     13|  1|   1|  0|  0| 
+|Alec Bohm        |DH        |     12|  6|   2|  1|  0| 
 |Anthony Rizzo    |DH        |     14|  6|   3|  1|  0| 
-|Harrison Bader   |DH        |      9|  3|   5|  1|  2| 
+|Harrison Bader   |DH        |     11|  4|   5|  1|  4| 
 |Shohei Ohtani    |DH        |      9|  4|   2|  1|  2| 
 |Aaron Hicks      |BAT BENCH |      8|  2|   0|  0|  0| 
 |Eloy Jimenez     |BAT BENCH |     **| **|  **| **| **| 
 |Ji-Man Choi      |BAT BENCH |     10|  3|   5|  1|  0| 
-|Nicky Lopez      |BAT BENCH |      6|  2|   1|  0|  1| 
+|Nicky Lopez      |BAT BENCH |     10|  3|   2|  0|  2| 
 
 * * *
 
@@ -32,7 +32,7 @@
  
 |players          |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Carlos Carrasco  |SP          |  1|  5.333|  1|  1.688|      7| 1.312|  4|  1|  0| 
+|Carlos Carrasco  |SP          |  2| 11.000|  6|  4.909|     14| 1.273| 11|  2|  0| 
 |Miles Mikolas    |SP          |  1|  6.667|  3|  4.050|      6| 0.900|  5|  0|  0| 
 |Nathan Eovaldi   |SP          |  1|  6.667|  2|  2.700|      5| 0.750| 11|  0|  0| 
 |Noah Syndergaard |SP          |  1|  8.000|  1|  1.125|      4| 0.500|  5|  1|  0| 
