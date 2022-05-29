@@ -6,22 +6,22 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Daulton Varsho   |C         |     15|  9|   5|  2|  0| 
-|Freddie Freeman  |1B        |     14|  9|  10|  1|  2| 
-|Trea Turner      |2B        |     17|  3|  10|  2|  4| 
+|Freddie Freeman  |1B        |     16| 10|  10|  1|  2| 
+|Trea Turner      |2B        |     18|  3|  11|  2|  4| 
 |Josh Donaldson   |3B        |      3|  2|   1|  0|  0| 
 |Jeremy Pena      |SS        |     11|  2|   1|  0|  2| 
-|Ty France        |MI        |     20|  6|   7|  2|  0| 
-|Josh Naylor      |CI        |      5|  2|   1|  1|  0| 
-|Byron Buxton     |OF        |      5|  4|   1|  0|  0| 
-|Christian Yelich |OF        |     13|  5|   1|  0|  3| 
+|Ty France        |MI        |     22|  7|   9|  2|  0| 
+|Josh Naylor      |CI        |      7|  3|   3|  1|  0| 
+|Byron Buxton     |OF        |      6|  4|   1|  0|  0| 
+|Christian Yelich |OF        |     14|  5|   1|  0|  3| 
 |Hunter Renfroe   |OF        |      9|  4|   4|  0|  0| 
-|Nick Castellanos |OF        |      9|  3|   3|  0|  0| 
+|Nick Castellanos |OF        |     11|  4|   3|  0|  0| 
 |Alek Thomas      |DH        |     10|  3|   2|  1|  0| 
 |Avisail Garcia   |DH        |      4|  1|   1|  0|  0| 
-|Randy Arozarena  |DH        |     16|  5|   7|  2|  1| 
+|Randy Arozarena  |DH        |     17|  5|   8|  2|  1| 
 |Tommy Pham       |DH        |      8|  5|   5|  1|  0| 
 |Andrew McCutchen |BAT BENCH |     12|  5|   3|  1|  0| 
-|Joey Votto       |BAT BENCH |     12|  4|   6|  2|  0| 
+|Joey Votto       |BAT BENCH |     13|  4|   6|  2|  0| 
 |Seiya Suzuki     |BAT BENCH |     10|  5|   3|  0|  2| 
 
 * * *
@@ -33,7 +33,7 @@
 |:----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Dylan Cease      |SP          |  1|  3.000|  7| 21.000|     10| 3.333|  4|  0|  0| 
 |Julio Urias      |SP          |  2| 11.000|  1|  0.818|      9| 0.818|  8|  1|  0| 
-|Sandy Alcantara  |SP          |  1|  9.000|  0|  0.000|      8| 0.889|  7|  1|  0| 
+|Sandy Alcantara  |SP          |  2| 17.000|  1|  0.529|     12| 0.706| 21|  2|  0| 
 |Shane McClanahan |SP          |  1|  6.000|  0|  0.000|      6| 1.000|  9|  1|  0| 
 |Trevor Rogers    |SP          |  2|  9.000|  8|  8.000|     15| 1.667|  8|  0|  0| 
 |Yu Darvish       |SP          |  2| 13.667|  2|  1.317|     11| 0.805| 12|  1|  0| 
