@@ -5,22 +5,22 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Alejandro Kirk    |C         |     11|  4|   1|  0|  0| 
-|Josh Bell         |1B        |      9|  4|   3|  0|  0| 
-|Luis Urias        |2B        |     12|  6|   2|  2|  0| 
-|Rafael Devers     |3B        |     22| 12|   5|  3|  1| 
+|Alejandro Kirk    |C         |     14|  8|   2|  0|  0| 
+|Josh Bell         |1B        |     10|  4|   3|  0|  0| 
+|Luis Urias        |2B        |     13|  6|   2|  2|  0| 
+|Rafael Devers     |3B        |     24| 14|   6|  4|  1| 
 |Bobby Witt Jr.    |SS        |     14|  8|  10|  3|  2| 
-|Ha-Seong Kim      |MI        |     10|  1|   2|  0|  2| 
-|Brandon Drury     |CI        |      8|  5|   4|  1|  0| 
-|Aaron Judge       |OF        |     16|  7|   6|  3|  1| 
+|Ha-Seong Kim      |MI        |     11|  1|   2|  0|  2| 
+|Brandon Drury     |CI        |      9|  5|   4|  1|  0| 
+|Aaron Judge       |OF        |     18|  8|   7|  4|  1| 
 |Darin Ruf         |OF        |     12|  8|   5|  2|  0| 
 |Joey Gallo        |OF        |      4|  0|   0|  0|  0| 
 |Kyle Lewis        |OF        |      5|  3|   3|  2|  0| 
-|Christian Walker  |DH        |      8|  5|   4|  3|  0| 
-|Jorge Mateo       |DH        |      5|  2|   4|  1|  3| 
-|Mike Moustakas    |DH        |      6|  2|   0|  0|  1| 
-|Patrick Wisdom    |DH        |     12|  9|   8|  4|  1| 
-|Anthony Santander |BAT BENCH |     14|  8|   9|  2|  0| 
+|Christian Walker  |DH        |     10|  5|   4|  3|  0| 
+|Jorge Mateo       |DH        |      7|  2|   4|  1|  3| 
+|Mike Moustakas    |DH        |      8|  2|   0|  0|  1| 
+|Patrick Wisdom    |DH        |     15|  9|   8|  4|  1| 
+|Anthony Santander |BAT BENCH |     15|  8|   9|  2|  0| 
 |Brandon Lowe      |BAT BENCH |     **| **|  **| **| **| 
 |Tyler O'Neill     |BAT BENCH |     **| **|  **| **| **| 
 |Willy Adames      |BAT BENCH |     **| **|  **| **| **| 
