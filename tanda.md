@@ -6,21 +6,21 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Sean Murphy       |C         |     15|  4|   2|  1|  0| 
-|Matt Olson        |1B        |     18|  4|   2|  1|  0| 
+|Matt Olson        |1B        |     22|  5|   6|  2|  0| 
 |Jazz Chisholm Jr. |2B        |      7|  3|   2|  1|  1| 
-|Eugenio Suarez    |3B        |     13|  6|   5|  2|  0| 
-|Bo Bichette       |SS        |     13|  6|   8|  3|  0| 
-|Francisco Lindor  |MI        |     25| 16|  18|  2|  3| 
-|Kyle Schwarber    |CI        |     19|  7|   2|  2|  0| 
+|Eugenio Suarez    |3B        |     15|  8|   5|  2|  0| 
+|Bo Bichette       |SS        |     16|  7|   8|  3|  0| 
+|Francisco Lindor  |MI        |     26| 16|  20|  2|  3| 
+|Kyle Schwarber    |CI        |     22|  7|   2|  2|  0| 
 |Franmil Reyes     |OF        |      4|  0|   1|  0|  0| 
 |Jorge Soler       |OF        |     14|  6|   7|  4|  0| 
-|Juan Yepez        |OF        |     13|  7|   4|  2|  0| 
+|Juan Yepez        |OF        |     14|  7|   4|  2|  0| 
 |Taylor Ward       |OF        |      8|  3|   3|  1|  0| 
 |Brandon Nimmo     |DH        |     15|  9|   5|  0|  0| 
-|Javier Baez       |DH        |      8|  2|   2|  1|  0| 
-|Jean Segura       |DH        |     12|  2|   5|  0|  3| 
+|Javier Baez       |DH        |     10|  2|   2|  1|  0| 
+|Jean Segura       |DH        |     13|  3|   5|  0|  3| 
 |Jesus Aguilar     |DH        |      9|  2|   3|  1|  0| 
-|Luke Voit         |BAT BENCH |     15|  5|   3|  1|  0| 
+|Luke Voit         |BAT BENCH |     17|  5|   3|  1|  0| 
 |Mitch Haniger     |BAT BENCH |     **| **|  **| **| **| 
 |Salvador Perez    |BAT BENCH |      2|  1|   0|  0|  0| 
 
@@ -32,14 +32,14 @@
  
 |players           |position    |  g|     ip| er|    era| hitsbb|   whip| so|  w| sv| 
 |:-----------------|:-----------|--:|------:|--:|------:|------:|------:|--:|--:|--:| 
-|Charlie Morton    |SP          |  2|  9.667|  7|  6.517|     18|  1.862|  9|  1|  0| 
+|Charlie Morton    |SP          |  3| 14.667| 11|  6.750|     24|  1.636| 14|  1|  0| 
 |Ian Anderson      |SP          |  2| 11.667|  8|  6.171|     16|  1.371| 11|  0|  0| 
-|Jordan Montgomery |SP          |  2| 11.000|  5|  4.091|     11|  1.000|  8|  0|  0| 
+|Jordan Montgomery |SP          |  3| 18.000|  6|  3.000|     16|  0.889| 12|  1|  0| 
 |Kyle Wright       |SP          |  2| 11.667|  3|  2.314|     10|  0.857| 11|  1|  0| 
 |Max Scherzer      |SP          |  1|  5.667|  1|  1.588|      7|  1.235|  4|  1|  0| 
 |Sean Manaea       |SP          |  2| 13.000|  7|  4.846|     14|  1.077| 10|  0|  0| 
-|Camilo Doval      |RP          |  4|  3.667|  3|  7.364|      6|  1.636|  3|  0|  1| 
-|Kenley Jansen     |RP          |  5|  5.000|  4|  7.200|      9|  1.800|  7|  1|  3| 
+|Camilo Doval      |RP          |  5|  4.333|  3|  6.231|      7|  1.615|  4|  0|  1| 
+|Kenley Jansen     |RP          |  6|  6.000|  5|  7.500|     12|  2.000|  8|  1|  3| 
 |Corey Kluber      |OP          |  2|  9.000|  3|  3.000|     10|  1.111|  7|  0|  0| 
 |Daniel Bard       |OP          |  3|  4.000|  0|  0.000|      2|  0.500|  5|  1|  2| 
 |Eduardo Rodriguez |OP          |  1|  0.333|  3| 81.000|      6| 18.000|  0|  0|  0| 

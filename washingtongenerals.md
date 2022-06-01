@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Gary Sanchez      |C         |     14|  4|   8|  1|  0| 
-|Rhys Hoskins      |1B        |     15|  5|   5|  2|  0| 
+|Gary Sanchez      |C         |     15|  5|  11|  2|  0| 
+|Rhys Hoskins      |1B        |     18|  6|   5|  2|  0| 
 |Brendan Rodgers   |2B        |     17|  6|   3|  0|  0| 
 |Ryan McMahon      |3B        |     13|  5|   2|  0|  0| 
-|Andres Gimenez    |SS        |      6|  2|   3|  1|  0| 
-|Gleyber Torres    |MI        |     11|  8|   5|  4|  1| 
-|Rowdy Tellez      |CI        |     13|  3|   6|  2|  0| 
+|Andres Gimenez    |SS        |      8|  2|   4|  1|  1| 
+|Gleyber Torres    |MI        |     13|  8|   6|  4|  1| 
+|Rowdy Tellez      |CI        |     15|  4|   7|  2|  0| 
 |Cedric Mullins    |OF        |     14|  6|   1|  0|  4| 
 |Garrett Cooper    |OF        |     18|  4|   7|  1|  0| 
-|Myles Straw       |OF        |     13| 11|   0|  0|  1| 
+|Myles Straw       |OF        |     14| 11|   0|  0|  1| 
 |Randal Grichuk    |OF        |     11|  4|   4|  0|  1| 
 |Connor Joe        |DH        |     15|  3|   2|  0|  0| 
-|Mike Yastrzemski  |DH        |     23| 10|   3|  1|  0| 
-|Owen Miller       |DH        |     10|  1|   4|  0|  0| 
-|Teoscar Hernandez |DH        |      9|  1|   2|  0|  0| 
-|Eduardo Escobar   |BAT BENCH |     13|  5|   6|  0|  0| 
+|Mike Yastrzemski  |DH        |     24| 10|   4|  1|  0| 
+|Owen Miller       |DH        |     12|  2|   5|  0|  0| 
+|Teoscar Hernandez |DH        |     11|  3|   4|  0|  0| 
+|Eduardo Escobar   |BAT BENCH |     15|  7|   8|  1|  0| 
 |Jose Miranda      |BAT BENCH |      9|  3|   4|  1|  0| 
-|Marcus Semien     |BAT BENCH |     20|  8|   9|  1|  4| 
+|Marcus Semien     |BAT BENCH |     22|  8|   9|  1|  4| 
 
 
 * * *
@@ -39,14 +39,14 @@
 |Walker Buehler    |SP          |  3| 17.000|  8|  4.235|     24| 1.412| 14|  2|  0| 
 |Zack Greinke      |SP          |  3| 13.333| 14|  9.450|     25| 1.875| 11|  0|  0| 
 |Anthony Bender    |RP          |  1|  0.000|  1|    Inf|      3|   Inf|  0|  0|  0| 
-|Mark Melancon     |RP          |  5|  4.667|  1|  1.929|      3| 0.643|  5|  0|  3| 
-|Hector Neris      |OP          |  5|  4.333|  1|  2.077|      3| 0.692|  6|  0|  0| 
+|Mark Melancon     |RP          |  6|  5.667|  1|  1.588|      5| 0.882|  6|  1|  3| 
+|Hector Neris      |OP          |  6|  5.333|  1|  1.688|      3| 0.562|  8|  0|  0| 
 |Jonathan Loaisiga |OP          |  3|  2.000|  4| 18.000|      7| 3.500|  5|  0|  0| 
 |Lucas Sims        |OP          | **|     **| **|     **|     **|    **| **| **| **| 
 |Ryan Tepera       |OP          |  4|  3.333|  1|  2.700|      4| 1.200|  3|  0|  0| 
 |Zach Plesac       |OP          |  2| 10.667|  8|  6.750|     15| 1.406| 10|  0|  0| 
 |Luis Gil          |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Michael Wacha     |PITCH BENCH |  2|  9.000|  7|  7.000|     14| 1.556|  5|  0|  0| 
+|Michael Wacha     |PITCH BENCH |  3| 14.667|  7|  4.295|     17| 1.159|  8|  0|  0| 
 |Tylor Megill      |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 
 
