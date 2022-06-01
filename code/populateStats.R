@@ -1,6 +1,6 @@
 require(mlbstats)
 
-## SOURCE IN THE LEAGUE BOOTSTRAP CODE
+## SOURCE IN THE 2022 LEAGUE BOOTSTRAP CODE
 source("code/leagueBootstrap2022.R")
 
 ## CHECK TO SEE IF data/hidden EXISTS - IF NOT, CREATE IT
