@@ -4,23 +4,23 @@
 
  |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto    |C         |     19|  4|   9|  1|  1| 
-|Pete Alonso      |1B        |     27|  9|  18|  5|  1| 
-|Kolten Wong      |2B        |     14|  2|   1|  0|  0| 
-|Matt Chapman     |3B        |     14|  6|   4|  0|  0| 
-|Dansby Swanson   |SS        |     22|  7|   8|  2|  4| 
-|Jonathan Schoop  |MI        |     16|  7|   6|  2|  1| 
-|Trey Mancini     |CI        |     26|  4|   5|  0|  0| 
-|J.D. Martinez    |OF        |     30| 15|   4|  0|  0| 
-|Kyle Tucker      |OF        |      8|  3|   4|  1|  1| 
-|Ramon Laureano   |OF        |     16|  5|   3|  1|  1| 
-|Yordan Alvarez   |OF        |     17|  6|   6|  2|  0| 
-|Adam Duvall      |DH        |     11|  2|   1|  0|  0| 
-|AJ Pollock       |DH        |      8|  6|   1|  1|  0| 
+|J.T. Realmuto    |C         |     20|  4|   9|  1|  1| 
+|Pete Alonso      |1B        |     29|  9|  18|  5|  1| 
+|Kolten Wong      |2B        |     15|  2|   2|  0|  0| 
+|Matt Chapman     |3B        |     16|  8|   4|  0|  0| 
+|Dansby Swanson   |SS        |     24|  9|   8|  2|  4| 
+|Jonathan Schoop  |MI        |     18|  7|   8|  2|  1| 
+|Trey Mancini     |CI        |     28|  6|   7|  1|  0| 
+|J.D. Martinez    |OF        |     31| 16|   4|  0|  0| 
+|Kyle Tucker      |OF        |     10|  3|   4|  1|  1| 
+|Ramon Laureano   |OF        |     17|  6|   3|  1|  1| 
+|Yordan Alvarez   |OF        |     20|  6|   9|  2|  0| 
+|Adam Duvall      |DH        |     12|  3|   1|  0|  0| 
+|AJ Pollock       |DH        |     10|  7|   2|  2|  0| 
 |Max Kepler       |DH        |     18| 11|  10|  1|  1| 
-|Yadiel Hernandez |DH        |      8|  2|   3|  1|  0| 
+|Yadiel Hernandez |DH        |      9|  2|   3|  1|  0| 
 |Jonathan India   |BAT BENCH |     **| **|  **| **| **| 
-|Santiago Espinal |BAT BENCH |     12|  2|   3|  0|  0| 
+|Santiago Espinal |BAT BENCH |     14|  3|   4|  1|  0| 
 
 * * *
 
@@ -39,7 +39,7 @@
 |Liam Hendriks    |RP          |  4|  4.333|  0| 0.000|      5| 1.154|  6|  0|  3| 
 |Cristian Javier  |OP          |  3| 15.667|  2| 1.149|     16| 1.021| 22|  1|  0| 
 |Emilio Pagan     |OP          |  5|  5.333|  2| 3.375|      7| 1.312|  7|  1|  2| 
-|Hyun Jin Ryu     |OP          |  2| 11.000|  2| 1.636|     13| 1.182|  4|  2|  0| 
+|Hyun Jin Ryu     |OP          |  3| 15.000|  4| 2.400|     17| 1.133|  8|  2|  0| 
 |Jose Urquidy     |OP          |  2| 11.333|  6| 4.765|     21| 1.853| 14|  1|  0| 
 |Michael Lorenzen |OP          |  2| 12.667|  3| 2.132|     12| 0.947|  7|  1|  0| 
 |Aaron Civale     |PITCH BENCH |  1|  6.333|  0| 0.000|      4| 0.632|  3|  1|  0| 

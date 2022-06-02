@@ -6,20 +6,20 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Gary Sanchez      |C         |     15|  5|  11|  2|  0| 
-|Rhys Hoskins      |1B        |     18|  6|   5|  2|  0| 
-|Brendan Rodgers   |2B        |     17|  6|   3|  0|  0| 
-|Ryan McMahon      |3B        |     13|  5|   2|  0|  0| 
-|Andres Gimenez    |SS        |      8|  2|   4|  1|  1| 
+|Rhys Hoskins      |1B        |     19|  6|   6|  2|  0| 
+|Brendan Rodgers   |2B        |     23| 11|   7|  3|  0| 
+|Ryan McMahon      |3B        |     16|  7|   6|  0|  0| 
+|Andres Gimenez    |SS        |     10|  3|   5|  1|  1| 
 |Gleyber Torres    |MI        |     13|  8|   6|  4|  1| 
-|Rowdy Tellez      |CI        |     15|  4|   7|  2|  0| 
-|Cedric Mullins    |OF        |     14|  6|   1|  0|  4| 
-|Garrett Cooper    |OF        |     18|  4|   7|  1|  0| 
-|Myles Straw       |OF        |     14| 11|   0|  0|  1| 
-|Randal Grichuk    |OF        |     11|  4|   4|  0|  1| 
-|Connor Joe        |DH        |     15|  3|   2|  0|  0| 
-|Mike Yastrzemski  |DH        |     24| 10|   4|  1|  0| 
-|Owen Miller       |DH        |     12|  2|   5|  0|  0| 
-|Teoscar Hernandez |DH        |     11|  3|   4|  0|  0| 
+|Rowdy Tellez      |CI        |     16|  4|   7|  2|  0| 
+|Cedric Mullins    |OF        |     16|  7|   2|  0|  4| 
+|Garrett Cooper    |OF        |     21|  6|  10|  1|  0| 
+|Myles Straw       |OF        |     15| 11|   0|  0|  1| 
+|Randal Grichuk    |OF        |     13|  6|   4|  0|  1| 
+|Connor Joe        |DH        |     18|  3|   2|  0|  0| 
+|Mike Yastrzemski  |DH        |     25| 11|   4|  1|  0| 
+|Owen Miller       |DH        |     13|  3|   5|  0|  0| 
+|Teoscar Hernandez |DH        |     15|  4|   4|  0|  0| 
 |Eduardo Escobar   |BAT BENCH |     15|  7|   8|  1|  0| 
 |Jose Miranda      |BAT BENCH |      9|  3|   4|  1|  0| 
 |Marcus Semien     |BAT BENCH |     22|  8|   9|  1|  4| 
