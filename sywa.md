@@ -6,11 +6,11 @@
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |J.T. Realmuto    |C         |     20|  4|   9|  1|  1| 
 |Pete Alonso      |1B        |     29|  9|  18|  5|  1| 
-|Kolten Wong      |2B        |     15|  2|   2|  0|  0| 
-|Matt Chapman     |3B        |     16|  8|   4|  0|  0| 
-|Dansby Swanson   |SS        |     24|  9|   8|  2|  4| 
-|Jonathan Schoop  |MI        |     18|  7|   8|  2|  1| 
-|Trey Mancini     |CI        |     28|  6|   7|  1|  0| 
+|Kolten Wong      |2B        |     18|  4|   2|  0|  0| 
+|Matt Chapman     |3B        |     18|  9|   4|  0|  0| 
+|Dansby Swanson   |SS        |     27| 10|  10|  2|  5| 
+|Jonathan Schoop  |MI        |     19|  7|   9|  2|  1| 
+|Trey Mancini     |CI        |     29|  7|   7|  1|  0| 
 |J.D. Martinez    |OF        |     31| 16|   4|  0|  0| 
 |Kyle Tucker      |OF        |     10|  3|   4|  1|  1| 
 |Ramon Laureano   |OF        |     17|  6|   3|  1|  1| 
@@ -18,9 +18,9 @@
 |Adam Duvall      |DH        |     12|  3|   1|  0|  0| 
 |AJ Pollock       |DH        |     10|  7|   2|  2|  0| 
 |Max Kepler       |DH        |     18| 11|  10|  1|  1| 
-|Yadiel Hernandez |DH        |      9|  2|   3|  1|  0| 
+|Yadiel Hernandez |DH        |     11|  2|   3|  1|  0| 
 |Jonathan India   |BAT BENCH |     **| **|  **| **| **| 
-|Santiago Espinal |BAT BENCH |     14|  3|   4|  1|  0| 
+|Santiago Espinal |BAT BENCH |     17|  3|   7|  1|  0| 
 
 * * *
 
@@ -38,7 +38,7 @@
 |Jordan Romano    |RP          |  6|  5.667|  1| 1.588|      6| 1.059|  8|  0|  4| 
 |Liam Hendriks    |RP          |  4|  4.333|  0| 0.000|      5| 1.154|  6|  0|  3| 
 |Cristian Javier  |OP          |  3| 15.667|  2| 1.149|     16| 1.021| 22|  1|  0| 
-|Emilio Pagan     |OP          |  5|  5.333|  2| 3.375|      7| 1.312|  7|  1|  2| 
+|Emilio Pagan     |OP          |  6|  6.333|  4| 5.684|      9| 1.421|  7|  1|  2| 
 |Hyun Jin Ryu     |OP          |  3| 15.000|  4| 2.400|     17| 1.133|  8|  2|  0| 
 |Jose Urquidy     |OP          |  2| 11.333|  6| 4.765|     21| 1.853| 14|  1|  0| 
 |Michael Lorenzen |OP          |  2| 12.667|  3| 2.132|     12| 0.947|  7|  1|  0| 

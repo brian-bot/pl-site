@@ -5,12 +5,12 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Yasmani Grandal   |C         |      9|  1|   1|  0|  0| 
-|Vladimir Guerrero |1B        |     14|  4|   6|  3|  0| 
+|Yasmani Grandal   |C         |     10|  1|   1|  0|  0| 
+|Vladimir Guerrero |1B        |     16|  5|   6|  3|  0| 
 |Ketel Marte       |2B        |     20|  8|   5|  0|  1| 
-|Nolan Arenado     |3B        |     18|  6|   6|  2|  0| 
+|Nolan Arenado     |3B        |     19|  6|   7|  2|  0| 
 |Brandon Crawford  |SS        |     14|  3|   4|  1|  0| 
-|Jake Cronenworth  |MI        |     16|  7|   4|  1|  0| 
+|Jake Cronenworth  |MI        |     17|  7|   4|  1|  0| 
 |Luis Arraez       |CI        |     32| 17|   5|  0|  1| 
 |Austin Meadows    |OF        |     **| **|  **| **| **| 
 |Cody Bellinger    |OF        |     14|  4|   4|  0|  3| 
@@ -38,12 +38,12 @@
 |Robbie Ray      |SP          |  3| 17.000| 11| 5.824|     24| 1.412| 24|  0|  0| 
 |Cal Quantrill   |RP          |  3| 19.333|  6| 2.793|     21| 1.086| 13|  1|  0| 
 |Emmanuel Clase  |RP          |  5|  5.000|  0| 0.000|      4| 0.800|  7|  0|  0| 
-|Brock Burke     |OP          |  3|  4.667|  0| 0.000|      5| 1.071|  3|  0|  0| 
+|Brock Burke     |OP          |  4|  6.667|  0| 0.000|      8| 1.200|  3|  0|  0| 
 |Dane Dunning    |OP          |  3| 16.667|  9| 4.860|     28| 1.680| 19|  0|  0| 
 |Drew Rasmussen  |OP          |  3| 13.000|  8| 5.538|     20| 1.538| 17|  2|  0| 
 |Marco Gonzales  |OP          |  3| 18.667|  8| 3.857|     22| 1.179|  7|  2|  0| 
 |Yusei Kikuchi   |OP          |  2|  9.333|  4| 3.857|     15| 1.607| 11|  0|  0| 
-|Chris Flexen    |PITCH BENCH |  2| 11.000|  6| 4.909|     20| 1.818|  8|  1|  0| 
+|Chris Flexen    |PITCH BENCH |  3| 16.000|  9| 5.062|     27| 1.688| 11|  1|  0| 
 |Luis Castillo   |PITCH BENCH |  3| 17.000|  4| 2.118|     16| 0.941| 21|  2|  0| 
 
 
