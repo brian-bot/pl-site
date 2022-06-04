@@ -6,24 +6,24 @@
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Willson Contreras   |C         |     22|  9|   7|  4|  2| 
-|Paul Goldschmidt    |1B        |     31| 12|  21|  6|  0| 
-|Jose Altuve         |2B        |     19|  8|   4|  3|  0| 
-|Jose Ramirez        |3B        |     22|  9|  19|  5|  4| 
+|Paul Goldschmidt    |1B        |     34| 14|  24|  7|  0| 
+|Jose Altuve         |2B        |     21|  8|   5|  3|  0| 
+|Jose Ramirez        |3B        |     24| 11|  19|  5|  4| 
 |Tim Anderson        |SS        |     19|  5|   7|  1|  3| 
-|J.P. Crawford       |MI        |     22|  6|   2|  1|  0| 
-|Austin Riley        |CI        |     24| 11|  14|  6|  0| 
-|Andrew Benintendi   |OF        |     30|  4|   5|  0|  0| 
+|J.P. Crawford       |MI        |     24|  7|   2|  1|  0| 
+|Austin Riley        |CI        |     26| 11|  14|  6|  0| 
+|Andrew Benintendi   |OF        |     31|  5|   5|  0|  0| 
 |Jesse Winker        |OF        |     18|  2|   6|  0|  0| 
-|Marcell Ozuna       |OF        |     20|  8|   6|  4|  0| 
-|Mookie Betts        |OF        |     33| 16|  16|  8|  2| 
+|Marcell Ozuna       |OF        |     21|  8|   6|  4|  0| 
+|Mookie Betts        |OF        |     34| 17|  16|  8|  3| 
 |Brandon Marsh       |DH        |     12|  2|   4|  0|  0| 
-|Eric Hosmer         |DH        |     15|  2|   1|  0|  0| 
+|Eric Hosmer         |DH        |     16|  2|   1|  0|  0| 
 |Jeff McNeil         |DH        |     21|  9|  10|  2|  1| 
-|Yoan Moncada        |DH        |      3|  1|   1|  0|  0| 
+|Yoan Moncada        |DH        |      4|  1|   2|  0|  0| 
 |Austin Hays         |BAT BENCH |     27| 12|  13|  2|  1| 
 |Lourdes Gurriel Jr. |BAT BENCH |     15|  2|   6|  0|  0| 
-|Travis d'Arnaud     |BAT BENCH |     14|  6|   8|  3|  0| 
-|Trevor Story        |BAT BENCH |     22| 14|  21|  7|  2| 
+|Travis d'Arnaud     |BAT BENCH |     15|  6|   8|  3|  0| 
+|Trevor Story        |BAT BENCH |     26| 14|  23|  7|  3| 
 
 
 * * *
