@@ -6,23 +6,23 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Sean Murphy       |C         |     15|  4|   2|  1|  0| 
-|Matt Olson        |1B        |     26|  5|  10|  2|  0| 
-|Jazz Chisholm Jr. |2B        |     11|  5|   6|  2|  2| 
-|Eugenio Suarez    |3B        |     18| 11|   9|  3|  0| 
-|Bo Bichette       |SS        |     21|  9|  10|  3|  0| 
-|Francisco Lindor  |MI        |     27| 16|  21|  2|  3| 
-|Kyle Schwarber    |CI        |     27| 11|   6|  5|  0| 
+|Matt Olson        |1B        |     27|  5|  10|  2|  0| 
+|Jazz Chisholm Jr. |2B        |     12|  6|   6|  2|  3| 
+|Eugenio Suarez    |3B        |     21| 11|   9|  3|  0| 
+|Bo Bichette       |SS        |     23| 11|  11|  4|  0| 
+|Francisco Lindor  |MI        |     28| 17|  23|  3|  3| 
+|Kyle Schwarber    |CI        |     29| 12|   6|  5|  0| 
 |Franmil Reyes     |OF        |      4|  0|   1|  0|  0| 
-|Jorge Soler       |OF        |     21| 12|   9|  4|  0| 
-|Juan Yepez        |OF        |     16|  8|   6|  2|  0| 
+|Jorge Soler       |OF        |     22| 12|   9|  4|  0| 
+|Juan Yepez        |OF        |     17|  8|   6|  2|  0| 
 |Taylor Ward       |OF        |     11|  4|   3|  1|  0| 
-|Brandon Nimmo     |DH        |     16|  9|   5|  0|  0| 
+|Brandon Nimmo     |DH        |     19| 11|   5|  0|  0| 
 |Javier Baez       |DH        |     10|  2|   2|  1|  0| 
 |Jean Segura       |DH        |     13|  3|   5|  0|  3| 
-|Jesus Aguilar     |DH        |     12|  5|   4|  1|  0| 
+|Jesus Aguilar     |DH        |     13|  5|   4|  1|  0| 
 |Luke Voit         |BAT BENCH |     23|  7|   5|  2|  0| 
 |Mitch Haniger     |BAT BENCH |     **| **|  **| **| **| 
-|Salvador Perez    |BAT BENCH |      3|  1|   0|  0|  0| 
+|Salvador Perez    |BAT BENCH |      5|  3|   3|  1|  0| 
 
 
 * * *
@@ -38,10 +38,10 @@
 |Kyle Wright       |SP          |  3| 17.667|  3|  1.528|     18|  1.019| 16|  2|  0| 
 |Max Scherzer      |SP          |  1|  5.667|  1|  1.588|      7|  1.235|  4|  1|  0| 
 |Sean Manaea       |SP          |  3| 19.000|  8|  3.789|     21|  1.105| 18|  0|  0| 
-|Camilo Doval      |RP          |  6|  5.000|  4|  7.200|      9|  1.800|  4|  0|  1| 
+|Camilo Doval      |RP          |  7|  6.000|  4|  6.000|      9|  1.500|  4|  0|  1| 
 |Kenley Jansen     |RP          |  7|  7.000|  5|  6.429|     13|  1.857| 10|  1|  4| 
 |Corey Kluber      |OP          |  3| 15.000|  4|  2.400|     14|  0.933| 11|  1|  0| 
-|Daniel Bard       |OP          |  5|  7.000|  0|  0.000|      7|  1.000|  6|  2|  2| 
+|Daniel Bard       |OP          |  6|  8.000|  0|  0.000|      7|  0.875|  8|  2|  2| 
 |Eduardo Rodriguez |OP          |  1|  0.333|  3| 81.000|      6| 18.000|  0|  0|  0| 
 |Jameson Taillon   |OP          |  3| 23.000|  2|  0.783|     10|  0.435| 17|  2|  0| 
 |Mike Clevinger    |OP          | **|     **| **|     **|     **|     **| **| **| **| 
