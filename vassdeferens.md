@@ -31,22 +31,22 @@
 ### Pitchers
 
  
-|players           |position    |  g| ip| er|  era| hitsbb| whip| so|  w| sv| 
-|:-----------------|:-----------|--:|--:|--:|----:|------:|----:|--:|--:|--:| 
-|Alex Faedo        |SP          | **| **| **|   **|     **|   **| **| **| **| 
-|Marcus Stroman    |SP          | **| **| **|   **|     **|   **| **| **| **| 
-|Nick Martinez     |SP          | **| **| **|   **|     **|   **| **| **| **| 
-|Shane Bieber      |SP          | **| **| **|   **|     **|   **| **| **| **| 
-|Sonny Gray        |SP          | **| **| **|   **|     **|   **| **| **| **| 
-|Tyler Anderson    |SP          | **| **| **|   **|     **|   **| **| **| **| 
-|Giovanny Gallegos |RP          |  1|  1|  0|  0.0|      0|  0.0|  1|  0|  0| 
-|Scott Barlow      |RP          | **| **| **|   **|     **|   **| **| **| **| 
-|Brad Keller       |OP          |  1|  6|  3|  4.5|      9|  1.5|  4|  0|  0| 
-|Dany Jimenez      |OP          | **| **| **|   **|     **|   **| **| **| **| 
-|Joe Barlow        |OP          |  1|  1|  0|  0.0|      1|  1.0|  0|  0|  1| 
-|Keegan Thompson   |OP          |  1|  3|  7| 21.0|      6|  2.0|  1|  0|  0| 
-|Tony Gonsolin     |OP          | **| **| **|   **|     **|   **| **| **| **| 
-|Tanner Houck      |PITCH BENCH |  1|  2|  0|  0.0|      2|  1.0|  3|  1|  0| 
+|players           |position    |  g| ip| er| era| hitsbb| whip| so|  w| sv| 
+|:-----------------|:-----------|--:|--:|--:|---:|------:|----:|--:|--:|--:| 
+|Alex Faedo        |SP          | **| **| **|  **|     **|   **| **| **| **| 
+|Marcus Stroman    |SP          | **| **| **|  **|     **|   **| **| **| **| 
+|Nick Martinez     |SP          | **| **| **|  **|     **|   **| **| **| **| 
+|Shane Bieber      |SP          | **| **| **|  **|     **|   **| **| **| **| 
+|Sonny Gray        |SP          | **| **| **|  **|     **|   **| **| **| **| 
+|Tyler Anderson    |SP          | **| **| **|  **|     **|   **| **| **| **| 
+|Giovanny Gallegos |RP          |  1|  1|  0|   0|      0|    0|  1|  0|  0| 
+|Scott Barlow      |RP          | **| **| **|  **|     **|   **| **| **| **| 
+|Dany Jimenez      |OP          | **| **| **|  **|     **|   **| **| **| **| 
+|Glenn Otto        |OP          | **| **| **|  **|     **|   **| **| **| **| 
+|Joe Barlow        |OP          |  1|  1|  0|   0|      1|    1|  0|  0|  1| 
+|Keegan Thompson   |OP          |  1|  3|  7|  21|      6|    2|  1|  0|  0| 
+|Tony Gonsolin     |OP          | **| **| **|  **|     **|   **| **| **| **| 
+|Tanner Houck      |PITCH BENCH |  1|  2|  0|   0|      2|    1|  3|  1|  0| 
 
 
 * * *
