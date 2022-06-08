@@ -37,7 +37,7 @@
 |Marcus Stroman    |SP          | **| **| **|  **|     **|   **| **| **| **| 
 |Nick Martinez     |SP          | **| **| **|  **|     **|   **| **| **| **| 
 |Shane Bieber      |SP          | **| **| **|  **|     **|   **| **| **| **| 
-|Sonny Gray        |SP          | **| **| **|  **|     **|   **| **| **| **| 
+|Tanner Houck      |SP          |  1|  2|  0|   0|      2|    1|  3|  1|  0| 
 |Tyler Anderson    |SP          | **| **| **|  **|     **|   **| **| **| **| 
 |Giovanny Gallegos |RP          |  1|  1|  0|   0|      0|    0|  1|  0|  0| 
 |Scott Barlow      |RP          | **| **| **|  **|     **|   **| **| **| **| 
@@ -46,7 +46,7 @@
 |Joe Barlow        |OP          |  1|  1|  0|   0|      1|    1|  0|  0|  1| 
 |Keegan Thompson   |OP          |  1|  3|  7|  21|      6|    2|  1|  0|  0| 
 |Tony Gonsolin     |OP          | **| **| **|  **|     **|   **| **| **| **| 
-|Tanner Houck      |PITCH BENCH |  1|  2|  0|   0|      2|    1|  3|  1|  0| 
+|Sonny Gray        |PITCH BENCH | **| **| **|  **|     **|   **| **| **| **| 
 
 
 * * *
