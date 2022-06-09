@@ -5,21 +5,21 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Keibert Ruiz     |C         |      0|  0|   0|  0|  0| 
+|Keibert Ruiz     |C         |      2|  0|   1|  0|  0| 
 |Hunter Dozier    |1B        |      0|  0|   0|  0|  0| 
-|Ozzie Albies     |2B        |      1|  0|   0|  0|  0| 
-|Alex Bregman     |3B        |      4|  1|   0|  0|  0| 
+|Ozzie Albies     |2B        |      2|  1|   4|  1|  0| 
+|Alex Bregman     |3B        |      5|  3|   0|  0|  0| 
 |Corey Seager     |SS        |      2|  0|   0|  0|  0| 
-|DJ LeMahieu      |MI        |      5|  2|   1|  0|  0| 
+|DJ LeMahieu      |MI        |      5|  2|   2|  0|  0| 
 |Justin Turner    |CI        |      1|  0|   0|  0|  0| 
-|Adolis Garcia    |OF        |      1|  0|   0|  0|  1| 
-|Charlie Blackmon |OF        |      1|  1|   3|  1|  0| 
-|Juan Soto        |OF        |      2|  0|   0|  0|  1| 
+|Adolis Garcia    |OF        |      3|  0|   0|  0|  1| 
+|Charlie Blackmon |OF        |      3|  1|   4|  1|  0| 
+|Juan Soto        |OF        |      3|  0|   0|  0|  1| 
 |Mark Canha       |OF        |      4|  2|   0|  0|  0| 
-|Brendan Donovan  |DH        |      0|  0|   0|  0|  0| 
-|Julio Rodriguez  |DH        |      3|  2|   2|  1|  0| 
-|Luis Guillorme   |DH        |      0|  0|   0|  0|  0| 
-|Tommy Edman      |DH        |      1|  1|   0|  0|  0| 
+|Brendan Donovan  |DH        |      1|  0|   0|  0|  0| 
+|Julio Rodriguez  |DH        |      6|  2|   2|  1|  0| 
+|Luis Guillorme   |DH        |      1|  0|   0|  0|  0| 
+|Tommy Edman      |DH        |      3|  2|   0|  0|  0| 
 |Anthony Rendon   |BAT BENCH |     **| **|  **| **| **| 
 |Brandon Belt     |BAT BENCH |     **| **|  **| **| **| 
 |Kris Bryant      |BAT BENCH |     **| **|  **| **| **| 
