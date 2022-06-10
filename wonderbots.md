@@ -5,19 +5,19 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Yasmani Grandal   |C         |      1|  0|   0|  0|  0| 
+|Yasmani Grandal   |C         |      3|  0|   1|  0|  0| 
 |Vladimir Guerrero |1B        |      3|  2|   2|  1|  0| 
-|Ketel Marte       |2B        |      5|  3|   2|  1|  0| 
-|Nolan Arenado     |3B        |      1|  0|   0|  0|  0| 
-|Brandon Crawford  |SS        |      0|  0|   0|  0|  0| 
+|Ketel Marte       |2B        |      8|  3|   2|  1|  0| 
+|Nolan Arenado     |3B        |      3|  0|   0|  0|  0| 
+|Brandon Crawford  |SS        |      1|  0|   0|  0|  0| 
 |Jake Cronenworth  |MI        |      7|  5|   7|  1|  0| 
-|Luis Arraez       |CI        |      2|  1|   0|  0|  0| 
-|Andrew Vaughn     |OF        |      1|  0|   0|  0|  0| 
-|Cody Bellinger    |OF        |      3|  1|   1|  1|  0| 
-|David Peralta     |OF        |      0|  0|   0|  0|  0| 
+|Luis Arraez       |CI        |      4|  3|   1|  1|  0| 
+|Andrew Vaughn     |OF        |      2|  1|   0|  0|  0| 
+|Cody Bellinger    |OF        |      5|  2|   1|  1|  0| 
+|David Peralta     |OF        |      1|  0|   1|  0|  0| 
 |George Springer   |OF        |      4|  2|   0|  0|  0| 
 |Nelson Cruz       |DH        |      2|  0|   1|  0|  0| 
-|Thairo Estrada    |DH        |      2|  0|   1|  0|  0| 
+|Thairo Estrada    |DH        |      3|  1|   2|  0|  0| 
 |Yandy Diaz        |DH        |      3|  1|   0|  0|  0| 
 |Yuli Gurriel      |DH        |      3|  0|   0|  0|  1| 
 |Austin Meadows    |BAT BENCH |      3|  0|   0|  0|  0| 

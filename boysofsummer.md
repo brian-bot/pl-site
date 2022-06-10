@@ -6,14 +6,14 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Willson Contreras |C         |      2|  1|   1|  1|  0| 
-|Paul Goldschmidt  |1B        |      3|  0|   0|  0|  0| 
+|Paul Goldschmidt  |1B        |      4|  1|   0|  0|  0| 
 |Jose Altuve       |2B        |      6|  1|   2|  1|  0| 
-|Jose Ramirez      |3B        |      4|  1|   1|  0|  2| 
+|Jose Ramirez      |3B        |      6|  2|   2|  1|  2| 
 |Trevor Story      |SS        |      3|  2|   1|  0|  1| 
 |J.P. Crawford     |MI        |      6|  2|   2|  0|  1| 
-|Austin Riley      |CI        |      3|  2|   3|  1|  0| 
-|Andrew Benintendi |OF        |      3|  2|   0|  0|  0| 
-|Austin Hays       |OF        |      2|  2|   2|  1|  0| 
+|Austin Riley      |CI        |      4|  2|   3|  1|  0| 
+|Andrew Benintendi |OF        |      4|  2|   0|  0|  0| 
+|Austin Hays       |OF        |      4|  3|   3|  1|  0| 
 |Jesse Winker      |OF        |      5|  1|   1|  0|  0| 
 |Mookie Betts      |OF        |      1|  0|   0|  0|  0| 
 |Eric Hosmer       |DH        |      1|  1|   0|  0|  0| 
@@ -21,8 +21,8 @@
 |Jeff McNeil       |DH        |      5|  1|   2|  0|  0| 
 |Marcell Ozuna     |DH        |      2|  2|   0|  0|  0| 
 |Tim Anderson      |BAT BENCH |     **| **|  **| **| **| 
-|Travis d'Arnaud   |BAT BENCH |     **| **|  **| **| **| 
-|Trevor Larnach    |BAT BENCH |      1|  0|   1|  0|  0| 
+|Travis d'Arnaud   |BAT BENCH |      2|  1|   1|  0|  0| 
+|Trevor Larnach    |BAT BENCH |      2|  1|   2|  1|  0| 
 
 
 * * *
@@ -44,7 +44,7 @@
 |Jorge Lopez      |OP          | **| **| **|     **|     **|    **| **| **| **| 
 |Martin Perez     |OP          | **| **| **|     **|     **|    **| **| **| **| 
 |Paul Blackburn   |OP          | **| **| **|     **|     **|    **| **| **| **| 
-|Raisel Iglesias  |OP          |  1|  1|  0|  0.000|      1| 1.000|  1|  0|  0| 
+|Raisel Iglesias  |OP          |  2|  2|  0|  0.000|      1| 0.500|  3|  0|  1| 
 |Adrian Houser    |PITCH BENCH |  1|  6|  5|  7.500|      8| 1.333|  5|  0|  0| 
 |Blake Snell      |PITCH BENCH |  1|  4|  4|  9.000|     10| 2.500|  4|  0|  0| 
 
