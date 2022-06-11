@@ -5,23 +5,23 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith       |C         |      5|  2|   2|  1|  0| 
-|Jose Abreu       |1B        |      5|  3|   0|  0|  0| 
-|Whit Merrifield  |2B        |      5|  2|   1|  0|  0| 
-|Manny Machado    |3B        |      3|  0|   4|  0|  0| 
-|Xander Bogaerts  |SS        |      3|  0|   0|  0|  0| 
-|Chris Taylor     |MI        |      0|  0|   0|  0|  0| 
+|Will Smith       |C         |      6|  2|   2|  1|  0| 
+|Jose Abreu       |1B        |      7|  3|   0|  0|  0| 
+|Whit Merrifield  |2B        |      6|  3|   1|  0|  0| 
+|Manny Machado    |3B        |      6|  1|   5|  1|  0| 
+|Xander Bogaerts  |SS        |      4|  0|   1|  0|  0| 
+|Chris Taylor     |MI        |      2|  0|   1|  0|  0| 
 |Ke'Bryan Hayes   |CI        |      5|  0|   0|  0|  0| 
-|Bryan Reynolds   |OF        |      4|  0|   0|  0|  0| 
-|Ian Happ         |OF        |      2|  0|   0|  0|  0| 
-|Luis Robert      |OF        |      2|  1|   0|  0|  1| 
-|Michael Brantley |OF        |      6|  1|   0|  0|  0| 
-|Anthony Rizzo    |DH        |      5|  2|   4|  1|  0| 
+|Bryan Reynolds   |OF        |      6|  1|   0|  0|  0| 
+|Ian Happ         |OF        |      4|  0|   0|  0|  1| 
+|Luis Robert      |OF        |      3|  2|   0|  0|  3| 
+|Michael Brantley |OF        |     10|  3|   1|  1|  0| 
+|Anthony Rizzo    |DH        |      7|  2|   4|  1|  0| 
 |Eloy Jimenez     |DH        |     **| **|  **| **| **| 
 |Harrison Bader   |DH        |      4|  0|   1|  0|  0| 
-|Shohei Ohtani    |DH        |      6|  2|   2|  1|  0| 
-|Aaron Hicks      |BAT BENCH |      8|  4|   3|  1|  0| 
-|Alec Bohm        |BAT BENCH |      2|  2|   1|  1|  0| 
+|Shohei Ohtani    |DH        |      7|  2|   2|  1|  0| 
+|Aaron Hicks      |BAT BENCH |      9|  4|   3|  1|  0| 
+|Alec Bohm        |BAT BENCH |      3|  3|   1|  1|  0| 
 |Ji-Man Choi      |BAT BENCH |      5|  4|   4|  1|  0| 
 |Nicky Lopez      |BAT BENCH |      1|  0|   0|  0|  0| 
 
@@ -44,7 +44,7 @@
 |Jordan Lyles     |OP          |  1| 5.000|  6| 10.800|     11| 2.200|  1|  0|  0| 
 |Nestor Cortes    |OP          |  1| 4.333|  4|  8.308|      7| 1.615|  3|  0|  0| 
 |Ranger Suarez    |OP          |  1| 7.000|  2|  2.571|      6| 0.857|  5|  0|  0| 
-|Tanner Rainey    |OP          |  1| 0.333|  1| 27.000|      2| 6.000|  0|  0|  0| 
+|Tanner Rainey    |OP          |  1| 0.333|  0|  0.000|      2| 6.000|  0|  0|  0| 
 |Aroldis Chapman  |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Steven Matz      |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 
