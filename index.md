@@ -8,11 +8,11 @@ Through games on 2022-06-11 ([website build status](https://github.com/brian-bot
 |team                                              | points|  r| hitsbb| hr| rbi| sb|  w| sv| so|   era|  whip|
 |:-------------------------------------------------|------:|--:|------:|--:|---:|--:|--:|--:|--:|-----:|-----:|
 |[Mean Wieners](./meanwieners)                     |   63.0| 40|     96| 15|  37|  3|  7|  0| 63| 2.136| 1.153|
-|[T and A](./tanda)                                |   75.0| 40|    104| 13|  44|  4|  5|  4| 59| 2.898| 1.017|
+|[T and A](./tanda)                                |   74.0| 40|    104| 13|  44|  4|  5|  4| 61| 3.522| 1.076|
 |[Vass Deferens](./vassdeferens)                   |   62.5| 45|    112| 16|  44|  6|  2|  3| 38| 4.540| 1.354|
 |[Nuclear Arms](./nucleararms)                     |   51.5| 31|    101|  8|  27|  5|  3|  4| 71| 3.839| 1.166|
 |[Overwhelming Underdogs](./overwhelmingunderdogs) |   39.5| 33|     93| 12|  42|  6|  2|  2| 51| 5.364| 1.570|
-|[Wonderbots](./wonderbots)                        |   53.0| 35|    104| 10|  46|  1|  4|  1| 57| 2.943| 1.365|
+|[Wonderbots](./wonderbots)                        |   54.0| 35|    104| 10|  46|  1|  4|  1| 57| 2.943| 1.365|
 |[Terminoeckers](./terminoeckers)                  |   85.5| 44|    113| 16|  48|  8|  3|  2| 60| 2.481| 1.054|
 |[Washington Generals](./washingtongenerals)       |   44.0| 34|    106| 10|  34|  6|  3|  0| 52| 4.756| 1.330|
 |[Boys of Summer](./boysofsummer)                  |   44.5| 35|     86|  8|  24|  5|  4|  2| 56| 4.011| 1.114|
