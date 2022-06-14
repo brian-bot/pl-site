@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Willson Contreras |C         |      5|  1|   1|  1|  0| 
-|Paul Goldschmidt  |1B        |      5|  2|   0|  0|  0| 
-|Jose Altuve       |2B        |     10|  3|   6|  2|  0| 
+|Willson Contreras |C         |      7|  1|   1|  1|  0| 
+|Paul Goldschmidt  |1B        |      9|  4|   1|  1|  0| 
+|Jose Altuve       |2B        |     11|  4|   6|  2|  0| 
 |Jose Ramirez      |3B        |     11|  5|   6|  2|  2| 
 |Trevor Story      |SS        |      5|  3|   1|  0|  1| 
-|J.P. Crawford     |MI        |     13|  4|   2|  0|  2| 
-|Austin Riley      |CI        |      6|  4|   4|  2|  0| 
+|J.P. Crawford     |MI        |     14|  4|   2|  0|  2| 
+|Austin Riley      |CI        |      8|  4|   4|  2|  0| 
 |Andrew Benintendi |OF        |      7|  4|   1|  0|  0| 
 |Austin Hays       |OF        |      8|  3|   6|  1|  0| 
-|Jesse Winker      |OF        |      9|  3|   3|  1|  0| 
+|Jesse Winker      |OF        |     12|  3|   3|  1|  0| 
 |Mookie Betts      |OF        |      3|  0|   0|  0|  0| 
-|Eric Hosmer       |DH        |      3|  1|   1|  0|  0| 
+|Eric Hosmer       |DH        |      4|  1|   3|  0|  0| 
 |Jean Segura       |DH        |     **| **|  **| **| **| 
 |Jeff McNeil       |DH        |     10|  2|   2|  0|  0| 
-|Marcell Ozuna     |DH        |      3|  3|   0|  0|  0| 
+|Marcell Ozuna     |DH        |      5|  5|   2|  1|  0| 
 |Tim Anderson      |BAT BENCH |     **| **|  **| **| **| 
-|Travis d'Arnaud   |BAT BENCH |      4|  2|   1|  0|  0| 
-|Trevor Larnach    |BAT BENCH |      6|  1|   2|  1|  0| 
+|Travis d'Arnaud   |BAT BENCH |      5|  3|   2|  1|  0| 
+|Trevor Larnach    |BAT BENCH |      7|  1|   2|  1|  0| 
 
 
 * * *
@@ -40,7 +40,7 @@
 |Zack Wheeler     |SP          |  1|  6.000|  0|  0.000|      2| 0.333|  8|  1|  0| 
 |Edwin Diaz       |RP          |  2|  2.667|  0|  0.000|      1| 0.375|  7|  0|  1| 
 |Josh Hader       |RP          |  2|  2.000|  2|  9.000|      2| 1.000|  5|  0|  1| 
-|Brady Singer     |OP          |  1|  5.000|  3|  5.400|      8| 1.600|  5|  1|  0| 
+|Brady Singer     |OP          |  2| 10.000|  5|  4.500|     15| 1.500| 10|  1|  0| 
 |Jorge Lopez      |OP          |  2|  2.000|  0|  0.000|      1| 0.500|  2|  0|  1| 
 |Martin Perez     |OP          |  1|  5.000|  6| 10.800|     14| 2.800|  4|  0|  0| 
 |Paul Blackburn   |OP          |  1|  8.000|  0|  0.000|      5| 0.625|  3|  0|  0| 

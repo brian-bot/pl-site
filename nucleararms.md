@@ -6,16 +6,16 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith       |C         |     11|  3|   2|  1|  0| 
-|Jose Abreu       |1B        |     11|  4|   1|  0|  0| 
-|Whit Merrifield  |2B        |     10|  4|   1|  0|  0| 
-|Manny Machado    |3B        |      8|  3|   5|  1|  0| 
+|Jose Abreu       |1B        |     15|  6|   5|  2|  0| 
+|Whit Merrifield  |2B        |     11|  4|   2|  0|  0| 
+|Manny Machado    |3B        |      9|  4|   6|  1|  0| 
 |Xander Bogaerts  |SS        |      8|  1|   1|  0|  1| 
 |Chris Taylor     |MI        |      6|  0|   1|  0|  0| 
-|Ke'Bryan Hayes   |CI        |      6|  0|   1|  0|  0| 
-|Bryan Reynolds   |OF        |     11|  4|   5|  2|  0| 
-|Ian Happ         |OF        |      8|  2|   1|  1|  1| 
-|Luis Robert      |OF        |      7|  4|   1|  0|  4| 
-|Michael Brantley |OF        |     13|  5|   3|  1|  0| 
+|Ke'Bryan Hayes   |CI        |      7|  1|   2|  0|  0| 
+|Bryan Reynolds   |OF        |     12|  5|   5|  2|  0| 
+|Ian Happ         |OF        |      9|  2|   1|  1|  1| 
+|Luis Robert      |OF        |      9|  5|   2|  0|  4| 
+|Michael Brantley |OF        |     14|  5|   4|  1|  0| 
 |Anthony Rizzo    |DH        |     10|  5|   6|  2|  0| 
 |Eloy Jimenez     |DH        |     **| **|  **| **| **| 
 |Harrison Bader   |DH        |      5|  0|   1|  0|  0| 
@@ -44,7 +44,7 @@
 |Jordan Lyles     |OP          |  1|  5.000|  6| 10.800|     11| 2.200|  1|  0|  0| 
 |Nestor Cortes    |OP          |  1|  4.333|  4|  8.308|      7| 1.615|  3|  0|  0| 
 |Ranger Suarez    |OP          |  2| 11.333|  4|  3.176|     14| 1.235|  7|  0|  0| 
-|Tanner Rainey    |OP          |  2|  1.333|  2| 13.500|      4| 3.000|  2|  0|  0| 
+|Tanner Rainey    |OP          |  3|  2.333|  2|  7.714|      6| 2.571|  3|  0|  0| 
 |Aroldis Chapman  |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Steven Matz      |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 

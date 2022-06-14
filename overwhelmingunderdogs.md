@@ -5,21 +5,21 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Keibert Ruiz     |C         |      7|  1|   2|  1|  0| 
+|Keibert Ruiz     |C         |      8|  1|   2|  1|  0| 
 |Hunter Dozier    |1B        |      6|  2|   2|  1|  0| 
-|Ozzie Albies     |2B        |      6|  2|   9|  2|  0| 
-|Alex Bregman     |3B        |     10|  4|   0|  0|  0| 
-|Corey Seager     |SS        |      5|  2|   2|  1|  1| 
+|Ozzie Albies     |2B        |      7|  3|   9|  2|  0| 
+|Alex Bregman     |3B        |     11|  4|   0|  0|  0| 
+|Corey Seager     |SS        |      7|  2|   3|  1|  1| 
 |DJ LeMahieu      |MI        |     11|  5|   3|  1|  0| 
 |Justin Turner    |CI        |      5|  1|   0|  0|  0| 
-|Adolis Garcia    |OF        |     13|  4|   4|  2|  3| 
+|Adolis Garcia    |OF        |     15|  4|   5|  2|  3| 
 |Charlie Blackmon |OF        |      8|  3|   5|  1|  1| 
-|Juan Soto        |OF        |     11|  3|   7|  1|  1| 
+|Juan Soto        |OF        |     13|  4|   7|  1|  1| 
 |Mark Canha       |OF        |     12|  3|   4|  0|  0| 
-|Brendan Donovan  |DH        |      6|  1|   0|  0|  0| 
+|Brendan Donovan  |DH        |      9|  2|   2|  0|  0| 
 |Julio Rodriguez  |DH        |      8|  4|   4|  2|  0| 
 |Luis Guillorme   |DH        |      5|  1|   0|  0|  0| 
-|Tommy Edman      |DH        |      9|  5|   2|  1|  1| 
+|Tommy Edman      |DH        |     10|  5|   2|  1|  1| 
 |Anthony Rendon   |BAT BENCH |      3|  0|   1|  0|  0| 
 |Brandon Belt     |BAT BENCH |     **| **|  **| **| **| 
 |Kris Bryant      |BAT BENCH |     **| **|  **| **| **| 
@@ -44,7 +44,7 @@
 |David Robertson      |OP          |  1|  1.000|  0|  0.000|      2| 2.000|  2|  0|  0| 
 |Devin Williams       |OP          |  3|  3.000|  0|  0.000|      1| 0.333|  1|  0|  0| 
 |Madison Bumgarner    |OP          |  2| 10.000|  5|  4.500|     18| 1.800|  8|  0|  0| 
-|Seranthony Dominguez |OP          |  2|  1.667|  0|  0.000|      0| 0.000|  3|  1|  0| 
+|Seranthony Dominguez |OP          |  3|  2.667|  0|  0.000|      0| 0.000|  4|  2|  0| 
 |Zach Davies          |OP          |  1|  6.000|  3|  4.500|      7| 1.167|  7|  0|  0| 
 |Andrew Heaney        |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 
