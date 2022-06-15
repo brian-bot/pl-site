@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Willson Contreras |C         |      7|  1|   1|  1|  0| 
-|Paul Goldschmidt  |1B        |      9|  4|   1|  1|  0| 
-|Jose Altuve       |2B        |     11|  4|   6|  2|  0| 
-|Jose Ramirez      |3B        |     11|  5|   6|  2|  2| 
+|Willson Contreras |C         |     10|  4|   4|  3|  0| 
+|Paul Goldschmidt  |1B        |     16|  8|   9|  4|  0| 
+|Jose Altuve       |2B        |     12|  5|   6|  2|  0| 
+|Jose Ramirez      |3B        |     14|  6|   9|  2|  3| 
 |Trevor Story      |SS        |      5|  3|   1|  0|  1| 
 |J.P. Crawford     |MI        |     14|  4|   2|  0|  2| 
-|Austin Riley      |CI        |      8|  4|   4|  2|  0| 
-|Andrew Benintendi |OF        |      7|  4|   1|  0|  0| 
-|Austin Hays       |OF        |      8|  3|   6|  1|  0| 
+|Austin Riley      |CI        |      9|  5|   4|  2|  0| 
+|Andrew Benintendi |OF        |      9|  5|   1|  0|  0| 
+|Austin Hays       |OF        |      9|  4|   7|  2|  0| 
 |Jesse Winker      |OF        |     12|  3|   3|  1|  0| 
-|Mookie Betts      |OF        |      3|  0|   0|  0|  0| 
-|Eric Hosmer       |DH        |      4|  1|   3|  0|  0| 
+|Mookie Betts      |OF        |      4|  1|   1|  1|  0| 
+|Eric Hosmer       |DH        |      6|  3|   3|  0|  0| 
 |Jean Segura       |DH        |     **| **|  **| **| **| 
-|Jeff McNeil       |DH        |     10|  2|   2|  0|  0| 
-|Marcell Ozuna     |DH        |      5|  5|   2|  1|  0| 
+|Jeff McNeil       |DH        |     12|  2|   3|  0|  0| 
+|Marcell Ozuna     |DH        |      8|  6|   3|  2|  0| 
 |Tim Anderson      |BAT BENCH |     **| **|  **| **| **| 
-|Travis d'Arnaud   |BAT BENCH |      5|  3|   2|  1|  0| 
+|Travis d'Arnaud   |BAT BENCH |      8|  6|   5|  2|  0| 
 |Trevor Larnach    |BAT BENCH |      7|  1|   2|  1|  0| 
 
 
@@ -41,11 +41,11 @@
 |Edwin Diaz       |RP          |  2|  2.667|  0|  0.000|      1| 0.375|  7|  0|  1| 
 |Josh Hader       |RP          |  2|  2.000|  2|  9.000|      2| 1.000|  5|  0|  1| 
 |Brady Singer     |OP          |  2| 10.000|  5|  4.500|     15| 1.500| 10|  1|  0| 
-|Jorge Lopez      |OP          |  2|  2.000|  0|  0.000|      1| 0.500|  2|  0|  1| 
+|Jorge Lopez      |OP          |  3|  3.667|  0|  0.000|      1| 0.273|  3|  0|  2| 
 |Martin Perez     |OP          |  1|  5.000|  6| 10.800|     14| 2.800|  4|  0|  0| 
 |Paul Blackburn   |OP          |  1|  8.000|  0|  0.000|      5| 0.625|  3|  0|  0| 
 |Raisel Iglesias  |OP          |  3|  3.000|  1|  3.000|      3| 1.000|  4|  0|  1| 
-|Adrian Houser    |PITCH BENCH |  1|  6.000|  5|  7.500|      8| 1.333|  5|  0|  0| 
+|Adrian Houser    |PITCH BENCH |  2| 10.667|  9|  7.594|     17| 1.594|  8|  0|  0| 
 |Blake Snell      |PITCH BENCH |  2| 10.000|  6|  5.400|     18| 1.800| 11|  0|  0| 
 
 

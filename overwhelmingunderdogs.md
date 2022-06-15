@@ -8,22 +8,22 @@
 |Keibert Ruiz     |C         |      8|  1|   2|  1|  0| 
 |Hunter Dozier    |1B        |      6|  2|   2|  1|  0| 
 |Ozzie Albies     |2B        |      7|  3|   9|  2|  0| 
-|Alex Bregman     |3B        |     11|  4|   0|  0|  0| 
-|Corey Seager     |SS        |      7|  2|   3|  1|  1| 
-|DJ LeMahieu      |MI        |     11|  5|   3|  1|  0| 
-|Justin Turner    |CI        |      5|  1|   0|  0|  0| 
-|Adolis Garcia    |OF        |     15|  4|   5|  2|  3| 
-|Charlie Blackmon |OF        |      8|  3|   5|  1|  1| 
+|Alex Bregman     |3B        |     11|  5|   0|  0|  0| 
+|Corey Seager     |SS        |      8|  2|   3|  1|  1| 
+|DJ LeMahieu      |MI        |     12|  5|   3|  1|  0| 
+|Justin Turner    |CI        |      6|  1|   1|  0|  0| 
+|Adolis Garcia    |OF        |     16|  5|   5|  2|  3| 
+|Charlie Blackmon |OF        |      9|  4|   7|  2|  1| 
 |Juan Soto        |OF        |     13|  4|   7|  1|  1| 
 |Mark Canha       |OF        |     12|  3|   4|  0|  0| 
-|Brendan Donovan  |DH        |      9|  2|   2|  0|  0| 
-|Julio Rodriguez  |DH        |      8|  4|   4|  2|  0| 
-|Luis Guillorme   |DH        |      5|  1|   0|  0|  0| 
-|Tommy Edman      |DH        |     10|  5|   2|  1|  1| 
+|Brendan Donovan  |DH        |     15|  6|   3|  0|  0| 
+|Julio Rodriguez  |DH        |     11|  5|   4|  2|  0| 
+|Luis Guillorme   |DH        |      6|  1|   0|  0|  0| 
+|Tommy Edman      |DH        |     13|  7|   3|  2|  1| 
 |Anthony Rendon   |BAT BENCH |      3|  0|   1|  0|  0| 
-|Brandon Belt     |BAT BENCH |     **| **|  **| **| **| 
+|Brandon Belt     |BAT BENCH |      1|  0|   0|  0|  0| 
 |Kris Bryant      |BAT BENCH |     **| **|  **| **| **| 
-|Max Muncy        |BAT BENCH |      5|  2|   5|  1|  0| 
+|Max Muncy        |BAT BENCH |      6|  2|   5|  1|  0| 
 |Royce Lewis      |BAT BENCH |     **| **|  **| **| **| 
 
 * * *
@@ -39,13 +39,13 @@
 |Joe Musgrove         |SP          |  1|  6.000|  0|  0.000|      6| 1.000|  8|  1|  0| 
 |Jon Gray             |SP          |  2| 11.000|  6|  4.909|     16| 1.455| 13|  0|  0| 
 |Jose Quintana        |SP          |  2|  8.333|  8|  8.640|     15| 1.800|  9|  0|  0| 
-|Corey Knebel         |RP          |  2|  2.000|  0|  0.000|      4| 2.000|  2|  0|  2| 
-|Craig Kimbrel        |RP          |  1|  0.333|  1| 27.000|      3| 9.000|  1|  0|  0| 
+|Corey Knebel         |RP          |  3|  2.000|  0|  0.000|      7| 3.500|  2|  0|  2| 
+|Craig Kimbrel        |RP          |  2|  1.333|  1|  6.750|      6| 4.500|  4|  0|  1| 
 |David Robertson      |OP          |  1|  1.000|  0|  0.000|      2| 2.000|  2|  0|  0| 
 |Devin Williams       |OP          |  3|  3.000|  0|  0.000|      1| 0.333|  1|  0|  0| 
 |Madison Bumgarner    |OP          |  2| 10.000|  5|  4.500|     18| 1.800|  8|  0|  0| 
-|Seranthony Dominguez |OP          |  3|  2.667|  0|  0.000|      0| 0.000|  4|  2|  0| 
-|Zach Davies          |OP          |  1|  6.000|  3|  4.500|      7| 1.167|  7|  0|  0| 
+|Seranthony Dominguez |OP          |  4|  3.333|  1|  2.700|      2| 0.600|  6|  2|  0| 
+|Zach Davies          |OP          |  2| 13.000|  3|  2.077|     13| 1.000| 14|  0|  0| 
 |Andrew Heaney        |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 
 
