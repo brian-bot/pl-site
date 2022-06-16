@@ -6,20 +6,20 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Salvador Perez    |C         |     11|  5|   8|  1|  0| 
-|Matt Olson        |1B        |      9|  4|   3|  1|  0| 
+|Matt Olson        |1B        |     10|  4|   3|  1|  0| 
 |Jazz Chisholm Jr. |2B        |     10|  9|  10|  5|  1| 
-|Eugenio Suarez    |3B        |     12|  1|   2|  1|  0| 
-|Bo Bichette       |SS        |     15|  6|   6|  2|  0| 
+|Eugenio Suarez    |3B        |     14|  1|   2|  1|  0| 
+|Bo Bichette       |SS        |     15|  7|   6|  2|  0| 
 |Francisco Lindor  |MI        |      6|  1|   0|  0|  1| 
-|Kyle Schwarber    |CI        |     15|  8|   7|  2|  1| 
-|Brandon Nimmo     |OF        |     12|  4|   4|  1|  0| 
+|Kyle Schwarber    |CI        |     16|  8|   7|  2|  1| 
+|Brandon Nimmo     |OF        |     14|  5|   4|  1|  0| 
 |Jorge Soler       |OF        |      9|  4|   2|  1|  0| 
 |Juan Yepez        |OF        |      7|  2|   2|  1|  0| 
 |Tyrone Taylor     |OF        |      3|  1|   0|  0|  0| 
-|Frank Schwindel   |DH        |      6|  0|   2|  0|  0| 
+|Frank Schwindel   |DH        |      8|  1|   2|  0|  0| 
 |Javier Baez       |DH        |      6|  2|   1|  0|  1| 
-|Jurickson Profar  |DH        |     17| 11|   6|  1|  0| 
-|Wilmer Flores     |DH        |      8|  3|   3|  1|  0| 
+|Jurickson Profar  |DH        |     20| 14|   7|  1|  0| 
+|Wilmer Flores     |DH        |      9|  3|   3|  1|  0| 
 |Franmil Reyes     |BAT BENCH |     **| **|  **| **| **| 
 |Mitch Haniger     |BAT BENCH |     **| **|  **| **| **| 
 |Taylor Ward       |BAT BENCH |      0|  0|   0|  0|  0| 

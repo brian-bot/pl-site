@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Daulton Varsho    |C         |     10|  3|   6|  1|  1| 
-|Freddie Freeman   |1B        |      9|  4|   4|  1|  0| 
-|Trea Turner       |2B        |     10|  4|   2|  1|  2| 
-|Josh Donaldson    |3B        |      8|  1|   1|  0|  1| 
+|Daulton Varsho    |C         |     11|  3|   6|  1|  1| 
+|Freddie Freeman   |1B        |     11|  5|   4|  1|  1| 
+|Trea Turner       |2B        |     12|  6|   3|  2|  2| 
+|Josh Donaldson    |3B        |      8|  2|   1|  0|  1| 
 |Jeremy Pena       |SS        |      9|  4|   3|  1|  3| 
 |Ty France         |MI        |     13|  4|   4|  2|  0| 
-|Joey Votto        |CI        |     16|  5|   5|  1|  0| 
+|Joey Votto        |CI        |     18|  6|   5|  1|  0| 
 |Byron Buxton      |OF        |     14| 10|   9|  6|  0| 
-|Christian Yelich  |OF        |     13|  6|   1|  1|  2| 
+|Christian Yelich  |OF        |     15|  7|   1|  1|  2| 
 |Nick Castellanos  |OF        |     12|  1|   2|  0|  0| 
-|Randy Arozarena   |OF        |     11|  5|   7|  1|  2| 
-|Christopher Morel |DH        |      7|  3|   2|  1|  0| 
-|Hunter Renfroe    |DH        |      3|  1|   1|  1|  0| 
-|Luke Voit         |DH        |      8|  5|  13|  3|  0| 
+|Randy Arozarena   |OF        |     13|  6|   7|  1|  2| 
+|Christopher Morel |DH        |      9|  4|   5|  2|  0| 
+|Hunter Renfroe    |DH        |      8|  2|   1|  1|  0| 
+|Luke Voit         |DH        |     12|  7|  15|  4|  0| 
 |Tommy Pham        |DH        |     14|  8|   4|  2|  1| 
-|Josh Rojas        |BAT BENCH |     11|  6|   6|  1|  1| 
-|MJ Melendez       |BAT BENCH |     12|  4|   7|  2|  0| 
+|Josh Rojas        |BAT BENCH |     12|  7|   6|  1|  1| 
+|MJ Melendez       |BAT BENCH |     13|  4|   7|  2|  0| 
 |Seiya Suzuki      |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -36,9 +36,9 @@
 |Julio Urias      |SP          |  1|  6.000|  2|  3.000|      3| 0.500| 10|  0|  0| 
 |MacKenzie Gore   |SP          |  1|  2.333|  6| 23.143|      9| 3.857|  3|  0|  0| 
 |Sandy Alcantara  |SP          |  2| 16.667|  2|  1.080|     15| 0.900| 11|  0|  0| 
-|Shane McClanahan |SP          |  1|  8.000|  0|  0.000|      3| 0.375|  9|  1|  0| 
+|Shane McClanahan |SP          |  2| 14.000|  1|  0.643|      8| 0.571| 16|  1|  0| 
 |Yu Darvish       |SP          |  2| 15.000|  1|  0.600|      7| 0.467| 13|  2|  0| 
-|Clay Holmes      |RP          |  3|  3.000|  0|  0.000|      2| 0.667|  3|  0|  2| 
+|Clay Holmes      |RP          |  4|  4.000|  0|  0.000|      3| 0.750|  4|  0|  3| 
 |Ryan Helsley     |RP          |  4|  3.667|  0|  0.000|      2| 0.545|  5|  0|  2| 
 |Aaron Ashby      |OP          |  1|  4.667|  6| 11.571|     14| 3.000|  2|  0|  0| 
 |Andrew Kittredge |OP          |  1|  1.000|  1|  9.000|      3| 3.000|  1|  0|  0| 

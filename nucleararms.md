@@ -5,24 +5,24 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith       |C         |     12|  3|   2|  1|  0| 
-|Jose Abreu       |1B        |     17|  6|   5|  2|  0| 
-|Whit Merrifield  |2B        |     11|  4|   2|  0|  0| 
-|Manny Machado    |3B        |     10|  5|   6|  1|  0| 
-|Xander Bogaerts  |SS        |     12|  1|   2|  0|  1| 
-|Chris Taylor     |MI        |      7|  0|   1|  0|  1| 
-|Ke'Bryan Hayes   |CI        |      7|  1|   2|  0|  0| 
-|Bryan Reynolds   |OF        |     15|  6|   5|  2|  0| 
-|Ian Happ         |OF        |     10|  3|   1|  1|  1| 
-|Luis Robert      |OF        |     12|  6|   4|  0|  4| 
-|Michael Brantley |OF        |     17|  6|   4|  1|  0| 
+|Will Smith       |C         |     13|  4|   5|  2|  0| 
+|Jose Abreu       |1B        |     22|  9|   7|  2|  0| 
+|Whit Merrifield  |2B        |     12|  5|   3|  0|  0| 
+|Manny Machado    |3B        |     15|  8|  10|  2|  0| 
+|Xander Bogaerts  |SS        |     15|  3|   4|  0|  1| 
+|Chris Taylor     |MI        |      8|  0|   1|  0|  1| 
+|Ke'Bryan Hayes   |CI        |      9|  2|   2|  0|  0| 
+|Bryan Reynolds   |OF        |     18|  8|   7|  3|  0| 
+|Ian Happ         |OF        |     14|  3|   1|  1|  1| 
+|Luis Robert      |OF        |     13|  7|   4|  0|  4| 
+|Michael Brantley |OF        |     19|  7|   4|  1|  0| 
 |Anthony Rizzo    |DH        |     12|  5|   6|  2|  1| 
 |Eloy Jimenez     |DH        |     **| **|  **| **| **| 
-|Harrison Bader   |DH        |      8|  1|   1|  0|  0| 
-|Shohei Ohtani    |DH        |     13|  5|   5|  2|  0| 
+|Harrison Bader   |DH        |      9|  2|   1|  0|  0| 
+|Shohei Ohtani    |DH        |     14|  6|   5|  2|  0| 
 |Aaron Hicks      |BAT BENCH |     10|  5|   3|  1|  1| 
-|Alec Bohm        |BAT BENCH |      6|  4|   4|  1|  0| 
-|Ji-Man Choi      |BAT BENCH |     10|  5|   6|  1|  0| 
+|Alec Bohm        |BAT BENCH |      8|  5|   4|  1|  0| 
+|Ji-Man Choi      |BAT BENCH |     11|  5|   7|  1|  0| 
 |Nicky Lopez      |BAT BENCH |      3|  1|   0|  0|  0| 
 
 * * *
@@ -42,7 +42,7 @@
 |Ryan Pressly     |RP          |  3|  3.000|  0| 0.000|      2| 0.667|  2|  0|  2| 
 |George Kirby     |OP          |  1|  5.000|  3| 5.400|      7| 1.400|  4|  0|  0| 
 |Jordan Lyles     |OP          |  2| 10.333| 10| 8.710|     18| 1.742|  8|  1|  0| 
-|Nestor Cortes    |OP          |  1|  4.333|  4| 8.308|      7| 1.615|  3|  0|  0| 
+|Nestor Cortes    |OP          |  2|  9.667|  5| 4.655|     13| 1.345|  7|  1|  0| 
 |Ranger Suarez    |OP          |  2| 11.333|  4| 3.176|     14| 1.235|  7|  0|  0| 
 |Tanner Rainey    |OP          |  3|  2.333|  2| 7.714|      6| 2.571|  3|  0|  0| 
 |Aroldis Chapman  |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
