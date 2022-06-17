@@ -4,16 +4,16 @@
 
  |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto    |C         |      8|  3|   2|  0|  3| 
-|Pete Alonso      |1B        |     11|  6|   5|  2|  1| 
+|J.T. Realmuto    |C         |     10|  4|   3|  0|  3| 
+|Pete Alonso      |1B        |     12|  6|   5|  2|  1| 
 |Nolan Gorman     |2B        |     10|  2|   2|  0|  0| 
 |Matt Chapman     |3B        |      8|  4|   6|  2|  0| 
 |Dansby Swanson   |SS        |     18|  7|  11|  3|  0| 
-|Jonathan Schoop  |MI        |      5|  0|   1|  0|  0| 
+|Jonathan Schoop  |MI        |      6|  0|   1|  0|  0| 
 |Trey Mancini     |CI        |      9|  2|   2|  1|  0| 
-|J.D. Martinez    |OF        |     17|  5|   4|  3|  0| 
+|J.D. Martinez    |OF        |     20|  5|   5|  3|  0| 
 |Kyle Tucker      |OF        |     15|  4|   8|  3|  2| 
-|Ramon Laureano   |OF        |      9|  2|   3|  1|  1| 
+|Ramon Laureano   |OF        |     11|  3|   3|  1|  1| 
 |Yordan Alvarez   |OF        |     19|  4|  11|  1|  0| 
 |Adam Duvall      |DH        |     11|  8|   7|  4|  0| 
 |AJ Pollock       |DH        |     20|  7|   7|  0|  0| 

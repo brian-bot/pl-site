@@ -8,16 +8,16 @@
 |Daulton Varsho    |C         |     11|  3|   6|  1|  1| 
 |Freddie Freeman   |1B        |     11|  5|   4|  1|  1| 
 |Trea Turner       |2B        |     12|  6|   3|  2|  2| 
-|Josh Donaldson    |3B        |      8|  2|   1|  0|  1| 
+|Josh Donaldson    |3B        |      9|  2|   1|  0|  1| 
 |Jeremy Pena       |SS        |      9|  4|   3|  1|  3| 
 |Ty France         |MI        |     13|  4|   4|  2|  0| 
 |Joey Votto        |CI        |     18|  6|   5|  1|  0| 
 |Byron Buxton      |OF        |     14| 10|   9|  6|  0| 
-|Christian Yelich  |OF        |     15|  7|   1|  1|  2| 
-|Nick Castellanos  |OF        |     12|  1|   2|  0|  0| 
+|Christian Yelich  |OF        |     16|  8|   2|  2|  2| 
+|Nick Castellanos  |OF        |     15|  2|   4|  0|  0| 
 |Randy Arozarena   |OF        |     13|  6|   7|  1|  2| 
-|Christopher Morel |DH        |      9|  4|   5|  2|  0| 
-|Hunter Renfroe    |DH        |      8|  2|   1|  1|  0| 
+|Christopher Morel |DH        |     11|  5|   6|  3|  1| 
+|Hunter Renfroe    |DH        |     10|  2|   2|  1|  0| 
 |Luke Voit         |DH        |     12|  7|  15|  4|  0| 
 |Tommy Pham        |DH        |     14|  8|   4|  2|  1| 
 |Josh Rojas        |BAT BENCH |     12|  7|   6|  1|  1| 
@@ -40,11 +40,11 @@
 |Yu Darvish       |SP          |  2| 15.000|  1|  0.600|      7| 0.467| 13|  2|  0| 
 |Clay Holmes      |RP          |  4|  4.000|  0|  0.000|      3| 0.750|  4|  0|  3| 
 |Ryan Helsley     |RP          |  4|  3.667|  0|  0.000|      2| 0.545|  5|  0|  2| 
-|Aaron Ashby      |OP          |  1|  4.667|  6| 11.571|     14| 3.000|  2|  0|  0| 
+|Aaron Ashby      |OP          |  2|  9.000| 10| 10.000|     21| 2.333|  7|  0|  0| 
 |Andrew Kittredge |OP          |  1|  1.000|  1|  9.000|      3| 3.000|  1|  0|  0| 
 |Hunter Greene    |OP          |  2| 12.000|  1|  0.750|      5| 0.417| 15|  1|  0| 
 |Rafael Montero   |OP          |  3|  4.000|  1|  2.250|      6| 1.500|  2|  0|  0| 
-|Triston McKenzie |OP          |  1|  6.000|  2|  3.000|      7| 1.167|  6|  0|  0| 
+|Triston McKenzie |OP          |  2| 12.000|  3|  2.250|     15| 1.250| 12|  1|  0| 
 |Graham Ashcraft  |PITCH BENCH |  2| 10.667|  4|  3.375|     12| 1.125|  6|  1|  0| 
 |Jesus Luzardo    |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Patrick Sandoval |PITCH BENCH |  1|  6.000|  2|  3.000|     10| 1.667|  8|  0|  0| 

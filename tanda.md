@@ -8,21 +8,21 @@
 |Salvador Perez    |C         |     11|  5|   8|  1|  0| 
 |Matt Olson        |1B        |     10|  4|   3|  1|  0| 
 |Jazz Chisholm Jr. |2B        |     10|  9|  10|  5|  1| 
-|Eugenio Suarez    |3B        |     14|  1|   2|  1|  0| 
-|Bo Bichette       |SS        |     15|  7|   6|  2|  0| 
-|Francisco Lindor  |MI        |      6|  1|   0|  0|  1| 
-|Kyle Schwarber    |CI        |     16|  8|   7|  2|  1| 
-|Brandon Nimmo     |OF        |     14|  5|   4|  1|  0| 
+|Eugenio Suarez    |3B        |     16|  1|   2|  1|  0| 
+|Bo Bichette       |SS        |     16|  7|   6|  2|  0| 
+|Francisco Lindor  |MI        |      7|  1|   0|  0|  1| 
+|Kyle Schwarber    |CI        |     19| 10|  10|  4|  1| 
+|Brandon Nimmo     |OF        |     15|  5|   4|  1|  0| 
 |Jorge Soler       |OF        |      9|  4|   2|  1|  0| 
 |Juan Yepez        |OF        |      7|  2|   2|  1|  0| 
-|Tyrone Taylor     |OF        |      3|  1|   0|  0|  0| 
-|Frank Schwindel   |DH        |      8|  1|   2|  0|  0| 
-|Javier Baez       |DH        |      6|  2|   1|  0|  1| 
-|Jurickson Profar  |DH        |     20| 14|   7|  1|  0| 
+|Tyrone Taylor     |OF        |      4|  1|   0|  0|  0| 
+|Frank Schwindel   |DH        |      8|  1|   3|  0|  0| 
+|Javier Baez       |DH        |      7|  2|   1|  0|  1| 
+|Jurickson Profar  |DH        |     22| 16|   8|  2|  0| 
 |Wilmer Flores     |DH        |      9|  3|   3|  1|  0| 
 |Franmil Reyes     |BAT BENCH |     **| **|  **| **| **| 
 |Mitch Haniger     |BAT BENCH |     **| **|  **| **| **| 
-|Taylor Ward       |BAT BENCH |      0|  0|   0|  0|  0| 
+|Taylor Ward       |BAT BENCH |      3|  2|   0|  0|  0| 
 
 
 * * *
