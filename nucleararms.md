@@ -5,25 +5,25 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith       |C         |     13|  4|   5|  2|  0| 
-|Jose Abreu       |1B        |     22|  9|   7|  2|  0| 
-|Whit Merrifield  |2B        |     15|  6|   3|  0|  1| 
-|Manny Machado    |3B        |     19|  9|  12|  2|  0| 
-|Xander Bogaerts  |SS        |     19|  4|   5|  0|  1| 
-|Chris Taylor     |MI        |      8|  0|   1|  0|  1| 
-|Ke'Bryan Hayes   |CI        |     10|  2|   2|  0|  0| 
-|Bryan Reynolds   |OF        |     18|  8|   7|  3|  0| 
-|Ian Happ         |OF        |     16|  3|   2|  1|  1| 
-|Luis Robert      |OF        |     14|  7|   4|  0|  4| 
+|Will Smith       |C         |     14|  4|   5|  2|  0| 
+|Jose Abreu       |1B        |     24|  9|   9|  2|  0| 
+|Whit Merrifield  |2B        |     17|  6|   4|  0|  1| 
+|Manny Machado    |3B        |     22| 10|  14|  3|  0| 
+|Xander Bogaerts  |SS        |     21|  5|   5|  0|  1| 
+|Chris Taylor     |MI        |      9|  1|   1|  0|  1| 
+|Ke'Bryan Hayes   |CI        |     12|  4|   2|  0|  1| 
+|Bryan Reynolds   |OF        |     19|  8|   7|  3|  0| 
+|Ian Happ         |OF        |     17|  4|   2|  1|  1| 
+|Luis Robert      |OF        |     17|  8|   8|  0|  4| 
 |Michael Brantley |OF        |     21|  9|   8|  2|  0| 
-|Anthony Rizzo    |DH        |     18|  8|  12|  4|  2| 
+|Anthony Rizzo    |DH        |     21|  9|  12|  4|  2| 
 |Eloy Jimenez     |DH        |     **| **|  **| **| **| 
-|Harrison Bader   |DH        |     11|  3|   2|  0|  0| 
+|Harrison Bader   |DH        |     14|  4|   2|  0|  0| 
 |Shohei Ohtani    |DH        |     16|  6|   5|  2|  0| 
-|Aaron Hicks      |BAT BENCH |     11|  5|   3|  1|  1| 
-|Alec Bohm        |BAT BENCH |     12|  6|   5|  1|  0| 
-|Ji-Man Choi      |BAT BENCH |     15|  5|   7|  1|  0| 
-|Nicky Lopez      |BAT BENCH |      4|  2|   0|  0|  0| 
+|Aaron Hicks      |BAT BENCH |     13|  5|   6|  1|  1| 
+|Alec Bohm        |BAT BENCH |     14|  6|   5|  1|  0| 
+|Ji-Man Choi      |BAT BENCH |     17|  6|   9|  2|  0| 
+|Nicky Lopez      |BAT BENCH |      5|  2|   0|  0|  0| 
 
 * * *
 

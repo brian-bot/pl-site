@@ -4,23 +4,23 @@
 
  |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto    |C         |     11|  5|   5|  0|  4| 
+|J.T. Realmuto    |C         |     13|  5|   5|  0|  4| 
 |Pete Alonso      |1B        |     15|  7|   9|  3|  1| 
-|Nolan Gorman     |2B        |     10|  2|   2|  0|  0| 
-|Matt Chapman     |3B        |      9|  5|   6|  2|  0| 
-|Dansby Swanson   |SS        |     18|  7|  11|  3|  0| 
-|Jonathan Schoop  |MI        |      6|  0|   1|  0|  0| 
-|Trey Mancini     |CI        |     10|  2|   2|  1|  0| 
+|Nolan Gorman     |2B        |     11|  3|   3|  1|  0| 
+|Matt Chapman     |3B        |     10|  5|   6|  2|  0| 
+|Dansby Swanson   |SS        |     21|  7|  11|  3|  0| 
+|Jonathan Schoop  |MI        |      8|  1|   2|  0|  0| 
+|Trey Mancini     |CI        |     10|  3|   2|  1|  0| 
 |J.D. Martinez    |OF        |     21|  6|   5|  3|  0| 
 |Kyle Tucker      |OF        |     17|  6|  10|  4|  2| 
 |Ramon Laureano   |OF        |     13|  3|   3|  1|  1| 
 |Yordan Alvarez   |OF        |     21|  6|  13|  2|  0| 
-|Adam Duvall      |DH        |     13|  8|   7|  4|  0| 
+|Adam Duvall      |DH        |     15| 10|   8|  5|  0| 
 |AJ Pollock       |DH        |     21|  8|  10|  1|  0| 
 |Kolten Wong      |DH        |      0|  0|   0|  0|  0| 
 |Santiago Espinal |DH        |     15|  7|   6|  1|  0| 
 |Jonathan India   |BAT BENCH |      5|  0|   2|  0|  0| 
-|Max Kepler       |BAT BENCH |     11|  1|   3|  0|  0| 
+|Max Kepler       |BAT BENCH |     13|  3|   5|  0|  0| 
 
 * * *
 

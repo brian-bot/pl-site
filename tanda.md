@@ -7,19 +7,19 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Salvador Perez    |C         |     14|  7|  10|  2|  0| 
 |Matt Olson        |1B        |     12|  4|   3|  1|  0| 
-|Jazz Chisholm Jr. |2B        |     12| 10|  10|  5|  1| 
-|Eugenio Suarez    |3B        |     17|  1|   3|  1|  0| 
-|Bo Bichette       |SS        |     16|  7|   6|  2|  0| 
-|Francisco Lindor  |MI        |     10|  3|   4|  1|  1| 
-|Kyle Schwarber    |CI        |     24| 14|  10|  4|  1| 
+|Jazz Chisholm Jr. |2B        |     13| 11|  10|  5|  2| 
+|Eugenio Suarez    |3B        |     18|  1|   3|  1|  0| 
+|Bo Bichette       |SS        |     17|  7|   6|  2|  0| 
+|Francisco Lindor  |MI        |     11|  4|   6|  2|  1| 
+|Kyle Schwarber    |CI        |     26| 14|  10|  4|  1| 
 |Brandon Nimmo     |OF        |     17|  6|   4|  1|  0| 
 |Jorge Soler       |OF        |     13|  4|   3|  1|  0| 
 |Juan Yepez        |OF        |      7|  2|   2|  1|  0| 
-|Tyrone Taylor     |OF        |      5|  1|   0|  0|  0| 
+|Tyrone Taylor     |OF        |      6|  2|   0|  0|  0| 
 |Frank Schwindel   |DH        |      8|  1|   3|  0|  0| 
-|Javier Baez       |DH        |      8|  2|   1|  0|  1| 
-|Jurickson Profar  |DH        |     22| 16|   9|  2|  0| 
-|Wilmer Flores     |DH        |      9|  3|   3|  1|  0| 
+|Javier Baez       |DH        |      9|  3|   3|  1|  1| 
+|Jurickson Profar  |DH        |     23| 16|   9|  2|  0| 
+|Wilmer Flores     |DH        |     11|  4|   4|  2|  0| 
 |Franmil Reyes     |BAT BENCH |     **| **|  **| **| **| 
 |Mitch Haniger     |BAT BENCH |     **| **|  **| **| **| 
 |Taylor Ward       |BAT BENCH |      3|  2|   0|  0|  0| 
@@ -34,11 +34,11 @@
 |:-----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Edward Cabrera    |SP          |  2|  9.667|  6| 5.586|     14| 1.448|  6|  1|  0| 
 |Ian Anderson      |SP          |  2| 10.000|  6| 5.400|     18| 1.800|  8|  1|  0| 
-|Jameson Taillon   |SP          |  2|  9.000|  7| 7.000|     18| 2.000|  8|  1|  0| 
+|Jameson Taillon   |SP          |  3| 14.667|  7| 4.295|     24| 1.636| 16|  2|  0| 
 |Jordan Montgomery |SP          |  2| 13.000|  2| 1.385|      9| 0.692| 10|  2|  0| 
-|Kyle Wright       |SP          |  2| 14.000|  5| 3.214|     12| 0.857| 14|  2|  0| 
+|Kyle Wright       |SP          |  3| 20.000| 10| 4.500|     24| 1.200| 22|  2|  0| 
 |Sean Manaea       |SP          |  2| 11.000|  6| 4.909|     15| 1.364|  8|  1|  0| 
-|Daniel Bard       |RP          |  5|  5.000|  0| 0.000|      3| 0.600|  7|  0|  2| 
+|Daniel Bard       |RP          |  6|  6.000|  0| 0.000|      5| 0.833|  8|  0|  3| 
 |Kenley Jansen     |RP          |  4|  4.000|  0| 0.000|      1| 0.250|  5|  0|  4| 
 |Charlie Morton    |OP          |  2| 13.000|  4| 2.769|      9| 0.692| 21|  0|  0| 
 |Mike Clevinger    |OP          |  1|  2.000|  2| 9.000|      5| 2.500|  2|  0|  0| 
@@ -46,7 +46,7 @@
 |Shane Baz         |OP          |  2|  8.333|  5| 5.400|      8| 0.960|  9|  0|  0| 
 |Zach Eflin        |OP          |  2| 10.000|  5| 4.500|     12| 1.200|  6|  0|  0| 
 |Alex Cobb         |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
-|Camilo Doval      |PITCH BENCH |  6|  5.667|  0| 0.000|      3| 0.529|  8|  2|  2| 
+|Camilo Doval      |PITCH BENCH |  7|  6.667|  0| 0.000|      3| 0.450| 10|  2|  3| 
 |Corey Kluber      |PITCH BENCH |  2| 11.000|  3| 2.455|     12| 1.091|  8|  1|  0| 
 |Max Scherzer      |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 
