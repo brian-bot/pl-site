@@ -8,18 +8,18 @@
 |Alejandro Kirk    |C         |     20|  9|   6|  1|  0| 
 |Josh Bell         |1B        |     24|  8|  13|  6|  0| 
 |Luis Urias        |2B        |     11|  3|   6|  1|  1| 
-|Rafael Devers     |3B        |     23| 11|  11|  4|  1| 
+|Rafael Devers     |3B        |     25| 11|  12|  4|  1| 
 |Bobby Witt Jr.    |SS        |     18|  9|   4|  1|  2| 
-|Willy Adames      |MI        |     10|  7|   9|  4|  0| 
-|Patrick Wisdom    |CI        |     13|  0|   0|  0|  0| 
-|Aaron Judge       |OF        |     22| 11|   8|  4|  1| 
+|Willy Adames      |MI        |     12|  7|   9|  4|  0| 
+|Patrick Wisdom    |CI        |     14|  0|   0|  0|  0| 
+|Aaron Judge       |OF        |     23| 11|   8|  4|  2| 
 |Anthony Santander |OF        |     14|  5|   5|  3|  0| 
 |Joey Gallo        |OF        |     14| 10|   9|  3|  1| 
 |Tyler O'Neill     |OF        |     20|  8|   8|  2|  3| 
 |Brandon Drury     |DH        |     19| 10|   8|  5|  0| 
-|Christian Walker  |DH        |     15|  5|   9|  4|  0| 
-|Joc Pederson      |DH        |     11|  6|   6|  1|  1| 
-|Nico Hoerner      |DH        |      9|  3|   1|  0|  0| 
+|Christian Walker  |DH        |     16|  5|  10|  4|  0| 
+|Joc Pederson      |DH        |     12|  6|   6|  1|  1| 
+|Nico Hoerner      |DH        |     12|  3|   1|  0|  0| 
 |Brandon Lowe      |BAT BENCH |     **| **|  **| **| **| 
 |Kyle Lewis        |BAT BENCH |     **| **|  **| **| **| 
 |Matt Carpenter    |BAT BENCH |      4|  3|   7|  2|  0| 
@@ -40,7 +40,7 @@
 |Lucas Giolito    |SP          |  2| 10.000| 12| 10.800|     19| 1.900| 11|  0|  0| 
 |Michael Kopech   |SP          |  3| 11.667|  4|  3.086|     10| 0.857| 12|  1|  0| 
 |David Bednar     |RP          |  4|  6.667|  1|  1.350|      6| 0.900|  9|  1|  1| 
-|Taylor Rogers    |RP          |  3|  3.000|  1|  3.000|      1| 0.333|  3|  0|  2| 
+|Taylor Rogers    |RP          |  4|  4.000|  1|  2.250|      1| 0.250|  5|  0|  3| 
 |Alex Wood        |OP          |  3| 18.333|  7|  3.436|     18| 0.982| 14|  2|  0| 
 |Jeffrey Springs  |OP          |  3| 15.667|  4|  2.298|     20| 1.277| 16|  1|  0| 
 |Jhoan Duran      |OP          |  4|  3.333|  2|  5.400|      7| 2.100|  4|  0|  0| 

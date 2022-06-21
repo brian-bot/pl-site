@@ -6,22 +6,22 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Yasmani Grandal   |C         |      8|  0|   4|  0|  0| 
-|Vladimir Guerrero |1B        |     24| 12|  12|  5|  0| 
+|Vladimir Guerrero |1B        |     26| 13|  12|  5|  0| 
 |Ketel Marte       |2B        |     16|  8|   4|  1|  1| 
 |Nolan Arenado     |3B        |     17|  5|   6|  3|  0| 
 |Brandon Crawford  |SS        |     13|  1|   5|  0|  0| 
-|Jake Cronenworth  |MI        |     33| 15|  14|  1|  0| 
+|Jake Cronenworth  |MI        |     35| 16|  15|  2|  1| 
 |Luis Arraez       |CI        |     20|  8|   8|  2|  0| 
-|Andrew Vaughn     |OF        |     23|  5|   6|  0|  0| 
+|Andrew Vaughn     |OF        |     27|  7|   8|  1|  0| 
 |Cody Bellinger    |OF        |     12|  4|   3|  2|  2| 
 |David Peralta     |OF        |      8|  3|   3|  0|  1| 
-|George Springer   |OF        |     17|  8|   4|  2|  2| 
+|George Springer   |OF        |     18|  8|   4|  2|  3| 
 |Nelson Cruz       |DH        |     18|  6|   9|  2|  1| 
-|Thairo Estrada    |DH        |     13|  5|   5|  2|  1| 
-|Yandy Diaz        |DH        |     15|  5|   2|  0|  0| 
+|Thairo Estrada    |DH        |     14|  5|   5|  2|  1| 
+|Yandy Diaz        |DH        |     15|  5|   3|  0|  0| 
 |Yuli Gurriel      |DH        |     14|  4|   3|  2|  1| 
 |Austin Meadows    |BAT BENCH |      9|  0|   0|  0|  0| 
-|Dylan Carlson     |BAT BENCH |     14|  5|   5|  2|  0| 
+|Dylan Carlson     |BAT BENCH |     15|  5|   5|  2|  0| 
 |Jarred Kelenic    |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -34,7 +34,7 @@
 |:---------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Aaron Nola      |SP          |  3| 23.000|  2|  0.783|     16| 0.696| 20|  1|  0| 
 |Adam Wainwright |SP          |  2| 13.333|  7|  4.725|     17| 1.275| 12|  0|  0| 
-|Jose Berrios    |SP          |  2| 15.000|  4|  2.400|      9| 0.600| 13|  1|  0| 
+|Jose Berrios    |SP          |  3| 19.000| 10|  4.737|     19| 1.000| 14|  1|  0| 
 |Kevin Gausman   |SP          |  2|  8.333|  6|  6.480|     17| 2.040|  7|  0|  0| 
 |Luis Severino   |SP          |  2| 11.000|  6|  4.909|     15| 1.364| 19|  0|  0| 
 |Robbie Ray      |SP          |  3| 19.000|  4|  1.895|     19| 1.000| 17|  2|  0| 

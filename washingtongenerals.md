@@ -10,17 +10,17 @@
 |Brendan Rodgers   |2B        |     12|  5|   3|  0|  0| 
 |Ryan McMahon      |3B        |     15|  2|   6|  1|  0| 
 |Marcus Semien     |SS        |     24|  7|   6|  3|  4| 
-|Gleyber Torres    |MI        |     18| 11|   6|  3|  0| 
-|Rowdy Tellez      |CI        |     15|  3|   3|  0|  0| 
+|Gleyber Torres    |MI        |     19| 12|   6|  3|  1| 
+|Rowdy Tellez      |CI        |     16|  3|   3|  0|  0| 
 |Cedric Mullins    |OF        |     18|  7|   7|  1|  4| 
-|Garrett Cooper    |OF        |     16|  4|   3|  0|  0| 
+|Garrett Cooper    |OF        |     17|  4|   3|  0|  0| 
 |Mike Yastrzemski  |OF        |     14|  4|   2|  1|  0| 
 |Myles Straw       |OF        |      9|  5|   0|  0|  2| 
 |Andres Gimenez    |DH        |     16|  3|   3|  0|  0| 
 |Connor Joe        |DH        |     19|  5|   3|  1|  1| 
 |Jose Miranda      |DH        |     12|  2|   5|  0|  0| 
-|Teoscar Hernandez |DH        |     18|  6|  10|  3|  1| 
-|Eduardo Escobar   |BAT BENCH |     10|  5|   7|  1|  0| 
+|Teoscar Hernandez |DH        |     20|  8|  12|  3|  1| 
+|Eduardo Escobar   |BAT BENCH |     11|  5|  10|  1|  0| 
 |Owen Miller       |BAT BENCH |     13|  5|   7|  0|  1| 
 |Randal Grichuk    |BAT BENCH |     11|  4|   8|  2|  0| 
 
@@ -33,8 +33,8 @@
 |players           |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Chris Bassitt     |SP          |  3| 17.667| 10|  5.094|     21| 1.189| 22|  1|  0| 
-|Corbin Burnes     |SP          |  2| 10.333|  3|  2.613|     12| 1.161| 16|  1|  0| 
-|Logan Webb        |SP          |  2| 12.667|  2|  1.421|     16| 1.263| 12|  1|  0| 
+|Corbin Burnes     |SP          |  3| 17.333|  3|  1.558|     16| 0.923| 26|  2|  0| 
+|Logan Webb        |SP          |  3| 19.667|  3|  1.373|     22| 1.119| 19|  1|  0| 
 |Taijuan Walker    |SP          |  3| 18.667|  6|  2.893|     17| 0.911| 23|  2|  0| 
 |Tyler Wells       |SP          |  2| 12.000|  4|  3.000|     13| 1.083|  7|  2|  0| 
 |Walker Buehler    |SP          |  1|  4.000|  3|  6.750|      4| 1.000|  6|  0|  0| 
