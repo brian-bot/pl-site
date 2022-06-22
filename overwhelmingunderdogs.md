@@ -5,25 +5,25 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Keibert Ruiz     |C         |     12|  2|   3|  1|  0| 
-|Hunter Dozier    |1B        |     13|  4|   3|  2|  1| 
+|Keibert Ruiz     |C         |     13|  3|   3|  1|  0| 
+|Hunter Dozier    |1B        |     16|  7|   3|  2|  1| 
 |Ozzie Albies     |2B        |      7|  3|   9|  2|  0| 
-|Alex Bregman     |3B        |     18|  9|   2|  1|  0| 
-|Corey Seager     |SS        |     19|  8|   6|  4|  1| 
-|DJ LeMahieu      |MI        |     17|  9|   4|  2|  0| 
-|Justin Turner    |CI        |     11|  2|   3|  0|  0| 
-|Adolis Garcia    |OF        |     23| 11|   9|  3|  5| 
-|Charlie Blackmon |OF        |     21|  9|  11|  3|  1| 
-|Juan Soto        |OF        |     18|  6|  10|  2|  1| 
-|Mark Canha       |OF        |     22|  7|   7|  1|  1| 
-|Brendan Donovan  |DH        |     23|  8|   7|  0|  0| 
-|Julio Rodriguez  |DH        |     18|  6|   6|  2|  1| 
-|Luis Guillorme   |DH        |     12|  3|   1|  0|  0| 
-|Tommy Edman      |DH        |     21| 10|   6|  2|  1| 
+|Alex Bregman     |3B        |     21| 10|   2|  1|  0| 
+|Corey Seager     |SS        |     20|  8|   7|  4|  1| 
+|DJ LeMahieu      |MI        |     20|  9|   6|  2|  0| 
+|Justin Turner    |CI        |     13|  4|   3|  0|  0| 
+|Adolis Garcia    |OF        |     24| 12|   9|  3|  5| 
+|Charlie Blackmon |OF        |     22| 10|  11|  3|  1| 
+|Juan Soto        |OF        |     19|  6|  10|  2|  1| 
+|Mark Canha       |OF        |     23|  7|   7|  1|  1| 
+|Brendan Donovan  |DH        |     26| 10|   7|  0|  0| 
+|Julio Rodriguez  |DH        |     22|  8|   8|  3|  1| 
+|Luis Guillorme   |DH        |     13|  3|   1|  0|  0| 
+|Tommy Edman      |DH        |     22| 11|   6|  2|  1| 
 |Anthony Rendon   |BAT BENCH |      3|  0|   1|  0|  0| 
-|Brandon Belt     |BAT BENCH |      9|  2|   1|  1|  0| 
+|Brandon Belt     |BAT BENCH |     11|  3|   1|  1|  0| 
 |Kris Bryant      |BAT BENCH |     **| **|  **| **| **| 
-|Max Muncy        |BAT BENCH |     12|  3|   5|  1|  0| 
+|Max Muncy        |BAT BENCH |     13|  3|   5|  1|  0| 
 |Royce Lewis      |BAT BENCH |     **| **|  **| **| **| 
 
 * * *

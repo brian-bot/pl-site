@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Gary Sanchez      |C         |     10|  4|   3|  1|  0| 
-|Rhys Hoskins      |1B        |     27| 10|  12|  5|  0| 
-|Brendan Rodgers   |2B        |     12|  5|   3|  0|  0| 
-|Ryan McMahon      |3B        |     15|  2|   6|  1|  0| 
-|Marcus Semien     |SS        |     24|  7|   6|  3|  4| 
-|Gleyber Torres    |MI        |     19| 12|   6|  3|  1| 
-|Rowdy Tellez      |CI        |     16|  3|   3|  0|  0| 
+|Gary Sanchez      |C         |     11|  5|   3|  1|  0| 
+|Rhys Hoskins      |1B        |     30| 10|  12|  5|  0| 
+|Brendan Rodgers   |2B        |     14|  6|   5|  0|  0| 
+|Ryan McMahon      |3B        |     19|  3|   9|  2|  0| 
+|Marcus Semien     |SS        |     27|  9|   8|  4|  4| 
+|Gleyber Torres    |MI        |     20| 13|   6|  3|  1| 
+|Rowdy Tellez      |CI        |     18|  3|   3|  0|  0| 
 |Cedric Mullins    |OF        |     18|  7|   7|  1|  4| 
-|Garrett Cooper    |OF        |     17|  4|   3|  0|  0| 
-|Mike Yastrzemski  |OF        |     14|  4|   2|  1|  0| 
-|Myles Straw       |OF        |      9|  5|   0|  0|  2| 
-|Andres Gimenez    |DH        |     16|  3|   3|  0|  0| 
-|Connor Joe        |DH        |     19|  5|   3|  1|  1| 
+|Garrett Cooper    |OF        |     18|  4|   4|  0|  0| 
+|Mike Yastrzemski  |OF        |     16|  5|   4|  1|  0| 
+|Myles Straw       |OF        |     10|  5|   0|  0|  2| 
+|Andres Gimenez    |DH        |     18|  3|   4|  0|  1| 
+|Connor Joe        |DH        |     21|  6|   3|  1|  1| 
 |Jose Miranda      |DH        |     12|  2|   5|  0|  0| 
 |Teoscar Hernandez |DH        |     20|  8|  12|  3|  1| 
-|Eduardo Escobar   |BAT BENCH |     11|  5|  10|  1|  0| 
+|Eduardo Escobar   |BAT BENCH |     12|  6|  11|  2|  0| 
 |Owen Miller       |BAT BENCH |     13|  5|   7|  0|  1| 
-|Randal Grichuk    |BAT BENCH |     11|  4|   8|  2|  0| 
+|Randal Grichuk    |BAT BENCH |     13|  4|   9|  2|  0| 
 
 
 * * *
@@ -38,7 +38,7 @@
 |Taijuan Walker    |SP          |  3| 18.667|  6|  2.893|     17| 0.911| 23|  2|  0| 
 |Tyler Wells       |SP          |  2| 12.000|  4|  3.000|     13| 1.083|  7|  2|  0| 
 |Walker Buehler    |SP          |  1|  4.000|  3|  6.750|      4| 1.000|  6|  0|  0| 
-|Mark Melancon     |RP          |  4|  4.000|  1|  2.250|      5| 1.250|  1|  1|  0| 
+|Mark Melancon     |RP          |  5|  5.000|  1|  1.800|      5| 1.000|  1|  1|  0| 
 |Michael King      |RP          |  5|  6.333|  0|  0.000|      5| 0.789|  9|  1|  0| 
 |Hector Neris      |OP          |  6|  5.000|  7| 12.600|      8| 1.600|  4|  0|  0| 
 |Michael Wacha     |OP          |  3| 18.667|  4|  1.929|     20| 1.071| 14|  2|  0| 
