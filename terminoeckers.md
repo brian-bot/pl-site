@@ -6,21 +6,21 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Daulton Varsho    |C         |     14|  5|   6|  1|  1| 
-|Freddie Freeman   |1B        |     21|  7|  10|  2|  1| 
-|Trea Turner       |2B        |     21|  9|   5|  3|  3| 
-|Josh Donaldson    |3B        |     15|  4|   3|  1|  1| 
+|Freddie Freeman   |1B        |     24|  9|  12|  3|  1| 
+|Trea Turner       |2B        |     22| 10|   6|  3|  3| 
+|Josh Donaldson    |3B        |     16|  4|   3|  1|  1| 
 |Jeremy Pena       |SS        |      9|  4|   3|  1|  3| 
-|Ty France         |MI        |     22|  7|   8|  2|  0| 
+|Ty France         |MI        |     23|  7|   8|  2|  0| 
 |Joey Votto        |CI        |     22|  6|   5|  1|  0| 
 |Byron Buxton      |OF        |     19| 11|  10|  7|  0| 
-|Christian Yelich  |OF        |     22| 11|   2|  2|  3| 
+|Christian Yelich  |OF        |     24| 12|   3|  2|  3| 
 |Nick Castellanos  |OF        |     20|  3|   7|  0|  0| 
-|Randy Arozarena   |OF        |     16|  6|   7|  1|  2| 
+|Randy Arozarena   |OF        |     17|  6|   7|  1|  2| 
 |Christopher Morel |DH        |     14|  6|   7|  3|  1| 
-|Hunter Renfroe    |DH        |     17|  5|   8|  4|  0| 
-|Luke Voit         |DH        |     23| 10|  18|  5|  0| 
+|Hunter Renfroe    |DH        |     18|  5|   8|  4|  0| 
+|Luke Voit         |DH        |     24| 10|  19|  5|  0| 
 |Tommy Pham        |DH        |     22| 11|   5|  3|  1| 
-|Josh Rojas        |BAT BENCH |     16|  8|   6|  1|  2| 
+|Josh Rojas        |BAT BENCH |     17|  8|   6|  1|  2| 
 |MJ Melendez       |BAT BENCH |     20|  5|   8|  2|  0| 
 |Seiya Suzuki      |BAT BENCH |     **| **|  **| **| **| 
 
@@ -38,13 +38,13 @@
 |Sandy Alcantara  |SP          |  3| 24.667|  4|  1.459|     22| 0.892| 19|  1|  0| 
 |Shane McClanahan |SP          |  3| 20.000|  2|  0.900|     13| 0.650| 24|  1|  0| 
 |Yu Darvish       |SP          |  3| 22.000|  2|  0.818|     13| 0.591| 18|  3|  0| 
-|Clay Holmes      |RP          |  6|  6.000|  1|  1.500|      6| 1.000|  6|  0|  3| 
+|Clay Holmes      |RP          |  7|  7.000|  1|  1.286|      6| 0.857|  7|  0|  4| 
 |Ryan Helsley     |RP          |  5|  5.667|  0|  0.000|      3| 0.529|  7|  0|  2| 
 |Aaron Ashby      |OP          |  2|  9.000| 10| 10.000|     21| 2.333|  7|  0|  0| 
 |Andrew Kittredge |OP          |  1|  1.000|  1|  9.000|      3| 3.000|  1|  0|  0| 
 |Hunter Greene    |OP          |  3| 17.000|  5|  2.647|     11| 0.647| 21|  1|  0| 
-|Rafael Montero   |OP          |  4|  5.000|  1|  1.800|      7| 1.400|  3|  0|  0| 
-|Triston McKenzie |OP          |  2| 12.000|  3|  2.250|     15| 1.250| 12|  1|  0| 
+|Rafael Montero   |OP          |  5|  6.000|  1|  1.500|      8| 1.333|  5|  0|  0| 
+|Triston McKenzie |OP          |  3| 16.333|  9|  4.959|     25| 1.531| 17|  1|  0| 
 |Graham Ashcraft  |PITCH BENCH |  3| 15.667| 10|  5.745|     22| 1.404| 10|  1|  0| 
 |Jesus Luzardo    |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Patrick Sandoval |PITCH BENCH |  2| 12.000|  3|  2.250|     16| 1.333| 13|  0|  0| 

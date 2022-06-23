@@ -5,25 +5,25 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Alejandro Kirk    |C         |     22| 10|   8|  2|  0| 
-|Josh Bell         |1B        |     25|  8|  13|  6|  0| 
+|Alejandro Kirk    |C         |     24| 11|  10|  3|  0| 
+|Josh Bell         |1B        |     27|  8|  13|  6|  0| 
 |Luis Urias        |2B        |     13|  3|   6|  1|  1| 
 |Rafael Devers     |3B        |     26| 11|  12|  4|  1| 
 |Bobby Witt Jr.    |SS        |     22| 11|   8|  3|  2| 
 |Willy Adames      |MI        |     13|  8|  11|  5|  0| 
-|Patrick Wisdom    |CI        |     17|  1|   1|  1|  0| 
-|Aaron Judge       |OF        |     23| 11|   8|  4|  2| 
-|Anthony Santander |OF        |     14|  5|   5|  3|  0| 
-|Joey Gallo        |OF        |     14| 10|   9|  3|  1| 
+|Patrick Wisdom    |CI        |     19|  3|   5|  2|  0| 
+|Aaron Judge       |OF        |     25| 13|  10|  6|  2| 
+|Anthony Santander |OF        |     16|  6|   6|  4|  0| 
+|Joey Gallo        |OF        |     16| 10|   9|  3|  1| 
 |Tyler O'Neill     |OF        |     20|  8|   8|  2|  3| 
-|Brandon Drury     |DH        |     20| 10|   8|  5|  0| 
-|Christian Walker  |DH        |     18|  5|  10|  4|  0| 
+|Brandon Drury     |DH        |     21| 10|   8|  5|  0| 
+|Christian Walker  |DH        |     21|  6|  11|  5|  0| 
 |Joc Pederson      |DH        |     14|  7|   7|  2|  1| 
-|Nico Hoerner      |DH        |     12|  3|   1|  0|  0| 
+|Nico Hoerner      |DH        |     13|  4|   2|  0|  0| 
 |Brandon Lowe      |BAT BENCH |     **| **|  **| **| **| 
 |Kyle Lewis        |BAT BENCH |     **| **|  **| **| **| 
-|Matt Carpenter    |BAT BENCH |      4|  3|   7|  2|  0| 
-|William Contreras |BAT BENCH |     10|  4|   2|  2|  0| 
+|Matt Carpenter    |BAT BENCH |      5|  3|   7|  2|  0| 
+|William Contreras |BAT BENCH |     12|  5|   3|  2|  1| 
 
 
 * * *
@@ -37,7 +37,7 @@
 |Jakob Junis      |SP          |  1|  5.000|  2|  3.600|      6| 1.200|  5|  1|  0| 
 |Justin Verlander |SP          |  3| 17.667|  5|  2.547|     21| 1.189| 20|  2|  0| 
 |Logan Gilbert    |SP          |  3| 18.000|  5|  2.500|     19| 1.056| 15|  2|  0| 
-|Lucas Giolito    |SP          |  2| 10.000| 12| 10.800|     19| 1.900| 11|  0|  0| 
+|Lucas Giolito    |SP          |  3| 15.000| 19| 11.400|     31| 2.067| 14|  0|  0| 
 |Michael Kopech   |SP          |  3| 11.667|  4|  3.086|     10| 0.857| 12|  1|  0| 
 |David Bednar     |RP          |  4|  6.667|  1|  1.350|      6| 0.900|  9|  1|  1| 
 |Taylor Rogers    |RP          |  5|  5.000|  1|  1.800|      1| 0.200|  7|  0|  3| 
