@@ -4,23 +4,23 @@
 
  |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto    |C         |     17|  6|   5|  0|  4| 
+|J.T. Realmuto    |C         |     18|  7|   8|  1|  4| 
 |Pete Alonso      |1B        |     21|  8|  12|  4|  1| 
-|Nolan Gorman     |2B        |     16|  6|   7|  3|  0| 
+|Nolan Gorman     |2B        |     18|  7|   7|  3|  0| 
 |Matt Chapman     |3B        |     14|  9|   6|  2|  0| 
-|Dansby Swanson   |SS        |     27| 12|  12|  4|  2| 
+|Dansby Swanson   |SS        |     31| 15|  15|  6|  2| 
 |Jonathan Schoop  |MI        |     13|  3|   4|  1|  0| 
-|Trey Mancini     |CI        |     13|  4|   4|  2|  0| 
+|Trey Mancini     |CI        |     14|  4|   4|  2|  0| 
 |J.D. Martinez    |OF        |     23|  7|   7|  3|  0| 
-|Kyle Tucker      |OF        |     21|  7|  14|  4|  3| 
-|Ramon Laureano   |OF        |     16|  4|   3|  1|  1| 
-|Yordan Alvarez   |OF        |     25| 10|  17|  5|  0| 
+|Kyle Tucker      |OF        |     23|  7|  14|  4|  3| 
+|Ramon Laureano   |OF        |     18|  4|   3|  1|  1| 
+|Yordan Alvarez   |OF        |     27| 11|  20|  6|  0| 
 |Adam Duvall      |DH        |     18| 10|   9|  5|  0| 
 |AJ Pollock       |DH        |     27| 12|  12|  1|  0| 
 |Kolten Wong      |DH        |      0|  0|   0|  0|  0| 
 |Santiago Espinal |DH        |     18|  9|   7|  1|  0| 
-|Jonathan India   |BAT BENCH |      8|  1|   3|  1|  0| 
-|Max Kepler       |BAT BENCH |     17|  6|   6|  1|  0| 
+|Jonathan India   |BAT BENCH |      9|  1|   3|  1|  0| 
+|Max Kepler       |BAT BENCH |     18|  6|   6|  1|  0| 
 
 * * *
 
@@ -38,7 +38,7 @@
 |Jordan Romano     |RP          |  5|  5.667|  2|  3.176|      8| 1.412|  4|  0|  1| 
 |Liam Hendriks     |RP          |  2|  2.000|  0|  0.000|      1| 0.500|  1|  0|  0| 
 |Emilio Pagan      |OP          |  6|  6.000|  5|  7.500|      6| 1.000| 10|  0|  2| 
-|Framber Valdez    |OP          |  2| 12.000|  5|  3.750|     15| 1.250| 13|  1|  0| 
+|Framber Valdez    |OP          |  3| 18.000|  8|  4.000|     20| 1.111| 20|  1|  0| 
 |Michael Lorenzen  |OP          |  2| 11.333|  8|  6.353|     17| 1.500|  7|  1|  0| 
 |Roansy Contreras  |OP          |  3| 14.000|  7|  4.500|     24| 1.714| 12|  1|  0| 
 |Stephen Strasburg |OP          |  1|  4.667|  7| 13.500|     10| 2.143|  5|  0|  0| 

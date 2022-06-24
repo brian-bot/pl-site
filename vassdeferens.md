@@ -9,18 +9,18 @@
 |Jared Walsh       |1B        |     19|  5|   7|  3|  0| 
 |Jorge Polanco     |2B        |     13|  4|   4|  1|  0| 
 |Spencer Torkelson |3B        |     13|  6|   4|  0|  0| 
-|Carlos Correa     |SS        |     21| 10|   7|  4|  0| 
-|Gavin Lux         |MI        |     18|  7|   5|  1|  1| 
-|C.J. Cron         |CI        |     22| 12|  12|  3|  0| 
-|Bryce Harper      |OF        |     26|  9|   8|  2|  3| 
+|Carlos Correa     |SS        |     24| 10|   7|  4|  0| 
+|Gavin Lux         |MI        |     19|  7|   5|  1|  1| 
+|C.J. Cron         |CI        |     23| 13|  12|  3|  0| 
+|Bryce Harper      |OF        |     27| 10|   8|  2|  3| 
 |Mike Trout        |OF        |     22| 11|  15|  8|  0| 
 |Ronald Acuna Jr.  |OF        |     20|  8|   5|  4|  2| 
 |Starling Marte    |OF        |     17| 10|   3|  0|  1| 
 |Alek Thomas       |DH        |     25| 11|   6|  1|  4| 
-|Giancarlo Stanton |DH        |     19|  8|   7|  3|  0| 
-|Kyle Farmer       |DH        |     25|  6|   8|  0|  1| 
-|Ryan Mountcastle  |DH        |     20| 10|  13|  4|  0| 
-|Adley Rutschman   |BAT BENCH |     16|  6|   4|  1|  0| 
+|Giancarlo Stanton |DH        |     21| 10|  10|  4|  0| 
+|Kyle Farmer       |DH        |     27|  6|   8|  0|  1| 
+|Ryan Mountcastle  |DH        |     23| 11|  13|  4|  0| 
+|Adley Rutschman   |BAT BENCH |     18|  7|   7|  2|  0| 
 |Daniel Vogelbach  |BAT BENCH |     15|  7|   8|  2|  0| 
 |Mitch Garver      |BAT BENCH |      2|  0|   0|  0|  0| 
 |Wander Franco     |BAT BENCH |     **| **|  **| **| **| 

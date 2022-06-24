@@ -7,19 +7,19 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Alejandro Kirk    |C         |     24| 11|  10|  3|  0| 
 |Josh Bell         |1B        |     27|  8|  13|  6|  0| 
-|Luis Urias        |2B        |     13|  3|   6|  1|  1| 
+|Luis Urias        |2B        |     15|  4|   6|  1|  1| 
 |Rafael Devers     |3B        |     26| 11|  12|  4|  1| 
 |Bobby Witt Jr.    |SS        |     22| 11|   8|  3|  2| 
-|Willy Adames      |MI        |     13|  8|  11|  5|  0| 
-|Patrick Wisdom    |CI        |     19|  3|   5|  2|  0| 
-|Aaron Judge       |OF        |     25| 13|  10|  6|  2| 
+|Willy Adames      |MI        |     14|  9|  12|  6|  0| 
+|Patrick Wisdom    |CI        |     21|  4|   6|  2|  0| 
+|Aaron Judge       |OF        |     27| 14|  11|  6|  2| 
 |Anthony Santander |OF        |     16|  6|   6|  4|  0| 
 |Joey Gallo        |OF        |     16| 10|   9|  3|  1| 
 |Tyler O'Neill     |OF        |     20|  8|   8|  2|  3| 
-|Brandon Drury     |DH        |     21| 10|   8|  5|  0| 
+|Brandon Drury     |DH        |     23| 11|   9|  5|  0| 
 |Christian Walker  |DH        |     21|  6|  11|  5|  0| 
-|Joc Pederson      |DH        |     14|  7|   7|  2|  1| 
-|Nico Hoerner      |DH        |     13|  4|   2|  0|  0| 
+|Joc Pederson      |DH        |     17|  8|   8|  3|  1| 
+|Nico Hoerner      |DH        |     16|  6|   4|  0|  0| 
 |Brandon Lowe      |BAT BENCH |     **| **|  **| **| **| 
 |Kyle Lewis        |BAT BENCH |     **| **|  **| **| **| 
 |Matt Carpenter    |BAT BENCH |      5|  3|   7|  2|  0| 
@@ -39,12 +39,12 @@
 |Logan Gilbert    |SP          |  3| 18.000|  5|  2.500|     19| 1.056| 15|  2|  0| 
 |Lucas Giolito    |SP          |  3| 15.000| 19| 11.400|     31| 2.067| 14|  0|  0| 
 |Michael Kopech   |SP          |  3| 11.667|  4|  3.086|     10| 0.857| 12|  1|  0| 
-|David Bednar     |RP          |  4|  6.667|  1|  1.350|      6| 0.900|  9|  1|  1| 
+|David Bednar     |RP          |  5|  7.667|  1|  1.174|      6| 0.783| 11|  1|  1| 
 |Taylor Rogers    |RP          |  5|  5.000|  1|  1.800|      1| 0.200|  7|  0|  3| 
-|Alex Wood        |OP          |  3| 18.333|  7|  3.436|     18| 0.982| 14|  2|  0| 
+|Alex Wood        |OP          |  4| 19.333| 13|  6.052|     24| 1.241| 15|  2|  0| 
 |Jeffrey Springs  |OP          |  3| 15.667|  4|  2.298|     20| 1.277| 16|  1|  0| 
-|Jhoan Duran      |OP          |  5|  5.333|  2|  3.375|      9| 1.688|  5|  0|  0| 
-|Paul Sewald      |OP          |  5|  4.333|  3|  6.231|      3| 0.692|  5|  1|  0| 
+|Jhoan Duran      |OP          |  6|  6.667|  2|  2.700|      9| 1.350|  8|  0|  0| 
+|Paul Sewald      |OP          |  6|  5.333|  3|  5.062|      3| 0.562|  6|  1|  1| 
 |Spencer Strider  |OP          |  3| 15.000|  8|  4.800|     15| 1.000| 23|  2|  0| 
 |Eli Morgan       |PITCH BENCH |  7|  9.000|  2|  2.000|      7| 0.778| 11|  2|  0| 
 |Joe Ryan         |PITCH BENCH |  2| 10.667|  7|  5.906|     14| 1.312| 10|  0|  0| 
