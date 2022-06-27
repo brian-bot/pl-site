@@ -5,48 +5,48 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Keibert Ruiz     |C         |     16|  3|   3|  1|  0| 
-|Hunter Dozier    |1B        |     18|  9|   3|  2|  1| 
-|Ozzie Albies     |2B        |      7|  3|   9|  2|  0| 
-|Alex Bregman     |3B        |     30| 14|   7|  3|  0| 
-|Corey Seager     |SS        |     22|  9|   7|  4|  1| 
-|DJ LeMahieu      |MI        |     28| 10|   6|  2|  0| 
-|Justin Turner    |CI        |     20|  7|   6|  0|  1| 
-|Adolis Garcia    |OF        |     28| 15|  11|  5|  5| 
-|Charlie Blackmon |OF        |     23| 10|  13|  3|  1| 
-|Juan Soto        |OF        |     22|  8|  10|  2|  1| 
-|Mark Canha       |OF        |     25|  8|   9|  2|  1| 
-|Brendan Donovan  |DH        |     31| 10|   9|  0|  0| 
-|Julio Rodriguez  |DH        |     28| 14|  11|  5|  2| 
-|Luis Guillorme   |DH        |     15|  3|   1|  0|  0| 
-|Tommy Edman      |DH        |     26| 11|   7|  2|  3| 
-|Anthony Rendon   |BAT BENCH |      3|  0|   1|  0|  0| 
-|Brandon Belt     |BAT BENCH |     12|  3|   1|  1|  0| 
+|Keibert Ruiz     |C         |     **| **|  **| **| **| 
+|Max Muncy        |1B        |      0|  0|   0|  0|  0| 
+|Orlando Arcia    |2B        |      1|  0|   0|  0|  0| 
+|Alex Bregman     |3B        |      3|  0|   0|  0|  0| 
+|Corey Seager     |SS        |      2|  0|   0|  0|  0| 
+|DJ LeMahieu      |MI        |      2|  1|   2|  1|  0| 
+|Justin Turner    |CI        |      1|  0|   0|  0|  0| 
+|Adolis Garcia    |OF        |      1|  1|   0|  0|  0| 
+|Charlie Blackmon |OF        |      1|  1|   1|  1|  0| 
+|Juan Soto        |OF        |      5|  2|   0|  0|  0| 
+|Mark Canha       |OF        |      0|  0|   0|  0|  0| 
+|Brandon Belt     |DH        |      0|  0|   0|  0|  0| 
+|Brendan Donovan  |DH        |      3|  2|   1|  1|  0| 
+|Julio Rodriguez  |DH        |      0|  0|   0|  0|  0| 
+|Tommy Edman      |DH        |      0|  0|   1|  0|  0| 
+|Anthony Rendon   |BAT BENCH |     **| **|  **| **| **| 
+|C.J. Abrams      |BAT BENCH |      1|  0|   2|  0|  0| 
+|Hunter Dozier    |BAT BENCH |     **| **|  **| **| **| 
 |Kris Bryant      |BAT BENCH |     **| **|  **| **| **| 
-|Max Muncy        |BAT BENCH |     20|  5|   6|  2|  0| 
-|Royce Lewis      |BAT BENCH |     **| **|  **| **| **| 
+|Ozzie Albies     |BAT BENCH |     **| **|  **| **| **| 
 
 * * *
 
 ### Pitchers
 
  
-|players              |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
-|:--------------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Carlos Rodon         |SP          |  4| 25.000|  3| 1.080|     18| 0.720| 31|  2|  0| 
-|Clayton Kershaw      |SP          |  3| 15.000|  4| 2.400|     19| 1.267| 15|  1|  0| 
-|Eric Lauer           |SP          |  3| 17.333| 17| 8.827|     25| 1.442| 12|  1|  0| 
-|Joe Musgrove         |SP          |  3| 19.000|  8| 3.789|     20| 1.053| 18|  2|  0| 
-|Jon Gray             |SP          |  4| 23.667|  8| 3.042|     26| 1.099| 24|  2|  0| 
-|Jose Quintana        |SP          |  4| 19.667| 13| 5.949|     29| 1.475| 20|  0|  0| 
-|Corey Knebel         |RP          |  7|  6.333|  2| 2.842|     13| 2.053|  4|  0|  2| 
-|Craig Kimbrel        |RP          |  6|  5.000|  3| 5.400|     13| 2.600| 10|  0|  2| 
-|David Robertson      |OP          |  6|  6.000|  2| 3.000|      7| 1.167|  7|  0|  2| 
-|Devin Williams       |OP          |  8|  7.333|  0| 0.000|      2| 0.273|  8|  0|  1| 
-|Madison Bumgarner    |OP          |  4| 20.000| 11| 4.950|     37| 1.850| 16|  1|  0| 
-|Seranthony Dominguez |OP          |  8|  7.000|  1| 1.286|      2| 0.286|  9|  2|  2| 
-|Zach Davies          |OP          |  4| 24.000|  9| 3.375|     26| 1.083| 19|  0|  0| 
-|Andrew Heaney        |PITCH BENCH |  1|  5.000|  1| 1.800|      6| 1.200|  7|  0|  0| 
+|players              |position    |  g|    ip| er| era| hitsbb| whip| so|  w| sv| 
+|:--------------------|:-----------|--:|-----:|--:|---:|------:|----:|--:|--:|--:| 
+|Carlos Rodon         |SP          | **|    **| **|  **|     **|   **| **| **| **| 
+|Clayton Kershaw      |SP          | **|    **| **|  **|     **|   **| **| **| **| 
+|Eric Lauer           |SP          | **|    **| **|  **|     **|   **| **| **| **| 
+|Joe Musgrove         |SP          | **|    **| **|  **|     **|   **| **| **| **| 
+|Jon Gray             |SP          | **|    **| **|  **|     **|   **| **| **| **| 
+|Jose Quintana        |SP          | **|    **| **|  **|     **|   **| **| **| **| 
+|Craig Kimbrel        |RP          |  1| 1.000|  0|   0|      2|    2|  2|  1|  0| 
+|Seranthony Dominguez |RP          | **|    **| **|  **|     **|   **| **| **| **| 
+|Andrew Heaney        |OP          | **|    **| **|  **|     **|   **| **| **| **| 
+|David Robertson      |OP          |  1| 1.333|  0|   0|      0|    0|  2|  1|  0| 
+|Devin Williams       |OP          | **|    **| **|  **|     **|   **| **| **| **| 
+|Madison Bumgarner    |OP          | **|    **| **|  **|     **|   **| **| **| **| 
+|Zach Davies          |OP          | **|    **| **|  **|     **|   **| **| **| **| 
+|Corey Knebel         |PITCH BENCH |  1| 1.000|  0|   0|      0|    0|  1|  0|  0| 
 
 
 * * *
