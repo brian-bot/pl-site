@@ -5,25 +5,25 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Keibert Ruiz     |C         |     **| **|  **| **| **| 
+|Keibert Ruiz     |C         |      0|  0|   0|  0|  0| 
 |Max Muncy        |1B        |      0|  0|   0|  0|  0| 
 |Orlando Arcia    |2B        |      1|  0|   0|  0|  0| 
 |Alex Bregman     |3B        |      3|  0|   0|  0|  0| 
-|Corey Seager     |SS        |      2|  0|   0|  0|  0| 
-|DJ LeMahieu      |MI        |      2|  1|   2|  1|  0| 
+|Corey Seager     |SS        |      3|  1|   1|  0|  0| 
+|DJ LeMahieu      |MI        |      5|  3|   2|  1|  1| 
 |Justin Turner    |CI        |      1|  0|   0|  0|  0| 
-|Adolis Garcia    |OF        |      1|  1|   0|  0|  0| 
+|Adolis Garcia    |OF        |      2|  2|   1|  0|  0| 
 |Charlie Blackmon |OF        |      1|  1|   1|  1|  0| 
-|Juan Soto        |OF        |      5|  2|   0|  0|  0| 
+|Juan Soto        |OF        |      8|  2|   0|  0|  0| 
 |Mark Canha       |OF        |      0|  0|   0|  0|  0| 
 |Brandon Belt     |DH        |      0|  0|   0|  0|  0| 
 |Brendan Donovan  |DH        |      3|  2|   1|  1|  0| 
-|Julio Rodriguez  |DH        |      0|  0|   0|  0|  0| 
-|Tommy Edman      |DH        |      0|  0|   1|  0|  0| 
+|Julio Rodriguez  |DH        |      1|  1|   0|  0|  0| 
+|Tommy Edman      |DH        |      1|  1|   1|  0|  1| 
 |Anthony Rendon   |BAT BENCH |     **| **|  **| **| **| 
 |C.J. Abrams      |BAT BENCH |      1|  0|   2|  0|  0| 
-|Hunter Dozier    |BAT BENCH |     **| **|  **| **| **| 
-|Kris Bryant      |BAT BENCH |     **| **|  **| **| **| 
+|Hunter Dozier    |BAT BENCH |      1|  0|   0|  0|  0| 
+|Kris Bryant      |BAT BENCH |      1|  0|   0|  0|  0| 
 |Ozzie Albies     |BAT BENCH |     **| **|  **| **| **| 
 
 * * *

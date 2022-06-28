@@ -6,11 +6,11 @@
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |J.T. Realmuto    |C         |     **| **|  **| **| **| 
 |Pete Alonso      |1B        |      2|  0|   1|  0|  0| 
-|Nolan Gorman     |2B        |      0|  0|   0|  0|  0| 
-|Matt Chapman     |3B        |      0|  0|   0|  0|  0| 
+|Nolan Gorman     |2B        |      2|  2|   0|  0|  0| 
+|Matt Chapman     |3B        |      1|  1|   2|  1|  0| 
 |Dansby Swanson   |SS        |      1|  0|   0|  0|  0| 
 |Santiago Espinal |MI        |      2|  0|   0|  0|  0| 
-|Trey Mancini     |CI        |      1|  0|   0|  0|  0| 
+|Trey Mancini     |CI        |      2|  1|   0|  0|  0| 
 |Adam Duvall      |OF        |      1|  0|   0|  0|  0| 
 |J.D. Martinez    |OF        |      4|  1|   2|  0|  0| 
 |Kyle Tucker      |OF        |      0|  0|   0|  0|  0| 
@@ -18,7 +18,7 @@
 |AJ Pollock       |DH        |      0|  0|   0|  0|  0| 
 |Jonathan India   |DH        |     **| **|  **| **| **| 
 |Max Kepler       |DH        |      2|  1|   2|  0|  0| 
-|Ramon Laureano   |DH        |     **| **|  **| **| **| 
+|Ramon Laureano   |DH        |      1|  1|   1|  0|  0| 
 |Kolten Wong      |BAT BENCH |     **| **|  **| **| **| 
 
 * * *

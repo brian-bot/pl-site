@@ -6,19 +6,19 @@
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Willson Contreras   |C         |      2|  0|   3|  0|  0| 
-|Paul Goldschmidt    |1B        |      2|  1|   1|  1|  0| 
+|Paul Goldschmidt    |1B        |      6|  3|   3|  2|  0| 
 |Jose Altuve         |2B        |      3|  1|   1|  1|  2| 
-|Jose Ramirez        |3B        |      3|  1|   0|  0|  0| 
-|Tim Anderson        |SS        |      0|  0|   0|  0|  0| 
-|Trevor Story        |MI        |      2|  0|   2|  0|  1| 
+|Jose Ramirez        |3B        |      4|  1|   0|  0|  0| 
+|Tim Anderson        |SS        |      2|  1|   0|  0|  2| 
+|Trevor Story        |MI        |      2|  0|   3|  0|  1| 
 |Austin Riley        |CI        |      1|  0|   1|  0|  0| 
-|Alex Kirilloff      |OF        |      2|  0|   1|  0|  0| 
-|Andrew Benintendi   |OF        |      1|  1|   0|  0|  0| 
-|Austin Hays         |OF        |      0|  0|   0|  0|  0| 
-|Jesse Winker        |OF        |      1|  0|   0|  0|  0| 
+|Alex Kirilloff      |OF        |      6|  2|   2|  0|  0| 
+|Andrew Benintendi   |OF        |      3|  1|   1|  0|  0| 
+|Austin Hays         |OF        |      3|  1|   1|  1|  0| 
+|Jesse Winker        |OF        |      2|  0|   0|  0|  0| 
 |J.P. Crawford       |DH        |      0|  0|   0|  0|  0| 
 |Jake Burger         |DH        |      0|  0|   0|  0|  0| 
-|Lourdes Gurriel Jr. |DH        |      0|  0|   0|  0|  0| 
+|Lourdes Gurriel Jr. |DH        |      1|  1|   1|  0|  0| 
 |William Contreras   |DH        |      2|  0|   0|  0|  0| 
 |Gabriel Moreno      |BAT BENCH |     **| **|  **| **| **| 
 |Jeff McNeil         |BAT BENCH |     **| **|  **| **| **| 
@@ -35,8 +35,8 @@
 |:----------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
 |Devin Smeltzer   |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Frankie Montas   |SP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Martin Perez     |SP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Pablo Lopez      |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Martin Perez     |SP          |  1| 6.000|  4|  6.000|      9| 1.500|  6|  1|  0| 
+|Pablo Lopez      |SP          |  1| 5.000|  5|  9.000|      7| 1.400|  5|  0|  0| 
 |Tarik Skubal     |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Zack Wheeler     |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Edwin Diaz       |RP          | **|    **| **|     **|     **|    **| **| **| **| 
@@ -44,8 +44,8 @@
 |Brady Singer     |OP          |  1| 8.333|  5|  5.400|      8| 0.960|  5|  0|  0| 
 |Dakota Hudson    |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Jorge Lopez      |OP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Paul Blackburn   |OP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Raisel Iglesias  |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Paul Blackburn   |OP          |  1| 5.000|  3|  5.400|      7| 1.400|  7|  0|  0| 
+|Raisel Iglesias  |OP          |  1| 1.000|  0|  0.000|      0| 0.000|  1|  0|  1| 
 |Garrett Whitlock |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Kyle Gibson      |PITCH BENCH |  1| 2.667|  5| 16.875|      7| 2.625|  2|  0|  0| 
 
