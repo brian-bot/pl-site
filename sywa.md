@@ -4,21 +4,21 @@
 
  |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto    |C         |      1|  0|   1|  0|  1| 
-|Pete Alonso      |1B        |      3|  0|   1|  0|  0| 
+|J.T. Realmuto    |C         |      2|  0|   1|  0|  1| 
+|Pete Alonso      |1B        |      4|  0|   1|  0|  0| 
 |Nolan Gorman     |2B        |      2|  2|   0|  0|  0| 
-|Matt Chapman     |3B        |      2|  1|   4|  1|  0| 
+|Matt Chapman     |3B        |      4|  2|   4|  1|  0| 
 |Dansby Swanson   |SS        |      1|  0|   0|  0|  0| 
-|Santiago Espinal |MI        |      4|  0|   1|  0|  0| 
-|Trey Mancini     |CI        |      2|  1|   0|  0|  0| 
-|Adam Duvall      |OF        |      3|  0|   1|  0|  0| 
-|J.D. Martinez    |OF        |      4|  1|   2|  0|  0| 
-|Kyle Tucker      |OF        |      2|  3|   3|  1|  1| 
-|Yordan Alvarez   |OF        |      6|  2|   2|  1|  0| 
-|AJ Pollock       |DH        |      0|  1|   0|  0|  0| 
-|Jonathan India   |DH        |      2|  2|   3|  1|  0| 
-|Max Kepler       |DH        |      3|  1|   2|  0|  0| 
-|Ramon Laureano   |DH        |      2|  1|   1|  0|  1| 
+|Santiago Espinal |MI        |      7|  0|   3|  0|  0| 
+|Trey Mancini     |CI        |      3|  1|   2|  0|  0| 
+|Adam Duvall      |OF        |      4|  1|   3|  1|  0| 
+|J.D. Martinez    |OF        |      5|  2|   3|  0|  0| 
+|Kyle Tucker      |OF        |      4|  3|   3|  1|  1| 
+|Yordan Alvarez   |OF        |      7|  2|   2|  1|  0| 
+|AJ Pollock       |DH        |      1|  1|   0|  0|  0| 
+|Jonathan India   |DH        |      3|  2|   3|  1|  0| 
+|Max Kepler       |DH        |      5|  2|   4|  1|  0| 
+|Ramon Laureano   |DH        |      4|  2|   1|  0|  1| 
 |Kolten Wong      |BAT BENCH |      2|  2|   0|  0|  0| 
 
 * * *
@@ -34,7 +34,7 @@
 |Luis Garcia       |SP          | **| **| **|     **|     **|    **| **| **| **| 
 |Max Fried         |SP          | **| **| **|     **|     **|    **| **| **| **| 
 |Zac Gallen        |SP          |  1|  5|  6| 10.800|      9| 1.800|  2|  0|  0| 
-|Jordan Romano     |RP          |  1|  1|  0|  0.000|      1| 1.000|  1|  1|  0| 
+|Jordan Romano     |RP          |  2|  2|  0|  0.000|      3| 1.500|  2|  1|  0| 
 |Liam Hendriks     |RP          | **| **| **|     **|     **|    **| **| **| **| 
 |Aaron Civale      |OP          |  1|  4|  3|  6.750|     11| 2.750|  2|  0|  0| 
 |Colin Poche       |OP          | **| **| **|     **|     **|    **| **| **| **| 
