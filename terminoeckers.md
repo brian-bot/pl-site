@@ -10,16 +10,16 @@
 |Trea Turner       |2B        |      3|  2|   4|  1|  1| 
 |Wilmer Flores     |3B        |      3|  1|   0|  0|  0| 
 |Jeremy Pena       |SS        |      3|  3|   0|  0|  0| 
-|Nico Hoerner      |MI        |      8|  1|   2|  0|  0| 
-|Joey Votto        |CI        |      6|  2|   2|  0|  0| 
+|Nico Hoerner      |MI        |     11|  3|   2|  0|  0| 
+|Joey Votto        |CI        |      9|  4|   3|  1|  0| 
 |Byron Buxton      |OF        |      6|  6|   2|  1|  0| 
-|Christian Yelich  |OF        |      7|  3|   1|  0|  1| 
-|Nick Castellanos  |OF        |      4|  0|   1|  0|  1| 
+|Christian Yelich  |OF        |      9|  5|   2|  0|  1| 
+|Nick Castellanos  |OF        |      6|  1|   4|  1|  1| 
 |Randy Arozarena   |OF        |      4|  2|   1|  0|  5| 
-|Christopher Morel |DH        |      4|  3|   3|  1|  0| 
+|Christopher Morel |DH        |      9|  6|   5|  2|  0| 
 |Hunter Renfroe    |DH        |     **| **|  **| **| **| 
-|Luke Voit         |DH        |      3|  1|   1|  0|  0| 
-|Tommy Pham        |DH        |      3|  1|   1|  0|  1| 
+|Luke Voit         |DH        |      4|  1|   1|  0|  0| 
+|Tommy Pham        |DH        |      6|  4|   4|  1|  1| 
 |Josh Donaldson    |BAT BENCH |      5|  1|   2|  0|  0| 
 |Luis Garcia       |BAT BENCH |      6|  3|   0|  0|  0| 
 |MJ Melendez       |BAT BENCH |      2|  0|   1|  0|  0| 
@@ -42,7 +42,7 @@
 |Yu Darvish       |SP          |  1| 6.000|  3|  4.500|      8| 1.333|  9|  0|  0| 
 |Clay Holmes      |RP          |  3| 3.000|  0|  0.000|      3| 1.000|  3|  0|  2| 
 |Ryan Helsley     |RP          |  2| 2.000|  2|  9.000|      3| 1.500|  6|  0|  1| 
-|Graham Ashcraft  |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Graham Ashcraft  |OP          |  1| 2.333|  7| 27.000|      9| 3.857|  1|  0|  0| 
 |Hunter Greene    |OP          |  1| 4.000|  3|  6.750|      4| 1.000|  5|  0|  0| 
 |Josiah Gray      |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Tanner Scott     |OP          |  1| 1.000|  0|  0.000|      1| 1.000|  2|  1|  0| 

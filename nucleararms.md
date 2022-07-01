@@ -8,17 +8,17 @@
 |Will Smith        |C         |      4|  1|   2|  1|  0| 
 |Jose Abreu        |1B        |     11|  4|   3|  0|  0| 
 |Whit Merrifield   |2B        |      4|  3|   2|  0|  2| 
-|Manny Machado     |3B        |     **| **|  **| **| **| 
+|Manny Machado     |3B        |      1|  1|   0|  0|  0| 
 |Xander Bogaerts   |SS        |      8|  4|   0|  0|  0| 
 |Chris Taylor      |MI        |      5|  2|   1|  0|  1| 
 |Ke'Bryan Hayes    |CI        |      4|  1|   1|  0|  0| 
-|Bryan Reynolds    |OF        |      7|  3|   7|  3|  0| 
-|Ian Happ          |OF        |      4|  1|   1|  0|  0| 
+|Bryan Reynolds    |OF        |      8|  3|   7|  3|  0| 
+|Ian Happ          |OF        |      7|  2|   1|  0|  0| 
 |Luis Robert       |OF        |      4|  3|   2|  1|  0| 
 |Michael Brantley  |OF        |      0|  0|   0|  0|  0| 
-|Anthony Rizzo     |DH        |      4|  2|   1|  1|  0| 
+|Anthony Rizzo     |DH        |      6|  3|   2|  2|  0| 
 |Ji-Man Choi       |DH        |      4|  1|   1|  0|  0| 
-|Michael Harris II |DH        |      4|  2|   1|  0|  2| 
+|Michael Harris II |DH        |      5|  3|   3|  1|  2| 
 |Shohei Ohtani     |DH        |      9|  1|   2|  1|  1| 
 |Aaron Hicks       |BAT BENCH |      3|  1|   0|  0|  0| 
 |Eloy Jimenez      |BAT BENCH |     **| **|  **| **| **| 
@@ -39,7 +39,7 @@
 |Shohei Ohtani    |SP          |  1| 5.667|  0|  0.000|      6| 1.059| 11|  1|  0| 
 |Tyler Mahle      |SP          |  1| 6.667|  3|  4.050|      5| 0.750|  7|  1|  0| 
 |Aroldis Chapman  |RP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Ryan Pressly     |RP          |  1| 1.000|  0|  0.000|      0| 0.000|  1|  0|  1| 
+|Ryan Pressly     |RP          |  2| 2.000|  0|  0.000|      0| 0.000|  3|  0|  2| 
 |David Peterson   |OP          |  1| 7.000|  2|  2.571|      4| 0.571|  8|  0|  0| 
 |Gregory Soto     |OP          |  1| 1.000|  0|  0.000|      0| 0.000|  1|  0|  1| 
 |Jack Flaherty    |OP          |  1| 2.000|  0|  0.000|      3| 1.500|  2|  0|  0| 

@@ -5,24 +5,24 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Willson Contreras   |C         |      9|  2|   6|  1|  0| 
+|Willson Contreras   |C         |     12|  4|   6|  1|  0| 
 |Paul Goldschmidt    |1B        |      8|  3|   4|  2|  0| 
 |Jose Altuve         |2B        |      5|  1|   1|  1|  2| 
-|Jose Ramirez        |3B        |      7|  1|   0|  0|  0| 
+|Jose Ramirez        |3B        |      9|  2|   0|  0|  0| 
 |Tim Anderson        |SS        |      6|  2|   0|  0|  2| 
 |Trevor Story        |MI        |      4|  1|   4|  1|  1| 
-|Austin Riley        |CI        |      3|  0|   1|  0|  0| 
+|Austin Riley        |CI        |      6|  1|   1|  0|  0| 
 |Alex Kirilloff      |OF        |      9|  3|   4|  1|  0| 
 |Andrew Benintendi   |OF        |      7|  1|   2|  0|  0| 
 |Austin Hays         |OF        |      3|  1|   1|  1|  0| 
-|Jesse Winker        |OF        |      5|  1|   2|  0|  0| 
+|Jesse Winker        |OF        |      7|  2|   2|  0|  0| 
 |J.P. Crawford       |DH        |      2|  1|   2|  0|  0| 
 |Jake Burger         |DH        |      0|  0|   0|  0|  0| 
-|Lourdes Gurriel Jr. |DH        |      4|  2|   1|  0|  0| 
-|William Contreras   |DH        |      4|  0|   1|  0|  0| 
-|Gabriel Moreno      |BAT BENCH |      1|  0|   0|  0|  0| 
+|Lourdes Gurriel Jr. |DH        |      5|  3|   1|  0|  0| 
+|William Contreras   |DH        |      5|  0|   1|  0|  0| 
+|Gabriel Moreno      |BAT BENCH |      2|  0|   0|  0|  0| 
 |Jeff McNeil         |BAT BENCH |      1|  0|   0|  0|  0| 
-|Marcell Ozuna       |BAT BENCH |      3|  1|   1|  0|  0| 
+|Marcell Ozuna       |BAT BENCH |      5|  1|   1|  0|  0| 
 |Mookie Betts        |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -41,7 +41,7 @@
 |Zack Wheeler     |SP          |  1| 6.333|  3|  4.263|      6| 0.947|  8|  0|  0| 
 |Edwin Diaz       |RP          |  1| 0.667|  0|  0.000|      1| 1.500|  2|  0|  0| 
 |Josh Hader       |RP          |  2| 2.000|  0|  0.000|      2| 1.000|  3|  0|  2| 
-|Brady Singer     |OP          |  1| 8.333|  5|  5.400|      8| 0.960|  5|  0|  0| 
+|Brady Singer     |OP          |  1| 8.333|  4|  4.320|      8| 0.960|  5|  0|  0| 
 |Dakota Hudson    |OP          |  1| 5.000|  3|  5.400|      7| 1.400|  3|  1|  0| 
 |Jorge Lopez      |OP          |  1| 1.000|  0|  0.000|      1| 1.000|  3|  0|  0| 
 |Paul Blackburn   |OP          |  1| 5.000|  3|  5.400|      7| 1.400|  7|  0|  0| 

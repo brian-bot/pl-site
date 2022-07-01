@@ -8,20 +8,20 @@
 |Travis d'Arnaud   |C         |      5|  3|   2|  1|  0| 
 |Matt Olson        |1B        |      6|  3|   3|  2|  0| 
 |Jazz Chisholm Jr. |2B        |      0|  0|   0|  0|  0| 
-|Eugenio Suarez    |3B        |      6|  1|   1|  0|  0| 
-|Bo Bichette       |SS        |      5|  2|   2|  0|  0| 
+|Eugenio Suarez    |3B        |      7|  1|   1|  0|  0| 
+|Bo Bichette       |SS        |      6|  2|   2|  0|  0| 
 |Francisco Lindor  |MI        |      2|  0|   0|  0|  0| 
-|Kyle Schwarber    |CI        |      5|  3|   5|  2|  0| 
+|Kyle Schwarber    |CI        |      6|  4|   8|  3|  0| 
 |Brandon Nimmo     |OF        |      4|  1|   1|  1|  0| 
 |Jorge Soler       |OF        |      2|  0|   1|  0|  0| 
-|Jurickson Profar  |OF        |      7|  4|   0|  0|  0| 
+|Jurickson Profar  |OF        |      8|  4|   0|  0|  0| 
 |Taylor Ward       |OF        |      6|  2|   2|  0|  1| 
-|Franmil Reyes     |DH        |      2|  0|   2|  0|  0| 
+|Franmil Reyes     |DH        |      3|  1|   2|  0|  0| 
 |Javier Baez       |DH        |      3|  2|   0|  0|  0| 
 |Jon Berti         |DH        |      3|  1|   0|  0|  1| 
 |Riley Greene      |DH        |      6|  2|   1|  0|  1| 
-|Andrew McCutchen  |BAT BENCH |      3|  2|   3|  1|  0| 
-|Isaac Paredes     |BAT BENCH |      5|  0|   1|  0|  0| 
+|Andrew McCutchen  |BAT BENCH |      7|  3|   3|  1|  0| 
+|Isaac Paredes     |BAT BENCH |      6|  1|   2|  1|  0| 
 |Josh Naylor       |BAT BENCH |      2|  1|   3|  1|  0| 
 |Mitch Haniger     |BAT BENCH |     **| **|  **| **| **| 
 |Salvador Perez    |BAT BENCH |     **| **|  **| **| **| 
@@ -44,7 +44,7 @@
 |Kenley Jansen     |RP          |  1| 1.000|  2| 18.000|      3| 3.000|  2|  0|  0| 
 |Camilo Doval      |OP          |  2| 2.333|  0|  0.000|      1| 0.429|  3|  0|  1| 
 |Corey Kluber      |OP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Ian Anderson      |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Ian Anderson      |OP          |  1| 2.000|  7| 31.500|      8| 4.000|  1|  0|  0| 
 |Sean Manaea       |OP          |  1| 6.000|  3|  4.500|      6| 1.000|  7|  0|  0| 
 |Shane Baz         |OP          |  1| 5.667|  1|  1.588|      5| 0.882|  6|  0|  0| 
 |Alex Cobb         |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
