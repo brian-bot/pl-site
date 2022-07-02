@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Daulton Varsho    |C         |      3|  2|   3|  1|  0| 
-|Freddie Freeman   |1B        |      9|  3|   2|  1|  1| 
-|Trea Turner       |2B        |      3|  2|   4|  1|  1| 
-|Wilmer Flores     |3B        |      3|  1|   0|  0|  0| 
-|Jeremy Pena       |SS        |      3|  3|   0|  0|  0| 
-|Nico Hoerner      |MI        |     11|  3|   2|  0|  0| 
+|Daulton Varsho    |C         |      4|  2|   4|  1|  0| 
+|Freddie Freeman   |1B        |     11|  3|   3|  1|  1| 
+|Trea Turner       |2B        |      5|  3|   4|  1|  2| 
+|Wilmer Flores     |3B        |      6|  1|   0|  0|  0| 
+|Jeremy Pena       |SS        |      3|  4|   0|  0|  0| 
+|Nico Hoerner      |MI        |     12|  3|   2|  0|  0| 
 |Joey Votto        |CI        |      9|  4|   3|  1|  0| 
-|Byron Buxton      |OF        |      6|  6|   2|  1|  0| 
-|Christian Yelich  |OF        |      9|  5|   2|  0|  1| 
-|Nick Castellanos  |OF        |      6|  1|   4|  1|  1| 
+|Byron Buxton      |OF        |      7|  7|   4|  2|  0| 
+|Christian Yelich  |OF        |     12|  7|   3|  0|  1| 
+|Nick Castellanos  |OF        |      6|  1|   4|  1|  2| 
 |Randy Arozarena   |OF        |      4|  2|   1|  0|  5| 
-|Christopher Morel |DH        |      9|  6|   5|  2|  0| 
+|Christopher Morel |DH        |     10|  7|   8|  3|  0| 
 |Hunter Renfroe    |DH        |     **| **|  **| **| **| 
 |Luke Voit         |DH        |      4|  1|   1|  0|  0| 
-|Tommy Pham        |DH        |      6|  4|   4|  1|  1| 
+|Tommy Pham        |DH        |      9|  4|   5|  1|  1| 
 |Josh Donaldson    |BAT BENCH |      5|  1|   2|  0|  0| 
-|Luis Garcia       |BAT BENCH |      6|  3|   0|  0|  0| 
+|Luis Garcia       |BAT BENCH |      7|  3|   0|  0|  1| 
 |MJ Melendez       |BAT BENCH |      2|  0|   1|  0|  0| 
 |Seiya Suzuki      |BAT BENCH |     **| **|  **| **| **| 
 |Ty France         |BAT BENCH |     **| **|  **| **| **| 
@@ -44,8 +44,8 @@
 |Ryan Helsley     |RP          |  2| 2.000|  2|  9.000|      3| 1.500|  6|  0|  1| 
 |Graham Ashcraft  |OP          |  1| 2.333|  7| 27.000|      9| 3.857|  1|  0|  0| 
 |Hunter Greene    |OP          |  1| 4.000|  3|  6.750|      4| 1.000|  5|  0|  0| 
-|Josiah Gray      |OP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Tanner Scott     |OP          |  1| 1.000|  0|  0.000|      1| 1.000|  2|  1|  0| 
+|Josiah Gray      |OP          |  1| 5.667|  6|  9.529|     12| 2.118|  6|  0|  0| 
+|Tanner Scott     |OP          |  2| 2.000|  0|  0.000|      1| 0.500|  3|  1|  1| 
 |Triston McKenzie |OP          |  1| 6.000|  7| 10.500|      9| 1.500|  7|  0|  0| 
 |Aaron Ashby      |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Patrick Sandoval |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
