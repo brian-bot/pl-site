@@ -6,23 +6,23 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Travis d'Arnaud   |C         |      7|  4|   2|  1|  0| 
-|Matt Olson        |1B        |      7|  4|   3|  2|  0| 
+|Matt Olson        |1B        |      8|  4|   4|  2|  0| 
 |Jazz Chisholm Jr. |2B        |      0|  0|   0|  0|  0| 
-|Eugenio Suarez    |3B        |      9|  1|   1|  0|  0| 
-|Bo Bichette       |SS        |      7|  3|   4|  0|  0| 
-|Francisco Lindor  |MI        |      4|  1|   0|  0|  1| 
+|Eugenio Suarez    |3B        |     10|  1|   1|  0|  0| 
+|Bo Bichette       |SS        |     10|  4|   4|  0|  0| 
+|Francisco Lindor  |MI        |      8|  1|   0|  0|  1| 
 |Kyle Schwarber    |CI        |      8|  4|   9|  3|  0| 
-|Brandon Nimmo     |OF        |      4|  1|   1|  1|  0| 
+|Brandon Nimmo     |OF        |      5|  2|   1|  1|  0| 
 |Jorge Soler       |OF        |      2|  0|   1|  0|  0| 
-|Jurickson Profar  |OF        |     10|  4|   0|  0|  0| 
-|Taylor Ward       |OF        |      6|  2|   2|  0|  1| 
-|Franmil Reyes     |DH        |      3|  1|   2|  0|  0| 
-|Javier Baez       |DH        |      3|  2|   0|  0|  0| 
-|Jon Berti         |DH        |      4|  2|   2|  0|  3| 
-|Riley Greene      |DH        |      8|  2|   1|  0|  1| 
-|Andrew McCutchen  |BAT BENCH |     10|  5|   3|  1|  0| 
-|Isaac Paredes     |BAT BENCH |      6|  1|   2|  1|  0| 
-|Josh Naylor       |BAT BENCH |      2|  1|   3|  1|  0| 
+|Jurickson Profar  |OF        |     11|  4|   0|  0|  0| 
+|Taylor Ward       |OF        |      9|  3|   3|  1|  1| 
+|Franmil Reyes     |DH        |      5|  2|   3|  1|  0| 
+|Javier Baez       |DH        |      3|  2|   1|  0|  0| 
+|Jon Berti         |DH        |      6|  3|   2|  0|  4| 
+|Riley Greene      |DH        |     11|  5|   2|  1|  1| 
+|Andrew McCutchen  |BAT BENCH |     12|  5|   3|  1|  0| 
+|Isaac Paredes     |BAT BENCH |     10|  5|   7|  3|  0| 
+|Josh Naylor       |BAT BENCH |      6|  2|   4|  2|  0| 
 |Mitch Haniger     |BAT BENCH |     **| **|  **| **| **| 
 |Salvador Perez    |BAT BENCH |     **| **|  **| **| **| 
 
