@@ -4,22 +4,22 @@
 
  |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto    |C         |      5|  2|   1|  0|  1| 
-|Pete Alonso      |1B        |      7|  0|   1|  0|  0| 
+|J.T. Realmuto    |C         |      7|  3|   3|  1|  2| 
+|Pete Alonso      |1B        |      7|  1|   1|  0|  0| 
 |Nolan Gorman     |2B        |      6|  3|   1|  1|  0| 
-|Matt Chapman     |3B        |      5|  2|   5|  1|  0| 
+|Matt Chapman     |3B        |      5|  2|   6|  1|  0| 
 |Dansby Swanson   |SS        |      8|  2|   3|  1|  1| 
 |Santiago Espinal |MI        |     13|  3|   5|  1|  0| 
-|Trey Mancini     |CI        |      5|  1|   2|  0|  0| 
+|Trey Mancini     |CI        |      6|  2|   3|  1|  0| 
 |Adam Duvall      |OF        |      8|  4|   5|  2|  0| 
 |J.D. Martinez    |OF        |      6|  2|   3|  0|  0| 
 |Kyle Tucker      |OF        |      9|  6|   5|  2|  1| 
-|Yordan Alvarez   |OF        |      8|  2|   2|  1|  0| 
+|Yordan Alvarez   |OF        |      9|  2|   2|  1|  0| 
 |AJ Pollock       |DH        |      4|  1|   0|  0|  0| 
-|Jonathan India   |DH        |      5|  2|   3|  1|  0| 
+|Jonathan India   |DH        |      6|  2|   3|  1|  0| 
 |Max Kepler       |DH        |     10|  3|   4|  1|  0| 
-|Ramon Laureano   |DH        |      8|  4|   5|  2|  1| 
-|Kolten Wong      |BAT BENCH |      7|  5|   4|  1|  0| 
+|Ramon Laureano   |DH        |      9|  4|   5|  2|  2| 
+|Kolten Wong      |BAT BENCH |      8|  6|   4|  1|  0| 
 
 * * *
 
@@ -28,12 +28,12 @@
  
 |players           |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Brandon Woodruff  |SP          |  1|  5.000|  1|  1.800|      2| 0.400| 10|  1|  0| 
-|Framber Valdez    |SP          |  1|  8.000|  0|  0.000|      8| 1.000|  5|  1|  0| 
+|Brandon Woodruff  |SP          |  2| 11.000|  1|  0.818|      8| 0.727| 18|  2|  0| 
+|Framber Valdez    |SP          |  2| 14.000|  2|  1.286|     16| 1.143| 18|  1|  0| 
 |Gerrit Cole       |SP          |  1|  6.000|  2|  3.000|      6| 1.000|  6|  1|  0| 
 |Luis Garcia       |SP          |  1|  5.333|  1|  1.688|      5| 0.938|  6|  1|  0| 
 |Max Fried         |SP          |  1|  7.000|  1|  1.286|      5| 0.714|  4|  1|  0| 
-|Zac Gallen        |SP          |  1|  5.000|  6| 10.800|      9| 1.800|  2|  0|  0| 
+|Zac Gallen        |SP          |  2| 11.000|  9|  7.364|     15| 1.364|  6|  0|  0| 
 |Jordan Romano     |RP          |  2|  2.000|  0|  0.000|      3| 1.500|  2|  1|  0| 
 |Liam Hendriks     |RP          | **|     **| **|     **|     **|    **| **| **| **| 
 |Aaron Civale      |OP          |  2| 10.000|  7|  6.300|     18| 1.800|  8|  0|  0| 
