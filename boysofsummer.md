@@ -6,24 +6,24 @@
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Willson Contreras   |C         |     18|  6|   7|  1|  0| 
-|Paul Goldschmidt    |1B        |     15|  7|   4|  2|  0| 
-|Jose Altuve         |2B        |     15|  5|   4|  2|  3| 
-|Jose Ramirez        |3B        |     13|  3|   0|  0|  0| 
-|Tim Anderson        |SS        |     10|  5|   0|  0|  2| 
-|Trevor Story        |MI        |      7|  4|   5|  2|  1| 
-|Austin Riley        |CI        |     14|  5|   6|  2|  0| 
-|Alex Kirilloff      |OF        |     13|  4|   6|  1|  0| 
-|Andrew Benintendi   |OF        |     17|  3|   6|  0|  0| 
+|Paul Goldschmidt    |1B        |     17|  8|   4|  2|  0| 
+|Jose Altuve         |2B        |     17|  5|   4|  2|  3| 
+|Jose Ramirez        |3B        |     14|  3|   0|  0|  0| 
+|Tim Anderson        |SS        |     10|  5|   1|  0|  2| 
+|Trevor Story        |MI        |      8|  5|   6|  3|  1| 
+|Austin Riley        |CI        |     17|  6|   9|  3|  0| 
+|Alex Kirilloff      |OF        |     16|  7|   9|  3|  0| 
+|Andrew Benintendi   |OF        |     19|  4|   7|  0|  0| 
 |Austin Hays         |OF        |      6|  2|   1|  1|  0| 
 |Jesse Winker        |OF        |      7|  2|   3|  0|  0| 
-|J.P. Crawford       |DH        |      5|  3|   2|  0|  0| 
+|J.P. Crawford       |DH        |      7|  3|   4|  0|  0| 
 |Jake Burger         |DH        |      0|  0|   0|  0|  0| 
 |Lourdes Gurriel Jr. |DH        |     14|  7|   2|  1|  0| 
-|William Contreras   |DH        |      8|  0|   1|  0|  0| 
+|William Contreras   |DH        |     10|  1|   3|  1|  0| 
 |Gabriel Moreno      |BAT BENCH |      4|  0|   0|  0|  0| 
-|Jeff McNeil         |BAT BENCH |      5|  3|   1|  0|  0| 
-|Marcell Ozuna       |BAT BENCH |      9|  4|   3|  2|  0| 
-|Mookie Betts        |BAT BENCH |      5|  2|   1|  0|  0| 
+|Jeff McNeil         |BAT BENCH |      7|  3|   1|  0|  0| 
+|Marcell Ozuna       |BAT BENCH |     10|  5|   3|  2|  0| 
+|Mookie Betts        |BAT BENCH |      6|  3|   2|  1|  0| 
 
 
 * * *
