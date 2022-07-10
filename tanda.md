@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Travis d'Arnaud   |C         |     13|  4|   3|  1|  0| 
+|Travis d'Arnaud   |C         |     15|  5|   3|  1|  0| 
 |Matt Olson        |1B        |     19|  8|  10|  3|  0| 
 |Jazz Chisholm Jr. |2B        |      0|  0|   0|  0|  0| 
-|Eugenio Suarez    |3B        |     19|  6|   7|  2|  0| 
+|Eugenio Suarez    |3B        |     20|  6|   7|  2|  0| 
 |Bo Bichette       |SS        |     18|  6|   6|  1|  0| 
-|Francisco Lindor  |MI        |     13|  4|   2|  2|  1| 
-|Kyle Schwarber    |CI        |     15|  9|  14|  7|  0| 
-|Brandon Nimmo     |OF        |     16|  8|   9|  4|  0| 
+|Francisco Lindor  |MI        |     14|  5|   4|  3|  1| 
+|Kyle Schwarber    |CI        |     16|  9|  14|  7|  0| 
+|Brandon Nimmo     |OF        |     17|  8|   9|  4|  0| 
 |Jorge Soler       |OF        |      2|  0|   1|  0|  0| 
 |Jurickson Profar  |OF        |     14|  4|   0|  0|  0| 
-|Taylor Ward       |OF        |     17|  3|   5|  1|  1| 
-|Franmil Reyes     |DH        |     11|  7|  10|  4|  0| 
+|Taylor Ward       |OF        |     18|  3|   5|  1|  1| 
+|Franmil Reyes     |DH        |     13|  7|  11|  4|  0| 
 |Javier Baez       |DH        |     10|  5|   6|  1|  0| 
-|Jon Berti         |DH        |      9|  5|   4|  0|  4| 
-|Riley Greene      |DH        |     18|  7|   7|  1|  1| 
-|Andrew McCutchen  |BAT BENCH |     16|  6|   3|  1|  1| 
-|Isaac Paredes     |BAT BENCH |     17|  6|   8|  3|  0| 
-|Josh Naylor       |BAT BENCH |      9|  3|   5|  3|  0| 
+|Jon Berti         |DH        |     12|  5|   4|  0|  5| 
+|Riley Greene      |DH        |     19|  7|   7|  1|  1| 
+|Andrew McCutchen  |BAT BENCH |     17|  6|   4|  1|  1| 
+|Isaac Paredes     |BAT BENCH |     18|  7|   8|  3|  0| 
+|Josh Naylor       |BAT BENCH |     11|  4|   5|  3|  0| 
 |Mitch Haniger     |BAT BENCH |     **| **|  **| **| **| 
 |Salvador Perez    |BAT BENCH |     **| **|  **| **| **| 
 
@@ -36,8 +36,8 @@
 |:-----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Charlie Morton    |SP          |  3| 19.667|  4|  1.831|     20| 1.017| 22|  1|  0| 
 |Jameson Taillon   |SP          |  2| 10.333|  8|  6.968|     15| 1.452| 11|  1|  0| 
-|Jordan Montgomery |SP          |  2| 11.667|  6|  4.629|     13| 1.114| 14|  0|  0| 
-|Kyle Wright       |SP          |  2| 11.000|  1|  0.818|     10| 0.909|  6|  1|  0| 
+|Jordan Montgomery |SP          |  3| 17.333|  8|  4.154|     19| 1.096| 18|  0|  0| 
+|Kyle Wright       |SP          |  3| 18.000|  4|  2.000|     20| 1.111| 11|  2|  0| 
 |Max Scherzer      |SP          |  1|  6.000|  0|  0.000|      2| 0.333| 11|  0|  0| 
 |Nick Pivetta      |SP          |  2| 11.667|  9|  6.943|     18| 1.543|  9|  0|  0| 
 |Daniel Bard       |RP          |  4|  3.000|  2|  6.000|      8| 2.667|  3|  0|  2| 
