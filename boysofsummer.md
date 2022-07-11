@@ -5,25 +5,25 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Willson Contreras   |C         |     18|  6|   7|  1|  0| 
-|Paul Goldschmidt    |1B        |     24|  8|   4|  2|  2| 
-|Jose Altuve         |2B        |     24|  6|   7|  3|  3| 
-|Jose Ramirez        |3B        |     18|  6|   3|  1|  0| 
+|Willson Contreras   |C         |     19|  7|   7|  1|  0| 
+|Paul Goldschmidt    |1B        |     25|  8|   4|  2|  2| 
+|Jose Altuve         |2B        |     25|  7|   7|  3|  3| 
+|Jose Ramirez        |3B        |     19|  6|   3|  1|  1| 
 |Tim Anderson        |SS        |     17|  9|   2|  0|  2| 
-|Trevor Story        |MI        |     11|  6|   7|  4|  1| 
-|Austin Riley        |CI        |     26| 10|  11|  4|  0| 
-|Alex Kirilloff      |OF        |     17|  7|  10|  3|  0| 
-|Andrew Benintendi   |OF        |     27|  7|   9|  0|  1| 
+|Trevor Story        |MI        |     13|  9|  10|  4|  1| 
+|Austin Riley        |CI        |     29| 11|  14|  5|  0| 
+|Alex Kirilloff      |OF        |     20|  8|  10|  3|  0| 
+|Andrew Benintendi   |OF        |     29|  8|  10|  0|  1| 
 |Austin Hays         |OF        |      8|  3|   1|  1|  0| 
 |Jesse Winker        |OF        |      7|  2|   3|  0|  0| 
-|J.P. Crawford       |DH        |     12|  7|   5|  0|  0| 
+|J.P. Crawford       |DH        |     12|  8|   5|  0|  0| 
 |Jake Burger         |DH        |      0|  0|   0|  0|  0| 
 |Lourdes Gurriel Jr. |DH        |     21|  8|   3|  1|  1| 
-|William Contreras   |DH        |     12|  3|   4|  2|  0| 
-|Gabriel Moreno      |BAT BENCH |      5|  0|   0|  0|  0| 
+|William Contreras   |DH        |     15|  3|   4|  2|  0| 
+|Gabriel Moreno      |BAT BENCH |      6|  0|   0|  0|  0| 
 |Jeff McNeil         |BAT BENCH |     12|  5|   2|  0|  0| 
-|Marcell Ozuna       |BAT BENCH |     15|  6|   6|  3|  0| 
-|Mookie Betts        |BAT BENCH |     11|  5|   6|  3|  0| 
+|Marcell Ozuna       |BAT BENCH |     17|  6|   6|  3|  0| 
+|Mookie Betts        |BAT BENCH |     12|  7|   6|  3|  0| 
 
 
 * * *
@@ -39,7 +39,7 @@
 |Pablo Lopez      |SP          |  3| 16.333|  8| 4.408|     18| 1.102| 15|  1|  0| 
 |Tarik Skubal     |SP          |  3| 15.333| 10| 5.870|     23| 1.500| 13|  1|  0| 
 |Zack Wheeler     |SP          |  3| 20.333|  3| 1.328|     17| 0.836| 18|  2|  0| 
-|Edwin Diaz       |RP          |  5|  4.667|  0| 0.000|      3| 0.643| 11|  0|  2| 
+|Edwin Diaz       |RP          |  6|  5.667|  0| 0.000|      3| 0.529| 13|  0|  2| 
 |Josh Hader       |RP          |  6|  6.000|  3| 4.500|     11| 1.833| 11|  0|  4| 
 |Brady Singer     |OP          |  3| 20.000|  9| 4.050|     23| 1.150| 19|  0|  0| 
 |Dakota Hudson    |OP          |  3| 15.000|  9| 5.400|     23| 1.533|  9|  1|  0| 
