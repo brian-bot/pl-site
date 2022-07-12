@@ -6,22 +6,22 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith        |C         |     20|  4|   7|  2|  0| 
-|Jose Abreu        |1B        |     28| 11|   8|  1|  0| 
+|Jose Abreu        |1B        |     30| 12|   8|  1|  0| 
 |Whit Merrifield   |2B        |     21| 12|   6|  2|  5| 
-|Manny Machado     |3B        |     10|  3|   4|  2|  0| 
-|Xander Bogaerts   |SS        |     21|  7|   4|  1|  0| 
+|Manny Machado     |3B        |     12|  4|   5|  3|  0| 
+|Xander Bogaerts   |SS        |     24|  8|   5|  1|  1| 
 |Chris Taylor      |MI        |      7|  4|   1|  0|  1| 
-|Ke'Bryan Hayes    |CI        |     16|  7|   2|  1|  1| 
+|Ke'Bryan Hayes    |CI        |     17|  8|   2|  1|  2| 
 |Bryan Reynolds    |OF        |     24|  8|   8|  3|  0| 
 |Ian Happ          |OF        |     20|  6|   4|  0|  1| 
 |Luis Robert       |OF        |     17| 12|  10|  3|  0| 
 |Michael Brantley  |OF        |      0|  0|   0|  0|  0| 
 |Anthony Rizzo     |DH        |     12|  7|   5|  3|  0| 
-|Ji-Man Choi       |DH        |     18|  3|   4|  1|  0| 
+|Ji-Man Choi       |DH        |     20|  5|   5|  1|  0| 
 |Michael Harris II |DH        |     16| 11|  10|  4|  5| 
 |Shohei Ohtani     |DH        |     19|  4|   7|  3|  3| 
 |Aaron Hicks       |BAT BENCH |     19| 11|   8|  3|  2| 
-|Eloy Jimenez      |BAT BENCH |      5|  2|   5|  1|  0| 
+|Eloy Jimenez      |BAT BENCH |      6|  2|   5|  1|  0| 
 |Harrison Bader    |BAT BENCH |      0|  0|   0|  0|  0| 
 
 
@@ -34,7 +34,7 @@
 |:----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Carlos Carrasco  |SP          |  3| 15.667|  9| 5.170|     25| 1.596| 17|  1|  0| 
 |George Kirby     |SP          |  3| 15.333| 10| 5.870|     25| 1.630| 15|  0|  0| 
-|Miles Mikolas    |SP          |  2| 11.333|  5| 3.971|     14| 1.235|  5|  0|  0| 
+|Miles Mikolas    |SP          |  3| 18.667|  6| 2.893|     20| 1.071| 10|  1|  0| 
 |Noah Syndergaard |SP          |  2| 12.000|  5| 3.750|     12| 1.000| 15|  1|  0| 
 |Shohei Ohtani    |SP          |  2| 12.667|  0| 0.000|     11| 0.868| 21|  2|  0| 
 |Tyler Mahle      |SP          |  2| 11.667|  5| 3.857|     14| 1.200| 12|  1|  0| 

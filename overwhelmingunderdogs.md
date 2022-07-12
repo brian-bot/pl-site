@@ -9,19 +9,19 @@
 |Max Muncy        |1B        |     13|  7|   6|  3|  1| 
 |Orlando Arcia    |2B        |     11|  3|   4|  0|  0| 
 |Alex Bregman     |3B        |     22|  8|  10|  2|  0| 
-|Corey Seager     |SS        |     24|  8|  13|  4|  0| 
+|Corey Seager     |SS        |     26|  9|  14|  5|  0| 
 |DJ LeMahieu      |MI        |     27| 13|   5|  2|  3| 
 |Justin Turner    |CI        |     23|  7|   9|  4|  0| 
-|Adolis Garcia    |OF        |     12|  3|   4|  0|  1| 
-|Charlie Blackmon |OF        |     17|  7|   7|  2|  0| 
+|Adolis Garcia    |OF        |     13|  3|   4|  0|  1| 
+|Charlie Blackmon |OF        |     20|  9|   8|  2|  0| 
 |Juan Soto        |OF        |     32| 12|   6|  3|  0| 
-|Mark Canha       |OF        |     16|  6|   1|  0|  0| 
-|Brandon Belt     |DH        |      9|  2|   3|  1|  0| 
+|Mark Canha       |OF        |     19|  6|   1|  0|  0| 
+|Brandon Belt     |DH        |     12|  2|   3|  1|  0| 
 |Brendan Donovan  |DH        |     15|  3|   2|  1|  0| 
 |Julio Rodriguez  |DH        |     19| 12|   9|  4|  2| 
 |Tommy Edman      |DH        |      9|  3|   3|  0|  2| 
 |Anthony Rendon   |BAT BENCH |     **| **|  **| **| **| 
-|C.J. Abrams      |BAT BENCH |     10|  3|   4|  0|  0| 
+|C.J. Abrams      |BAT BENCH |     12|  4|   7|  1|  0| 
 |Hunter Dozier    |BAT BENCH |     15|  3|   8|  2|  0| 
 |Kris Bryant      |BAT BENCH |     20| 10|   6|  4|  0| 
 |Ozzie Albies     |BAT BENCH |     **| **|  **| **| **| 

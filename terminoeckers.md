@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Daulton Varsho    |C         |     13|  7|  12|  3|  1| 
+|Daulton Varsho    |C         |     15|  7|  14|  3|  1| 
 |Freddie Freeman   |1B        |     24|  8|   9|  3|  1| 
 |Trea Turner       |2B        |     18|  7|   9|  1|  3| 
-|Wilmer Flores     |3B        |     21|  6|   7|  3|  0| 
+|Wilmer Flores     |3B        |     23|  7|   8|  3|  0| 
 |Jeremy Pena       |SS        |     11|  9|   5|  3|  0| 
 |Nico Hoerner      |MI        |     24|  8|   4|  1|  1| 
 |Joey Votto        |CI        |     12|  4|   3|  1|  0| 
 |Byron Buxton      |OF        |     14| 10|   8|  4|  1| 
 |Christian Yelich  |OF        |     23| 12|   5|  1|  2| 
-|Nick Castellanos  |OF        |     16|  5|   9|  1|  2| 
-|Randy Arozarena   |OF        |     17|  9|   8|  3|  6| 
+|Nick Castellanos  |OF        |     17|  5|   9|  1|  2| 
+|Randy Arozarena   |OF        |     19|  9|   8|  3|  6| 
 |Christopher Morel |DH        |     20| 10|  10|  4|  0| 
 |Hunter Renfroe    |DH        |     **| **|  **| **| **| 
-|Luke Voit         |DH        |     15|  2|   3|  1|  0| 
+|Luke Voit         |DH        |     15|  2|   4|  1|  0| 
 |Tommy Pham        |DH        |     19|  8|   7|  1|  2| 
 |Josh Donaldson    |BAT BENCH |     14|  7|  13|  3|  1| 
 |Luis Garcia       |BAT BENCH |     15|  3|   3|  0|  1| 
-|MJ Melendez       |BAT BENCH |     11|  3|   7|  3|  0| 
+|MJ Melendez       |BAT BENCH |     13|  5|   8|  3|  0| 
 |Seiya Suzuki      |BAT BENCH |      9|  3|   5|  2|  0| 
 |Ty France         |BAT BENCH |      3|  0|   0|  0|  0| 
 
