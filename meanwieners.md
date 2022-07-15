@@ -5,25 +5,25 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Alejandro Kirk    |C         |     22|  9|   5|  1|  0| 
-|Josh Bell         |1B        |     25|  6|   2|  1|  0| 
-|Luis Urias        |2B        |     20|  9|  12|  4|  0| 
-|Rafael Devers     |3B        |     19|  5|   7|  2|  0| 
-|Bobby Witt Jr.    |SS        |     23|  8|   8|  1|  6| 
-|Willy Adames      |MI        |     22| 12|  11|  3|  1| 
-|Patrick Wisdom    |CI        |     23|  9|   8|  3|  4| 
-|Aaron Judge       |OF        |     19|  9|  12|  3|  3| 
+|Alejandro Kirk    |C         |     24|  9|   5|  1|  0| 
+|Josh Bell         |1B        |     27|  7|   3|  2|  0| 
+|Luis Urias        |2B        |     22|  9|  12|  4|  0| 
+|Rafael Devers     |3B        |     21|  6|   8|  3|  0| 
+|Bobby Witt Jr.    |SS        |     26|  9|   9|  2|  7| 
+|Willy Adames      |MI        |     23| 12|  12|  3|  2| 
+|Patrick Wisdom    |CI        |     24|  9|   8|  3|  4| 
+|Aaron Judge       |OF        |     21| 11|  13|  4|  3| 
 |Anthony Santander |OF        |     20|  8|  10|  2|  0| 
-|Joc Pederson      |OF        |     13|  3|   2|  0|  1| 
+|Joc Pederson      |OF        |     14|  3|   3|  0|  1| 
 |Seth Brown        |OF        |     13|  3|   3|  1|  0| 
-|Brandon Drury     |DH        |     27| 10|  13|  3|  1| 
+|Brandon Drury     |DH        |     28| 11|  14|  3|  1| 
 |Christian Walker  |DH        |     25| 10|   6|  2|  0| 
-|Jarren Duran      |DH        |     15|  6|   4|  1|  2| 
+|Jarren Duran      |DH        |     16|  7|   4|  1|  3| 
 |Jorge Mateo       |DH        |     14|  8|   6|  2|  3| 
 |Brandon Lowe      |BAT BENCH |     **| **|  **| **| **| 
-|Joey Gallo        |BAT BENCH |     12|  5|   3|  1|  0| 
+|Joey Gallo        |BAT BENCH |     14|  5|   3|  1|  1| 
 |Kyle Lewis        |BAT BENCH |     **| **|  **| **| **| 
-|Tyler O'Neill     |BAT BENCH |     **| **|  **| **| **| 
+|Tyler O'Neill     |BAT BENCH |      0|  0|   0|  0|  0| 
 
 
 * * *

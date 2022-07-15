@@ -5,19 +5,19 @@
  |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |J.T. Realmuto    |C         |     13|  4|   7|  2|  2| 
-|Pete Alonso      |1B        |     18|  3|   4|  1|  0| 
+|Pete Alonso      |1B        |     20|  5|   6|  2|  0| 
 |Nolan Gorman     |2B        |     17|  6|   4|  2|  0| 
-|Matt Chapman     |3B        |     16|  5|  10|  3|  0| 
-|Dansby Swanson   |SS        |     21|  7|   7|  1|  3| 
+|Matt Chapman     |3B        |     17|  6|  11|  4|  0| 
+|Dansby Swanson   |SS        |     22|  8|   9|  2|  3| 
 |Santiago Espinal |MI        |     25|  4|   5|  1|  2| 
 |Trey Mancini     |CI        |     21|  5|   8|  1|  0| 
 |Adam Duvall      |OF        |     10|  5|   7|  3|  0| 
-|J.D. Martinez    |OF        |     20|  8|   8|  1|  0| 
-|Kyle Tucker      |OF        |     20| 10|  12|  3|  2| 
+|J.D. Martinez    |OF        |     21|  9|   8|  1|  0| 
+|Kyle Tucker      |OF        |     22| 10|  13|  3|  2| 
 |Yordan Alvarez   |OF        |     20| 10|   6|  4|  0| 
-|AJ Pollock       |DH        |     12|  2|   3|  0|  0| 
-|Jonathan India   |DH        |     18|  7|   8|  2|  1| 
-|Max Kepler       |DH        |     23|  7|   6|  2|  0| 
+|AJ Pollock       |DH        |     13|  3|   3|  0|  0| 
+|Jonathan India   |DH        |     21|  8|   8|  2|  1| 
+|Max Kepler       |DH        |     26|  7|   6|  2|  0| 
 |Ramon Laureano   |DH        |     23| 14|  12|  6|  3| 
 |Kolten Wong      |BAT BENCH |     14|  8|   5|  1|  2| 
 
@@ -29,7 +29,7 @@
 |players           |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Brandon Woodruff  |SP          |  3| 17.000|  4|  2.118|     15| 0.882| 27|  2|  0| 
-|Framber Valdez    |SP          |  3| 22.000|  4|  1.636|     23| 1.045| 21|  1|  0| 
+|Framber Valdez    |SP          |  4| 28.000|  6|  1.929|     32| 1.143| 27|  1|  0| 
 |Gerrit Cole       |SP          |  3| 19.000|  7|  3.316|     19| 1.000| 24|  2|  0| 
 |Luis Garcia       |SP          |  3| 17.667|  7|  3.566|     18| 1.019| 20|  2|  0| 
 |Max Fried         |SP          |  3| 18.000|  3|  1.500|     21| 1.167| 13|  2|  0| 
