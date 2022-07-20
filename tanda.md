@@ -5,26 +5,26 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Travis d'Arnaud   |C         |     17|  7|   3|  1|  0| 
-|Matt Olson        |1B        |     27| 13|  17|  6|  0| 
-|Jazz Chisholm Jr. |2B        |      0|  0|   0|  0|  0| 
-|Eugenio Suarez    |3B        |     28|  8|  13|  3|  0| 
-|Bo Bichette       |SS        |     28|  9|  10|  2|  2| 
-|Francisco Lindor  |MI        |     22|  7|   9|  4|  1| 
-|Kyle Schwarber    |CI        |     18| 11|  15|  8|  0| 
-|Brandon Nimmo     |OF        |     27| 15|  10|  5|  0| 
-|Jorge Soler       |OF        |      3|  0|   1|  0|  0| 
-|Jurickson Profar  |OF        |     16|  4|   0|  0|  0| 
-|Taylor Ward       |OF        |     23|  4|   5|  1|  1| 
-|Franmil Reyes     |DH        |     19| 10|  12|  4|  1| 
-|Javier Baez       |DH        |     18| 10|  10|  2|  0| 
-|Jon Berti         |DH        |     19|  6|   5|  0|  7| 
-|Riley Greene      |DH        |     29| 11|  10|  2|  1| 
-|Andrew McCutchen  |BAT BENCH |     24| 10|  12|  3|  1| 
-|Isaac Paredes     |BAT BENCH |     22| 10|   8|  3|  0| 
-|Josh Naylor       |BAT BENCH |     15|  6|   8|  4|  0| 
+|MJ Melendez       |C         |     **| **|  **| **| **| 
+|Matt Olson        |1B        |      2|  2|   4|  1|  0| 
+|Jazz Chisholm Jr. |2B        |     **| **|  **| **| **| 
+|Eugenio Suarez    |3B        |      3|  1|   0|  0|  0| 
+|Bo Bichette       |SS        |      1|  0|   1|  0|  0| 
+|Francisco Lindor  |MI        |      7|  2|   1|  0|  1| 
+|Kyle Schwarber    |CI        |      1|  1|   1|  1|  0| 
+|Brandon Nimmo     |OF        |      4|  3|   0|  0|  0| 
+|Franmil Reyes     |OF        |      1|  0|   0|  0|  0| 
+|Riley Greene      |OF        |      1|  0|   0|  0|  0| 
+|Taylor Ward       |OF        |      1|  0|   0|  0|  0| 
+|Andrew McCutchen  |DH        |      2|  1|   0|  0|  0| 
+|Carlos Santana    |DH        |      1|  1|   2|  1|  0| 
+|Javier Baez       |DH        |      0|  0|   0|  0|  0| 
+|Jorge Soler       |DH        |      0|  0|   0|  0|  0| 
+|Jon Berti         |BAT BENCH |     **| **|  **| **| **| 
+|Josh Rojas        |BAT BENCH |      5|  0|   0|  0|  1| 
 |Mitch Haniger     |BAT BENCH |     **| **|  **| **| **| 
 |Salvador Perez    |BAT BENCH |     **| **|  **| **| **| 
+|Travis d'Arnaud   |BAT BENCH |      1|  0|   1|  0|  0| 
 
 
 * * *
@@ -32,23 +32,23 @@
 ### Pitchers
 
  
-|players           |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
-|:-----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Charlie Morton    |SP          |  4| 24.667|  9| 3.284|     29| 1.176| 28|  1|  0| 
-|Jameson Taillon   |SP          |  3| 15.333| 14| 8.217|     23| 1.500| 14|  1|  0| 
-|Jordan Montgomery |SP          |  4| 23.333| 11| 4.243|     26| 1.114| 22|  0|  0| 
-|Kyle Wright       |SP          |  4| 25.000|  6| 2.160|     28| 1.120| 15|  3|  0| 
-|Max Scherzer      |SP          |  2| 13.000|  1| 0.692|      5| 0.385| 20|  1|  0| 
-|Nick Pivetta      |SP          |  3| 15.000| 15| 9.000|     28| 1.867| 14|  0|  0| 
-|Daniel Bard       |RP          |  7|  6.000|  2| 3.000|      8| 1.333|  6|  0|  4| 
-|Kenley Jansen     |RP          |  3|  3.000|  3| 9.000|      5| 1.667|  4|  0|  1| 
-|Camilo Doval      |OP          |  7|  7.667|  2| 2.348|     12| 1.565| 10|  1|  1| 
-|Corey Kluber      |OP          |  3| 15.000|  7| 4.200|     17| 1.133| 13|  2|  0| 
-|Ian Anderson      |OP          |  4| 17.667| 11| 5.604|     31| 1.755| 14|  2|  0| 
-|Sean Manaea       |OP          |  3| 15.667|  9| 5.170|     24| 1.532| 15|  1|  0| 
-|Shane Baz         |OP          |  3| 14.000|  9| 5.786|     22| 1.571| 15|  1|  0| 
-|Alex Cobb         |PITCH BENCH |  3| 17.000|  6| 3.176|     21| 1.235| 10|  0|  0| 
-|Mike Clevinger    |PITCH BENCH |  3| 17.333|  8| 4.154|     17| 0.981| 15|  1|  0| 
+|players           |position    |  g|    ip| er|    era| hitsbb|  whip| so|  w| sv| 
+|:-----------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
+|Charlie Morton    |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Jameson Taillon   |SP          |  1| 6.000|  1|  1.500|      2| 0.333|  5|  1|  0| 
+|Jordan Montgomery |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Kyle Wright       |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Max Scherzer      |SP          |  1| 6.333|  2|  2.842|      9| 1.421| 11|  0|  0| 
+|Nick Pivetta      |SP          |  1| 4.333|  7| 14.538|     10| 2.308|  4|  0|  0| 
+|Daniel Bard       |RP          |  1| 1.000|  0|  0.000|      1| 1.000|  1|  0|  1| 
+|Kenley Jansen     |RP          |  1| 1.000|  0|  0.000|      0| 0.000|  0|  0|  1| 
+|Alex Cobb         |OP          |  1| 7.333|  0|  0.000|      4| 0.545|  5|  0|  0| 
+|Corey Kluber      |OP          |  1| 6.000|  4|  6.000|      9| 1.500|  3|  1|  0| 
+|Ian Anderson      |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Mike Clevinger    |OP          |  1| 6.000|  1|  1.500|      6| 1.000|  8|  0|  0| 
+|Sean Manaea       |OP          |  1| 6.000|  3|  4.500|      9| 1.500|  3|  1|  0| 
+|Camilo Doval      |PITCH BENCH |  1| 1.000|  0|  0.000|      0| 0.000|  2|  0|  0| 
+|Steven Matz       |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 
 
 * * *
