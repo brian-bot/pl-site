@@ -44,6 +44,7 @@
 |Andres Munoz     |OP          |  1|  1|  0|  0.000|      1| 1.000|  2|  0|  0| 
 |Hunter Greene    |OP          | **| **| **|     **|     **|    **| **| **| **| 
 |Josiah Gray      |OP          | **| **| **|     **|     **|    **| **| **| **| 
+|Nick Lodolo      |OP          |  1|  2|  5| 22.500|      8| 4.000|  5|  0|  0| 
 |Triston McKenzie |OP          | **| **| **|     **|     **|    **| **| **| **| 
 |Aaron Ashby      |PITCH BENCH |  1|  1|  2| 18.000|      3| 3.000|  2|  0|  0| 
 |Brett Martin     |PITCH BENCH |  1|  2|  0|  0.000|      3| 1.500|  1|  0|  0| 
