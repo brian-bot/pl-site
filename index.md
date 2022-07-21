@@ -2,7 +2,7 @@
 
 ## Period 6 scores
 
-Through games on 2022-07-19 ([website build status](https://github.com/brian-bot/pl-site/actions))
+Through games on 2022-07-20 ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 
 |team                                              | points|  r| hitsbb| hr| rbi| sb|  w| sv| so|   era|  whip|
