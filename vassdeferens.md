@@ -17,7 +17,7 @@
 |Ryan Mountcastle      |OF        |      2|  1|   2|  0|  0| 
 |Starling Marte        |OF        |      4|  1|   0|  0|  2| 
 |Alek Thomas           |DH        |      2|  0|   0|  0|  0| 
-|Gavin Lux             |DH        |      1|  1|   0|  0|  0| 
+|Gavin Lux             |DH        |      2|  2|   0|  0|  0| 
 |Giancarlo Stanton     |DH        |      3|  3|   0|  0|  0| 
 |Mitch Garver          |DH        |     **| **|  **| **| **| 
 |Bryce Harper          |BAT BENCH |     **| **|  **| **| **| 

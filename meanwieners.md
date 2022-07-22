@@ -12,7 +12,7 @@
 |Bobby Witt Jr.    |SS        |      2|  0|   1|  0|  0| 
 |Willy Adames      |MI        |      4|  1|   1|  1|  0| 
 |Patrick Wisdom    |CI        |      2|  1|   1|  0|  0| 
-|Aaron Judge       |OF        |      7|  5|   4|  2|  0| 
+|Aaron Judge       |OF        |     11|  7|   7|  3|  0| 
 |Anthony Santander |OF        |      5|  2|   0|  0|  0| 
 |Jarren Duran      |OF        |      0|  0|   0|  0|  0| 
 |Jorge Mateo       |OF        |      3|  1|   0|  0|  0| 

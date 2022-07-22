@@ -7,17 +7,17 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith        |C         |      0|  0|   0|  0|  0| 
 |Jose Abreu        |1B        |      5|  1|   1|  0|  0| 
-|Jonathan Schoop   |2B        |      0|  0|   0|  0|  0| 
+|Jonathan Schoop   |2B        |      2|  0|   2|  0|  0| 
 |Manny Machado     |3B        |      2|  1|   0|  0|  0| 
 |Xander Bogaerts   |SS        |      1|  0|   0|  0|  0| 
 |Jose Iglesias     |MI        |      2|  0|   1|  0|  0| 
 |Ke'Bryan Hayes    |CI        |      2|  0|   1|  0|  0| 
 |Eloy Jimenez      |OF        |     **| **|  **| **| **| 
 |Ian Happ          |OF        |      1|  1|   1|  0|  0| 
-|Joey Gallo        |OF        |      1|  1|   2|  1|  0| 
+|Joey Gallo        |OF        |      2|  1|   2|  1|  0| 
 |Luis Robert       |OF        |     **| **|  **| **| **| 
-|Aaron Hicks       |DH        |      5|  1|   3|  0|  0| 
-|Anthony Rizzo     |DH        |      6|  4|   0|  0|  0| 
+|Aaron Hicks       |DH        |      9|  2|   3|  0|  0| 
+|Anthony Rizzo     |DH        |      7|  4|   0|  0|  0| 
 |Michael Harris II |DH        |      4|  1|   0|  0|  3| 
 |Shohei Ohtani     |DH        |      2|  0|   0|  0|  0| 
 |Bryan Reynolds    |BAT BENCH |     **| **|  **| **| **| 
@@ -41,7 +41,7 @@
 |Nestor Cortes    |SP          | **| **| **|    **|     **|    **| **| **| **| 
 |Noah Syndergaard |SP          | **| **| **|    **|     **|    **| **| **| **| 
 |Shohei Ohtani    |SP          | **| **| **|    **|     **|    **| **| **| **| 
-|Aroldis Chapman  |RP          | **| **| **|    **|     **|    **| **| **| **| 
+|Aroldis Chapman  |RP          |  1|  1|  0| 0.000|      0| 0.000|  2|  0|  0| 
 |Ryan Pressly     |RP          |  1|  1|  0| 0.000|      0| 0.000|  3|  0|  0| 
 |Blake Snell      |OP          | **| **| **|    **|     **|    **| **| **| **| 
 |Braxton Garrett  |OP          | **| **| **|    **|     **|    **| **| **| **| 

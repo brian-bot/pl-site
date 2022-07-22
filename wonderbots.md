@@ -9,14 +9,14 @@
 |Vladimir Guerrero |1B        |      6|  3|   1|  0|  0| 
 |Ketel Marte       |2B        |      2|  0|   0|  0|  0| 
 |Nolan Arenado     |3B        |     **| **|  **| **| **| 
-|Thairo Estrada    |SS        |      2|  0|   0|  0|  1| 
+|Thairo Estrada    |SS        |      4|  1|   1|  0|  1| 
 |Jake Cronenworth  |MI        |      2|  1|   0|  0|  0| 
 |Luis Arraez       |CI        |      1|  1|   1|  1|  0| 
 |Andrew Vaughn     |OF        |      6|  1|   5|  1|  0| 
-|Cody Bellinger    |OF        |      1|  0|   0|  0|  0| 
+|Cody Bellinger    |OF        |      2|  1|   0|  0|  0| 
 |Dylan Carlson     |OF        |      1|  1|   1|  0|  0| 
 |George Springer   |OF        |      1|  1|   2|  0|  0| 
-|Nathaniel Lowe    |DH        |      1|  1|   0|  0|  0| 
+|Nathaniel Lowe    |DH        |      2|  2|   1|  0|  0| 
 |Nelson Cruz       |DH        |     **| **|  **| **| **| 
 |Yandy Diaz        |DH        |      1|  0|   0|  0|  0| 
 |Yuli Gurriel      |DH        |      4|  1|   0|  0|  0| 

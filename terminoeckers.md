@@ -6,10 +6,10 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Daulton Varsho    |C         |      0|  0|   0|  0|  0| 
-|Freddie Freeman   |1B        |      2|  2|   1|  1|  0| 
-|Trea Turner       |2B        |      2|  2|   3|  2|  0| 
-|Wilmer Flores     |3B        |      2|  2|   1|  0|  0| 
-|Jeremy Pena       |SS        |      2|  1|   2|  1|  0| 
+|Freddie Freeman   |1B        |      5|  4|   2|  2|  0| 
+|Trea Turner       |2B        |      4|  3|   3|  2|  0| 
+|Wilmer Flores     |3B        |      3|  3|   1|  0|  0| 
+|Jeremy Pena       |SS        |      4|  2|   2|  1|  0| 
 |Nico Hoerner      |MI        |      5|  1|   1|  0|  1| 
 |Luke Voit         |CI        |      2|  2|   4|  2|  0| 
 |Byron Buxton      |OF        |      1|  1|   0|  0|  0| 
@@ -18,8 +18,8 @@
 |Randy Arozarena   |OF        |      5|  2|   3|  2|  1| 
 |Christopher Morel |DH        |      4|  1|   1|  0|  1| 
 |Hunter Renfroe    |DH        |      2|  1|   2|  0|  0| 
-|Josh Donaldson    |DH        |      1|  1|   1|  0|  0| 
-|Leody Taveras     |DH        |      3|  1|   0|  0|  0| 
+|Josh Donaldson    |DH        |      3|  1|   1|  0|  0| 
+|Leody Taveras     |DH        |      5|  2|   2|  0|  0| 
 |Joey Votto        |BAT BENCH |      1|  0|   0|  0|  0| 
 |Seiya Suzuki      |BAT BENCH |      6|  0|   0|  0|  1| 
 |Tommy Pham        |BAT BENCH |     **| **|  **| **| **| 

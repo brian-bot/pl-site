@@ -14,11 +14,11 @@
 |Kyle Schwarber    |CI        |      1|  1|   1|  1|  0| 
 |Brandon Nimmo     |OF        |      4|  3|   0|  0|  0| 
 |Franmil Reyes     |OF        |      1|  0|   0|  0|  0| 
-|Riley Greene      |OF        |      1|  0|   0|  0|  0| 
+|Riley Greene      |OF        |      3|  1|   1|  0|  0| 
 |Taylor Ward       |OF        |      1|  0|   0|  0|  0| 
 |Andrew McCutchen  |DH        |      2|  1|   0|  0|  0| 
 |Carlos Santana    |DH        |      1|  1|   2|  1|  0| 
-|Javier Baez       |DH        |      0|  0|   0|  0|  0| 
+|Javier Baez       |DH        |      3|  2|   0|  0|  0| 
 |Jorge Soler       |DH        |      0|  0|   0|  0|  0| 
 |Jon Berti         |BAT BENCH |     **| **|  **| **| **| 
 |Josh Rojas        |BAT BENCH |      5|  0|   0|  0|  1| 
@@ -36,7 +36,7 @@
 |:-----------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
 |Charlie Morton    |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Jameson Taillon   |SP          |  1| 6.000|  1|  1.500|      2| 0.333|  5|  1|  0| 
-|Jordan Montgomery |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Jordan Montgomery |SP          |  1| 6.333|  2|  2.842|      8| 1.263|  8|  0|  0| 
 |Kyle Wright       |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Max Scherzer      |SP          |  1| 6.333|  2|  2.842|      9| 1.421| 11|  0|  0| 
 |Nick Pivetta      |SP          |  1| 4.333|  7| 14.538|     10| 2.308|  4|  0|  0| 
