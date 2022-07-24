@@ -7,16 +7,16 @@ Through games on 2022-07-23 ([website build status](https://github.com/brian-bot
 
 |team                                              | points|  r| hitsbb| hr| rbi| sb|  w| sv| so|   era|  whip|
 |:-------------------------------------------------|------:|--:|------:|--:|---:|--:|--:|--:|--:|-----:|-----:|
-|[Mean Wieners](./meanwieners)                     |   70.5| 31|     72| 10|  34|  1|  3|  3| 56| 3.420| 1.100|
-|[Washington Generals](./washingtongenerals)       |   42.5| 20|     51|  6|  17|  3|  2|  3| 28| 3.287| 1.226|
-|[Vass Deferens](./vassdeferens)                   |   33.5| 12|     38|  3|  12|  3|  1|  0| 25| 2.779| 1.059|
-|[Boys of Summer](./boysofsummer)                  |   65.0| 30|     64| 10|  38|  2|  3|  1| 32| 3.126| 1.074|
-|[Overwhelming Underdogs](./overwhelmingunderdogs) |   52.0| 26|     65|  7|  31|  1|  1|  2| 33| 3.441| 1.029|
-|[Nuclear Arms](./nucleararms)                     |   34.0| 16|     62|  2|  15|  3|  2|  0| 39| 6.136| 1.125|
-|[Terminoeckers](./terminoeckers)                  |   79.5| 39|     76| 11|  29|  3|  3|  1| 39| 2.298| 0.926|
-|[Wonderbots](./wonderbots)                        |   52.5| 24|     63|  7|  31|  2|  5|  1| 49| 3.522| 1.230|
-|[T and A](./tanda)                                |   49.5| 23|     49|  7|  19|  1|  3|  2| 66| 3.273| 1.167|
-|[SYWA](./sywa)                                    |   71.0| 32|     61|  9|  25|  2|  6|  2| 44| 3.232| 0.887|
+|[Mean Wieners](./meanwieners)                     |   75.0| 38|     93| 12|  45|  5|  3|  5| 62| 3.333| 1.111|
+|[Washington Generals](./washingtongenerals)       |   43.0| 25|     62|  6|  22|  4|  2|  3| 39| 3.176| 1.125|
+|[Vass Deferens](./vassdeferens)                   |   32.0| 18|     58|  5|  18|  3|  2|  1| 39| 1.846| 1.026|
+|[Boys of Summer](./boysofsummer)                  |   73.5| 39|     84| 14|  45|  3|  3|  2| 52| 2.507| 0.921|
+|[Overwhelming Underdogs](./overwhelmingunderdogs) |   58.0| 27|     76|  7|  32|  1|  4|  2| 49| 2.647| 0.843|
+|[Nuclear Arms](./nucleararms)                     |   30.0| 21|     76|  5|  21|  3|  3|  0| 44| 5.243| 1.136|
+|[Terminoeckers](./terminoeckers)                  |   81.5| 47|     89| 15|  37|  5|  4|  2| 47| 1.862| 0.853|
+|[Wonderbots](./wonderbots)                        |   48.5| 32|     80|  7|  33|  2|  5|  1| 49| 3.522| 1.230|
+|[T and A](./tanda)                                |   44.0| 27|     61|  7|  20|  1|  4|  2| 74| 3.250| 1.167|
+|[SYWA](./sywa)                                    |   64.5| 40|     75|  9|  29|  2|  7|  2| 58| 3.185| 0.978|
 
 * * *
 * * *

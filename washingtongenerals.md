@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Gary Sanchez      |C         |      2|  1|   0|  0|  0| 
+|Gary Sanchez      |C         |      2|  1|   1|  0|  0| 
 |Rhys Hoskins      |1B        |      4|  1|   1|  1|  0| 
-|Brendan Rodgers   |2B        |      4|  0|   1|  0|  0| 
+|Brendan Rodgers   |2B        |      6|  1|   2|  0|  0| 
 |Ryan McMahon      |3B        |      4|  0|   0|  0|  1| 
-|Marcus Semien     |SS        |      9|  3|   2|  1|  1| 
-|Gleyber Torres    |MI        |      2|  2|   3|  1|  0| 
-|Rowdy Tellez      |CI        |      3|  2|   2|  1|  0| 
-|Cedric Mullins    |OF        |      4|  2|   1|  0|  1| 
-|Garrett Cooper    |OF        |      2|  0|   0|  0|  0| 
+|Marcus Semien     |SS        |     10|  3|   3|  1|  1| 
+|Gleyber Torres    |MI        |      3|  2|   3|  1|  0| 
+|Rowdy Tellez      |CI        |      4|  3|   2|  1|  0| 
+|Cedric Mullins    |OF        |      6|  3|   3|  0|  2| 
+|Garrett Cooper    |OF        |      3|  0|   0|  0|  0| 
 |Joc Pederson      |OF        |      2|  1|   1|  0|  0| 
 |Mike Yastrzemski  |OF        |      2|  1|   0|  0|  0| 
-|Andres Gimenez    |DH        |      5|  2|   2|  1|  0| 
+|Andres Gimenez    |DH        |      7|  3|   2|  1|  0| 
 |Connor Joe        |DH        |      1|  1|   0|  0|  0| 
-|Jose Miranda      |DH        |      1|  0|   0|  0|  0| 
+|Jose Miranda      |DH        |      2|  1|   0|  0|  0| 
 |Teoscar Hernandez |DH        |      6|  4|   4|  1|  0| 
 |Eduardo Escobar   |BAT BENCH |      5|  1|   1|  1|  0| 
-|Myles Straw       |BAT BENCH |      3|  3|   1|  0|  0| 
-|Randal Grichuk    |BAT BENCH |      2|  0|   1|  0|  0| 
+|Myles Straw       |BAT BENCH |      4|  4|   2|  0|  0| 
+|Randal Grichuk    |BAT BENCH |      3|  0|   1|  0|  0| 
 
 
 * * *
@@ -32,7 +32,7 @@
  
 |players        |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:--------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Chris Bassitt  |SP          | **|     **| **|    **|     **|    **| **| **| **| 
+|Chris Bassitt  |SP          |  1|  7.000|  2| 2.571|      4| 0.571| 11|  0|  0| 
 |Corbin Burnes  |SP          |  1|  5.000|  2| 3.600|      8| 1.600|  5|  0|  0| 
 |Logan Webb     |SP          |  2| 12.000|  3| 2.250|     15| 1.250|  7|  1|  0| 
 |Michael Wacha  |SP          | **|     **| **|    **|     **|    **| **| **| **| 

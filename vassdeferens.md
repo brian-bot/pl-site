@@ -5,19 +5,19 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman       |C         |      6|  1|   3|  1|  0| 
-|Jared Walsh           |1B        |      1|  0|   0|  0|  0| 
-|Jorge Polanco         |2B        |      4|  1|   3|  1|  0| 
+|Adley Rutschman       |C         |      8|  1|   4|  1|  0| 
+|Jared Walsh           |1B        |      4|  1|   0|  0|  0| 
+|Jorge Polanco         |2B        |      6|  2|   3|  1|  0| 
 |Spencer Torkelson     |3B        |      0|  0|   0|  0|  0| 
-|Carlos Correa         |SS        |      2|  1|   2|  1|  0| 
-|Oneil Cruz            |MI        |      2|  1|   1|  0|  1| 
-|C.J. Cron             |CI        |      4|  1|   0|  0|  0| 
+|Carlos Correa         |SS        |      4|  2|   3|  2|  0| 
+|Oneil Cruz            |MI        |      3|  1|   1|  0|  1| 
+|C.J. Cron             |CI        |      6|  2|   1|  1|  0| 
 |Mike Trout            |OF        |     **| **|  **| **| **| 
-|Ronald Acuna Jr.      |OF        |      2|  0|   0|  0|  0| 
-|Ryan Mountcastle      |OF        |      3|  1|   2|  0|  0| 
+|Ronald Acuna Jr.      |OF        |      4|  1|   0|  0|  0| 
+|Ryan Mountcastle      |OF        |      4|  1|   2|  0|  0| 
 |Starling Marte        |OF        |      6|  1|   0|  0|  2| 
-|Alek Thomas           |DH        |      2|  0|   0|  0|  0| 
-|Gavin Lux             |DH        |      3|  2|   1|  0|  0| 
+|Alek Thomas           |DH        |      5|  1|   2|  0|  0| 
+|Gavin Lux             |DH        |      5|  2|   2|  0|  0| 
 |Giancarlo Stanton     |DH        |      3|  3|   0|  0|  0| 
 |Mitch Garver          |DH        |     **| **|  **| **| **| 
 |Bryce Harper          |BAT BENCH |     **| **|  **| **| **| 
@@ -33,22 +33,22 @@
 ### Pitchers
 
  
-|players           |position    |  g|    ip| er|    era| hitsbb|  whip| so|  w| sv| 
-|:-----------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
-|Keegan Thompson   |SP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Lance Lynn        |SP          |  1| 5.000|  6| 10.800|      7| 1.400|  6|  0|  0| 
-|Shane Bieber      |SP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Sonny Gray        |SP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Tony Gonsolin     |SP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Tyler Anderson    |SP          |  1| 6.000|  0|  0.000|      6| 1.000|  6|  0|  0| 
-|Giovanny Gallegos |RP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Scott Barlow      |RP          |  1| 1.000|  0|  0.000|      0| 0.000|  1|  0|  0| 
-|Marcus Stroman    |OP          |  1| 4.333|  1|  2.077|      3| 0.692|  6|  0|  0| 
-|Nick Martinez     |OP          |  2| 1.333|  0|  0.000|      0| 0.000|  0|  0|  0| 
-|Tanner Houck      |OP          |  2| 2.000|  0|  0.000|      3| 1.500|  1|  0|  0| 
-|Trevor Stephan    |OP          |  1| 1.333|  0|  0.000|      4| 3.000|  2|  1|  0| 
-|Zach Jackson      |OP          |  2| 1.667|  0|  0.000|      1| 0.600|  3|  0|  0| 
-|Joe Barlow        |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|players           |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
+|:-----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
+|Keegan Thompson   |SP          | **|     **| **|    **|     **|    **| **| **| **| 
+|Lance Lynn        |SP          |  2| 11.000|  6| 4.909|     11| 1.000| 12|  0|  0| 
+|Shane Bieber      |SP          | **|     **| **|    **|     **|    **| **| **| **| 
+|Sonny Gray        |SP          | **|     **| **|    **|     **|    **| **| **| **| 
+|Tony Gonsolin     |SP          | **|     **| **|    **|     **|    **| **| **| **| 
+|Tyler Anderson    |SP          |  1|  6.000|  0| 0.000|      6| 1.000|  6|  0|  0| 
+|Giovanny Gallegos |RP          |  1|  1.333|  0| 0.000|      2| 1.500|  1|  0|  0| 
+|Scott Barlow      |RP          |  2|  3.000|  0| 0.000|      3| 1.000|  1|  1|  0| 
+|Marcus Stroman    |OP          |  2| 10.333|  2| 1.742|     10| 0.968| 11|  0|  0| 
+|Nick Martinez     |OP          |  2|  1.333|  0| 0.000|      0| 0.000|  0|  0|  0| 
+|Tanner Houck      |OP          |  2|  2.000|  0| 0.000|      3| 1.500|  1|  0|  0| 
+|Trevor Stephan    |OP          |  1|  1.333|  0| 0.000|      4| 3.000|  2|  1|  0| 
+|Zach Jackson      |OP          |  3|  2.667|  0| 0.000|      1| 0.375|  5|  0|  1| 
+|Joe Barlow        |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 
 
 * * *
