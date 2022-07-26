@@ -11,18 +11,18 @@
 |Ryan McMahon      |3B        |      4|  0|   0|  0|  1| 
 |Marcus Semien     |SS        |     12|  3|   4|  1|  1| 
 |Gleyber Torres    |MI        |      6|  2|   3|  1|  0| 
-|Rowdy Tellez      |CI        |      6|  4|   3|  1|  0| 
-|Cedric Mullins    |OF        |      8|  3|   3|  0|  2| 
+|Rowdy Tellez      |CI        |      7|  4|   3|  1|  0| 
+|Cedric Mullins    |OF        |     10|  4|   3|  0|  2| 
 |Garrett Cooper    |OF        |      3|  0|   0|  0|  0| 
-|Joc Pederson      |OF        |      2|  1|   1|  0|  0| 
+|Joc Pederson      |OF        |      3|  1|   1|  0|  0| 
 |Mike Yastrzemski  |OF        |      2|  1|   0|  0|  0| 
-|Andres Gimenez    |DH        |      8|  3|   2|  1|  0| 
+|Andres Gimenez    |DH        |     10|  3|   2|  1|  0| 
 |Connor Joe        |DH        |      2|  2|   1|  0|  0| 
 |Jose Miranda      |DH        |      6|  3|   2|  0|  0| 
 |Teoscar Hernandez |DH        |      9|  5|   4|  1|  0| 
 |Eduardo Escobar   |BAT BENCH |      5|  1|   1|  1|  0| 
-|Myles Straw       |BAT BENCH |      4|  4|   2|  0|  0| 
-|Randal Grichuk    |BAT BENCH |      6|  1|   2|  0|  0| 
+|Myles Straw       |BAT BENCH |      6|  5|   2|  0|  0| 
+|Randal Grichuk    |BAT BENCH |      7|  1|   2|  0|  0| 
 
 
 * * *
@@ -41,10 +41,10 @@
 |Mark Melancon  |RP          |  2|  2.000|  0| 0.000|      2| 1.000|  2|  0|  1| 
 |Michael King   |RP          |  2|  1.667|  1| 5.400|      4| 2.400|  2|  0|  0| 
 |Hector Neris   |OP          |  3|  3.000|  1| 3.000|      4| 1.333|  2|  1|  1| 
-|Kyle Finnegan  |OP          |  2|  2.667|  0| 0.000|      0| 0.000|  1|  0|  1| 
+|Kyle Finnegan  |OP          |  3|  3.667|  0| 0.000|      1| 0.273|  2|  0|  2| 
 |Rafael Montero |OP          |  4|  4.333|  1| 2.077|      3| 0.692|  2|  0|  1| 
-|Ryan Tepera    |OP          | **|     **| **|    **|     **|    **| **| **| **| 
-|Zach Plesac    |OP          | **|     **| **|    **|     **|    **| **| **| **| 
+|Ryan Tepera    |OP          |  1|  0.667|  0| 0.000|      4| 6.000|  0|  0|  0| 
+|Zach Plesac    |OP          |  1|  5.000|  3| 5.400|      6| 1.200|  4|  0|  0| 
 |Tylor Megill   |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 |Walker Buehler |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 
