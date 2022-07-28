@@ -5,22 +5,22 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto      |C         |     11|  4|   6|  2|  1| 
-|Pete Alonso        |1B        |     15|  4|   9|  1|  0| 
-|Nolan Gorman       |2B        |      1|  1|   0|  0|  0| 
-|Matt Chapman       |3B        |     14|  7|   6|  1|  1| 
-|Dansby Swanson     |SS        |     11|  8|   2|  0|  0| 
+|J.T. Realmuto      |C         |     13|  4|   8|  2|  1| 
+|Pete Alonso        |1B        |     17|  5|  10|  2|  0| 
+|Nolan Gorman       |2B        |      3|  3|   1|  1|  1| 
+|Matt Chapman       |3B        |     15|  7|   6|  1|  1| 
+|Dansby Swanson     |SS        |     14|  9|   2|  0|  0| 
 |Santiago Espinal   |MI        |      8|  8|   3|  0|  0| 
-|Trey Mancini       |CI        |      3|  1|   1|  0|  0| 
+|Trey Mancini       |CI        |      6|  1|   1|  0|  0| 
 |Adam Duvall        |OF        |      3|  0|   1|  0|  0| 
 |J.D. Martinez      |OF        |      1|  0|   0|  0|  0| 
 |Kyle Tucker        |OF        |      9|  3|   3|  2|  1| 
-|Yordan Alvarez     |OF        |     10|  6|   6|  2|  1| 
-|Jonathan India     |DH        |     10|  5|   6|  3|  0| 
-|Kolten Wong        |DH        |     11|  6|   2|  1|  0| 
+|Yordan Alvarez     |OF        |     13|  7|   7|  3|  1| 
+|Jonathan India     |DH        |     11|  5|   6|  3|  0| 
+|Kolten Wong        |DH        |     13|  8|   2|  1|  0| 
 |Max Kepler         |DH        |      3|  3|   2|  0|  0| 
 |Ramon Laureano     |DH        |      8|  6|   2|  2|  0| 
-|AJ Pollock         |BAT BENCH |      7|  2|   6|  1|  0| 
+|AJ Pollock         |BAT BENCH |      9|  3|   8|  1|  0| 
 |Vinnie Pasquantino |BAT BENCH |     10|  2|   2|  1|  0| 
 
 
@@ -36,16 +36,16 @@
 |Gerrit Cole       |SP          |  2| 13.000|  5|  3.462|     15| 1.154| 18|  1|  0| 
 |Luis Garcia       |SP          |  2| 10.667|  6|  5.062|     13| 1.219| 13|  1|  0| 
 |Max Fried         |SP          |  2| 13.000|  6|  4.154|     16| 1.231| 12|  1|  0| 
-|Zac Gallen        |SP          |  1|  7.000|  0|  0.000|      2| 0.286|  7|  1|  0| 
+|Zac Gallen        |SP          |  2| 12.000|  1|  0.750|      6| 0.500| 12|  1|  0| 
 |Jordan Romano     |RP          |  3|  3.333|  1|  2.700|      1| 0.300|  4|  1|  2| 
 |Liam Hendriks     |RP          |  3|  3.000|  5| 15.000|      8| 2.667|  4|  0|  1| 
 |Aaron Civale      |OP          | **|     **| **|     **|     **|    **| **| **| **| 
-|Cristian Javier   |OP          |  1|  5.000|  1|  1.800|      6| 1.200|  3|  0|  0| 
+|Cristian Javier   |OP          |  2| 10.000|  4|  3.600|     12| 1.200|  9|  0|  0| 
 |Jose Urquidy      |OP          |  1|  6.000|  1|  1.500|      6| 1.000|  3|  1|  0| 
 |Roansy Contreras  |OP          | **|     **| **|     **|     **|    **| **| **| **| 
 |Trevor Rogers     |OP          |  2|  9.667| 10|  9.310|     17| 1.759|  9|  0|  0| 
 |Brayan Bello      |PITCH BENCH |  1|  4.000|  5| 11.250|     11| 2.750|  2|  0|  0| 
-|Colin Poche       |PITCH BENCH |  3|  2.333|  3| 11.571|      4| 1.714|  1|  0|  0| 
+|Colin Poche       |PITCH BENCH |  4|  3.333|  4| 10.800|      7| 2.100|  3|  1|  0| 
 |Evan Phillips     |PITCH BENCH |  3|  3.000|  1|  3.000|      5| 1.667|  4|  2|  0| 
 |Freddy Peralta    |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Stephen Strasburg |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
