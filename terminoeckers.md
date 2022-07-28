@@ -42,12 +42,12 @@
 |Clay Holmes      |RP          |  2|  2.667|  0|  0.000|      2| 0.750|  3|  0|  1| 
 |Ryan Helsley     |RP          |  2|  2.333|  0|  0.000|      0| 0.000|  5|  0|  1| 
 |Andres Munoz     |OP          |  4|  3.667|  0|  0.000|      1| 0.273|  3|  0|  0| 
-|Hunter Greene    |OP          |  1|  6.333|  2|  2.842|     10| 1.579|  6|  0|  0| 
+|Brett Martin     |OP          |  4|  4.333|  5| 10.385|     10| 2.308|  3|  0|  0| 
 |Josiah Gray      |OP          |  1|  5.000|  3|  5.400|      7| 1.400|  6|  0|  0| 
 |Nick Lodolo      |OP          |  2|  8.000|  5|  5.625|     15| 1.875| 14|  1|  0| 
 |Triston McKenzie |OP          |  1|  5.667|  1|  1.588|      6| 1.059|  4|  0|  0| 
 |Aaron Ashby      |PITCH BENCH |  2|  8.000|  4|  4.500|      9| 1.125| 11|  0|  0| 
-|Brett Martin     |PITCH BENCH |  4|  4.333|  5| 10.385|     10| 2.308|  3|  0|  0| 
+|Hunter Greene    |PITCH BENCH |  1|  6.333|  2|  2.842|     10| 1.579|  6|  0|  0| 
 |Patrick Sandoval |PITCH BENCH |  1|  3.000|  5| 15.000|     10| 3.333|  4|  0|  0| 
 
 
