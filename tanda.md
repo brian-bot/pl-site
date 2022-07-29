@@ -5,20 +5,20 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|MJ Melendez       |C         |      8|  3|   3|  1|  0| 
+|MJ Melendez       |C         |     11|  3|   3|  1|  0| 
 |Matt Olson        |1B        |     10|  5|  10|  4|  0| 
 |Jazz Chisholm Jr. |2B        |     **| **|  **| **| **| 
 |Eugenio Suarez    |3B        |     10|  3|   1|  0|  0| 
-|Bo Bichette       |SS        |      9|  6|   4|  0|  0| 
+|Bo Bichette       |SS        |     11|  6|   4|  0|  0| 
 |Francisco Lindor  |MI        |     14|  6|   2|  0|  1| 
-|Kyle Schwarber    |CI        |      4|  3|   4|  3|  0| 
+|Kyle Schwarber    |CI        |      6|  4|   7|  4|  0| 
 |Brandon Nimmo     |OF        |      7|  3|   0|  0|  0| 
 |Franmil Reyes     |OF        |      7|  2|   2|  1|  0| 
 |Riley Greene      |OF        |      7|  3|   2|  0|  0| 
 |Taylor Ward       |OF        |      9|  3|   1|  1|  1| 
 |Andrew McCutchen  |DH        |     14|  7|   4|  1|  0| 
-|Carlos Santana    |DH        |      5|  2|   5|  2|  0| 
-|Javier Baez       |DH        |     10|  7|   3|  0|  1| 
+|Carlos Santana    |DH        |      5|  2|   6|  2|  0| 
+|Javier Baez       |DH        |     11|  7|   3|  0|  1| 
 |Jorge Soler       |DH        |      1|  1|   0|  0|  0| 
 |Jon Berti         |BAT BENCH |     **| **|  **| **| **| 
 |Josh Rojas        |BAT BENCH |     15|  3|   3|  1|  4| 
@@ -35,7 +35,7 @@
 |players           |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Charlie Morton    |SP          |  2| 11.000|  4|  3.273|     13| 1.182| 12|  0|  0| 
-|Jameson Taillon   |SP          |  2|  8.667|  3|  3.115|      9| 1.038|  7|  1|  0| 
+|Jameson Taillon   |SP          |  3| 14.667|  3|  1.841|     15| 1.023| 15|  1|  0| 
 |Jordan Montgomery |SP          |  2|  8.667|  6|  6.231|     14| 1.615| 11|  0|  0| 
 |Kyle Wright       |SP          |  1|  6.000|  2|  3.000|      7| 1.167|  8|  1|  0| 
 |Max Scherzer      |SP          |  3| 19.333|  4|  1.862|     22| 1.138| 25|  0|  0| 
@@ -47,7 +47,7 @@
 |Ian Anderson      |OP          |  1|  3.000|  7| 21.000|     11| 3.667|  2|  0|  0| 
 |Mike Clevinger    |OP          |  2| 13.000|  3|  2.077|     13| 1.000| 13|  0|  0| 
 |Sean Manaea       |OP          |  2|  9.333|  7|  6.750|     18| 1.929|  7|  1|  0| 
-|Camilo Doval      |PITCH BENCH |  2|  2.000|  0|  0.000|      0| 0.000|  2|  0|  0| 
+|Camilo Doval      |PITCH BENCH |  3|  3.000|  0|  0.000|      1| 0.333|  5|  0|  1| 
 |Steven Matz       |PITCH BENCH |  1|  5.333|  2|  3.375|      4| 0.750|  7|  1|  0| 
 
 

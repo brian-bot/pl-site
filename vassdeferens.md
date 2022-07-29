@@ -10,14 +10,14 @@
 |Jorge Polanco         |2B        |     10|  4|   4|  1|  0| 
 |Spencer Torkelson     |3B        |      0|  0|   0|  0|  0| 
 |Carlos Correa         |SS        |      6|  3|   3|  2|  0| 
-|Oneil Cruz            |MI        |      7|  3|   5|  2|  1| 
+|Oneil Cruz            |MI        |      8|  3|   6|  2|  1| 
 |C.J. Cron             |CI        |      9|  4|   2|  1|  0| 
 |Mike Trout            |OF        |     **| **|  **| **| **| 
 |Ronald Acuna Jr.      |OF        |      8|  1|   1|  0|  1| 
 |Ryan Mountcastle      |OF        |      6|  2|   4|  0|  0| 
 |Starling Marte        |OF        |     13|  5|   2|  1|  2| 
 |Alek Thomas           |DH        |     10|  3|   3|  0|  0| 
-|Gavin Lux             |DH        |     13|  3|   6|  0|  0| 
+|Gavin Lux             |DH        |     16|  4|   7|  0|  0| 
 |Giancarlo Stanton     |DH        |      3|  3|   0|  0|  0| 
 |Mitch Garver          |DH        |     **| **|  **| **| **| 
 |Bryce Harper          |BAT BENCH |     **| **|  **| **| **| 
@@ -40,9 +40,9 @@
 |Shane Bieber      |SP          |  1|  6.000|  6| 9.000|      9| 1.500|  4|  0|  0| 
 |Sonny Gray        |SP          |  1|  6.000|  1| 1.500|      3| 0.500|  7|  1|  0| 
 |Tony Gonsolin     |SP          |  1|  6.000|  4| 6.000|      9| 1.500|  4|  0|  0| 
-|Tyler Anderson    |SP          |  1|  6.000|  0| 0.000|      6| 1.000|  6|  0|  0| 
+|Tyler Anderson    |SP          |  2| 13.000|  0| 0.000|     10| 0.769| 10|  1|  0| 
 |Giovanny Gallegos |RP          |  2|  2.333|  0| 0.000|      2| 0.857|  2|  0|  0| 
-|Scott Barlow      |RP          |  3|  4.000|  0| 0.000|      3| 0.750|  2|  1|  0| 
+|Scott Barlow      |RP          |  4|  4.333|  1| 2.077|      4| 0.923|  2|  1|  0| 
 |Marcus Stroman    |OP          |  2| 10.333|  2| 1.742|     10| 0.968| 11|  0|  0| 
 |Nick Martinez     |OP          |  4|  3.000|  1| 3.000|      3| 1.000|  1|  0|  1| 
 |Tanner Houck      |OP          |  4|  4.000|  2| 4.500|      6| 1.500|  2|  0|  0| 

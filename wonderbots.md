@@ -6,20 +6,20 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Christian Vazquez |C         |     10|  3|   4|  2|  0| 
-|Vladimir Guerrero |1B        |     17|  8|   6|  1|  1| 
+|Vladimir Guerrero |1B        |     18|  8|   6|  1|  1| 
 |Ketel Marte       |2B        |     10|  4|   7|  2|  0| 
 |Nolan Arenado     |3B        |      5|  1|   0|  0|  0| 
-|Thairo Estrada    |SS        |     12|  3|   4|  0|  2| 
+|Thairo Estrada    |SS        |     14|  3|   5|  0|  3| 
 |Jake Cronenworth  |MI        |     12|  5|   0|  0|  0| 
 |Luis Arraez       |CI        |      6|  3|   4|  1|  0| 
 |Andrew Vaughn     |OF        |     10|  3|   6|  1|  0| 
-|Cody Bellinger    |OF        |      6|  4|   5|  2|  0| 
+|Cody Bellinger    |OF        |      8|  5|   7|  2|  0| 
 |Dylan Carlson     |OF        |     10|  5|   4|  1|  0| 
-|George Springer   |OF        |      8|  4|   7|  1|  1| 
-|Nathaniel Lowe    |DH        |     10|  4|   4|  2|  0| 
+|George Springer   |OF        |      9|  5|   7|  1|  1| 
+|Nathaniel Lowe    |DH        |     12|  5|   5|  3|  0| 
 |Nelson Cruz       |DH        |      5|  1|   2|  0|  0| 
 |Yandy Diaz        |DH        |     12|  3|   5|  1|  0| 
-|Yuli Gurriel      |DH        |     11|  2|   1|  0|  2| 
+|Yuli Gurriel      |DH        |     13|  3|   1|  0|  3| 
 |Austin Meadows    |BAT BENCH |     **| **|  **| **| **| 
 |Brandon Crawford  |BAT BENCH |     **| **|  **| **| **| 
 |Jarred Kelenic    |BAT BENCH |     **| **|  **| **| **| 
@@ -41,13 +41,13 @@
 |Robbie Ray      |SP          |  1|  3.000|  6| 18.000|     10| 3.333|  1|  0|  0| 
 |Cal Quantrill   |RP          |  3| 16.333|  7|  3.857|     23| 1.408| 13|  2|  0| 
 |Emmanuel Clase  |RP          |  3|  3.000|  0|  0.000|      0| 0.000|  2|  0|  2| 
-|Brock Burke     |OP          |  3|  3.667|  1|  2.455|      4| 1.091|  4|  0|  0| 
+|Brock Burke     |OP          |  4|  5.667|  1|  1.588|      5| 0.882|  6|  0|  0| 
 |Chris Flexen    |OP          |  2|  9.667|  3|  2.793|     11| 1.138|  8|  1|  0| 
 |Drew Rasmussen  |OP          |  2|  9.667|  3|  2.793|     15| 1.552|  8|  1|  0| 
 |Luis Castillo   |OP          |  1|  7.000|  3|  3.857|      7| 1.000|  8|  1|  0| 
 |Marco Gonzales  |OP          |  2| 12.667|  7|  4.974|     15| 1.184|  7|  1|  0| 
 |Dane Dunning    |PITCH BENCH |  1|  5.000|  2|  3.600|      7| 1.400|  5|  0|  0| 
-|Yusei Kikuchi   |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
+|Yusei Kikuchi   |PITCH BENCH |  1|  5.000|  1|  1.800|      3| 0.600|  5|  1|  0| 
 
 
 * * *

@@ -6,23 +6,23 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Gary Sanchez      |C         |      6|  1|   4|  0|  1| 
-|Rhys Hoskins      |1B        |      9|  3|   2|  1|  1| 
-|Brendan Rodgers   |2B        |     13|  5|   2|  0|  0| 
-|Ryan McMahon      |3B        |     10|  1|   1|  1|  1| 
-|Marcus Semien     |SS        |     13|  3|   4|  1|  1| 
-|Gleyber Torres    |MI        |      8|  3|   5|  2|  0| 
+|Rhys Hoskins      |1B        |     11|  4|   2|  1|  1| 
+|Brendan Rodgers   |2B        |     17|  5|   2|  0|  0| 
+|Ryan McMahon      |3B        |     11|  1|   1|  1|  1| 
+|Marcus Semien     |SS        |     14|  3|   4|  1|  1| 
+|Gleyber Torres    |MI        |      9|  3|   5|  2|  0| 
 |Rowdy Tellez      |CI        |     10|  6|   9|  3|  0| 
 |Cedric Mullins    |OF        |     12|  5|   4|  1|  3| 
 |Garrett Cooper    |OF        |      3|  0|   0|  0|  0| 
-|Joc Pederson      |OF        |      3|  1|   1|  0|  0| 
-|Mike Yastrzemski  |OF        |      2|  1|   0|  0|  0| 
-|Andres Gimenez    |DH        |     12|  4|   2|  1|  0| 
+|Joc Pederson      |OF        |      4|  1|   1|  0|  0| 
+|Mike Yastrzemski  |OF        |      3|  2|   0|  0|  0| 
+|Andres Gimenez    |DH        |     13|  4|   2|  1|  1| 
 |Connor Joe        |DH        |      2|  2|   1|  0|  0| 
 |Jose Miranda      |DH        |     12|  5|   5|  1|  0| 
 |Teoscar Hernandez |DH        |     12|  6|   4|  1|  0| 
 |Eduardo Escobar   |BAT BENCH |      7|  3|   3|  2|  0| 
-|Myles Straw       |BAT BENCH |      9|  6|   4|  0|  0| 
-|Randal Grichuk    |BAT BENCH |      9|  1|   2|  0|  1| 
+|Myles Straw       |BAT BENCH |     10|  6|   4|  0|  0| 
+|Randal Grichuk    |BAT BENCH |     10|  1|   2|  0|  1| 
 
 
 * * *
@@ -42,7 +42,7 @@
 |Michael King   |RP          |  2|  1.667|  1| 5.400|      4| 2.400|  2|  0|  0| 
 |Hector Neris   |OP          |  4|  4.000|  2| 4.500|      6| 1.500|  4|  1|  1| 
 |Kyle Finnegan  |OP          |  3|  3.667|  0| 0.000|      1| 0.273|  2|  0|  2| 
-|Rafael Montero |OP          |  4|  4.333|  1| 2.077|      3| 0.692|  2|  0|  1| 
+|Rafael Montero |OP          |  5|  5.667|  1| 1.588|      3| 0.529|  2|  1|  1| 
 |Ryan Tepera    |OP          |  2|  1.667|  0| 0.000|      5| 3.000|  1|  0|  0| 
 |Zach Plesac    |OP          |  1|  5.000|  3| 5.400|      6| 1.200|  4|  0|  0| 
 |Tylor Megill   |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
