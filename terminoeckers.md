@@ -5,25 +5,25 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Daulton Varsho    |C         |      8|  5|   2|  1|  1| 
-|Freddie Freeman   |1B        |     17|  9|   7|  3|  1| 
-|Trea Turner       |2B        |     15|  7|   7|  3|  1| 
-|Wilmer Flores     |3B        |      9|  7|   3|  1|  0| 
-|Jeremy Pena       |SS        |     12|  6|   4|  3|  0| 
-|Nico Hoerner      |MI        |     13|  4|   7|  1|  2| 
-|Luke Voit         |CI        |     12|  5|   8|  2|  0| 
-|Byron Buxton      |OF        |      3|  3|   1|  1|  0| 
-|Christian Yelich  |OF        |     16|  5|   3|  0|  0| 
-|Nick Castellanos  |OF        |     11|  4|   1|  0|  0| 
-|Randy Arozarena   |OF        |     14|  3|   7|  2|  2| 
+|Daulton Varsho    |C         |     10|  5|   2|  1|  1| 
+|Freddie Freeman   |1B        |     18| 10|   7|  3|  2| 
+|Trea Turner       |2B        |     16|  8|   7|  3|  1| 
+|Wilmer Flores     |3B        |     12|  8|   5|  2|  0| 
+|Jeremy Pena       |SS        |     13|  6|   5|  3|  0| 
+|Nico Hoerner      |MI        |     15|  5|   7|  1|  2| 
+|Luke Voit         |CI        |     14|  7|  11|  3|  0| 
+|Byron Buxton      |OF        |      4|  4|   2|  2|  0| 
+|Christian Yelich  |OF        |     19|  6|   4|  0|  0| 
+|Nick Castellanos  |OF        |     13|  4|   1|  0|  0| 
+|Randy Arozarena   |OF        |     15|  3|   7|  2|  2| 
 |Christopher Morel |DH        |     15|  5|   4|  0|  2| 
 |Hunter Renfroe    |DH        |     12|  6|  12|  4|  0| 
-|Josh Donaldson    |DH        |      7|  3|   1|  0|  0| 
-|Leody Taveras     |DH        |     16|  6|   3|  0|  1| 
-|Joey Votto        |BAT BENCH |      9|  2|   4|  2|  0| 
+|Josh Donaldson    |DH        |      8|  4|   1|  0|  0| 
+|Leody Taveras     |DH        |     17|  7|   4|  0|  1| 
+|Joey Votto        |BAT BENCH |     10|  3|   6|  3|  0| 
 |Seiya Suzuki      |BAT BENCH |     13|  5|   3|  2|  1| 
-|Tommy Pham        |BAT BENCH |      8|  4|   3|  0|  0| 
-|Ty France         |BAT BENCH |     17|  5|   5|  3|  0| 
+|Tommy Pham        |BAT BENCH |      9|  4|   3|  0|  0| 
+|Ty France         |BAT BENCH |     18|  5|   5|  3|  0| 
 
 
 * * *
@@ -34,9 +34,9 @@
 |players          |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Dylan Cease      |SP          |  2| 13.000|  0|  0.000|     11| 0.846| 12|  2|  0| 
-|Julio Urias      |SP          |  2| 13.000|  1|  0.692|      9| 0.692| 13|  2|  0| 
+|Julio Urias      |SP          |  3| 20.000|  3|  1.350|     13| 0.650| 17|  3|  0| 
 |Reid Detmers     |SP          |  1|  5.000|  0|  0.000|      5| 1.000|  6|  1|  0| 
-|Sandy Alcantara  |SP          |  1|  6.000|  2|  3.000|      5| 0.833| 10|  0|  0| 
+|Sandy Alcantara  |SP          |  2| 11.000|  6|  4.909|     16| 1.455| 15|  0|  0| 
 |Shane McClanahan |SP          |  1|  7.000|  2|  2.571|      3| 0.429|  7|  0|  0| 
 |Yu Darvish       |SP          |  2| 14.000|  3|  1.929|     12| 0.857| 20|  1|  0| 
 |Clay Holmes      |RP          |  3|  3.667|  0|  0.000|      4| 1.091|  4|  1|  1| 
@@ -48,7 +48,7 @@
 |Triston McKenzie |OP          |  2| 12.667|  5|  3.553|     13| 1.026| 10|  0|  0| 
 |Aaron Ashby      |PITCH BENCH |  2|  8.000|  4|  4.500|      9| 1.125| 11|  0|  0| 
 |Hunter Greene    |PITCH BENCH |  1|  6.333|  2|  2.842|     10| 1.579|  6|  0|  0| 
-|Patrick Sandoval |PITCH BENCH |  1|  3.000|  5| 15.000|     10| 3.333|  4|  0|  0| 
+|Patrick Sandoval |PITCH BENCH |  2|  8.667|  7|  7.269|     16| 1.846| 10|  0|  0| 
 
 
 * * *
