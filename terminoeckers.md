@@ -5,25 +5,25 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Daulton Varsho    |C         |     10|  5|   2|  1|  1| 
-|Freddie Freeman   |1B        |     18| 10|   7|  3|  2| 
-|Trea Turner       |2B        |     16|  8|   7|  3|  1| 
-|Wilmer Flores     |3B        |     12|  8|   5|  2|  0| 
+|Daulton Varsho    |C         |     12|  6|   3|  1|  1| 
+|Freddie Freeman   |1B        |     20| 12|   7|  3|  2| 
+|Trea Turner       |2B        |     17|  9|   8|  4|  1| 
+|Wilmer Flores     |3B        |     13|  8|   5|  2|  0| 
 |Jeremy Pena       |SS        |     13|  6|   5|  3|  0| 
-|Nico Hoerner      |MI        |     15|  5|   7|  1|  2| 
-|Luke Voit         |CI        |     14|  7|  11|  3|  0| 
-|Byron Buxton      |OF        |      4|  4|   2|  2|  0| 
-|Christian Yelich  |OF        |     19|  6|   4|  0|  0| 
+|Nico Hoerner      |MI        |     16|  5|   7|  1|  2| 
+|Luke Voit         |CI        |     15|  7|  11|  3|  0| 
+|Byron Buxton      |OF        |      7|  6|   3|  3|  1| 
+|Christian Yelich  |OF        |     22|  7|   4|  0|  1| 
 |Nick Castellanos  |OF        |     13|  4|   1|  0|  0| 
 |Randy Arozarena   |OF        |     15|  3|   7|  2|  2| 
 |Christopher Morel |DH        |     15|  5|   4|  0|  2| 
-|Hunter Renfroe    |DH        |     12|  6|  12|  4|  0| 
+|Hunter Renfroe    |DH        |     13|  7|  14|  5|  0| 
 |Josh Donaldson    |DH        |      8|  4|   1|  0|  0| 
 |Leody Taveras     |DH        |     17|  7|   4|  0|  1| 
-|Joey Votto        |BAT BENCH |     10|  3|   6|  3|  0| 
-|Seiya Suzuki      |BAT BENCH |     13|  5|   3|  2|  1| 
+|Joey Votto        |BAT BENCH |     13|  4|   7|  4|  0| 
+|Seiya Suzuki      |BAT BENCH |     14|  5|   4|  2|  1| 
 |Tommy Pham        |BAT BENCH |      9|  4|   3|  0|  0| 
-|Ty France         |BAT BENCH |     18|  5|   5|  3|  0| 
+|Ty France         |BAT BENCH |     20|  6|   5|  3|  0| 
 
 
 * * *
@@ -42,7 +42,7 @@
 |Clay Holmes      |RP          |  3|  3.667|  0|  0.000|      4| 1.091|  4|  1|  1| 
 |Ryan Helsley     |RP          |  2|  2.333|  0|  0.000|      0| 0.000|  5|  0|  1| 
 |Andres Munoz     |OP          |  5|  4.667|  2|  3.857|      2| 0.429|  4|  0|  0| 
-|Brett Martin     |OP          |  4|  4.333|  5| 10.385|     10| 2.308|  3|  0|  0| 
+|Brett Martin     |OP          |  5|  5.000|  7| 12.600|     13| 2.600|  4|  0|  0| 
 |Josiah Gray      |OP          |  1|  5.000|  3|  5.400|      7| 1.400|  6|  0|  0| 
 |Nick Lodolo      |OP          |  2|  8.000|  5|  5.625|     15| 1.875| 14|  1|  0| 
 |Triston McKenzie |OP          |  2| 12.667|  5|  3.553|     13| 1.026| 10|  0|  0| 
