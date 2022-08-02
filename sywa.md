@@ -6,22 +6,22 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |J.T. Realmuto      |C         |     21|  7|  10|  3|  1| 
-|Pete Alonso        |1B        |     20|  6|  11|  2|  0| 
+|Pete Alonso        |1B        |     24|  8|  12|  3|  0| 
 |Nolan Gorman       |2B        |      9|  5|   3|  2|  1| 
 |Matt Chapman       |3B        |     23| 11|  12|  5|  1| 
 |Dansby Swanson     |SS        |     18| 11|   2|  0|  0| 
 |Santiago Espinal   |MI        |      9|  8|   3|  0|  0| 
 |Trey Mancini       |CI        |     13|  4|   4|  1|  0| 
 |Adam Duvall        |OF        |      3|  0|   1|  0|  0| 
-|J.D. Martinez      |OF        |      4|  1|   2|  0|  0| 
-|Kyle Tucker        |OF        |     11|  4|   4|  2|  1| 
-|Yordan Alvarez     |OF        |     22| 10|  10|  4|  1| 
-|Jonathan India     |DH        |     20| 10|   8|  4|  0| 
+|J.D. Martinez      |OF        |      5|  1|   2|  0|  0| 
+|Kyle Tucker        |OF        |     12|  4|   4|  2|  1| 
+|Yordan Alvarez     |OF        |     23| 10|  11|  4|  1| 
+|Jonathan India     |DH        |     21| 10|   9|  4|  0| 
 |Kolten Wong        |DH        |     18| 11|   3|  1|  1| 
 |Max Kepler         |DH        |      3|  3|   2|  0|  0| 
 |Ramon Laureano     |DH        |     13|  8|   3|  3|  1| 
 |AJ Pollock         |BAT BENCH |     13|  4|   8|  1|  0| 
-|Vinnie Pasquantino |BAT BENCH |     16|  3|   2|  1|  0| 
+|Vinnie Pasquantino |BAT BENCH |     17|  3|   2|  1|  0| 
 
 
 * * *
@@ -34,7 +34,7 @@
 |Brandon Woodruff  |SP          |  2| 12.333|  2| 1.459|     11| 0.892| 17|  2|  0| 
 |Framber Valdez    |SP          |  2| 13.667|  6| 3.951|     15| 1.098| 15|  1|  0| 
 |Gerrit Cole       |SP          |  3| 19.000| 10| 4.737|     22| 1.158| 27|  1|  0| 
-|Luis Garcia       |SP          |  2| 10.667|  6| 5.062|     13| 1.219| 13|  1|  0| 
+|Luis Garcia       |SP          |  3| 17.667|  9| 4.585|     20| 1.132| 18|  1|  0| 
 |Max Fried         |SP          |  3| 20.000|  6| 2.700|     22| 1.100| 17|  1|  0| 
 |Zac Gallen        |SP          |  2| 12.000|  1| 0.750|      6| 0.500| 12|  1|  0| 
 |Jordan Romano     |RP          |  6|  6.667|  1| 1.350|      2| 0.300|  7|  1|  5| 

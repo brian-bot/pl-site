@@ -5,19 +5,19 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |     12|  3|   6|  1|  0| 
+|Will Smith        |C         |     14|  3|   8|  1|  0| 
 |Jose Abreu        |1B        |     18|  3|   4|  1|  0| 
 |Jonathan Schoop   |2B        |     10|  3|   4|  1|  0| 
-|Manny Machado     |3B        |     13|  8|   6|  3|  0| 
+|Manny Machado     |3B        |     14|  9|   6|  3|  0| 
 |Xander Bogaerts   |SS        |     18|  3|   8|  1|  2| 
-|Jose Iglesias     |MI        |     17|  7|   3|  0|  0| 
+|Jose Iglesias     |MI        |     18|  8|   3|  0|  0| 
 |Ke'Bryan Hayes    |CI        |     11|  1|   2|  1|  1| 
-|Eloy Jimenez      |OF        |     10|  5|   3|  3|  0| 
+|Eloy Jimenez      |OF        |     12|  5|   3|  3|  0| 
 |Ian Happ          |OF        |     14|  5|   5|  0|  0| 
 |Joey Gallo        |OF        |      4|  3|   3|  2|  0| 
 |Luis Robert       |OF        |     **| **|  **| **| **| 
 |Aaron Hicks       |DH        |     18|  5|   5|  0|  0| 
-|Anthony Rizzo     |DH        |     22| 10|   5|  3|  0| 
+|Anthony Rizzo     |DH        |     23| 11|   8|  4|  0| 
 |Michael Harris II |DH        |     14|  4|   4|  1|  4| 
 |Shohei Ohtani     |DH        |     19|  7|   6|  3|  1| 
 |Bryan Reynolds    |BAT BENCH |      0|  0|   0|  0|  0| 
@@ -25,7 +25,7 @@
 |Harrison Bader    |BAT BENCH |     **| **|  **| **| **| 
 |Ji-Man Choi       |BAT BENCH |      7|  1|   6|  1|  0| 
 |Michael Brantley  |BAT BENCH |     **| **|  **| **| **| 
-|Whit Merrifield   |BAT BENCH |     12|  5|   5|  0|  1| 
+|Whit Merrifield   |BAT BENCH |     13|  6|   6|  1|  1| 
 
 
 * * *
@@ -33,22 +33,22 @@
 ### Pitchers
 
  
-|players          |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
-|:----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Carlos Carrasco  |SP          |  2| 12.667|  0|  0.000|     14| 1.105|  8|  1|  0| 
-|George Kirby     |SP          |  2|  9.000|  2|  2.000|      7| 0.778| 11|  0|  0| 
-|Miles Mikolas    |SP          |  3| 19.000|  9|  4.263|     20| 1.053| 12|  2|  0| 
-|Nestor Cortes    |SP          |  2| 11.000|  2|  1.636|     13| 1.182| 12|  2|  0| 
-|Noah Syndergaard |SP          |  1|  5.667|  1|  1.588|      8| 1.412|  6|  0|  0| 
-|Shohei Ohtani    |SP          |  2| 12.333|  8|  5.838|     15| 1.216| 22|  0|  0| 
-|Aroldis Chapman  |RP          |  5|  4.333|  3|  6.231|      3| 0.692|  7|  0|  0| 
-|Ryan Pressly     |RP          |  5|  5.000|  2|  3.600|      5| 1.000|  9|  0|  2| 
-|Blake Snell      |OP          |  2| 11.000|  1|  0.818|     11| 1.000| 12|  2|  0| 
-|Braxton Garrett  |OP          |  2| 11.000|  6|  4.909|     11| 1.000| 15|  1|  0| 
-|David Peterson   |OP          |  3|  6.333|  3|  4.263|     11| 1.737| 10|  0|  0| 
-|Gregory Soto     |OP          |  3|  3.000|  0|  0.000|      0| 0.000|  5|  0|  1| 
-|Nathan Eovaldi   |OP          |  2|  8.667| 13| 13.500|     19| 2.192|  4|  0|  0| 
-|Tyler Mahle      |PITCH BENCH |  2| 12.000|  5|  3.750|     10| 0.833| 12|  2|  0| 
+|players          |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
+|:----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
+|Carlos Carrasco  |SP          |  2| 12.667|  0| 0.000|     14| 1.105|  8|  1|  0| 
+|George Kirby     |SP          |  2|  9.000|  2| 2.000|      7| 0.778| 11|  0|  0| 
+|Miles Mikolas    |SP          |  3| 19.000|  9| 4.263|     20| 1.053| 12|  2|  0| 
+|Nestor Cortes    |SP          |  2| 11.000|  2| 1.636|     13| 1.182| 12|  2|  0| 
+|Noah Syndergaard |SP          |  1|  5.667|  1| 1.588|      8| 1.412|  6|  0|  0| 
+|Shohei Ohtani    |SP          |  2| 12.333|  8| 5.838|     15| 1.216| 22|  0|  0| 
+|Aroldis Chapman  |RP          |  6|  5.333|  3| 5.062|      4| 0.750|  8|  0|  0| 
+|Ryan Pressly     |RP          |  5|  5.000|  2| 3.600|      5| 1.000|  9|  0|  2| 
+|Blake Snell      |OP          |  2| 11.000|  1| 0.818|     11| 1.000| 12|  2|  0| 
+|Braxton Garrett  |OP          |  2| 11.000|  6| 4.909|     11| 1.000| 15|  1|  0| 
+|David Peterson   |OP          |  3|  6.333|  3| 4.263|     11| 1.737| 10|  0|  0| 
+|Gregory Soto     |OP          |  4|  4.667|  0| 0.000|      3| 0.643|  6|  0|  1| 
+|Nathan Eovaldi   |OP          |  3| 15.000| 13| 7.800|     25| 1.667| 10|  1|  0| 
+|Tyler Mahle      |PITCH BENCH |  2| 12.000|  5| 3.750|     10| 0.833| 12|  2|  0| 
 
 
 * * *
