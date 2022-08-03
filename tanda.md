@@ -5,25 +5,25 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|MJ Melendez       |C         |     17|  5|   3|  1|  0| 
-|Matt Olson        |1B        |     14|  7|  11|  5|  0| 
+|MJ Melendez       |C         |     18|  6|   3|  1|  0| 
+|Matt Olson        |1B        |     16|  9|  11|  5|  0| 
 |Jazz Chisholm Jr. |2B        |     **| **|  **| **| **| 
-|Eugenio Suarez    |3B        |     15|  3|   2|  0|  0| 
-|Bo Bichette       |SS        |     12|  6|   6|  0|  0| 
-|Francisco Lindor  |MI        |     25|  9|   8|  2|  1| 
-|Kyle Schwarber    |CI        |     10|  5|   9|  5|  0| 
-|Brandon Nimmo     |OF        |     15|  7|   6|  1|  0| 
+|Eugenio Suarez    |3B        |     18|  5|   4|  1|  0| 
+|Bo Bichette       |SS        |     13|  6|   7|  0|  0| 
+|Francisco Lindor  |MI        |     27| 10|   9|  3|  1| 
+|Kyle Schwarber    |CI        |     12|  5|   9|  5|  1| 
+|Brandon Nimmo     |OF        |     16|  7|   6|  1|  0| 
 |Franmil Reyes     |OF        |      9|  3|   2|  1|  1| 
-|Riley Greene      |OF        |     12|  5|   3|  0|  0| 
-|Taylor Ward       |OF        |     13|  5|   1|  1|  1| 
-|Andrew McCutchen  |DH        |     18|  8|   5|  1|  1| 
-|Carlos Santana    |DH        |      9|  2|   6|  2|  0| 
-|Javier Baez       |DH        |     17|  8|   4|  1|  1| 
+|Riley Greene      |OF        |     14|  5|   5|  0|  0| 
+|Taylor Ward       |OF        |     15|  5|   1|  1|  1| 
+|Andrew McCutchen  |DH        |     19|  8|   5|  1|  1| 
+|Carlos Santana    |DH        |     10|  2|   9|  2|  0| 
+|Javier Baez       |DH        |     19|  8|   5|  1|  1| 
 |Jorge Soler       |DH        |      1|  1|   0|  0|  0| 
 |Jon Berti         |BAT BENCH |     **| **|  **| **| **| 
-|Josh Rojas        |BAT BENCH |     18|  4|   3|  1|  4| 
+|Josh Rojas        |BAT BENCH |     19|  4|   3|  1|  5| 
 |Mitch Haniger     |BAT BENCH |     **| **|  **| **| **| 
-|Salvador Perez    |BAT BENCH |      3|  3|   8|  3|  0| 
+|Salvador Perez    |BAT BENCH |      5|  3|   9|  3|  0| 
 |Travis d'Arnaud   |BAT BENCH |      5|  2|   3|  0|  0| 
 
 
@@ -35,7 +35,7 @@
 |players           |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Charlie Morton    |SP          |  2| 11.000|  4| 3.273|     13| 1.182| 12|  0|  0| 
-|Jameson Taillon   |SP          |  3| 14.667|  3| 1.841|     15| 1.023| 15|  1|  0| 
+|Jameson Taillon   |SP          |  4| 19.333|  8| 3.724|     21| 1.086| 21|  1|  0| 
 |Jordan Montgomery |SP          |  3| 12.667| 10| 7.105|     20| 1.579| 17|  0|  0| 
 |Kyle Wright       |SP          |  2| 12.667|  4| 2.842|     14| 1.105| 13|  2|  0| 
 |Max Scherzer      |SP          |  4| 26.000|  6| 2.077|     30| 1.154| 30|  1|  0| 

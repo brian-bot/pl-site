@@ -5,22 +5,22 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |     14|  3|   8|  1|  0| 
-|Jose Abreu        |1B        |     18|  3|   4|  1|  0| 
-|Jonathan Schoop   |2B        |     10|  3|   4|  1|  0| 
-|Manny Machado     |3B        |     14|  9|   6|  3|  0| 
+|Will Smith        |C         |     15|  4|   8|  1|  0| 
+|Jose Abreu        |1B        |     20|  5|   7|  2|  0| 
+|Jonathan Schoop   |2B        |     12|  5|   5|  1|  0| 
+|Manny Machado     |3B        |     17| 11|   7|  3|  0| 
 |Xander Bogaerts   |SS        |     18|  3|   8|  1|  2| 
-|Jose Iglesias     |MI        |     18|  8|   3|  0|  0| 
-|Ke'Bryan Hayes    |CI        |     11|  1|   2|  1|  1| 
-|Eloy Jimenez      |OF        |     12|  5|   3|  3|  0| 
+|Jose Iglesias     |MI        |     24| 10|   4|  0|  0| 
+|Ke'Bryan Hayes    |CI        |     12|  1|   2|  1|  1| 
+|Eloy Jimenez      |OF        |     16|  6|   7|  3|  0| 
 |Ian Happ          |OF        |     14|  5|   5|  0|  0| 
 |Joey Gallo        |OF        |      4|  3|   3|  2|  0| 
 |Luis Robert       |OF        |     **| **|  **| **| **| 
 |Aaron Hicks       |DH        |     18|  5|   5|  0|  0| 
-|Anthony Rizzo     |DH        |     23| 11|   8|  4|  0| 
-|Michael Harris II |DH        |     14|  4|   4|  1|  4| 
-|Shohei Ohtani     |DH        |     19|  7|   6|  3|  1| 
-|Bryan Reynolds    |BAT BENCH |      0|  0|   0|  0|  0| 
+|Anthony Rizzo     |DH        |     26| 13|   9|  5|  0| 
+|Michael Harris II |DH        |     16|  6|   4|  1|  4| 
+|Shohei Ohtani     |DH        |     20|  7|   6|  3|  1| 
+|Bryan Reynolds    |BAT BENCH |      1|  0|   0|  0|  0| 
 |Chris Taylor      |BAT BENCH |     **| **|  **| **| **| 
 |Harrison Bader    |BAT BENCH |     **| **|  **| **| **| 
 |Ji-Man Choi       |BAT BENCH |      7|  1|   6|  1|  0| 
@@ -44,9 +44,9 @@
 |Aroldis Chapman  |RP          |  6|  5.333|  3| 5.062|      4| 0.750|  8|  0|  0| 
 |Ryan Pressly     |RP          |  5|  5.000|  2| 3.600|      5| 1.000|  9|  0|  2| 
 |Blake Snell      |OP          |  2| 11.000|  1| 0.818|     11| 1.000| 12|  2|  0| 
-|Braxton Garrett  |OP          |  2| 11.000|  6| 4.909|     11| 1.000| 15|  1|  0| 
+|Braxton Garrett  |OP          |  3| 16.667|  8| 4.320|     16| 0.960| 26|  1|  0| 
 |David Peterson   |OP          |  3|  6.333|  3| 4.263|     11| 1.737| 10|  0|  0| 
-|Gregory Soto     |OP          |  4|  4.667|  0| 0.000|      3| 0.643|  6|  0|  1| 
+|Gregory Soto     |OP          |  5|  5.667|  0| 0.000|      3| 0.529|  6|  0|  2| 
 |Nathan Eovaldi   |OP          |  3| 15.000| 13| 7.800|     25| 1.667| 10|  1|  0| 
 |Tyler Mahle      |PITCH BENCH |  2| 12.000|  5| 3.750|     10| 0.833| 12|  2|  0| 
 
