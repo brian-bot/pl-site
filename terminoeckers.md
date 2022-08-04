@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Daulton Varsho    |C         |     15|  7|   4|  2|  1| 
-|Freddie Freeman   |1B        |     27| 14|  10|  3|  2| 
+|Daulton Varsho    |C         |     17|  8|   4|  2|  2| 
+|Freddie Freeman   |1B        |     28| 14|  10|  3|  2| 
 |Trea Turner       |2B        |     21| 10|  11|  5|  1| 
-|Wilmer Flores     |3B        |     17| 10|   6|  3|  0| 
-|Jeremy Pena       |SS        |     15|  6|   5|  3|  0| 
+|Wilmer Flores     |3B        |     19| 10|   6|  3|  0| 
+|Jeremy Pena       |SS        |     16|  7|   5|  3|  0| 
 |Nico Hoerner      |MI        |     17|  5|   7|  1|  2| 
 |Luke Voit         |CI        |     18|  7|  12|  3|  0| 
-|Byron Buxton      |OF        |      8|  6|   3|  3|  1| 
-|Christian Yelich  |OF        |     26|  7|   4|  0|  1| 
-|Nick Castellanos  |OF        |     18|  6|   3|  0|  0| 
-|Randy Arozarena   |OF        |     18|  3|   7|  2|  2| 
+|Byron Buxton      |OF        |     10|  8|   3|  3|  1| 
+|Christian Yelich  |OF        |     29| 10|   4|  0|  2| 
+|Nick Castellanos  |OF        |     20|  7|   5|  1|  0| 
+|Randy Arozarena   |OF        |     19|  4|   7|  2|  2| 
 |Christopher Morel |DH        |     15|  5|   4|  0|  2| 
-|Hunter Renfroe    |DH        |     17|  8|  16|  6|  0| 
+|Hunter Renfroe    |DH        |     18|  8|  16|  6|  0| 
 |Josh Donaldson    |DH        |     13|  6|   4|  1|  0| 
 |Leody Taveras     |DH        |     21|  8|   4|  0|  1| 
-|Joey Votto        |BAT BENCH |     19|  5|   8|  4|  0| 
+|Joey Votto        |BAT BENCH |     21|  5|   8|  4|  0| 
 |Seiya Suzuki      |BAT BENCH |     15|  5|   4|  2|  1| 
-|Tommy Pham        |BAT BENCH |     11|  5|   3|  0|  0| 
+|Tommy Pham        |BAT BENCH |     12|  5|   3|  0|  0| 
 |Ty France         |BAT BENCH |     20|  6|   5|  3|  0| 
 
 
@@ -34,9 +34,9 @@
 |players          |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Dylan Cease      |SP          |  3| 19.000|  1|  0.474|     16| 0.842| 19|  3|  0| 
-|Julio Urias      |SP          |  3| 20.000|  3|  1.350|     13| 0.650| 17|  3|  0| 
+|Julio Urias      |SP          |  4| 26.000|  3|  1.038|     20| 0.769| 23|  4|  0| 
 |Reid Detmers     |SP          |  2| 12.000|  1|  0.750|     11| 0.917| 18|  1|  0| 
-|Sandy Alcantara  |SP          |  2| 11.000|  6|  4.909|     16| 1.455| 15|  0|  0| 
+|Sandy Alcantara  |SP          |  3| 20.000|  6|  2.700|     23| 1.150| 18|  1|  0| 
 |Shane McClanahan |SP          |  2| 11.333|  7|  5.559|     13| 1.147| 11|  0|  0| 
 |Yu Darvish       |SP          |  3| 20.000|  6|  2.700|     20| 1.000| 27|  2|  0| 
 |Clay Holmes      |RP          |  4|  4.333|  3|  6.231|      6| 1.385|  4|  1|  1| 
