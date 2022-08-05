@@ -6,23 +6,23 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Daulton Varsho    |C         |     17|  8|   4|  2|  2| 
-|Freddie Freeman   |1B        |     28| 14|  10|  3|  2| 
-|Trea Turner       |2B        |     21| 10|  11|  5|  1| 
-|Wilmer Flores     |3B        |     19| 10|   6|  3|  0| 
-|Jeremy Pena       |SS        |     16|  7|   5|  3|  0| 
-|Nico Hoerner      |MI        |     17|  5|   7|  1|  2| 
-|Luke Voit         |CI        |     18|  7|  12|  3|  0| 
-|Byron Buxton      |OF        |     10|  8|   3|  3|  1| 
+|Freddie Freeman   |1B        |     29| 14|  10|  3|  2| 
+|Trea Turner       |2B        |     22| 11|  12|  6|  1| 
+|Wilmer Flores     |3B        |     20| 10|   6|  3|  0| 
+|Jeremy Pena       |SS        |     18|  7|   5|  3|  0| 
+|Nico Hoerner      |MI        |     19|  5|   7|  1|  3| 
+|Luke Voit         |CI        |     20|  8|  13|  3|  0| 
+|Byron Buxton      |OF        |     11|  8|   3|  3|  1| 
 |Christian Yelich  |OF        |     29| 10|   4|  0|  2| 
 |Nick Castellanos  |OF        |     20|  7|   5|  1|  0| 
-|Randy Arozarena   |OF        |     19|  4|   7|  2|  2| 
+|Randy Arozarena   |OF        |     23|  4|   9|  2|  3| 
 |Christopher Morel |DH        |     15|  5|   4|  0|  2| 
-|Hunter Renfroe    |DH        |     18|  8|  16|  6|  0| 
+|Hunter Renfroe    |DH        |     19|  9|  16|  6|  0| 
 |Josh Donaldson    |DH        |     13|  6|   4|  1|  0| 
-|Leody Taveras     |DH        |     21|  8|   4|  0|  1| 
+|Leody Taveras     |DH        |     23|  9|   5|  0|  1| 
 |Joey Votto        |BAT BENCH |     21|  5|   8|  4|  0| 
-|Seiya Suzuki      |BAT BENCH |     15|  5|   4|  2|  1| 
-|Tommy Pham        |BAT BENCH |     12|  5|   3|  0|  0| 
+|Seiya Suzuki      |BAT BENCH |     17|  6|   5|  2|  2| 
+|Tommy Pham        |BAT BENCH |     13|  6|   3|  0|  0| 
 |Ty France         |BAT BENCH |     20|  6|   5|  3|  0| 
 
 
@@ -40,7 +40,7 @@
 |Shane McClanahan |SP          |  2| 11.333|  7|  5.559|     13| 1.147| 11|  0|  0| 
 |Yu Darvish       |SP          |  3| 20.000|  6|  2.700|     20| 1.000| 27|  2|  0| 
 |Clay Holmes      |RP          |  4|  4.333|  3|  6.231|      6| 1.385|  4|  1|  1| 
-|Ryan Helsley     |RP          |  3|  3.333|  0|  0.000|      0| 0.000|  7|  0|  1| 
+|Ryan Helsley     |RP          |  4|  4.333|  0|  0.000|      1| 0.231|  9|  1|  1| 
 |Andres Munoz     |OP          |  6|  5.667|  2|  3.176|      5| 0.882|  7|  0|  1| 
 |Brett Martin     |OP          |  6|  7.000|  8| 10.286|     15| 2.143|  5|  0|  0| 
 |Josiah Gray      |OP          |  2| 10.000|  7|  6.300|     14| 1.400| 12|  0|  0| 

@@ -6,22 +6,22 @@
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
 |Adley Rutschman       |C         |     31| 11|   6|  1|  0| 
-|Jared Walsh           |1B        |     13|  4|   0|  0|  0| 
-|Jorge Polanco         |2B        |     18|  5|   4|  1|  0| 
+|Jared Walsh           |1B        |     14|  5|   1|  1|  0| 
+|Jorge Polanco         |2B        |     20|  6|   4|  1|  0| 
 |Spencer Torkelson     |3B        |      0|  0|   0|  0|  0| 
-|Carlos Correa         |SS        |     14|  7|   6|  3|  0| 
-|Oneil Cruz            |MI        |     13|  7|  11|  4|  2| 
+|Carlos Correa         |SS        |     15|  8|   6|  3|  0| 
+|Oneil Cruz            |MI        |     15|  7|  11|  4|  2| 
 |C.J. Cron             |CI        |     15|  4|   3|  1|  0| 
 |Mike Trout            |OF        |     **| **|  **| **| **| 
-|Ronald Acuna Jr.      |OF        |     15|  3|   2|  0|  2| 
+|Ronald Acuna Jr.      |OF        |     16|  4|   4|  1|  2| 
 |Ryan Mountcastle      |OF        |     12|  3|   8|  0|  0| 
-|Starling Marte        |OF        |     20|  8|   7|  2|  2| 
+|Starling Marte        |OF        |     21|  9|   7|  2|  2| 
 |Alek Thomas           |DH        |     18|  6|   7|  1|  0| 
-|Gavin Lux             |DH        |     21|  7|  10|  0|  1| 
+|Gavin Lux             |DH        |     23|  8|  11|  0|  1| 
 |Giancarlo Stanton     |DH        |      3|  3|   0|  0|  0| 
 |Mitch Garver          |DH        |     **| **|  **| **| **| 
 |Bryce Harper          |BAT BENCH |     **| **|  **| **| **| 
-|Christian Bethancourt |BAT BENCH |      3|  0|   0|  0|  0| 
+|Christian Bethancourt |BAT BENCH |      4|  1|   0|  0|  0| 
 |Jack Suwinski         |BAT BENCH |     **| **|  **| **| **| 
 |Kyle Farmer           |BAT BENCH |     12|  8|   4|  0|  0| 
 |Tyler Stephenson      |BAT BENCH |      0|  0|   0|  0|  0| 
@@ -38,16 +38,16 @@
 |Keegan Thompson   |SP          |  2| 11.667|  5| 3.857|     16| 1.371|  8|  1|  0| 
 |Lance Lynn        |SP          |  4| 22.667| 11| 4.368|     21| 0.926| 28|  1|  0| 
 |Shane Bieber      |SP          |  3| 19.000|  9| 4.263|     20| 1.053| 20|  2|  0| 
-|Sonny Gray        |SP          |  2| 11.000|  2| 1.636|      9| 0.818| 12|  2|  0| 
+|Sonny Gray        |SP          |  3| 16.000|  2| 1.125|     15| 0.938| 17|  2|  0| 
 |Tony Gonsolin     |SP          |  2| 11.000|  7| 5.727|     15| 1.364| 10|  1|  0| 
 |Tyler Anderson    |SP          |  3| 18.000|  5| 2.500|     20| 1.111| 13|  2|  0| 
-|Giovanny Gallegos |RP          |  3|  3.333|  0| 0.000|      3| 0.900|  3|  0|  0| 
-|Scott Barlow      |RP          |  6|  7.000|  3| 3.857|     11| 1.571|  5|  1|  1| 
-|Marcus Stroman    |OP          |  3| 16.333|  2| 1.102|     19| 1.163| 14|  1|  0| 
-|Nick Martinez     |OP          |  5|  4.333|  1| 2.077|      5| 1.154|  3|  0|  1| 
+|Giovanny Gallegos |RP          |  4|  4.333|  0| 0.000|      3| 0.692|  4|  0|  0| 
+|Scott Barlow      |RP          |  7|  8.000|  3| 3.375|     12| 1.500|  5|  1|  1| 
+|Marcus Stroman    |OP          |  4| 23.000|  5| 1.957|     24| 1.043| 20|  1|  0| 
+|Nick Martinez     |OP          |  6|  6.667|  1| 1.350|      8| 1.200|  4|  0|  1| 
 |Tanner Houck      |OP          |  6|  6.667|  2| 2.700|      6| 0.900|  3|  0|  2| 
 |Trevor Stephan    |OP          |  6|  6.000|  0| 0.000|     10| 1.667| 11|  1|  0| 
-|Zach Jackson      |OP          |  8|  5.667|  1| 1.588|      2| 0.353|  8|  0|  2| 
+|Zach Jackson      |OP          |  9|  6.333|  2| 2.842|      4| 0.632| 10|  0|  2| 
 |Joe Barlow        |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 
 

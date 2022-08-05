@@ -5,27 +5,27 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |     15|  4|   8|  1|  0| 
-|Jose Abreu        |1B        |     22|  6|  10|  3|  0| 
+|Will Smith        |C         |     17|  4|   8|  1|  0| 
+|Jose Abreu        |1B        |     24|  7|  10|  3|  0| 
 |Jonathan Schoop   |2B        |     12|  5|   5|  1|  0| 
-|Manny Machado     |3B        |     20| 13|   8|  4|  0| 
+|Manny Machado     |3B        |     22| 13|   9|  4|  0| 
 |Xander Bogaerts   |SS        |     19|  4|   9|  2|  2| 
-|Jose Iglesias     |MI        |     24| 10|   4|  0|  0| 
-|Ke'Bryan Hayes    |CI        |     14|  1|   5|  1|  1| 
+|Jose Iglesias     |MI        |     27| 11|   6|  0|  0| 
+|Ke'Bryan Hayes    |CI        |     15|  1|   5|  1|  1| 
 |Eloy Jimenez      |OF        |     19|  7|   7|  3|  0| 
 |Ian Happ          |OF        |     14|  5|   5|  0|  0| 
-|Joey Gallo        |OF        |      4|  3|   3|  2|  0| 
-|Luis Robert       |OF        |     **| **|  **| **| **| 
+|Joey Gallo        |OF        |      5|  3|   3|  2|  0| 
+|Luis Robert       |OF        |      3|  1|   0|  0|  0| 
 |Aaron Hicks       |DH        |     18|  5|   5|  0|  0| 
 |Anthony Rizzo     |DH        |     26| 13|   9|  5|  0| 
-|Michael Harris II |DH        |     16|  6|   4|  1|  4| 
-|Shohei Ohtani     |DH        |     20|  7|   6|  3|  1| 
-|Bryan Reynolds    |BAT BENCH |      5|  3|   1|  1|  0| 
+|Michael Harris II |DH        |     18|  7|   6|  1|  5| 
+|Shohei Ohtani     |DH        |     23|  9|   8|  5|  1| 
+|Bryan Reynolds    |BAT BENCH |      8|  4|   2|  1|  0| 
 |Chris Taylor      |BAT BENCH |     **| **|  **| **| **| 
 |Harrison Bader    |BAT BENCH |     **| **|  **| **| **| 
-|Ji-Man Choi       |BAT BENCH |      7|  1|   6|  1|  0| 
+|Ji-Man Choi       |BAT BENCH |     11|  2|   6|  1|  0| 
 |Michael Brantley  |BAT BENCH |     **| **|  **| **| **| 
-|Whit Merrifield   |BAT BENCH |     13|  6|   6|  1|  1| 
+|Whit Merrifield   |BAT BENCH |     15|  7|   7|  1|  1| 
 
 
 * * *
@@ -35,11 +35,11 @@
  
 |players          |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Carlos Carrasco  |SP          |  2| 12.667|  0| 0.000|     14| 1.105|  8|  1|  0| 
+|Carlos Carrasco  |SP          |  3| 18.667|  3| 1.446|     19| 1.018| 14|  2|  0| 
 |George Kirby     |SP          |  2|  9.000|  2| 2.000|      7| 0.778| 11|  0|  0| 
-|Miles Mikolas    |SP          |  3| 19.000|  9| 4.263|     20| 1.053| 12|  2|  0| 
+|Miles Mikolas    |SP          |  4| 25.333| 12| 4.263|     29| 1.145| 18|  2|  0| 
 |Nestor Cortes    |SP          |  2| 11.000|  2| 1.636|     13| 1.182| 12|  2|  0| 
-|Noah Syndergaard |SP          |  1|  5.667|  1| 1.588|      8| 1.412|  6|  0|  0| 
+|Noah Syndergaard |SP          |  2| 10.667|  5| 4.219|     19| 1.781|  8|  1|  0| 
 |Shohei Ohtani    |SP          |  3| 18.000| 10| 5.000|     23| 1.278| 29|  0|  0| 
 |Aroldis Chapman  |RP          |  6|  5.333|  3| 5.062|      4| 0.750|  8|  0|  0| 
 |Ryan Pressly     |RP          |  5|  5.000|  2| 3.600|      5| 1.000|  9|  0|  2| 
