@@ -6,23 +6,23 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Gary Sanchez      |C         |     10|  1|   4|  0|  1| 
-|Rhys Hoskins      |1B        |     21|  8|   7|  3|  1| 
-|Brendan Rodgers   |2B        |     29| 11|   4|  1|  0| 
+|Rhys Hoskins      |1B        |     24| 10|   8|  4|  1| 
+|Brendan Rodgers   |2B        |     30| 12|   4|  1|  0| 
 |Ryan McMahon      |3B        |     19|  2|   8|  2|  2| 
-|Marcus Semien     |SS        |     24|  8|  10|  3|  3| 
-|Gleyber Torres    |MI        |     12|  4|   6|  2|  0| 
-|Rowdy Tellez      |CI        |     23|  8|  13|  4|  0| 
-|Cedric Mullins    |OF        |     20| 10|   9|  2|  5| 
-|Garrett Cooper    |OF        |      4|  0|   2|  0|  0| 
+|Marcus Semien     |SS        |     25|  8|  10|  3|  3| 
+|Gleyber Torres    |MI        |     13|  4|   7|  2|  0| 
+|Rowdy Tellez      |CI        |     25|  9|  15|  5|  1| 
+|Cedric Mullins    |OF        |     22| 10|   9|  2|  6| 
+|Garrett Cooper    |OF        |      5|  0|   2|  0|  0| 
 |Joc Pederson      |OF        |      4|  1|   1|  0|  0| 
 |Mike Yastrzemski  |OF        |      6|  3|   0|  0|  0| 
 |Andres Gimenez    |DH        |     25|  9|   7|  2|  4| 
-|Connor Joe        |DH        |      3|  2|   1|  0|  0| 
-|Jose Miranda      |DH        |     21| 10|  12|  2|  1| 
-|Teoscar Hernandez |DH        |     19| 11|  10|  4|  0| 
-|Eduardo Escobar   |BAT BENCH |      9|  4|   3|  2|  0| 
-|Myles Straw       |BAT BENCH |     13|  6|   7|  0|  0| 
-|Randal Grichuk    |BAT BENCH |     18|  4|  12|  1|  1| 
+|Connor Joe        |DH        |      4|  2|   1|  0|  0| 
+|Jose Miranda      |DH        |     23| 11|  13|  2|  1| 
+|Teoscar Hernandez |DH        |     20| 11|  10|  4|  0| 
+|Eduardo Escobar   |BAT BENCH |     10|  4|   4|  2|  0| 
+|Myles Straw       |BAT BENCH |     14|  6|   8|  0|  0| 
+|Randal Grichuk    |BAT BENCH |     21|  6|  13|  2|  1| 
 
 
 * * *
@@ -36,7 +36,7 @@
 |Corbin Burnes  |SP          |  3| 16.333|  9| 4.959|     21| 1.286| 22|  1|  0| 
 |Logan Webb     |SP          |  4| 23.333| 13| 5.014|     32| 1.371| 14|  1|  0| 
 |Michael Wacha  |SP          | **|     **| **|    **|     **|    **| **| **| **| 
-|Taijuan Walker |SP          |  3| 17.667|  7| 3.566|     23| 1.302| 12|  2|  0| 
+|Taijuan Walker |SP          |  4| 18.667| 15| 7.232|     30| 1.607| 12|  2|  0| 
 |Tyler Wells    |SP          |  2|  9.333|  9| 8.679|     13| 1.393|  9|  0|  0| 
 |Mark Melancon  |RP          |  6|  6.000|  1| 1.500|      9| 1.500|  5|  0|  2| 
 |Michael King   |RP          |  2|  1.667|  1| 5.400|      4| 2.400|  2|  0|  0| 

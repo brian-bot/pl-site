@@ -5,25 +5,25 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman       |C         |     31| 11|   6|  1|  0| 
+|Adley Rutschman       |C         |     33| 11|   6|  1|  1| 
 |Jared Walsh           |1B        |     14|  5|   1|  1|  0| 
-|Jorge Polanco         |2B        |     20|  6|   4|  1|  0| 
+|Jorge Polanco         |2B        |     22|  7|   4|  1|  0| 
 |Spencer Torkelson     |3B        |      0|  0|   0|  0|  0| 
-|Carlos Correa         |SS        |     15|  8|   6|  3|  0| 
+|Carlos Correa         |SS        |     17|  9|   6|  3|  0| 
 |Oneil Cruz            |MI        |     15|  7|  11|  4|  2| 
-|C.J. Cron             |CI        |     15|  4|   3|  1|  0| 
+|C.J. Cron             |CI        |     16|  4|   3|  1|  0| 
 |Mike Trout            |OF        |     **| **|  **| **| **| 
-|Ronald Acuna Jr.      |OF        |     16|  4|   4|  1|  2| 
-|Ryan Mountcastle      |OF        |     12|  3|   8|  0|  0| 
-|Starling Marte        |OF        |     21|  9|   7|  2|  2| 
-|Alek Thomas           |DH        |     18|  6|   7|  1|  0| 
+|Ronald Acuna Jr.      |OF        |     20|  5|   4|  1|  3| 
+|Ryan Mountcastle      |OF        |     14|  3|   8|  0|  0| 
+|Starling Marte        |OF        |     22|  9|   7|  2|  2| 
+|Alek Thomas           |DH        |     20|  6|   7|  1|  0| 
 |Gavin Lux             |DH        |     23|  8|  11|  0|  1| 
 |Giancarlo Stanton     |DH        |      3|  3|   0|  0|  0| 
 |Mitch Garver          |DH        |     **| **|  **| **| **| 
 |Bryce Harper          |BAT BENCH |     **| **|  **| **| **| 
 |Christian Bethancourt |BAT BENCH |      4|  1|   0|  0|  0| 
 |Jack Suwinski         |BAT BENCH |     **| **|  **| **| **| 
-|Kyle Farmer           |BAT BENCH |     12|  8|   4|  0|  0| 
+|Kyle Farmer           |BAT BENCH |     14|  8|   5|  0|  0| 
 |Tyler Stephenson      |BAT BENCH |      0|  0|   0|  0|  0| 
 |Wander Franco         |BAT BENCH |     **| **|  **| **| **| 
 
@@ -39,7 +39,7 @@
 |Lance Lynn        |SP          |  4| 22.667| 11| 4.368|     21| 0.926| 28|  1|  0| 
 |Shane Bieber      |SP          |  3| 19.000|  9| 4.263|     20| 1.053| 20|  2|  0| 
 |Sonny Gray        |SP          |  3| 16.000|  2| 1.125|     15| 0.938| 17|  2|  0| 
-|Tony Gonsolin     |SP          |  2| 11.000|  7| 5.727|     15| 1.364| 10|  1|  0| 
+|Tony Gonsolin     |SP          |  3| 16.000|  7| 3.938|     19| 1.188| 16|  2|  0| 
 |Tyler Anderson    |SP          |  3| 18.000|  5| 2.500|     20| 1.111| 13|  2|  0| 
 |Giovanny Gallegos |RP          |  4|  4.333|  0| 0.000|      3| 0.692|  4|  0|  0| 
 |Scott Barlow      |RP          |  7|  8.000|  3| 3.375|     12| 1.500|  5|  1|  1| 
