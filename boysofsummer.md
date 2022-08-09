@@ -5,25 +5,23 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Willson Contreras   |C         |     22|  7|   7|  3|  0| 
-|Paul Goldschmidt    |1B        |     24| 11|  17|  7|  0| 
-|Jose Altuve         |2B        |     30| 13|   5|  2|  1| 
-|Jose Ramirez        |3B        |     24| 10|  17|  4|  1| 
-|Tim Anderson        |SS        |     19|  8|   3|  0|  2| 
-|Esteury Ruiz        |MI        |      1|  0|   0|  0|  0| 
-|Austin Riley        |CI        |     32| 12|   9|  3|  0| 
-|Alex Kirilloff      |OF        |      5|  2|   1|  0|  0| 
-|Jesse Winker        |OF        |     26|  8|   7|  3|  0| 
-|Lourdes Gurriel Jr. |OF        |     30| 11|   9|  0|  0| 
-|Mookie Betts        |OF        |     32| 16|  12|  5|  2| 
-|Andrew Benintendi   |DH        |     23|  7|   4|  0|  4| 
-|Harold Ramirez      |DH        |      3|  1|   0|  0|  0| 
-|Matt Carpenter      |DH        |     23|  9|  13|  4|  0| 
-|William Contreras   |DH        |     13|  7|   6|  4|  0| 
-|Austin Hays         |BAT BENCH |     13|  6|   2|  1|  1| 
-|J.P. Crawford       |BAT BENCH |     22|  5|   3|  0|  0| 
-|Jeff McNeil         |BAT BENCH |     23|  8|   7|  2|  0| 
-|Marcell Ozuna       |BAT BENCH |     11|  7|   5|  2|  0| 
+|Willson Contreras   |C         |      2|  0|   1|  0|  1| 
+|Paul Goldschmidt    |1B        |     **| **|  **| **| **| 
+|Jose Altuve         |2B        |     **| **|  **| **| **| 
+|Jose Ramirez        |3B        |     **| **|  **| **| **| 
+|Tim Anderson        |SS        |     **| **|  **| **| **| 
+|Mookie Betts        |MI        |     **| **|  **| **| **| 
+|Austin Riley        |CI        |     **| **|  **| **| **| 
+|Austin Hays         |OF        |      2|  1|   1|  1|  0| 
+|Jesse Winker        |OF        |      0|  0|   0|  0|  0| 
+|Lourdes Gurriel Jr. |OF        |     **| **|  **| **| **| 
+|Marcell Ozuna       |OF        |     **| **|  **| **| **| 
+|Andrew Benintendi   |DH        |      3|  1|   3|  0|  0| 
+|Leody Taveras       |DH        |     **| **|  **| **| **| 
+|Matt Carpenter      |DH        |      0|  0|   0|  0|  0| 
+|William Contreras   |DH        |     **| **|  **| **| **| 
+|Esteury Ruiz        |BAT BENCH |     **| **|  **| **| **| 
+|Jeff McNeil         |BAT BENCH |      2|  1|   0|  0|  0| 
 |Trevor Story        |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -32,22 +30,24 @@
 ### Pitchers
 
  
-|players          |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
-|:----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Brady Singer     |SP          |  3| 19.000|  5|  2.368|     19| 1.000| 25|  0|  0| 
-|Chris Sale       |SP          |  1|  0.667|  2| 27.000|      2| 3.000|  0|  0|  0| 
-|Frankie Montas   |SP          |  3| 11.000|  8|  6.545|     22| 2.000| 11|  1|  0| 
-|Pablo Lopez      |SP          |  4| 19.667| 16|  7.322|     33| 1.678| 24|  1|  0| 
-|Tarik Skubal     |SP          |  3| 17.000|  0|  0.000|     15| 0.882| 15|  1|  0| 
-|Zack Wheeler     |SP          |  3| 21.000|  4|  1.714|     14| 0.667| 21|  2|  0| 
-|Edwin Diaz       |RP          |  8|  9.000|  0|  0.000|      2| 0.222| 18|  0|  7| 
-|Josh Hader       |RP          |  5|  5.000|  1|  1.800|      4| 0.800|  8|  2|  2| 
-|Johnny Cueto     |OP          |  3| 22.000|  8|  3.273|     27| 1.227|  6|  0|  0| 
-|Jorge Lopez      |OP          |  8|  9.000|  2|  2.000|     11| 1.222|  9|  1|  3| 
-|Martin Perez     |OP          |  3| 20.000|  3|  1.350|     20| 1.000| 21|  2|  0| 
-|Merrill Kelly    |OP          |  4| 28.000|  3|  0.964|     22| 0.786| 25|  2|  0| 
-|Raisel Iglesias  |OP          |  6|  5.667|  0|  0.000|      6| 1.059|  5|  0|  1| 
-|Garrett Whitlock |PITCH BENCH |  6| 10.667|  2|  1.688|      7| 0.656|  9|  0|  2| 
+|players          |position    |  g| ip| er| era| hitsbb| whip| so|  w| sv| 
+|:----------------|:-----------|--:|--:|--:|---:|------:|----:|--:|--:|--:| 
+|Brady Singer     |SP          | **| **| **|  **|     **|   **| **| **| **| 
+|Frankie Montas   |SP          | **| **| **|  **|     **|   **| **| **| **| 
+|Kyle Gibson      |SP          | **| **| **|  **|     **|   **| **| **| **| 
+|Martin Perez     |SP          | **| **| **|  **|     **|   **| **| **| **| 
+|Pablo Lopez      |SP          | **| **| **|  **|     **|   **| **| **| **| 
+|Zack Wheeler     |SP          | **| **| **|  **|     **|   **| **| **| **| 
+|Edwin Diaz       |RP          | **| **| **|  **|     **|   **| **| **| **| 
+|Josh Hader       |RP          |  1|  1|  0|   0|      1|    1|  2|  0|  0| 
+|Garrett Whitlock |OP          | **| **| **|  **|     **|   **| **| **| **| 
+|Johnny Cueto     |OP          | **| **| **|  **|     **|   **| **| **| **| 
+|Jorge Lopez      |OP          | **| **| **|  **|     **|   **| **| **| **| 
+|Merrill Kelly    |OP          | **| **| **|  **|     **|   **| **| **| **| 
+|Michael Kopech   |OP          | **| **| **|  **|     **|   **| **| **| **| 
+|Nick Pivetta     |PITCH BENCH | **| **| **|  **|     **|   **| **| **| **| 
+|Raisel Iglesias  |PITCH BENCH | **| **| **|  **|     **|   **| **| **| **| 
+|Tarik Skubal     |PITCH BENCH | **| **| **|  **|     **|   **| **| **| **| 
 
 
 * * *
