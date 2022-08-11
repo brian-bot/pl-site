@@ -6,22 +6,22 @@
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Willson Contreras   |C         |      4|  1|   2|  0|  1| 
-|Paul Goldschmidt    |1B        |      1|  0|   0|  0|  0| 
-|Jose Altuve         |2B        |      2|  2|   1|  0|  1| 
-|Jose Ramirez        |3B        |      1|  0|   0|  0|  0| 
+|Paul Goldschmidt    |1B        |      3|  1|   0|  0|  0| 
+|Jose Altuve         |2B        |      4|  2|   1|  0|  1| 
+|Jose Ramirez        |3B        |      2|  0|   1|  0|  0| 
 |Tim Anderson        |SS        |     **| **|  **| **| **| 
-|Mookie Betts        |MI        |      2|  1|   0|  0|  1| 
-|Austin Riley        |CI        |      3|  1|   5|  1|  0| 
+|Mookie Betts        |MI        |      3|  2|   0|  0|  1| 
+|Austin Riley        |CI        |      4|  2|   5|  1|  0| 
 |Austin Hays         |OF        |      3|  2|   1|  1|  0| 
 |Jesse Winker        |OF        |      0|  0|   0|  0|  0| 
 |Lourdes Gurriel Jr. |OF        |      0|  0|   0|  0|  0| 
-|Marcell Ozuna       |OF        |      0|  0|   0|  0|  0| 
+|Marcell Ozuna       |OF        |      1|  1|   4|  1|  0| 
 |Andrew Benintendi   |DH        |      4|  1|   3|  0|  1| 
-|Leody Taveras       |DH        |      0|  0|   0|  0|  0| 
+|Leody Taveras       |DH        |      2|  1|   5|  0|  0| 
 |Matt Carpenter      |DH        |      0|  0|   0|  0|  0| 
-|William Contreras   |DH        |      2|  0|   1|  0|  0| 
+|William Contreras   |DH        |      4|  1|   1|  0|  0| 
 |Esteury Ruiz        |BAT BENCH |     **| **|  **| **| **| 
-|Jeff McNeil         |BAT BENCH |      4|  2|   2|  1|  0| 
+|Jeff McNeil         |BAT BENCH |      5|  2|   4|  1|  0| 
 |Trevor Story        |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -41,12 +41,12 @@
 |Edwin Diaz       |RP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Josh Hader       |RP          |  2| 1.667|  3| 16.200|      5| 3.000|  3|  0|  0| 
 |Garrett Whitlock |OP          |  1| 2.000|  1|  4.500|      2| 1.000|  1|  0|  0| 
-|Johnny Cueto     |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Johnny Cueto     |OP          |  1| 6.000|  2|  3.000|     10| 1.667|  4|  0|  0| 
 |Jorge Lopez      |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Merrill Kelly    |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Michael Kopech   |OP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Nick Pivetta     |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
-|Raisel Iglesias  |PITCH BENCH |  1| 1.000|  1|  9.000|      2| 2.000|  3|  0|  0| 
+|Nick Pivetta     |PITCH BENCH |  1| 6.000|  3|  4.500|      7| 1.167|  5|  0|  0| 
+|Raisel Iglesias  |PITCH BENCH |  2| 2.000|  1|  4.500|      2| 1.000|  4|  0|  0| 
 |Tarik Skubal     |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 
 
