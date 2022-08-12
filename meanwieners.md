@@ -7,18 +7,18 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Alejandro Kirk    |C         |      5|  1|   1|  0|  0| 
 |Josh Bell         |1B        |      5|  3|   1|  0|  0| 
-|Jorge Mateo       |2B        |      1|  0|   0|  0|  0| 
+|Jorge Mateo       |2B        |      2|  0|   0|  0|  1| 
 |Rafael Devers     |3B        |      2|  0|   0|  0|  0| 
-|Bobby Witt Jr.    |SS        |      3|  1|   1|  0|  0| 
+|Bobby Witt Jr.    |SS        |      4|  3|   1|  0|  1| 
 |Willy Adames      |MI        |      4|  1|   1|  0|  1| 
-|Patrick Wisdom    |CI        |      2|  1|   0|  0|  0| 
+|Patrick Wisdom    |CI        |      5|  2|   0|  0|  1| 
 |Aaron Judge       |OF        |      9|  3|   2|  2|  0| 
 |Anthony Santander |OF        |      6|  2|   1|  1|  0| 
 |Seth Brown        |OF        |      4|  0|   0|  0|  0| 
 |Tyler O'Neill     |OF        |      1|  1|   1|  0|  0| 
 |Brandon Drury     |DH        |      3|  2|   4|  1|  0| 
 |Brandon Lowe      |DH        |      0|  0|   0|  0|  0| 
-|Christian Walker  |DH        |      7|  2|   2|  0|  0| 
+|Christian Walker  |DH        |      9|  3|   2|  0|  0| 
 |Sean Murphy       |DH        |      0|  0|   0|  0|  0| 
 |Luis Urias        |BAT BENCH |      3|  1|   0|  0|  0| 
 |Trent Grisham     |BAT BENCH |      3|  1|   1|  0|  0| 

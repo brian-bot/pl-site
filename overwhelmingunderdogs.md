@@ -6,21 +6,21 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Keibert Ruiz     |C         |      4|  2|   4|  2|  0| 
-|Hunter Dozier    |1B        |      2|  0|   0|  0|  0| 
+|Hunter Dozier    |1B        |      3|  0|   0|  0|  0| 
 |Max Muncy        |2B        |      3|  2|   3|  2|  0| 
-|Alex Bregman     |3B        |      5|  4|   0|  0|  0| 
-|Corey Seager     |SS        |      5|  2|   3|  1|  0| 
+|Alex Bregman     |3B        |      9|  5|   3|  1|  0| 
+|Corey Seager     |SS        |      6|  3|   3|  1|  0| 
 |DJ LeMahieu      |MI        |      3|  1|   0|  0|  0| 
 |Justin Turner    |CI        |      3|  0|   1|  0|  0| 
-|Adolis Garcia    |OF        |      6|  3|   1|  1|  1| 
-|Charlie Blackmon |OF        |      2|  1|   1|  0|  0| 
+|Adolis Garcia    |OF        |      7|  3|   1|  1|  1| 
+|Charlie Blackmon |OF        |      4|  2|   2|  0|  0| 
 |Juan Soto        |OF        |      6|  4|   1|  1|  0| 
 |Mark Canha       |OF        |      5|  3|   0|  0|  0| 
 |Brandon Belt     |DH        |      3|  0|   1|  0|  0| 
 |Daniel Vogelbach |DH        |      4|  1|   4|  0|  0| 
 |Julio Rodriguez  |DH        |     **| **|  **| **| **| 
 |Tommy Edman      |DH        |      3|  1|   0|  0|  1| 
-|Brendan Donovan  |BAT BENCH |      0|  0|   0|  0|  0| 
+|Brendan Donovan  |BAT BENCH |      1|  1|   0|  0|  0| 
 |C.J. Abrams      |BAT BENCH |     **| **|  **| **| **| 
 |Kris Bryant      |BAT BENCH |     **| **|  **| **| **| 
 |Ozzie Albies     |BAT BENCH |     **| **|  **| **| **| 
