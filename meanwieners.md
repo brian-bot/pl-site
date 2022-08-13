@@ -6,22 +6,22 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Alejandro Kirk    |C         |      5|  1|   1|  0|  0| 
-|Josh Bell         |1B        |      5|  3|   1|  0|  0| 
-|Jorge Mateo       |2B        |      2|  0|   0|  0|  1| 
-|Rafael Devers     |3B        |      2|  0|   0|  0|  0| 
+|Josh Bell         |1B        |      6|  3|   1|  0|  0| 
+|Jorge Mateo       |2B        |      7|  2|   2|  0|  1| 
+|Rafael Devers     |3B        |      4|  0|   0|  0|  0| 
 |Bobby Witt Jr.    |SS        |      4|  3|   1|  0|  1| 
-|Willy Adames      |MI        |      4|  1|   1|  0|  1| 
+|Willy Adames      |MI        |      6|  1|   1|  0|  1| 
 |Patrick Wisdom    |CI        |      5|  2|   0|  0|  1| 
-|Aaron Judge       |OF        |      9|  3|   2|  2|  0| 
-|Anthony Santander |OF        |      6|  2|   1|  1|  0| 
+|Aaron Judge       |OF        |     13|  5|   3|  3|  1| 
+|Anthony Santander |OF        |      9|  4|   1|  1|  0| 
 |Seth Brown        |OF        |      4|  0|   0|  0|  0| 
-|Tyler O'Neill     |OF        |      1|  1|   1|  0|  0| 
-|Brandon Drury     |DH        |      3|  2|   4|  1|  0| 
+|Tyler O'Neill     |OF        |      2|  1|   1|  0|  0| 
+|Brandon Drury     |DH        |      7|  5|   6|  2|  0| 
 |Brandon Lowe      |DH        |      0|  0|   0|  0|  0| 
-|Christian Walker  |DH        |      9|  3|   2|  0|  0| 
-|Sean Murphy       |DH        |      0|  0|   0|  0|  0| 
-|Luis Urias        |BAT BENCH |      3|  1|   0|  0|  0| 
-|Trent Grisham     |BAT BENCH |      3|  1|   1|  0|  0| 
+|Christian Walker  |DH        |     11|  4|   2|  0|  0| 
+|Sean Murphy       |DH        |      3|  0|   0|  0|  0| 
+|Luis Urias        |BAT BENCH |      4|  2|   0|  0|  0| 
+|Trent Grisham     |BAT BENCH |      6|  2|   4|  1|  0| 
 
 
 * * *
@@ -45,7 +45,7 @@
 |Joe Ryan         |OP          |  1| 5.000|  5|  9.000|     10| 2.000|  4|  0|  0| 
 |Spencer Strider  |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |David Bednar     |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
-|Jhoan Duran      |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Jhoan Duran      |PITCH BENCH |  1| 1.000|  0|  0.000|      1| 1.000|  2|  0|  0| 
 |Lucas Giolito    |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Ross Stripling   |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Wil Crowe        |PITCH BENCH |  2| 2.333|  1|  3.857|      3| 1.286|  1|  0|  0| 

@@ -6,18 +6,18 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Gary Sanchez      |C         |      2|  2|   1|  1|  0| 
-|Rhys Hoskins      |1B        |      2|  0|   0|  0|  0| 
+|Rhys Hoskins      |1B        |      3|  0|   0|  0|  0| 
 |Brendan Rodgers   |2B        |      9|  4|   5|  1|  0| 
-|Ryan McMahon      |3B        |      4|  4|   3|  2|  0| 
-|Marcus Semien     |SS        |      6|  4|   3|  2|  0| 
+|Ryan McMahon      |3B        |      6|  5|   3|  2|  0| 
+|Marcus Semien     |SS        |      7|  4|   4|  2|  0| 
 |Gleyber Torres    |MI        |      3|  2|   0|  0|  0| 
 |Rowdy Tellez      |CI        |      2|  2|   1|  1|  0| 
-|Cedric Mullins    |OF        |      5|  1|   0|  0|  0| 
-|Joc Pederson      |OF        |      3|  0|   1|  0|  0| 
-|Mike Yastrzemski  |OF        |      4|  2|   0|  0|  0| 
+|Cedric Mullins    |OF        |      8|  2|   2|  1|  0| 
+|Joc Pederson      |OF        |      4|  0|   1|  0|  0| 
+|Mike Yastrzemski  |OF        |      6|  3|   3|  1|  0| 
 |Randal Grichuk    |OF        |      7|  3|   3|  1|  0| 
-|Andres Gimenez    |DH        |      6|  3|   0|  0|  2| 
-|Jose Miranda      |DH        |      2|  0|   0|  0|  0| 
+|Andres Gimenez    |DH        |      8|  3|   0|  0|  2| 
+|Jose Miranda      |DH        |      4|  1|   0|  0|  0| 
 |Myles Straw       |DH        |      0|  0|   1|  0|  0| 
 |Teoscar Hernandez |DH        |      1|  0|   0|  0|  0| 
 |Connor Joe        |BAT BENCH |     **| **|  **| **| **| 
@@ -39,7 +39,7 @@
 |Taijuan Walker |SP          |  1| 6.000|  2|  3.000|      8| 1.333|  5|  1|  0| 
 |Mark Melancon  |RP          |  2| 2.000|  0|  0.000|      1| 0.500|  2|  0|  1| 
 |Michael King   |RP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Hector Neris   |OP          |  2| 2.000|  0|  0.000|      1| 0.500|  2|  0|  0| 
+|Hector Neris   |OP          |  3| 3.000|  0|  0.000|      1| 0.333|  3|  0|  1| 
 |Kyle Finnegan  |OP          |  1| 1.000|  2| 18.000|      4| 4.000|  0|  1|  0| 
 |Rafael Montero |OP          |  2| 2.000|  1|  4.500|      1| 0.500|  2|  0|  0| 
 |Ryan Tepera    |OP          |  2| 2.000|  0|  0.000|      0| 0.000|  0|  0|  1| 
