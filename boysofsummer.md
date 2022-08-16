@@ -8,20 +8,20 @@
 |Willson Contreras   |C         |      8|  3|   3|  1|  1| 
 |Paul Goldschmidt    |1B        |     10|  6|   5|  2|  0| 
 |Jose Altuve         |2B        |     10|  3|   3|  0|  1| 
-|Jose Ramirez        |3B        |      8|  2|   6|  1|  0| 
+|Jose Ramirez        |3B        |     10|  2|   7|  1|  0| 
 |Tim Anderson        |SS        |     **| **|  **| **| **| 
-|Mookie Betts        |MI        |      9|  5|   1|  1|  1| 
-|Austin Riley        |CI        |     10|  2|   5|  1|  0| 
+|Mookie Betts        |MI        |      9|  6|   1|  1|  1| 
+|Austin Riley        |CI        |     11|  3|   5|  1|  0| 
 |Austin Hays         |OF        |      7|  4|   2|  1|  0| 
-|Jesse Winker        |OF        |      2|  0|   0|  0|  0| 
-|Lourdes Gurriel Jr. |OF        |      3|  1|   0|  0|  0| 
+|Jesse Winker        |OF        |      4|  2|   2|  1|  0| 
+|Lourdes Gurriel Jr. |OF        |      5|  1|   2|  0|  0| 
 |Marcell Ozuna       |OF        |      4|  2|   4|  1|  0| 
 |Andrew Benintendi   |DH        |      8|  3|   3|  0|  1| 
-|Leody Taveras       |DH        |      4|  1|   6|  0|  0| 
+|Leody Taveras       |DH        |      6|  2|   6|  0|  0| 
 |Matt Carpenter      |DH        |      0|  0|   0|  0|  0| 
-|William Contreras   |DH        |      8|  2|   2|  0|  0| 
+|William Contreras   |DH        |     10|  3|   3|  1|  0| 
 |Esteury Ruiz        |BAT BENCH |     **| **|  **| **| **| 
-|Jeff McNeil         |BAT BENCH |      9|  3|   4|  1|  0| 
+|Jeff McNeil         |BAT BENCH |     13|  4|   4|  1|  0| 
 |Trevor Story        |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -41,8 +41,8 @@
 |Edwin Diaz       |RP          |  2|  2.000|  0|  0.000|      2| 1.000|  3|  0|  1| 
 |Josh Hader       |RP          |  2|  1.667|  3| 16.200|      5| 3.000|  3|  0|  0| 
 |Garrett Whitlock |OP          |  3|  5.000|  1|  1.800|      3| 0.600|  6|  1|  1| 
-|Johnny Cueto     |OP          |  1|  6.000|  2|  3.000|     10| 1.667|  4|  0|  0| 
-|Jorge Lopez      |OP          |  2|  2.000|  2|  9.000|      4| 2.000|  1|  0|  0| 
+|Johnny Cueto     |OP          |  2| 14.000|  3|  1.929|     17| 1.214|  7|  1|  0| 
+|Jorge Lopez      |OP          |  3|  3.000|  2|  6.000|      6| 2.000|  2|  0|  1| 
 |Merrill Kelly    |OP          |  1|  5.000|  3|  5.400|      7| 1.400|  6|  0|  0| 
 |Michael Kopech   |OP          |  1|  6.000|  0|  0.000|      3| 0.500| 11|  0|  0| 
 |Nick Pivetta     |PITCH BENCH |  1|  6.000|  3|  4.500|      7| 1.167|  5|  0|  0| 

@@ -5,25 +5,25 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez   |C         |     10|  3|   5|  1|  0| 
-|Matt Olson       |1B        |     10|  6|   5|  3|  0| 
-|Jon Berti        |2B        |      2|  0|   0|  0|  0| 
+|Salvador Perez   |C         |     12|  4|   5|  1|  0| 
+|Matt Olson       |1B        |     11|  7|   6|  3|  0| 
+|Jon Berti        |2B        |      4|  0|   0|  0|  1| 
 |Eugenio Suarez   |3B        |      8|  3|   3|  1|  0| 
-|Bo Bichette      |SS        |      3|  3|   4|  2|  0| 
+|Bo Bichette      |SS        |      5|  3|   4|  2|  0| 
 |Francisco Lindor |MI        |      9|  5|   5|  1|  1| 
 |Kyle Schwarber   |CI        |      6|  2|   2|  0|  1| 
-|Brandon Nimmo    |OF        |      5|  4|   0|  0|  0| 
+|Brandon Nimmo    |OF        |      7|  4|   0|  0|  0| 
 |Jurickson Profar |OF        |      9|  4|   0|  0|  0| 
-|Mitch Haniger    |OF        |     12|  4|   3|  1|  0| 
-|Taylor Ward      |OF        |      7|  2|   5|  2|  0| 
-|Amed Rosario     |DH        |     10|  5|   5|  1|  1| 
+|Mitch Haniger    |OF        |     15|  4|   3|  1|  0| 
+|Taylor Ward      |OF        |      9|  3|   5|  2|  0| 
+|Amed Rosario     |DH        |     10|  6|   5|  1|  1| 
 |Andrew McCutchen |DH        |      7|  4|   2|  0|  0| 
-|Josh Rojas       |DH        |     11|  7|   5|  1|  2| 
-|MJ Melendez      |DH        |      9|  3|   3|  1|  0| 
-|Carlos Santana   |BAT BENCH |      4|  2|   2|  1|  0| 
-|Javier Baez      |BAT BENCH |      8|  2|   2|  1|  1| 
-|Jean Segura      |BAT BENCH |      6|  2|   1|  1|  1| 
-|Riley Greene     |BAT BENCH |      6|  2|   3|  0|  0| 
+|Josh Rojas       |DH        |     13|  7|   5|  1|  3| 
+|MJ Melendez      |DH        |     10|  3|   3|  1|  0| 
+|Carlos Santana   |BAT BENCH |      5|  2|   2|  1|  0| 
+|Javier Baez      |BAT BENCH |     10|  2|   2|  1|  1| 
+|Jean Segura      |BAT BENCH |      8|  3|   1|  1|  1| 
+|Riley Greene     |BAT BENCH |      8|  4|   3|  0|  0| 
 
 * * *
 
@@ -32,7 +32,7 @@
  
 |players           |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Alex Cobb         |SP          |  1|  5.000|  3|  5.400|      8| 1.600|  7|  0|  0| 
+|Alex Cobb         |SP          |  2| 11.000|  4|  3.273|     16| 1.455| 12|  1|  0| 
 |Alex Wood         |SP          |  2| 12.333|  3|  2.189|      9| 0.730| 14|  1|  0| 
 |Charlie Morton    |SP          |  1|  6.000|  5|  7.500|      7| 1.167|  7|  0|  0| 
 |Jameson Taillon   |SP          |  2| 14.000|  6|  3.857|     12| 0.857| 10|  1|  0| 
