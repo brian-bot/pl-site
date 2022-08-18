@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Gary Sanchez      |C         |      6|  2|   2|  1|  0| 
-|Rhys Hoskins      |1B        |     13|  2|   5|  2|  1| 
-|Brendan Rodgers   |2B        |     15|  5|   5|  1|  0| 
+|Gary Sanchez      |C         |      7|  3|   2|  1|  0| 
+|Rhys Hoskins      |1B        |     15|  2|   5|  2|  1| 
+|Brendan Rodgers   |2B        |     17|  5|   5|  1|  0| 
 |Ryan McMahon      |3B        |      9|  6|   4|  2|  0| 
 |Marcus Semien     |SS        |      9|  5|   5|  3|  0| 
-|Gleyber Torres    |MI        |      6|  2|   0|  0|  0| 
+|Gleyber Torres    |MI        |      8|  4|   2|  1|  0| 
 |Rowdy Tellez      |CI        |      9|  3|   2|  2|  0| 
-|Cedric Mullins    |OF        |      9|  3|   3|  2|  1| 
+|Cedric Mullins    |OF        |     10|  3|   3|  2|  1| 
 |Joc Pederson      |OF        |      8|  1|   2|  0|  0| 
 |Mike Yastrzemski  |OF        |      8|  4|   3|  1|  0| 
 |Randal Grichuk    |OF        |     10|  3|   3|  1|  0| 
-|Andres Gimenez    |DH        |     17|  5|   6|  2|  3| 
-|Jose Miranda      |DH        |     11|  1|   2|  0|  0| 
-|Myles Straw       |DH        |      2|  2|   2|  0|  2| 
-|Teoscar Hernandez |DH        |      4|  1|   2|  1|  0| 
+|Andres Gimenez    |DH        |     19|  6|   6|  2|  3| 
+|Jose Miranda      |DH        |     13|  2|   4|  1|  0| 
+|Myles Straw       |DH        |      4|  3|   2|  0|  2| 
+|Teoscar Hernandez |DH        |      5|  2|   2|  1|  0| 
 |Connor Joe        |BAT BENCH |      3|  2|   0|  0|  0| 
 |Eduardo Escobar   |BAT BENCH |      3|  0|   1|  0|  0| 
 |Garrett Cooper    |BAT BENCH |      8|  0|   0|  0|  0| 
@@ -38,7 +38,7 @@
 |Logan Webb          |SP          |  1|  8.000|  0|  0.000|      7| 0.875|  9|  1|  0| 
 |Michael Wacha       |SP          |  1|  7.000|  0|  0.000|      3| 0.429|  9|  1|  0| 
 |Taijuan Walker      |SP          |  2|  8.000|  2|  2.250|     11| 1.375|  5|  1|  0| 
-|Mark Melancon       |RP          |  3|  3.000|  1|  3.000|      3| 1.000|  2|  0|  1| 
+|Mark Melancon       |RP          |  4|  4.000|  1|  2.250|      3| 0.750|  3|  0|  2| 
 |Michael King        |RP          | **|     **| **|     **|     **|    **| **| **| **| 
 |Hector Neris        |OP          |  5|  5.000|  1|  1.800|      5| 1.000|  6|  0|  1| 
 |Kyle Finnegan       |OP          |  4|  4.000|  2|  4.500|      7| 1.750|  3|  2|  1| 

@@ -6,20 +6,20 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith        |C         |     10|  5|   6|  1|  0| 
-|Jose Abreu        |1B        |     15|  6|   1|  0|  0| 
+|Jose Abreu        |1B        |     18|  7|   1|  0|  0| 
 |Whit Merrifield   |2B        |      4|  0|   0|  0|  0| 
-|Manny Machado     |3B        |     19|  7|  13|  2|  0| 
-|Xander Bogaerts   |SS        |      5|  4|   2|  0|  0| 
-|Jose Iglesias     |MI        |      7|  4|   6|  0|  0| 
-|Alec Bohm         |CI        |      9|  2|   3|  0|  0| 
-|Bryan Reynolds    |OF        |     13|  4|   5|  1|  0| 
-|Chris Taylor      |OF        |      9|  2|   2|  2|  0| 
-|Eloy Jimenez      |OF        |     16|  1|   4|  0|  0| 
+|Manny Machado     |3B        |     22|  8|  13|  2|  0| 
+|Xander Bogaerts   |SS        |      6|  5|   2|  0|  0| 
+|Jose Iglesias     |MI        |      9|  4|   6|  0|  0| 
+|Alec Bohm         |CI        |     10|  2|   3|  0|  0| 
+|Bryan Reynolds    |OF        |     15|  6|   7|  2|  0| 
+|Chris Taylor      |OF        |     10|  2|   2|  2|  0| 
+|Eloy Jimenez      |OF        |     19|  2|   4|  0|  0| 
 |Luis Robert       |OF        |      6|  1|   0|  0|  0| 
-|Anthony Rizzo     |DH        |      3|  0|   1|  0|  0| 
+|Anthony Rizzo     |DH        |      5|  2|   2|  1|  0| 
 |Ian Happ          |DH        |     13|  4|   8|  3|  0| 
-|Michael Harris II |DH        |     11|  9|   6|  2|  1| 
-|Shohei Ohtani     |DH        |     14|  4|   3|  2|  0| 
+|Michael Harris II |DH        |     13| 10|   6|  2|  2| 
+|Shohei Ohtani     |DH        |     18|  6|   7|  3|  0| 
 |Aaron Hicks       |BAT BENCH |      5|  0|   0|  0|  0| 
 |Joey Gallo        |BAT BENCH |      7|  4|   5|  3|  0| 
 |Ke'Bryan Hayes    |BAT BENCH |      6|  2|   0|  0|  1| 
@@ -34,19 +34,19 @@
 |players          |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Carlos Carrasco  |SP          |  2|  8.667|  5|  5.192|     13| 1.500| 10|  1|  0| 
-|George Kirby     |SP          |  1|  5.667|  2|  3.176|      8| 1.412|  5|  1|  0| 
+|George Kirby     |SP          |  2| 11.333|  5|  3.971|     15| 1.324| 12|  2|  0| 
 |Miles Mikolas    |SP          |  2| 10.667| 12| 10.125|     18| 1.688|  8|  1|  0| 
 |Nestor Cortes    |SP          |  2| 13.000|  6|  4.154|      8| 0.615| 13|  0|  0| 
-|Ranger Suarez    |SP          |  1|  7.000|  1|  1.286|      5| 0.714|  4|  0|  0| 
+|Ranger Suarez    |SP          |  2| 14.000|  1|  0.643|     10| 0.714| 12|  0|  0| 
 |Shohei Ohtani    |SP          |  2| 12.000|  2|  1.500|     15| 1.250| 13|  1|  0| 
-|Rowan Wick       |RP          |  4|  4.333|  2|  4.154|      6| 1.385|  6|  0|  3| 
-|Ryan Pressly     |RP          |  3|  2.667|  0|  0.000|      2| 0.750|  5|  0|  2| 
+|Rowan Wick       |RP          |  5|  5.333|  2|  3.375|      6| 1.125|  6|  0|  4| 
+|Ryan Pressly     |RP          |  4|  3.667|  0|  0.000|      2| 0.545|  7|  0|  3| 
 |Blake Snell      |OP          |  2| 11.667|  1|  0.771|     11| 0.943| 18|  1|  0| 
 |Braxton Garrett  |OP          |  2| 10.667|  3|  2.531|     16| 1.500|  5|  0|  0| 
 |Gregory Soto     |OP          |  4|  4.000|  1|  2.250|      4| 1.000|  2|  0|  2| 
 |Nathan Eovaldi   |OP          |  1|  6.000|  2|  3.000|     10| 1.667|  3|  0|  0| 
-|Tyler Mahle      |OP          |  1|  6.000|  0|  0.000|      5| 0.833|  6|  1|  0| 
-|Aroldis Chapman  |PITCH BENCH |  4|  4.333|  0|  0.000|      2| 0.462|  5|  1|  0| 
+|Tyler Mahle      |OP          |  2|  8.333|  0|  0.000|      6| 0.720|  7|  1|  0| 
+|Aroldis Chapman  |PITCH BENCH |  5|  5.000|  2|  3.600|      5| 1.000|  6|  2|  0| 
 |David Peterson   |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Noah Syndergaard |PITCH BENCH |  2| 13.000|  5|  3.462|     16| 1.231| 10|  1|  0| 
 

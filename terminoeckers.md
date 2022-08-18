@@ -6,22 +6,22 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Daulton Varsho    |C         |      8|  4|   4|  0|  1| 
-|Freddie Freeman   |1B        |     12|  7|   2|  1|  1| 
-|Trea Turner       |2B        |     10|  5|   6|  0|  1| 
-|Wilmer Flores     |3B        |     12|  2|   2|  0|  0| 
+|Freddie Freeman   |1B        |     13|  7|   2|  1|  1| 
+|Trea Turner       |2B        |     11|  5|   6|  0|  1| 
+|Wilmer Flores     |3B        |     13|  2|   2|  0|  0| 
 |Paul DeJong       |SS        |     10|  3|   3|  1|  0| 
-|Nico Hoerner      |MI        |     18|  4|   5|  1|  1| 
-|Luke Voit         |CI        |      8|  4|   3|  2|  0| 
-|Byron Buxton      |OF        |     11|  4|   4|  2|  2| 
-|Christian Yelich  |OF        |      7|  3|   1|  1|  0| 
-|Nick Castellanos  |OF        |     11|  4|   2|  1|  3| 
-|Randy Arozarena   |OF        |      8|  5|  10|  4|  0| 
+|Nico Hoerner      |MI        |     19|  4|   5|  1|  1| 
+|Luke Voit         |CI        |      9|  4|   3|  2|  0| 
+|Byron Buxton      |OF        |     12|  4|   4|  2|  2| 
+|Christian Yelich  |OF        |      8|  3|   2|  1|  0| 
+|Nick Castellanos  |OF        |     12|  4|   2|  1|  3| 
+|Randy Arozarena   |OF        |     10|  5|  10|  4|  0| 
 |Hunter Renfroe    |DH        |      8|  3|   3|  1|  0| 
 |Joey Votto        |DH        |      5|  1|   2|  0|  0| 
-|Steven Kwan       |DH        |     18|  9|   2|  1|  3| 
+|Steven Kwan       |DH        |     20| 10|   3|  1|  3| 
 |Ty France         |DH        |      6|  3|   3|  0|  0| 
 |Christopher Morel |BAT BENCH |      5|  4|   3|  2|  0| 
-|Jeremy Pena       |BAT BENCH |      6|  4|   3|  0|  1| 
+|Jeremy Pena       |BAT BENCH |      7|  4|   3|  0|  1| 
 |Seiya Suzuki      |BAT BENCH |     12|  7|   5|  1|  0| 
 |Tommy Pham        |BAT BENCH |     12|  7|   6|  2|  0| 
 
@@ -44,7 +44,7 @@
 |Andres Munoz       |OP          |  4|  4.333|  0| 0.000|      5| 1.154|  9|  1|  0| 
 |Jesus Luzardo      |OP          |  1|  5.000|  4| 7.200|      9| 1.800|  6|  0|  0| 
 |Jonathan Hernandez |OP          |  4|  4.000|  1| 2.250|      6| 1.500|  3|  0|  2| 
-|Nick Lodolo        |OP          |  1|  4.667|  4| 7.714|     11| 2.357|  6|  0|  0| 
+|Nick Lodolo        |OP          |  2| 11.667|  4| 3.086|     18| 1.543| 14|  0|  0| 
 |Triston McKenzie   |OP          |  1|  6.667|  2| 2.700|      7| 1.050|  3|  0|  0| 
 |Aaron Ashby        |PITCH BENCH |  1|  6.000|  2| 3.000|      5| 0.833|  5|  0|  0| 
 |Josiah Gray        |PITCH BENCH |  2| 12.333|  5| 3.649|     14| 1.135| 15|  0|  0| 
