@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |     10|  5|   6|  1|  0| 
+|Will Smith        |C         |     11|  6|   7|  1|  0| 
 |Jose Abreu        |1B        |     18|  7|   1|  0|  0| 
-|Whit Merrifield   |2B        |      4|  0|   0|  0|  0| 
-|Manny Machado     |3B        |     22|  8|  13|  2|  0| 
-|Xander Bogaerts   |SS        |      6|  5|   2|  0|  0| 
-|Jose Iglesias     |MI        |      9|  4|   6|  0|  0| 
+|Whit Merrifield   |2B        |      5|  1|   0|  0|  0| 
+|Manny Machado     |3B        |     23|  9|  14|  3|  0| 
+|Xander Bogaerts   |SS        |      9|  5|   2|  0|  0| 
+|Jose Iglesias     |MI        |     10|  4|   6|  0|  0| 
 |Alec Bohm         |CI        |     10|  2|   3|  0|  0| 
-|Bryan Reynolds    |OF        |     15|  6|   7|  2|  0| 
-|Chris Taylor      |OF        |     10|  2|   2|  2|  0| 
-|Eloy Jimenez      |OF        |     19|  2|   4|  0|  0| 
+|Bryan Reynolds    |OF        |     18|  9|  11|  4|  0| 
+|Chris Taylor      |OF        |     11|  2|   2|  2|  0| 
+|Eloy Jimenez      |OF        |     22|  3|   4|  0|  0| 
 |Luis Robert       |OF        |      6|  1|   0|  0|  0| 
-|Anthony Rizzo     |DH        |      5|  2|   2|  1|  0| 
-|Ian Happ          |DH        |     13|  4|   8|  3|  0| 
-|Michael Harris II |DH        |     13| 10|   6|  2|  2| 
+|Anthony Rizzo     |DH        |      8|  2|   2|  1|  0| 
+|Ian Happ          |DH        |     15|  4|   8|  3|  0| 
+|Michael Harris II |DH        |     14| 10|   7|  2|  2| 
 |Shohei Ohtani     |DH        |     18|  6|   7|  3|  0| 
 |Aaron Hicks       |BAT BENCH |      5|  0|   0|  0|  0| 
-|Joey Gallo        |BAT BENCH |      7|  4|   5|  3|  0| 
+|Joey Gallo        |BAT BENCH |      8|  4|   5|  3|  0| 
 |Ke'Bryan Hayes    |BAT BENCH |      6|  2|   0|  0|  1| 
 |Michael Brantley  |BAT BENCH |     **| **|  **| **| **| 
 

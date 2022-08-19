@@ -5,20 +5,20 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez   |C         |     15|  4|   5|  1|  0| 
+|Salvador Perez   |C         |     18|  4|   5|  1|  0| 
 |Matt Olson       |1B        |     13|  8|   9|  4|  0| 
 |Jon Berti        |2B        |      6|  0|   1|  0|  2| 
 |Eugenio Suarez   |3B        |     10|  5|   5|  2|  0| 
-|Bo Bichette      |SS        |      7|  4|   4|  2|  0| 
-|Francisco Lindor |MI        |     13|  7|   6|  2|  2| 
+|Bo Bichette      |SS        |      8|  4|   4|  2|  0| 
+|Francisco Lindor |MI        |     14|  7|   6|  2|  2| 
 |Kyle Schwarber   |CI        |      6|  2|   2|  0|  1| 
 |Brandon Nimmo    |OF        |     10|  5|   0|  0|  0| 
 |Jurickson Profar |OF        |     12|  5|   0|  0|  0| 
 |Mitch Haniger    |OF        |     17|  6|   4|  1|  0| 
 |Taylor Ward      |OF        |     12|  3|   6|  2|  0| 
 |Amed Rosario     |DH        |     14|  8|   6|  1|  1| 
-|Andrew McCutchen |DH        |      8|  5|   2|  0|  0| 
-|Josh Rojas       |DH        |     15|  7|   5|  1|  4| 
+|Andrew McCutchen |DH        |     10|  8|   5|  2|  0| 
+|Josh Rojas       |DH        |     19|  8|   6|  1|  4| 
 |MJ Melendez      |DH        |     11|  3|   3|  1|  0| 
 |Carlos Santana   |BAT BENCH |      6|  2|   4|  1|  0| 
 |Javier Baez      |BAT BENCH |     13|  4|   2|  1|  3| 
@@ -39,7 +39,7 @@
 |Kyle Wright       |SP          |  1|  6.000|  1| 1.500|      7| 1.167|  5|  1|  0| 
 |Max Scherzer      |SP          |  2| 13.333|  5| 3.375|     15| 1.125| 14|  1|  0| 
 |Daniel Bard       |RP          |  1|  1.000|  1| 9.000|      3| 3.000|  1|  0|  1| 
-|Kenley Jansen     |RP          |  4|  4.000|  0| 0.000|      6| 1.500|  4|  0|  3| 
+|Kenley Jansen     |RP          |  5|  5.000|  0| 0.000|      7| 1.400|  5|  0|  4| 
 |Corey Kluber      |OP          |  2| 11.667|  9| 6.943|     16| 1.371| 12|  0|  0| 
 |Edward Cabrera    |OP          |  2|  9.667|  0| 0.000|     10| 1.034| 13|  1|  0| 
 |Jordan Montgomery |OP          |  2| 11.667|  1| 0.771|     12| 1.029| 16|  2|  0| 

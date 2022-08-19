@@ -5,20 +5,20 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman       |C         |     12|  7|   4|  2|  0| 
+|Adley Rutschman       |C         |     14|  8|   4|  2|  0| 
 |Jared Walsh           |1B        |      8|  0|   1|  0|  1| 
 |Jorge Polanco         |2B        |      5|  3|   4|  1|  0| 
 |J.D. Davis            |3B        |     12|  5|   2|  2|  0| 
 |Carlos Correa         |SS        |     17|  3|   2|  1|  0| 
-|Oneil Cruz            |MI        |      6|  1|   0|  0|  1| 
+|Oneil Cruz            |MI        |      7|  1|   0|  0|  1| 
 |C.J. Cron             |CI        |      9|  4|   6|  1|  0| 
 |Giancarlo Stanton     |OF        |     **| **|  **| **| **| 
 |Ronald Acuna Jr.      |OF        |     18|  8|   4|  1|  2| 
-|Ryan Mountcastle      |OF        |     11|  5|   5|  2|  0| 
+|Ryan Mountcastle      |OF        |     13|  5|   6|  2|  0| 
 |Starling Marte        |OF        |     10|  4|   4|  3|  2| 
 |Alek Thomas           |DH        |      6|  2|   1|  0|  0| 
-|Christian Bethancourt |DH        |      2|  2|   0|  0|  1| 
-|Gavin Lux             |DH        |     10|  6|   4|  2|  1| 
+|Christian Bethancourt |DH        |      4|  4|   1|  1|  1| 
+|Gavin Lux             |DH        |     12|  6|   6|  2|  1| 
 |Kyle Farmer           |DH        |     15|  2|   3|  0|  0| 
 |Bryce Harper          |BAT BENCH |     **| **|  **| **| **| 
 |Jack Suwinski         |BAT BENCH |     **| **|  **| **| **| 
