@@ -5,20 +5,20 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Keibert Ruiz     |C         |     10|  3|   6|  2|  0| 
-|Hunter Dozier    |1B        |      4|  0|   0|  0|  0| 
+|Keibert Ruiz     |C         |     15|  4|   7|  2|  1| 
+|Hunter Dozier    |1B        |      5|  0|   0|  0|  0| 
 |Max Muncy        |2B        |     15|  6|   8|  4|  0| 
-|Alex Bregman     |3B        |     22| 13|  16|  5|  1| 
+|Alex Bregman     |3B        |     23| 13|  16|  5|  1| 
 |Corey Seager     |SS        |     15|  9|   5|  2|  0| 
 |DJ LeMahieu      |MI        |      7|  1|   0|  0|  0| 
-|Justin Turner    |CI        |      9|  1|   4|  0|  0| 
-|Adolis Garcia    |OF        |     16|  8|   4|  1|  3| 
+|Justin Turner    |CI        |     10|  2|   4|  0|  1| 
+|Adolis Garcia    |OF        |     17|  8|   4|  1|  3| 
 |Charlie Blackmon |OF        |     10|  2|   7|  0|  0| 
-|Juan Soto        |OF        |     21|  9|   3|  1|  0| 
+|Juan Soto        |OF        |     22| 10|   3|  1|  0| 
 |Mark Canha       |OF        |     14|  6|   5|  1|  0| 
 |Brandon Belt     |DH        |      8|  1|   1|  0|  0| 
-|Daniel Vogelbach |DH        |      8|  2|   6|  1|  0| 
-|Julio Rodriguez  |DH        |      7|  4|   5|  1|  0| 
+|Daniel Vogelbach |DH        |     11|  3|   6|  1|  0| 
+|Julio Rodriguez  |DH        |      8|  6|   5|  1|  0| 
 |Tommy Edman      |DH        |      8|  4|   1|  1|  2| 
 |Brendan Donovan  |BAT BENCH |      7|  4|   2|  0|  0| 
 |C.J. Abrams      |BAT BENCH |     **| **|  **| **| **| 

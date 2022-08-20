@@ -5,24 +5,24 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman       |C         |     14|  8|   4|  2|  0| 
-|Jared Walsh           |1B        |      8|  0|   1|  0|  1| 
-|Jorge Polanco         |2B        |      5|  3|   4|  1|  0| 
-|J.D. Davis            |3B        |     12|  5|   2|  2|  0| 
+|Adley Rutschman       |C         |     17| 11|   6|  3|  0| 
+|Jared Walsh           |1B        |      9|  1|   2|  1|  1| 
+|Jorge Polanco         |2B        |      7|  3|   4|  1|  0| 
+|J.D. Davis            |3B        |     13|  6|   2|  2|  0| 
 |Carlos Correa         |SS        |     17|  3|   2|  1|  0| 
-|Oneil Cruz            |MI        |      7|  1|   0|  0|  1| 
+|Oneil Cruz            |MI        |      8|  1|   0|  0|  1| 
 |C.J. Cron             |CI        |      9|  4|   6|  1|  0| 
 |Giancarlo Stanton     |OF        |     **| **|  **| **| **| 
-|Ronald Acuna Jr.      |OF        |     18|  8|   4|  1|  2| 
-|Ryan Mountcastle      |OF        |     13|  5|   6|  2|  0| 
-|Starling Marte        |OF        |     10|  4|   4|  3|  2| 
+|Ronald Acuna Jr.      |OF        |     21| 10|   4|  1|  2| 
+|Ryan Mountcastle      |OF        |     15|  7|   9|  3|  0| 
+|Starling Marte        |OF        |     12|  6|   4|  3|  3| 
 |Alek Thomas           |DH        |      6|  2|   1|  0|  0| 
 |Christian Bethancourt |DH        |      4|  4|   1|  1|  1| 
-|Gavin Lux             |DH        |     12|  6|   6|  2|  1| 
-|Kyle Farmer           |DH        |     15|  2|   3|  0|  0| 
+|Gavin Lux             |DH        |     13|  6|   6|  2|  1| 
+|Kyle Farmer           |DH        |     16|  2|   4|  0|  0| 
 |Bryce Harper          |BAT BENCH |     **| **|  **| **| **| 
 |Jack Suwinski         |BAT BENCH |     **| **|  **| **| **| 
-|Mike Trout            |BAT BENCH |     **| **|  **| **| **| 
+|Mike Trout            |BAT BENCH |      1|  0|   0|  0|  0| 
 |Spencer Torkelson     |BAT BENCH |     **| **|  **| **| **| 
 |Wander Franco         |BAT BENCH |     **| **|  **| **| **| 
 
@@ -34,18 +34,18 @@
  
 |players           |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Keegan Thompson   |SP          |  2|  7.667|  5| 5.870|     10| 1.304|  5|  1|  0| 
-|Lance Lynn        |SP          |  2| 12.000|  6| 4.500|     13| 1.083| 12|  1|  0| 
+|Keegan Thompson   |SP          |  3| 11.333| 10| 7.941|     19| 1.676|  8|  1|  0| 
+|Lance Lynn        |SP          |  3| 17.667|  7| 3.566|     19| 1.075| 18|  1|  0| 
 |Shane Bieber      |SP          |  2| 14.000|  2| 1.286|     13| 0.929| 14|  2|  0| 
 |Sonny Gray        |SP          |  2| 10.667|  3| 2.531|     13| 1.219| 15|  1|  0| 
 |Tony Gonsolin     |SP          |  2| 13.667|  1| 0.659|      8| 0.585| 11|  2|  0| 
-|Tyler Anderson    |SP          |  1|  6.000|  3| 4.500|      8| 1.333|  4|  0|  0| 
+|Tyler Anderson    |SP          |  2| 13.000|  4| 2.769|     16| 1.231| 10|  0|  0| 
 |Giovanny Gallegos |RP          |  3|  3.000|  1| 3.000|      3| 1.000|  2|  0|  0| 
-|Scott Barlow      |RP          |  3|  3.000|  1| 3.000|      1| 0.333|  6|  0|  2| 
+|Scott Barlow      |RP          |  4|  5.000|  1| 1.800|      2| 0.400|  8|  1|  2| 
 |Marcus Stroman    |OP          |  2|  9.667|  4| 3.724|     14| 1.448| 10|  0|  0| 
-|Nick Martinez     |OP          |  5|  7.000|  0| 0.000|      5| 0.714|  7|  0|  0| 
+|Nick Martinez     |OP          |  6|  8.000|  0| 0.000|      6| 0.750|  9|  0|  0| 
 |Tanner Houck      |OP          | **|     **| **|    **|     **|    **| **| **| **| 
-|Trevor Stephan    |OP          |  4|  3.667|  2| 4.909|      4| 1.091|  6|  0|  0| 
+|Trevor Stephan    |OP          |  5|  4.667|  2| 3.857|      4| 0.857|  7|  0|  0| 
 |Zach Jackson      |OP          |  4|  4.000|  0| 0.000|      3| 0.750|  5|  0|  0| 
 |Joe Barlow        |PITCH BENCH |  1|  1.000|  0| 0.000|      2| 2.000|  1|  0|  0| 
 |Pete Fairbanks    |PITCH BENCH |  4|  3.667|  0| 0.000|      2| 0.545|  5|  0|  0| 
