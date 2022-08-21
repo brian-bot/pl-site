@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Yasmani Grandal   |C         |     16|  2|   2|  1|  0| 
-|Vladimir Guerrero |1B        |     10|  7|   7|  3|  0| 
+|Yasmani Grandal   |C         |     17|  2|   2|  1|  0| 
+|Vladimir Guerrero |1B        |     12|  7|   7|  3|  0| 
 |Ketel Marte       |2B        |      7|  2|   5|  0|  0| 
-|Nolan Arenado     |3B        |     13|  6|   9|  3|  0| 
-|Thairo Estrada    |SS        |     13|  3|   5|  1|  1| 
-|Jake Cronenworth  |MI        |     19|  4|   7|  1|  0| 
+|Nolan Arenado     |3B        |     14|  7|  10|  3|  0| 
+|Thairo Estrada    |SS        |     14|  3|   5|  1|  1| 
+|Jake Cronenworth  |MI        |     21|  4|   7|  1|  1| 
 |Andrew Vaughn     |OF        |     13|  4|   6|  2|  0| 
-|Cody Bellinger    |OF        |      2|  2|   4|  1|  0| 
-|Dylan Carlson     |OF        |     15|  6|   3|  1|  1| 
-|Luis Arraez       |OF        |     17|  7|   3|  1|  1| 
-|Nathaniel Lowe    |DH        |     19|  5|   6|  1|  1| 
-|Nelson Cruz       |DH        |     12|  3|   7|  1|  0| 
-|Yandy Diaz        |DH        |     13|  5|  10|  2|  0| 
-|Yuli Gurriel      |DH        |     15|  9|   4|  0|  0| 
+|Cody Bellinger    |OF        |      4|  2|   4|  1|  0| 
+|Dylan Carlson     |OF        |     16|  6|   3|  1|  1| 
+|Luis Arraez       |OF        |     18|  8|   4|  1|  1| 
+|Nathaniel Lowe    |DH        |     23|  5|   6|  1|  1| 
+|Nelson Cruz       |DH        |     13|  3|   7|  1|  0| 
+|Yandy Diaz        |DH        |     16|  5|  11|  2|  0| 
+|Yuli Gurriel      |DH        |     16|  9|   5|  0|  0| 
 |Austin Meadows    |BAT BENCH |     **| **|  **| **| **| 
-|Brandon Crawford  |BAT BENCH |     12|  4|   3|  1|  0| 
-|Christian Vazquez |BAT BENCH |      9|  4|   3|  0|  0| 
+|Brandon Crawford  |BAT BENCH |     14|  5|   5|  2|  0| 
+|Christian Vazquez |BAT BENCH |     11|  4|   3|  0|  0| 
 |Jarred Kelenic    |BAT BENCH |      0|  0|   0|  0|  0| 
 
 
@@ -40,9 +40,9 @@
 |Robbie Ray      |SP          |  2| 12.333|  4| 2.919|     16| 1.297| 17|  1|  0| 
 |Cal Quantrill   |RP          |  2| 13.000|  4| 2.769|      8| 0.615|  9|  1|  0| 
 |Emmanuel Clase  |RP          |  6|  5.333|  0| 0.000|      2| 0.375|  7|  0|  4| 
-|Brock Burke     |OP          |  4|  7.000|  2| 2.571|      7| 1.000|  6|  0|  0| 
+|Brock Burke     |OP          |  5|  8.000|  2| 2.250|      8| 1.000|  8|  0|  0| 
 |Chris Flexen    |OP          |  2|  3.000|  0| 0.000|      5| 1.667|  2|  0|  0| 
-|Drew Rasmussen  |OP          |  1|  8.333|  1| 1.080|      1| 0.120|  7|  1|  0| 
+|Drew Rasmussen  |OP          |  2| 14.000|  3| 1.929|      4| 0.286| 15|  2|  0| 
 |Luis Castillo   |OP          |  2| 14.000|  2| 1.286|     12| 0.857| 16|  0|  0| 
 |Yusei Kikuchi   |OP          |  3|  9.333|  8| 7.714|     18| 1.929|  9|  0|  0| 
 |Luis Severino   |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
