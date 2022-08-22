@@ -12,11 +12,11 @@ Through games on 2022-08-21 ([website build status](https://github.com/brian-bot
 |[Vass Deferens](./vassdeferens)                   |   39.0|  72|    198| 20|  55| 10|  8|  4| 130| 2.639| 1.030|
 |[Wonderbots](./wonderbots)                        |   51.5|  72|    215| 21|  91|  6|  8|  4| 151| 3.275| 1.030|
 |[Overwhelming Underdogs](./overwhelmingunderdogs) |   55.0|  91|    233| 24|  92| 12|  6|  7| 144| 4.437| 1.366|
-|[Washington Generals](./washingtongenerals)       |   53.0|  79|    212| 28|  73|  8| 12|  7|  91| 2.576| 1.234|
+|[Washington Generals](./washingtongenerals)       |   54.0|  79|    212| 28|  73|  8| 13|  7| 100| 2.455| 1.204|
 |[Terminoeckers](./terminoeckers)                  |   47.0|  82|    226| 18|  73| 15|  8|  3| 147| 3.332| 1.262|
-|[T and A](./tanda)                                |   75.0| 106|    250| 25|  84| 11| 12|  6| 174| 3.491| 1.182|
+|[T and A](./tanda)                                |   74.5| 106|    250| 25|  84| 11| 12|  6| 174| 3.491| 1.182|
 |[Nuclear Arms](./nucleararms)                     |   69.5|  91|    244| 25|  99|  4|  8| 11| 137| 3.169| 1.131|
-|[SYWA](./sywa)                                    |   66.5|  79|    208| 19|  81| 10| 12| 10| 152| 2.401| 0.963|
+|[SYWA](./sywa)                                    |   66.0|  79|    208| 19|  81| 10| 12| 10| 152| 2.401| 0.963|
 
 * * *
 * * *
