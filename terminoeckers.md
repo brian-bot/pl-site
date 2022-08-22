@@ -6,24 +6,24 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Daulton Varsho    |C         |     11|  4|   5|  0|  1| 
-|Freddie Freeman   |1B        |     18| 10|   3|  1|  1| 
-|Trea Turner       |2B        |     16|  8|   6|  0|  1| 
-|Wilmer Flores     |3B        |     16|  2|   2|  0|  0| 
-|Paul DeJong       |SS        |     11|  4|   7|  2|  0| 
+|Freddie Freeman   |1B        |     21| 11|   3|  1|  1| 
+|Trea Turner       |2B        |     19| 10|   6|  0|  1| 
+|Wilmer Flores     |3B        |     18|  2|   3|  0|  0| 
+|Paul DeJong       |SS        |     13|  4|   7|  2|  0| 
 |Nico Hoerner      |MI        |     20|  5|   5|  1|  2| 
 |Luke Voit         |CI        |     10|  4|   3|  2|  0| 
 |Byron Buxton      |OF        |     14|  4|   4|  2|  2| 
-|Christian Yelich  |OF        |     13|  7|   3|  1|  0| 
-|Nick Castellanos  |OF        |     16|  5|   2|  1|  3| 
-|Randy Arozarena   |OF        |     15|  5|  13|  4|  1| 
-|Hunter Renfroe    |DH        |     14|  5|   7|  3|  0| 
+|Christian Yelich  |OF        |     14|  7|   3|  1|  0| 
+|Nick Castellanos  |OF        |     18|  5|   2|  1|  3| 
+|Randy Arozarena   |OF        |     17|  6|  13|  4|  2| 
+|Hunter Renfroe    |DH        |     15|  5|   7|  3|  0| 
 |Joey Votto        |DH        |      5|  1|   2|  0|  0| 
 |Steven Kwan       |DH        |     22| 11|   4|  1|  3| 
 |Ty France         |DH        |      9|  3|   6|  0|  0| 
 |Christopher Morel |BAT BENCH |      8|  6|   5|  3|  0| 
-|Jeremy Pena       |BAT BENCH |     12|  8|   5|  1|  1| 
-|Seiya Suzuki      |BAT BENCH |     15|  8|   6|  1|  1| 
-|Tommy Pham        |BAT BENCH |     15|  8|  10|  2|  0| 
+|Jeremy Pena       |BAT BENCH |     12|  8|   6|  1|  1| 
+|Seiya Suzuki      |BAT BENCH |     19|  9|   7|  2|  1| 
+|Tommy Pham        |BAT BENCH |     17|  8|  10|  2|  0| 
 
 
 * * *
@@ -36,7 +36,7 @@
 |Dylan Cease        |SP          |  2| 11.000|  4| 3.273|     14| 1.273| 12|  0|  0| 
 |Julio Urias        |SP          |  2| 12.000|  1| 0.750|     11| 0.917| 14|  2|  0| 
 |Reid Detmers       |SP          |  2|  9.333|  6| 5.786|     20| 2.143| 12|  0|  0| 
-|Sandy Alcantara    |SP          |  2| 14.667|  4| 2.455|     15| 1.023| 11|  1|  0| 
+|Sandy Alcantara    |SP          |  3| 18.333| 10| 4.909|     26| 1.418| 16|  1|  0| 
 |Shane McClanahan   |SP          |  2| 13.000|  4| 2.769|     15| 1.154| 12|  1|  0| 
 |Yu Darvish         |SP          |  2| 14.333|  7| 4.395|     13| 0.907| 15|  0|  0| 
 |Clay Holmes        |RP          |  3|  2.333|  2| 7.714|      5| 2.143|  1|  0|  0| 
