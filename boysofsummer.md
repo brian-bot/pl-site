@@ -16,7 +16,7 @@
 |Jesse Winker        |OF        |     10|  5|   6|  2|  0| 
 |Lourdes Gurriel Jr. |OF        |      9|  2|   4|  0|  0| 
 |Marcell Ozuna       |OF        |      4|  2|   4|  1|  0| 
-|Andrew Benintendi   |DH        |     17|  6|   5|  1|  1| 
+|Andrew Benintendi   |DH        |     20|  7|   7|  1|  1| 
 |Leody Taveras       |DH        |     17|  4|   7|  0|  2| 
 |Matt Carpenter      |DH        |      0|  0|   0|  0|  0| 
 |William Contreras   |DH        |     15|  5|   3|  1|  0| 
@@ -44,9 +44,9 @@
 |Johnny Cueto     |OP          |  3| 22.667|  3|  1.191|     23| 1.015|  9|  2|  0| 
 |Jorge Lopez      |OP          |  5|  5.000|  2|  3.600|      8| 1.600|  3|  0|  2| 
 |Merrill Kelly    |OP          |  3| 18.000|  6|  3.000|     23| 1.278| 19|  0|  0| 
-|Michael Kopech   |OP          |  2| 12.000|  3|  2.250|     10| 0.833| 13|  0|  0| 
+|Michael Kopech   |OP          |  3| 12.000|  7|  5.250|     13| 1.083| 13|  0|  0| 
 |Nick Pivetta     |PITCH BENCH |  3| 18.667|  5|  2.411|     18| 0.964| 20|  1|  0| 
-|Raisel Iglesias  |PITCH BENCH |  7|  5.667|  1|  1.588|      6| 1.059|  5|  0|  1| 
+|Raisel Iglesias  |PITCH BENCH |  8|  6.667|  1|  1.350|      7| 1.050|  5|  0|  1| 
 |Tarik Skubal     |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 
 

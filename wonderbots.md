@@ -8,12 +8,12 @@
 |Yasmani Grandal   |C         |     17|  2|   2|  1|  0| 
 |Vladimir Guerrero |1B        |     12|  7|   7|  3|  0| 
 |Ketel Marte       |2B        |      8|  2|   5|  0|  0| 
-|Nolan Arenado     |3B        |     16|  7|  13|  3|  1| 
+|Nolan Arenado     |3B        |     18|  7|  13|  3|  1| 
 |Thairo Estrada    |SS        |     15|  5|   6|  1|  1| 
 |Jake Cronenworth  |MI        |     21|  4|   7|  1|  1| 
-|Andrew Vaughn     |OF        |     13|  4|   6|  2|  0| 
-|Cody Bellinger    |OF        |      5|  3|   6|  2|  0| 
-|Dylan Carlson     |OF        |     16|  6|   3|  1|  1| 
+|Andrew Vaughn     |OF        |     15|  4|   7|  2|  0| 
+|Cody Bellinger    |OF        |      6|  3|   6|  2|  0| 
+|Dylan Carlson     |OF        |     19|  6|   3|  1|  1| 
 |Luis Arraez       |OF        |     18|  8|   4|  1|  1| 
 |Nathaniel Lowe    |DH        |     25|  6|   7|  2|  1| 
 |Nelson Cruz       |DH        |     14|  4|   8|  2|  0| 

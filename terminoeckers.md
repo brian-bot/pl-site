@@ -7,20 +7,20 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Daulton Varsho    |C         |     11|  4|   5|  0|  1| 
 |Freddie Freeman   |1B        |     21| 11|   3|  1|  1| 
-|Trea Turner       |2B        |     19| 10|   6|  0|  1| 
+|Trea Turner       |2B        |     20| 10|   6|  0|  1| 
 |Wilmer Flores     |3B        |     18|  2|   3|  0|  0| 
 |Paul DeJong       |SS        |     13|  4|   7|  2|  0| 
 |Nico Hoerner      |MI        |     20|  5|   5|  1|  2| 
 |Luke Voit         |CI        |     10|  4|   3|  2|  0| 
-|Byron Buxton      |OF        |     14|  4|   4|  2|  2| 
-|Christian Yelich  |OF        |     14|  7|   3|  1|  0| 
-|Nick Castellanos  |OF        |     18|  5|   2|  1|  3| 
-|Randy Arozarena   |OF        |     17|  6|  13|  4|  2| 
-|Hunter Renfroe    |DH        |     15|  5|   7|  3|  0| 
+|Byron Buxton      |OF        |     16|  4|   4|  2|  3| 
+|Christian Yelich  |OF        |     16|  8|   4|  1|  0| 
+|Nick Castellanos  |OF        |     20|  6|   4|  2|  3| 
+|Randy Arozarena   |OF        |     20|  7|  14|  5|  2| 
+|Hunter Renfroe    |DH        |     16|  5|   7|  3|  0| 
 |Joey Votto        |DH        |      5|  1|   2|  0|  0| 
 |Steven Kwan       |DH        |     22| 11|   4|  1|  3| 
 |Ty France         |DH        |      9|  3|   6|  0|  0| 
-|Christopher Morel |BAT BENCH |      8|  6|   5|  3|  0| 
+|Christopher Morel |BAT BENCH |      9|  6|   5|  3|  0| 
 |Jeremy Pena       |BAT BENCH |     12|  8|   6|  1|  1| 
 |Seiya Suzuki      |BAT BENCH |     19|  9|   7|  2|  1| 
 |Tommy Pham        |BAT BENCH |     17|  8|  10|  2|  0| 
@@ -34,7 +34,7 @@
 |players            |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:------------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Dylan Cease        |SP          |  2| 11.000|  4| 3.273|     14| 1.273| 12|  0|  0| 
-|Julio Urias        |SP          |  2| 12.000|  1| 0.750|     11| 0.917| 14|  2|  0| 
+|Julio Urias        |SP          |  3| 18.000|  2| 1.000|     14| 0.778| 21|  2|  0| 
 |Reid Detmers       |SP          |  2|  9.333|  6| 5.786|     20| 2.143| 12|  0|  0| 
 |Sandy Alcantara    |SP          |  3| 18.333| 10| 4.909|     26| 1.418| 16|  1|  0| 
 |Shane McClanahan   |SP          |  2| 13.000|  4| 2.769|     15| 1.154| 12|  1|  0| 

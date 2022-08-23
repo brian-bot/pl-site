@@ -5,20 +5,20 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |     17|  8|  14|  2|  0| 
-|Jose Abreu        |1B        |     22|  7|   3|  0|  0| 
+|Will Smith        |C         |     18|  8|  14|  2|  0| 
+|Jose Abreu        |1B        |     27|  9|   3|  0|  0| 
 |Whit Merrifield   |2B        |     10|  3|   1|  1|  0| 
 |Manny Machado     |3B        |     26|  9|  16|  3|  0| 
 |Xander Bogaerts   |SS        |     11|  7|   3|  1|  0| 
 |Jose Iglesias     |MI        |     12|  6|   7|  0|  0| 
-|Alec Bohm         |CI        |     15|  4|  11|  2|  0| 
-|Bryan Reynolds    |OF        |     20| 10|  11|  4|  0| 
-|Chris Taylor      |OF        |     11|  2|   2|  2|  0| 
-|Eloy Jimenez      |OF        |     25|  4|   4|  0|  0| 
-|Luis Robert       |OF        |      8|  2|   0|  0|  0| 
-|Anthony Rizzo     |DH        |     11|  3|   2|  1|  0| 
+|Alec Bohm         |CI        |     18|  5|  11|  2|  0| 
+|Bryan Reynolds    |OF        |     21| 10|  11|  4|  0| 
+|Chris Taylor      |OF        |     12|  2|   2|  2|  0| 
+|Eloy Jimenez      |OF        |     26|  5|   4|  0|  0| 
+|Luis Robert       |OF        |      9|  2|   0|  0|  0| 
+|Anthony Rizzo     |DH        |     12|  3|   2|  1|  0| 
 |Ian Happ          |DH        |     18|  7|  10|  4|  1| 
-|Michael Harris II |DH        |     16| 12|   8|  2|  3| 
+|Michael Harris II |DH        |     19| 13|  10|  3|  3| 
 |Shohei Ohtani     |DH        |     22|  7|   7|  3|  0| 
 |Aaron Hicks       |BAT BENCH |      5|  0|   0|  0|  0| 
 |Joey Gallo        |BAT BENCH |     11|  6|   5|  3|  0| 
@@ -48,7 +48,7 @@
 |Tyler Mahle      |OP          |  2|  8.333|  0| 0.000|      6| 0.720|  7|  1|  0| 
 |Aroldis Chapman  |PITCH BENCH |  6|  5.333|  3| 5.062|      8| 1.500|  6|  2|  0| 
 |David Peterson   |PITCH BENCH |  1|  4.667|  3| 5.786|     10| 2.143|  6|  0|  0| 
-|Noah Syndergaard |PITCH BENCH |  2| 13.000|  5| 3.462|     16| 1.231| 10|  1|  0| 
+|Noah Syndergaard |PITCH BENCH |  3| 20.000|  6| 2.700|     21| 1.050| 11|  2|  0| 
 
 
 * * *

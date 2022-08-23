@@ -9,7 +9,7 @@
 |Rhys Hoskins      |1B        |     19|  3|   6|  2|  1| 
 |Brendan Rodgers   |2B        |     22|  6|   7|  1|  0| 
 |Ryan McMahon      |3B        |     16|  8|   6|  2|  0| 
-|Marcus Semien     |SS        |     16|  9|   9|  4|  0| 
+|Marcus Semien     |SS        |     17|  9|   9|  4|  0| 
 |Gleyber Torres    |MI        |     10|  5|   3|  2|  0| 
 |Rowdy Tellez      |CI        |     14|  6|   4|  4|  0| 
 |Cedric Mullins    |OF        |     17|  7|   3|  2|  1| 
@@ -44,7 +44,7 @@
 |Hector Neris        |OP          |  7|  7.000|  2|  2.571|      8| 1.143|  8|  0|  1| 
 |Kyle Finnegan       |OP          |  6|  6.000|  2|  3.000|      9| 1.500|  6|  2|  3| 
 |Rafael Montero      |OP          |  7|  5.333|  6| 10.125|     12| 2.250|  6|  0|  0| 
-|Ryan Tepera         |OP          |  3|  3.000|  0|  0.000|      1| 0.333|  1|  1|  1| 
+|Ryan Tepera         |OP          |  4|  4.000|  0|  0.000|      2| 0.500|  1|  1|  1| 
 |Tyler Wells         |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Tylor Megill        |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Walker Buehler      |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 

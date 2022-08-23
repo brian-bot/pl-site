@@ -5,23 +5,23 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto      |C         |     14|  4|   4|  1|  2| 
-|Pete Alonso        |1B        |     15|  5|   7|  1|  1| 
-|Jonathan India     |2B        |      9|  4|   2|  1|  0| 
+|J.T. Realmuto      |C         |     16|  5|   5|  1|  2| 
+|Pete Alonso        |1B        |     15|  6|   7|  1|  1| 
+|Jonathan India     |2B        |     12|  4|   2|  1|  0| 
 |Matt Chapman       |3B        |     13|  8|   3|  3|  1| 
 |Dansby Swanson     |SS        |     21|  8|  10|  0|  2| 
-|Kolten Wong        |MI        |      6|  1|   4|  0|  1| 
+|Kolten Wong        |MI        |      8|  1|   4|  0|  2| 
 |Trey Mancini       |CI        |      8|  4|   3|  1|  0| 
 |J.D. Martinez      |OF        |     15|  5|   4|  0|  0| 
 |Kyle Tucker        |OF        |     23| 10|  15|  3|  3| 
 |Ramon Laureano     |OF        |      7|  0|   2|  0|  0| 
 |Yordan Alvarez     |OF        |     15|  8|   6|  1|  0| 
-|AJ Pollock         |DH        |     14|  6|   3|  2|  0| 
+|AJ Pollock         |DH        |     15|  6|   3|  2|  0| 
 |Nolan Gorman       |DH        |     11|  6|   6|  1|  0| 
 |Santiago Espinal   |DH        |     14|  3|   3|  0|  0| 
-|Vinnie Pasquantino |DH        |     23|  7|   9|  5|  0| 
+|Vinnie Pasquantino |DH        |     24|  8|   9|  5|  0| 
 |Jazz Chisholm Jr.  |BAT BENCH |     **| **|  **| **| **| 
-|Max Kepler         |BAT BENCH |      8|  5|   2|  0|  1| 
+|Max Kepler         |BAT BENCH |      9|  5|   2|  0|  1| 
 |Miguel Vargas      |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -44,9 +44,9 @@
 |Evan Phillips    |OP          |  4|  4.000|  0| 0.000|      0| 0.000|  4|  0|  1| 
 |Jose Urquidy     |OP          |  3| 19.667|  8| 3.661|     20| 1.017| 14|  2|  0| 
 |Luis Garcia      |OP          |  2| 11.000|  7| 5.727|     21| 1.909| 10|  2|  0| 
-|Tanner Scott     |OP          |  4|  4.333|  3| 6.231|     11| 2.538|  5|  0|  2| 
+|Tanner Scott     |OP          |  5|  5.333|  3| 5.062|     12| 2.250|  6|  0|  3| 
 |Jack Flaherty    |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
-|Roansy Contreras |PITCH BENCH |  1|  6.000|  4| 6.000|     10| 1.667|  3|  0|  0| 
+|Roansy Contreras |PITCH BENCH |  2| 13.000|  6| 4.154|     17| 1.308|  8|  0|  0| 
 |Trevor Rogers    |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 
 
