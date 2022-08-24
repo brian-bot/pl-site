@@ -6,22 +6,22 @@
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Willson Contreras   |C         |     14|  7|  10|  4|  1| 
-|Paul Goldschmidt    |1B        |     26| 13|  16|  5|  0| 
-|Jose Altuve         |2B        |     18|  7|   6|  1|  3| 
-|Jose Ramirez        |3B        |     16|  6|  12|  2|  0| 
+|Paul Goldschmidt    |1B        |     29| 13|  16|  5|  0| 
+|Jose Altuve         |2B        |     20|  8|   6|  1|  3| 
+|Jose Ramirez        |3B        |     17|  6|  13|  2|  0| 
 |Tim Anderson        |SS        |     **| **|  **| **| **| 
-|Mookie Betts        |MI        |     18| 11|   3|  2|  3| 
-|Austin Riley        |CI        |     19|  6|   9|  2|  0| 
-|Austin Hays         |OF        |     15|  6|   3|  1|  0| 
-|Jesse Winker        |OF        |     10|  5|   6|  2|  0| 
-|Lourdes Gurriel Jr. |OF        |      9|  2|   4|  0|  0| 
+|Mookie Betts        |MI        |     21| 14|   3|  2|  3| 
+|Austin Riley        |CI        |     21|  6|  11|  2|  0| 
+|Austin Hays         |OF        |     16|  7|   3|  1|  0| 
+|Jesse Winker        |OF        |     11|  6|   6|  2|  0| 
+|Lourdes Gurriel Jr. |OF        |     10|  3|   5|  0|  0| 
 |Marcell Ozuna       |OF        |      4|  2|   4|  1|  0| 
-|Andrew Benintendi   |DH        |     20|  7|   7|  1|  1| 
-|Leody Taveras       |DH        |     17|  4|   7|  0|  2| 
+|Andrew Benintendi   |DH        |     22|  7|   8|  1|  1| 
+|Leody Taveras       |DH        |     18|  4|   7|  0|  2| 
 |Matt Carpenter      |DH        |      0|  0|   0|  0|  0| 
-|William Contreras   |DH        |     15|  5|   3|  1|  0| 
+|William Contreras   |DH        |     16|  6|   3|  1|  0| 
 |Esteury Ruiz        |BAT BENCH |     **| **|  **| **| **| 
-|Jeff McNeil         |BAT BENCH |     26|  8|   7|  1|  0| 
+|Jeff McNeil         |BAT BENCH |     28|  8|   8|  1|  0| 
 |Trevor Story        |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -33,10 +33,10 @@
 |players          |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Brady Singer     |SP          |  3| 19.333|  3|  1.397|     18| 0.931| 20|  2|  0| 
-|Frankie Montas   |SP          |  2| 11.000|  8|  6.545|     16| 1.455|  6|  0|  0| 
+|Frankie Montas   |SP          |  3| 16.667| 10|  5.400|     23| 1.380| 12|  0|  0| 
 |Kyle Gibson      |SP          |  3| 16.333|  7|  3.857|     25| 1.531| 17|  1|  0| 
 |Martin Perez     |SP          |  3| 17.000| 10|  5.294|     26| 1.529| 16|  0|  0| 
-|Pablo Lopez      |SP          |  2| 10.333|  8|  6.968|     13| 1.258|  6|  0|  0| 
+|Pablo Lopez      |SP          |  3| 16.333|  8|  4.408|     19| 1.163| 11|  1|  0| 
 |Zack Wheeler     |SP          |  3| 17.333| 11|  5.712|     27| 1.558| 19|  1|  0| 
 |Edwin Diaz       |RP          |  4|  4.000|  1|  2.250|      5| 1.250|  6|  0|  2| 
 |Josh Hader       |RP          |  4|  2.333|  6| 23.143|     10| 4.286|  3|  0|  0| 

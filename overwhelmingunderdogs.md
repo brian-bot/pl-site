@@ -8,19 +8,19 @@
 |Keibert Ruiz     |C         |     16|  4|   7|  2|  1| 
 |Hunter Dozier    |1B        |      5|  0|   0|  0|  0| 
 |Max Muncy        |2B        |     22|  7|  10|  5|  0| 
-|Alex Bregman     |3B        |     26| 15|  16|  5|  1| 
-|Corey Seager     |SS        |     21| 10|   7|  2|  0| 
+|Alex Bregman     |3B        |     29| 17|  18|  6|  1| 
+|Corey Seager     |SS        |     23| 12|   7|  2|  0| 
 |DJ LeMahieu      |MI        |     11|  1|   2|  0|  0| 
 |Justin Turner    |CI        |     16|  3|   8|  1|  2| 
-|Adolis Garcia    |OF        |     20| 11|   6|  2|  4| 
-|Charlie Blackmon |OF        |     14|  3|   9|  0|  0| 
+|Adolis Garcia    |OF        |     22| 11|   7|  2|  5| 
+|Charlie Blackmon |OF        |     17|  3|  10|  0|  0| 
 |Juan Soto        |OF        |     25| 11|   4|  2|  0| 
-|Mark Canha       |OF        |     19|  8|  10|  3|  0| 
+|Mark Canha       |OF        |     21|  9|  10|  3|  0| 
 |Brandon Belt     |DH        |      8|  1|   1|  0|  0| 
 |Daniel Vogelbach |DH        |     16|  5|   9|  2|  0| 
 |Julio Rodriguez  |DH        |     14|  7|   6|  1|  2| 
-|Tommy Edman      |DH        |     11|  7|   2|  1|  2| 
-|Brendan Donovan  |BAT BENCH |     10|  5|   2|  0|  0| 
+|Tommy Edman      |DH        |     13|  9|   5|  2|  2| 
+|Brendan Donovan  |BAT BENCH |     13|  5|   4|  0|  0| 
 |C.J. Abrams      |BAT BENCH |     **| **|  **| **| **| 
 |Kris Bryant      |BAT BENCH |     **| **|  **| **| **| 
 |Ozzie Albies     |BAT BENCH |     **| **|  **| **| **| 
@@ -33,7 +33,7 @@
 |players              |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:--------------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Andrew Heaney        |SP          |  2|  7.667|  5| 5.870|      9| 1.174| 15|  0|  0| 
-|Carlos Rodon         |SP          |  2| 12.000|  3| 2.250|     10| 0.833| 18|  1|  0| 
+|Carlos Rodon         |SP          |  3| 19.000|  4| 1.895|     15| 0.789| 28|  2|  0| 
 |Eric Lauer           |SP          |  3| 18.000|  5| 2.500|     21| 1.167| 14|  1|  0| 
 |Joe Musgrove         |SP          |  3| 19.000|  5| 2.368|     18| 0.947| 16|  0|  0| 
 |Jose Quintana        |SP          |  3| 13.667|  6| 3.951|     25| 1.829|  9|  1|  0| 
