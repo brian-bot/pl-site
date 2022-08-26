@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Gary Sanchez      |C         |      9|  3|   2|  1|  0| 
+|Gary Sanchez      |C         |     10|  4|   2|  1|  0| 
 |Rhys Hoskins      |1B        |     23|  4|   9|  2|  1| 
-|Brendan Rodgers   |2B        |     25|  6|   7|  1|  0| 
-|Ryan McMahon      |3B        |     16|  9|   7|  2|  0| 
+|Brendan Rodgers   |2B        |     26|  6|   7|  1|  0| 
+|Ryan McMahon      |3B        |     17| 10|   8|  3|  0| 
 |Marcus Semien     |SS        |     21| 13|  11|  5|  0| 
-|Gleyber Torres    |MI        |     12|  5|   3|  2|  1| 
+|Gleyber Torres    |MI        |     15|  7|   3|  2|  1| 
 |Rowdy Tellez      |CI        |     14|  6|   4|  4|  0| 
-|Cedric Mullins    |OF        |     21|  9|   3|  2|  1| 
+|Cedric Mullins    |OF        |     23| 10|   3|  2|  1| 
 |Joc Pederson      |OF        |     17|  4|   4|  1|  0| 
 |Mike Yastrzemski  |OF        |     15|  8|   3|  1|  2| 
-|Randal Grichuk    |OF        |     19|  8|   5|  2|  0| 
+|Randal Grichuk    |OF        |     21|  8|   5|  2|  0| 
 |Andres Gimenez    |DH        |     23|  7|   9|  3|  3| 
-|Jose Miranda      |DH        |     18|  3|   7|  2|  0| 
+|Jose Miranda      |DH        |     19|  3|   7|  2|  0| 
 |Myles Straw       |DH        |      6|  3|   2|  0|  2| 
-|Teoscar Hernandez |DH        |     11|  5|   7|  2|  0| 
+|Teoscar Hernandez |DH        |     13|  6|   7|  2|  0| 
 |Connor Joe        |BAT BENCH |      8|  3|   2|  1|  0| 
 |Eduardo Escobar   |BAT BENCH |      3|  0|   1|  0|  0| 
 |Garrett Cooper    |BAT BENCH |      8|  0|   0|  0|  0| 
@@ -41,9 +41,9 @@
 |Mark Melancon       |RP          |  6|  5.000|  5| 9.000|      8| 1.600|  3|  0|  2| 
 |Michael King        |RP          | **|     **| **|    **|     **|    **| **| **| **| 
 |Dustin May          |OP          |  1|  5.000|  0| 0.000|      3| 0.600|  9|  1|  0| 
-|Hector Neris        |OP          |  8|  8.333|  4| 4.320|     12| 1.440| 10|  0|  1| 
+|Hector Neris        |OP          |  9|  9.333|  4| 3.857|     12| 1.286| 12|  0|  1| 
 |Kyle Finnegan       |OP          |  7|  7.333|  2| 2.455|     11| 1.500|  7|  3|  3| 
-|Rafael Montero      |OP          |  8|  6.333|  7| 9.947|     15| 2.368|  6|  0|  0| 
+|Rafael Montero      |OP          |  9|  7.333|  7| 8.591|     15| 2.045|  7|  0|  1| 
 |Ryan Tepera         |OP          |  5|  5.000|  1| 1.800|      3| 0.600|  1|  1|  1| 
 |Tyler Wells         |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 |Tylor Megill        |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 

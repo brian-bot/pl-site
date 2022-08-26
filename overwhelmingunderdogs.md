@@ -8,7 +8,7 @@
 |Keibert Ruiz     |C         |     18|  5|   7|  2|  1| 
 |Hunter Dozier    |1B        |      7|  0|   0|  0|  0| 
 |Max Muncy        |2B        |     22|  7|  12|  5|  0| 
-|Alex Bregman     |3B        |     30| 17|  19|  6|  1| 
+|Alex Bregman     |3B        |     33| 20|  19|  6|  1| 
 |Corey Seager     |SS        |     26| 15|   9|  2|  0| 
 |DJ LeMahieu      |MI        |     11|  1|   2|  0|  0| 
 |Justin Turner    |CI        |     18|  5|   9|  1|  2| 
@@ -17,10 +17,10 @@
 |Juan Soto        |OF        |     25| 11|   4|  2|  0| 
 |Mark Canha       |OF        |     21|  9|  10|  3|  0| 
 |Brandon Belt     |DH        |      8|  1|   1|  0|  0| 
-|Daniel Vogelbach |DH        |     16|  5|   9|  2|  0| 
-|Julio Rodriguez  |DH        |     15|  8|   7|  2|  2| 
-|Tommy Edman      |DH        |     14|  9|   5|  2|  2| 
-|Brendan Donovan  |BAT BENCH |     14|  5|   4|  0|  0| 
+|Daniel Vogelbach |DH        |     17|  5|   9|  2|  0| 
+|Julio Rodriguez  |DH        |     16|  9|   7|  2|  2| 
+|Tommy Edman      |DH        |     17|  9|   5|  2|  3| 
+|Brendan Donovan  |BAT BENCH |     17|  7|   4|  0|  0| 
 |C.J. Abrams      |BAT BENCH |     **| **|  **| **| **| 
 |Kris Bryant      |BAT BENCH |     **| **|  **| **| **| 
 |Ozzie Albies     |BAT BENCH |     **| **|  **| **| **| 
@@ -43,7 +43,7 @@
 |David Robertson      |OP          |  7|  7.667|  2| 2.348|      8| 1.043|  9|  0|  3| 
 |Devin Williams       |OP          |  5|  4.667|  1| 1.929|      4| 0.857|  6|  2|  1| 
 |Jake Odorizzi        |OP          |  3| 15.000|  8| 4.800|     23| 1.533| 11|  1|  0| 
-|James Kaprielian     |OP          |  3| 15.333|  7| 4.109|     24| 1.565| 14|  0|  0| 
+|James Kaprielian     |OP          |  4| 18.000| 15| 7.500|     37| 2.056| 16|  0|  0| 
 |Ryan Pepiot          |OP          |  3| 15.000|  9| 5.400|     22| 1.467| 17|  1|  0| 
 |A.J. Puk             |PITCH BENCH |  6|  5.667|  3| 4.765|      7| 1.235| 10|  1|  0| 
 |Clayton Kershaw      |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 

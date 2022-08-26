@@ -6,20 +6,20 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith        |C         |     18|  8|  14|  2|  0| 
-|Jose Abreu        |1B        |     30|  9|   3|  0|  0| 
+|Jose Abreu        |1B        |     31|  9|   4|  0|  0| 
 |Whit Merrifield   |2B        |     11|  4|   1|  1|  0| 
 |Manny Machado     |3B        |     27|  9|  16|  3|  0| 
-|Xander Bogaerts   |SS        |     12|  7|   3|  1|  0| 
-|Jose Iglesias     |MI        |     13|  7|   7|  0|  0| 
+|Xander Bogaerts   |SS        |     15|  8|   3|  1|  0| 
+|Jose Iglesias     |MI        |     15|  7|   7|  0|  0| 
 |Alec Bohm         |CI        |     22|  6|  13|  2|  0| 
 |Bryan Reynolds    |OF        |     21| 10|  11|  4|  0| 
 |Chris Taylor      |OF        |     15|  4|   2|  2|  1| 
-|Eloy Jimenez      |OF        |     30|  6|   6|  1|  0| 
+|Eloy Jimenez      |OF        |     31|  6|   6|  1|  0| 
 |Luis Robert       |OF        |     14|  4|   0|  0|  0| 
-|Anthony Rizzo     |DH        |     14|  4|   2|  1|  0| 
-|Ian Happ          |DH        |     20|  8|  10|  4|  1| 
+|Anthony Rizzo     |DH        |     16|  5|   3|  1|  0| 
+|Ian Happ          |DH        |     23|  9|  12|  4|  1| 
 |Michael Harris II |DH        |     23| 16|  10|  3|  3| 
-|Shohei Ohtani     |DH        |     24|  8|   7|  3|  0| 
+|Shohei Ohtani     |DH        |     25|  9|   8|  3|  0| 
 |Aaron Hicks       |BAT BENCH |      5|  0|   0|  0|  0| 
 |Joey Gallo        |BAT BENCH |     14|  8|   7|  3|  0| 
 |Ke'Bryan Hayes    |BAT BENCH |      8|  2|   0|  0|  1| 
