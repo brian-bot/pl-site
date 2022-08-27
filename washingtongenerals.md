@@ -5,19 +5,19 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Gary Sanchez      |C         |     10|  4|   2|  1|  0| 
-|Rhys Hoskins      |1B        |     23|  4|   9|  2|  1| 
-|Brendan Rodgers   |2B        |     26|  6|   7|  1|  0| 
-|Ryan McMahon      |3B        |     17| 10|   8|  3|  0| 
-|Marcus Semien     |SS        |     21| 13|  11|  5|  0| 
-|Gleyber Torres    |MI        |     15|  7|   3|  2|  1| 
-|Rowdy Tellez      |CI        |     14|  6|   4|  4|  0| 
-|Cedric Mullins    |OF        |     23| 10|   3|  2|  1| 
-|Joc Pederson      |OF        |     17|  4|   4|  1|  0| 
-|Mike Yastrzemski  |OF        |     15|  8|   3|  1|  2| 
-|Randal Grichuk    |OF        |     21|  8|   5|  2|  0| 
-|Andres Gimenez    |DH        |     23|  7|   9|  3|  3| 
-|Jose Miranda      |DH        |     19|  3|   7|  2|  0| 
+|Gary Sanchez      |C         |     11|  5|   4|  2|  0| 
+|Rhys Hoskins      |1B        |     25|  6|  10|  2|  1| 
+|Brendan Rodgers   |2B        |     27|  7|   9|  1|  0| 
+|Ryan McMahon      |3B        |     20| 11|   8|  3|  0| 
+|Marcus Semien     |SS        |     22| 13|  11|  5|  0| 
+|Gleyber Torres    |MI        |     16|  7|   3|  2|  1| 
+|Rowdy Tellez      |CI        |     17|  7|   5|  5|  0| 
+|Cedric Mullins    |OF        |     25| 10|   3|  2|  2| 
+|Joc Pederson      |OF        |     19|  4|   4|  1|  0| 
+|Mike Yastrzemski  |OF        |     16|  8|   3|  1|  2| 
+|Randal Grichuk    |OF        |     23|  8|   5|  2|  0| 
+|Andres Gimenez    |DH        |     24|  7|   9|  3|  3| 
+|Jose Miranda      |DH        |     20|  3|   8|  2|  0| 
 |Myles Straw       |DH        |      6|  3|   2|  0|  2| 
 |Teoscar Hernandez |DH        |     13|  6|   7|  2|  0| 
 |Connor Joe        |BAT BENCH |      8|  3|   2|  1|  0| 
@@ -32,11 +32,11 @@
  
 |players             |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:-------------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Chris Bassitt       |SP          |  3| 19.000|  2| 0.947|     22| 1.158| 17|  3|  0| 
+|Chris Bassitt       |SP          |  4| 26.333|  6| 2.051|     31| 1.177| 18|  3|  0| 
 |Corbin Burnes       |SP          |  3| 16.333| 11| 6.061|     20| 1.224| 15|  1|  0| 
-|Lance McCullers Jr. |SP          |  2| 11.000|  3| 2.455|     16| 1.455| 11|  1|  0| 
+|Lance McCullers Jr. |SP          |  3| 16.000|  3| 1.688|     23| 1.438| 13|  1|  0| 
 |Logan Webb          |SP          |  3| 17.333|  9| 4.673|     27| 1.558| 15|  1|  0| 
-|Michael Wacha       |SP          |  2| 12.667|  0| 0.000|      8| 0.632| 13|  2|  0| 
+|Michael Wacha       |SP          |  3| 18.667|  4| 1.929|     14| 0.750| 19|  3|  0| 
 |Taijuan Walker      |SP          |  3| 13.000|  4| 2.769|     17| 1.308|  8|  1|  0| 
 |Mark Melancon       |RP          |  6|  5.000|  5| 9.000|      8| 1.600|  3|  0|  2| 
 |Michael King        |RP          | **|     **| **|    **|     **|    **| **| **| **| 
