@@ -5,22 +5,22 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Keibert Ruiz     |C         |     19|  5|   7|  2|  1| 
-|Hunter Dozier    |1B        |      7|  0|   0|  0|  0| 
+|Keibert Ruiz     |C         |     20|  5|   7|  2|  1| 
+|Hunter Dozier    |1B        |      9|  0|   1|  0|  0| 
 |Max Muncy        |2B        |     25|  7|  14|  5|  0| 
 |Alex Bregman     |3B        |     35| 20|  19|  6|  1| 
-|Corey Seager     |SS        |     26| 15|   9|  2|  0| 
-|DJ LeMahieu      |MI        |     12|  2|   2|  0|  0| 
-|Justin Turner    |CI        |     21|  5|  10|  1|  2| 
-|Adolis Garcia    |OF        |     25| 13|   8|  2|  6| 
+|Corey Seager     |SS        |     28| 15|   9|  2|  0| 
+|DJ LeMahieu      |MI        |     13|  2|   2|  0|  0| 
+|Justin Turner    |CI        |     23|  5|  10|  1|  2| 
+|Adolis Garcia    |OF        |     27| 14|   9|  3|  6| 
 |Charlie Blackmon |OF        |     19|  3|  10|  0|  0| 
-|Juan Soto        |OF        |     25| 11|   4|  2|  0| 
-|Mark Canha       |OF        |     24| 10|  13|  3|  0| 
+|Juan Soto        |OF        |     27| 12|   4|  2|  0| 
+|Mark Canha       |OF        |     27| 11|  13|  3|  0| 
 |Brandon Belt     |DH        |      8|  1|   1|  0|  0| 
 |Daniel Vogelbach |DH        |     17|  5|   9|  2|  0| 
-|Julio Rodriguez  |DH        |     17|  9|   7|  2|  2| 
+|Julio Rodriguez  |DH        |     18| 10|   8|  3|  2| 
 |Tommy Edman      |DH        |     18| 11|   5|  2|  4| 
-|Brendan Donovan  |BAT BENCH |     19|  7|   5|  0|  0| 
+|Brendan Donovan  |BAT BENCH |     20|  8|   5|  0|  0| 
 |C.J. Abrams      |BAT BENCH |     **| **|  **| **| **| 
 |Kris Bryant      |BAT BENCH |     **| **|  **| **| **| 
 |Ozzie Albies     |BAT BENCH |     **| **|  **| **| **| 
@@ -45,7 +45,7 @@
 |Jake Odorizzi        |OP          |  3| 15.000|  8| 4.800|     23| 1.533| 11|  1|  0| 
 |James Kaprielian     |OP          |  4| 18.000| 15| 7.500|     37| 2.056| 16|  0|  0| 
 |Ryan Pepiot          |OP          |  3| 15.000|  9| 5.400|     22| 1.467| 17|  1|  0| 
-|A.J. Puk             |PITCH BENCH |  6|  5.667|  3| 4.765|      7| 1.235| 10|  1|  0| 
+|A.J. Puk             |PITCH BENCH |  7|  6.667|  3| 4.050|      9| 1.350| 11|  1|  0| 
 |Clayton Kershaw      |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 
 
