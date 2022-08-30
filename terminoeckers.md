@@ -3,52 +3,51 @@
 ### Batters
 
  
-|players           |position  | hitsbb|  r| rbi| hr| sb| 
-|:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Daulton Varsho    |C         |     18|  9|   7|  2|  1| 
-|Freddie Freeman   |1B        |     29| 15|   9|  1|  1| 
-|Trea Turner       |2B        |     32| 15|   9|  0|  1| 
-|Wilmer Flores     |3B        |     20|  3|   3|  0|  0| 
-|Paul DeJong       |SS        |     16|  4|   7|  2|  0| 
-|Nico Hoerner      |MI        |     27|  8|   7|  1|  3| 
-|Luke Voit         |CI        |     14|  5|   5|  3|  0| 
-|Byron Buxton      |OF        |     16|  4|   4|  2|  3| 
-|Christian Yelich  |OF        |     24| 11|   7|  2|  0| 
-|Nick Castellanos  |OF        |     26|  7|   7|  3|  3| 
-|Randy Arozarena   |OF        |     30|  9|  16|  5|  3| 
-|Hunter Renfroe    |DH        |     22|  6|  11|  4|  0| 
-|Joey Votto        |DH        |      5|  1|   2|  0|  0| 
-|Steven Kwan       |DH        |     31| 16|   7|  1|  3| 
-|Ty France         |DH        |      9|  3|   6|  0|  0| 
-|Christopher Morel |BAT BENCH |     11|  7|   5|  3|  0| 
-|Jeremy Pena       |BAT BENCH |     15|  8|   7|  1|  1| 
-|Seiya Suzuki      |BAT BENCH |     28| 10|   8|  2|  2| 
-|Tommy Pham        |BAT BENCH |     23| 11|  10|  2|  0| 
-
+|players          |position  | hitsbb|  r| rbi| hr| sb| 
+|:----------------|:---------|------:|--:|---:|--:|--:| 
+|Daulton Varsho   |C         |      1|  1|   0|  0|  0| 
+|Freddie Freeman  |1B        |      4|  2|   1|  0|  0| 
+|Trea Turner      |2B        |      4|  1|   0|  0|  1| 
+|Donovan Solano   |3B        |      2|  0|   0|  0|  0| 
+|Nico Hoerner     |SS        |      4|  1|   4|  1|  0| 
+|Bryson Stott     |MI        |      1|  0|   0|  0|  0| 
+|Ha-Seong Kim     |CI        |      0|  0|   0|  0|  0| 
+|Christian Yelich |OF        |      4|  2|   2|  1|  0| 
+|Hunter Renfroe   |OF        |      6|  1|   4|  0|  0| 
+|Nick Castellanos |OF        |      0|  0|   0|  0|  0| 
+|Randy Arozarena  |OF        |      3|  2|   2|  0|  0| 
+|Jake McCarthy    |DH        |      1|  0|   1|  0|  0| 
+|Lars Nootbaar    |DH        |      4|  4|   2|  1|  0| 
+|Riley Greene     |DH        |      3|  2|   0|  0|  0| 
+|Steven Kwan      |DH        |      0|  0|   0|  0|  0| 
+|Byron Buxton     |BAT BENCH |     **| **|  **| **| **| 
+|Luke Voit        |BAT BENCH |      2|  0|   0|  0|  0| 
+|Seiya Suzuki     |BAT BENCH |      5|  2|   1|  0|  0| 
+|Tommy Pham       |BAT BENCH |      4|  2|   1|  1|  0| 
+|Ty France        |BAT BENCH |      2|  1|   1|  1|  0| 
 
 * * *
 
 ### Pitchers
 
  
-|players            |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
-|:------------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Dylan Cease        |SP          |  3| 16.333|  8| 4.408|     20| 1.224| 16|  0|  0| 
-|Julio Urias        |SP          |  3| 18.000|  2| 1.000|     14| 0.778| 21|  2|  0| 
-|Reid Detmers       |SP          |  3| 14.667|  6| 3.682|     27| 1.841| 17|  1|  0| 
-|Sandy Alcantara    |SP          |  4| 27.333| 11| 3.622|     34| 1.244| 26|  2|  0| 
-|Shane McClanahan   |SP          |  3| 19.000|  4| 1.895|     20| 1.053| 21|  1|  0| 
-|Yu Darvish         |SP          |  3| 21.333| 10| 4.219|     20| 0.937| 21|  1|  0| 
-|Clay Holmes        |RP          |  3|  2.333|  2| 7.714|      5| 2.143|  1|  0|  0| 
-|Ryan Helsley       |RP          |  4|  5.000|  1| 1.800|      4| 0.800|  7|  2|  1| 
-|Andres Munoz       |OP          |  8|  8.000|  3| 3.375|      8| 1.000| 16|  1|  1| 
-|Jesus Luzardo      |OP          |  3| 18.333|  7| 3.436|     20| 1.091| 17|  0|  0| 
-|Jonathan Hernandez |OP          |  7|  8.000|  1| 1.125|     10| 1.250|  6|  1|  2| 
-|Nick Lodolo        |OP          |  3| 17.000|  8| 4.235|     23| 1.353| 19|  0|  0| 
-|Triston McKenzie   |OP          |  3| 19.667|  7| 3.203|     18| 0.915| 21|  1|  0| 
-|Aaron Ashby        |PITCH BENCH |  2| 11.000|  8| 6.545|     13| 1.182| 13|  0|  0| 
-|Josiah Gray        |PITCH BENCH |  3| 17.333|  6| 3.115|     23| 1.327| 18|  0|  0| 
-|Patrick Sandoval   |PITCH BENCH |  3| 20.000|  3| 1.350|     19| 0.950| 18|  1|  0| 
+|players          |position    |  g|    ip| er|  era| hitsbb|  whip| so|  w| sv| 
+|:----------------|:-----------|--:|-----:|--:|----:|------:|-----:|--:|--:|--:| 
+|Dylan Cease      |SP          |  1| 8.000|  2| 2.25|      3| 0.375|  8|  0|  0| 
+|Julio Urias      |SP          |  1| 6.000|  1| 1.50|      5| 0.833|  7|  1|  0| 
+|Sandy Alcantara  |SP          | **|    **| **|   **|     **|    **| **| **| **| 
+|Shane McClanahan |SP          | **|    **| **|   **|     **|    **| **| **| **| 
+|Triston McKenzie |SP          | **|    **| **|   **|     **|    **| **| **| **| 
+|Yu Darvish       |SP          | **|    **| **|   **|     **|    **| **| **| **| 
+|Clay Holmes      |RP          |  1| 1.000|  0| 0.00|      0| 0.000|  1|  0|  0| 
+|Ryan Helsley     |RP          |  1| 1.333|  1| 6.75|      1| 0.750|  3|  1|  0| 
+|Andres Munoz     |OP          | **|    **| **|   **|     **|    **| **| **| **| 
+|Brandon Hughes   |OP          |  1| 1.333|  0| 0.00|      1| 0.750|  1|  0|  0| 
+|Brayan Bello     |OP          |  1| 4.000|  3| 6.75|      8| 2.000|  2|  0|  0| 
+|Jesus Luzardo    |OP          | **|    **| **|   **|     **|    **| **| **| **| 
+|Patrick Sandoval |OP          | **|    **| **|   **|     **|    **| **| **| **| 
+|Bailey Falter    |PITCH BENCH | **|    **| **|   **|     **|    **| **| **| **| 
+|Reid Detmers     |PITCH BENCH | **|    **| **|   **|     **|    **| **| **| **| 
 
 
 * * *
