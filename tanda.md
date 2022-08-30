@@ -11,7 +11,7 @@
 |Josh Rojas       |3B        |      1|  0|   0|  0|  0| 
 |Francisco Lindor |SS        |      0|  0|   0|  0|  0| 
 |Bo Bichette      |MI        |      6|  1|   0|  0|  1| 
-|Kyle Schwarber   |CI        |      0|  0|   0|  0|  0| 
+|Kyle Schwarber   |CI        |      2|  1|   4|  1|  0| 
 |Andrew McCutchen |OF        |      1|  0|   0|  0|  0| 
 |Brandon Nimmo    |OF        |      0|  0|   0|  0|  0| 
 |Mitch Haniger    |OF        |      1|  0|   0|  0|  0| 
@@ -42,7 +42,7 @@
 |Daniel Bard       |OP          |  1| 1.000|  0|  0.000|      1| 1.000|  1|  0|  1| 
 |Domingo German    |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Jameson Taillon   |OP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Mike Clevinger    |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Mike Clevinger    |OP          |  1| 5.000|  2|  3.600|      6| 1.200|  3|  1|  0| 
 |Alex Cobb         |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Alex Wood         |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Corey Kluber      |PITCH BENCH |  1| 6.000|  3|  4.500|      8| 1.333|  4|  1|  0| 

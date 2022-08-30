@@ -6,15 +6,15 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Gary Sanchez      |C         |      1|  0|   0|  0|  0| 
-|Rhys Hoskins      |1B        |     **| **|  **| **| **| 
+|Rhys Hoskins      |1B        |      2|  1|   0|  0|  0| 
 |Brendan Rodgers   |2B        |      0|  0|   0|  0|  0| 
 |Ryan McMahon      |3B        |      0|  0|   0|  0|  0| 
 |Marcus Semien     |SS        |      2|  2|   1|  0|  0| 
 |Gleyber Torres    |MI        |      0|  0|   0|  0|  0| 
 |Rowdy Tellez      |CI        |      5|  1|   0|  0|  0| 
 |Cedric Mullins    |OF        |      2|  0|   0|  0|  1| 
-|Joc Pederson      |OF        |     **| **|  **| **| **| 
-|Mike Yastrzemski  |OF        |      1|  0|   0|  0|  0| 
+|Joc Pederson      |OF        |      1|  1|   2|  1|  0| 
+|Mike Yastrzemski  |OF        |      2|  0|   0|  0|  0| 
 |Randal Grichuk    |OF        |      3|  0|   0|  0|  0| 
 |Andres Gimenez    |DH        |      1|  0|   0|  0|  0| 
 |Garrett Cooper    |DH        |      2|  1|   0|  0|  0| 

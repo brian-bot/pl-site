@@ -6,18 +6,18 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Sean Murphy       |C         |     **| **|  **| **| **| 
-|Josh Bell         |1B        |      2|  0|   1|  0|  0| 
+|Josh Bell         |1B        |      6|  1|   2|  0|  0| 
 |Jorge Mateo       |2B        |      1|  0|   0|  0|  0| 
 |Rafael Devers     |3B        |      0|  0|   0|  0|  0| 
 |Bobby Witt Jr.    |SS        |      0|  1|   1|  0|  0| 
 |Willy Adames      |MI        |      5|  4|   1|  0|  0| 
-|Brandon Drury     |CI        |      0|  0|   0|  0|  0| 
+|Brandon Drury     |CI        |      2|  1|   3|  1|  0| 
 |Aaron Judge       |OF        |      3|  1|   1|  1|  0| 
 |Anthony Santander |OF        |      1|  1|   0|  0|  0| 
 |Trent Grisham     |OF        |      1|  1|   0|  0|  0| 
 |Tyler O'Neill     |OF        |      4|  4|   6|  3|  0| 
-|Christian Walker  |DH        |      0|  0|   0|  0|  0| 
-|Emmanuel Rivera   |DH        |     **| **|  **| **| **| 
+|Christian Walker  |DH        |      4|  2|   1|  0|  0| 
+|Emmanuel Rivera   |DH        |      2|  2|   1|  0|  0| 
 |Jesse Winker      |DH        |      0|  0|   0|  0|  0| 
 |Joey Gallo        |DH        |      1|  0|   0|  0|  0| 
 |Alejandro Kirk    |BAT BENCH |      3|  0|   0|  0|  0| 

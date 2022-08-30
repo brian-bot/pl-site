@@ -7,10 +7,10 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Christian Vazquez |C         |     **| **|  **| **| **| 
 |Vladimir Guerrero |1B        |      2|  1|   0|  0|  0| 
-|Ketel Marte       |2B        |     **| **|  **| **| **| 
+|Ketel Marte       |2B        |      3|  2|   1|  0|  0| 
 |Nolan Arenado     |3B        |      3|  1|   3|  0|  0| 
-|Thairo Estrada    |SS        |      1|  0|   0|  0|  0| 
-|Jake Cronenworth  |MI        |      2|  0|   0|  0|  0| 
+|Thairo Estrada    |SS        |      5|  1|   0|  0|  0| 
+|Jake Cronenworth  |MI        |      3|  1|   0|  0|  0| 
 |Luis Arraez       |CI        |      4|  2|   0|  0|  0| 
 |Andrew Vaughn     |OF        |      1|  1|   0|  0|  0| 
 |Cody Bellinger    |OF        |      2|  1|   0|  0|  0| 
@@ -21,7 +21,7 @@
 |Yandy Diaz        |DH        |      2|  1|   0|  0|  0| 
 |Yuli Gurriel      |DH        |      1|  0|   2|  0|  0| 
 |Austin Meadows    |BAT BENCH |     **| **|  **| **| **| 
-|Brandon Crawford  |BAT BENCH |      3|  0|   1|  0|  0| 
+|Brandon Crawford  |BAT BENCH |      5|  1|   1|  0|  0| 
 |Jarred Kelenic    |BAT BENCH |     **| **|  **| **| **| 
 |Yasmani Grandal   |BAT BENCH |     **| **|  **| **| **| 
 

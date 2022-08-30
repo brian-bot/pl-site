@@ -7,16 +7,16 @@ Through games on 2022-08-29 ([website build status](https://github.com/brian-bot
 
 |team                                              | points|  r| hitsbb| hr| rbi| sb|  w| sv| so|   era|  whip|
 |:-------------------------------------------------|------:|--:|------:|--:|---:|--:|--:|--:|--:|-----:|-----:|
-|[Mean Wieners](./meanwieners)                     |   52.5| 12|     18|  4|  10|  0|  0|  0| 13| 2.700| 1.100|
-|[Wonderbots](./wonderbots)                        |   52.0|  9|     25|  2|   8|  0|  1|  0| 18| 3.738| 1.200|
-|[Vass Deferens](./vassdeferens)                   |   54.0|  8|     18|  2|   7|  1|  0|  1|  0| 0.000| 0.750|
-|[SYWA](./sywa)                                    |   54.5|  8|     24|  3|  10|  0|  0|  0|  4| 0.000| 0.333|
-|[Overwhelming Underdogs](./overwhelmingunderdogs) |   73.5| 15|     29|  6|  18|  0|  3|  1| 20| 3.484| 1.258|
-|[T and A](./tanda)                                |   45.0|  4|     15|  1|   2|  1|  0|  1| 22| 4.950| 1.000|
-|[Terminoeckers](./terminoeckers)                  |   79.5| 16|     37|  3|  16|  1|  2|  0| 22| 2.908| 0.831|
-|[Boys of Summer](./boysofsummer)                  |   46.5|  7|     25|  2|   7|  0|  0|  1| 30| 5.341| 1.385|
-|[Nuclear Arms](./nucleararms)                     |   53.0| 15|     36|  8|  15|  0|  0|  0| 16| 8.274| 1.742|
-|[Washington Generals](./washingtongenerals)       |   39.5|  7|     23|  0|   2|  1|  0|  2| 10| 6.000| 1.333|
+|[Mean Wieners](./meanwieners)                     |   60.0| 18|     30|  5|  16|  0|  0|  0| 13| 2.700| 1.100|
+|[Wonderbots](./wonderbots)                        |   51.5| 13|     33|  2|   9|  0|  1|  0| 18| 3.738| 1.200|
+|[Vass Deferens](./vassdeferens)                   |   51.0|  8|     23|  2|   9|  1|  0|  2|  1| 0.000| 1.125|
+|[SYWA](./sywa)                                    |   55.5|  8|     25|  3|  12|  1|  0|  0|  4| 0.000| 0.333|
+|[Overwhelming Underdogs](./overwhelmingunderdogs) |   67.0| 16|     30|  6|  18|  0|  3|  1| 22| 4.743| 1.378|
+|[T and A](./tanda)                                |   52.0|  5|     17|  2|   6|  1|  1|  1| 25| 4.680| 1.040|
+|[Terminoeckers](./terminoeckers)                  |   78.0| 18|     41|  3|  17|  1|  2|  0| 22| 2.908| 0.831|
+|[Boys of Summer](./boysofsummer)                  |   40.5|  7|     25|  2|   7|  0|  0|  1| 30| 5.341| 1.385|
+|[Nuclear Arms](./nucleararms)                     |   52.5| 18|     39|  8|  15|  0|  0|  0| 20| 7.767| 1.767|
+|[Washington Generals](./washingtongenerals)       |   42.0|  9|     27|  1|   4|  1|  0|  2| 10| 6.000| 1.333|
 
 * * *
 * * *

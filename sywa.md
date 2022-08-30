@@ -5,7 +5,7 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto      |C         |      2|  0|   0|  0|  0| 
+|J.T. Realmuto      |C         |      3|  0|   2|  0|  1| 
 |Pete Alonso        |1B        |      2|  0|   0|  0|  0| 
 |Jonathan India     |2B        |      3|  1|   0|  0|  0| 
 |Matt Chapman       |3B        |      5|  2|   2|  0|  0| 

@@ -10,13 +10,13 @@
 |Trea Turner      |2B        |      4|  1|   0|  0|  1| 
 |Donovan Solano   |3B        |      2|  0|   0|  0|  0| 
 |Nico Hoerner     |SS        |      4|  1|   4|  1|  0| 
-|Bryson Stott     |MI        |      1|  0|   0|  0|  0| 
-|Ha-Seong Kim     |CI        |      0|  0|   0|  0|  0| 
+|Bryson Stott     |MI        |      3|  1|   0|  0|  0| 
+|Ha-Seong Kim     |CI        |      1|  0|   0|  0|  0| 
 |Christian Yelich |OF        |      4|  2|   2|  1|  0| 
 |Hunter Renfroe   |OF        |      6|  1|   4|  0|  0| 
 |Nick Castellanos |OF        |      0|  0|   0|  0|  0| 
 |Randy Arozarena  |OF        |      3|  2|   2|  0|  0| 
-|Jake McCarthy    |DH        |      1|  0|   1|  0|  0| 
+|Jake McCarthy    |DH        |      2|  1|   2|  0|  0| 
 |Lars Nootbaar    |DH        |      4|  4|   2|  1|  0| 
 |Riley Greene     |DH        |      3|  2|   0|  0|  0| 
 |Steven Kwan      |DH        |      0|  0|   0|  0|  0| 
