@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Alejandro Kirk    |C         |     15|  2|   7|  0|  0| 
-|Josh Bell         |1B        |     13|  7|   4|  2|  0| 
-|Jorge Mateo       |2B        |     19|  8|   8|  1|  1| 
-|Rafael Devers     |3B        |     11|  4|   3|  1|  0| 
-|Bobby Witt Jr.    |SS        |     12|  5|   4|  1|  2| 
-|Willy Adames      |MI        |     16|  3|   7|  2|  2| 
-|Patrick Wisdom    |CI        |     13|  6|   6|  2|  1| 
-|Aaron Judge       |OF        |     23|  7|   5|  3|  2| 
-|Anthony Santander |OF        |     22|  8|   8|  2|  0| 
-|Seth Brown        |OF        |     15|  2|   1|  0|  0| 
-|Tyler O'Neill     |OF        |     14|  6|   4|  1|  1| 
-|Brandon Drury     |DH        |     14|  8|   8|  2|  0| 
-|Brandon Lowe      |DH        |      8|  2|   1|  0|  0| 
-|Christian Walker  |DH        |     26| 12|   9|  3|  0| 
-|Sean Murphy       |DH        |     20|  6|   5|  3|  0| 
-|Luis Urias        |BAT BENCH |     11|  5|   1|  1|  0| 
-|Trent Grisham     |BAT BENCH |     17|  6|   6|  2|  1| 
+|Alejandro Kirk    |C         |     24|  3|   8|  0|  0| 
+|Josh Bell         |1B        |     21| 10|   5|  2|  0| 
+|Jorge Mateo       |2B        |     21|  8|   9|  1|  2| 
+|Rafael Devers     |3B        |     19|  5|   5|  1|  0| 
+|Bobby Witt Jr.    |SS        |     21| 10|   8|  3|  5| 
+|Willy Adames      |MI        |     24|  7|  12|  4|  2| 
+|Patrick Wisdom    |CI        |     15|  7|   6|  2|  1| 
+|Aaron Judge       |OF        |     34| 10|  12|  6|  3| 
+|Anthony Santander |OF        |     27| 10|  14|  4|  0| 
+|Seth Brown        |OF        |     18|  2|   2|  0|  0| 
+|Tyler O'Neill     |OF        |     23| 10|  10|  3|  1| 
+|Brandon Drury     |DH        |     17|  9|   9|  2|  0| 
+|Brandon Lowe      |DH        |     12|  2|   1|  0|  0| 
+|Christian Walker  |DH        |     34| 16|  11|  4|  0| 
+|Sean Murphy       |DH        |     29|  7|   5|  3|  0| 
+|Luis Urias        |BAT BENCH |     18|  7|   3|  2|  0| 
+|Trent Grisham     |BAT BENCH |     18|  6|   6|  2|  1| 
 
 
 * * *
@@ -29,26 +29,26 @@
 ### Pitchers
 
  
-|players          |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
-|:----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Alek Manoah      |SP          |  3| 16.667|  8|  4.320|     23| 1.380| 20|  0|  0| 
-|Jacob deGrom     |SP          |  2| 12.667|  3|  2.132|      7| 0.553| 19|  1|  0| 
-|Jeffrey Springs  |SP          |  2| 10.000|  3|  2.700|      9| 0.900| 12|  1|  0| 
-|Justin Verlander |SP          |  2| 13.000|  6|  4.154|     15| 1.154| 11|  0|  0| 
-|Kutter Crawford  |SP          |  2|  9.667| 11| 10.241|     17| 1.759|  7|  0|  0| 
-|Logan Gilbert    |SP          |  3| 15.000| 12|  7.200|     26| 1.733| 11|  0|  0| 
-|Felix Bautista   |RP          |  6|  6.333|  1|  1.421|      6| 0.947|  6|  0|  4| 
-|Paul Sewald      |RP          |  4|  4.000|  0|  0.000|      1| 0.250|  5|  0|  1| 
-|Dany Jimenez     |OP          |  5|  6.333|  0|  0.000|      7| 1.105|  6|  1|  0| 
-|James Karinchak  |OP          |  5|  5.333|  0|  0.000|      5| 0.938| 11|  1|  0| 
-|Jason Adam       |OP          |  6|  6.000|  0|  0.000|      4| 0.667|  8|  0|  2| 
-|Joe Ryan         |OP          |  3| 16.667|  9|  4.860|     23| 1.380| 16|  1|  0| 
-|Spencer Strider  |OP          |  2| 11.000|  2|  1.636|      9| 0.818| 13|  1|  0| 
-|David Bednar     |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Jhoan Duran      |PITCH BENCH |  5|  5.000|  1|  1.800|      5| 1.000|  9|  0|  0| 
-|Lucas Giolito    |PITCH BENCH |  2| 10.000| 11|  9.900|     18| 1.800| 12|  1|  0| 
-|Ross Stripling   |PITCH BENCH |  1|  6.333|  0|  0.000|      1| 0.158|  7|  0|  0| 
-|Wil Crowe        |PITCH BENCH |  4|  5.000|  3|  5.400|      7| 1.400|  2|  1|  0| 
+|players          |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
+|:----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
+|Alek Manoah      |SP          |  4| 23.667|  9| 3.423|     29| 1.225| 28|  0|  0| 
+|Jacob deGrom     |SP          |  3| 18.667|  4| 1.929|     11| 0.589| 28|  2|  0| 
+|Jeffrey Springs  |SP          |  4| 21.667|  9| 3.738|     26| 1.200| 27|  2|  0| 
+|Justin Verlander |SP          |  3| 19.000|  6| 2.842|     15| 0.789| 21|  1|  0| 
+|Kutter Crawford  |SP          |  3| 14.333| 15| 9.419|     29| 2.023| 12|  0|  0| 
+|Logan Gilbert    |SP          |  4| 21.333| 14| 5.906|     34| 1.594| 13|  0|  0| 
+|Felix Bautista   |RP          |  9| 11.333|  1| 0.794|      6| 0.529| 14|  1|  6| 
+|Paul Sewald      |RP          |  7|  7.000|  3| 3.857|      5| 0.714|  9|  0|  2| 
+|Dany Jimenez     |OP          |  6|  7.667|  1| 1.174|      8| 1.043|  6|  1|  0| 
+|James Karinchak  |OP          |  8|  8.333|  0| 0.000|      8| 0.960| 17|  1|  0| 
+|Jason Adam       |OP          |  8|  8.000|  1| 1.125|      6| 0.750| 11|  0|  2| 
+|Joe Ryan         |OP          |  4| 22.667|  9| 3.574|     28| 1.235| 24|  2|  0| 
+|Spencer Strider  |OP          |  3| 17.000|  3| 1.588|     16| 0.941| 20|  2|  0| 
+|David Bednar     |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
+|Jhoan Duran      |PITCH BENCH |  7|  7.000|  1| 1.286|      6| 0.857| 10|  1|  0| 
+|Lucas Giolito    |PITCH BENCH |  3| 16.333| 12| 6.612|     24| 1.469| 15|  2|  0| 
+|Ross Stripling   |PITCH BENCH |  2| 12.333|  1| 0.730|      8| 0.649| 13|  1|  0| 
+|Wil Crowe        |PITCH BENCH |  6|  7.000|  3| 3.857|      8| 1.143|  4|  1|  0| 
 
 
 * * *
