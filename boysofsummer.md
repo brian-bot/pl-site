@@ -5,24 +5,24 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Willson Contreras   |C         |      2|  0|   1|  0|  0| 
-|Paul Goldschmidt    |1B        |      1|  0|   0|  0|  0| 
-|Jose Altuve         |2B        |      0|  0|   0|  0|  0| 
-|Jose Ramirez        |3B        |      0|  0|   0|  0|  0| 
-|Nick Gordon         |SS        |      4|  2|   0|  0|  0| 
-|Mookie Betts        |MI        |      3|  1|   2|  1|  0| 
-|Austin Riley        |CI        |      1|  0|   0|  0|  0| 
-|Andrew Benintendi   |OF        |      1|  0|   0|  0|  0| 
-|Harold Ramirez      |OF        |      2|  1|   1|  0|  0| 
-|Jake Fraley         |OF        |      2|  0|   0|  0|  0| 
-|Joey Meneses        |OF        |      2|  1|   0|  0|  0| 
-|Albert Pujols       |DH        |      3|  2|   2|  1|  0| 
-|Jeff McNeil         |DH        |      1|  0|   0|  0|  0| 
+|Willson Contreras   |C         |      3|  1|   2|  1|  0| 
+|Paul Goldschmidt    |1B        |      2|  0|   0|  0|  0| 
+|Jose Altuve         |2B        |      2|  2|   1|  1|  0| 
+|Jose Ramirez        |3B        |      1|  1|   0|  0|  0| 
+|Nick Gordon         |SS        |      6|  3|   6|  1|  0| 
+|Mookie Betts        |MI        |      6|  2|   2|  1|  0| 
+|Austin Riley        |CI        |      4|  1|   0|  0|  0| 
+|Andrew Benintendi   |OF        |      3|  2|   1|  1|  0| 
+|Harold Ramirez      |OF        |      4|  1|   2|  0|  0| 
+|Jake Fraley         |OF        |      4|  1|   1|  0|  0| 
+|Joey Meneses        |OF        |      5|  2|   2|  0|  0| 
+|Albert Pujols       |DH        |      4|  2|   2|  1|  0| 
+|Jeff McNeil         |DH        |      2|  0|   0|  0|  0| 
 |Lourdes Gurriel Jr. |DH        |      3|  0|   1|  0|  0| 
 |William Contreras   |DH        |      0|  0|   0|  0|  0| 
 |Austin Hays         |BAT BENCH |      1|  0|   1|  0|  0| 
-|Leody Taveras       |BAT BENCH |      2|  0|   0|  0|  0| 
-|Oscar Gonzalez      |BAT BENCH |      1|  0|   0|  0|  0| 
+|Leody Taveras       |BAT BENCH |      3|  0|   0|  0|  0| 
+|Oscar Gonzalez      |BAT BENCH |      2|  0|   0|  0|  0| 
 |Trevor Story        |BAT BENCH |      4|  1|   0|  0|  1| 
 
 
@@ -33,7 +33,7 @@
  
 |players          |position    |  g|    ip| er|     era| hitsbb|   whip| so|  w| sv| 
 |:----------------|:-----------|--:|-----:|--:|-------:|------:|------:|--:|--:|--:| 
-|Brady Singer     |SP          | **|    **| **|      **|     **|     **| **| **| **| 
+|Brady Singer     |SP          |  1| 4.667|  4|   7.714|     10|  2.143|  4|  0|  0| 
 |Frankie Montas   |SP          |  1| 6.000|  4|   6.000|      8|  1.333|  6|  0|  0| 
 |Johnny Cueto     |SP          | **|    **| **|      **|     **|     **| **| **| **| 
 |Martin Perez     |SP          | **|    **| **|      **|     **|     **| **| **| **| 
