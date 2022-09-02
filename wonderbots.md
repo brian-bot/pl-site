@@ -7,23 +7,23 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Christian Vazquez |C         |      4|  0|   1|  0|  0| 
 |Vladimir Guerrero |1B        |      7|  3|   2|  1|  0| 
-|Ketel Marte       |2B        |      4|  2|   1|  0|  0| 
+|Ketel Marte       |2B        |      5|  3|   1|  0|  0| 
 |Nolan Arenado     |3B        |      6|  2|   5|  1|  0| 
 |Thairo Estrada    |SS        |      8|  1|   2|  0|  0| 
 |Jake Cronenworth  |MI        |      6|  1|   1|  0|  0| 
 |Luis Arraez       |CI        |      6|  3|   4|  1|  0| 
-|Andrew Vaughn     |OF        |      3|  1|   0|  0|  0| 
+|Andrew Vaughn     |OF        |      5|  2|   2|  1|  0| 
 |Cody Bellinger    |OF        |      2|  1|   0|  0|  0| 
 |Dylan Carlson     |OF        |      2|  0|   0|  0|  0| 
 |George Springer   |OF        |      3|  1|   1|  1|  0| 
-|Nathaniel Lowe    |DH        |      6|  1|   2|  1|  0| 
-|Nelson Cruz       |DH        |      4|  0|   2|  0|  0| 
+|Nathaniel Lowe    |DH        |     10|  2|   2|  1|  0| 
+|Nelson Cruz       |DH        |      7|  0|   3|  0|  0| 
 |Yandy Diaz        |DH        |      9|  3|   1|  0|  0| 
 |Yuli Gurriel      |DH        |      3|  0|   3|  0|  0| 
 |Austin Meadows    |BAT BENCH |     **| **|  **| **| **| 
 |Brandon Crawford  |BAT BENCH |      6|  1|   1|  0|  0| 
 |Jarred Kelenic    |BAT BENCH |     **| **|  **| **| **| 
-|Yasmani Grandal   |BAT BENCH |      2|  0|   0|  0|  0| 
+|Yasmani Grandal   |BAT BENCH |      3|  1|   0|  0|  0| 
 
 
 * * *

@@ -6,25 +6,25 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Daulton Varsho   |C         |      4|  2|   0|  0|  0| 
-|Freddie Freeman  |1B        |      7|  3|   1|  0|  1| 
-|Trea Turner      |2B        |      5|  1|   0|  0|  2| 
+|Freddie Freeman  |1B        |      8|  4|   1|  0|  1| 
+|Trea Turner      |2B        |      6|  1|   0|  0|  2| 
 |Donovan Solano   |3B        |      4|  0|   0|  0|  0| 
 |Nico Hoerner     |SS        |      5|  2|   6|  1|  0| 
 |Bryson Stott     |MI        |      3|  1|   0|  0|  0| 
 |Ha-Seong Kim     |CI        |      4|  3|   0|  0|  0| 
 |Christian Yelich |OF        |      7|  2|   3|  1|  0| 
-|Hunter Renfroe   |OF        |     11|  3|   4|  0|  0| 
+|Hunter Renfroe   |OF        |     12|  3|   4|  0|  0| 
 |Nick Castellanos |OF        |      0|  0|   0|  0|  0| 
 |Randy Arozarena  |OF        |      8|  4|   3|  1|  3| 
-|Jake McCarthy    |DH        |      5|  3|   8|  2|  0| 
+|Jake McCarthy    |DH        |      6|  3|   8|  2|  0| 
 |Lars Nootbaar    |DH        |      7|  5|   4|  2|  1| 
-|Riley Greene     |DH        |      7|  3|   1|  0|  0| 
-|Steven Kwan      |DH        |      2|  0|   2|  0|  0| 
+|Riley Greene     |DH        |      9|  3|   1|  0|  0| 
+|Steven Kwan      |DH        |      3|  0|   2|  0|  0| 
 |Byron Buxton     |BAT BENCH |     **| **|  **| **| **| 
-|Luke Voit        |BAT BENCH |      3|  1|   2|  1|  0| 
+|Luke Voit        |BAT BENCH |      5|  1|   2|  1|  0| 
 |Seiya Suzuki     |BAT BENCH |      8|  3|   1|  0|  0| 
-|Tommy Pham       |BAT BENCH |      8|  4|   2|  1|  0| 
-|Ty France        |BAT BENCH |      7|  4|   4|  2|  0| 
+|Tommy Pham       |BAT BENCH |      9|  5|   2|  1|  0| 
+|Ty France        |BAT BENCH |      9|  5|   6|  3|  0| 
 
 * * *
 

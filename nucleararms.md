@@ -5,22 +5,22 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |      2|  1|   2|  1|  0| 
-|Jose Abreu        |1B        |      6|  3|   1|  0|  0| 
-|Vaughn Grissom    |2B        |      2|  2|   0|  0|  1| 
+|Will Smith        |C         |      3|  1|   2|  1|  0| 
+|Jose Abreu        |1B        |      7|  3|   1|  0|  0| 
+|Vaughn Grissom    |2B        |      3|  3|   0|  0|  1| 
 |Manny Machado     |3B        |      9|  5|   8|  2|  0| 
-|Xander Bogaerts   |SS        |     10|  1|   7|  1|  1| 
+|Xander Bogaerts   |SS        |     13|  4|   7|  1|  1| 
 |Luis Rengifo      |MI        |      5|  2|   3|  2|  0| 
-|Alec Bohm         |CI        |      5|  5|   1|  0|  0| 
+|Alec Bohm         |CI        |      6|  5|   1|  0|  0| 
 |Bryan Reynolds    |OF        |      8|  1|   0|  0|  0| 
 |Eloy Jimenez      |OF        |      5|  2|   2|  1|  0| 
 |Jo Adell          |OF        |      1|  0|   0|  0|  0| 
 |Luis Robert       |OF        |      0|  0|   0|  0|  0| 
 |Anthony Rizzo     |DH        |      5|  2|   2|  2|  0| 
 |Ian Happ          |DH        |      6|  3|   1|  0|  0| 
-|Michael Harris II |DH        |      7|  0|   0|  0|  1| 
+|Michael Harris II |DH        |      8|  1|   1|  1|  1| 
 |Shohei Ohtani     |DH        |      9|  5|   7|  3|  0| 
-|Chris Taylor      |BAT BENCH |      2|  0|   0|  0|  0| 
+|Chris Taylor      |BAT BENCH |      3|  0|   2|  0|  0| 
 |Ke'Bryan Hayes    |BAT BENCH |      2|  0|   1|  0|  0| 
 
 
