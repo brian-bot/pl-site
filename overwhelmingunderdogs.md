@@ -5,23 +5,23 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Keibert Ruiz     |C         |      3|  0|   1|  0|  0| 
+|Keibert Ruiz     |C         |      4|  1|   1|  0|  0| 
 |Daniel Vogelbach |1B        |      4|  1|   0|  0|  0| 
 |Max Muncy        |2B        |      7|  3|   0|  0|  0| 
-|Alex Bregman     |3B        |      8|  4|   3|  1|  0| 
+|Alex Bregman     |3B        |      9|  4|   3|  1|  0| 
 |Corey Seager     |SS        |      7|  5|   8|  3|  0| 
 |DJ LeMahieu      |MI        |      4|  2|   1|  0|  0| 
-|Justin Turner    |CI        |     11|  2|   3|  0|  0| 
+|Justin Turner    |CI        |     12|  3|   5|  1|  0| 
 |Adolis Garcia    |OF        |      5|  2|   4|  1|  1| 
 |Charlie Blackmon |OF        |      4|  0|   0|  0|  0| 
 |Juan Soto        |OF        |      8|  4|   2|  1|  0| 
 |Mark Canha       |OF        |      4|  1|   2|  1|  0| 
 |Brendan Donovan  |DH        |      5|  4|   2|  0|  0| 
-|Julio Rodriguez  |DH        |      7|  6|   1|  1|  0| 
-|Keston Hiura     |DH        |      7|  3|   4|  1|  0| 
-|Tommy Edman      |DH        |      9|  4|   7|  3|  0| 
+|Julio Rodriguez  |DH        |      8|  6|   1|  1|  0| 
+|Keston Hiura     |DH        |      8|  3|   4|  1|  0| 
+|Tommy Edman      |DH        |     11|  5|   8|  4|  0| 
 |Brandon Belt     |BAT BENCH |     **| **|  **| **| **| 
-|CJ Abrams        |BAT BENCH |      4|  4|   0|  0|  0| 
+|CJ Abrams        |BAT BENCH |      6|  5|   2|  0|  0| 
 |Kris Bryant      |BAT BENCH |     **| **|  **| **| **| 
 |Ozzie Albies     |BAT BENCH |     **| **|  **| **| **| 
 
@@ -38,15 +38,15 @@
 |Eric Lauer           |SP          |  2| 11.667|  6|  4.629|     16| 1.371|  9|  1|  0| 
 |Joe Musgrove         |SP          |  1|  6.667|  3|  4.050|      5| 0.750| 11|  1|  0| 
 |Jose Quintana        |SP          |  1|  4.667|  2|  3.857|      8| 1.714|  1|  0|  0| 
-|Craig Kimbrel        |RP          |  1|  1.333|  0|  0.000|      2| 1.500|  2|  1|  0| 
+|Craig Kimbrel        |RP          |  2|  2.333|  0|  0.000|      2| 0.857|  4|  1|  0| 
 |Seranthony Dominguez |RP          | **|     **| **|     **|     **|    **| **| **| **| 
 |David Robertson      |OP          |  1|  1.000|  0|  0.000|      1| 1.000|  0|  0|  0| 
-|Devin Williams       |OP          |  2|  2.000|  0|  0.000|      1| 0.500|  3|  1|  1| 
+|Devin Williams       |OP          |  3|  3.000|  0|  0.000|      1| 0.333|  4|  2|  1| 
 |Jake Odorizzi        |OP          |  1|  5.667|  2|  3.176|      5| 0.882|  4|  0|  0| 
 |Jhoan Duran          |OP          |  2|  2.000|  0|  0.000|      0| 0.000|  3|  0|  0| 
 |Zach Davies          |OP          |  2| 10.333|  3|  2.613|     15| 1.452| 10|  0|  0| 
 |James Kaprielian     |PITCH BENCH |  1|  5.667|  2|  3.176|      8| 1.412|  3|  0|  0| 
-|Madison Bumgarner    |PITCH BENCH |  1|  3.667|  7| 17.182|     11| 3.000|  2|  0|  0| 
+|Madison Bumgarner    |PITCH BENCH |  2|  8.667|  9|  9.346|     19| 2.192|  6|  0|  0| 
 
 
 * * *

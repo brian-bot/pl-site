@@ -2,21 +2,21 @@
 
 ## Period 8 scores
 
-Through games on 2022-09-02 ([website build status](https://github.com/brian-bot/pl-site/actions))
+Through games on 2022-09-03 ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 
 |team                                              | points|  r| hitsbb| hr| rbi| sb|  w| sv| so|   era|  whip|
 |:-------------------------------------------------|------:|--:|------:|--:|---:|--:|--:|--:|--:|-----:|-----:|
-|[Mean Wieners](./meanwieners)                     |   88.0| 44|     96| 12|  46|  3|  6|  2| 72| 1.421| 0.877|
-|[Wonderbots](./wonderbots)                        |   42.0| 25|     99|  6|  31|  1|  5|  0| 50| 3.734| 1.197|
-|[Vass Deferens](./vassdeferens)                   |   36.5| 27|     80|  6|  30|  1|  1|  3| 36| 2.975| 1.017|
-|[SYWA](./sywa)                                    |   50.0| 32|     90|  8|  29|  2|  4|  2| 43| 2.824| 0.941|
-|[Overwhelming Underdogs](./overwhelmingunderdogs) |   57.5| 41|     93| 12|  38|  1|  4|  1| 59| 3.640| 1.213|
-|[T and A](./tanda)                                |   53.0| 21|     81|  7|  32|  3|  5|  4| 54| 3.709| 1.154|
-|[Terminoeckers](./terminoeckers)                  |   66.5| 36|     99|  8|  35|  7|  4|  0| 58| 3.195| 0.941|
-|[Boys of Summer](./boysofsummer)                  |   50.0| 38|     95| 12|  40|  1|  2|  2| 60| 5.984| 1.589|
-|[Nuclear Arms](./nucleararms)                     |   61.5| 42|    105| 16|  44|  3|  3|  2| 46| 4.470| 1.490|
-|[Washington Generals](./washingtongenerals)       |   45.0| 33|     92|  6|  20|  3|  3|  5| 55| 3.805| 1.289|
+|[Mean Wieners](./meanwieners)                     |   85.0| 54|    111| 16|  55|  4|  6|  2| 73| 1.373| 0.898|
+|[Wonderbots](./wonderbots)                        |   45.5| 31|    117|  7|  34|  3|  7|  0| 63| 3.577| 1.269|
+|[Vass Deferens](./vassdeferens)                   |   37.5| 32|     96|  9|  37|  1|  1|  3| 41| 2.764| 0.945|
+|[SYWA](./sywa)                                    |   45.0| 35|     97|  8|  29|  2|  4|  3| 52| 2.593| 0.898|
+|[Overwhelming Underdogs](./overwhelmingunderdogs) |   48.5| 44|    100| 14|  41|  1|  5|  1| 62| 3.522| 1.174|
+|[T and A](./tanda)                                |   56.5| 26|    101|  7|  40|  5|  5|  5| 68| 3.468| 1.156|
+|[Terminoeckers](./terminoeckers)                  |   78.0| 45|    114| 11|  42|  8|  7|  0| 72| 2.413| 0.830|
+|[Boys of Summer](./boysofsummer)                  |   49.5| 44|    109| 15|  46|  3|  2|  2| 65| 6.088| 1.559|
+|[Nuclear Arms](./nucleararms)                     |   62.5| 51|    124| 19|  53|  4|  3|  2| 61| 4.043| 1.449|
+|[Washington Generals](./washingtongenerals)       |   42.0| 38|    105|  9|  27|  3|  3|  5| 61| 4.154| 1.314|
 
 * * *
 * * *
@@ -27,14 +27,14 @@ Through games on 2022-09-02 ([website build status](https://github.com/brian-bot
 |team                   |  w|  l|  t| points|
 |:----------------------|--:|--:|--:|------:|
 |Mean Wieners           |  7|  0|  0|  466.5|
-|SYWA                   |  5|  2|  0|  415.5|
+|SYWA                   |  5|  2|  0|  415.0|
 |Terminoeckers          |  4|  3|  0|  469.0|
 |Nuclear Arms           |  4|  3|  0|  418.5|
-|Boys of Summer         |  4|  3|  0|  395.0|
+|Boys of Summer         |  4|  3|  0|  396.0|
 |Wonderbots             |  4|  3|  0|  340.0|
 |Overwhelming Underdogs |  3|  4|  0|  355.5|
 |Vass Deferens          |  2|  5|  0|  309.0|
 |T and A                |  1|  6|  0|  376.5|
-|Washington Generals    |  1|  6|  0|  304.5|
+|Washington Generals    |  1|  6|  0|  304.0|
 
 
