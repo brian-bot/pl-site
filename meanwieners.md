@@ -6,21 +6,21 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Sean Murphy       |C         |      8|  2|   6|  1|  0| 
-|Josh Bell         |1B        |     10|  2|   3|  0|  0| 
+|Josh Bell         |1B        |     11|  2|   3|  0|  0| 
 |Jorge Mateo       |2B        |      6|  1|   2|  0|  2| 
-|Rafael Devers     |3B        |      9|  5|   7|  0|  0| 
-|Bobby Witt Jr.    |SS        |      7|  4|   6|  2|  0| 
+|Rafael Devers     |3B        |     12|  5|   8|  0|  0| 
+|Bobby Witt Jr.    |SS        |      8|  5|   6|  2|  0| 
 |Willy Adames      |MI        |     10|  6|   2|  0|  0| 
 |Brandon Drury     |CI        |      6|  4|   5|  2|  0| 
-|Aaron Judge       |OF        |     14|  6|   6|  4|  1| 
-|Anthony Santander |OF        |     10|  5|   2|  2|  0| 
+|Aaron Judge       |OF        |     17|  8|   8|  5|  1| 
+|Anthony Santander |OF        |     12|  7|   4|  4|  0| 
 |Trent Grisham     |OF        |      7|  3|   2|  1|  0| 
-|Tyler O'Neill     |OF        |     10|  8|   9|  4|  2| 
-|Christian Walker  |DH        |     16|  7|   3|  1|  0| 
+|Tyler O'Neill     |OF        |     11|  8|   9|  4|  2| 
+|Christian Walker  |DH        |     17|  7|   5|  1|  0| 
 |Emmanuel Rivera   |DH        |      6|  4|   2|  0|  0| 
 |Jesse Winker      |DH        |      6|  1|   0|  0|  0| 
-|Joey Gallo        |DH        |      4|  1|   2|  0|  0| 
-|Alejandro Kirk    |BAT BENCH |      8|  1|   4|  1|  0| 
+|Joey Gallo        |DH        |      5|  1|   3|  0|  0| 
+|Alejandro Kirk    |BAT BENCH |      9|  1|   5|  1|  0| 
 |Luis Urias        |BAT BENCH |      7|  1|   1|  0|  0| 
 |Patrick Wisdom    |BAT BENCH |     **| **|  **| **| **| 
 

@@ -8,21 +8,21 @@
 |J.T. Realmuto      |C         |      9|  4|   6|  1|  1| 
 |Pete Alonso        |1B        |      7|  2|   1|  1|  0| 
 |Jonathan India     |2B        |     16|  4|   4|  1|  0| 
-|Matt Chapman       |3B        |     14|  5|   2|  0|  0| 
+|Matt Chapman       |3B        |     15|  6|   2|  0|  0| 
 |Dansby Swanson     |SS        |      8|  3|   6|  1|  1| 
-|Kolten Wong        |MI        |     11|  3|   4|  2|  0| 
-|Trey Mancini       |CI        |      7|  2|   1|  0|  0| 
+|Kolten Wong        |MI        |     14|  4|   4|  2|  1| 
+|Trey Mancini       |CI        |      8|  3|   1|  0|  0| 
 |J.D. Martinez      |OF        |     10|  4|   3|  2|  0| 
-|Kyle Tucker        |OF        |      8|  2|   4|  1|  1| 
+|Kyle Tucker        |OF        |      9|  2|   4|  1|  1| 
 |Max Kepler         |OF        |      9|  7|   1|  0|  0| 
-|Yordan Alvarez     |OF        |      2|  0|   2|  0|  0| 
-|AJ Pollock         |DH        |     11|  5|   5|  2|  0| 
+|Yordan Alvarez     |OF        |      3|  0|   2|  0|  0| 
+|AJ Pollock         |DH        |     12|  6|   6|  3|  0| 
 |Elehuris Montero   |DH        |      3|  1|   1|  0|  0| 
 |Nolan Gorman       |DH        |      1|  0|   0|  0|  0| 
 |Vinnie Pasquantino |DH        |     **| **|  **| **| **| 
 |Jazz Chisholm Jr.  |BAT BENCH |     **| **|  **| **| **| 
 |Ramon Laureano     |BAT BENCH |     **| **|  **| **| **| 
-|Santiago Espinal   |BAT BENCH |      5|  0|   2|  0|  0| 
+|Santiago Espinal   |BAT BENCH |      6|  1|   2|  0|  0| 
 
 
 * * *
@@ -39,13 +39,13 @@
 |Max Fried        |SP          |  2| 10.000|  2| 1.800|      9| 0.900|  9|  1|  0| 
 |Zac Gallen       |SP          |  2| 14.000|  0| 0.000|      6| 0.429| 14|  2|  0| 
 |Jordan Romano    |RP          |  4|  4.333|  0| 0.000|      3| 0.692|  6|  0|  3| 
-|Liam Hendriks    |RP          |  2|  2.000|  1| 4.500|      3| 1.500|  1|  1|  1| 
+|Liam Hendriks    |RP          |  3|  3.000|  2| 6.000|      6| 2.000|  3|  1|  2| 
 |Cristian Javier  |OP          |  1|  5.000|  3| 5.400|      7| 1.400|  7|  1|  0| 
 |Evan Phillips    |OP          |  3|  2.333|  1| 3.857|      2| 0.857|  1|  0|  0| 
 |Jose Urquidy     |OP          |  1|  7.000|  0| 0.000|      5| 0.714|  8|  1|  0| 
 |Luis Garcia      |OP          |  1|  7.000|  1| 1.286|      5| 0.714|  7|  0|  0| 
 |Tanner Scott     |OP          |  2|  2.000|  0| 0.000|      0| 0.000|  5|  0|  0| 
-|Jack Flaherty    |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
+|Jack Flaherty    |PITCH BENCH |  1|  5.000|  1| 1.800|      7| 1.400|  6|  0|  0| 
 |Roansy Contreras |PITCH BENCH |  2| 11.000|  1| 0.818|     11| 1.000| 12|  1|  0| 
 |Trevor Rogers    |PITCH BENCH |  1|  6.000|  1| 1.500|      6| 1.000|  5|  0|  0| 
 
