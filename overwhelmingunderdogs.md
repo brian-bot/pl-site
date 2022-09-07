@@ -6,20 +6,20 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Keibert Ruiz     |C         |     11|  4|   4|  1|  0| 
-|Daniel Vogelbach |1B        |      5|  1|   0|  0|  0| 
-|Max Muncy        |2B        |      9|  4|   0|  0|  0| 
-|Alex Bregman     |3B        |     10|  4|   3|  1|  0| 
-|Corey Seager     |SS        |      9|  5|   8|  3|  0| 
+|Daniel Vogelbach |1B        |      6|  1|   0|  0|  0| 
+|Max Muncy        |2B        |     12|  7|   3|  2|  0| 
+|Alex Bregman     |3B        |     12|  4|   3|  1|  0| 
+|Corey Seager     |SS        |      9|  6|   8|  3|  0| 
 |DJ LeMahieu      |MI        |      4|  2|   1|  0|  0| 
-|Justin Turner    |CI        |     15|  5|   6|  1|  0| 
-|Adolis Garcia    |OF        |      6|  2|   5|  1|  1| 
-|Charlie Blackmon |OF        |      8|  0|   4|  0|  0| 
+|Justin Turner    |CI        |     17|  6|   6|  1|  0| 
+|Adolis Garcia    |OF        |      6|  2|   5|  1|  2| 
+|Charlie Blackmon |OF        |      8|  1|   4|  0|  0| 
 |Juan Soto        |OF        |     12|  5|   2|  1|  0| 
-|Mark Canha       |OF        |      5|  1|   2|  1|  0| 
-|Brendan Donovan  |DH        |      5|  4|   2|  0|  0| 
+|Mark Canha       |OF        |      6|  1|   2|  1|  0| 
+|Brendan Donovan  |DH        |      6|  5|   3|  1|  0| 
 |Julio Rodriguez  |DH        |     14|  8|   2|  2|  1| 
-|Keston Hiura     |DH        |      9|  3|   4|  1|  0| 
-|Tommy Edman      |DH        |     14|  6|   8|  4|  0| 
+|Keston Hiura     |DH        |     10|  4|   4|  1|  0| 
+|Tommy Edman      |DH        |     15|  6|   8|  4|  0| 
 |Brandon Belt     |BAT BENCH |     **| **|  **| **| **| 
 |CJ Abrams        |BAT BENCH |     11|  7|   2|  0|  0| 
 |Kris Bryant      |BAT BENCH |     **| **|  **| **| **| 
@@ -36,11 +36,11 @@
 |Carlos Rodon         |SP          |  2| 10.000|  5| 4.500|     15| 1.500| 12|  0|  0| 
 |Clayton Kershaw      |SP          |  1|  5.000|  1| 1.800|      4| 0.800|  6|  0|  0| 
 |Eric Lauer           |SP          |  2| 11.667|  6| 4.629|     16| 1.371|  9|  1|  0| 
-|Joe Musgrove         |SP          |  1|  6.667|  3| 4.050|      5| 0.750| 11|  1|  0| 
-|Jose Quintana        |SP          |  1|  4.667|  2| 3.857|      8| 1.714|  1|  0|  0| 
-|Craig Kimbrel        |RP          |  3|  3.333|  0| 0.000|      2| 0.600|  4|  1|  0| 
+|Joe Musgrove         |SP          |  2| 11.000|  7| 5.727|     16| 1.455| 14|  1|  0| 
+|Jose Quintana        |SP          |  2|  9.667|  3| 2.793|     13| 1.345|  6|  1|  0| 
+|Craig Kimbrel        |RP          |  4|  4.333|  0| 0.000|      2| 0.462|  4|  1|  1| 
 |Seranthony Dominguez |RP          | **|     **| **|    **|     **|    **| **| **| **| 
-|David Robertson      |OP          |  2|  2.667|  2| 6.750|      6| 2.250|  4|  0|  0| 
+|David Robertson      |OP          |  3|  3.667|  2| 4.909|      9| 2.455|  5|  1|  0| 
 |Devin Williams       |OP          |  4|  4.333|  0| 0.000|      2| 0.462|  5|  2|  2| 
 |Jake Odorizzi        |OP          |  1|  5.667|  2| 3.176|      5| 0.882|  4|  0|  0| 
 |Jhoan Duran          |OP          |  3|  3.667|  0| 0.000|      0| 0.000|  5|  0|  0| 

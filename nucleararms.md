@@ -6,22 +6,22 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith        |C         |      9|  4|   7|  3|  0| 
-|Jose Abreu        |1B        |     13|  4|   3|  0|  0| 
-|Vaughn Grissom    |2B        |      8|  4|   2|  1|  2| 
+|Jose Abreu        |1B        |     15|  4|   3|  0|  0| 
+|Vaughn Grissom    |2B        |     12|  5|   4|  1|  2| 
 |Manny Machado     |3B        |     13|  7|  11|  4|  0| 
 |Xander Bogaerts   |SS        |     23|  8|  10|  1|  1| 
-|Luis Rengifo      |MI        |     12|  5|   4|  2|  0| 
-|Alec Bohm         |CI        |     11|  6|   2|  0|  0| 
-|Bryan Reynolds    |OF        |      9|  1|   0|  0|  0| 
-|Eloy Jimenez      |OF        |      8|  3|   5|  2|  0| 
-|Jo Adell          |OF        |      2|  0|   0|  0|  0| 
+|Luis Rengifo      |MI        |     13|  5|   4|  2|  0| 
+|Alec Bohm         |CI        |     11|  6|   3|  0|  0| 
+|Bryan Reynolds    |OF        |     13|  2|   1|  0|  0| 
+|Eloy Jimenez      |OF        |     10|  3|   5|  2|  0| 
+|Jo Adell          |OF        |      3|  1|   1|  1|  0| 
 |Luis Robert       |OF        |      0|  0|   0|  0|  0| 
 |Anthony Rizzo     |DH        |      5|  2|   2|  2|  0| 
-|Ian Happ          |DH        |      9|  5|   1|  0|  0| 
-|Michael Harris II |DH        |     15|  4|   5|  2|  1| 
+|Ian Happ          |DH        |     11|  6|   2|  1|  0| 
+|Michael Harris II |DH        |     16|  5|   6|  2|  1| 
 |Shohei Ohtani     |DH        |     15|  8|  10|  5|  0| 
 |Chris Taylor      |BAT BENCH |     10|  1|   2|  0|  1| 
-|Ke'Bryan Hayes    |BAT BENCH |      2|  0|   1|  0|  0| 
+|Ke'Bryan Hayes    |BAT BENCH |      4|  1|   1|  0|  1| 
 
 
 * * *
