@@ -6,20 +6,20 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith        |C         |      9|  4|   7|  3|  0| 
-|Jose Abreu        |1B        |     15|  4|   3|  0|  0| 
-|Vaughn Grissom    |2B        |     12|  5|   4|  1|  2| 
+|Jose Abreu        |1B        |     16|  6|   5|  0|  0| 
+|Vaughn Grissom    |2B        |     15|  7|   6|  2|  2| 
 |Manny Machado     |3B        |     13|  7|  11|  4|  0| 
 |Xander Bogaerts   |SS        |     23|  8|  10|  1|  1| 
-|Luis Rengifo      |MI        |     13|  5|   4|  2|  0| 
-|Alec Bohm         |CI        |     11|  6|   3|  0|  0| 
-|Bryan Reynolds    |OF        |     13|  2|   1|  0|  0| 
-|Eloy Jimenez      |OF        |     10|  3|   5|  2|  0| 
-|Jo Adell          |OF        |      3|  1|   1|  1|  0| 
+|Luis Rengifo      |MI        |     15|  5|   4|  2|  0| 
+|Alec Bohm         |CI        |     12|  6|   3|  0|  0| 
+|Bryan Reynolds    |OF        |     15|  2|   1|  0|  1| 
+|Eloy Jimenez      |OF        |     13|  5|   8|  3|  0| 
+|Jo Adell          |OF        |      3|  2|   1|  1|  0| 
 |Luis Robert       |OF        |      0|  0|   0|  0|  0| 
 |Anthony Rizzo     |DH        |      5|  2|   2|  2|  0| 
 |Ian Happ          |DH        |     11|  6|   2|  1|  0| 
-|Michael Harris II |DH        |     16|  5|   6|  2|  1| 
-|Shohei Ohtani     |DH        |     15|  8|  10|  5|  0| 
+|Michael Harris II |DH        |     18|  6|   6|  2|  1| 
+|Shohei Ohtani     |DH        |     16|  9|  11|  6|  0| 
 |Chris Taylor      |BAT BENCH |     10|  1|   2|  0|  1| 
 |Ke'Bryan Hayes    |BAT BENCH |      4|  1|   1|  0|  1| 
 
@@ -41,7 +41,7 @@
 |Ryan Pressly     |RP          | **|     **| **|     **|     **|    **| **| **| **| 
 |Austin Voth      |OP          |  2|  9.333|  2|  1.929|     10| 1.071|  8|  0|  0| 
 |Blake Snell      |OP          |  2| 12.000|  1|  0.750|     12| 1.000| 18|  1|  0| 
-|Gregory Soto     |OP          |  4|  3.333|  5| 13.500|     13| 3.900|  5|  0|  1| 
+|Gregory Soto     |OP          |  5|  4.333|  5| 10.385|     15| 3.462|  8|  0|  2| 
 |Jordan Lyles     |OP          |  1|  6.667|  0|  0.000|      7| 1.050|  2|  1|  0| 
 |Kohei Arihara    |OP          |  2|  5.333|  7| 11.812|     15| 2.812|  4|  0|  0| 
 |Aroldis Chapman  |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
