@@ -10,9 +10,9 @@
 |Jorge Mateo       |2B        |      8|  3|   2|  0|  2| 
 |Rafael Devers     |3B        |     12|  5|   8|  0|  0| 
 |Bobby Witt Jr.    |SS        |     11|  5|   6|  2|  1| 
-|Willy Adames      |MI        |     14|  7|   4|  0|  0| 
+|Willy Adames      |MI        |     15|  8|   4|  0|  0| 
 |Brandon Drury     |CI        |      6|  4|   5|  2|  0| 
-|Aaron Judge       |OF        |     23|  9|   9|  6|  2| 
+|Aaron Judge       |OF        |     26| 10|   9|  6|  2| 
 |Anthony Santander |OF        |     14|  8|   6|  4|  0| 
 |Trent Grisham     |OF        |      8|  4|   2|  1|  1| 
 |Tyler O'Neill     |OF        |     12|  9|  10|  4|  2| 
@@ -21,7 +21,7 @@
 |Jesse Winker      |DH        |      9|  1|   0|  0|  0| 
 |Joey Gallo        |DH        |      7|  2|   6|  1|  0| 
 |Alejandro Kirk    |BAT BENCH |     16|  3|   7|  1|  0| 
-|Luis Urias        |BAT BENCH |     10|  2|   2|  1|  0| 
+|Luis Urias        |BAT BENCH |     13|  3|   2|  1|  0| 
 |Patrick Wisdom    |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -40,7 +40,7 @@
 |Ross Stripling   |SP          |  2| 12.000|  6|  4.500|     12| 1.000| 14|  1|  0| 
 |Felix Bautista   |RP          |  3|  4.000|  1|  2.250|      3| 0.750|  4|  0|  2| 
 |Paul Sewald      |RP          |  5|  4.333|  0|  0.000|      5| 1.154|  6|  0|  2| 
-|Alexis Diaz      |OP          |  3|  3.000|  0|  0.000|      3| 1.000|  3|  1|  0| 
+|Alexis Diaz      |OP          |  4|  4.667|  1|  1.929|      4| 0.857|  6|  2|  0| 
 |James Karinchak  |OP          |  5|  4.667|  0|  0.000|      6| 1.286|  4|  0|  1| 
 |Justin Steele    |OP          | **|     **| **|     **|     **|    **| **| **| **| 
 |Kyle Bradish     |OP          |  2| 10.000|  3|  2.700|     13| 1.300|  8|  1|  0| 

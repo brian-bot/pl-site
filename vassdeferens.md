@@ -9,7 +9,7 @@
 |C.J. Cron         |1B        |      9|  6|   6|  2|  0| 
 |Gavin Lux         |2B        |      5|  2|   3|  0|  0| 
 |J.D. Davis        |3B        |     10|  3|   2|  1|  0| 
-|Carlos Correa     |SS        |     15|  6|   5|  2|  0| 
+|Carlos Correa     |SS        |     16|  7|   7|  3|  0| 
 |Oneil Cruz        |MI        |     15|  6|   9|  3|  0| 
 |Ryan Mountcastle  |CI        |     13|  5|  12|  3|  0| 
 |Giancarlo Stanton |OF        |      6|  0|   0|  0|  0| 
@@ -19,7 +19,7 @@
 |Alek Thomas       |DH        |     10|  4|   5|  0|  0| 
 |Bryce Harper      |DH        |     15|  4|   2|  0|  0| 
 |Jorge Polanco     |DH        |     **| **|  **| **| **| 
-|Kyle Farmer       |DH        |     10|  3|   5|  1|  0| 
+|Kyle Farmer       |DH        |     12|  4|   6|  2|  0| 
 |Darick Hall       |BAT BENCH |     **| **|  **| **| **| 
 |Jack Suwinski     |BAT BENCH |      8|  0|   0|  0|  0| 
 |Jared Walsh       |BAT BENCH |     **| **|  **| **| **| 
@@ -37,7 +37,7 @@
 |Keegan Thompson   |SP          | **|     **| **|    **|     **|    **| **| **| **| 
 |Lance Lynn        |SP          |  2| 14.000|  1| 0.643|      8| 0.571| 19|  2|  0| 
 |Shane Bieber      |SP          |  2| 15.000|  4| 2.400|     12| 0.800| 18|  1|  0| 
-|Sonny Gray        |SP          |  1|  4.000|  2| 4.500|      6| 1.500|  2|  0|  0| 
+|Sonny Gray        |SP          |  2| 10.000|  4| 3.600|     14| 1.400|  9|  0|  0| 
 |Tony Gonsolin     |SP          | **|     **| **|    **|     **|    **| **| **| **| 
 |Tyler Anderson    |SP          |  2| 14.000|  5| 3.214|     16| 1.143|  6|  1|  0| 
 |Giovanny Gallegos |RP          |  5|  5.000|  3| 5.400|      6| 1.200|  4|  0|  1| 

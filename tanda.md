@@ -11,16 +11,16 @@
 |Josh Rojas       |3B        |     15|  5|   4|  1|  2| 
 |Francisco Lindor |SS        |     13|  2|   4|  0|  1| 
 |Bo Bichette      |MI        |     26| 13|  14|  5|  1| 
-|Kyle Schwarber   |CI        |     10|  2|   5|  1|  0| 
-|Andrew McCutchen |OF        |      9|  3|   4|  1|  0| 
+|Kyle Schwarber   |CI        |     10|  3|   5|  1|  0| 
+|Andrew McCutchen |OF        |     10|  3|   4|  1|  0| 
 |Brandon Nimmo    |OF        |     12|  6|   5|  1|  0| 
 |Mitch Haniger    |OF        |     11|  3|   5|  0|  0| 
 |Taylor Ward      |OF        |     12|  4|   3|  0|  0| 
 |Amed Rosario     |DH        |      6|  2|   1|  0|  1| 
 |Eugenio Suarez   |DH        |     14|  5|   7|  3|  0| 
 |Jean Segura      |DH        |     11|  3|   6|  1|  1| 
-|Jon Berti        |DH        |      5|  1|   1|  1|  1| 
-|Franmil Reyes    |BAT BENCH |     16|  6|   5|  2|  0| 
+|Jon Berti        |DH        |      7|  2|   1|  1|  1| 
+|Franmil Reyes    |BAT BENCH |     17|  6|   6|  2|  0| 
 |MJ Melendez      |BAT BENCH |     11|  4|   6|  1|  1| 
 
 * * *

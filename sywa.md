@@ -5,9 +5,9 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto      |C         |     12|  4|   6|  1|  1| 
+|J.T. Realmuto      |C         |     12|  4|   7|  1|  1| 
 |Pete Alonso        |1B        |     12|  3|   1|  1|  0| 
-|Jonathan India     |2B        |     18|  6|   4|  1|  0| 
+|Jonathan India     |2B        |     21|  6|   5|  1|  0| 
 |Matt Chapman       |3B        |     19|  6|   4|  0|  0| 
 |Dansby Swanson     |SS        |     12|  6|   7|  2|  1| 
 |Kolten Wong        |MI        |     14|  4|   4|  2|  1| 
@@ -16,7 +16,7 @@
 |Kyle Tucker        |OF        |     13|  6|   6|  2|  3| 
 |Max Kepler         |OF        |      9|  7|   1|  0|  0| 
 |Yordan Alvarez     |OF        |      5|  0|   2|  0|  0| 
-|AJ Pollock         |DH        |     14|  7|   6|  3|  0| 
+|AJ Pollock         |DH        |     17|  8|   6|  3|  0| 
 |Elehuris Montero   |DH        |      7|  3|   2|  1|  0| 
 |Nolan Gorman       |DH        |      3|  1|   2|  1|  0| 
 |Vinnie Pasquantino |DH        |     **| **|  **| **| **| 
@@ -34,7 +34,7 @@
 |:----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Brandon Woodruff |SP          |  2| 12.667|  6| 4.263|     14| 1.105|  9|  0|  0| 
 |Framber Valdez   |SP          |  2| 14.667|  4| 2.455|     17| 1.159| 19|  1|  0| 
-|Freddy Peralta   |SP          |  1|  5.000|  1| 1.800|      2| 0.400|  3|  0|  0| 
+|Freddy Peralta   |SP          |  2|  7.000|  1| 1.286|      4| 0.571|  6|  0|  0| 
 |Gerrit Cole      |SP          |  2| 13.667|  3| 1.976|     14| 1.024| 18|  1|  0| 
 |Max Fried        |SP          |  2| 10.000|  2| 1.800|      9| 0.900|  9|  1|  0| 
 |Zac Gallen       |SP          |  2| 14.000|  0| 0.000|      6| 0.429| 14|  2|  0| 

@@ -5,7 +5,7 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Keibert Ruiz     |C         |     11|  4|   4|  1|  0| 
+|Keibert Ruiz     |C         |     12|  4|   4|  1|  0| 
 |Daniel Vogelbach |1B        |      8|  2|   1|  0|  0| 
 |Max Muncy        |2B        |     15|  9|   6|  3|  0| 
 |Alex Bregman     |3B        |     15|  5|   3|  1|  0| 
@@ -16,12 +16,12 @@
 |Charlie Blackmon |OF        |      8|  1|   4|  0|  0| 
 |Juan Soto        |OF        |     13|  5|   2|  1|  0| 
 |Mark Canha       |OF        |     10|  4|   2|  1|  0| 
-|Brendan Donovan  |DH        |      8|  6|   3|  1|  0| 
+|Brendan Donovan  |DH        |     13|  8|   3|  1|  0| 
 |Julio Rodriguez  |DH        |     17|  9|   3|  2|  1| 
-|Keston Hiura     |DH        |     11|  5|   4|  1|  0| 
-|Tommy Edman      |DH        |     16|  6|  10|  4|  0| 
+|Keston Hiura     |DH        |     11|  5|   5|  1|  0| 
+|Tommy Edman      |DH        |     19|  6|  10|  4|  0| 
 |Brandon Belt     |BAT BENCH |     **| **|  **| **| **| 
-|CJ Abrams        |BAT BENCH |     11|  7|   2|  0|  0| 
+|CJ Abrams        |BAT BENCH |     13|  9|   3|  0|  0| 
 |Kris Bryant      |BAT BENCH |     **| **|  **| **| **| 
 |Ozzie Albies     |BAT BENCH |     **| **|  **| **| **| 
 
@@ -40,8 +40,8 @@
 |Jose Quintana        |SP          |  2|  9.667|  3| 2.793|     13| 1.345|  6|  1|  0| 
 |Craig Kimbrel        |RP          |  4|  4.333|  0| 0.000|      2| 0.462|  4|  1|  1| 
 |Seranthony Dominguez |RP          | **|     **| **|    **|     **|    **| **| **| **| 
-|David Robertson      |OP          |  3|  3.667|  2| 4.909|      9| 2.455|  5|  1|  0| 
-|Devin Williams       |OP          |  4|  4.333|  0| 0.000|      2| 0.462|  5|  2|  2| 
+|David Robertson      |OP          |  4|  4.667|  3| 5.786|     12| 2.571|  8|  1|  0| 
+|Devin Williams       |OP          |  5|  5.333|  0| 0.000|      2| 0.375|  5|  2|  3| 
 |Jake Odorizzi        |OP          |  1|  5.667|  2| 3.176|      5| 0.882|  4|  0|  0| 
 |Jhoan Duran          |OP          |  4|  5.667|  0| 0.000|      1| 0.176|  7|  0|  0| 
 |Zach Davies          |OP          |  2| 10.333|  3| 2.613|     15| 1.452| 10|  0|  0| 

@@ -9,15 +9,15 @@
 |Vladimir Guerrero |1B        |     14|  5|   4|  1|  3| 
 |Ketel Marte       |2B        |      7|  3|   1|  0|  0| 
 |Nolan Arenado     |3B        |     12|  5|   6|  1|  1| 
-|Thairo Estrada    |SS        |     19|  5|   4|  1|  1| 
+|Thairo Estrada    |SS        |     20|  5|   4|  1|  1| 
 |Jake Cronenworth  |MI        |     14|  5|   5|  2|  0| 
 |Luis Arraez       |CI        |     14|  4|   4|  1|  0| 
-|Andrew Vaughn     |OF        |     10|  4|   3|  1|  0| 
+|Andrew Vaughn     |OF        |     11|  5|   4|  1|  0| 
 |Cody Bellinger    |OF        |      6|  2|   1|  0|  1| 
 |Dylan Carlson     |OF        |      3|  1|   0|  0|  0| 
 |George Springer   |OF        |     12|  7|   2|  1|  1| 
 |Nathaniel Lowe    |DH        |     21|  5|   4|  3|  0| 
-|Nelson Cruz       |DH        |     10|  2|   3|  0|  0| 
+|Nelson Cruz       |DH        |     13|  4|   3|  0|  0| 
 |Yandy Diaz        |DH        |     19|  4|   4|  0|  1| 
 |Yuli Gurriel      |DH        |      8|  1|   6|  0|  0| 
 |Austin Meadows    |BAT BENCH |     **| **|  **| **| **| 
@@ -34,7 +34,7 @@
 |players         |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:---------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Aaron Nola      |SP          |  2| 10.667|  9| 7.594|     16| 1.500| 15|  0|  0| 
-|Adam Wainwright |SP          |  2| 11.667|  6| 4.629|     19| 1.629|  6|  1|  0| 
+|Adam Wainwright |SP          |  3| 16.667| 10| 5.400|     28| 1.680|  8|  1|  0| 
 |Dane Dunning    |SP          |  2|  9.000|  7| 7.000|     21| 2.333|  7|  0|  0| 
 |Jose Berrios    |SP          |  2| 11.667|  6| 4.629|     21| 1.800|  6|  1|  0| 
 |Kevin Gausman   |SP          |  2| 12.667|  4| 2.842|     13| 1.026| 15|  2|  0| 
