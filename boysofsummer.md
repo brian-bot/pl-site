@@ -7,22 +7,22 @@
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Willson Contreras   |C         |      3|  1|   2|  1|  0| 
 |Paul Goldschmidt    |1B        |     18|  9|   4|  2|  1| 
-|Jose Altuve         |2B        |     23| 12|   7|  3|  4| 
-|Jose Ramirez        |3B        |     19|  6|   3|  0|  1| 
+|Jose Altuve         |2B        |     25| 14|   7|  3|  5| 
+|Jose Ramirez        |3B        |     21|  6|   3|  0|  1| 
 |Nick Gordon         |SS        |     22|  5|  12|  1|  0| 
-|Mookie Betts        |MI        |     22| 11|   7|  3|  0| 
-|Austin Riley        |CI        |     17|  8|   7|  5|  0| 
+|Mookie Betts        |MI        |     23| 12|  10|  4|  0| 
+|Austin Riley        |CI        |     18|  8|   7|  5|  0| 
 |Andrew Benintendi   |OF        |      4|  2|   1|  1|  0| 
 |Harold Ramirez      |OF        |     15|  2|   8|  0|  0| 
-|Jake Fraley         |OF        |     18|  8|   6|  3|  0| 
+|Jake Fraley         |OF        |     19|  8|   6|  3|  0| 
 |Joey Meneses        |OF        |     22|  8|  13|  2|  0| 
 |Albert Pujols       |DH        |     12|  5|  10|  4|  0| 
-|Jeff McNeil         |DH        |     19|  5|   7|  0|  2| 
+|Jeff McNeil         |DH        |     21|  5|   7|  0|  2| 
 |Lourdes Gurriel Jr. |DH        |     11|  2|   2|  0|  0| 
 |William Contreras   |DH        |      6|  1|   1|  0|  0| 
 |Austin Hays         |BAT BENCH |      8|  0|   1|  0|  0| 
-|Leody Taveras       |BAT BENCH |     13|  3|   1|  1|  2| 
-|Oscar Gonzalez      |BAT BENCH |     20|  4|   9|  2|  0| 
+|Leody Taveras       |BAT BENCH |     14|  3|   1|  1|  2| 
+|Oscar Gonzalez      |BAT BENCH |     21|  5|   9|  2|  0| 
 |Trevor Story        |BAT BENCH |     20|  3|   8|  1|  3| 
 
 

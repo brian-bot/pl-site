@@ -6,16 +6,16 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Keibert Ruiz     |C         |     12|  4|   4|  1|  0| 
-|Daniel Vogelbach |1B        |     10|  3|   1|  0|  0| 
-|Max Muncy        |2B        |     17| 10|   9|  3|  0| 
-|Alex Bregman     |3B        |     22|  7|   7|  2|  0| 
-|Corey Seager     |SS        |     15|  8|  10|  3|  0| 
+|Daniel Vogelbach |1B        |     12|  3|   1|  0|  0| 
+|Max Muncy        |2B        |     18| 11|   9|  3|  0| 
+|Alex Bregman     |3B        |     25|  8|   8|  2|  0| 
+|Corey Seager     |SS        |     17| 10|  12|  4|  0| 
 |DJ LeMahieu      |MI        |      4|  2|   1|  0|  0| 
-|Justin Turner    |CI        |     23|  9|  14|  4|  0| 
-|Adolis Garcia    |OF        |     10|  4|  10|  3|  2| 
+|Justin Turner    |CI        |     24| 11|  14|  4|  0| 
+|Adolis Garcia    |OF        |     13|  5|  10|  3|  2| 
 |Charlie Blackmon |OF        |      9|  1|   4|  0|  0| 
 |Juan Soto        |OF        |     16|  7|   2|  1|  0| 
-|Mark Canha       |OF        |     16|  6|   6|  2|  0| 
+|Mark Canha       |OF        |     17|  7|   6|  2|  0| 
 |Brendan Donovan  |DH        |     14|  9|   4|  2|  0| 
 |Julio Rodriguez  |DH        |     26| 11|   6|  4|  1| 
 |Keston Hiura     |DH        |     11|  5|   5|  1|  0| 

@@ -44,8 +44,8 @@
 |James Karinchak  |OP          |  7|  6.667|  2| 2.700|     11| 1.650|  7|  0|  2| 
 |Justin Steele    |OP          | **|     **| **|    **|     **|    **| **| **| **| 
 |Kyle Bradish     |OP          |  3| 17.000|  4| 2.118|     17| 1.000| 11|  1|  0| 
-|Spencer Strider  |OP          |  2| 14.000|  2| 1.286|      7| 0.500| 25|  2|  0| 
-|Jason Adam       |PITCH BENCH |  6|  5.667|  1| 1.588|      5| 0.882|  8|  1|  1| 
+|Spencer Strider  |OP          |  3| 19.000|  4| 1.895|     17| 0.895| 34|  2|  0| 
+|Jason Adam       |PITCH BENCH |  7|  6.667|  3| 4.050|      7| 1.050|  9|  1|  1| 
 |Logan Gilbert    |PITCH BENCH |  2| 12.000|  0| 0.000|      8| 0.667| 18|  2|  0| 
 |Lucas Giolito    |PITCH BENCH |  3| 16.333| 10| 5.510|     23| 1.408| 18|  0|  0| 
 |Matt Manning     |PITCH BENCH |  3| 12.667| 11| 7.816|     20| 1.579|  8|  1|  0| 
