@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |     15|  6|   8|  3|  0| 
-|Jose Abreu        |1B        |     23|  8|   6|  0|  0| 
+|Will Smith        |C         |     16|  6|   8|  3|  0| 
+|Jose Abreu        |1B        |     26| 10|   7|  1|  0| 
 |Vaughn Grissom    |2B        |     16|  7|   6|  2|  3| 
-|Manny Machado     |3B        |     20|  9|  13|  6|  0| 
-|Xander Bogaerts   |SS        |     31| 11|  13|  2|  1| 
-|Luis Rengifo      |MI        |     18|  6|   4|  2|  1| 
-|Alec Bohm         |CI        |     16|  9|   7|  1|  0| 
-|Bryan Reynolds    |OF        |     22|  4|   4|  1|  1| 
-|Eloy Jimenez      |OF        |     22|  9|  14|  5|  0| 
+|Manny Machado     |3B        |     23|  9|  13|  6|  0| 
+|Xander Bogaerts   |SS        |     32| 12|  14|  3|  1| 
+|Luis Rengifo      |MI        |     19|  6|   4|  2|  1| 
+|Alec Bohm         |CI        |     17|  9|   7|  1|  0| 
+|Bryan Reynolds    |OF        |     25|  5|   6|  2|  1| 
+|Eloy Jimenez      |OF        |     24| 10|  17|  6|  0| 
 |Jo Adell          |OF        |      5|  3|   1|  1|  0| 
 |Luis Robert       |OF        |      0|  0|   0|  0|  0| 
 |Anthony Rizzo     |DH        |      5|  2|   2|  2|  0| 
-|Ian Happ          |DH        |     15|  7|   3|  1|  1| 
-|Michael Harris II |DH        |     23| 10|  11|  5|  1| 
-|Shohei Ohtani     |DH        |     22| 10|  13|  7|  0| 
-|Chris Taylor      |BAT BENCH |     15|  3|   4|  1|  1| 
-|Ke'Bryan Hayes    |BAT BENCH |     11|  3|   1|  0|  3| 
+|Ian Happ          |DH        |     17|  9|   4|  2|  1| 
+|Michael Harris II |DH        |     25| 11|  12|  5|  1| 
+|Shohei Ohtani     |DH        |     23| 10|  13|  7|  0| 
+|Chris Taylor      |BAT BENCH |     17|  3|   4|  1|  2| 
+|Ke'Bryan Hayes    |BAT BENCH |     14|  5|   2|  1|  3| 
 
 
 * * *
@@ -38,7 +38,7 @@
 |Ranger Suarez    |SP          |  3| 14.333|  9|  5.651|     21| 1.465| 12|  1|  0| 
 |Shohei Ohtani    |SP          |  2| 13.000|  2|  1.385|     14| 1.077| 12|  1|  0| 
 |Rowan Wick       |RP          |  5|  3.667|  0|  0.000|      4| 1.091|  5|  0|  1| 
-|Ryan Pressly     |RP          |  1|  1.000|  1|  9.000|      1| 1.000|  2|  0|  1| 
+|Ryan Pressly     |RP          |  2|  2.000|  1|  4.500|      1| 0.500|  5|  0|  2| 
 |Austin Voth      |OP          |  3| 13.333|  4|  2.700|     17| 1.275| 13|  0|  0| 
 |Blake Snell      |OP          |  3| 16.000|  6|  3.375|     22| 1.375| 23|  1|  0| 
 |Gregory Soto     |OP          |  6|  5.333|  5|  8.438|     16| 3.000| 10|  0|  2| 
