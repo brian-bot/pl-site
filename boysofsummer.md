@@ -6,23 +6,23 @@
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Willson Contreras   |C         |      3|  1|   2|  1|  0| 
-|Paul Goldschmidt    |1B        |     18|  9|   4|  2|  1| 
-|Jose Altuve         |2B        |     28| 14|   7|  3|  5| 
-|Jose Ramirez        |3B        |     23|  7|   3|  0|  1| 
-|Nick Gordon         |SS        |     22|  5|  12|  1|  0| 
+|Paul Goldschmidt    |1B        |     21|  9|   4|  2|  1| 
+|Jose Altuve         |2B        |     29| 14|   7|  3|  5| 
+|Jose Ramirez        |3B        |     25|  8|   5|  1|  1| 
+|Nick Gordon         |SS        |     23|  6|  12|  1|  0| 
 |Mookie Betts        |MI        |     24| 12|  10|  4|  0| 
 |Austin Riley        |CI        |     19|  8|   7|  5|  0| 
 |Andrew Benintendi   |OF        |      4|  2|   1|  1|  0| 
-|Harold Ramirez      |OF        |     18|  2|   8|  0|  0| 
+|Harold Ramirez      |OF        |     19|  3|   9|  1|  0| 
 |Jake Fraley         |OF        |     21|  8|   6|  3|  0| 
-|Joey Meneses        |OF        |     24|  9|  13|  2|  0| 
-|Albert Pujols       |DH        |     13|  5|  11|  4|  0| 
-|Jeff McNeil         |DH        |     23|  5|   7|  0|  2| 
+|Joey Meneses        |OF        |     25|  9|  13|  2|  0| 
+|Albert Pujols       |DH        |     15|  5|  12|  4|  0| 
+|Jeff McNeil         |DH        |     25|  5|   7|  0|  2| 
 |Lourdes Gurriel Jr. |DH        |     11|  2|   2|  0|  0| 
-|William Contreras   |DH        |      6|  1|   1|  0|  0| 
-|Austin Hays         |BAT BENCH |     10|  1|   2|  0|  0| 
-|Leody Taveras       |BAT BENCH |     14|  3|   1|  1|  2| 
-|Oscar Gonzalez      |BAT BENCH |     23|  6|  11|  3|  0| 
+|William Contreras   |DH        |      8|  1|   1|  0|  0| 
+|Austin Hays         |BAT BENCH |     11|  1|   2|  0|  0| 
+|Leody Taveras       |BAT BENCH |     16|  3|   1|  1|  2| 
+|Oscar Gonzalez      |BAT BENCH |     26|  7|  12|  4|  0| 
 |Trevor Story        |BAT BENCH |     20|  3|   8|  1|  3| 
 
 
@@ -40,11 +40,11 @@
 |Merrill Kelly    |SP          |  3| 19.000|  7|  3.316|     18| 0.947| 20|  1|  0| 
 |Pablo Lopez      |SP          |  3| 13.667| 12|  7.902|     27| 1.976| 15|  0|  0| 
 |Edwin Diaz       |RP          |  4|  3.667|  1|  2.455|      3| 0.818|  6|  0|  1| 
-|Jorge Lopez      |RP          |  6|  5.333|  4|  6.750|     12| 2.250|  4|  0|  1| 
-|Clarke Schmidt   |OP          |  4| 13.667|  6|  3.951|     17| 1.244| 15|  0|  0| 
+|Jorge Lopez      |RP          |  7|  6.333|  4|  5.684|     13| 2.053|  5|  0|  1| 
+|Clarke Schmidt   |OP          |  5| 15.667|  6|  3.447|     17| 1.085| 18|  0|  0| 
 |Garrett Whitlock |OP          |  4|  6.000|  7| 10.500|     11| 1.833|  9|  0|  0| 
-|Kyle Gibson      |OP          |  2|  6.667| 11| 14.850|     19| 2.850|  4|  0|  0| 
-|Nick Lodolo      |OP          |  3| 21.000|  5|  2.143|     14| 0.667| 25|  1|  0| 
+|Kyle Gibson      |OP          |  3| 12.667| 12|  8.526|     25| 1.974| 11|  1|  0| 
+|Nick Lodolo      |OP          |  4| 27.333|  8|  2.634|     20| 0.732| 36|  1|  0| 
 |Nick Pivetta     |OP          |  4| 18.333| 10|  4.909|     30| 1.636| 14|  0|  0| 
 |Josh Hader       |PITCH BENCH |  6|  5.333|  7| 11.812|     10| 1.875|  7|  0|  3| 
 |Zack Wheeler     |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
