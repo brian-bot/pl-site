@@ -6,23 +6,23 @@
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Willson Contreras   |C         |      3|  1|   2|  1|  0| 
-|Paul Goldschmidt    |1B        |     21|  9|   4|  2|  1| 
+|Paul Goldschmidt    |1B        |     23|  9|   5|  2|  1| 
 |Jose Altuve         |2B        |     29| 14|   7|  3|  5| 
 |Jose Ramirez        |3B        |     25|  8|   5|  1|  1| 
-|Nick Gordon         |SS        |     23|  6|  12|  1|  0| 
+|Nick Gordon         |SS        |     24|  7|  14|  2|  0| 
 |Mookie Betts        |MI        |     24| 12|  10|  4|  0| 
 |Austin Riley        |CI        |     19|  8|   7|  5|  0| 
 |Andrew Benintendi   |OF        |      4|  2|   1|  1|  0| 
-|Harold Ramirez      |OF        |     19|  3|   9|  1|  0| 
-|Jake Fraley         |OF        |     21|  8|   6|  3|  0| 
+|Harold Ramirez      |OF        |     20|  3|   9|  1|  0| 
+|Jake Fraley         |OF        |     21|  8|   7|  3|  0| 
 |Joey Meneses        |OF        |     25|  9|  13|  2|  0| 
-|Albert Pujols       |DH        |     15|  5|  12|  4|  0| 
-|Jeff McNeil         |DH        |     25|  5|   7|  0|  2| 
+|Albert Pujols       |DH        |     15|  5|  13|  4|  0| 
+|Jeff McNeil         |DH        |     27|  7|   7|  0|  2| 
 |Lourdes Gurriel Jr. |DH        |     11|  2|   2|  0|  0| 
 |William Contreras   |DH        |      8|  1|   1|  0|  0| 
 |Austin Hays         |BAT BENCH |     11|  1|   2|  0|  0| 
 |Leody Taveras       |BAT BENCH |     16|  3|   1|  1|  2| 
-|Oscar Gonzalez      |BAT BENCH |     26|  7|  12|  4|  0| 
+|Oscar Gonzalez      |BAT BENCH |     27|  7|  12|  4|  0| 
 |Trevor Story        |BAT BENCH |     20|  3|   8|  1|  3| 
 
 
@@ -38,7 +38,7 @@
 |Johnny Cueto     |SP          |  3| 16.000|  7|  3.938|     23| 1.438| 11|  1|  0| 
 |Martin Perez     |SP          |  3| 18.000|  7|  3.500|     28| 1.556| 17|  1|  0| 
 |Merrill Kelly    |SP          |  3| 19.000|  7|  3.316|     18| 0.947| 20|  1|  0| 
-|Pablo Lopez      |SP          |  3| 13.667| 12|  7.902|     27| 1.976| 15|  0|  0| 
+|Pablo Lopez      |SP          |  4| 20.333| 14|  6.197|     32| 1.574| 20|  1|  0| 
 |Edwin Diaz       |RP          |  4|  3.667|  1|  2.455|      3| 0.818|  6|  0|  1| 
 |Jorge Lopez      |RP          |  7|  6.333|  4|  5.684|     13| 2.053|  5|  0|  1| 
 |Clarke Schmidt   |OP          |  5| 15.667|  6|  3.447|     17| 1.085| 18|  0|  0| 

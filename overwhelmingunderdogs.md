@@ -6,9 +6,9 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Keibert Ruiz     |C         |     12|  4|   4|  1|  0| 
-|Daniel Vogelbach |1B        |     12|  3|   1|  0|  0| 
+|Daniel Vogelbach |1B        |     14|  3|   4|  0|  0| 
 |Max Muncy        |2B        |     22| 13|  10|  4|  0| 
-|Alex Bregman     |3B        |     27|  9|  10|  2|  0| 
+|Alex Bregman     |3B        |     29|  9|  10|  2|  0| 
 |Corey Seager     |SS        |     17| 10|  12|  4|  0| 
 |DJ LeMahieu      |MI        |      4|  2|   1|  0|  0| 
 |Justin Turner    |CI        |     26| 11|  14|  4|  0| 
@@ -16,10 +16,10 @@
 |Charlie Blackmon |OF        |     10|  1|   4|  0|  0| 
 |Juan Soto        |OF        |     20|  7|   3|  1|  0| 
 |Mark Canha       |OF        |     19|  7|   6|  2|  0| 
-|Brendan Donovan  |DH        |     17| 11|   4|  2|  0| 
+|Brendan Donovan  |DH        |     19| 12|   4|  2|  0| 
 |Julio Rodriguez  |DH        |     30| 13|   7|  5|  2| 
 |Keston Hiura     |DH        |     11|  5|   5|  1|  0| 
-|Tommy Edman      |DH        |     25|  9|  12|  4|  3| 
+|Tommy Edman      |DH        |     26|  9|  12|  4|  3| 
 |Brandon Belt     |BAT BENCH |     **| **|  **| **| **| 
 |CJ Abrams        |BAT BENCH |     18| 10|   3|  0|  1| 
 |Kris Bryant      |BAT BENCH |     **| **|  **| **| **| 
@@ -43,9 +43,9 @@
 |David Robertson      |OP          |  6|  6.667|  3| 4.050|     12| 1.800| 11|  1|  2| 
 |Devin Williams       |OP          |  6|  6.333|  1| 1.421|      4| 0.632|  7|  2|  4| 
 |Jake Odorizzi        |OP          |  2|  9.333|  6| 5.786|     13| 1.393|  7|  0|  0| 
-|Jhoan Duran          |OP          |  5|  7.000|  0| 0.000|      3| 0.429| 11|  0|  0| 
+|Jhoan Duran          |OP          |  6|  8.000|  0| 0.000|      5| 0.625| 13|  0|  1| 
 |Zach Davies          |OP          |  4| 19.333| 11| 5.121|     30| 1.552| 18|  0|  0| 
-|James Kaprielian     |PITCH BENCH |  1|  5.667|  2| 3.176|      8| 1.412|  3|  0|  0| 
+|James Kaprielian     |PITCH BENCH |  2| 11.667|  4| 3.086|     17| 1.457|  7|  0|  0| 
 |Madison Bumgarner    |PITCH BENCH |  3| 14.667| 13| 7.977|     28| 1.909|  8|  0|  0| 
 
 

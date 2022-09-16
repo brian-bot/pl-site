@@ -8,18 +8,18 @@
 |Daulton Varsho   |C         |     19| 11|  11|  7|  2| 
 |Freddie Freeman  |1B        |     31| 15|  11|  4|  1| 
 |Trea Turner      |2B        |     22|  9|  10|  2|  4| 
-|Donovan Solano   |3B        |     12|  1|   2|  0|  0| 
+|Donovan Solano   |3B        |     13|  1|   2|  0|  0| 
 |Nico Hoerner     |SS        |     17| 10|   8|  2|  3| 
-|Bryson Stott     |MI        |     16|  6|   2|  1|  0| 
-|Ha-Seong Kim     |CI        |     13|  4|   2|  1|  0| 
+|Bryson Stott     |MI        |     18|  8|   2|  1|  0| 
+|Ha-Seong Kim     |CI        |     14|  4|   2|  1|  0| 
 |Christian Yelich |OF        |     23|  9|  10|  2|  0| 
 |Hunter Renfroe   |OF        |     25|  7|   9|  2|  0| 
 |Nick Castellanos |OF        |      0|  0|   0|  0|  0| 
-|Randy Arozarena  |OF        |     22| 11|  11|  2|  6| 
-|Jake McCarthy    |DH        |     26| 10|  18|  4|  6| 
-|Lars Nootbaar    |DH        |     15|  8|   8|  4|  1| 
+|Randy Arozarena  |OF        |     25| 12|  12|  2|  6| 
+|Jake McCarthy    |DH        |     28| 10|  18|  4|  6| 
+|Lars Nootbaar    |DH        |     16|  9|   8|  4|  1| 
 |Riley Greene     |DH        |     24|  6|   3|  0|  0| 
-|Steven Kwan      |DH        |     23|  5|   4|  1|  3| 
+|Steven Kwan      |DH        |     24|  5|   4|  1|  3| 
 |Byron Buxton     |BAT BENCH |     **| **|  **| **| **| 
 |Luke Voit        |BAT BENCH |     25|  5|   8|  3|  0| 
 |Seiya Suzuki     |BAT BENCH |     26|  9|   6|  3|  1| 
@@ -36,7 +36,7 @@
 |Dylan Cease      |SP          |  4| 28.000|  5| 1.607|     19| 0.679| 32|  2|  0| 
 |Julio Urias      |SP          |  3| 19.000|  4| 1.895|     17| 0.895| 14|  3|  0| 
 |Sandy Alcantara  |SP          |  3| 18.000| 11| 5.500|     25| 1.389| 14|  0|  0| 
-|Shane McClanahan |SP          |  0|  0.000|  0|    **|      0|    **|  0|  0|  0| 
+|Shane McClanahan |SP          |  1|  5.000|  0| 0.000|      4| 0.800|  5|  1|  0| 
 |Triston McKenzie |SP          |  3| 17.667|  4| 2.038|     20| 1.132| 17|  1|  0| 
 |Yu Darvish       |SP          |  3| 21.000|  3| 1.286|     14| 0.667| 22|  3|  0| 
 |Clay Holmes      |RP          |  8|  9.333|  3| 2.893|      7| 0.750| 10|  1|  3| 

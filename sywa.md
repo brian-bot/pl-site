@@ -6,23 +6,23 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |J.T. Realmuto      |C         |     22|  8|  13|  4|  1| 
-|Pete Alonso        |1B        |     20|  6|   6|  4|  0| 
-|Jonathan India     |2B        |     25|  8|   7|  2|  0| 
-|Matt Chapman       |3B        |     28|  7|   6|  0|  0| 
+|Pete Alonso        |1B        |     24|  7|   7|  4|  0| 
+|Jonathan India     |2B        |     27|  8|   7|  2|  0| 
+|Matt Chapman       |3B        |     29|  7|   6|  0|  0| 
 |Dansby Swanson     |SS        |     19|  9|  14|  4|  1| 
 |Kolten Wong        |MI        |     19|  5|   4|  2|  2| 
-|Trey Mancini       |CI        |     18|  5|   4|  1|  0| 
+|Trey Mancini       |CI        |     20|  6|   4|  1|  0| 
 |J.D. Martinez      |OF        |     19|  5|   4|  2|  0| 
-|Kyle Tucker        |OF        |     20| 10|  14|  5|  3| 
+|Kyle Tucker        |OF        |     23| 10|  15|  5|  3| 
 |Max Kepler         |OF        |      9|  7|   1|  0|  0| 
-|Yordan Alvarez     |OF        |     19|  6|   4|  2|  0| 
+|Yordan Alvarez     |OF        |     21|  7|   5|  2|  0| 
 |AJ Pollock         |DH        |     23| 11|   7|  3|  1| 
 |Elehuris Montero   |DH        |     12|  4|   4|  1|  0| 
 |Nolan Gorman       |DH        |      5|  1|   2|  1|  0| 
-|Vinnie Pasquantino |DH        |      3|  0|   1|  0|  0| 
+|Vinnie Pasquantino |DH        |      5|  0|   1|  0|  0| 
 |Jazz Chisholm Jr.  |BAT BENCH |     **| **|  **| **| **| 
-|Ramon Laureano     |BAT BENCH |      6|  4|   5|  1|  0| 
-|Santiago Espinal   |BAT BENCH |     17|  5|   6|  0|  1| 
+|Ramon Laureano     |BAT BENCH |      6|  5|   5|  1|  0| 
+|Santiago Espinal   |BAT BENCH |     18|  5|   6|  0|  1| 
 
 
 * * *
@@ -44,7 +44,7 @@
 |Evan Phillips    |OP          |  6|  5.667|  1| 1.588|      6| 1.059|  4|  1|  0| 
 |Jose Urquidy     |OP          |  2| 12.000|  6| 4.500|     16| 1.333| 12|  1|  0| 
 |Luis Garcia      |OP          |  2| 12.000|  4| 3.000|     13| 1.083| 11|  1|  0| 
-|Tanner Scott     |OP          |  5|  4.333|  0| 0.000|      6| 1.385|  8|  0|  0| 
+|Tanner Scott     |OP          |  6|  5.333|  0| 0.000|      8| 1.500|  9|  0|  0| 
 |Jack Flaherty    |PITCH BENCH |  2| 10.000|  4| 3.600|     17| 1.700|  6|  0|  0| 
 |Roansy Contreras |PITCH BENCH |  4| 20.333|  3| 1.328|     20| 0.984| 16|  2|  0| 
 |Trevor Rogers    |PITCH BENCH |  3| 18.333|  6| 2.945|     17| 0.927| 22|  0|  0| 

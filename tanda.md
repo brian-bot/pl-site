@@ -5,21 +5,21 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez   |C         |     18|  5|   9|  3|  0| 
+|Salvador Perez   |C         |     20|  6|  10|  4|  0| 
 |Matt Olson       |1B        |     12|  6|   4|  1|  0| 
 |Javier Baez      |2B        |     21|  7|   9|  2|  0| 
 |Josh Rojas       |3B        |     19|  8|   8|  1|  2| 
-|Francisco Lindor |SS        |     24|  7|   7|  2|  1| 
-|Bo Bichette      |MI        |     41| 18|  22|  7|  1| 
-|Kyle Schwarber   |CI        |     19|  6|   6|  2|  1| 
+|Francisco Lindor |SS        |     25|  8|   9|  3|  1| 
+|Bo Bichette      |MI        |     43| 18|  22|  7|  2| 
+|Kyle Schwarber   |CI        |     21|  7|   7|  3|  1| 
 |Andrew McCutchen |OF        |     14|  5|   9|  3|  0| 
-|Brandon Nimmo    |OF        |     23|  9|   9|  2|  1| 
+|Brandon Nimmo    |OF        |     26| 11|   9|  2|  1| 
 |Mitch Haniger    |OF        |     13|  3|   5|  0|  0| 
 |Taylor Ward      |OF        |     22|  7|   5|  1|  0| 
-|Amed Rosario     |DH        |     13|  5|   4|  1|  1| 
+|Amed Rosario     |DH        |     15|  5|   5|  1|  1| 
 |Eugenio Suarez   |DH        |     21|  9|  12|  7|  0| 
 |Jean Segura      |DH        |     18|  5|   7|  1|  1| 
-|Jon Berti        |DH        |     13|  6|   4|  1|  3| 
+|Jon Berti        |DH        |     14|  6|   4|  1|  3| 
 |Franmil Reyes    |BAT BENCH |     21|  9|   6|  2|  0| 
 |MJ Melendez      |BAT BENCH |     17|  5|   6|  1|  1| 
 
@@ -47,7 +47,7 @@
 |Alex Wood         |PITCH BENCH |  1|  4.667|  4|  7.714|      6| 1.286|  5|  0|  0| 
 |Corey Kluber      |PITCH BENCH |  3| 13.667|  9|  5.927|     18| 1.317|  8|  2|  0| 
 |Eduardo Rodriguez |PITCH BENCH |  3| 16.000| 13|  7.312|     24| 1.500| 11|  0|  0| 
-|Sean Manaea       |PITCH BENCH |  3|  9.333| 14| 13.500|     21| 2.250| 10|  0|  0| 
+|Sean Manaea       |PITCH BENCH |  4| 14.333| 16| 10.047|     24| 1.674| 13|  0|  0| 
 
 
 * * *

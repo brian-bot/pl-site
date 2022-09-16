@@ -6,14 +6,14 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith        |C         |     18|  7|   9|  4|  0| 
-|Jose Abreu        |1B        |     27| 10|   7|  1|  0| 
+|Jose Abreu        |1B        |     30| 10|   9|  1|  0| 
 |Vaughn Grissom    |2B        |     17|  8|   6|  2|  3| 
 |Manny Machado     |3B        |     23|  9|  13|  6|  0| 
 |Xander Bogaerts   |SS        |     33| 12|  14|  3|  1| 
 |Luis Rengifo      |MI        |     21|  6|   4|  2|  1| 
 |Alec Bohm         |CI        |     18|  9|   7|  1|  0| 
-|Bryan Reynolds    |OF        |     27|  6|   6|  2|  1| 
-|Eloy Jimenez      |OF        |     25| 10|  17|  6|  0| 
+|Bryan Reynolds    |OF        |     29|  6|   6|  2|  1| 
+|Eloy Jimenez      |OF        |     26| 11|  17|  6|  0| 
 |Jo Adell          |OF        |      5|  3|   1|  1|  0| 
 |Luis Robert       |OF        |      1|  0|   0|  0|  0| 
 |Anthony Rizzo     |DH        |      5|  2|   2|  2|  0| 
@@ -33,8 +33,8 @@
 |:----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |David Peterson   |SP          |  3|  9.333| 11| 10.607|     21| 2.250| 14|  0|  0| 
 |George Kirby     |SP          |  3| 14.000|  1|  0.643|      9| 0.643| 13|  2|  0| 
-|Miles Mikolas    |SP          |  3| 17.333|  8|  4.154|     20| 1.154| 14|  1|  0| 
-|Noah Syndergaard |SP          |  3| 16.000| 11|  6.188|     26| 1.625| 10|  1|  0| 
+|Miles Mikolas    |SP          |  4| 23.333| 11|  4.243|     28| 1.200| 17|  1|  0| 
+|Noah Syndergaard |SP          |  4| 22.000| 15|  6.136|     33| 1.500| 13|  1|  0| 
 |Ranger Suarez    |SP          |  3| 14.333|  9|  5.651|     21| 1.465| 12|  1|  0| 
 |Shohei Ohtani    |SP          |  2| 13.000|  2|  1.385|     14| 1.077| 12|  1|  0| 
 |Rowan Wick       |RP          |  6|  4.667|  0|  0.000|      6| 1.286|  6|  0|  1| 
@@ -45,7 +45,7 @@
 |Jordan Lyles     |OP          |  2| 10.333|  8|  6.968|     15| 1.452|  3|  1|  0| 
 |Kohei Arihara    |OP          |  3|  8.333| 18| 19.440|     32| 3.840|  5|  0|  0| 
 |Aroldis Chapman  |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Carlos Carrasco  |PITCH BENCH |  2|  8.667|  2|  2.077|     12| 1.385|  8|  1|  0| 
+|Carlos Carrasco  |PITCH BENCH |  3| 14.667|  3|  1.841|     18| 1.227| 19|  2|  0| 
 |Nathan Eovaldi   |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Nestor Cortes    |PITCH BENCH |  2|  9.000|  3|  3.000|      7| 0.778|  9|  1|  0| 
 |Tyler Mahle      |PITCH BENCH |  1|  2.000|  4| 18.000|      5| 2.500|  0|  0|  0| 
