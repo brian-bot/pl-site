@@ -5,23 +5,23 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez   |C         |     20|  6|  10|  4|  0| 
+|Salvador Perez   |C         |     21|  6|  11|  4|  0| 
 |Matt Olson       |1B        |     12|  6|   4|  1|  0| 
-|Javier Baez      |2B        |     21|  7|   9|  2|  0| 
+|Javier Baez      |2B        |     25|  8|   9|  2|  1| 
 |Josh Rojas       |3B        |     19|  8|   8|  1|  2| 
-|Francisco Lindor |SS        |     25|  8|   9|  3|  1| 
-|Bo Bichette      |MI        |     43| 18|  22|  7|  2| 
-|Kyle Schwarber   |CI        |     21|  7|   7|  3|  1| 
-|Andrew McCutchen |OF        |     14|  5|   9|  3|  0| 
-|Brandon Nimmo    |OF        |     26| 11|   9|  2|  1| 
+|Francisco Lindor |SS        |     26|  8|   9|  3|  2| 
+|Bo Bichette      |MI        |     44| 19|  22|  7|  3| 
+|Kyle Schwarber   |CI        |     22|  8|   8|  4|  1| 
+|Andrew McCutchen |OF        |     16|  5|   9|  3|  0| 
+|Brandon Nimmo    |OF        |     28| 12|  10|  2|  2| 
 |Mitch Haniger    |OF        |     13|  3|   5|  0|  0| 
-|Taylor Ward      |OF        |     22|  7|   5|  1|  0| 
-|Amed Rosario     |DH        |     15|  5|   5|  1|  1| 
-|Eugenio Suarez   |DH        |     21|  9|  12|  7|  0| 
-|Jean Segura      |DH        |     18|  5|   7|  1|  1| 
+|Taylor Ward      |OF        |     25|  8|   7|  1|  0| 
+|Amed Rosario     |DH        |     16|  5|   7|  1|  1| 
+|Eugenio Suarez   |DH        |     22| 10|  12|  7|  0| 
+|Jean Segura      |DH        |     20|  6|   8|  2|  1| 
 |Jon Berti        |DH        |     14|  6|   4|  1|  3| 
-|Franmil Reyes    |BAT BENCH |     21|  9|   6|  2|  0| 
-|MJ Melendez      |BAT BENCH |     17|  5|   6|  1|  1| 
+|Franmil Reyes    |BAT BENCH |     22|  9|   6|  2|  0| 
+|MJ Melendez      |BAT BENCH |     18|  6|   6|  1|  1| 
 
 * * *
 
@@ -40,12 +40,12 @@
 |Kenley Jansen     |RP          |  7|  6.333|  5|  7.105|      8| 1.263|  7|  0|  4| 
 |Cole Irvin        |OP          |  3| 17.000| 16|  8.471|     29| 1.706| 15|  2|  0| 
 |Daniel Bard       |OP          |  7|  8.000|  0|  0.000|      4| 0.500|  7|  2|  4| 
-|Domingo German    |OP          |  3| 13.667|  5|  3.293|     17| 1.244|  8|  0|  0| 
+|Domingo German    |OP          |  4| 15.333|  5|  2.935|     19| 1.239| 10|  0|  0| 
 |Jameson Taillon   |OP          |  3| 14.333|  7|  4.395|     17| 1.186| 13|  1|  0| 
 |Mike Clevinger    |OP          |  4| 18.333| 17|  8.345|     27| 1.473| 13|  1|  0| 
 |Alex Cobb         |PITCH BENCH |  3| 18.333|  3|  1.473|     20| 1.091| 18|  2|  0| 
 |Alex Wood         |PITCH BENCH |  1|  4.667|  4|  7.714|      6| 1.286|  5|  0|  0| 
-|Corey Kluber      |PITCH BENCH |  3| 13.667|  9|  5.927|     18| 1.317|  8|  2|  0| 
+|Corey Kluber      |PITCH BENCH |  4| 19.333| 13|  6.052|     27| 1.397| 14|  2|  0| 
 |Eduardo Rodriguez |PITCH BENCH |  3| 16.000| 13|  7.312|     24| 1.500| 11|  0|  0| 
 |Sean Manaea       |PITCH BENCH |  4| 14.333| 16| 10.047|     24| 1.674| 13|  0|  0| 
 
