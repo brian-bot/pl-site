@@ -5,24 +5,25 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Sean Murphy       |C         |     23|  8|  11|  2|  0| 
-|Josh Bell         |1B        |     24|  7|   5|  1|  0| 
-|Jorge Mateo       |2B        |     11|  4|   4|  1|  2| 
-|Rafael Devers     |3B        |     21|  7|  14|  1|  1| 
-|Bobby Witt Jr.    |SS        |     18|  8|   8|  2|  1| 
-|Willy Adames      |MI        |     30| 13|  14|  3|  0| 
-|Brandon Drury     |CI        |     10|  6|   8|  4|  0| 
-|Aaron Judge       |OF        |     42| 18|  14|  8|  2| 
-|Anthony Santander |OF        |     19|  9|   6|  4|  0| 
-|Trent Grisham     |OF        |     11|  5|   5|  2|  1| 
-|Tyler O'Neill     |OF        |     22| 14|  11|  5|  5| 
-|Christian Walker  |DH        |     28| 12|  11|  4|  1| 
-|Emmanuel Rivera   |DH        |     11|  6|   3|  1|  1| 
-|Jesse Winker      |DH        |     14|  3|   0|  0|  0| 
-|Joey Gallo        |DH        |     10|  3|   9|  2|  1| 
-|Alejandro Kirk    |BAT BENCH |     23|  5|  11|  1|  0| 
-|Luis Urias        |BAT BENCH |     17|  4|   2|  1|  0| 
-|Patrick Wisdom    |BAT BENCH |      1|  0|   1|  0|  0| 
+|Sean Murphy       |C         |      3|  2|   1|  0|  0| 
+|Christian Walker  |1B        |      1|  0|   0|  0|  0| 
+|Isaac Paredes     |2B        |      1|  0|   2|  0|  0| 
+|Rafael Devers     |3B        |      1|  0|   0|  0|  0| 
+|Bobby Witt Jr.    |SS        |      2|  1|   2|  0|  0| 
+|Willy Adames      |MI        |      2|  1|   3|  1|  1| 
+|Brandon Drury     |CI        |      0|  0|   0|  0|  0| 
+|Aaron Judge       |OF        |      2|  0|   0|  0|  0| 
+|Anthony Santander |OF        |      2|  1|   0|  0|  0| 
+|Aristides Aquino  |OF        |      0|  0|   0|  0|  0| 
+|Tyler O'Neill     |OF        |     **| **|  **| **| **| 
+|Cal Raleigh       |DH        |      2|  0|   0|  0|  0| 
+|Elvis Andrus      |DH        |      1|  1|   0|  0|  1| 
+|Steven Kwan       |DH        |      7|  3|   0|  0|  0| 
+|Triston Casas     |DH        |      0|  0|   0|  0|  0| 
+|Jorge Mateo       |BAT BENCH |     **| **|  **| **| **| 
+|Jose Siri         |BAT BENCH |      3|  2|   0|  0|  1| 
+|Josh Bell         |BAT BENCH |      0|  0|   0|  0|  0| 
+|Spencer Steer     |BAT BENCH |      0|  0|   0|  0|  0| 
 
 
 * * *
@@ -30,25 +31,24 @@
 ### Pitchers
 
  
-|players          |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
-|:----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Alek Manoah      |SP          |  3| 22.000|  3| 1.227|     17| 0.773| 16|  2|  0| 
-|Jacob deGrom     |SP          |  3| 20.000|  4| 1.800|     13| 0.650| 27|  2|  0| 
-|Jeffrey Springs  |SP          |  3| 14.667|  0| 0.000|     14| 0.955| 14|  2|  0| 
-|Joe Ryan         |SP          |  3| 16.000|  9| 5.062|     18| 1.125| 20|  1|  0| 
-|Justin Verlander |SP          |  2|  8.000|  0| 0.000|      5| 0.625| 15|  1|  0| 
-|Ross Stripling   |SP          |  4| 24.333|  9| 3.329|     19| 0.781| 22|  2|  0| 
-|Felix Bautista   |RP          |  4|  5.000|  1| 1.800|      4| 0.800|  6|  0|  3| 
-|Paul Sewald      |RP          |  8|  6.667|  2| 2.700|     10| 1.500|  9|  1|  3| 
-|Alexis Diaz      |OP          |  6|  6.667|  2| 2.700|      7| 1.050|  8|  2|  1| 
-|James Karinchak  |OP          |  9|  8.667|  2| 2.077|     12| 1.385|  9|  0|  3| 
-|Justin Steele    |OP          | **|     **| **|    **|     **|    **| **| **| **| 
-|Kyle Bradish     |OP          |  3| 17.000|  4| 2.118|     17| 1.000| 11|  1|  0| 
-|Spencer Strider  |OP          |  3| 19.000|  4| 1.895|     17| 0.895| 34|  2|  0| 
-|Jason Adam       |PITCH BENCH |  8|  8.000|  3| 3.375|      8| 1.000| 10|  1|  1| 
-|Logan Gilbert    |PITCH BENCH |  3| 17.000|  1| 0.529|     15| 0.882| 23|  2|  0| 
-|Lucas Giolito    |PITCH BENCH |  4| 21.000| 11| 4.714|     30| 1.429| 23|  0|  0| 
-|Matt Manning     |PITCH BENCH |  4| 19.667| 11| 5.034|     23| 1.169| 13|  1|  0| 
+|players          |position    |  g|    ip| er|   era| hitsbb|  whip| so|  w| sv| 
+|:----------------|:-----------|--:|-----:|--:|-----:|------:|-----:|--:|--:|--:| 
+|Alek Manoah      |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Jacob deGrom     |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Jeffrey Springs  |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Joe Ryan         |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Justin Verlander |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Ross Stripling   |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Felix Bautista   |RP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Paul Sewald      |RP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Alexis Diaz      |OP          |  1| 2.000|  0| 0.000|      3| 1.500|  1|  0|  0| 
+|Jason Adam       |OP          |  1| 1.000|  0| 0.000|      1| 1.000|  0|  0|  0| 
+|Jon Gray         |OP          |  1| 4.333|  2| 4.154|      3| 0.692|  4|  0|  0| 
+|Logan Gilbert    |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Spencer Strider  |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Drew Smyly       |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
+|Hunter Brown     |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
+|John Schreiber   |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
 
 
 * * *
