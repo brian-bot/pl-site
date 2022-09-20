@@ -9,16 +9,16 @@
 |Vladimir Guerrero |1B        |      6|  2|   1|  1|  0| 
 |Ketel Marte       |2B        |      2|  0|   1|  0|  0| 
 |Nolan Arenado     |3B        |      3|  0|   0|  0|  0| 
-|Thairo Estrada    |SS        |      5|  1|   0|  0|  1| 
+|Thairo Estrada    |SS        |      8|  4|   3|  1|  1| 
 |Jake Cronenworth  |MI        |      3|  1|   1|  0|  0| 
 |Nathaniel Lowe    |CI        |      3|  0|   0|  0|  0| 
 |Andrew Vaughn     |OF        |      3|  2|   4|  1|  0| 
-|Cody Bellinger    |OF        |      0|  1|   0|  0|  0| 
+|Cody Bellinger    |OF        |      1|  1|   0|  0|  0| 
 |George Springer   |OF        |      4|  2|   3|  0|  0| 
-|Luis Arraez       |OF        |      2|  0|   2|  0|  0| 
-|Brandon Crawford  |DH        |      2|  0|   0|  0|  0| 
+|Luis Arraez       |OF        |      4|  1|   2|  0|  0| 
+|Brandon Crawford  |DH        |      3|  1|   1|  0|  0| 
 |Nelson Cruz       |DH        |     **| **|  **| **| **| 
-|Yandy Diaz        |DH        |      2|  1|   0|  0|  0| 
+|Yandy Diaz        |DH        |      3|  1|   0|  0|  0| 
 |Yuli Gurriel      |DH        |      2|  1|   1|  0|  0| 
 |Austin Meadows    |BAT BENCH |     **| **|  **| **| **| 
 |Christian Vazquez |BAT BENCH |      2|  0|   0|  0|  0| 
@@ -39,10 +39,10 @@
 |Jose Berrios    |SP          |  1| 6.000|  2| 3.000|      9| 1.500|  3|  1|  0| 
 |Kevin Gausman   |SP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Robbie Ray      |SP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Cal Quantrill   |RP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Cal Quantrill   |RP          |  1| 5.333|  3| 5.062|     10| 1.875|  2|  1|  0| 
 |Emmanuel Clase  |RP          |  1| 1.000|  0| 0.000|      0| 0.000|  1|  0|  0| 
 |Chris Flexen    |OP          |  1| 1.667|  0| 0.000|      2| 1.200|  1|  0|  0| 
-|Drew Rasmussen  |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Drew Rasmussen  |OP          |  1| 6.000|  4| 6.000|      7| 1.167|  3|  0|  0| 
 |Luis Castillo   |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Marco Gonzales  |OP          |  1| 6.333|  5| 7.105|      9| 1.421|  4|  0|  0| 
 |Yusei Kikuchi   |OP          | **|    **| **|    **|     **|    **| **| **| **| 

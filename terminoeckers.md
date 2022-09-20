@@ -5,18 +5,18 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Daulton Varsho     |C         |      2|  1|   0|  0|  0| 
-|Freddie Freeman    |1B        |      5|  2|   2|  0|  1| 
-|Trea Turner        |2B        |      3|  3|   0|  0|  0| 
-|David Villar       |3B        |      2|  0|   0|  0|  0| 
+|Daulton Varsho     |C         |      3|  1|   0|  0|  0| 
+|Freddie Freeman    |1B        |      6|  2|   2|  0|  1| 
+|Trea Turner        |2B        |      4|  3|   0|  0|  0| 
+|David Villar       |3B        |      4|  0|   1|  0|  0| 
 |Isiah Kiner-Falefa |SS        |      1|  1|   0|  0|  0| 
-|Ty France          |MI        |      0|  0|   0|  0|  0| 
-|Carlos Santana     |CI        |      1|  0|   0|  0|  0| 
-|Christian Yelich   |OF        |      4|  2|   1|  0|  0| 
+|Ty France          |MI        |      3|  2|   4|  1|  0| 
+|Carlos Santana     |CI        |      3|  2|   5|  2|  0| 
+|Christian Yelich   |OF        |      6|  3|   1|  0|  0| 
 |Hunter Renfroe     |OF        |      2|  1|   0|  0|  0| 
-|Jake McCarthy      |OF        |      2|  0|   0|  0|  0| 
-|Randy Arozarena    |OF        |     **| **|  **| **| **| 
-|Lane Thomas        |DH        |      2|  1|   1|  1|  0| 
+|Jake McCarthy      |OF        |      3|  0|   0|  0|  0| 
+|Randy Arozarena    |OF        |      0|  0|   0|  0|  0| 
+|Lane Thomas        |DH        |      4|  1|   1|  1|  0| 
 |Luke Voit          |DH        |      5|  1|   1|  1|  0| 
 |Mark Mathias       |DH        |      0|  0|   0|  0|  0| 
 |Tommy Pham         |DH        |      4|  2|   3|  0|  0| 
@@ -44,7 +44,7 @@
 |Andres Munoz     |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Jesus Luzardo    |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Jose Leclerc     |OP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Jose Suarez      |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Jose Suarez      |OP          |  1| 5.000|  5| 9.000|      8| 1.600|  4|  0|  0| 
 |Patrick Sandoval |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Bailey Falter    |PITCH BENCH |  1| 4.667|  1| 1.929|      6| 1.286|  3|  0|  0| 
 |Brayan Bello     |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
