@@ -5,26 +5,26 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez   |C         |      5|  1|   3|  1|  0| 
-|Matt Olson       |1B        |      3|  2|   0|  0|  0| 
+|Salvador Perez   |C         |      8|  2|   4|  1|  0| 
+|Matt Olson       |1B        |      4|  2|   0|  0|  0| 
 |Javier Baez      |2B        |      5|  3|   2|  1|  0| 
-|Yoan Moncada     |3B        |      5|  2|   1|  0|  2| 
-|Bo Bichette      |SS        |      5|  2|   1|  0|  0| 
-|Francisco Lindor |MI        |      8|  4|   5|  1|  0| 
-|Kyle Schwarber   |CI        |      5|  2|   3|  1|  0| 
+|Yoan Moncada     |3B        |      6|  3|   2|  1|  2| 
+|Bo Bichette      |SS        |      7|  2|   1|  0|  0| 
+|Francisco Lindor |MI        |      9|  4|   5|  1|  0| 
+|Kyle Schwarber   |CI        |      6|  2|   4|  1|  1| 
 |Andrew McCutchen |OF        |      5|  1|   1|  0|  0| 
-|Brandon Nimmo    |OF        |      9|  4|   2|  0|  0| 
-|Oscar Gonzalez   |OF        |      6|  1|   2|  0|  0| 
-|Taylor Ward      |OF        |      5|  2|   2|  0|  1| 
-|Amed Rosario     |DH        |     13|  5|   9|  2|  4| 
-|Jean Segura      |DH        |      2|  0|   0|  0|  0| 
-|Jeremy Pena      |DH        |      6|  3|   4|  1|  0| 
-|Jon Berti        |DH        |      5|  2|   2|  1|  2| 
+|Brandon Nimmo    |OF        |     10|  4|   2|  0|  1| 
+|Oscar Gonzalez   |OF        |      7|  2|   3|  0|  0| 
+|Taylor Ward      |OF        |      7|  3|   4|  1|  1| 
+|Amed Rosario     |DH        |     14|  5|   9|  2|  4| 
+|Jean Segura      |DH        |      5|  1|   0|  0|  0| 
+|Jeremy Pena      |DH        |      7|  5|   4|  1|  1| 
+|Jon Berti        |DH        |      6|  2|   2|  1|  2| 
 |Eugenio Suarez   |BAT BENCH |     **| **|  **| **| **| 
-|Franmil Reyes    |BAT BENCH |      2|  0|   0|  0|  0| 
+|Franmil Reyes    |BAT BENCH |      3|  0|   0|  0|  0| 
 |Josh Rojas       |BAT BENCH |      2|  1|   0|  0|  0| 
-|Mitch Haniger    |BAT BENCH |      2|  2|   0|  0|  0| 
-|MJ Melendez      |BAT BENCH |      6|  6|   4|  1|  1| 
+|Mitch Haniger    |BAT BENCH |      3|  2|   0|  0|  0| 
+|MJ Melendez      |BAT BENCH |      7|  7|   5|  2|  1| 
 
 * * *
 
@@ -46,7 +46,7 @@
 |Hunter Greene     |OP          |  1| 6.000|  0| 0.000|      4| 0.667| 11|  0|  0| 
 |Jameson Taillon   |OP          |  1| 5.000|  4| 7.200|      6| 1.200|  4|  0|  0| 
 |Michael Kopech    |OP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Corey Kluber      |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
+|Corey Kluber      |PITCH BENCH |  1| 7.000|  1| 1.286|      7| 1.000|  2|  0|  0| 
 |Eduardo Rodriguez |PITCH BENCH |  1| 6.333|  2| 2.842|      4| 0.632|  7|  0|  0| 
 
 

@@ -5,22 +5,22 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto      |C         |      7|  3|   3|  2|  0| 
+|J.T. Realmuto      |C         |      9|  4|   4|  3|  1| 
 |Pete Alonso        |1B        |      7|  5|   8|  2|  2| 
-|Jonathan India     |2B        |      7|  0|   1|  0|  0| 
-|Matt Chapman       |3B        |      5|  4|   4|  1|  0| 
-|Dansby Swanson     |SS        |      6|  1|   1|  1|  0| 
+|Jonathan India     |2B        |      9|  1|   3|  0|  1| 
+|Matt Chapman       |3B        |      8|  4|   4|  1|  0| 
+|Dansby Swanson     |SS        |      7|  1|   1|  1|  1| 
 |Kolten Wong        |MI        |      7|  2|   4|  1|  0| 
 |Trey Mancini       |CI        |      4|  1|   1|  1|  0| 
-|Corbin Carroll     |OF        |      7|  0|   1|  0|  1| 
+|Corbin Carroll     |OF        |      8|  0|   4|  0|  1| 
 |J.D. Martinez      |OF        |      4|  3|   2|  1|  0| 
-|Kyle Tucker        |OF        |      5|  1|   3|  1|  0| 
-|Yordan Alvarez     |OF        |      4|  3|   6|  1|  0| 
+|Kyle Tucker        |OF        |      6|  2|   5|  2|  0| 
+|Yordan Alvarez     |OF        |      5|  3|   6|  1|  0| 
 |AJ Pollock         |DH        |      5|  2|   6|  2|  0| 
 |Ramon Laureano     |DH        |     **| **|  **| **| **| 
 |Santiago Espinal   |DH        |      2|  2|   1|  0|  0| 
-|Vinnie Pasquantino |DH        |      9|  0|   4|  0|  0| 
-|Elehuris Montero   |BAT BENCH |      2|  1|   0|  0|  0| 
+|Vinnie Pasquantino |DH        |     11|  0|   4|  0|  0| 
+|Elehuris Montero   |BAT BENCH |      3|  2|   1|  1|  0| 
 |Jazz Chisholm Jr.  |BAT BENCH |     **| **|  **| **| **| 
 |Max Kepler         |BAT BENCH |     **| **|  **| **| **| 
 |Nolan Gorman       |BAT BENCH |      2|  0|   0|  0|  0| 
@@ -37,9 +37,9 @@
 |Framber Valdez   |SP          |  1| 6.000|  2|  3.000|      5| 0.833|  7|  1|  0| 
 |Gerrit Cole      |SP          |  1| 5.000|  4|  7.200|      7| 1.400|  8|  1|  0| 
 |Max Fried        |SP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Roansy Contreras |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Roansy Contreras |SP          |  1| 4.667|  6| 11.571|      8| 1.714| 10|  0|  0| 
 |Zac Gallen       |SP          |  1| 5.333|  2|  3.375|      7| 1.312|  4|  0|  0| 
-|Jordan Romano    |RP          |  2| 2.000|  3| 13.500|      7| 3.500|  0|  0|  1| 
+|Jordan Romano    |RP          |  3| 3.333|  3|  8.100|      8| 2.400|  0|  0|  1| 
 |Liam Hendriks    |RP          |  2| 2.000|  0|  0.000|      0| 0.000|  2|  1|  0| 
 |Cristian Javier  |OP          |  1| 5.000|  0|  0.000|      5| 1.000|  6|  1|  0| 
 |Evan Phillips    |OP          |  2| 2.000|  0|  0.000|      1| 0.500|  4|  0|  0| 
