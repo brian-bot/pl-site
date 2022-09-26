@@ -5,25 +5,25 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Sean Murphy       |C         |     10|  5|   2|  0|  0| 
-|Christian Walker  |1B        |     12|  4|   5|  2|  0| 
-|Isaac Paredes     |2B        |      8|  2|   3|  1|  0| 
+|Sean Murphy       |C         |     12|  6|   2|  0|  0| 
+|Christian Walker  |1B        |     13|  5|   5|  2|  0| 
+|Isaac Paredes     |2B        |      9|  2|   3|  1|  0| 
 |Rafael Devers     |3B        |     13|  4|   5|  1|  0| 
-|Bobby Witt Jr.    |SS        |     12|  7|   6|  0|  1| 
+|Bobby Witt Jr.    |SS        |     14|  9|   8|  0|  1| 
 |Willy Adames      |MI        |     15|  7|   7|  2|  3| 
-|Brandon Drury     |CI        |      4|  1|   1|  0|  0| 
-|Aaron Judge       |OF        |     17|  6|   5|  3|  0| 
+|Brandon Drury     |CI        |      7|  4|   3|  1|  0| 
+|Aaron Judge       |OF        |     19|  6|   5|  3|  0| 
 |Anthony Santander |OF        |      8|  3|   3|  2|  0| 
-|Aristides Aquino  |OF        |      3|  1|   0|  0|  0| 
+|Aristides Aquino  |OF        |      5|  1|   0|  0|  0| 
 |Tyler O'Neill     |OF        |     **| **|  **| **| **| 
-|Cal Raleigh       |DH        |      8|  2|   5|  2|  0| 
+|Cal Raleigh       |DH        |      9|  3|   6|  2|  0| 
 |Elvis Andrus      |DH        |      8|  4|   1|  0|  4| 
-|Steven Kwan       |DH        |     20| 10|   5|  1|  2| 
+|Steven Kwan       |DH        |     23| 12|  10|  2|  4| 
 |Triston Casas     |DH        |      9|  2|   4|  2|  0| 
-|Jorge Mateo       |BAT BENCH |      3|  2|   2|  0|  3| 
-|Jose Siri         |BAT BENCH |     10|  4|   1|  1|  3| 
+|Jorge Mateo       |BAT BENCH |      4|  3|   2|  0|  3| 
+|Jose Siri         |BAT BENCH |     11|  4|   1|  1|  3| 
 |Josh Bell         |BAT BENCH |      5|  2|   1|  0|  0| 
-|Spencer Steer     |BAT BENCH |      4|  2|   1|  0|  0| 
+|Spencer Steer     |BAT BENCH |      6|  3|   2|  1|  0| 
 
 
 * * *
@@ -38,10 +38,10 @@
 |Jeffrey Springs  |SP          |  2| 10.667|  5|  4.219|     13| 1.219| 12|  1|  0| 
 |Joe Ryan         |SP          |  2| 11.667|  3|  2.314|     12| 1.029| 10|  1|  0| 
 |Justin Verlander |SP          |  1|  6.000|  2|  3.000|      6| 1.000|  4|  0|  0| 
-|Ross Stripling   |SP          |  1|  4.000|  5| 11.250|      9| 2.250|  3|  0|  0| 
+|Ross Stripling   |SP          |  2|  9.000|  6|  6.000|     15| 1.667|  6|  1|  0| 
 |Felix Bautista   |RP          |  3|  2.667|  5| 16.875|      9| 3.375|  4|  0|  2| 
 |Paul Sewald      |RP          |  2|  3.000|  0|  0.000|      1| 0.333|  0|  1|  0| 
-|Alexis Diaz      |OP          |  2|  2.667|  0|  0.000|      3| 1.125|  1|  0|  1| 
+|Alexis Diaz      |OP          |  3|  3.667|  0|  0.000|      3| 0.818|  4|  0|  2| 
 |Jason Adam       |OP          |  2|  1.667|  0|  0.000|      3| 1.800|  1|  0|  0| 
 |Jon Gray         |OP          |  2|  9.333|  2|  1.929|      5| 0.536|  5|  0|  0| 
 |Logan Gilbert    |OP          |  2| 11.000|  6|  4.909|     13| 1.182| 14|  1|  0| 
