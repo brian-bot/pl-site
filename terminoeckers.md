@@ -9,14 +9,14 @@
 |Freddie Freeman    |1B        |     15|  7|   3|  0|  1| 
 |Trea Turner        |2B        |     11|  5|   0|  0|  0| 
 |David Villar       |3B        |      8|  2|   5|  2|  0| 
-|Isiah Kiner-Falefa |SS        |      6|  2|   1|  0|  0| 
+|Isiah Kiner-Falefa |SS        |      8|  3|   2|  1|  0| 
 |Ty France          |MI        |     14|  6|   8|  1|  0| 
 |Carlos Santana     |CI        |      8|  4|   5|  2|  0| 
 |Christian Yelich   |OF        |     12|  4|   1|  0|  1| 
 |Hunter Renfroe     |OF        |     12|  7|   6|  3|  0| 
 |Jake McCarthy      |OF        |      7|  3|   0|  0|  1| 
 |Randy Arozarena    |OF        |     11|  3|   9|  1|  2| 
-|Lane Thomas        |DH        |      9|  4|   3|  2|  2| 
+|Lane Thomas        |DH        |     10|  4|   3|  2|  2| 
 |Luke Voit          |DH        |      8|  1|   1|  1|  0| 
 |Mark Mathias       |DH        |      0|  0|   0|  0|  0| 
 |Tommy Pham         |DH        |     11|  4|   4|  1|  0| 
@@ -39,7 +39,7 @@
 |Shane McClanahan |SP          |  2|  9.000|  9| 9.000|     17| 1.889|  5|  0|  0| 
 |Triston McKenzie |SP          |  1|  8.000|  2| 2.250|      6| 0.750| 13|  1|  0| 
 |Yu Darvish       |SP          |  2| 12.000|  2| 1.500|      8| 0.667| 16|  2|  0| 
-|Clay Holmes      |RP          |  3|  3.667|  1| 2.455|      4| 1.091|  3|  1|  0| 
+|Clay Holmes      |RP          |  4|  4.667|  1| 1.929|      4| 0.857|  3|  1|  0| 
 |Ryan Helsley     |RP          |  2|  2.000|  1| 4.500|      3| 1.500|  2|  0|  0| 
 |Andres Munoz     |OP          |  3|  3.000|  0| 0.000|      2| 0.667|  2|  0|  1| 
 |Jesus Luzardo    |OP          |  1|  6.667|  1| 1.350|      4| 0.600| 11|  0|  0| 

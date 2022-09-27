@@ -10,16 +10,16 @@
 |Andres Gimenez    |2B        |     18|  6|   6|  1|  1| 
 |Ryan McMahon      |3B        |     11|  3|   2|  2|  0| 
 |Marcus Semien     |SS        |     15|  5|   3|  1|  0| 
-|Gleyber Torres    |MI        |     17|  6|   8|  3|  1| 
+|Gleyber Torres    |MI        |     18|  6|   8|  3|  1| 
 |Rowdy Tellez      |CI        |      9|  7|   5|  3|  0| 
-|Cedric Mullins    |OF        |      9|  5|   5|  1|  0| 
+|Cedric Mullins    |OF        |     11|  7|   8|  2|  0| 
 |Joc Pederson      |OF        |      6|  0|   3|  0|  0| 
 |Mike Yastrzemski  |OF        |     10|  6|   5|  3|  0| 
 |Randal Grichuk    |OF        |      7|  2|   4|  2|  0| 
 |Eduardo Escobar   |DH        |     11|  4|  10|  2|  0| 
 |Garrett Cooper    |DH        |      9|  3|   2|  1|  0| 
 |Jose Miranda      |DH        |     10|  5|   0|  0|  0| 
-|Teoscar Hernandez |DH        |     13|  9|   4|  2|  0| 
+|Teoscar Hernandez |DH        |     14|  9|   6|  2|  0| 
 |Brendan Rodgers   |BAT BENCH |      0|  0|   1|  0|  0| 
 |Connor Joe        |BAT BENCH |      2|  3|   2|  1|  0| 
 |Myles Straw       |BAT BENCH |     16|  9|   2|  0|  2| 

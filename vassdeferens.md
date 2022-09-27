@@ -5,19 +5,19 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman   |C         |     16|  4|   6|  1|  1| 
+|Adley Rutschman   |C         |     18|  5|   6|  1|  1| 
 |C.J. Cron         |1B        |     10|  3|   4|  1|  0| 
 |Gavin Lux         |2B        |      5|  1|   0|  0|  0| 
 |J.D. Davis        |3B        |     10|  2|   4|  1|  0| 
 |Carlos Correa     |SS        |     18|  4|   3|  0|  0| 
-|Oneil Cruz        |MI        |     10|  4|   3|  1|  1| 
-|Ryan Mountcastle  |CI        |     14|  3|   3|  0|  0| 
-|Bryce Harper      |OF        |      8|  4|   5|  1|  0| 
+|Oneil Cruz        |MI        |     14|  6|   3|  1|  1| 
+|Ryan Mountcastle  |CI        |     17|  5|   3|  0|  0| 
+|Bryce Harper      |OF        |      9|  4|   5|  1|  0| 
 |Giancarlo Stanton |OF        |      8|  6|   7|  2|  0| 
 |Mike Trout        |OF        |     12|  6|   6|  1|  0| 
 |Ronald Acuna Jr.  |OF        |      9|  4|   6|  1|  0| 
-|Jack Suwinski     |DH        |      7|  3|   5|  2|  1| 
-|Kyle Farmer       |DH        |      5|  2|   6|  1|  0| 
+|Jack Suwinski     |DH        |     10|  4|   7|  2|  1| 
+|Kyle Farmer       |DH        |      5|  2|   7|  1|  0| 
 |Spencer Torkelson |DH        |      8|  3|   1|  0|  0| 
 |Wander Franco     |DH        |     15|  4|   4|  0|  0| 
 |Alek Thomas       |BAT BENCH |      1|  2|   1|  0|  0| 

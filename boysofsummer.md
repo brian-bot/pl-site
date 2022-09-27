@@ -5,21 +5,21 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Alejandro Kirk      |C         |     10|  3|   3|  1|  0| 
+|Alejandro Kirk      |C         |     12|  3|   3|  1|  0| 
 |Paul Goldschmidt    |1B        |      8|  0|   1|  0|  0| 
 |Jose Altuve         |2B        |     17| 10|   3|  2|  1| 
 |Jose Ramirez        |3B        |     14|  7|   6|  1|  3| 
-|Gunnar Henderson    |SS        |      9|  2|   5|  1|  0| 
+|Gunnar Henderson    |SS        |     13|  4|   7|  2|  0| 
 |Trevor Story        |MI        |     **| **|  **| **| **| 
-|Austin Riley        |CI        |     13|  2|   2|  1|  0| 
+|Austin Riley        |CI        |     16|  4|   2|  1|  0| 
 |Bubba Thompson      |OF        |      5|  1|   0|  0|  2| 
 |Jake Fraley         |OF        |      7|  0|   0|  0|  0| 
-|Joey Meneses        |OF        |     14|  4|   6|  3|  1| 
+|Joey Meneses        |OF        |     16|  4|   6|  3|  1| 
 |Mookie Betts        |OF        |      7|  2|   4|  1|  0| 
 |Albert Pujols       |DH        |     10|  3|   5|  2|  0| 
 |Harold Ramirez      |DH        |     10|  3|   0|  0|  0| 
 |Nick Castellanos    |DH        |     **| **|  **| **| **| 
-|William Contreras   |DH        |     12|  4|   4|  2|  0| 
+|William Contreras   |DH        |     15|  4|   4|  2|  0| 
 |Jeff McNeil         |BAT BENCH |     16|  5|   3|  0|  0| 
 |Lourdes Gurriel Jr. |BAT BENCH |     **| **|  **| **| **| 
 |Nick Gordon         |BAT BENCH |     13|  4|   7|  2|  0| 

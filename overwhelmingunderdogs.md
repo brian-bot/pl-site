@@ -5,7 +5,7 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Danny Jansen     |C         |     10|  3|   4|  1|  0| 
+|Danny Jansen     |C         |     12|  3|   4|  1|  0| 
 |Daniel Vogelbach |1B        |      9|  1|   3|  0|  0| 
 |Max Muncy        |2B        |     11|  3|   6|  1|  0| 
 |Alex Bregman     |3B        |      9|  4|   5|  0|  0| 
@@ -22,7 +22,7 @@
 |Tommy Edman      |DH        |      9|  3|   1|  0|  2| 
 |Brandon Belt     |BAT BENCH |     **| **|  **| **| **| 
 |Charlie Blackmon |BAT BENCH |     14|  2|   3|  0|  1| 
-|CJ Abrams        |BAT BENCH |      9|  4|   1|  0|  2| 
+|CJ Abrams        |BAT BENCH |     10|  4|   1|  0|  2| 
 |Keibert Ruiz     |BAT BENCH |     **| **|  **| **| **| 
 
 * * *
@@ -45,7 +45,7 @@
 |Jhoan Duran          |OP          |  2|  2.000|  1|  4.500|      4| 2.000|  2|  0|  1| 
 |Ken Waldichuk        |OP          |  2|  7.667|  9| 10.565|     12| 1.565|  7|  1|  0| 
 |Zach Davies          |OP          |  1|  3.000|  1|  3.000|      7| 2.333|  3|  0|  0| 
-|Jake Odorizzi        |PITCH BENCH |  2|  8.667|  9|  9.346|     16| 1.846| 11|  0|  0| 
+|Jake Odorizzi        |PITCH BENCH |  2|  8.667|  9|  9.346|     17| 1.962| 11|  0|  0| 
 |James Kaprielian     |PITCH BENCH |  1|  7.000|  0|  0.000|      3| 0.429|  6|  1|  0| 
 
 

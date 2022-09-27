@@ -8,22 +8,22 @@
 |Sean Murphy       |C         |     12|  6|   2|  0|  0| 
 |Christian Walker  |1B        |     13|  5|   5|  2|  0| 
 |Isaac Paredes     |2B        |      9|  2|   3|  1|  0| 
-|Rafael Devers     |3B        |     13|  4|   5|  1|  0| 
+|Rafael Devers     |3B        |     16|  4|   6|  1|  0| 
 |Bobby Witt Jr.    |SS        |     14|  9|   8|  0|  1| 
 |Willy Adames      |MI        |     15|  7|   7|  2|  3| 
 |Brandon Drury     |CI        |      7|  4|   3|  1|  0| 
-|Aaron Judge       |OF        |     19|  6|   5|  3|  0| 
-|Anthony Santander |OF        |      8|  3|   3|  2|  0| 
-|Aristides Aquino  |OF        |      5|  1|   0|  0|  0| 
+|Aaron Judge       |OF        |     22|  7|   5|  3|  0| 
+|Anthony Santander |OF        |     10|  5|   6|  4|  0| 
+|Aristides Aquino  |OF        |      7|  2|   1|  1|  0| 
 |Tyler O'Neill     |OF        |     **| **|  **| **| **| 
 |Cal Raleigh       |DH        |      9|  3|   6|  2|  0| 
 |Elvis Andrus      |DH        |      8|  4|   1|  0|  4| 
 |Steven Kwan       |DH        |     23| 12|  10|  2|  4| 
-|Triston Casas     |DH        |      9|  2|   4|  2|  0| 
-|Jorge Mateo       |BAT BENCH |      4|  3|   2|  0|  3| 
+|Triston Casas     |DH        |     11|  4|   4|  2|  0| 
+|Jorge Mateo       |BAT BENCH |      6|  4|   3|  0|  3| 
 |Jose Siri         |BAT BENCH |     11|  4|   1|  1|  3| 
 |Josh Bell         |BAT BENCH |      5|  2|   1|  0|  0| 
-|Spencer Steer     |BAT BENCH |      6|  3|   2|  1|  0| 
+|Spencer Steer     |BAT BENCH |      7|  3|   2|  1|  0| 
 
 
 * * *

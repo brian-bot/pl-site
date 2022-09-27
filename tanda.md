@@ -6,10 +6,10 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Salvador Perez   |C         |     14|  5|   5|  1|  0| 
-|Matt Olson       |1B        |      7|  2|   1|  0|  0| 
+|Matt Olson       |1B        |      9|  3|   4|  1|  0| 
 |Javier Baez      |2B        |      9|  6|   5|  2|  0| 
 |Yoan Moncada     |3B        |      9|  4|   3|  2|  2| 
-|Bo Bichette      |SS        |     13|  3|   3|  0|  1| 
+|Bo Bichette      |SS        |     15|  4|   3|  0|  1| 
 |Francisco Lindor |MI        |     15|  7|   9|  1|  0| 
 |Kyle Schwarber   |CI        |     13|  6|   6|  3|  1| 
 |Andrew McCutchen |OF        |      9|  3|   4|  0|  0| 
