@@ -7,20 +7,20 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith        |C         |     13|  3|   3|  1|  0| 
 |Jose Abreu        |1B        |      7|  5|   2|  0|  0| 
-|Chris Taylor      |2B        |      6|  1|   3|  1|  0| 
-|Manny Machado     |3B        |     16|  8|  10|  3|  1| 
-|Xander Bogaerts   |SS        |     12|  2|   1|  0|  0| 
-|Luis Rengifo      |MI        |     11|  4|   5|  2|  0| 
+|Chris Taylor      |2B        |      7|  1|   4|  1|  0| 
+|Manny Machado     |3B        |     16|  9|  10|  3|  1| 
+|Xander Bogaerts   |SS        |     13|  2|   2|  0|  0| 
+|Luis Rengifo      |MI        |     12|  4|   6|  2|  0| 
 |Ke'Bryan Hayes    |CI        |     10|  2|   3|  0|  1| 
-|Bryan Reynolds    |OF        |     19|  8|   6|  3|  1| 
+|Bryan Reynolds    |OF        |     21|  9|   6|  3|  1| 
 |Eloy Jimenez      |OF        |     11|  7|   7|  2|  0| 
-|Ian Happ          |OF        |      9|  3|   3|  0|  1| 
+|Ian Happ          |OF        |     11|  4|   3|  0|  1| 
 |Luis Robert       |OF        |      0|  0|   0|  0|  0| 
-|Anthony Rizzo     |DH        |     11|  4|   3|  2|  0| 
+|Anthony Rizzo     |DH        |     14|  4|   4|  2|  0| 
 |Harrison Bader    |DH        |      7|  3|   6|  0|  1| 
-|Michael Harris II |DH        |     13|  6|   4|  1|  4| 
-|Shohei Ohtani     |DH        |     14|  6|   5|  0|  0| 
-|Alec Bohm         |BAT BENCH |     14|  4|   4|  1|  0| 
+|Michael Harris II |DH        |     15|  8|   6|  1|  4| 
+|Shohei Ohtani     |DH        |     16|  6|   5|  0|  0| 
+|Alec Bohm         |BAT BENCH |     15|  4|   4|  1|  0| 
 |Vaughn Grissom    |BAT BENCH |     10|  1|   1|  0|  0| 
 
 
@@ -31,17 +31,17 @@
  
 |players          |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|David Peterson   |SP          |  2|  3.000|  2| 6.000|      2| 0.667|  5|  0|  0| 
+|David Peterson   |SP          |  3|  5.000|  2| 3.600|      4| 0.800|  6|  0|  0| 
 |George Kirby     |SP          |  2|  8.333|  7| 7.560|     15| 1.800|  9|  0|  0| 
-|Miles Mikolas    |SP          |  1|  6.000|  0| 0.000|      5| 0.833|  6|  0|  0| 
+|Miles Mikolas    |SP          |  2| 12.000|  1| 0.750|     10| 0.833| 15|  1|  0| 
 |Noah Syndergaard |SP          |  1|  2.000|  0| 0.000|      3| 1.500|  2|  0|  0| 
 |Ranger Suarez    |SP          |  1|  6.000|  0| 0.000|      7| 1.167|  4|  1|  0| 
 |Shohei Ohtani    |SP          |  2| 12.000|  2| 1.500|     13| 1.083| 15|  2|  0| 
 |Aroldis Chapman  |RP          |  3|  2.333|  0| 0.000|      3| 1.286|  3|  1|  0| 
 |Ryan Pressly     |RP          |  5|  4.667|  1| 1.929|      3| 0.643|  6|  0|  3| 
 |Austin Voth      |OP          |  2| 10.000|  3| 2.700|     10| 1.000|  9|  0|  0| 
-|Blake Snell      |OP          |  1|  7.000|  0| 0.000|      4| 0.571| 13|  1|  0| 
-|Carlos Carrasco  |OP          |  1|  4.000|  3| 6.750|      7| 1.750|  4|  0|  0| 
+|Blake Snell      |OP          |  2| 12.000|  0| 0.000|      8| 0.667| 19|  1|  0| 
+|Carlos Carrasco  |OP          |  2|  7.000|  7| 9.000|     14| 2.000|  6|  0|  0| 
 |Gregory Soto     |OP          |  4|  4.000|  1| 2.250|      3| 0.750|  3|  0|  3| 
 |Nestor Cortes    |OP          |  2| 11.000|  1| 0.818|     10| 0.909|  9|  1|  0| 
 |Jordan Lyles     |PITCH BENCH |  2| 11.000|  3| 2.455|      9| 0.818|  6|  1|  0| 
