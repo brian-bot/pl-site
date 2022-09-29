@@ -6,19 +6,19 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Gary Sanchez      |C         |     11|  3|   5|  1|  0| 
-|Rhys Hoskins      |1B        |     10|  5|   5|  1|  0| 
-|Andres Gimenez    |2B        |     18|  6|   6|  1|  1| 
+|Rhys Hoskins      |1B        |     14|  5|   5|  1|  0| 
+|Andres Gimenez    |2B        |     19|  6|   6|  1|  1| 
 |Ryan McMahon      |3B        |     12|  4|   2|  2|  0| 
-|Marcus Semien     |SS        |     16|  6|   3|  1|  0| 
+|Marcus Semien     |SS        |     17|  6|   3|  1|  0| 
 |Gleyber Torres    |MI        |     21|  6|  11|  3|  1| 
-|Rowdy Tellez      |CI        |     10|  8|   6|  4|  0| 
+|Rowdy Tellez      |CI        |     12|  9|   6|  4|  0| 
 |Cedric Mullins    |OF        |     12|  8|   9|  2|  1| 
-|Joc Pederson      |OF        |      8|  2|   5|  1|  0| 
-|Mike Yastrzemski  |OF        |     10|  6|   6|  3|  0| 
+|Joc Pederson      |OF        |     11|  3|   7|  1|  0| 
+|Mike Yastrzemski  |OF        |     11|  7|   7|  3|  0| 
 |Randal Grichuk    |OF        |      7|  2|   4|  2|  0| 
-|Eduardo Escobar   |DH        |     11|  4|  10|  2|  0| 
+|Eduardo Escobar   |DH        |     14|  5|  15|  3|  0| 
 |Garrett Cooper    |DH        |     11|  3|   2|  1|  0| 
-|Jose Miranda      |DH        |     13|  6|   1|  0|  0| 
+|Jose Miranda      |DH        |     15|  7|   2|  0|  0| 
 |Teoscar Hernandez |DH        |     14|  9|   6|  2|  0| 
 |Brendan Rodgers   |BAT BENCH |      0|  0|   1|  0|  0| 
 |Connor Joe        |BAT BENCH |      2|  3|   2|  1|  0| 
@@ -37,15 +37,15 @@
 |Lance McCullers Jr. |SP          |  1|  7.000|  2|  2.571|      8| 1.143|  8|  1|  0| 
 |Logan Webb          |SP          |  2| 10.333|  1|  0.871|      7| 0.677| 12|  2|  0| 
 |Michael Wacha       |SP          |  2|  9.333|  9|  8.679|     18| 1.929|  8|  0|  0| 
-|Taijuan Walker      |SP          |  1|  6.000|  4|  6.000|      9| 1.500|  3|  0|  0| 
-|Mark Melancon       |RP          |  5|  5.000|  2|  3.600|      5| 1.000|  0|  0|  0| 
+|Taijuan Walker      |SP          |  2| 11.000|  7|  5.727|     17| 1.545| 11|  0|  0| 
+|Mark Melancon       |RP          |  6|  6.000|  2|  3.000|      5| 0.833|  0|  0|  1| 
 |Ryan Tepera         |RP          |  4|  3.333|  0|  0.000|      3| 0.900|  5|  1|  1| 
 |Dustin May          |OP          |  1|  4.000|  5| 11.250|      9| 2.250|  4|  0|  0| 
 |Hector Neris        |OP          |  4|  3.000|  4| 12.000|      7| 2.333|  5|  1|  0| 
 |Matthew Boyd        |OP          |  4|  4.333|  2|  4.154|      5| 1.154|  3|  1|  0| 
-|Rafael Montero      |OP          |  4|  4.000|  2|  4.500|      4| 1.000|  5|  1|  0| 
+|Rafael Montero      |OP          |  5|  5.000|  2|  3.600|      4| 0.800|  7|  1|  0| 
 |Tyler Wells         |OP          |  1|  3.000|  5| 15.000|      7| 2.333|  3|  0|  0| 
-|Kyle Finnegan       |PITCH BENCH |  4|  4.000|  1|  2.250|      2| 0.500|  9|  0|  2| 
+|Kyle Finnegan       |PITCH BENCH |  5|  6.000|  1|  1.500|      3| 0.500| 10|  1|  2| 
 |Michael King        |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Tylor Megill        |PITCH BENCH |  4|  3.333|  2|  5.400|      4| 1.200|  3|  0|  0| 
 |Zach Plesac         |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
