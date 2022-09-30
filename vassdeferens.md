@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman   |C         |     19|  6|   7|  2|  1| 
-|C.J. Cron         |1B        |     12|  4|   4|  1|  0| 
+|Adley Rutschman   |C         |     21|  6|   8|  2|  1| 
+|C.J. Cron         |1B        |     12|  4|   5|  1|  0| 
 |Gavin Lux         |2B        |      5|  1|   0|  0|  0| 
 |J.D. Davis        |3B        |     15|  4|   5|  2|  0| 
-|Carlos Correa     |SS        |     20|  5|   3|  0|  0| 
+|Carlos Correa     |SS        |     22|  6|   3|  0|  0| 
 |Oneil Cruz        |MI        |     18|  8|   5|  1|  2| 
 |Ryan Mountcastle  |CI        |     19|  5|   4|  0|  0| 
-|Bryce Harper      |OF        |     11|  4|   8|  1|  0| 
+|Bryce Harper      |OF        |     14|  4|   8|  1|  0| 
 |Giancarlo Stanton |OF        |      8|  6|   7|  2|  0| 
-|Mike Trout        |OF        |     13|  7|   7|  2|  0| 
+|Mike Trout        |OF        |     15|  8|   7|  2|  0| 
 |Ronald Acuna Jr.  |OF        |     11|  6|   8|  3|  0| 
 |Jack Suwinski     |DH        |     12|  5|   7|  2|  1| 
 |Kyle Farmer       |DH        |      9|  3|   9|  2|  0| 
 |Spencer Torkelson |DH        |      9|  4|   1|  0|  0| 
-|Wander Franco     |DH        |     17|  6|   4|  0|  1| 
+|Wander Franco     |DH        |     20|  7|   4|  0|  3| 
 |Alek Thomas       |BAT BENCH |      1|  2|   1|  0|  0| 
 |Jorge Polanco     |BAT BENCH |     **| **|  **| **| **| 
-|Michael Toglia    |BAT BENCH |     11|  1|   3|  0|  1| 
+|Michael Toglia    |BAT BENCH |     12|  2|   3|  0|  1| 
 |Starling Marte    |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -45,9 +45,9 @@
 |Marcus Stroman    |OP          |  2| 13.000|  4|  2.769|     11| 0.846| 13|  1|  0| 
 |Nick Martinez     |OP          |  6|  6.667|  5|  6.750|     10| 1.500|  5|  0|  0| 
 |Pete Fairbanks    |OP          |  4|  4.000|  0|  0.000|      2| 0.500|  8|  0|  1| 
-|Trevor Stephan    |OP          |  5|  3.667|  4|  9.818|      5| 1.364|  5|  0|  0| 
+|Trevor Stephan    |OP          |  6|  4.667|  4|  7.714|      8| 1.714|  7|  0|  1| 
 |Joe Barlow        |PITCH BENCH |  3|  2.667|  4| 13.500|      5| 1.875|  3|  0|  0| 
-|Keegan Thompson   |PITCH BENCH |  2|  5.000|  0|  0.000|      3| 0.600|  9|  1|  0| 
+|Keegan Thompson   |PITCH BENCH |  3|  8.000|  0|  0.000|      6| 0.750| 12|  1|  1| 
 |Tony Gonsolin     |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 
 
