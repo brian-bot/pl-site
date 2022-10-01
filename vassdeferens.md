@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman   |C         |     21|  6|   8|  2|  1| 
+|Adley Rutschman   |C         |     22|  7|   8|  2|  1| 
 |C.J. Cron         |1B        |     12|  4|   5|  1|  0| 
-|Gavin Lux         |2B        |      5|  1|   0|  0|  0| 
+|Gavin Lux         |2B        |      6|  2|   0|  0|  0| 
 |J.D. Davis        |3B        |     15|  4|   5|  2|  0| 
-|Carlos Correa     |SS        |     22|  6|   3|  0|  0| 
-|Oneil Cruz        |MI        |     18|  8|   5|  1|  2| 
-|Ryan Mountcastle  |CI        |     19|  5|   4|  0|  0| 
-|Bryce Harper      |OF        |     14|  4|   8|  1|  0| 
+|Carlos Correa     |SS        |     24|  7|   5|  1|  0| 
+|Oneil Cruz        |MI        |     20|  8|   5|  1|  2| 
+|Ryan Mountcastle  |CI        |     20|  5|   5|  0|  0| 
+|Bryce Harper      |OF        |     16|  4|   8|  1|  1| 
 |Giancarlo Stanton |OF        |      8|  6|   7|  2|  0| 
-|Mike Trout        |OF        |     15|  8|   7|  2|  0| 
+|Mike Trout        |OF        |     17|  9|   7|  2|  0| 
 |Ronald Acuna Jr.  |OF        |     11|  6|   8|  3|  0| 
-|Jack Suwinski     |DH        |     12|  5|   7|  2|  1| 
+|Jack Suwinski     |DH        |     14|  5|   7|  2|  1| 
 |Kyle Farmer       |DH        |      9|  3|   9|  2|  0| 
 |Spencer Torkelson |DH        |      9|  4|   1|  0|  0| 
-|Wander Franco     |DH        |     20|  7|   4|  0|  3| 
+|Wander Franco     |DH        |     22|  7|   5|  0|  3| 
 |Alek Thomas       |BAT BENCH |      1|  2|   1|  0|  0| 
 |Jorge Polanco     |BAT BENCH |     **| **|  **| **| **| 
-|Michael Toglia    |BAT BENCH |     12|  2|   3|  0|  1| 
+|Michael Toglia    |BAT BENCH |     13|  2|   3|  0|  1| 
 |Starling Marte    |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -39,11 +39,11 @@
 |Shane Bieber      |SP          |  3| 21.667|  7|  2.908|     17| 0.785| 17|  2|  0| 
 |Sonny Gray        |SP          |  1|  2.000|  4| 18.000|      6| 3.000|  1|  0|  0| 
 |Tyler Anderson    |SP          |  2| 12.000|  2|  1.500|      7| 0.583|  9|  0|  0| 
-|Giovanny Gallegos |RP          |  3|  3.000|  0|  0.000|      2| 0.667|  6|  0|  1| 
+|Giovanny Gallegos |RP          |  4|  4.333|  0|  0.000|      4| 0.923|  8|  0|  1| 
 |Scott Barlow      |RP          |  5|  5.667|  0|  0.000|      2| 0.353|  7|  0|  3| 
 |Dean Kremer       |OP          |  3| 19.667|  5|  2.288|     25| 1.271| 11|  1|  0| 
 |Marcus Stroman    |OP          |  2| 13.000|  4|  2.769|     11| 0.846| 13|  1|  0| 
-|Nick Martinez     |OP          |  6|  6.667|  5|  6.750|     10| 1.500|  5|  0|  0| 
+|Nick Martinez     |OP          |  7|  7.667|  5|  5.870|     10| 1.304|  6|  0|  0| 
 |Pete Fairbanks    |OP          |  4|  4.000|  0|  0.000|      2| 0.500|  8|  0|  1| 
 |Trevor Stephan    |OP          |  6|  4.667|  4|  7.714|      8| 1.714|  7|  0|  1| 
 |Joe Barlow        |PITCH BENCH |  3|  2.667|  4| 13.500|      5| 1.875|  3|  0|  0| 
