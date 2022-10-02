@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman   |C         |     22|  7|   8|  2|  1| 
-|C.J. Cron         |1B        |     12|  4|   5|  1|  0| 
+|Adley Rutschman   |C         |     23|  7|   8|  2|  1| 
+|C.J. Cron         |1B        |     13|  5|   5|  1|  0| 
 |Gavin Lux         |2B        |      6|  2|   0|  0|  0| 
-|J.D. Davis        |3B        |     15|  4|   5|  2|  0| 
-|Carlos Correa     |SS        |     24|  7|   5|  1|  0| 
+|J.D. Davis        |3B        |     17|  5|   6|  3|  0| 
+|Carlos Correa     |SS        |     25|  7|   5|  1|  0| 
 |Oneil Cruz        |MI        |     20|  8|   5|  1|  2| 
-|Ryan Mountcastle  |CI        |     20|  5|   5|  0|  0| 
-|Bryce Harper      |OF        |     16|  4|   8|  1|  1| 
-|Giancarlo Stanton |OF        |      8|  6|   7|  2|  0| 
+|Ryan Mountcastle  |CI        |     22|  5|   5|  0|  0| 
+|Bryce Harper      |OF        |     18|  5|   8|  1|  2| 
+|Giancarlo Stanton |OF        |     10|  7|   8|  3|  0| 
 |Mike Trout        |OF        |     17|  9|   7|  2|  0| 
-|Ronald Acuna Jr.  |OF        |     11|  6|   8|  3|  0| 
-|Jack Suwinski     |DH        |     14|  5|   7|  2|  1| 
-|Kyle Farmer       |DH        |      9|  3|   9|  2|  0| 
+|Ronald Acuna Jr.  |OF        |     14|  7|   8|  3|  0| 
+|Jack Suwinski     |DH        |     15|  5|   7|  2|  1| 
+|Kyle Farmer       |DH        |     11|  3|  10|  2|  0| 
 |Spencer Torkelson |DH        |      9|  4|   1|  0|  0| 
-|Wander Franco     |DH        |     22|  7|   5|  0|  3| 
+|Wander Franco     |DH        |     23|  7|   5|  0|  3| 
 |Alek Thomas       |BAT BENCH |      1|  2|   1|  0|  0| 
 |Jorge Polanco     |BAT BENCH |     **| **|  **| **| **| 
 |Michael Toglia    |BAT BENCH |     13|  2|   3|  0|  1| 
@@ -43,7 +43,7 @@
 |Scott Barlow      |RP          |  5|  5.667|  0|  0.000|      2| 0.353|  7|  0|  3| 
 |Dean Kremer       |OP          |  3| 19.667|  5|  2.288|     25| 1.271| 11|  1|  0| 
 |Marcus Stroman    |OP          |  2| 13.000|  4|  2.769|     11| 0.846| 13|  1|  0| 
-|Nick Martinez     |OP          |  7|  7.667|  5|  5.870|     10| 1.304|  6|  0|  0| 
+|Nick Martinez     |OP          |  7|  8.000|  5|  5.625|     10| 1.250|  6|  0|  0| 
 |Pete Fairbanks    |OP          |  4|  4.000|  0|  0.000|      2| 0.500|  8|  0|  1| 
 |Trevor Stephan    |OP          |  6|  4.667|  4|  7.714|      8| 1.714|  7|  0|  1| 
 |Joe Barlow        |PITCH BENCH |  3|  2.667|  4| 13.500|      5| 1.875|  3|  0|  0| 
