@@ -5,25 +5,25 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Daulton Varsho     |C         |     13|  8|   4|  2|  4| 
+|Daulton Varsho     |C         |     15|  9|   4|  2|  5| 
 |Freddie Freeman    |1B        |     29| 12|   6|  0|  2| 
-|Trea Turner        |2B        |     19| 10|   0|  0|  2| 
-|David Villar       |3B        |     10|  3|   5|  2|  0| 
-|Isiah Kiner-Falefa |SS        |      9|  3|   2|  1|  1| 
-|Ty France          |MI        |     21|  9|   9|  1|  0| 
+|Trea Turner        |2B        |     20| 10|   0|  0|  2| 
+|David Villar       |3B        |     12|  3|   7|  2|  0| 
+|Isiah Kiner-Falefa |SS        |     10|  3|   2|  1|  1| 
+|Ty France          |MI        |     22|  9|   9|  1|  0| 
 |Carlos Santana     |CI        |     14|  6|   7|  2|  0| 
-|Christian Yelich   |OF        |     16|  6|   3|  1|  1| 
-|Hunter Renfroe     |OF        |     19|  8|   7|  3|  0| 
-|Jake McCarthy      |OF        |     13|  6|   0|  0|  4| 
+|Christian Yelich   |OF        |     19|  6|   4|  1|  2| 
+|Hunter Renfroe     |OF        |     20|  9|   7|  3|  0| 
+|Jake McCarthy      |OF        |     16|  7|   2|  0|  5| 
 |Randy Arozarena    |OF        |     15|  5|  10|  1|  2| 
-|Lane Thomas        |DH        |     17|  7|   3|  2|  2| 
+|Lane Thomas        |DH        |     18|  8|   3|  2|  2| 
 |Luke Voit          |DH        |     14|  4|   6|  2|  0| 
-|Mark Mathias       |DH        |      2|  0|   0|  0|  0| 
+|Mark Mathias       |DH        |      3|  0|   0|  0|  0| 
 |Tommy Pham         |DH        |     16|  6|   7|  1|  0| 
 |Byron Buxton       |BAT BENCH |     **| **|  **| **| **| 
 |Lars Nootbaar      |BAT BENCH |     15|  6|   4|  2|  0| 
-|Nico Hoerner       |BAT BENCH |      3|  3|   3|  0|  1| 
-|Seiya Suzuki       |BAT BENCH |      6|  4|   1|  1|  0| 
+|Nico Hoerner       |BAT BENCH |      4|  5|   5|  0|  1| 
+|Seiya Suzuki       |BAT BENCH |      9|  6|   1|  1|  0| 
 
 
 * * *
