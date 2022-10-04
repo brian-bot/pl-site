@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Sean Murphy       |C         |     15|  6|   2|  0|  0| 
-|Christian Walker  |1B        |     20|  7|  10|  2|  1| 
+|Sean Murphy       |C         |     16|  6|   2|  0|  0| 
+|Christian Walker  |1B        |     21|  8|  10|  2|  1| 
 |Isaac Paredes     |2B        |     14|  2|   3|  1|  0| 
-|Rafael Devers     |3B        |     25|  5|   8|  1|  0| 
-|Bobby Witt Jr.    |SS        |     21|  9|   8|  0|  2| 
-|Willy Adames      |MI        |     19|  7|   8|  2|  3| 
-|Brandon Drury     |CI        |     17|  7|   5|  1|  0| 
-|Aaron Judge       |OF        |     35| 12|   7|  4|  0| 
-|Anthony Santander |OF        |     16|  8|   9|  6|  0| 
+|Rafael Devers     |3B        |     28|  6|   9|  1|  0| 
+|Bobby Witt Jr.    |SS        |     22| 10|   8|  0|  3| 
+|Willy Adames      |MI        |     20|  7|   9|  2|  3| 
+|Brandon Drury     |CI        |     20|  8|   5|  1|  0| 
+|Aaron Judge       |OF        |     36| 12|   7|  4|  0| 
+|Anthony Santander |OF        |     16|  8|  10|  6|  0| 
 |Aristides Aquino  |OF        |      8|  2|   1|  1|  0| 
 |Tyler O'Neill     |OF        |     **| **|  **| **| **| 
 |Cal Raleigh       |DH        |     12|  4|   8|  3|  0| 
 |Elvis Andrus      |DH        |     14|  6|   4|  2|  6| 
-|Steven Kwan       |DH        |     32| 16|  12|  2|  4| 
+|Steven Kwan       |DH        |     34| 16|  13|  2|  4| 
 |Triston Casas     |DH        |     24|  8|   7|  3|  0| 
-|Jorge Mateo       |BAT BENCH |     11|  6|   3|  0|  4| 
+|Jorge Mateo       |BAT BENCH |     12|  7|   3|  0|  5| 
 |Jose Siri         |BAT BENCH |     14|  6|   4|  2|  3| 
-|Josh Bell         |BAT BENCH |     11|  2|   2|  0|  0| 
+|Josh Bell         |BAT BENCH |     12|  3|   3|  0|  0| 
 |Spencer Steer     |BAT BENCH |     11|  5|   2|  1|  0| 
 
 
@@ -41,14 +41,14 @@
 |Ross Stripling   |SP          |  3| 15.000|  6|  3.600|     19| 1.267|  9|  2|  0| 
 |Felix Bautista   |RP          |  4|  3.667|  5| 12.273|     10| 2.727|  6|  0|  2| 
 |Paul Sewald      |RP          |  4|  4.667|  2|  3.857|      4| 0.857|  2|  1|  1| 
-|Alexis Diaz      |OP          |  4|  5.333|  0|  0.000|      5| 0.938|  6|  0|  2| 
+|Alexis Diaz      |OP          |  5|  6.333|  1|  1.421|      7| 1.105|  6|  0|  3| 
 |Jason Adam       |OP          |  4|  3.667|  1|  2.455|      7| 1.909|  3|  0|  0| 
 |Jon Gray         |OP          |  3| 14.333|  8|  5.023|     16| 1.116| 10|  0|  0| 
 |Logan Gilbert    |OP          |  3| 19.000|  7|  3.316|     18| 0.947| 18|  1|  0| 
 |Spencer Strider  |OP          |  1|  6.000|  1|  1.500|      4| 0.667| 10|  1|  0| 
 |Drew Smyly       |PITCH BENCH |  1|  3.000|  1|  3.000|      4| 1.333|  2|  0|  0| 
 |Hunter Brown     |PITCH BENCH |  4|  6.000|  0|  0.000|     10| 1.667|  8|  0|  0| 
-|John Schreiber   |PITCH BENCH |  5|  4.667|  3|  5.786|     10| 2.143|  6|  0|  1| 
+|John Schreiber   |PITCH BENCH |  6|  5.667|  3|  4.765|     11| 1.941|  7|  1|  1| 
 
 
 * * *

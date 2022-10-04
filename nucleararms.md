@@ -6,20 +6,20 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith        |C         |     18|  7|   5|  2|  0| 
-|Jose Abreu        |1B        |     14|  5|   4|  0|  0| 
+|Jose Abreu        |1B        |     16|  5|   4|  0|  0| 
 |Chris Taylor      |2B        |     11|  3|   6|  1|  0| 
 |Manny Machado     |3B        |     22| 11|  11|  4|  2| 
 |Xander Bogaerts   |SS        |     16|  2|   2|  0|  0| 
-|Luis Rengifo      |MI        |     17|  6|   8|  4|  0| 
-|Ke'Bryan Hayes    |CI        |     12|  2|   3|  0|  2| 
-|Bryan Reynolds    |OF        |     25| 10|   7|  4|  1| 
+|Luis Rengifo      |MI        |     18|  6|   8|  4|  0| 
+|Ke'Bryan Hayes    |CI        |     13|  3|   3|  0|  3| 
+|Bryan Reynolds    |OF        |     26| 10|   8|  4|  1| 
 |Eloy Jimenez      |OF        |     13|  8|   8|  3|  0| 
 |Ian Happ          |OF        |     21|  6|   5|  0|  1| 
 |Luis Robert       |OF        |      0|  0|   0|  0|  0| 
 |Anthony Rizzo     |DH        |     17|  6|   4|  2|  0| 
 |Harrison Bader    |DH        |     11|  3|   8|  0|  1| 
-|Michael Harris II |DH        |     17|  8|   6|  1|  4| 
-|Shohei Ohtani     |DH        |     23|  8|   6|  0|  0| 
+|Michael Harris II |DH        |     18|  8|   6|  1|  4| 
+|Shohei Ohtani     |DH        |     25|  9|   7|  0|  0| 
 |Alec Bohm         |BAT BENCH |     20|  6|   6|  2|  1| 
 |Vaughn Grissom    |BAT BENCH |     10|  1|   1|  0|  0| 
 
@@ -32,8 +32,8 @@
 |players          |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |David Peterson   |SP          |  4|  5.667|  2| 3.176|      5| 0.882|  8|  0|  0| 
-|George Kirby     |SP          |  3| 14.333|  8| 5.023|     21| 1.465| 13|  1|  0| 
-|Miles Mikolas    |SP          |  2| 12.000|  1| 0.750|     10| 0.833| 15|  1|  0| 
+|George Kirby     |SP          |  4| 18.333| 12| 5.891|     30| 1.636| 18|  1|  0| 
+|Miles Mikolas    |SP          |  3| 15.000|  2| 1.200|     13| 0.867| 15|  1|  0| 
 |Noah Syndergaard |SP          |  2|  7.667|  0| 0.000|      7| 0.913|  5|  1|  0| 
 |Ranger Suarez    |SP          |  2| 12.000|  2| 1.500|     15| 1.250|  9|  1|  0| 
 |Shohei Ohtani    |SP          |  3| 20.000|  2| 0.900|     16| 0.800| 25|  3|  0| 
