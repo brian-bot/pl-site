@@ -6,24 +6,24 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Yasmani Grandal   |C         |     11|  1|   1|  0|  0| 
-|Vladimir Guerrero |1B        |     20|  8|  13|  4|  0| 
+|Vladimir Guerrero |1B        |     23|  9|  13|  4|  0| 
 |Ketel Marte       |2B        |     12|  4|   2|  1|  1| 
-|Nolan Arenado     |3B        |     17|  3|   4|  1|  0| 
+|Nolan Arenado     |3B        |     18|  3|   5|  1|  0| 
 |Thairo Estrada    |SS        |     21|  9|   7|  1|  3| 
-|Jake Cronenworth  |MI        |     20|  5|  13|  1|  0| 
-|Nathaniel Lowe    |CI        |     21|  7|   5|  2|  0| 
+|Jake Cronenworth  |MI        |     20|  5|  14|  1|  0| 
+|Nathaniel Lowe    |CI        |     23|  7|   5|  2|  0| 
 |Andrew Vaughn     |OF        |      8|  3|   7|  1|  0| 
-|Cody Bellinger    |OF        |     13|  4|   9|  1|  0| 
+|Cody Bellinger    |OF        |     15|  5|  10|  2|  0| 
 |George Springer   |OF        |     25| 12|  13|  4|  1| 
-|Luis Arraez       |OF        |     17|  6|   3|  0|  0| 
-|Brandon Crawford  |DH        |     19|  7|   6|  1|  0| 
+|Luis Arraez       |OF        |     20|  8|   3|  0|  0| 
+|Brandon Crawford  |DH        |     20|  8|   7|  1|  0| 
 |Nelson Cruz       |DH        |     **| **|  **| **| **| 
 |Yandy Diaz        |DH        |      8|  3|   3|  0|  0| 
-|Yuli Gurriel      |DH        |     12|  3|   7|  0|  0| 
+|Yuli Gurriel      |DH        |     14|  3|   7|  0|  0| 
 |Austin Meadows    |BAT BENCH |     **| **|  **| **| **| 
-|Christian Vazquez |BAT BENCH |      8|  2|   3|  0|  0| 
-|Dylan Carlson     |BAT BENCH |     16|  8|   3|  0|  0| 
-|Jarred Kelenic    |BAT BENCH |     16|  8|   5|  3|  0| 
+|Christian Vazquez |BAT BENCH |      9|  3|   4|  1|  0| 
+|Dylan Carlson     |BAT BENCH |     18|  8|   3|  0|  0| 
+|Jarred Kelenic    |BAT BENCH |     17|  8|   5|  3|  0| 
 
 
 * * *
@@ -44,8 +44,8 @@
 |Chris Flexen    |OP          |  6| 10.667|  3| 2.531|     10| 0.938|  8|  1|  0| 
 |Drew Rasmussen  |OP          |  3| 19.333|  7| 3.259|     17| 0.879| 11|  1|  0| 
 |Luis Castillo   |OP          |  3| 16.000| 10| 5.625|     21| 1.312| 17|  1|  0| 
-|Marco Gonzales  |OP          |  3| 16.333| 12| 6.612|     24| 1.469| 10|  0|  0| 
-|Yusei Kikuchi   |OP          |  3|  4.667|  0| 0.000|      3| 0.643|  8|  0|  1| 
+|Marco Gonzales  |OP          |  4| 23.333| 15| 5.786|     34| 1.457| 15|  0|  0| 
+|Yusei Kikuchi   |OP          |  4|  6.333|  0| 0.000|      3| 0.474| 10|  1|  1| 
 |Brock Burke     |PITCH BENCH |  5|  8.667|  6| 6.231|     14| 1.615|  9|  0|  0| 
 |Luis Severino   |PITCH BENCH |  3| 16.000|  3| 1.688|     10| 0.625| 17|  2|  0| 
 
