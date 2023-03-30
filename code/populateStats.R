@@ -1,14 +1,14 @@
 require(mlbstats)
 
 ## SOURCE IN THE 2022 LEAGUE BOOTSTRAP CODE
-source("code/leagueBootstrap2022.R")
+source("code/leagueBootstrap2023.R")
 
 ## CHECK TO SEE IF data/hidden EXISTS - IF NOT, CREATE IT
 if( !dir.exists("data/hidden") ){
   dir.create("data/hidden")
 }
 
-firstDate <- as.Date("2022-04-07")
+firstDate <- as.Date("2023-03-30")
 today <- Sys.Date()
 lastDate <- today-1
 
