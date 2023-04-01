@@ -26,9 +26,10 @@
 ### Pitchers
 
  
-|players        |position |  g| ip| er| era| hitsbb| whip| so|  w| sv| 
-|:--------------|:--------|--:|--:|--:|---:|------:|----:|--:|--:|--:| 
-|Felix Bautista |RP       |  1|  1|  1|   9|      3|    3|  2|  0|  1| 
+|players        |position |  g|    ip| er|   era| hitsbb|  whip| so|  w| sv| 
+|:--------------|:--------|--:|-----:|--:|-----:|------:|-----:|--:|--:|--:| 
+|Mitch Keller   |SP       |  1| 4.667|  4| 7.714|     10| 2.143|  8|  0|  0| 
+|Felix Bautista |RP       |  1| 1.000|  1| 9.000|      3| 3.000|  2|  0|  1| 
 
 
 * * *
