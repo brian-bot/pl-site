@@ -13,13 +13,13 @@
 |Oneil Cruz         |MI       |      3|  2|   2|  1|  0| 
 |Spencer Torkelson  |CI       |      0|  0|   0|  0|  0| 
 |Aaron Judge        |OF       |      2|  1|   2|  1|  0| 
-|Corbin Carroll     |OF       |      0|  0|   0|  0|  0| 
+|Corbin Carroll     |OF       |      2|  0|   0|  0|  0| 
 |MJ Melendez        |OF       |      1|  0|   0|  0|  0| 
 |Riley Greene       |OF       |      2|  0|   0|  0|  0| 
 |CJ Abrams          |DH       |      0|  0|   0|  0|  0| 
 |Jose Miranda       |DH       |      2|  0|   0|  0|  0| 
 |Max Kepler         |DH       |      0|  0|   0|  0|  0| 
-|Oscar Colas        |DH       |      1|  0|   0|  0|  0| 
+|Oscar Colas        |DH       |      2|  0|   0|  0|  0| 
 
 
 * * *

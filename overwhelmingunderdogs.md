@@ -6,17 +6,17 @@
 |players          |position | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:--------|------:|--:|---:|--:|--:| 
 |Sean Murphy      |C        |      0|  0|   0|  0|  0| 
-|Pete Alonso      |1B       |      1|  0|   0|  0|  0| 
+|Pete Alonso      |1B       |      2|  1|   1|  1|  0| 
 |Tommy Edman      |2B       |      2|  1|   0|  0|  0| 
-|Alex Bregman     |3B       |      0|  0|   0|  0|  0| 
+|Alex Bregman     |3B       |      1|  1|   0|  0|  0| 
 |Trea Turner      |SS       |      2|  1|   1|  0|  0| 
 |Anthony Volpe    |MI       |      1|  0|   0|  0|  1| 
 |Josh Jung        |CI       |      1|  1|   0|  0|  0| 
 |Bryan Reynolds   |OF       |      2|  0|   1|  0|  0| 
 |Christian Yelich |OF       |      2|  0|   0|  0|  0| 
-|Julio Rodriguez  |OF       |      0|  0|   0|  0|  0| 
+|Julio Rodriguez  |OF       |      2|  1|   1|  0|  0| 
 |Taylor Ward      |OF       |      1|  0|   0|  0|  1| 
-|Brandon Nimmo    |DH       |      2|  1|   3|  0|  0| 
+|Brandon Nimmo    |DH       |      3|  1|   3|  0|  0| 
 |J.D. Martinez    |DH       |      1|  0|   1|  0|  0| 
 |Marcell Ozuna    |DH       |      0|  0|   0|  0|  0| 
 |Nathaniel Lowe   |DH       |      2|  1|   1|  0|  0| 

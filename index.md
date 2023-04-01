@@ -7,16 +7,16 @@ Through games on 2023-03-31 ([website build status](https://github.com/brian-bot
 
 |team                   | points|  r| hitsbb| hr| rbi| sb|  w| sv| so|   era|  whip|
 |:----------------------|------:|--:|------:|--:|---:|--:|--:|--:|--:|-----:|-----:|
-|[Vass Deferens](./vassdeferens)|   47.0|  4|     21|  3|   8|  0|  0|  1|  8| 3.140| 1.116|
-|[Boys of Summer](./boysofsummer)|   62.5| 10|     24|  1|   4|  0|  2|  0| 29| 3.522| 0.870|
-|[Wonderbots](./wonderbots)|   65.5|  9|     25|  0|   8|  1|  1|  1| 19| 2.647| 0.941|
-|[Washington Generals](./washingtongenerals)|   53.5|  8|     22|  0|   3|  1|  1|  1|  8| 2.571| 0.714|
-|[Terminoeckers](./terminoeckers)|   37.0|  7|     24|  0|   4|  1|  0|  1| 10| 7.941| 2.294|
-|[Nuclear Arms](./nucleararms)|   68.0|  9|     28|  1|  11|  2|  1|  0| 12| 2.250| 1.250|
-|[Overwhelming Underdogs](./overwhelmingunderdogs)|   55.0|  5|     17|  0|   7|  2|  3|  1| 27| 3.712| 1.312|
-|[T and A](./tanda)     |   42.5|  4|     20|  0|   5|  3|  0|  1| 20| 5.684| 1.895|
-|[Mean Wieners](./meanwieners)|   61.5|  8|     19|  3|  10|  4|  2|  0| 19| 3.857| 1.029|
-|[SYWA](./sywa)         |   57.5| 11|     25|  5|  18|  0|  0|  0| 25| 8.526| 1.737|
+|[Vass Deferens](./vassdeferens)|   43.0|  4|     24|  3|   8|  0|  0|  1|  8| 3.140| 1.116|
+|[Boys of Summer](./boysofsummer)|   63.5| 13|     35|  1|   8|  1|  2|  0| 29| 4.563| 1.014|
+|[Wonderbots](./wonderbots)|   64.0|  9|     35|  0|  14|  1|  1|  1| 19| 2.647| 0.941|
+|[Washington Generals](./washingtongenerals)|   64.5| 14|     30|  1|   5|  4|  1|  1|  8| 2.571| 0.714|
+|[Terminoeckers](./terminoeckers)|   38.0|  9|     34|  1|   5|  1|  0|  1| 10| 7.941| 2.294|
+|[Nuclear Arms](./nucleararms)|   64.0| 10|     37|  1|  11|  3|  1|  0| 12| 2.250| 1.250|
+|[Overwhelming Underdogs](./overwhelmingunderdogs)|   58.5|  8|     22|  1|   9|  2|  3|  1| 27| 3.712| 1.312|
+|[T and A](./tanda)     |   43.0|  7|     28|  1|   7|  3|  0|  1| 20| 5.684| 1.895|
+|[Mean Wieners](./meanwieners)|   58.5|  8|     20|  3|  11|  4|  2|  0| 19| 3.857| 1.029|
+|[SYWA](./sywa)         |   53.0| 12|     34|  5|  23|  0|  0|  0| 25| 8.526| 1.737|
 
 * * *
 * * *

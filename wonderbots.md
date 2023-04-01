@@ -8,17 +8,17 @@
 |Alejandro Kirk        |C        |      1|  0|   2|  0|  0| 
 |Vladimir Guerrero Jr. |1B       |      3|  0|   3|  0|  0| 
 |Marcus Semien         |2B       |      2|  1|   0|  0|  1| 
-|Manny Machado         |3B       |      1|  0|   1|  0|  0| 
-|Xander Bogaerts       |SS       |      3|  1|   0|  0|  0| 
-|J.P. Crawford         |MI       |      2|  1|   0|  0|  0| 
-|Luis Arraez           |CI       |      2|  1|   1|  0|  0| 
+|Manny Machado         |3B       |      2|  0|   1|  0|  0| 
+|Xander Bogaerts       |SS       |      4|  1|   1|  0|  0| 
+|J.P. Crawford         |MI       |      3|  1|   0|  0|  0| 
+|Luis Arraez           |CI       |      4|  1|   1|  0|  0| 
 |Anthony Santander     |OF       |      2|  0|   0|  0|  0| 
 |Ian Happ              |OF       |      3|  1|   0|  0|  0| 
 |Nick Castellanos      |OF       |      2|  2|   0|  0|  0| 
-|Steven Kwan           |OF       |      0|  0|   0|  0|  0| 
+|Steven Kwan           |OF       |      3|  0|   5|  0|  0| 
 |Austin Hays           |DH       |      0|  0|   0|  0|  0| 
 |Harold Ramirez        |DH       |      0|  0|   0|  0|  0| 
-|Josh Bell             |DH       |      1|  0|   0|  0|  0| 
+|Josh Bell             |DH       |      3|  0|   0|  0|  0| 
 |Justin Turner         |DH       |      3|  2|   1|  0|  0| 
 
 

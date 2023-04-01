@@ -7,9 +7,9 @@
 |:--------------|:--------|------:|--:|---:|--:|--:| 
 |Anthony Rizzo  |1B       |      1|  0|   0|  0|  0| 
 |Gleyber Torres |2B       |      2|  2|   2|  1|  1| 
-|Max Muncy      |3B       |      0|  0|   0|  0|  0| 
+|Max Muncy      |3B       |      1|  0|   0|  0|  0| 
 |Willy Adames   |SS       |      2|  0|   0|  0|  0| 
-|Ryan McMahon   |MI       |      1|  0|   0|  0|  1| 
+|Ryan McMahon   |MI       |      1|  0|   1|  0|  1| 
 |Yandy Diaz     |CI       |      1|  0|   0|  0|  0| 
 |Adolis Garcia  |OF       |      2|  1|   2|  0|  0| 
 |Cedric Mullins |OF       |      3|  2|   1|  0|  2| 
