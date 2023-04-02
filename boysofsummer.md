@@ -5,21 +5,21 @@
  
 |players           |position | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:--------|------:|--:|---:|--:|--:| 
-|William Contreras |C        |      1|  0|   0|  0|  0| 
-|Freddie Freeman   |1B       |      3|  1|   0|  0|  0| 
-|Jonathan India    |2B       |      3|  2|   0|  0|  0| 
-|Jose Ramirez      |3B       |      3|  1|   0|  0|  0| 
-|Bo Bichette       |SS       |      4|  2|   1|  0|  0| 
+|William Contreras |C        |      2|  0|   2|  0|  0| 
+|Freddie Freeman   |1B       |      5|  2|   0|  0|  0| 
+|Jonathan India    |2B       |      5|  3|   1|  1|  1| 
+|Jose Ramirez      |3B       |      4|  1|   0|  0|  1| 
+|Bo Bichette       |SS       |      6|  2|   1|  0|  0| 
 |Amed Rosario      |MI       |      3|  0|   1|  0|  1| 
-|Gunnar Henderson  |CI       |      2|  1|   0|  0|  0| 
-|Byron Buxton      |OF       |      2|  1|   0|  0|  0| 
-|Eloy Jimenez      |OF       |      2|  1|   2|  0|  0| 
+|Gunnar Henderson  |CI       |      5|  1|   0|  0|  0| 
+|Byron Buxton      |OF       |      4|  3|   0|  0|  0| 
+|Eloy Jimenez      |OF       |      5|  1|   3|  0|  0| 
 |Luis Robert Jr.   |OF       |      3|  1|   0|  0|  0| 
-|Ramon Laureano    |OF       |      0|  0|   0|  0|  0| 
-|Adam Duvall       |DH       |      2|  1|   1|  0|  0| 
+|Ramon Laureano    |OF       |      1|  1|   1|  1|  0| 
+|Adam Duvall       |DH       |      6|  4|   6|  2|  0| 
 |Elehuris Montero  |DH       |      4|  1|   2|  1|  0| 
-|Ezequiel Tovar    |DH       |      2|  1|   0|  0|  0| 
-|Gabriel Moreno    |DH       |      1|  0|   1|  0|  0| 
+|Ezequiel Tovar    |DH       |      2|  1|   1|  0|  0| 
+|Gabriel Moreno    |DH       |      2|  0|   1|  0|  0| 
 
 * * *
 

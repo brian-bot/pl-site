@@ -6,20 +6,20 @@
 |players               |position | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:--------|------:|--:|---:|--:|--:| 
 |Alejandro Kirk        |C        |      1|  0|   2|  0|  0| 
-|Vladimir Guerrero Jr. |1B       |      3|  0|   3|  0|  0| 
-|Marcus Semien         |2B       |      2|  1|   0|  0|  1| 
-|Manny Machado         |3B       |      2|  0|   1|  0|  0| 
-|Xander Bogaerts       |SS       |      4|  1|   1|  0|  0| 
-|J.P. Crawford         |MI       |      3|  1|   0|  0|  0| 
-|Luis Arraez           |CI       |      4|  1|   1|  0|  0| 
-|Anthony Santander     |OF       |      2|  0|   0|  0|  0| 
-|Ian Happ              |OF       |      3|  1|   0|  0|  0| 
-|Nick Castellanos      |OF       |      2|  2|   0|  0|  0| 
-|Steven Kwan           |OF       |      3|  0|   5|  0|  0| 
-|Austin Hays           |DH       |      0|  0|   0|  0|  0| 
+|Vladimir Guerrero Jr. |1B       |      6|  1|   3|  0|  0| 
+|Marcus Semien         |2B       |      3|  3|   2|  1|  1| 
+|Manny Machado         |3B       |      5|  0|   2|  0|  0| 
+|Xander Bogaerts       |SS       |      7|  2|   3|  1|  0| 
+|J.P. Crawford         |MI       |      4|  1|   0|  0|  0| 
+|Luis Arraez           |CI       |      8|  1|   1|  0|  0| 
+|Anthony Santander     |OF       |      4|  1|   1|  0|  0| 
+|Ian Happ              |OF       |      5|  2|   1|  1|  0| 
+|Nick Castellanos      |OF       |      4|  2|   2|  0|  0| 
+|Steven Kwan           |OF       |      4|  0|   5|  0|  0| 
+|Austin Hays           |DH       |      5|  2|   1|  1|  1| 
 |Harold Ramirez        |DH       |      0|  0|   0|  0|  0| 
-|Josh Bell             |DH       |      3|  0|   0|  0|  0| 
-|Justin Turner         |DH       |      3|  2|   1|  0|  0| 
+|Josh Bell             |DH       |      5|  0|   0|  0|  0| 
+|Justin Turner         |DH       |      6|  3|   1|  0|  0| 
 
 
 * * *
