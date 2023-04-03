@@ -5,20 +5,20 @@
  
 |players           |position | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:--------|------:|--:|---:|--:|--:| 
-|Salvador Perez    |C        |      3|  0|   0|  0|  0| 
-|Matt Olson        |1B       |      5|  3|   3|  2|  0| 
-|Jazz Chisholm Jr. |2B       |      3|  1|   1|  1|  0| 
-|Matt Chapman      |3B       |      4|  0|   1|  0|  0| 
-|Jeremy Pena       |SS       |      6|  2|   1|  0|  1| 
+|Salvador Perez    |C        |      5|  0|   0|  0|  0| 
+|Matt Olson        |1B       |      6|  3|   3|  2|  0| 
+|Jazz Chisholm Jr. |2B       |      5|  1|   1|  1|  0| 
+|Matt Chapman      |3B       |      7|  2|   2|  0|  0| 
+|Jeremy Pena       |SS       |      7|  3|   1|  0|  1| 
 |Javier Baez       |MI       |      2|  0|   0|  0|  0| 
-|Jose Abreu        |CI       |      5|  1|   1|  0|  0| 
-|Daulton Varsho    |OF       |      3|  1|   2|  0|  0| 
-|Giancarlo Stanton |OF       |      2|  1|   1|  1|  0| 
-|Masataka Yoshida  |OF       |      3|  1|   1|  0|  0| 
-|Ronald Acuna Jr.  |OF       |      3|  1|   1|  1|  1| 
-|Esteury Ruiz      |DH       |      2|  1|   0|  0|  0| 
-|Jarred Kelenic    |DH       |      2|  0|   0|  0|  1| 
-|Jordan Walker     |DH       |      3|  0|   2|  0|  1| 
+|Jose Abreu        |CI       |      8|  1|   2|  0|  0| 
+|Daulton Varsho    |OF       |      5|  2|   2|  0|  1| 
+|Giancarlo Stanton |OF       |      4|  2|   3|  2|  0| 
+|Masataka Yoshida  |OF       |      6|  4|   3|  0|  1| 
+|Ronald Acuna Jr.  |OF       |      5|  2|   1|  1|  1| 
+|Esteury Ruiz      |DH       |      3|  1|   0|  0|  0| 
+|Jarred Kelenic    |DH       |      3|  0|   0|  0|  1| 
+|Jordan Walker     |DH       |      5|  0|   2|  0|  1| 
 |Josh Naylor       |DH       |      3|  1|   2|  1|  0| 
 
 * * *
@@ -26,13 +26,19 @@
 ### Pitchers
 
  
-|players         |position |  g|    ip| er|  era| hitsbb| whip| so|  w| sv| 
-|:---------------|:--------|--:|-----:|--:|----:|------:|----:|--:|--:|--:| 
-|Framber Valdez  |SP       |  1| 5.000|  0|  0.0|      6|  1.2|  4|  0|  0| 
-|Hunter Greene   |SP       |  1| 3.333|  3|  8.1|      8|  2.4|  8|  0|  0| 
-|Miles Mikolas   |SP       |  1| 3.333|  5| 13.5|     10|  3.0|  6|  0|  0| 
-|Aledmys Diaz    |RP       | **|    **| **|   **|     **|   **| **| **| **| 
-|David Robertson |RP       |  2| 2.000|  0|  0.0|      1|  0.5|  3|  0|  1| 
+|players          |position |  g|    ip| er|    era| hitsbb|  whip| so|  w| sv| 
+|:----------------|:--------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
+|Framber Valdez   |SP       |  1| 5.000|  0|  0.000|      6| 1.200|  4|  0|  0| 
+|Hunter Greene    |SP       |  1| 3.333|  3|  8.100|      8| 2.400|  8|  0|  0| 
+|Jack Flaherty    |SP       |  1| 5.000|  0|  0.000|      7| 1.400|  4|  1|  0| 
+|Miles Mikolas    |SP       |  1| 3.333|  5| 13.500|     10| 3.000|  6|  0|  0| 
+|Alexis Diaz      |RP       |  2| 2.000|  0|  0.000|      0| 0.000|  3|  0|  1| 
+|David Robertson  |RP       |  2| 2.000|  0|  0.000|      1| 0.500|  3|  0|  1| 
+|Edward Cabrera   |OP       |  1| 4.000|  2|  4.500|      8| 2.000|  2|  0|  0| 
+|Graham Ashcraft  |OP       |  1| 7.000|  1|  1.286|      5| 0.714|  6|  1|  0| 
+|Jose Urquidy     |OP       |  1| 4.000|  3|  6.750|      8| 2.000|  5|  0|  0| 
+|Patrick Sandoval |OP       |  1| 5.000|  1|  1.800|      4| 0.800|  2|  1|  0| 
+|Trevor Rogers    |OP       |  1| 4.333|  3|  6.231|      6| 1.385|  4|  0|  0| 
 
 
 * * *
