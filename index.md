@@ -2,21 +2,21 @@
 
 ## Period 1 scores
 
-Through games on 2023-04-02 ([website build status](https://github.com/brian-bot/pl-site/actions))
+Through games on 2023-04-03 ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 
 |team                   | points|  r| hitsbb| hr| rbi| sb|  w| sv| so|   era|  whip|
 |:----------------------|------:|--:|------:|--:|---:|--:|--:|--:|--:|-----:|-----:|
-|[Vass Deferens](./vassdeferens)|   34.5| 14|     51|  4|  13|  4|  2|  3| 26| 5.700| 1.333|
-|[Boys of Summer](./boysofsummer)|   67.5| 26|     78|  6|  22|  3|  5|  2| 60| 5.226| 1.277|
-|[Wonderbots](./wonderbots)|   58.5| 26|     87|  5|  28|  2|  2|  1| 47| 2.935| 1.174|
-|[Washington Generals](./washingtongenerals)|   61.5| 32|     74|  6|  18|  6|  2|  1| 37| 2.250| 1.125|
-|[Terminoeckers](./terminoeckers)|   25.0| 23|     68|  1|  12|  1|  1|  1| 49| 6.696| 1.752|
-|[Nuclear Arms](./nucleararms)|   46.0| 24|     74|  5|  26|  5|  4|  0| 22| 3.908| 1.382|
-|[Overwhelming Underdogs](./overwhelmingunderdogs)|   74.5| 30|     67|  7|  21|  7|  5|  3| 50| 2.905| 1.158|
-|[T and A](./tanda)     |   56.5| 22|     74|  7|  22|  6|  3|  2| 47| 3.600| 1.400|
-|[Mean Wieners](./meanwieners)|   74.0| 23|     55|  7|  33|  7|  6|  1| 52| 1.658| 0.842|
-|[SYWA](./sywa)         |   52.0| 25|     74|  8|  43|  1|  0|  1| 55| 5.786| 1.714|
+|[Vass Deferens](./vassdeferens)|   37.5| 28|     76|  8|  25|  5|  2|  3| 26| 5.700| 1.333|
+|[Boys of Summer](./boysofsummer)|   71.5| 40|    105| 10|  34|  4|  6|  2| 60| 5.468| 1.329|
+|[Wonderbots](./wonderbots)|   49.5| 32|    103|  5|  33|  3|  2|  1| 47| 2.935| 1.174|
+|[Washington Generals](./washingtongenerals)|   67.0| 45|     96| 10|  24|  7|  2|  2| 39| 2.118| 1.118|
+|[Terminoeckers](./terminoeckers)|   31.5| 33|     89|  5|  22|  1|  1|  2| 52| 6.389| 1.718|
+|[Nuclear Arms](./nucleararms)|   49.5| 31|     92| 10|  40|  6|  4|  0| 25| 3.812| 1.376|
+|[Overwhelming Underdogs](./overwhelmingunderdogs)|   73.5| 41|     91| 10|  27|  9|  5|  3| 50| 2.905| 1.158|
+|[T and A](./tanda)     |   58.0| 31|    100| 10|  37|  6|  3|  2| 47| 3.600| 1.400|
+|[Mean Wieners](./meanwieners)|   70.5| 32|     74| 10|  39|  9|  6|  1| 52| 2.132| 0.895|
+|[SYWA](./sywa)         |   41.5| 31|     92|  9|  50|  2|  0|  1| 55| 5.786| 1.714|
 
 * * *
 * * *

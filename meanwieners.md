@@ -6,18 +6,18 @@
 |players        |position | hitsbb|  r| rbi| hr| sb| 
 |:--------------|:--------|------:|--:|---:|--:|--:| 
 |Danny Jansen   |C        |      2|  0|   1|  0|  0| 
-|Anthony Rizzo  |1B       |      7|  1|   2|  0|  0| 
-|Gleyber Torres |2B       |      4|  3|   2|  1|  2| 
-|Max Muncy      |3B       |      2|  1|   0|  0|  0| 
-|Willy Adames   |SS       |      4|  1|   2|  0|  0| 
-|Ryan McMahon   |MI       |      3|  1|   2|  1|  1| 
+|Anthony Rizzo  |1B       |      9|  2|   4|  1|  0| 
+|Gleyber Torres |2B       |      9|  5|   4|  2|  3| 
+|Max Muncy      |3B       |      4|  2|   0|  0|  0| 
+|Willy Adames   |SS       |      5|  2|   3|  0|  0| 
+|Ryan McMahon   |MI       |      5|  2|   2|  1|  1| 
 |Yandy Diaz     |CI       |      5|  3|   3|  1|  0| 
 |Adolis Garcia  |OF       |      6|  3|   3|  0|  0| 
-|Cedric Mullins |OF       |      7|  4|   7|  2|  3| 
+|Cedric Mullins |OF       |      9|  4|   7|  2|  4| 
 |Kyle Schwarber |OF       |      1|  0|   1|  0|  0| 
-|Tyler O'Neill  |OF       |      3|  1|   2|  1|  0| 
-|Darick Hall    |DH       |      3|  1|   1|  0|  0| 
-|Isaac Paredes  |DH       |      2|  1|   1|  0|  0| 
+|Tyler O'Neill  |OF       |      5|  2|   2|  1|  0| 
+|Darick Hall    |DH       |      4|  1|   1|  0|  0| 
+|Isaac Paredes  |DH       |      4|  3|   2|  1|  0| 
 |Joey Meneses   |DH       |      3|  1|   1|  0|  0| 
 |Jose Siri      |DH       |      3|  2|   5|  1|  1| 
 
@@ -37,7 +37,7 @@
 |Paul Sewald     |RP       |  2| 2.000|  0|  0.000|      1| 0.500|  1|  1|  0| 
 |Pete Fairbanks  |RP       |  1| 1.000|  0|  0.000|      1| 1.000|  0|  0|  0| 
 |Evan Phillips   |OP       |  2| 1.333|  0|  0.000|      1| 0.750|  0|  0|  0| 
-|Scott McGough   |OP       |  2| 1.000|  0|  0.000|      2| 2.000|  1|  0|  1| 
+|Scott McGough   |OP       |  3| 1.000|  2| 18.000|      4| 4.000|  1|  0|  1| 
 
 
 * * *

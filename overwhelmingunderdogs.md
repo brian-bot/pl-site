@@ -7,18 +7,18 @@
 |:----------------|:--------|------:|--:|---:|--:|--:| 
 |Sean Murphy      |C        |      1|  0|   0|  0|  0| 
 |Pete Alonso      |1B       |      7|  4|   2|  1|  0| 
-|Tommy Edman      |2B       |      4|  2|   0|  0|  1| 
-|Alex Bregman     |3B       |      2|  1|   0|  0|  0| 
-|Trea Turner      |SS       |      6|  2|   1|  0|  0| 
-|Anthony Volpe    |MI       |      4|  2|   0|  0|  3| 
-|Josh Jung        |CI       |      4|  4|   1|  1|  0| 
-|Bryan Reynolds   |OF       |      4|  1|   2|  1|  0| 
-|Christian Yelich |OF       |      6|  2|   0|  0|  0| 
-|Julio Rodriguez  |OF       |      6|  2|   2|  1|  1| 
-|Taylor Ward      |OF       |      7|  3|   4|  1|  1| 
-|Brandon Nimmo    |DH       |      6|  1|   3|  0|  1| 
-|J.D. Martinez    |DH       |      4|  2|   2|  1|  0| 
-|Marcell Ozuna    |DH       |      1|  1|   1|  1|  0| 
+|Tommy Edman      |2B       |      6|  2|   0|  0|  1| 
+|Alex Bregman     |3B       |      6|  3|   0|  0|  0| 
+|Trea Turner      |SS       |      8|  2|   1|  0|  0| 
+|Anthony Volpe    |MI       |      6|  2|   0|  0|  3| 
+|Josh Jung        |CI       |      5|  4|   1|  1|  0| 
+|Bryan Reynolds   |OF       |      7|  4|   4|  3|  0| 
+|Christian Yelich |OF       |      7|  3|   0|  0|  1| 
+|Julio Rodriguez  |OF       |      8|  4|   2|  1|  2| 
+|Taylor Ward      |OF       |      8|  4|   6|  2|  1| 
+|Brandon Nimmo    |DH       |      8|  1|   3|  0|  1| 
+|J.D. Martinez    |DH       |      6|  4|   4|  1|  0| 
+|Marcell Ozuna    |DH       |      3|  1|   1|  1|  0| 
 |Nathaniel Lowe   |DH       |      5|  3|   3|  0|  0| 
 
 * * *

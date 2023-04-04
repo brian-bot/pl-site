@@ -5,20 +5,20 @@
  |players           |position | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:--------|------:|--:|---:|--:|--:| 
 |Cal Raleigh       |C        |      4|  0|   4|  0|  0| 
-|Christian Walker  |1B       |      6|  1|   2|  1|  0| 
+|Christian Walker  |1B       |      7|  1|   2|  1|  0| 
 |Whit Merrifield   |2B       |      3|  1|   2|  0|  0| 
-|Nolan Arenado     |3B       |      5|  3|   4|  0|  0| 
-|Dansby Swanson    |SS       |      8|  2|   2|  0|  0| 
+|Nolan Arenado     |3B       |      7|  3|   5|  0|  0| 
+|Dansby Swanson    |SS       |     11|  4|   2|  0|  0| 
 |Jeff McNeil       |MI       |      4|  1|   2|  0|  0| 
 |C.J. Cron         |CI       |      9|  3|   7|  3|  0| 
-|Alex Verdugo      |OF       |      6|  3|   4|  1|  0| 
+|Alex Verdugo      |OF       |      9|  4|   4|  1|  0| 
 |Jake McCarthy     |OF       |      2|  0|   1|  0|  1| 
-|Teoscar Hernandez |OF       |      2|  0|   0|  0|  0| 
-|Yordan Alvarez    |OF       |      7|  4|   5|  1|  0| 
-|Alec Bohm         |DH       |      5|  2|   3|  1|  0| 
-|Jesse Winker      |DH       |      4|  1|   4|  0|  0| 
+|Teoscar Hernandez |OF       |      3|  0|   0|  0|  0| 
+|Yordan Alvarez    |OF       |      8|  5|   9|  2|  0| 
+|Alec Bohm         |DH       |      8|  3|   3|  1|  0| 
+|Jesse Winker      |DH       |      7|  2|   5|  0|  0| 
 |Oscar Gonzalez    |DH       |      2|  1|   0|  0|  0| 
-|Ty France         |DH       |      7|  3|   3|  1|  0| 
+|Ty France         |DH       |      8|  3|   4|  1|  1| 
 
 * * *
 

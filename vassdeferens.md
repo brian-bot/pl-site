@@ -5,20 +5,20 @@
  
 |players            |position | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:--------|------:|--:|---:|--:|--:| 
-|Adley Rutschman    |C        |      7|  2|   4|  1|  0| 
-|Vinnie Pasquantino |1B       |      3|  0|   0|  0|  0| 
-|Jake Cronenworth   |2B       |      2|  2|   0|  0|  0| 
-|Bobby Witt Jr.     |3B       |      2|  0|   0|  0|  0| 
-|Carlos Correa      |SS       |      3|  1|   0|  0|  0| 
-|Oneil Cruz         |MI       |      6|  2|   3|  1|  0| 
-|Spencer Torkelson  |CI       |      1|  0|   0|  0|  0| 
-|Aaron Judge        |OF       |      6|  3|   4|  2|  0| 
-|Corbin Carroll     |OF       |      3|  1|   0|  0|  3| 
-|MJ Melendez        |OF       |      3|  0|   0|  0|  0| 
-|Riley Greene       |OF       |      3|  0|   0|  0|  0| 
-|CJ Abrams          |DH       |      0|  0|   0|  0|  0| 
-|Jose Miranda       |DH       |      5|  1|   1|  0|  0| 
-|Max Kepler         |DH       |      1|  0|   0|  0|  0| 
+|Adley Rutschman    |C        |      8|  2|   4|  1|  0| 
+|Vinnie Pasquantino |1B       |      4|  1|   1|  0|  0| 
+|Jake Cronenworth   |2B       |      3|  2|   0|  0|  0| 
+|Bobby Witt Jr.     |3B       |      5|  1|   2|  0|  1| 
+|Carlos Correa      |SS       |      5|  2|   2|  0|  0| 
+|Oneil Cruz         |MI       |      7|  2|   3|  1|  0| 
+|Spencer Torkelson  |CI       |      3|  2|   1|  0|  0| 
+|Aaron Judge        |OF       |      8|  4|   4|  2|  0| 
+|Corbin Carroll     |OF       |      6|  3|   1|  1|  3| 
+|MJ Melendez        |OF       |      5|  2|   2|  1|  0| 
+|Riley Greene       |OF       |      5|  2|   1|  1|  0| 
+|CJ Abrams          |DH       |      1|  0|   0|  0|  0| 
+|Jose Miranda       |DH       |      7|  2|   2|  0|  0| 
+|Max Kepler         |DH       |      3|  1|   1|  1|  0| 
 |Oscar Colas        |DH       |      6|  2|   1|  0|  1| 
 
 

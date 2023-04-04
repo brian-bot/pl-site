@@ -6,20 +6,20 @@
 |players           |position | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:--------|------:|--:|---:|--:|--:| 
 |Salvador Perez    |C        |      5|  0|   0|  0|  0| 
-|Matt Olson        |1B       |      6|  3|   3|  2|  0| 
-|Jazz Chisholm Jr. |2B       |      5|  1|   1|  1|  0| 
-|Matt Chapman      |3B       |      7|  2|   2|  0|  0| 
-|Jeremy Pena       |SS       |      7|  3|   1|  0|  1| 
-|Javier Baez       |MI       |      2|  0|   0|  0|  0| 
-|Jose Abreu        |CI       |      8|  1|   2|  0|  0| 
-|Daulton Varsho    |OF       |      5|  2|   2|  0|  1| 
-|Giancarlo Stanton |OF       |      4|  2|   3|  2|  0| 
-|Masataka Yoshida  |OF       |      6|  4|   3|  0|  1| 
-|Ronald Acuna Jr.  |OF       |      5|  2|   1|  1|  1| 
-|Esteury Ruiz      |DH       |      3|  1|   0|  0|  0| 
+|Matt Olson        |1B       |      7|  4|   4|  2|  0| 
+|Jazz Chisholm Jr. |2B       |      6|  1|   1|  1|  0| 
+|Matt Chapman      |3B       |     10|  3|   2|  0|  0| 
+|Jeremy Pena       |SS       |      8|  4|   2|  0|  1| 
+|Javier Baez       |MI       |      3|  0|   1|  0|  0| 
+|Jose Abreu        |CI       |     11|  1|   3|  0|  0| 
+|Daulton Varsho    |OF       |      6|  2|   2|  0|  1| 
+|Giancarlo Stanton |OF       |      5|  3|   4|  2|  0| 
+|Masataka Yoshida  |OF       |      8|  5|   5|  1|  1| 
+|Ronald Acuna Jr.  |OF       |      9|  4|   4|  2|  1| 
+|Esteury Ruiz      |DH       |      5|  2|   2|  0|  0| 
 |Jarred Kelenic    |DH       |      3|  0|   0|  0|  1| 
-|Jordan Walker     |DH       |      5|  0|   2|  0|  1| 
-|Josh Naylor       |DH       |      3|  1|   2|  1|  0| 
+|Jordan Walker     |DH       |      6|  0|   3|  0|  1| 
+|Josh Naylor       |DH       |      8|  2|   4|  2|  0| 
 
 * * *
 
