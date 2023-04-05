@@ -6,20 +6,20 @@
 |players          |position | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:--------|------:|--:|---:|--:|--:| 
 |J.T. Realmuto    |C        |      6|  2|   0|  0|  1| 
-|Rowdy Tellez     |1B       |      5|  2|   0|  0|  0| 
-|Mookie Betts     |2B       |      8|  3|   1|  1|  0| 
-|Austin Riley     |3B       |      7|  2|   2|  1|  0| 
-|Corey Seager     |SS       |      7|  2|   1|  0|  0| 
-|Brandon Lowe     |MI       |      5|  1|   0|  0|  0| 
+|Rowdy Tellez     |1B       |      6|  3|   1|  1|  0| 
+|Mookie Betts     |2B       |     11|  5|   1|  1|  0| 
+|Austin Riley     |3B       |      8|  3|   4|  2|  0| 
+|Corey Seager     |SS       |      8|  2|   1|  0|  0| 
+|Brandon Lowe     |MI       |      6|  2|   0|  0|  0| 
 |Triston Casas    |CI       |      4|  1|   5|  1|  0| 
-|Hunter Renfroe   |OF       |      4|  3|   0|  0|  0| 
-|Juan Soto        |OF       |      6|  3|   4|  1|  0| 
-|Kris Bryant      |OF       |      9|  3|   1|  0|  0| 
+|Hunter Renfroe   |OF       |      6|  3|   1|  0|  0| 
+|Juan Soto        |OF       |      8|  4|   4|  1|  0| 
+|Kris Bryant      |OF       |     10|  4|   1|  0|  0| 
 |Lars Nootbaar    |OF       |      3|  1|   0|  0|  0| 
-|Cody Bellinger   |DH       |      3|  1|   4|  1|  0| 
-|Garrett Mitchell |DH       |      5|  3|   2|  0|  0| 
+|Cody Bellinger   |DH       |      7|  2|   5|  1|  0| 
+|Garrett Mitchell |DH       |      7|  5|   4|  2|  0| 
 |Miguel Vargas    |DH       |     13|  4|   1|  0|  0| 
-|Wil Myers        |DH       |      4|  2|   1|  0|  0| 
+|Wil Myers        |DH       |      7|  2|   1|  0|  0| 
 
 * * *
 
