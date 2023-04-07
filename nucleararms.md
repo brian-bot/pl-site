@@ -5,20 +5,20 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |     11|  5|  10|  3|  0| 
+|Will Smith        |C         |     13|  6|  10|  3|  0| 
 |Paul Goldschmidt  |1B        |     16|  3|   2|  1|  1| 
 |Ozzie Albies      |2B        |      8|  1|   4|  1|  0| 
 |Eugenio Suarez    |3B        |     10|  4|   5|  0|  0| 
 |Francisco Lindor  |SS        |     11|  3|   3|  0|  0| 
 |Wander Franco     |MI        |     13|  4|   7|  2|  2| 
-|Andrew Vaughn     |CI        |      8|  1|   5|  0|  0| 
-|Andrew Benintendi |OF        |      9|  5|   0|  0|  1| 
+|Andrew Vaughn     |CI        |     11|  1|   6|  0|  0| 
+|Andrew Benintendi |OF        |     10|  6|   1|  0|  1| 
 |George Springer   |OF        |      9|  4|   2|  0|  2| 
 |Joey Gallo        |OF        |      5|  4|   7|  3|  0| 
 |Starling Marte    |OF        |      9|  3|   1|  0|  3| 
 |Anthony Rendon    |DH        |      1|  0|   1|  0|  0| 
-|Jurickson Profar  |DH        |      2|  0|   0|  0|  0| 
-|Ketel Marte       |DH        |      5|  1|   0|  0|  1| 
+|Jurickson Profar  |DH        |      3|  0|   0|  0|  0| 
+|Ketel Marte       |DH        |      6|  1|   0|  0|  1| 
 |Shohei Ohtani     |DH        |     10|  3|   6|  2|  0| 
 |Josh Donaldson    |BAT BENCH |      3|  2|   1|  1|  0| 
 

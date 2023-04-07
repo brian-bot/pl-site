@@ -5,17 +5,17 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez    |C         |      6|  0|   0|  0|  0| 
-|Matt Olson        |1B        |     10|  6|   7|  3|  0| 
+|Salvador Perez    |C         |      7|  1|   0|  0|  0| 
+|Matt Olson        |1B        |     13|  7|   9|  3|  0| 
 |Jazz Chisholm Jr. |2B        |      7|  1|   1|  1|  0| 
-|Matt Chapman      |3B        |     14|  4|   5|  0|  0| 
+|Matt Chapman      |3B        |     15|  4|   7|  0|  0| 
 |Jeremy Pena       |SS        |     10|  6|   4|  1|  1| 
-|Javier Baez       |MI        |      3|  1|   1|  0|  0| 
+|Javier Baez       |MI        |      4|  1|   1|  0|  0| 
 |Jose Abreu        |CI        |     13|  1|   3|  0|  0| 
-|Daulton Varsho    |OF        |     11|  4|   3|  1|  1| 
+|Daulton Varsho    |OF        |     13|  5|   4|  1|  1| 
 |Giancarlo Stanton |OF        |      6|  3|   4|  2|  0| 
-|Masataka Yoshida  |OF        |      8|  5|   6|  1|  1| 
-|Ronald Acuna Jr.  |OF        |     13|  7|   4|  2|  2| 
+|Masataka Yoshida  |OF        |     11|  6|   6|  1|  2| 
+|Ronald Acuna Jr.  |OF        |     15|  8|   4|  2|  2| 
 |Esteury Ruiz      |DH        |      8|  2|   3|  0|  0| 
 |Jarred Kelenic    |DH        |      4|  0|   0|  0|  1| 
 |Jordan Walker     |DH        |      9|  1|   5|  1|  1| 

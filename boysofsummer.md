@@ -6,20 +6,20 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |William Contreras |C         |      5|  0|   3|  0|  0| 
-|Freddie Freeman   |1B        |     14|  4|   0|  0|  0| 
+|Freddie Freeman   |1B        |     16|  6|   1|  1|  0| 
 |Jonathan India    |2B        |     11|  7|   2|  1|  1| 
 |Jose Ramirez      |3B        |     14|  5|   3|  0|  2| 
-|Bo Bichette       |SS        |     10|  4|   2|  1|  0| 
+|Bo Bichette       |SS        |     12|  5|   3|  1|  0| 
 |Amed Rosario      |MI        |      7|  1|   3|  0|  1| 
 |Gunnar Henderson  |CI        |      8|  2|   1|  1|  0| 
 |Byron Buxton      |OF        |      9|  4|   0|  0|  0| 
 |Eloy Jimenez      |OF        |      7|  2|   3|  0|  0| 
-|Luis Robert Jr.   |OF        |      9|  5|   3|  2|  0| 
+|Luis Robert Jr.   |OF        |     10|  5|   3|  2|  0| 
 |Ramon Laureano    |OF        |      7|  3|   3|  2|  0| 
-|Adam Duvall       |DH        |     13|  7|   9|  2|  0| 
-|Elehuris Montero  |DH        |      5|  2|   3|  1|  0| 
-|Ezequiel Tovar    |DH        |      3|  1|   1|  0|  0| 
-|Gabriel Moreno    |DH        |      2|  0|   1|  0|  0| 
+|Adam Duvall       |DH        |     15|  8|  12|  3|  0| 
+|Elehuris Montero  |DH        |      8|  2|   3|  1|  0| 
+|Ezequiel Tovar    |DH        |      4|  2|   1|  0|  0| 
+|Gabriel Moreno    |DH        |      3|  0|   1|  0|  0| 
 |Dylan Carlson     |BAT BENCH |      5|  3|   0|  0|  0| 
 |Jean Segura       |BAT BENCH |      5|  1|   0|  0|  1| 
 |Yoan Moncada      |BAT BENCH |     12|  3|   5|  2|  0| 
@@ -32,9 +32,9 @@
  
 |players           |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Blake Snell       |SP          |  1|  4.333|  3|  6.231|      7| 1.615|  9|  0|  0| 
+|Blake Snell       |SP          |  2|  8.000|  7|  7.875|     17| 2.125| 11|  0|  0| 
 |Chris Bassitt     |SP          |  1|  3.333|  9| 24.300|     10| 3.000|  0|  0|  0| 
-|Chris Sale        |SP          |  1|  3.000|  7| 21.000|      9| 3.000|  6|  0|  0| 
+|Chris Sale        |SP          |  2|  8.000| 10| 11.250|     16| 2.000| 13|  1|  0| 
 |Clayton Kershaw   |SP          |  1|  6.000|  1|  1.500|      4| 0.667|  9|  1|  0| 
 |Dylan Cease       |SP          |  2| 11.333|  2|  1.588|      8| 0.706| 18|  1|  0| 
 |Sonny Gray        |SP          |  1|  5.000|  0|  0.000|      7| 1.400|  1|  1|  0| 

@@ -5,7 +5,7 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Sean Murphy      |C         |      3|  0|   1|  0|  0| 
+|Sean Murphy      |C         |      7|  1|   1|  0|  0| 
 |Pete Alonso      |1B        |      9|  6|   6|  3|  0| 
 |Tommy Edman      |2B        |      7|  2|   0|  0|  1| 
 |Alex Bregman     |3B        |      8|  5|   0|  0|  0| 
@@ -17,7 +17,7 @@
 |Julio Rodriguez  |OF        |     11|  7|   2|  1|  2| 
 |Taylor Ward      |OF        |     12|  6|   6|  2|  1| 
 |Brandon Nimmo    |DH        |     11|  1|   3|  0|  1| 
-|J.D. Martinez    |DH        |      7|  4|   4|  1|  0| 
+|J.D. Martinez    |DH        |      9|  4|   5|  1|  0| 
 |Marcell Ozuna    |DH        |      4|  1|   1|  1|  0| 
 |Nathaniel Lowe   |DH        |      7|  4|   5|  1|  0| 
 |Brendan Donovan  |BAT BENCH |      8|  5|   5|  2|  0| 

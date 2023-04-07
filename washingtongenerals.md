@@ -8,20 +8,20 @@
 |Willson Contreras |C         |      6|  3|   1|  0|  0| 
 |Ryan Mountcastle  |1B        |      9|  4|   6|  2|  0| 
 |Andres Gimenez    |2B        |     12|  8|   4|  1|  1| 
-|Rafael Devers     |3B        |      9|  5|   2|  1|  0| 
-|Tim Anderson      |SS        |      9|  3|   1|  0|  2| 
+|Rafael Devers     |3B        |     11|  7|   4|  2|  0| 
+|Tim Anderson      |SS        |     10|  3|   3|  0|  2| 
 |Nico Hoerner      |MI        |      7|  6|   0|  0|  2| 
 |Ke'Bryan Hayes    |CI        |      3|  2|   2|  0|  0| 
 |Kyle Tucker       |OF        |     14|  4|   8|  3|  1| 
-|Michael Harris II |OF        |      7|  3|   1|  0|  1| 
+|Michael Harris II |OF        |      7|  3|   1|  0|  2| 
 |Mike Trout        |OF        |     16|  5|   3|  1|  0| 
 |Randy Arozarena   |OF        |     12|  7|   6|  1|  0| 
 |Brandon Belt      |DH        |      3|  1|   0|  0|  0| 
-|Joc Pederson      |DH        |      6|  3|   4|  2|  0| 
-|Michael Conforto  |DH        |      6|  2|   1|  1|  0| 
-|Thairo Estrada    |DH        |      7|  2|   2|  1|  2| 
-|Josh Rojas        |BAT BENCH |      4|  1|   2|  0|  1| 
-|Lane Thomas       |BAT BENCH |     10|  1|   4|  0|  1| 
+|Joc Pederson      |DH        |      8|  3|   6|  2|  0| 
+|Michael Conforto  |DH        |     11|  5|   4|  2|  0| 
+|Thairo Estrada    |DH        |     10|  3|   3|  1|  2| 
+|Josh Rojas        |BAT BENCH |      5|  1|   3|  0|  1| 
+|Lane Thomas       |BAT BENCH |     12|  1|   4|  0|  1| 
 |Shea Langeliers   |BAT BENCH |      5|  1|   0|  0|  0| 
 
 
@@ -32,7 +32,7 @@
  
 |players        |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:--------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Dustin May     |SP          |  1|  7.000|  0|  0.000|      4| 0.571|  4|  0|  0| 
+|Dustin May     |SP          |  2| 13.000|  1|  0.692|      8| 0.615|  9|  1|  0| 
 |Jon Gray       |SP          |  1|  6.333|  2|  2.842|      6| 0.947|  7|  0|  0| 
 |Julio Urias    |SP          |  2| 12.000|  2|  1.500|      9| 0.750| 12|  2|  0| 
 |Logan Gilbert  |SP          |  1|  6.000|  1|  1.500|      5| 0.833|  7|  0|  0| 

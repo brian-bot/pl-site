@@ -6,10 +6,10 @@
 |players               |position | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:--------|------:|--:|---:|--:|--:| 
 |Alejandro Kirk        |C        |      6|  1|   2|  0|  0| 
-|Vladimir Guerrero Jr. |1B       |     14|  3|   5|  1|  1| 
+|Vladimir Guerrero Jr. |1B       |     17|  5|   6|  2|  1| 
 |Marcus Semien         |2B       |      7|  3|   3|  1|  1| 
-|Manny Machado         |3B       |      6|  0|   3|  0|  0| 
-|Xander Bogaerts       |SS       |     11|  5|   7|  3|  0| 
+|Manny Machado         |3B       |      8|  0|   3|  0|  0| 
+|Xander Bogaerts       |SS       |     13|  7|   7|  3|  0| 
 |J.P. Crawford         |MI       |      9|  2|   0|  0|  0| 
 |Luis Arraez           |CI       |     13|  2|   2|  0|  0| 
 |Anthony Santander     |OF       |      7|  1|   1|  0|  0| 
@@ -19,7 +19,7 @@
 |Austin Hays           |DH       |      8|  4|   2|  1|  1| 
 |Harold Ramirez        |DH       |      2|  1|   1|  1|  0| 
 |Josh Bell             |DH       |      8|  1|   1|  0|  0| 
-|Justin Turner         |DH       |     13|  5|   1|  0|  0| 
+|Justin Turner         |DH       |     14|  5|   1|  0|  0| 
 
 
 * * *

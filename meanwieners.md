@@ -8,9 +8,9 @@
 |Danny Jansen   |C         |      2|  0|   2|  0|  0| 
 |Anthony Rizzo  |1B        |     10|  2|   4|  1|  0| 
 |Gleyber Torres |2B        |     14|  5|   6|  2|  5| 
-|Max Muncy      |3B        |      6|  3|   1|  1|  0| 
+|Max Muncy      |3B        |      7|  5|   1|  1|  0| 
 |Willy Adames   |SS        |      9|  4|   3|  0|  0| 
-|Ryan McMahon   |MI        |      7|  2|   2|  1|  1| 
+|Ryan McMahon   |MI        |      8|  2|   2|  1|  1| 
 |Yandy Diaz     |CI        |     10|  8|   6|  2|  0| 
 |Adolis Garcia  |OF        |      9|  6|   5|  1|  0| 
 |Cedric Mullins |OF        |     10|  5|   8|  2|  4| 
@@ -34,12 +34,12 @@
 |Jacob deGrom    |SP          |  2|  9.667|  6|  5.586|     10| 1.034| 18|  1|  0| 
 |Jeffrey Springs |SP          |  1|  6.000|  0|  0.000|      1| 0.167| 12|  1|  0| 
 |Joe Ryan        |SP          |  1|  6.000|  1|  1.500|      5| 0.833|  6|  1|  0| 
-|Spencer Strider |SP          |  1|  6.000|  0|  0.000|      6| 1.000|  9|  1|  0| 
+|Spencer Strider |SP          |  2| 11.000|  3|  2.455|     13| 1.182| 18|  1|  0| 
 |Zach Eflin      |SP          |  1|  5.000|  1|  1.800|      4| 0.800|  5|  1|  0| 
 |Paul Sewald     |RP          |  3|  3.000|  2|  6.000|      5| 1.667|  2|  1|  0| 
 |Pete Fairbanks  |RP          |  2|  2.000|  0|  0.000|      1| 0.500|  0|  0|  0| 
-|Alex Wood       |OP          | **|     **| **|     **|     **|    **| **| **| **| 
-|Evan Phillips   |OP          |  3|  2.000|  0|  0.000|      1| 0.500|  0|  0|  1| 
+|Alex Wood       |OP          |  1|  3.000|  1|  3.000|      8| 2.667|  3|  0|  0| 
+|Evan Phillips   |OP          |  4|  3.000|  0|  0.000|      1| 0.333|  1|  0|  2| 
 |Hayden Wesneski |OP          |  1|  4.667|  3|  5.786|      8| 1.714|  4|  0|  0| 
 |Matthew Boyd    |OP          |  1|  4.333|  2|  4.154|      5| 1.154|  3|  0|  0| 
 |Scott McGough   |OP          |  3|  1.000|  2| 18.000|      4| 4.000|  1|  0|  1| 
