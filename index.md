@@ -2,21 +2,21 @@
 
 ## Period 1 scores
 
-Through games on 2023-04-06 ([website build status](https://github.com/brian-bot/pl-site/actions))
+Through games on 2023-04-07 ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 
-|team                   | points|  r| hitsbb| hr| rbi| sb|  w| sv| so|   era|  whip|
-|:----------------------|------:|--:|------:|--:|---:|--:|--:|--:|--:|-----:|-----:|
-|[Vass Deferens](./vassdeferens)|   45.5| 43|    113| 11|  31|  8|  6|  6| 57| 4.065| 1.048|
-|[Boys of Summer](./boysofsummer)|   57.5| 52|    136| 12|  42|  4|  8|  3| 88| 6.037| 1.463|
-|[Wonderbots](./wonderbots)|   51.5| 45|    145|  9|  41|  4|  5|  2| 73| 2.487| 1.079|
-|[Washington Generals](./washingtongenerals)|   70.5| 64|    139| 15|  51| 10|  4|  3| 74| 3.192| 1.138|
-|[Terminoeckers](./terminoeckers)|   26.0| 47|    121| 10|  33|  1|  2|  2| 80| 6.398| 1.749|
-|[Nuclear Arms](./nucleararms)|   51.0| 43|    135| 12|  55| 10|  7|  1| 76| 4.325| 1.296|
-|[Overwhelming Underdogs](./overwhelmingunderdogs)|   64.5| 58|    134| 15|  42| 11|  7|  3| 61| 3.500| 1.222|
-|[T and A](./tanda)     |   57.0| 48|    143| 14|  56|  8|  4|  2| 72| 3.343| 1.343|
-|[Mean Wieners](./meanwieners)|   80.5| 52|    112| 16|  55| 11|  8|  3| 92| 2.789| 1.070|
-|[SYWA](./sywa)         |   46.0| 48|    136| 11|  59|  3|  4|  1| 89| 4.866| 1.473|
+|team                   | points|  r| hitsbb| hr| rbi| sb|  w| sv|  so|   era|  whip|
+|:----------------------|------:|--:|------:|--:|---:|--:|--:|--:|---:|-----:|-----:|
+|[Vass Deferens](./vassdeferens)|   48.5| 50|    134| 14|  42|  9|  7|  7|  62| 4.114| 1.057|
+|[Boys of Summer](./boysofsummer)|   62.0| 61|    159| 15|  53|  4|  9|  4| 112| 5.471| 1.392|
+|[Wonderbots](./wonderbots)|   52.0| 54|    164| 10|  48|  5|  5|  2|  83| 3.068| 1.148|
+|[Washington Generals](./washingtongenerals)|   68.0| 71|    162| 16|  55| 14|  4|  3|  82| 3.344| 1.170|
+|[Terminoeckers](./terminoeckers)|   27.5| 50|    144| 11|  40|  2|  2|  3| 100| 6.177| 1.716|
+|[Nuclear Arms](./nucleararms)|   47.0| 49|    151| 15|  61| 11|  7|  1|  79| 4.263| 1.278|
+|[Overwhelming Underdogs](./overwhelmingunderdogs)|   67.5| 70|    158| 19|  57| 13|  8|  3|  74| 3.402| 1.228|
+|[T and A](./tanda)     |   55.0| 56|    159| 15|  57| 11|  4|  2|  92| 3.267| 1.431|
+|[Mean Wieners](./meanwieners)|   80.0| 59|    130| 19|  62| 11|  9|  4| 100| 2.885| 1.090|
+|[SYWA](./sywa)         |   42.5| 50|    151| 11|  60|  4|  5|  3|  97| 4.471| 1.451|
 
 * * *
 * * *
