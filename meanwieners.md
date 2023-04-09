@@ -6,22 +6,22 @@
 |players        |position  | hitsbb|  r| rbi| hr| sb| 
 |:--------------|:---------|------:|--:|---:|--:|--:| 
 |Danny Jansen   |C         |      2|  0|   2|  0|  0| 
-|Anthony Rizzo  |1B        |     11|  2|   4|  1|  0| 
-|Gleyber Torres |2B        |     16|  6|   6|  2|  5| 
-|Max Muncy      |3B        |      9|  5|   1|  1|  0| 
-|Willy Adames   |SS        |     11|  6|   4|  1|  0| 
-|Ryan McMahon   |MI        |      9|  3|   3|  2|  1| 
-|Yandy Diaz     |CI        |     10|  8|   6|  2|  0| 
-|Adolis Garcia  |OF        |     10|  6|   5|  1|  0| 
-|Cedric Mullins |OF        |     10|  5|   8|  2|  4| 
+|Anthony Rizzo  |1B        |     12|  3|   4|  1|  0| 
+|Gleyber Torres |2B        |     19|  6|   6|  2|  5| 
+|Max Muncy      |3B        |     10|  6|   2|  1|  0| 
+|Willy Adames   |SS        |     13|  6|   4|  1|  0| 
+|Ryan McMahon   |MI        |     10|  4|   4|  2|  1| 
+|Yandy Diaz     |CI        |     11|  9|   6|  2|  0| 
+|Adolis Garcia  |OF        |     11|  6|   5|  1|  0| 
+|Cedric Mullins |OF        |     11|  6|   8|  2|  4| 
 |Kyle Schwarber |OF        |      5|  2|   5|  2|  0| 
-|Tyler O'Neill  |OF        |      6|  2|   2|  1|  0| 
+|Tyler O'Neill  |OF        |      8|  3|   2|  1|  0| 
 |Darick Hall    |DH        |      5|  1|   1|  0|  0| 
-|Isaac Paredes  |DH        |      8|  4|   6|  2|  0| 
-|Joey Meneses   |DH        |     10|  4|   1|  0|  0| 
+|Isaac Paredes  |DH        |     10|  4|   9|  2|  0| 
+|Joey Meneses   |DH        |     11|  4|   1|  0|  0| 
 |Jose Siri      |DH        |      8|  5|   8|  2|  1| 
 |Brandon Drury  |BAT BENCH |      4|  0|   2|  0|  0| 
-|Jake Fraley    |BAT BENCH |      8|  2|   4|  1|  0| 
+|Jake Fraley    |BAT BENCH |      8|  2|   5|  1|  0| 
 
 * * *
 
@@ -32,18 +32,18 @@
 |:---------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Gerrit Cole     |SP          |  2| 12.333|  1|  0.730|     11| 0.892| 19|  2|  0| 
 |Jacob deGrom    |SP          |  2|  9.667|  6|  5.586|     10| 1.034| 18|  1|  0| 
-|Jeffrey Springs |SP          |  1|  6.000|  0|  0.000|      1| 0.167| 12|  1|  0| 
-|Joe Ryan        |SP          |  1|  6.000|  1|  1.500|      5| 0.833|  6|  1|  0| 
+|Jeffrey Springs |SP          |  2| 13.000|  0|  0.000|      7| 0.538| 19|  2|  0| 
+|Joe Ryan        |SP          |  2| 12.000|  5|  3.750|      9| 0.750| 16|  2|  0| 
 |Spencer Strider |SP          |  2| 11.000|  3|  2.455|     13| 1.182| 18|  1|  0| 
 |Zach Eflin      |SP          |  2| 11.000|  4|  3.273|     13| 1.182| 12|  2|  0| 
-|Paul Sewald     |RP          |  4|  4.000|  2|  4.500|      5| 1.250|  3|  1|  1| 
+|Paul Sewald     |RP          |  5|  5.000|  2|  3.600|      7| 1.400|  4|  1|  2| 
 |Pete Fairbanks  |RP          |  2|  2.000|  0|  0.000|      1| 0.500|  0|  0|  0| 
 |Alex Wood       |OP          |  1|  3.000|  1|  3.000|      8| 2.667|  3|  0|  0| 
 |Evan Phillips   |OP          |  4|  3.000|  0|  0.000|      1| 0.333|  1|  0|  2| 
 |Hayden Wesneski |OP          |  1|  4.667|  3|  5.786|      8| 1.714|  4|  0|  0| 
 |Matthew Boyd    |OP          |  1|  4.333|  2|  4.154|      5| 1.154|  3|  0|  0| 
-|Scott McGough   |OP          |  3|  1.000|  2| 18.000|      4| 4.000|  1|  0|  1| 
-|Charlie Morton  |PITCH BENCH |  1|  5.333|  3|  5.062|     11| 2.062|  1|  1|  0| 
+|Scott McGough   |OP          |  4|  2.333|  3| 11.571|      5| 2.143|  3|  0|  1| 
+|Charlie Morton  |PITCH BENCH |  2| 10.333|  5|  4.355|     20| 1.935|  7|  1|  0| 
 |Dylan Dodd      |PITCH BENCH |  1|  5.000|  1|  1.800|      6| 1.200|  3|  1|  0| 
 |Jared Shuster   |PITCH BENCH |  2|  8.667|  8|  8.308|     21| 2.423|  5|  0|  0| 
 |Jason Adam      |PITCH BENCH |  3|  2.333|  1|  3.857|      3| 1.286|  2|  0|  0| 
