@@ -5,23 +5,23 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Sean Murphy      |C         |     10|  1|   2|  0|  0| 
-|Pete Alonso      |1B        |     13|  8|  10|  5|  0| 
-|Tommy Edman      |2B        |     11|  3|   0|  0|  1| 
-|Alex Bregman     |3B        |     10|  6|   1|  0|  0| 
+|Sean Murphy      |C         |     11|  1|   2|  0|  0| 
+|Pete Alonso      |1B        |     14|  8|  11|  5|  0| 
+|Tommy Edman      |2B        |     12|  3|   0|  0|  1| 
+|Alex Bregman     |3B        |     12|  6|   1|  0|  0| 
 |Trea Turner      |SS        |     14|  4|   2|  0|  1| 
-|Anthony Volpe    |MI        |      8|  3|   0|  0|  3| 
+|Anthony Volpe    |MI        |      9|  3|   0|  0|  3| 
 |Josh Jung        |CI        |     10|  5|   5|  2|  0| 
-|Bryan Reynolds   |OF        |     16| 10|  14|  5|  2| 
-|Christian Yelich |OF        |     13|  7|   1|  0|  1| 
-|Julio Rodriguez  |OF        |     15|  9|   4|  2|  3| 
-|Taylor Ward      |OF        |     14|  8|   6|  2|  1| 
+|Bryan Reynolds   |OF        |     17| 10|  14|  5|  2| 
+|Christian Yelich |OF        |     16|  9|   2|  1|  1| 
+|Julio Rodriguez  |OF        |     16| 10|   4|  2|  4| 
+|Taylor Ward      |OF        |     16|  9|   6|  2|  1| 
 |Brandon Nimmo    |DH        |     16|  4|   3|  0|  2| 
-|J.D. Martinez    |DH        |     12|  5|   7|  1|  0| 
-|Marcell Ozuna    |DH        |      6|  2|   2|  2|  0| 
-|Nathaniel Lowe   |DH        |     11|  4|   7|  1|  0| 
+|J.D. Martinez    |DH        |     14|  7|   9|  1|  0| 
+|Marcell Ozuna    |DH        |      7|  2|   2|  2|  0| 
+|Nathaniel Lowe   |DH        |     12|  4|   7|  1|  0| 
 |Brendan Donovan  |BAT BENCH |      9|  5|   5|  2|  0| 
-|Keibert Ruiz     |BAT BENCH |     10|  1|   3|  1|  0| 
+|Keibert Ruiz     |BAT BENCH |     11|  1|   4|  1|  0| 
 
 * * *
 
@@ -36,8 +36,8 @@
 |Max Scherzer      |SP          |  2| 11.333|  8|  6.353|     16| 1.412|  8|  1|  0| 
 |Sean Manaea       |SP          |  2|  8.000|  4|  4.500|      8| 1.000|  9|  0|  0| 
 |Shane McClanahan  |SP          |  2| 12.000|  2|  1.500|     14| 1.167| 12|  2|  0| 
-|Devin Williams    |RP          |  2|  2.000|  0|  0.000|      2| 1.000|  1|  1|  1| 
-|Ryan Helsley      |RP          |  2|  2.667|  2|  6.750|      5| 1.875|  2|  0|  1| 
+|Devin Williams    |RP          |  3|  3.000|  0|  0.000|      2| 0.667|  2|  1|  1| 
+|Ryan Helsley      |RP          |  3|  3.667|  2|  4.909|      6| 1.636|  4|  0|  1| 
 |Aaron Civale      |OP          |  2| 12.667|  4|  2.842|     13| 1.026|  8|  1|  0| 
 |Eric Lauer        |OP          |  2|  9.333|  8|  7.714|     17| 1.821| 10|  1|  0| 
 |Jhoan Duran       |OP          |  3|  2.333|  0|  0.000|      2| 0.857|  4|  0|  2| 

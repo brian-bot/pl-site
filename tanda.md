@@ -5,22 +5,22 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez    |C         |     10|  3|   4|  2|  0| 
-|Matt Olson        |1B        |     19|  8|  10|  3|  0| 
-|Jazz Chisholm Jr. |2B        |      9|  2|   2|  2|  0| 
-|Matt Chapman      |3B        |     19|  5|   9|  1|  0| 
-|Jeremy Pena       |SS        |     11|  7|   6|  2|  1| 
-|Javier Baez       |MI        |      4|  1|   1|  0|  0| 
-|Jose Abreu        |CI        |     15|  2|   3|  0|  0| 
-|Daulton Varsho    |OF        |     14|  5|   4|  1|  1| 
-|Giancarlo Stanton |OF        |     10|  6|   5|  3|  0| 
+|Salvador Perez    |C         |     11|  3|   5|  2|  0| 
+|Matt Olson        |1B        |     21|  8|  11|  3|  0| 
+|Jazz Chisholm Jr. |2B        |     11|  4|   3|  2|  2| 
+|Matt Chapman      |3B        |     23|  7|  14|  2|  1| 
+|Jeremy Pena       |SS        |     13|  8|   7|  2|  1| 
+|Javier Baez       |MI        |      6|  2|   1|  0|  0| 
+|Jose Abreu        |CI        |     16|  2|   3|  0|  0| 
+|Daulton Varsho    |OF        |     16|  6|   4|  1|  1| 
+|Giancarlo Stanton |OF        |     11|  6|   6|  3|  0| 
 |Masataka Yoshida  |OF        |     14|  8|   6|  1|  2| 
-|Ronald Acuna Jr.  |OF        |     16| 10|   4|  2|  4| 
+|Ronald Acuna Jr.  |OF        |     19| 10|   5|  2|  5| 
 |Esteury Ruiz      |DH        |     11|  3|   3|  0|  1| 
-|Jarred Kelenic    |DH        |      8|  1|   1|  0|  2| 
-|Jordan Walker     |DH        |     13|  2|   7|  2|  1| 
-|Josh Naylor       |DH        |     11|  2|   5|  2|  0| 
-|Bryan De La Cruz  |BAT BENCH |      5|  3|   1|  0|  0| 
+|Jarred Kelenic    |DH        |     10|  2|   2|  0|  2| 
+|Jordan Walker     |DH        |     15|  2|   8|  2|  1| 
+|Josh Naylor       |DH        |     12|  4|   6|  2|  0| 
+|Bryan De La Cruz  |BAT BENCH |      9|  4|   5|  1|  0| 
 |Luis Urias        |BAT BENCH |      0|  0|   0|  0|  0| 
 
 
@@ -32,7 +32,7 @@
 |players          |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Framber Valdez   |SP          |  2| 12.000|  2|  1.500|     15| 1.250| 13|  0|  0| 
-|Freddy Peralta   |SP          |  1|  6.000|  0|  0.000|      5| 0.833|  7|  1|  0| 
+|Freddy Peralta   |SP          |  2| 12.000|  1|  0.750|     12| 1.000| 14|  2|  0| 
 |Hunter Greene    |SP          |  2|  8.000|  5|  5.625|     16| 2.000| 13|  0|  0| 
 |Jack Flaherty    |SP          |  2| 10.000|  2|  1.800|     17| 1.700|  7|  1|  0| 
 |Miles Mikolas    |SP          |  2|  9.333| 10|  9.643|     20| 2.143| 12|  0|  0| 
