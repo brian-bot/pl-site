@@ -7,18 +7,18 @@
 |:---------------------|:--------|------:|--:|---:|--:|--:| 
 |Alejandro Kirk        |C        |      9|  1|   2|  0|  0| 
 |Vladimir Guerrero Jr. |1B       |     25|  9|   6|  2|  1| 
-|Marcus Semien         |2B       |     10|  5|   6|  1|  1| 
+|Marcus Semien         |2B       |     10|  6|   6|  1|  1| 
 |Manny Machado         |3B       |     14|  4|   3|  0|  1| 
-|Xander Bogaerts       |SS       |     19|  9|   8|  3|  0| 
+|Xander Bogaerts       |SS       |     21|  9|   8|  3|  1| 
 |J.P. Crawford         |MI       |     12|  4|   2|  0|  0| 
-|Luis Arraez           |CI       |     21|  4|   3|  0|  0| 
-|Anthony Santander     |OF       |     10|  2|   4|  0|  0| 
-|Ian Happ              |OF       |     19|  6|   6|  1|  0| 
-|Nick Castellanos      |OF       |     13|  6|   3|  0|  0| 
-|Steven Kwan           |OF       |     18|  4|   8|  0|  2| 
-|Austin Hays           |DH       |      9|  4|   3|  1|  1| 
+|Luis Arraez           |CI       |     24|  4|   3|  0|  0| 
+|Anthony Santander     |OF       |     11|  2|   4|  0|  0| 
+|Ian Happ              |OF       |     20|  7|   6|  1|  1| 
+|Nick Castellanos      |OF       |     16|  9|   6|  0|  0| 
+|Steven Kwan           |OF       |     20|  5|   8|  0|  3| 
+|Austin Hays           |DH       |     11|  6|   4|  2|  1| 
 |Harold Ramirez        |DH       |      8|  5|   4|  3|  0| 
-|Josh Bell             |DH       |     11|  1|   3|  0|  0| 
+|Josh Bell             |DH       |     12|  2|   3|  0|  0| 
 |Justin Turner         |DH       |     15|  5|   2|  0|  0| 
 
 
@@ -32,7 +32,7 @@
 |Aaron Nola       |SP       |  2|  9.667|  8| 7.448|     14| 1.448|  9|  0|  0| 
 |Brady Singer     |SP       |  2| 11.000|  6| 4.909|     13| 1.182|  7|  1|  0| 
 |Lucas Giolito    |SP       |  2|  9.000|  9| 9.000|     18| 2.000|  9|  0|  0| 
-|Luis Castillo    |SP       |  2| 11.667|  0| 0.000|      5| 0.429| 12|  1|  0| 
+|Luis Castillo    |SP       |  3| 17.667|  2| 1.019|     13| 0.736| 17|  1|  0| 
 |Pablo Lopez      |SP       |  2| 12.333|  1| 0.730|      9| 0.730| 16|  1|  0| 
 |Robbie Ray       |SP       |  1|  3.333|  3| 8.100|      9| 2.700|  3|  0|  0| 
 |Andres Munoz     |RP       |  4|  3.333|  0| 0.000|      5| 1.500|  3|  0|  1| 

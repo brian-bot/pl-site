@@ -5,23 +5,23 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Sean Murphy      |C         |     11|  1|   2|  0|  0| 
+|Sean Murphy      |C         |     14|  2|   5|  1|  0| 
 |Pete Alonso      |1B        |     14|  8|  11|  5|  0| 
-|Tommy Edman      |2B        |     12|  3|   0|  0|  1| 
-|Alex Bregman     |3B        |     12|  6|   1|  0|  0| 
-|Trea Turner      |SS        |     14|  4|   2|  0|  1| 
+|Tommy Edman      |2B        |     13|  3|   0|  0|  1| 
+|Alex Bregman     |3B        |     16|  8|   2|  0|  0| 
+|Trea Turner      |SS        |     17|  7|   3|  0|  2| 
 |Anthony Volpe    |MI        |      9|  3|   0|  0|  3| 
 |Josh Jung        |CI        |     10|  5|   5|  2|  0| 
 |Bryan Reynolds   |OF        |     17| 10|  14|  5|  2| 
 |Christian Yelich |OF        |     16|  9|   2|  1|  1| 
-|Julio Rodriguez  |OF        |     16| 10|   4|  2|  4| 
-|Taylor Ward      |OF        |     16|  9|   6|  2|  1| 
-|Brandon Nimmo    |DH        |     16|  4|   3|  0|  2| 
+|Julio Rodriguez  |OF        |     18| 10|   4|  2|  4| 
+|Taylor Ward      |OF        |     18|  9|   6|  2|  1| 
+|Brandon Nimmo    |DH        |     17|  6|   3|  0|  3| 
 |J.D. Martinez    |DH        |     14|  7|   9|  1|  0| 
 |Marcell Ozuna    |DH        |      7|  2|   2|  2|  0| 
-|Nathaniel Lowe   |DH        |     12|  4|   7|  1|  0| 
-|Brendan Donovan  |BAT BENCH |      9|  5|   5|  2|  0| 
-|Keibert Ruiz     |BAT BENCH |     11|  1|   4|  1|  0| 
+|Nathaniel Lowe   |DH        |     14|  5|   8|  1|  0| 
+|Brendan Donovan  |BAT BENCH |     10|  7|   5|  2|  0| 
+|Keibert Ruiz     |BAT BENCH |     12|  2|   4|  1|  0| 
 
 * * *
 
@@ -33,7 +33,7 @@
 |Corey Kluber      |SP          |  2|  8.333|  6|  6.480|     14| 1.680|  6|  0|  0| 
 |Marcus Stroman    |SP          |  2| 12.000|  0|  0.000|     11| 0.917| 14|  2|  0| 
 |Max Fried         |SP          |  1|  3.333|  1|  2.700|      4| 1.200|  2|  0|  0| 
-|Max Scherzer      |SP          |  2| 11.333|  8|  6.353|     16| 1.412|  8|  1|  0| 
+|Max Scherzer      |SP          |  3| 16.333|  8|  4.408|     20| 1.224| 14|  2|  0| 
 |Sean Manaea       |SP          |  2|  8.000|  4|  4.500|      8| 1.000|  9|  0|  0| 
 |Shane McClanahan  |SP          |  2| 12.000|  2|  1.500|     14| 1.167| 12|  2|  0| 
 |Devin Williams    |RP          |  3|  3.000|  0|  0.000|      2| 0.667|  2|  1|  1| 
