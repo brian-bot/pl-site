@@ -5,21 +5,21 @@
  
 |players               |position | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:--------|------:|--:|---:|--:|--:| 
-|Alejandro Kirk        |C        |      9|  1|   2|  0|  0| 
+|Alejandro Kirk        |C        |     11|  2|   6|  1|  0| 
 |Vladimir Guerrero Jr. |1B       |     25|  9|   6|  2|  1| 
-|Marcus Semien         |2B       |     10|  6|   6|  1|  1| 
-|Manny Machado         |3B       |     14|  4|   3|  0|  1| 
-|Xander Bogaerts       |SS       |     21|  9|   8|  3|  1| 
-|J.P. Crawford         |MI       |     12|  4|   2|  0|  0| 
-|Luis Arraez           |CI       |     24|  4|   3|  0|  0| 
-|Anthony Santander     |OF       |     11|  2|   4|  0|  0| 
-|Ian Happ              |OF       |     20|  7|   6|  1|  1| 
-|Nick Castellanos      |OF       |     16|  9|   6|  0|  0| 
-|Steven Kwan           |OF       |     20|  5|   8|  0|  3| 
-|Austin Hays           |DH       |     11|  6|   4|  2|  1| 
+|Marcus Semien         |2B       |     12|  8|   7|  1|  1| 
+|Manny Machado         |3B       |     15|  4|   5|  0|  1| 
+|Xander Bogaerts       |SS       |     23| 10|  10|  4|  1| 
+|J.P. Crawford         |MI       |     14|  6|   2|  0|  0| 
+|Luis Arraez           |CI       |     28|  6|   5|  1|  0| 
+|Anthony Santander     |OF       |     13|  2|   4|  0|  0| 
+|Ian Happ              |OF       |     21|  7|   6|  1|  1| 
+|Nick Castellanos      |OF       |     19| 10|   6|  0|  0| 
+|Steven Kwan           |OF       |     21|  6|   8|  0|  3| 
+|Austin Hays           |DH       |     15| 10|   6|  3|  1| 
 |Harold Ramirez        |DH       |      8|  5|   4|  3|  0| 
-|Josh Bell             |DH       |     12|  2|   3|  0|  0| 
-|Justin Turner         |DH       |     15|  5|   2|  0|  0| 
+|Josh Bell             |DH       |     13|  2|   3|  0|  0| 
+|Justin Turner         |DH       |     18|  5|   2|  0|  0| 
 
 
 * * *
@@ -29,14 +29,14 @@
  
 |players          |position |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:--------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Aaron Nola       |SP       |  2|  9.667|  8| 7.448|     14| 1.448|  9|  0|  0| 
+|Aaron Nola       |SP       |  3| 15.333| 12| 7.043|     23| 1.500| 15|  0|  0| 
 |Brady Singer     |SP       |  2| 11.000|  6| 4.909|     13| 1.182|  7|  1|  0| 
 |Lucas Giolito    |SP       |  2|  9.000|  9| 9.000|     18| 2.000|  9|  0|  0| 
 |Luis Castillo    |SP       |  3| 17.667|  2| 1.019|     13| 0.736| 17|  1|  0| 
-|Pablo Lopez      |SP       |  2| 12.333|  1| 0.730|      9| 0.730| 16|  1|  0| 
+|Pablo Lopez      |SP       |  3| 20.000|  3| 1.350|     13| 0.650| 26|  1|  0| 
 |Robbie Ray       |SP       |  1|  3.333|  3| 8.100|      9| 2.700|  3|  0|  0| 
 |Andres Munoz     |RP       |  4|  3.333|  0| 0.000|      5| 1.500|  3|  0|  1| 
-|Jose Leclerc     |RP       |  3|  3.000|  0| 0.000|      2| 0.667|  4|  0|  1| 
+|Jose Leclerc     |RP       |  4|  4.333|  0| 0.000|      5| 1.154|  4|  0|  1| 
 |Alex Cobb        |OP       |  2| 10.667|  3| 2.531|     12| 1.125| 12|  0|  0| 
 |Jameson Taillon  |OP       |  2|  9.000|  7| 7.000|     15| 1.667|  9|  0|  0| 
 |Noah Syndergaard |OP       |  2| 10.000|  7| 6.300|     12| 1.200|  8|  0|  0| 

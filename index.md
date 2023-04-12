@@ -2,21 +2,21 @@
 
 ## Period 1 scores
 
-Through games on 2023-04-10 ([website build status](https://github.com/brian-bot/pl-site/actions))
+Through games on 2023-04-11 ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 
-|team                   | points|  r| hitsbb| hr| rbi| sb|  w| sv|  so|   era|  whip|
-|:----------------------|------:|--:|------:|--:|---:|--:|--:|--:|---:|-----:|-----:|
-|[Vass Deferens](./vassdeferens)|   50.5| 70|    184| 19|  57| 17| 11|  9| 104| 4.541| 1.126|
-|[Boys of Summer](./boysofsummer)|   58.5| 84|    212| 18|  70| 10| 11|  6| 139| 4.852| 1.297|
-|[Wonderbots](./wonderbots)|   38.5| 78|    228| 12|  67|  9|  5|  2| 113| 4.387| 1.269|
-|[Washington Generals](./washingtongenerals)|   69.5| 93|    205| 22|  82| 22|  6|  4| 131| 3.584| 1.301|
-|[Terminoeckers](./terminoeckers)|   28.0| 78|    204| 21|  71|  3|  2|  3| 109| 5.980| 1.661|
-|[Nuclear Arms](./nucleararms)|   59.0| 81|    213| 20|  81| 13| 10|  3| 117| 3.988| 1.265|
-|[Overwhelming Underdogs](./overwhelmingunderdogs)|   68.0| 94|    214| 22|  74| 17| 10|  4| 100| 3.611| 1.231|
-|[T and A](./tanda)     |   64.0| 77|    223| 23|  88| 16|  6|  3| 129| 3.525| 1.371|
-|[Mean Wieners](./meanwieners)|   72.0| 78|    178| 23|  82| 12| 11|  6| 127| 2.851| 1.059|
-|[SYWA](./sywa)         |   42.0| 78|    206| 17|  91|  6|  6|  3| 121| 4.786| 1.460|
+|team                   | points|   r| hitsbb| hr| rbi| sb|  w| sv|  so|   era|  whip|
+|:----------------------|------:|---:|------:|--:|---:|--:|--:|--:|---:|-----:|-----:|
+|[Vass Deferens](./vassdeferens)|   45.5|  76|    204| 19|  59| 17| 11|  9| 104| 4.500| 1.134|
+|[Boys of Summer](./boysofsummer)|   50.5|  90|    224| 21|  75| 11| 11|  7| 141| 4.884| 1.310|
+|[Wonderbots](./wonderbots)|   45.0|  92|    256| 16|  80|  9|  5|  2| 129| 4.309| 1.249|
+|[Washington Generals](./washingtongenerals)|   73.0| 103|    229| 25|  97| 25|  7|  5| 135| 3.590| 1.305|
+|[Terminoeckers](./terminoeckers)|   30.0|  87|    228| 23|  74|  3|  2|  3| 135| 5.503| 1.582|
+|[Nuclear Arms](./nucleararms)|   59.0|  90|    229| 23|  93| 13| 12|  3| 131| 4.035| 1.288|
+|[Overwhelming Underdogs](./overwhelmingunderdogs)|   69.0| 105|    238| 24|  77| 17| 11|  5| 114| 3.549| 1.234|
+|[T and A](./tanda)     |   58.5|  86|    244| 26|  95| 18|  6|  3| 132| 3.799| 1.410|
+|[Mean Wieners](./meanwieners)|   76.0|  89|    199| 28|  94| 13| 12|  6| 147| 3.025| 1.123|
+|[SYWA](./sywa)         |   43.5|  84|    228| 18| 101|  6|  7|  3| 145| 4.706| 1.386|
 
 * * *
 * * *
