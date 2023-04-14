@@ -7,8 +7,8 @@
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Cal Raleigh         |C         |     15|  4|   8|  1|  0| 
 |Christian Walker    |1B        |     11|  3|   7|  2|  0| 
-|Whit Merrifield     |2B        |     12|  4|   5|  0|  1| 
-|Nolan Arenado       |3B        |     21|  6|  13|  2|  0| 
+|Whit Merrifield     |2B        |     13|  4|   5|  0|  2| 
+|Nolan Arenado       |3B        |     22|  6|  13|  2|  0| 
 |Dansby Swanson      |SS        |     21| 10|   5|  0|  1| 
 |Jeff McNeil         |MI        |     21|  3|   5|  0|  1| 
 |C.J. Cron           |CI        |     12|  4|   8|  4|  0| 
@@ -16,7 +16,7 @@
 |Jake McCarthy       |OF        |     12|  5|   2|  0|  2| 
 |Teoscar Hernandez   |OF        |     15|  4|   8|  3|  1| 
 |Yordan Alvarez      |OF        |     21|  8|  16|  3|  0| 
-|Alec Bohm           |DH        |     19|  7|  11|  3|  0| 
+|Alec Bohm           |DH        |     20|  7|  11|  3|  0| 
 |Jesse Winker        |DH        |     12|  4|   7|  0|  0| 
 |Oscar Gonzalez      |DH        |      7|  3|   0|  0|  0| 
 |Ty France           |DH        |     26| 13|   9|  1|  1| 
@@ -41,7 +41,7 @@
 |Scott Barlow     |RP          |  4|  3.667|  3| 7.364|      6| 1.636|  3|  0|  1| 
 |Cal Quantrill    |OP          |  2|  9.667|  7| 6.517|     18| 1.862|  6|  0|  0| 
 |Craig Kimbrel    |OP          |  6|  5.000|  5| 9.000|     12| 2.400|  4|  0|  1| 
-|Logan Webb       |OP          |  3| 17.000| 12| 6.353|     22| 1.294| 22|  0|  0| 
+|Logan Webb       |OP          |  3| 17.000|  9| 4.765|     21| 1.235| 22|  0|  0| 
 |Merrill Kelly    |OP          |  3| 15.333|  5| 2.935|     22| 1.435| 15|  0|  0| 
 |Roansy Contreras |OP          |  2|  9.000|  8| 8.000|     17| 1.889|  5|  1|  0| 
 |A.J. Minter      |PITCH BENCH |  7|  7.000|  2| 2.571|      7| 1.000|  6|  1|  2| 

@@ -6,16 +6,16 @@
 |players        |position  | hitsbb|  r| rbi| hr| sb| 
 |:--------------|:---------|------:|--:|---:|--:|--:| 
 |Danny Jansen   |C         |      2|  1|   2|  0|  0| 
-|Anthony Rizzo  |1B        |     19|  5|   6|  1|  0| 
+|Anthony Rizzo  |1B        |     22|  7|   8|  3|  0| 
 |Gleyber Torres |2B        |     24|  9|   6|  2|  5| 
-|Max Muncy      |3B        |     18| 10|  14|  5|  0| 
-|Willy Adames   |SS        |     19|  9|   8|  3|  0| 
+|Max Muncy      |3B        |     18| 10|  13|  5|  0| 
+|Willy Adames   |SS        |     21|  9|   8|  3|  2| 
 |Ryan McMahon   |MI        |     15|  5|   8|  3|  1| 
-|Yandy Diaz     |CI        |     18| 12|   8|  3|  0| 
+|Yandy Diaz     |CI        |     19| 13|   9|  4|  0| 
 |Adolis Garcia  |OF        |     13|  8|  11|  2|  1| 
-|Cedric Mullins |OF        |     13|  8|   9|  2|  5| 
-|Kyle Schwarber |OF        |     13|  7|   6|  3|  0| 
-|Tyler O'Neill  |OF        |     13|  5|   4|  2|  1| 
+|Cedric Mullins |OF        |     15|  8|   9|  2|  6| 
+|Kyle Schwarber |OF        |     15|  8|   7|  4|  0| 
+|Tyler O'Neill  |OF        |     14|  5|   4|  2|  1| 
 |Darick Hall    |DH        |      5|  1|   1|  0|  0| 
 |Isaac Paredes  |DH        |     17|  8|  10|  3|  0| 
 |Joey Meneses   |DH        |     15|  4|   2|  0|  0| 
@@ -32,8 +32,8 @@
 |:---------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Gerrit Cole     |SP          |  3| 19.333|  3| 1.397|     18| 0.931| 22|  3|  0| 
 |Jacob deGrom    |SP          |  3| 16.667|  8| 4.320|     17| 1.020| 27|  1|  0| 
-|Jeffrey Springs |SP          |  2| 13.000|  0| 0.000|      7| 0.538| 19|  2|  0| 
-|Joe Ryan        |SP          |  2| 12.000|  5| 3.750|      9| 0.750| 16|  2|  0| 
+|Jeffrey Springs |SP          |  3| 16.000|  1| 0.562|      8| 0.500| 24|  2|  0| 
+|Joe Ryan        |SP          |  3| 19.000|  6| 2.842|     12| 0.632| 26|  3|  0| 
 |Spencer Strider |SP          |  3| 16.000|  6| 3.375|     19| 1.188| 27|  1|  0| 
 |Zach Eflin      |SP          |  2| 11.000|  4| 3.273|     13| 1.182| 12|  2|  0| 
 |Paul Sewald     |RP          |  7|  7.000|  3| 3.857|      8| 1.143|  6|  1|  2| 

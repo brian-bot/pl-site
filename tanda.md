@@ -10,13 +10,13 @@
 |Jazz Chisholm Jr. |2B        |     15|  5|   4|  2|  3| 
 |Matt Chapman      |3B        |     28| 10|  15|  3|  1| 
 |Jeremy Pena       |SS        |     17|  9|   7|  2|  1| 
-|Javier Baez       |MI        |      7|  3|   1|  0|  0| 
+|Javier Baez       |MI        |      8|  3|   1|  0|  0| 
 |Jose Abreu        |CI        |     20|  2|   4|  0|  0| 
 |Daulton Varsho    |OF        |     21|  8|   4|  1|  2| 
 |Giancarlo Stanton |OF        |     13|  6|   8|  3|  0| 
 |Masataka Yoshida  |OF        |     16|  8|   6|  1|  2| 
 |Ronald Acuna Jr.  |OF        |     28| 10|   9|  2|  6| 
-|Esteury Ruiz      |DH        |     14|  4|   4|  0|  2| 
+|Esteury Ruiz      |DH        |     18|  6|   6|  0|  2| 
 |Jarred Kelenic    |DH        |     17|  5|   5|  3|  2| 
 |Jordan Walker     |DH        |     18|  4|   8|  2|  1| 
 |Josh Naylor       |DH        |     14|  4|   9|  2|  0| 
@@ -37,7 +37,7 @@
 |Jack Flaherty    |SP          |  3| 15.333|  3|  1.761|     23| 1.500| 13|  1|  0| 
 |Miles Mikolas    |SP          |  3| 14.333| 16| 10.047|     32| 2.233| 15|  0|  0| 
 |Yu Darvish       |SP          |  2| 11.333|  6|  4.765|     14| 1.235|  8|  0|  0| 
-|Alexis Diaz      |RP          |  4|  4.000|  3|  6.750|      4| 1.000|  8|  0|  1| 
+|Alexis Diaz      |RP          |  5|  4.333|  3|  6.231|      4| 0.923|  9|  0|  2| 
 |David Robertson  |RP          |  6|  6.333|  0|  0.000|      3| 0.474|  8|  0|  2| 
 |Edward Cabrera   |OP          |  3| 11.667|  6|  4.629|     23| 1.971| 10|  0|  0| 
 |Graham Ashcraft  |OP          |  2| 13.000|  3|  2.077|     14| 1.077| 13|  1|  0| 

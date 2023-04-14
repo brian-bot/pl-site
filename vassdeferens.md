@@ -5,24 +5,24 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman    |C         |     27|  8|   8|  3|  0| 
+|Adley Rutschman    |C         |     28|  9|   9|  4|  0| 
 |Vinnie Pasquantino |1B        |     20|  6|   4|  2|  0| 
 |Jake Cronenworth   |2B        |     18|  8|   2|  1|  1| 
 |Bobby Witt Jr.     |3B        |     15|  6|   6|  2|  5| 
-|Carlos Correa      |SS        |      9|  2|   2|  0|  0| 
+|Carlos Correa      |SS        |     12|  4|   3|  1|  0| 
 |Oneil Cruz         |MI        |     15|  7|   4|  1|  3| 
-|Spencer Torkelson  |CI        |     11|  5|   6|  1|  0| 
+|Spencer Torkelson  |CI        |     12|  6|   6|  1|  0| 
 |Aaron Judge        |OF        |     21| 10|   7|  4|  2| 
 |Corbin Carroll     |OF        |     13|  7|   6|  3|  5| 
 |MJ Melendez        |OF        |     14|  5|   6|  1|  0| 
 |Riley Greene       |OF        |     14|  7|   3|  1|  1| 
 |CJ Abrams          |DH        |     13|  3|   5|  0|  1| 
-|Jose Miranda       |DH        |     14|  2|   3|  0|  0| 
+|Jose Miranda       |DH        |     16|  3|   5|  0|  0| 
 |Max Kepler         |DH        |      3|  1|   1|  1|  0| 
 |Oscar Colas        |DH        |     14|  5|   4|  1|  2| 
 |Austin Meadows     |BAT BENCH |      5|  0|   2|  0|  0| 
-|Jorge Mateo        |BAT BENCH |     14|  9|   6|  2|  6| 
-|TJ Friedl          |BAT BENCH |     17|  7|   3|  2|  0| 
+|Jorge Mateo        |BAT BENCH |     14|  9|   8|  2|  7| 
+|TJ Friedl          |BAT BENCH |     18|  7|   3|  2|  0| 
 
 
 * * *
