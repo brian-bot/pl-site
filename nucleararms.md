@@ -6,18 +6,18 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith        |C         |     20|  9|  12|  3|  0| 
-|Paul Goldschmidt  |1B        |     31|  8|   8|  1|  2| 
-|Ozzie Albies      |2B        |     17|  4|  10|  2|  0| 
-|Eugenio Suarez    |3B        |     23|  6|  13|  2|  0| 
-|Francisco Lindor  |SS        |     24| 11|  15|  3|  1| 
-|Wander Franco     |MI        |     25| 11|  12|  4|  3| 
-|Andrew Vaughn     |CI        |     25|  6|  10|  0|  0| 
+|Paul Goldschmidt  |1B        |     33| 10|   8|  1|  2| 
+|Ozzie Albies      |2B        |     19|  6|  11|  3|  0| 
+|Eugenio Suarez    |3B        |     24|  6|  13|  2|  0| 
+|Francisco Lindor  |SS        |     26| 12|  16|  4|  2| 
+|Wander Franco     |MI        |     26| 11|  13|  4|  3| 
+|Andrew Vaughn     |CI        |     26|  7|  10|  0|  0| 
 |Andrew Benintendi |OF        |     20| 10|   4|  0|  2| 
-|George Springer   |OF        |     22| 10|   8|  3|  3| 
+|George Springer   |OF        |     23| 11|   8|  3|  3| 
 |Joey Gallo        |OF        |      7|  4|   7|  3|  0| 
-|Starling Marte    |OF        |     22|  7|   5|  1|  6| 
-|Anthony Rendon    |DH        |     15|  4|   7|  0|  0| 
-|Jurickson Profar  |DH        |     12|  4|   5|  2|  0| 
+|Starling Marte    |OF        |     23|  7|   5|  1|  7| 
+|Anthony Rendon    |DH        |     16|  5|   7|  0|  0| 
+|Jurickson Profar  |DH        |     13|  4|   5|  2|  0| 
 |Ketel Marte       |DH        |     16| 10|   2|  1|  1| 
 |Shohei Ohtani     |DH        |     23|  9|   9|  3|  0| 
 |Josh Donaldson    |BAT BENCH |      3|  2|   1|  1|  0| 
@@ -42,7 +42,7 @@
 |Michael Wacha     |OP          |  3| 16.333| 11| 6.061|     24| 1.469| 15|  2|  0| 
 |Nick Pivetta      |OP          |  3| 14.000|  7| 4.500|     19| 1.357| 16|  0|  0| 
 |Trevor May        |OP          |  7|  5.667|  5| 7.941|     16| 2.824|  6|  2|  0| 
-|Michael Fulmer    |PITCH BENCH |  6|  6.000|  3| 4.500|     10| 1.667| 10|  0|  1| 
+|Michael Fulmer    |PITCH BENCH |  7|  7.000|  3| 3.857|     10| 1.429| 11|  0|  1| 
 
 
 * * *
