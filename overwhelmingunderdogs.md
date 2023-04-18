@@ -6,21 +6,21 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Sean Murphy      |C         |     25|  7|  13|  3|  0| 
-|Pete Alonso      |1B        |     26| 14|  14|  8|  0| 
-|Tommy Edman      |2B        |     20|  5|   2|  1|  1| 
-|Alex Bregman     |3B        |     25| 11|   7|  2|  0| 
+|Pete Alonso      |1B        |     29| 15|  15|  8|  0| 
+|Tommy Edman      |2B        |     21|  6|   2|  1|  1| 
+|Alex Bregman     |3B        |     27| 11|   7|  2|  0| 
 |Trea Turner      |SS        |     29| 13|   4|  0|  3| 
 |Anthony Volpe    |MI        |     17|  5|   1|  1|  7| 
-|Josh Jung        |CI        |     20|  9|   6|  2|  0| 
-|Bryan Reynolds   |OF        |     22| 11|  15|  5|  3| 
-|Christian Yelich |OF        |     24| 14|   5|  2|  3| 
-|Julio Rodriguez  |OF        |     23| 13|   9|  2|  4| 
-|Taylor Ward      |OF        |     23| 12|   6|  2|  1| 
-|Brandon Nimmo    |DH        |     31|  9|   8|  0|  3| 
+|Josh Jung        |CI        |     21| 10|   9|  3|  0| 
+|Bryan Reynolds   |OF        |     24| 12|  17|  5|  3| 
+|Christian Yelich |OF        |     25| 15|   5|  2|  4| 
+|Julio Rodriguez  |OF        |     24| 14|  10|  3|  4| 
+|Taylor Ward      |OF        |     24| 13|   6|  2|  1| 
+|Brandon Nimmo    |DH        |     34| 10|   8|  0|  3| 
 |J.D. Martinez    |DH        |     20|  8|   9|  1|  0| 
-|Marcell Ozuna    |DH        |      9|  3|   2|  2|  0| 
+|Marcell Ozuna    |DH        |     10|  3|   2|  2|  0| 
 |Nathaniel Lowe   |DH        |     21|  9|  13|  2|  0| 
-|Brendan Donovan  |BAT BENCH |     21| 10|   5|  2|  2| 
+|Brendan Donovan  |BAT BENCH |     23| 11|   5|  2|  2| 
 |Keibert Ruiz     |BAT BENCH |     19|  2|   5|  1|  0| 
 
 * * *
@@ -32,7 +32,7 @@
 |:-----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Corey Kluber      |SP          |  3| 13.000| 10|  6.923|     19| 1.462| 13|  0|  0| 
 |Marcus Stroman    |SP          |  3| 18.000|  2|  1.000|     18| 1.000| 20|  2|  0| 
-|Max Fried         |SP          |  1|  3.333|  1|  2.700|      4| 1.200|  2|  0|  0| 
+|Max Fried         |SP          |  2|  8.333|  1|  1.080|      8| 0.960|  6|  1|  0| 
 |Max Scherzer      |SP          |  3| 16.333|  8|  4.408|     20| 1.224| 14|  2|  0| 
 |Sean Manaea       |SP          |  3| 11.333|  6|  4.765|     13| 1.147| 13|  0|  0| 
 |Shane McClanahan  |SP          |  4| 23.000|  4|  1.565|     26| 1.130| 27|  4|  0| 

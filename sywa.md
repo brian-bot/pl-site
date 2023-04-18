@@ -5,23 +5,23 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Cal Raleigh         |C         |     18|  5|   9|  1|  0| 
-|Christian Walker    |1B        |     14|  4|   9|  2|  0| 
+|Cal Raleigh         |C         |     20|  6|  10|  2|  0| 
+|Christian Walker    |1B        |     15|  5|   9|  2|  0| 
 |Whit Merrifield     |2B        |     16|  5|   6|  0|  2| 
 |Nolan Arenado       |3B        |     28|  8|  13|  2|  0| 
-|Dansby Swanson      |SS        |     25| 10|   5|  0|  2| 
-|Jeff McNeil         |MI        |     25|  4|   5|  0|  1| 
-|C.J. Cron           |CI        |     15|  7|   8|  4|  0| 
-|Alex Verdugo        |OF        |     27| 12|   6|  1|  1| 
+|Dansby Swanson      |SS        |     28| 12|   5|  0|  3| 
+|Jeff McNeil         |MI        |     28|  5|   6|  0|  1| 
+|C.J. Cron           |CI        |     17|  7|   8|  4|  0| 
+|Alex Verdugo        |OF        |     28| 13|   6|  1|  1| 
 |Jake McCarthy       |OF        |     14|  5|   2|  0|  2| 
-|Teoscar Hernandez   |OF        |     19|  5|   9|  3|  1| 
-|Yordan Alvarez      |OF        |     25| 10|  20|  4|  0| 
+|Teoscar Hernandez   |OF        |     21|  5|   9|  3|  1| 
+|Yordan Alvarez      |OF        |     26| 11|  20|  4|  0| 
 |Alec Bohm           |DH        |     29|  9|  14|  3|  0| 
 |Jesse Winker        |DH        |     14|  5|   9|  0|  0| 
 |Oscar Gonzalez      |DH        |      7|  4|   0|  0|  0| 
-|Ty France           |DH        |     32| 15|  11|  1|  1| 
+|Ty France           |DH        |     33| 15|  12|  1|  1| 
 |Ha-Seong Kim        |BAT BENCH |     17|  4|   4|  2|  1| 
-|Lourdes Gurriel Jr. |BAT BENCH |     15|  5|   8|  1|  0| 
+|Lourdes Gurriel Jr. |BAT BENCH |     16|  6|   8|  1|  0| 
 
 
 * * *
@@ -29,24 +29,24 @@
 ### Pitchers
 
  
-|players          |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
-|:----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Alek Manoah      |SP          |  4| 19.333| 15| 6.983|     38| 1.966| 16|  1|  0| 
-|Brandon Woodruff |SP          |  2| 11.333|  1| 0.794|     10| 0.882| 12|  1|  0| 
-|Corbin Burnes    |SP          |  3| 17.333| 10| 5.192|     19| 1.096| 14|  1|  0| 
-|Cristian Javier  |SP          |  3| 17.000|  8| 4.235|     20| 1.176| 14|  1|  0| 
-|Kevin Gausman    |SP          |  3| 20.000|  3| 1.350|     20| 1.000| 25|  1|  0| 
-|Zac Gallen       |SP          |  4| 24.333|  9| 3.329|     23| 0.945| 28|  2|  0| 
-|Camilo Doval     |RP          |  5|  5.667|  2| 3.176|      7| 1.235|  8|  0|  1| 
-|Scott Barlow     |RP          |  6|  5.667|  4| 6.353|      9| 1.588|  6|  0|  1| 
-|Cal Quantrill    |OP          |  3| 15.667| 10| 5.745|     26| 1.660|  9|  0|  0| 
-|Craig Kimbrel    |OP          |  7|  6.000|  5| 7.500|     13| 2.167|  6|  0|  1| 
-|Logan Webb       |OP          |  3| 17.000|  9| 4.765|     21| 1.235| 22|  0|  0| 
-|Merrill Kelly    |OP          |  3| 15.333|  5| 2.935|     22| 1.435| 15|  0|  0| 
-|Roansy Contreras |OP          |  3| 15.000| 10| 6.000|     26| 1.733| 11|  1|  0| 
-|A.J. Minter      |PITCH BENCH |  8|  8.000|  2| 2.250|      7| 0.875|  7|  1|  3| 
-|Alex Vesia       |PITCH BENCH |  6|  4.667|  4| 7.714|     13| 2.786|  5|  0|  0| 
-|MacKenzie Gore   |PITCH BENCH |  3| 15.000|  5| 3.000|     22| 1.467| 18|  2|  0| 
+|players          |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
+|:----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
+|Alek Manoah      |SP          |  4| 19.333| 15|  6.983|     38| 1.966| 16|  1|  0| 
+|Brandon Woodruff |SP          |  2| 11.333|  1|  0.794|     10| 0.882| 12|  1|  0| 
+|Corbin Burnes    |SP          |  4| 22.667| 12|  4.765|     24| 1.059| 17|  2|  0| 
+|Cristian Javier  |SP          |  4| 22.000|  9|  3.682|     25| 1.136| 19|  2|  0| 
+|Kevin Gausman    |SP          |  4| 24.667| 10|  3.649|     29| 1.176| 30|  1|  0| 
+|Zac Gallen       |SP          |  4| 24.333|  9|  3.329|     23| 0.945| 28|  2|  0| 
+|Camilo Doval     |RP          |  5|  5.667|  2|  3.176|      7| 1.235|  8|  0|  1| 
+|Scott Barlow     |RP          |  6|  5.667|  4|  6.353|      9| 1.588|  6|  0|  1| 
+|Cal Quantrill    |OP          |  3| 15.667| 10|  5.745|     26| 1.660|  9|  0|  0| 
+|Craig Kimbrel    |OP          |  7|  6.000|  5|  7.500|     13| 2.167|  6|  0|  1| 
+|Logan Webb       |OP          |  4| 23.667| 13|  4.944|     29| 1.225| 28|  0|  0| 
+|Merrill Kelly    |OP          |  4| 21.333|  6|  2.531|     27| 1.266| 18|  1|  0| 
+|Roansy Contreras |OP          |  3| 15.000| 10|  6.000|     26| 1.733| 11|  1|  0| 
+|A.J. Minter      |PITCH BENCH |  9|  9.000|  2|  2.000|      7| 0.778|  8|  1|  4| 
+|Alex Vesia       |PITCH BENCH |  7|  5.000|  7| 12.600|     17| 3.400|  6|  0|  0| 
+|MacKenzie Gore   |PITCH BENCH |  3| 15.000|  5|  3.000|     22| 1.467| 18|  2|  0| 
 
 
 * * *

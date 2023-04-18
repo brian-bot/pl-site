@@ -5,11 +5,11 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras |C         |     20|  1|   3|  0|  0| 
-|Freddie Freeman   |1B        |     29| 12|   3|  1|  0| 
-|Jonathan India    |2B        |     28| 15|   7|  1|  3| 
+|William Contreras |C         |     22|  1|   4|  0|  0| 
+|Freddie Freeman   |1B        |     32| 14|   6|  3|  0| 
+|Jonathan India    |2B        |     30| 16|   7|  1|  3| 
 |Jose Ramirez      |3B        |     30|  8|   9|  1|  4| 
-|Bo Bichette       |SS        |     30| 11|  11|  4|  0| 
+|Bo Bichette       |SS        |     31| 11|  11|  4|  0| 
 |Amed Rosario      |MI        |     19|  7|   4|  1|  3| 
 |Gunnar Henderson  |CI        |     22| 12|   2|  1|  1| 
 |Byron Buxton      |OF        |     18| 10|   5|  2|  0| 
@@ -17,11 +17,11 @@
 |Luis Robert Jr.   |OF        |     19| 10|  11|  5|  0| 
 |Ramon Laureano    |OF        |     18|  5|   4|  2|  2| 
 |Adam Duvall       |DH        |     19| 11|  14|  4|  0| 
-|Elehuris Montero  |DH        |     15|  7|   5|  1|  0| 
-|Ezequiel Tovar    |DH        |     13|  6|   4|  0|  0| 
+|Elehuris Montero  |DH        |     16|  7|   5|  1|  0| 
+|Ezequiel Tovar    |DH        |     14|  6|   4|  0|  0| 
 |Gabriel Moreno    |DH        |      9|  0|   5|  0|  0| 
 |Dylan Carlson     |BAT BENCH |      8|  4|   0|  0|  0| 
-|Jean Segura       |BAT BENCH |     13|  4|   1|  0|  2| 
+|Jean Segura       |BAT BENCH |     14|  5|   1|  0|  2| 
 |Yoan Moncada      |BAT BENCH |     13|  4|   5|  2|  0| 
 
 
