@@ -5,23 +5,23 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Cal Raleigh         |C         |     20|  6|  10|  2|  0| 
-|Christian Walker    |1B        |     15|  5|   9|  2|  0| 
-|Whit Merrifield     |2B        |     16|  5|   6|  0|  2| 
+|Cal Raleigh         |C         |     22|  7|  12|  2|  0| 
+|Christian Walker    |1B        |     17|  6|  10|  2|  0| 
+|Whit Merrifield     |2B        |     18|  6|   6|  0|  2| 
 |Nolan Arenado       |3B        |     28|  8|  13|  2|  0| 
-|Dansby Swanson      |SS        |     28| 12|   5|  0|  3| 
-|Jeff McNeil         |MI        |     28|  5|   6|  0|  1| 
-|C.J. Cron           |CI        |     17|  7|   8|  4|  0| 
-|Alex Verdugo        |OF        |     28| 13|   6|  1|  1| 
-|Jake McCarthy       |OF        |     14|  5|   2|  0|  2| 
-|Teoscar Hernandez   |OF        |     21|  5|   9|  3|  1| 
-|Yordan Alvarez      |OF        |     26| 11|  20|  4|  0| 
-|Alec Bohm           |DH        |     29|  9|  14|  3|  0| 
+|Dansby Swanson      |SS        |     29| 12|   5|  0|  3| 
+|Jeff McNeil         |MI        |     29|  5|   6|  0|  1| 
+|C.J. Cron           |CI        |     18|  8|   8|  4|  0| 
+|Alex Verdugo        |OF        |     32| 14|   7|  1|  1| 
+|Jake McCarthy       |OF        |     14|  6|   2|  0|  2| 
+|Teoscar Hernandez   |OF        |     21|  5|  10|  3|  1| 
+|Yordan Alvarez      |OF        |     28| 11|  21|  4|  0| 
+|Alec Bohm           |DH        |     32|  9|  16|  3|  1| 
 |Jesse Winker        |DH        |     14|  5|   9|  0|  0| 
-|Oscar Gonzalez      |DH        |      7|  4|   0|  0|  0| 
-|Ty France           |DH        |     33| 15|  12|  1|  1| 
-|Ha-Seong Kim        |BAT BENCH |     17|  4|   4|  2|  1| 
-|Lourdes Gurriel Jr. |BAT BENCH |     16|  6|   8|  1|  0| 
+|Oscar Gonzalez      |DH        |      9|  5|   2|  1|  0| 
+|Ty France           |DH        |     34| 16|  13|  1|  1| 
+|Ha-Seong Kim        |BAT BENCH |     18|  4|   4|  2|  1| 
+|Lourdes Gurriel Jr. |BAT BENCH |     19|  7|   8|  1|  0| 
 
 
 * * *
@@ -40,7 +40,7 @@
 |Camilo Doval     |RP          |  5|  5.667|  2|  3.176|      7| 1.235|  8|  0|  1| 
 |Scott Barlow     |RP          |  6|  5.667|  4|  6.353|      9| 1.588|  6|  0|  1| 
 |Cal Quantrill    |OP          |  3| 15.667| 10|  5.745|     26| 1.660|  9|  0|  0| 
-|Craig Kimbrel    |OP          |  7|  6.000|  5|  7.500|     13| 2.167|  6|  0|  1| 
+|Craig Kimbrel    |OP          |  8|  7.000|  5|  6.429|     13| 1.857|  8|  0|  1| 
 |Logan Webb       |OP          |  4| 23.667| 13|  4.944|     29| 1.225| 28|  0|  0| 
 |Merrill Kelly    |OP          |  4| 21.333|  6|  2.531|     27| 1.266| 18|  1|  0| 
 |Roansy Contreras |OP          |  3| 15.000| 10|  6.000|     26| 1.733| 11|  1|  0| 
