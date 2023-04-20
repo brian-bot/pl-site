@@ -5,20 +5,20 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto    |C         |     17|  6|   6|  2|  1| 
-|Rowdy Tellez     |1B        |     22| 10|  12|  5|  0| 
+|J.T. Realmuto    |C         |     19|  6|   6|  2|  1| 
+|Rowdy Tellez     |1B        |     23| 10|  14|  5|  0| 
 |Mookie Betts     |2B        |     30| 13|   6|  2|  0| 
-|Austin Riley     |3B        |     31| 12|  11|  4|  0| 
+|Austin Riley     |3B        |     32| 12|  11|  4|  0| 
 |Corey Seager     |SS        |     23|  7|   4|  1|  0| 
-|Brandon Lowe     |MI        |     23| 14|  12|  5|  1| 
-|Triston Casas    |CI        |     13|  4|   7|  2|  0| 
-|Hunter Renfroe   |OF        |     26| 10|  16|  4|  0| 
-|Juan Soto        |OF        |     30| 11|   8|  3|  1| 
-|Kris Bryant      |OF        |     28|  9|   6|  3|  0| 
+|Brandon Lowe     |MI        |     25| 15|  13|  5|  1| 
+|Triston Casas    |CI        |     15|  5|   7|  2|  0| 
+|Hunter Renfroe   |OF        |     28| 11|  16|  4|  0| 
+|Juan Soto        |OF        |     32| 12|   9|  4|  1| 
+|Kris Bryant      |OF        |     30| 10|   6|  3|  0| 
 |Lars Nootbaar    |OF        |     13|  4|   3|  1|  1| 
-|Cody Bellinger   |DH        |     25| 12|  11|  3|  3| 
+|Cody Bellinger   |DH        |     26| 14|  12|  3|  3| 
 |Garrett Mitchell |DH        |     19|  9|   6|  3|  1| 
-|Miguel Vargas    |DH        |     23|  7|   3|  0|  0| 
+|Miguel Vargas    |DH        |     24|  7|   3|  0|  0| 
 |Wil Myers        |DH        |     22|  8|   9|  2|  1| 
 |Seth Brown       |BAT BENCH |      8|  2|   2|  1|  1| 
 
@@ -39,8 +39,8 @@
 |David Peterson       |OP          |  4| 20.667| 14|  6.097|     34| 1.645| 22|  1|  0| 
 |Mitch Keller         |OP          |  4| 23.667| 10|  3.803|     32| 1.352| 25|  1|  0| 
 |Nathan Eovaldi       |OP          |  4| 21.667| 13|  5.400|     32| 1.477| 24|  2|  0| 
-|Nick Martinez        |OP          |  3| 17.667| 11|  5.604|     25| 1.415| 11|  0|  0| 
-|Alex Lange           |PITCH BENCH |  8|  7.667|  2|  2.348|      9| 1.174|  5|  1|  1| 
+|Nick Martinez        |OP          |  4| 24.667| 11|  4.014|     30| 1.216| 17|  1|  0| 
+|Alex Lange           |PITCH BENCH |  9|  8.667|  2|  2.077|     10| 1.154|  7|  1|  1| 
 |Grayson Rodriguez    |PITCH BENCH |  3| 14.333| 11|  6.907|     23| 1.605| 19|  0|  0| 
 
 
