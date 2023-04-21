@@ -5,48 +5,47 @@
  
 |players        |position  | hitsbb|  r| rbi| hr| sb| 
 |:--------------|:---------|------:|--:|---:|--:|--:| 
-|Danny Jansen   |C         |      7|  1|   4|  0|  0| 
-|Anthony Rizzo  |1B        |     30|  8|   9|  4|  0| 
-|Gleyber Torres |2B        |     28|  9|   7|  2|  5| 
-|Max Muncy      |3B        |     30| 12|  15|  7|  0| 
-|Willy Adames   |SS        |     31| 14|  12|  4|  2| 
-|Ryan McMahon   |MI        |     23|  6|   9|  3|  1| 
-|Yandy Diaz     |CI        |     30| 16|  13|  6|  0| 
-|Adolis Garcia  |OF        |     19| 12|  19|  4|  1| 
-|Cedric Mullins |OF        |     29|  9|  15|  2|  9| 
-|Kyle Schwarber |OF        |     26| 12|   9|  4|  0| 
-|Tyler O'Neill  |OF        |     21| 10|   4|  2|  1| 
-|Darick Hall    |DH        |      5|  1|   1|  0|  0| 
-|Isaac Paredes  |DH        |     20|  9|  11|  3|  0| 
-|Joey Meneses   |DH        |     20|  5|   4|  0|  0| 
-|Jose Siri      |DH        |      8|  5|   8|  2|  1| 
-|Brandon Drury  |BAT BENCH |     13|  3|   5|  1|  0| 
-|Jake Fraley    |BAT BENCH |     21|  4|  10|  1|  2| 
+|Logan O'Hoppe  |C         |      3|  0|   2|  0|  0| 
+|Anthony Rizzo  |1B        |      5|  2|   1|  0|  0| 
+|Gleyber Torres |2B        |      2|  1|   0|  0|  0| 
+|Max Muncy      |3B        |      3|  1|   1|  1|  1| 
+|Willy Adames   |SS        |     **| **|  **| **| **| 
+|Ryan McMahon   |MI        |      1|  1|   0|  0|  0| 
+|Yandy Diaz     |CI        |     **| **|  **| **| **| 
+|Adolis Garcia  |OF        |     **| **|  **| **| **| 
+|Cedric Mullins |OF        |     **| **|  **| **| **| 
+|Kyle Schwarber |OF        |      1|  0|   0|  0|  0| 
+|Tyler O'Neill  |OF        |     **| **|  **| **| **| 
+|David Villar   |DH        |     **| **|  **| **| **| 
+|Isaac Paredes  |DH        |     **| **|  **| **| **| 
+|James Outman   |DH        |      2|  2|   5|  2|  0| 
+|Patrick Wisdom |DH        |      0|  0|   0|  0|  0| 
+|Chas McCormick |BAT BENCH |     **| **|  **| **| **| 
+|Joey Meneses   |BAT BENCH |     **| **|  **| **| **| 
+|Jose Siri      |BAT BENCH |     **| **|  **| **| **| 
+|Taylor Walls   |BAT BENCH |     **| **|  **| **| **| 
 
 * * *
 
 ### Pitchers
 
  
-|players         |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
-|:---------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Gerrit Cole     |SP          |  4| 28.333|  3| 0.953|     21| 0.741| 32|  4|  0| 
-|Jacob deGrom    |SP          |  4| 20.667|  8| 3.484|     18| 0.871| 32|  1|  0| 
-|Jeffrey Springs |SP          |  3| 16.000|  1| 0.562|      8| 0.500| 24|  2|  0| 
-|Joe Ryan        |SP          |  4| 25.000|  9| 3.240|     19| 0.760| 29|  4|  0| 
-|Spencer Strider |SP          |  4| 22.000|  6| 2.455|     23| 1.045| 36|  2|  0| 
-|Zach Eflin      |SP          |  2| 11.000|  4| 3.273|     13| 1.182| 12|  2|  0| 
-|Paul Sewald     |RP          | 10| 10.000|  3| 2.700|      8| 0.800| 13|  1|  4| 
-|Pete Fairbanks  |RP          |  5|  5.000|  0| 0.000|      5| 1.000|  3|  0|  2| 
-|Alex Wood       |OP          |  3| 10.000|  2| 1.800|     14| 1.400| 11|  0|  0| 
-|Evan Phillips   |OP          |  8|  7.000|  3| 3.857|      8| 1.143|  8|  0|  2| 
-|Hayden Wesneski |OP          |  3| 13.000|  9| 6.231|     23| 1.769| 11|  1|  0| 
-|Matthew Boyd    |OP          |  3| 14.000|  7| 4.500|     21| 1.500| 11|  0|  0| 
-|Scott McGough   |OP          |  8|  6.000|  5| 7.500|      9| 1.500|  7|  0|  1| 
-|Charlie Morton  |PITCH BENCH |  4| 22.333|  8| 3.224|     36| 1.612| 17|  2|  0| 
-|Dylan Dodd      |PITCH BENCH |  2|  9.333|  8| 7.714|     17| 1.821|  6|  1|  0| 
-|Jared Shuster   |PITCH BENCH |  2|  8.667|  8| 8.308|     21| 2.423|  5|  0|  0| 
-|Jason Adam      |PITCH BENCH |  7|  6.333|  1| 1.421|      6| 0.947|  5|  0|  0| 
+|players         |position    |  g|    ip| er|   era| hitsbb|  whip| so|  w| sv| 
+|:---------------|:-----------|--:|-----:|--:|-----:|------:|-----:|--:|--:|--:| 
+|Gerrit Cole     |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Jacob deGrom    |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Joe Ryan        |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Matt Strahm     |SP          |  1| 5.333|  3| 5.062|      5| 0.938| 11|  0|  0| 
+|Spencer Strider |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Zach Eflin      |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Paul Sewald     |RP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Pete Fairbanks  |RP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Braxton Garrett |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Evan Phillips   |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Hayden Wesneski |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Jose Alvarado   |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Mason Miller    |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Charlie Morton  |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
 
 
 * * *
