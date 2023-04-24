@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Willson Contreras |C         |      3|  2|   1|  0|  0| 
-|Ryan Mountcastle  |1B        |      2|  2|   0|  0|  0| 
-|Josh Rojas        |2B        |      4|  2|   3|  0|  0| 
-|Rafael Devers     |3B        |      3|  2|   3|  1|  0| 
+|Willson Contreras |C         |      5|  2|   1|  0|  0| 
+|Ryan Mountcastle  |1B        |      3|  2|   0|  0|  0| 
+|Josh Rojas        |2B        |      5|  2|   3|  0|  0| 
+|Rafael Devers     |3B        |      4|  3|   4|  1|  0| 
 |Andres Gimenez    |SS        |      1|  0|   0|  0|  0| 
-|Nico Hoerner      |MI        |      7|  3|   7|  2|  0| 
-|Ke'Bryan Hayes    |CI        |      3|  2|   0|  0|  0| 
-|Kyle Tucker       |OF        |      1|  1|   2|  1|  0| 
-|Michael Conforto  |OF        |      2|  2|   1|  0|  0| 
-|Mike Trout        |OF        |      3|  1|   3|  1|  0| 
-|Randy Arozarena   |OF        |      5|  2|   4|  1|  0| 
-|Joc Pederson      |DH        |     **| **|  **| **| **| 
+|Nico Hoerner      |MI        |      8|  4|   7|  2|  0| 
+|Ke'Bryan Hayes    |CI        |      4|  3|   0|  0|  0| 
+|Kyle Tucker       |OF        |      4|  2|   2|  1|  1| 
+|Michael Conforto  |OF        |      3|  2|   1|  0|  0| 
+|Mike Trout        |OF        |      6|  2|   4|  2|  0| 
+|Randy Arozarena   |OF        |      7|  2|   4|  1|  0| 
+|Joc Pederson      |DH        |      2|  1|   1|  0|  0| 
 |Lane Thomas       |DH        |      2|  2|   1|  0|  0| 
-|Shea Langeliers   |DH        |      3|  0|   0|  0|  0| 
-|Thairo Estrada    |DH        |      5|  3|   0|  0|  2| 
+|Shea Langeliers   |DH        |      4|  1|   2|  1|  0| 
+|Thairo Estrada    |DH        |      7|  5|   1|  1|  2| 
 |Brent Rooker      |BAT BENCH |      5|  1|   0|  0|  0| 
 |Michael Harris II |BAT BENCH |     **| **|  **| **| **| 
 |Tim Anderson      |BAT BENCH |     **| **|  **| **| **| 
@@ -37,15 +37,15 @@
 |Julio Urias    |SP          |  1| 3.333|  5| 13.500|      9| 2.700|  4|  0|  0| 
 |Logan Gilbert  |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Nick Lodolo    |SP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Carlos Estevez |RP          |  1| 1.000|  0|  0.000|      0| 0.000|  1|  0|  0| 
-|David Bednar   |RP          |  2| 2.000|  0|  0.000|      0| 0.000|  2|  0|  2| 
+|Carlos Estevez |RP          |  2| 2.000|  0|  0.000|      0| 0.000|  1|  0|  1| 
+|David Bednar   |RP          |  3| 3.000|  0|  0.000|      1| 0.333|  4|  0|  3| 
 |Adam Ottavino  |OP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Drey Jameson   |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Drey Jameson   |OP          |  1| 1.000|  3| 27.000|      6| 6.000|  1|  0|  0| 
 |Luis Garcia    |OP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Reid Detmers   |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Reid Detmers   |OP          |  1| 5.667|  2|  3.176|      8| 1.412|  6|  0|  0| 
 |Taijuan Walker |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Tanner Houck   |PITCH BENCH |  1| 7.000|  3|  3.857|      7| 1.000|  7|  1|  0| 
-|Tylor Megill   |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Tylor Megill   |PITCH BENCH |  1| 4.000|  4|  9.000|      7| 1.750|  2|  0|  0| 
 
 
 * * *
