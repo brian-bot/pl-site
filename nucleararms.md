@@ -6,23 +6,23 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith        |C         |     **| **|  **| **| **| 
-|Paul Goldschmidt  |1B        |      2|  2|   0|  0|  0| 
-|Ozzie Albies      |2B        |      5|  2|   4|  1|  0| 
+|Paul Goldschmidt  |1B        |      3|  2|   0|  0|  0| 
+|Ozzie Albies      |2B        |      7|  2|   7|  1|  0| 
 |Eugenio Suarez    |3B        |      4|  1|   2|  0|  0| 
 |Francisco Lindor  |SS        |      4|  3|   1|  0|  0| 
-|Wander Franco     |MI        |      5|  0|   0|  0|  1| 
-|Andrew Vaughn     |CI        |      2|  1|   0|  0|  0| 
-|Andrew Benintendi |OF        |      6|  1|   1|  0|  0| 
+|Wander Franco     |MI        |      9|  2|   1|  0|  2| 
+|Andrew Vaughn     |CI        |      3|  1|   2|  0|  0| 
+|Andrew Benintendi |OF        |      9|  2|   1|  0|  0| 
 |George Springer   |OF        |      3|  1|   0|  0|  0| 
-|Joey Gallo        |OF        |      5|  2|   1|  1|  0| 
+|Joey Gallo        |OF        |      7|  3|   2|  2|  0| 
 |Starling Marte    |OF        |      3|  1|   1|  0|  0| 
-|Anthony Rendon    |DH        |      1|  0|   0|  0|  0| 
+|Anthony Rendon    |DH        |      3|  1|   2|  0|  0| 
 |Garrett Cooper    |DH        |      1|  0|   1|  0|  0| 
-|Ketel Marte       |DH        |      5|  3|   2|  0|  0| 
-|Shohei Ohtani     |DH        |      4|  1|   2|  1|  0| 
+|Ketel Marte       |DH        |      7|  3|   2|  0|  0| 
+|Shohei Ohtani     |DH        |      5|  2|   2|  1|  0| 
 |Francisco Alvarez |BAT BENCH |      1|  1|   1|  1|  0| 
 |Josh Donaldson    |BAT BENCH |     **| **|  **| **| **| 
-|Jurickson Profar  |BAT BENCH |      6|  2|   1|  0|  0| 
+|Jurickson Profar  |BAT BENCH |      8|  3|   4|  1|  0| 
 
 
 * * *
@@ -34,7 +34,7 @@
 |:-----------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
 |Domingo German    |SP          |  1| 6.000|  4|  6.000|      7| 1.167|  6|  0|  0| 
 |Jesus Luzardo     |SP          |  1| 4.333|  4|  8.308|      9| 2.077|  6|  0|  0| 
-|Jordan Montgomery |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Jordan Montgomery |SP          |  1| 6.000|  0|  0.000|      6| 1.000|  6|  0|  0| 
 |Jose Berrios      |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Nestor Cortes     |SP          |  1| 6.000|  3|  4.500|      6| 1.000|  7|  1|  0| 
 |Shohei Ohtani     |SP          |  1| 7.000|  0|  0.000|      4| 0.571| 11|  1|  0| 

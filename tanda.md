@@ -5,24 +5,24 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez     |C         |      3|  2|   0|  0|  0| 
-|Matt Olson         |1B        |      3|  1|   0|  0|  0| 
+|Salvador Perez     |C         |      6|  2|   2|  0|  0| 
+|Matt Olson         |1B        |      6|  3|   0|  0|  0| 
 |Jazz Chisholm Jr.  |2B        |      1|  0|   0|  0|  1| 
-|Matt Chapman       |3B        |      4|  1|   0|  0|  0| 
+|Matt Chapman       |3B        |      5|  1|   1|  0|  0| 
 |Fernando Tatis Jr. |SS        |      4|  2|   1|  1|  0| 
-|Jeremy Pena        |MI        |      3|  1|   0|  0|  1| 
-|Jose Abreu         |CI        |      3|  1|   1|  0|  0| 
+|Jeremy Pena        |MI        |      4|  2|   1|  1|  1| 
+|Jose Abreu         |CI        |      4|  1|   1|  0|  0| 
 |Daulton Varsho     |OF        |      3|  2|   1|  1|  1| 
-|Esteury Ruiz       |OF        |      2|  1|   1|  0|  0| 
+|Esteury Ruiz       |OF        |      3|  1|   1|  0|  0| 
 |Jorge Soler        |OF        |      6|  2|   0|  0|  0| 
-|Ronald Acuna Jr.   |OF        |      6|  2|   0|  0|  4| 
-|Javier Baez        |DH        |      2|  0|   1|  0|  2| 
+|Ronald Acuna Jr.   |OF        |      7|  2|   0|  0|  4| 
+|Javier Baez        |DH        |      5|  1|   1|  0|  2| 
 |Jordan Walker      |DH        |      3|  0|   2|  0|  0| 
-|Masataka Yoshida   |DH        |      7|  3|   9|  2|  0| 
-|Zach Neto          |DH        |      6|  1|   1|  0|  0| 
+|Masataka Yoshida   |DH        |     11|  3|   9|  2|  0| 
+|Zach Neto          |DH        |      9|  1|   3|  0|  0| 
 |Bryan De La Cruz   |BAT BENCH |      7|  3|   1|  1|  1| 
 |Giancarlo Stanton  |BAT BENCH |     **| **|  **| **| **| 
-|Myles Straw        |BAT BENCH |      1|  1|   0|  0|  0| 
+|Myles Straw        |BAT BENCH |      2|  1|   0|  0|  0| 
 
 
 * * *
@@ -38,13 +38,13 @@
 |Hunter Greene      |SP          |  1| 6.000|  1|  1.500|      6| 1.000|  6|  0|  0| 
 |Patrick Sandoval   |SP          |  1| 4.000|  5| 11.250|     10| 2.500|  5|  0|  0| 
 |Yu Darvish         |SP          |  1| 5.667|  1|  1.588|      7| 1.235|  5|  1|  0| 
-|Alexis Diaz        |RP          |  1| 0.667|  0|  0.000|      0| 0.000|  1|  0|  0| 
+|Alexis Diaz        |RP          |  2| 1.667|  0|  0.000|      0| 0.000|  2|  1|  0| 
 |David Robertson    |RP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Andrew Heaney      |OP          |  1| 6.000|  2|  3.000|      7| 1.167|  4|  1|  0| 
 |Anthony DeSclafani |OP          |  1| 5.000|  4|  7.200|      9| 1.800|  5|  0|  0| 
-|Edward Cabrera     |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Edward Cabrera     |OP          |  1| 4.333|  4|  8.308|      8| 1.846|  6|  0|  0| 
 |Jack Flaherty      |OP          |  1| 6.000|  3|  4.500|      7| 1.167|  9|  1|  0| 
-|Jose Urquidy       |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Jose Urquidy       |OP          |  1| 2.667|  6| 20.250|      9| 3.375|  3|  0|  0| 
 |Daniel Bard        |PITCH BENCH |  1| 1.000|  0|  0.000|      1| 1.000|  2|  0|  0| 
 |Miles Mikolas      |PITCH BENCH |  1| 5.333|  3|  5.062|      7| 1.312|  4|  0|  0| 
 |Trevor Rogers      |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
