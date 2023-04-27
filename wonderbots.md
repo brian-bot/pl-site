@@ -5,21 +5,21 @@
  
 |players               |position | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:--------|------:|--:|---:|--:|--:| 
-|Alejandro Kirk        |C        |      7|  2|   0|  0|  0| 
-|Vladimir Guerrero Jr. |1B       |      8|  4|   4|  2|  1| 
-|Marcus Semien         |2B       |     10|  4|   4|  1|  1| 
-|Manny Machado         |3B       |      2|  1|   0|  0|  0| 
-|Xander Bogaerts       |SS       |      9|  5|   2|  1|  0| 
-|J.P. Crawford         |MI       |      6|  2|   1|  0|  1| 
+|Alejandro Kirk        |C        |      8|  2|   0|  0|  0| 
+|Vladimir Guerrero Jr. |1B       |     10|  5|   6|  2|  1| 
+|Marcus Semien         |2B       |     11|  5|   4|  1|  1| 
+|Manny Machado         |3B       |      3|  1|   0|  0|  0| 
+|Xander Bogaerts       |SS       |     10|  6|   2|  1|  0| 
+|J.P. Crawford         |MI       |      9|  3|   5|  1|  1| 
 |Luis Arraez           |CI       |      6|  1|   2|  0|  0| 
-|Anthony Santander     |OF       |      5|  2|   1|  0|  0| 
-|Ian Happ              |OF       |      6|  2|   0|  0|  1| 
-|Nick Castellanos      |OF       |      8|  4|   2|  2|  0| 
-|Steven Kwan           |OF       |      8|  2|   1|  0|  1| 
+|Anthony Santander     |OF       |      5|  2|   3|  0|  0| 
+|Ian Happ              |OF       |      7|  2|   0|  0|  1| 
+|Nick Castellanos      |OF       |     11|  6|   5|  3|  0| 
+|Steven Kwan           |OF       |     10|  2|   1|  0|  2| 
 |Austin Hays           |DH       |      4|  1|   2|  1|  0| 
 |Harold Ramirez        |DH       |      9|  4|   4|  2|  0| 
 |Josh Bell             |DH       |      9|  1|   3|  1|  0| 
-|Justin Turner         |DH       |     11|  4|   2|  1|  0| 
+|Justin Turner         |DH       |     13|  4|   3|  1|  0| 
 
 
 * * *
@@ -27,22 +27,22 @@
 ### Pitchers
 
  
-|players          |position    |  g|    ip| er|    era| hitsbb|  whip| so|  w| sv| 
-|:----------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
-|Aaron Nola       |SP          |  1| 7.000|  3|  3.857|      7| 1.000|  3|  0|  0| 
-|Brady Singer     |SP          |  1| 6.000|  1|  1.500|      5| 0.833|  5|  1|  0| 
-|Jordan Lyles     |SP          |  1| 6.000|  4|  6.000|      5| 0.833|  5|  0|  0| 
-|Lucas Giolito    |SP          |  1| 7.000|  4|  5.143|      7| 1.000|  5|  0|  0| 
-|Luis Castillo    |SP          |  1| 5.000|  3|  5.400|      9| 1.800|  8|  0|  0| 
-|Pablo Lopez      |SP          |  1| 4.000|  5| 11.250|     10| 2.500|  6|  0|  0| 
-|Andres Munoz     |RP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Jose Leclerc     |RP          |  2| 1.667|  0|  0.000|      4| 2.400|  3|  0|  0| 
-|Alex Cobb        |OP          |  1| 9.000|  0|  0.000|      7| 0.778|  4|  1|  0| 
-|Jameson Taillon  |OP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Noah Syndergaard |OP          |  1| 4.000|  7| 15.750|      9| 2.250|  2|  0|  0| 
-|Tyler Anderson   |OP          |  1| 5.333|  5|  8.438|      7| 1.312|  1|  0|  0| 
-|Yusei Kikuchi    |OP          |  1| 6.000|  1|  1.500|      6| 1.000|  3|  1|  0| 
-|Robbie Ray       |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|players          |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
+|:----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
+|Aaron Nola       |SP          |  1|  7.000|  3|  3.857|      7| 1.000|  3|  0|  0| 
+|Brady Singer     |SP          |  1|  6.000|  1|  1.500|      5| 0.833|  5|  1|  0| 
+|Jordan Lyles     |SP          |  1|  6.000|  4|  6.000|      5| 0.833|  5|  0|  0| 
+|Lucas Giolito    |SP          |  1|  7.000|  4|  5.143|      7| 1.000|  5|  0|  0| 
+|Luis Castillo    |SP          |  1|  5.000|  3|  5.400|      9| 1.800|  8|  0|  0| 
+|Pablo Lopez      |SP          |  1|  4.000|  5| 11.250|     10| 2.500|  6|  0|  0| 
+|Andres Munoz     |RP          | **|     **| **|     **|     **|    **| **| **| **| 
+|Jose Leclerc     |RP          |  2|  1.667|  0|  0.000|      4| 2.400|  3|  0|  0| 
+|Alex Cobb        |OP          |  1|  9.000|  0|  0.000|      7| 0.778|  4|  1|  0| 
+|Jameson Taillon  |OP          | **|     **| **|     **|     **|    **| **| **| **| 
+|Noah Syndergaard |OP          |  1|  4.000|  7| 15.750|      9| 2.250|  2|  0|  0| 
+|Tyler Anderson   |OP          |  1|  5.333|  5|  8.438|      7| 1.312|  1|  0|  0| 
+|Yusei Kikuchi    |OP          |  2| 11.667|  1|  0.771|     11| 0.943| 11|  2|  0| 
+|Robbie Ray       |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 
 
 * * *
