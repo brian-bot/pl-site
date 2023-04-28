@@ -7,14 +7,14 @@
 |:---------------------|:--------|------:|--:|---:|--:|--:| 
 |Alejandro Kirk        |C        |      8|  2|   0|  0|  0| 
 |Vladimir Guerrero Jr. |1B       |     10|  5|   6|  2|  1| 
-|Marcus Semien         |2B       |     11|  5|   4|  1|  1| 
-|Manny Machado         |3B       |      3|  1|   0|  0|  0| 
-|Xander Bogaerts       |SS       |     10|  6|   2|  1|  0| 
+|Marcus Semien         |2B       |     13|  6|   4|  1|  1| 
+|Manny Machado         |3B       |      5|  2|   1|  1|  0| 
+|Xander Bogaerts       |SS       |     11|  6|   2|  1|  0| 
 |J.P. Crawford         |MI       |      9|  3|   5|  1|  1| 
-|Luis Arraez           |CI       |      6|  1|   2|  0|  0| 
-|Anthony Santander     |OF       |      5|  2|   3|  0|  0| 
-|Ian Happ              |OF       |      7|  2|   0|  0|  1| 
-|Nick Castellanos      |OF       |     11|  6|   5|  3|  0| 
+|Luis Arraez           |CI       |      8|  2|   2|  0|  0| 
+|Anthony Santander     |OF       |      6|  3|   5|  1|  0| 
+|Ian Happ              |OF       |      9|  2|   1|  0|  1| 
+|Nick Castellanos      |OF       |     12|  7|   5|  3|  0| 
 |Steven Kwan           |OF       |     10|  2|   1|  0|  2| 
 |Austin Hays           |DH       |      4|  1|   2|  1|  0| 
 |Harold Ramirez        |DH       |      9|  4|   4|  2|  0| 
@@ -36,7 +36,7 @@
 |Luis Castillo    |SP          |  1|  5.000|  3|  5.400|      9| 1.800|  8|  0|  0| 
 |Pablo Lopez      |SP          |  1|  4.000|  5| 11.250|     10| 2.500|  6|  0|  0| 
 |Andres Munoz     |RP          | **|     **| **|     **|     **|    **| **| **| **| 
-|Jose Leclerc     |RP          |  2|  1.667|  0|  0.000|      4| 2.400|  3|  0|  0| 
+|Jose Leclerc     |RP          |  3|  2.667|  1|  3.375|      5| 1.875|  4|  0|  0| 
 |Alex Cobb        |OP          |  1|  9.000|  0|  0.000|      7| 0.778|  4|  1|  0| 
 |Jameson Taillon  |OP          | **|     **| **|     **|     **|    **| **| **| **| 
 |Noah Syndergaard |OP          |  1|  4.000|  7| 15.750|      9| 2.250|  2|  0|  0| 
