@@ -6,24 +6,24 @@
 |players        |position  | hitsbb|  r| rbi| hr| sb| 
 |:--------------|:---------|------:|--:|---:|--:|--:| 
 |Logan O'Hoppe  |C         |      3|  0|   2|  0|  0| 
-|Anthony Rizzo  |1B        |     13|  5|   4|  1|  0| 
+|Anthony Rizzo  |1B        |     14|  5|   4|  1|  0| 
 |Gleyber Torres |2B        |     11|  5|   3|  2|  0| 
-|Max Muncy      |3B        |     10|  5|   7|  4|  1| 
-|Willy Adames   |SS        |      9|  1|   2|  1|  0| 
-|Ryan McMahon   |MI        |      9|  4|   3|  1|  0| 
-|Yandy Diaz     |CI        |     15|  6|   3|  1|  0| 
+|Max Muncy      |3B        |     11|  5|   7|  4|  1| 
+|Willy Adames   |SS        |     10|  2|   3|  1|  0| 
+|Ryan McMahon   |MI        |     11|  6|   4|  1|  0| 
+|Yandy Diaz     |CI        |     17|  7|   3|  1|  0| 
 |Adolis Garcia  |OF        |     16|  9|  10|  3|  0| 
 |Cedric Mullins |OF        |     11|  4|   6|  1|  1| 
-|Kyle Schwarber |OF        |     11|  4|   3|  2|  0| 
+|Kyle Schwarber |OF        |     12|  4|   3|  2|  0| 
 |Tyler O'Neill  |OF        |      6|  1|   2|  0|  0| 
-|David Villar   |DH        |      4|  0|   1|  0|  0| 
-|Isaac Paredes  |DH        |     10|  6|   7|  1|  0| 
-|James Outman   |DH        |     10|  5|  10|  4|  0| 
-|Patrick Wisdom |DH        |      6|  4|   3|  1|  0| 
+|David Villar   |DH        |      5|  1|   2|  1|  0| 
+|Isaac Paredes  |DH        |     12|  7|   8|  1|  0| 
+|James Outman   |DH        |     12|  6|  10|  4|  1| 
+|Patrick Wisdom |DH        |      9|  5|   5|  2|  0| 
 |Chas McCormick |BAT BENCH |     **| **|  **| **| **| 
-|Joey Meneses   |BAT BENCH |     11|  2|   5|  1|  0| 
-|Jose Siri      |BAT BENCH |      1|  0|   0|  0|  0| 
-|Taylor Walls   |BAT BENCH |      4|  0|   0|  0|  1| 
+|Joey Meneses   |BAT BENCH |     13|  2|   5|  1|  0| 
+|Jose Siri      |BAT BENCH |      2|  1|   1|  0|  0| 
+|Taylor Walls   |BAT BENCH |      5|  0|   0|  0|  2| 
 
 * * *
 
@@ -38,10 +38,10 @@
 |Matt Strahm     |SP          |  2| 10.667|  3| 2.531|      7| 0.656| 16|  1|  0| 
 |Spencer Strider |SP          |  1|  8.000|  0| 0.000|      2| 0.250| 13|  1|  0| 
 |Zach Eflin      |SP          |  2| 10.000|  3| 2.700|     11| 1.100|  9|  1|  0| 
-|Paul Sewald     |RP          |  3|  3.000|  2| 6.000|      3| 1.000|  4|  0|  3| 
+|Paul Sewald     |RP          |  4|  4.000|  2| 4.500|      3| 0.750|  6|  0|  3| 
 |Pete Fairbanks  |RP          |  3|  2.667|  0| 0.000|      2| 0.750|  3|  0|  1| 
 |Braxton Garrett |OP          |  2|  8.667|  1| 1.038|      7| 0.808|  6|  1|  0| 
-|Evan Phillips   |OP          |  1|  1.000|  0| 0.000|      0| 0.000|  1|  0|  0| 
+|Evan Phillips   |OP          |  2|  2.000|  0| 0.000|      1| 0.500|  3|  0|  0| 
 |Hayden Wesneski |OP          |  2|  9.333|  4| 3.857|     11| 1.179|  4|  1|  0| 
 |Jose Alvarado   |OP          |  4|  4.000|  0| 0.000|      2| 0.500|  6|  0|  3| 
 |Mason Miller    |OP          |  1|  4.000|  4| 9.000|      6| 1.500|  6|  0|  0| 
