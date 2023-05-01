@@ -7,23 +7,23 @@
 |:--------------|:---------|------:|--:|---:|--:|--:| 
 |Logan O'Hoppe  |C         |      3|  0|   2|  0|  0| 
 |Anthony Rizzo  |1B        |     14|  5|   4|  1|  0| 
-|Gleyber Torres |2B        |     11|  5|   3|  2|  0| 
-|Max Muncy      |3B        |     11|  5|   7|  4|  1| 
-|Willy Adames   |SS        |     10|  2|   3|  1|  0| 
-|Ryan McMahon   |MI        |     11|  6|   4|  1|  0| 
+|Gleyber Torres |2B        |     12|  6|   3|  2|  0| 
+|Max Muncy      |3B        |     12|  6|   7|  4|  1| 
+|Willy Adames   |SS        |     11|  2|   3|  1|  0| 
+|Ryan McMahon   |MI        |     11|  6|   5|  1|  0| 
 |Yandy Diaz     |CI        |     17|  7|   3|  1|  0| 
-|Adolis Garcia  |OF        |     16|  9|  10|  3|  0| 
-|Cedric Mullins |OF        |     11|  4|   6|  1|  1| 
-|Kyle Schwarber |OF        |     12|  4|   3|  2|  0| 
+|Adolis Garcia  |OF        |     19| 12|  11|  4|  0| 
+|Cedric Mullins |OF        |     13|  4|   6|  1|  2| 
+|Kyle Schwarber |OF        |     15|  5|   3|  2|  0| 
 |Tyler O'Neill  |OF        |      6|  1|   2|  0|  0| 
 |David Villar   |DH        |      5|  1|   2|  1|  0| 
-|Isaac Paredes  |DH        |     12|  7|   8|  1|  0| 
-|James Outman   |DH        |     12|  6|  10|  4|  1| 
-|Patrick Wisdom |DH        |      9|  5|   5|  2|  0| 
+|Isaac Paredes  |DH        |     14|  8|   8|  1|  0| 
+|James Outman   |DH        |     14|  7|  10|  4|  2| 
+|Patrick Wisdom |DH        |     10|  5|   5|  2|  0| 
 |Chas McCormick |BAT BENCH |     **| **|  **| **| **| 
-|Joey Meneses   |BAT BENCH |     13|  2|   5|  1|  0| 
+|Joey Meneses   |BAT BENCH |     17|  3|   6|  1|  0| 
 |Jose Siri      |BAT BENCH |      2|  1|   1|  0|  0| 
-|Taylor Walls   |BAT BENCH |      5|  0|   0|  0|  2| 
+|Taylor Walls   |BAT BENCH |      9|  2|   2|  1|  4| 
 
 * * *
 
@@ -38,10 +38,10 @@
 |Matt Strahm     |SP          |  2| 10.667|  3| 2.531|      7| 0.656| 16|  1|  0| 
 |Spencer Strider |SP          |  1|  8.000|  0| 0.000|      2| 0.250| 13|  1|  0| 
 |Zach Eflin      |SP          |  2| 10.000|  3| 2.700|     11| 1.100|  9|  1|  0| 
-|Paul Sewald     |RP          |  4|  4.000|  2| 4.500|      3| 0.750|  6|  0|  3| 
+|Paul Sewald     |RP          |  5|  5.000|  2| 3.600|      5| 1.000|  6|  1|  3| 
 |Pete Fairbanks  |RP          |  3|  2.667|  0| 0.000|      2| 0.750|  3|  0|  1| 
 |Braxton Garrett |OP          |  2|  8.667|  1| 1.038|      7| 0.808|  6|  1|  0| 
-|Evan Phillips   |OP          |  2|  2.000|  0| 0.000|      1| 0.500|  3|  0|  0| 
+|Evan Phillips   |OP          |  3|  3.000|  0| 0.000|      2| 0.667|  4|  0|  1| 
 |Hayden Wesneski |OP          |  2|  9.333|  4| 3.857|     11| 1.179|  4|  1|  0| 
 |Jose Alvarado   |OP          |  4|  4.000|  0| 0.000|      2| 0.500|  6|  0|  3| 
 |Mason Miller    |OP          |  1|  4.000|  4| 9.000|      6| 1.500|  6|  0|  0| 

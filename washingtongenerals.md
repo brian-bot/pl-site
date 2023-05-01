@@ -5,22 +5,22 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Willson Contreras |C         |     10|  2|   2|  0|  0| 
-|Ryan Mountcastle  |1B        |     12|  5|   0|  0|  0| 
+|Willson Contreras |C         |     12|  3|   2|  0|  0| 
+|Ryan Mountcastle  |1B        |     14|  6|   1|  0|  0| 
 |Josh Rojas        |2B        |      8|  5|   9|  0|  1| 
-|Rafael Devers     |3B        |      9|  5|  10|  3|  0| 
-|Andres Gimenez    |SS        |      7|  3|   1|  1|  0| 
-|Nico Hoerner      |MI        |     14|  5|  13|  2|  1| 
+|Rafael Devers     |3B        |     10|  6|  10|  3|  0| 
+|Andres Gimenez    |SS        |      9|  3|   1|  1|  0| 
+|Nico Hoerner      |MI        |     15|  5|  13|  2|  1| 
 |Ke'Bryan Hayes    |CI        |     12|  8|   2|  0|  0| 
-|Kyle Tucker       |OF        |      9|  3|   4|  1|  1| 
-|Michael Conforto  |OF        |      8|  4|   2|  0|  0| 
+|Kyle Tucker       |OF        |     11|  3|   5|  1|  1| 
+|Michael Conforto  |OF        |      9|  5|   2|  0|  0| 
 |Mike Trout        |OF        |     15|  7|   9|  4|  0| 
-|Randy Arozarena   |OF        |     17|  7|  10|  3|  0| 
-|Joc Pederson      |DH        |      6|  3|   1|  0|  0| 
-|Lane Thomas       |DH        |      8|  4|   3|  0|  0| 
+|Randy Arozarena   |OF        |     18|  7|  10|  3|  0| 
+|Joc Pederson      |DH        |      7|  3|   1|  0|  0| 
+|Lane Thomas       |DH        |     10|  5|   3|  0|  0| 
 |Shea Langeliers   |DH        |     10|  5|   8|  3|  0| 
-|Thairo Estrada    |DH        |     17|  7|   4|  1|  5| 
-|Brent Rooker      |BAT BENCH |     20|  7|   9|  4|  0| 
+|Thairo Estrada    |DH        |     18|  7|   4|  1|  5| 
+|Brent Rooker      |BAT BENCH |     23|  9|  11|  5|  0| 
 |Michael Harris II |BAT BENCH |      0|  1|   0|  0|  0| 
 |Tim Anderson      |BAT BENCH |     **| **|  **| **| **| 
 
@@ -37,8 +37,8 @@
 |Jon Gray       |SP          |  2| 11.333|  6|  4.765|     17| 1.500|  4|  0|  0| 
 |Julio Urias    |SP          |  2|  9.000| 11| 11.000|     18| 2.000|  9|  0|  0| 
 |Logan Gilbert  |SP          |  1|  5.000|  4|  7.200|      8| 1.600|  6|  0|  0| 
-|Nick Lodolo    |SP          |  1|  4.000|  6| 13.500|     11| 2.750|  6|  0|  0| 
-|Carlos Estevez |RP          |  4|  4.667|  0|  0.000|      1| 0.214|  4|  0|  3| 
+|Nick Lodolo    |SP          |  2|  9.000|  9|  9.000|     16| 1.778| 13|  0|  0| 
+|Carlos Estevez |RP          |  5|  5.667|  0|  0.000|      1| 0.176|  6|  0|  4| 
 |David Bednar   |RP          |  5|  5.000|  0|  0.000|      1| 0.200|  7|  0|  4| 
 |Adam Ottavino  |OP          |  2|  2.000|  1|  4.500|      2| 1.000|  2|  0|  0| 
 |Drey Jameson   |OP          |  1|  1.000|  3| 27.000|      6| 6.000|  1|  0|  0| 
