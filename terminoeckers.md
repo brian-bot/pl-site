@@ -5,22 +5,22 @@
  
 |players        |position  | hitsbb|  r| rbi| hr| sb| 
 |:--------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto  |C         |     12|  4|   4|  1|  4| 
+|J.T. Realmuto  |C         |     13|  5|   4|  1|  4| 
 |Rowdy Tellez   |1B        |     10|  4|   6|  3|  0| 
-|Mookie Betts   |2B        |     12|  4|   5|  2|  1| 
-|Austin Riley   |3B        |      9|  5|   4|  1|  0| 
+|Mookie Betts   |2B        |     15|  6|   8|  3|  1| 
+|Austin Riley   |3B        |     10|  5|   4|  1|  0| 
 |Jon Berti      |SS        |     12|  6|   2|  1|  0| 
 |Brandon Lowe   |MI        |      8|  5|   5|  2|  0| 
-|J.D. Davis     |CI        |     11|  3|   4|  2|  0| 
-|Cody Bellinger |OF        |     13|  8|   6|  4|  1| 
+|J.D. Davis     |CI        |     13|  3|   4|  2|  0| 
+|Cody Bellinger |OF        |     15|  9|   6|  4|  2| 
 |Hunter Renfroe |OF        |     11|  9|   4|  3|  0| 
-|Juan Soto      |OF        |     15|  7|   2|  1|  0| 
+|Juan Soto      |OF        |     18|  7|   4|  1|  0| 
 |Lars Nootbaar  |OF        |     14|  4|   3|  1|  1| 
-|Brandon Marsh  |DH        |     15|  6|   3|  1|  0| 
+|Brandon Marsh  |DH        |     17|  6|   3|  1|  0| 
 |Jarred Kelenic |DH        |     12|  6|   5|  3|  2| 
 |Josh Lowe      |DH        |     12|  6|   5|  1|  2| 
 |Nolan Gorman   |DH        |     10|  1|   4|  1|  1| 
-|Brett Baty     |BAT BENCH |     11|  2|   2|  1|  0| 
+|Brett Baty     |BAT BENCH |     14|  4|   3|  2|  0| 
 |Corey Seager   |BAT BENCH |     **| **|  **| **| **| 
 
 * * *

@@ -5,18 +5,18 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Sean Murphy      |C         |      9|  6|   2|  2|  0| 
-|Pete Alonso      |1B        |      8|  5|  10|  2|  0| 
+|Sean Murphy      |C         |     14|  9|   8|  4|  0| 
+|Pete Alonso      |1B        |     10|  7|  13|  3|  0| 
 |Tommy Edman      |2B        |      8|  5|   3|  2|  2| 
-|Alex Bregman     |3B        |     15|  3|   5|  1|  0| 
-|Trea Turner      |SS        |      6|  1|   1|  1|  0| 
-|Anthony Volpe    |MI        |     14|  5|   6|  1|  0| 
+|Alex Bregman     |3B        |     16|  4|   6|  1|  0| 
+|Trea Turner      |SS        |      7|  2|   1|  1|  0| 
+|Anthony Volpe    |MI        |     15|  5|   6|  1|  0| 
 |Josh Jung        |CI        |     10|  6|  12|  3|  0| 
 |Bryan Reynolds   |OF        |     15|  5|   6|  0|  2| 
 |Christian Yelich |OF        |      9|  5|   4|  0|  1| 
 |Julio Rodriguez  |OF        |      9|  2|   1|  1|  2| 
 |Taylor Ward      |OF        |     13|  4|   3|  1|  0| 
-|Brandon Nimmo    |DH        |     11|  4|   3|  1|  0| 
+|Brandon Nimmo    |DH        |     13|  5|   3|  1|  0| 
 |Brendan Donovan  |DH        |      7|  0|   1|  0|  0| 
 |J.D. Martinez    |DH        |      4|  3|   1|  1|  0| 
 |Nathaniel Lowe   |DH        |     18|  9|   5|  2|  0| 
@@ -44,7 +44,7 @@
 |Jhoan Duran       |OP          |  5|  4.333|  1|  2.077|      5| 1.154|  5|  0|  2| 
 |Justin Steele     |OP          |  2| 11.333|  2|  1.588|     13| 1.147|  8|  1|  0| 
 |Aaron Civale      |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Corey Kluber      |PITCH BENCH |  1|  6.000|  1|  1.500|      5| 0.833|  3|  1|  0| 
+|Corey Kluber      |PITCH BENCH |  2| 11.333|  4|  3.176|     14| 1.235| 10|  1|  0| 
 |Max Scherzer      |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 
 

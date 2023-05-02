@@ -7,7 +7,7 @@
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Adley Rutschman    |C         |     14|  2|   3|  0|  0| 
 |Vinnie Pasquantino |1B        |     17|  5|   4|  2|  0| 
-|Jake Cronenworth   |2B        |     10|  5|   6|  0|  0| 
+|Jake Cronenworth   |2B        |     12|  5|   6|  0|  0| 
 |Bobby Witt Jr.     |3B        |      9|  6|   3|  1|  2| 
 |Carlos Correa      |SS        |     13|  3|   3|  1|  0| 
 |Jorge Mateo        |MI        |      9|  8|   5|  3|  2| 
@@ -38,7 +38,7 @@
 |Sandy Alcantara   |SP          |  1|  5.667|  2|  3.176|      7| 1.235|  6|  0|  0| 
 |Shane Bieber      |SP          |  2| 12.667|  5|  3.553|     15| 1.184|  8|  1|  0| 
 |Tyler Mahle       |SP          |  2| 10.333|  2|  1.742|      5| 0.484| 10|  0|  0| 
-|Jordan Romano     |RP          |  4|  3.000|  1|  3.000|      4| 1.333|  4|  0|  2| 
+|Jordan Romano     |RP          |  5|  3.000|  2|  6.000|      5| 1.667|  4|  0|  2| 
 |Kenley Jansen     |RP          |  3|  2.667|  1|  3.375|      3| 1.125|  3|  0|  2| 
 |Jorge Lopez       |OP          |  5|  4.333|  0|  0.000|      4| 0.923|  2|  0|  1| 
 |Jose Quijada      |OP          |  3|  2.000|  6| 27.000|      8| 4.000|  2|  0|  1| 

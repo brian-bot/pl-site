@@ -6,19 +6,19 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Salvador Perez     |C         |     14|  4|   6|  1|  0| 
-|Matt Olson         |1B        |     11|  5|   5|  2|  0| 
+|Matt Olson         |1B        |     14|  8|   5|  2|  0| 
 |Jazz Chisholm Jr.  |2B        |     12|  4|   5|  2|  5| 
-|Matt Chapman       |3B        |     18|  4|   4|  0|  0| 
-|Fernando Tatis Jr. |SS        |     13|  5|   6|  2|  0| 
-|Jeremy Pena        |MI        |     12|  7|   4|  3|  1| 
-|Jose Abreu         |CI        |      7|  2|   2|  0|  0| 
-|Daulton Varsho     |OF        |      8|  3|   2|  1|  1| 
+|Matt Chapman       |3B        |     20|  4|   4|  0|  0| 
+|Fernando Tatis Jr. |SS        |     16|  6|   6|  2|  0| 
+|Jeremy Pena        |MI        |     14|  7|   5|  3|  1| 
+|Jose Abreu         |CI        |      8|  2|   4|  0|  0| 
+|Daulton Varsho     |OF        |      9|  3|   2|  1|  2| 
 |Esteury Ruiz       |OF        |     12|  4|   3|  0|  6| 
 |Jorge Soler        |OF        |     10|  3|   0|  0|  0| 
-|Ronald Acuna Jr.   |OF        |     14|  5|   3|  1|  5| 
+|Ronald Acuna Jr.   |OF        |     18|  8|   4|  2|  5| 
 |Javier Baez        |DH        |     11|  4|   4|  0|  2| 
 |Jordan Walker      |DH        |      3|  0|   2|  0|  0| 
-|Masataka Yoshida   |DH        |     20|  7|  10|  3|  0| 
+|Masataka Yoshida   |DH        |     22|  8|  11|  3|  0| 
 |Zach Neto          |DH        |     16|  3|   4|  0|  1| 
 |Bryan De La Cruz   |BAT BENCH |      8|  3|   2|  1|  1| 
 |Giancarlo Stanton  |BAT BENCH |     **| **|  **| **| **| 
@@ -39,7 +39,7 @@
 |Patrick Sandoval   |SP          |  2| 11.000|  7| 5.727|     16| 1.455| 10|  1|  0| 
 |Yu Darvish         |SP          |  2| 11.667|  5| 3.857|     16| 1.371| 14|  1|  0| 
 |Alexis Diaz        |RP          |  5|  3.667|  0| 0.000|      2| 0.545|  7|  1|  2| 
-|David Robertson    |RP          |  2|  2.000|  0| 0.000|      1| 0.500|  4|  0|  1| 
+|David Robertson    |RP          |  3|  4.000|  0| 0.000|      3| 0.750|  8|  0|  2| 
 |Andrew Heaney      |OP          |  2| 12.000|  5| 3.750|     12| 1.000| 10|  1|  0| 
 |Anthony DeSclafani |OP          |  2| 11.000|  6| 4.909|     16| 1.455| 11|  1|  0| 
 |Edward Cabrera     |OP          |  2|  9.333|  6| 5.786|     16| 1.714| 18|  1|  0| 

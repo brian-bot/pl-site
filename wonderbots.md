@@ -6,20 +6,20 @@
 |players               |position | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:--------|------:|--:|---:|--:|--:| 
 |Alejandro Kirk        |C        |     13|  4|   1|  1|  0| 
-|Vladimir Guerrero Jr. |1B       |     14|  7|   6|  2|  1| 
+|Vladimir Guerrero Jr. |1B       |     15|  7|   6|  2|  1| 
 |Marcus Semien         |2B       |     16|  7|   5|  1|  2| 
-|Manny Machado         |3B       |     10|  6|   4|  3|  1| 
-|Xander Bogaerts       |SS       |     14|  9|   3|  2|  0| 
+|Manny Machado         |3B       |     12|  7|   6|  3|  1| 
+|Xander Bogaerts       |SS       |     15| 10|   3|  2|  0| 
 |J.P. Crawford         |MI       |     12|  3|   6|  1|  1| 
 |Luis Arraez           |CI       |     16|  5|   4|  0|  0| 
 |Anthony Santander     |OF       |      9|  4|   5|  1|  0| 
-|Ian Happ              |OF       |     14|  2|   1|  0|  1| 
-|Nick Castellanos      |OF       |     14|  8|   6|  4|  0| 
-|Steven Kwan           |OF       |     17|  5|   1|  0|  2| 
+|Ian Happ              |OF       |     16|  3|   2|  1|  1| 
+|Nick Castellanos      |OF       |     16|  8|   8|  4|  0| 
+|Steven Kwan           |OF       |     18|  6|   1|  0|  2| 
 |Austin Hays           |DH       |     11|  2|   4|  1|  0| 
 |Harold Ramirez        |DH       |     11|  4|   4|  2|  0| 
-|Josh Bell             |DH       |     12|  2|   5|  2|  0| 
-|Justin Turner         |DH       |     16|  4|   3|  1|  0| 
+|Josh Bell             |DH       |     14|  2|   5|  2|  0| 
+|Justin Turner         |DH       |     17|  4|   4|  1|  0| 
 
 
 * * *
