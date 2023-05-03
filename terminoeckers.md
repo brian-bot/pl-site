@@ -6,18 +6,18 @@
 |players        |position  | hitsbb|  r| rbi| hr| sb| 
 |:--------------|:---------|------:|--:|---:|--:|--:| 
 |J.T. Realmuto  |C         |     13|  5|   4|  1|  4| 
-|Rowdy Tellez   |1B        |     10|  4|   6|  3|  0| 
-|Mookie Betts   |2B        |     15|  6|   8|  3|  1| 
-|Austin Riley   |3B        |     10|  5|   4|  1|  0| 
-|Jon Berti      |SS        |     12|  6|   2|  1|  0| 
+|Rowdy Tellez   |1B        |     12|  4|   7|  3|  0| 
+|Mookie Betts   |2B        |     18|  7|  11|  3|  1| 
+|Austin Riley   |3B        |     12|  5|   5|  1|  0| 
+|Jon Berti      |SS        |     14|  6|   2|  1|  0| 
 |Brandon Lowe   |MI        |      8|  5|   5|  2|  0| 
 |J.D. Davis     |CI        |     13|  3|   4|  2|  0| 
-|Cody Bellinger |OF        |     15|  9|   6|  4|  2| 
-|Hunter Renfroe |OF        |     11|  9|   4|  3|  0| 
-|Juan Soto      |OF        |     18|  7|   4|  1|  0| 
-|Lars Nootbaar  |OF        |     14|  4|   3|  1|  1| 
+|Cody Bellinger |OF        |     17|  9|   6|  4|  2| 
+|Hunter Renfroe |OF        |     12| 10|   4|  3|  0| 
+|Juan Soto      |OF        |     20|  7|   5|  1|  0| 
+|Lars Nootbaar  |OF        |     15|  4|   3|  1|  1| 
 |Brandon Marsh  |DH        |     17|  6|   3|  1|  0| 
-|Jarred Kelenic |DH        |     12|  6|   5|  3|  2| 
+|Jarred Kelenic |DH        |     14|  6|   6|  3|  2| 
 |Josh Lowe      |DH        |     12|  6|   5|  1|  2| 
 |Nolan Gorman   |DH        |     10|  1|   4|  1|  1| 
 |Brett Baty     |BAT BENCH |     14|  4|   3|  2|  0| 
@@ -43,7 +43,7 @@
 |Johan Oviedo      |OP          |  2|  7.667| 11| 12.913|     19| 2.478|  5|  0|  0| 
 |Reynaldo Lopez    |OP          |  5|  3.667|  6| 14.727|      7| 1.909|  4|  0|  0| 
 |Taj Bradley       |OP          |  1|  5.000|  3|  5.400|      4| 0.800|  6|  1|  0| 
-|Steven Matz       |PITCH BENCH |  2|  9.333|  6|  5.786|     15| 1.607| 10|  0|  0| 
+|Steven Matz       |PITCH BENCH |  3| 14.333| 10|  6.279|     23| 1.605| 14|  0|  0| 
 
 
 * * *
