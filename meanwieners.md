@@ -10,20 +10,20 @@
 |Gleyber Torres |2B        |     14|  7|   3|  2|  0| 
 |Max Muncy      |3B        |     17| 10|  12|  5|  1| 
 |Willy Adames   |SS        |     11|  3|   3|  1|  0| 
-|Ryan McMahon   |MI        |     12|  6|   5|  1|  0| 
-|Yandy Diaz     |CI        |     22|  8|   3|  1|  0| 
+|Ryan McMahon   |MI        |     12|  7|   5|  1|  0| 
+|Yandy Diaz     |CI        |     24|  9|   4|  2|  0| 
 |Adolis Garcia  |OF        |     20| 12|  12|  4|  0| 
-|Cedric Mullins |OF        |     16|  5|   8|  1|  2| 
+|Cedric Mullins |OF        |     18|  5|  11|  1|  2| 
 |Kyle Schwarber |OF        |     17|  6|   4|  3|  0| 
 |Tyler O'Neill  |OF        |      7|  2|   2|  0|  0| 
 |David Villar   |DH        |      5|  1|   2|  1|  0| 
-|Isaac Paredes  |DH        |     15|  8|   8|  1|  0| 
+|Isaac Paredes  |DH        |     16|  8|   8|  1|  0| 
 |James Outman   |DH        |     20| 12|  11|  4|  2| 
-|Patrick Wisdom |DH        |     14|  6|   6|  3|  1| 
+|Patrick Wisdom |DH        |     15|  7|   6|  3|  1| 
 |Chas McCormick |BAT BENCH |     **| **|  **| **| **| 
-|Joey Meneses   |BAT BENCH |     19|  4|   6|  1|  0| 
+|Joey Meneses   |BAT BENCH |     20|  5|   6|  1|  0| 
 |Jose Siri      |BAT BENCH |      5|  3|   1|  0|  1| 
-|Taylor Walls   |BAT BENCH |     10|  2|   2|  1|  4| 
+|Taylor Walls   |BAT BENCH |     11|  3|   3|  2|  4| 
 
 * * *
 
@@ -37,8 +37,8 @@
 |Joe Ryan        |SP          |  2| 13.000|  1| 0.692|     10| 0.769| 14|  1|  0| 
 |Matt Strahm     |SP          |  3| 14.000|  7| 4.500|     14| 1.000| 21|  1|  0| 
 |Spencer Strider |SP          |  2| 13.000|  4| 2.769|     10| 0.769| 21|  2|  0| 
-|Zach Eflin      |SP          |  2| 10.000|  3| 2.700|     11| 1.100|  9|  1|  0| 
-|Paul Sewald     |RP          |  6|  6.000|  2| 3.000|      5| 0.833|  8|  1|  4| 
+|Zach Eflin      |SP          |  3| 17.000|  3| 1.588|     14| 0.824| 19|  2|  0| 
+|Paul Sewald     |RP          |  7|  7.000|  2| 2.571|      5| 0.714|  9|  1|  5| 
 |Pete Fairbanks  |RP          |  3|  2.667|  0| 0.000|      2| 0.750|  3|  0|  1| 
 |Braxton Garrett |OP          |  3| 13.000| 12| 8.308|     23| 1.769|  9|  1|  0| 
 |Evan Phillips   |OP          |  3|  3.000|  0| 0.000|      2| 0.667|  4|  0|  1| 

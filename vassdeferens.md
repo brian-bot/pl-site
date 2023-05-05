@@ -5,23 +5,23 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman    |C         |     20|  5|   4|  0|  0| 
-|Vinnie Pasquantino |1B        |     21|  7|   8|  3|  0| 
+|Adley Rutschman    |C         |     21|  5|   4|  0|  0| 
+|Vinnie Pasquantino |1B        |     22|  7|   9|  3|  0| 
 |Jake Cronenworth   |2B        |     16|  6|   6|  0|  0| 
-|Bobby Witt Jr.     |3B        |     11|  9|   5|  2|  3| 
-|Carlos Correa      |SS        |     16|  4|   5|  1|  0| 
-|Jorge Mateo        |MI        |     10|  8|   6|  3|  2| 
-|Spencer Torkelson  |CI        |     13|  2|   3|  0|  0| 
+|Bobby Witt Jr.     |3B        |     15| 10|   6|  2|  3| 
+|Carlos Correa      |SS        |     18|  5|   7|  2|  0| 
+|Jorge Mateo        |MI        |     12| 10|   7|  3|  3| 
+|Spencer Torkelson  |CI        |     14|  2|   3|  0|  0| 
 |Aaron Judge        |OF        |      9|  4|   3|  0|  0| 
 |Corbin Carroll     |OF        |     19|  9|   1|  0|  3| 
-|MJ Melendez        |OF        |     11|  3|   5|  2|  0| 
-|Riley Greene       |OF        |     15|  4|   3|  0|  0| 
-|CJ Abrams          |DH        |     14|  6|  10|  2|  0| 
+|MJ Melendez        |OF        |     14|  4|   5|  2|  0| 
+|Riley Greene       |OF        |     17|  5|   4|  1|  1| 
+|CJ Abrams          |DH        |     15|  6|  10|  2|  0| 
 |Jose Miranda       |DH        |     15|  7|   4|  3|  0| 
 |Oscar Colas        |DH        |      4|  3|   2|  0|  0| 
 |TJ Friedl          |DH        |     14|  3|   2|  0|  3| 
 |Austin Meadows     |BAT BENCH |     **| **|  **| **| **| 
-|Max Kepler         |BAT BENCH |     18|  7|   6|  1|  0| 
+|Max Kepler         |BAT BENCH |     21|  8|   6|  1|  0| 
 |Oneil Cruz         |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -40,10 +40,10 @@
 |Tyler Mahle       |SP          |  2| 10.333|  2|  1.742|      5| 0.484| 10|  0|  0| 
 |Jordan Romano     |RP          |  5|  3.000|  2|  6.000|      5| 1.667|  4|  0|  2| 
 |Kenley Jansen     |RP          |  3|  2.667|  1|  3.375|      3| 1.125|  3|  0|  2| 
-|Jorge Lopez       |OP          |  6|  5.333|  2|  3.375|      7| 1.312|  2|  0|  1| 
+|Jorge Lopez       |OP          |  7|  6.333|  2|  2.842|      9| 1.421|  2|  0|  1| 
 |Jose Quijada      |OP          |  3|  2.000|  6| 27.000|      8| 4.000|  2|  0|  1| 
 |Kyle Bradish      |OP          |  2|  7.000| 10| 12.857|     19| 2.714|  6|  0|  0| 
-|Kyle Finnegan     |OP          |  6|  5.667|  1|  1.588|      7| 1.235|  6|  0|  4| 
+|Kyle Finnegan     |OP          |  7|  6.667|  1|  1.350|      9| 1.350|  8|  1|  4| 
 |Shintaro Fujinami |OP          |  4|  6.333| 10| 14.211|     18| 2.842|  8|  0|  0| 
 |Brusdar Graterol  |PITCH BENCH |  6|  5.333|  1|  1.688|      7| 1.312|  3|  1|  2| 
 |Dean Kremer       |PITCH BENCH |  2| 10.667|  9|  7.594|     21| 1.969| 11|  1|  0| 

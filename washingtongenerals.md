@@ -5,22 +5,22 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Willson Contreras |C         |     15|  4|   3|  0|  0| 
-|Ryan Mountcastle  |1B        |     18|  9|   6|  2|  0| 
+|Willson Contreras |C         |     18|  5|   5|  0|  0| 
+|Ryan Mountcastle  |1B        |     20| 10|   6|  2|  0| 
 |Josh Rojas        |2B        |      9|  5|  10|  0|  1| 
-|Rafael Devers     |3B        |     13|  7|  10|  3|  0| 
+|Rafael Devers     |3B        |     16|  8|  14|  4|  0| 
 |Andres Gimenez    |SS        |     11|  3|   3|  1|  0| 
-|Nico Hoerner      |MI        |     18|  7|  13|  2|  2| 
-|Ke'Bryan Hayes    |CI        |     13|  9|   2|  0|  0| 
+|Nico Hoerner      |MI        |     19|  7|  14|  2|  2| 
+|Ke'Bryan Hayes    |CI        |     14|  9|   2|  0|  0| 
 |Kyle Tucker       |OF        |     12|  4|   5|  1|  1| 
 |Michael Conforto  |OF        |     12|  6|   2|  0|  0| 
 |Mike Trout        |OF        |     18| 10|  10|  5|  0| 
-|Randy Arozarena   |OF        |     19|  8|  10|  3|  0| 
+|Randy Arozarena   |OF        |     21|  9|  11|  4|  0| 
 |Joc Pederson      |DH        |     11|  5|   4|  1|  0| 
-|Lane Thomas       |DH        |     13|  7|   4|  1|  1| 
+|Lane Thomas       |DH        |     14|  8|   7|  2|  1| 
 |Shea Langeliers   |DH        |     11|  5|   8|  3|  0| 
 |Thairo Estrada    |DH        |     24|  8|   4|  1|  6| 
-|Brent Rooker      |BAT BENCH |     24|  9|  11|  5|  0| 
+|Brent Rooker      |BAT BENCH |     25|  9|  11|  5|  0| 
 |Michael Harris II |BAT BENCH |      6|  4|   2|  1|  0| 
 |Tim Anderson      |BAT BENCH |      5|  1|   1|  0|  0| 
 
