@@ -2,21 +2,21 @@
 
 ## Period 2 scores
 
-Through games on 2023-05-04 ([website build status](https://github.com/brian-bot/pl-site/actions))
+Through games on 2023-05-05 ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 
 |team                   | points|   r| hitsbb| hr| rbi| sb|  w| sv|  so|   era|  whip|
 |:----------------------|------:|---:|------:|--:|---:|--:|--:|--:|---:|-----:|-----:|
-|[Vass Deferens](./vassdeferens)|   26.0|  86|    225| 18|  73| 13|  3| 10|  86| 5.889| 1.611|
-|[Wonderbots](./wonderbots)|   42.0|  93|    267| 26|  81| 11|  7|  0| 129| 5.400| 1.293|
-|[Boys of Summer](./boysofsummer)|   71.0|  95|    247| 26|  87| 15| 12| 11| 124| 3.408| 1.187|
-|[Washington Generals](./washingtongenerals)|   47.5| 102|    230| 26| 105| 11|  5|  9| 122| 6.144| 1.365|
-|[Terminoeckers](./terminoeckers)|   69.0|  95|    240| 32|  86| 15| 14|  2| 170| 3.816| 1.092|
-|[T and A](./tanda)     |   73.0|  95|    252| 28|  99| 26| 12|  5| 185| 4.446| 1.292|
-|[Nuclear Arms](./nucleararms)|   50.0|  88|    241| 23|  83| 19|  7|  3| 186| 4.864| 1.269|
-|[Mean Wieners](./meanwieners)|   66.5|  95|    218| 29|  90|  6| 11| 10| 157| 2.852| 0.965|
-|[Overwhelming Underdogs](./overwhelmingunderdogs)|   51.0|  90|    217| 29|  92|  9|  7|  6| 122| 3.262| 1.265|
-|[SYWA](./sywa)         |   54.0|  83|    226| 26|  90|  8| 10| 10| 180| 3.576| 1.219|
+|[Vass Deferens](./vassdeferens)|   26.5|  91|    239| 19|  79| 14|  4| 11|  95| 5.632| 1.574|
+|[Wonderbots](./wonderbots)|   44.5| 100|    291| 29|  94| 13|  7|  0| 140| 5.333| 1.296|
+|[Boys of Summer](./boysofsummer)|   70.0| 101|    262| 28|  92| 15| 14| 12| 148| 3.404| 1.237|
+|[Washington Generals](./washingtongenerals)|   46.5| 108|    251| 28| 115| 11|  6| 10| 127| 5.983| 1.347|
+|[Terminoeckers](./terminoeckers)|   68.5| 101|    257| 33|  90| 15| 15|  3| 184| 3.949| 1.103|
+|[T and A](./tanda)     |   75.5| 107|    275| 31| 105| 29| 13|  5| 206| 4.444| 1.283|
+|[Nuclear Arms](./nucleararms)|   45.5|  92|    256| 24|  88| 19|  7|  4| 192| 4.743| 1.268|
+|[Mean Wieners](./meanwieners)|   63.0| 101|    229| 31|  97|  6| 11| 10| 157| 2.852| 0.965|
+|[Overwhelming Underdogs](./overwhelmingunderdogs)|   53.0|  94|    231| 31|  98| 10|  9|  8| 144| 3.338| 1.265|
+|[SYWA](./sywa)         |   57.0|  89|    244| 27|  95| 11| 11| 11| 206| 3.434| 1.173|
 
 * * *
 * * *

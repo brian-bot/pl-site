@@ -6,24 +6,24 @@
 |players        |position  | hitsbb|  r| rbi| hr| sb| 
 |:--------------|:---------|------:|--:|---:|--:|--:| 
 |Logan O'Hoppe  |C         |      3|  0|   2|  0|  0| 
-|Anthony Rizzo  |1B        |     19|  6|   5|  1|  0| 
-|Gleyber Torres |2B        |     14|  7|   3|  2|  0| 
-|Max Muncy      |3B        |     17| 10|  12|  5|  1| 
-|Willy Adames   |SS        |     11|  3|   3|  1|  0| 
-|Ryan McMahon   |MI        |     12|  7|   5|  1|  0| 
-|Yandy Diaz     |CI        |     24|  9|   4|  2|  0| 
-|Adolis Garcia  |OF        |     20| 12|  12|  4|  0| 
-|Cedric Mullins |OF        |     18|  5|  11|  1|  2| 
+|Anthony Rizzo  |1B        |     20|  7|   5|  1|  0| 
+|Gleyber Torres |2B        |     15|  8|   4|  2|  0| 
+|Max Muncy      |3B        |     17| 10|  13|  5|  1| 
+|Willy Adames   |SS        |     14|  3|   4|  1|  0| 
+|Ryan McMahon   |MI        |     13|  7|   5|  1|  0| 
+|Yandy Diaz     |CI        |     25| 11|   5|  3|  0| 
+|Adolis Garcia  |OF        |     21| 12|  13|  4|  0| 
+|Cedric Mullins |OF        |     20|  6|  13|  2|  2| 
 |Kyle Schwarber |OF        |     17|  6|   4|  3|  0| 
 |Tyler O'Neill  |OF        |      7|  2|   2|  0|  0| 
 |David Villar   |DH        |      5|  1|   2|  1|  0| 
-|Isaac Paredes  |DH        |     16|  8|   8|  1|  0| 
+|Isaac Paredes  |DH        |     17|  9|   8|  1|  0| 
 |James Outman   |DH        |     20| 12|  11|  4|  2| 
 |Patrick Wisdom |DH        |     15|  7|   6|  3|  1| 
 |Chas McCormick |BAT BENCH |     **| **|  **| **| **| 
 |Joey Meneses   |BAT BENCH |     20|  5|   6|  1|  0| 
-|Jose Siri      |BAT BENCH |      5|  3|   1|  0|  1| 
-|Taylor Walls   |BAT BENCH |     11|  3|   3|  2|  4| 
+|Jose Siri      |BAT BENCH |      6|  3|   2|  0|  1| 
+|Taylor Walls   |BAT BENCH |     12|  3|   3|  2|  4| 
 
 * * *
 

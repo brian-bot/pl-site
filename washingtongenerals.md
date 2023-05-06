@@ -5,22 +5,22 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Willson Contreras |C         |     18|  5|   5|  0|  0| 
-|Ryan Mountcastle  |1B        |     20| 10|   6|  2|  0| 
-|Josh Rojas        |2B        |      9|  5|  10|  0|  1| 
-|Rafael Devers     |3B        |     16|  8|  14|  4|  0| 
+|Willson Contreras |C         |     19|  6|   5|  0|  0| 
+|Ryan Mountcastle  |1B        |     21| 10|   6|  2|  0| 
+|Josh Rojas        |2B        |      9|  5|  11|  0|  1| 
+|Rafael Devers     |3B        |     18|  8|  15|  4|  0| 
 |Andres Gimenez    |SS        |     11|  3|   3|  1|  0| 
-|Nico Hoerner      |MI        |     19|  7|  14|  2|  2| 
+|Nico Hoerner      |MI        |     21|  8|  14|  2|  2| 
 |Ke'Bryan Hayes    |CI        |     14|  9|   2|  0|  0| 
-|Kyle Tucker       |OF        |     12|  4|   5|  1|  1| 
-|Michael Conforto  |OF        |     12|  6|   2|  0|  0| 
-|Mike Trout        |OF        |     18| 10|  10|  5|  0| 
-|Randy Arozarena   |OF        |     21|  9|  11|  4|  0| 
-|Joc Pederson      |DH        |     11|  5|   4|  1|  0| 
-|Lane Thomas       |DH        |     14|  8|   7|  2|  1| 
-|Shea Langeliers   |DH        |     11|  5|   8|  3|  0| 
-|Thairo Estrada    |DH        |     24|  8|   4|  1|  6| 
-|Brent Rooker      |BAT BENCH |     25|  9|  11|  5|  0| 
+|Kyle Tucker       |OF        |     15|  6|   7|  2|  1| 
+|Michael Conforto  |OF        |     13|  6|   2|  0|  0| 
+|Mike Trout        |OF        |     21| 10|  11|  5|  0| 
+|Randy Arozarena   |OF        |     24| 10|  12|  5|  0| 
+|Joc Pederson      |DH        |     12|  5|   6|  1|  0| 
+|Lane Thomas       |DH        |     15|  8|   7|  2|  1| 
+|Shea Langeliers   |DH        |     13|  5|   9|  3|  0| 
+|Thairo Estrada    |DH        |     25|  9|   5|  1|  6| 
+|Brent Rooker      |BAT BENCH |     29| 11|  14|  6|  0| 
 |Michael Harris II |BAT BENCH |      6|  4|   2|  1|  0| 
 |Tim Anderson      |BAT BENCH |      5|  1|   1|  0|  0| 
 
@@ -38,9 +38,9 @@
 |Julio Urias    |SP          |  3| 16.000| 12|  6.750|     20| 1.250| 19|  1|  0| 
 |Logan Gilbert  |SP          |  2| 11.000|  6|  4.909|     13| 1.182| 12|  0|  0| 
 |Nick Lodolo    |SP          |  2|  9.000|  9|  9.000|     16| 1.778| 13|  0|  0| 
-|Carlos Estevez |RP          |  7|  7.667|  0|  0.000|      1| 0.130| 10|  0|  5| 
-|David Bednar   |RP          |  5|  5.000|  0|  0.000|      1| 0.200|  7|  0|  4| 
-|Adam Ottavino  |OP          |  3|  3.000|  3|  9.000|      4| 1.333|  4|  0|  0| 
+|Carlos Estevez |RP          |  8|  8.667|  0|  0.000|      2| 0.231| 12|  1|  5| 
+|David Bednar   |RP          |  6|  6.000|  0|  0.000|      1| 0.167|  9|  0|  4| 
+|Adam Ottavino  |OP          |  4|  4.000|  3|  6.750|      5| 1.250|  5|  0|  1| 
 |Drey Jameson   |OP          |  1|  1.000|  3| 27.000|      6| 6.000|  1|  0|  0| 
 |Luis Garcia    |OP          |  2|  6.000|  0|  0.000|      6| 1.000|  7|  1|  0| 
 |Reid Detmers   |OP          |  2| 10.000|  6|  5.400|     15| 1.500| 12|  0|  0| 
