@@ -5,24 +5,24 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez     |C         |     20|  9|  11|  4|  0| 
-|Matt Olson         |1B        |     21| 13|   6|  3|  0| 
-|Jazz Chisholm Jr.  |2B        |     14|  4|   5|  2|  5| 
-|Matt Chapman       |3B        |     24|  5|   4|  0|  0| 
-|Fernando Tatis Jr. |SS        |     19|  9|   9|  4|  0| 
-|Jeremy Pena        |MI        |     15|  7|   5|  3|  1| 
-|Jose Abreu         |CI        |     11|  3|   4|  0|  0| 
-|Daulton Varsho     |OF        |     17|  5|   8|  3|  3| 
-|Esteury Ruiz       |OF        |     19|  9|   6|  0| 10| 
-|Jorge Soler        |OF        |     13|  4|   3|  1|  0| 
-|Ronald Acuna Jr.   |OF        |     26| 12|   9|  3|  7| 
-|Javier Baez        |DH        |     20|  9|   8|  3|  2| 
+|Salvador Perez     |C         |     24|  9|  11|  4|  0| 
+|Matt Olson         |1B        |     23| 14|   6|  3|  0| 
+|Jazz Chisholm Jr.  |2B        |     15|  4|   5|  2|  5| 
+|Matt Chapman       |3B        |     26|  5|   4|  0|  0| 
+|Fernando Tatis Jr. |SS        |     22|  9|  10|  4|  0| 
+|Jeremy Pena        |MI        |     18|  8|   6|  3|  1| 
+|Jose Abreu         |CI        |     13|  3|   4|  0|  0| 
+|Daulton Varsho     |OF        |     19|  6|   9|  3|  3| 
+|Esteury Ruiz       |OF        |     20|  9|   8|  0| 11| 
+|Jorge Soler        |OF        |     16|  6|   4|  2|  0| 
+|Ronald Acuna Jr.   |OF        |     28| 12|  10|  3|  7| 
+|Javier Baez        |DH        |     22|  9|   8|  3|  2| 
 |Jordan Walker      |DH        |      3|  0|   2|  0|  0| 
 |Masataka Yoshida   |DH        |     32| 14|  18|  5|  0| 
-|Zach Neto          |DH        |     21|  4|   7|  0|  1| 
-|Bryan De La Cruz   |BAT BENCH |     11|  3|   2|  1|  1| 
+|Zach Neto          |DH        |     22|  4|   7|  0|  1| 
+|Bryan De La Cruz   |BAT BENCH |     13|  3|   3|  1|  1| 
 |Giancarlo Stanton  |BAT BENCH |     **| **|  **| **| **| 
-|Myles Straw        |BAT BENCH |     11|  4|   1|  0|  1| 
+|Myles Straw        |BAT BENCH |     12|  4|   2|  0|  1| 
 
 
 * * *
@@ -38,7 +38,7 @@
 |Hunter Greene      |SP          |  3| 16.667|  6|  3.240|     22| 1.320| 23|  0|  0| 
 |Patrick Sandoval   |SP          |  3| 16.000|  8|  4.500|     22| 1.375| 14|  2|  0| 
 |Yu Darvish         |SP          |  3| 18.333|  6|  2.945|     21| 1.145| 20|  2|  0| 
-|Alexis Diaz        |RP          |  6|  4.667|  0|  0.000|      3| 0.643|  9|  1|  3| 
+|Alexis Diaz        |RP          |  7|  5.667|  0|  0.000|      4| 0.706|  9|  1|  4| 
 |David Robertson    |RP          |  4|  5.000|  0|  0.000|      6| 1.200|  8|  0|  2| 
 |Andrew Heaney      |OP          |  3| 16.667| 11|  5.940|     20| 1.200| 15|  1|  0| 
 |Anthony DeSclafani |OP          |  3| 19.000|  6|  2.842|     19| 1.000| 14|  2|  0| 
