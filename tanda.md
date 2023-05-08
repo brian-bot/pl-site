@@ -5,24 +5,24 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez     |C         |     24|  9|  11|  4|  0| 
-|Matt Olson         |1B        |     23| 14|   6|  3|  0| 
-|Jazz Chisholm Jr.  |2B        |     15|  4|   5|  2|  5| 
-|Matt Chapman       |3B        |     26|  5|   4|  0|  0| 
-|Fernando Tatis Jr. |SS        |     22|  9|  10|  4|  0| 
+|Salvador Perez     |C         |     27| 12|  12|  5|  0| 
+|Matt Olson         |1B        |     25| 15|   7|  4|  0| 
+|Jazz Chisholm Jr.  |2B        |     16|  4|   6|  2|  5| 
+|Matt Chapman       |3B        |     28|  7|   4|  0|  0| 
+|Fernando Tatis Jr. |SS        |     23| 10|  10|  4|  0| 
 |Jeremy Pena        |MI        |     18|  8|   6|  3|  1| 
-|Jose Abreu         |CI        |     13|  3|   4|  0|  0| 
-|Daulton Varsho     |OF        |     19|  6|   9|  3|  3| 
-|Esteury Ruiz       |OF        |     20|  9|   8|  0| 11| 
-|Jorge Soler        |OF        |     16|  6|   4|  2|  0| 
+|Jose Abreu         |CI        |     14|  4|   4|  0|  0| 
+|Daulton Varsho     |OF        |     21|  7|  11|  4|  3| 
+|Esteury Ruiz       |OF        |     21|  9|   8|  0| 11| 
+|Jorge Soler        |OF        |     17|  6|   5|  2|  0| 
 |Ronald Acuna Jr.   |OF        |     28| 12|  10|  3|  7| 
-|Javier Baez        |DH        |     22|  9|   8|  3|  2| 
+|Javier Baez        |DH        |     23|  9|   8|  3|  2| 
 |Jordan Walker      |DH        |      3|  0|   2|  0|  0| 
-|Masataka Yoshida   |DH        |     32| 14|  18|  5|  0| 
+|Masataka Yoshida   |DH        |     34| 14|  18|  5|  0| 
 |Zach Neto          |DH        |     22|  4|   7|  0|  1| 
-|Bryan De La Cruz   |BAT BENCH |     13|  3|   3|  1|  1| 
+|Bryan De La Cruz   |BAT BENCH |     14|  3|   3|  1|  1| 
 |Giancarlo Stanton  |BAT BENCH |     **| **|  **| **| **| 
-|Myles Straw        |BAT BENCH |     12|  4|   2|  0|  1| 
+|Myles Straw        |BAT BENCH |     13|  5|   2|  0|  1| 
 
 
 * * *
@@ -34,7 +34,7 @@
 |:------------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Framber Valdez     |SP          |  3| 20.000|  8|  3.600|     23| 1.150| 20|  1|  0| 
 |Freddy Peralta     |SP          |  3| 17.667|  8|  4.075|     22| 1.245| 22|  1|  0| 
-|Graham Ashcraft    |SP          |  3| 17.000|  5|  2.647|     20| 1.176| 10|  0|  0| 
+|Graham Ashcraft    |SP          |  4| 18.667| 13|  6.268|     28| 1.500| 13|  0|  0| 
 |Hunter Greene      |SP          |  3| 16.667|  6|  3.240|     22| 1.320| 23|  0|  0| 
 |Patrick Sandoval   |SP          |  3| 16.000|  8|  4.500|     22| 1.375| 14|  2|  0| 
 |Yu Darvish         |SP          |  3| 18.333|  6|  2.945|     21| 1.145| 20|  2|  0| 
@@ -45,7 +45,7 @@
 |Edward Cabrera     |OP          |  3| 14.333|  9|  5.651|     22| 1.535| 26|  1|  0| 
 |Jack Flaherty      |OP          |  3| 13.000| 17| 11.769|     26| 2.000| 19|  1|  0| 
 |Jose Urquidy       |OP          |  2|  8.000|  8|  9.000|     13| 1.625|  6|  1|  0| 
-|Daniel Bard        |PITCH BENCH |  4|  4.000|  0|  0.000|      5| 1.250|  3|  0|  0| 
+|Daniel Bard        |PITCH BENCH |  5|  5.000|  1|  1.800|      6| 1.200|  3|  0|  0| 
 |Miles Mikolas      |PITCH BENCH |  3| 17.333|  6|  3.115|     21| 1.212| 15|  1|  0| 
 |Trevor Rogers      |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 
