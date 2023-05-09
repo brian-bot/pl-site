@@ -6,17 +6,17 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Adley Rutschman    |C         |     25|  6|   4|  0|  0| 
-|Vinnie Pasquantino |1B        |     27|  9|  10|  3|  0| 
+|Vinnie Pasquantino |1B        |     29|  9|  11|  3|  0| 
 |Jake Cronenworth   |2B        |     23|  6|   6|  0|  0| 
-|Bobby Witt Jr.     |3B        |     17| 11|   8|  3|  3| 
+|Bobby Witt Jr.     |3B        |     19| 12|   8|  3|  5| 
 |Carlos Correa      |SS        |     19|  6|   8|  3|  0| 
-|Jorge Mateo        |MI        |     13| 11|   7|  3|  4| 
-|Spencer Torkelson  |CI        |     19|  4|   7|  1|  0| 
+|Jorge Mateo        |MI        |     14| 11|   7|  3|  4| 
+|Spencer Torkelson  |CI        |     21|  4|   7|  1|  0| 
 |Aaron Judge        |OF        |      9|  4|   3|  0|  0| 
 |Corbin Carroll     |OF        |     24| 11|   3|  1|  3| 
-|MJ Melendez        |OF        |     17|  5|   5|  2|  0| 
-|Riley Greene       |OF        |     21|  7|   7|  1|  1| 
-|CJ Abrams          |DH        |     17|  8|  10|  2|  1| 
+|MJ Melendez        |OF        |     19|  7|   9|  3|  0| 
+|Riley Greene       |OF        |     24|  7|   9|  1|  2| 
+|CJ Abrams          |DH        |     18|  8|  12|  2|  1| 
 |Jose Miranda       |DH        |     17|  8|   4|  3|  0| 
 |Oscar Colas        |DH        |      4|  3|   2|  0|  0| 
 |TJ Friedl          |DH        |     19|  4|   7|  1|  3| 

@@ -6,20 +6,20 @@
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Cal Raleigh         |C         |     15| 11|   6|  3|  0| 
-|Christian Walker    |1B        |     26| 13|  15|  6|  1| 
+|Christian Walker    |1B        |     28| 14|  17|  7|  1| 
 |Whit Merrifield     |2B        |     19|  6|   7|  1|  5| 
 |Nolan Arenado       |3B        |     13|  6|   5|  1|  0| 
-|Dansby Swanson      |SS        |     26|  4|   4|  2|  0| 
+|Dansby Swanson      |SS        |     28|  4|   5|  2|  0| 
 |Jeff McNeil         |MI        |     26|  9|   6|  2|  1| 
 |C.J. Cron           |CI        |     20|  8|   8|  2|  0| 
 |Alex Verdugo        |OF        |     25| 13|  11|  4|  2| 
-|Lourdes Gurriel Jr. |OF        |     26| 14|  11|  4|  1| 
-|Teoscar Hernandez   |OF        |     16| 11|   6|  4|  0| 
-|Yordan Alvarez      |OF        |     18|  5|  10|  3|  0| 
+|Lourdes Gurriel Jr. |OF        |     27| 14|  11|  4|  1| 
+|Teoscar Hernandez   |OF        |     17| 11|   6|  4|  0| 
+|Yordan Alvarez      |OF        |     20|  6|  11|  3|  0| 
 |Alec Bohm           |DH        |     16|  5|   9|  0|  0| 
-|Jesse Winker        |DH        |     15|  2|   3|  0|  0| 
+|Jesse Winker        |DH        |     16|  3|   3|  0|  0| 
 |Josh Naylor         |DH        |     15|  2|  10|  1|  2| 
-|Ty France           |DH        |     16|  1|   2|  0|  0| 
+|Ty France           |DH        |     18|  2|   3|  1|  0| 
 |Ha-Seong Kim        |BAT BENCH |     21|  6|   6|  1|  4| 
 |Jake McCarthy       |BAT BENCH |      2|  2|   1|  1|  0| 
 |Oscar Gonzalez      |BAT BENCH |      7|  0|   3|  0|  0| 
@@ -37,7 +37,7 @@
 |Cristian Javier  |SP          |  3| 18.667|  7|  3.375|     18| 0.964| 24|  0|  0| 
 |Kevin Gausman    |SP          |  3| 17.333|  8|  4.154|     21| 1.212| 28|  1|  0| 
 |Merrill Kelly    |SP          |  3| 18.000|  6|  3.000|     20| 1.111| 22|  2|  0| 
-|Zac Gallen       |SP          |  3| 18.333|  3|  1.473|     13| 0.709| 29|  2|  0| 
+|Zac Gallen       |SP          |  4| 25.333|  4|  1.421|     19| 0.750| 36|  3|  0| 
 |Camilo Doval     |RP          |  9|  7.667|  2|  2.348|      8| 1.043|  9|  0|  6| 
 |Scott Barlow     |RP          |  6|  6.667|  0|  0.000|      6| 0.900| 12|  0|  3| 
 |A.J. Minter      |OP          |  8|  7.667| 11| 12.913|     13| 1.696| 13|  1|  3| 

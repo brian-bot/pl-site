@@ -7,19 +7,19 @@
 |:--------------|:---------|------:|--:|---:|--:|--:| 
 |J.T. Realmuto  |C         |     18|  6|   7|  1|  4| 
 |Rowdy Tellez   |1B        |     17|  6|   8|  4|  0| 
-|Mookie Betts   |2B        |     23|  9|  13|  4|  1| 
+|Mookie Betts   |2B        |     24|  9|  13|  4|  1| 
 |Austin Riley   |3B        |     19|  9|   7|  2|  0| 
 |Jon Berti      |SS        |     22|  9|   2|  1|  2| 
 |Brandon Lowe   |MI        |      9|  6|   7|  2|  0| 
-|J.D. Davis     |CI        |     17|  4|   6|  3|  0| 
-|Cody Bellinger |OF        |     24| 14|   7|  4|  6| 
-|Hunter Renfroe |OF        |     16| 12|   7|  4|  0| 
+|J.D. Davis     |CI        |     19|  4|   6|  3|  0| 
+|Cody Bellinger |OF        |     25| 14|   7|  4|  6| 
+|Hunter Renfroe |OF        |     17| 13|   8|  5|  0| 
 |Juan Soto      |OF        |     27|  7|   8|  1|  0| 
-|Lars Nootbaar  |OF        |     26|  6|   6|  1|  2| 
+|Lars Nootbaar  |OF        |     28|  8|   6|  1|  3| 
 |Brandon Marsh  |DH        |     21|  7|   3|  1|  0| 
 |Jarred Kelenic |DH        |     20|  7|   7|  3|  2| 
-|Josh Lowe      |DH        |     15|  7|   6|  2|  2| 
-|Nolan Gorman   |DH        |     14|  4|   5|  2|  2| 
+|Josh Lowe      |DH        |     16|  8|   7|  3|  2| 
+|Nolan Gorman   |DH        |     15|  4|   5|  2|  2| 
 |Brett Baty     |BAT BENCH |     19|  5|   5|  2|  0| 
 |Corey Seager   |BAT BENCH |     **| **|  **| **| **| 
 
@@ -32,7 +32,7 @@
 |:-----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |George Kirby      |SP          |  3| 21.000|  6|  2.571|     16| 0.762| 14|  2|  0| 
 |Lance Lynn        |SP          |  3| 18.000| 12|  6.000|     21| 1.167| 22|  1|  0| 
-|Mitch Keller      |SP          |  3| 17.000|  5|  2.647|     17| 1.000| 23|  2|  0| 
+|Mitch Keller      |SP          |  4| 26.000|  5|  1.731|     22| 0.846| 31|  3|  0| 
 |Nathan Eovaldi    |SP          |  3| 23.000|  3|  1.174|     17| 0.739| 20|  2|  0| 
 |Seth Lugo         |SP          |  3| 17.000|  7|  3.706|     23| 1.353| 14|  1|  0| 
 |Zack Wheeler      |SP          |  3| 17.333|  7|  3.635|     17| 0.981| 23|  2|  0| 
