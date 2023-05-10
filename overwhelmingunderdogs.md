@@ -5,23 +5,23 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Sean Murphy      |C         |     26| 11|  14|  5|  0| 
-|Pete Alonso      |1B        |     17|  8|  14|  3|  0| 
+|Sean Murphy      |C         |     30| 12|  18|  5|  0| 
+|Pete Alonso      |1B        |     19|  9|  15|  4|  0| 
 |Tommy Edman      |2B        |     12|  8|   7|  3|  2| 
-|Alex Bregman     |3B        |     21|  7|   9|  2|  0| 
-|Trea Turner      |SS        |     15|  6|   3|  3|  0| 
-|Anthony Volpe    |MI        |     21|  7|   7|  2|  3| 
+|Alex Bregman     |3B        |     23|  7|   9|  2|  0| 
+|Trea Turner      |SS        |     16|  6|   4|  3|  0| 
+|Anthony Volpe    |MI        |     22|  8|   7|  2|  3| 
 |Josh Jung        |CI        |     16| 11|  16|  5|  0| 
-|Bryan Reynolds   |OF        |     23|  7|   6|  0|  2| 
-|Christian Yelich |OF        |     20| 11|   9|  1|  3| 
+|Bryan Reynolds   |OF        |     24|  7|   6|  0|  2| 
+|Christian Yelich |OF        |     22| 11|   9|  1|  3| 
 |Julio Rodriguez  |OF        |     14|  5|   3|  2|  2| 
 |Taylor Ward      |OF        |     26| 10|   8|  2|  0| 
-|Brandon Nimmo    |DH        |     22|  8|   4|  2|  0| 
-|Brendan Donovan  |DH        |     13|  2|   4|  1|  0| 
+|Brandon Nimmo    |DH        |     23|  9|   4|  2|  0| 
+|Brendan Donovan  |DH        |     14|  2|   5|  1|  0| 
 |J.D. Martinez    |DH        |      4|  3|   1|  1|  0| 
-|Nathaniel Lowe   |DH        |     28| 14|   9|  2|  0| 
+|Nathaniel Lowe   |DH        |     29| 14|   9|  2|  0| 
 |Edouard Julien   |BAT BENCH |      1|  0|   1|  0|  0| 
-|Jorge Polanco    |BAT BENCH |     20|  5|  11|  2|  0| 
+|Jorge Polanco    |BAT BENCH |     21|  5|  11|  2|  0| 
 
 * * *
 
@@ -39,8 +39,8 @@
 |Devin Williams    |RP          |  5|  4.333|  1|  2.077|      3| 0.692|  4|  0|  3| 
 |Ryan Helsley      |RP          |  7|  7.333|  3|  3.682|      6| 0.818|  7|  0|  1| 
 |Andrew Chafin     |OP          |  7|  5.333|  3|  5.062|     10| 1.875| 11|  1|  2| 
-|Eric Lauer        |OP          |  2|  7.667|  4|  4.696|     18| 2.348| 10|  0|  0| 
-|Giovanny Gallegos |OP          |  7|  7.667|  4|  4.696|     13| 1.696|  4|  0|  0| 
+|Eric Lauer        |OP          |  3| 11.333|  7|  5.559|     24| 2.118| 14|  0|  0| 
+|Giovanny Gallegos |OP          |  8|  8.667|  4|  4.154|     13| 1.500|  4|  0|  1| 
 |Jhoan Duran       |OP          |  7|  6.333|  1|  1.421|      8| 1.263|  7|  0|  3| 
 |Justin Steele     |OP          |  3| 18.333|  3|  1.473|     19| 1.036| 12|  2|  0| 
 |Aaron Civale      |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 

@@ -6,24 +6,24 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |William Contreras |C         |     17| 10|   6|  2|  0| 
-|Freddie Freeman   |1B        |     25| 12|   7|  2|  4| 
-|Jonathan India    |2B        |     26| 11|   7|  2|  4| 
-|Jose Ramirez      |3B        |     24|  9|   7|  2|  1| 
-|Bo Bichette       |SS        |     26| 14|  10|  3|  1| 
-|Bryson Stott      |MI        |     17|  6|   4|  1|  0| 
-|Gunnar Henderson  |CI        |     14|  7|   4|  2|  0| 
-|Byron Buxton      |OF        |     25|  9|  13|  6|  2| 
+|Freddie Freeman   |1B        |     26| 13|   7|  2|  5| 
+|Jonathan India    |2B        |     28| 11|  10|  2|  4| 
+|Jose Ramirez      |3B        |     25|  9|   8|  2|  1| 
+|Bo Bichette       |SS        |     28| 15|  12|  4|  1| 
+|Bryson Stott      |MI        |     18|  6|   5|  1|  1| 
+|Gunnar Henderson  |CI        |     15|  8|   4|  2|  0| 
+|Byron Buxton      |OF        |     26| 10|  13|  6|  2| 
 |Eloy Jimenez      |OF        |     22|  8|  11|  4|  0| 
-|Luis Robert Jr.   |OF        |     26| 10|   7|  2|  1| 
-|Seiya Suzuki      |OF        |     20|  5|   7|  0|  0| 
-|Amed Rosario      |DH        |     15|  9|   2|  0|  3| 
-|Andrew McCutchen  |DH        |     13|  6|   6|  2|  1| 
+|Luis Robert Jr.   |OF        |     27| 11|   8|  3|  1| 
+|Seiya Suzuki      |OF        |     22|  5|   7|  0|  0| 
+|Amed Rosario      |DH        |     19|  9|   3|  0|  3| 
+|Andrew McCutchen  |DH        |     15|  6|   7|  2|  1| 
 |Jake Burger       |DH        |     12|  6|   4|  2|  0| 
-|Kris Bryant       |DH        |     25|  4|   7|  2|  0| 
+|Kris Bryant       |DH        |     27|  5|   7|  2|  0| 
 |Adam Duvall       |BAT BENCH |     **| **|  **| **| **| 
 |Elehuris Montero  |BAT BENCH |      0|  0|   0|  0|  0| 
-|Ezequiel Tovar    |BAT BENCH |     18| 10|  11|  2|  0| 
-|Gabriel Moreno    |BAT BENCH |     17|  4|   7|  0|  1| 
+|Ezequiel Tovar    |BAT BENCH |     18| 11|  12|  2|  0| 
+|Gabriel Moreno    |BAT BENCH |     19|  4|   7|  0|  1| 
 |Yoan Moncada      |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -40,7 +40,7 @@
 |Clayton Kershaw |SP          |  3| 17.667|  5|  2.547|     19| 1.075| 22|  2|  0| 
 |Dylan Cease     |SP          |  4| 18.000| 20| 10.000|     37| 2.056| 20|  0|  0| 
 |Sonny Gray      |SP          |  3| 18.000|  4|  2.000|     18| 1.000| 21|  2|  0| 
-|Emmanuel Clase  |RP          |  9|  8.333|  1|  1.080|      7| 0.840|  3|  0|  6| 
+|Emmanuel Clase  |RP          | 10|  9.333|  1|  0.964|      8| 0.857|  3|  0|  7| 
 |Josh Hader      |RP          |  8|  8.000|  1|  1.125|      4| 0.500|  6|  0|  6| 
 |A.J. Puk        |OP          |  7|  5.667|  4|  6.353|     10| 1.765|  9|  2|  2| 
 |Hunter Brown    |OP          |  4| 20.333| 10|  4.426|     32| 1.574| 22|  1|  0| 
