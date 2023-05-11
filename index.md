@@ -7,15 +7,15 @@ Through games on 2023-05-10 ([website build status](https://github.com/brian-bot
 
 |team                   | points|  r| hitsbb| hr| rbi| sb|  w| sv| so|    era|  whip|
 |:----------------------|------:|--:|------:|--:|---:|--:|--:|--:|--:|------:|-----:|
-|[Vass Deferens](./vassdeferens)|   58.5| 12|     23|  1|   5|  1|  1|  1| 10|  3.600| 1.400|
+|[Vass Deferens](./vassdeferens)|   58.0| 12|     23|  1|   5|  1|  1|  1| 10|  3.600| 1.400|
 |[Washington Generals](./washingtongenerals)|   39.0|  4|     16|  1|   2|  1|  0|  0|  1|  0.000| 0.500|
-|[Boys of Summer](./boysofsummer)|   65.0|  7|     16|  2|   6|  1|  1|  1| 13|  1.000| 0.889|
-|[Terminoeckers](./terminoeckers)|   79.0|  5|     21|  3|   9|  3|  2|  1| 34|  3.475| 1.010|
+|[Boys of Summer](./boysofsummer)|   67.0|  7|     16|  2|   6|  1|  2|  1| 16|  1.688| 1.062|
+|[Terminoeckers](./terminoeckers)|   79.5|  5|     21|  3|   9|  3|  2|  1| 34|  3.475| 1.010|
 |[Wonderbots](./wonderbots)|   51.5|  6|     21|  1|   5|  1|  0|  0| 17|  3.176| 1.235|
-|[SYWA](./sywa)         |   43.5|  4|     13|  1|   4|  0|  1|  0| 26|  3.000| 0.667|
+|[SYWA](./sywa)         |   43.0|  4|     13|  1|   4|  0|  1|  0| 26|  3.000| 0.667|
 |[Nuclear Arms](./nucleararms)|   44.0|  5|     17|  2|   5|  3|  0|  1|  5| 11.368| 2.684|
 |[T and A](./tanda)     |   48.0|  6|     17|  2|   8|  0|  0|  1| 11|  5.586| 1.655|
-|[Overwhelming Underdogs](./overwhelmingunderdogs)|   62.0|  6|     20|  3|   9|  0|  1|  1| 15|  7.322| 1.271|
+|[Overwhelming Underdogs](./overwhelmingunderdogs)|   60.5|  6|     20|  3|   9|  0|  1|  1| 15|  7.322| 1.271|
 |[Mean Wieners](./meanwieners)|   59.5|  8|     19|  1|   7|  2|  0|  0|  1|  0.000| 0.000|
 
 * * *
