@@ -5,26 +5,26 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras |C         |     17| 10|   6|  2|  0| 
-|Freddie Freeman   |1B        |     26| 13|   7|  2|  5| 
-|Jonathan India    |2B        |     28| 11|  10|  2|  4| 
-|Jose Ramirez      |3B        |     25|  9|   8|  2|  1| 
-|Bo Bichette       |SS        |     28| 15|  12|  4|  1| 
-|Bryson Stott      |MI        |     18|  6|   5|  1|  1| 
-|Gunnar Henderson  |CI        |     15|  8|   4|  2|  0| 
-|Byron Buxton      |OF        |     26| 10|  13|  6|  2| 
-|Eloy Jimenez      |OF        |     22|  8|  11|  4|  0| 
-|Luis Robert Jr.   |OF        |     27| 11|   8|  3|  1| 
-|Seiya Suzuki      |OF        |     22|  5|   7|  0|  0| 
-|Amed Rosario      |DH        |     19|  9|   3|  0|  3| 
-|Andrew McCutchen  |DH        |     15|  6|   7|  2|  1| 
-|Jake Burger       |DH        |     12|  6|   4|  2|  0| 
-|Kris Bryant       |DH        |     27|  5|   7|  2|  0| 
+|William Contreras |C         |      1|  1|   1|  1|  0| 
+|Freddie Freeman   |1B        |      2|  1|   3|  1|  0| 
+|Jonathan India    |2B        |      1|  1|   0|  0|  0| 
+|Jose Ramirez      |3B        |      0|  0|   0|  0|  0| 
+|Bo Bichette       |SS        |      1|  0|   0|  0|  0| 
+|Orlando Arcia     |MI        |      0|  0|   0|  0|  0| 
+|Gunnar Henderson  |CI        |      2|  0|   0|  0|  0| 
+|Byron Buxton      |OF        |      1|  0|   0|  0|  0| 
+|Jarren Duran      |OF        |      3|  2|   1|  0|  1| 
+|Luis Robert Jr.   |OF        |      0|  0|   0|  0|  0| 
+|Seiya Suzuki      |OF        |      3|  1|   1|  0|  0| 
+|Amed Rosario      |DH        |      0|  0|   0|  0|  0| 
+|Brandon Drury     |DH        |      0|  0|   0|  0|  0| 
+|Ezequiel Duran    |DH        |      2|  1|   0|  0|  0| 
+|Kris Bryant       |DH        |      0|  0|   0|  0|  0| 
 |Adam Duvall       |BAT BENCH |     **| **|  **| **| **| 
-|Elehuris Montero  |BAT BENCH |      0|  0|   0|  0|  0| 
-|Ezequiel Tovar    |BAT BENCH |     18| 11|  12|  2|  0| 
-|Gabriel Moreno    |BAT BENCH |     19|  4|   7|  0|  1| 
-|Yoan Moncada      |BAT BENCH |     **| **|  **| **| **| 
+|Alex Kirilloff    |BAT BENCH |      3|  0|   1|  0|  0| 
+|Eloy Jimenez      |BAT BENCH |     **| **|  **| **| **| 
+|Geraldo Perdomo   |BAT BENCH |      1|  0|   1|  0|  1| 
+|Nick Senzel       |BAT BENCH |      0|  0|   0|  0|  0| 
 
 
 * * *
@@ -32,22 +32,23 @@
 ### Pitchers
 
  
-|players         |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
-|:---------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Blake Snell     |SP          |  3| 17.000|  7|  3.706|     21| 1.235| 18|  1|  0| 
-|Chris Bassitt   |SP          |  3| 18.333|  6|  2.945|     20| 1.091| 16|  2|  0| 
-|Chris Sale      |SP          |  3| 17.333|  9|  4.673|     21| 1.212| 15|  2|  0| 
-|Clayton Kershaw |SP          |  3| 17.667|  5|  2.547|     19| 1.075| 22|  2|  0| 
-|Dylan Cease     |SP          |  4| 18.000| 20| 10.000|     37| 2.056| 20|  0|  0| 
-|Sonny Gray      |SP          |  3| 18.000|  4|  2.000|     18| 1.000| 21|  2|  0| 
-|Emmanuel Clase  |RP          | 10|  9.333|  1|  0.964|      8| 0.857|  3|  0|  7| 
-|Josh Hader      |RP          |  8|  8.000|  1|  1.125|      4| 0.500|  6|  0|  6| 
-|A.J. Puk        |OP          |  7|  5.667|  4|  6.353|     10| 1.765|  9|  2|  2| 
-|Hunter Brown    |OP          |  4| 20.333| 10|  4.426|     32| 1.574| 22|  1|  0| 
-|Kyle Gibson     |OP          |  4| 23.333| 12|  4.629|     33| 1.414| 18|  1|  0| 
-|Martin Perez    |OP          |  3| 16.000|  8|  4.500|     25| 1.562|  9|  1|  0| 
-|Ryan Weathers   |OP          |  2|  2.000|  0|  0.000|      1| 0.500|  1|  0|  0| 
-|German Marquez  |PITCH BENCH |  1|  3.667|  3|  7.364|      7| 1.909|  4|  0|  0| 
+|players         |position    |  g| ip| er|   era| hitsbb|  whip| so|  w| sv| 
+|:---------------|:-----------|--:|--:|--:|-----:|------:|-----:|--:|--:|--:| 
+|Blake Snell     |SP          | **| **| **|    **|     **|    **| **| **| **| 
+|Chris Bassitt   |SP          | **| **| **|    **|     **|    **| **| **| **| 
+|Chris Sale      |SP          | **| **| **|    **|     **|    **| **| **| **| 
+|Clayton Kershaw |SP          |  1|  7|  1| 1.286|      5| 0.714|  8|  1|  0| 
+|Dylan Cease     |SP          | **| **| **|    **|     **|    **| **| **| **| 
+|Sonny Gray      |SP          | **| **| **|    **|     **|    **| **| **| **| 
+|Emmanuel Clase  |RP          | **| **| **|    **|     **|    **| **| **| **| 
+|Josh Hader      |RP          |  1|  1|  0| 0.000|      2| 2.000|  3|  0|  0| 
+|A.J. Puk        |OP          |  1|  1|  0| 0.000|      1| 1.000|  2|  0|  1| 
+|Hunter Brown    |OP          | **| **| **|    **|     **|    **| **| **| **| 
+|Jon Gray        |OP          | **| **| **|    **|     **|    **| **| **| **| 
+|Kyle Gibson     |OP          | **| **| **|    **|     **|    **| **| **| **| 
+|Louie Varland   |OP          | **| **| **|    **|     **|    **| **| **| **| 
+|Kyle Freeland   |PITCH BENCH | **| **| **|    **|     **|    **| **| **| **| 
+|Martin Perez    |PITCH BENCH | **| **| **|    **|     **|    **| **| **| **| 
 
 
 * * *
