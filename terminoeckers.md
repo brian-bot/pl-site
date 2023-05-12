@@ -10,18 +10,18 @@
 |Mookie Betts   |2B        |      0|  0|   1|  0|  0| 
 |Austin Riley   |3B        |      2|  1|   0|  0|  0| 
 |Ezequiel Tovar |SS        |      1|  1|   0|  0|  1| 
-|Brandon Lowe   |MI        |      1|  0|   0|  0|  0| 
+|Brandon Lowe   |MI        |      2|  0|   0|  0|  0| 
 |Miguel Vargas  |CI        |      1|  1|   2|  1|  0| 
 |Cody Bellinger |OF        |      1|  0|   0|  0|  0| 
 |Hunter Renfroe |OF        |      4|  1|   2|  1|  0| 
-|Juan Soto      |OF        |      3|  1|   1|  1|  2| 
+|Juan Soto      |OF        |      6|  1|   2|  1|  2| 
 |Lars Nootbaar  |OF        |      2|  0|   1|  0|  0| 
 |Brandon Marsh  |DH        |      2|  0|   0|  0|  0| 
 |Jarred Kelenic |DH        |      2|  0|   1|  0|  0| 
-|Josh Lowe      |DH        |      1|  0|   0|  0|  0| 
+|Josh Lowe      |DH        |      3|  2|   5|  1|  0| 
 |Nolan Gorman   |DH        |     **| **|  **| **| **| 
 |Corey Seager   |BAT BENCH |     **| **|  **| **| **| 
-|Taylor Walls   |BAT BENCH |      0|  0|   0|  0|  0| 
+|Taylor Walls   |BAT BENCH |      2|  1|   1|  0|  0| 
 
 * * *
 
@@ -34,7 +34,7 @@
 |George Kirby      |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Justin Verlander  |SP          |  1| 7.000|  1|  1.286|      4| 0.571|  7|  1|  0| 
 |Mitch Keller      |SP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Nathan Eovaldi    |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Nathan Eovaldi    |SP          |  1| 8.667|  0|  0.000|      4| 0.462| 12|  1|  0| 
 |Zack Wheeler      |SP          |  1| 7.000|  1|  1.286|      4| 0.571|  7|  0|  0| 
 |Felix Bautista    |RP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Raisel Iglesias   |RP          |  1| 0.667|  2| 27.000|      3| 4.500|  2|  0|  0| 

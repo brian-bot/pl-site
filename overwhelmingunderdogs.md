@@ -6,20 +6,20 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Sean Murphy      |C         |      0|  0|   0|  0|  0| 
-|Pete Alonso      |1B        |      3|  1|   1|  1|  0| 
-|Jorge Polanco    |2B        |      1|  0|   0|  0|  0| 
+|Pete Alonso      |1B        |      4|  1|   1|  1|  0| 
+|Jorge Polanco    |2B        |      2|  0|   0|  0|  0| 
 |Alex Bregman     |3B        |      1|  0|   0|  0|  0| 
 |Trea Turner      |SS        |      2|  0|   0|  0|  0| 
 |Anthony Volpe    |MI        |      1|  1|   4|  1|  0| 
-|Josh Jung        |CI        |      1|  0|   0|  0|  0| 
+|Josh Jung        |CI        |      3|  1|   0|  0|  0| 
 |Bryan Reynolds   |OF        |      2|  1|   0|  0|  0| 
 |Christian Yelich |OF        |      0|  0|   0|  0|  0| 
 |Julio Rodriguez  |OF        |      1|  1|   0|  0|  0| 
 |Taylor Ward      |OF        |      0|  0|   0|  0|  0| 
 |Andrew McCutchen |DH        |      4|  1|   2|  1|  0| 
-|Brandon Nimmo    |DH        |      3|  0|   1|  0|  0| 
+|Brandon Nimmo    |DH        |      5|  0|   1|  0|  0| 
 |J.D. Martinez    |DH        |     **| **|  **| **| **| 
-|Nathaniel Lowe   |DH        |      1|  1|   1|  0|  0| 
+|Nathaniel Lowe   |DH        |      2|  1|   1|  0|  0| 
 |Brendan Donovan  |BAT BENCH |      1|  0|   0|  0|  0| 
 |Tommy Edman      |BAT BENCH |      1|  0|   1|  0|  0| 
 
@@ -42,7 +42,7 @@
 |Eric Lauer       |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Jhoan Duran      |OP          |  1| 2.000|  0|  0.000|      0| 0.000|  1|  0|  0| 
 |Justin Steele    |OP          |  1| 6.000|  3|  4.500|     10| 1.667|  3|  1|  0| 
-|Will Smith       |OP          |  1| 1.000|  0|  0.000|      0| 0.000|  2|  0|  1| 
+|Will Smith       |OP          |  2| 1.333|  0|  0.000|      0| 0.000|  3|  0|  2| 
 |Aaron Civale     |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Max Fried        |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Sean Manaea      |PITCH BENCH |  1| 2.667|  4| 13.500|      8| 3.000|  4|  0|  0| 

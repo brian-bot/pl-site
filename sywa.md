@@ -6,18 +6,18 @@
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Cal Raleigh         |C         |      1|  0|   0|  0|  0| 
-|Christian Walker    |1B        |      0|  0|   0|  0|  0| 
+|Christian Walker    |1B        |      2|  1|   0|  0|  0| 
 |Whit Merrifield     |2B        |      1|  0|   0|  0|  0| 
 |Nolan Arenado       |3B        |      2|  0|   1|  0|  0| 
 |Dansby Swanson      |SS        |      2|  1|   2|  0|  0| 
 |Jeff McNeil         |MI        |      1|  0|   0|  0|  0| 
 |C.J. Cron           |CI        |      1|  0|   0|  0|  0| 
 |Alex Verdugo        |OF        |      1|  1|   0|  0|  0| 
-|Lourdes Gurriel Jr. |OF        |      2|  1|   0|  0|  0| 
+|Lourdes Gurriel Jr. |OF        |      3|  1|   0|  0|  0| 
 |Teoscar Hernandez   |OF        |      0|  0|   0|  0|  0| 
 |Yordan Alvarez      |OF        |      1|  1|   1|  1|  0| 
 |Alec Bohm           |DH        |      0|  0|   0|  0|  0| 
-|Ha-Seong Kim        |DH        |     **| **|  **| **| **| 
+|Ha-Seong Kim        |DH        |      0|  0|   0|  0|  0| 
 |Josh Naylor         |DH        |     **| **|  **| **| **| 
 |Ty France           |DH        |      1|  0|   0|  0|  0| 
 |Jake McCarthy       |BAT BENCH |     **| **|  **| **| **| 
@@ -38,8 +38,8 @@
 |Kevin Gausman    |SP          |  1| 6.000|  0|   0|      3| 0.500|  9|  0|  0| 
 |Merrill Kelly    |SP          |  1| 6.000|  4|   6|      5| 0.833|  6|  0|  0| 
 |Zac Gallen       |SP          | **|    **| **|  **|     **|    **| **| **| **| 
-|Camilo Doval     |RP          | **|    **| **|  **|     **|    **| **| **| **| 
-|Scott Barlow     |RP          | **|    **| **|  **|     **|    **| **| **| **| 
+|Camilo Doval     |RP          |  1| 0.667|  0|   0|      0| 0.000|  2|  0|  0| 
+|Scott Barlow     |RP          |  1| 1.000|  0|   0|      0| 0.000|  0|  1|  0| 
 |Jason Adam       |OP          | **|    **| **|  **|     **|    **| **| **| **| 
 |Logan Webb       |OP          | **|    **| **|  **|     **|    **| **| **| **| 
 |MacKenzie Gore   |OP          | **|    **| **|  **|     **|    **| **| **| **| 

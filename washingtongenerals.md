@@ -7,22 +7,22 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Willson Contreras |C         |      2|  0|   1|  0|  0| 
 |Ryan Mountcastle  |1B        |      2|  0|   0|  0|  0| 
-|Thairo Estrada    |2B        |     **| **|  **| **| **| 
+|Thairo Estrada    |2B        |      1|  0|   0|  0|  1| 
 |Rafael Devers     |3B        |      1|  0|   0|  0|  0| 
 |Andres Gimenez    |SS        |     **| **|  **| **| **| 
 |Tim Anderson      |MI        |      2|  0|   0|  0|  0| 
 |Ke'Bryan Hayes    |CI        |      0|  0|   0|  0|  0| 
-|Brent Rooker      |OF        |      2|  0|   0|  0|  0| 
+|Brent Rooker      |OF        |      3|  0|   0|  0|  0| 
 |Kyle Tucker       |OF        |      1|  1|   0|  0|  0| 
 |Mike Trout        |OF        |      1|  1|   0|  0|  0| 
-|Randy Arozarena   |OF        |      0|  0|   0|  0|  0| 
+|Randy Arozarena   |OF        |      2|  1|   0|  0|  0| 
 |Connor Joe        |DH        |      2|  0|   0|  0|  0| 
 |Jon Berti         |DH        |      0|  0|   0|  0|  0| 
 |Lane Thomas       |DH        |      2|  2|   1|  1|  0| 
 |Michael Harris II |DH        |      1|  0|   0|  0|  1| 
-|Josh Rojas        |BAT BENCH |      0|  0|   0|  0|  0| 
+|Josh Rojas        |BAT BENCH |      2|  0|   0|  0|  0| 
 |Nico Hoerner      |BAT BENCH |     **| **|  **| **| **| 
-|Shea Langeliers   |BAT BENCH |     **| **|  **| **| **| 
+|Shea Langeliers   |BAT BENCH |      0|  0|   0|  0|  0| 
 
 
 * * *

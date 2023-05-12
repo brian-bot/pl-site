@@ -9,15 +9,15 @@
 |Matt Olson         |1B        |      0|  0|   0|  0|  0| 
 |Jazz Chisholm Jr.  |2B        |      0|  0|   0|  0|  0| 
 |Matt Chapman       |3B        |      0|  0|   0|  0|  0| 
-|Fernando Tatis Jr. |SS        |      1|  0|   0|  0|  0| 
+|Fernando Tatis Jr. |SS        |      4|  1|   1|  1|  0| 
 |Jeremy Pena        |MI        |      3|  0|   2|  0|  0| 
 |Joey Meneses       |CI        |      3|  1|   1|  0|  0| 
 |Daulton Varsho     |OF        |      0|  0|   0|  0|  0| 
-|Esteury Ruiz       |OF        |      0|  0|   0|  0|  0| 
+|Esteury Ruiz       |OF        |      2|  0|   0|  0|  0| 
 |Masataka Yoshida   |OF        |      0|  0|   0|  0|  0| 
 |Ronald Acuna Jr.   |OF        |      2|  1|   1|  1|  0| 
-|Brett Baty         |DH        |      1|  0|   0|  0|  0| 
-|Harrison Bader     |DH        |      1|  1|   3|  1|  0| 
+|Brett Baty         |DH        |      2|  0|   0|  0|  0| 
+|Harrison Bader     |DH        |      2|  1|   3|  1|  0| 
 |Javier Baez        |DH        |      3|  2|   0|  0|  0| 
 |Jorge Soler        |DH        |      1|  1|   0|  0|  0| 
 |Giancarlo Stanton  |BAT BENCH |     **| **|  **| **| **| 
@@ -39,7 +39,7 @@
 |Framber Valdez     |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Freddy Peralta     |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Hunter Greene      |SP          |  1| 5.333|  2|  3.375|     10| 1.875|  4|  0|  0| 
-|Yu Darvish         |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Yu Darvish         |SP          |  1| 6.000|  2|  3.000|      5| 0.833|  7|  0|  0| 
 |Alexis Diaz        |RP          | **|    **| **|     **|     **|    **| **| **| **| 
 |David Robertson    |RP          |  1| 1.000|  0|  0.000|      0| 0.000|  2|  0|  1| 
 |Andrew Heaney      |OP          | **|    **| **|     **|     **|    **| **| **| **| 

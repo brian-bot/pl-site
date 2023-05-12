@@ -7,9 +7,9 @@
 |:---------------------|:--------|------:|--:|---:|--:|--:| 
 |Alejandro Kirk        |C        |      0|  0|   0|  0|  0| 
 |Vladimir Guerrero Jr. |1B       |      1|  0|   0|  0|  0| 
-|Marcus Semien         |2B       |      2|  1|   2|  1|  0| 
-|Manny Machado         |3B       |      0|  0|   1|  0|  0| 
-|Xander Bogaerts       |SS       |      2|  0|   0|  0|  0| 
+|Marcus Semien         |2B       |      3|  2|   3|  2|  0| 
+|Manny Machado         |3B       |      1|  1|   1|  0|  0| 
+|Xander Bogaerts       |SS       |      3|  0|   0|  0|  0| 
 |J.P. Crawford         |MI       |      2|  1|   1|  0|  0| 
 |Luis Arraez           |CI       |      1|  1|   0|  0|  0| 
 |Anthony Santander     |OF       |      1|  1|   0|  0|  0| 
@@ -30,14 +30,14 @@
 |players          |position    |  g|    ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:-----------|--:|-----:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Aaron Nola       |SP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Brady Singer     |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Brady Singer     |SP          |  1| 6.000|  1| 1.500|      7| 1.167|  4|  0|  0| 
 |Jordan Lyles     |SP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Lucas Giolito    |SP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Luis Castillo    |SP          |  1| 5.000|  3| 5.400|      8| 1.600|  9|  0|  0| 
 |Pablo Lopez      |SP          |  1| 6.333|  1| 1.421|      6| 0.947|  8|  0|  0| 
 |Clarke Schmidt   |RP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Zach Jackson     |RP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Alex Cobb        |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Alex Cobb        |OP          |  1| 7.333|  0| 0.000|      9| 1.227|  3|  1|  0| 
 |Jameson Taillon  |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Tyler Anderson   |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Yusei Kikuchi    |OP          | **|    **| **|    **|     **|    **| **| **| **| 
