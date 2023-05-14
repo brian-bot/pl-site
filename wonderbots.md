@@ -39,6 +39,7 @@
 |Zach Jackson     |RP          |  1| 1.333|  1| 6.750|      3| 2.250|  2|  0|  0| 
 |Alex Cobb        |OP          |  1| 7.333|  0| 0.000|      9| 1.227|  3|  1|  0| 
 |Jameson Taillon  |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Ranger Suarez    |OP          |  1| 4.000|  3| 6.750|      8| 2.000|  4|  0|  0| 
 |Tyler Anderson   |OP          |  1| 6.000|  3| 4.500|      9| 1.500|  1|  0|  0| 
 |Yusei Kikuchi    |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Andres Munoz     |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
