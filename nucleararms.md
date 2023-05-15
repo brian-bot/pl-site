@@ -6,22 +6,22 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith        |C         |      5|  1|   2|  1|  0| 
-|Paul Goldschmidt  |1B        |      5|  3|   0|  0|  1| 
-|Ozzie Albies      |2B        |      1|  0|   0|  0|  0| 
-|Eugenio Suarez    |3B        |      4|  1|   0|  0|  1| 
-|Wander Franco     |SS        |      5|  1|   1|  0|  3| 
-|Francisco Lindor  |MI        |      3|  0|   3|  0|  0| 
+|Paul Goldschmidt  |1B        |      7|  3|   1|  0|  1| 
+|Ozzie Albies      |2B        |      2|  1|   2|  1|  0| 
+|Eugenio Suarez    |3B        |      6|  1|   0|  0|  1| 
+|Wander Franco     |SS        |      6|  2|   1|  0|  3| 
+|Francisco Lindor  |MI        |      5|  1|   4|  0|  0| 
 |Andrew Vaughn     |CI        |      4|  1|   1|  0|  0| 
-|Andrew Benintendi |OF        |      6|  1|   0|  0|  1| 
-|George Springer   |OF        |      3|  1|   1|  0|  1| 
-|Jurickson Profar  |OF        |      6|  1|   1|  0|  0| 
-|Starling Marte    |OF        |      3|  0|   0|  0|  0| 
+|Andrew Benintendi |OF        |      9|  1|   0|  0|  1| 
+|George Springer   |OF        |      5|  2|   2|  1|  1| 
+|Jurickson Profar  |OF        |      7|  2|   1|  0|  0| 
+|Starling Marte    |OF        |      6|  2|   2|  0|  1| 
 |Anthony Rendon    |DH        |      5|  2|   1|  0|  0| 
-|Ketel Marte       |DH        |      8|  3|   0|  0|  1| 
+|Ketel Marte       |DH        |      9|  3|   0|  0|  1| 
 |Mitch Haniger     |DH        |      0|  0|   0|  0|  0| 
-|Shohei Ohtani     |DH        |      5|  1|   3|  1|  0| 
+|Shohei Ohtani     |DH        |      6|  1|   4|  1|  1| 
 |Francisco Alvarez |BAT BENCH |      3|  0|   0|  0|  0| 
-|Joey Gallo        |BAT BENCH |      5|  3|   5|  1|  0| 
+|Joey Gallo        |BAT BENCH |      6|  4|   7|  2|  0| 
 |Josh Donaldson    |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -39,7 +39,7 @@
 |Michael Wacha     |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Shohei Ohtani     |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Clay Holmes       |RP          |  2| 2.333|  0|  0.000|      4| 1.714|  4|  1|  0| 
-|Ryan Pressly      |RP          |  2| 2.000|  2|  9.000|      4| 2.000|  3|  0|  1| 
+|Ryan Pressly      |RP          |  3| 3.000|  2|  6.000|      4| 1.333|  4|  0|  2| 
 |Aroldis Chapman   |OP          |  2| 2.000|  2|  9.000|      4| 2.000|  3|  0|  0| 
 |Daniel Bard       |OP          |  1| 0.333|  0|  0.000|      3| 9.000|  1|  0|  0| 
 |Jesus Luzardo     |OP          | **|    **| **|     **|     **|    **| **| **| **| 
