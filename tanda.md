@@ -6,23 +6,23 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Salvador Perez     |C         |      6|  3|   3|  2|  0| 
-|Matt Olson         |1B        |      4|  0|   0|  0|  0| 
+|Matt Olson         |1B        |      6|  2|   1|  0|  0| 
 |Jazz Chisholm Jr.  |2B        |      4|  2|   2|  2|  1| 
-|Matt Chapman       |3B        |      2|  1|   0|  0|  0| 
-|Fernando Tatis Jr. |SS        |      9|  1|   1|  1|  2| 
-|Jeremy Pena        |MI        |      7|  0|   3|  0|  0| 
-|Joey Meneses       |CI        |      7|  1|   3|  0|  0| 
+|Matt Chapman       |3B        |      3|  2|   0|  0|  0| 
+|Fernando Tatis Jr. |SS        |     11|  2|   2|  1|  2| 
+|Jeremy Pena        |MI        |      8|  1|   4|  0|  0| 
+|Joey Meneses       |CI        |     11|  1|   7|  0|  0| 
 |Daulton Varsho     |OF        |      3|  1|   1|  1|  0| 
-|Esteury Ruiz       |OF        |      7|  2|   4|  1|  1| 
+|Esteury Ruiz       |OF        |      8|  2|   5|  1|  2| 
 |Masataka Yoshida   |OF        |      5|  1|   0|  0|  0| 
-|Ronald Acuna Jr.   |OF        |      8|  3|   2|  2|  2| 
+|Ronald Acuna Jr.   |OF        |     10|  4|   4|  3|  2| 
 |Brett Baty         |DH        |      5|  2|   1|  0|  0| 
 |Harrison Bader     |DH        |      5|  3|   3|  1|  1| 
 |Javier Baez        |DH        |      6|  2|   2|  0|  0| 
 |Jorge Soler        |DH        |      7|  3|   0|  0|  0| 
 |Giancarlo Stanton  |BAT BENCH |     **| **|  **| **| **| 
 |Jordan Walker      |BAT BENCH |     **| **|  **| **| **| 
-|Jose Abreu         |BAT BENCH |      3|  0|   0|  0|  0| 
+|Jose Abreu         |BAT BENCH |      6|  1|   2|  0|  0| 
 |Matt Mervis        |BAT BENCH |      4|  1|   1|  0|  0| 
 |Ramon Laureano     |BAT BENCH |      4|  2|   0|  0|  0| 
 
@@ -35,10 +35,10 @@
 |players            |position    |  g|    ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:------------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
 |Anthony DeSclafani |SP          |  1| 5.000|  3|  5.400|      6| 1.200|  2|  0|  0| 
-|Charlie Morton     |SP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Framber Valdez     |SP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Freddy Peralta     |SP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Hunter Greene      |SP          |  1| 5.333|  2|  3.375|     10| 1.875|  4|  0|  0| 
+|Charlie Morton     |SP          |  1| 6.667|  0|  0.000|      8| 1.200| 10|  1|  0| 
+|Framber Valdez     |SP          |  1| 4.000|  4|  9.000|      9| 2.250|  8|  0|  0| 
+|Freddy Peralta     |SP          |  1| 5.333|  6| 10.125|     11| 2.062|  4|  0|  0| 
+|Hunter Greene      |SP          |  2| 9.333|  8|  7.714|     20| 2.143| 12|  0|  0| 
 |Yu Darvish         |SP          |  1| 6.000|  2|  3.000|      5| 0.833|  7|  0|  0| 
 |Alexis Diaz        |RP          |  2| 2.667|  1|  3.375|      4| 1.500|  5|  0|  2| 
 |David Robertson    |RP          |  2| 2.667|  0|  0.000|      2| 0.750|  6|  0|  1| 

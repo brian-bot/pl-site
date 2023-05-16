@@ -6,14 +6,14 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |William Contreras |C         |      6|  2|   1|  1|  0| 
-|Freddie Freeman   |1B        |      9|  5|   6|  2|  0| 
-|Jonathan India    |2B        |      7|  4|   0|  0|  1| 
+|Freddie Freeman   |1B        |     12|  6|   7|  2|  1| 
+|Jonathan India    |2B        |      9|  5|   1|  0|  1| 
 |Jose Ramirez      |3B        |      7|  2|   2|  0|  0| 
-|Bo Bichette       |SS        |      5|  0|   2|  0|  0| 
-|Orlando Arcia     |MI        |      2|  0|   0|  0|  0| 
-|Gunnar Henderson  |CI        |      5|  1|   1|  1|  0| 
-|Byron Buxton      |OF        |      5|  2|   0|  0|  0| 
-|Jarren Duran      |OF        |      6|  2|   3|  0|  1| 
+|Bo Bichette       |SS        |      7|  0|   3|  0|  0| 
+|Orlando Arcia     |MI        |      6|  3|   2|  1|  0| 
+|Gunnar Henderson  |CI        |      6|  2|   1|  1|  0| 
+|Byron Buxton      |OF        |      7|  3|   1|  0|  0| 
+|Jarren Duran      |OF        |      7|  3|   3|  0|  1| 
 |Luis Robert Jr.   |OF        |      7|  5|   6|  3|  0| 
 |Seiya Suzuki      |OF        |      8|  2|   3|  1|  0| 
 |Amed Rosario      |DH        |      6|  3|   1|  0|  1| 
@@ -21,10 +21,10 @@
 |Ezequiel Duran    |DH        |      8|  4|   3|  1|  0| 
 |Kris Bryant       |DH        |      4|  0|   1|  0|  0| 
 |Adam Duvall       |BAT BENCH |     **| **|  **| **| **| 
-|Alex Kirilloff    |BAT BENCH |     10|  6|   3|  2|  0| 
+|Alex Kirilloff    |BAT BENCH |     11|  6|   3|  2|  0| 
 |Eloy Jimenez      |BAT BENCH |     **| **|  **| **| **| 
-|Geraldo Perdomo   |BAT BENCH |      1|  1|   1|  0|  1| 
-|Nick Senzel       |BAT BENCH |      5|  1|   1|  0|  1| 
+|Geraldo Perdomo   |BAT BENCH |      4|  3|   3|  1|  1| 
+|Nick Senzel       |BAT BENCH |      9|  2|   2|  0|  1| 
 
 
 * * *
