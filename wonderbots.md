@@ -5,21 +5,21 @@
  
 |players               |position | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:--------|------:|--:|---:|--:|--:| 
-|Alejandro Kirk        |C        |      0|  0|   0|  0|  0| 
+|Alejandro Kirk        |C        |      2|  0|   0|  0|  0| 
 |Vladimir Guerrero Jr. |1B       |      8|  2|   5|  0|  0| 
-|Marcus Semien         |2B       |     13|  7|   7|  2|  2| 
+|Marcus Semien         |2B       |     14|  8|   7|  2|  2| 
 |Manny Machado         |3B       |      3|  1|   2|  0|  0| 
-|Xander Bogaerts       |SS       |     11|  3|   0|  0|  1| 
-|J.P. Crawford         |MI       |      9|  5|   2|  0|  0| 
-|Luis Arraez           |CI       |      7|  2|   2|  0|  0| 
-|Anthony Santander     |OF       |      7|  2|   2|  1|  1| 
-|Ian Happ              |OF       |     10|  1|   0|  0|  0| 
-|Nick Castellanos      |OF       |      7|  2|   1|  0|  1| 
-|Steven Kwan           |OF       |      7|  4|   2|  0|  1| 
-|Austin Hays           |DH       |      7|  1|   1|  0|  0| 
-|Harold Ramirez        |DH       |      6|  2|   2|  0|  0| 
-|Josh Bell             |DH       |      8|  0|   3|  0|  0| 
-|Justin Turner         |DH       |      9|  4|   2|  1|  0| 
+|Xander Bogaerts       |SS       |     14|  3|   1|  0|  1| 
+|J.P. Crawford         |MI       |     10|  5|   2|  0|  0| 
+|Luis Arraez           |CI       |      9|  3|   2|  0|  0| 
+|Anthony Santander     |OF       |      9|  2|   2|  1|  1| 
+|Ian Happ              |OF       |     13|  2|   1|  0|  0| 
+|Nick Castellanos      |OF       |      8|  3|   1|  0|  2| 
+|Steven Kwan           |OF       |     10|  5|   2|  0|  1| 
+|Austin Hays           |DH       |      9|  2|   2|  1|  0| 
+|Harold Ramirez        |DH       |      7|  3|   3|  0|  0| 
+|Josh Bell             |DH       |     10|  0|   5|  0|  0| 
+|Justin Turner         |DH       |     12|  7|   4|  2|  0| 
 
 
 * * *
