@@ -5,14 +5,14 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman    |C         |     11|  4|   2|  1|  0| 
+|Adley Rutschman    |C         |     14|  5|   4|  2|  0| 
 |Vinnie Pasquantino |1B        |      9|  3|   2|  1|  0| 
 |Jake Cronenworth   |2B        |     11|  1|   2|  1|  1| 
 |Bobby Witt Jr.     |3B        |     10|  5|   4|  1|  3| 
 |Carlos Correa      |SS        |     12|  2|   8|  1|  0| 
 |Jorge Mateo        |MI        |      2|  1|   2|  0|  1| 
 |Spencer Torkelson  |CI        |      6|  2|   2|  0|  0| 
-|Aaron Judge        |OF        |     18|  8|  10|  5|  1| 
+|Aaron Judge        |OF        |     20|  9|  12|  6|  1| 
 |Corbin Carroll     |OF        |     11|  5|   3|  1|  0| 
 |MJ Melendez        |OF        |     11|  6|   3|  0|  0| 
 |Riley Greene       |OF        |      9|  2|   1|  0|  0| 

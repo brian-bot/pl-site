@@ -7,17 +7,17 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Jonah Heim        |C         |      9|  4|   4|  0|  0| 
 |Anthony Rizzo     |1B        |     13|  7|   7|  3|  0| 
-|Gleyber Torres    |2B        |     11|  4|   5|  0|  0| 
-|Max Muncy         |3B        |     10|  5|   3|  2|  0| 
+|Gleyber Torres    |2B        |     13|  5|   5|  0|  0| 
+|Max Muncy         |3B        |     12|  6|   4|  3|  0| 
 |Willy Adames      |SS        |      6|  1|   1|  0|  2| 
 |Christopher Morel |MI        |     12|  8|   9|  4|  0| 
 |Yandy Diaz        |CI        |      8|  4|   5|  1|  0| 
 |Adolis Garcia     |OF        |     10|  6|  10|  4|  1| 
 |Bryce Harper      |OF        |     11|  6|   4|  1|  2| 
-|Cedric Mullins    |OF        |     10|  4|   6|  2|  1| 
+|Cedric Mullins    |OF        |     11|  4|   6|  2|  1| 
 |Kyle Schwarber    |OF        |      9|  5|   3|  2|  0| 
 |Jack Suwinski     |DH        |      6|  1|   1|  0|  0| 
-|James Outman      |DH        |      5|  3|   4|  1|  1| 
+|James Outman      |DH        |      6|  3|   4|  1|  1| 
 |Jose Siri         |DH        |      7|  6|   3|  3|  1| 
 |Patrick Wisdom    |DH        |      8|  2|   2|  1|  0| 
 |LaMonte Wade Jr.  |BAT BENCH |     13|  6|   5|  1|  0| 
@@ -42,7 +42,7 @@
 |Paul Sewald     |RP          |  2|  1.667|  1|  5.400|      3| 1.800|  1|  0|  0| 
 |Drew Smyly      |OP          |  2| 12.000|  3|  2.250|      9| 0.750| 12|  1|  0| 
 |Hayden Wesneski |OP          |  1|  5.000|  7| 12.600|      8| 1.600|  5|  0|  0| 
-|Logan Allen     |OP          |  1|  4.333|  3|  6.231|     10| 2.308|  5|  0|  0| 
+|Logan Allen     |OP          |  2| 10.000|  4|  3.600|     18| 1.800| 10|  0|  0| 
 |Mark Leiter Jr. |OP          |  2|  2.000|  2|  9.000|      3| 1.500|  3|  0|  0| 
 |Michael King    |OP          |  3|  3.667|  3|  7.364|      7| 1.909|  0|  0|  1| 
 |Jacob deGrom    |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 

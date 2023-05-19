@@ -7,10 +7,10 @@
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Cal Raleigh         |C         |     11|  5|   4|  2|  0| 
 |Christian Walker    |1B        |     11|  5|   3|  2|  0| 
-|Whit Merrifield     |2B        |      7|  5|   2|  0|  5| 
-|Nolan Arenado       |3B        |     14|  6|  14|  5|  1| 
+|Whit Merrifield     |2B        |      8|  6|   2|  0|  5| 
+|Nolan Arenado       |3B        |     16|  7|  16|  6|  1| 
 |Dansby Swanson      |SS        |      8|  4|   3|  0|  1| 
-|Jeff McNeil         |MI        |      9|  3|   2|  0|  0| 
+|Jeff McNeil         |MI        |     11|  4|   2|  0|  0| 
 |C.J. Cron           |CI        |      2|  2|   3|  0|  0| 
 |Alex Verdugo        |OF        |     10|  8|   0|  0|  0| 
 |Lourdes Gurriel Jr. |OF        |     13|  5|   6|  2|  0| 

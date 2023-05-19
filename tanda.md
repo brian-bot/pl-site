@@ -12,11 +12,11 @@
 |Fernando Tatis Jr. |SS        |     12|  3|   2|  1|  2| 
 |Jeremy Pena        |MI        |     11|  3|   4|  0|  0| 
 |Joey Meneses       |CI        |     12|  1|   7|  0|  0| 
-|Daulton Varsho     |OF        |      5|  1|   1|  1|  0| 
+|Daulton Varsho     |OF        |      6|  1|   1|  1|  0| 
 |Esteury Ruiz       |OF        |     14|  3|   6|  1|  3| 
 |Masataka Yoshida   |OF        |      9|  4|   4|  0|  0| 
 |Ronald Acuna Jr.   |OF        |     14|  7|   6|  5|  3| 
-|Brett Baty         |DH        |      7|  3|   2|  1|  0| 
+|Brett Baty         |DH        |      8|  3|   3|  1|  0| 
 |Harrison Bader     |DH        |      6|  3|   4|  1|  2| 
 |Javier Baez        |DH        |      7|  3|   3|  0|  0| 
 |Jorge Soler        |DH        |     10|  6|   4|  2|  0| 
@@ -41,7 +41,7 @@
 |Hunter Greene      |SP          |  2|  9.333|  8|  7.714|     20| 2.143| 12|  0|  0| 
 |Yu Darvish         |SP          |  2| 11.333|  6|  4.765|     13| 1.147| 13|  0|  0| 
 |Alexis Diaz        |RP          |  3|  3.667|  1|  2.455|      4| 1.091|  6|  0|  3| 
-|David Robertson    |RP          |  3|  3.667|  1|  2.455|      4| 1.091|  6|  1|  1| 
+|David Robertson    |RP          |  4|  4.667|  1|  1.929|      5| 1.071|  7|  1|  2| 
 |Andrew Heaney      |OP          |  1|  6.000|  1|  1.500|      6| 1.000|  9|  0|  0| 
 |Edward Cabrera     |OP          |  2|  8.333|  6|  6.480|     11| 1.320| 11|  1|  0| 
 |Graham Ashcraft    |OP          |  2| 10.667| 10|  8.437|     19| 1.781|  6|  0|  0| 
