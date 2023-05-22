@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Jonah Heim        |C         |      9|  4|   4|  0|  0| 
-|Anthony Rizzo     |1B        |     17|  9|  12|  5|  0| 
-|Gleyber Torres    |2B        |     16|  7|   5|  0|  0| 
+|Jonah Heim        |C         |     10|  5|   5|  0|  0| 
+|Anthony Rizzo     |1B        |     18|  9|  12|  5|  0| 
+|Gleyber Torres    |2B        |     17|  8|   6|  1|  0| 
 |Max Muncy         |3B        |     12|  6|   4|  3|  0| 
-|Willy Adames      |SS        |      8|  2|   1|  0|  2| 
-|Christopher Morel |MI        |     16| 13|  12|  6|  0| 
-|Yandy Diaz        |CI        |     11|  5|   8|  2|  0| 
-|Adolis Garcia     |OF        |     13| 10|  13|  5|  1| 
+|Willy Adames      |SS        |      9|  3|   2|  1|  2| 
+|Christopher Morel |MI        |     17| 14|  13|  7|  0| 
+|Yandy Diaz        |CI        |     12|  5|   8|  2|  0| 
+|Adolis Garcia     |OF        |     15| 11|  13|  5|  1| 
 |Bryce Harper      |OF        |     16|  7|   5|  1|  2| 
-|Cedric Mullins    |OF        |     14|  5|   7|  3|  1| 
-|Kyle Schwarber    |OF        |     13|  7|   7|  3|  0| 
-|Jack Suwinski     |DH        |     10|  2|   3|  0|  0| 
-|James Outman      |DH        |      8|  3|   4|  1|  1| 
+|Cedric Mullins    |OF        |     19|  6|  10|  3|  2| 
+|Kyle Schwarber    |OF        |     15|  7|   7|  3|  0| 
+|Jack Suwinski     |DH        |     11|  2|   3|  0|  0| 
+|James Outman      |DH        |      8|  3|   5|  1|  1| 
 |Jose Siri         |DH        |      9|  6|   3|  3|  1| 
 |Patrick Wisdom    |DH        |      8|  2|   2|  1|  0| 
 |LaMonte Wade Jr.  |BAT BENCH |     15|  7|   5|  1|  0| 
-|Ryan McMahon      |BAT BENCH |     13|  5|   2|  0|  2| 
+|Ryan McMahon      |BAT BENCH |     14|  6|   2|  0|  2| 
 |Tyler O'Neill     |BAT BENCH |     **| **|  **| **| **| 
 
 
