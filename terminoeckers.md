@@ -6,21 +6,21 @@
 |players        |position  | hitsbb|  r| rbi| hr| sb| 
 |:--------------|:---------|------:|--:|---:|--:|--:| 
 |J.T. Realmuto  |C         |     13|  0|   3|  0|  2| 
-|Rowdy Tellez   |1B        |     13|  2|   2|  1|  0| 
-|Mookie Betts   |2B        |     16|  9|   8|  3|  0| 
-|Austin Riley   |3B        |     14|  4|   4|  1|  0| 
-|Ezequiel Tovar |SS        |      6|  2|   3|  1|  1| 
-|Brandon Lowe   |MI        |     14|  3|   4|  1|  0| 
-|Miguel Vargas  |CI        |     13|  6|   5|  1|  0| 
+|Rowdy Tellez   |1B        |     15|  3|   3|  2|  0| 
+|Mookie Betts   |2B        |     18| 10|   9|  3|  0| 
+|Austin Riley   |3B        |     17|  5|   4|  1|  0| 
+|Ezequiel Tovar |SS        |      7|  3|   3|  1|  1| 
+|Brandon Lowe   |MI        |     15|  3|   4|  1|  1| 
+|Miguel Vargas  |CI        |     14|  6|   5|  1|  0| 
 |Cody Bellinger |OF        |      2|  1|   1|  0|  0| 
 |Hunter Renfroe |OF        |     18|  5|   5|  1|  0| 
 |Juan Soto      |OF        |     18|  4|   4|  3|  3| 
-|Lars Nootbaar  |OF        |     15|  9|   5|  0|  1| 
+|Lars Nootbaar  |OF        |     17|  9|   6|  0|  1| 
 |Brandon Marsh  |DH        |      9|  1|   0|  0|  2| 
-|Jarred Kelenic |DH        |     13|  8|   6|  2|  1| 
+|Jarred Kelenic |DH        |     17| 10|   9|  3|  1| 
 |Josh Lowe      |DH        |     16|  8|  14|  4|  3| 
-|Nolan Gorman   |DH        |     19|  8|  15|  5|  0| 
-|Corey Seager   |BAT BENCH |      7|  5|   8|  2|  0| 
+|Nolan Gorman   |DH        |     21| 10|  15|  5|  0| 
+|Corey Seager   |BAT BENCH |      7|  5|   9|  2|  0| 
 |Taylor Walls   |BAT BENCH |     11|  5|   7|  1|  3| 
 
 * * *
@@ -35,10 +35,10 @@
 |Justin Verlander  |SP          |  3| 20.000|  8|  3.600|     17| 0.850| 15|  2|  0| 
 |Mitch Keller      |SP          |  2| 13.000|  2|  1.385|      7| 0.538| 21|  1|  0| 
 |Nathan Eovaldi    |SP          |  2| 15.667|  3|  1.723|     11| 0.702| 17|  1|  0| 
-|Zack Wheeler      |SP          |  2| 13.000|  5|  3.462|     14| 1.077| 15|  0|  0| 
+|Zack Wheeler      |SP          |  3| 19.000|  8|  3.789|     23| 1.211| 18|  0|  0| 
 |Felix Bautista    |RP          |  5|  6.000|  0|  0.000|      6| 1.000| 15|  1|  3| 
 |Raisel Iglesias   |RP          |  5|  4.333|  4|  8.308|      7| 1.615|  6|  0|  2| 
-|Alex Lange        |OP          |  2|  2.333|  0|  0.000|      2| 0.857|  4|  0|  2| 
+|Alex Lange        |OP          |  3|  4.333|  0|  0.000|      3| 0.692|  6|  1|  2| 
 |Lance Lynn        |OP          |  3| 18.000| 10|  5.000|     24| 1.333| 17|  2|  0| 
 |Seth Lugo         |OP          |  2|  8.000|  7|  7.875|     12| 1.500|  7|  0|  0| 
 |Tyler Wells       |OP          |  2| 12.000|  3|  2.250|     10| 0.833| 15|  1|  0| 

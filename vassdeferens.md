@@ -6,16 +6,16 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Adley Rutschman    |C         |     19|  6|   5|  2|  0| 
-|Vinnie Pasquantino |1B        |      9|  3|   2|  1|  0| 
+|Vinnie Pasquantino |1B        |     10|  4|   4|  2|  0| 
 |Jake Cronenworth   |2B        |     13|  2|   2|  1|  1| 
 |Bobby Witt Jr.     |3B        |     11|  5|   4|  1|  3| 
-|Carlos Correa      |SS        |     20|  3|   9|  1|  0| 
+|Carlos Correa      |SS        |     22|  3|   9|  1|  0| 
 |Jorge Mateo        |MI        |      3|  3|   2|  0|  2| 
-|Spencer Torkelson  |CI        |     10|  3|   5|  1|  0| 
+|Spencer Torkelson  |CI        |     14|  4|   5|  1|  0| 
 |Aaron Judge        |OF        |     27| 12|  16|  7|  1| 
 |Corbin Carroll     |OF        |     19|  8|   5|  2|  3| 
-|MJ Melendez        |OF        |     12|  6|   3|  0|  0| 
-|Riley Greene       |OF        |     13|  4|   2|  1|  0| 
+|MJ Melendez        |OF        |     13|  6|   3|  0|  0| 
+|Riley Greene       |OF        |     16|  5|   2|  1|  0| 
 |CJ Abrams          |DH        |      8|  5|   6|  2|  1| 
 |Jordan Diaz        |DH        |      6|  0|   0|  0|  0| 
 |Max Kepler         |DH        |      2|  3|   2|  1|  0| 
@@ -40,7 +40,7 @@
 |Shane Bieber       |SP          |  2| 12.667|  7|  4.974|     21| 1.658|  8|  0|  0| 
 |Jordan Romano      |RP          |  4|  5.000|  2|  3.600|      8| 1.600|  6|  1|  1| 
 |Kenley Jansen      |RP          |  4|  3.000|  5| 15.000|     11| 3.667|  1|  0|  2| 
-|Brusdar Graterol   |OP          |  4|  3.333|  0|  0.000|      3| 0.900|  1|  1|  0| 
+|Brusdar Graterol   |OP          |  5|  4.667|  0|  0.000|      4| 0.857|  2|  1|  1| 
 |Jorge Lopez        |OP          |  6|  6.000|  2|  3.000|      9| 1.500|  8|  0|  1| 
 |Kyle Bradish       |OP          |  2| 12.667|  1|  0.711|      8| 0.632| 11|  1|  0| 
 |Kyle Finnegan      |OP          |  4|  4.667|  0|  0.000|      5| 1.071|  5|  0|  2| 
