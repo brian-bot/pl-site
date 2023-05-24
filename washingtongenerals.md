@@ -6,22 +6,22 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Willson Contreras |C         |     15|  4|   9|  3|  2| 
-|Ryan Mountcastle  |1B        |     10|  5|   8|  2|  0| 
-|Thairo Estrada    |2B        |     11|  4|   3|  0|  2| 
+|Ryan Mountcastle  |1B        |     12|  7|   8|  2|  0| 
+|Thairo Estrada    |2B        |     12|  5|   3|  0|  2| 
 |Rafael Devers     |3B        |     12|  4|  10|  2|  0| 
-|Andres Gimenez    |SS        |     10|  1|   1|  1|  1| 
-|Tim Anderson      |MI        |     12|  1|   1|  0|  1| 
+|Andres Gimenez    |SS        |     12|  1|   1|  1|  1| 
+|Tim Anderson      |MI        |     13|  1|   1|  0|  1| 
 |Ke'Bryan Hayes    |CI        |      9|  4|   7|  0|  1| 
-|Brent Rooker      |OF        |     13|  3|   6|  1|  0| 
-|Kyle Tucker       |OF        |     17|  4|   9|  1|  2| 
-|Mike Trout        |OF        |     16|  6|   3|  2|  0| 
-|Randy Arozarena   |OF        |     22|  9|   7|  2|  2| 
+|Brent Rooker      |OF        |     14|  3|   6|  1|  0| 
+|Kyle Tucker       |OF        |     18|  4|   9|  1|  2| 
+|Mike Trout        |OF        |     17|  7|   5|  3|  0| 
+|Randy Arozarena   |OF        |     24|  9|   7|  2|  2| 
 |Connor Joe        |DH        |      8|  4|   3|  1|  0| 
-|Jon Berti         |DH        |      8|  2|   1|  0|  1| 
-|Lane Thomas       |DH        |     19| 11|   6|  3|  1| 
+|Jon Berti         |DH        |     11|  4|   1|  0|  1| 
+|Lane Thomas       |DH        |     21| 12|   7|  4|  1| 
 |Michael Harris II |DH        |      6|  1|   1|  0|  1| 
 |Josh Rojas        |BAT BENCH |     13|  4|   3|  0|  1| 
-|Nico Hoerner      |BAT BENCH |      4|  0|   4|  0|  0| 
+|Nico Hoerner      |BAT BENCH |      5|  0|   4|  0|  0| 
 |Shea Langeliers   |BAT BENCH |     11|  2|   4|  1|  0| 
 
 
@@ -46,7 +46,7 @@
 |Taijuan Walker |OP          |  3| 12.000|  7| 5.250|     18| 1.500|  7|  0|  0| 
 |Tanner Houck   |OP          |  2| 11.000|  5| 4.091|     11| 1.000| 13|  0|  0| 
 |Drey Jameson   |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
-|Tylor Megill   |PITCH BENCH |  2| 11.000|  3| 2.455|     13| 1.182|  8|  2|  0| 
+|Tylor Megill   |PITCH BENCH |  3| 14.667|  7| 4.295|     21| 1.432| 13|  2|  0| 
 
 
 * * *

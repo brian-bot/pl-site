@@ -6,22 +6,22 @@
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Cal Raleigh         |C         |     13|  6|   5|  2|  0| 
-|Christian Walker    |1B        |     14|  7|   6|  2|  0| 
-|Whit Merrifield     |2B        |     16|  8|   5|  1|  6| 
+|Christian Walker    |1B        |     15|  7|   6|  2|  0| 
+|Whit Merrifield     |2B        |     19| 11|   5|  1|  7| 
 |Nolan Arenado       |3B        |     22| 10|  16|  6|  1| 
-|Dansby Swanson      |SS        |     14|  5|   5|  1|  1| 
+|Dansby Swanson      |SS        |     15|  5|   6|  1|  1| 
 |Jeff McNeil         |MI        |     17|  5|   4|  0|  0| 
 |C.J. Cron           |CI        |      2|  2|   3|  0|  0| 
 |Alex Verdugo        |OF        |     14|  9|   1|  0|  0| 
-|Lourdes Gurriel Jr. |OF        |     20|  7|   8|  3|  0| 
+|Lourdes Gurriel Jr. |OF        |     21|  8|   8|  3|  0| 
 |Teoscar Hernandez   |OF        |     15|  4|   8|  1|  1| 
-|Yordan Alvarez      |OF        |     20| 11|  13|  5|  0| 
-|Alec Bohm           |DH        |     10|  5|   7|  2|  0| 
-|Ha-Seong Kim        |DH        |     10|  3|   5|  1|  0| 
-|Josh Naylor         |DH        |     11|  6|  12|  4|  1| 
-|Ty France           |DH        |     14|  6|   2|  0|  0| 
+|Yordan Alvarez      |OF        |     23| 11|  13|  5|  0| 
+|Alec Bohm           |DH        |     11|  5|   8|  2|  0| 
+|Ha-Seong Kim        |DH        |     11|  3|   5|  1|  0| 
+|Josh Naylor         |DH        |     12|  6|  13|  4|  1| 
+|Ty France           |DH        |     16|  7|   3|  1|  0| 
 |Jake McCarthy       |BAT BENCH |     **| **|  **| **| **| 
-|Jesse Winker        |BAT BENCH |      7|  1|   1|  0|  0| 
+|Jesse Winker        |BAT BENCH |      8|  2|   1|  0|  0| 
 |Oscar Gonzalez      |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -38,11 +38,11 @@
 |Kevin Gausman    |SP          |  3| 21.000|  4| 1.714|     18| 0.857| 23|  0|  0| 
 |Merrill Kelly    |SP          |  3| 18.000|  7| 3.500|     15| 0.833| 19|  2|  0| 
 |Zac Gallen       |SP          |  2| 11.333|  7| 5.559|     19| 1.676|  8|  1|  0| 
-|Camilo Doval     |RP          |  6|  6.000|  1| 1.500|      6| 1.000| 10|  0|  4| 
+|Camilo Doval     |RP          |  7|  7.000|  1| 1.286|      6| 0.857| 13|  0|  5| 
 |Scott Barlow     |RP          |  5|  5.667|  2| 3.176|      4| 0.706|  7|  1|  2| 
 |Jason Adam       |OP          |  5|  4.333|  4| 8.308|      4| 0.923|  5|  1|  2| 
 |Logan Webb       |OP          |  2| 13.000|  1| 0.692|     12| 0.923| 10|  0|  0| 
-|MacKenzie Gore   |OP          |  2|  9.333|  4| 3.857|     14| 1.500| 10|  0|  0| 
+|MacKenzie Gore   |OP          |  3| 14.000|  7| 4.500|     25| 1.786| 15|  0|  0| 
 |Roansy Contreras |OP          |  2| 12.000|  5| 3.750|     12| 1.000|  4|  0|  0| 
 |Tony Gonsolin    |OP          |  2| 10.000|  0| 0.000|      7| 0.700|  9|  2|  0| 
 |A.J. Minter      |PITCH BENCH |  5|  4.333|  4| 8.308|      8| 1.846|  6|  0|  0| 
