@@ -6,22 +6,22 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Willson Contreras |C         |     15|  4|   9|  3|  2| 
-|Ryan Mountcastle  |1B        |     12|  7|   8|  2|  0| 
-|Thairo Estrada    |2B        |     12|  5|   3|  0|  2| 
-|Rafael Devers     |3B        |     12|  4|  10|  2|  0| 
-|Andres Gimenez    |SS        |     12|  1|   1|  1|  1| 
-|Tim Anderson      |MI        |     13|  1|   1|  0|  1| 
-|Ke'Bryan Hayes    |CI        |      9|  4|   7|  0|  1| 
-|Brent Rooker      |OF        |     14|  3|   6|  1|  0| 
-|Kyle Tucker       |OF        |     18|  4|   9|  1|  2| 
-|Mike Trout        |OF        |     17|  7|   5|  3|  0| 
-|Randy Arozarena   |OF        |     24|  9|   7|  2|  2| 
-|Connor Joe        |DH        |      8|  4|   3|  1|  0| 
-|Jon Berti         |DH        |     11|  4|   1|  0|  1| 
-|Lane Thomas       |DH        |     21| 12|   7|  4|  1| 
-|Michael Harris II |DH        |      6|  1|   1|  0|  1| 
-|Josh Rojas        |BAT BENCH |     13|  4|   3|  0|  1| 
-|Nico Hoerner      |BAT BENCH |      5|  0|   4|  0|  0| 
+|Ryan Mountcastle  |1B        |     13|  8|  10|  3|  0| 
+|Thairo Estrada    |2B        |     14|  5|   3|  0|  2| 
+|Rafael Devers     |3B        |     13|  4|  10|  2|  0| 
+|Andres Gimenez    |SS        |     14|  1|   1|  1|  1| 
+|Tim Anderson      |MI        |     14|  1|   2|  0|  1| 
+|Ke'Bryan Hayes    |CI        |     10|  4|   7|  0|  1| 
+|Brent Rooker      |OF        |     15|  3|   6|  1|  0| 
+|Kyle Tucker       |OF        |     19|  4|   9|  1|  2| 
+|Mike Trout        |OF        |     18|  8|   7|  4|  0| 
+|Randy Arozarena   |OF        |     26|  9|   7|  2|  2| 
+|Connor Joe        |DH        |     11|  5|   3|  1|  0| 
+|Jon Berti         |DH        |     12|  4|   2|  0|  1| 
+|Lane Thomas       |DH        |     22| 12|   8|  4|  1| 
+|Michael Harris II |DH        |      7|  1|   1|  0|  1| 
+|Josh Rojas        |BAT BENCH |     14|  4|   3|  0|  1| 
+|Nico Hoerner      |BAT BENCH |      7|  2|   5|  1|  0| 
 |Shea Langeliers   |BAT BENCH |     11|  2|   4|  1|  0| 
 
 
