@@ -6,24 +6,24 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Salvador Perez     |C         |     13|  5|   8|  4|  0| 
-|Matt Olson         |1B        |     17|  7|   7|  3|  0| 
+|Matt Olson         |1B        |     19|  8|   8|  3|  1| 
 |Jazz Chisholm Jr.  |2B        |      4|  2|   2|  2|  1| 
 |Matt Chapman       |3B        |     15|  6|   5|  2|  1| 
-|Fernando Tatis Jr. |SS        |     17|  6|   5|  3|  2| 
+|Fernando Tatis Jr. |SS        |     19|  7|   5|  3|  3| 
 |Jeremy Pena        |MI        |     15|  3|   4|  0|  0| 
-|Joey Meneses       |CI        |     19|  2|   9|  0|  0| 
-|Daulton Varsho     |OF        |     11|  5|   5|  2|  0| 
+|Joey Meneses       |CI        |     21|  3|  10|  0|  0| 
+|Daulton Varsho     |OF        |     12|  6|   5|  2|  0| 
 |Esteury Ruiz       |OF        |     23|  7|   6|  1|  9| 
 |Masataka Yoshida   |OF        |     17|  5|   5|  0|  1| 
-|Ronald Acuna Jr.   |OF        |     21| 13|   6|  5|  5| 
-|Brett Baty         |DH        |     14|  6|   4|  2|  0| 
-|Harrison Bader     |DH        |     11|  5|   9|  3|  3| 
-|Javier Baez        |DH        |     14|  5|   7|  0|  0| 
-|Jorge Soler        |DH        |     22| 11|  10|  5|  0| 
+|Ronald Acuna Jr.   |OF        |     23| 13|   6|  5|  7| 
+|Brett Baty         |DH        |     15|  7|   6|  2|  0| 
+|Harrison Bader     |DH        |     12|  5|   9|  3|  4| 
+|Javier Baez        |DH        |     15|  5|   9|  0|  0| 
+|Jorge Soler        |DH        |     25| 13|  12|  6|  0| 
 |Giancarlo Stanton  |BAT BENCH |     **| **|  **| **| **| 
 |Jordan Walker      |BAT BENCH |     **| **|  **| **| **| 
 |Jose Abreu         |BAT BENCH |     16|  4|   3|  0|  0| 
-|Matt Mervis        |BAT BENCH |     12|  5|   5|  2|  0| 
+|Matt Mervis        |BAT BENCH |     13|  5|   5|  2|  0| 
 |Ramon Laureano     |BAT BENCH |      8|  6|   5|  2|  0| 
 
 
@@ -48,7 +48,7 @@
 |J.P. France        |OP          |  3| 16.000|  8| 4.500|     21| 1.312| 13|  1|  0| 
 |Patrick Sandoval   |OP          |  2| 12.333|  5| 3.649|     15| 1.216|  8|  0|  0| 
 |Matthew Boyd       |PITCH BENCH |  3| 11.667|  9| 6.943|     19| 1.629| 11|  1|  0| 
-|Miles Mikolas      |PITCH BENCH |  2| 13.000|  4| 2.769|     12| 0.923|  2|  1|  0| 
+|Miles Mikolas      |PITCH BENCH |  3| 20.000|  4| 1.800|     17| 0.850|  7|  2|  0| 
 
 
 * * *

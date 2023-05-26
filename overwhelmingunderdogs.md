@@ -5,22 +5,22 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Sean Murphy      |C         |      9|  6|   4|  1|  0| 
-|Pete Alonso      |1B        |     20|  9|  13|  6|  0| 
+|Sean Murphy      |C         |     10|  6|   4|  1|  0| 
+|Pete Alonso      |1B        |     25| 11|  15|  7|  1| 
 |Jorge Polanco    |2B        |     12|  5|   3|  2|  1| 
 |Alex Bregman     |3B        |     18|  9|   7|  2|  1| 
 |Trea Turner      |SS        |     15|  4|   3|  1|  2| 
 |Anthony Volpe    |MI        |     14|  7|  11|  4|  2| 
 |Josh Jung        |CI        |     22| 10|   9|  3|  0| 
 |Bryan Reynolds   |OF        |     17|  8|   5|  1|  1| 
-|Christian Yelich |OF        |     16|  6|   8|  3|  3| 
-|Julio Rodriguez  |OF        |     21| 11|   8|  1|  2| 
+|Christian Yelich |OF        |     18|  6|   8|  3|  3| 
+|Julio Rodriguez  |OF        |     23| 11|   8|  1|  2| 
 |Taylor Ward      |OF        |      7|  4|   2|  0|  0| 
 |Andrew McCutchen |DH        |     20|  7|   3|  1|  1| 
-|Brandon Nimmo    |DH        |     20|  6|   5|  1|  0| 
+|Brandon Nimmo    |DH        |     22|  8|   7|  1|  0| 
 |J.D. Martinez    |DH        |     17|  7|  15|  5|  0| 
 |Nathaniel Lowe   |DH        |     28| 12|   6|  1|  0| 
-|Brendan Donovan  |BAT BENCH |     18|  8|   2|  1|  1| 
+|Brendan Donovan  |BAT BENCH |     19|  8|   2|  1|  1| 
 |Tommy Edman      |BAT BENCH |     19| 10|   7|  1|  4| 
 
 * * *
@@ -45,7 +45,7 @@
 |Will Smith       |OP          |  4|  4.000|  0|  0.000|      0| 0.000|  6|  0|  4| 
 |Aaron Civale     |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Max Fried        |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Sean Manaea      |PITCH BENCH |  3|  8.000|  5|  5.625|     15| 1.875| 14|  1|  0| 
+|Sean Manaea      |PITCH BENCH |  4|  9.333|  5|  4.821|     15| 1.607| 17|  1|  0| 
 
 
 * * *

@@ -7,19 +7,19 @@
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Adley Rutschman    |C         |     23|  7|   5|  2|  0| 
 |Vinnie Pasquantino |1B        |     15|  4|   5|  2|  0| 
-|Jake Cronenworth   |2B        |     17|  3|   4|  2|  1| 
+|Jake Cronenworth   |2B        |     19|  4|   4|  2|  1| 
 |Bobby Witt Jr.     |3B        |     14|  7|   5|  1|  4| 
 |Carlos Correa      |SS        |     22|  3|   9|  1|  0| 
 |Jorge Mateo        |MI        |      6|  4|   2|  0|  2| 
-|Spencer Torkelson  |CI        |     16|  5|   5|  1|  0| 
-|Aaron Judge        |OF        |     32| 13|  17|  8|  1| 
+|Spencer Torkelson  |CI        |     20|  6|   6|  1|  0| 
+|Aaron Judge        |OF        |     33| 14|  17|  8|  1| 
 |Corbin Carroll     |OF        |     24|  9|   6|  2|  4| 
 |MJ Melendez        |OF        |     14|  6|   5|  0|  0| 
-|Riley Greene       |OF        |     21|  7|   3|  2|  0| 
+|Riley Greene       |OF        |     25|  8|   4|  2|  0| 
 |CJ Abrams          |DH        |     11|  6|   8|  3|  2| 
 |Jordan Diaz        |DH        |      6|  0|   0|  0|  0| 
 |Max Kepler         |DH        |      2|  3|   2|  1|  0| 
-|TJ Friedl          |DH        |      3|  1|   0|  0|  0| 
+|TJ Friedl          |DH        |      6|  1|   0|  0|  1| 
 |Jose Miranda       |BAT BENCH |     **| **|  **| **| **| 
 |Oneil Cruz         |BAT BENCH |     **| **|  **| **| **| 
 |Oscar Colas        |BAT BENCH |     **| **|  **| **| **| 
@@ -43,7 +43,7 @@
 |Brusdar Graterol   |OP          |  6|  5.667|  0|  0.000|      5| 0.882|  3|  1|  1| 
 |Jorge Lopez        |OP          |  7|  7.000|  4|  5.143|     11| 1.571|  8|  0|  1| 
 |Kyle Bradish       |OP          |  3| 17.667|  5|  2.547|     18| 1.019| 14|  1|  0| 
-|Kyle Finnegan      |OP          |  5|  5.667|  0|  0.000|      5| 0.882|  6|  0|  3| 
+|Kyle Finnegan      |OP          |  6|  6.667|  0|  0.000|      6| 0.900|  8|  0|  3| 
 |Marco Gonzales     |OP          |  3| 13.667| 12|  7.902|     22| 1.610|  7|  2|  0| 
 |Garrett Whitlock   |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Kenta Maeda        |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
