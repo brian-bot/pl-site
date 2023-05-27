@@ -6,22 +6,22 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Jonah Heim        |C         |     10|  5|   6|  0|  1| 
-|Anthony Rizzo     |1B        |     22| 10|  14|  5|  0| 
-|Gleyber Torres    |2B        |     24| 11|   9|  3|  0| 
+|Anthony Rizzo     |1B        |     24| 10|  15|  5|  0| 
+|Gleyber Torres    |2B        |     25| 12|   9|  3|  0| 
 |Max Muncy         |3B        |     15|  7|   6|  3|  0| 
-|Willy Adames      |SS        |     11|  4|   4|  2|  2| 
-|Christopher Morel |MI        |     20| 16|  14|  8|  0| 
-|Yandy Diaz        |CI        |     13|  6|   8|  2|  0| 
+|Willy Adames      |SS        |     12|  4|   4|  2|  2| 
+|Christopher Morel |MI        |     21| 16|  14|  8|  0| 
+|Yandy Diaz        |CI        |     17|  8|  10|  3|  0| 
 |Adolis Garcia     |OF        |     18| 13|  13|  5|  1| 
-|Bryce Harper      |OF        |     27| 11|   6|  2|  2| 
+|Bryce Harper      |OF        |     28| 11|   7|  2|  2| 
 |Cedric Mullins    |OF        |     21|  7|  11|  4|  2| 
-|Kyle Schwarber    |OF        |     21|  8|   9|  4|  0| 
-|Jack Suwinski     |DH        |     13|  3|   4|  0|  0| 
-|James Outman      |DH        |      9|  3|   5|  1|  1| 
-|Jose Siri         |DH        |     13|  9|   7|  5|  1| 
+|Kyle Schwarber    |OF        |     22|  8|   9|  4|  0| 
+|Jack Suwinski     |DH        |     16|  5|   7|  2|  0| 
+|James Outman      |DH        |     10|  3|   5|  1|  1| 
+|Jose Siri         |DH        |     15| 10|   9|  6|  1| 
 |Patrick Wisdom    |DH        |      8|  2|   2|  1|  0| 
 |LaMonte Wade Jr.  |BAT BENCH |     24|  8|   6|  1|  1| 
-|Ryan McMahon      |BAT BENCH |     20|  6|   4|  0|  3| 
+|Ryan McMahon      |BAT BENCH |     22|  7|   5|  1|  3| 
 |Tyler O'Neill     |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -48,7 +48,7 @@
 |Jacob deGrom    |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Jose Alvarado   |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Mason Miller    |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Pete Fairbanks  |PITCH BENCH |  4|  3.000|  2|  6.000|      6| 2.000|  3|  0|  2| 
+|Pete Fairbanks  |PITCH BENCH |  5|  4.000|  2|  4.500|      6| 1.500|  4|  0|  2| 
 
 
 * * *

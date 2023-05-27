@@ -5,18 +5,18 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman    |C         |     23|  7|   5|  2|  0| 
-|Vinnie Pasquantino |1B        |     15|  4|   5|  2|  0| 
-|Jake Cronenworth   |2B        |     19|  4|   4|  2|  1| 
-|Bobby Witt Jr.     |3B        |     14|  7|   5|  1|  4| 
-|Carlos Correa      |SS        |     22|  3|   9|  1|  0| 
+|Adley Rutschman    |C         |     27|  8|   6|  3|  0| 
+|Vinnie Pasquantino |1B        |     16|  4|   5|  2|  0| 
+|Jake Cronenworth   |2B        |     22|  5|   4|  2|  1| 
+|Bobby Witt Jr.     |3B        |     18| 10|  10|  3|  5| 
+|Carlos Correa      |SS        |     25|  3|   9|  1|  0| 
 |Jorge Mateo        |MI        |      6|  4|   2|  0|  2| 
-|Spencer Torkelson  |CI        |     20|  6|   6|  1|  0| 
-|Aaron Judge        |OF        |     33| 14|  17|  8|  1| 
-|Corbin Carroll     |OF        |     24|  9|   6|  2|  4| 
-|MJ Melendez        |OF        |     14|  6|   5|  0|  0| 
-|Riley Greene       |OF        |     25|  8|   4|  2|  0| 
-|CJ Abrams          |DH        |     11|  6|   8|  3|  2| 
+|Spencer Torkelson  |CI        |     21|  7|   6|  1|  0| 
+|Aaron Judge        |OF        |     34| 14|  17|  8|  1| 
+|Corbin Carroll     |OF        |     25|  9|   6|  2|  4| 
+|MJ Melendez        |OF        |     17|  7|   5|  0|  1| 
+|Riley Greene       |OF        |     26|  8|   4|  2|  0| 
+|CJ Abrams          |DH        |     14|  7|   8|  3|  2| 
 |Jordan Diaz        |DH        |      6|  0|   0|  0|  0| 
 |Max Kepler         |DH        |      2|  3|   2|  1|  0| 
 |TJ Friedl          |DH        |      6|  1|   0|  0|  1| 
@@ -37,8 +37,8 @@
 |Kodai Senga        |SP          |  3| 16.000|  9|  5.062|     26| 1.625| 25|  0|  0| 
 |Peyton Battenfield |SP          |  2| 10.333|  9|  7.839|     17| 1.645|  6|  0|  0| 
 |Sandy Alcantara    |SP          |  3| 19.333| 12|  5.586|     24| 1.241| 17|  1|  0| 
-|Shane Bieber       |SP          |  2| 12.667|  7|  4.974|     21| 1.658|  8|  0|  0| 
-|Jordan Romano      |RP          |  4|  5.000|  2|  3.600|      8| 1.600|  6|  1|  1| 
+|Shane Bieber       |SP          |  3| 19.333|  9|  4.190|     30| 1.552| 10|  1|  0| 
+|Jordan Romano      |RP          |  5|  6.000|  2|  3.000|      9| 1.500|  6|  1|  2| 
 |Kenley Jansen      |RP          |  5|  4.000|  5| 11.250|     12| 3.000|  1|  0|  2| 
 |Brusdar Graterol   |OP          |  6|  5.667|  0|  0.000|      5| 0.882|  3|  1|  1| 
 |Jorge Lopez        |OP          |  7|  7.000|  4|  5.143|     11| 1.571|  8|  0|  1| 
