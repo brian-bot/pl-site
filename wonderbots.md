@@ -7,15 +7,15 @@
 |:---------------------|:--------|------:|--:|---:|--:|--:| 
 |Alejandro Kirk        |C        |     12|  2|   3|  0|  0| 
 |Vladimir Guerrero Jr. |1B       |     18|  3|  13|  1|  0| 
-|Marcus Semien         |2B       |     28| 17|  15|  3|  2| 
+|Marcus Semien         |2B       |     30| 18|  16|  3|  2| 
 |Manny Machado         |3B       |      3|  1|   2|  0|  0| 
 |Xander Bogaerts       |SS       |     21|  7|   4|  1|  3| 
-|J.P. Crawford         |MI       |     26| 13|   8|  2|  0| 
+|J.P. Crawford         |MI       |     27| 13|   8|  2|  0| 
 |Luis Arraez           |CI       |     25|  7|   7|  0|  0| 
-|Anthony Santander     |OF       |     25|  8|   8|  3|  1| 
+|Anthony Santander     |OF       |     28|  8|   8|  3|  1| 
 |Ian Happ              |OF       |     23|  2|   3|  0|  0| 
 |Nick Castellanos      |OF       |     23|  7|   4|  0|  2| 
-|Steven Kwan           |OF       |     22| 11|   4|  0|  1| 
+|Steven Kwan           |OF       |     24| 12|   5|  0|  1| 
 |Austin Hays           |DH       |     26|  8|  10|  2|  0| 
 |Harold Ramirez        |DH       |     16|  7|   8|  2|  0| 
 |Josh Bell             |DH       |     19|  0|   6|  0|  0| 
@@ -43,7 +43,7 @@
 |Tyler Anderson   |OP          |  3| 17.000|  7|  3.706|     24| 1.412|  6|  1|  0| 
 |Yusei Kikuchi    |OP          |  3| 13.667| 12|  7.902|     26| 1.902| 15|  0|  0| 
 |Andres Munoz     |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Jose Leclerc     |PITCH BENCH |  4|  3.333|  2|  5.400|      7| 2.100|  5|  0|  0| 
+|Jose Leclerc     |PITCH BENCH |  5|  4.333|  2|  4.154|      8| 1.846|  5|  0|  0| 
 |Noah Syndergaard |PITCH BENCH |  3| 15.000| 11|  6.600|     18| 1.200| 12|  0|  0| 
 
 

@@ -6,23 +6,23 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |William Contreras |C         |     15|  5|   6|  3|  0| 
-|Freddie Freeman   |1B        |     42| 15|  18|  4|  1| 
+|Freddie Freeman   |1B        |     43| 16|  20|  4|  1| 
 |Jonathan India    |2B        |     28| 17|   7|  2|  1| 
-|Jose Ramirez      |3B        |     18|  6|   8|  2|  0| 
+|Jose Ramirez      |3B        |     19|  6|   8|  2|  0| 
 |Bo Bichette       |SS        |     31|  7|  13|  3|  1| 
 |Orlando Arcia     |MI        |     21|  7|   5|  2|  0| 
 |Gunnar Henderson  |CI        |     18|  7|   4|  2|  1| 
 |Byron Buxton      |OF        |     20|  9|   4|  2|  4| 
 |Jarren Duran      |OF        |     15|  4|   6|  1|  2| 
 |Luis Robert Jr.   |OF        |     17| 11|   9|  5|  1| 
-|Seiya Suzuki      |OF        |     28|  9|  10|  5|  1| 
+|Seiya Suzuki      |OF        |     29| 10|  10|  5|  1| 
 |Amed Rosario      |DH        |     19|  6|   6|  0|  2| 
-|Brandon Drury     |DH        |     20|  7|   4|  1|  0| 
+|Brandon Drury     |DH        |     23|  8|   7|  2|  0| 
 |Ezequiel Duran    |DH        |     17|  7|   7|  3|  1| 
-|Kris Bryant       |DH        |     15|  5|   4|  0|  0| 
+|Kris Bryant       |DH        |     16|  6|   4|  0|  0| 
 |Adam Duvall       |BAT BENCH |     **| **|  **| **| **| 
-|Alex Kirilloff    |BAT BENCH |     23|  9|   7|  3|  0| 
-|Eloy Jimenez      |BAT BENCH |      3|  1|   2|  0|  0| 
+|Alex Kirilloff    |BAT BENCH |     28| 10|   7|  3|  0| 
+|Eloy Jimenez      |BAT BENCH |      5|  2|   4|  1|  0| 
 |Geraldo Perdomo   |BAT BENCH |     15| 10|   7|  3|  2| 
 |Nick Senzel       |BAT BENCH |     25|  7|  11|  1|  2| 
 
@@ -39,7 +39,7 @@
 |Chris Sale      |SP          |  3| 20.000|  4| 1.800|     13| 0.650| 20|  2|  0| 
 |Clayton Kershaw |SP          |  4| 19.667| 11| 5.034|     29| 1.475| 27|  1|  0| 
 |Dylan Cease     |SP          |  4| 22.333|  9| 3.627|     27| 1.209| 19|  1|  0| 
-|Sonny Gray      |SP          |  3| 14.333|  5| 3.140|     21| 1.465| 19|  0|  0| 
+|Sonny Gray      |SP          |  4| 20.333|  7| 3.098|     28| 1.377| 22|  0|  0| 
 |Emmanuel Clase  |RP          |  6|  5.667|  6| 9.529|     12| 2.118|  7|  0|  4| 
 |Josh Hader      |RP          |  6|  6.000|  0| 0.000|      5| 0.833| 12|  0|  2| 
 |A.J. Puk        |OP          |  1|  1.000|  0| 0.000|      1| 1.000|  2|  0|  1| 

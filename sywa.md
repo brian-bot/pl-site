@@ -6,21 +6,21 @@
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Cal Raleigh         |C         |     21|  9|   7|  3|  0| 
-|Christian Walker    |1B        |     18|  8|   6|  2|  0| 
+|Christian Walker    |1B        |     19|  9|   6|  2|  0| 
 |Whit Merrifield     |2B        |     23| 12|   5|  1|  7| 
-|Nolan Arenado       |3B        |     26| 10|  17|  6|  1| 
-|Dansby Swanson      |SS        |     22|  8|  10|  2|  1| 
+|Nolan Arenado       |3B        |     27| 10|  17|  6|  1| 
+|Dansby Swanson      |SS        |     23|  8|  10|  2|  1| 
 |Jeff McNeil         |MI        |     25| 11|   4|  0|  1| 
 |C.J. Cron           |CI        |      2|  2|   3|  0|  0| 
 |Alex Verdugo        |OF        |     21| 10|   3|  0|  0| 
-|Lourdes Gurriel Jr. |OF        |     24|  8|   9|  3|  0| 
-|Teoscar Hernandez   |OF        |     19|  5|  10|  2|  2| 
-|Yordan Alvarez      |OF        |     29| 15|  15|  7|  0| 
+|Lourdes Gurriel Jr. |OF        |     26|  9|  10|  4|  0| 
+|Teoscar Hernandez   |OF        |     20|  5|  11|  2|  2| 
+|Yordan Alvarez      |OF        |     30| 16|  15|  7|  0| 
 |Alec Bohm           |DH        |     18|  7|  12|  3|  0| 
 |Ha-Seong Kim        |DH        |     17|  7|   7|  2|  1| 
 |Josh Naylor         |DH        |     18|  6|  13|  4|  1| 
-|Ty France           |DH        |     22| 11|   6|  3|  0| 
-|Jake McCarthy       |BAT BENCH |      2|  0|   0|  0|  1| 
+|Ty France           |DH        |     23| 11|   6|  3|  0| 
+|Jake McCarthy       |BAT BENCH |      5|  1|   2|  0|  3| 
 |Jesse Winker        |BAT BENCH |      8|  2|   1|  0|  0| 
 |Oscar Gonzalez      |BAT BENCH |     **| **|  **| **| **| 
 
