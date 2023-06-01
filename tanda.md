@@ -5,26 +5,24 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez     |C         |     18|  8|  12|  5|  0| 
-|Matt Olson         |1B        |     25| 12|  13|  6|  1| 
-|Jazz Chisholm Jr.  |2B        |      4|  2|   2|  2|  1| 
-|Matt Chapman       |3B        |     18|  7|   5|  2|  1| 
-|Fernando Tatis Jr. |SS        |     22|  9|   8|  5|  3| 
-|Jeremy Pena        |MI        |     20|  6|   8|  2|  0| 
-|Joey Meneses       |CI        |     29|  6|  13|  0|  0| 
-|Daulton Varsho     |OF        |     14|  8|   7|  3|  0| 
-|Esteury Ruiz       |OF        |     28|  8|   7|  1| 10| 
-|Masataka Yoshida   |OF        |     23|  6|   5|  0|  1| 
-|Ronald Acuna Jr.   |OF        |     28| 15|   9|  5|  7| 
-|Brett Baty         |DH        |     18|  7|   9|  2|  0| 
-|Harrison Bader     |DH        |     16|  8|  11|  4|  6| 
-|Javier Baez        |DH        |     16|  5|  10|  0|  0| 
-|Jorge Soler        |DH        |     28| 15|  15|  8|  0| 
+|Salvador Perez     |C         |      2|  0|   0|  0|  0| 
+|Matt Olson         |1B        |      2|  0|   0|  0|  0| 
+|Matt McLain        |2B        |      3|  0|   0|  0|  0| 
+|Matt Chapman       |3B        |      3|  2|   1|  0|  0| 
+|Fernando Tatis Jr. |SS        |      2|  1|   1|  0|  1| 
+|Jeremy Pena        |MI        |      6|  1|   0|  0|  0| 
+|Spencer Steer      |CI        |      4|  2|   3|  1|  0| 
+|Esteury Ruiz       |OF        |      2|  0|   1|  0|  1| 
+|Jorge Soler        |OF        |      4|  0|   0|  0|  0| 
+|Masataka Yoshida   |OF        |      6|  2|   2|  1|  0| 
+|Ronald Acuna Jr.   |OF        |      3|  0|   1|  0|  1| 
+|Brandon Drury      |DH        |      1|  0|   0|  0|  0| 
+|Bryan De La Cruz   |DH        |      5|  2|   3|  1|  0| 
+|Daulton Varsho     |DH        |      2|  0|   0|  0|  0| 
+|Marcell Ozuna      |DH        |      0|  0|   0|  0|  0| 
 |Giancarlo Stanton  |BAT BENCH |     **| **|  **| **| **| 
-|Jordan Walker      |BAT BENCH |     **| **|  **| **| **| 
-|Jose Abreu         |BAT BENCH |     20|  6|   5|  1|  0| 
-|Matt Mervis        |BAT BENCH |     14|  5|   5|  2|  0| 
-|Ramon Laureano     |BAT BENCH |     15|  8|   6|  2|  1| 
+|Harrison Bader     |BAT BENCH |     **| **|  **| **| **| 
+|Jazz Chisholm Jr.  |BAT BENCH |     **| **|  **| **| **| 
 
 
 * * *
@@ -32,23 +30,25 @@
 ### Pitchers
 
  
-|players            |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
-|:------------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Anthony DeSclafani |SP          |  4| 22.333| 12| 4.836|     29| 1.299| 16|  1|  0| 
-|Charlie Morton     |SP          |  3| 17.000|  8| 4.235|     28| 1.647| 24|  1|  0| 
-|Framber Valdez     |SP          |  3| 19.000|  5| 2.368|     20| 1.053| 20|  2|  0| 
-|Freddy Peralta     |SP          |  3| 13.667| 13| 8.561|     28| 2.049| 12|  1|  0| 
-|Hunter Greene      |SP          |  4| 22.333| 12| 4.836|     29| 1.299| 33|  1|  0| 
-|Yu Darvish         |SP          |  4| 20.000| 16| 7.200|     27| 1.350| 19|  1|  0| 
-|Alexis Diaz        |RP          |  7|  8.333|  1| 1.080|      9| 1.080| 16|  0|  5| 
-|David Robertson    |RP          |  7|  8.000|  3| 3.375|      8| 1.000|  8|  2|  2| 
-|Andrew Heaney      |OP          |  3| 19.000|  2| 0.947|     19| 1.000| 17|  2|  0| 
-|Edward Cabrera     |OP          |  4| 20.000| 12| 5.400|     25| 1.250| 22|  1|  0| 
-|Graham Ashcraft    |OP          |  4| 20.667| 20| 8.710|     37| 1.790| 17|  1|  0| 
-|J.P. France        |OP          |  4| 22.000| 12| 4.909|     31| 1.409| 21|  1|  0| 
-|Patrick Sandoval   |OP          |  3| 18.333|  7| 3.436|     25| 1.364| 10|  0|  0| 
-|Matthew Boyd       |PITCH BENCH |  4| 17.667| 14| 7.132|     28| 1.585| 16|  1|  0| 
-|Miles Mikolas      |PITCH BENCH |  3| 20.000|  4| 1.800|     17| 0.850|  7|  2|  0| 
+|players            |position    |  g|    ip| er|   era| hitsbb|  whip| so|  w| sv| 
+|:------------------|:-----------|--:|-----:|--:|-----:|------:|-----:|--:|--:|--:| 
+|Andrew Heaney      |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Charlie Morton     |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Edward Cabrera     |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Framber Valdez     |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Hunter Greene      |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Yu Darvish         |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Alexis Diaz        |RP          |  1| 0.667|  0| 0.000|      1| 1.500|  1|  0|  1| 
+|David Robertson    |RP          |  2| 2.000|  0| 0.000|      2| 1.000|  3|  0|  2| 
+|Brayan Bello       |OP          |  1| 4.000|  1| 2.250|      7| 1.750|  4|  0|  0| 
+|Freddy Peralta     |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Jared Shuster      |OP          |  1| 5.333|  2| 3.375|      7| 1.312|  1|  1|  0| 
+|Miles Mikolas      |OP          |  1| 8.000|  0| 0.000|      4| 0.500| 10|  1|  0| 
+|Pierce Johnson     |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|A.J. Puk           |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
+|Anthony DeSclafani |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
+|Jack Flaherty      |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
+|Patrick Sandoval   |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
 
 
 * * *
