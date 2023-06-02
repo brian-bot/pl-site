@@ -8,22 +8,22 @@
 |Elias Diaz        |C         |      1|  0|   0|  0|  0| 
 |Freddie Freeman   |1B        |      7|  4|   1|  1|  2| 
 |Jonathan India    |2B        |      2|  2|   0|  0|  0| 
-|Jose Ramirez      |3B        |      4|  3|   1|  0|  0| 
-|Bo Bichette       |SS        |      1|  0|   1|  0|  0| 
+|Jose Ramirez      |3B        |      5|  4|   2|  0|  0| 
+|Bo Bichette       |SS        |      2|  1|   2|  1|  0| 
 |Amed Rosario      |MI        |      3|  2|   0|  0|  0| 
-|Alex Kirilloff    |CI        |      6|  1|   1|  0|  0| 
-|Byron Buxton      |OF        |      1|  0|   0|  0|  0| 
-|Jarren Duran      |OF        |      2|  0|   2|  0|  0| 
+|Alex Kirilloff    |CI        |      9|  2|   2|  0|  0| 
+|Byron Buxton      |OF        |      2|  0|   0|  0|  0| 
+|Jarren Duran      |OF        |      4|  1|   2|  0|  0| 
 |Luis Robert Jr.   |OF        |      4|  2|   0|  0|  0| 
 |Seiya Suzuki      |OF        |      5|  1|   0|  0|  0| 
 |Eloy Jimenez      |DH        |      2|  2|   1|  0|  0| 
-|Geraldo Perdomo   |DH        |      0|  0|   0|  0|  0| 
+|Geraldo Perdomo   |DH        |      1|  0|   0|  0|  0| 
 |Orlando Arcia     |DH        |      4|  2|   0|  0|  0| 
 |Yoan Moncada      |DH        |      3|  2|   0|  0|  0| 
 |Adam Duvall       |BAT BENCH |     **| **|  **| **| **| 
 |Gunnar Henderson  |BAT BENCH |      3|  1|   3|  0|  0| 
 |Kris Bryant       |BAT BENCH |      1|  0|   0|  0|  0| 
-|William Contreras |BAT BENCH |      3|  1|   2|  1|  0| 
+|William Contreras |BAT BENCH |      4|  1|   2|  1|  0| 
 
 
 * * *
@@ -35,7 +35,7 @@
 |:---------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
 |Blake Snell     |SP          |  1| 6.000|  0|  0.000|      6| 1.000|  7|  0|  0| 
 |Chris Bassitt   |SP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Chris Sale      |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Chris Sale      |SP          |  1| 3.667|  1|  2.455|      6| 1.636|  6|  0|  0| 
 |Clayton Kershaw |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Louie Varland   |SP          |  1| 7.000|  0|  0.000|      5| 0.714|  5|  1|  0| 
 |Sonny Gray      |SP          | **|    **| **|     **|     **|    **| **| **| **| 

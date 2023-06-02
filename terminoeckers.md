@@ -6,17 +6,17 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |J.T. Realmuto    |C         |      1|  0|   0|  0|  0| 
-|Rowdy Tellez     |1B        |      0|  0|   0|  0|  0| 
+|Rowdy Tellez     |1B        |      1|  1|   0|  0|  0| 
 |Mookie Betts     |2B        |      4|  3|   2|  2|  0| 
 |Austin Riley     |3B        |      1|  0|   1|  0|  0| 
 |Corey Seager     |SS        |      2|  0|   0|  0|  0| 
 |Brandon Lowe     |MI        |      2|  1|   2|  1|  0| 
-|Ryan McMahon     |CI        |      3|  0|   0|  0|  0| 
-|Hunter Renfroe   |OF        |      1|  1|   0|  0|  0| 
+|Ryan McMahon     |CI        |      5|  1|   0|  0|  0| 
+|Hunter Renfroe   |OF        |      4|  1|   0|  0|  0| 
 |Jarred Kelenic   |OF        |      0|  0|   0|  0|  0| 
 |Josh Lowe        |OF        |      2|  0|   0|  0|  1| 
-|Juan Soto        |OF        |      4|  1|   2|  0|  1| 
-|Jake McCarthy    |DH        |      4|  1|   0|  0|  3| 
+|Juan Soto        |OF        |      5|  1|   2|  0|  1| 
+|Jake McCarthy    |DH        |      5|  1|   0|  0|  3| 
 |Michael Conforto |DH        |      2|  0|   1|  0|  0| 
 |Nolan Gorman     |DH        |      0|  0|   1|  0|  0| 
 |Zach McKinstry   |DH        |      1|  1|   0|  0|  0| 
@@ -42,7 +42,7 @@
 |Alex Lange        |OP          |  1| 1.000|  0|  0.000|      1| 1.000|  2|  0|  1| 
 |Lance Lynn        |OP          |  1| 4.000|  8| 18.000|     10| 2.500|  4|  0|  0| 
 |Taj Bradley       |OP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Tanner Bibee      |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Tanner Bibee      |OP          |  1| 5.000|  3|  5.400|      7| 1.400|  6|  0|  0| 
 |Yennier Cano      |OP          |  1| 1.333|  0|  0.000|      2| 1.500|  0|  0|  0| 
 |Bobby Miller      |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Braxton Garrett   |PITCH BENCH |  1| 5.333|  1|  1.688|      3| 0.562|  7|  0|  0| 

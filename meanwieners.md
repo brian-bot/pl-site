@@ -13,7 +13,7 @@
 |Paul DeJong       |MI        |      0|  0|   0|  0|  0| 
 |Yandy Diaz        |CI        |      0|  0|   0|  0|  0| 
 |Adolis Garcia     |OF        |      5|  3|   0|  0|  1| 
-|Bryce Harper      |OF        |      2|  0|   0|  0|  0| 
+|Bryce Harper      |OF        |      3|  1|   0|  0|  1| 
 |Jose Siri         |OF        |      2|  1|   2|  1|  0| 
 |Kyle Schwarber    |OF        |      1|  0|   0|  0|  0| 
 |Isaac Paredes     |DH        |      0|  0|   0|  0|  0| 
