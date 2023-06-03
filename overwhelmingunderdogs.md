@@ -5,48 +5,48 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Sean Murphy      |C         |      0|  0|   0|  0|  0| 
-|Pete Alonso      |1B        |      2|  1|   0|  0|  0| 
-|Jorge Polanco    |2B        |      1|  0|   0|  0|  0| 
-|Alex Bregman     |3B        |      6|  1|   4|  1|  0| 
-|Trea Turner      |SS        |      1|  1|   0|  0|  1| 
+|Sean Murphy      |C         |      1|  0|   0|  0|  0| 
+|Pete Alonso      |1B        |      3|  1|   0|  0|  0| 
+|Jorge Polanco    |2B        |      2|  0|   1|  0|  0| 
+|Alex Bregman     |3B        |      8|  1|   5|  1|  0| 
+|Trea Turner      |SS        |      2|  2|   0|  0|  1| 
 |Anthony Volpe    |MI        |      1|  1|   3|  1|  0| 
 |Josh Jung        |CI        |      5|  4|   2|  1|  0| 
-|Bryan Reynolds   |OF        |      1|  1|   3|  0|  0| 
-|Christian Yelich |OF        |      6|  1|   0|  0|  1| 
-|Julio Rodriguez  |OF        |      2|  0|   0|  0|  1| 
-|Taylor Ward      |OF        |      6|  3|   4|  2|  0| 
-|Andrew McCutchen |DH        |      6|  2|   1|  0|  1| 
+|Bryan Reynolds   |OF        |      2|  1|   3|  0|  0| 
+|Christian Yelich |OF        |      9|  3|   0|  0|  1| 
+|Julio Rodriguez  |OF        |      3|  0|   0|  0|  2| 
+|Taylor Ward      |OF        |      9|  3|   5|  2|  0| 
+|Andrew McCutchen |DH        |      9|  3|   1|  0|  2| 
 |Brandon Nimmo    |DH        |      2|  1|   0|  0|  0| 
-|J.D. Martinez    |DH        |      4|  1|   3|  1|  0| 
-|Nathaniel Lowe   |DH        |      4|  2|   2|  0|  0| 
-|Brendan Donovan  |BAT BENCH |      2|  0|   0|  0|  0| 
-|Tommy Edman      |BAT BENCH |      1|  1|   0|  0|  1| 
+|J.D. Martinez    |DH        |      6|  3|   4|  2|  0| 
+|Nathaniel Lowe   |DH        |      5|  2|   3|  0|  0| 
+|Brendan Donovan  |BAT BENCH |      4|  1|   2|  1|  0| 
+|Tommy Edman      |BAT BENCH |      2|  2|   0|  0|  1| 
 
 * * *
 
 ### Pitchers
 
  
-|players           |position    |  g|    ip| er|   era| hitsbb|  whip| so|  w| sv| 
-|:-----------------|:-----------|--:|-----:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Bryce Elder       |SP          |  1| 7.333|  1| 1.227|      8| 1.091|  5|  0|  0| 
-|Griffin Canning   |SP          | **|    **| **|    **|     **|    **| **| **| **| 
-|JP Sears          |SP          |  1| 6.000|  1| 1.500|      5| 0.833|  2|  0|  0| 
-|Marcus Stroman    |SP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Max Scherzer      |SP          |  1| 7.000|  1| 1.286|      6| 0.857|  9|  1|  0| 
-|Shane McClanahan  |SP          |  1| 5.667|  2| 3.176|      8| 1.412|  7|  0|  0| 
-|Devin Williams    |RP          |  1| 1.000|  0| 0.000|      1| 1.000|  0|  0|  1| 
-|Jhoan Duran       |RP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Andrew Chafin     |OP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Giovanny Gallegos |OP          |  1| 1.000|  1| 9.000|      2| 2.000|  1|  0|  1| 
-|Justin Steele     |OP          |  1| 3.000|  0| 0.000|      0| 0.000|  1|  0|  0| 
-|Ryan Helsley      |OP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Will Smith        |OP          |  1| 1.000|  0| 0.000|      0| 0.000|  1|  0|  0| 
-|Aaron Civale      |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
-|Liam Hendriks     |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
-|Max Fried         |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
-|Wade Miley        |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
+|players           |position    |  g|    ip| er|    era| hitsbb|  whip| so|  w| sv| 
+|:-----------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
+|Bryce Elder       |SP          |  1| 7.333|  1|  1.227|      8| 1.091|  5|  0|  0| 
+|Griffin Canning   |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|JP Sears          |SP          |  1| 6.000|  1|  1.500|      5| 0.833|  2|  0|  0| 
+|Marcus Stroman    |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Max Scherzer      |SP          |  1| 7.000|  1|  1.286|      6| 0.857|  9|  1|  0| 
+|Shane McClanahan  |SP          |  1| 5.667|  2|  3.176|      8| 1.412|  7|  0|  0| 
+|Devin Williams    |RP          |  2| 2.000|  0|  0.000|      1| 0.500|  1|  0|  1| 
+|Jhoan Duran       |RP          |  1| 1.667|  0|  0.000|      2| 1.200|  3|  0|  1| 
+|Andrew Chafin     |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Giovanny Gallegos |OP          |  2| 1.667|  5| 27.000|      6| 3.600|  2|  0|  1| 
+|Justin Steele     |OP          |  1| 3.000|  0|  0.000|      0| 0.000|  1|  0|  0| 
+|Ryan Helsley      |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Will Smith        |OP          |  2| 2.000|  0|  0.000|      0| 0.000|  2|  0|  1| 
+|Aaron Civale      |PITCH BENCH |  1| 5.000|  0|  0.000|      6| 1.200|  4|  0|  0| 
+|Liam Hendriks     |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Max Fried         |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Wade Miley        |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 
 
 * * *
