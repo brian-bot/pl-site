@@ -8,21 +8,21 @@
 |Cal Raleigh         |C         |      2|  0|   1|  0|  0| 
 |Christian Walker    |1B        |      7|  3|   2|  1|  0| 
 |Whit Merrifield     |2B        |      8|  3|   2|  0|  1| 
-|Nolan Arenado       |3B        |      5|  1|   3|  1|  0| 
-|Dansby Swanson      |SS        |      5|  1|   1|  1|  0| 
-|Jeff McNeil         |MI        |      3|  0|   1|  0|  0| 
+|Nolan Arenado       |3B        |      6|  1|   3|  1|  0| 
+|Dansby Swanson      |SS        |      7|  1|   1|  1|  0| 
+|Jeff McNeil         |MI        |      5|  0|   1|  0|  0| 
 |Alec Bohm           |CI        |      0|  0|   0|  0|  0| 
-|Alex Verdugo        |OF        |      3|  1|   0|  0|  0| 
-|Lourdes Gurriel Jr. |OF        |      3|  0|   6|  0|  0| 
-|Teoscar Hernandez   |OF        |      3|  0|   1|  0|  0| 
-|Yordan Alvarez      |OF        |      5|  3|   2|  1|  0| 
-|Ha-Seong Kim        |DH        |      6|  4|   1|  0|  3| 
-|Josh Naylor         |DH        |      9|  4|   8|  1|  1| 
-|Royce Lewis         |DH        |      2|  2|   2|  1|  0| 
-|Ty France           |DH        |      3|  1|   1|  0|  0| 
-|Brenton Doyle       |BAT BENCH |      5|  1|   1|  0|  1| 
+|Alex Verdugo        |OF        |      6|  1|   2|  0|  0| 
+|Lourdes Gurriel Jr. |OF        |      5|  0|   6|  0|  0| 
+|Teoscar Hernandez   |OF        |      5|  0|   3|  0|  0| 
+|Yordan Alvarez      |OF        |      7|  4|   3|  1|  0| 
+|Ha-Seong Kim        |DH        |      9|  5|   1|  0|  4| 
+|Josh Naylor         |DH        |     11|  4|   8|  1|  1| 
+|Royce Lewis         |DH        |      3|  2|   2|  1|  0| 
+|Ty France           |DH        |      6|  2|   2|  0|  0| 
+|Brenton Doyle       |BAT BENCH |      5|  1|   2|  0|  1| 
 |C.J. Cron           |BAT BENCH |     **| **|  **| **| **| 
-|Owen Miller         |BAT BENCH |      6|  1|   2|  0|  1| 
+|Owen Miller         |BAT BENCH |      6|  1|   3|  0|  1| 
 
 
 * * *
@@ -33,16 +33,16 @@
 |players          |position    |  g|    ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
 |Corbin Burnes    |SP          |  1| 6.000|  3|  4.500|      6| 1.000|  7|  0|  0| 
-|Cristian Javier  |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Cristian Javier  |SP          |  1| 6.000|  1|  1.500|      6| 1.000|  5|  1|  0| 
 |Kevin Gausman    |SP          |  1| 6.667|  0|  0.000|      7| 1.050| 11|  1|  0| 
 |Logan Webb       |SP          |  1| 7.000|  3|  3.857|      5| 0.714|  6|  0|  0| 
 |Merrill Kelly    |SP          |  1| 7.000|  2|  2.571|      8| 1.143|  8|  1|  0| 
 |Zac Gallen       |SP          |  1| 6.000|  0|  0.000|      7| 1.167|  7|  1|  0| 
-|Camilo Doval     |RP          |  1| 1.000|  1|  9.000|      2| 2.000|  3|  0|  0| 
-|Scott Barlow     |RP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Craig Kimbrel    |OP          |  1| 1.000|  0|  0.000|      0| 0.000|  0|  0|  0| 
-|Jason Adam       |OP          |  1| 1.000|  0|  0.000|      2| 2.000|  3|  0|  0| 
-|MacKenzie Gore   |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Camilo Doval     |RP          |  2| 2.000|  1|  4.500|      2| 1.000|  4|  0|  0| 
+|Scott Barlow     |RP          |  1| 1.000|  0|  0.000|      0| 0.000|  1|  0|  0| 
+|Craig Kimbrel    |OP          |  2| 2.000|  0|  0.000|      0| 0.000|  1|  0|  1| 
+|Jason Adam       |OP          |  2| 2.000|  0|  0.000|      3| 1.500|  3|  0|  1| 
+|MacKenzie Gore   |OP          |  1| 6.000|  3|  4.500|      9| 1.500|  6|  0|  0| 
 |Roansy Contreras |OP          |  1| 4.000|  5| 11.250|      7| 1.750|  6|  0|  0| 
 |Tony Gonsolin    |OP          |  1| 6.000|  1|  1.500|      5| 0.833|  2|  1|  0| 
 |Alek Manoah      |PITCH BENCH |  1| 4.000|  2|  4.500|      6| 1.500|  2|  0|  0| 
