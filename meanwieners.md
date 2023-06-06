@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Jonah Heim        |C         |      9|  3|  12|  1|  0| 
+|Jonah Heim        |C         |     10|  4|  12|  1|  0| 
 |Anthony Rizzo     |1B        |      2|  2|   0|  0|  0| 
 |Gleyber Torres    |2B        |      5|  1|   0|  0|  1| 
 |Max Muncy         |3B        |      6|  3|   4|  1|  0| 
 |Christopher Morel |SS        |      3|  1|   0|  0|  0| 
-|Paul DeJong       |MI        |      6|  0|   0|  0|  0| 
-|Yandy Diaz        |CI        |      5|  2|   4|  0|  0| 
-|Adolis Garcia     |OF        |     10|  5|   2|  0|  1| 
-|Bryce Harper      |OF        |      9|  2|   0|  0|  1| 
+|Paul DeJong       |MI        |      9|  0|   1|  0|  0| 
+|Yandy Diaz        |CI        |      8|  3|   4|  0|  0| 
+|Adolis Garcia     |OF        |     11|  5|   2|  0|  1| 
+|Bryce Harper      |OF        |     11|  3|   1|  0|  1| 
 |Jose Siri         |OF        |      3|  1|   3|  1|  1| 
-|Kyle Schwarber    |OF        |      7|  3|   6|  2|  0| 
-|Isaac Paredes     |DH        |      4|  1|   0|  0|  0| 
+|Kyle Schwarber    |OF        |     10|  4|   6|  2|  0| 
+|Isaac Paredes     |DH        |      6|  1|   0|  0|  0| 
 |J.D. Davis        |DH        |     11|  2|   1|  0|  0| 
-|Jack Suwinski     |DH        |      6|  3|   1|  0|  0| 
+|Jack Suwinski     |DH        |      6|  3|   2|  0|  0| 
 |James Outman      |DH        |      3|  1|   1|  0|  1| 
 |Cedric Mullins    |BAT BENCH |     **| **|  **| **| **| 
 |Jake Burger       |BAT BENCH |      7|  4|   5|  2|  0| 
-|Ji Hwan Bae       |BAT BENCH |      5|  4|   2|  0|  2| 
+|Ji Hwan Bae       |BAT BENCH |      7|  5|   2|  0|  3| 
 |Patrick Wisdom    |BAT BENCH |      1|  0|   0|  0|  0| 
 |Willy Adames      |BAT BENCH |     **| **|  **| **| **| 
 

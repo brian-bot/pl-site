@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Willson Contreras |C         |      2|  1|   1|  1|  0| 
+|Willson Contreras |C         |      2|  2|   1|  1|  1| 
 |Ryan Mountcastle  |1B        |      5|  1|   1|  0|  0| 
 |Andres Gimenez    |2B        |     12|  2|   5|  0|  0| 
-|Rafael Devers     |3B        |     11|  3|   5|  0|  0| 
-|Nico Hoerner      |SS        |      8|  4|   1|  1|  2| 
+|Rafael Devers     |3B        |     13|  3|   5|  0|  0| 
+|Nico Hoerner      |SS        |     10|  4|   1|  1|  2| 
 |Tim Anderson      |MI        |      8|  3|   1|  0|  0| 
-|Ke'Bryan Hayes    |CI        |      9|  2|   7|  2|  0| 
-|Brent Rooker      |OF        |      2|  1|   0|  0|  0| 
-|Kyle Tucker       |OF        |      6|  2|   1|  0|  1| 
+|Ke'Bryan Hayes    |CI        |     10|  3|   7|  2|  0| 
+|Brent Rooker      |OF        |      6|  3|   0|  0|  0| 
+|Kyle Tucker       |OF        |      9|  4|   3|  1|  1| 
 |Mike Trout        |OF        |      6|  2|   3|  1|  0| 
 |Randy Arozarena   |OF        |      7|  0|   1|  0|  1| 
-|Connor Joe        |DH        |      6|  4|   4|  1|  1| 
-|Jon Berti         |DH        |      3|  2|   0|  0|  0| 
+|Connor Joe        |DH        |      8|  4|   5|  1|  1| 
+|Jon Berti         |DH        |      5|  3|   2|  0|  0| 
 |Lane Thomas       |DH        |      6|  2|   1|  0|  0| 
 |Michael Harris II |DH        |      4|  1|   0|  0|  0| 
 |Josh Rojas        |BAT BENCH |      5|  0|   1|  0|  0| 
-|Shea Langeliers   |BAT BENCH |      4|  2|   1|  0|  0| 
+|Shea Langeliers   |BAT BENCH |      5|  2|   1|  0|  0| 
 |Thairo Estrada    |BAT BENCH |     **| **|  **| **| **| 
 
 
