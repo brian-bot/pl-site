@@ -5,25 +5,25 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Elias Diaz        |C         |      5|  0|   2|  0|  0| 
-|Freddie Freeman   |1B        |     11|  7|   5|  2|  2| 
-|Jonathan India    |2B        |     11|  4|   7|  1|  4| 
-|Jose Ramirez      |3B        |      8|  6|   3|  0|  0| 
-|Bo Bichette       |SS        |     10|  3|   5|  3|  1| 
-|Amed Rosario      |MI        |      7|  4|   2|  0|  0| 
-|Alex Kirilloff    |CI        |     13|  2|   2|  0|  0| 
+|Elias Diaz        |C         |      6|  0|   2|  0|  0| 
+|Freddie Freeman   |1B        |     15|  8|   7|  2|  2| 
+|Jonathan India    |2B        |     12|  4|   7|  1|  4| 
+|Jose Ramirez      |3B        |     11|  9|   8|  3|  0| 
+|Bo Bichette       |SS        |     10|  4|   5|  3|  1| 
+|Amed Rosario      |MI        |      8|  4|   2|  0|  0| 
+|Alex Kirilloff    |CI        |     15|  2|   2|  0|  0| 
 |Byron Buxton      |OF        |      2|  0|   0|  0|  0| 
-|Jarren Duran      |OF        |      9|  1|   3|  0|  1| 
-|Luis Robert Jr.   |OF        |      9|  4|   0|  0|  0| 
-|Seiya Suzuki      |OF        |      8|  2|   0|  0|  0| 
-|Eloy Jimenez      |DH        |      5|  2|   3|  0|  0| 
+|Jarren Duran      |OF        |     11|  1|   4|  0|  1| 
+|Luis Robert Jr.   |OF        |     14|  6|   1|  1|  1| 
+|Seiya Suzuki      |OF        |     10|  2|   0|  0|  0| 
+|Eloy Jimenez      |DH        |      8|  3|   5|  1|  0| 
 |Geraldo Perdomo   |DH        |      9|  2|   2|  0|  1| 
-|Orlando Arcia     |DH        |     12|  3|   2|  0|  0| 
-|Yoan Moncada      |DH        |      5|  4|   0|  0|  0| 
+|Orlando Arcia     |DH        |     15|  4|   4|  1|  0| 
+|Yoan Moncada      |DH        |      6|  5|   1|  1|  0| 
 |Adam Duvall       |BAT BENCH |     **| **|  **| **| **| 
-|Gunnar Henderson  |BAT BENCH |      5|  2|   4|  1|  0| 
+|Gunnar Henderson  |BAT BENCH |      7|  3|   6|  2|  0| 
 |Kris Bryant       |BAT BENCH |      1|  0|   0|  0|  0| 
-|William Contreras |BAT BENCH |     11|  5|   3|  2|  0| 
+|William Contreras |BAT BENCH |     13|  6|   3|  2|  0| 
 
 
 * * *
@@ -36,7 +36,7 @@
 |Blake Snell     |SP          |  2| 12.000|  0|  0.000|     11| 0.917| 15|  1|  0| 
 |Chris Bassitt   |SP          |  2| 15.667|  2|  1.149|      7| 0.447| 13|  2|  0| 
 |Chris Sale      |SP          |  1|  3.667|  1|  2.455|      6| 1.636|  6|  0|  0| 
-|Clayton Kershaw |SP          |  1|  7.000|  2|  2.571|      5| 0.714|  9|  1|  0| 
+|Clayton Kershaw |SP          |  2| 14.000|  2|  1.286|     12| 0.857| 18|  2|  0| 
 |Louie Varland   |SP          |  2| 13.000|  7|  4.846|     15| 1.154| 10|  1|  0| 
 |Sonny Gray      |SP          |  1|  6.667|  3|  4.050|     10| 1.500|  2|  0|  0| 
 |Emmanuel Clase  |RP          |  5|  5.000|  0|  0.000|      4| 0.800|  8|  0|  3| 

@@ -5,12 +5,12 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman    |C         |     13|  4|   2|  0|  0| 
+|Adley Rutschman    |C         |     15|  5|   2|  0|  0| 
 |Vinnie Pasquantino |1B        |      5|  2|   0|  0|  0| 
 |Jake Cronenworth   |2B        |      8|  3|   2|  0|  1| 
 |Bobby Witt Jr.     |3B        |      7|  2|   1|  0|  3| 
-|Carlos Correa      |SS        |      2|  0|   0|  0|  0| 
-|Jorge Mateo        |MI        |      6|  4|   2|  0|  1| 
+|Carlos Correa      |SS        |      4|  1|   1|  1|  0| 
+|Jorge Mateo        |MI        |      6|  5|   2|  0|  1| 
 |Spencer Torkelson  |CI        |      8|  2|   3|  1|  1| 
 |Aaron Judge        |OF        |      6|  3|   2|  2|  0| 
 |Corbin Carroll     |OF        |     17| 11|   8|  3|  4| 
@@ -39,11 +39,11 @@
 |Michael Lorenzen |SP          |  1|  7.000|  1| 1.286|      2| 0.286|  6|  0|  0| 
 |Sandy Alcantara  |SP          |  2| 13.333|  9| 6.075|     16| 1.200| 10|  0|  0| 
 |Shane Bieber     |SP          |  2|  9.667|  8| 7.448|     16| 1.655|  6|  0|  0| 
-|Jordan Romano    |RP          |  4|  4.000|  1| 2.250|      4| 1.000|  4|  0|  4| 
+|Jordan Romano    |RP          |  5|  5.000|  1| 1.800|      4| 0.800|  5|  0|  5| 
 |Kenley Jansen    |RP          |  4|  4.000|  2| 4.500|      6| 1.500|  5|  0|  2| 
 |Ben Lively       |OP          |  2| 12.667|  5| 3.553|     15| 1.184| 11|  1|  0| 
 |Brandon Bielak   |OP          |  2| 12.333|  4| 2.919|     17| 1.378|  8|  2|  0| 
-|Kyle Bradish     |OP          |  1|  4.000|  3| 6.750|      8| 2.000|  5|  0|  0| 
+|Kyle Bradish     |OP          |  2|  9.000|  6| 6.000|     15| 1.667| 15|  0|  0| 
 |Kyle Finnegan    |OP          |  2|  2.667|  2| 6.750|      4| 1.500|  4|  2|  0| 
 |Marco Gonzales   |OP          | **|     **| **|    **|     **|    **| **| **| **| 
 |Garrett Whitlock |PITCH BENCH |  1|  4.667|  4| 7.714|      8| 1.714|  5|  0|  0| 
