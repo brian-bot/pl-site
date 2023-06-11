@@ -2,21 +2,21 @@
 
 ## Period 4 scores
 
-Through games on 2023-06-09 ([website build status](https://github.com/brian-bot/pl-site/actions))
+Through games on 2023-06-10 ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 
 |team                   | points|  r| hitsbb| hr| rbi| sb|  w| sv|  so|   era|  whip|
 |:----------------------|------:|--:|------:|--:|---:|--:|--:|--:|---:|-----:|-----:|
-|[Vass Deferens](./vassdeferens)|   33.5| 42|    112| 10|  36| 14|  8|  8| 114| 5.315| 1.386|
-|[Terminoeckers](./terminoeckers)|   43.5| 55|    148| 17|  56| 14|  7| 10| 109| 4.770| 1.410|
-|[Boys of Summer](./boysofsummer)|   54.5| 62|    173| 15|  59| 10|  7|  5| 120| 3.420| 1.173|
-|[Nuclear Arms](./nucleararms)|   71.5| 68|    178| 20|  55| 15|  8|  3| 118| 2.816| 1.021|
-|[Wonderbots](./wonderbots)|   62.5| 71|    177| 11|  69|  8|  8|  2| 142| 4.087| 1.142|
-|[Mean Wieners](./meanwieners)|   30.5| 58|    151| 14|  59|  6|  5|  2| 102| 4.749| 1.319|
-|[Washington Generals](./washingtongenerals)|   47.5| 63|    175| 14|  65| 14|  5|  8|  94| 4.415| 1.321|
-|[Overwhelming Underdogs](./overwhelmingunderdogs)|   75.0| 64|    181| 24|  73| 14|  7|  8|  95| 2.610| 1.126|
-|[T and A](./tanda)     |   74.5| 73|    207| 14|  64| 19|  8|  4| 126| 3.395| 1.240|
-|[SYWA](./sywa)         |   57.0| 54|    175| 11|  65|  7| 10|  8| 123| 3.595| 1.189|
+|[Vass Deferens](./vassdeferens)|   37.0| 45|    120| 12|  43| 14|  9|  8| 124| 4.851| 1.326|
+|[Terminoeckers](./terminoeckers)|   43.5| 60|    164| 18|  63| 14|  8| 10| 119| 4.980| 1.444|
+|[Boys of Summer](./boysofsummer)|   51.0| 68|    187| 15|  62| 10|  7|  6| 122| 3.393| 1.163|
+|[Nuclear Arms](./nucleararms)|   77.0| 75|    201| 23|  64| 16|  9|  5| 132| 2.589| 1.044|
+|[Wonderbots](./wonderbots)|   59.0| 80|    206| 11|  73| 11|  8|  2| 153| 4.385| 1.179|
+|[Mean Wieners](./meanwieners)|   31.5| 65|    166| 16|  65|  6|  5|  2| 108| 4.692| 1.308|
+|[Washington Generals](./washingtongenerals)|   46.0| 66|    184| 15|  68| 14|  5|  8| 101| 4.301| 1.274|
+|[Overwhelming Underdogs](./overwhelmingunderdogs)|   70.5| 67|    196| 26|  80| 14|  7|  8|  98| 2.553| 1.113|
+|[T and A](./tanda)     |   76.0| 79|    232| 16|  74| 21|  9|  4| 133| 3.662| 1.261|
+|[SYWA](./sywa)         |   58.5| 60|    190| 13|  74|  7| 10|  8| 127| 3.955| 1.200|
 
 * * *
 * * *
