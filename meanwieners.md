@@ -5,26 +5,26 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Jonah Heim        |C         |     12|  5|  12|  1|  0| 
-|Anthony Rizzo     |1B        |      3|  2|   0|  0|  0| 
-|Gleyber Torres    |2B        |     11|  3|   3|  2|  1| 
-|Max Muncy         |3B        |     11|  5|   6|  1|  0| 
-|Christopher Morel |SS        |      6|  2|   3|  1|  0| 
+|Jonah Heim        |C         |     13|  5|  12|  1|  0| 
+|Anthony Rizzo     |1B        |      4|  2|   0|  0|  0| 
+|Gleyber Torres    |2B        |     12|  3|   3|  2|  1| 
+|Max Muncy         |3B        |     12|  5|   7|  1|  0| 
+|Christopher Morel |SS        |      8|  3|   3|  1|  0| 
 |Paul DeJong       |MI        |     10|  1|   1|  0|  0| 
-|Yandy Diaz        |CI        |     12|  4|   4|  0|  0| 
-|Adolis Garcia     |OF        |     18|  6|   5|  1|  2| 
-|Bryce Harper      |OF        |     14|  4|   3|  0|  1| 
-|Jose Siri         |OF        |      5|  3|   4|  2|  1| 
+|Yandy Diaz        |CI        |     14|  6|   4|  0|  0| 
+|Adolis Garcia     |OF        |     19|  6|   5|  1|  2| 
+|Bryce Harper      |OF        |     18|  5|   4|  0|  2| 
+|Jose Siri         |OF        |      6|  3|   4|  2|  1| 
 |Kyle Schwarber    |OF        |     17|  9|   8|  4|  0| 
-|Isaac Paredes     |DH        |     11|  4|   7|  3|  0| 
-|J.D. Davis        |DH        |     16|  4|   4|  0|  0| 
-|Jack Suwinski     |DH        |     11|  8|   4|  1|  0| 
+|Isaac Paredes     |DH        |     12|  4|   8|  3|  0| 
+|J.D. Davis        |DH        |     19|  5|   4|  0|  0| 
+|Jack Suwinski     |DH        |     13|  9|   5|  2|  0| 
 |James Outman      |DH        |      9|  5|   1|  0|  1| 
 |Cedric Mullins    |BAT BENCH |     **| **|  **| **| **| 
-|Jake Burger       |BAT BENCH |      9|  5|   7|  3|  0| 
-|Ji Hwan Bae       |BAT BENCH |     11|  8|   5|  0|  4| 
-|Patrick Wisdom    |BAT BENCH |      4|  1|   0|  0|  0| 
-|Willy Adames      |BAT BENCH |      4|  2|   1|  1|  0| 
+|Jake Burger       |BAT BENCH |     10|  6|   8|  3|  0| 
+|Ji Hwan Bae       |BAT BENCH |     12|  9|   5|  0|  4| 
+|Patrick Wisdom    |BAT BENCH |      5|  2|   0|  0|  0| 
+|Willy Adames      |BAT BENCH |      6|  4|   1|  1|  0| 
 
 
 * * *

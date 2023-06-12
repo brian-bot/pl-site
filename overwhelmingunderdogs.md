@@ -5,23 +5,23 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Sean Murphy      |C         |      8|  2|   4|  1|  0| 
+|Sean Murphy      |C         |      9|  2|   4|  1|  0| 
 |Pete Alonso      |1B        |      6|  3|   3|  2|  1| 
 |Jorge Polanco    |2B        |      4|  1|   2|  1|  0| 
 |Alex Bregman     |3B        |     20|  5|  12|  3|  0| 
-|Trea Turner      |SS        |     12|  6|   5|  2|  1| 
+|Trea Turner      |SS        |     15|  9|   5|  2|  2| 
 |Anthony Volpe    |MI        |      5|  2|   5|  2|  1| 
-|Josh Jung        |CI        |     15|  8|   4|  2|  0| 
-|Bryan Reynolds   |OF        |     16|  4|   5|  0|  0| 
-|Christian Yelich |OF        |     21|  6|   1|  0|  5| 
+|Josh Jung        |CI        |     16|  8|   4|  2|  0| 
+|Bryan Reynolds   |OF        |     19|  4|   5|  0|  0| 
+|Christian Yelich |OF        |     24|  8|   2|  1|  5| 
 |Julio Rodriguez  |OF        |     12|  3|   5|  2|  3| 
-|Taylor Ward      |OF        |     14|  5|   7|  3|  1| 
-|Andrew McCutchen |DH        |     20|  5|   3|  0|  2| 
-|Brandon Nimmo    |DH        |     13|  4|   5|  1|  0| 
+|Taylor Ward      |OF        |     18|  7|   8|  4|  1| 
+|Andrew McCutchen |DH        |     22|  5|   3|  0|  2| 
+|Brandon Nimmo    |DH        |     14|  4|   5|  1|  0| 
 |J.D. Martinez    |DH        |     13|  7|  11|  5|  0| 
-|Nathaniel Lowe   |DH        |     17|  6|   8|  2|  0| 
-|Brendan Donovan  |BAT BENCH |     14|  3|   3|  1|  0| 
-|Tommy Edman      |BAT BENCH |      8|  3|   0|  0|  2| 
+|Nathaniel Lowe   |DH        |     18|  6|   8|  2|  0| 
+|Brendan Donovan  |BAT BENCH |     16|  3|   3|  1|  0| 
+|Tommy Edman      |BAT BENCH |      8|  3|   1|  0|  2| 
 
 * * *
 
@@ -30,15 +30,15 @@
  
 |players           |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Bryce Elder       |SP          |  2| 13.333|  5|  3.375|     14| 1.050| 13|  1|  0| 
-|Griffin Canning   |SP          |  1|  6.000|  1|  1.500|      5| 0.833|  4|  0|  0| 
-|JP Sears          |SP          |  2| 10.667|  2|  1.687|     12| 1.125|  8|  0|  0| 
+|Bryce Elder       |SP          |  3| 18.667| 10|  4.821|     23| 1.232| 14|  1|  0| 
+|Griffin Canning   |SP          |  2| 11.000|  4|  3.273|     12| 1.091| 11|  1|  0| 
+|JP Sears          |SP          |  3| 15.667|  4|  2.298|     18| 1.149| 13|  1|  0| 
 |Marcus Stroman    |SP          |  2| 12.667|  2|  1.421|     17| 1.342| 11|  2|  0| 
 |Max Scherzer      |SP          |  2| 12.667|  6|  4.263|     17| 1.342| 19|  1|  0| 
-|Shane McClanahan  |SP          |  2| 11.667|  3|  2.314|     15| 1.286| 12|  1|  0| 
+|Shane McClanahan  |SP          |  3| 18.667|  6|  2.893|     20| 1.071| 17|  2|  0| 
 |Devin Williams    |RP          |  5|  5.000|  0|  0.000|      4| 0.800|  8|  0|  2| 
 |Jhoan Duran       |RP          |  3|  3.667|  1|  2.455|      6| 1.636|  5|  1|  1| 
-|Andrew Chafin     |OP          |  2|  2.000|  1|  4.500|      5| 2.500|  4|  0|  0| 
+|Andrew Chafin     |OP          |  3|  2.333|  1|  3.857|      7| 3.000|  4|  0|  0| 
 |Giovanny Gallegos |OP          |  4|  4.000|  5| 11.250|      6| 1.500|  4|  0|  2| 
 |Justin Steele     |OP          |  1|  3.000|  0|  0.000|      0| 0.000|  1|  0|  0| 
 |Ryan Helsley      |OP          |  2|  2.000|  0|  0.000|      0| 0.000|  4|  0|  1| 
