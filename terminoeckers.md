@@ -5,24 +5,24 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto    |C         |      7|  4|   4|  2|  2| 
+|J.T. Realmuto    |C         |     12|  7|   7|  3|  2| 
 |Rowdy Tellez     |1B        |      7|  1|   2|  0|  0| 
 |Mookie Betts     |2B        |     22| 13|  10|  6|  2| 
-|Austin Riley     |3B        |     15|  8|   5|  1|  1| 
-|Corey Seager     |SS        |     20|  8|  11|  2|  0| 
+|Austin Riley     |3B        |     16|  8|   5|  1|  1| 
+|Corey Seager     |SS        |     24|  9|  11|  2|  0| 
 |Brandon Lowe     |MI        |      4|  1|   2|  1|  0| 
-|Ryan McMahon     |CI        |     18|  7|   6|  2|  0| 
+|Ryan McMahon     |CI        |     21|  9|   6|  2|  0| 
 |Hunter Renfroe   |OF        |      8|  2|   2|  1|  0| 
 |Jarred Kelenic   |OF        |     10|  1|   3|  1|  0| 
-|Josh Lowe        |OF        |     10|  2|   2|  0|  2| 
+|Josh Lowe        |OF        |     11|  3|   2|  0|  3| 
 |Juan Soto        |OF        |     18|  3|   8|  0|  1| 
-|Jake McCarthy    |DH        |     11|  3|   2|  0|  7| 
-|Michael Conforto |DH        |     10|  3|   6|  1|  0| 
-|Nolan Gorman     |DH        |      6|  4|   6|  2|  0| 
+|Jake McCarthy    |DH        |     14|  4|   2|  0|  7| 
+|Michael Conforto |DH        |     11|  3|   6|  1|  0| 
+|Nolan Gorman     |DH        |      7|  4|   6|  2|  0| 
 |Zach McKinstry   |DH        |      6|  4|   2|  1|  0| 
 |Cody Bellinger   |BAT BENCH |     **| **|  **| **| **| 
 |Lars Nootbaar    |BAT BENCH |     **| **|  **| **| **| 
-|Taylor Walls     |BAT BENCH |      9|  4|   3|  0|  1| 
+|Taylor Walls     |BAT BENCH |     10|  4|   3|  0|  1| 
 
 * * *
 
@@ -38,8 +38,8 @@
 |Tyler Wells       |SP          |  2| 12.000|  4|  3.000|     12| 1.000| 13|  2|  0| 
 |Zack Wheeler      |SP          |  2| 11.000|  7|  5.727|     11| 1.000| 11|  0|  0| 
 |Felix Bautista    |RP          |  5|  5.000|  0|  0.000|      2| 0.400| 11|  0|  4| 
-|Raisel Iglesias   |RP          |  7|  6.333|  0|  0.000|      5| 0.789|  6|  1|  5| 
-|Alex Lange        |OP          |  5|  4.000|  7| 15.750|     12| 3.000|  7|  0|  1| 
+|Raisel Iglesias   |RP          |  8|  7.333|  3|  3.682|     10| 1.364|  8|  1|  5| 
+|Alex Lange        |OP          |  6|  5.000|  7| 12.600|     12| 2.400|  7|  1|  1| 
 |Lance Lynn        |OP          |  2|  9.000| 13| 13.000|     21| 2.333|  8|  0|  0| 
 |Taj Bradley       |OP          |  2|  8.667|  6|  6.231|     17| 1.962| 10|  1|  0| 
 |Tanner Bibee      |OP          |  2| 10.000|  4|  3.600|     13| 1.300|  8|  1|  0| 

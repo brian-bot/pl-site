@@ -8,18 +8,18 @@
 |Adley Rutschman    |C         |     16|  6|   2|  0|  0| 
 |Vinnie Pasquantino |1B        |      5|  2|   0|  0|  0| 
 |Jake Cronenworth   |2B        |     13|  4|   5|  1|  1| 
-|Bobby Witt Jr.     |3B        |     11|  2|   2|  0|  4| 
+|Bobby Witt Jr.     |3B        |     14|  3|   2|  0|  5| 
 |Carlos Correa      |SS        |     10|  4|   5|  2|  0| 
 |Jorge Mateo        |MI        |      7|  5|   3|  0|  3| 
-|Spencer Torkelson  |CI        |     14|  4|   3|  1|  1| 
+|Spencer Torkelson  |CI        |     17|  5|   6|  2|  1| 
 |Aaron Judge        |OF        |      6|  3|   2|  2|  0| 
-|Corbin Carroll     |OF        |     23| 15|  14|  5|  5| 
-|MJ Melendez        |OF        |     11|  2|   2|  0|  1| 
+|Corbin Carroll     |OF        |     27| 17|  15|  5|  5| 
+|MJ Melendez        |OF        |     12|  3|   2|  0|  1| 
 |Riley Greene       |OF        |      0|  0|   0|  0|  0| 
 |Casey Schmitt      |DH        |      6|  2|   3|  0|  0| 
 |CJ Abrams          |DH        |      5|  2|   1|  1|  0| 
 |Max Kepler         |DH        |      7|  2|   4|  1|  0| 
-|TJ Friedl          |DH        |      1|  0|   1|  0|  0| 
+|TJ Friedl          |DH        |      3|  2|   2|  0|  0| 
 |Jordan Diaz        |BAT BENCH |     **| **|  **| **| **| 
 |Jose Miranda       |BAT BENCH |     **| **|  **| **| **| 
 |Oneil Cruz         |BAT BENCH |     **| **|  **| **| **| 
@@ -40,7 +40,7 @@
 |Sandy Alcantara  |SP          |  3| 20.333| 10| 4.426|     21| 1.033| 14|  0|  0| 
 |Shane Bieber     |SP          |  3| 16.667|  8| 4.320|     20| 1.200| 15|  1|  0| 
 |Jordan Romano    |RP          |  6|  6.000|  1| 1.500|      5| 0.833|  6|  0|  6| 
-|Kenley Jansen    |RP          |  6|  6.000|  2| 3.000|      8| 1.333|  7|  1|  3| 
+|Kenley Jansen    |RP          |  7|  7.000|  2| 2.571|      8| 1.143|  8|  1|  3| 
 |Ben Lively       |OP          |  3| 19.333| 12| 5.586|     26| 1.345| 19|  1|  0| 
 |Brandon Bielak   |OP          |  3| 17.333|  9| 4.673|     29| 1.673| 12|  2|  0| 
 |Kyle Bradish     |OP          |  2|  9.000|  6| 6.000|     15| 1.667| 15|  0|  0| 
