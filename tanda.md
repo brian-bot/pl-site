@@ -6,20 +6,20 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Salvador Perez     |C         |     14|  5|   5|  2|  0| 
-|Matt Olson         |1B        |     19|  2|   3|  1|  0| 
+|Matt Olson         |1B        |     21|  4|   4|  2|  0| 
 |Matt McLain        |2B        |     24| 10|   5|  1|  1| 
 |Matt Chapman       |3B        |     16|  8|   7|  2|  0| 
-|Fernando Tatis Jr. |SS        |     29| 13|  16|  5|  6| 
-|Jeremy Pena        |MI        |     19|  8|   0|  0|  0| 
+|Fernando Tatis Jr. |SS        |     32| 14|  16|  5|  7| 
+|Jeremy Pena        |MI        |     20|  8|   0|  0|  0| 
 |Spencer Steer      |CI        |     24|  8|  12|  2|  4| 
-|Esteury Ruiz       |OF        |     12|  4|   5|  0|  6| 
+|Esteury Ruiz       |OF        |     13|  5|   5|  0|  6| 
 |Jorge Soler        |OF        |     25|  6|   5|  3|  1| 
 |Masataka Yoshida   |OF        |     23|  6|   4|  1|  0| 
-|Ronald Acuna Jr.   |OF        |     26| 11|  14|  4|  7| 
+|Ronald Acuna Jr.   |OF        |     27| 12|  15|  4|  7| 
 |Brandon Drury      |DH        |     19|  5|   4|  1|  0| 
 |Bryan De La Cruz   |DH        |     21|  6|  15|  2|  0| 
-|Daulton Varsho     |DH        |     23|  8|   4|  3|  4| 
-|Marcell Ozuna      |DH        |     17|  5|   7|  2|  0| 
+|Daulton Varsho     |DH        |     24|  8|   4|  3|  4| 
+|Marcell Ozuna      |DH        |     17|  5|   8|  2|  0| 
 |Giancarlo Stanton  |BAT BENCH |      9|  3|   2|  2|  0| 
 |Harrison Bader     |BAT BENCH |     **| **|  **| **| **| 
 |Jazz Chisholm Jr.  |BAT BENCH |     **| **|  **| **| **| 
@@ -44,7 +44,7 @@
 |Freddy Peralta     |OP          |  3| 16.000|  9|  5.062|     19| 1.188| 17|  0|  0| 
 |Jared Shuster      |OP          |  2| 10.333|  5|  4.355|     15| 1.452|  1|  2|  0| 
 |Miles Mikolas      |OP          |  3| 19.000|  7|  3.316|     23| 1.211| 14|  1|  0| 
-|Pierce Johnson     |OP          |  6|  4.333|  5| 10.385|      9| 2.077|  6|  0|  1| 
+|Pierce Johnson     |OP          |  7|  5.333|  6| 10.125|     10| 1.875|  8|  0|  1| 
 |A.J. Puk           |PITCH BENCH |  4|  4.000|  0|  0.000|      3| 0.750|  5|  0|  1| 
 |Anthony DeSclafani |PITCH BENCH |  3| 12.000| 12|  9.000|     23| 1.917| 11|  0|  0| 
 |Jack Flaherty      |PITCH BENCH |  3| 15.667|  7|  4.021|     28| 1.787| 17|  0|  0| 
