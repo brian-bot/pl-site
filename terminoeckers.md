@@ -5,24 +5,24 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto    |C         |     16| 11|  10|  4|  3| 
+|J.T. Realmuto    |C         |     17| 12|  11|  5|  3| 
 |Rowdy Tellez     |1B        |     10|  1|   3|  0|  0| 
-|Mookie Betts     |2B        |     28| 13|  12|  6|  3| 
-|Austin Riley     |3B        |     18|  8|   6|  1|  1| 
-|Corey Seager     |SS        |     30| 12|  13|  4|  1| 
+|Mookie Betts     |2B        |     31| 14|  12|  6|  3| 
+|Austin Riley     |3B        |     21| 10|   6|  1|  1| 
+|Corey Seager     |SS        |     31| 12|  13|  4|  1| 
 |Brandon Lowe     |MI        |      4|  1|   2|  1|  0| 
 |Ryan McMahon     |CI        |     29| 11|   7|  2|  0| 
-|Hunter Renfroe   |OF        |     10|  3|   4|  2|  0| 
-|Jarred Kelenic   |OF        |     12|  3|   3|  1|  1| 
-|Josh Lowe        |OF        |     12|  3|   3|  0|  4| 
-|Juan Soto        |OF        |     26|  6|   9|  1|  1| 
-|Jake McCarthy    |DH        |     18|  7|   2|  0|  8| 
-|Michael Conforto |DH        |     15|  4|   9|  1|  0| 
+|Hunter Renfroe   |OF        |     12|  3|   4|  2|  0| 
+|Jarred Kelenic   |OF        |     15|  3|   3|  1|  1| 
+|Josh Lowe        |OF        |     13|  3|   3|  0|  5| 
+|Juan Soto        |OF        |     27|  6|   9|  1|  1| 
+|Jake McCarthy    |DH        |     20|  8|   2|  0|  9| 
+|Michael Conforto |DH        |     17|  4|   9|  1|  0| 
 |Nolan Gorman     |DH        |     10|  5|   6|  2|  0| 
-|Zach McKinstry   |DH        |      8|  4|   3|  1|  0| 
+|Zach McKinstry   |DH        |      9|  5|   3|  1|  0| 
 |Cody Bellinger   |BAT BENCH |      2|  1|   1|  0|  0| 
 |Lars Nootbaar    |BAT BENCH |     **| **|  **| **| **| 
-|Taylor Walls     |BAT BENCH |     12|  5|   4|  0|  2| 
+|Taylor Walls     |BAT BENCH |     14|  6|   4|  0|  2| 
 
 * * *
 

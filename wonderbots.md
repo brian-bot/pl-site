@@ -7,16 +7,16 @@
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
 |Alejandro Kirk        |C         |     15|  3|   7|  1|  0| 
 |Vladimir Guerrero Jr. |1B        |     25|  5|   7|  1|  1| 
-|Marcus Semien         |2B        |     21| 11|   9|  2|  0| 
-|Justin Turner         |3B        |     22|  8|  10|  2|  1| 
-|Xander Bogaerts       |SS        |     17|  7|   4|  0|  1| 
-|J.P. Crawford         |MI        |     16|  5|   1|  0|  0| 
-|Luis Arraez           |CI        |     28|  8|  10|  0|  0| 
-|Anthony Santander     |OF        |     17|  8|  10|  1|  0| 
-|Ian Happ              |OF        |     25|  8|  10|  1|  1| 
-|Nick Castellanos      |OF        |     28|  8|  14|  3|  2| 
-|Steven Kwan           |OF        |     20| 12|   4|  1|  2| 
-|Austin Hays           |DH        |     17|  9|   7|  2|  1| 
+|Marcus Semien         |2B        |     22| 11|   9|  2|  0| 
+|Justin Turner         |3B        |     25| 11|  16|  4|  1| 
+|Xander Bogaerts       |SS        |     19|  7|   5|  0|  2| 
+|J.P. Crawford         |MI        |     18|  6|   1|  0|  0| 
+|Luis Arraez           |CI        |     33| 10|  13|  1|  0| 
+|Anthony Santander     |OF        |     18|  8|  10|  1|  0| 
+|Ian Happ              |OF        |     27|  9|  12|  1|  1| 
+|Nick Castellanos      |OF        |     29|  9|  14|  3|  2| 
+|Steven Kwan           |OF        |     21| 12|   4|  1|  2| 
+|Austin Hays           |DH        |     19|  9|   9|  2|  1| 
 |Harold Ramirez        |DH        |     17|  7|   7|  1|  3| 
 |Jose Altuve           |DH        |     14|  8|   1|  0|  3| 
 |Josh Bell             |DH        |     15|  7|   9|  3|  0| 
@@ -31,7 +31,7 @@
 |players          |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Aaron Nola       |SP          |  4| 26.000| 14|  4.846|     27| 1.038| 33|  2|  0| 
-|Brady Singer     |SP          |  2| 10.000|  4|  3.600|     14| 1.400| 11|  1|  0| 
+|Brady Singer     |SP          |  3| 15.333|  6|  3.522|     24| 1.565| 16|  1|  0| 
 |Jordan Lyles     |SP          |  3| 18.000| 11|  5.500|     18| 1.000| 14|  0|  0| 
 |Lucas Giolito    |SP          |  3| 18.000|  4|  2.000|     16| 0.889| 20|  2|  0| 
 |Luis Castillo    |SP          |  3| 18.667|  6|  2.893|     21| 1.125| 22|  0|  0| 
@@ -43,9 +43,9 @@
 |Ranger Suarez    |OP          |  4| 26.667|  4|  1.350|     28| 1.050| 22|  1|  0| 
 |Tyler Anderson   |OP          |  3| 15.000| 15|  9.000|     26| 1.733| 15|  1|  0| 
 |Yusei Kikuchi    |OP          |  4| 19.667|  8|  3.661|     26| 1.322| 23|  1|  0| 
-|Andres Munoz     |PITCH BENCH |  3|  3.000|  0|  0.000|      1| 0.333|  6|  0|  0| 
+|Andres Munoz     |PITCH BENCH |  4|  4.000|  0|  0.000|      1| 0.250|  8|  0|  0| 
 |Jameson Taillon  |PITCH BENCH |  3| 17.000|  8|  4.235|     20| 1.176| 12|  2|  0| 
-|Jose Leclerc     |PITCH BENCH |  4|  6.000|  3|  4.500|      6| 1.000|  8|  0|  0| 
+|Jose Leclerc     |PITCH BENCH |  5|  7.000|  3|  3.857|      6| 0.857|  9|  0|  0| 
 
 
 * * *

@@ -5,25 +5,25 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Elias Diaz        |C         |     13|  2|   7|  1|  0| 
-|Freddie Freeman   |1B        |     27| 13|  11|  4|  3| 
+|Elias Diaz        |C         |     16|  2|   7|  1|  0| 
+|Freddie Freeman   |1B        |     28| 13|  12|  4|  3| 
 |Jonathan India    |2B        |     22|  9|  12|  3|  4| 
-|Jose Ramirez      |3B        |     26| 14|  12|  4|  1| 
-|Bo Bichette       |SS        |     16|  4|   7|  3|  1| 
+|Jose Ramirez      |3B        |     28| 15|  13|  5|  1| 
+|Bo Bichette       |SS        |     17|  4|   7|  3|  1| 
 |Amed Rosario      |MI        |     19|  8|   4|  0|  0| 
-|Alex Kirilloff    |CI        |     20|  3|   4|  0|  0| 
+|Alex Kirilloff    |CI        |     21|  4|   5|  1|  0| 
 |Byron Buxton      |OF        |      2|  0|   0|  0|  0| 
-|Jarren Duran      |OF        |     16|  2|   5|  0|  3| 
+|Jarren Duran      |OF        |     17|  3|   5|  0|  3| 
 |Luis Robert Jr.   |OF        |     22| 10|   6|  4|  2| 
-|Seiya Suzuki      |OF        |     20|  7|   2|  0|  0| 
-|Eloy Jimenez      |DH        |     11|  5|   7|  2|  0| 
-|Geraldo Perdomo   |DH        |     20|  4|   5|  0|  2| 
-|Orlando Arcia     |DH        |     26|  9|  10|  1|  0| 
+|Seiya Suzuki      |OF        |     21|  7|   3|  0|  0| 
+|Eloy Jimenez      |DH        |     12|  5|   7|  2|  0| 
+|Geraldo Perdomo   |DH        |     22|  5|   6|  0|  2| 
+|Orlando Arcia     |DH        |     28| 10|  10|  1|  0| 
 |Yoan Moncada      |DH        |      9|  5|   1|  1|  0| 
-|Adam Duvall       |BAT BENCH |      5|  2|   0|  0|  1| 
+|Adam Duvall       |BAT BENCH |      6|  3|   0|  0|  1| 
 |Gunnar Henderson  |BAT BENCH |     19|  8|  15|  5|  2| 
 |Kris Bryant       |BAT BENCH |      1|  0|   0|  0|  0| 
-|William Contreras |BAT BENCH |     16|  8|   4|  3|  0| 
+|William Contreras |BAT BENCH |     17|  8|   5|  3|  0| 
 
 
 * * *
@@ -44,7 +44,7 @@
 |Hunter Brown    |OP          |  3| 17.667|  8|  4.075|     21| 1.189| 17|  1|  0| 
 |Josiah Gray     |OP          |  3| 17.333|  9|  4.673|     20| 1.154| 15|  0|  0| 
 |Kyle Gibson     |OP          |  3| 17.000|  8|  4.235|     22| 1.294| 14|  2|  0| 
-|Martin Perez    |OP          |  3| 15.000| 13|  7.800|     28| 1.867| 10|  0|  0| 
+|Martin Perez    |OP          |  4| 21.000| 15|  6.429|     33| 1.571| 13|  0|  0| 
 |Miguel Castro   |OP          |  5|  4.333|  6| 12.462|     10| 2.308|  3|  0|  2| 
 |Dylan Cease     |PITCH BENCH |  3| 16.667|  4|  2.160|     18| 1.080| 23|  0|  0| 
 |Jose Alvarado   |PITCH BENCH |  3|  3.000|  1|  3.000|      6| 2.000|  5|  0|  1| 

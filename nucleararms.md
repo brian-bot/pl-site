@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |     17|  6|   7|  3|  0| 
+|Will Smith        |C         |     21|  7|   8|  3|  0| 
 |Paul Goldschmidt  |1B        |     19|  7|   5|  1|  0| 
 |Ozzie Albies      |2B        |     24| 11|  13|  5|  2| 
-|Eugenio Suarez    |3B        |     13|  5|   5|  1|  0| 
-|Wander Franco     |SS        |     20|  6|   3|  1|  3| 
-|Francisco Lindor  |MI        |     16|  6|   4|  3|  2| 
+|Eugenio Suarez    |3B        |     15|  5|   5|  1|  0| 
+|Wander Franco     |SS        |     21|  6|   3|  1|  4| 
+|Francisco Lindor  |MI        |     16|  6|   5|  3|  2| 
 |Andrew Vaughn     |CI        |     20|  7|   5|  2|  0| 
-|Andrew Benintendi |OF        |     17|  4|   3|  0|  3| 
+|Andrew Benintendi |OF        |     18|  5|   4|  1|  3| 
 |George Springer   |OF        |     21|  9|   5|  3|  2| 
-|Jurickson Profar  |OF        |     20|  6|   4|  0|  0| 
-|Starling Marte    |OF        |     16|  8|   3|  1|  5| 
-|Jose Abreu        |DH        |     20|  5|  14|  3|  0| 
-|Ketel Marte       |DH        |     25| 17|   8|  3|  1| 
+|Jurickson Profar  |OF        |     21|  7|   4|  0|  0| 
+|Starling Marte    |OF        |     18| 10|   3|  1|  5| 
+|Jose Abreu        |DH        |     22|  6|  14|  3|  0| 
+|Ketel Marte       |DH        |     28| 18|   9|  3|  1| 
 |Mitch Haniger     |DH        |     14|  4|   3|  0|  0| 
-|Shohei Ohtani     |DH        |     38| 17|  21| 10|  3| 
+|Shohei Ohtani     |DH        |     41| 18|  21| 10|  3| 
 |Anthony Rendon    |BAT BENCH |      6|  3|   1|  0|  0| 
 |Francisco Alvarez |BAT BENCH |      9|  7|   6|  4|  0| 
-|Joey Gallo        |BAT BENCH |      6|  0|   1|  0|  0| 
+|Joey Gallo        |BAT BENCH |      7|  0|   1|  0|  0| 
 
 
 * * *
@@ -33,9 +33,9 @@
 |players           |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Carlos Carrasco   |SP          |  3| 15.667|  7| 4.021|     24| 1.532|  9|  1|  0| 
-|Domingo German    |SP          |  2| 12.667|  2| 1.421|     13| 1.026| 11|  1|  0| 
+|Domingo German    |SP          |  3| 14.667|  9| 5.523|     22| 1.500| 12|  1|  0| 
 |Jordan Montgomery |SP          |  3| 18.000|  4| 2.000|     18| 1.000| 18|  1|  0| 
-|Michael Kopech    |SP          |  2| 12.000|  2| 1.500|     10| 0.833| 15|  0|  0| 
+|Michael Kopech    |SP          |  3| 16.333|  3| 1.653|     22| 1.347| 19|  0|  0| 
 |Michael Wacha     |SP          |  3| 17.333|  2| 1.038|     16| 0.923| 20|  2|  0| 
 |Shohei Ohtani     |SP          |  3| 17.000|  9| 4.765|     24| 1.412| 15|  1|  0| 
 |Clay Holmes       |RP          |  7|  7.000|  0| 0.000|      5| 0.714|  9|  1|  3| 
