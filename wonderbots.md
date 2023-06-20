@@ -7,20 +7,20 @@
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
 |Alejandro Kirk        |C         |     16|  3|   7|  1|  0| 
 |Vladimir Guerrero Jr. |1B        |     30|  5|   8|  1|  1| 
-|Marcus Semien         |2B        |     23| 12|  10|  2|  0| 
+|Marcus Semien         |2B        |     24| 13|  10|  2|  0| 
 |Justin Turner         |3B        |     27| 12|  17|  4|  1| 
-|Xander Bogaerts       |SS        |     22|  7|   5|  0|  3| 
+|Xander Bogaerts       |SS        |     23|  7|   5|  0|  3| 
 |J.P. Crawford         |MI        |     22|  9|   2|  1|  0| 
-|Luis Arraez           |CI        |     35| 11|  13|  1|  0| 
+|Luis Arraez           |CI        |     40| 12|  15|  1|  0| 
 |Anthony Santander     |OF        |     20|  9|  11|  2|  0| 
-|Ian Happ              |OF        |     28|  9|  12|  1|  1| 
+|Ian Happ              |OF        |     29|  9|  12|  1|  2| 
 |Nick Castellanos      |OF        |     29|  9|  14|  3|  2| 
 |Steven Kwan           |OF        |     26| 17|   7|  1|  3| 
 |Austin Hays           |DH        |     26| 11|   9|  2|  1| 
 |Harold Ramirez        |DH        |     18|  7|   8|  1|  3| 
 |Jose Altuve           |DH        |     18|  9|   2|  1|  4| 
 |Josh Bell             |DH        |     17|  7|   9|  3|  0| 
-|Manny Machado         |BAT BENCH |     20|  9|   9|  3|  1| 
+|Manny Machado         |BAT BENCH |     21|  9|   9|  3|  1| 
 
 
 * * *
@@ -32,10 +32,10 @@
 |:----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Aaron Nola       |SP          |  4| 26.000| 14|  4.846|     27| 1.038| 33|  2|  0| 
 |Brady Singer     |SP          |  3| 15.333|  6|  3.522|     24| 1.565| 16|  1|  0| 
-|Jordan Lyles     |SP          |  3| 18.000| 11|  5.500|     18| 1.000| 14|  0|  0| 
+|Jordan Lyles     |SP          |  4| 24.000| 14|  5.250|     25| 1.042| 17|  0|  0| 
 |Lucas Giolito    |SP          |  4| 23.000|  6|  2.348|     27| 1.174| 25|  2|  0| 
 |Luis Castillo    |SP          |  3| 18.667|  6|  2.893|     21| 1.125| 22|  0|  0| 
-|Pablo Lopez      |SP          |  3| 18.667| 10|  4.821|     20| 1.071| 20|  0|  0| 
+|Pablo Lopez      |SP          |  4| 24.333| 14|  5.178|     29| 1.192| 29|  0|  0| 
 |Clarke Schmidt   |RP          |  4| 21.667|  6|  2.492|     22| 1.015| 15|  0|  0| 
 |Dylan Floro      |RP          |  7|  4.333|  4|  8.308|      9| 2.077|  5|  0|  2| 
 |Alex Cobb        |OP          |  3| 16.667|  6|  3.240|     21| 1.260| 19|  1|  0| 
