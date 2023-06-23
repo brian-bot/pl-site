@@ -1,22 +1,22 @@
 
 
-## Period 4 scores
+## Period 5 scores
 
-Through games on 2023-06-19 ([website build status](https://github.com/brian-bot/pl-site/actions))
+Through games on 2023-06-22 ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 
-|team                   | points|   r| hitsbb| hr| rbi| sb|  w| sv|  so|   era|  whip|
-|:----------------------|------:|---:|------:|--:|---:|--:|--:|--:|---:|-----:|-----:|
-|[Vass Deferens](./vassdeferens)|   29.5|  93|    235| 25|  92| 22| 14| 12| 189| 4.623| 1.295|
-|[Terminoeckers](./terminoeckers)|   48.5| 112|    305| 33| 112| 25| 15| 13| 231| 4.537| 1.334|
-|[Boys of Summer](./boysofsummer)|   44.0| 117|    334| 31| 117| 18| 11| 11| 221| 4.322| 1.271|
-|[Nuclear Arms](./nucleararms)|   78.0| 147|    375| 46| 134| 26| 16|  5| 190| 3.427| 1.220|
-|[Wonderbots](./wonderbots)|   53.0| 139|    365| 24| 136| 20| 10|  2| 252| 4.204| 1.240|
-|[Mean Wieners](./meanwieners)|   45.0| 114|    307| 33| 124| 10| 12|  3| 190| 4.309| 1.213|
-|[Washington Generals](./washingtongenerals)|   42.5| 120|    331| 29| 120| 26| 11| 11| 175| 4.371| 1.320|
-|[Overwhelming Underdogs](./overwhelmingunderdogs)|   68.5| 121|    343| 37| 114| 24| 15| 13| 173| 3.356| 1.090|
-|[T and A](./tanda)     |   76.5| 140|    399| 36| 140| 39| 14| 10| 228| 3.805| 1.255|
-|[SYWA](./sywa)         |   64.5| 112|    347| 26| 144| 13| 18| 13| 222| 4.003| 1.230|
+|team                   | points|  r| hitsbb| hr| rbi| sb|  w| sv| so|   era|  whip|
+|:----------------------|------:|--:|------:|--:|---:|--:|--:|--:|--:|-----:|-----:|
+|[Vass Deferens](./vassdeferens)|   65.5| 15|     43|  5|  17|  5|  2|  2| 49| 3.558| 1.279|
+|[Nuclear Arms](./nucleararms)|   60.0| 14|     47|  4|  23|  5|  1|  3| 45| 5.845| 1.330|
+|[Boys of Summer](./boysofsummer)|   48.0| 13|     37|  4|  12|  4|  2|  1| 35| 1.588| 1.094|
+|[Overwhelming Underdogs](./overwhelmingunderdogs)|   41.5| 11|     29|  2|   8|  5|  1|  1| 35| 1.575| 0.975|
+|[Wonderbots](./wonderbots)|   51.0| 17|     46|  3|  16|  1|  0|  0| 26| 2.613| 0.935|
+|[T and A](./tanda)     |   60.0| 16|     38|  4|  13|  6|  4|  2| 23| 2.967| 0.956|
+|[Washington Generals](./washingtongenerals)|   47.0| 16|     42|  4|  17|  3|  0|  0| 14| 2.919| 0.973|
+|[SYWA](./sywa)         |   60.5| 18|     45|  7|  15|  4|  2|  3| 32| 5.182| 1.424|
+|[Terminoeckers](./terminoeckers)|   49.5| 10|     38|  1|  10|  1|  2|  4| 54| 3.000| 0.843|
+|[Mean Wieners](./meanwieners)|   67.0| 18|     42|  4|  15|  0|  4|  0| 48| 1.266| 0.820|
 
 * * *
 * * *

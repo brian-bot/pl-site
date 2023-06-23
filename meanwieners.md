@@ -5,26 +5,26 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Jonah Heim        |C         |     24|  8|  17|  3|  0| 
-|Anthony Rizzo     |1B        |     10|  4|   4|  0|  0| 
-|Gleyber Torres    |2B        |     18|  5|   5|  3|  1| 
-|Max Muncy         |3B        |     12|  5|   7|  1|  0| 
-|Christopher Morel |SS        |     18| 10|  13|  4|  0| 
-|Paul DeJong       |MI        |     18|  6|   3|  2|  0| 
-|Yandy Diaz        |CI        |     22|  8|   6|  0|  0| 
-|Adolis Garcia     |OF        |     33| 10|   8|  1|  3| 
-|Bryce Harper      |OF        |     29|  9|   8|  0|  3| 
-|Jose Siri         |OF        |     10|  5|   8|  3|  2| 
-|Kyle Schwarber    |OF        |     31| 15|  14|  7|  0| 
-|Isaac Paredes     |DH        |     24|  5|  10|  4|  0| 
-|J.D. Davis        |DH        |     24|  6|  10|  1|  0| 
-|Jack Suwinski     |DH        |     20| 12|   7|  4|  0| 
-|James Outman      |DH        |     14|  6|   4|  0|  1| 
+|Jonah Heim        |C         |      2|  2|   3|  1|  0| 
+|Yandy Diaz        |1B        |      7|  4|   2|  0|  0| 
+|Gleyber Torres    |2B        |      3|  1|   0|  0|  0| 
+|J.D. Davis        |3B        |      2|  0|   1|  0|  0| 
+|Christopher Morel |SS        |      0|  1|   0|  0|  0| 
+|Isaac Paredes     |MI        |      8|  3|   3|  1|  0| 
+|Joey Votto        |CI        |      2|  1|   0|  0|  0| 
+|Adolis Garcia     |OF        |      3|  2|   1|  1|  0| 
+|Bryce Harper      |OF        |      3|  0|   0|  0|  0| 
+|Joey Wiemer       |OF        |      2|  1|   0|  0|  0| 
+|Kyle Schwarber    |OF        |      2|  0|   0|  0|  0| 
+|Jack Suwinski     |DH        |      2|  0|   0|  0|  0| 
+|Ji Hwan Bae       |DH        |      1|  0|   0|  0|  0| 
+|Ryan Noda         |DH        |      3|  1|   4|  1|  0| 
+|Willy Adames      |DH        |      2|  2|   1|  0|  0| 
+|Anthony Rizzo     |BAT BENCH |      7|  1|   1|  0|  0| 
 |Cedric Mullins    |BAT BENCH |     **| **|  **| **| **| 
-|Jake Burger       |BAT BENCH |     17|  9|  12|  6|  0| 
-|Ji Hwan Bae       |BAT BENCH |     18| 12|   6|  0|  5| 
-|Patrick Wisdom    |BAT BENCH |      5|  2|   0|  0|  0| 
-|Willy Adames      |BAT BENCH |     12|  7|   1|  1|  0| 
+|James Outman      |BAT BENCH |      0|  0|   0|  0|  0| 
+|Jose Siri         |BAT BENCH |      4|  1|   1|  0|  0| 
+|Max Muncy         |BAT BENCH |     **| **|  **| **| **| 
 
 
 * * *
@@ -32,23 +32,23 @@
 ### Pitchers
 
  
-|players         |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
-|:---------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Bailey Ober     |SP          |  3| 17.333|  5| 2.596|     16| 0.923| 17|  1|  0| 
-|Bryce Miller    |SP          |  3| 15.333|  9| 5.283|     18| 1.174| 14|  2|  0| 
-|Gerrit Cole     |SP          |  3| 18.000|  4| 2.000|     18| 1.000| 19|  1|  0| 
-|Joe Ryan        |SP          |  4| 23.667| 16| 6.085|     24| 1.014| 21|  0|  0| 
-|Spencer Strider |SP          |  3| 15.000| 15| 9.000|     26| 1.733| 21|  2|  0| 
-|Zach Eflin      |SP          |  4| 23.333|  9| 3.471|     22| 0.943| 25|  1|  0| 
-|Mark Leiter Jr. |RP          |  8|  8.333|  5| 5.400|     10| 1.200| 13|  0|  1| 
-|Paul Sewald     |RP          |  6|  6.000|  1| 1.500|      8| 1.333|  9|  0|  2| 
-|Drew Smyly      |OP          |  4| 22.667| 10| 3.971|     38| 1.676| 16|  2|  0| 
-|Eury Perez      |OP          |  3| 16.000|  1| 0.562|     15| 0.938| 17|  2|  0| 
-|Evan Phillips   |OP          |  7|  7.333|  3| 3.682|      5| 0.682|  8|  0|  0| 
-|Jacob deGrom    |OP          | **|     **| **|    **|     **|    **| **| **| **| 
-|Logan Allen     |OP          |  3| 15.000| 12| 7.200|     28| 1.867| 10|  1|  0| 
-|James Paxton    |PITCH BENCH |  4| 24.333|  6| 2.219|     22| 0.904| 32|  2|  0| 
-|Pete Fairbanks  |PITCH BENCH |  2|  1.667|  0| 0.000|      0| 0.000|  1|  0|  2| 
+|players         |position    |  g|    ip| er|   era| hitsbb|  whip| so|  w| sv| 
+|:---------------|:-----------|--:|-----:|--:|-----:|------:|-----:|--:|--:|--:| 
+|Bailey Ober     |SP          |  1| 6.000|  3| 4.500|      8| 1.333|  4|  0|  0| 
+|Bryce Miller    |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Gerrit Cole     |SP          |  1| 7.333|  1| 1.227|      5| 0.682|  8|  1|  0| 
+|Joe Ryan        |SP          |  1| 9.000|  0| 0.000|      3| 0.333|  9|  1|  0| 
+|Spencer Strider |SP          |  1| 6.000|  1| 1.500|      8| 1.333|  9|  1|  0| 
+|Zach Eflin      |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Paul Sewald     |RP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Pete Fairbanks  |RP          |  1| 1.000|  1| 9.000|      2| 2.000|  2|  0|  0| 
+|Adbert Alzolay  |OP          |  1| 1.000|  0| 0.000|      0| 0.000|  1|  0|  0| 
+|Bryan Woo       |OP          |  1| 5.333|  0| 0.000|      5| 0.938|  5|  1|  0| 
+|Eury Perez      |OP          |  1| 6.000|  0| 0.000|      3| 0.500|  9|  0|  0| 
+|James Paxton    |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Sean Manaea     |OP          |  1| 1.000|  0| 0.000|      1| 1.000|  1|  0|  0| 
+|Evan Phillips   |PITCH BENCH |  2| 2.000|  0| 0.000|      0| 0.000|  3|  0|  2| 
+|Mark Leiter Jr. |PITCH BENCH |  2| 1.667|  0| 0.000|      0| 0.000|  2|  0|  0| 
 
 
 * * *
