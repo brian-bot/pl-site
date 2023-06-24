@@ -5,22 +5,22 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto    |C         |      2|  1|   0|  0|  0| 
-|LaMonte Wade Jr. |1B        |     **| **|  **| **| **| 
-|Mookie Betts     |2B        |      1|  0|   0|  0|  0| 
-|Austin Riley     |3B        |      3|  2|   1|  1|  0| 
-|Corey Seager     |SS        |      5|  0|   5|  0|  0| 
-|Ryan McMahon     |MI        |      2|  0|   0|  0|  0| 
+|J.T. Realmuto    |C         |      4|  1|   0|  0|  0| 
+|LaMonte Wade Jr. |1B        |      3|  1|   0|  0|  0| 
+|Mookie Betts     |2B        |      2|  1|   2|  1|  0| 
+|Austin Riley     |3B        |      6|  5|   3|  2|  0| 
+|Corey Seager     |SS        |      7|  0|   5|  0|  0| 
+|Ryan McMahon     |MI        |      3|  1|   0|  0|  0| 
 |Luke Raley       |CI        |      4|  1|   0|  0|  0| 
-|Hunter Renfroe   |OF        |      2|  0|   0|  0|  0| 
-|Jarred Kelenic   |OF        |      3|  0|   2|  0|  0| 
-|Josh Lowe        |OF        |      1|  0|   0|  0|  0| 
-|Juan Soto        |OF        |      8|  3|   1|  0|  0| 
-|Jake McCarthy    |DH        |      3|  1|   1|  0|  1| 
+|Hunter Renfroe   |OF        |      4|  1|   0|  0|  0| 
+|Jarred Kelenic   |OF        |      5|  1|   3|  0|  0| 
+|Josh Lowe        |OF        |      4|  1|   0|  0|  0| 
+|Juan Soto        |OF        |     12|  5|   4|  1|  0| 
+|Jake McCarthy    |DH        |      4|  2|   1|  0|  1| 
 |Lars Nootbaar    |DH        |      2|  0|   0|  0|  0| 
-|Leody Taveras    |DH        |      2|  2|   0|  0|  0| 
-|Michael Conforto |DH        |      0|  0|   0|  0|  0| 
-|Amed Rosario     |BAT BENCH |      5|  2|   3|  0|  0| 
+|Leody Taveras    |DH        |      3|  2|   0|  0|  0| 
+|Michael Conforto |DH        |      3|  2|   4|  0|  0| 
+|Amed Rosario     |BAT BENCH |      6|  2|   3|  0|  0| 
 |Cody Bellinger   |BAT BENCH |      1|  0|   1|  0|  1| 
 |Nolan Gorman     |BAT BENCH |      1|  0|   0|  0|  0| 
 
@@ -44,7 +44,7 @@
 |Lance Lynn        |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Scott McGough     |OP          |  2| 2.667|  0| 0.000|      0| 0.000|  5|  0|  2| 
 |Taj Bradley       |OP          |  1| 6.000|  1| 1.500|      3| 0.500|  8|  1|  0| 
-|Emmet Sheehan     |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
+|Emmet Sheehan     |PITCH BENCH |  1| 6.000|  2| 3.000|      5| 0.833|  4|  1|  0| 
 |Grayson Rodriguez |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
 |Tanner Bibee      |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
 

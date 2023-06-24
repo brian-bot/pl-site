@@ -8,22 +8,22 @@
 |Jonah Heim        |C         |      2|  2|   3|  1|  0| 
 |Yandy Diaz        |1B        |      7|  4|   2|  0|  0| 
 |Gleyber Torres    |2B        |      3|  1|   0|  0|  0| 
-|J.D. Davis        |3B        |      2|  0|   1|  0|  0| 
+|J.D. Davis        |3B        |      4|  2|   2|  0|  0| 
 |Christopher Morel |SS        |      0|  1|   0|  0|  0| 
-|Isaac Paredes     |MI        |      8|  3|   3|  1|  0| 
-|Joey Votto        |CI        |      2|  1|   0|  0|  0| 
-|Adolis Garcia     |OF        |      3|  2|   1|  1|  0| 
-|Bryce Harper      |OF        |      3|  0|   0|  0|  0| 
-|Joey Wiemer       |OF        |      2|  1|   0|  0|  0| 
-|Kyle Schwarber    |OF        |      2|  0|   0|  0|  0| 
+|Isaac Paredes     |MI        |     10|  5|   3|  1|  0| 
+|Joey Votto        |CI        |      4|  3|   4|  2|  0| 
+|Adolis Garcia     |OF        |      4|  3|   3|  2|  0| 
+|Bryce Harper      |OF        |      5|  0|   1|  0|  0| 
+|Joey Wiemer       |OF        |      4|  1|   1|  0|  0| 
+|Kyle Schwarber    |OF        |      3|  1|   0|  0|  0| 
 |Jack Suwinski     |DH        |      2|  0|   0|  0|  0| 
 |Ji Hwan Bae       |DH        |      1|  0|   0|  0|  0| 
-|Ryan Noda         |DH        |      3|  1|   4|  1|  0| 
-|Willy Adames      |DH        |      2|  2|   1|  0|  0| 
-|Anthony Rizzo     |BAT BENCH |      7|  1|   1|  0|  0| 
+|Ryan Noda         |DH        |      4|  1|   4|  1|  0| 
+|Willy Adames      |DH        |      6|  4|   6|  2|  0| 
+|Anthony Rizzo     |BAT BENCH |     10|  2|   1|  0|  0| 
 |Cedric Mullins    |BAT BENCH |     **| **|  **| **| **| 
-|James Outman      |BAT BENCH |      0|  0|   0|  0|  0| 
-|Jose Siri         |BAT BENCH |      4|  1|   1|  0|  0| 
+|James Outman      |BAT BENCH |      3|  2|   0|  0|  1| 
+|Jose Siri         |BAT BENCH |      7|  3|   5|  1|  0| 
 |Max Muncy         |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -39,7 +39,7 @@
 |Gerrit Cole     |SP          |  1| 7.333|  1| 1.227|      5| 0.682|  8|  1|  0| 
 |Joe Ryan        |SP          |  1| 9.000|  0| 0.000|      3| 0.333|  9|  1|  0| 
 |Spencer Strider |SP          |  1| 6.000|  1| 1.500|      8| 1.333|  9|  1|  0| 
-|Zach Eflin      |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Zach Eflin      |SP          |  1| 6.000|  3| 4.500|      9| 1.500|  7|  1|  0| 
 |Paul Sewald     |RP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Pete Fairbanks  |RP          |  1| 1.000|  1| 9.000|      2| 2.000|  2|  0|  0| 
 |Adbert Alzolay  |OP          |  1| 1.000|  0| 0.000|      0| 0.000|  1|  0|  0| 
