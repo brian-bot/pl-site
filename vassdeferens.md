@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman   |C         |      3|  1|   0|  0|  0| 
-|Spencer Torkelson |1B        |      2|  1|   0|  0|  0| 
+|Adley Rutschman   |C         |      6|  1|   2|  0|  0| 
+|Spencer Torkelson |1B        |      3|  2|   0|  0|  0| 
 |Jake Cronenworth  |2B        |      7|  3|   2|  0|  0| 
 |Bobby Witt Jr.    |3B        |      8|  2|   2|  0|  1| 
 |Carlos Correa     |SS        |      5|  3|   3|  2|  0| 
-|Jorge Mateo       |MI        |      2|  2|   0|  0|  1| 
+|Jorge Mateo       |MI        |      4|  3|   0|  0|  1| 
 |Emmanuel Rivera   |CI        |      4|  1|   2|  0|  0| 
 |Corbin Carroll    |OF        |      5|  4|   2|  0|  4| 
 |MJ Melendez       |OF        |      7|  1|   2|  0|  2| 
 |Ryan O'Hearn      |OF        |      3|  1|   1|  1|  0| 
-|TJ Friedl         |OF        |     11|  5|   4|  1|  4| 
+|TJ Friedl         |OF        |     12|  5|   4|  1|  4| 
 |Casey Schmitt     |DH        |      3|  0|   0|  0|  0| 
-|CJ Abrams         |DH        |      9|  2|   2|  1|  1| 
-|Elly De La Cruz   |DH        |     11|  7|   5|  2|  2| 
+|CJ Abrams         |DH        |     10|  3|   2|  1|  1| 
+|Elly De La Cruz   |DH        |     11|  8|   5|  2|  2| 
 |Triston Casas     |DH        |      5|  2|   3|  1|  0| 
 |Aaron Judge       |BAT BENCH |     **| **|  **| **| **| 
-|Max Kepler        |BAT BENCH |      8|  3|   5|  3|  0| 
+|Max Kepler        |BAT BENCH |      9|  3|   5|  3|  0| 
 |Oneil Cruz        |BAT BENCH |     **| **|  **| **| **| 
 |Oscar Colas       |BAT BENCH |     **| **|  **| **| **| 
 |Riley Greene      |BAT BENCH |     **| **|  **| **| **| 

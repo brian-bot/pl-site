@@ -8,12 +8,12 @@
 |J.T. Realmuto    |C         |      6|  2|   0|  0|  0| 
 |LaMonte Wade Jr. |1B        |      4|  2|   0|  0|  0| 
 |Mookie Betts     |2B        |      4|  3|   4|  2|  1| 
-|Austin Riley     |3B        |     11|  8|   4|  2|  1| 
-|Corey Seager     |SS        |      9|  0|   6|  0|  0| 
+|Austin Riley     |3B        |     12|  9|   4|  2|  1| 
+|Corey Seager     |SS        |     11|  0|   6|  0|  0| 
 |Ryan McMahon     |MI        |      4|  1|   0|  0|  0| 
 |Luke Raley       |CI        |      5|  1|   1|  0|  0| 
 |Hunter Renfroe   |OF        |     10|  4|   4|  0|  0| 
-|Jarred Kelenic   |OF        |      7|  1|   3|  0|  1| 
+|Jarred Kelenic   |OF        |      9|  3|   3|  0|  2| 
 |Josh Lowe        |OF        |      5|  1|   1|  0|  0| 
 |Juan Soto        |OF        |     16|  5|   5|  1|  0| 
 |Jake McCarthy    |DH        |      8|  4|   2|  0|  2| 
@@ -32,7 +32,7 @@
 |players           |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |George Kirby      |SP          |  2| 13.333|  5|  3.375|     15| 1.125|  8|  0|  0| 
-|Justin Verlander  |SP          |  1|  7.000|  4|  5.143|      8| 1.143|  5|  0|  0| 
+|Justin Verlander  |SP          |  2| 12.000|  4|  3.000|     15| 1.250| 10|  0|  0| 
 |Mitch Keller      |SP          |  1|  7.000|  1|  1.286|      5| 0.714|  5|  0|  0| 
 |Nathan Eovaldi    |SP          |  2| 11.667|  6|  4.629|     13| 1.114|  9|  0|  0| 
 |Tyler Wells       |SP          |  1|  5.000|  2|  3.600|      7| 1.400|  6|  0|  0| 

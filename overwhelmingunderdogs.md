@@ -13,13 +13,13 @@
 |Tommy Edman      |MI        |      6|  3|   0|  0|  2| 
 |Josh Jung        |CI        |      4|  1|   0|  0|  0| 
 |Bryan Reynolds   |OF        |     **| **|  **| **| **| 
-|Christian Yelich |OF        |      7|  3|   3|  0|  1| 
-|Julio Rodriguez  |OF        |      8|  4|   2|  1|  2| 
+|Christian Yelich |OF        |     10|  3|   3|  0|  1| 
+|Julio Rodriguez  |OF        |     12|  5|   3|  1|  3| 
 |Taylor Ward      |OF        |      7|  3|   3|  0|  0| 
 |Andrew McCutchen |DH        |      9|  2|   0|  0|  2| 
 |Brandon Nimmo    |DH        |      8|  3|   3|  1|  0| 
 |J.D. Martinez    |DH        |      6|  1|   0|  0|  0| 
-|Nathaniel Lowe   |DH        |     11|  2|   1|  0|  0| 
+|Nathaniel Lowe   |DH        |     13|  2|   1|  0|  0| 
 |Anthony Volpe    |BAT BENCH |      8|  3|   1|  1|  0| 
 |Jorge Polanco    |BAT BENCH |     **| **|  **| **| **| 
 |Sean Murphy      |BAT BENCH |      3|  0|   1|  0|  0| 
@@ -37,7 +37,7 @@
 |Max Scherzer      |SP          |  1|  6.000|  2| 3.000|      8| 1.333|  8|  1|  0| 
 |Shane McClanahan  |SP          |  1|  3.667|  2| 4.909|      6| 1.636|  3|  0|  0| 
 |Wade Miley        |SP          |  1|  6.000|  0| 0.000|      3| 0.500|  3|  1|  0| 
-|Devin Williams    |RP          |  2|  2.000|  0| 0.000|      1| 0.500|  1|  1|  1| 
+|Devin Williams    |RP          |  3|  3.000|  0| 0.000|      1| 0.333|  1|  1|  2| 
 |Jhoan Duran       |RP          |  3|  4.000|  1| 2.250|      3| 0.750|  6|  0|  2| 
 |Aaron Civale      |OP          |  2| 12.667|  6| 4.263|     16| 1.263| 11|  0|  0| 
 |Giovanny Gallegos |OP          |  1|  1.000|  0| 0.000|      0| 0.000|  1|  0|  0| 

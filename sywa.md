@@ -15,13 +15,13 @@
 |Alex Verdugo        |OF        |      3|  2|   0|  0|  0| 
 |Jake Fraley         |OF        |      8|  5|   6|  3|  0| 
 |Lourdes Gurriel Jr. |OF        |      6|  0|   2|  0|  0| 
-|Teoscar Hernandez   |OF        |      6|  5|   4|  2|  0| 
+|Teoscar Hernandez   |OF        |      8|  6|   5|  2|  0| 
 |Alec Bohm           |DH        |      5|  2|   2|  0|  0| 
 |Royce Lewis         |DH        |     12|  5|   4|  2|  1| 
-|Ty France           |DH        |      9|  5|   2|  1|  0| 
+|Ty France           |DH        |     10|  5|   3|  1|  0| 
 |C.J. Cron           |BAT BENCH |     **| **|  **| **| **| 
 |Jeff McNeil         |BAT BENCH |      1|  0|   0|  0|  0| 
-|Owen Miller         |BAT BENCH |      3|  1|   2|  0|  0| 
+|Owen Miller         |BAT BENCH |      4|  1|   2|  0|  0| 
 |Yordan Alvarez      |BAT BENCH |     **| **|  **| **| **| 
 
 
