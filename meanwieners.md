@@ -6,25 +6,25 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Jonah Heim        |C         |     10|  3|   4|  2|  0| 
-|Yandy Diaz        |1B        |     16|  7|   2|  0|  0| 
-|Gleyber Torres    |2B        |      7|  2|   0|  0|  0| 
+|Yandy Diaz        |1B        |     18|  8|   2|  0|  0| 
+|Gleyber Torres    |2B        |      9|  3|   2|  0|  0| 
 |J.D. Davis        |3B        |     11|  3|   4|  0|  0| 
-|Christopher Morel |SS        |      6|  2|   2|  0|  0| 
-|Isaac Paredes     |MI        |     14|  6|   3|  1|  0| 
+|Christopher Morel |SS        |      8|  2|   2|  0|  0| 
+|Isaac Paredes     |MI        |     16|  6|   3|  1|  0| 
 |Joey Votto        |CI        |      8|  3|   5|  2|  0| 
-|Adolis Garcia     |OF        |     13|  8|   9|  5|  0| 
-|Bryce Harper      |OF        |     10|  1|   2|  0|  0| 
+|Adolis Garcia     |OF        |     14|  8|   9|  5|  0| 
+|Bryce Harper      |OF        |     11|  1|   4|  0|  0| 
 |Joey Wiemer       |OF        |     10|  4|   4|  1|  0| 
-|Kyle Schwarber    |OF        |      9|  3|   1|  0|  0| 
-|Jack Suwinski     |DH        |      6|  3|   1|  1|  1| 
+|Kyle Schwarber    |OF        |     10|  4|   2|  1|  0| 
+|Jack Suwinski     |DH        |      8|  4|   2|  1|  1| 
 |Ji Hwan Bae       |DH        |      1|  0|   1|  0|  0| 
-|Ryan Noda         |DH        |      7|  1|   5|  1|  0| 
-|Willy Adames      |DH        |     11|  5|   6|  2|  0| 
-|Anthony Rizzo     |BAT BENCH |     16|  4|   1|  0|  0| 
+|Ryan Noda         |DH        |      8|  2|   5|  1|  0| 
+|Willy Adames      |DH        |     12|  5|   6|  2|  0| 
+|Anthony Rizzo     |BAT BENCH |     18|  5|   1|  0|  0| 
 |Cedric Mullins    |BAT BENCH |      7|  2|   1|  0|  0| 
-|James Outman      |BAT BENCH |      6|  2|   2|  0|  1| 
+|James Outman      |BAT BENCH |      8|  4|   2|  0|  1| 
 |Jose Siri         |BAT BENCH |     10|  6|   7|  3|  0| 
-|Max Muncy         |BAT BENCH |      1|  1|   0|  0|  0| 
+|Max Muncy         |BAT BENCH |      3|  2|   3|  0|  0| 
 
 
 * * *
@@ -48,7 +48,7 @@
 |James Paxton    |OP          |  1|  4.000|  1| 2.250|      2| 0.500|  3|  0|  0| 
 |Sean Manaea     |OP          |  2|  2.000|  1| 4.500|      2| 1.000|  3|  0|  0| 
 |Evan Phillips   |PITCH BENCH |  5|  4.333|  0| 0.000|      2| 0.462|  4|  0|  4| 
-|Mark Leiter Jr. |PITCH BENCH |  3|  3.000|  0| 0.000|      0| 0.000|  3|  0|  0| 
+|Mark Leiter Jr. |PITCH BENCH |  4|  4.000|  0| 0.000|      1| 0.250|  3|  0|  0| 
 
 
 * * *

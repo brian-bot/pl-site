@@ -5,22 +5,22 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Willson Contreras |C         |     10|  3|   2|  0|  0| 
+|Willson Contreras |C         |     11|  3|   2|  0|  0| 
 |Ryan Mountcastle  |1B        |     **| **|  **| **| **| 
-|Andres Gimenez    |2B        |     10|  3|   4|  0|  1| 
-|Rafael Devers     |3B        |     13|  6|   4|  2|  0| 
-|Nico Hoerner      |SS        |      8|  5|   5|  1|  1| 
-|Tim Anderson      |MI        |      1|  1|   1|  0|  0| 
+|Andres Gimenez    |2B        |     12|  3|   4|  0|  1| 
+|Rafael Devers     |3B        |     15|  6|   4|  2|  0| 
+|Nico Hoerner      |SS        |     10|  5|   5|  1|  1| 
+|Tim Anderson      |MI        |      3|  3|   1|  0|  0| 
 |Ke'Bryan Hayes    |CI        |      5|  1|   2|  1|  0| 
-|Brent Rooker      |OF        |      1|  0|   0|  0|  0| 
-|Kyle Tucker       |OF        |     11|  7|   3|  1|  1| 
-|Mike Trout        |OF        |     10|  6|   3|  2|  1| 
+|Brent Rooker      |OF        |      2|  0|   1|  0|  0| 
+|Kyle Tucker       |OF        |     14|  9|   8|  2|  1| 
+|Mike Trout        |OF        |     13|  7|   3|  2|  1| 
 |Randy Arozarena   |OF        |     13|  4|   6|  1|  0| 
 |Connor Joe        |DH        |      9|  4|   3|  0|  0| 
 |Lane Thomas       |DH        |     15|  7|   8|  3|  0| 
 |Michael Harris II |DH        |     12|  5|   2|  1|  2| 
-|Thairo Estrada    |DH        |      5|  6|   2|  0|  1| 
-|Jon Berti         |BAT BENCH |      5|  1|   1|  0|  0| 
+|Thairo Estrada    |DH        |      6|  6|   2|  0|  1| 
+|Jon Berti         |BAT BENCH |      6|  1|   2|  0|  0| 
 |Josh Rojas        |BAT BENCH |     **| **|  **| **| **| 
 |Shea Langeliers   |BAT BENCH |      4|  1|   2|  1|  0| 
 
@@ -32,16 +32,16 @@
  
 |players            |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:------------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Joe Musgrove       |SP          |  1|  7.000|  1|  1.286|      6| 0.857|  7|  1|  0| 
+|Joe Musgrove       |SP          |  2| 13.000|  3|  2.077|     14| 1.077| 13|  1|  0| 
 |Jon Gray           |SP          |  1|  5.000|  1|  1.800|      5| 1.000|  4|  0|  0| 
 |Logan Gilbert      |SP          |  2| 13.000|  5|  3.462|     13| 1.000|  9|  1|  0| 
 |Reid Detmers       |SP          |  2| 14.000|  1|  0.643|      7| 0.500| 18|  0|  0| 
-|Taijuan Walker     |SP          |  1|  6.000|  1|  1.500|      4| 0.667|  5|  1|  0| 
+|Taijuan Walker     |SP          |  2| 12.000|  2|  1.500|     11| 0.917| 11|  2|  0| 
 |Tylor Megill       |SP          |  1|  2.333|  4| 15.429|      8| 3.429|  2|  0|  0| 
 |Carlos Estevez     |RP          |  2|  2.000|  1|  4.500|      5| 2.500|  1|  1|  1| 
-|David Bednar       |RP          |  3|  4.000|  0|  0.000|      4| 1.000|  3|  0|  1| 
+|David Bednar       |RP          |  4|  5.333|  0|  0.000|      5| 0.938|  6|  0|  2| 
 |Adam Ottavino      |OP          |  4|  4.333|  2|  4.154|      7| 1.615|  6|  0|  0| 
-|Drey Jameson       |OP          |  1|  2.000|  0|  0.000|      4| 2.000|  2|  0|  0| 
+|Drey Jameson       |OP          |  2|  5.000|  0|  0.000|      6| 1.200|  6|  0|  0| 
 |Julio Urias        |OP          | **|     **| **|     **|     **|    **| **| **| **| 
 |Luis Severino      |OP          |  1|  6.000|  0|  0.000|      7| 1.167|  4|  1|  0| 
 |Tanner Houck       |OP          | **|     **| **|     **|     **|    **| **| **| **| 
