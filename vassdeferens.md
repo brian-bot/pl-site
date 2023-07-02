@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman   |C         |     10|  2|   3|  1|  0| 
-|Spencer Torkelson |1B        |      9|  6|   6|  3|  0| 
-|Jake Cronenworth  |2B        |     10|  4|   2|  0|  0| 
-|Bobby Witt Jr.    |3B        |     12|  2|   3|  0|  1| 
-|Carlos Correa     |SS        |      9|  6|   3|  2|  0| 
-|Jorge Mateo       |MI        |      4|  3|   0|  0|  1| 
-|Emmanuel Rivera   |CI        |      4|  1|   2|  0|  0| 
+|Adley Rutschman   |C         |     11|  2|   3|  1|  0| 
+|Spencer Torkelson |1B        |     11|  6|   6|  3|  0| 
+|Jake Cronenworth  |2B        |     12|  5|   2|  0|  0| 
+|Bobby Witt Jr.    |3B        |     14|  3|   4|  0|  1| 
+|Carlos Correa     |SS        |     10|  6|   3|  2|  0| 
+|Jorge Mateo       |MI        |      4|  3|   0|  0|  2| 
+|Emmanuel Rivera   |CI        |      7|  2|   2|  0|  0| 
 |Corbin Carroll    |OF        |      8|  5|   5|  1|  5| 
 |MJ Melendez       |OF        |     10|  1|   2|  0|  2| 
-|Ryan O'Hearn      |OF        |      5|  2|   2|  1|  0| 
+|Ryan O'Hearn      |OF        |      6|  2|   2|  1|  0| 
 |TJ Friedl         |OF        |     18| 10|   8|  3|  6| 
 |Casey Schmitt     |DH        |      4|  0|   0|  0|  0| 
-|CJ Abrams         |DH        |     11|  4|   2|  1|  2| 
+|CJ Abrams         |DH        |     13|  5|   3|  1|  2| 
 |Elly De La Cruz   |DH        |     15| 10|   7|  2|  3| 
-|Triston Casas     |DH        |      9|  2|   3|  1|  0| 
+|Triston Casas     |DH        |     10|  2|   3|  1|  0| 
 |Aaron Judge       |BAT BENCH |     **| **|  **| **| **| 
-|Max Kepler        |BAT BENCH |     11|  4|   7|  4|  0| 
+|Max Kepler        |BAT BENCH |     13|  4|   7|  4|  0| 
 |Oneil Cruz        |BAT BENCH |     **| **|  **| **| **| 
 |Oscar Colas       |BAT BENCH |     **| **|  **| **| **| 
 |Riley Greene      |BAT BENCH |     **| **|  **| **| **| 
@@ -41,12 +41,12 @@
 |Sandy Alcantara  |SP          |  2| 14.000|  6| 3.857|     20| 1.429| 11|  1|  0| 
 |Shane Bieber     |SP          |  2| 11.000|  4| 3.273|     10| 0.909| 16|  0|  0| 
 |Jordan Romano    |RP          |  5|  4.333|  2| 4.154|      6| 1.385|  4|  0|  4| 
-|Kenley Jansen    |RP          |  4|  3.667|  2| 4.909|      5| 1.364|  4|  0|  1| 
+|Kenley Jansen    |RP          |  5|  5.000|  3| 5.400|      8| 1.600|  7|  0|  2| 
 |Ben Lively       |OP          |  1|  4.000|  2| 4.500|      7| 1.750|  4|  0|  0| 
 |Garrett Whitlock |OP          |  2| 11.667| 10| 7.714|     19| 1.629| 13|  0|  0| 
 |Jordan Hicks     |OP          |  2|  2.000|  1| 4.500|      1| 0.500|  3|  0|  2| 
-|Kutter Crawford  |OP          |  2| 11.000|  4| 3.273|     12| 1.091|  9|  1|  0| 
-|Kyle Bradish     |OP          |  2| 12.000|  4| 3.000|     10| 0.833| 15|  2|  0| 
+|Kutter Crawford  |OP          |  3| 16.667|  6| 3.240|     17| 1.020| 14|  2|  0| 
+|Kyle Bradish     |OP          |  3| 18.000|  5| 2.500|     18| 1.000| 22|  2|  0| 
 |Kenta Maeda      |PITCH BENCH |  2| 10.000|  2| 1.800|     12| 1.200| 12|  1|  0| 
 |Kyle Finnegan    |PITCH BENCH |  4|  5.667|  0| 0.000|      3| 0.529|  3|  0|  0| 
 
