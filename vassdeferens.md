@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman   |C         |     12|  3|   3|  1|  0| 
+|Adley Rutschman   |C         |     15|  4|   4|  1|  0| 
 |Spencer Torkelson |1B        |     15|  9|   8|  4|  0| 
-|Jake Cronenworth  |2B        |     13|  5|   3|  0|  0| 
-|Bobby Witt Jr.    |3B        |     16|  3|   6|  0|  1| 
-|Carlos Correa     |SS        |     11|  6|   3|  2|  0| 
+|Jake Cronenworth  |2B        |     15|  5|   6|  0|  0| 
+|Bobby Witt Jr.    |3B        |     18|  4|   7|  0|  3| 
+|Carlos Correa     |SS        |     15|  7|   4|  2|  0| 
 |Jorge Mateo       |MI        |      5|  3|   0|  0|  2| 
 |Emmanuel Rivera   |CI        |      7|  2|   2|  0|  0| 
 |Corbin Carroll    |OF        |      8|  5|   5|  1|  5| 
-|MJ Melendez       |OF        |     12|  3|   2|  0|  2| 
-|Ryan O'Hearn      |OF        |      7|  2|   2|  1|  0| 
-|TJ Friedl         |OF        |     20| 10|   8|  3|  6| 
+|MJ Melendez       |OF        |     13|  3|   2|  0|  2| 
+|Ryan O'Hearn      |OF        |      9|  3|   3|  1|  0| 
+|TJ Friedl         |OF        |     23| 10|   8|  3|  6| 
 |Casey Schmitt     |DH        |      4|  0|   0|  0|  0| 
 |CJ Abrams         |DH        |     13|  5|   3|  1|  2| 
-|Elly De La Cruz   |DH        |     15| 10|   7|  2|  3| 
+|Elly De La Cruz   |DH        |     16| 11|   7|  2|  3| 
 |Triston Casas     |DH        |     10|  2|   3|  1|  0| 
 |Aaron Judge       |BAT BENCH |     **| **|  **| **| **| 
-|Max Kepler        |BAT BENCH |     13|  4|   7|  4|  0| 
+|Max Kepler        |BAT BENCH |     15|  6|   8|  4|  0| 
 |Oneil Cruz        |BAT BENCH |     **| **|  **| **| **| 
 |Oscar Colas       |BAT BENCH |     **| **|  **| **| **| 
 |Riley Greene      |BAT BENCH |     **| **|  **| **| **| 
