@@ -8,9 +8,9 @@
 |Willson Contreras |C         |     25|  7|   5|  1|  0| 
 |Ryan Mountcastle  |1B        |     **| **|  **| **| **| 
 |Andres Gimenez    |2B        |     26| 10|   8|  2|  7| 
-|Rafael Devers     |3B        |     27|  9|  11|  3|  1| 
-|Nico Hoerner      |SS        |     19|  7|   8|  1|  4| 
-|Tim Anderson      |MI        |     10|  7|   3|  0|  1| 
+|Rafael Devers     |3B        |     28| 10|  12|  3|  2| 
+|Nico Hoerner      |SS        |     21|  7|   9|  1|  4| 
+|Tim Anderson      |MI        |     11|  8|   3|  0|  1| 
 |Ke'Bryan Hayes    |CI        |      6|  1|   2|  1|  1| 
 |Brent Rooker      |OF        |      7|  1|   4|  1|  0| 
 |Kyle Tucker       |OF        |     28| 14|  14|  4|  1| 
@@ -22,7 +22,7 @@
 |Thairo Estrada    |DH        |     10|  7|   3|  0|  1| 
 |Jon Berti         |BAT BENCH |      9|  5|   4|  0|  0| 
 |Josh Rojas        |BAT BENCH |     **| **|  **| **| **| 
-|Shea Langeliers   |BAT BENCH |     10|  5|   4|  2|  1| 
+|Shea Langeliers   |BAT BENCH |     12|  6|   4|  2|  1| 
 
 
 * * *
@@ -40,7 +40,7 @@
 |Tylor Megill       |SP          |  1|  2.333|  4| 15.429|      8| 3.429|  2|  0|  0| 
 |Carlos Estevez     |RP          |  3|  3.000|  1|  3.000|      6| 2.000|  2|  1|  2| 
 |David Bednar       |RP          |  5|  7.000|  0|  0.000|      7| 1.000|  8|  1|  2| 
-|Adam Ottavino      |OP          |  7|  6.667|  2|  2.700|     10| 1.500|  9|  0|  1| 
+|Adam Ottavino      |OP          |  8|  8.000|  2|  2.250|     11| 1.375|  9|  0|  1| 
 |Drey Jameson       |OP          |  3|  8.000|  2|  2.250|     12| 1.500|  8|  0|  0| 
 |Julio Urias        |OP          |  2|  9.000|  7|  7.000|     12| 1.333| 10|  1|  0| 
 |Luis Severino      |OP          |  3| 12.667| 14|  9.947|     30| 2.368|  9|  1|  0| 
