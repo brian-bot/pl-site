@@ -5,24 +5,24 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto    |C         |     17|  9|   6|  2|  0| 
+|J.T. Realmuto    |C         |     18|  9|   6|  2|  0| 
 |LaMonte Wade Jr. |1B        |     16|  2|   1|  0|  0| 
 |Mookie Betts     |2B        |     34| 18|  19|  9|  2| 
-|Austin Riley     |3B        |     23| 18|  10|  5|  1| 
-|Corey Seager     |SS        |     33| 11|  12|  2|  0| 
-|Ryan McMahon     |MI        |     17|  5|   4|  2|  1| 
+|Austin Riley     |3B        |     26| 19|  10|  5|  1| 
+|Corey Seager     |SS        |     34| 12|  12|  2|  0| 
+|Ryan McMahon     |MI        |     18|  5|   4|  2|  1| 
 |Luke Raley       |CI        |     20| 10|   9|  3|  1| 
 |Hunter Renfroe   |OF        |     19|  9|   8|  3|  0| 
-|Jarred Kelenic   |OF        |     20| 10|   7|  0|  3| 
+|Jarred Kelenic   |OF        |     21| 10|   9|  0|  3| 
 |Josh Lowe        |OF        |     13|  4|   7|  1|  1| 
-|Juan Soto        |OF        |     36| 11|  11|  2|  0| 
+|Juan Soto        |OF        |     37| 11|  11|  2|  0| 
 |Jake McCarthy    |DH        |     20|  8|   3|  0|  6| 
-|Lars Nootbaar    |DH        |     20| 10|   4|  1|  0| 
-|Leody Taveras    |DH        |     19|  8|   8|  2|  2| 
-|Michael Conforto |DH        |     13|  4|   7|  1|  0| 
-|Amed Rosario     |BAT BENCH |     29| 12|  16|  1|  1| 
-|Cody Bellinger   |BAT BENCH |     27| 12|   8|  2|  2| 
-|Nolan Gorman     |BAT BENCH |     15|  8|   6|  2|  0| 
+|Lars Nootbaar    |DH        |     21| 11|   4|  1|  0| 
+|Leody Taveras    |DH        |     20|  8|   8|  2|  2| 
+|Michael Conforto |DH        |     14|  4|   7|  1|  0| 
+|Amed Rosario     |BAT BENCH |     30| 12|  16|  1|  1| 
+|Cody Bellinger   |BAT BENCH |     29| 13|   8|  2|  2| 
+|Nolan Gorman     |BAT BENCH |     15|  9|   6|  2|  0| 
 
 * * *
 
