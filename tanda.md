@@ -14,12 +14,12 @@
 |Matt Chapman       |CI        |      6|  3|   1|  0|  0| 
 |Jorge Soler        |OF        |      5|  1|   1|  1|  0| 
 |Marcell Ozuna      |OF        |      4|  1|   0|  0|  0| 
-|Masataka Yoshida   |OF        |      5|  3|   6|  1|  0| 
+|Masataka Yoshida   |OF        |      6|  4|   6|  1|  1| 
 |Ronald Acuna Jr.   |OF        |      8|  3|   3|  2|  2| 
-|Adam Duvall        |DH        |      2|  2|   1|  1|  0| 
+|Adam Duvall        |DH        |      3|  3|   2|  1|  0| 
 |Bryan De La Cruz   |DH        |      3|  1|   3|  1|  0| 
 |Giancarlo Stanton  |DH        |      6|  2|   6|  2|  0| 
-|Harrison Bader     |DH        |      2|  2|   1|  0|  0| 
+|Harrison Bader     |DH        |      3|  3|   1|  0|  0| 
 |Brandon Drury      |BAT BENCH |     **| **|  **| **| **| 
 |Daulton Varsho     |BAT BENCH |      3|  0|   1|  0|  0| 
 |Esteury Ruiz       |BAT BENCH |     **| **|  **| **| **| 

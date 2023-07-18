@@ -18,12 +18,12 @@
 |Kyle Schwarber    |OF        |      7|  3|   7|  3|  0| 
 |Aaron Hicks       |DH        |      3|  1|   0|  0|  0| 
 |Cedric Mullins    |DH        |      4|  2|   2|  1|  1| 
-|Gleyber Torres    |DH        |      7|  4|   1|  0|  0| 
+|Gleyber Torres    |DH        |      9|  4|   2|  0|  0| 
 |Joey Wiemer       |DH        |      3|  0|   0|  0|  0| 
 |Anthony Rizzo     |BAT BENCH |      3|  0|   0|  0|  0| 
 |Colton Cowser     |BAT BENCH |      4|  3|   0|  0|  0| 
 |Jose Siri         |BAT BENCH |      3|  2|   2|  2|  0| 
-|Ryan Noda         |BAT BENCH |      2|  1|   1|  1|  0| 
+|Ryan Noda         |BAT BENCH |      3|  1|   1|  1|  0| 
 |Taylor Walls      |BAT BENCH |      0|  0|   0|  0|  0| 
 
 
@@ -40,7 +40,7 @@
 |Joe Ryan        |SP          |  1| 5.333|  3|  5.062|      8| 1.500|  7|  0|  0| 
 |Spencer Strider |SP          |  1| 6.000|  5|  7.500|      8| 1.333| 10|  0|  0| 
 |Zach Eflin      |SP          |  1| 3.000|  5| 15.000|      7| 2.333|  0|  0|  0| 
-|Paul Sewald     |RP          |  1| 1.000|  0|  0.000|      1| 1.000|  3|  0|  1| 
+|Paul Sewald     |RP          |  2| 1.333|  0|  0.000|      1| 0.750|  4|  0|  2| 
 |Pete Fairbanks  |RP          |  2| 1.667|  1|  5.400|      2| 1.200|  2|  0|  1| 
 |Adbert Alzolay  |OP          |  1| 0.667|  2| 27.000|      2| 3.000|  1|  0|  0| 
 |Bryan Woo       |OP          | **|    **| **|     **|     **|    **| **| **| **| 

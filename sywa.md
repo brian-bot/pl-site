@@ -5,7 +5,7 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Cal Raleigh         |C         |      3|  1|   1|  1|  0| 
+|Cal Raleigh         |C         |      5|  2|   1|  1|  0| 
 |Christian Walker    |1B        |      1|  0|   0|  0|  0| 
 |Whit Merrifield     |2B        |      6|  5|   4|  1|  0| 
 |Nolan Arenado       |3B        |      6|  1|   6|  1|  0| 
@@ -14,12 +14,12 @@
 |Josh Naylor         |CI        |      8|  4|   5|  2|  1| 
 |Jake Fraley         |OF        |      3|  1|   2|  1|  0| 
 |Lourdes Gurriel Jr. |OF        |      6|  2|   0|  0|  0| 
-|Teoscar Hernandez   |OF        |      0|  0|   0|  0|  0| 
+|Teoscar Hernandez   |OF        |      1|  1|   0|  0|  0| 
 |Yordan Alvarez      |OF        |     **| **|  **| **| **| 
 |Alec Bohm           |DH        |      8|  3|   1|  0|  0| 
-|Alex Verdugo        |DH        |      2|  0|   1|  0|  1| 
+|Alex Verdugo        |DH        |      4|  0|   1|  0|  1| 
 |C.J. Cron           |DH        |      5|  4|   5|  2|  0| 
-|Ty France           |DH        |      0|  0|   0|  0|  0| 
+|Ty France           |DH        |      1|  1|   0|  0|  0| 
 |Jeff McNeil         |BAT BENCH |      1|  0|   0|  0|  0| 
 |Owen Miller         |BAT BENCH |      2|  1|   2|  1|  1| 
 |Royce Lewis         |BAT BENCH |     **| **|  **| **| **| 

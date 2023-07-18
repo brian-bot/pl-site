@@ -12,7 +12,7 @@
 |Corey Seager     |SS        |      7|  3|   2|  1|  0| 
 |Ezequiel Tovar   |MI        |      4|  2|   1|  0|  0| 
 |Ryan McMahon     |CI        |      2|  1|   0|  0|  0| 
-|Jarred Kelenic   |OF        |      4|  0|   2|  0|  0| 
+|Jarred Kelenic   |OF        |      6|  1|   4|  0|  1| 
 |Juan Soto        |OF        |      6|  1|   4|  1|  0| 
 |Lars Nootbaar    |OF        |      7|  2|   2|  1|  0| 
 |Michael Conforto |OF        |      7|  1|   5|  0|  2| 
@@ -20,7 +20,7 @@
 |Leody Taveras    |DH        |      3|  0|   1|  0|  0| 
 |Luke Raley       |DH        |      8|  0|   3|  0|  2| 
 |Maikel Garcia    |DH        |      1|  0|   1|  0|  0| 
-|Hunter Renfroe   |BAT BENCH |      6|  2|   1|  0|  0| 
+|Hunter Renfroe   |BAT BENCH |      8|  2|   1|  0|  0| 
 |Josh Lowe        |BAT BENCH |      3|  1|   3|  1|  1| 
 |Nolan Gorman     |BAT BENCH |      7|  5|   4|  1|  0| 
 

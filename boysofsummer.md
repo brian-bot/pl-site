@@ -12,9 +12,9 @@
 |Bo Bichette       |SS        |      4|  1|   1|  1|  0| 
 |Orlando Arcia     |MI        |      4|  2|   1|  0|  0| 
 |Gunnar Henderson  |CI        |      5|  2|   3|  1|  0| 
-|Jarren Duran      |OF        |      4|  1|   0|  0|  0| 
+|Jarren Duran      |OF        |      6|  2|   0|  0|  0| 
 |Luis Robert Jr.   |OF        |      5|  1|   5|  1|  0| 
-|Mickey Moniak     |OF        |      8|  2|   1|  0|  0| 
+|Mickey Moniak     |OF        |     10|  2|   1|  0|  0| 
 |Tommy Pham        |OF        |      1|  0|   0|  0|  0| 
 |Eloy Jimenez      |DH        |      2|  0|   0|  0|  0| 
 |Ezequiel Duran    |DH        |      1|  1|   2|  1|  0| 
@@ -38,7 +38,7 @@
 |Chris Bassitt      |SP          |  1| 6.000|  2| 3.000|      7| 1.167|  5|  1|  0| 
 |Dylan Cease        |SP          |  1| 5.000|  1| 1.800|      6| 1.200|  6|  1|  0| 
 |Eduardo Rodriguez  |SP          |  1| 5.000|  2| 3.600|      5| 1.000|  7|  1|  0| 
-|Sonny Gray         |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Sonny Gray         |SP          |  1| 5.667|  5| 7.941|      9| 1.588|  5|  0|  0| 
 |Tommy Henry        |SP          |  1| 4.333|  3| 6.231|      8| 1.846|  5|  0|  0| 
 |Emmanuel Clase     |RP          |  1| 1.000|  0| 0.000|      1| 1.000|  3|  0|  0| 
 |Josh Hader         |RP          |  2| 1.667|  0| 0.000|      1| 0.600|  2|  0|  1| 

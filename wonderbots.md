@@ -8,7 +8,7 @@
 |Alejandro Kirk        |C         |      1|  1|   0|  0|  0| 
 |Vladimir Guerrero Jr. |1B        |      4|  3|   2|  1|  0| 
 |Marcus Semien         |2B        |      8|  5|   2|  1|  0| 
-|Justin Turner         |3B        |      5|  3|   4|  1|  0| 
+|Justin Turner         |3B        |      6|  4|   6|  1|  0| 
 |Xander Bogaerts       |SS        |      7|  1|   1|  1|  1| 
 |J.P. Crawford         |MI        |      7|  1|   0|  0|  0| 
 |Luis Arraez           |CI        |      6|  0|   2|  0|  0| 
@@ -39,7 +39,7 @@
 |Clarke Schmidt   |RP          |  1| 6.000|  2|  3.000|      4| 0.667|  8|  1|  0| 
 |Dylan Floro      |RP          |  2| 2.000|  3| 13.500|      6| 3.000|  2|  0|  0| 
 |Alex Cobb        |OP          |  1| 6.000|  1|  1.500|      6| 1.000|  5|  0|  0| 
-|Andres Munoz     |OP          |  1| 1.000|  0|  0.000|      0| 0.000|  1|  0|  0| 
+|Andres Munoz     |OP          |  2| 2.333|  0|  0.000|      1| 0.429|  4|  0|  0| 
 |Ranger Suarez    |OP          |  1| 6.000|  3|  4.500|      9| 1.500|  3|  0|  0| 
 |Tyler Anderson   |OP          |  1| 3.000|  1|  3.000|      7| 2.333|  5|  0|  0| 
 |Yusei Kikuchi    |OP          |  1| 4.667|  1|  1.929|      5| 1.071|  4|  0|  0| 

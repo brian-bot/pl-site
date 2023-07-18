@@ -10,12 +10,12 @@
 |Bryson Stott     |2B        |      6|  6|   1|  1|  0| 
 |Alex Bregman     |3B        |      7|  4|   2|  1|  0| 
 |Trea Turner      |SS        |      7|  1|   2|  0|  2| 
-|Anthony Volpe    |MI        |      2|  2|   1|  0|  0| 
+|Anthony Volpe    |MI        |      3|  3|   1|  0|  0| 
 |Josh Jung        |CI        |      3|  0|   2|  0|  0| 
 |Bryan Reynolds   |OF        |      4|  1|   1|  0|  0| 
 |Christian Yelich |OF        |      5|  2|   3|  2|  0| 
-|Julio Rodriguez  |OF        |      5|  1|   0|  0|  0| 
-|Taylor Ward      |OF        |      8|  5|   4|  1|  0| 
+|Julio Rodriguez  |OF        |      6|  1|   1|  0|  0| 
+|Taylor Ward      |OF        |     10|  5|   4|  1|  0| 
 |Andrew McCutchen |DH        |      2|  2|   0|  0|  0| 
 |Brandon Nimmo    |DH        |      2|  1|   2|  1|  0| 
 |J.D. Martinez    |DH        |      6|  1|   3|  1|  0| 

@@ -9,17 +9,17 @@
 |Spencer Torkelson |1B        |      4|  3|   1|  0|  0| 
 |Jake Cronenworth  |2B        |      3|  2|   0|  0|  0| 
 |Bobby Witt Jr.    |3B        |      4|  2|   4|  2|  0| 
-|Carlos Correa     |SS        |      7|  2|   2|  0|  0| 
+|Carlos Correa     |SS        |      9|  3|   3|  0|  0| 
 |Jordan Westburg   |MI        |      0|  0|   0|  0|  0| 
 |Ryan O'Hearn      |CI        |      4|  0|   0|  0|  0| 
 |Corbin Carroll    |OF        |      2|  1|   0|  0|  0| 
-|Max Kepler        |OF        |      4|  1|   0|  0|  0| 
+|Max Kepler        |OF        |      6|  2|   3|  1|  0| 
 |MJ Melendez       |OF        |      6|  2|   2|  1|  1| 
 |TJ Friedl         |OF        |      1|  0|   0|  0|  0| 
 |CJ Abrams         |DH        |      8|  8|   1|  1|  3| 
 |Elly De La Cruz   |DH        |      0|  0|   0|  0|  0| 
 |Riley Greene      |DH        |      4|  2|   1|  0|  0| 
-|Triston Casas     |DH        |      4|  3|   5|  3|  0| 
+|Triston Casas     |DH        |      7|  4|   5|  3|  0| 
 |Aaron Judge       |BAT BENCH |     **| **|  **| **| **| 
 |Casey Schmitt     |BAT BENCH |      2|  2|   0|  0|  0| 
 |Emmanuel Rivera   |BAT BENCH |      2|  1|   0|  0|  0| 

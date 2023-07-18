@@ -8,7 +8,7 @@
 |Will Smith        |C         |      5|  2|   2|  0|  0| 
 |Paul Goldschmidt  |1B        |      8|  4|   3|  1|  0| 
 |Ozzie Albies      |2B        |      7|  3|   3|  0|  1| 
-|Eugenio Suarez    |3B        |      3|  1|   0|  0|  0| 
+|Eugenio Suarez    |3B        |      5|  2|   2|  1|  0| 
 |Wander Franco     |SS        |      7|  2|   0|  0|  0| 
 |Francisco Lindor  |MI        |      2|  0|   0|  0|  0| 
 |Andrew Vaughn     |CI        |      3|  1|   0|  0|  0| 
@@ -19,7 +19,7 @@
 |Francisco Alvarez |DH        |      1|  0|   0|  0|  0| 
 |Jose Abreu        |DH        |      6|  3|   4|  1|  0| 
 |Ketel Marte       |DH        |      4|  1|   3|  0|  0| 
-|Shohei Ohtani     |DH        |      6|  4|   2|  2|  0| 
+|Shohei Ohtani     |DH        |     10|  5|   4|  3|  0| 
 |Andrew Benintendi |BAT BENCH |      7|  4|   4|  0|  0| 
 |Anthony Rendon    |BAT BENCH |     **| **|  **| **| **| 
 |Jake Burger       |BAT BENCH |      3|  2|   3|  2|  0| 
