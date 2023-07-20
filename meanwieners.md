@@ -5,26 +5,26 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Jonah Heim        |C         |      6|  3|   4|  1|  0| 
-|Yandy Diaz        |1B        |      2|  1|   0|  0|  0| 
-|Isaac Paredes     |2B        |      2|  1|   1|  1|  0| 
-|Max Muncy         |3B        |      5|  3|   1|  0|  0| 
-|Christopher Morel |SS        |      7|  1|   3|  0|  1| 
-|Willy Adames      |MI        |      4|  2|   0|  0|  0| 
+|Jonah Heim        |C         |      8|  4|   7|  2|  0| 
+|Yandy Diaz        |1B        |      4|  1|   0|  0|  0| 
+|Isaac Paredes     |2B        |      3|  1|   1|  1|  0| 
+|Max Muncy         |3B        |      6|  4|   3|  1|  0| 
+|Christopher Morel |SS        |      9|  2|   3|  0|  1| 
+|Willy Adames      |MI        |      6|  2|   0|  0|  0| 
 |Joey Votto        |CI        |      6|  1|   3|  1|  0| 
-|Adolis Garcia     |OF        |      7|  4|   5|  1|  0| 
-|Bryce Harper      |OF        |     10|  4|   3|  1|  1| 
-|Jack Suwinski     |OF        |      1|  0|   0|  0|  0| 
-|Kyle Schwarber    |OF        |      8|  4|   8|  4|  0| 
-|Aaron Hicks       |DH        |      5|  1|   2|  0|  0| 
+|Adolis Garcia     |OF        |      8|  4|   5|  1|  0| 
+|Bryce Harper      |OF        |     11|  4|   3|  1|  1| 
+|Jack Suwinski     |OF        |      2|  0|   1|  0|  0| 
+|Kyle Schwarber    |OF        |      9|  4|  10|  4|  0| 
+|Aaron Hicks       |DH        |      7|  2|   3|  0|  0| 
 |Cedric Mullins    |DH        |      4|  2|   2|  1|  1| 
-|Gleyber Torres    |DH        |     11|  5|   3|  1|  0| 
-|Joey Wiemer       |DH        |      3|  0|   0|  0|  0| 
+|Gleyber Torres    |DH        |     12|  5|   3|  1|  0| 
+|Joey Wiemer       |DH        |      4|  1|   0|  0|  0| 
 |Anthony Rizzo     |BAT BENCH |      3|  0|   0|  0|  0| 
 |Colton Cowser     |BAT BENCH |      4|  3|   0|  0|  0| 
-|Jose Siri         |BAT BENCH |      3|  2|   2|  2|  0| 
+|Jose Siri         |BAT BENCH |      5|  3|   3|  3|  0| 
 |Ryan Noda         |BAT BENCH |      5|  2|   2|  2|  0| 
-|Taylor Walls      |BAT BENCH |      0|  0|   0|  0|  0| 
+|Taylor Walls      |BAT BENCH |      1|  0|   0|  0|  0| 
 
 
 * * *

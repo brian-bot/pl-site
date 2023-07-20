@@ -6,21 +6,21 @@
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Cal Raleigh         |C         |      5|  2|   1|  1|  0| 
-|Christian Walker    |1B        |      5|  3|   5|  2|  1| 
+|Christian Walker    |1B        |      9|  5|   5|  2|  1| 
 |Whit Merrifield     |2B        |      7|  5|   4|  1|  0| 
-|Nolan Arenado       |3B        |      9|  2|   9|  2|  0| 
+|Nolan Arenado       |3B        |     11|  3|  10|  2|  0| 
 |Dansby Swanson      |SS        |     **| **|  **| **| **| 
-|Ha-Seong Kim        |MI        |      9|  4|   2|  1|  1| 
+|Ha-Seong Kim        |MI        |     12|  5|   2|  1|  2| 
 |Josh Naylor         |CI        |     10|  6|  11|  4|  1| 
 |Jake Fraley         |OF        |      5|  2|   4|  2|  0| 
-|Lourdes Gurriel Jr. |OF        |      6|  2|   0|  0|  0| 
+|Lourdes Gurriel Jr. |OF        |      7|  2|   2|  0|  0| 
 |Teoscar Hernandez   |OF        |      2|  1|   0|  0|  0| 
 |Yordan Alvarez      |OF        |     **| **|  **| **| **| 
-|Alec Bohm           |DH        |     10|  3|   2|  0|  0| 
-|Alex Verdugo        |DH        |      4|  0|   1|  0|  1| 
-|C.J. Cron           |DH        |      7|  5|   5|  2|  0| 
+|Alec Bohm           |DH        |     10|  4|   2|  0|  0| 
+|Alex Verdugo        |DH        |      5|  0|   1|  0|  1| 
+|C.J. Cron           |DH        |      8|  6|   6|  3|  0| 
 |Ty France           |DH        |      2|  1|   1|  0|  0| 
-|Jeff McNeil         |BAT BENCH |      3|  1|   2|  0|  0| 
+|Jeff McNeil         |BAT BENCH |      4|  2|   2|  0|  0| 
 |Owen Miller         |BAT BENCH |      2|  1|   2|  1|  1| 
 |Royce Lewis         |BAT BENCH |     **| **|  **| **| **| 
 
