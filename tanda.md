@@ -6,16 +6,16 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Salvador Perez     |C         |      7|  1|   0|  0|  0| 
-|Matt Olson         |1B        |     10|  2|   5|  1|  0| 
+|Matt Olson         |1B        |     12|  4|   8|  3|  0| 
 |Matt McLain        |2B        |      8|  5|   1|  1|  0| 
-|Spencer Steer      |3B        |      4|  1|   0|  0|  0| 
-|Fernando Tatis Jr. |SS        |      8|  3|   5|  1|  1| 
-|Jeremy Pena        |MI        |      2|  1|   1|  0|  0| 
-|Matt Chapman       |CI        |      9|  3|   2|  0|  0| 
+|Spencer Steer      |3B        |      5|  1|   0|  0|  0| 
+|Fernando Tatis Jr. |SS        |      9|  3|   5|  1|  1| 
+|Jeremy Pena        |MI        |      3|  2|   1|  0|  0| 
+|Matt Chapman       |CI        |     10|  3|   2|  0|  0| 
 |Jorge Soler        |OF        |      7|  2|   2|  1|  0| 
 |Marcell Ozuna      |OF        |      5|  2|   1|  1|  0| 
 |Masataka Yoshida   |OF        |      9|  4|   6|  1|  1| 
-|Ronald Acuna Jr.   |OF        |     11|  6|   3|  2|  3| 
+|Ronald Acuna Jr.   |OF        |     12|  6|   3|  2|  3| 
 |Adam Duvall        |DH        |      5|  4|   2|  1|  1| 
 |Bryan De La Cruz   |DH        |      7|  2|   4|  2|  0| 
 |Giancarlo Stanton  |DH        |      8|  3|   7|  3|  0| 
@@ -43,7 +43,7 @@
 |Alexis Diaz     |RP          |  3|  2.667|  0|  0.000|      1| 0.375|  4|  0|  1| 
 |Alex Lange      |OP          |  3|  3.000|  1|  3.000|      5| 1.667|  4|  0|  3| 
 |David Robertson |OP          |  2|  3.000|  1|  3.000|      4| 1.333|  1|  1|  1| 
-|J.P. France     |OP          |  1|  4.333|  2|  4.154|      9| 2.077|  2|  0|  0| 
+|J.P. France     |OP          |  2| 11.333|  3|  2.382|     16| 1.412|  7|  1|  0| 
 |Jack Flaherty   |OP          |  1|  6.000|  3|  4.500|      6| 1.000|  7|  1|  0| 
 |Kyle Hendricks  |OP          |  2| 10.667|  6|  5.062|     13| 1.219| 10|  0|  0| 
 |Chris Sale      |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
