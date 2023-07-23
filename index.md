@@ -2,21 +2,21 @@
 
 ## Period 6 scores
 
-Through games on 2023-07-21 ([website build status](https://github.com/brian-bot/pl-site/actions))
+Through games on 2023-07-22 ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 
 |team                   | points|  r| hitsbb| hr| rbi| sb|  w| sv|  so|   era|  whip|
 |:----------------------|------:|--:|------:|--:|---:|--:|--:|--:|---:|-----:|-----:|
-|[Vass Deferens](./vassdeferens)|   63.0| 59|    125| 16|  46| 10|  6|  2| 105| 2.917| 1.037|
-|[Overwhelming Underdogs](./overwhelmingunderdogs)|   53.5| 61|    137| 16|  55|  2|  3| 11|  80| 4.607| 1.143|
-|[Boys of Summer](./boysofsummer)|   69.0| 62|    156| 18|  50| 12|  5|  4|  91| 3.778| 1.290|
-|[T and A](./tanda)     |   67.0| 52|    125| 17|  52|  8| 10|  6| 107| 4.234| 1.269|
-|[Wonderbots](./wonderbots)|   40.0| 54|    146| 17|  51|  4|  4|  0|  96| 5.108| 1.419|
-|[Nuclear Arms](./nucleararms)|   48.0| 61|    151| 15|  51|  4|  4|  5|  89| 4.771| 1.386|
-|[Washington Generals](./washingtongenerals)|   31.0| 40|    120| 14|  43|  5|  5|  2|  58| 3.894| 1.284|
-|[Mean Wieners](./meanwieners)|   56.5| 45|    124| 17|  56|  4|  6|  5| 110| 4.988| 1.205|
-|[Terminoeckers](./terminoeckers)|   65.5| 59|    160| 22|  77| 12|  6|  4|  86| 6.825| 1.416|
-|[SYWA](./sywa)         |   56.5| 49|    119| 18|  60|  6|  3|  6|  75| 3.823| 1.115|
+|[Vass Deferens](./vassdeferens)|   68.0| 71|    151| 21|  56| 11|  6|  3| 110| 3.112| 1.046|
+|[Overwhelming Underdogs](./overwhelmingunderdogs)|   56.5| 73|    167| 20|  66|  4|  3| 13|  98| 4.969| 1.219|
+|[Boys of Summer](./boysofsummer)|   69.5| 71|    176| 21|  55| 15|  6|  5| 110| 3.729| 1.285|
+|[T and A](./tanda)     |   64.5| 58|    149| 19|  60| 11| 10|  9| 113| 4.166| 1.243|
+|[Wonderbots](./wonderbots)|   42.5| 66|    168| 21|  63|  4|  4|  0| 106| 4.940| 1.382|
+|[Nuclear Arms](./nucleararms)|   49.0| 70|    168| 16|  61|  6|  5|  6|  93| 4.659| 1.376|
+|[Washington Generals](./washingtongenerals)|   32.5| 50|    146| 14|  47|  9|  5|  3|  73| 4.111| 1.346|
+|[Mean Wieners](./meanwieners)|   51.0| 50|    136| 18|  61|  4|  7|  6| 129| 4.732| 1.165|
+|[Terminoeckers](./terminoeckers)|   63.5| 67|    178| 24|  89| 12|  6|  5|  97| 6.385| 1.378|
+|[SYWA](./sywa)         |   53.0| 57|    138| 22|  68|  6|  3|  6|  91| 4.483| 1.155|
 
 * * *
 * * *
