@@ -5,25 +5,25 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Henry Davis       |C         |     17|  6|   4|  3|  1| 
-|Freddie Freeman   |1B        |     22| 12|   9|  3|  0| 
-|Jonathan India    |2B        |     11|  3|   2|  1|  0| 
-|Jose Ramirez      |3B        |     14|  6|   2|  0|  3| 
+|Henry Davis       |C         |     18|  6|   4|  3|  1| 
+|Freddie Freeman   |1B        |     25| 13|   9|  3|  0| 
+|Jonathan India    |2B        |     12|  3|   2|  1|  0| 
+|Jose Ramirez      |3B        |     14|  6|   3|  0|  3| 
 |Bo Bichette       |SS        |     11|  1|   1|  1|  0| 
-|Orlando Arcia     |MI        |      9|  6|   6|  3|  0| 
-|Gunnar Henderson  |CI        |     11|  8|   4|  2|  0| 
-|Jarren Duran      |OF        |     12|  6|   1|  1|  3| 
+|Orlando Arcia     |MI        |     10|  6|   6|  3|  0| 
+|Gunnar Henderson  |CI        |     14| 10|   6|  3|  0| 
+|Jarren Duran      |OF        |     12|  5|   1|  1|  2| 
 |Luis Robert Jr.   |OF        |     10|  4|   6|  2|  3| 
-|Mickey Moniak     |OF        |     17|  4|   6|  1|  1| 
+|Mickey Moniak     |OF        |     18|  5|   6|  1|  1| 
 |Tommy Pham        |OF        |      7|  3|   1|  0|  1| 
-|Eloy Jimenez      |DH        |      8|  2|   1|  0|  0| 
-|Ezequiel Duran    |DH        |      5|  2|   2|  1|  0| 
+|Eloy Jimenez      |DH        |     10|  3|   2|  1|  0| 
+|Ezequiel Duran    |DH        |      7|  3|   3|  1|  0| 
 |Jordan Walker     |DH        |     10|  4|   3|  1|  1| 
 |Will Benson       |DH        |     12|  4|   7|  2|  2| 
 |Brendan Donovan   |BAT BENCH |     11|  5|   7|  2|  0| 
-|Byron Buxton      |BAT BENCH |      4|  3|   6|  2|  1| 
-|Geraldo Perdomo   |BAT BENCH |     11|  5|   3|  0|  0| 
-|Seiya Suzuki      |BAT BENCH |     14|  6|   5|  1|  2| 
+|Byron Buxton      |BAT BENCH |      6|  3|   6|  2|  1| 
+|Geraldo Perdomo   |BAT BENCH |     13|  6|   3|  0|  0| 
+|Seiya Suzuki      |BAT BENCH |     15|  7|   5|  1|  2| 
 |William Contreras |BAT BENCH |     13|  3|   5|  1|  0| 
 
 
@@ -44,7 +44,7 @@
 |Josh Hader         |RP          |  4|  3.667|  0| 0.000|      1| 0.273|  5|  0|  3| 
 |Cristopher Sanchez |OP          |  2| 10.000|  4| 3.600|     11| 1.100|  8|  0|  0| 
 |Dane Dunning       |OP          |  2| 10.000|  7| 6.300|     15| 1.500|  5|  0|  0| 
-|Hunter Brown       |OP          |  1|  5.333|  4| 6.750|      6| 1.125|  7|  0|  0| 
+|Hunter Brown       |OP          |  2| 11.333|  6| 4.765|     14| 1.235| 11|  0|  0| 
 |Josiah Gray        |OP          |  2| 12.000|  5| 3.750|     18| 1.500|  6|  1|  0| 
 |Kyle Gibson        |OP          |  2| 11.333|  8| 6.353|     20| 1.765|  9|  0|  0| 
 |Clayton Kershaw    |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
