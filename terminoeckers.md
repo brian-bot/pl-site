@@ -5,23 +5,23 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto    |C         |     10|  5|   6|  2|  2| 
-|Cody Bellinger   |1B        |     19|  9|  15|  5|  1| 
-|Mookie Betts     |2B        |     19|  7|   5|  1|  0| 
-|Austin Riley     |3B        |     14| 10|  17|  6|  0| 
+|J.T. Realmuto    |C         |     11|  5|   6|  2|  2| 
+|Cody Bellinger   |1B        |     19|  9|  16|  5|  1| 
+|Mookie Betts     |2B        |     20|  8|   6|  1|  0| 
+|Austin Riley     |3B        |     15| 10|  17|  6|  0| 
 |Corey Seager     |SS        |     12|  6|   6|  3|  0| 
-|Ezequiel Tovar   |MI        |     10|  3|   2|  0|  1| 
-|Ryan McMahon     |CI        |     10|  4|   1|  1|  0| 
+|Ezequiel Tovar   |MI        |     12|  4|   3|  1|  1| 
+|Ryan McMahon     |CI        |     12|  5|   1|  1|  0| 
 |Jarred Kelenic   |OF        |      8|  3|   4|  0|  1| 
-|Juan Soto        |OF        |     20|  7|  13|  4|  0| 
-|Lars Nootbaar    |OF        |     20| 11|   4|  2|  2| 
+|Juan Soto        |OF        |     21|  8|  14|  5|  0| 
+|Lars Nootbaar    |OF        |     22| 11|   4|  2|  2| 
 |Michael Conforto |OF        |     13|  2|   7|  0|  2| 
-|Jake McCarthy    |DH        |     12|  4|   2|  0|  2| 
+|Jake McCarthy    |DH        |     14|  5|   3|  0|  2| 
 |Leody Taveras    |DH        |      9|  3|   6|  1|  1| 
-|Luke Raley       |DH        |     12|  0|   3|  0|  2| 
+|Luke Raley       |DH        |     15|  0|   3|  0|  2| 
 |Maikel Garcia    |DH        |     11|  2|   7|  1|  0| 
-|Hunter Renfroe   |BAT BENCH |     13|  3|   1|  0|  0| 
-|Josh Lowe        |BAT BENCH |      8|  4|   3|  1|  2| 
+|Hunter Renfroe   |BAT BENCH |     14|  3|   1|  0|  0| 
+|Josh Lowe        |BAT BENCH |      9|  5|   4|  1|  3| 
 |Nolan Gorman     |BAT BENCH |     14|  7|  10|  3|  1| 
 
 * * *
@@ -31,8 +31,8 @@
  
 |players           |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|George Kirby      |SP          |  2| 12.000|  6|  4.500|     13| 1.083| 14|  1|  0| 
-|Justin Verlander  |SP          |  2| 13.000|  4|  2.769|     12| 0.923| 13|  1|  0| 
+|George Kirby      |SP          |  3| 16.000| 11|  6.188|     21| 1.312| 23|  1|  0| 
+|Justin Verlander  |SP          |  3| 19.000|  4|  1.895|     18| 0.947| 19|  2|  0| 
 |Mitch Keller      |SP          |  2| 11.000| 14| 11.455|     22| 2.000|  8|  0|  0| 
 |Nathan Eovaldi    |SP          |  1|  6.000|  0|  0.000|      5| 0.833|  2|  1|  0| 
 |Tyler Wells       |SP          |  2|  6.333|  8| 11.368|     13| 2.053|  7|  0|  0| 
