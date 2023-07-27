@@ -6,20 +6,20 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Willson Contreras |C         |     13|  2|   4|  1|  0| 
-|Ryan Mountcastle  |1B        |     11|  6|   2|  1|  0| 
-|Andres Gimenez    |2B        |     10|  3|   4|  2|  0| 
-|Rafael Devers     |3B        |     15|  8|   5|  4|  0| 
-|Nico Hoerner      |SS        |     21|  9|  10|  2|  4| 
-|Tim Anderson      |MI        |     19|  5|   4|  0|  1| 
+|Ryan Mountcastle  |1B        |     12|  6|   2|  1|  0| 
+|Andres Gimenez    |2B        |     11|  4|   4|  2|  1| 
+|Rafael Devers     |3B        |     16|  9|   6|  5|  0| 
+|Nico Hoerner      |SS        |     25| 10|  12|  2|  5| 
+|Tim Anderson      |MI        |     22|  7|   5|  0|  1| 
 |Ke'Bryan Hayes    |CI        |     **| **|  **| **| **| 
-|Brent Rooker      |OF        |      3|  1|   0|  0|  0| 
-|Kyle Tucker       |OF        |     27| 11|  13|  5|  4| 
-|Lane Thomas       |OF        |     14|  8|   5|  2|  4| 
+|Brent Rooker      |OF        |      4|  1|   0|  0|  0| 
+|Kyle Tucker       |OF        |     29| 12|  13|  5|  4| 
+|Lane Thomas       |OF        |     16|  9|   5|  2|  4| 
 |Randy Arozarena   |OF        |      9|  3|   4|  1|  1| 
 |Connor Joe        |DH        |      8|  2|   1|  1|  0| 
-|Jon Berti         |DH        |     12|  4|   1|  0|  2| 
-|Michael Harris II |DH        |     18|  4|   2|  0|  2| 
-|Shea Langeliers   |DH        |      7|  3|   0|  0|  0| 
+|Jon Berti         |DH        |     15|  7|   2|  0|  2| 
+|Michael Harris II |DH        |     19|  5|   2|  0|  2| 
+|Shea Langeliers   |DH        |      8|  3|   1|  0|  0| 
 |Josh Rojas        |BAT BENCH |     **| **|  **| **| **| 
 |Mike Trout        |BAT BENCH |     **| **|  **| **| **| 
 |Thairo Estrada    |BAT BENCH |     **| **|  **| **| **| 
@@ -39,7 +39,7 @@
 |Reid Detmers   |SP          |  2| 11.000|  6| 4.909|     16| 1.455| 15|  0|  0| 
 |Taijuan Walker |SP          |  3| 16.667|  8| 4.320|     24| 1.440| 13|  1|  0| 
 |Carlos Estevez |RP          |  6|  6.000|  2| 3.000|     10| 1.667|  8|  2|  2| 
-|David Bednar   |RP          |  4|  3.667|  0| 0.000|      3| 0.818|  5|  0|  2| 
+|David Bednar   |RP          |  5|  4.667|  1| 1.929|      6| 1.286|  7|  0|  3| 
 |A.J. Minter    |OP          | **|     **| **|    **|     **|    **| **| **| **| 
 |Adam Ottavino  |OP          |  5|  5.000|  1| 1.800|      6| 1.200|  1|  0|  0| 
 |Drey Jameson   |OP          | **|     **| **|    **|     **|    **| **| **| **| 

@@ -6,24 +6,24 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Henry Davis       |C         |     19|  6|   5|  3|  1| 
-|Freddie Freeman   |1B        |     28| 15|  10|  4|  0| 
-|Jonathan India    |2B        |     13|  3|   3|  1|  0| 
-|Jose Ramirez      |3B        |     15|  6|   4|  0|  3| 
-|Bo Bichette       |SS        |     16|  2|   4|  2|  0| 
+|Freddie Freeman   |1B        |     29| 15|  10|  4|  0| 
+|Jonathan India    |2B        |     14|  3|   3|  1|  0| 
+|Jose Ramirez      |3B        |     19|  9|   7|  2|  4| 
+|Bo Bichette       |SS        |     19|  3|   6|  2|  0| 
 |Orlando Arcia     |MI        |     13|  6|   6|  3|  0| 
 |Gunnar Henderson  |CI        |     15| 11|   6|  3|  0| 
 |Jarren Duran      |OF        |     14|  6|   2|  1|  4| 
-|Luis Robert Jr.   |OF        |     12|  5|   6|  2|  3| 
+|Luis Robert Jr.   |OF        |     13|  6|   7|  2|  3| 
 |Mickey Moniak     |OF        |     20|  5|   7|  1|  1| 
 |Tommy Pham        |OF        |      7|  3|   1|  0|  1| 
-|Eloy Jimenez      |DH        |     13|  4|   2|  1|  0| 
-|Ezequiel Duran    |DH        |      9|  3|   3|  1|  1| 
+|Eloy Jimenez      |DH        |     15|  4|   6|  1|  0| 
+|Ezequiel Duran    |DH        |     11|  4|   3|  1|  1| 
 |Jordan Walker     |DH        |     12|  5|   3|  1|  1| 
 |Will Benson       |DH        |     15|  5|   9|  3|  3| 
-|Brendan Donovan   |BAT BENCH |     15|  8|   7|  2|  1| 
+|Brendan Donovan   |BAT BENCH |     17| 10|   7|  2|  1| 
 |Byron Buxton      |BAT BENCH |      6|  3|   6|  2|  1| 
-|Geraldo Perdomo   |BAT BENCH |     16|  7|   4|  0|  0| 
-|Seiya Suzuki      |BAT BENCH |     16|  8|   5|  1|  3| 
+|Geraldo Perdomo   |BAT BENCH |     19|  7|   4|  0|  0| 
+|Seiya Suzuki      |BAT BENCH |     19|  9|   5|  1|  4| 
 |William Contreras |BAT BENCH |     18|  3|   6|  1|  0| 
 
 
