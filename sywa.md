@@ -8,10 +8,10 @@
 |Cal Raleigh         |C         |     13|  8|   4|  3|  0| 
 |Christian Walker    |1B        |     21|  9|   9|  4|  1| 
 |Whit Merrifield     |2B        |     19| 10|   8|  2|  1| 
-|Nolan Arenado       |3B        |     19|  5|  15|  3|  0| 
-|Dansby Swanson      |SS        |      9|  4|   6|  2|  0| 
+|Nolan Arenado       |3B        |     20|  5|  15|  3|  0| 
+|Dansby Swanson      |SS        |     12|  6|   7|  2|  0| 
 |Ha-Seong Kim        |MI        |     27| 10|   6|  4|  3| 
-|Josh Naylor         |CI        |     16|  7|  12|  4|  1| 
+|Josh Naylor         |CI        |     19|  8|  15|  4|  1| 
 |Jake Fraley         |OF        |     11|  4|   7|  3|  1| 
 |Lourdes Gurriel Jr. |OF        |      8|  3|   2|  0|  0| 
 |Teoscar Hernandez   |OF        |      9|  2|   8|  1|  0| 
@@ -20,7 +20,7 @@
 |Alex Verdugo        |DH        |      6|  0|   1|  0|  1| 
 |C.J. Cron           |DH        |     10|  7|   8|  4|  0| 
 |Ty France           |DH        |     11|  4|   2|  0|  0| 
-|Jeff McNeil         |BAT BENCH |     13|  5|   7|  0|  0| 
+|Jeff McNeil         |BAT BENCH |     15|  6|   7|  0|  0| 
 |Owen Miller         |BAT BENCH |      6|  2|   3|  1|  2| 
 |Royce Lewis         |BAT BENCH |     **| **|  **| **| **| 
 

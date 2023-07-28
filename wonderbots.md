@@ -13,12 +13,12 @@
 |J.P. Crawford         |MI        |     21|  6|   2|  0|  0| 
 |Luis Arraez           |CI        |     18|  2|   9|  0|  0| 
 |Anthony Santander     |OF        |     14|  5|   5|  1|  1| 
-|Ian Happ              |OF        |     18| 13|   5|  2|  2| 
+|Ian Happ              |OF        |     20| 14|   5|  2|  2| 
 |Nick Castellanos      |OF        |     10|  1|   5|  1|  0| 
-|Steven Kwan           |OF        |     23|  8|   9|  2|  1| 
+|Steven Kwan           |OF        |     25| 10|   9|  2|  1| 
 |Austin Hays           |DH        |     10|  2|   4|  0|  0| 
 |Harold Ramirez        |DH        |      9|  2|   2|  0|  0| 
-|Josh Bell             |DH        |     16|  5|   6|  2|  0| 
+|Josh Bell             |DH        |     17|  5|   6|  2|  0| 
 |Manny Machado         |DH        |     21|  9|  10|  5|  0| 
 |Jose Altuve           |BAT BENCH |      0|  0|   0|  0|  0| 
 

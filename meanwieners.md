@@ -9,7 +9,7 @@
 |Yandy Diaz        |1B        |     11|  2|   6|  1|  0| 
 |Isaac Paredes     |2B        |      9|  2|   3|  2|  0| 
 |Max Muncy         |3B        |     18| 11|  14|  4|  0| 
-|Christopher Morel |SS        |     17|  5|   8|  1|  3| 
+|Christopher Morel |SS        |     21|  8|  10|  1|  3| 
 |Willy Adames      |MI        |     14|  4|   2|  1|  0| 
 |Joey Votto        |CI        |     11|  1|   4|  1|  0| 
 |Adolis Garcia     |OF        |     14|  6|   9|  2|  0| 

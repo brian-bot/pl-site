@@ -6,7 +6,7 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Adley Rutschman   |C         |     15|  5|   7|  2|  0| 
-|Spencer Torkelson |1B        |     15|  6|  11|  3|  0| 
+|Spencer Torkelson |1B        |     18|  6|  12|  3|  0| 
 |Jake Cronenworth  |2B        |      9|  5|   5|  0|  0| 
 |Bobby Witt Jr.    |3B        |     11|  3|   4|  2|  1| 
 |Carlos Correa     |SS        |     20|  7|   7|  1|  0| 
@@ -16,7 +16,7 @@
 |Max Kepler        |OF        |     19|  9|   8|  2|  0| 
 |MJ Melendez       |OF        |     16|  5|   3|  2|  1| 
 |TJ Friedl         |OF        |     11|  4|   1|  1|  0| 
-|CJ Abrams         |DH        |     20| 15|   6|  3|  6| 
+|CJ Abrams         |DH        |     23| 16|   6|  3|  7| 
 |Elly De La Cruz   |DH        |      9|  5|   3|  2|  1| 
 |Riley Greene      |DH        |     19|  8|   4|  1|  0| 
 |Triston Casas     |DH        |     23| 11|  11|  6|  0| 
@@ -25,7 +25,7 @@
 |Emmanuel Rivera   |BAT BENCH |     15|  6|   3|  3|  0| 
 |Jorge Mateo       |BAT BENCH |      4|  3|   4|  0|  1| 
 |Oneil Cruz        |BAT BENCH |     **| **|  **| **| **| 
-|Oscar Colas       |BAT BENCH |      7|  4|   1|  0|  2| 
+|Oscar Colas       |BAT BENCH |      8|  4|   1|  0|  2| 
 
 
 * * *
@@ -37,8 +37,8 @@
 |:----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Andrew Abbott    |SP          |  3| 20.000|  2| 0.900|     16| 0.800| 18|  2|  0| 
 |Dean Kremer      |SP          |  3| 17.667|  7| 3.566|     17| 0.962| 12|  1|  0| 
-|Kodai Senga      |SP          |  2|  9.333|  3| 2.893|     10| 1.071| 12|  0|  0| 
-|Michael Lorenzen |SP          |  2| 13.667|  0| 0.000|     11| 0.805| 10|  2|  0| 
+|Kodai Senga      |SP          |  3| 15.333|  4| 2.348|     15| 0.978| 17|  0|  0| 
+|Michael Lorenzen |SP          |  3| 18.667|  3| 1.446|     17| 0.911| 17|  2|  0| 
 |Sandy Alcantara  |SP          |  3| 21.000|  7| 3.000|     25| 1.190| 19|  1|  0| 
 |Shane Bieber     |SP          | **|     **| **|    **|     **|    **| **| **| **| 
 |Jordan Romano    |RP          |  4|  3.667|  1| 2.455|      5| 1.364|  2|  0|  2| 

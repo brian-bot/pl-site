@@ -7,9 +7,9 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Willson Contreras |C         |     13|  2|   4|  1|  0| 
 |Ryan Mountcastle  |1B        |     12|  6|   2|  1|  0| 
-|Andres Gimenez    |2B        |     11|  4|   4|  2|  1| 
+|Andres Gimenez    |2B        |     14|  6|   5|  2|  2| 
 |Rafael Devers     |3B        |     16|  9|   6|  5|  0| 
-|Nico Hoerner      |SS        |     25| 10|  12|  2|  5| 
+|Nico Hoerner      |SS        |     26| 11|  12|  2|  5| 
 |Tim Anderson      |MI        |     22|  7|   5|  0|  1| 
 |Ke'Bryan Hayes    |CI        |     **| **|  **| **| **| 
 |Brent Rooker      |OF        |      4|  1|   0|  0|  0| 
