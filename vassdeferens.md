@@ -5,27 +5,27 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman   |C         |     16|  5|   7|  2|  0| 
+|Adley Rutschman   |C         |     18|  6|   7|  2|  0| 
 |Spencer Torkelson |1B        |     20|  7|  13|  3|  0| 
-|Jake Cronenworth  |2B        |     11|  6|   5|  0|  0| 
-|Bobby Witt Jr.    |3B        |     15|  5|  10|  3|  2| 
-|Carlos Correa     |SS        |     22|  7|   7|  1|  0| 
+|Jake Cronenworth  |2B        |     12|  7|   5|  0|  1| 
+|Bobby Witt Jr.    |3B        |     19|  7|  13|  4|  2| 
+|Carlos Correa     |SS        |     23|  7|   7|  1|  0| 
 |Jordan Westburg   |MI        |      7|  2|   2|  1|  1| 
-|Ryan O'Hearn      |CI        |     12|  3|   5|  2|  0| 
-|Corbin Carroll    |OF        |     20| 12|   9|  3|  5| 
-|Max Kepler        |OF        |     20| 10|   8|  2|  0| 
-|MJ Melendez       |OF        |     17|  5|   4|  2|  1| 
-|TJ Friedl         |OF        |     12|  4|   3|  1|  0| 
-|CJ Abrams         |DH        |     23| 16|   6|  3|  7| 
-|Elly De La Cruz   |DH        |     11|  6|   3|  2|  1| 
-|Riley Greene      |DH        |     21|  8|   4|  1|  0| 
+|Ryan O'Hearn      |CI        |     13|  3|   5|  2|  0| 
+|Corbin Carroll    |OF        |     21| 13|   9|  3|  6| 
+|Max Kepler        |OF        |     23| 12|   9|  3|  0| 
+|MJ Melendez       |OF        |     18|  5|   4|  2|  1| 
+|TJ Friedl         |OF        |     13|  5|   3|  1|  0| 
+|CJ Abrams         |DH        |     24| 17|   6|  3|  7| 
+|Elly De La Cruz   |DH        |     12|  7|   3|  2|  1| 
+|Riley Greene      |DH        |     22|  9|   5|  2|  0| 
 |Triston Casas     |DH        |     25| 12|  13|  7|  0| 
-|Aaron Judge       |BAT BENCH |      3|  0|   0|  0|  0| 
-|Casey Schmitt     |BAT BENCH |      8|  3|   3|  0|  0| 
+|Aaron Judge       |BAT BENCH |      6|  2|   2|  1|  0| 
+|Casey Schmitt     |BAT BENCH |      9|  3|   3|  0|  0| 
 |Emmanuel Rivera   |BAT BENCH |     16|  6|   3|  3|  0| 
 |Jorge Mateo       |BAT BENCH |      4|  3|   4|  0|  1| 
 |Oneil Cruz        |BAT BENCH |     **| **|  **| **| **| 
-|Oscar Colas       |BAT BENCH |     10|  4|   2|  0|  2| 
+|Oscar Colas       |BAT BENCH |     11|  4|   2|  0|  2| 
 
 
 * * *
@@ -42,7 +42,7 @@
 |Sandy Alcantara  |SP          |  3| 21.000|  7| 3.000|     25| 1.190| 19|  1|  0| 
 |Shane Bieber     |SP          | **|     **| **|    **|     **|    **| **| **| **| 
 |Jordan Romano    |RP          |  5|  4.333|  1| 2.077|      8| 1.846|  3|  0|  2| 
-|Kenley Jansen    |RP          |  5|  3.667|  0| 0.000|      3| 0.818|  5|  0|  4| 
+|Kenley Jansen    |RP          |  6|  3.667|  1| 2.455|      4| 1.091|  5|  0|  4| 
 |Ben Lively       |OP          |  3| 15.333|  6| 3.522|     17| 1.109| 12|  0|  0| 
 |Jordan Hicks     |OP          |  4|  5.000|  1| 1.800|      9| 1.800|  4|  0|  1| 
 |Kenta Maeda      |OP          |  3| 15.667|  6| 3.447|     19| 1.213| 23|  0|  0| 
