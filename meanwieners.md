@@ -6,23 +6,23 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Jonah Heim        |C         |     14|  6|  11|  2|  0| 
-|Yandy Diaz        |1B        |     12|  2|   7|  1|  0| 
-|Isaac Paredes     |2B        |     13|  4|   6|  4|  0| 
+|Yandy Diaz        |1B        |     16|  3|   8|  1|  0| 
+|Isaac Paredes     |2B        |     14|  4|   6|  4|  0| 
 |Max Muncy         |3B        |     21| 13|  17|  6|  0| 
-|Christopher Morel |SS        |     23|  9|  10|  1|  3| 
-|Willy Adames      |MI        |     15|  4|   2|  1|  0| 
-|Joey Votto        |CI        |     13|  1|   4|  1|  0| 
-|Adolis Garcia     |OF        |     16|  6|   9|  2|  0| 
-|Bryce Harper      |OF        |     22|  9|   7|  2|  2| 
+|Christopher Morel |SS        |     24|  9|  10|  1|  3| 
+|Willy Adames      |MI        |     16|  4|   2|  1|  0| 
+|Joey Votto        |CI        |     15|  2|   7|  2|  0| 
+|Adolis Garcia     |OF        |     18|  6|   9|  2|  1| 
+|Bryce Harper      |OF        |     26| 10|   8|  2|  2| 
 |Jack Suwinski     |OF        |      9|  2|   4|  2|  0| 
-|Kyle Schwarber    |OF        |     25|  8|  16|  5|  0| 
+|Kyle Schwarber    |OF        |     27|  9|  16|  5|  0| 
 |Aaron Hicks       |DH        |      9|  3|   3|  0|  0| 
 |Cedric Mullins    |DH        |      4|  2|   2|  1|  1| 
-|Gleyber Torres    |DH        |     18|  7|   8|  3|  0| 
+|Gleyber Torres    |DH        |     19|  7|   8|  3|  0| 
 |Joey Wiemer       |DH        |      9|  2|   3|  0|  0| 
 |Anthony Rizzo     |BAT BENCH |     12|  4|   2|  1|  0| 
 |Colton Cowser     |BAT BENCH |      8|  4|   2|  0|  0| 
-|Jose Siri         |BAT BENCH |     12|  6|   5|  4|  0| 
+|Jose Siri         |BAT BENCH |     13|  7|   5|  4|  0| 
 |Ryan Noda         |BAT BENCH |      5|  2|   2|  2|  0| 
 |Taylor Walls      |BAT BENCH |      3|  1|   0|  0|  0| 
 
@@ -46,7 +46,7 @@
 |Bryan Woo       |OP          |  3| 14.333| 13| 8.163|     25| 1.744| 11|  0|  0| 
 |Bryce Miller    |OP          |  3| 16.000|  7| 3.938|     19| 1.188| 16|  2|  0| 
 |Evan Phillips   |OP          |  5|  5.333|  0| 0.000|      3| 0.562|  5|  0|  1| 
-|Steven Matz     |OP          |  3| 15.333|  5| 2.935|     17| 1.109| 16|  1|  0| 
+|Steven Matz     |OP          |  4| 21.333|  5| 2.109|     21| 0.984| 18|  2|  0| 
 |Eury Perez      |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 |Hunter Harvey   |PITCH BENCH |  1|  1.000|  0| 0.000|      0| 0.000|  1|  0|  1| 
 
