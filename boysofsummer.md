@@ -8,23 +8,23 @@
 |Henry Davis       |C         |     21|  7|   5|  3|  1| 
 |Freddie Freeman   |1B        |     34| 17|  12|  4|  1| 
 |Jonathan India    |2B        |     15|  3|   3|  1|  0| 
-|Jose Ramirez      |3B        |     25| 12|  10|  4|  4| 
-|Bo Bichette       |SS        |     25|  4|   7|  2|  0| 
+|Jose Ramirez      |3B        |     27| 12|  10|  4|  5| 
+|Bo Bichette       |SS        |     27|  4|   7|  2|  0| 
 |Orlando Arcia     |MI        |     20|  8|   8|  3|  0| 
-|Gunnar Henderson  |CI        |     18| 13|   7|  3|  0| 
-|Jarren Duran      |OF        |     18|  8|   2|  1|  4| 
+|Gunnar Henderson  |CI        |     20| 14|   8|  4|  1| 
+|Jarren Duran      |OF        |     20|  9|   2|  1|  6| 
 |Luis Robert Jr.   |OF        |     18|  8|   9|  3|  4| 
 |Mickey Moniak     |OF        |     27|  7|   7|  1|  2| 
 |Tommy Pham        |OF        |     10|  4|   2|  1|  1| 
 |Eloy Jimenez      |DH        |     19|  4|   7|  1|  0| 
 |Ezequiel Duran    |DH        |     13|  6|   3|  1|  2| 
 |Jordan Walker     |DH        |     15|  6|   3|  1|  2| 
-|Will Benson       |DH        |     17|  7|   9|  3|  3| 
+|Will Benson       |DH        |     19|  8|  10|  3|  3| 
 |Brendan Donovan   |BAT BENCH |     18| 11|   7|  2|  1| 
 |Byron Buxton      |BAT BENCH |     12|  6|   8|  2|  1| 
-|Geraldo Perdomo   |BAT BENCH |     22|  8|   4|  0|  1| 
-|Seiya Suzuki      |BAT BENCH |     22| 11|   6|  1|  4| 
-|William Contreras |BAT BENCH |     24|  5|  11|  2|  0| 
+|Geraldo Perdomo   |BAT BENCH |     22|  9|   4|  0|  1| 
+|Seiya Suzuki      |BAT BENCH |     22| 11|   7|  1|  4| 
+|William Contreras |BAT BENCH |     26|  5|  12|  2|  0| 
 
 
 * * *
@@ -35,7 +35,7 @@
 |players            |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:------------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Blake Snell        |SP          |  4| 21.000|  2| 0.857|     33| 1.571| 24|  2|  0| 
-|Chris Bassitt      |SP          |  3| 17.000|  4| 2.118|     20| 1.176| 16|  2|  0| 
+|Chris Bassitt      |SP          |  4| 23.000|  8| 3.130|     29| 1.261| 23|  2|  0| 
 |Dylan Cease        |SP          |  3| 16.667|  6| 3.240|     22| 1.320| 20|  1|  0| 
 |Eduardo Rodriguez  |SP          |  3| 16.667|  8| 4.320|     19| 1.140| 17|  2|  0| 
 |Sonny Gray         |SP          |  3| 17.667| 10| 5.094|     22| 1.245| 14|  0|  0| 
@@ -46,7 +46,7 @@
 |Dane Dunning       |OP          |  3| 15.000| 10| 6.000|     23| 1.533|  9|  0|  0| 
 |Hunter Brown       |OP          |  3| 17.333|  8| 4.154|     20| 1.154| 15|  1|  0| 
 |Josiah Gray        |OP          |  3| 18.000|  5| 2.500|     23| 1.278| 10|  1|  0| 
-|Kyle Gibson        |OP          |  3| 17.333| 10| 5.192|     24| 1.385| 14|  0|  0| 
+|Kyle Gibson        |OP          |  4| 23.333| 11| 4.243|     30| 1.286| 19|  1|  0| 
 |Clayton Kershaw    |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 |Ryan Helsley       |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 

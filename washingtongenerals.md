@@ -6,15 +6,15 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Willson Contreras |C         |     17|  2|   4|  1|  0| 
-|Ryan Mountcastle  |1B        |     14|  7|   3|  2|  0| 
+|Ryan Mountcastle  |1B        |     16|  7|   6|  2|  0| 
 |Andres Gimenez    |2B        |     16|  7|   6|  2|  2| 
-|Rafael Devers     |3B        |     18|  9|   6|  5|  0| 
-|Nico Hoerner      |SS        |     27| 11|  12|  2|  5| 
+|Rafael Devers     |3B        |     21|  9|   6|  5|  0| 
+|Nico Hoerner      |SS        |     30| 12|  12|  2|  5| 
 |Tim Anderson      |MI        |     27|  8|   6|  1|  1| 
 |Ke'Bryan Hayes    |CI        |     **| **|  **| **| **| 
 |Brent Rooker      |OF        |     12|  3|   3|  1|  0| 
-|Kyle Tucker       |OF        |     31| 12|  14|  5|  4| 
-|Lane Thomas       |OF        |     17|  9|   6|  2|  4| 
+|Kyle Tucker       |OF        |     33| 13|  16|  5|  5| 
+|Lane Thomas       |OF        |     19| 10|   8|  2|  4| 
 |Randy Arozarena   |OF        |     13|  5|   4|  1|  2| 
 |Connor Joe        |DH        |     11|  4|   1|  1|  0| 
 |Jon Berti         |DH        |     19|  9|   3|  0|  3| 
@@ -37,14 +37,14 @@
 |Logan Gilbert  |SP          |  3| 16.333|  9| 4.959|     26| 1.592| 15|  2|  0| 
 |Luis Severino  |SP          |  3| 15.000| 13| 7.800|     29| 1.933| 13|  1|  0| 
 |Reid Detmers   |SP          |  3| 15.667|  8| 4.596|     21| 1.340| 20|  0|  0| 
-|Taijuan Walker |SP          |  3| 16.667|  8| 4.320|     24| 1.440| 13|  1|  0| 
+|Taijuan Walker |SP          |  4| 23.333| 10| 3.857|     32| 1.371| 17|  2|  0| 
 |Carlos Estevez |RP          |  7|  8.000|  2| 2.250|     12| 1.500| 10|  3|  2| 
 |David Bednar   |RP          |  7|  7.333|  1| 1.227|     10| 1.364| 12|  0|  4| 
-|A.J. Minter    |OP          | **|     **| **|    **|     **|    **| **| **| **| 
+|A.J. Minter    |OP          |  1|  1.000|  0| 0.000|      1| 1.000|  1|  0|  0| 
 |Adam Ottavino  |OP          |  7|  6.667|  1| 1.350|      7| 1.050|  2|  0|  0| 
 |Drey Jameson   |OP          | **|     **| **|    **|     **|    **| **| **| **| 
 |Julio Urias    |OP          |  3| 17.000| 11| 5.824|     22| 1.294| 14|  1|  0| 
-|Yennier Cano   |OP          |  9|  8.333|  3| 3.240|     12| 1.440|  8|  0|  0| 
+|Yennier Cano   |OP          | 10|  8.667|  4| 4.154|     15| 1.731|  8|  0|  0| 
 |Dustin May     |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 |Nick Lodolo    |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 |Tanner Houck   |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 

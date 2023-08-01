@@ -7,23 +7,23 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Adley Rutschman   |C         |     22|  8|   8|  2|  0| 
 |Spencer Torkelson |1B        |     21|  8|  14|  3|  0| 
-|Jake Cronenworth  |2B        |     16|  7|   5|  0|  1| 
+|Jake Cronenworth  |2B        |     18|  8|   6|  0|  1| 
 |Bobby Witt Jr.    |3B        |     20|  7|  13|  4|  2| 
 |Carlos Correa     |SS        |     24|  7|   7|  1|  0| 
 |Jordan Westburg   |MI        |      8|  3|   2|  1|  2| 
-|Ryan O'Hearn      |CI        |     15|  4|   8|  2|  0| 
-|Corbin Carroll    |OF        |     21| 13|   9|  3|  6| 
+|Ryan O'Hearn      |CI        |     17|  5|   8|  2|  0| 
+|Corbin Carroll    |OF        |     22| 14|  10|  3|  7| 
 |Max Kepler        |OF        |     23| 12|   9|  3|  0| 
 |MJ Melendez       |OF        |     19|  5|   4|  2|  1| 
-|TJ Friedl         |OF        |     15|  6|   5|  1|  0| 
-|CJ Abrams         |DH        |     27| 18|   6|  3| 10| 
+|TJ Friedl         |OF        |     17|  7|   5|  1|  1| 
+|CJ Abrams         |DH        |     29| 19|   6|  3| 11| 
 |Elly De La Cruz   |DH        |     16|  9|   4|  3|  1| 
 |Riley Greene      |DH        |     24| 10|   5|  2|  0| 
-|Triston Casas     |DH        |     26| 12|  13|  7|  0| 
-|Aaron Judge       |BAT BENCH |      6|  2|   2|  1|  0| 
+|Triston Casas     |DH        |     27| 12|  13|  7|  0| 
+|Aaron Judge       |BAT BENCH |      9|  2|   2|  1|  0| 
 |Casey Schmitt     |BAT BENCH |     11|  4|   4|  0|  0| 
-|Emmanuel Rivera   |BAT BENCH |     18|  6|   3|  3|  0| 
-|Jorge Mateo       |BAT BENCH |      4|  3|   4|  0|  1| 
+|Emmanuel Rivera   |BAT BENCH |     20|  6|   4|  3|  0| 
+|Jorge Mateo       |BAT BENCH |      5|  3|   4|  0|  2| 
 |Oneil Cruz        |BAT BENCH |     **| **|  **| **| **| 
 |Oscar Colas       |BAT BENCH |     12|  4|   2|  0|  2| 
 
@@ -35,7 +35,7 @@
  
 |players          |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Andrew Abbott    |SP          |  3| 20.000|  2| 0.900|     16| 0.800| 18|  2|  0| 
+|Andrew Abbott    |SP          |  4| 23.333|  6| 2.314|     24| 1.029| 23|  2|  0| 
 |Dean Kremer      |SP          |  4| 21.667| 10| 4.154|     26| 1.200| 19|  1|  0| 
 |Kodai Senga      |SP          |  3| 15.333|  4| 2.348|     15| 0.978| 17|  0|  0| 
 |Michael Lorenzen |SP          |  3| 18.667|  3| 1.446|     17| 0.911| 17|  2|  0| 
