@@ -6,20 +6,20 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |J.T. Realmuto    |C         |     18|  7|   8|  2|  2| 
-|Cody Bellinger   |1B        |     29| 12|  17|  6|  1| 
-|Mookie Betts     |2B        |     26|  9|   6|  1|  0| 
-|Austin Riley     |3B        |     24| 14|  20|  8|  0| 
+|Cody Bellinger   |1B        |     32| 15|  20|  7|  2| 
+|Mookie Betts     |2B        |     28| 11|   7|  2|  0| 
+|Austin Riley     |3B        |     26| 14|  20|  8|  0| 
 |Corey Seager     |SS        |     12|  6|   6|  3|  0| 
-|Ezequiel Tovar   |MI        |     16|  5|   3|  1|  1| 
-|Ryan McMahon     |CI        |     20|  8|   7|  3|  0| 
+|Ezequiel Tovar   |MI        |     18|  6|   3|  1|  1| 
+|Ryan McMahon     |CI        |     23| 10|  11|  4|  0| 
 |Jarred Kelenic   |OF        |      8|  3|   4|  0|  1| 
-|Juan Soto        |OF        |     33|  9|  17|  5|  0| 
-|Lars Nootbaar    |OF        |     31| 15|   9|  5|  2| 
-|Michael Conforto |OF        |     20|  4|   8|  0|  2| 
+|Juan Soto        |OF        |     35| 11|  21|  7|  0| 
+|Lars Nootbaar    |OF        |     33| 15|   9|  5|  2| 
+|Michael Conforto |OF        |     22|  4|   8|  0|  2| 
 |Jake McCarthy    |DH        |     19|  6|   3|  0|  3| 
 |Leody Taveras    |DH        |     14|  5|   9|  1|  2| 
 |Luke Raley       |DH        |     21|  1|   4|  0|  3| 
-|Maikel Garcia    |DH        |     16|  5|  11|  1|  0| 
+|Maikel Garcia    |DH        |     18|  6|  13|  1|  1| 
 |Hunter Renfroe   |BAT BENCH |     28|  6|   6|  2|  0| 
 |Josh Lowe        |BAT BENCH |     14|  7|   8|  2|  3| 
 |Nolan Gorman     |BAT BENCH |     21|  9|  13|  5|  2| 
@@ -38,9 +38,9 @@
 |Tyler Wells       |SP          |  3|  9.000| 11| 11.000|     19| 2.111|  8|  0|  0| 
 |Zack Wheeler      |SP          |  3| 20.667|  5|  2.177|     15| 0.726| 26|  1|  0| 
 |Felix Bautista    |RP          |  8|  9.667|  0|  0.000|      5| 0.517| 17|  2|  6| 
-|Raisel Iglesias   |RP          |  6|  5.333|  2|  3.375|      5| 0.938|  8|  0|  4| 
+|Raisel Iglesias   |RP          |  7|  6.333|  2|  2.842|      5| 0.789|  9|  0|  4| 
 |Braxton Garrett   |OP          |  3| 13.667| 10|  6.585|     20| 1.463| 16|  0|  0| 
-|Lance Lynn        |OP          |  3| 16.667| 17|  9.180|     29| 1.740| 17|  1|  0| 
+|Lance Lynn        |OP          |  4| 23.667| 20|  7.606|     35| 1.479| 24|  2|  0| 
 |Scott McGough     |OP          |  8|  6.000| 11| 16.500|     14| 2.333|  8|  0|  2| 
 |Seth Lugo         |OP          |  4| 25.333| 11|  3.908|     27| 1.066| 29|  1|  0| 
 |Tarik Skubal      |OP          |  3| 13.667| 11|  7.244|     17| 1.244| 16|  1|  0| 

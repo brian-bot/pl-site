@@ -6,25 +6,25 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Henry Davis       |C         |     21|  7|   5|  3|  1| 
-|Freddie Freeman   |1B        |     34| 17|  12|  4|  1| 
+|Freddie Freeman   |1B        |     38| 19|  13|  4|  2| 
 |Jonathan India    |2B        |     15|  3|   3|  1|  0| 
 |Jose Ramirez      |3B        |     27| 12|  10|  4|  5| 
 |Bo Bichette       |SS        |     27|  4|   7|  2|  0| 
-|Orlando Arcia     |MI        |     20|  8|   8|  3|  0| 
-|Gunnar Henderson  |CI        |     20| 14|   8|  4|  1| 
-|Jarren Duran      |OF        |     20|  9|   2|  1|  6| 
+|Orlando Arcia     |MI        |     21|  9|  10|  4|  0| 
+|Gunnar Henderson  |CI        |     23| 16|  12|  5|  1| 
+|Jarren Duran      |OF        |     21| 10|   2|  1|  6| 
 |Luis Robert Jr.   |OF        |     18|  8|   9|  3|  4| 
-|Mickey Moniak     |OF        |     27|  7|   7|  1|  2| 
+|Mickey Moniak     |OF        |     29|  8|   7|  1|  2| 
 |Tommy Pham        |OF        |     10|  4|   2|  1|  1| 
 |Eloy Jimenez      |DH        |     19|  4|   7|  1|  0| 
 |Ezequiel Duran    |DH        |     13|  6|   3|  1|  2| 
-|Jordan Walker     |DH        |     15|  6|   3|  1|  2| 
+|Jordan Walker     |DH        |     16|  6|   3|  1|  2| 
 |Will Benson       |DH        |     19|  8|  10|  3|  3| 
 |Brendan Donovan   |BAT BENCH |     18| 11|   7|  2|  1| 
-|Byron Buxton      |BAT BENCH |     12|  6|   8|  2|  1| 
-|Geraldo Perdomo   |BAT BENCH |     22|  9|   4|  0|  1| 
+|Byron Buxton      |BAT BENCH |     13|  6|   8|  2|  1| 
+|Geraldo Perdomo   |BAT BENCH |     24|  9|   4|  0|  1| 
 |Seiya Suzuki      |BAT BENCH |     22| 11|   7|  1|  4| 
-|William Contreras |BAT BENCH |     26|  5|  12|  2|  0| 
+|William Contreras |BAT BENCH |     27|  5|  13|  2|  0| 
 
 
 * * *
@@ -41,11 +41,11 @@
 |Sonny Gray         |SP          |  3| 17.667| 10| 5.094|     22| 1.245| 14|  0|  0| 
 |Tommy Henry        |SP          |  3| 14.667| 10| 6.136|     23| 1.568| 13|  0|  0| 
 |Emmanuel Clase     |RP          |  6|  6.000|  0| 0.000|      4| 0.667|  5|  0|  3| 
-|Josh Hader         |RP          |  7|  6.667|  0| 0.000|      5| 0.750| 11|  0|  4| 
+|Josh Hader         |RP          |  8|  7.333|  0| 0.000|      5| 0.682| 12|  0|  5| 
 |Cristopher Sanchez |OP          |  4| 22.000|  6| 2.455|     17| 0.773| 19|  0|  0| 
 |Dane Dunning       |OP          |  3| 15.000| 10| 6.000|     23| 1.533|  9|  0|  0| 
 |Hunter Brown       |OP          |  3| 17.333|  8| 4.154|     20| 1.154| 15|  1|  0| 
-|Josiah Gray        |OP          |  3| 18.000|  5| 2.500|     23| 1.278| 10|  1|  0| 
+|Josiah Gray        |OP          |  4| 21.667| 10| 4.154|     30| 1.385| 13|  1|  0| 
 |Kyle Gibson        |OP          |  4| 23.333| 11| 4.243|     30| 1.286| 19|  1|  0| 
 |Clayton Kershaw    |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 |Ryan Helsley       |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 

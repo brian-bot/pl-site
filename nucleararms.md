@@ -5,26 +5,26 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |     21|  8|   6|  0|  0| 
-|Paul Goldschmidt  |1B        |     27| 12|  10|  3|  1| 
-|Ozzie Albies      |2B        |     22| 14|  11|  2|  1| 
-|Eugenio Suarez    |3B        |     23|  6|  13|  3|  0| 
-|Wander Franco     |SS        |     20|  7|   5|  2|  1| 
-|Francisco Lindor  |MI        |     22|  9|   5|  2|  4| 
-|Andrew Vaughn     |CI        |     10|  3|   5|  1|  0| 
+|Will Smith        |C         |     22|  8|   6|  0|  0| 
+|Paul Goldschmidt  |1B        |     28| 12|  10|  3|  1| 
+|Ozzie Albies      |2B        |     23| 15|  11|  2|  1| 
+|Eugenio Suarez    |3B        |     25|  7|  16|  4|  0| 
+|Wander Franco     |SS        |     22|  8|   5|  2|  1| 
+|Francisco Lindor  |MI        |     25| 10|   5|  2|  4| 
+|Andrew Vaughn     |CI        |     11|  3|   5|  1|  0| 
 |George Springer   |OF        |     17|  4|   2|  0|  0| 
-|James Outman      |OF        |     27|  8|   4|  1|  3| 
-|Nolan Jones       |OF        |     13|  5|   8|  4|  2| 
+|James Outman      |OF        |     30|  9|   6|  1|  3| 
+|Nolan Jones       |OF        |     15|  5|   8|  4|  2| 
 |Starling Marte    |OF        |      2|  1|   0|  0|  1| 
-|Francisco Alvarez |DH        |     13|  7|   7|  3|  0| 
-|Jose Abreu        |DH        |     25| 11|  11|  3|  0| 
-|Ketel Marte       |DH        |     31| 10|  12|  2|  0| 
-|Shohei Ohtani     |DH        |     38| 18|  10|  7|  1| 
+|Francisco Alvarez |DH        |     15|  9|   9|  4|  0| 
+|Jose Abreu        |DH        |     26| 11|  11|  3|  0| 
+|Ketel Marte       |DH        |     32| 11|  13|  3|  0| 
+|Shohei Ohtani     |DH        |     39| 18|  10|  7|  2| 
 |Andrew Benintendi |BAT BENCH |     23| 10|   6|  1|  3| 
 |Anthony Rendon    |BAT BENCH |     **| **|  **| **| **| 
 |Jake Burger       |BAT BENCH |     17|  9|  11|  6|  0| 
-|Jeimer Candelario |BAT BENCH |     21| 11|  10|  3|  1| 
-|Luis Matos        |BAT BENCH |     20|  4|   4|  0|  1| 
+|Jeimer Candelario |BAT BENCH |     25| 13|  10|  3|  1| 
+|Luis Matos        |BAT BENCH |     21|  5|   5|  0|  1| 
 
 
 * * *
