@@ -7,22 +7,22 @@
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Sean Murphy      |C         |     11|  4|   3|  0|  0| 
 |Pete Alonso      |1B        |     23| 10|  16|  5|  0| 
-|Bryson Stott     |2B        |     24| 12|   5|  2|  3| 
-|Alex Bregman     |3B        |     28| 15|  13|  6|  0| 
-|Trea Turner      |SS        |     20|  7|   2|  0|  2| 
-|Anthony Volpe    |MI        |     15|  6|   3|  0|  3| 
-|Josh Jung        |CI        |     17|  3|   5|  1|  0| 
-|Bryan Reynolds   |OF        |     18|  8|   7|  3|  0| 
-|Christian Yelich |OF        |     26|  9|  14|  5|  1| 
-|Julio Rodriguez  |OF        |     26| 11|   8|  4|  2| 
+|Bryson Stott     |2B        |     28| 13|   6|  2|  4| 
+|Alex Bregman     |3B        |     32| 15|  13|  6|  0| 
+|Trea Turner      |SS        |     21|  9|   2|  0|  2| 
+|Anthony Volpe    |MI        |     18|  7|   5|  1|  4| 
+|Josh Jung        |CI        |     20|  4|   8|  2|  0| 
+|Bryan Reynolds   |OF        |     21|  9|   7|  3|  0| 
+|Christian Yelich |OF        |     27|  9|  15|  5|  1| 
+|Julio Rodriguez  |OF        |     27| 12|   9|  4|  3| 
 |Taylor Ward      |OF        |     27| 12|  16|  5|  1| 
-|Andrew McCutchen |DH        |     17|  6|   0|  0|  1| 
+|Andrew McCutchen |DH        |     21|  6|   1|  0|  1| 
 |Brandon Nimmo    |DH        |     18|  9|   6|  2|  0| 
 |J.D. Martinez    |DH        |     18|  5|  13|  3|  0| 
-|Nathaniel Lowe   |DH        |     34| 14|  12|  3|  0| 
+|Nathaniel Lowe   |DH        |     37| 15|  13|  3|  0| 
 |Elias Diaz       |BAT BENCH |     20|  5|   3|  1|  0| 
-|Jorge Polanco    |BAT BENCH |      5|  2|   3|  0|  0| 
-|Tommy Edman      |BAT BENCH |      0|  0|   0|  0|  0| 
+|Jorge Polanco    |BAT BENCH |      6|  2|   3|  0|  0| 
+|Tommy Edman      |BAT BENCH |      1|  1|   0|  0|  0| 
 
 * * *
 
@@ -35,9 +35,9 @@
 |JP Sears          |SP          |  3| 17.000|  9|  4.765|     18| 1.059| 13|  1|  0| 
 |Marcus Stroman    |SP          |  4| 16.000| 18| 10.125|     34| 2.125| 13|  1|  0| 
 |Max Scherzer      |SP          |  3| 20.000|  6|  2.700|     20| 1.000| 20|  1|  0| 
-|Shane McClanahan  |SP          |  3| 15.000| 10|  6.000|     19| 1.267| 17|  0|  0| 
-|Wade Miley        |SP          | **|     **| **|     **|     **|    **| **| **| **| 
-|Devin Williams    |RP          |  8|  8.000|  0|  0.000|      5| 0.625| 15|  1|  7| 
+|Shane McClanahan  |SP          |  4| 19.000| 15|  7.105|     24| 1.263| 20|  0|  0| 
+|Wade Miley        |SP          |  1|  4.000|  1|  2.250|      5| 1.250|  5|  0|  0| 
+|Devin Williams    |RP          |  9|  8.000|  0|  0.000|      7| 0.875| 15|  1|  7| 
 |Jhoan Duran       |RP          |  8|  7.333|  5|  6.136|     11| 1.500| 12|  0|  6| 
 |Aaron Civale      |OP          |  4| 24.333|  5|  1.849|     24| 0.986| 14|  2|  0| 
 |Aroldis Chapman   |OP          |  6|  6.000|  3|  4.500|      6| 1.000| 13|  1|  1| 
