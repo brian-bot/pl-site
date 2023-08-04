@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Willson Contreras |C         |     19|  3|   4|  1|  1| 
-|Ryan Mountcastle  |1B        |     24| 10|   8|  2|  1| 
-|Andres Gimenez    |2B        |     17|  7|   6|  2|  2| 
-|Rafael Devers     |3B        |     23| 10|   6|  5|  0| 
-|Nico Hoerner      |SS        |     34| 17|  13|  3|  6| 
-|Tim Anderson      |MI        |     28|  8|   6|  1|  2| 
-|Ke'Bryan Hayes    |CI        |      0|  0|   1|  0|  0| 
-|Brent Rooker      |OF        |     13|  4|   4|  2|  0| 
-|Kyle Tucker       |OF        |     35| 13|  18|  5|  5| 
-|Lane Thomas       |OF        |     19| 10|   8|  2|  4| 
-|Randy Arozarena   |OF        |     15|  6|   6|  2|  2| 
-|Connor Joe        |DH        |     14|  6|   1|  1|  0| 
-|Jon Berti         |DH        |     21|  9|   5|  0|  3| 
-|Michael Harris II |DH        |     27| 10|   6|  2|  2| 
-|Shea Langeliers   |DH        |     13|  6|   3|  1|  0| 
+|Willson Contreras |C         |     **| **|  **| **| **| 
+|Ryan Mountcastle  |1B        |      4|  2|   1|  0|  0| 
+|Andres Gimenez    |2B        |     **| **|  **| **| **| 
+|Rafael Devers     |3B        |     **| **|  **| **| **| 
+|Nico Hoerner      |SS        |      1|  2|   0|  0|  0| 
+|Tim Anderson      |MI        |      2|  1|   0|  0|  0| 
+|Ke'Bryan Hayes    |CI        |      1|  0|   0|  0|  0| 
+|Brent Rooker      |OF        |      0|  0|   0|  0|  0| 
+|Kyle Tucker       |OF        |      1|  1|   1|  1|  0| 
+|Lane Thomas       |OF        |     **| **|  **| **| **| 
+|Randy Arozarena   |OF        |     **| **|  **| **| **| 
+|Connor Joe        |DH        |     **| **|  **| **| **| 
+|Jon Berti         |DH        |      0|  0|   0|  0|  0| 
+|Michael Harris II |DH        |     **| **|  **| **| **| 
+|Shea Langeliers   |DH        |      0|  0|   0|  0|  0| 
 |Josh Rojas        |BAT BENCH |      0|  0|   0|  0|  0| 
 |Mike Trout        |BAT BENCH |     **| **|  **| **| **| 
 |Thairo Estrada    |BAT BENCH |     **| **|  **| **| **| 
@@ -30,24 +30,24 @@
 ### Pitchers
 
  
-|players        |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
-|:--------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Joe Musgrove   |SP          |  3| 18.000|  4| 2.000|     20| 1.111| 18|  2|  0| 
-|Jon Gray       |SP          |  3| 15.333| 10| 5.870|     27| 1.761| 14|  0|  0| 
-|Logan Gilbert  |SP          |  4| 22.333| 12| 4.836|     34| 1.522| 20|  2|  0| 
-|Luis Severino  |SP          |  3| 15.000| 13| 7.800|     29| 1.933| 13|  1|  0| 
-|Reid Detmers   |SP          |  3| 15.667|  8| 4.596|     21| 1.340| 20|  0|  0| 
-|Taijuan Walker |SP          |  4| 23.333| 10| 3.857|     32| 1.371| 17|  2|  0| 
-|Carlos Estevez |RP          |  7|  8.000|  2| 2.250|     12| 1.500| 10|  3|  2| 
-|David Bednar   |RP          |  8|  8.333|  1| 1.080|     10| 1.200| 14|  0|  5| 
-|A.J. Minter    |OP          |  2|  2.000|  0| 0.000|      2| 1.000|  2|  0|  0| 
-|Adam Ottavino  |OP          |  8|  7.667|  2| 2.348|      8| 1.043|  2|  0|  0| 
-|Drey Jameson   |OP          | **|     **| **|    **|     **|    **| **| **| **| 
-|Julio Urias    |OP          |  3| 17.000| 11| 5.824|     22| 1.294| 14|  1|  0| 
-|Yennier Cano   |OP          | 10|  8.667|  4| 4.154|     15| 1.731|  8|  0|  0| 
-|Dustin May     |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
-|Nick Lodolo    |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
-|Tanner Houck   |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
+|players        |position    |  g| ip| er| era| hitsbb| whip| so|  w| sv| 
+|:--------------|:-----------|--:|--:|--:|---:|------:|----:|--:|--:|--:| 
+|Joe Musgrove   |SP          | **| **| **|  **|     **|   **| **| **| **| 
+|Jon Gray       |SP          | **| **| **|  **|     **|   **| **| **| **| 
+|Logan Gilbert  |SP          | **| **| **|  **|     **|   **| **| **| **| 
+|Luis Severino  |SP          | **| **| **|  **|     **|   **| **| **| **| 
+|Reid Detmers   |SP          | **| **| **|  **|     **|   **| **| **| **| 
+|Taijuan Walker |SP          | **| **| **|  **|     **|   **| **| **| **| 
+|Carlos Estevez |RP          |  1|  1|  4|  36|      4|  4.0|  3|  0|  0| 
+|David Bednar   |RP          | **| **| **|  **|     **|   **| **| **| **| 
+|A.J. Minter    |OP          | **| **| **|  **|     **|   **| **| **| **| 
+|Adam Ottavino  |OP          | **| **| **|  **|     **|   **| **| **| **| 
+|Julio Urias    |OP          |  1|  5|  0|   0|      4|  0.8|  5|  1|  0| 
+|Kyle Finnegan  |OP          | **| **| **|  **|     **|   **| **| **| **| 
+|Yennier Cano   |OP          |  1|  1|  0|   0|      0|  0.0|  1|  0|  0| 
+|Drey Jameson   |PITCH BENCH | **| **| **|  **|     **|   **| **| **| **| 
+|Nick Lodolo    |PITCH BENCH | **| **| **|  **|     **|   **| **| **| **| 
+|Tanner Houck   |PITCH BENCH | **| **| **|  **|     **|   **| **| **| **| 
 
 
 * * *
