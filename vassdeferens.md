@@ -5,26 +5,26 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman   |C         |      3|  0|   2|  0|  0| 
+|Adley Rutschman   |C         |      5|  1|   3|  0|  0| 
 |Spencer Torkelson |1B        |      0|  0|   0|  0|  0| 
-|Jake Cronenworth  |2B        |      2|  2|   0|  0|  0| 
-|Bobby Witt Jr.    |3B        |      6|  3|   4|  2|  2| 
-|Carlos Correa     |SS        |      1|  0|   0|  0|  0| 
-|Elly De La Cruz   |MI        |      4|  2|   2|  2|  0| 
-|Ryan O'Hearn      |CI        |      2|  1|   1|  0|  1| 
-|Corbin Carroll    |OF        |      3|  0|   0|  0|  1| 
-|Max Kepler        |OF        |      1|  1|   1|  1|  0| 
-|MJ Melendez       |OF        |      2|  1|   0|  0|  0| 
-|TJ Friedl         |OF        |      0|  0|   0|  0|  2| 
+|Jake Cronenworth  |2B        |      4|  3|   1|  0|  0| 
+|Bobby Witt Jr.    |3B        |      7|  3|   5|  2|  2| 
+|Carlos Correa     |SS        |      2|  1|   1|  0|  0| 
+|Elly De La Cruz   |MI        |      5|  3|   2|  2|  0| 
+|Ryan O'Hearn      |CI        |      4|  1|   2|  0|  1| 
+|Corbin Carroll    |OF        |      4|  0|   0|  0|  2| 
+|Max Kepler        |OF        |      4|  3|   2|  2|  0| 
+|MJ Melendez       |OF        |      3|  1|   0|  0|  0| 
+|TJ Friedl         |OF        |      1|  1|   3|  1|  2| 
 |Aaron Judge       |DH        |      1|  1|   0|  0|  0| 
-|CJ Abrams         |DH        |      0|  0|   0|  0|  0| 
-|Riley Greene      |DH        |      1|  0|   0|  0|  0| 
+|CJ Abrams         |DH        |      1|  0|   0|  0|  0| 
+|Riley Greene      |DH        |      2|  0|   0|  0|  0| 
 |Triston Casas     |DH        |      0|  0|   0|  0|  0| 
 |Casey Schmitt     |BAT BENCH |      0|  0|   0|  0|  0| 
 |Emmanuel Rivera   |BAT BENCH |      0|  0|   0|  0|  0| 
-|Jordan Westburg   |BAT BENCH |      4|  2|   3|  1|  0| 
+|Jordan Westburg   |BAT BENCH |      5|  3|   3|  1|  0| 
 |Oneil Cruz        |BAT BENCH |     **| **|  **| **| **| 
-|Oscar Colas       |BAT BENCH |      4|  1|   0|  0|  0| 
+|Oscar Colas       |BAT BENCH |      5|  3|   1|  1|  0| 
 
 
 * * *
@@ -34,7 +34,7 @@
  
 |players          |position    |  g|    ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:-----------|--:|-----:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Andrew Abbott    |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Andrew Abbott    |SP          |  1| 5.667|  6| 9.529|     14| 2.471|  3|  0|  0| 
 |Dean Kremer      |SP          |  1| 5.333|  2| 3.375|      6| 1.125|  4|  0|  0| 
 |Kodai Senga      |SP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Kyle Bradish     |SP          | **|    **| **|    **|     **|    **| **| **| **| 
@@ -43,10 +43,10 @@
 |Jordan Romano    |RP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Kenley Jansen    |RP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Jordan Hicks     |OP          |  1| 1.333|  0| 0.000|      0| 0.000|  1|  0|  1| 
-|Kenta Maeda      |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Kenta Maeda      |OP          |  1| 6.000|  1| 1.500|      2| 0.333|  7|  1|  0| 
 |Kutter Crawford  |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Reese Olson      |OP          |  1| 5.000|  4| 7.200|      8| 1.600|  3|  0|  0| 
-|Trevor May       |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Trevor May       |OP          |  1| 1.667|  0| 0.000|      0| 0.000|  1|  1|  0| 
 |Ben Lively       |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
 |Garrett Whitlock |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
 

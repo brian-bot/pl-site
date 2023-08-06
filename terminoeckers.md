@@ -5,24 +5,24 @@
  
 |players        |position  | hitsbb|  r| rbi| hr| sb| 
 |:--------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto  |C         |      2|  1|   2|  1|  0| 
-|Cody Bellinger |1B        |      3|  1|   1|  0|  1| 
-|Mookie Betts   |2B        |      5|  3|   0|  0|  1| 
-|Austin Riley   |3B        |      1|  1|   2|  1|  0| 
-|Corey Seager   |SS        |      1|  1|   1|  1|  0| 
-|Ezequiel Tovar |MI        |      2|  1|   0|  0|  0| 
-|Ryan McMahon   |CI        |      2|  2|   1|  0|  0| 
-|Hunter Renfroe |OF        |      3|  0|   0|  0|  0| 
-|Juan Soto      |OF        |      2|  1|   1|  1|  0| 
-|Lars Nootbaar  |OF        |      2|  0|   0|  0|  0| 
-|Leody Taveras  |OF        |      3|  1|   1|  0|  0| 
+|J.T. Realmuto  |C         |      5|  3|   2|  1|  0| 
+|Cody Bellinger |1B        |      6|  3|   2|  0|  2| 
+|Mookie Betts   |2B        |      7|  4|   0|  0|  1| 
+|Austin Riley   |3B        |      3|  2|   2|  1|  0| 
+|Corey Seager   |SS        |      4|  3|   3|  2|  0| 
+|Ezequiel Tovar |MI        |      2|  1|   1|  0|  0| 
+|Ryan McMahon   |CI        |      3|  3|   2|  1|  0| 
+|Hunter Renfroe |OF        |      4|  0|   0|  0|  0| 
+|Juan Soto      |OF        |      4|  2|   2|  1|  0| 
+|Lars Nootbaar  |OF        |      3|  1|   0|  0|  0| 
+|Leody Taveras  |OF        |      4|  2|   1|  0|  0| 
 |Brandon Lowe   |DH        |      2|  1|   0|  0|  0| 
-|Josh Lowe      |DH        |      2|  1|   0|  0|  0| 
-|Maikel Garcia  |DH        |      3|  1|   1|  0|  0| 
-|Nolan Gorman   |DH        |      3|  2|   2|  2|  0| 
-|Jake McCarthy  |BAT BENCH |      3|  0|   0|  0|  0| 
-|Luke Raley     |BAT BENCH |     **| **|  **| **| **| 
-|Sal Frelick    |BAT BENCH |      5|  2|   6|  1|  0| 
+|Josh Lowe      |DH        |      3|  1|   0|  0|  0| 
+|Maikel Garcia  |DH        |      4|  2|   2|  0|  2| 
+|Nolan Gorman   |DH        |      4|  2|   2|  2|  0| 
+|Jake McCarthy  |BAT BENCH |      4|  0|   0|  0|  0| 
+|Luke Raley     |BAT BENCH |      0|  0|   0|  0|  0| 
+|Sal Frelick    |BAT BENCH |      6|  2|   7|  1|  1| 
 
 * * *
 
@@ -32,22 +32,22 @@
 |players           |position    |  g|    ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
 |Bobby Miller      |SP          |  1| 3.667|  1|  2.455|      7| 1.909|  3|  0|  0| 
-|George Kirby      |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|George Kirby      |SP          |  1| 7.000|  1|  1.286|      3| 0.429|  5|  1|  0| 
 |Grayson Rodriguez |SP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Justin Verlander  |SP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Nick Pivetta      |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Justin Verlander  |SP          |  1| 7.000|  2|  2.571|      9| 1.286|  4|  0|  0| 
+|Nick Pivetta      |SP          |  1| 4.000|  3|  6.750|      8| 2.000|  2|  0|  0| 
 |Zack Wheeler      |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Felix Bautista    |RP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Raisel Iglesias   |RP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Carlos Hernandez  |OP          |  1| 1.000|  0|  0.000|      1| 1.000|  0|  0|  0| 
-|Joel Payamps      |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Joel Payamps      |OP          |  1| 1.000|  0|  0.000|      1| 1.000|  0|  0|  0| 
 |Lance Lynn        |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Seth Lugo         |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Tanner Bibee      |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Braxton Garrett   |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Mitch Keller      |PITCH BENCH |  1| 5.000|  8| 14.400|     12| 2.400|  5|  0|  0| 
 |Nathan Eovaldi    |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
-|Tarik Skubal      |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Tarik Skubal      |PITCH BENCH |  1| 5.333|  0|  0.000|      7| 1.312|  6|  1|  0| 
 
 
 * * *
