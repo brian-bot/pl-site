@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman   |C         |      6|  1|   4|  0|  0| 
+|Adley Rutschman   |C         |      8|  3|   6|  1|  0| 
 |Spencer Torkelson |1B        |      3|  2|   0|  0|  0| 
-|Jake Cronenworth  |2B        |      7|  5|   2|  1|  0| 
-|Bobby Witt Jr.    |3B        |      9|  3|   6|  2|  2| 
-|Carlos Correa     |SS        |      5|  3|   7|  1|  0| 
+|Jake Cronenworth  |2B        |      8|  5|   2|  1|  0| 
+|Bobby Witt Jr.    |3B        |     11|  3|   6|  2|  4| 
+|Carlos Correa     |SS        |      8|  3|   7|  1|  0| 
 |Elly De La Cruz   |MI        |      7|  4|   2|  2|  0| 
 |Ryan O'Hearn      |CI        |      4|  1|   3|  0|  1| 
-|Corbin Carroll    |OF        |      8|  1|   0|  0|  3| 
+|Corbin Carroll    |OF        |      9|  2|   0|  0|  3| 
 |Max Kepler        |OF        |      7|  5|   4|  3|  0| 
-|MJ Melendez       |OF        |      7|  2|   1|  1|  0| 
-|TJ Friedl         |OF        |      5|  3|   6|  2|  4| 
-|Aaron Judge       |DH        |      6|  2|   1|  0|  0| 
-|CJ Abrams         |DH        |      5|  2|   1|  1|  2| 
-|Riley Greene      |DH        |      4|  0|   0|  0|  0| 
-|Triston Casas     |DH        |      3|  2|   1|  1|  0| 
+|MJ Melendez       |OF        |      9|  3|   3|  2|  0| 
+|TJ Friedl         |OF        |      6|  3|   7|  2|  4| 
+|Aaron Judge       |DH        |     10|  3|   2|  1|  0| 
+|CJ Abrams         |DH        |      7|  3|   1|  1|  2| 
+|Riley Greene      |DH        |      5|  1|   0|  0|  0| 
+|Triston Casas     |DH        |      5|  2|   1|  1|  0| 
 |Casey Schmitt     |BAT BENCH |      0|  0|   0|  0|  0| 
 |Emmanuel Rivera   |BAT BENCH |      0|  0|   0|  0|  0| 
-|Jordan Westburg   |BAT BENCH |      6|  3|   3|  1|  0| 
+|Jordan Westburg   |BAT BENCH |      8|  4|   3|  1|  0| 
 |Oneil Cruz        |BAT BENCH |     **| **|  **| **| **| 
 |Oscar Colas       |BAT BENCH |      6|  4|   1|  1|  0| 
 
@@ -44,7 +44,7 @@
 |Kenley Jansen    |RP          |  1| 1.000|  0| 0.000|      0| 0.000|  2|  1|  0| 
 |Jordan Hicks     |OP          |  2| 2.333|  0| 0.000|      2| 0.857|  1|  0|  2| 
 |Kenta Maeda      |OP          |  1| 6.000|  1| 1.500|      2| 0.333|  7|  1|  0| 
-|Kutter Crawford  |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Kutter Crawford  |OP          |  1| 3.333|  3| 8.100|      9| 2.700|  6|  0|  0| 
 |Reese Olson      |OP          |  1| 5.000|  4| 7.200|      8| 1.600|  3|  0|  0| 
 |Trevor May       |OP          |  2| 2.667|  0| 0.000|      0| 0.000|  1|  1|  1| 
 |Ben Lively       |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
