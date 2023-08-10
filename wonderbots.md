@@ -5,23 +5,23 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|Alejandro Kirk        |C         |      8|  3|   1|  0|  0| 
-|Vladimir Guerrero Jr. |1B        |      6|  1|   3|  1|  0| 
-|Marcus Semien         |2B        |     12|  7|   4|  2|  1| 
+|Alejandro Kirk        |C         |     10|  3|   1|  0|  0| 
+|Vladimir Guerrero Jr. |1B        |      8|  1|   3|  1|  0| 
+|Marcus Semien         |2B        |     13|  7|   4|  2|  1| 
 |Justin Turner         |3B        |      2|  1|   0|  0|  0| 
-|Xander Bogaerts       |SS        |      5|  0|   0|  0|  0| 
-|J.P. Crawford         |MI        |     13|  4|   1|  1|  0| 
-|Luis Arraez           |CI        |      5|  2|   1|  0|  0| 
-|Anthony Santander     |OF        |      5|  2|   1|  1|  0| 
+|Xander Bogaerts       |SS        |      6|  0|   0|  0|  0| 
+|J.P. Crawford         |MI        |     13|  4|   2|  1|  0| 
+|Luis Arraez           |CI        |      6|  3|   1|  0|  0| 
+|Anthony Santander     |OF        |      8|  2|   1|  1|  0| 
 |Ian Happ              |OF        |      6|  3|   4|  1|  0| 
-|Nick Castellanos      |OF        |      8|  5|   4|  2|  1| 
-|Steven Kwan           |OF        |      4|  1|   0|  0|  1| 
-|Austin Hays           |DH        |      6|  3|   2|  0|  0| 
-|Jose Altuve           |DH        |      9|  5|   1|  1|  3| 
-|Josh Bell             |DH        |      7|  1|   1|  0|  0| 
-|Manny Machado         |DH        |      4|  2|   4|  1|  0| 
+|Nick Castellanos      |OF        |     10|  7|   7|  4|  1| 
+|Steven Kwan           |OF        |      5|  1|   0|  0|  1| 
+|Austin Hays           |DH        |      7|  4|   4|  1|  0| 
+|Jose Altuve           |DH        |     12|  7|   4|  1|  4| 
+|Josh Bell             |DH        |      9|  3|   5|  2|  0| 
+|Manny Machado         |DH        |      6|  2|   4|  1|  0| 
 |Byron Buxton          |BAT BENCH |     **| **|  **| **| **| 
-|Harold Ramirez        |BAT BENCH |      5|  3|   2|  0|  0| 
+|Harold Ramirez        |BAT BENCH |      6|  3|   2|  0|  0| 
 
 
 * * *
@@ -44,7 +44,7 @@
 |Ranger Suarez   |OP          |  1|  5.667|  2|  3.176|      8| 1.412|  5|  0|  0| 
 |Tyler Anderson  |OP          |  1|  5.000|  2|  3.600|      5| 1.000|  6|  0|  0| 
 |Yusei Kikuchi   |OP          |  1|  7.000|  1|  1.286|      4| 0.571|  6|  0|  0| 
-|Jordan Lyles    |PITCH BENCH |  1|  5.667|  5|  7.941|      8| 1.412|  2|  1|  0| 
+|Jordan Lyles    |PITCH BENCH |  2| 13.667|  9|  5.927|     16| 1.171|  8|  1|  0| 
 |Jose Leclerc    |PITCH BENCH |  1|  1.000|  0|  0.000|      0| 0.000|  0|  0|  0| 
 
 
