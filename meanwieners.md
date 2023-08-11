@@ -5,19 +5,19 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Danny Jansen      |C         |      4|  0|   0|  0|  0| 
-|Yandy Diaz        |1B        |      9|  4|   4|  1|  0| 
+|Danny Jansen      |C         |      6|  1|   0|  0|  0| 
+|Yandy Diaz        |1B        |     10|  5|   4|  1|  0| 
 |Isaac Paredes     |2B        |      7|  2|   4|  1|  0| 
-|Max Muncy         |3B        |      8|  2|   3|  0|  0| 
+|Max Muncy         |3B        |     10|  3|   5|  1|  0| 
 |Christopher Morel |SS        |      8|  2|   3|  1|  0| 
 |Willy Adames      |MI        |      6|  3|   1|  1|  0| 
 |Joey Votto        |CI        |      8|  3|   2|  2|  0| 
 |Adolis Garcia     |OF        |     13|  7|   4|  3|  0| 
-|Bryce Harper      |OF        |     10|  5|   6|  2|  0| 
-|Jack Suwinski     |OF        |      6|  3|   1|  0|  1| 
-|Kyle Schwarber    |OF        |      9|  6|   7|  3|  0| 
+|Bryce Harper      |OF        |     11|  5|   6|  2|  0| 
+|Jack Suwinski     |OF        |      8|  4|   1|  0|  1| 
+|Kyle Schwarber    |OF        |     11|  6|   7|  3|  0| 
 |Gleyber Torres    |DH        |     17|  4|   3|  2|  0| 
-|Joey Meneses      |DH        |     11|  6|   5|  3|  0| 
+|Joey Meneses      |DH        |     13|  8|   5|  3|  0| 
 |Joey Wiemer       |DH        |      7|  2|   1|  0|  0| 
 |Jose Siri         |DH        |      5|  5|   6|  3|  0| 
 |Anthony Rizzo     |BAT BENCH |     **| **|  **| **| **| 
@@ -36,7 +36,7 @@
 |:---------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Bailey Ober     |SP          |  2| 10.000|  6|  5.400|     18| 1.800| 12|  0|  0| 
 |Gerrit Cole     |SP          |  1|  7.000|  4|  5.143|      7| 1.000|  3|  0|  0| 
-|James Paxton    |SP          |  1|  5.000|  4|  7.200|     11| 2.200|  4|  0|  0| 
+|James Paxton    |SP          |  2| 10.333|  4|  3.484|     17| 1.645| 10|  1|  0| 
 |Joe Ryan        |SP          | **|     **| **|     **|     **|    **| **| **| **| 
 |Spencer Strider |SP          |  1|  2.667|  6| 20.250|      8| 3.000|  3|  0|  0| 
 |Zach Eflin      |SP          |  1|  7.000|  1|  1.286|      4| 0.571|  8|  0|  0| 

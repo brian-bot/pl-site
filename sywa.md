@@ -7,17 +7,17 @@
 |:----------------------------|:---------|------:|--:|---:|--:|--:| 
 |Cal Raleigh                  |C         |      9|  3|   4|  2|  0| 
 |Christian Walker             |1B        |      6|  1|   2|  1|  1| 
-|Whit Merrifield              |2B        |     10|  2|   2|  1|  0| 
-|Nolan Arenado                |3B        |      9|  4|   3|  2|  0| 
+|Whit Merrifield              |2B        |     12|  3|   3|  1|  0| 
+|Nolan Arenado                |3B        |     11|  6|   3|  2|  0| 
 |Dansby Swanson               |SS        |      5|  2|   4|  1|  0| 
 |Ha-Seong Kim                 |MI        |     12|  3|   0|  0|  5| 
 |Josh Naylor                  |CI        |     **| **|  **| **| **| 
 |Jake Fraley                  |OF        |      1|  0|   0|  0|  1| 
 |Lourdes Gurriel Jr.          |OF        |     10|  3|   3|  2|  0| 
 |Teoscar Hernandez            |OF        |      9|  3|   1|  1|  0| 
-|Yordan Alvarez               |OF        |      8|  4|   3|  2|  0| 
-|Alec Bohm                    |DH        |      8|  7|   4|  2|  0| 
-|Alex Verdugo                 |DH        |      6|  3|   2|  0|  0| 
+|Yordan Alvarez               |OF        |     10|  4|   3|  2|  0| 
+|Alec Bohm                    |DH        |     10|  7|   4|  2|  0| 
+|Alex Verdugo                 |DH        |      6|  3|   3|  0|  0| 
 |C.J. Cron                    |DH        |      6|  4|   3|  0|  0| 
 |Jeff McNeil                  |DH        |      9|  5|   4|  2|  0| 
 |Christian Encarnacion-Strand |BAT BENCH |      9|  3|   4|  2|  0| 
@@ -40,8 +40,8 @@
 |Logan Webb       |SP          |  1|  5.667|  1|  1.588|      7| 1.235|  6|  0|  0| 
 |Zac Gallen       |SP          |  1|  7.000|  2|  2.571|      6| 0.857|  8|  0|  0| 
 |Camilo Doval     |RP          |  2|  2.000|  0|  0.000|      2| 1.000|  4|  0|  1| 
-|Craig Kimbrel    |RP          |  2|  2.000|  1|  4.500|      2| 1.000|  3|  0|  1| 
-|Alek Manoah      |OP          |  1|  6.667|  3|  4.050|      8| 1.200|  5|  1|  0| 
+|Craig Kimbrel    |RP          |  3|  3.000|  1|  3.000|      3| 1.000|  4|  0|  1| 
+|Alek Manoah      |OP          |  2| 10.667|  7|  5.906|     15| 1.406| 11|  1|  0| 
 |MacKenzie Gore   |OP          |  1|  5.000|  6| 10.800|      8| 1.600|  5|  0|  0| 
 |Merrill Kelly    |OP          |  2| 12.000|  2|  1.500|     15| 1.250| 11|  0|  0| 
 |Scott Barlow     |OP          |  3|  3.000|  7| 21.000|     10| 3.333|  1|  0|  0| 

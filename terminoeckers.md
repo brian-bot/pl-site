@@ -5,20 +5,20 @@
  
 |players        |position  | hitsbb|  r| rbi| hr| sb| 
 |:--------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto  |C         |      5|  3|   2|  1|  0| 
+|J.T. Realmuto  |C         |      9|  4|   4|  2|  0| 
 |Cody Bellinger |1B        |     13|  6|   6|  1|  3| 
-|Mookie Betts   |2B        |     12|  8|   7|  2|  1| 
-|Austin Riley   |3B        |      9|  4|   3|  1|  0| 
+|Mookie Betts   |2B        |     14|  8|   7|  2|  1| 
+|Austin Riley   |3B        |     12|  4|   4|  1|  0| 
 |Corey Seager   |SS        |      9|  5|   5|  3|  0| 
-|Ezequiel Tovar |MI        |      8|  3|   4|  1|  1| 
+|Ezequiel Tovar |MI        |      9|  3|   4|  1|  1| 
 |Ryan McMahon   |CI        |      7|  4|   3|  1|  0| 
 |Hunter Renfroe |OF        |      7|  1|   2|  0|  0| 
 |Juan Soto      |OF        |      5|  2|   3|  1|  0| 
-|Lars Nootbaar  |OF        |      9|  3|   1|  1|  1| 
+|Lars Nootbaar  |OF        |     11|  3|   1|  1|  1| 
 |Leody Taveras  |OF        |      6|  2|   3|  0|  0| 
 |Brandon Lowe   |DH        |      4|  3|   2|  1|  0| 
 |Josh Lowe      |DH        |      8|  2|   2|  0|  0| 
-|Maikel Garcia  |DH        |     10|  5|   3|  0|  3| 
+|Maikel Garcia  |DH        |     12|  5|   3|  0|  3| 
 |Nolan Gorman   |DH        |      7|  3|   2|  2|  0| 
 |Jake McCarthy  |BAT BENCH |      8|  0|   0|  0|  3| 
 |Luke Raley     |BAT BENCH |      1|  1|   0|  0|  0| 
@@ -37,7 +37,7 @@
 |Justin Verlander  |SP          |  1|  7.000|  2|  2.571|      9| 1.286|  4|  0|  0| 
 |Nick Pivetta      |SP          |  2|  9.000|  5|  5.000|     14| 1.556| 10|  1|  0| 
 |Zack Wheeler      |SP          |  1|  6.000|  3|  4.500|      7| 1.167|  6|  1|  0| 
-|Felix Bautista    |RP          |  2|  1.667|  4| 21.600|      5| 3.000|  3|  0|  1| 
+|Felix Bautista    |RP          |  3|  2.667|  5| 16.875|      9| 3.375|  3|  0|  2| 
 |Raisel Iglesias   |RP          |  3|  3.000|  0|  0.000|      4| 1.333|  4|  0|  2| 
 |Carlos Hernandez  |OP          |  2|  1.667|  4| 21.600|      5| 3.000|  1|  0|  0| 
 |Joel Payamps      |OP          |  3|  3.000|  0|  0.000|      2| 0.667|  2|  0|  0| 

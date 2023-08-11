@@ -6,17 +6,17 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Salvador Perez     |C         |      9|  2|   1|  0|  0| 
-|Matt Olson         |1B        |     13|  5|   9|  2|  0| 
+|Matt Olson         |1B        |     15|  6|  10|  3|  0| 
 |Matt McLain        |2B        |      6|  2|   1|  1|  1| 
 |Spencer Steer      |3B        |      6|  2|   3|  2|  0| 
 |Fernando Tatis Jr. |SS        |      2|  2|   2|  0|  0| 
 |Jazz Chisholm Jr.  |MI        |      6|  1|   3|  1|  0| 
-|Matt Chapman       |CI        |      8|  2|   4|  1|  0| 
+|Matt Chapman       |CI        |      9|  2|   4|  1|  0| 
 |Jorge Soler        |OF        |     12|  4|   5|  2|  0| 
-|Marcell Ozuna      |OF        |      9|  3|   2|  1|  0| 
+|Marcell Ozuna      |OF        |     10|  3|   3|  1|  0| 
 |Masataka Yoshida   |OF        |      7|  2|   1|  0|  0| 
-|Ronald Acuna Jr.   |OF        |     14|  4|   5|  1|  2| 
-|Adam Duvall        |DH        |      3|  2|   1|  1|  0| 
+|Ronald Acuna Jr.   |OF        |     16|  4|   6|  1|  2| 
+|Adam Duvall        |DH        |      5|  2|   2|  1|  0| 
 |Esteury Ruiz       |DH        |      3|  1|   0|  0|  3| 
 |Giancarlo Stanton  |DH        |      9|  4|   5|  3|  0| 
 |Jeremy Pena        |DH        |     11|  3|   2|  0|  0| 

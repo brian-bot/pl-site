@@ -6,19 +6,19 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Willson Contreras |C         |      6|  2|   3|  1|  0| 
-|Ryan Mountcastle  |1B        |     12|  4|   3|  1|  0| 
-|Andres Gimenez    |2B        |      9|  3|   2|  1|  1| 
-|Rafael Devers     |3B        |      8|  3|   3|  1|  0| 
+|Ryan Mountcastle  |1B        |     13|  5|   5|  2|  0| 
+|Andres Gimenez    |2B        |     11|  3|   2|  1|  2| 
+|Rafael Devers     |3B        |      9|  3|   3|  1|  0| 
 |Nico Hoerner      |SS        |     10|  4|   0|  0|  2| 
 |Tim Anderson      |MI        |      6|  1|   1|  0|  0| 
-|Ke'Bryan Hayes    |CI        |      7|  2|   6|  2|  0| 
+|Ke'Bryan Hayes    |CI        |      9|  3|   9|  2|  0| 
 |Brent Rooker      |OF        |      2|  1|   0|  0|  0| 
-|Kyle Tucker       |OF        |     10|  6|  10|  3|  4| 
-|Lane Thomas       |OF        |     10|  8|  10|  4|  3| 
-|Randy Arozarena   |OF        |      8|  2|   2|  0|  0| 
+|Kyle Tucker       |OF        |     12|  7|  10|  3|  4| 
+|Lane Thomas       |OF        |     11|  8|  10|  4|  3| 
+|Randy Arozarena   |OF        |     10|  2|   2|  0|  2| 
 |Connor Joe        |DH        |      3|  2|   3|  2|  0| 
 |Jon Berti         |DH        |      4|  3|   1|  1|  0| 
-|Michael Harris II |DH        |     12|  5|   3|  0|  1| 
+|Michael Harris II |DH        |     13|  6|   3|  0|  2| 
 |Shea Langeliers   |DH        |      3|  0|   2|  0|  0| 
 |Josh Rojas        |BAT BENCH |      0|  0|   0|  0|  0| 
 |Mike Trout        |BAT BENCH |     **| **|  **| **| **| 
@@ -44,7 +44,7 @@
 |Adam Ottavino  |OP          |  3|  2.000|  1|  4.500|      6| 3.000|  2|  0|  0| 
 |Julio Urias    |OP          |  2| 11.000|  0|  0.000|      9| 0.818| 10|  2|  0| 
 |Kyle Finnegan  |OP          |  4|  4.000|  0|  0.000|      3| 0.750|  6|  0|  3| 
-|Yennier Cano   |OP          |  3|  3.000|  0|  0.000|      2| 0.667|  4|  0|  0| 
+|Yennier Cano   |OP          |  4|  3.333|  0|  0.000|      3| 0.900|  5|  0|  0| 
 |Drey Jameson   |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Nick Lodolo    |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Tanner Houck   |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 

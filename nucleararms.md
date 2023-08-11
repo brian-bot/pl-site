@@ -6,14 +6,14 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith        |C         |     10|  5|   4|  1|  1| 
-|Paul Goldschmidt  |1B        |      8|  1|   3|  0|  0| 
-|Ozzie Albies      |2B        |     11|  6|   5|  2|  1| 
+|Paul Goldschmidt  |1B        |      9|  1|   3|  0|  0| 
+|Ozzie Albies      |2B        |     12|  7|   5|  2|  2| 
 |Eugenio Suarez    |3B        |      6|  1|   3|  1|  0| 
-|Wander Franco     |SS        |     12|  4|   3|  2|  0| 
+|Wander Franco     |SS        |     14|  5|   4|  2|  0| 
 |Francisco Lindor  |MI        |     14|  6|   4|  1|  1| 
 |Jeimer Candelario |CI        |     11|  2|   3|  1|  1| 
 |Andrew Benintendi |OF        |      6|  2|   2|  0|  0| 
-|George Springer   |OF        |     15|  5|   4|  1|  1| 
+|George Springer   |OF        |     17|  5|   4|  1|  2| 
 |James Outman      |OF        |     13|  4|   2|  1|  2| 
 |Nolan Jones       |OF        |     10|  5|   7|  2|  0| 
 |Jake Burger       |DH        |      6|  2|   2|  1|  0| 
