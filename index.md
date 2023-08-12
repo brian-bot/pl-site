@@ -2,21 +2,21 @@
 
 ## Period 7 scores
 
-Through games on 2023-08-10 ([website build status](https://github.com/brian-bot/pl-site/actions))
+Through games on 2023-08-11 ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 
-|team                   | points|  r| hitsbb| hr| rbi| sb|  w| sv| so|   era|  whip|
-|:----------------------|------:|--:|------:|--:|---:|--:|--:|--:|--:|-----:|-----:|
-|[Vass Deferens](./vassdeferens)|   88.5| 55|    138| 25|  55| 15|  8|  7| 76| 2.885| 1.099|
-|[T and A](./tanda)     |   43.5| 40|    126| 16|  48|  6|  4|  3| 85| 3.627| 1.198|
-|[Boys of Summer](./boysofsummer)|   49.5| 41|    116| 12|  35| 12|  6|  4| 91| 3.488| 1.225|
-|[Mean Wieners](./meanwieners)|   55.5| 60|    140| 23|  52|  1|  2|  7| 67| 5.116| 1.358|
-|[Wonderbots](./wonderbots)|   61.5| 51|    128| 17|  43|  7|  7|  3| 95| 3.682| 1.112|
-|[Overwhelming Underdogs](./overwhelmingunderdogs)|   57.5| 51|    147| 16|  58|  8|  5|  5| 81| 4.898| 1.479|
-|[Washington Generals](./washingtongenerals)|   50.5| 50|    122| 17|  54| 15|  5|  5| 60| 5.883| 1.458|
-|[Terminoeckers](./terminoeckers)|   52.5| 55|    133| 16|  51|  9|  5|  4| 60| 4.037| 1.374|
-|[Nuclear Arms](./nucleararms)|   55.5| 54|    148| 14|  46| 12|  4|  3| 60| 3.300| 1.183|
-|[SYWA](./sywa)         |   35.5| 47|    116| 16|  37|  7|  4|  2| 86| 4.587| 1.320|
+|team                   | points|  r| hitsbb| hr| rbi| sb|  w| sv|  so|   era|  whip|
+|:----------------------|------:|--:|------:|--:|---:|--:|--:|--:|---:|-----:|-----:|
+|[Vass Deferens](./vassdeferens)|   89.5| 67|    163| 30|  71| 15|  9|  7|  85| 2.903| 1.075|
+|[T and A](./tanda)     |   47.5| 52|    152| 17|  57|  7|  5|  3|  89| 3.435| 1.240|
+|[Boys of Summer](./boysofsummer)|   49.5| 48|    133| 13|  43| 13|  8|  4| 107| 4.068| 1.305|
+|[Mean Wieners](./meanwieners)|   48.5| 65|    156| 24|  59|  1|  2|  7|  71| 5.400| 1.385|
+|[Wonderbots](./wonderbots)|   59.0| 58|    151| 20|  53|  8|  8|  3| 103| 3.553| 1.086|
+|[Overwhelming Underdogs](./overwhelmingunderdogs)|   64.0| 60|    174| 21|  74|  9|  6|  6|  89| 4.745| 1.456|
+|[Washington Generals](./washingtongenerals)|   48.5| 58|    146| 20|  64| 17|  6|  5|  69| 6.171| 1.443|
+|[Terminoeckers](./terminoeckers)|   64.5| 71|    161| 19|  61| 10|  7|  4|  77| 3.765| 1.327|
+|[Nuclear Arms](./nucleararms)|   44.0| 63|    172| 16|  54| 13|  4|  3|  72| 5.092| 1.421|
+|[SYWA](./sywa)         |   35.0| 54|    130| 18|  44|  8|  4|  2|  92| 4.742| 1.344|
 
 * * *
 * * *

@@ -6,25 +6,25 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Adley Rutschman   |C         |     12|  4|   8|  2|  0| 
-|Spencer Torkelson |1B        |      7|  5|   2|  2|  0| 
-|Jake Cronenworth  |2B        |      9|  5|   2|  1|  0| 
-|Bobby Witt Jr.    |3B        |     14|  3|   6|  2|  4| 
-|Carlos Correa     |SS        |     10|  4|   8|  2|  0| 
-|Elly De La Cruz   |MI        |      9|  4|   2|  2|  0| 
-|Ryan O'Hearn      |CI        |      5|  1|   3|  0|  1| 
-|Corbin Carroll    |OF        |      9|  2|   0|  0|  3| 
-|Max Kepler        |OF        |      8|  5|   5|  3|  0| 
-|MJ Melendez       |OF        |     12|  5|   5|  4|  0| 
-|TJ Friedl         |OF        |      6|  3|   7|  2|  4| 
-|Aaron Judge       |DH        |     12|  4|   2|  1|  0| 
-|CJ Abrams         |DH        |      9|  3|   1|  1|  3| 
-|Riley Greene      |DH        |      9|  3|   2|  1|  0| 
-|Triston Casas     |DH        |      7|  4|   2|  2|  0| 
+|Spencer Torkelson |1B        |      8|  5|   2|  2|  0| 
+|Jake Cronenworth  |2B        |     11|  6|   4|  2|  0| 
+|Bobby Witt Jr.    |3B        |     16|  5|   9|  3|  4| 
+|Carlos Correa     |SS        |     12|  4|   8|  2|  0| 
+|Elly De La Cruz   |MI        |     11|  5|   5|  2|  0| 
+|Ryan O'Hearn      |CI        |      6|  2|   3|  0|  1| 
+|Corbin Carroll    |OF        |     10|  3|   0|  0|  3| 
+|Max Kepler        |OF        |     10|  6|   6|  4|  0| 
+|MJ Melendez       |OF        |     13|  6|   6|  4|  0| 
+|TJ Friedl         |OF        |      9|  5|   8|  2|  4| 
+|Aaron Judge       |DH        |     15|  5|   3|  2|  0| 
+|CJ Abrams         |DH        |     11|  3|   1|  1|  3| 
+|Riley Greene      |DH        |     10|  3|   3|  1|  0| 
+|Triston Casas     |DH        |      9|  5|   5|  3|  0| 
 |Casey Schmitt     |BAT BENCH |      0|  0|   0|  0|  0| 
 |Emmanuel Rivera   |BAT BENCH |      0|  0|   0|  0|  0| 
-|Jordan Westburg   |BAT BENCH |      8|  4|   3|  1|  0| 
+|Jordan Westburg   |BAT BENCH |      9|  4|   4|  1|  0| 
 |Oneil Cruz        |BAT BENCH |     **| **|  **| **| **| 
-|Oscar Colas       |BAT BENCH |      7|  6|   3|  2|  0| 
+|Oscar Colas       |BAT BENCH |      8|  7|   3|  2|  0| 
 
 
 * * *
@@ -34,7 +34,7 @@
  
 |players          |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Andrew Abbott    |SP          |  1|  5.667|  6| 9.529|     14| 2.471|  3|  0|  0| 
+|Andrew Abbott    |SP          |  2| 11.333|  8| 6.353|     18| 1.588| 12|  1|  0| 
 |Dean Kremer      |SP          |  2| 12.333|  4| 2.919|     14| 1.135|  9|  1|  0| 
 |Kodai Senga      |SP          |  1|  6.000|  2| 3.000|      9| 1.500|  6|  1|  0| 
 |Kyle Bradish     |SP          |  1|  4.667|  0| 0.000|      8| 1.714|  5|  0|  0| 
