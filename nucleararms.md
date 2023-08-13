@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |     11|  5|   5|  1|  1| 
-|Paul Goldschmidt  |1B        |     11|  1|   3|  0|  0| 
-|Ozzie Albies      |2B        |     14|  7|   6|  2|  2| 
-|Eugenio Suarez    |3B        |      8|  2|   3|  1|  0| 
-|Wander Franco     |SS        |     17|  7|   7|  3|  1| 
-|Francisco Lindor  |MI        |     14|  6|   4|  1|  1| 
-|Jeimer Candelario |CI        |     12|  3|   3|  1|  1| 
+|Will Smith        |C         |     12|  6|   6|  2|  1| 
+|Paul Goldschmidt  |1B        |     13|  1|   3|  0|  0| 
+|Ozzie Albies      |2B        |     21| 11|  14|  4|  4| 
+|Eugenio Suarez    |3B        |      9|  2|   3|  1|  0| 
+|Wander Franco     |SS        |     18|  7|   7|  3|  1| 
+|Francisco Lindor  |MI        |     14|  6|   4|  1|  2| 
+|Jeimer Candelario |CI        |     13|  3|   3|  1|  1| 
 |Andrew Benintendi |OF        |      8|  4|   2|  0|  0| 
-|George Springer   |OF        |     17|  5|   4|  1|  2| 
-|James Outman      |OF        |     16|  5|   2|  1|  2| 
+|George Springer   |OF        |     19|  5|   4|  1|  2| 
+|James Outman      |OF        |     17|  6|   4|  2|  2| 
 |Nolan Jones       |OF        |     12|  5|   7|  2|  0| 
-|Jake Burger       |DH        |      8|  2|   4|  1|  0| 
+|Jake Burger       |DH        |     11|  3|   4|  1|  0| 
 |Jose Abreu        |DH        |      4|  2|   0|  0|  0| 
 |Ketel Marte       |DH        |      6|  2|   2|  1|  0| 
-|Shohei Ohtani     |DH        |     14|  7|   2|  1|  3| 
+|Shohei Ohtani     |DH        |     15|  8|   2|  1|  3| 
 |Andrew Vaughn     |BAT BENCH |     10|  4|   4|  2|  0| 
-|Francisco Alvarez |BAT BENCH |      5|  2|   0|  0|  0| 
-|Luis Matos        |BAT BENCH |      4|  1|   0|  0|  0| 
+|Francisco Alvarez |BAT BENCH |      6|  2|   0|  0|  0| 
+|Luis Matos        |BAT BENCH |      6|  1|   0|  0|  0| 
 |Starling Marte    |BAT BENCH |      0|  0|   0|  0|  0| 
 
 
