@@ -6,10 +6,10 @@
 |players        |position  | hitsbb|  r| rbi| hr| sb| 
 |:--------------|:---------|------:|--:|---:|--:|--:| 
 |J.T. Realmuto  |C         |     12|  6|   6|  3|  0| 
-|Cody Bellinger |1B        |     17|  9|   9|  2|  3| 
-|Mookie Betts   |2B        |     18|  9|   8|  2|  1| 
-|Austin Riley   |3B        |     19|  9|   9|  3|  0| 
-|Corey Seager   |SS        |     12|  8|   7|  4|  0| 
+|Cody Bellinger |1B        |     18|  9|   9|  2|  3| 
+|Mookie Betts   |2B        |     20|  9|  10|  2|  1| 
+|Austin Riley   |3B        |     20| 11|   9|  3|  0| 
+|Corey Seager   |SS        |     13|  8|   7|  4|  0| 
 |Ezequiel Tovar |MI        |     12|  5|   5|  2|  2| 
 |Ryan McMahon   |CI        |      9|  4|   3|  1|  0| 
 |Hunter Renfroe |OF        |      9|  2|   2|  0|  0| 
@@ -17,12 +17,12 @@
 |Lars Nootbaar  |OF        |     16|  5|   2|  1|  1| 
 |Leody Taveras  |OF        |      7|  2|   4|  0|  0| 
 |Brandon Lowe   |DH        |      8|  5|   3|  1|  1| 
-|Josh Lowe      |DH        |     10|  5|   2|  0|  2| 
+|Josh Lowe      |DH        |     11|  5|   2|  0|  2| 
 |Maikel Garcia  |DH        |     14|  7|   3|  0|  3| 
 |Nolan Gorman   |DH        |     12|  5|   2|  2|  0| 
 |Jake McCarthy  |BAT BENCH |     10|  0|   0|  0|  3| 
 |Luke Raley     |BAT BENCH |      4|  2|   2|  1|  0| 
-|Sal Frelick    |BAT BENCH |     16|  6|  11|  2|  2| 
+|Sal Frelick    |BAT BENCH |     17|  7|  11|  2|  2| 
 
 * * *
 
@@ -42,10 +42,10 @@
 |Carlos Hernandez  |OP          |  4|  3.000|  4| 12.000|      7| 2.333|  3|  0|  0| 
 |Joel Payamps      |OP          |  4|  4.000|  0|  0.000|      4| 1.000|  3|  0|  0| 
 |Lance Lynn        |OP          |  2| 11.000|  1|  0.818|     11| 1.000| 15|  2|  0| 
-|Seth Lugo         |OP          |  1|  3.333|  8| 21.600|     10| 3.000|  2|  0|  0| 
-|Tanner Bibee      |OP          |  1|  7.000|  0|  0.000|      6| 0.857|  6|  1|  0| 
+|Seth Lugo         |OP          |  2|  8.333| 10| 10.800|     16| 1.920|  6|  0|  0| 
+|Tanner Bibee      |OP          |  2| 14.000|  2|  1.286|     13| 0.929| 11|  2|  0| 
 |Braxton Garrett   |PITCH BENCH |  1|  6.000|  2|  3.000|      6| 1.000|  3|  1|  0| 
-|Mitch Keller      |PITCH BENCH |  2| 10.000| 11|  9.900|     21| 2.100|  9|  0|  0| 
+|Mitch Keller      |PITCH BENCH |  3| 16.000| 12|  6.750|     29| 1.812| 16|  0|  0| 
 |Nathan Eovaldi    |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Tarik Skubal      |PITCH BENCH |  2| 10.667|  4|  3.375|     16| 1.500|  9|  1|  0| 
 
