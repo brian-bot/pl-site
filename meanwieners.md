@@ -6,22 +6,22 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Danny Jansen      |C         |      9|  2|   0|  0|  0| 
-|Yandy Diaz        |1B        |     18|  7|   7|  1|  0| 
-|Isaac Paredes     |2B        |      9|  3|   6|  2|  0| 
+|Yandy Diaz        |1B        |     20|  7|   8|  1|  0| 
+|Isaac Paredes     |2B        |     10|  3|   7|  2|  0| 
 |Max Muncy         |3B        |     12|  5|   6|  1|  0| 
 |Christopher Morel |SS        |      9|  2|   4|  1|  0| 
 |Willy Adames      |MI        |     11|  4|   3|  1|  0| 
 |Joey Votto        |CI        |     12|  4|   2|  2|  0| 
-|Adolis Garcia     |OF        |     16|  9|   4|  3|  0| 
+|Adolis Garcia     |OF        |     19| 11|   6|  4|  0| 
 |Bryce Harper      |OF        |     13|  5|   6|  2|  0| 
-|Jack Suwinski     |OF        |     10|  4|   1|  0|  1| 
+|Jack Suwinski     |OF        |     11|  4|   1|  0|  1| 
 |Kyle Schwarber    |OF        |     16|  8|   8|  3|  0| 
 |Gleyber Torres    |DH        |     22|  5|   4|  2|  3| 
 |Joey Meneses      |DH        |     18| 10|   5|  3|  0| 
 |Joey Wiemer       |DH        |      8|  3|   1|  0|  0| 
-|Jose Siri         |DH        |      6|  5|   6|  3|  0| 
+|Jose Siri         |DH        |      8|  5|   7|  3|  1| 
 |Anthony Rizzo     |BAT BENCH |     **| **|  **| **| **| 
-|Cedric Mullins    |BAT BENCH |      1|  2|   2|  1|  1| 
+|Cedric Mullins    |BAT BENCH |      2|  2|   2|  1|  1| 
 |Jonah Heim        |BAT BENCH |      1|  0|   0|  0|  0| 
 |Mike Tauchman     |BAT BENCH |     13|  4|   2|  1|  1| 
 |Taylor Walls      |BAT BENCH |     **| **|  **| **| **| 

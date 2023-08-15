@@ -9,10 +9,10 @@
 |Freddie Freeman   |1B        |     22|  8|   8|  2|  2| 
 |Edouard Julien    |2B        |     15|  7|   0|  0|  1| 
 |Jose Ramirez      |3B        |     10|  1|   2|  0|  4| 
-|Orlando Arcia     |SS        |     13|  4|   5|  2|  0| 
-|Ezequiel Duran    |MI        |     13|  2|   5|  1|  1| 
-|Gunnar Henderson  |CI        |      8|  4|   3|  1|  0| 
-|Chas McCormick    |OF        |      9|  4|   0|  0|  1| 
+|Orlando Arcia     |SS        |     14|  5|   6|  2|  0| 
+|Ezequiel Duran    |MI        |     14|  3|   5|  1|  1| 
+|Gunnar Henderson  |CI        |     10|  4|   6|  1|  0| 
+|Chas McCormick    |OF        |     11|  4|   0|  0|  1| 
 |Eloy Jimenez      |OF        |     10|  3|   3|  1|  0| 
 |Jarren Duran      |OF        |      6|  1|   3|  1|  0| 
 |Luis Robert Jr.   |OF        |     10|  4|   5|  2|  4| 
@@ -21,9 +21,9 @@
 |Seiya Suzuki      |DH        |      7|  3|   3|  1|  0| 
 |Will Benson       |DH        |     11|  5|   0|  0|  2| 
 |Bo Bichette       |BAT BENCH |     **| **|  **| **| **| 
-|Henry Davis       |BAT BENCH |     11|  7|   4|  1|  0| 
+|Henry Davis       |BAT BENCH |     13|  7|   5|  1|  0| 
 |Jonathan India    |BAT BENCH |     **| **|  **| **| **| 
-|Jordan Walker     |BAT BENCH |      6|  0|   1|  0|  0| 
+|Jordan Walker     |BAT BENCH |      9|  1|   4|  0|  1| 
 
 
 * * *
@@ -44,7 +44,7 @@
 |Cristopher Sanchez |OP          |  2| 11.000|  8| 6.545|     16| 1.455| 12|  1|  0| 
 |Hunter Brown       |OP          |  2| 12.000|  7| 5.250|     14| 1.167| 11|  1|  0| 
 |Josiah Gray        |OP          |  1|  4.667|  4| 7.714|      8| 1.714|  5|  0|  0| 
-|Justin Lawrence    |OP          |  3|  3.000|  0| 0.000|      4| 1.333|  2|  0|  1| 
+|Justin Lawrence    |OP          |  4|  4.000|  0| 0.000|      4| 1.000|  5|  0|  2| 
 |Kyle Gibson        |OP          |  2| 12.333| 12| 8.757|     19| 1.541| 13|  1|  0| 
 |Clayton Kershaw    |PITCH BENCH |  1|  5.000|  1| 1.800|      3| 0.600|  4|  0|  0| 
 |Logan Allen        |PITCH BENCH |  2| 11.000|  3| 2.455|     15| 1.364|  8|  1|  0| 

@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman   |C         |     13|  4|   9|  2|  0| 
+|Adley Rutschman   |C         |     14|  5|   9|  2|  0| 
 |Spencer Torkelson |1B        |     13|  7|   4|  3|  0| 
 |Jake Cronenworth  |2B        |     15|  6|   6|  2|  0| 
-|Bobby Witt Jr.    |3B        |     18|  5|   9|  3|  4| 
+|Bobby Witt Jr.    |3B        |     22|  8|  10|  4|  4| 
 |Carlos Correa     |SS        |     15|  5|   9|  3|  0| 
 |Elly De La Cruz   |MI        |     13|  6|   6|  3|  1| 
-|Ryan O'Hearn      |CI        |      6|  2|   3|  0|  2| 
-|Corbin Carroll    |OF        |     12|  5|   0|  0|  3| 
+|Ryan O'Hearn      |CI        |      9|  3|   4|  1|  2| 
+|Corbin Carroll    |OF        |     13|  6|   0|  0|  3| 
 |Max Kepler        |OF        |     12|  7|   7|  4|  0| 
 |MJ Melendez       |OF        |     14|  6|   6|  4|  0| 
 |TJ Friedl         |OF        |     10|  5|   8|  2|  5| 
-|Aaron Judge       |DH        |     18|  6|   3|  2|  0| 
+|Aaron Judge       |DH        |     20|  6|   3|  2|  0| 
 |CJ Abrams         |DH        |     13|  3|   1|  1|  4| 
 |Riley Greene      |DH        |     14|  3|   4|  1|  0| 
 |Triston Casas     |DH        |     12|  6|   5|  3|  0| 
 |Casey Schmitt     |BAT BENCH |      0|  0|   0|  0|  0| 
 |Emmanuel Rivera   |BAT BENCH |      0|  0|   0|  0|  0| 
-|Jordan Westburg   |BAT BENCH |     11|  4|   4|  1|  1| 
+|Jordan Westburg   |BAT BENCH |     12|  5|   4|  1|  1| 
 |Oneil Cruz        |BAT BENCH |     **| **|  **| **| **| 
 |Oscar Colas       |BAT BENCH |     10|  7|   3|  2|  0| 
 
