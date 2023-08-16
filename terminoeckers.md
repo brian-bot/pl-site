@@ -6,23 +6,23 @@
 |players        |position  | hitsbb|  r| rbi| hr| sb| 
 |:--------------|:---------|------:|--:|---:|--:|--:| 
 |J.T. Realmuto  |C         |     12|  6|   6|  3|  0| 
-|Cody Bellinger |1B        |     18|  9|   9|  2|  3| 
-|Mookie Betts   |2B        |     20|  9|  10|  2|  1| 
+|Cody Bellinger |1B        |     19|  9|   9|  2|  3| 
+|Mookie Betts   |2B        |     22|  9|  11|  2|  1| 
 |Austin Riley   |3B        |     22| 13|  10|  4|  0| 
-|Corey Seager   |SS        |     15|  9|   7|  4|  0| 
+|Corey Seager   |SS        |     18| 11|  12|  6|  0| 
 |Ezequiel Tovar |MI        |     15|  7|   6|  3|  2| 
-|Ryan McMahon   |CI        |     10|  5|   3|  1|  0| 
+|Ryan McMahon   |CI        |     10|  5|   4|  1|  0| 
 |Hunter Renfroe |OF        |     10|  2|   2|  0|  0| 
-|Juan Soto      |OF        |      9|  4|   5|  1|  0| 
-|Lars Nootbaar  |OF        |     17|  6|   3|  1|  1| 
+|Juan Soto      |OF        |     11|  5|   5|  1|  0| 
+|Lars Nootbaar  |OF        |     20|  7|   3|  1|  1| 
 |Leody Taveras  |OF        |      9|  2|   5|  0|  0| 
-|Brandon Lowe   |DH        |      8|  5|   3|  1|  1| 
+|Brandon Lowe   |DH        |      9|  5|   3|  1|  1| 
 |Josh Lowe      |DH        |     11|  5|   2|  0|  2| 
-|Maikel Garcia  |DH        |     17|  8|   4|  0|  3| 
+|Maikel Garcia  |DH        |     19|  9|   5|  0|  3| 
 |Nolan Gorman   |DH        |     12|  5|   2|  2|  0| 
 |Jake McCarthy  |BAT BENCH |     10|  0|   0|  0|  3| 
-|Luke Raley     |BAT BENCH |      4|  2|   2|  1|  0| 
-|Sal Frelick    |BAT BENCH |     17|  7|  11|  2|  2| 
+|Luke Raley     |BAT BENCH |      5|  2|   2|  1|  0| 
+|Sal Frelick    |BAT BENCH |     17|  7|  12|  2|  2| 
 
 * * *
 
@@ -31,12 +31,12 @@
  
 |players           |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Bobby Miller      |SP          |  2|  9.667|  1|  0.931|     15| 1.552|  7|  0|  0| 
+|Bobby Miller      |SP          |  3| 15.667|  2|  1.149|     17| 1.085| 11|  1|  0| 
 |George Kirby      |SP          |  2| 16.000|  1|  0.562|      6| 0.375| 12|  1|  0| 
 |Grayson Rodriguez |SP          |  2| 13.000|  3|  2.077|     12| 0.923| 10|  1|  0| 
 |Justin Verlander  |SP          |  2| 13.000|  5|  3.462|     15| 1.154| 11|  1|  0| 
-|Nick Pivetta      |SP          |  2|  9.000|  5|  5.000|     14| 1.556| 10|  1|  0| 
-|Zack Wheeler      |SP          |  1|  6.000|  3|  4.500|      7| 1.167|  6|  1|  0| 
+|Nick Pivetta      |SP          |  3| 13.333|  9|  6.075|     22| 1.650| 17|  1|  0| 
+|Zack Wheeler      |SP          |  2| 13.000|  4|  2.769|     14| 1.077| 11|  1|  0| 
 |Felix Bautista    |RP          |  5|  5.667|  5|  7.941|     12| 2.118|  7|  1|  3| 
 |Raisel Iglesias   |RP          |  4|  4.000|  0|  0.000|      5| 1.250|  6|  0|  2| 
 |Carlos Hernandez  |OP          |  5|  3.667|  6| 14.727|     10| 2.727|  5|  0|  0| 

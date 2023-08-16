@@ -5,24 +5,24 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez     |C         |     15|  5|   9|  2|  0| 
-|Matt Olson         |1B        |     30| 13|  16|  6|  0| 
-|Matt McLain        |2B        |     10|  4|   2|  1|  1| 
-|Spencer Steer      |3B        |     12|  2|   5|  2|  1| 
-|Fernando Tatis Jr. |SS        |     10|  5|   4|  0|  3| 
-|Jazz Chisholm Jr.  |MI        |      9|  4|   3|  1|  0| 
+|Salvador Perez     |C         |     17|  5|  10|  2|  0| 
+|Matt Olson         |1B        |     32| 14|  16|  6|  0| 
+|Matt McLain        |2B        |     11|  4|   2|  1|  1| 
+|Spencer Steer      |3B        |     14|  2|   5|  2|  1| 
+|Fernando Tatis Jr. |SS        |     13|  6|   4|  0|  3| 
+|Jazz Chisholm Jr.  |MI        |     11|  6|   3|  1|  1| 
 |Matt Chapman       |CI        |     11|  2|   4|  1|  0| 
-|Jorge Soler        |OF        |     13|  5|   6|  3|  0| 
-|Marcell Ozuna      |OF        |     19|  8|   8|  1|  0| 
+|Jorge Soler        |OF        |     14|  6|   8|  4|  0| 
+|Marcell Ozuna      |OF        |     23|  9|  11|  2|  0| 
 |Masataka Yoshida   |OF        |      9|  3|   2|  0|  0| 
-|Ronald Acuna Jr.   |OF        |     27| 10|   7|  1|  4| 
+|Ronald Acuna Jr.   |OF        |     29| 12|   9|  2|  4| 
 |Adam Duvall        |DH        |     10|  3|   6|  2|  0| 
-|Esteury Ruiz       |DH        |      4|  2|   2|  1|  3| 
-|Giancarlo Stanton  |DH        |     15|  6|   6|  3|  0| 
+|Esteury Ruiz       |DH        |      6|  2|   2|  1|  4| 
+|Giancarlo Stanton  |DH        |     16|  6|   6|  3|  0| 
 |Jeremy Pena        |DH        |     19|  7|   3|  0|  0| 
 |Brandon Drury      |BAT BENCH |      9|  4|   4|  1|  0| 
-|Bryan De La Cruz   |BAT BENCH |     11|  3|   3|  2|  0| 
-|Daulton Varsho     |BAT BENCH |     10|  6|   8|  2|  1| 
+|Bryan De La Cruz   |BAT BENCH |     12|  3|   4|  2|  0| 
+|Daulton Varsho     |BAT BENCH |     11|  6|   8|  2|  1| 
 |Harrison Bader     |BAT BENCH |     17|  7|   4|  0|  4| 
 
 
@@ -42,10 +42,10 @@
 |Alexis Diaz     |RP          |  4|  5.333|  3| 5.062|      8| 1.500|  5|  1|  1| 
 |David Robertson |RP          |  3|  3.000|  0| 0.000|      3| 1.000|  3|  0|  2| 
 |Alex Lange      |OP          |  3|  2.667|  1| 3.375|      7| 2.625|  4|  0|  0| 
-|Graham Ashcraft |OP          |  2| 15.000|  4| 2.400|     11| 0.733| 12|  0|  0| 
+|Graham Ashcraft |OP          |  3| 22.000|  7| 2.864|     20| 0.909| 14|  0|  0| 
 |J.P. France     |OP          |  2| 10.333|  2| 1.742|     11| 1.065|  9|  2|  0| 
-|Jack Flaherty   |OP          |  2| 11.000|  4| 3.273|     14| 1.273| 16|  1|  0| 
-|Kyle Hendricks  |OP          |  2|  9.000|  9| 9.000|     15| 1.667|  9|  0|  0| 
+|Jack Flaherty   |OP          |  3| 14.000| 11| 7.071|     22| 1.571| 19|  1|  0| 
+|Kyle Hendricks  |OP          |  3| 15.000| 12| 7.200|     24| 1.600| 13|  0|  0| 
 |Chris Sale      |PITCH BENCH |  1|  4.667|  2| 3.857|      1| 0.214|  7|  0|  0| 
 |Hunter Greene   |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 
