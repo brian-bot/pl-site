@@ -6,7 +6,7 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Sean Murphy      |C         |     15|  8|   6|  3|  0| 
-|Pete Alonso      |1B        |     23|  7|  12|  5|  1| 
+|Pete Alonso      |1B        |     25|  8|  14|  6|  1| 
 |Bryson Stott     |2B        |     16|  8|   8|  2|  3| 
 |Alex Bregman     |3B        |     21|  6|  10|  1|  0| 
 |Trea Turner      |SS        |     21|  6|  10|  2|  1| 
@@ -14,15 +14,15 @@
 |Josh Jung        |CI        |      5|  4|   3|  1|  0| 
 |Andrew McCutchen |OF        |     14|  4|   2|  0|  0| 
 |Bryan Reynolds   |OF        |     23| 13|  10|  6|  1| 
-|Christian Yelich |OF        |     23|  7|   6|  0|  3| 
-|Julio Rodriguez  |OF        |     24|  7|  15|  2|  5| 
-|Brandon Nimmo    |DH        |     22|  5|   3|  2|  0| 
+|Christian Yelich |OF        |     24|  7|   6|  0|  3| 
+|Julio Rodriguez  |OF        |     29|  8|  20|  3|  5| 
+|Brandon Nimmo    |DH        |     25|  5|   3|  2|  0| 
 |Jorge Polanco    |DH        |     21|  6|   7|  3|  1| 
 |Matt Wallner     |DH        |     12|  7|  10|  3|  1| 
 |Nathaniel Lowe   |DH        |     13|  5|   5|  2|  0| 
 |J.D. Martinez    |BAT BENCH |      6|  1|   3|  0|  0| 
 |Taylor Ward      |BAT BENCH |     **| **|  **| **| **| 
-|Tommy Edman      |BAT BENCH |     19|  9|   8|  4|  1| 
+|Tommy Edman      |BAT BENCH |     20|  9|   8|  4|  1| 
 
 * * *
 

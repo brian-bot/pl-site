@@ -9,14 +9,14 @@
 |Matt Olson         |1B        |     32| 14|  16|  6|  0| 
 |Matt McLain        |2B        |     14|  5|   5|  2|  3| 
 |Spencer Steer      |3B        |     15|  2|   5|  2|  2| 
-|Fernando Tatis Jr. |SS        |     16|  8|   5|  0|  5| 
+|Fernando Tatis Jr. |SS        |     18|  8|   5|  0|  5| 
 |Jazz Chisholm Jr.  |MI        |     11|  6|   3|  1|  1| 
 |Matt Chapman       |CI        |     11|  2|   4|  1|  0| 
 |Jorge Soler        |OF        |     16|  6|   8|  4|  0| 
 |Marcell Ozuna      |OF        |     25| 10|  11|  2|  0| 
-|Masataka Yoshida   |OF        |      9|  3|   2|  0|  0| 
+|Masataka Yoshida   |OF        |     11|  3|   2|  0|  0| 
 |Ronald Acuna Jr.   |OF        |     30| 12|   9|  2|  4| 
-|Adam Duvall        |DH        |     10|  3|   6|  2|  0| 
+|Adam Duvall        |DH        |     11|  4|   6|  2|  0| 
 |Esteury Ruiz       |DH        |      8|  4|   2|  1|  5| 
 |Giancarlo Stanton  |DH        |     17|  6|   6|  3|  0| 
 |Jeremy Pena        |DH        |     21|  8|   4|  0|  0| 
@@ -46,7 +46,7 @@
 |J.P. France     |OP          |  2| 10.333|  2| 1.742|     11| 1.065|  9|  2|  0| 
 |Jack Flaherty   |OP          |  3| 14.000| 11| 7.071|     22| 1.571| 19|  1|  0| 
 |Kyle Hendricks  |OP          |  3| 15.000| 12| 7.200|     24| 1.600| 13|  0|  0| 
-|Chris Sale      |PITCH BENCH |  1|  4.667|  2| 3.857|      1| 0.214|  7|  0|  0| 
+|Chris Sale      |PITCH BENCH |  2|  9.000|  4| 4.000|      6| 0.667| 10|  0|  0| 
 |Hunter Greene   |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 
 

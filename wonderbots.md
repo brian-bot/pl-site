@@ -9,7 +9,7 @@
 |Vladimir Guerrero Jr. |1B        |     17|  2|   6|  1|  0| 
 |Marcus Semien         |2B        |     25| 10|  10|  3|  2| 
 |Justin Turner         |3B        |      8|  4|   2|  2|  0| 
-|Xander Bogaerts       |SS        |     18|  3|   4|  1|  1| 
+|Xander Bogaerts       |SS        |     19|  3|   4|  1|  1| 
 |J.P. Crawford         |MI        |     13|  4|   2|  1|  0| 
 |Luis Arraez           |CI        |     12|  7|   7|  2|  0| 
 |Anthony Santander     |OF        |     12|  3|   3|  2|  0| 

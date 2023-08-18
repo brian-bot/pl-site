@@ -6,7 +6,7 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |William Contreras |C         |     19|  9|   9|  1|  0| 
-|Freddie Freeman   |1B        |     24|  9|   8|  2|  2| 
+|Freddie Freeman   |1B        |     26|  9|   8|  2|  2| 
 |Edouard Julien    |2B        |     19|  8|   2|  0|  1| 
 |Jose Ramirez      |3B        |     14|  2|   3|  0|  4| 
 |Orlando Arcia     |SS        |     14|  5|   6|  2|  0| 
@@ -14,7 +14,7 @@
 |Gunnar Henderson  |CI        |     13|  4|   7|  1|  0| 
 |Chas McCormick    |OF        |     17|  7|   3|  2|  1| 
 |Eloy Jimenez      |OF        |     11|  3|   3|  1|  0| 
-|Jarren Duran      |OF        |      7|  2|   3|  1|  0| 
+|Jarren Duran      |OF        |      8|  2|   3|  1|  0| 
 |Luis Robert Jr.   |OF        |     14|  5|   6|  3|  4| 
 |Geraldo Perdomo   |DH        |      8|  4|   1|  1|  0| 
 |Mickey Moniak     |DH        |      6|  1|   3|  1|  1| 
@@ -23,7 +23,7 @@
 |Bo Bichette       |BAT BENCH |     **| **|  **| **| **| 
 |Henry Davis       |BAT BENCH |     14|  7|   5|  1|  0| 
 |Jonathan India    |BAT BENCH |     **| **|  **| **| **| 
-|Jordan Walker     |BAT BENCH |     12|  3|   5|  1|  1| 
+|Jordan Walker     |BAT BENCH |     14|  4|   5|  1|  1| 
 
 
 * * *
