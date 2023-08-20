@@ -5,24 +5,24 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez     |C         |     19|  6|  11|  2|  0| 
-|Matt Olson         |1B        |     32| 15|  17|  6|  0| 
-|Matt McLain        |2B        |     16|  5|   5|  2|  3| 
+|Salvador Perez     |C         |     22|  8|  11|  2|  0| 
+|Matt Olson         |1B        |     33| 16|  17|  6|  0| 
+|Matt McLain        |2B        |     17|  6|   5|  2|  3| 
 |Spencer Steer      |3B        |     16|  2|   5|  2|  2| 
-|Fernando Tatis Jr. |SS        |     19|  9|   7|  1|  5| 
-|Jazz Chisholm Jr.  |MI        |     14|  8|   6|  2|  1| 
-|Matt Chapman       |CI        |     11|  2|   4|  1|  0| 
-|Jorge Soler        |OF        |     19|  9|  10|  6|  0| 
-|Marcell Ozuna      |OF        |     26| 10|  11|  2|  0| 
-|Masataka Yoshida   |OF        |     13|  4|   6|  1|  0| 
-|Ronald Acuna Jr.   |OF        |     31| 13|   9|  2|  4| 
-|Adam Duvall        |DH        |     11|  4|   6|  2|  0| 
-|Esteury Ruiz       |DH        |      8|  4|   2|  1|  5| 
-|Giancarlo Stanton  |DH        |     18|  6|   6|  3|  0| 
+|Fernando Tatis Jr. |SS        |     21|  9|   7|  1|  5| 
+|Jazz Chisholm Jr.  |MI        |     15|  8|   6|  2|  2| 
+|Matt Chapman       |CI        |     12|  2|   4|  1|  0| 
+|Jorge Soler        |OF        |     21|  9|  10|  6|  0| 
+|Marcell Ozuna      |OF        |     29| 11|  11|  2|  0| 
+|Masataka Yoshida   |OF        |     14|  5|   6|  1|  0| 
+|Ronald Acuna Jr.   |OF        |     32| 14|  10|  3|  4| 
+|Adam Duvall        |DH        |     13|  4|   6|  2|  0| 
+|Esteury Ruiz       |DH        |     10|  4|   2|  1|  5| 
+|Giancarlo Stanton  |DH        |     19|  6|   6|  3|  0| 
 |Jeremy Pena        |DH        |     21|  8|   4|  0|  0| 
-|Brandon Drury      |BAT BENCH |     10|  4|   5|  1|  0| 
-|Bryan De La Cruz   |BAT BENCH |     13|  3|   5|  2|  0| 
-|Daulton Varsho     |BAT BENCH |     14|  7|  10|  3|  1| 
+|Brandon Drury      |BAT BENCH |     14|  7|   9|  3|  0| 
+|Bryan De La Cruz   |BAT BENCH |     14|  3|   6|  2|  0| 
+|Daulton Varsho     |BAT BENCH |     17|  8|  11|  3|  2| 
 |Harrison Bader     |BAT BENCH |     17|  7|   4|  0|  4| 
 
 
@@ -36,12 +36,12 @@
 |Andrew Heaney   |SP          |  3| 10.667|  4| 3.375|     19| 1.781|  8|  1|  0| 
 |Brayan Bello    |SP          |  3| 17.333|  6| 3.115|     24| 1.385| 11|  1|  0| 
 |Charlie Morton  |SP          |  3| 15.333|  5| 2.935|     23| 1.500| 18|  2|  0| 
-|Framber Valdez  |SP          |  2| 14.667|  9| 5.523|     17| 1.159|  7|  0|  0| 
-|Freddy Peralta  |SP          |  2| 13.000|  1| 0.692|      8| 0.615| 19|  2|  0| 
-|Yu Darvish      |SP          |  3| 20.000|  6| 2.700|     22| 1.100| 14|  0|  0| 
+|Framber Valdez  |SP          |  3| 19.667| 15| 6.864|     29| 1.475| 12|  0|  0| 
+|Freddy Peralta  |SP          |  3| 18.667|  2| 0.964|     14| 0.750| 30|  3|  0| 
+|Yu Darvish      |SP          |  4| 25.000| 10| 3.600|     32| 1.280| 21|  0|  0| 
 |Alexis Diaz     |RP          |  5|  6.333|  3| 4.263|      8| 1.263|  6|  2|  1| 
-|David Robertson |RP          |  4|  4.000|  0| 0.000|      4| 1.000|  4|  0|  2| 
-|Alex Lange      |OP          |  4|  3.667|  1| 2.455|      7| 1.909|  6|  0|  0| 
+|David Robertson |RP          |  5|  5.000|  3| 5.400|     10| 2.000|  4|  0|  2| 
+|Alex Lange      |OP          |  5|  4.333|  1| 2.077|      8| 1.846|  6|  0|  0| 
 |Graham Ashcraft |OP          |  3| 22.000|  7| 2.864|     20| 0.909| 14|  0|  0| 
 |J.P. France     |OP          |  3| 16.333|  4| 2.204|     19| 1.163| 16|  2|  0| 
 |Jack Flaherty   |OP          |  3| 14.000| 11| 7.071|     22| 1.571| 19|  1|  0| 
