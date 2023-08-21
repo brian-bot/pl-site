@@ -5,25 +5,25 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Danny Jansen      |C         |      9|  2|   0|  0|  0| 
+|Danny Jansen      |C         |     11|  3|   1|  0|  0| 
 |Yandy Diaz        |1B        |     30| 11|   8|  1|  0| 
 |Isaac Paredes     |2B        |     19|  7|  13|  3|  0| 
 |Max Muncy         |3B        |     17|  7|   7|  2|  0| 
 |Christopher Morel |SS        |     12|  3|   8|  2|  0| 
-|Willy Adames      |MI        |     20|  5|   6|  2|  0| 
+|Willy Adames      |MI        |     21|  5|   7|  2|  0| 
 |Joey Votto        |CI        |     15|  5|   3|  2|  0| 
 |Adolis Garcia     |OF        |     21| 11|   7|  4|  1| 
-|Bryce Harper      |OF        |     24| 11|   8|  4|  0| 
+|Bryce Harper      |OF        |     25| 11|   8|  4|  0| 
 |Jack Suwinski     |OF        |     17|  5|   2|  0|  1| 
-|Kyle Schwarber    |OF        |     23| 13|  13|  5|  0| 
-|Gleyber Torres    |DH        |     26|  5|   4|  2|  3| 
-|Joey Meneses      |DH        |     26| 15|  11|  3|  0| 
+|Kyle Schwarber    |OF        |     24| 13|  13|  5|  0| 
+|Gleyber Torres    |DH        |     29|  6|   5|  3|  3| 
+|Joey Meneses      |DH        |     29| 16|  11|  3|  0| 
 |Joey Wiemer       |DH        |      9|  4|   1|  0|  0| 
 |Jose Siri         |DH        |     11|  7|   9|  4|  1| 
 |Anthony Rizzo     |BAT BENCH |     **| **|  **| **| **| 
-|Cedric Mullins    |BAT BENCH |      7|  2|   5|  1|  1| 
+|Cedric Mullins    |BAT BENCH |      8|  2|   5|  1|  1| 
 |Jonah Heim        |BAT BENCH |      4|  1|   0|  0|  0| 
-|Mike Tauchman     |BAT BENCH |     16|  5|   2|  1|  1| 
+|Mike Tauchman     |BAT BENCH |     17|  5|   2|  1|  1| 
 |Taylor Walls      |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -42,7 +42,7 @@
 |Zach Eflin      |SP          |  3| 16.000|  8| 4.500|     20| 1.250| 15|  1|  0| 
 |Paul Sewald     |RP          |  7|  6.000|  3| 4.500|     11| 1.833|  8|  0|  5| 
 |Pete Fairbanks  |RP          |  5|  4.667|  4| 7.714|      6| 1.286|  6|  1|  1| 
-|Adbert Alzolay  |OP          |  8|  8.333|  3| 3.240|      8| 0.960|  7|  0|  5| 
+|Adbert Alzolay  |OP          |  9|  9.333|  5| 4.821|     10| 1.071|  7|  0|  6| 
 |Bryce Miller    |OP          |  3| 17.000|  2| 1.059|     15| 0.882| 14|  1|  0| 
 |Eury Perez      |OP          |  3| 14.667|  8| 4.909|     15| 1.023| 22|  0|  0| 
 |Evan Phillips   |OP          |  6|  6.333|  3| 4.263|      5| 0.789|  5|  0|  6| 

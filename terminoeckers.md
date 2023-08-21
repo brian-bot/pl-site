@@ -6,19 +6,19 @@
 |players        |position  | hitsbb|  r| rbi| hr| sb| 
 |:--------------|:---------|------:|--:|---:|--:|--:| 
 |J.T. Realmuto  |C         |     17|  9|   8|  3|  0| 
-|Cody Bellinger |1B        |     23| 12|  13|  4|  3| 
+|Cody Bellinger |1B        |     23| 12|  14|  4|  3| 
 |Mookie Betts   |2B        |     32| 16|  16|  5|  1| 
-|Austin Riley   |3B        |     27| 13|  11|  4|  0| 
-|Corey Seager   |SS        |     23| 13|  12|  6|  0| 
-|Ezequiel Tovar |MI        |     24| 13|   9|  4|  2| 
-|Ryan McMahon   |CI        |     18| 11|   9|  3|  0| 
+|Austin Riley   |3B        |     28| 13|  11|  4|  1| 
+|Corey Seager   |SS        |     26| 14|  13|  7|  0| 
+|Ezequiel Tovar |MI        |     25| 13|  10|  4|  2| 
+|Ryan McMahon   |CI        |     19| 12|   9|  3|  0| 
 |Hunter Renfroe |OF        |     14|  4|   3|  1|  0| 
 |Juan Soto      |OF        |     18|  5|   5|  1|  0| 
 |Lars Nootbaar  |OF        |     21|  7|   3|  1|  1| 
-|Leody Taveras  |OF        |      9|  2|   6|  0|  0| 
+|Leody Taveras  |OF        |      9|  2|   7|  0|  0| 
 |Brandon Lowe   |DH        |     14|  8|   5|  2|  1| 
 |Josh Lowe      |DH        |     21|  9|  10|  2|  2| 
-|Maikel Garcia  |DH        |     20| 10|   5|  0|  3| 
+|Maikel Garcia  |DH        |     21| 10|   6|  0|  3| 
 |Nolan Gorman   |DH        |     12|  5|   2|  2|  0| 
 |Jake McCarthy  |BAT BENCH |     10|  0|   0|  0|  3| 
 |Luke Raley     |BAT BENCH |      8|  4|   4|  2|  0| 
@@ -35,8 +35,8 @@
 |George Kirby      |SP          |  3| 22.000|  5|  2.045|     14| 0.636| 14|  1|  0| 
 |Grayson Rodriguez |SP          |  2| 13.000|  3|  2.077|     12| 0.923| 10|  1|  0| 
 |Justin Verlander  |SP          |  3| 18.000|  9|  4.500|     26| 1.444| 13|  2|  0| 
-|Nick Pivetta      |SP          |  3| 13.333|  9|  6.075|     22| 1.650| 17|  1|  0| 
-|Zack Wheeler      |SP          |  2| 13.000|  4|  2.769|     14| 1.077| 11|  1|  0| 
+|Nick Pivetta      |SP          |  4| 18.333| 11|  5.400|     26| 1.418| 25|  1|  0| 
+|Zack Wheeler      |SP          |  3| 20.000|  8|  3.600|     22| 1.100| 16|  1|  0| 
 |Felix Bautista    |RP          |  6|  6.667|  5|  6.750|     12| 1.800|  8|  2|  3| 
 |Raisel Iglesias   |RP          |  7|  7.000|  0|  0.000|      5| 0.714| 11|  0|  4| 
 |Carlos Hernandez  |OP          |  7|  5.333|  7| 11.812|     13| 2.438|  7|  0|  1| 

@@ -7,23 +7,23 @@
 |:----------------------------|:---------|------:|--:|---:|--:|--:| 
 |Cal Raleigh                  |C         |     16|  7|  10|  5|  0| 
 |Christian Walker             |1B        |     28| 11|  16|  6|  1| 
-|Whit Merrifield              |2B        |     22|  8|   7|  2|  2| 
-|Nolan Arenado                |3B        |     21|  9|   7|  4|  0| 
+|Whit Merrifield              |2B        |     23|  9|   7|  2|  2| 
+|Nolan Arenado                |3B        |     23| 10|   7|  4|  0| 
 |Dansby Swanson               |SS        |     13|  6|   9|  2|  0| 
 |Ha-Seong Kim                 |MI        |     22|  9|   4|  1|  5| 
 |Josh Naylor                  |CI        |     **| **|  **| **| **| 
 |Jake Fraley                  |OF        |      1|  0|   0|  0|  1| 
 |Lourdes Gurriel Jr.          |OF        |     19|  6|   7|  3|  2| 
-|Teoscar Hernandez            |OF        |     25|  6|   7|  2|  0| 
-|Yordan Alvarez               |OF        |     21|  9|   5|  2|  0| 
-|Alec Bohm                    |DH        |     16|  9|   7|  2|  0| 
-|Alex Verdugo                 |DH        |     14|  9|   5|  1|  0| 
+|Teoscar Hernandez            |OF        |     26|  7|   7|  2|  0| 
+|Yordan Alvarez               |OF        |     24| 10|   7|  2|  0| 
+|Alec Bohm                    |DH        |     17|  9|   7|  2|  0| 
+|Alex Verdugo                 |DH        |     15|  9|   5|  1|  0| 
 |C.J. Cron                    |DH        |      9|  6|   4|  1|  0| 
-|Jeff McNeil                  |DH        |     26| 11|  12|  3|  1| 
-|Christian Encarnacion-Strand |BAT BENCH |     19|  5|   6|  3|  1| 
+|Jeff McNeil                  |DH        |     27| 12|  12|  3|  1| 
+|Christian Encarnacion-Strand |BAT BENCH |     20|  6|   6|  3|  1| 
 |Owen Miller                  |BAT BENCH |     **| **|  **| **| **| 
 |Royce Lewis                  |BAT BENCH |      8|  2|   2|  0|  1| 
-|Ty France                    |BAT BENCH |     27|  9|  10|  3|  0| 
+|Ty France                    |BAT BENCH |     28|  9|  10|  3|  0| 
 
 
 * * *
@@ -39,7 +39,7 @@
 |Kevin Gausman    |SP          |  3| 16.667|  8| 4.320|     24| 1.440| 16|  1|  0| 
 |Logan Webb       |SP          |  3| 20.333|  6| 2.656|     23| 1.131| 17|  0|  0| 
 |Zac Gallen       |SP          |  3| 19.333|  3| 1.397|     15| 0.776| 19|  2|  0| 
-|Camilo Doval     |RP          |  3|  3.333|  0| 0.000|      5| 1.500|  5|  1|  1| 
+|Camilo Doval     |RP          |  4|  5.000|  0| 0.000|      6| 1.200|  8|  2|  1| 
 |Craig Kimbrel    |RP          |  5|  5.000|  1| 1.800|      4| 0.800|  6|  0|  1| 
 |Alek Manoah      |OP          |  2| 10.667|  7| 5.906|     15| 1.406| 11|  1|  0| 
 |MacKenzie Gore   |OP          |  2| 11.333|  6| 4.765|     11| 0.971| 12|  0|  0| 
