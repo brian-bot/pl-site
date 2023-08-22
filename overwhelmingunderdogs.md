@@ -6,20 +6,20 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Sean Murphy      |C         |     18|  9|   6|  3|  0| 
-|Pete Alonso      |1B        |     30| 12|  17|  8|  1| 
-|Bryson Stott     |2B        |     20| 10|  11|  3|  3| 
-|Alex Bregman     |3B        |     26|  8|  12|  2|  0| 
-|Trea Turner      |SS        |     25|  9|  12|  4|  1| 
+|Pete Alonso      |1B        |     32| 13|  18|  8|  1| 
+|Bryson Stott     |2B        |     22| 11|  12|  3|  3| 
+|Alex Bregman     |3B        |     31| 10|  13|  2|  0| 
+|Trea Turner      |SS        |     27| 10|  12|  4|  1| 
 |Anthony Volpe    |MI        |     19|  4|  12|  3|  0| 
 |Josh Jung        |CI        |      5|  4|   3|  1|  0| 
-|Andrew McCutchen |OF        |     16|  5|   7|  1|  0| 
-|Bryan Reynolds   |OF        |     28| 13|  11|  6|  1| 
+|Andrew McCutchen |OF        |     18|  6|   7|  1|  0| 
+|Bryan Reynolds   |OF        |     29| 14|  11|  6|  1| 
 |Christian Yelich |OF        |     30| 11|   7|  0|  3| 
 |Julio Rodriguez  |OF        |     38| 12|  21|  4|  8| 
-|Brandon Nimmo    |DH        |     30|  8|   4|  3|  0| 
+|Brandon Nimmo    |DH        |     33| 10|   4|  3|  0| 
 |Jorge Polanco    |DH        |     25|  7|  10|  3|  2| 
 |Matt Wallner     |DH        |     14|  8|  10|  3|  1| 
-|Nathaniel Lowe   |DH        |     19|  6|   7|  3|  0| 
+|Nathaniel Lowe   |DH        |     20|  6|   9|  3|  0| 
 |J.D. Martinez    |BAT BENCH |      7|  1|   3|  0|  0| 
 |Taylor Ward      |BAT BENCH |     **| **|  **| **| **| 
 |Tommy Edman      |BAT BENCH |     24| 10|   9|  4|  3| 
@@ -39,11 +39,11 @@
 |Shane McClanahan  |SP          | **|     **| **|     **|     **|    **| **| **| **| 
 |Devin Williams    |RP          |  7|  6.000|  1|  1.500|      3| 0.500| 10|  2|  3| 
 |Jhoan Duran       |RP          |  7|  7.000|  2|  2.571|     10| 1.429| 11|  0|  5| 
-|Aroldis Chapman   |OP          |  7|  7.000|  0|  0.000|      7| 1.000| 14|  0|  0| 
+|Aroldis Chapman   |OP          |  8|  9.000|  1|  1.000|      9| 1.000| 16|  0|  0| 
 |Carlos Rodon      |OP          |  1|  2.667|  5| 16.875|      5| 1.875|  5|  0|  0| 
 |Justin Steele     |OP          |  3| 16.333|  8|  4.408|     24| 1.469| 21|  2|  0| 
 |Wade Miley        |OP          |  2| 11.000|  4|  3.273|     14| 1.273|  4|  0|  0| 
-|Will Smith        |OP          |  7|  5.667|  7| 11.118|     10| 1.765|  5|  0|  4| 
+|Will Smith        |OP          |  8|  6.333|  9| 12.789|     13| 2.053|  5|  0|  4| 
 |Giovanny Gallegos |PITCH BENCH |  5|  3.333|  2|  5.400|      7| 2.100|  4|  0|  1| 
 |Griffin Canning   |PITCH BENCH |  2|  7.000|  5|  6.429|     10| 1.429| 10|  1|  0| 
 |Julio Teheran     |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 

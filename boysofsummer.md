@@ -9,21 +9,21 @@
 |Freddie Freeman   |1B        |     28|  9|   8|  2|  2| 
 |Edouard Julien    |2B        |     23|  8|   4|  0|  1| 
 |Jose Ramirez      |3B        |     17|  3|   3|  0|  4| 
-|Orlando Arcia     |SS        |     16|  6|   9|  3|  0| 
-|Ezequiel Duran    |MI        |     21|  6|   6|  1|  1| 
+|Orlando Arcia     |SS        |     19|  7|   9|  3|  0| 
+|Ezequiel Duran    |MI        |     21|  7|   6|  1|  1| 
 |Gunnar Henderson  |CI        |     22| 10|  12|  3|  0| 
-|Chas McCormick    |OF        |     20|  7|   3|  2|  1| 
-|Eloy Jimenez      |OF        |     11|  3|   3|  1|  0| 
+|Chas McCormick    |OF        |     22|  9|   7|  4|  1| 
+|Eloy Jimenez      |OF        |     13|  3|   4|  1|  0| 
 |Jarren Duran      |OF        |     11|  3|   3|  1|  1| 
 |Luis Robert Jr.   |OF        |     17|  7|   7|  4|  4| 
-|Geraldo Perdomo   |DH        |     11|  4|   2|  1|  0| 
+|Geraldo Perdomo   |DH        |     12|  5|   3|  1|  0| 
 |Mickey Moniak     |DH        |      7|  1|   4|  1|  2| 
-|Seiya Suzuki      |DH        |     12|  7|   6|  3|  0| 
+|Seiya Suzuki      |DH        |     14|  9|   7|  4|  0| 
 |Will Benson       |DH        |     13|  5|   0|  0|  2| 
 |Bo Bichette       |BAT BENCH |      3|  2|   2|  1|  0| 
 |Henry Davis       |BAT BENCH |     14|  7|   5|  1|  0| 
 |Jonathan India    |BAT BENCH |     **| **|  **| **| **| 
-|Jordan Walker     |BAT BENCH |     17|  5|   6|  1|  1| 
+|Jordan Walker     |BAT BENCH |     18|  5|   6|  1|  1| 
 
 
 * * *

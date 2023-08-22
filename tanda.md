@@ -6,22 +6,22 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Salvador Perez     |C         |     22|  8|  11|  2|  0| 
-|Matt Olson         |1B        |     34| 16|  17|  6|  0| 
+|Matt Olson         |1B        |     36| 16|  17|  6|  0| 
 |Matt McLain        |2B        |     18|  6|   5|  2|  3| 
 |Spencer Steer      |3B        |     18|  3|   5|  2|  2| 
-|Fernando Tatis Jr. |SS        |     21|  9|   7|  1|  5| 
+|Fernando Tatis Jr. |SS        |     22|  9|   7|  1|  6| 
 |Jazz Chisholm Jr.  |MI        |     15|  8|   6|  2|  2| 
 |Matt Chapman       |CI        |     12|  2|   4|  1|  0| 
 |Jorge Soler        |OF        |     21|  9|  10|  6|  0| 
-|Marcell Ozuna      |OF        |     29| 11|  11|  2|  0| 
-|Masataka Yoshida   |OF        |     14|  5|   6|  1|  0| 
-|Ronald Acuna Jr.   |OF        |     33| 15|  10|  3|  5| 
-|Adam Duvall        |DH        |     13|  4|   6|  2|  0| 
-|Esteury Ruiz       |DH        |     10|  4|   2|  1|  5| 
+|Marcell Ozuna      |OF        |     31| 13|  13|  4|  0| 
+|Masataka Yoshida   |OF        |     15|  6|   7|  1|  0| 
+|Ronald Acuna Jr.   |OF        |     35| 16|  10|  3|  5| 
+|Adam Duvall        |DH        |     16|  5|   9|  3|  0| 
+|Esteury Ruiz       |DH        |     10|  4|   2|  1|  6| 
 |Giancarlo Stanton  |DH        |     19|  6|   6|  3|  0| 
-|Jeremy Pena        |DH        |     23| 10|   4|  0|  0| 
+|Jeremy Pena        |DH        |     25| 10|   4|  0|  0| 
 |Brandon Drury      |BAT BENCH |     14|  7|   9|  3|  0| 
-|Bryan De La Cruz   |BAT BENCH |     14|  3|   6|  2|  0| 
+|Bryan De La Cruz   |BAT BENCH |     16|  3|   6|  2|  0| 
 |Daulton Varsho     |BAT BENCH |     20|  9|  11|  3|  2| 
 |Harrison Bader     |BAT BENCH |     18|  8|   4|  0|  4| 
 

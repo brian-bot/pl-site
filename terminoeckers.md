@@ -5,20 +5,20 @@
  
 |players        |position  | hitsbb|  r| rbi| hr| sb| 
 |:--------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto  |C         |     17|  9|   8|  3|  0| 
-|Cody Bellinger |1B        |     23| 12|  14|  4|  3| 
+|J.T. Realmuto  |C         |     19| 10|   8|  3|  0| 
+|Cody Bellinger |1B        |     24| 12|  15|  4|  3| 
 |Mookie Betts   |2B        |     32| 16|  16|  5|  1| 
 |Austin Riley   |3B        |     28| 13|  11|  4|  1| 
-|Corey Seager   |SS        |     26| 14|  13|  7|  0| 
+|Corey Seager   |SS        |     27| 15|  13|  7|  1| 
 |Ezequiel Tovar |MI        |     25| 13|  10|  4|  2| 
 |Ryan McMahon   |CI        |     19| 12|   9|  3|  0| 
 |Hunter Renfroe |OF        |     14|  4|   3|  1|  0| 
-|Juan Soto      |OF        |     18|  5|   5|  1|  0| 
+|Juan Soto      |OF        |     19|  5|   5|  1|  0| 
 |Lars Nootbaar  |OF        |     21|  7|   3|  1|  1| 
-|Leody Taveras  |OF        |      9|  2|   7|  0|  0| 
+|Leody Taveras  |OF        |     11|  2|   7|  0|  0| 
 |Brandon Lowe   |DH        |     14|  8|   5|  2|  1| 
 |Josh Lowe      |DH        |     21|  9|  10|  2|  2| 
-|Maikel Garcia  |DH        |     21| 10|   6|  0|  3| 
+|Maikel Garcia  |DH        |     22| 10|   7|  0|  3| 
 |Nolan Gorman   |DH        |     12|  5|   2|  2|  0| 
 |Jake McCarthy  |BAT BENCH |     10|  0|   0|  0|  3| 
 |Luke Raley     |BAT BENCH |      8|  4|   4|  2|  0| 

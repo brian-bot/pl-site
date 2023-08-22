@@ -12,10 +12,10 @@
 |Christopher Morel |SS        |     12|  3|   8|  2|  0| 
 |Willy Adames      |MI        |     21|  5|   7|  2|  0| 
 |Joey Votto        |CI        |     15|  5|   3|  2|  0| 
-|Adolis Garcia     |OF        |     21| 11|   7|  4|  1| 
-|Bryce Harper      |OF        |     25| 11|   8|  4|  0| 
+|Adolis Garcia     |OF        |     22| 12|   8|  5|  1| 
+|Bryce Harper      |OF        |     27| 12|  10|  5|  0| 
 |Jack Suwinski     |OF        |     17|  5|   2|  0|  1| 
-|Kyle Schwarber    |OF        |     24| 13|  13|  5|  0| 
+|Kyle Schwarber    |OF        |     26| 14|  15|  6|  0| 
 |Gleyber Torres    |DH        |     29|  6|   5|  3|  3| 
 |Joey Meneses      |DH        |     29| 16|  11|  3|  0| 
 |Joey Wiemer       |DH        |      9|  4|   1|  0|  0| 
@@ -23,7 +23,7 @@
 |Anthony Rizzo     |BAT BENCH |     **| **|  **| **| **| 
 |Cedric Mullins    |BAT BENCH |      8|  2|   5|  1|  1| 
 |Jonah Heim        |BAT BENCH |      4|  1|   0|  0|  0| 
-|Mike Tauchman     |BAT BENCH |     17|  5|   2|  1|  1| 
+|Mike Tauchman     |BAT BENCH |     19|  5|   2|  1|  1| 
 |Taylor Walls      |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -36,11 +36,11 @@
 |:---------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Bailey Ober     |SP          |  3| 15.000|  8| 4.800|     25| 1.667| 18|  0|  0| 
 |Gerrit Cole     |SP          |  3| 17.000| 12| 6.353|     23| 1.353| 13|  0|  0| 
-|James Paxton    |SP          |  3| 16.333|  6| 3.306|     23| 1.408| 13|  1|  0| 
+|James Paxton    |SP          |  4| 20.333| 12| 5.311|     35| 1.721| 17|  1|  0| 
 |Joe Ryan        |SP          | **|     **| **|    **|     **|    **| **| **| **| 
 |Spencer Strider |SP          |  3| 16.667|  6| 3.240|     17| 1.020| 19|  2|  0| 
 |Zach Eflin      |SP          |  3| 16.000|  8| 4.500|     20| 1.250| 15|  1|  0| 
-|Paul Sewald     |RP          |  7|  6.000|  3| 4.500|     11| 1.833|  8|  0|  5| 
+|Paul Sewald     |RP          |  8|  7.000|  3| 3.857|     11| 1.571|  9|  0|  5| 
 |Pete Fairbanks  |RP          |  5|  4.667|  4| 7.714|      6| 1.286|  6|  1|  1| 
 |Adbert Alzolay  |OP          |  9|  9.333|  5| 4.821|     10| 1.071|  7|  0|  6| 
 |Bryce Miller    |OP          |  3| 17.000|  2| 1.059|     15| 0.882| 14|  1|  0| 
