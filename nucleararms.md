@@ -5,25 +5,26 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |     20|  9|  10|  3|  1| 
-|Paul Goldschmidt  |1B        |     29|  7|   9|  2|  1| 
-|Ozzie Albies      |2B        |     22| 11|  14|  4|  4| 
-|Eugenio Suarez    |3B        |     28|  7|   9|  3|  0| 
-|Wander Franco     |SS        |     18|  7|   7|  3|  1| 
-|Francisco Lindor  |MI        |     32| 16|  13|  2|  5| 
-|Jeimer Candelario |CI        |     21|  6|   6|  2|  2| 
-|Andrew Benintendi |OF        |     22|  9|   5|  1|  1| 
-|George Springer   |OF        |     26|  8|   8|  2|  3| 
-|James Outman      |OF        |     22|  9|   5|  3|  2| 
-|Nolan Jones       |OF        |     26| 12|  14|  3|  1| 
-|Jake Burger       |DH        |     30|  8|  11|  2|  0| 
-|Jose Abreu        |DH        |      4|  2|   0|  0|  0| 
-|Ketel Marte       |DH        |     18|  6|   6|  2|  0| 
-|Shohei Ohtani     |DH        |     27| 13|   8|  4|  4| 
-|Andrew Vaughn     |BAT BENCH |     21|  9|   6|  3|  0| 
-|Francisco Alvarez |BAT BENCH |     13|  4|   2|  0|  0| 
-|Luis Matos        |BAT BENCH |     10|  3|   1|  1|  0| 
-|Starling Marte    |BAT BENCH |      0|  0|   0|  0|  0| 
+|Will Smith        |C         |      0|  0|   1|  0|  0| 
+|Paul Goldschmidt  |1B        |      4|  2|   1|  0|  0| 
+|Ketel Marte       |2B        |      2|  0|   0|  0|  0| 
+|Eugenio Suarez    |3B        |      2|  0|   2|  0|  0| 
+|Francisco Lindor  |SS        |      3|  0|   0|  0|  0| 
+|Oswald Peraza     |MI        |      2|  2|   0|  0|  1| 
+|Jake Burger       |CI        |      0|  0|   0|  0|  0| 
+|Andrew Benintendi |OF        |      3|  2|   3|  1|  0| 
+|George Springer   |OF        |      1|  0|   1|  0|  0| 
+|James Outman      |OF        |      3|  2|   2|  0|  0| 
+|Nolan Jones       |OF        |      3|  1|   3|  1|  0| 
+|Andrew Vaughn     |DH        |      3|  0|   0|  0|  0| 
+|Jeimer Candelario |DH        |      2|  1|   2|  0|  0| 
+|Shohei Ohtani     |DH        |      2|  2|   2|  1|  0| 
+|Tommy Pham        |DH        |      1|  0|   0|  0|  0| 
+|Everson Pereira   |BAT BENCH |      1|  1|   1|  0|  0| 
+|Francisco Alvarez |BAT BENCH |      0|  0|   0|  0|  0| 
+|Ozzie Albies      |BAT BENCH |     **| **|  **| **| **| 
+|Starling Marte    |BAT BENCH |     **| **|  **| **| **| 
+|Wander Franco     |BAT BENCH |     **| **|  **| **| **| 
 
 
 * * *
@@ -31,24 +32,23 @@
 ### Pitchers
 
  
-|players           |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
-|:-----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|David Peterson    |SP          |  4| 15.000|  7|  4.200|     28| 1.867| 15|  0|  0| 
-|Jordan Montgomery |SP          |  4| 26.000|  5|  1.731|     26| 1.000| 26|  2|  0| 
-|Jose Berrios      |SP          |  3| 15.667|  7|  4.021|     20| 1.277| 17|  1|  0| 
-|Nestor Cortes     |SP          |  1|  4.000|  1|  2.250|      2| 0.500|  8|  0|  0| 
-|Shohei Ohtani     |SP          |  2| 10.000|  0|  0.000|     10| 1.000|  9|  1|  0| 
-|Tyler Glasnow     |SP          |  2| 12.000|  6|  4.500|     14| 1.167| 14|  1|  0| 
-|Clay Holmes       |RP          |  6|  5.333|  5|  8.438|      9| 1.688|  3|  0|  2| 
-|Ryan Pressly      |RP          |  5|  5.000|  0|  0.000|      6| 1.200|  5|  0|  2| 
-|Hyun Jin Ryu      |OP          |  3| 14.000|  0|  0.000|     10| 0.714| 12|  2|  0| 
-|Jesus Luzardo     |OP          |  4| 18.333| 16|  7.855|     32| 1.745| 20|  1|  0| 
-|Michael Kopech    |OP          |  3| 13.667| 15|  9.878|     27| 1.976|  8|  1|  0| 
-|Michael Soroka    |OP          | **|     **| **|     **|     **|    **| **| **| **| 
-|Ryne Nelson       |OP          |  2|  6.000| 12| 18.000|     16| 2.667|  7|  0|  0| 
-|Domingo German    |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Kyle Wright       |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Michael Wacha     |PITCH BENCH |  2| 10.333|  1|  0.871|     11| 1.065| 12|  2|  0| 
+|players           |position    |  g|    ip| er| era| hitsbb| whip| so|  w| sv| 
+|:-----------------|:-----------|--:|-----:|--:|---:|------:|----:|--:|--:|--:| 
+|Jesus Luzardo     |SP          | **|    **| **|  **|     **|   **| **| **| **| 
+|Jordan Montgomery |SP          | **|    **| **|  **|     **|   **| **| **| **| 
+|Jose Berrios      |SP          |  1| 6.000|  5| 7.5|      9| 1.50|  4|  0|  0| 
+|Michael Wacha     |SP          | **|    **| **|  **|     **|   **| **| **| **| 
+|Shohei Ohtani     |SP          |  1| 1.333|  0| 0.0|      1| 0.75|  2|  0|  0| 
+|Tyler Glasnow     |SP          | **|    **| **|  **|     **|   **| **| **| **| 
+|Clay Holmes       |RP          |  1| 1.000|  1| 9.0|      4| 4.00|  0|  0|  0| 
+|Ryan Pressly      |RP          |  1| 1.000|  0| 0.0|      0| 0.00|  2|  0|  0| 
+|Hyun Jin Ryu      |OP          | **|    **| **|  **|     **|   **| **| **| **| 
+|Jason Foley       |OP          | **|    **| **|  **|     **|   **| **| **| **| 
+|Joe Jimenez       |OP          | **|    **| **|  **|     **|   **| **| **| **| 
+|Kirby Yates       |OP          |  1| 1.000|  0| 0.0|      0| 0.00|  2|  0|  0| 
+|Matt Brash        |OP          | **|    **| **|  **|     **|   **| **| **| **| 
+|David Peterson    |PITCH BENCH | **|    **| **|  **|     **|   **| **| **| **| 
+|Kyle Wright       |PITCH BENCH | **|    **| **|  **|     **|   **| **| **| **| 
 
 
 * * *
