@@ -6,23 +6,23 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Sean Murphy      |C         |      2|  1|   1|  0|  0| 
-|Pete Alonso      |1B        |      0|  0|   0|  0|  0| 
-|Bryson Stott     |2B        |      1|  0|   0|  0|  1| 
+|Pete Alonso      |1B        |      3|  0|   0|  0|  0| 
+|Bryson Stott     |2B        |      1|  0|   1|  0|  1| 
 |Alex Bregman     |3B        |      4|  1|   1|  0|  0| 
-|Trea Turner      |SS        |      2|  2|   1|  1|  0| 
-|Anthony Volpe    |MI        |      2|  0|   1|  0|  0| 
-|Nathaniel Lowe   |CI        |      2|  1|   0|  0|  0| 
-|Andrew McCutchen |OF        |      4|  0|   0|  0|  0| 
-|Bryan Reynolds   |OF        |      1|  1|   0|  0|  0| 
-|Christian Yelich |OF        |      2|  1|   0|  0|  2| 
-|Julio Rodriguez  |OF        |      3|  0|   1|  0|  1| 
+|Trea Turner      |SS        |      3|  2|   1|  1|  1| 
+|Anthony Volpe    |MI        |      4|  0|   1|  0|  0| 
+|Nathaniel Lowe   |CI        |      4|  1|   1|  0|  0| 
+|Andrew McCutchen |OF        |      4|  0|   1|  0|  0| 
+|Bryan Reynolds   |OF        |      2|  2|   0|  0|  0| 
+|Christian Yelich |OF        |      3|  1|   0|  0|  2| 
+|Julio Rodriguez  |OF        |      6|  1|   1|  0|  2| 
 |Brandon Nimmo    |DH        |      0|  0|   0|  0|  0| 
-|Brice Turang     |DH        |      2|  0|   1|  0|  0| 
-|Jorge Polanco    |DH        |      3|  0|   0|  0|  0| 
-|Matt Wallner     |DH        |      2|  1|   0|  0|  0| 
+|Brice Turang     |DH        |      4|  1|   1|  0|  0| 
+|Jorge Polanco    |DH        |      6|  0|   0|  0|  0| 
+|Matt Wallner     |DH        |      5|  4|   3|  0|  0| 
 |J.D. Martinez    |BAT BENCH |     **| **|  **| **| **| 
 |Josh Jung        |BAT BENCH |     **| **|  **| **| **| 
-|Tommy Edman      |BAT BENCH |      0|  0|   0|  0|  0| 
+|Tommy Edman      |BAT BENCH |      1|  1|   0|  0|  0| 
 
 * * *
 
