@@ -5,21 +5,21 @@
  
 |players                      |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------------------|:---------|------:|--:|---:|--:|--:| 
-|Cal Raleigh                  |C         |      4|  1|   1|  0|  0| 
-|Christian Walker             |1B        |      3|  0|   0|  0|  0| 
-|Whit Merrifield              |2B        |      1|  1|   0|  0|  0| 
+|Cal Raleigh                  |C         |      8|  3|   2|  1|  0| 
+|Christian Walker             |1B        |      5|  0|   2|  0|  0| 
+|Whit Merrifield              |2B        |      3|  2|   0|  0|  0| 
 |Nolan Arenado                |3B        |      3|  1|   2|  0|  0| 
-|Dansby Swanson               |SS        |      2|  2|   0|  0|  1| 
-|Ha-Seong Kim                 |MI        |      3|  1|   0|  0|  1| 
-|Alec Bohm                    |CI        |      4|  2|   1|  1|  0| 
-|Alex Verdugo                 |OF        |      9|  4|   4|  2|  0| 
+|Dansby Swanson               |SS        |      5|  3|   1|  0|  1| 
+|Ha-Seong Kim                 |MI        |      4|  2|   0|  0|  1| 
+|Alec Bohm                    |CI        |      5|  3|   2|  1|  0| 
+|Alex Verdugo                 |OF        |     10|  5|   5|  3|  0| 
 |Lourdes Gurriel Jr.          |OF        |      3|  2|   0|  0|  0| 
-|Teoscar Hernandez            |OF        |      4|  1|   0|  0|  1| 
-|Yordan Alvarez               |OF        |      3|  0|   0|  0|  0| 
-|Christian Encarnacion-Strand |DH        |      5|  1|   0|  0|  0| 
-|Jeff McNeil                  |DH        |      2|  0|   0|  0|  0| 
+|Teoscar Hernandez            |OF        |      6|  3|   6|  2|  1| 
+|Yordan Alvarez               |OF        |      5|  0|   1|  0|  0| 
+|Christian Encarnacion-Strand |DH        |      7|  1|   1|  0|  0| 
+|Jeff McNeil                  |DH        |      3|  1|   0|  0|  1| 
 |Royce Lewis                  |DH        |      8|  4|   3|  2|  0| 
-|Ty France                    |DH        |      2|  0|   0|  0|  0| 
+|Ty France                    |DH        |      3|  0|   0|  0|  0| 
 |C.J. Cron                    |BAT BENCH |     **| **|  **| **| **| 
 |Jake Fraley                  |BAT BENCH |     **| **|  **| **| **| 
 |Josh Naylor                  |BAT BENCH |     **| **|  **| **| **| 
@@ -43,10 +43,10 @@
 |Gavin Williams    |OP          |  1| 4.333|  5| 10.385|     10| 2.308|  5|  0|  0| 
 |MacKenzie Gore    |OP          |  1| 4.000|  2|  4.500|      5| 1.250|  4|  0|  0| 
 |Merrill Kelly     |OP          |  1| 7.000|  0|  0.000|      1| 0.143| 12|  0|  0| 
-|Robert Stephenson |OP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Tanner Scott      |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Robert Stephenson |OP          |  1| 1.000|  0|  0.000|      0| 0.000|  2|  0|  0| 
+|Tanner Scott      |OP          |  1| 1.000|  0|  0.000|      0| 0.000|  1|  0|  0| 
 |Alek Manoah       |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
-|Kevin Ginkel      |PITCH BENCH |  1| 0.667|  0|  0.000|      0| 0.000|  2|  0|  1| 
+|Kevin Ginkel      |PITCH BENCH |  2| 1.667|  1|  5.400|      2| 1.200|  3|  0|  1| 
 |Roansy Contreras  |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Tony Gonsolin     |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 
