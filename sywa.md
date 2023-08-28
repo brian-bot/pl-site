@@ -6,20 +6,20 @@
 |players                      |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------------------|:---------|------:|--:|---:|--:|--:| 
 |Cal Raleigh                  |C         |      8|  3|   2|  1|  0| 
-|Christian Walker             |1B        |      5|  0|   2|  0|  0| 
-|Whit Merrifield              |2B        |      3|  2|   0|  0|  0| 
+|Christian Walker             |1B        |      5|  0|   3|  0|  0| 
+|Whit Merrifield              |2B        |      3|  2|   1|  0|  0| 
 |Nolan Arenado                |3B        |      3|  1|   2|  0|  0| 
-|Dansby Swanson               |SS        |      5|  3|   1|  0|  1| 
-|Ha-Seong Kim                 |MI        |      4|  2|   0|  0|  1| 
+|Dansby Swanson               |SS        |      6|  4|   1|  0|  2| 
+|Ha-Seong Kim                 |MI        |      6|  3|   0|  0|  1| 
 |Alec Bohm                    |CI        |      5|  3|   2|  1|  0| 
 |Alex Verdugo                 |OF        |     10|  5|   5|  3|  0| 
-|Lourdes Gurriel Jr.          |OF        |      3|  2|   0|  0|  0| 
-|Teoscar Hernandez            |OF        |      6|  3|   6|  2|  1| 
-|Yordan Alvarez               |OF        |      5|  0|   1|  0|  0| 
+|Lourdes Gurriel Jr.          |OF        |      5|  3|   1|  1|  0| 
+|Teoscar Hernandez            |OF        |      8|  4|   7|  3|  1| 
+|Yordan Alvarez               |OF        |      8|  1|   4|  0|  0| 
 |Christian Encarnacion-Strand |DH        |      7|  1|   1|  0|  0| 
-|Jeff McNeil                  |DH        |      3|  1|   0|  0|  1| 
-|Royce Lewis                  |DH        |      8|  4|   3|  2|  0| 
-|Ty France                    |DH        |      3|  0|   0|  0|  0| 
+|Jeff McNeil                  |DH        |      4|  2|   0|  0|  1| 
+|Royce Lewis                  |DH        |      9|  5|   7|  3|  0| 
+|Ty France                    |DH        |      5|  0|   0|  0|  0| 
 |C.J. Cron                    |BAT BENCH |     **| **|  **| **| **| 
 |Jake Fraley                  |BAT BENCH |     **| **|  **| **| **| 
 |Josh Naylor                  |BAT BENCH |     **| **|  **| **| **| 
@@ -38,13 +38,13 @@
 |Kevin Gausman     |SP          |  1| 6.000|  2|  3.000|      6| 1.000|  8|  0|  0| 
 |Logan Webb        |SP          |  1| 5.333|  5|  8.438|      7| 1.312|  1|  0|  0| 
 |Zac Gallen        |SP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Camilo Doval      |RP          |  1| 0.000|  3|    Inf|      3|   Inf|  0|  0|  0| 
-|Craig Kimbrel     |RP          |  1| 1.000|  2| 18.000|      2| 2.000|  1|  0|  0| 
+|Camilo Doval      |RP          |  2| 1.000|  3| 27.000|      3| 3.000|  2|  0|  1| 
+|Craig Kimbrel     |RP          |  2| 2.000|  2|  9.000|      4| 2.000|  2|  0|  1| 
 |Gavin Williams    |OP          |  1| 4.333|  5| 10.385|     10| 2.308|  5|  0|  0| 
 |MacKenzie Gore    |OP          |  1| 4.000|  2|  4.500|      5| 1.250|  4|  0|  0| 
 |Merrill Kelly     |OP          |  1| 7.000|  0|  0.000|      1| 0.143| 12|  0|  0| 
-|Robert Stephenson |OP          |  1| 1.000|  0|  0.000|      0| 0.000|  2|  0|  0| 
-|Tanner Scott      |OP          |  1| 1.000|  0|  0.000|      0| 0.000|  1|  0|  0| 
+|Robert Stephenson |OP          |  2| 2.000|  0|  0.000|      0| 0.000|  3|  0|  0| 
+|Tanner Scott      |OP          |  2| 2.000|  0|  0.000|      2| 1.000|  1|  0|  1| 
 |Alek Manoah       |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Kevin Ginkel      |PITCH BENCH |  2| 1.667|  1|  5.400|      2| 1.200|  3|  0|  1| 
 |Roansy Contreras  |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 

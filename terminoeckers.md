@@ -5,23 +5,23 @@
  
 |players        |position  | hitsbb|  r| rbi| hr| sb| 
 |:--------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto  |C         |      1|  1|   0|  0|  0| 
-|Cody Bellinger |1B        |      5|  2|   5|  0|  0| 
-|Mookie Betts   |2B        |     13|  5|   4|  0|  0| 
+|J.T. Realmuto  |C         |      3|  1|   0|  0|  0| 
+|Cody Bellinger |1B        |      8|  4|  10|  0|  1| 
+|Mookie Betts   |2B        |     16|  7|   7|  1|  0| 
 |Austin Riley   |3B        |      6|  4|   1|  1|  0| 
-|Corey Seager   |SS        |      5|  2|   2|  1|  0| 
-|Ezequiel Tovar |MI        |      3|  2|   3|  1|  0| 
-|Ryan McMahon   |CI        |      4|  2|   0|  0|  0| 
+|Corey Seager   |SS        |      6|  2|   3|  1|  0| 
+|Ezequiel Tovar |MI        |      4|  3|   3|  1|  1| 
+|Ryan McMahon   |CI        |      6|  3|   0|  0|  0| 
 |Josh Lowe      |OF        |      5|  2|   3|  1|  1| 
-|Juan Soto      |OF        |      4|  1|   3|  1|  0| 
+|Juan Soto      |OF        |      7|  1|   3|  1|  0| 
 |Lars Nootbaar  |OF        |     **| **|  **| **| **| 
-|Sal Frelick    |OF        |      0|  0|   0|  0|  0| 
-|Brandon Lowe   |DH        |      5|  0|   2|  0|  0| 
-|Maikel Garcia  |DH        |      3|  0|   2|  0|  1| 
-|Nolan Gorman   |DH        |      0|  0|   0|  0|  0| 
-|Zack Gelof     |DH        |      4|  1|   3|  1|  0| 
-|Hunter Renfroe |BAT BENCH |      4|  1|   0|  0|  0| 
-|Leody Taveras  |BAT BENCH |      5|  1|   2|  1|  0| 
+|Sal Frelick    |OF        |      2|  1|   3|  0|  0| 
+|Brandon Lowe   |DH        |      9|  1|   6|  1|  0| 
+|Maikel Garcia  |DH        |      4|  0|   2|  0|  1| 
+|Nolan Gorman   |DH        |      1|  0|   0|  0|  0| 
+|Zack Gelof     |DH        |      4|  1|   4|  1|  0| 
+|Hunter Renfroe |BAT BENCH |      5|  1|   0|  0|  0| 
+|Leody Taveras  |BAT BENCH |      6|  2|   2|  1|  0| 
 
 * * *
 
@@ -32,7 +32,7 @@
 |:-----------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
 |George Kirby      |SP          |  1| 5.667|  3|  4.765|      8| 1.412|  9|  0|  0| 
 |Grayson Rodriguez |SP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Justin Verlander  |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Justin Verlander  |SP          |  1| 5.000|  0|  0.000|      4| 0.800|  7|  1|  0| 
 |Lance Lynn        |SP          |  1| 6.000|  3|  4.500|     11| 1.833|  1|  1|  0| 
 |Seth Lugo         |SP          |  1| 6.000|  0|  0.000|      4| 0.667|  4|  1|  0| 
 |Zack Wheeler      |SP          |  1| 7.000|  1|  1.286|      3| 0.429| 10|  1|  0| 
