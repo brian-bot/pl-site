@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Willson Contreras |C         |      4|  0|   0|  0|  0| 
-|Ryan Mountcastle  |1B        |     11|  3|   5|  1|  0| 
-|Andres Gimenez    |2B        |      3|  2|   4|  1|  0| 
-|Rafael Devers     |3B        |      8|  4|   3|  0|  0| 
-|Nico Hoerner      |SS        |      8|  5|   2|  0|  2| 
+|Willson Contreras |C         |      6|  3|   3|  2|  0| 
+|Ryan Mountcastle  |1B        |     13|  3|   5|  1|  0| 
+|Andres Gimenez    |2B        |      3|  3|   4|  1|  1| 
+|Rafael Devers     |3B        |      9|  4|   3|  0|  0| 
+|Nico Hoerner      |SS        |      9|  6|   2|  0|  2| 
 |Tim Anderson      |MI        |      9|  4|   1|  0|  1| 
-|Ke'Bryan Hayes    |CI        |     14|  6|   5|  2|  0| 
-|Brent Rooker      |OF        |      6|  3|   1|  1|  0| 
-|Kyle Tucker       |OF        |     10|  7|   3|  1|  2| 
-|Lane Thomas       |OF        |      7|  2|   0|  0|  2| 
-|Randy Arozarena   |OF        |      9|  6|   1|  1|  3| 
-|Connor Joe        |DH        |     10|  2|   3|  0|  0| 
-|Michael Harris II |DH        |      8|  6|   2|  1|  2| 
+|Ke'Bryan Hayes    |CI        |     16|  7|   7|  3|  0| 
+|Brent Rooker      |OF        |      8|  3|   1|  1|  0| 
+|Kyle Tucker       |OF        |     12|  7|   3|  1|  2| 
+|Lane Thomas       |OF        |      8|  3|   0|  0|  2| 
+|Randy Arozarena   |OF        |     12|  8|   3|  2|  3| 
+|Connor Joe        |DH        |     11|  2|   3|  0|  0| 
+|Michael Harris II |DH        |     11|  6|   2|  1|  3| 
 |Mike Trout        |DH        |     **| **|  **| **| **| 
-|Thairo Estrada    |DH        |      5|  2|   2|  0|  1| 
-|Jon Berti         |BAT BENCH |      2|  0|   0|  0|  0| 
-|Josh Rojas        |BAT BENCH |      8|  4|   3|  1|  2| 
-|Shea Langeliers   |BAT BENCH |      6|  3|   4|  2|  1| 
+|Thairo Estrada    |DH        |      6|  2|   3|  0|  1| 
+|Jon Berti         |BAT BENCH |      4|  0|   0|  0|  0| 
+|Josh Rojas        |BAT BENCH |      9|  4|   3|  1|  2| 
+|Shea Langeliers   |BAT BENCH |      8|  4|   6|  3|  1| 
 
 
 * * *
@@ -39,11 +39,11 @@
 |Taijuan Walker   |SP          |  1| 5.667|  3|  4.765|     10| 1.765|  6|  1|  0| 
 |Carlos Estevez   |RP          |  3| 3.000|  0|  0.000|      2| 0.667|  3|  0|  2| 
 |David Bednar     |RP          |  2| 2.000|  1|  4.500|      2| 1.000|  1|  0|  1| 
-|A.J. Minter      |OP          |  2| 2.000|  1|  4.500|      2| 1.000|  2|  0|  0| 
-|Carlos Hernandez |OP          |  2| 2.667|  0|  0.000|      1| 0.375|  1|  0|  1| 
+|A.J. Minter      |OP          |  3| 3.000|  1|  3.000|      2| 0.667|  3|  0|  0| 
+|Carlos Hernandez |OP          |  3| 3.000|  1|  3.000|      3| 1.000|  1|  0|  1| 
 |Gregory Santos   |OP          |  1| 1.333|  3| 20.250|      5| 3.750|  2|  0|  0| 
-|Kyle Finnegan    |OP          |  2| 2.333|  1|  3.857|      4| 1.714|  2|  0|  2| 
-|Yennier Cano     |OP          |  3| 3.000|  0|  0.000|      1| 0.333|  1|  0|  1| 
+|Kyle Finnegan    |OP          |  3| 3.333|  2|  5.400|      7| 2.100|  3|  0|  3| 
+|Yennier Cano     |OP          |  4| 3.333|  0|  0.000|      1| 0.300|  1|  0|  1| 
 |Adam Ottavino    |PITCH BENCH |  2| 2.000|  0|  0.000|      0| 0.000|  1|  1|  0| 
 |Joe Musgrove     |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Nick Lodolo      |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
