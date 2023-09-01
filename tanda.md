@@ -9,18 +9,18 @@
 |Matt Olson         |1B        |     13|  6|   4|  0|  0| 
 |Matt McLain        |2B        |      8|  7|   5|  2|  3| 
 |Spencer Steer      |3B        |     16|  4|   5|  0|  1| 
-|Fernando Tatis Jr. |SS        |     11|  4|   2|  0|  0| 
-|Jazz Chisholm Jr.  |MI        |      6|  1|   3|  1|  0| 
+|Fernando Tatis Jr. |SS        |     13|  4|   2|  0|  0| 
+|Jazz Chisholm Jr.  |MI        |      8|  2|   6|  2|  0| 
 |Brandon Drury      |CI        |     10|  3|   9|  1|  0| 
 |Jorge Soler        |OF        |      5|  2|   3|  2|  0| 
-|Marcell Ozuna      |OF        |     14|  8|  12|  4|  0| 
+|Marcell Ozuna      |OF        |     16|  9|  11|  4|  0| 
 |Masataka Yoshida   |OF        |      8|  4|   1|  0|  0| 
-|Ronald Acuna Jr.   |OF        |     12|  6|   5|  1|  3| 
+|Ronald Acuna Jr.   |OF        |     16|  7|   9|  2|  4| 
 |Adam Duvall        |DH        |     17|  7|  11|  5|  0| 
 |Daulton Varsho     |DH        |      6|  1|   3|  0|  0| 
 |Esteury Ruiz       |DH        |      5|  3|   1|  0|  4| 
 |Giancarlo Stanton  |DH        |     10|  3|   6|  2|  0| 
-|Bryan De La Cruz   |BAT BENCH |      8|  1|   0|  0|  0| 
+|Bryan De La Cruz   |BAT BENCH |      9|  1|   1|  0|  0| 
 |Harrison Bader     |BAT BENCH |      5|  2|   0|  0|  3| 
 |Jeremy Pena        |BAT BENCH |     18|  7|   4|  0|  1| 
 |Matt Chapman       |BAT BENCH |      5|  0|   1|  0|  0| 

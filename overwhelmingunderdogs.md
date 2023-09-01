@@ -5,12 +5,12 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Sean Murphy      |C         |      7|  3|   3|  0|  0| 
+|Sean Murphy      |C         |      8|  4|   3|  0|  0| 
 |Pete Alonso      |1B        |     10|  1|   1|  0|  0| 
 |Bryson Stott     |2B        |      7|  5|   4|  2|  2| 
 |Alex Bregman     |3B        |     20|  9|   8|  2|  0| 
 |Trea Turner      |SS        |     14| 11|  12|  5|  1| 
-|Anthony Volpe    |MI        |      9|  3|   4|  2|  1| 
+|Anthony Volpe    |MI        |     11|  4|   7|  3|  1| 
 |Nathaniel Lowe   |CI        |     16|  3|   3|  0|  0| 
 |Andrew McCutchen |OF        |      8|  0|   2|  0|  0| 
 |Bryan Reynolds   |OF        |      8|  3|   3|  1|  1| 

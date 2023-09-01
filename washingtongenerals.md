@@ -17,9 +17,9 @@
 |Lane Thomas       |OF        |      8|  3|   0|  0|  2| 
 |Randy Arozarena   |OF        |     15|  8|   5|  2|  5| 
 |Connor Joe        |DH        |     11|  2|   3|  0|  0| 
-|Michael Harris II |DH        |     12|  6|   3|  1|  3| 
+|Michael Harris II |DH        |     14|  7|   5|  2|  3| 
 |Mike Trout        |DH        |     **| **|  **| **| **| 
-|Thairo Estrada    |DH        |      7|  2|   3|  0|  1| 
+|Thairo Estrada    |DH        |      9|  3|   3|  0|  1| 
 |Jon Berti         |BAT BENCH |      4|  0|   0|  0|  0| 
 |Josh Rojas        |BAT BENCH |      9|  4|   3|  1|  2| 
 |Shea Langeliers   |BAT BENCH |      8|  4|   6|  3|  1| 
@@ -39,7 +39,7 @@
 |Taijuan Walker   |SP          |  1| 5.667|  3|  4.765|     10| 1.765|  6|  1|  0| 
 |Carlos Estevez   |RP          |  4| 4.000|  0|  0.000|      2| 0.500|  5|  0|  3| 
 |David Bednar     |RP          |  3| 3.000|  1|  3.000|      3| 1.000|  2|  0|  2| 
-|A.J. Minter      |OP          |  3| 3.000|  1|  3.000|      2| 0.667|  3|  0|  0| 
+|A.J. Minter      |OP          |  4| 3.667|  2|  4.909|      5| 1.364|  4|  0|  0| 
 |Carlos Hernandez |OP          |  3| 3.000|  1|  3.000|      3| 1.000|  1|  0|  1| 
 |Gregory Santos   |OP          |  2| 2.333|  3| 11.571|      7| 3.000|  3|  0|  0| 
 |Kyle Finnegan    |OP          |  3| 3.333|  2|  5.400|      7| 2.100|  3|  0|  3| 

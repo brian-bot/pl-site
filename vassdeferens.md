@@ -6,7 +6,7 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Adley Rutschman   |C         |     10|  4|   3|  0|  0| 
-|Spencer Torkelson |1B        |      6|  3|   1|  1|  0| 
+|Spencer Torkelson |1B        |      7|  3|   1|  1|  0| 
 |Jake Cronenworth  |2B        |      2|  0|   0|  0|  0| 
 |Bobby Witt Jr.    |3B        |      9|  3|   2|  2|  1| 
 |Carlos Correa     |SS        |      9|  6|   3|  1|  0| 
@@ -17,10 +17,10 @@
 |MJ Melendez       |OF        |      4|  2|   0|  0|  0| 
 |TJ Friedl         |OF        |     10|  3|   1|  0|  1| 
 |Aaron Judge       |DH        |     11|  8|   8|  5|  0| 
-|CJ Abrams         |DH        |     10|  5|   1|  1|  5| 
-|Riley Greene      |DH        |      5|  1|   1|  0|  0| 
+|CJ Abrams         |DH        |     10|  5|   2|  1|  5| 
+|Riley Greene      |DH        |      7|  2|   2|  0|  0| 
 |Triston Casas     |DH        |     17|  4|   5|  1|  0| 
-|Casey Schmitt     |BAT BENCH |      5|  3|   1|  1|  0| 
+|Casey Schmitt     |BAT BENCH |      5|  3|   2|  1|  0| 
 |Emmanuel Rivera   |BAT BENCH |     **| **|  **| **| **| 
 |Jordan Westburg   |BAT BENCH |      7|  3|   1|  0|  1| 
 |Oneil Cruz        |BAT BENCH |     **| **|  **| **| **| 

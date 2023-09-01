@@ -9,16 +9,16 @@
 |Vladimir Guerrero Jr. |1B        |      9|  5|   7|  2|  1| 
 |Marcus Semien         |2B        |     10|  3|   2|  1|  0| 
 |Justin Turner         |3B        |     12|  6|   6|  2|  0| 
-|Xander Bogaerts       |SS        |      7|  2|   3|  2|  0| 
+|Xander Bogaerts       |SS        |      8|  2|   3|  2|  0| 
 |J.P. Crawford         |MI        |     16| 10|   5|  2|  1| 
-|Luis Arraez           |CI        |      5|  2|   0|  0|  1| 
+|Luis Arraez           |CI        |      7|  3|   0|  0|  1| 
 |Anthony Santander     |OF        |     15|  9|  14|  5|  0| 
 |Ian Happ              |OF        |     14|  6|   7|  2|  1| 
 |Nick Castellanos      |OF        |     12|  3|   5|  1|  0| 
 |Steven Kwan           |OF        |      9|  1|   2|  0|  0| 
 |Austin Hays           |DH        |     10|  5|   2|  1|  1| 
 |Jose Altuve           |DH        |     15| 11|   5|  1|  0| 
-|Josh Bell             |DH        |      4|  1|   1|  1|  0| 
+|Josh Bell             |DH        |      7|  2|   1|  1|  0| 
 |Manny Machado         |DH        |     10|  2|   4|  1|  0| 
 |Byron Buxton          |BAT BENCH |     **| **|  **| **| **| 
 |Harold Ramirez        |BAT BENCH |      4|  2|   4|  0|  1| 
@@ -37,7 +37,7 @@
 |Lucas Giolito   |SP          |  1|  5.667|  5|  7.941|      8| 1.412|  6|  0|  0| 
 |Luis Castillo   |SP          |  1|  7.000|  0|  0.000|      2| 0.286|  6|  1|  0| 
 |Pablo Lopez     |SP          |  2| 11.000|  8|  6.545|     22| 2.000|  9|  0|  0| 
-|Clarke Schmidt  |RP          |  1|  6.667|  1|  1.350|      6| 0.900|  5|  0|  0| 
+|Clarke Schmidt  |RP          |  2| 11.333|  4|  3.176|     15| 1.324| 12|  0|  0| 
 |Dylan Floro     |RP          |  2|  1.667|  0|  0.000|      2| 1.200|  2|  1|  0| 
 |Alex Cobb       |OP          |  2| 14.000|  3|  1.929|      7| 0.500| 12|  1|  0| 
 |Andres Munoz    |OP          |  4|  4.000|  1|  2.250|      5| 1.250|  8|  0|  3| 

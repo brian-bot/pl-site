@@ -10,7 +10,7 @@
 |Whit Merrifield              |2B        |      6|  3|   1|  0|  1| 
 |Nolan Arenado                |3B        |      4|  2|   2|  0|  0| 
 |Dansby Swanson               |SS        |      9|  4|   2|  0|  2| 
-|Ha-Seong Kim                 |MI        |     12|  5|   2|  0|  1| 
+|Ha-Seong Kim                 |MI        |     13|  5|   3|  0|  1| 
 |Alec Bohm                    |CI        |     11|  7|   5|  2|  0| 
 |Alex Verdugo                 |OF        |     14|  6|   5|  3|  0| 
 |Lourdes Gurriel Jr.          |OF        |      9|  4|   2|  1|  0| 

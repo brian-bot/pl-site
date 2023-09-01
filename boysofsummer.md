@@ -6,15 +6,15 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |William Contreras |C         |     15|  6|   8|  2|  1| 
-|Freddie Freeman   |1B        |     17|  9|   5|  2|  0| 
+|Freddie Freeman   |1B        |     20|  9|   5|  2|  0| 
 |Edouard Julien    |2B        |      9|  5|   3|  1|  0| 
 |Jose Ramirez      |3B        |     13|  6|   4|  3|  4| 
 |Bo Bichette       |SS        |      4|  1|   1|  0|  0| 
-|Orlando Arcia     |MI        |      9|  3|   5|  2|  0| 
+|Orlando Arcia     |MI        |     10|  4|   5|  2|  0| 
 |Gunnar Henderson  |CI        |     12|  7|   4|  1|  2| 
 |Chas McCormick    |OF        |     11|  4|   5|  0|  0| 
 |Jarren Duran      |OF        |     **| **|  **| **| **| 
-|Kerry Carpenter   |OF        |      7|  2|   4|  1|  1| 
+|Kerry Carpenter   |OF        |      9|  3|   5|  1|  2| 
 |Luis Robert Jr.   |OF        |     10|  3|   3|  2|  1| 
 |Eloy Jimenez      |DH        |     12|  5|   2|  1|  0| 
 |Ezequiel Duran    |DH        |      7|  2|   1|  0|  1| 
