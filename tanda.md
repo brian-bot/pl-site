@@ -6,25 +6,25 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Salvador Perez     |C         |      6|  3|   4|  2|  0| 
-|Matt Olson         |1B        |     13|  6|   4|  0|  0| 
+|Matt Olson         |1B        |     14|  6|   4|  0|  0| 
 |Matt McLain        |2B        |      8|  7|   5|  2|  3| 
-|Spencer Steer      |3B        |     19|  4|   5|  0|  1| 
-|Fernando Tatis Jr. |SS        |     15|  6|   4|  1|  0| 
-|Jazz Chisholm Jr.  |MI        |     10|  3|   8|  2|  0| 
+|Spencer Steer      |3B        |     22|  4|   5|  0|  1| 
+|Fernando Tatis Jr. |SS        |     16|  6|   4|  1|  0| 
+|Jazz Chisholm Jr.  |MI        |     11|  4|   8|  2|  0| 
 |Brandon Drury      |CI        |     12|  3|  10|  1|  0| 
 |Jorge Soler        |OF        |      5|  2|   3|  2|  0| 
-|Marcell Ozuna      |OF        |     19| 11|  13|  5|  0| 
-|Masataka Yoshida   |OF        |      8|  4|   1|  0|  0| 
-|Ronald Acuna Jr.   |OF        |     19|  9|  10|  3|  5| 
-|Adam Duvall        |DH        |     17|  7|  11|  5|  0| 
-|Daulton Varsho     |DH        |      9|  2|   3|  0|  0| 
+|Marcell Ozuna      |OF        |     20| 11|  13|  5|  0| 
+|Masataka Yoshida   |OF        |     10|  4|   2|  0|  0| 
+|Ronald Acuna Jr.   |OF        |     20| 10|  11|  4|  5| 
+|Adam Duvall        |DH        |     19|  8|  11|  5|  0| 
+|Daulton Varsho     |DH        |     12|  2|   4|  0|  0| 
 |Esteury Ruiz       |DH        |      8|  5|   3|  1|  5| 
-|Giancarlo Stanton  |DH        |     12|  5|   8|  3|  0| 
-|Bryan De La Cruz   |BAT BENCH |     10|  1|   2|  0|  0| 
-|Harrison Bader     |BAT BENCH |      5|  2|   0|  0|  3| 
+|Giancarlo Stanton  |DH        |     13|  6|   8|  3|  0| 
+|Bryan De La Cruz   |BAT BENCH |     14|  4|   5|  1|  0| 
+|Harrison Bader     |BAT BENCH |      5|  3|   0|  0|  4| 
 |Jeremy Pena        |BAT BENCH |     19|  7|   4|  0|  1| 
 |Matt Chapman       |BAT BENCH |      5|  0|   1|  0|  0| 
-|Trevor Story       |BAT BENCH |      6|  2|   3|  1|  2| 
+|Trevor Story       |BAT BENCH |      7|  3|   5|  1|  2| 
 
 
 * * *

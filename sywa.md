@@ -5,23 +5,23 @@
  
 |players                      |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------------------|:---------|------:|--:|---:|--:|--:| 
-|Cal Raleigh                  |C         |     12|  4|   2|  1|  0| 
-|Christian Walker             |1B        |     11|  2|   5|  1|  0| 
-|Whit Merrifield              |2B        |      9|  4|   2|  0|  2| 
-|Nolan Arenado                |3B        |      4|  2|   2|  0|  0| 
-|Dansby Swanson               |SS        |     11|  4|   2|  0|  2| 
+|Cal Raleigh                  |C         |     13|  4|   2|  1|  0| 
+|Christian Walker             |1B        |     12|  2|   5|  1|  0| 
+|Whit Merrifield              |2B        |     12|  5|   3|  0|  2| 
+|Nolan Arenado                |3B        |      5|  3|   2|  0|  0| 
+|Dansby Swanson               |SS        |     12|  4|   2|  0|  2| 
 |Ha-Seong Kim                 |MI        |     14|  6|   3|  0|  1| 
-|Alec Bohm                    |CI        |     12|  8|   5|  2|  0| 
-|Alex Verdugo                 |OF        |     15|  7|   7|  4|  0| 
+|Alec Bohm                    |CI        |     13|  8|   5|  2|  0| 
+|Alex Verdugo                 |OF        |     18|  8|   7|  4|  0| 
 |Lourdes Gurriel Jr.          |OF        |     11|  5|   4|  2|  0| 
-|Teoscar Hernandez            |OF        |     14|  6|  12|  4|  1| 
-|Yordan Alvarez               |OF        |     22|  4|   9|  2|  0| 
-|Christian Encarnacion-Strand |DH        |     14|  2|   4|  1|  0| 
-|Jeff McNeil                  |DH        |      8|  3|   0|  0|  1| 
-|Royce Lewis                  |DH        |     14|  8|  12|  5|  1| 
-|Ty France                    |DH        |     10|  0|   0|  0|  0| 
+|Teoscar Hernandez            |OF        |     16|  7|  15|  5|  1| 
+|Yordan Alvarez               |OF        |     24|  4|   9|  2|  0| 
+|Christian Encarnacion-Strand |DH        |     15|  2|   4|  1|  0| 
+|Jeff McNeil                  |DH        |     11|  3|   1|  0|  1| 
+|Royce Lewis                  |DH        |     15|  9|  12|  5|  1| 
+|Ty France                    |DH        |     12|  0|   0|  0|  0| 
 |C.J. Cron                    |BAT BENCH |     **| **|  **| **| **| 
-|Jake Fraley                  |BAT BENCH |      3|  1|   0|  0|  0| 
+|Jake Fraley                  |BAT BENCH |      5|  1|   0|  0|  0| 
 |Josh Naylor                  |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -43,7 +43,7 @@
 |Gavin Williams    |OP          |  2|  5.333|  5|  8.438|     11| 2.062|  5|  0|  0| 
 |MacKenzie Gore    |OP          |  2|  9.000|  3|  3.000|     13| 1.444|  6|  1|  0| 
 |Merrill Kelly     |OP          |  2| 12.000|  7|  5.250|     16| 1.333| 13|  0|  0| 
-|Robert Stephenson |OP          |  3|  3.000|  0|  0.000|      1| 0.333|  4|  0|  0| 
+|Robert Stephenson |OP          |  4|  4.000|  0|  0.000|      2| 0.500|  7|  0|  0| 
 |Tanner Scott      |OP          |  4|  5.667|  0|  0.000|      4| 0.706|  3|  1|  1| 
 |Alek Manoah       |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Kevin Ginkel      |PITCH BENCH |  3|  3.000|  2|  6.000|      4| 1.333|  5|  0|  1| 

@@ -5,25 +5,25 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Mitch Garver      |C         |     11|  5|   3|  3|  0| 
-|Yandy Diaz        |1B        |      9|  2|   4|  1|  0| 
-|Isaac Paredes     |2B        |     10|  5|   6|  3|  0| 
-|Max Muncy         |3B        |     18|  8|  13|  3|  0| 
-|Willy Adames      |SS        |     11|  6|   8|  2|  0| 
+|Mitch Garver      |C         |     13|  6|   3|  3|  0| 
+|Yandy Diaz        |1B        |     10|  3|   5|  2|  0| 
+|Isaac Paredes     |2B        |     11|  5|   6|  3|  0| 
+|Max Muncy         |3B        |     18|  8|  14|  3|  0| 
+|Willy Adames      |SS        |     12|  7|   8|  2|  0| 
 |Gleyber Torres    |MI        |     17|  8|   7|  4|  1| 
-|Carlos Santana    |CI        |     15|  6|   2|  0|  0| 
-|Adolis Garcia     |OF        |      8|  4|   4|  1|  0| 
+|Carlos Santana    |CI        |     17|  7|   4|  1|  0| 
+|Adolis Garcia     |OF        |     10|  5|   6|  2|  0| 
 |Bryce Harper      |OF        |     18|  8|  11|  4|  0| 
 |Joey Meneses      |OF        |     13|  3|   7|  0|  0| 
-|Kyle Schwarber    |OF        |     14|  8|   6|  5|  0| 
-|Cedric Mullins    |DH        |      8|  5|   5|  2|  1| 
-|Jose Siri         |DH        |      5|  3|   2|  0|  2| 
-|Tyler O'Neill     |DH        |      5|  0|   0|  0|  1| 
-|Yainer Diaz       |DH        |     12|  4|   4|  1|  0| 
-|Christopher Morel |BAT BENCH |      4|  0|   0|  0|  0| 
-|Jack Suwinski     |BAT BENCH |     10|  4|   2|  1|  1| 
+|Kyle Schwarber    |OF        |     17|  9|   8|  6|  0| 
+|Cedric Mullins    |DH        |     10|  6|   8|  3|  1| 
+|Jose Siri         |DH        |      6|  4|   3|  1|  2| 
+|Tyler O'Neill     |DH        |      6|  1|   3|  1|  1| 
+|Yainer Diaz       |DH        |     14|  5|   6|  2|  0| 
+|Christopher Morel |BAT BENCH |      5|  0|   0|  0|  0| 
+|Jack Suwinski     |BAT BENCH |     11|  4|   2|  1|  1| 
 |Joey Votto        |BAT BENCH |      0|  0|   1|  0|  0| 
-|Jonah Heim        |BAT BENCH |      5|  1|   6|  1|  0| 
+|Jonah Heim        |BAT BENCH |      6|  1|   7|  1|  0| 
 |Mike Tauchman     |BAT BENCH |      9|  6|   0|  0|  0| 
 
 
@@ -45,8 +45,8 @@
 |Bryan Woo       |OP          |  1|  6.000|  0|  0.000|      4| 0.667|  5|  1|  0| 
 |Bryce Miller    |OP          |  2| 10.000|  6|  5.400|     14| 1.400| 11|  0|  0| 
 |Eury Perez      |OP          |  2| 10.667|  3|  2.531|     12| 1.125| 12|  0|  0| 
-|Evan Phillips   |OP          |  3|  3.000|  0|  0.000|      2| 0.667|  3|  0|  2| 
-|Pete Fairbanks  |OP          |  4|  4.000|  0|  0.000|      2| 0.500|  8|  1|  3| 
+|Evan Phillips   |OP          |  4|  4.667|  0|  0.000|      2| 0.429|  4|  0|  2| 
+|Pete Fairbanks  |OP          |  5|  5.000|  1|  1.800|      5| 1.000| 10|  1|  3| 
 |Brandon Pfaadt  |PITCH BENCH |  2|  9.333|  7|  6.750|     14| 1.500|  9|  1|  0| 
 |Erik Swanson    |PITCH BENCH |  2|  1.333|  0|  0.000|      1| 0.750|  0|  0|  0| 
 
