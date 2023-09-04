@@ -6,23 +6,23 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Sean Murphy      |C         |      9|  5|   3|  0|  0| 
-|Pete Alonso      |1B        |     12|  2|   1|  0|  0| 
+|Pete Alonso      |1B        |     15|  4|   5|  2|  0| 
 |Bryson Stott     |2B        |      7|  5|   4|  2|  2| 
-|Alex Bregman     |3B        |     22| 10|   8|  2|  0| 
-|Trea Turner      |SS        |     17| 14|  16|  7|  3| 
-|Anthony Volpe    |MI        |     14|  5|   7|  3|  2| 
-|Nathaniel Lowe   |CI        |     18|  4|   3|  0|  0| 
-|Andrew McCutchen |OF        |     13|  3|   4|  0|  0| 
-|Bryan Reynolds   |OF        |     10|  3|   5|  1|  1| 
+|Alex Bregman     |3B        |     24| 11|   8|  2|  0| 
+|Trea Turner      |SS        |     19| 14|  17|  7|  3| 
+|Anthony Volpe    |MI        |     15|  6|   7|  3|  2| 
+|Nathaniel Lowe   |CI        |     21|  5|   3|  0|  1| 
+|Andrew McCutchen |OF        |     16|  3|   4|  0|  1| 
+|Bryan Reynolds   |OF        |     11|  5|   5|  1|  2| 
 |Christian Yelich |OF        |     12|  8|   2|  1|  2| 
 |Julio Rodriguez  |OF        |     17|  7|   9|  3|  3| 
-|Brandon Nimmo    |DH        |      9|  2|   4|  2|  0| 
+|Brandon Nimmo    |DH        |     12|  2|   4|  2|  0| 
 |Brice Turang     |DH        |      9|  3|   3|  0|  1| 
-|Jorge Polanco    |DH        |     19|  6|   9|  3|  0| 
-|Matt Wallner     |DH        |     14|  8|   4|  1|  0| 
+|Jorge Polanco    |DH        |     22|  7|   9|  3|  1| 
+|Matt Wallner     |DH        |     16|  8|   4|  1|  0| 
 |J.D. Martinez    |BAT BENCH |     **| **|  **| **| **| 
 |Josh Jung        |BAT BENCH |     **| **|  **| **| **| 
-|Tommy Edman      |BAT BENCH |     11|  3|   3|  1|  3| 
+|Tommy Edman      |BAT BENCH |     14|  5|   3|  1|  5| 
 
 * * *
 
@@ -42,9 +42,9 @@
 |Aroldis Chapman   |OP          |  5|  3.667|  4|  9.818|     10| 2.727|  6|  0|  1| 
 |Carlos Rodon      |OP          |  2|  9.667|  4|  3.724|     10| 1.034| 11|  1|  0| 
 |Justin Steele     |OP          |  2| 12.000|  2|  1.500|     15| 1.250| 14|  1|  0| 
-|Wade Miley        |OP          |  1|  6.000|  2|  3.000|      4| 0.667|  1|  1|  0| 
-|Will Smith        |OP          |  5|  5.333|  1|  1.688|      3| 0.562|  5|  0|  0| 
-|Giovanny Gallegos |PITCH BENCH |  2|  1.333|  4| 27.000|      5| 3.750|  2|  0|  0| 
+|Wade Miley        |OP          |  2| 12.333|  6|  4.378|     11| 0.892|  5|  1|  0| 
+|Will Smith        |OP          |  6|  6.000|  1|  1.500|      4| 0.667|  5|  0|  0| 
+|Giovanny Gallegos |PITCH BENCH |  3|  2.333|  4| 15.429|      5| 2.143|  3|  0|  1| 
 |Griffin Canning   |PITCH BENCH |  2| 13.000|  3|  2.077|     10| 0.769| 16|  0|  0| 
 |JP Sears          |PITCH BENCH |  2| 12.000|  6|  4.500|     17| 1.417| 11|  1|  0| 
 |Marcus Stroman    |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
