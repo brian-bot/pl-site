@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras |C         |     20| 10|   9|  3|  1| 
+|William Contreras |C         |     21| 10|   9|  3|  1| 
 |Freddie Freeman   |1B        |     23|  9|   5|  2|  0| 
-|Edouard Julien    |2B        |     12|  6|   3|  1|  0| 
-|Jose Ramirez      |3B        |     15|  6|   4|  3|  4| 
+|Edouard Julien    |2B        |     15|  9|   3|  1|  0| 
+|Jose Ramirez      |3B        |     16|  6|   5|  3|  4| 
 |Bo Bichette       |SS        |      4|  1|   1|  0|  0| 
 |Orlando Arcia     |MI        |     13|  5|   8|  3|  0| 
-|Gunnar Henderson  |CI        |     16| 10|   6|  1|  2| 
-|Chas McCormick    |OF        |     12|  4|   5|  0|  0| 
+|Gunnar Henderson  |CI        |     18| 11|   9|  2|  2| 
+|Chas McCormick    |OF        |     15|  5|   6|  0|  0| 
 |Jarren Duran      |OF        |     **| **|  **| **| **| 
 |Kerry Carpenter   |OF        |     15|  4|   6|  1|  3| 
 |Luis Robert Jr.   |OF        |     11|  3|   4|  2|  1| 
 |Eloy Jimenez      |DH        |     15|  6|   3|  1|  0| 
 |Ezequiel Duran    |DH        |      7|  2|   1|  0|  1| 
 |Masyn Winn        |DH        |      5|  4|   1|  0|  1| 
-|Seiya Suzuki      |DH        |     19|  7|   5|  1|  0| 
+|Seiya Suzuki      |DH        |     21|  9|   8|  2|  0| 
 |Jonathan India    |BAT BENCH |     **| **|  **| **| **| 
 |Jordan Walker     |BAT BENCH |     17|  4|   7|  3|  0| 
-|Mickey Moniak     |BAT BENCH |     12|  3|   2|  1|  0| 
+|Mickey Moniak     |BAT BENCH |     13|  3|   3|  1|  0| 
 |Will Benson       |BAT BENCH |     11|  7|   5|  1|  1| 
 
 

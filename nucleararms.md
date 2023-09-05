@@ -13,13 +13,13 @@
 |Oswald Peraza     |MI        |      8|  2|   2|  0|  0| 
 |Jake Burger       |CI        |     11|  7|   4|  3|  0| 
 |Andrew Benintendi |OF        |     13|  6|   6|  2|  0| 
-|George Springer   |OF        |     20|  9|   5|  2|  3| 
+|George Springer   |OF        |     22| 10|   6|  2|  3| 
 |James Outman      |OF        |     21|  8|   8|  2|  0| 
-|Nolan Jones       |OF        |     18|  7|   7|  2|  3| 
+|Nolan Jones       |OF        |     19|  8|   7|  2|  3| 
 |Andrew Vaughn     |DH        |     10|  3|   5|  1|  0| 
 |Jeimer Candelario |DH        |      9|  5|   8|  3|  0| 
 |Shohei Ohtani     |DH        |     24|  7|   6|  1|  3| 
-|Tommy Pham        |DH        |     10|  2|   2|  0|  2| 
+|Tommy Pham        |DH        |     11|  2|   2|  0|  2| 
 |Everson Pereira   |BAT BENCH |     10|  2|   5|  0|  2| 
 |Francisco Alvarez |BAT BENCH |      7|  0|   2|  0|  0| 
 |Ozzie Albies      |BAT BENCH |     10|  1|   0|  0|  0| 
@@ -36,7 +36,7 @@
 |:-----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Jesus Luzardo     |SP          |  1|  6.000|  0|  0.000|      3| 0.500|  8|  0|  0| 
 |Jordan Montgomery |SP          |  2|  9.000|  9|  9.000|     15| 1.667|  4|  0|  0| 
-|Jose Berrios      |SP          |  2| 12.000| 10|  7.500|     17| 1.417|  6|  0|  0| 
+|Jose Berrios      |SP          |  3| 18.000| 12|  6.000|     22| 1.222| 13|  0|  0| 
 |Michael Wacha     |SP          |  2| 11.333|  6|  4.765|     17| 1.500| 11|  1|  0| 
 |Shohei Ohtani     |SP          |  1|  1.333|  0|  0.000|      1| 0.750|  2|  0|  0| 
 |Tyler Glasnow     |SP          |  2| 13.000|  3|  2.077|     10| 0.769| 10|  1|  0| 

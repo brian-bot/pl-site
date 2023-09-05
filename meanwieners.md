@@ -5,26 +5,26 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Mitch Garver      |C         |     17|  8|   7|  5|  0| 
+|Mitch Garver      |C         |     20|  9|   9|  6|  0| 
 |Yandy Diaz        |1B        |     12|  4|   5|  2|  0| 
 |Isaac Paredes     |2B        |     12|  5|   7|  3|  0| 
 |Max Muncy         |3B        |     19|  8|  14|  3|  0| 
-|Willy Adames      |SS        |     13|  7|   8|  2|  0| 
+|Willy Adames      |SS        |     15|  8|   8|  2|  0| 
 |Gleyber Torres    |MI        |     19|  9|   8|  5|  1| 
 |Carlos Santana    |CI        |     18|  7|   4|  1|  0| 
-|Adolis Garcia     |OF        |     11|  6|   7|  3|  0| 
-|Bryce Harper      |OF        |     18|  8|  11|  4|  0| 
+|Adolis Garcia     |OF        |     12|  7|   7|  3|  0| 
+|Bryce Harper      |OF        |     19|  9|  11|  4|  0| 
 |Joey Meneses      |OF        |     13|  3|   7|  0|  0| 
-|Kyle Schwarber    |OF        |     20| 10|   8|  6|  0| 
+|Kyle Schwarber    |OF        |     25| 13|   9|  7|  0| 
 |Cedric Mullins    |DH        |     13|  7|   9|  3|  1| 
 |Jose Siri         |DH        |      7|  5|   3|  1|  3| 
 |Tyler O'Neill     |DH        |      6|  1|   3|  1|  1| 
-|Yainer Diaz       |DH        |     15|  5|   6|  2|  0| 
+|Yainer Diaz       |DH        |     16|  7|   9|  3|  0| 
 |Christopher Morel |BAT BENCH |      5|  0|   0|  0|  0| 
-|Jack Suwinski     |BAT BENCH |     11|  4|   2|  1|  1| 
+|Jack Suwinski     |BAT BENCH |     13|  5|   4|  2|  1| 
 |Joey Votto        |BAT BENCH |      0|  0|   1|  0|  0| 
-|Jonah Heim        |BAT BENCH |      8|  1|   7|  1|  0| 
-|Mike Tauchman     |BAT BENCH |     13|  9|   3|  0|  1| 
+|Jonah Heim        |BAT BENCH |      9|  1|   7|  1|  0| 
+|Mike Tauchman     |BAT BENCH |     14| 10|   3|  0|  1| 
 
 
 * * *
@@ -41,8 +41,8 @@
 |Spencer Strider |SP          |  2| 13.000|  5|  3.462|     10| 0.769| 18|  2|  0| 
 |Zach Eflin      |SP          |  2| 12.333|  2|  1.459|     12| 0.973| 15|  0|  0| 
 |Adbert Alzolay  |RP          |  6|  5.333|  2|  3.375|      6| 1.125|  6|  1|  4| 
-|Paul Sewald     |RP          |  3|  2.667|  2|  6.750|      5| 1.875|  4|  0|  2| 
-|Bryan Woo       |OP          |  1|  6.000|  0|  0.000|      4| 0.667|  5|  1|  0| 
+|Paul Sewald     |RP          |  4|  3.667|  3|  7.364|      7| 1.909|  4|  0|  3| 
+|Bryan Woo       |OP          |  2| 11.000|  5|  4.091|     11| 1.000|  5|  1|  0| 
 |Bryce Miller    |OP          |  2| 10.000|  6|  5.400|     14| 1.400| 11|  0|  0| 
 |Eury Perez      |OP          |  2| 10.667|  3|  2.531|     12| 1.125| 12|  0|  0| 
 |Evan Phillips   |OP          |  4|  4.667|  0|  0.000|      2| 0.429|  4|  0|  2| 
