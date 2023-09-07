@@ -5,26 +5,26 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman   |C         |     19|  6|   8|  1|  0| 
-|Spencer Torkelson |1B        |     15|  7|   4|  2|  0| 
+|Adley Rutschman   |C         |     20|  6|   8|  1|  0| 
+|Spencer Torkelson |1B        |     17|  8|   4|  2|  0| 
 |Jake Cronenworth  |2B        |      2|  0|   0|  0|  0| 
 |Bobby Witt Jr.    |3B        |     14|  6|   5|  3|  2| 
 |Carlos Correa     |SS        |     20| 10|   8|  2|  0| 
-|Elly De La Cruz   |MI        |     20| 10|   9|  1|  5| 
+|Elly De La Cruz   |MI        |     21| 11|   9|  1|  6| 
 |Ryan O'Hearn      |CI        |     13|  6|  10|  1|  0| 
-|Corbin Carroll    |OF        |     21| 11|   6|  3|  3| 
+|Corbin Carroll    |OF        |     23| 13|   6|  3|  3| 
 |Max Kepler        |OF        |     24|  5|   4|  1|  0| 
-|MJ Melendez       |OF        |     15|  5|   4|  2|  0| 
-|TJ Friedl         |OF        |     19|  7|   3|  1|  1| 
-|Aaron Judge       |DH        |     19| 13|  10|  7|  0| 
-|CJ Abrams         |DH        |     12|  7|   3|  2|  5| 
+|MJ Melendez       |OF        |     16|  5|   4|  2|  0| 
+|TJ Friedl         |OF        |     21|  8|   4|  1|  1| 
+|Aaron Judge       |DH        |     22| 14|  10|  7|  0| 
+|CJ Abrams         |DH        |     14|  7|   4|  2|  7| 
 |Riley Greene      |DH        |      9|  2|   4|  0|  1| 
-|Triston Casas     |DH        |     27|  9|  12|  3|  0| 
-|Casey Schmitt     |BAT BENCH |      9|  4|   2|  1|  0| 
+|Triston Casas     |DH        |     28|  9|  12|  3|  0| 
+|Casey Schmitt     |BAT BENCH |     11|  5|   3|  1|  0| 
 |Emmanuel Rivera   |BAT BENCH |      2|  0|   1|  0|  0| 
 |Jordan Westburg   |BAT BENCH |     12|  4|   3|  0|  1| 
 |Oneil Cruz        |BAT BENCH |     **| **|  **| **| **| 
-|Oscar Colas       |BAT BENCH |     12|  6|   3|  1|  0| 
+|Oscar Colas       |BAT BENCH |     13|  7|   4|  2|  0| 
 
 
 * * *
@@ -46,7 +46,7 @@
 |Kenta Maeda      |OP          |  3| 14.000| 12|  7.714|     25| 1.786| 12|  0|  0| 
 |Kutter Crawford  |OP          |  3| 11.333| 13| 10.324|     20| 1.765| 13|  0|  0| 
 |Reese Olson      |OP          |  2| 11.333|  1|  0.794|     11| 0.971| 11|  1|  0| 
-|Trevor May       |OP          |  4|  3.333|  0|  0.000|      5| 1.500|  4|  0|  4| 
+|Trevor May       |OP          |  5|  4.333|  0|  0.000|      6| 1.385|  4|  0|  5| 
 |Ben Lively       |PITCH BENCH |  1|  5.667|  3|  4.765|      6| 1.059|  5|  0|  0| 
 |Garrett Whitlock |PITCH BENCH |  3|  5.667|  2|  3.176|     14| 2.471|  6|  0|  0| 
 
