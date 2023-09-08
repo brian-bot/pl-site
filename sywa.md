@@ -5,16 +5,16 @@
  
 |players                      |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------------------|:---------|------:|--:|---:|--:|--:| 
-|Cal Raleigh                  |C         |     22|  7|   3|  2|  0| 
-|Christian Walker             |1B        |     18|  6|   7|  2|  0| 
+|Cal Raleigh                  |C         |     23|  7|   3|  2|  0| 
+|Christian Walker             |1B        |     19|  6|   7|  2|  0| 
 |Whit Merrifield              |2B        |     14|  5|   5|  0|  2| 
-|Nolan Arenado                |3B        |     10|  6|   2|  0|  1| 
-|Dansby Swanson               |SS        |     20|  9|   6|  0|  2| 
+|Nolan Arenado                |3B        |     11|  6|   2|  0|  1| 
+|Dansby Swanson               |SS        |     21|  9|   7|  0|  2| 
 |Ha-Seong Kim                 |MI        |     19|  6|   6|  0|  3| 
 |Alec Bohm                    |CI        |     18|  9|   9|  3|  0| 
 |Alex Verdugo                 |OF        |     18|  8|   7|  4|  0| 
 |Lourdes Gurriel Jr.          |OF        |     18|  8|   7|  4|  0| 
-|Teoscar Hernandez            |OF        |     24|  8|  17|  6|  1| 
+|Teoscar Hernandez            |OF        |     26|  8|  17|  6|  1| 
 |Yordan Alvarez               |OF        |     34|  8|  13|  4|  0| 
 |Christian Encarnacion-Strand |DH        |     20|  4|   7|  2|  0| 
 |Jeff McNeil                  |DH        |     13|  5|   2|  1|  1| 
@@ -22,7 +22,7 @@
 |Ty France                    |DH        |     19|  3|   2|  0|  0| 
 |C.J. Cron                    |BAT BENCH |     **| **|  **| **| **| 
 |Jake Fraley                  |BAT BENCH |     10|  1|   1|  0|  0| 
-|Josh Naylor                  |BAT BENCH |      3|  0|   1|  0|  0| 
+|Josh Naylor                  |BAT BENCH |      6|  0|   2|  0|  1| 
 
 
 * * *
@@ -46,7 +46,7 @@
 |Robert Stephenson |OP          |  6|  6.000|  0| 0.000|      2| 0.333| 10|  0|  0| 
 |Tanner Scott      |OP          |  6|  7.667|  0| 0.000|      6| 0.783|  6|  1|  3| 
 |Alek Manoah       |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
-|Kevin Ginkel      |PITCH BENCH |  4|  4.000|  2| 4.500|      4| 1.000|  7|  0|  1| 
+|Kevin Ginkel      |PITCH BENCH |  5|  5.000|  2| 3.600|      4| 0.800|  8|  0|  1| 
 |Roansy Contreras  |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 |Tony Gonsolin     |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 

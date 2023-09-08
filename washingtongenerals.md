@@ -7,21 +7,21 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Willson Contreras |C         |     13|  7|   7|  4|  0| 
 |Ryan Mountcastle  |1B        |     22|  7|   7|  1|  0| 
-|Andres Gimenez    |2B        |     13|  8|   5|  1|  4| 
+|Andres Gimenez    |2B        |     15|  8|   5|  1|  5| 
 |Rafael Devers     |3B        |     19|  8|   6|  0|  1| 
-|Nico Hoerner      |SS        |     22| 13|   2|  0|  4| 
+|Nico Hoerner      |SS        |     24| 14|   2|  0|  4| 
 |Tim Anderson      |MI        |     15|  8|   3|  0|  2| 
 |Ke'Bryan Hayes    |CI        |     24| 12|   9|  5|  0| 
 |Brent Rooker      |OF        |     16|  6|   3|  2|  0| 
 |Kyle Tucker       |OF        |     24| 12|   5|  1|  2| 
 |Lane Thomas       |OF        |     15|  6|   5|  3|  2| 
-|Randy Arozarena   |OF        |     21|  9|   7|  2|  6| 
+|Randy Arozarena   |OF        |     23|  9|   7|  2|  7| 
 |Connor Joe        |DH        |     15|  4|   8|  1|  0| 
-|Michael Harris II |DH        |     21|  8|   7|  2|  3| 
+|Michael Harris II |DH        |     22|  9|   8|  3|  3| 
 |Mike Trout        |DH        |     **| **|  **| **| **| 
 |Thairo Estrada    |DH        |     16|  4|   3|  0|  1| 
 |Jon Berti         |BAT BENCH |      7|  1|   2|  0|  0| 
-|Josh Rojas        |BAT BENCH |     15|  6|   3|  1|  2| 
+|Josh Rojas        |BAT BENCH |     16|  6|   3|  1|  2| 
 |Shea Langeliers   |BAT BENCH |     10|  6|   8|  3|  1| 
 
 
@@ -39,7 +39,7 @@
 |Taijuan Walker   |SP          |  2| 10.667|  7| 5.906|     18| 1.687| 10|  2|  0| 
 |Carlos Estevez   |RP          |  6|  6.000|  2| 3.000|      6| 1.000|  7|  0|  3| 
 |David Bednar     |RP          |  7|  7.000|  1| 1.286|      5| 0.714|  5|  0|  6| 
-|A.J. Minter      |OP          |  5|  4.667|  2| 3.857|      7| 1.500|  6|  0|  0| 
+|A.J. Minter      |OP          |  6|  5.667|  2| 3.176|      7| 1.235|  8|  0|  0| 
 |Carlos Hernandez |OP          |  4|  4.000|  2| 4.500|      5| 1.250|  2|  0|  1| 
 |Gregory Santos   |OP          |  5|  4.667|  3| 5.786|     10| 2.143|  5|  0|  0| 
 |Kyle Finnegan    |OP          |  6|  7.333|  4| 4.909|     12| 1.636|  4|  1|  3| 

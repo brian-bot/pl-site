@@ -6,13 +6,13 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Adley Rutschman   |C         |     20|  6|   8|  1|  0| 
-|Spencer Torkelson |1B        |     17|  8|   4|  2|  0| 
+|Spencer Torkelson |1B        |     20| 10|   8|  4|  0| 
 |Jake Cronenworth  |2B        |      2|  0|   0|  0|  0| 
 |Bobby Witt Jr.    |3B        |     14|  6|   5|  3|  2| 
 |Carlos Correa     |SS        |     20| 10|   8|  2|  0| 
 |Elly De La Cruz   |MI        |     21| 11|   9|  1|  6| 
 |Ryan O'Hearn      |CI        |     13|  6|  10|  1|  0| 
-|Corbin Carroll    |OF        |     23| 13|   6|  3|  3| 
+|Corbin Carroll    |OF        |     25| 14|   6|  3|  4| 
 |Max Kepler        |OF        |     24|  5|   4|  1|  0| 
 |MJ Melendez       |OF        |     16|  5|   4|  2|  0| 
 |TJ Friedl         |OF        |     21|  8|   4|  1|  1| 

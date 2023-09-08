@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |     15|  4|   4|  1|  1| 
-|Paul Goldschmidt  |1B        |     22|  8|   8|  3|  0| 
-|Ketel Marte       |2B        |     20|  5|   7|  1|  0| 
-|Eugenio Suarez    |3B        |     17|  5|   5|  0|  0| 
+|Will Smith        |C         |     18|  6|   5|  1|  1| 
+|Paul Goldschmidt  |1B        |     23|  8|   8|  3|  0| 
+|Ketel Marte       |2B        |     23|  7|  10|  2|  0| 
+|Eugenio Suarez    |3B        |     18|  6|   5|  0|  0| 
 |Francisco Lindor  |SS        |     15| 10|   5|  3|  4| 
-|Oswald Peraza     |MI        |     11|  3|   3|  0|  0| 
+|Oswald Peraza     |MI        |     12|  3|   3|  0|  0| 
 |Jake Burger       |CI        |     15| 10|   5|  4|  0| 
 |Andrew Benintendi |OF        |     15|  6|   7|  2|  0| 
 |George Springer   |OF        |     25| 11|   9|  2|  3| 
 |James Outman      |OF        |     24| 10|  10|  3|  0| 
 |Nolan Jones       |OF        |     22|  9|  10|  2|  4| 
 |Andrew Vaughn     |DH        |     16|  7|   8|  3|  0| 
-|Jeimer Candelario |DH        |     11|  6|   9|  3|  0| 
+|Jeimer Candelario |DH        |     11|  6|  10|  3|  0| 
 |Shohei Ohtani     |DH        |     24|  7|   6|  1|  3| 
-|Tommy Pham        |DH        |     15|  5|   5|  0|  2| 
-|Everson Pereira   |BAT BENCH |     11|  2|   5|  0|  2| 
+|Tommy Pham        |DH        |     17|  7|   8|  2|  2| 
+|Everson Pereira   |BAT BENCH |     12|  2|   7|  0|  2| 
 |Francisco Alvarez |BAT BENCH |     10|  3|   5|  1|  1| 
-|Ozzie Albies      |BAT BENCH |     12|  2|   1|  1|  0| 
+|Ozzie Albies      |BAT BENCH |     13|  3|   1|  1|  0| 
 |Starling Marte    |BAT BENCH |     **| **|  **| **| **| 
 |Wander Franco     |BAT BENCH |     **| **|  **| **| **| 
 
@@ -46,7 +46,7 @@
 |Jason Foley       |OP          |  5|  4.333|  0| 0.000|      1| 0.231|  3|  0|  0| 
 |Joe Jimenez       |OP          |  5|  5.000|  3| 5.400|      8| 1.600|  7|  0|  0| 
 |Kirby Yates       |OP          |  5|  5.000|  0| 0.000|      4| 0.800|  6|  0|  1| 
-|Matt Brash        |OP          |  6|  5.667|  2| 3.176|      8| 1.412|  7|  0|  0| 
+|Matt Brash        |OP          |  7|  6.667|  2| 2.700|      8| 1.200|  8|  0|  0| 
 |David Peterson    |PITCH BENCH |  2| 11.000|  5| 4.091|     13| 1.182| 12|  0|  0| 
 |Kyle Wright       |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 
