@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |     18|  6|   5|  1|  1| 
-|Paul Goldschmidt  |1B        |     23|  8|   8|  3|  0| 
+|Will Smith        |C         |     21|  6|   5|  1|  1| 
+|Paul Goldschmidt  |1B        |     25| 10|   8|  3|  0| 
 |Ketel Marte       |2B        |     23|  7|  10|  2|  0| 
-|Eugenio Suarez    |3B        |     18|  6|   5|  0|  0| 
-|Francisco Lindor  |SS        |     15| 10|   5|  3|  4| 
-|Oswald Peraza     |MI        |     12|  3|   3|  0|  0| 
-|Jake Burger       |CI        |     15| 10|   5|  4|  0| 
-|Andrew Benintendi |OF        |     15|  6|   7|  2|  0| 
-|George Springer   |OF        |     25| 11|   9|  2|  3| 
-|James Outman      |OF        |     24| 10|  10|  3|  0| 
-|Nolan Jones       |OF        |     22|  9|  10|  2|  4| 
-|Andrew Vaughn     |DH        |     16|  7|   8|  3|  0| 
+|Eugenio Suarez    |3B        |     20|  7|   6|  1|  0| 
+|Francisco Lindor  |SS        |     16| 10|   7|  3|  4| 
+|Oswald Peraza     |MI        |     13|  3|   3|  0|  0| 
+|Jake Burger       |CI        |     16| 10|   5|  4|  0| 
+|Andrew Benintendi |OF        |     16|  7|   9|  2|  0| 
+|George Springer   |OF        |     26| 12|   9|  2|  3| 
+|James Outman      |OF        |     26| 11|  10|  3|  0| 
+|Nolan Jones       |OF        |     25| 10|  12|  3|  5| 
+|Andrew Vaughn     |DH        |     17|  7|   8|  3|  0| 
 |Jeimer Candelario |DH        |     11|  6|  10|  3|  0| 
 |Shohei Ohtani     |DH        |     24|  7|   6|  1|  3| 
 |Tommy Pham        |DH        |     17|  7|   8|  2|  2| 
 |Everson Pereira   |BAT BENCH |     12|  2|   7|  0|  2| 
-|Francisco Alvarez |BAT BENCH |     10|  3|   5|  1|  1| 
+|Francisco Alvarez |BAT BENCH |     11|  4|   5|  1|  1| 
 |Ozzie Albies      |BAT BENCH |     13|  3|   1|  1|  0| 
 |Starling Marte    |BAT BENCH |     **| **|  **| **| **| 
 |Wander Franco     |BAT BENCH |     **| **|  **| **| **| 
@@ -35,7 +35,7 @@
 |players           |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Jesus Luzardo     |SP          |  2| 12.000|  2| 1.500|      8| 0.667| 14|  0|  0| 
-|Jordan Montgomery |SP          |  2|  9.000|  9| 9.000|     15| 1.667|  4|  0|  0| 
+|Jordan Montgomery |SP          |  3| 14.667| 14| 8.591|     24| 1.636| 10|  0|  0| 
 |Jose Berrios      |SP          |  3| 18.000| 12| 6.000|     22| 1.222| 13|  0|  0| 
 |Michael Wacha     |SP          |  3| 15.333|  9| 5.283|     27| 1.761| 17|  1|  0| 
 |Shohei Ohtani     |SP          |  1|  1.333|  0| 0.000|      1| 0.750|  2|  0|  0| 
