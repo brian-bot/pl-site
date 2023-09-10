@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |     21|  6|   5|  1|  1| 
-|Paul Goldschmidt  |1B        |     25| 10|   8|  3|  0| 
-|Ketel Marte       |2B        |     23|  7|  10|  2|  0| 
-|Eugenio Suarez    |3B        |     20|  7|   6|  1|  0| 
-|Francisco Lindor  |SS        |     16| 10|   7|  3|  4| 
-|Oswald Peraza     |MI        |     13|  3|   3|  0|  0| 
-|Jake Burger       |CI        |     16| 10|   5|  4|  0| 
-|Andrew Benintendi |OF        |     16|  7|   9|  2|  0| 
-|George Springer   |OF        |     26| 12|   9|  2|  3| 
-|James Outman      |OF        |     26| 11|  10|  3|  0| 
+|Will Smith        |C         |     22|  8|   5|  1|  1| 
+|Paul Goldschmidt  |1B        |     26| 10|   8|  3|  0| 
+|Ketel Marte       |2B        |     24|  7|  10|  2|  0| 
+|Eugenio Suarez    |3B        |     21|  8|   6|  1|  0| 
+|Francisco Lindor  |SS        |     17| 10|   7|  3|  4| 
+|Oswald Peraza     |MI        |     14|  3|   4|  0|  0| 
+|Jake Burger       |CI        |     17| 10|   6|  4|  0| 
+|Andrew Benintendi |OF        |     17|  7|   9|  2|  0| 
+|George Springer   |OF        |     29| 14|  13|  4|  3| 
+|James Outman      |OF        |     28| 12|  10|  3|  1| 
 |Nolan Jones       |OF        |     25| 10|  12|  3|  5| 
 |Andrew Vaughn     |DH        |     17|  7|   8|  3|  0| 
-|Jeimer Candelario |DH        |     11|  6|  10|  3|  0| 
+|Jeimer Candelario |DH        |     14|  6|  10|  3|  0| 
 |Shohei Ohtani     |DH        |     24|  7|   6|  1|  3| 
-|Tommy Pham        |DH        |     17|  7|   8|  2|  2| 
-|Everson Pereira   |BAT BENCH |     12|  2|   7|  0|  2| 
+|Tommy Pham        |DH        |     18|  7|   9|  2|  2| 
+|Everson Pereira   |BAT BENCH |     14|  2|   7|  0|  2| 
 |Francisco Alvarez |BAT BENCH |     11|  4|   5|  1|  1| 
-|Ozzie Albies      |BAT BENCH |     13|  3|   1|  1|  0| 
+|Ozzie Albies      |BAT BENCH |     15|  3|   2|  1|  0| 
 |Starling Marte    |BAT BENCH |     **| **|  **| **| **| 
 |Wander Franco     |BAT BENCH |     **| **|  **| **| **| 
 
@@ -41,13 +41,13 @@
 |Shohei Ohtani     |SP          |  1|  1.333|  0| 0.000|      1| 0.750|  2|  0|  0| 
 |Tyler Glasnow     |SP          |  3| 19.000|  4| 1.895|     14| 0.737| 24|  2|  0| 
 |Clay Holmes       |RP          |  8|  8.000|  4| 4.500|     11| 1.375|  8|  0|  2| 
-|Ryan Pressly      |RP          |  4|  3.667|  4| 9.818|      5| 1.364|  6|  0|  1| 
+|Ryan Pressly      |RP          |  5|  4.667|  4| 7.714|      7| 1.500|  9|  0|  2| 
 |Hyun Jin Ryu      |OP          |  3| 15.000|  6| 3.600|     16| 1.067| 13|  1|  0| 
-|Jason Foley       |OP          |  5|  4.333|  0| 0.000|      1| 0.231|  3|  0|  0| 
+|Jason Foley       |OP          |  6|  5.000|  1| 1.800|      3| 0.600|  4|  0|  0| 
 |Joe Jimenez       |OP          |  5|  5.000|  3| 5.400|      8| 1.600|  7|  0|  0| 
-|Kirby Yates       |OP          |  5|  5.000|  0| 0.000|      4| 0.800|  6|  0|  1| 
+|Kirby Yates       |OP          |  6|  6.000|  1| 1.500|      6| 1.000|  9|  0|  1| 
 |Matt Brash        |OP          |  7|  6.667|  2| 2.700|      8| 1.200|  8|  0|  0| 
-|David Peterson    |PITCH BENCH |  2| 11.000|  5| 4.091|     13| 1.182| 12|  0|  0| 
+|David Peterson    |PITCH BENCH |  3| 17.000|  8| 4.235|     22| 1.294| 20|  0|  0| 
 |Kyle Wright       |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 
 

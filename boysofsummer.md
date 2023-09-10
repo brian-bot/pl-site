@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras |C         |     27| 13|  10|  3|  3| 
-|Freddie Freeman   |1B        |     32| 12|   7|  2|  0| 
+|William Contreras |C         |     29| 14|  12|  3|  3| 
+|Freddie Freeman   |1B        |     34| 12|   7|  2|  1| 
 |Edouard Julien    |2B        |     18|  9|   3|  1|  0| 
-|Jose Ramirez      |3B        |     23|  7|   5|  3|  5| 
+|Jose Ramirez      |3B        |     25|  8|   6|  4|  5| 
 |Bo Bichette       |SS        |      6|  2|   3|  0|  0| 
 |Orlando Arcia     |MI        |     17|  6|  11|  3|  0| 
-|Gunnar Henderson  |CI        |     22| 13|  10|  2|  2| 
+|Gunnar Henderson  |CI        |     23| 14|  13|  3|  2| 
 |Chas McCormick    |OF        |     19|  7|   8|  1|  0| 
 |Jarren Duran      |OF        |     **| **|  **| **| **| 
-|Kerry Carpenter   |OF        |     23|  6|   7|  1|  4| 
-|Luis Robert Jr.   |OF        |     14|  5|   4|  2|  1| 
-|Eloy Jimenez      |DH        |     17|  6|   4|  1|  0| 
-|Ezequiel Duran    |DH        |      9|  2|   1|  0|  1| 
-|Masyn Winn        |DH        |      7|  5|   4|  1|  1| 
-|Seiya Suzuki      |DH        |     30| 12|  14|  3|  0| 
+|Kerry Carpenter   |OF        |     23|  6|   7|  1|  5| 
+|Luis Robert Jr.   |OF        |     15|  5|   5|  2|  1| 
+|Eloy Jimenez      |DH        |     18|  6|   4|  1|  0| 
+|Ezequiel Duran    |DH        |     10|  2|   1|  0|  1| 
+|Masyn Winn        |DH        |      7|  6|   4|  1|  2| 
+|Seiya Suzuki      |DH        |     31| 12|  14|  3|  1| 
 |Jonathan India    |BAT BENCH |     **| **|  **| **| **| 
 |Jordan Walker     |BAT BENCH |     22|  9|   9|  4|  0| 
 |Mickey Moniak     |BAT BENCH |     15|  3|   4|  1|  0| 
@@ -48,7 +48,7 @@
 |Logan Allen        |OP          |  3| 14.000| 10|  6.429|     19| 1.357| 13|  1|  0| 
 |Hunter Brown       |PITCH BENCH |  3| 13.333| 11|  7.425|     23| 1.725| 19|  1|  0| 
 |Josiah Gray        |PITCH BENCH |  2|  6.000|  7| 10.500|     16| 2.667|  4|  0|  0| 
-|Ryan Helsley       |PITCH BENCH |  3|  3.000|  0|  0.000|      1| 0.333|  5|  0|  0| 
+|Ryan Helsley       |PITCH BENCH |  4|  4.000|  0|  0.000|      2| 0.500|  6|  0|  1| 
 
 
 * * *
