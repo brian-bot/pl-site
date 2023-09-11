@@ -5,25 +5,25 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras |C         |     29| 14|  12|  3|  3| 
-|Freddie Freeman   |1B        |     34| 12|   7|  2|  1| 
-|Edouard Julien    |2B        |     18|  9|   3|  1|  0| 
-|Jose Ramirez      |3B        |     25|  8|   6|  4|  5| 
-|Bo Bichette       |SS        |      6|  2|   3|  0|  0| 
-|Orlando Arcia     |MI        |     17|  6|  11|  3|  0| 
-|Gunnar Henderson  |CI        |     23| 14|  13|  3|  2| 
-|Chas McCormick    |OF        |     19|  7|   8|  1|  0| 
+|William Contreras |C         |     30| 14|  12|  3|  3| 
+|Freddie Freeman   |1B        |     37| 14|   7|  2|  1| 
+|Edouard Julien    |2B        |     21|  9|   3|  1|  0| 
+|Jose Ramirez      |3B        |     28|  8|   6|  4|  6| 
+|Bo Bichette       |SS        |      7|  2|   3|  0|  0| 
+|Orlando Arcia     |MI        |     18|  7|  11|  3|  0| 
+|Gunnar Henderson  |CI        |     24| 14|  13|  3|  2| 
+|Chas McCormick    |OF        |     21|  9|   8|  1|  2| 
 |Jarren Duran      |OF        |     **| **|  **| **| **| 
-|Kerry Carpenter   |OF        |     23|  6|   7|  1|  5| 
-|Luis Robert Jr.   |OF        |     15|  5|   5|  2|  1| 
-|Eloy Jimenez      |DH        |     18|  6|   4|  1|  0| 
+|Kerry Carpenter   |OF        |     24|  6|   7|  1|  5| 
+|Luis Robert Jr.   |OF        |     16|  5|   6|  2|  1| 
+|Eloy Jimenez      |DH        |     20|  6|   5|  1|  0| 
 |Ezequiel Duran    |DH        |     10|  2|   1|  0|  1| 
 |Masyn Winn        |DH        |      7|  6|   4|  1|  2| 
-|Seiya Suzuki      |DH        |     31| 12|  14|  3|  1| 
-|Jonathan India    |BAT BENCH |     **| **|  **| **| **| 
+|Seiya Suzuki      |DH        |     32| 12|  15|  3|  1| 
+|Jonathan India    |BAT BENCH |      2|  1|   1|  1|  1| 
 |Jordan Walker     |BAT BENCH |     22|  9|   9|  4|  0| 
 |Mickey Moniak     |BAT BENCH |     15|  3|   4|  1|  0| 
-|Will Benson       |BAT BENCH |     16|  9|   6|  2|  2| 
+|Will Benson       |BAT BENCH |     19| 10|   7|  3|  2| 
 
 
 * * *

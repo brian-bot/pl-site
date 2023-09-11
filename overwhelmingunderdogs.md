@@ -7,19 +7,19 @@
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Sean Murphy      |C         |     15|  7|   3|  0|  0| 
 |Pete Alonso      |1B        |     23|  7|   8|  4|  0| 
-|Bryson Stott     |2B        |     17|  7|   4|  2|  5| 
-|Alex Bregman     |3B        |     35| 15|  10|  2|  0| 
-|Trea Turner      |SS        |     26| 19|  20|  9|  4| 
-|Anthony Volpe    |MI        |     19|  7|   8|  3|  2| 
-|Nathaniel Lowe   |CI        |     28|  5|   5|  0|  1| 
+|Bryson Stott     |2B        |     18|  8|   4|  2|  5| 
+|Alex Bregman     |3B        |     36| 16|  11|  2|  0| 
+|Trea Turner      |SS        |     29| 20|  22| 10|  4| 
+|Anthony Volpe    |MI        |     19|  8|   8|  3|  2| 
+|Nathaniel Lowe   |CI        |     31|  6|   7|  0|  1| 
 |Andrew McCutchen |OF        |     18|  4|   5|  0|  1| 
-|Bryan Reynolds   |OF        |     20| 10|   7|  2|  2| 
+|Bryan Reynolds   |OF        |     22| 11|   8|  2|  2| 
 |Christian Yelich |OF        |     18| 10|   3|  1|  2| 
-|Julio Rodriguez  |OF        |     23| 13|  16|  8|  3| 
-|Brandon Nimmo    |DH        |     17|  7|   7|  5|  0| 
-|Brice Turang     |DH        |     17|  6|   5|  0|  4| 
+|Julio Rodriguez  |OF        |     25| 14|  16|  8|  3| 
+|Brandon Nimmo    |DH        |     18|  7|   7|  5|  0| 
+|Brice Turang     |DH        |     19|  6|   5|  0|  4| 
 |Jorge Polanco    |DH        |     30| 11|  12|  4|  1| 
-|Matt Wallner     |DH        |     22| 10|   7|  2|  0| 
+|Matt Wallner     |DH        |     23| 10|   7|  2|  0| 
 |J.D. Martinez    |BAT BENCH |      4|  2|   3|  1|  0| 
 |Josh Jung        |BAT BENCH |     **| **|  **| **| **| 
 |Tommy Edman      |BAT BENCH |     23|  7|   7|  1|  7| 
@@ -37,7 +37,7 @@
 |Max Fried         |SP          |  3| 19.000|  5|  2.368|     21| 1.105| 22|  3|  0| 
 |Max Scherzer      |SP          |  3| 16.000|  9|  5.062|     16| 1.000| 21|  0|  0| 
 |Mike Clevinger    |SP          |  3| 18.000|  9|  4.500|     18| 1.000| 19|  2|  0| 
-|Devin Williams    |RP          |  4|  4.333|  2|  4.154|      5| 1.154|  6|  1|  2| 
+|Devin Williams    |RP          |  5|  5.333|  2|  3.375|      5| 0.938|  8|  1|  2| 
 |Jhoan Duran       |RP          |  7|  7.667|  1|  1.174|      9| 1.174|  9|  0|  2| 
 |Aroldis Chapman   |OP          |  7|  5.667|  4|  6.353|     12| 2.118|  9|  0|  2| 
 |Carlos Rodon      |OP          |  3| 13.333| 11|  7.425|     18| 1.350| 15|  1|  0| 

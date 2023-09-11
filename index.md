@@ -2,21 +2,21 @@
 
 ## Period 8 scores
 
-Through games on 2023-09-09 ([website build status](https://github.com/brian-bot/pl-site/actions))
+Through games on 2023-09-10 ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 
 |team                   | points|   r| hitsbb| hr| rbi| sb|  w| sv|  so|   era|  whip|
 |:----------------------|------:|---:|------:|--:|---:|--:|--:|--:|---:|-----:|-----:|
-|[Vass Deferens](./vassdeferens)|   51.0| 128|    306| 35| 109| 27| 10|  9| 162| 4.266| 1.344|
-|[Mean Wieners](./meanwieners)|   69.0| 138|    311| 55| 151|  9|  9| 18| 165| 3.805| 1.166|
-|[Boys of Summer](./boysofsummer)|   36.5| 109|    275| 25|  98| 21| 16|  7| 171| 4.637| 1.385|
-|[SYWA](./sywa)         |   60.5| 122|    333| 37| 128| 16| 10| 10| 204| 4.017| 1.189|
-|[Wonderbots](./wonderbots)|   58.0| 159|    356| 41| 137| 14|  9|  4| 203| 4.995| 1.280|
-|[Terminoeckers](./terminoeckers)|   67.5| 129|    305| 39| 130| 22| 16|  4| 196| 3.622| 1.061|
-|[Washington Generals](./washingtongenerals)|   36.5| 129|    292| 27|  94| 29|  5| 15| 112| 4.675| 1.415|
-|[T and A](./tanda)     |   50.0| 125|    293| 49| 136| 24| 13|  2| 168| 4.509| 1.370|
-|[Nuclear Arms](./nucleararms)|   42.5| 126|    313| 35| 123| 19|  4|  5| 138| 4.270| 1.186|
-|[Overwhelming Underdogs](./overwhelmingunderdogs)|   78.5| 138|    328| 42| 120| 25| 15|  6| 207| 3.609| 1.115|
+|[Vass Deferens](./vassdeferens)|   49.0| 134|    320| 37| 116| 29| 10| 10| 164| 4.242| 1.353|
+|[Mean Wieners](./meanwieners)|   70.5| 150|    330| 56| 153| 11| 10| 19| 190| 3.826| 1.172|
+|[Boys of Summer](./boysofsummer)|   35.0| 114|    295| 25| 101| 24| 16|  7| 171| 4.637| 1.385|
+|[SYWA](./sywa)         |   63.5| 128|    350| 38| 131| 17| 10| 12| 217| 3.788| 1.145|
+|[Wonderbots](./wonderbots)|   58.5| 166|    376| 44| 143| 15|  9|  4| 217| 4.803| 1.240|
+|[Terminoeckers](./terminoeckers)|   70.0| 135|    324| 41| 133| 22| 16|  5| 216| 3.568| 1.061|
+|[Washington Generals](./washingtongenerals)|   37.0| 137|    305| 28|  98| 33|  5| 16| 120| 4.679| 1.398|
+|[T and A](./tanda)     |   53.5| 129|    305| 50| 145| 24| 18|  2| 190| 4.270| 1.378|
+|[Nuclear Arms](./nucleararms)|   40.0| 130|    323| 36| 125| 20|  5|  5| 147| 4.154| 1.168|
+|[Overwhelming Underdogs](./overwhelmingunderdogs)|   73.0| 145|    344| 43| 126| 25| 15|  6| 209| 3.591| 1.109|
 
 * * *
 * * *
