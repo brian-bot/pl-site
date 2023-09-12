@@ -5,23 +5,23 @@
  
 |players        |position  | hitsbb|  r| rbi| hr| sb| 
 |:--------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto  |C         |     17|  9|   4|  3|  1| 
-|Cody Bellinger |1B        |     27| 13|  24|  5|  3| 
-|Mookie Betts   |2B        |     37| 15|  13|  4|  1| 
-|Austin Riley   |3B        |     25| 11|   8|  5|  0| 
-|Corey Seager   |SS        |     23| 12|  11|  7|  0| 
+|J.T. Realmuto  |C         |     17|  9|   5|  3|  1| 
+|Cody Bellinger |1B        |     28| 14|  24|  5|  3| 
+|Mookie Betts   |2B        |     40| 16|  17|  5|  1| 
+|Austin Riley   |3B        |     28| 13|   8|  5|  0| 
+|Corey Seager   |SS        |     25| 13|  12|  7|  0| 
 |Ezequiel Tovar |MI        |     16|  9|   7|  1|  3| 
-|Ryan McMahon   |CI        |     18|  7|   4|  1|  0| 
-|Josh Lowe      |OF        |     19|  7|   7|  2|  4| 
-|Juan Soto      |OF        |     28| 10|  10|  4|  2| 
-|Lars Nootbaar  |OF        |     14|  6|   3|  1|  1| 
-|Sal Frelick    |OF        |     17|  8|   3|  0|  1| 
-|Brandon Lowe   |DH        |     28|  9|  16|  3|  1| 
+|Ryan McMahon   |CI        |     19|  7|   4|  1|  0| 
+|Josh Lowe      |OF        |     22|  8|   8|  2|  5| 
+|Juan Soto      |OF        |     31| 12|  14|  5|  2| 
+|Lars Nootbaar  |OF        |     16|  7|   3|  1|  2| 
+|Sal Frelick    |OF        |     19|  8|   4|  0|  1| 
+|Brandon Lowe   |DH        |     29| 10|  16|  3|  1| 
 |Maikel Garcia  |DH        |     18|  5|   6|  0|  2| 
-|Nolan Gorman   |DH        |     16|  7|   9|  3|  1| 
+|Nolan Gorman   |DH        |     18|  9|   9|  3|  1| 
 |Zack Gelof     |DH        |     21|  7|   8|  2|  2| 
 |Hunter Renfroe |BAT BENCH |     16|  5|   8|  2|  0| 
-|Leody Taveras  |BAT BENCH |     23|  4|   4|  1|  2| 
+|Leody Taveras  |BAT BENCH |     26|  6|   4|  1|  3| 
 
 * * *
 
@@ -37,7 +37,7 @@
 |Seth Lugo         |SP          |  4| 22.333|  8|  3.224|     25| 1.119| 16|  2|  0| 
 |Zack Wheeler      |SP          |  3| 19.000|  4|  1.895|     11| 0.579| 27|  2|  0| 
 |Felix Bautista    |RP          |  2|  1.667|  0|  0.000|      0| 0.000|  1|  0|  1| 
-|Raisel Iglesias   |RP          |  7|  7.000|  2|  2.571|     10| 1.429|  6|  0|  4| 
+|Raisel Iglesias   |RP          |  8|  8.000|  4|  4.500|     12| 1.500|  7|  1|  4| 
 |Bobby Miller      |OP          |  3| 20.000| 10|  4.500|     21| 1.050| 17|  2|  0| 
 |Chase Silseth     |OP          |  1|  3.333|  2|  5.400|      4| 1.200|  3|  0|  0| 
 |Cole Ragans       |OP          |  4| 24.667|  2|  0.730|     14| 0.568| 33|  2|  0| 
