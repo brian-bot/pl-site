@@ -5,49 +5,49 @@
  
 |players        |position  | hitsbb|  r| rbi| hr| sb| 
 |:--------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto  |C         |     17|  9|   5|  3|  1| 
-|Cody Bellinger |1B        |     28| 14|  24|  5|  3| 
-|Mookie Betts   |2B        |     40| 16|  17|  5|  1| 
-|Austin Riley   |3B        |     28| 13|   8|  5|  0| 
-|Corey Seager   |SS        |     25| 13|  12|  7|  0| 
-|Ezequiel Tovar |MI        |     16|  9|   7|  1|  3| 
-|Ryan McMahon   |CI        |     19|  7|   4|  1|  0| 
-|Josh Lowe      |OF        |     22|  8|   8|  2|  5| 
-|Juan Soto      |OF        |     31| 12|  14|  5|  2| 
-|Lars Nootbaar  |OF        |     16|  7|   3|  1|  2| 
-|Sal Frelick    |OF        |     19|  8|   4|  0|  1| 
-|Brandon Lowe   |DH        |     29| 10|  16|  3|  1| 
-|Maikel Garcia  |DH        |     18|  5|   6|  0|  2| 
-|Nolan Gorman   |DH        |     18|  9|   9|  3|  1| 
-|Zack Gelof     |DH        |     21|  7|   8|  2|  2| 
-|Hunter Renfroe |BAT BENCH |     16|  5|   8|  2|  0| 
-|Leody Taveras  |BAT BENCH |     26|  6|   4|  1|  3| 
+|J.T. Realmuto  |C         |      1|  0|   0|  0|  0| 
+|Cody Bellinger |1B        |      2|  1|   1|  0|  0| 
+|Mookie Betts   |2B        |      4|  1|   0|  0|  2| 
+|Austin Riley   |3B        |      5|  2|   3|  1|  0| 
+|Corey Seager   |SS        |      6|  4|   1|  0|  0| 
+|Ezequiel Tovar |MI        |      2|  0|   1|  0|  0| 
+|Ryan McMahon   |CI        |      5|  2|   1|  1|  0| 
+|Josh Lowe      |OF        |      2|  0|   1|  0|  0| 
+|Juan Soto      |OF        |      3|  3|   1|  1|  0| 
+|Lars Nootbaar  |OF        |      1|  0|   1|  0|  0| 
+|Sal Frelick    |OF        |      3|  0|   0|  0|  0| 
+|Brandon Lowe   |DH        |      2|  1|   0|  0|  0| 
+|Maikel Garcia  |DH        |      5|  2|   1|  0|  1| 
+|Nolan Gorman   |DH        |      1|  0|   0|  0|  0| 
+|Zack Gelof     |DH        |      3|  3|   0|  0|  0| 
+|Leody Taveras  |BAT BENCH |      1|  1|   0|  0|  0| 
 
 * * *
 
 ### Pitchers
 
  
-|players           |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
-|:-----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|George Kirby      |SP          |  3| 15.000| 10|  6.000|     21| 1.400| 18|  0|  0| 
-|Grayson Rodriguez |SP          |  3| 16.333|  4|  2.204|     20| 1.224| 19|  2|  0| 
-|Justin Verlander  |SP          |  3| 18.000|  7|  3.500|     18| 1.000| 16|  2|  0| 
-|Lance Lynn        |SP          |  3| 15.000| 18| 10.800|     30| 2.000|  3|  1|  0| 
-|Seth Lugo         |SP          |  4| 22.333|  8|  3.224|     25| 1.119| 16|  2|  0| 
-|Zack Wheeler      |SP          |  3| 19.000|  4|  1.895|     11| 0.579| 27|  2|  0| 
-|Felix Bautista    |RP          |  2|  1.667|  0|  0.000|      0| 0.000|  1|  0|  1| 
-|Raisel Iglesias   |RP          |  8|  8.000|  4|  4.500|     12| 1.500|  7|  1|  4| 
-|Bobby Miller      |OP          |  3| 20.000| 10|  4.500|     21| 1.050| 17|  2|  0| 
-|Chase Silseth     |OP          |  1|  3.333|  2|  5.400|      4| 1.200|  3|  0|  0| 
-|Cole Ragans       |OP          |  4| 24.667|  2|  0.730|     14| 0.568| 33|  2|  0| 
-|Tanner Bibee      |OP          |  4| 23.000|  8|  3.130|     25| 1.087| 25|  1|  0| 
-|Tarik Skubal      |OP          |  4| 24.000|  8|  3.000|     23| 0.958| 32|  2|  0| 
-|Braxton Garrett   |PITCH BENCH |  3| 15.667|  5|  2.872|     17| 1.085|  8|  1|  0| 
-|Joel Payamps      |PITCH BENCH |  7|  6.667|  5|  6.750|     13| 1.950|  6|  1|  0| 
-|Mitch Keller      |PITCH BENCH |  3| 19.000|  9|  4.263|     25| 1.316| 18|  1|  0| 
-|Nathan Eovaldi    |PITCH BENCH |  2|  3.667|  4|  9.818|     11| 3.000|  4|  0|  0| 
-|Nick Pivetta      |PITCH BENCH |  4| 10.333|  8|  6.968|     18| 1.742| 15|  1|  1| 
+|players           |position    |  g|    ip| er|    era| hitsbb|  whip| so|  w| sv| 
+|:-----------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
+|Bobby Miller      |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|George Kirby      |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Grayson Rodriguez |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Justin Verlander  |SP          |  1| 7.000|  5|  6.429|      8| 1.143|  7|  0|  0| 
+|Seth Lugo         |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Zack Wheeler      |SP          |  1| 5.000|  6| 10.800|     10| 2.000|  4|  0|  0| 
+|Alex Lange        |RP          |  1| 1.000|  0|  0.000|      1| 1.000|  1|  0|  0| 
+|Raisel Iglesias   |RP          |  1| 1.000|  1|  9.000|      3| 3.000|  1|  1|  0| 
+|Cole Ragans       |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Ryan Brasier      |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Taj Bradley       |OP          |  1| 4.667|  4|  7.714|      7| 1.500|  7|  0|  0| 
+|Tanner Bibee      |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Tarik Skubal      |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Braxton Garrett   |PITCH BENCH |  1| 6.000|  0|  0.000|      6| 1.000|  7|  1|  0| 
+|Felix Bautista    |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Jose Alvarado     |PITCH BENCH |  1| 1.000|  0|  0.000|      1| 1.000|  2|  0|  0| 
+|Lance Lynn        |PITCH BENCH |  1| 7.000|  2|  2.571|      7| 1.000|  3|  1|  0| 
+|Mitch Keller      |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Nathan Eovaldi    |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 
 
 * * *

@@ -5,49 +5,49 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Sean Murphy      |C         |     15|  7|   3|  0|  0| 
-|Pete Alonso      |1B        |     24|  8|   8|  4|  0| 
-|Bryson Stott     |2B        |     20|  9|   5|  2|  5| 
-|Alex Bregman     |3B        |     36| 16|  11|  2|  0| 
-|Trea Turner      |SS        |     33| 23|  25| 11|  4| 
-|Anthony Volpe    |MI        |     19|  8|   8|  3|  2| 
-|Nathaniel Lowe   |CI        |     33|  6|   7|  0|  1| 
-|Andrew McCutchen |OF        |     18|  4|   5|  0|  1| 
-|Bryan Reynolds   |OF        |     23| 11|   9|  2|  3| 
-|Christian Yelich |OF        |     18| 10|   3|  1|  2| 
-|Julio Rodriguez  |OF        |     29| 16|  18|  9|  3| 
-|Brandon Nimmo    |DH        |     20|  7|   7|  5|  0| 
-|Brice Turang     |DH        |     19|  6|   5|  0|  4| 
-|Jorge Polanco    |DH        |     30| 11|  12|  4|  1| 
-|Matt Wallner     |DH        |     23| 10|   7|  2|  0| 
-|J.D. Martinez    |BAT BENCH |      7|  4|   4|  1|  0| 
+|Sean Murphy      |C         |      0|  0|   0|  0|  0| 
+|Pete Alonso      |1B        |      4|  1|   5|  1|  0| 
+|Bryson Stott     |2B        |      2|  1|   3|  1|  0| 
+|Alex Bregman     |3B        |      3|  1|   1|  1|  0| 
+|Trea Turner      |SS        |      3|  1|   2|  1|  1| 
+|Anthony Volpe    |MI        |      1|  0|   0|  0|  1| 
+|Nathaniel Lowe   |CI        |      3|  2|   3|  1|  0| 
+|Bryan Reynolds   |OF        |      5|  2|   3|  1|  0| 
+|Christian Yelich |OF        |     **| **|  **| **| **| 
+|Julio Rodriguez  |OF        |      4|  2|   2|  0|  0| 
+|Matt Wallner     |OF        |      2|  1|   1|  1|  0| 
+|Brandon Nimmo    |DH        |      5|  2|   0|  0|  0| 
+|Brice Turang     |DH        |      0|  0|   0|  0|  0| 
+|J.D. Martinez    |DH        |      3|  0|   2|  0|  0| 
+|Jorge Polanco    |DH        |      2|  1|   0|  0|  0| 
+|Andrew McCutchen |BAT BENCH |     **| **|  **| **| **| 
 |Josh Jung        |BAT BENCH |     **| **|  **| **| **| 
-|Tommy Edman      |BAT BENCH |     23|  7|   7|  1|  7| 
+|Tommy Edman      |BAT BENCH |      0|  0|   0|  0|  0| 
 
 * * *
 
 ### Pitchers
 
  
-|players           |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
-|:-----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Aaron Civale      |SP          |  4| 20.333| 12|  5.311|     23| 1.131| 29|  1|  0| 
-|Bryce Elder       |SP          |  3| 19.000|  7|  3.316|     23| 1.211| 17|  2|  0| 
-|Jose Quintana     |SP          |  4| 23.333|  8|  3.086|     30| 1.286| 18|  1|  0| 
-|Max Fried         |SP          |  3| 19.000|  5|  2.368|     21| 1.105| 22|  3|  0| 
-|Max Scherzer      |SP          |  3| 16.000|  9|  5.062|     16| 1.000| 21|  0|  0| 
-|Mike Clevinger    |SP          |  3| 18.000|  9|  4.500|     18| 1.000| 19|  2|  0| 
-|Devin Williams    |RP          |  5|  5.333|  2|  3.375|      5| 0.938|  8|  1|  2| 
-|Jhoan Duran       |RP          |  7|  7.667|  1|  1.174|      9| 1.174|  9|  0|  2| 
-|Aroldis Chapman   |OP          |  7|  5.667|  4|  6.353|     12| 2.118|  9|  0|  2| 
-|Carlos Rodon      |OP          |  3| 13.333| 11|  7.425|     18| 1.350| 15|  1|  0| 
-|Justin Steele     |OP          |  4| 27.000|  3|  1.000|     25| 0.926| 32|  2|  0| 
-|Wade Miley        |OP          |  3| 16.000|  7|  3.938|     15| 0.938|  8|  1|  0| 
-|Will Smith        |OP          |  7|  7.333|  1|  1.227|      6| 0.818|  6|  1|  0| 
-|Giovanny Gallegos |PITCH BENCH |  6|  4.667|  6| 11.571|      9| 1.929|  8|  0|  1| 
-|Griffin Canning   |PITCH BENCH |  3| 18.333|  6|  2.945|     20| 1.091| 19|  0|  0| 
-|JP Sears          |PITCH BENCH |  3| 17.000|  7|  3.706|     25| 1.471| 14|  2|  0| 
-|Marcus Stroman    |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
+|players           |position    |  g|    ip| er| era| hitsbb|  whip| so|  w| sv| 
+|:-----------------|:-----------|--:|-----:|--:|---:|------:|-----:|--:|--:|--:| 
+|Aaron Civale      |SP          | **|    **| **|  **|     **|    **| **| **| **| 
+|Bryce Elder       |SP          | **|    **| **|  **|     **|    **| **| **| **| 
+|Jose Quintana     |SP          | **|    **| **|  **|     **|    **| **| **| **| 
+|Max Fried         |SP          |  1| 5.000|  1| 1.8|      6| 1.200|  6|  0|  0| 
+|Max Scherzer      |SP          |  1| 5.333|  0| 0.0|      4| 0.750|  2|  1|  0| 
+|Mike Clevinger    |SP          |  1| 6.000|  2| 3.0|      6| 1.000|  7|  0|  0| 
+|Devin Williams    |RP          |  1| 1.000|  0| 0.0|      0| 0.000|  1|  0|  1| 
+|Jhoan Duran       |RP          |  1| 1.000|  0| 0.0|      0| 0.000|  0|  0|  1| 
+|Aroldis Chapman   |OP          |  1| 1.000|  1| 9.0|      1| 1.000|  2|  0|  0| 
+|Griffin Canning   |OP          | **|    **| **|  **|     **|    **| **| **| **| 
+|Justin Steele     |OP          | **|    **| **|  **|     **|    **| **| **| **| 
+|Wade Miley        |OP          | **|    **| **|  **|     **|    **| **| **| **| 
+|Will Smith        |OP          | **|    **| **|  **|     **|    **| **| **| **| 
+|Carlos Rodon      |PITCH BENCH |  1| 5.000|  1| 1.8|      8| 1.600|  9|  1|  0| 
+|Giovanny Gallegos |PITCH BENCH |  2| 1.667|  0| 0.0|      1| 0.600|  3|  0|  0| 
+|JP Sears          |PITCH BENCH |  1| 6.000|  2| 3.0|      7| 1.167|  3|  1|  0| 
+|Marcus Stroman    |PITCH BENCH | **|    **| **|  **|     **|    **| **| **| **| 
 
 
 * * *

@@ -5,26 +5,26 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez     |C         |     12|  3|   8|  2|  0| 
-|Matt Olson         |1B        |     38| 17|  19|  7|  0| 
-|Matt McLain        |2B        |      8|  7|   5|  2|  3| 
-|Spencer Steer      |3B        |     35|  9|  11|  2|  2| 
-|Fernando Tatis Jr. |SS        |     22| 11|   6|  3|  2| 
-|Jazz Chisholm Jr.  |MI        |     21|  8|  12|  4|  2| 
-|Brandon Drury      |CI        |     22|  8|  14|  3|  0| 
-|Jorge Soler        |OF        |      7|  3|   3|  2|  0| 
-|Marcell Ozuna      |OF        |     30| 14|  15|  6|  0| 
-|Masataka Yoshida   |OF        |     17|  8|   7|  2|  0| 
-|Ronald Acuna Jr.   |OF        |     37| 18|  21|  8|  7| 
-|Adam Duvall        |DH        |     21|  9|  13|  6|  0| 
-|Daulton Varsho     |DH        |     17|  5|   4|  0|  0| 
-|Esteury Ruiz       |DH        |     13|  6|   5|  2|  9| 
-|Giancarlo Stanton  |DH        |     19|  9|  12|  5|  0| 
-|Bryan De La Cruz   |BAT BENCH |     21|  8|  10|  3|  0| 
-|Harrison Bader     |BAT BENCH |      9|  4|   1|  0|  5| 
-|Jeremy Pena        |BAT BENCH |     32| 16|   5|  0|  1| 
-|Matt Chapman       |BAT BENCH |      5|  0|   1|  0|  0| 
-|Trevor Story       |BAT BENCH |     12|  4|   7|  1|  4| 
+|Salvador Perez     |C         |      7|  2|   4|  0|  0| 
+|Matt Olson         |1B        |      3|  2|   1|  1|  0| 
+|Jazz Chisholm Jr.  |2B        |      0|  0|   0|  0|  0| 
+|Spencer Steer      |3B        |      1|  0|   0|  0|  1| 
+|Fernando Tatis Jr. |SS        |      4|  2|   3|  1|  0| 
+|Jeremy Pena        |MI        |      3|  1|   1|  0|  0| 
+|Ryan Noda          |CI        |      4|  3|   1|  0|  0| 
+|Giancarlo Stanton  |OF        |      1|  0|   0|  0|  0| 
+|Marcell Ozuna      |OF        |      3|  2|   3|  1|  0| 
+|Masataka Yoshida   |OF        |      1|  0|   0|  0|  0| 
+|Ronald Acuna Jr.   |OF        |      4|  2|   2|  1|  1| 
+|Brandon Drury      |DH        |      2|  0|   1|  0|  0| 
+|Bryan De La Cruz   |DH        |      1|  1|   0|  0|  0| 
+|Esteury Ruiz       |DH        |      0|  0|   0|  0|  0| 
+|Mark Canha         |DH        |      1|  1|   0|  0|  0| 
+|Adam Duvall        |BAT BENCH |      0|  0|   0|  0|  0| 
+|Daulton Varsho     |BAT BENCH |      1|  0|   0|  0|  0| 
+|Logan O'Hoppe      |BAT BENCH |      0|  0|   0|  0|  0| 
+|Ronny Mauricio     |BAT BENCH |      1|  1|   2|  1|  0| 
+|Trevor Story       |BAT BENCH |      1|  0|   0|  0|  0| 
 
 
 * * *
@@ -32,23 +32,23 @@
 ### Pitchers
 
  
-|players         |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
-|:---------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Andrew Heaney   |SP          |  4| 18.000|  6|  3.000|     28| 1.556| 19|  1|  0| 
-|Brayan Bello    |SP          |  4| 22.667|  9|  3.574|     32| 1.412| 17|  3|  0| 
-|Charlie Morton  |SP          |  4| 23.000|  7|  2.739|     27| 1.174| 31|  2|  0| 
-|Framber Valdez  |SP          |  4| 27.000|  6|  2.000|     25| 0.926| 25|  2|  0| 
-|Freddy Peralta  |SP          |  3| 16.667|  6|  3.240|     12| 0.720| 23|  1|  0| 
-|Yu Darvish      |SP          |  1|  4.000|  5| 11.250|      7| 1.750|  3|  0|  0| 
-|Alexis Diaz     |RP          |  7|  6.000|  1|  1.500|      9| 1.500|  4|  3|  1| 
-|David Robertson |RP          |  5|  5.000|  3|  5.400|     10| 2.000|  9|  2|  0| 
-|Chris Sale      |OP          |  4| 18.667| 13|  6.268|     28| 1.500| 25|  1|  0| 
-|Graham Ashcraft |OP          |  2| 11.667|  5|  3.857|     15| 1.286| 11|  0|  0| 
-|J.P. France     |OP          |  4| 19.000| 18|  8.526|     37| 1.947| 16|  2|  0| 
-|Jose Urquidy    |OP          |  4| 14.667| 13|  7.977|     27| 1.841|  7|  0|  1| 
-|Kyle Hendricks  |OP          |  4| 22.667|  8|  3.176|     28| 1.235| 19|  1|  0| 
-|Hunter Greene   |PITCH BENCH |  3| 15.000|  5|  3.000|     19| 1.267| 19|  2|  0| 
-|Jack Flaherty   |PITCH BENCH |  3| 13.667| 11|  7.244|     24| 1.756| 13|  0|  0| 
+|players         |position    |  g|    ip| er|    era| hitsbb|  whip| so|  w| sv| 
+|:---------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
+|Brayan Bello    |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Charlie Morton  |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Chris Sale      |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Framber Valdez  |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Freddy Peralta  |SP          |  1| 6.333|  1|  1.421|      2| 0.316|  9|  1|  0| 
+|Hunter Greene   |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Alexis Diaz     |RP          |  2| 2.000|  0|  0.000|      1| 0.500|  3|  1|  1| 
+|Edward Cabrera  |RP          |  1| 4.667|  2|  3.857|      7| 1.500|  5|  0|  0| 
+|J.P. France     |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Javier Assad    |OP          |  1| 3.333|  4| 10.800|      9| 2.700|  4|  0|  0| 
+|Kyle Harrison   |OP          |  1| 4.000|  3|  6.750|      8| 2.000|  3|  0|  0| 
+|Kyle Hendricks  |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Nick Pivetta    |OP          |  1| 5.333|  3|  5.062|      5| 0.938| 10|  0|  0| 
+|Andrew Heaney   |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Touki Toussaint |PITCH BENCH |  1| 1.000|  8| 72.000|      8| 8.000|  1|  0|  0| 
 
 
 * * *

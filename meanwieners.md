@@ -3,52 +3,51 @@
 ### Batters
 
  
-|players           |position  | hitsbb|  r| rbi| hr| sb| 
-|:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Mitch Garver      |C         |     33| 13|   9|  6|  0| 
-|Yandy Diaz        |1B        |     27| 11|   9|  4|  0| 
-|Isaac Paredes     |2B        |     22|  7|  11|  5|  0| 
-|Max Muncy         |3B        |     28| 16|  20|  6|  0| 
-|Willy Adames      |SS        |     24| 14|  19|  4|  0| 
-|Gleyber Torres    |MI        |     27| 15|  12|  6|  1| 
-|Carlos Santana    |CI        |     27| 14|   7|  1|  0| 
-|Adolis Garcia     |OF        |     12|  7|   7|  3|  0| 
-|Bryce Harper      |OF        |     34| 14|  16|  5|  2| 
-|Joey Meneses      |OF        |     18|  6|   9|  0|  0| 
-|Kyle Schwarber    |OF        |     41| 22|  14| 10|  0| 
-|Cedric Mullins    |DH        |     19| 11|  15|  4|  2| 
-|Jose Siri         |DH        |     15|  9|   4|  1|  4| 
-|Tyler O'Neill     |DH        |     14|  4|   5|  2|  2| 
-|Yainer Diaz       |DH        |     19|  9|  10|  3|  0| 
-|Christopher Morel |BAT BENCH |     10|  3|   6|  3|  0| 
-|Jack Suwinski     |BAT BENCH |     20|  7|   9|  3|  3| 
-|Joey Votto        |BAT BENCH |      1|  1|   3|  1|  0| 
-|Jonah Heim        |BAT BENCH |     13|  3|  12|  2|  0| 
-|Mike Tauchman     |BAT BENCH |     20| 12|   3|  0|  1| 
-
+|players         |position  | hitsbb|  r| rbi| hr| sb| 
+|:---------------|:---------|------:|--:|---:|--:|--:| 
+|Mitch Garver    |C         |      3|  1|   3|  1|  0| 
+|Yandy Diaz      |1B        |      3|  0|   2|  0|  0| 
+|Isaac Paredes   |2B        |      3|  1|   0|  0|  0| 
+|Max Muncy       |3B        |      2|  1|   1|  0|  0| 
+|Willy Adames    |SS        |      3|  0|   0|  0|  0| 
+|Gleyber Torres  |MI        |      4|  1|   3|  0|  0| 
+|Carlos Santana  |CI        |      2|  0|   0|  0|  0| 
+|Bryce Harper    |OF        |      5|  1|   1|  1|  0| 
+|Cedric Mullins  |OF        |      0|  0|   0|  0|  0| 
+|Jack Suwinski   |OF        |      6|  1|   1|  0|  1| 
+|Kyle Schwarber  |OF        |      2|  1|   0|  0|  0| 
+|Davis Schneider |DH        |      2|  1|   1|  1|  0| 
+|Nolan Schanuel  |DH        |      3|  0|   0|  0|  0| 
+|Wilyer Abreu    |DH        |      2|  0|   0|  0|  0| 
+|Yainer Diaz     |DH        |      2|  0|   1|  0|  0| 
+|Adolis Garcia   |BAT BENCH |     **| **|  **| **| **| 
+|Jarred Kelenic  |BAT BENCH |     **| **|  **| **| **| 
+|Joey Meneses    |BAT BENCH |      4|  0|   1|  0|  0| 
+|Mitch Haniger   |BAT BENCH |      2|  0|   0|  0|  0| 
+|Tyler O'Neill   |BAT BENCH |      1|  0|   0|  0|  0| 
+|Wilmer Flores   |BAT BENCH |      4|  0|   1|  0|  0| 
 
 * * *
 
 ### Pitchers
 
  
-|players         |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
-|:---------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Bailey Ober     |SP          |  1|  4.000|  5| 11.250|      6| 1.500|  4|  0|  0| 
-|Gerrit Cole     |SP          |  4| 26.667|  4|  1.350|     20| 0.750| 34|  3|  0| 
-|James Paxton    |SP          |  2|  5.667| 10| 15.882|     16| 2.824|  4|  0|  0| 
-|Joe Ryan        |SP          |  3| 15.000|  4|  2.400|     15| 1.000| 17|  1|  0| 
-|Spencer Strider |SP          |  3| 15.667| 11|  6.319|     19| 1.213| 23|  2|  0| 
-|Zach Eflin      |SP          |  4| 22.333|  8|  3.224|     27| 1.209| 28|  1|  0| 
-|Adbert Alzolay  |RP          |  8|  7.333|  2|  2.455|     10| 1.364|  7|  1|  4| 
-|Paul Sewald     |RP          |  7|  6.000|  3|  4.500|     10| 1.667|  5|  0|  6| 
-|Bryan Woo       |OP          |  2| 11.000|  5|  4.091|     11| 1.000|  5|  1|  0| 
-|Bryce Miller    |OP          |  4| 20.000| 12|  5.400|     32| 1.600| 20|  0|  0| 
-|Eury Perez      |OP          |  3| 15.667|  5|  2.872|     19| 1.213| 16|  0|  0| 
-|Evan Phillips   |OP          |  7|  7.667|  2|  2.348|      5| 0.652|  8|  0|  3| 
-|Pete Fairbanks  |OP          | 11| 10.667|  1|  0.844|      8| 0.750| 22|  1|  8| 
-|Brandon Pfaadt  |PITCH BENCH |  4| 19.000| 14|  6.632|     30| 1.579| 17|  1|  0| 
-|Erik Swanson    |PITCH BENCH |  2|  1.333|  0|  0.000|      1| 0.750|  0|  0|  0| 
+|players             |position    |  g|    ip| er|   era| hitsbb|  whip| so|  w| sv| 
+|:-------------------|:-----------|--:|-----:|--:|-----:|------:|-----:|--:|--:|--:| 
+|Gerrit Cole         |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Joe Ryan            |SP          |  1| 4.667|  2| 3.857|      7| 1.500|  7|  0|  0| 
+|Michael King        |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Ryan Pepiot         |SP          |  1| 6.000|  4| 6.000|      6| 1.000|  5|  0|  0| 
+|Spencer Strider     |SP          |  1| 7.000|  1| 1.286|      6| 0.857|  9|  1|  0| 
+|Zach Eflin          |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Julian Merryweather |RP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Paul Sewald         |RP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Bryan Woo           |OP          |  1| 5.667|  0| 0.000|      4| 0.706|  8|  1|  0| 
+|Bryce Miller        |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Eury Perez          |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Evan Phillips       |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Pete Fairbanks      |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Shintaro Fujinami   |PITCH BENCH |  1| 1.000|  0| 0.000|      0| 0.000|  1|  0|  0| 
 
 
 * * *

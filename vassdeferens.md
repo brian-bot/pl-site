@@ -5,26 +5,26 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman   |C         |     28| 10|  11|  2|  0| 
-|Spencer Torkelson |1B        |     23| 11|  10|  4|  0| 
-|Jake Cronenworth  |2B        |      2|  0|   0|  0|  0| 
-|Bobby Witt Jr.    |3B        |     18|  8|   6|  3|  4| 
-|Carlos Correa     |SS        |     25| 12|   9|  3|  0| 
-|Elly De La Cruz   |MI        |     22| 11|   9|  1|  6| 
-|Ryan O'Hearn      |CI        |     17| 10|  12|  2|  0| 
-|Corbin Carroll    |OF        |     31| 15|   7|  3|  9| 
-|Max Kepler        |OF        |     29|  7|   9|  2|  0| 
-|MJ Melendez       |OF        |     18|  5|   4|  2|  0| 
-|TJ Friedl         |OF        |     25| 10|   5|  2|  1| 
-|Aaron Judge       |DH        |     28| 15|  10|  7|  0| 
-|CJ Abrams         |DH        |     23| 13|   9|  5|  8| 
-|Riley Greene      |DH        |      9|  2|   4|  0|  1| 
-|Triston Casas     |DH        |     31| 11|  16|  4|  0| 
-|Casey Schmitt     |BAT BENCH |     11|  5|   3|  1|  0| 
-|Emmanuel Rivera   |BAT BENCH |      5|  0|   2|  0|  0| 
-|Jordan Westburg   |BAT BENCH |     17|  6|   4|  1|  1| 
+|Adley Rutschman   |C         |      3|  1|   0|  0|  0| 
+|Spencer Torkelson |1B        |      4|  2|   2|  1|  0| 
+|Jordan Westburg   |2B        |      2|  0|   0|  0|  0| 
+|Bobby Witt Jr.    |3B        |      8|  3|   2|  0|  3| 
+|Carlos Correa     |SS        |      1|  0|   0|  0|  0| 
+|Elly De La Cruz   |MI        |      2|  2|   0|  0|  1| 
+|Ryan O'Hearn      |CI        |      0|  0|   1|  0|  0| 
+|Corbin Carroll    |OF        |      0|  0|   0|  0|  0| 
+|Max Kepler        |OF        |      3|  1|   2|  0|  0| 
+|MJ Melendez       |OF        |      1|  0|   0|  0|  0| 
+|TJ Friedl         |OF        |      4|  1|   3|  0|  0| 
+|Aaron Judge       |DH        |      2|  0|   0|  0|  0| 
+|CJ Abrams         |DH        |      2|  1|   0|  0|  0| 
+|Oscar Colas       |DH        |     **| **|  **| **| **| 
+|Triston Casas     |DH        |      4|  1|   0|  0|  0| 
+|Casey Schmitt     |BAT BENCH |      0|  0|   0|  0|  0| 
+|Emmanuel Rivera   |BAT BENCH |      2|  0|   0|  0|  0| 
+|Jake Cronenworth  |BAT BENCH |     **| **|  **| **| **| 
 |Oneil Cruz        |BAT BENCH |     **| **|  **| **| **| 
-|Oscar Colas       |BAT BENCH |     14|  8|   4|  2|  0| 
+|Riley Greene      |BAT BENCH |     **| **|  **| **| **| 
 
 
 * * *
@@ -32,23 +32,23 @@
 ### Pitchers
 
  
-|players          |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
-|:----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Andrew Abbott    |SP          |  4| 17.667| 13|  6.623|     30| 1.698| 19|  0|  0| 
-|Dean Kremer      |SP          |  4| 21.000|  6|  2.571|     29| 1.381| 17|  1|  0| 
-|Kodai Senga      |SP          |  3| 19.667|  5|  2.288|     22| 1.119| 27|  0|  0| 
-|Kyle Bradish     |SP          |  3| 18.000|  6|  3.000|     18| 1.000| 23|  3|  0| 
-|Michael Lorenzen |SP          |  4| 22.667| 17|  6.750|     39| 1.721| 13|  2|  0| 
-|Sandy Alcantara  |SP          |  3| 20.333| 10|  4.426|     30| 1.475| 10|  1|  0| 
-|Jordan Romano    |RP          |  6|  7.000|  2|  2.571|     11| 1.571|  8|  1|  3| 
-|Kenley Jansen    |RP          |  5|  3.333|  4| 10.800|      5| 1.500|  2|  0|  0| 
-|Jordan Hicks     |OP          |  7|  6.000|  1|  1.500|      6| 1.000|  3|  1|  1| 
-|Kenta Maeda      |OP          |  4| 19.333| 14|  6.517|     31| 1.603| 14|  1|  0| 
-|Kutter Crawford  |OP          |  3| 11.333| 13| 10.324|     20| 1.765| 13|  0|  0| 
-|Reese Olson      |OP          |  3| 18.000|  3|  1.500|     14| 0.778| 16|  1|  0| 
-|Trevor May       |OP          |  7|  6.333|  0|  0.000|      9| 1.421|  4|  0|  6| 
-|Ben Lively       |PITCH BENCH |  1|  5.667|  3|  4.765|      6| 1.059|  5|  0|  0| 
-|Garrett Whitlock |PITCH BENCH |  4|  7.667|  2|  2.348|     15| 1.957|  9|  0|  0| 
+|players          |position    |  g|    ip| er|   era| hitsbb|  whip| so|  w| sv| 
+|:----------------|:-----------|--:|-----:|--:|-----:|------:|-----:|--:|--:|--:| 
+|Andrew Abbott    |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Dean Kremer      |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Kodai Senga      |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Kyle Bradish     |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Michael Lorenzen |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Sandy Alcantara  |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Jordan Romano    |RP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Kenley Jansen    |RP          |  1| 0.000|  1|   Inf|      2|   Inf|  0|  0|  0| 
+|Jordan Hicks     |OP          |  1| 1.000|  0| 0.000|      2| 2.000|  1|  0|  0| 
+|Kenta Maeda      |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Kutter Crawford  |OP          |  1| 4.667|  1| 1.929|      6| 1.286|  7|  0|  0| 
+|Reese Olson      |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Trevor May       |OP          |  1| 1.000|  0| 0.000|      0| 0.000|  1|  0|  0| 
+|Ben Lively       |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
+|Garrett Whitlock |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
 
 
 * * *
