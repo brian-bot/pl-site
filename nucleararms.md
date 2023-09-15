@@ -9,20 +9,20 @@
 |Paul Goldschmidt  |1B        |      3|  1|   1|  1|  0| 
 |Ozzie Albies      |2B        |      3|  1|   0|  0|  0| 
 |Eugenio Suarez    |3B        |      3|  2|   2|  1|  0| 
-|Francisco Lindor  |SS        |      4|  2|   2|  0|  0| 
-|Ketel Marte       |MI        |      3|  0|   1|  0|  0| 
-|Jake Burger       |CI        |      1|  0|   0|  0|  0| 
+|Francisco Lindor  |SS        |      5|  3|   2|  0|  0| 
+|Ketel Marte       |MI        |      4|  0|   1|  0|  0| 
+|Jake Burger       |CI        |      3|  0|   0|  0|  0| 
 |Andrew Benintendi |OF        |      4|  2|   0|  0|  0| 
-|George Springer   |OF        |      1|  0|   0|  0|  0| 
+|George Springer   |OF        |      2|  0|   0|  0|  0| 
 |James Outman      |OF        |      0|  0|   1|  0|  0| 
 |Nolan Jones       |OF        |      2|  1|   3|  1|  0| 
-|Andrew Vaughn     |DH        |      5|  2|   1|  0|  0| 
+|Andrew Vaughn     |DH        |      6|  3|   3|  1|  0| 
 |Jose Abreu        |DH        |      0|  0|   0|  0|  0| 
 |Shohei Ohtani     |DH        |     **| **|  **| **| **| 
-|Tommy Pham        |DH        |      4|  1|   1|  0|  2| 
+|Tommy Pham        |DH        |      6|  1|   1|  0|  2| 
 |Everson Pereira   |BAT BENCH |      3|  3|   0|  0|  2| 
-|Francisco Alvarez |BAT BENCH |      2|  1|   1|  1|  1| 
-|Oswald Peraza     |BAT BENCH |      1|  0|   0|  0|  0| 
+|Francisco Alvarez |BAT BENCH |      3|  1|   2|  1|  1| 
+|Oswald Peraza     |BAT BENCH |      5|  2|   2|  1|  0| 
 |Starling Marte    |BAT BENCH |     **| **|  **| **| **| 
 |Wander Franco     |BAT BENCH |     **| **|  **| **| **| 
 

@@ -9,18 +9,18 @@
 |Cody Bellinger |1B        |      2|  1|   1|  0|  0| 
 |Mookie Betts   |2B        |      4|  1|   0|  0|  2| 
 |Austin Riley   |3B        |      5|  2|   3|  1|  0| 
-|Corey Seager   |SS        |      6|  4|   1|  0|  0| 
+|Corey Seager   |SS        |     10|  6|   4|  1|  0| 
 |Ezequiel Tovar |MI        |      2|  0|   1|  0|  0| 
 |Ryan McMahon   |CI        |      5|  2|   1|  1|  0| 
 |Josh Lowe      |OF        |      2|  0|   1|  0|  0| 
 |Juan Soto      |OF        |      3|  3|   1|  1|  0| 
 |Lars Nootbaar  |OF        |      1|  0|   1|  0|  0| 
-|Sal Frelick    |OF        |      3|  0|   0|  0|  0| 
-|Brandon Lowe   |DH        |      2|  1|   0|  0|  0| 
+|Sal Frelick    |OF        |      4|  0|   1|  0|  0| 
+|Brandon Lowe   |DH        |      3|  2|   1|  0|  0| 
 |Maikel Garcia  |DH        |      5|  2|   1|  0|  1| 
 |Nolan Gorman   |DH        |      1|  0|   0|  0|  0| 
 |Zack Gelof     |DH        |      3|  3|   0|  0|  0| 
-|Leody Taveras  |BAT BENCH |      1|  1|   0|  0|  0| 
+|Leody Taveras  |BAT BENCH |      2|  1|   0|  0|  0| 
 
 * * *
 
@@ -46,8 +46,8 @@
 |Felix Bautista    |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Jose Alvarado     |PITCH BENCH |  1| 1.000|  0|  0.000|      1| 1.000|  2|  0|  0| 
 |Lance Lynn        |PITCH BENCH |  1| 7.000|  2|  2.571|      7| 1.000|  3|  1|  0| 
-|Mitch Keller      |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
-|Nathan Eovaldi    |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Mitch Keller      |PITCH BENCH |  1| 8.000|  0|  0.000|      3| 0.375|  7|  1|  0| 
+|Nathan Eovaldi    |PITCH BENCH |  1| 3.333|  2|  5.400|      6| 1.800|  3|  0|  0| 
 
 
 * * *

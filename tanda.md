@@ -8,11 +8,11 @@
 |Salvador Perez     |C         |      7|  2|   4|  0|  0| 
 |Matt Olson         |1B        |      3|  2|   1|  1|  0| 
 |Jazz Chisholm Jr.  |2B        |      0|  0|   0|  0|  0| 
-|Spencer Steer      |3B        |      1|  0|   0|  0|  1| 
+|Spencer Steer      |3B        |      2|  1|   1|  1|  1| 
 |Fernando Tatis Jr. |SS        |      4|  2|   3|  1|  0| 
 |Jeremy Pena        |MI        |      3|  1|   1|  0|  0| 
 |Ryan Noda          |CI        |      4|  3|   1|  0|  0| 
-|Giancarlo Stanton  |OF        |      1|  0|   0|  0|  0| 
+|Giancarlo Stanton  |OF        |      2|  0|   0|  0|  0| 
 |Marcell Ozuna      |OF        |      3|  2|   3|  1|  0| 
 |Masataka Yoshida   |OF        |      1|  0|   0|  0|  0| 
 |Ronald Acuna Jr.   |OF        |      4|  2|   2|  1|  1| 
@@ -20,11 +20,11 @@
 |Bryan De La Cruz   |DH        |      1|  1|   0|  0|  0| 
 |Esteury Ruiz       |DH        |      0|  0|   0|  0|  0| 
 |Mark Canha         |DH        |      1|  1|   0|  0|  0| 
-|Adam Duvall        |BAT BENCH |      0|  0|   0|  0|  0| 
+|Adam Duvall        |BAT BENCH |      1|  1|   0|  0|  0| 
 |Daulton Varsho     |BAT BENCH |      1|  0|   0|  0|  0| 
 |Logan O'Hoppe      |BAT BENCH |      0|  0|   0|  0|  0| 
 |Ronny Mauricio     |BAT BENCH |      1|  1|   2|  1|  0| 
-|Trevor Story       |BAT BENCH |      1|  0|   0|  0|  0| 
+|Trevor Story       |BAT BENCH |      2|  1|   3|  1|  0| 
 
 
 * * *
