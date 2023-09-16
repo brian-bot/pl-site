@@ -5,49 +5,49 @@
  
 |players         |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------|:---------|------:|--:|---:|--:|--:| 
-|Mitch Garver    |C         |      3|  1|   3|  1|  0| 
-|Yandy Diaz      |1B        |      4|  1|   2|  0|  0| 
-|Isaac Paredes   |2B        |      3|  1|   0|  0|  0| 
-|Max Muncy       |3B        |      2|  1|   1|  0|  0| 
-|Willy Adames    |SS        |      5|  0|   0|  0|  0| 
-|Gleyber Torres  |MI        |      7|  1|   3|  0|  0| 
-|Carlos Santana  |CI        |      2|  0|   0|  0|  0| 
-|Bryce Harper    |OF        |      5|  1|   1|  1|  0| 
-|Cedric Mullins  |OF        |      1|  1|   0|  0|  0| 
-|Jack Suwinski   |OF        |      8|  2|   2|  1|  1| 
+|Mitch Garver    |C         |      4|  2|   3|  1|  0| 
+|Yandy Diaz      |1B        |      5|  1|   2|  0|  0| 
+|Isaac Paredes   |2B        |      4|  1|   0|  0|  0| 
+|Max Muncy       |3B        |      4|  2|   2|  0|  0| 
+|Willy Adames    |SS        |      6|  0|   0|  0|  0| 
+|Gleyber Torres  |MI        |     10|  2|   3|  0|  0| 
+|Carlos Santana  |CI        |      5|  2|   2|  2|  0| 
+|Bryce Harper    |OF        |      5|  2|   2|  1|  0| 
+|Cedric Mullins  |OF        |      2|  1|   0|  0|  0| 
+|Jack Suwinski   |OF        |      8|  2|   3|  1|  1| 
 |Kyle Schwarber  |OF        |      2|  1|   0|  0|  0| 
 |Davis Schneider |DH        |      2|  1|   1|  1|  0| 
 |Nolan Schanuel  |DH        |      3|  0|   0|  0|  0| 
-|Wilyer Abreu    |DH        |      7|  1|   2|  0|  1| 
+|Wilyer Abreu    |DH        |      8|  1|   2|  0|  1| 
 |Yainer Diaz     |DH        |      2|  0|   1|  0|  0| 
 |Adolis Garcia   |BAT BENCH |     **| **|  **| **| **| 
-|Jarred Kelenic  |BAT BENCH |     **| **|  **| **| **| 
-|Joey Meneses    |BAT BENCH |      5|  0|   1|  0|  0| 
+|Jarred Kelenic  |BAT BENCH |      3|  0|   0|  0|  0| 
+|Joey Meneses    |BAT BENCH |      7|  1|   1|  0|  0| 
 |Mitch Haniger   |BAT BENCH |      2|  0|   0|  0|  0| 
 |Tyler O'Neill   |BAT BENCH |      1|  0|   0|  0|  0| 
-|Wilmer Flores   |BAT BENCH |      4|  0|   1|  0|  0| 
+|Wilmer Flores   |BAT BENCH |      5|  0|   2|  0|  0| 
 
 * * *
 
 ### Pitchers
 
  
-|players             |position    |  g|    ip| er|   era| hitsbb|  whip| so|  w| sv| 
-|:-------------------|:-----------|--:|-----:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Gerrit Cole         |SP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Joe Ryan            |SP          |  1| 4.667|  2| 3.857|      7| 1.500|  7|  0|  0| 
-|Michael King        |SP          |  1| 4.667|  1| 1.929|      7| 1.500|  8|  0|  0| 
-|Ryan Pepiot         |SP          |  1| 6.000|  4| 6.000|      6| 1.000|  5|  0|  0| 
-|Spencer Strider     |SP          |  1| 7.000|  1| 1.286|      6| 0.857|  9|  1|  0| 
-|Zach Eflin          |SP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Julian Merryweather |RP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Paul Sewald         |RP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Bryan Woo           |OP          |  1| 5.667|  0| 0.000|      4| 0.706|  8|  1|  0| 
-|Bryce Miller        |OP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Eury Perez          |OP          |  1| 4.667|  3| 5.786|      5| 1.071|  7|  0|  0| 
-|Evan Phillips       |OP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Pete Fairbanks      |OP          |  1| 1.000|  0| 0.000|      0| 0.000|  3|  0|  1| 
-|Shintaro Fujinami   |PITCH BENCH |  1| 1.000|  0| 0.000|      0| 0.000|  1|  0|  0| 
+|players             |position    |  g|    ip| er|    era| hitsbb|  whip| so|  w| sv| 
+|:-------------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
+|Gerrit Cole         |SP          |  1| 5.000|  2|  3.600|      9| 1.800|  4|  0|  0| 
+|Joe Ryan            |SP          |  1| 4.667|  2|  3.857|      7| 1.500|  7|  0|  0| 
+|Michael King        |SP          |  1| 4.667|  1|  1.929|      7| 1.500|  8|  0|  0| 
+|Ryan Pepiot         |SP          |  1| 6.000|  4|  6.000|      6| 1.000|  5|  0|  0| 
+|Spencer Strider     |SP          |  1| 7.000|  1|  1.286|      6| 0.857|  9|  1|  0| 
+|Zach Eflin          |SP          |  1| 7.000|  1|  1.286|      1| 0.143|  8|  1|  0| 
+|Julian Merryweather |RP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Paul Sewald         |RP          |  1| 0.667|  1| 13.500|      1| 1.500|  0|  0|  0| 
+|Bryan Woo           |OP          |  1| 5.667|  0|  0.000|      4| 0.706|  8|  1|  0| 
+|Bryce Miller        |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Eury Perez          |OP          |  1| 4.667|  3|  5.786|      5| 1.071|  7|  0|  0| 
+|Evan Phillips       |OP          |  1| 1.000|  0|  0.000|      2| 2.000|  1|  0|  1| 
+|Pete Fairbanks      |OP          |  1| 1.000|  0|  0.000|      0| 0.000|  3|  0|  1| 
+|Shintaro Fujinami   |PITCH BENCH |  1| 1.000|  0|  0.000|      0| 0.000|  1|  0|  0| 
 
 
 * * *

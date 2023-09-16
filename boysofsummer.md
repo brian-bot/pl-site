@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras |C         |      3|  1|   1|  0|  0| 
-|Freddie Freeman   |1B        |      4|  4|   2|  1|  0| 
-|Edouard Julien    |2B        |      5|  3|   2|  2|  0| 
-|Jose Ramirez      |3B        |      4|  1|   2|  1|  0| 
-|Bo Bichette       |SS        |      3|  1|   0|  0|  0| 
-|Jonathan India    |MI        |      2|  0|   2|  0|  0| 
+|William Contreras |C         |      5|  2|   4|  1|  0| 
+|Freddie Freeman   |1B        |      5|  5|   2|  1|  1| 
+|Edouard Julien    |2B        |      6|  4|   2|  2|  0| 
+|Jose Ramirez      |3B        |      6|  2|   3|  1|  0| 
+|Bo Bichette       |SS        |      4|  2|   0|  0|  0| 
+|Jonathan India    |MI        |      3|  1|   4|  1|  0| 
 |Gunnar Henderson  |CI        |      5|  2|   1|  1|  0| 
-|Chas McCormick    |OF        |      0|  0|   0|  0|  0| 
-|Kerry Carpenter   |OF        |      3|  0|   3|  0|  0| 
+|Chas McCormick    |OF        |      1|  0|   0|  0|  0| 
+|Kerry Carpenter   |OF        |      5|  1|   5|  0|  0| 
 |Luis Robert Jr.   |OF        |      3|  2|   2|  0|  0| 
-|Seiya Suzuki      |OF        |      4|  2|   4|  1|  0| 
+|Seiya Suzuki      |OF        |      5|  3|   6|  2|  0| 
 |Brandon Marsh     |DH        |      1|  0|   0|  0|  0| 
-|Eloy Jimenez      |DH        |      4|  3|   2|  1|  0| 
-|Jordan Walker     |DH        |      4|  1|   1|  0|  0| 
+|Eloy Jimenez      |DH        |      5|  3|   2|  1|  0| 
+|Jordan Walker     |DH        |      6|  2|   1|  0|  0| 
 |Will Benson       |DH        |      0|  0|   0|  0|  0| 
 |Ezequiel Duran    |BAT BENCH |      2|  2|   0|  0|  0| 
 |Mickey Moniak     |BAT BENCH |     **| **|  **| **| **| 
-|Orlando Arcia     |BAT BENCH |      2|  0|   0|  0|  0| 
+|Orlando Arcia     |BAT BENCH |      4|  2|   0|  0|  0| 
 
 
 * * *
@@ -48,7 +48,7 @@
 |Cristopher Sanchez |PITCH BENCH |  1| 7.333|  4| 4.909|      9| 1.227| 10|  0|  0| 
 |Hunter Brown       |PITCH BENCH |  1| 5.000|  0| 0.000|      2| 0.400|  7|  1|  0| 
 |Josiah Gray        |PITCH BENCH |  1| 6.333|  2| 2.842|      5| 0.789| 10|  0|  0| 
-|Justin Lawrence    |PITCH BENCH |  1| 1.000|  0| 0.000|      1| 1.000|  2|  0|  1| 
+|Justin Lawrence    |PITCH BENCH |  2| 1.333|  0| 0.000|      1| 0.750|  3|  0|  1| 
 
 
 * * *
