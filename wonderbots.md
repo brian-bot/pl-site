@@ -5,20 +5,20 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|Alejandro Kirk        |C         |      4|  0|   0|  0|  0| 
-|Vladimir Guerrero Jr. |1B        |      4|  2|   5|  2|  0| 
-|Marcus Semien         |2B        |      5|  2|   1|  0|  0| 
-|Justin Turner         |3B        |      6|  0|   0|  0|  0| 
-|Xander Bogaerts       |SS        |      4|  0|   0|  0|  1| 
-|J.P. Crawford         |MI        |      3|  1|   3|  0|  0| 
-|Luis Arraez           |CI        |      6|  4|   3|  3|  0| 
+|Alejandro Kirk        |C         |      6|  0|   0|  0|  0| 
+|Vladimir Guerrero Jr. |1B        |      9|  4|   6|  3|  0| 
+|Marcus Semien         |2B        |      6|  2|   2|  0|  0| 
+|Justin Turner         |3B        |      7|  0|   0|  0|  0| 
+|Xander Bogaerts       |SS        |      6|  0|   1|  0|  1| 
+|J.P. Crawford         |MI        |      5|  1|   3|  0|  0| 
+|Luis Arraez           |CI        |      9|  5|   4|  4|  1| 
 |Anthony Santander     |OF        |      3|  0|   1|  0|  0| 
-|Ian Happ              |OF        |      5|  1|   1|  1|  0| 
-|Nick Castellanos      |OF        |      4|  3|   4|  2|  0| 
-|Steven Kwan           |OF        |      6|  4|   0|  0|  1| 
+|Ian Happ              |OF        |      8|  2|   1|  1|  0| 
+|Nick Castellanos      |OF        |      6|  4|   4|  2|  1| 
+|Steven Kwan           |OF        |      9|  4|   1|  0|  1| 
 |Austin Hays           |DH        |      3|  0|   0|  0|  0| 
-|Jose Altuve           |DH        |      3|  2|   0|  0|  0| 
-|Josh Bell             |DH        |      2|  0|   0|  0|  0| 
+|Jose Altuve           |DH        |      5|  4|   3|  1|  0| 
+|Josh Bell             |DH        |      5|  1|   0|  0|  0| 
 |Manny Machado         |DH        |      2|  0|   0|  0|  0| 
 |Byron Buxton          |BAT BENCH |     **| **|  **| **| **| 
 |Harold Ramirez        |BAT BENCH |      5|  1|   3|  1|  0| 
@@ -36,16 +36,16 @@
 |Jameson Taillon |SP          |  1| 5.000|  3|  5.400|      8| 1.600|  5|  0|  0| 
 |Lucas Giolito   |SP          |  1| 7.000|  0|  0.000|      3| 0.429| 12|  1|  0| 
 |Luis Castillo   |SP          |  1| 6.000|  2|  3.000|      6| 1.000|  8|  1|  0| 
-|Pablo Lopez     |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Pablo Lopez     |SP          |  1| 5.000|  5|  9.000|      8| 1.600|  8|  0|  0| 
 |Clarke Schmidt  |RP          |  1| 5.333|  3|  5.062|     10| 1.875|  3|  0|  0| 
 |Dylan Floro     |RP          |  1| 1.000|  0|  0.000|      0| 0.000|  0|  0|  0| 
 |Alex Cobb       |OP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Andres Munoz    |OP          |  1| 1.000|  0|  0.000|      1| 1.000|  2|  0|  1| 
+|Andres Munoz    |OP          |  2| 2.000|  0|  0.000|      1| 0.500|  4|  0|  1| 
 |Jordan Lyles    |OP          |  1| 5.000|  7| 12.600|      7| 1.400|  3|  0|  0| 
-|Tyler Anderson  |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Tyler Anderson  |OP          |  1| 5.000|  4|  7.200|      9| 1.800|  7|  0|  0| 
 |Yusei Kikuchi   |OP          |  1| 5.000|  6| 10.800|      7| 1.400|  3|  0|  0| 
-|Jose Leclerc    |PITCH BENCH |  2| 2.333|  1|  3.857|      2| 0.857|  4|  0|  0| 
-|Ranger Suarez   |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Jose Leclerc    |PITCH BENCH |  3| 3.000|  1|  3.000|      4| 1.333|  4|  0|  0| 
+|Ranger Suarez   |PITCH BENCH |  1| 6.000|  1|  1.500|      8| 1.333|  5|  1|  0| 
 
 
 * * *
