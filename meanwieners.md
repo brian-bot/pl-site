@@ -6,24 +6,24 @@
 |players         |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------|:---------|------:|--:|---:|--:|--:| 
 |Mitch Garver    |C         |      4|  2|   3|  1|  0| 
-|Yandy Diaz      |1B        |      6|  1|   2|  0|  0| 
-|Isaac Paredes   |2B        |      4|  1|   0|  0|  0| 
+|Yandy Diaz      |1B        |      7|  1|   2|  0|  0| 
+|Isaac Paredes   |2B        |      5|  1|   0|  0|  0| 
 |Max Muncy       |3B        |      5|  3|   3|  0|  0| 
-|Willy Adames    |SS        |      7|  1|   1|  0|  0| 
-|Gleyber Torres  |MI        |     13|  3|   3|  0|  0| 
-|Carlos Santana  |CI        |      7|  4|   2|  2|  0| 
-|Bryce Harper    |OF        |      5|  2|   2|  1|  0| 
-|Cedric Mullins  |OF        |      3|  1|   1|  0|  0| 
-|Jack Suwinski   |OF        |      8|  2|   3|  1|  1| 
-|Kyle Schwarber  |OF        |      3|  2|   3|  1|  0| 
-|Davis Schneider |DH        |      2|  1|   1|  1|  0| 
-|Nolan Schanuel  |DH        |      6|  1|   1|  1|  0| 
+|Willy Adames    |SS        |     10|  1|   1|  0|  1| 
+|Gleyber Torres  |MI        |     14|  3|   3|  0|  0| 
+|Carlos Santana  |CI        |      8|  4|   3|  2|  0| 
+|Bryce Harper    |OF        |      8|  3|   2|  1|  0| 
+|Cedric Mullins  |OF        |      3|  1|   2|  0|  0| 
+|Jack Suwinski   |OF        |      9|  2|   3|  1|  1| 
+|Kyle Schwarber  |OF        |      5|  2|   3|  1|  0| 
+|Davis Schneider |DH        |      3|  1|   1|  1|  0| 
+|Nolan Schanuel  |DH        |      7|  2|   1|  1|  0| 
 |Wilyer Abreu    |DH        |     10|  2|   2|  0|  2| 
 |Yainer Diaz     |DH        |      3|  1|   2|  1|  0| 
 |Adolis Garcia   |BAT BENCH |     **| **|  **| **| **| 
 |Jarred Kelenic  |BAT BENCH |      3|  0|   0|  0|  0| 
-|Joey Meneses    |BAT BENCH |     10|  2|   2|  0|  0| 
-|Mitch Haniger   |BAT BENCH |      2|  0|   0|  0|  0| 
+|Joey Meneses    |BAT BENCH |     10|  2|   3|  0|  0| 
+|Mitch Haniger   |BAT BENCH |      4|  1|   3|  0|  0| 
 |Tyler O'Neill   |BAT BENCH |      2|  0|   0|  0|  0| 
 |Wilmer Flores   |BAT BENCH |      8|  0|   2|  0|  0| 
 
@@ -46,8 +46,8 @@
 |Bryce Miller        |OP          |  1| 5.333|  0| 0.000|      5| 0.938|  4|  0|  0| 
 |Eury Perez          |OP          |  1| 4.667|  3| 5.786|      5| 1.071|  7|  0|  0| 
 |Evan Phillips       |OP          |  2| 2.000|  0| 0.000|      5| 2.500|  1|  1|  1| 
-|Pete Fairbanks      |OP          |  1| 1.000|  0| 0.000|      0| 0.000|  3|  0|  1| 
-|Shintaro Fujinami   |PITCH BENCH |  1| 1.000|  0| 0.000|      0| 0.000|  1|  0|  0| 
+|Pete Fairbanks      |OP          |  2| 3.000|  2| 6.000|      3| 1.000|  7|  0|  1| 
+|Shintaro Fujinami   |PITCH BENCH |  2| 1.667|  0| 0.000|      2| 1.200|  2|  0|  0| 
 
 
 * * *

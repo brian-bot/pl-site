@@ -5,22 +5,22 @@
  
 |players        |position  | hitsbb|  r| rbi| hr| sb| 
 |:--------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto  |C         |      3|  1|   1|  0|  1| 
+|J.T. Realmuto  |C         |      4|  2|   1|  0|  1| 
 |Cody Bellinger |1B        |      6|  2|   2|  0|  0| 
 |Mookie Betts   |2B        |      7|  2|   0|  0|  2| 
-|Austin Riley   |3B        |      9|  4|   5|  2|  0| 
+|Austin Riley   |3B        |     10|  4|   5|  2|  0| 
 |Corey Seager   |SS        |     11|  6|   4|  1|  0| 
-|Ezequiel Tovar |MI        |      8|  3|   7|  0|  1| 
+|Ezequiel Tovar |MI        |      9|  4|   7|  0|  1| 
 |Ryan McMahon   |CI        |      6|  3|   1|  1|  0| 
-|Josh Lowe      |OF        |      4|  1|   1|  0|  0| 
-|Juan Soto      |OF        |      8|  5|   3|  1|  2| 
+|Josh Lowe      |OF        |      6|  1|   1|  0|  1| 
+|Juan Soto      |OF        |     11|  7|   9|  3|  2| 
 |Lars Nootbaar  |OF        |      4|  1|   1|  0|  0| 
-|Sal Frelick    |OF        |      8|  2|   1|  0|  1| 
-|Brandon Lowe   |DH        |      4|  3|   3|  1|  0| 
-|Maikel Garcia  |DH        |      8|  4|   1|  0|  2| 
+|Sal Frelick    |OF        |      9|  2|   1|  0|  1| 
+|Brandon Lowe   |DH        |      5|  4|   4|  2|  0| 
+|Maikel Garcia  |DH        |      9|  4|   1|  0|  2| 
 |Nolan Gorman   |DH        |      1|  0|   0|  0|  0| 
-|Zack Gelof     |DH        |      6|  4|   1|  1|  1| 
-|Leody Taveras  |BAT BENCH |      2|  1|   0|  0|  0| 
+|Zack Gelof     |DH        |      8|  4|   1|  1|  1| 
+|Leody Taveras  |BAT BENCH |      3|  2|   0|  0|  0| 
 
 * * *
 
@@ -35,7 +35,7 @@
 |Justin Verlander  |SP          |  1| 7.000|  5|  6.429|      8| 1.143|  7|  0|  0| 
 |Seth Lugo         |SP          |  1| 6.000|  3|  4.500|      6| 1.000|  7|  1|  0| 
 |Zack Wheeler      |SP          |  1| 5.000|  6| 10.800|     10| 2.000|  4|  0|  0| 
-|Alex Lange        |RP          |  2| 2.000|  3| 13.500|      4| 2.000|  3|  1|  0| 
+|Alex Lange        |RP          |  3| 3.000|  3|  9.000|      4| 1.333|  4|  1|  1| 
 |Raisel Iglesias   |RP          |  1| 1.000|  1|  9.000|      3| 3.000|  1|  1|  0| 
 |Cole Ragans       |OP          |  1| 6.000|  5|  7.500|      8| 1.333|  7|  0|  0| 
 |Ryan Brasier      |OP          |  2| 1.667|  0|  0.000|      1| 0.600|  3|  0|  0| 
