@@ -14,15 +14,15 @@
 |Alec Bohm                    |CI        |      9|  2|   2|  1|  0| 
 |Alex Verdugo                 |OF        |      1|  2|   0|  0|  0| 
 |Lourdes Gurriel Jr.          |OF        |     10|  2|   8|  1|  0| 
-|Teoscar Hernandez            |OF        |      4|  2|   2|  0|  0| 
-|Yordan Alvarez               |OF        |      9|  2|   8|  2|  0| 
+|Teoscar Hernandez            |OF        |      5|  2|   2|  0|  0| 
+|Yordan Alvarez               |OF        |     10|  2|   8|  2|  0| 
 |Christian Encarnacion-Strand |DH        |      6|  3|   4|  2|  1| 
-|Jeff McNeil                  |DH        |      6|  4|   2|  1|  0| 
+|Jeff McNeil                  |DH        |      8|  5|   3|  2|  0| 
 |Josh Naylor                  |DH        |     10|  5|   4|  0|  2| 
-|Royce Lewis                  |DH        |     12|  4|   7|  2|  1| 
+|Royce Lewis                  |DH        |     13|  5|   8|  3|  1| 
 |C.J. Cron                    |BAT BENCH |     **| **|  **| **| **| 
 |Jake Fraley                  |BAT BENCH |      2|  0|   0|  0|  0| 
-|Ty France                    |BAT BENCH |      9|  2|   1|  0|  0| 
+|Ty France                    |BAT BENCH |      8|  2|   1|  0|  0| 
 
 
 * * *
@@ -44,7 +44,7 @@
 |Kevin Ginkel      |OP          |  2| 2.000|  0|  0.000|      0| 0.000|  3|  0|  0| 
 |Merrill Kelly     |OP          |  1| 5.000|  7| 12.600|     10| 2.000|  7|  0|  0| 
 |Robert Stephenson |OP          |  3| 2.333|  0|  0.000|      1| 0.429|  3|  0|  1| 
-|Tanner Scott      |OP          |  3| 3.333|  0|  0.000|      1| 0.300|  2|  1|  2| 
+|Tanner Scott      |OP          |  4| 4.333|  1|  2.077|      3| 0.692|  4|  1|  2| 
 |Alek Manoah       |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |MacKenzie Gore    |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Roansy Contreras  |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 

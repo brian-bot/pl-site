@@ -7,19 +7,19 @@
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
 |Alejandro Kirk        |C         |      6|  0|   0|  0|  0| 
 |Vladimir Guerrero Jr. |1B        |     10|  4|   6|  3|  0| 
-|Marcus Semien         |2B        |      7|  2|   2|  0|  0| 
+|Marcus Semien         |2B        |      9|  3|   4|  1|  0| 
 |Justin Turner         |3B        |      7|  0|   0|  0|  0| 
-|Xander Bogaerts       |SS        |      8|  2|   1|  0|  1| 
-|J.P. Crawford         |MI        |      8|  1|   4|  0|  0| 
-|Luis Arraez           |CI        |     12|  7|   6|  4|  1| 
+|Xander Bogaerts       |SS        |     12|  5|   1|  0|  2| 
+|J.P. Crawford         |MI        |     12|  2|   5|  0|  0| 
+|Luis Arraez           |CI        |     14|  7|   6|  4|  1| 
 |Anthony Santander     |OF        |      3|  0|   1|  0|  0| 
 |Ian Happ              |OF        |     11|  3|   1|  1|  0| 
-|Nick Castellanos      |OF        |      8|  4|   6|  2|  2| 
-|Steven Kwan           |OF        |     11|  5|   2|  0|  1| 
-|Austin Hays           |DH        |      5|  0|   1|  0|  0| 
-|Jose Altuve           |DH        |      8|  6|   4|  1|  0| 
+|Nick Castellanos      |OF        |     10|  6|   7|  3|  2| 
+|Steven Kwan           |OF        |     12|  5|   2|  0|  1| 
+|Austin Hays           |DH        |      7|  1|   1|  0|  0| 
+|Jose Altuve           |DH        |     10|  7|   6|  1|  0| 
 |Josh Bell             |DH        |      6|  3|   1|  0|  0| 
-|Manny Machado         |DH        |      4|  1|   0|  0|  0| 
+|Manny Machado         |DH        |      5|  1|   0|  0|  0| 
 |Byron Buxton          |BAT BENCH |     **| **|  **| **| **| 
 |Harold Ramirez        |BAT BENCH |      5|  1|   4|  1|  0| 
 
@@ -32,7 +32,7 @@
 |players         |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:---------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Aaron Nola      |SP          |  1|  4.667|  2|  3.857|      8| 1.714|  1|  0|  0| 
-|Brady Singer    |SP          |  1|  5.333|  6| 10.125|     11| 2.062|  2|  0|  0| 
+|Brady Singer    |SP          |  2| 11.333| 10|  7.941|     21| 1.853|  6|  0|  0| 
 |Jameson Taillon |SP          |  1|  5.000|  3|  5.400|      8| 1.600|  5|  0|  0| 
 |Lucas Giolito   |SP          |  1|  7.000|  0|  0.000|      3| 0.429| 12|  1|  0| 
 |Luis Castillo   |SP          |  1|  6.000|  2|  3.000|      6| 1.000|  8|  1|  0| 
