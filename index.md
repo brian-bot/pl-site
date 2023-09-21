@@ -2,21 +2,21 @@
 
 ## Period 9 scores
 
-Through games on 2023-09-19 ([website build status](https://github.com/brian-bot/pl-site/actions))
+Through games on 2023-09-20 ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 
-|team                   | points|  r| hitsbb| hr| rbi| sb|  w| sv| so|   era|  whip|
-|:----------------------|------:|--:|------:|--:|---:|--:|--:|--:|--:|-----:|-----:|
-|[Vass Deferens](./vassdeferens)|   48.0| 52|    134|  9|  45| 13|  4|  1| 71| 2.761| 1.006|
-|[SYWA](./sywa)         |   40.0| 43|    118| 12|  54|  7|  6|  3| 72| 4.884| 1.327|
-|[Boys of Summer](./boysofsummer)|   76.5| 61|    143| 21|  61|  8|  4|  8| 87| 2.730| 1.202|
-|[Wonderbots](./wonderbots)|   51.5| 59|    157| 18|  56|  6|  4|  1| 83| 5.909| 1.381|
-|[Washington Generals](./washingtongenerals)|   40.0| 48|    132| 18|  47| 10|  1|  7| 43| 5.199| 1.602|
-|[Nuclear Arms](./nucleararms)|   63.5| 62|    154| 18|  54| 10|  4|  4| 83| 4.343| 1.383|
-|[Terminoeckers](./terminoeckers)|   58.0| 57|    141| 12|  46| 14|  7|  1| 90| 4.482| 1.150|
-|[Overwhelming Underdogs](./overwhelmingunderdogs)|   56.5| 50|    137| 15|  54|  8|  5|  4| 66| 4.114| 1.129|
-|[T and A](./tanda)     |   62.5| 47|    131| 15|  56| 16|  4|  2| 99| 3.944| 1.124|
-|[Mean Wieners](./meanwieners)|   53.5| 39|    132| 14|  46|  6|  6|  2| 98| 2.722| 1.016|
+|team                   | points|  r| hitsbb| hr| rbi| sb|  w| sv|  so|   era|  whip|
+|:----------------------|------:|--:|------:|--:|---:|--:|--:|--:|---:|-----:|-----:|
+|[Vass Deferens](./vassdeferens)|   55.5| 61|    154| 10|  51| 15|  6|  1|  89| 2.433| 0.979|
+|[SYWA](./sywa)         |   49.5| 48|    138| 14|  59|  9|  9|  3| 103| 4.055| 1.286|
+|[Boys of Summer](./boysofsummer)|   71.0| 70|    165| 21|  66|  9|  4|  9|  87| 2.700| 1.200|
+|[Wonderbots](./wonderbots)|   54.5| 67|    175| 22|  68|  8|  4|  1|  98| 5.632| 1.371|
+|[Washington Generals](./washingtongenerals)|   41.5| 58|    152| 21|  56| 10|  1|  7|  53| 5.226| 1.645|
+|[Nuclear Arms](./nucleararms)|   61.5| 69|    168| 19|  60| 11|  5|  4|  83| 4.288| 1.365|
+|[Terminoeckers](./terminoeckers)|   59.0| 64|    160| 13|  51| 15|  8|  1| 108| 4.187| 1.139|
+|[Overwhelming Underdogs](./overwhelmingunderdogs)|   46.0| 56|    154| 17|  63|  8|  6|  4|  82| 5.400| 1.298|
+|[T and A](./tanda)     |   58.0| 53|    146| 17|  67| 16|  4|  2| 115| 4.621| 1.198|
+|[Mean Wieners](./meanwieners)|   53.5| 50|    156| 16|  52|  7|  6|  2| 113| 2.786| 1.036|
 
 * * *
 * * *
