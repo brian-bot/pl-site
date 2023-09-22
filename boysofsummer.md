@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras |C         |     15|  6|   5|  2|  1| 
-|Freddie Freeman   |1B        |     11|  7|   3|  1|  2| 
+|William Contreras |C         |     17|  6|   5|  2|  1| 
+|Freddie Freeman   |1B        |     12|  8|   3|  1|  3| 
 |Edouard Julien    |2B        |     13|  7|   7|  3|  0| 
-|Jose Ramirez      |3B        |     14|  4|   5|  2|  2| 
-|Bo Bichette       |SS        |     10|  5|   5|  1|  0| 
+|Jose Ramirez      |3B        |     17|  4|   6|  2|  3| 
+|Bo Bichette       |SS        |     10|  6|   5|  1|  0| 
 |Jonathan India    |MI        |      9|  2|   4|  1|  0| 
-|Gunnar Henderson  |CI        |     13|  7|   5|  2|  0| 
+|Gunnar Henderson  |CI        |     14|  7|   5|  2|  0| 
 |Chas McCormick    |OF        |      9|  1|   2|  0|  3| 
-|Kerry Carpenter   |OF        |     12|  6|   6|  0|  0| 
+|Kerry Carpenter   |OF        |     15|  7|   6|  0|  0| 
 |Luis Robert Jr.   |OF        |      7|  5|   6|  2|  0| 
 |Seiya Suzuki      |OF        |     15|  5|   8|  3|  0| 
 |Brandon Marsh     |DH        |      9|  3|   1|  0|  1| 
 |Eloy Jimenez      |DH        |     11|  5|   4|  2|  0| 
-|Jordan Walker     |DH        |     12|  4|   2|  1|  0| 
+|Jordan Walker     |DH        |     15|  4|   2|  1|  0| 
 |Will Benson       |DH        |      5|  3|   3|  1|  0| 
 |Ezequiel Duran    |BAT BENCH |      4|  2|   1|  0|  0| 
 |Mickey Moniak     |BAT BENCH |     **| **|  **| **| **| 
-|Orlando Arcia     |BAT BENCH |      5|  3|   1|  0|  0| 
+|Orlando Arcia     |BAT BENCH |      9|  4|   2|  0|  0| 
 
 
 * * *
@@ -38,7 +38,7 @@
 |Eduardo Rodriguez  |SP          |  2|  8.333|  9| 9.720|     15| 1.800|  6|  0|  0| 
 |Jordan Wicks       |SP          |  1|  4.333|  3| 6.231|      8| 1.846|  5|  0|  0| 
 |Sonny Gray         |SP          |  1|  7.000|  0| 0.000|      5| 0.714|  6|  1|  0| 
-|Emmanuel Clase     |RP          |  3|  3.000|  0| 0.000|      2| 0.667|  3|  0|  2| 
+|Emmanuel Clase     |RP          |  4|  4.000|  0| 0.000|      4| 1.000|  5|  0|  3| 
 |Josh Hader         |RP          |  4|  3.333|  0| 0.000|      6| 1.800|  1|  1|  3| 
 |Dane Dunning       |OP          |  1|  5.000|  0| 0.000|      9| 1.800|  5|  0|  0| 
 |Dylan Cease        |OP          |  2| 11.333|  4| 3.176|     12| 1.059| 13|  1|  0| 

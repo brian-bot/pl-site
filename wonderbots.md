@@ -5,23 +5,23 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|Alejandro Kirk        |C         |      7|  1|   2|  1|  0| 
-|Vladimir Guerrero Jr. |1B        |     10|  4|   6|  3|  0| 
+|Alejandro Kirk        |C         |      8|  1|   2|  1|  0| 
+|Vladimir Guerrero Jr. |1B        |     10|  4|   7|  3|  0| 
 |Marcus Semien         |2B        |     15|  5|   8|  1|  0| 
 |Justin Turner         |3B        |     10|  1|   1|  0|  0| 
 |Xander Bogaerts       |SS        |     17|  7|   3|  1|  3| 
 |J.P. Crawford         |MI        |     14|  4|   7|  1|  0| 
 |Luis Arraez           |CI        |     14|  7|   6|  4|  1| 
-|Anthony Santander     |OF        |      7|  2|   2|  0|  1| 
-|Ian Happ              |OF        |     15|  5|   5|  2|  0| 
-|Nick Castellanos      |OF        |     12|  8|  10|  5|  2| 
-|Steven Kwan           |OF        |     17|  6|   4|  0|  1| 
-|Austin Hays           |DH        |      9|  3|   5|  2|  0| 
+|Anthony Santander     |OF        |      7|  2|   3|  0|  1| 
+|Ian Happ              |OF        |     17|  6|   5|  2|  0| 
+|Nick Castellanos      |OF        |     14|  9|  14|  6|  2| 
+|Steven Kwan           |OF        |     19|  7|   4|  0|  1| 
+|Austin Hays           |DH        |     10|  3|   5|  2|  0| 
 |Jose Altuve           |DH        |     14|  8|   6|  1|  0| 
 |Josh Bell             |DH        |      9|  5|   3|  1|  0| 
 |Manny Machado         |DH        |      5|  1|   0|  0|  0| 
 |Byron Buxton          |BAT BENCH |     **| **|  **| **| **| 
-|Harold Ramirez        |BAT BENCH |      6|  1|   4|  1|  0| 
+|Harold Ramirez        |BAT BENCH |      7|  1|   4|  1|  0| 
 
 
 * * *
@@ -45,7 +45,7 @@
 |Tyler Anderson  |OP          |  1|  5.000|  4|  7.200|      9| 1.800|  7|  0|  0| 
 |Yusei Kikuchi   |OP          |  2| 10.000|  7|  6.300|     12| 1.200| 10|  1|  0| 
 |Jose Leclerc    |PITCH BENCH |  4|  4.000|  1|  2.250|      4| 1.000|  5|  0|  1| 
-|Ranger Suarez   |PITCH BENCH |  1|  6.000|  1|  1.500|      8| 1.333|  5|  1|  0| 
+|Ranger Suarez   |PITCH BENCH |  2| 12.667|  5|  3.553|     15| 1.184| 11|  2|  0| 
 
 
 * * *

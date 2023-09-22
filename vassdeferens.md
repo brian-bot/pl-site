@@ -5,18 +5,18 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman   |C         |     11|  5|   5|  1|  0| 
-|Spencer Torkelson |1B        |      8|  4|   7|  2|  0| 
-|Jordan Westburg   |2B        |      3|  0|   0|  0|  0| 
+|Adley Rutschman   |C         |     14|  6|   5|  1|  0| 
+|Spencer Torkelson |1B        |      9|  6|   8|  2|  0| 
+|Jordan Westburg   |2B        |      4|  0|   0|  0|  0| 
 |Bobby Witt Jr.    |3B        |     18| 10|   5|  1|  7| 
 |Carlos Correa     |SS        |      7|  3|   2|  0|  0| 
 |Elly De La Cruz   |MI        |      7|  2|   0|  0|  3| 
-|Ryan O'Hearn      |CI        |     12|  6|   7|  2|  0| 
+|Ryan O'Hearn      |CI        |     13|  6|   8|  2|  0| 
 |Corbin Carroll    |OF        |     13|  6|   4|  1|  3| 
 |Max Kepler        |OF        |     14|  7|   3|  0|  1| 
 |MJ Melendez       |OF        |     14|  5|   5|  1|  0| 
 |TJ Friedl         |OF        |     12|  3|   5|  1|  0| 
-|Aaron Judge       |DH        |     16|  4|   5|  1|  0| 
+|Aaron Judge       |DH        |     18|  4|   6|  1|  0| 
 |CJ Abrams         |DH        |     12|  5|   2|  0|  1| 
 |Oscar Colas       |DH        |     **| **|  **| **| **| 
 |Triston Casas     |DH        |      7|  1|   1|  0|  0| 
@@ -46,7 +46,7 @@
 |Kenta Maeda      |OP          |  2| 12.000|  2|   1.500|      7|  0.583| 16|  2|  0| 
 |Kutter Crawford  |OP          |  2| 10.667|  3|   2.531|     10|  0.937| 14|  0|  0| 
 |Reese Olson      |OP          |  2| 12.000|  2|   1.500|     10|  0.833| 12|  2|  0| 
-|Trevor May       |OP          |  1|  1.000|  0|   0.000|      0|  0.000|  1|  0|  0| 
+|Trevor May       |OP          |  2|  2.000|  0|   0.000|      0|  0.000|  2|  0|  0| 
 |Ben Lively       |PITCH BENCH |  2|  8.333|  8|   8.640|     15|  1.800|  8|  0|  0| 
 |Garrett Whitlock |PITCH BENCH |  3|  3.333|  1|   2.700|      2|  0.600|  2|  0|  0| 
 
