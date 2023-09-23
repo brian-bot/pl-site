@@ -5,24 +5,24 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Sean Murphy      |C         |      3|  0|   0|  0|  0| 
-|Pete Alonso      |1B        |     12|  6|  11|  2|  0| 
-|Bryson Stott     |2B        |      9|  3|   5|  1|  1| 
-|Alex Bregman     |3B        |     15|  5|   3|  2|  0| 
-|Trea Turner      |SS        |     13|  5|   2|  1|  2| 
-|Anthony Volpe    |MI        |      8|  4|   2|  1|  2| 
-|Nathaniel Lowe   |CI        |     12|  4|   5|  1|  0| 
-|Bryan Reynolds   |OF        |     14|  4|   7|  2|  0| 
-|Christian Yelich |OF        |      1|  1|   0|  0|  0| 
-|Julio Rodriguez  |OF        |     13|  5|   3|  1|  0| 
-|Matt Wallner     |OF        |     14|  4|   5|  1|  0| 
-|Brandon Nimmo    |DH        |     21|  7|   5|  1|  0| 
-|Brice Turang     |DH        |      3|  2|   0|  0|  3| 
+|Sean Murphy      |C         |      4|  0|   0|  0|  0| 
+|Pete Alonso      |1B        |     13|  6|  12|  2|  0| 
+|Bryson Stott     |2B        |     10|  3|   5|  1|  1| 
+|Alex Bregman     |3B        |     17|  6|   3|  2|  0| 
+|Trea Turner      |SS        |     14|  6|   2|  1|  3| 
+|Anthony Volpe    |MI        |     10|  4|   2|  1|  2| 
+|Nathaniel Lowe   |CI        |     12|  5|   6|  1|  0| 
+|Bryan Reynolds   |OF        |     17|  5|   8|  2|  0| 
+|Christian Yelich |OF        |      5|  5|   5|  2|  0| 
+|Julio Rodriguez  |OF        |     14|  6|   3|  1|  0| 
+|Matt Wallner     |OF        |     16|  4|   6|  1|  0| 
+|Brandon Nimmo    |DH        |     24|  8|   6|  1|  0| 
+|Brice Turang     |DH        |      5|  4|   1|  0|  4| 
 |J.D. Martinez    |DH        |     16|  4|  13|  4|  0| 
-|Jorge Polanco    |DH        |     10|  5|   5|  1|  0| 
+|Jorge Polanco    |DH        |     13|  5|   6|  1|  0| 
 |Andrew McCutchen |BAT BENCH |     **| **|  **| **| **| 
-|Josh Jung        |BAT BENCH |      5|  3|   3|  1|  0| 
-|Tommy Edman      |BAT BENCH |      4|  0|   1|  0|  0| 
+|Josh Jung        |BAT BENCH |      7|  4|   3|  1|  0| 
+|Tommy Edman      |BAT BENCH |      6|  0|   1|  0|  1| 
 
 * * *
 
@@ -38,8 +38,8 @@
 |Max Scherzer      |SP          |  1|  5.333|  0|  0.000|      4| 0.750|  2|  1|  0| 
 |Mike Clevinger    |SP          |  2| 15.000|  3|  1.800|     12| 0.800| 14|  1|  0| 
 |Devin Williams    |RP          |  4|  4.000|  0|  0.000|      2| 0.500|  6|  0|  3| 
-|Jhoan Duran       |RP          |  3|  3.000|  0|  0.000|      1| 0.333|  3|  1|  1| 
-|Aroldis Chapman   |OP          |  2|  2.667|  1|  3.375|      1| 0.375|  5|  1|  0| 
+|Jhoan Duran       |RP          |  4|  4.000|  1|  2.250|      5| 1.250|  4|  1|  2| 
+|Aroldis Chapman   |OP          |  3|  3.667|  2|  4.909|      5| 1.364|  7|  1|  0| 
 |Griffin Canning   |OP          |  2| 11.000|  6|  4.909|     15| 1.364| 14|  0|  0| 
 |Justin Steele     |OP          |  2|  9.000| 12| 12.000|     17| 1.889| 11|  0|  0| 
 |Wade Miley        |OP          |  2| 11.667|  3|  2.314|     12| 1.029| 10|  2|  0| 
