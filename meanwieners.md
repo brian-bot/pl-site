@@ -5,27 +5,27 @@
  
 |players         |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------|:---------|------:|--:|---:|--:|--:| 
-|Mitch Garver    |C         |     10|  4|   7|  2|  0| 
-|Yandy Diaz      |1B        |     22|  5|   5|  1|  0| 
-|Isaac Paredes   |2B        |     14|  2|   3|  0|  0| 
-|Max Muncy       |3B        |     13|  7|   6|  1|  0| 
-|Willy Adames    |SS        |     19|  7|   2|  0|  1| 
-|Gleyber Torres  |MI        |     19|  4|   4|  0|  0| 
-|Carlos Santana  |CI        |     14|  6|   8|  3|  0| 
-|Bryce Harper    |OF        |     20|  9|   9|  4|  1| 
-|Cedric Mullins  |OF        |      8|  3|   6|  1|  2| 
-|Jack Suwinski   |OF        |     18|  8|   6|  1|  2| 
-|Kyle Schwarber  |OF        |     14|  6|   6|  2|  0| 
+|Mitch Garver    |C         |     12|  6|   7|  2|  0| 
+|Yandy Diaz      |1B        |     23|  6|   5|  1|  0| 
+|Isaac Paredes   |2B        |     17|  3|   6|  1|  0| 
+|Max Muncy       |3B        |     14|  7|   6|  1|  0| 
+|Willy Adames    |SS        |     21|  7|   2|  0|  1| 
+|Gleyber Torres  |MI        |     20|  4|   4|  0|  0| 
+|Carlos Santana  |CI        |     16|  6|   8|  3|  0| 
+|Bryce Harper    |OF        |     22| 10|  10|  4|  1| 
+|Cedric Mullins  |OF        |     10|  4|   7|  1|  2| 
+|Jack Suwinski   |OF        |     20|  9|   7|  2|  2| 
+|Kyle Schwarber  |OF        |     16|  6|   6|  2|  0| 
 |Davis Schneider |DH        |      5|  1|   1|  1|  0| 
 |Nolan Schanuel  |DH        |     14|  5|   2|  1|  0| 
-|Wilyer Abreu    |DH        |     10|  2|   2|  0|  2| 
-|Yainer Diaz     |DH        |      8|  3|   4|  2|  0| 
-|Adolis Garcia   |BAT BENCH |      9|  6|   2|  1|  1| 
-|Jarred Kelenic  |BAT BENCH |     13|  0|   2|  0|  0| 
-|Joey Meneses    |BAT BENCH |     16|  4|   9|  2|  0| 
+|Wilyer Abreu    |DH        |     11|  3|   3|  1|  2| 
+|Yainer Diaz     |DH        |      9|  4|   5|  2|  0| 
+|Adolis Garcia   |BAT BENCH |     10|  7|   3|  2|  1| 
+|Jarred Kelenic  |BAT BENCH |     15|  1|   4|  0|  1| 
+|Joey Meneses    |BAT BENCH |     19|  4|   9|  2|  0| 
 |Mitch Haniger   |BAT BENCH |      6|  2|   3|  0|  0| 
 |Tyler O'Neill   |BAT BENCH |      2|  0|   0|  0|  0| 
-|Wilmer Flores   |BAT BENCH |     13|  0|   3|  0|  0| 
+|Wilmer Flores   |BAT BENCH |     15|  0|   3|  0|  0| 
 
 * * *
 
@@ -35,17 +35,17 @@
 |players             |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:-------------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Gerrit Cole         |SP          |  2| 13.000|  3|  2.077|     11| 0.846| 13|  1|  0| 
-|Joe Ryan            |SP          |  2|  9.667|  6|  5.586|     15| 1.552| 12|  0|  0| 
+|Joe Ryan            |SP          |  3| 15.667|  9|  5.170|     22| 1.404| 22|  1|  0| 
 |Michael King        |SP          |  2| 11.667|  2|  1.543|     12| 1.029| 21|  0|  0| 
 |Ryan Pepiot         |SP          |  2| 12.000|  5|  3.750|     12| 1.000|  9|  0|  0| 
-|Spencer Strider     |SP          |  2| 14.000|  4|  2.571|     10| 0.714| 20|  2|  0| 
+|Spencer Strider     |SP          |  3| 19.667|  8|  3.661|     18| 0.915| 24|  3|  0| 
 |Zach Eflin          |SP          |  2| 12.000|  3|  2.250|      8| 0.667| 18|  1|  0| 
-|Julian Merryweather |RP          |  3|  3.333|  3|  8.100|      7| 2.100|  4|  0|  0| 
+|Julian Merryweather |RP          |  4|  4.333|  3|  6.231|      9| 2.077|  5|  0|  1| 
 |Paul Sewald         |RP          |  3|  2.667|  1|  3.375|      1| 0.375|  3|  0|  0| 
-|Bryan Woo           |OP          |  2| 10.667|  0|  0.000|     11| 1.031| 14|  2|  0| 
+|Bryan Woo           |OP          |  3| 14.000|  6|  3.857|     18| 1.286| 20|  2|  0| 
 |Bryce Miller        |OP          |  2|  9.667|  6|  5.586|     12| 1.241|  6|  0|  0| 
 |Eury Perez          |OP          |  2|  7.667|  5|  5.870|     11| 1.435|  9|  0|  0| 
-|Evan Phillips       |OP          |  4|  4.000|  1|  2.250|      7| 1.750|  3|  1|  1| 
+|Evan Phillips       |OP          |  5|  5.000|  1|  1.800|      9| 1.800|  4|  1|  1| 
 |Pete Fairbanks      |OP          |  3|  3.000|  3|  9.000|      6| 2.000|  7|  0|  1| 
 |Shintaro Fujinami   |PITCH BENCH |  5|  3.000|  4| 12.000|      7| 2.333|  2|  0|  0| 
 

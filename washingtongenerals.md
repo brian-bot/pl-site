@@ -9,18 +9,18 @@
 |Ryan Mountcastle  |1B        |      2|  0|   0|  0|  0| 
 |Andres Gimenez    |2B        |     17|  9|  10|  2|  3| 
 |Rafael Devers     |3B        |     24|  8|   5|  4|  1| 
-|Nico Hoerner      |SS        |     24|  6|   6|  0|  4| 
+|Nico Hoerner      |SS        |     25|  6|   6|  0|  4| 
 |Tim Anderson      |MI        |     16|  4|   1|  0|  0| 
 |Ke'Bryan Hayes    |CI        |     20|  8|   6|  2|  1| 
-|Brent Rooker      |OF        |      9|  6|   7|  5|  0| 
-|Kyle Tucker       |OF        |     10|  4|   6|  2|  1| 
-|Lane Thomas       |OF        |     11|  4|   7|  2|  1| 
+|Brent Rooker      |OF        |     11|  6|   7|  5|  0| 
+|Kyle Tucker       |OF        |     11|  5|   6|  2|  1| 
+|Lane Thomas       |OF        |     13|  6|   8|  3|  2| 
 |Randy Arozarena   |OF        |     12|  4|   5|  2|  0| 
 |Connor Joe        |DH        |      9|  5|   3|  1|  0| 
 |Michael Harris II |DH        |     12|  7|   4|  2|  0| 
-|Shea Langeliers   |DH        |      5|  4|   8|  3|  0| 
-|Thairo Estrada    |DH        |     14|  5|   3|  1|  1| 
-|Jon Berti         |BAT BENCH |     11|  2|   2|  1|  1| 
+|Shea Langeliers   |DH        |      7|  4|   8|  3|  0| 
+|Thairo Estrada    |DH        |     16|  5|   3|  1|  1| 
+|Jon Berti         |BAT BENCH |     13|  4|   5|  3|  1| 
 |Josh Rojas        |BAT BENCH |      4|  2|   1|  0|  0| 
 |Mike Trout        |BAT BENCH |     **| **|  **| **| **| 
 
@@ -40,10 +40,10 @@
 |Tanner Houck     |SP          |  2| 10.000|  2|  1.800|     14| 1.400| 11|  1|  0| 
 |Carlos Estevez   |RP          |  4|  3.667|  2|  4.909|      8| 2.182|  6|  0|  1| 
 |David Bednar     |RP          |  5|  5.000|  2|  3.600|      9| 1.800|  7|  0|  4| 
-|A.J. Minter      |OP          |  4|  3.667|  1|  2.455|      7| 1.909|  7|  0|  0| 
-|Carlos Hernandez |OP          |  5|  4.000|  4|  9.000|     11| 2.750|  2|  0|  1| 
+|A.J. Minter      |OP          |  5|  4.667|  1|  1.929|      8| 1.714|  8|  0|  0| 
+|Carlos Hernandez |OP          |  6|  5.000|  4|  7.200|     12| 2.400|  2|  0|  1| 
 |Gregory Santos   |OP          |  2|  2.333|  3| 11.571|      4| 1.714|  2|  0|  1| 
-|Kyle Finnegan    |OP          |  3|  2.667|  5| 16.875|      9| 3.375|  2|  0|  1| 
+|Kyle Finnegan    |OP          |  4|  3.667|  6| 14.727|     10| 2.727|  2|  0|  2| 
 |Yennier Cano     |OP          |  6|  4.333|  2|  4.154|      5| 1.154|  2|  0|  1| 
 |Adam Ottavino    |PITCH BENCH |  4|  3.667|  0|  0.000|      2| 0.545|  5|  0|  2| 
 |Joe Musgrove     |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
