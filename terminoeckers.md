@@ -9,18 +9,18 @@
 |Cody Bellinger |1B        |     15|  5|   6|  1|  0| 
 |Mookie Betts   |2B        |     19|  6|   2|  0|  2| 
 |Austin Riley   |3B        |     24| 10|  11|  3|  0| 
-|Corey Seager   |SS        |     19| 10|   8|  3|  0| 
+|Corey Seager   |SS        |     20| 10|   8|  3|  0| 
 |Ezequiel Tovar |MI        |     17|  6|   9|  0|  1| 
 |Ryan McMahon   |CI        |     13|  3|   1|  1|  0| 
 |Josh Lowe      |OF        |     14|  5|   5|  1|  3| 
-|Juan Soto      |OF        |     26| 12|  16|  4|  3| 
+|Juan Soto      |OF        |     27| 12|  16|  4|  3| 
 |Lars Nootbaar  |OF        |     12|  3|   1|  0|  1| 
 |Sal Frelick    |OF        |     18|  5|   4|  0|  1| 
 |Brandon Lowe   |DH        |      9|  5|   4|  2|  0| 
 |Maikel Garcia  |DH        |     17|  7|   1|  0|  3| 
 |Nolan Gorman   |DH        |      1|  0|   0|  0|  0| 
 |Zack Gelof     |DH        |     20|  7|   4|  2|  4| 
-|Leody Taveras  |BAT BENCH |     15|  8|   5|  1|  0| 
+|Leody Taveras  |BAT BENCH |     16|  8|   5|  1|  0| 
 
 * * *
 
@@ -32,7 +32,7 @@
 |Bobby Miller      |SP          |  2| 11.667|  5| 3.857|     12| 1.029| 14|  1|  0| 
 |George Kirby      |SP          |  2| 13.000|  7| 4.846|     15| 1.154| 10|  1|  0| 
 |Grayson Rodriguez |SP          |  2| 13.000|  2| 1.385|     13| 1.000| 14|  1|  0| 
-|Justin Verlander  |SP          |  2| 13.000|  8| 5.538|     17| 1.308| 12|  0|  0| 
+|Justin Verlander  |SP          |  3| 21.000|  9| 3.857|     21| 1.000| 20|  1|  0| 
 |Seth Lugo         |SP          |  2| 12.000|  5| 3.750|     15| 1.250| 14|  1|  0| 
 |Zack Wheeler      |SP          |  3| 18.000| 10| 5.000|     24| 1.333| 15|  2|  0| 
 |Alex Lange        |RP          |  5|  5.333|  4| 6.750|      9| 1.688|  6|  1|  2| 

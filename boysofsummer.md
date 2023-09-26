@@ -12,7 +12,7 @@
 |Bo Bichette       |SS        |     15|  9|   7|  2|  1| 
 |Jonathan India    |MI        |     16|  4|   5|  1|  0| 
 |Gunnar Henderson  |CI        |     20| 11|   6|  2|  1| 
-|Chas McCormick    |OF        |     13|  3|   7|  2|  3| 
+|Chas McCormick    |OF        |     14|  3|   7|  2|  3| 
 |Kerry Carpenter   |OF        |     16|  7|   6|  0|  0| 
 |Luis Robert Jr.   |OF        |     10|  7|   7|  3|  3| 
 |Seiya Suzuki      |OF        |     22| 10|  11|  4|  0| 
@@ -32,7 +32,7 @@
  
 |players            |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:------------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Blake Snell        |SP          |  2| 13.000|  0| 0.000|      6| 0.462| 18|  1|  0| 
+|Blake Snell        |SP          |  3| 19.000|  0| 0.000|     12| 0.632| 25|  1|  0| 
 |Chris Bassitt      |SP          |  2| 13.667|  4| 2.634|     13| 0.951| 13|  1|  0| 
 |Clayton Kershaw    |SP          |  2|  9.000|  0| 0.000|      8| 0.889|  9|  1|  0| 
 |Eduardo Rodriguez  |SP          |  3| 15.333|  9| 5.283|     24| 1.565| 11|  1|  0| 

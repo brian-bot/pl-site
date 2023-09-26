@@ -10,19 +10,19 @@
 |Ozzie Albies      |2B        |     22|  9|  11|  3|  1| 
 |Eugenio Suarez    |3B        |     15|  7|   7|  2|  0| 
 |Francisco Lindor  |SS        |     19|  8|   5|  1|  4| 
-|Ketel Marte       |MI        |     17|  5|   6|  2|  1| 
+|Ketel Marte       |MI        |     18|  5|   6|  2|  1| 
 |Jake Burger       |CI        |     20|  8|  10|  3|  0| 
 |Andrew Benintendi |OF        |     13|  3|   2|  0|  0| 
 |George Springer   |OF        |     13|  7|   7|  2|  1| 
 |James Outman      |OF        |      9|  5|   5|  3|  0| 
 |Nolan Jones       |OF        |     28| 11|   6|  3|  4| 
 |Andrew Vaughn     |DH        |     18|  5|   6|  1|  0| 
-|Jose Abreu        |DH        |     12|  4|   7|  3|  0| 
+|Jose Abreu        |DH        |     13|  5|   7|  3|  0| 
 |Shohei Ohtani     |DH        |     **| **|  **| **| **| 
 |Tommy Pham        |DH        |     15|  6|   4|  0|  3| 
-|Everson Pereira   |BAT BENCH |      3|  3|   0|  0|  2| 
+|Everson Pereira   |BAT BENCH |      5|  3|   1|  0|  2| 
 |Francisco Alvarez |BAT BENCH |      6|  1|   6|  1|  1| 
-|Oswald Peraza     |BAT BENCH |     11|  4|   2|  1|  0| 
+|Oswald Peraza     |BAT BENCH |     13|  5|   4|  2|  0| 
 |Starling Marte    |BAT BENCH |     **| **|  **| **| **| 
 |Wander Franco     |BAT BENCH |     **| **|  **| **| **| 
 
@@ -40,7 +40,7 @@
 |Kyle Wright       |SP          |  2|  7.000|  5|  6.429|     12| 1.714|  7|  0|  0| 
 |Michael Wacha     |SP          |  3| 16.000| 11|  6.188|     22| 1.375| 15|  2|  0| 
 |Tyler Glasnow     |SP          |  2|  9.333| 10|  9.643|     17| 1.821| 11|  0|  0| 
-|Clay Holmes       |RP          |  4|  4.000|  1|  2.250|      6| 1.500|  2|  0|  3| 
+|Clay Holmes       |RP          |  5|  5.000|  1|  1.800|      6| 1.200|  4|  0|  4| 
 |Ryan Pressly      |RP          |  4|  4.000|  5| 11.250|      9| 2.250|  5|  1|  0| 
 |David Peterson    |OP          |  2|  9.667|  6|  5.586|     15| 1.552| 17|  0|  0| 
 |Hyun Jin Ryu      |OP          |  3| 15.000|  8|  4.800|     24| 1.600|  9|  0|  0| 

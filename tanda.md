@@ -9,8 +9,8 @@
 |Matt Olson         |1B        |     23| 10|   6|  3|  0| 
 |Jazz Chisholm Jr.  |2B        |     12|  8|   8|  2|  3| 
 |Spencer Steer      |3B        |     17|  5|   5|  2|  2| 
-|Fernando Tatis Jr. |SS        |     21|  8|   7|  2|  4| 
-|Jeremy Pena        |MI        |     13|  5|   3|  0|  2| 
+|Fernando Tatis Jr. |SS        |     23|  8|   7|  2|  4| 
+|Jeremy Pena        |MI        |     14|  5|   3|  0|  2| 
 |Ryan Noda          |CI        |     14|  4|   4|  0|  0| 
 |Giancarlo Stanton  |OF        |      6|  1|   1|  1|  0| 
 |Marcell Ozuna      |OF        |     18|  5|  12|  3|  0| 
@@ -22,7 +22,7 @@
 |Mark Canha         |DH        |     18|  4|  11|  1|  3| 
 |Adam Duvall        |BAT BENCH |      7|  3|   6|  2|  0| 
 |Daulton Varsho     |BAT BENCH |      9|  5|   5|  2|  0| 
-|Logan O'Hoppe      |BAT BENCH |      7|  4|   4|  2|  0| 
+|Logan O'Hoppe      |BAT BENCH |      9|  5|   5|  3|  0| 
 |Ronny Mauricio     |BAT BENCH |     13|  6|   6|  2|  2| 
 |Trevor Story       |BAT BENCH |      9|  2|   3|  1|  1| 
 
@@ -47,7 +47,7 @@
 |Kyle Harrison   |OP          |  2|  9.333|  5|  4.821|     12| 1.286|  5|  0|  0| 
 |Kyle Hendricks  |OP          |  2| 11.333|  4|  3.176|     17| 1.500|  8|  0|  0| 
 |Nick Pivetta    |OP          |  3| 18.667|  5|  2.411|     13| 0.696| 23|  0|  0| 
-|Andrew Heaney   |PITCH BENCH |  3|  4.667|  6| 11.571|     10| 2.143|  6|  0|  0| 
+|Andrew Heaney   |PITCH BENCH |  4|  6.000|  6|  9.000|     10| 1.667|  6|  0|  0| 
 |Touki Toussaint |PITCH BENCH |  3| 12.333| 10|  7.297|     19| 1.541| 11|  1|  0| 
 
 

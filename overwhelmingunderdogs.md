@@ -10,11 +10,11 @@
 |Bryson Stott     |2B        |     11|  4|   5|  1|  2| 
 |Alex Bregman     |3B        |     18|  6|   3|  2|  0| 
 |Trea Turner      |SS        |     15|  8|   3|  1|  3| 
-|Anthony Volpe    |MI        |     10|  4|   2|  1|  2| 
-|Nathaniel Lowe   |CI        |     13|  5|   6|  1|  0| 
+|Anthony Volpe    |MI        |     11|  5|   2|  1|  2| 
+|Nathaniel Lowe   |CI        |     14|  6|   7|  2|  0| 
 |Bryan Reynolds   |OF        |     21|  7|  11|  3|  0| 
 |Christian Yelich |OF        |      8|  6|   5|  2|  0| 
-|Julio Rodriguez  |OF        |     18|  8|   3|  1|  0| 
+|Julio Rodriguez  |OF        |     18|  8|   4|  1|  0| 
 |Matt Wallner     |OF        |     20|  6|   6|  1|  0| 
 |Brandon Nimmo    |DH        |     25|  9|   8|  1|  0| 
 |Brice Turang     |DH        |      6|  5|   1|  0|  5| 

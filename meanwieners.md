@@ -5,25 +5,25 @@
  
 |players         |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------|:---------|------:|--:|---:|--:|--:| 
-|Mitch Garver    |C         |     12|  6|   7|  2|  0| 
+|Mitch Garver    |C         |     16|  7|   8|  3|  0| 
 |Yandy Diaz      |1B        |     23|  6|   5|  1|  0| 
 |Isaac Paredes   |2B        |     17|  3|   6|  1|  0| 
 |Max Muncy       |3B        |     14|  7|   6|  1|  0| 
 |Willy Adames    |SS        |     21|  7|   2|  0|  1| 
-|Gleyber Torres  |MI        |     20|  4|   4|  0|  0| 
+|Gleyber Torres  |MI        |     23|  6|   4|  0|  0| 
 |Carlos Santana  |CI        |     16|  6|   8|  3|  0| 
 |Bryce Harper    |OF        |     22| 10|  10|  4|  1| 
 |Cedric Mullins  |OF        |     10|  4|   7|  1|  2| 
 |Jack Suwinski   |OF        |     20|  9|   7|  2|  2| 
 |Kyle Schwarber  |OF        |     16|  6|   6|  2|  0| 
 |Davis Schneider |DH        |      5|  1|   1|  1|  0| 
-|Nolan Schanuel  |DH        |     14|  5|   2|  1|  0| 
+|Nolan Schanuel  |DH        |     15|  5|   2|  1|  0| 
 |Wilyer Abreu    |DH        |     11|  3|   3|  1|  2| 
 |Yainer Diaz     |DH        |      9|  4|   5|  2|  0| 
-|Adolis Garcia   |BAT BENCH |     10|  7|   3|  2|  1| 
+|Adolis Garcia   |BAT BENCH |     12|  8|   4|  3|  1| 
 |Jarred Kelenic  |BAT BENCH |     15|  1|   4|  0|  1| 
 |Joey Meneses    |BAT BENCH |     19|  4|   9|  2|  0| 
-|Mitch Haniger   |BAT BENCH |      6|  2|   3|  0|  0| 
+|Mitch Haniger   |BAT BENCH |      7|  2|   3|  0|  0| 
 |Tyler O'Neill   |BAT BENCH |      2|  0|   0|  0|  0| 
 |Wilmer Flores   |BAT BENCH |     15|  0|   3|  0|  0| 
 

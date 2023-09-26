@@ -13,7 +13,7 @@
 |Tim Anderson      |MI        |     16|  4|   1|  0|  0| 
 |Ke'Bryan Hayes    |CI        |     20|  8|   6|  2|  1| 
 |Brent Rooker      |OF        |     11|  6|   7|  5|  0| 
-|Kyle Tucker       |OF        |     11|  5|   6|  2|  1| 
+|Kyle Tucker       |OF        |     13|  6|   7|  3|  1| 
 |Lane Thomas       |OF        |     13|  6|   8|  3|  2| 
 |Randy Arozarena   |OF        |     12|  4|   5|  2|  0| 
 |Connor Joe        |DH        |      9|  5|   3|  1|  0| 
@@ -21,7 +21,7 @@
 |Shea Langeliers   |DH        |      7|  4|   8|  3|  0| 
 |Thairo Estrada    |DH        |     16|  5|   3|  1|  1| 
 |Jon Berti         |BAT BENCH |     13|  4|   5|  3|  1| 
-|Josh Rojas        |BAT BENCH |      4|  2|   1|  0|  0| 
+|Josh Rojas        |BAT BENCH |      6|  3|   1|  0|  0| 
 |Mike Trout        |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -33,7 +33,7 @@
 |players          |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |John Means       |SP          |  3| 17.333|  5|  2.596|     14| 0.808|  6|  1|  0| 
-|Jon Gray         |SP          |  2|  6.000|  7| 10.500|     14| 2.333|  4|  0|  0| 
+|Jon Gray         |SP          |  3| 12.000|  8|  6.000|     19| 1.583| 11|  1|  0| 
 |Logan Gilbert    |SP          |  2| 10.667|  7|  5.906|     17| 1.594|  8|  0|  0| 
 |Reid Detmers     |SP          |  1|  4.000|  0|  0.000|      5| 1.250|  7|  0|  0| 
 |Taijuan Walker   |SP          |  2| 13.000|  7|  4.846|     15| 1.154|  7|  0|  0| 

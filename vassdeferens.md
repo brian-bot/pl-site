@@ -12,16 +12,16 @@
 |Carlos Correa     |SS        |      7|  3|   2|  0|  0| 
 |Elly De La Cruz   |MI        |     10|  5|   0|  0|  7| 
 |Ryan O'Hearn      |CI        |     16|  7|   8|  2|  1| 
-|Corbin Carroll    |OF        |     15|  8|   4|  1|  3| 
+|Corbin Carroll    |OF        |     18|  9|   5|  1|  4| 
 |Max Kepler        |OF        |     17| 10|   5|  1|  1| 
 |MJ Melendez       |OF        |     15|  6|   7|  1|  0| 
 |TJ Friedl         |OF        |     24|  7|  11|  4|  2| 
-|Aaron Judge       |DH        |     25|  7|  13|  4|  0| 
+|Aaron Judge       |DH        |     26|  7|  13|  4|  0| 
 |CJ Abrams         |DH        |     17|  7|   6|  0|  2| 
 |Oscar Colas       |DH        |     **| **|  **| **| **| 
 |Triston Casas     |DH        |      7|  1|   1|  0|  0| 
 |Casey Schmitt     |BAT BENCH |      0|  0|   0|  0|  0| 
-|Emmanuel Rivera   |BAT BENCH |      5|  0|   3|  0|  0| 
+|Emmanuel Rivera   |BAT BENCH |      6|  0|   3|  0|  0| 
 |Jake Cronenworth  |BAT BENCH |     **| **|  **| **| **| 
 |Oneil Cruz        |BAT BENCH |     **| **|  **| **| **| 
 |Riley Greene      |BAT BENCH |     **| **|  **| **| **| 
