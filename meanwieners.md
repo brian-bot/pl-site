@@ -8,19 +8,19 @@
 |Mitch Garver    |C         |     19|  7|   8|  3|  0| 
 |Yandy Diaz      |1B        |     23|  6|   5|  1|  0| 
 |Isaac Paredes   |2B        |     19|  5|   8|  2|  0| 
-|Max Muncy       |3B        |     21|  9|   7|  1|  0| 
+|Max Muncy       |3B        |     22| 10|   8|  1|  0| 
 |Willy Adames    |SS        |     22|  7|   2|  0|  1| 
 |Gleyber Torres  |MI        |     27|  7|   4|  0|  0| 
-|Carlos Santana  |CI        |     18|  6|   9|  3|  0| 
-|Bryce Harper    |OF        |     27| 12|  12|  5|  2| 
+|Carlos Santana  |CI        |     19|  7|   9|  3|  0| 
+|Bryce Harper    |OF        |     28| 12|  12|  5|  2| 
 |Cedric Mullins  |OF        |     11|  5|   7|  1|  2| 
-|Jack Suwinski   |OF        |     22|  9|   8|  2|  2| 
-|Kyle Schwarber  |OF        |     16|  7|   6|  2|  0| 
+|Jack Suwinski   |OF        |     24|  9|   9|  2|  2| 
+|Kyle Schwarber  |OF        |     18|  8|   7|  3|  0| 
 |Davis Schneider |DH        |      5|  1|   1|  1|  0| 
 |Nolan Schanuel  |DH        |     15|  5|   2|  1|  0| 
 |Wilyer Abreu    |DH        |     13|  4|   5|  1|  2| 
 |Yainer Diaz     |DH        |     10|  5|   5|  2|  0| 
-|Adolis Garcia   |BAT BENCH |     14|  9|   6|  4|  1| 
+|Adolis Garcia   |BAT BENCH |     16| 10|   7|  5|  1| 
 |Jarred Kelenic  |BAT BENCH |     17|  1|   4|  0|  1| 
 |Joey Meneses    |BAT BENCH |     20|  4|   9|  2|  0| 
 |Mitch Haniger   |BAT BENCH |      7|  2|   3|  0|  0| 
@@ -45,7 +45,7 @@
 |Bryan Woo           |OP          |  3| 14.000|  6|  3.857|     18| 1.286| 20|  2|  0| 
 |Bryce Miller        |OP          |  3| 13.667| 10|  6.585|     19| 1.390| 10|  0|  0| 
 |Eury Perez          |OP          |  2|  7.667|  5|  5.870|     11| 1.435|  9|  0|  0| 
-|Evan Phillips       |OP          |  5|  5.000|  1|  1.800|      9| 1.800|  4|  1|  1| 
+|Evan Phillips       |OP          |  6|  5.667|  1|  1.588|      9| 1.588|  5|  1|  1| 
 |Pete Fairbanks      |OP          |  4|  4.000|  3|  6.750|      6| 1.500| 10|  0|  2| 
 |Shintaro Fujinami   |PITCH BENCH |  5|  3.000|  4| 12.000|      7| 2.333|  2|  0|  0| 
 

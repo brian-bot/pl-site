@@ -9,20 +9,20 @@
 |Pete Alonso      |1B        |     19| 10|  14|  3|  0| 
 |Bryson Stott     |2B        |     12|  4|   5|  1|  3| 
 |Alex Bregman     |3B        |     22|  7|   3|  2|  0| 
-|Trea Turner      |SS        |     16|  8|   3|  1|  3| 
-|Anthony Volpe    |MI        |     12|  5|   2|  1|  2| 
+|Trea Turner      |SS        |     19|  9|   3|  1|  4| 
+|Anthony Volpe    |MI        |     13|  5|   2|  1|  2| 
 |Nathaniel Lowe   |CI        |     16|  6|   7|  2|  0| 
-|Bryan Reynolds   |OF        |     23|  9|  12|  4|  0| 
-|Christian Yelich |OF        |      9|  7|   5|  2|  0| 
-|Julio Rodriguez  |OF        |     20|  9|   5|  1|  1| 
-|Matt Wallner     |OF        |     22|  8|  10|  2|  0| 
-|Brandon Nimmo    |DH        |     29| 11|  10|  1|  0| 
+|Bryan Reynolds   |OF        |     24| 10|  12|  4|  0| 
+|Christian Yelich |OF        |     12|  8|   6|  2|  0| 
+|Julio Rodriguez  |OF        |     21| 10|   6|  2|  1| 
+|Matt Wallner     |OF        |     23|  8|  10|  2|  0| 
+|Brandon Nimmo    |DH        |     30| 11|  10|  1|  0| 
 |Brice Turang     |DH        |      7|  5|   1|  0|  5| 
-|J.D. Martinez    |DH        |     22|  6|  16|  5|  0| 
+|J.D. Martinez    |DH        |     24|  7|  18|  6|  0| 
 |Jorge Polanco    |DH        |     15|  7|   7|  2|  0| 
 |Andrew McCutchen |BAT BENCH |     **| **|  **| **| **| 
 |Josh Jung        |BAT BENCH |     10|  4|   3|  1|  0| 
-|Tommy Edman      |BAT BENCH |     13|  3|   2|  1|  1| 
+|Tommy Edman      |BAT BENCH |     14|  3|   2|  1|  1| 
 
 * * *
 
@@ -39,7 +39,7 @@
 |Mike Clevinger    |SP          |  3| 21.000|  5|  2.143|     17| 0.810| 14|  2|  0| 
 |Devin Williams    |RP          |  5|  5.000|  0|  0.000|      4| 0.800|  7|  0|  4| 
 |Jhoan Duran       |RP          |  5|  5.000|  1|  1.800|      5| 1.000|  7|  1|  2| 
-|Aroldis Chapman   |OP          |  5|  5.333|  2|  3.375|      6| 1.125|  8|  1|  1| 
+|Aroldis Chapman   |OP          |  6|  5.333|  4|  6.750|      9| 1.688|  8|  1|  1| 
 |Griffin Canning   |OP          |  3| 17.000|  8|  4.235|     22| 1.294| 19|  0|  0| 
 |Justin Steele     |OP          |  3| 14.333| 15|  9.419|     24| 1.674| 17|  0|  0| 
 |Wade Miley        |OP          |  3| 16.667|  4|  2.160|     19| 1.140| 12|  2|  0| 
@@ -47,7 +47,7 @@
 |Carlos Rodon      |PITCH BENCH |  3| 18.000|  7|  3.500|     20| 1.111| 23|  1|  0| 
 |Giovanny Gallegos |PITCH BENCH |  3|  2.000|  1|  4.500|      3| 1.500|  3|  0|  0| 
 |JP Sears          |PITCH BENCH |  3| 16.667|  8|  4.320|     25| 1.500| 16|  1|  0| 
-|Marcus Stroman    |PITCH BENCH |  3|  6.000|  3|  4.500|      9| 1.500|  6|  0|  0| 
+|Marcus Stroman    |PITCH BENCH |  4|  8.000|  5|  5.625|     13| 1.625|  8|  0|  0| 
 
 
 * * *

@@ -5,16 +5,16 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|Alejandro Kirk        |C         |     12|  2|   3|  1|  0| 
-|Vladimir Guerrero Jr. |1B        |     19|  8|  10|  5|  0| 
+|Alejandro Kirk        |C         |     14|  2|   3|  1|  0| 
+|Vladimir Guerrero Jr. |1B        |     20|  8|  10|  5|  0| 
 |Marcus Semien         |2B        |     22| 11|  12|  5|  0| 
 |Justin Turner         |3B        |     12|  1|   2|  0|  0| 
 |Xander Bogaerts       |SS        |     26| 12|   7|  1|  4| 
-|J.P. Crawford         |MI        |     25|  8|   9|  3|  0| 
+|J.P. Crawford         |MI        |     27|  8|  11|  3|  0| 
 |Luis Arraez           |CI        |     15|  8|   6|  4|  1| 
-|Anthony Santander     |OF        |     17|  4|   9|  0|  1| 
-|Ian Happ              |OF        |     25|  7|   9|  3|  0| 
-|Nick Castellanos      |OF        |     19| 10|  17|  7|  3| 
+|Anthony Santander     |OF        |     18|  5|  10|  1|  1| 
+|Ian Happ              |OF        |     25|  8|  10|  3|  0| 
+|Nick Castellanos      |OF        |     20| 10|  17|  7|  3| 
 |Steven Kwan           |OF        |     22|  9|   4|  0|  1| 
 |Austin Hays           |DH        |     16|  4|   6|  2|  1| 
 |Jose Altuve           |DH        |     27|  9|   9|  1|  0| 
@@ -40,11 +40,11 @@
 |Clarke Schmidt  |RP          |  3| 14.333|  9|  5.651|     22| 1.535|  7|  0|  0| 
 |Dylan Floro     |RP          |  4|  3.333|  0|  0.000|      4| 1.200|  2|  0|  0| 
 |Alex Cobb       |OP          |  1|  2.000|  5| 22.500|      6| 3.000|  1|  0|  0| 
-|Andres Munoz    |OP          |  5|  5.000|  1|  1.800|      3| 0.600|  5|  0|  1| 
+|Andres Munoz    |OP          |  6|  5.333|  1|  1.688|      3| 0.562|  5|  1|  1| 
 |Jordan Lyles    |OP          |  3| 16.000| 11|  6.188|     18| 1.125| 12|  1|  0| 
 |Tyler Anderson  |OP          |  1|  5.000|  4|  7.200|      9| 1.800|  7|  0|  0| 
 |Yusei Kikuchi   |OP          |  3| 14.000| 10|  6.429|     21| 1.500| 17|  1|  0| 
-|Jose Leclerc    |PITCH BENCH |  7|  7.333|  1|  1.227|      7| 0.955| 11|  0|  2| 
+|Jose Leclerc    |PITCH BENCH |  8|  8.333|  1|  1.080|      7| 0.840| 12|  0|  2| 
 |Ranger Suarez   |PITCH BENCH |  3| 17.333| 11|  5.712|     26| 1.500| 15|  2|  0| 
 
 

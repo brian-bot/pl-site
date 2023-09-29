@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras |C         |     28|  9|   7|  2|  1| 
+|William Contreras |C         |     29|  9|   8|  2|  1| 
 |Freddie Freeman   |1B        |     25| 11|  10|  3|  5| 
-|Edouard Julien    |2B        |     22| 10|   8|  4|  0| 
+|Edouard Julien    |2B        |     23| 10|   8|  4|  0| 
 |Jose Ramirez      |3B        |     26|  7|   7|  2|  4| 
-|Bo Bichette       |SS        |     17|  9|   7|  2|  1| 
+|Bo Bichette       |SS        |     19| 10|   7|  2|  2| 
 |Jonathan India    |MI        |     19|  6|   6|  1|  1| 
 |Gunnar Henderson  |CI        |     22| 12|   7|  3|  1| 
 |Chas McCormick    |OF        |     16|  3|   7|  2|  3| 
-|Kerry Carpenter   |OF        |     17|  8|   6|  0|  0| 
+|Kerry Carpenter   |OF        |     19|  8|   6|  0|  0| 
 |Luis Robert Jr.   |OF        |     10|  7|   7|  3|  3| 
-|Seiya Suzuki      |OF        |     25| 10|  13|  4|  0| 
+|Seiya Suzuki      |OF        |     28| 10|  15|  4|  0| 
 |Brandon Marsh     |DH        |     13|  5|   2|  1|  1| 
 |Eloy Jimenez      |DH        |     20|  8|   8|  3|  0| 
 |Jordan Walker     |DH        |     23|  5|   3|  1|  1| 
 |Will Benson       |DH        |      8|  3|   3|  1|  2| 
 |Ezequiel Duran    |BAT BENCH |      4|  2|   1|  0|  0| 
 |Mickey Moniak     |BAT BENCH |     **| **|  **| **| **| 
-|Orlando Arcia     |BAT BENCH |     15|  6|   5|  0|  0| 
+|Orlando Arcia     |BAT BENCH |     16|  6|   5|  0|  0| 
 
 
 * * *
@@ -33,11 +33,11 @@
 |players            |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:------------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Blake Snell        |SP          |  3| 19.000|  0| 0.000|     12| 0.632| 25|  1|  0| 
-|Chris Bassitt      |SP          |  2| 13.667|  4| 2.634|     13| 0.951| 13|  1|  0| 
+|Chris Bassitt      |SP          |  3| 21.333|  4| 1.687|     19| 0.891| 25|  2|  0| 
 |Clayton Kershaw    |SP          |  2|  9.000|  0| 0.000|      8| 0.889|  9|  1|  0| 
 |Eduardo Rodriguez  |SP          |  3| 15.333|  9| 5.283|     24| 1.565| 11|  1|  0| 
 |Jordan Wicks       |SP          |  2| 10.333|  6| 5.226|     13| 1.258|  8|  1|  0| 
-|Sonny Gray         |SP          |  2| 13.000|  1| 0.692|      9| 0.692| 14|  1|  0| 
+|Sonny Gray         |SP          |  3| 17.000|  2| 1.059|     13| 0.765| 18|  1|  0| 
 |Emmanuel Clase     |RP          |  6|  6.000|  2| 3.000|      7| 1.167|  6|  1|  4| 
 |Josh Hader         |RP          |  7|  5.667|  0| 0.000|      7| 1.235|  6|  2|  4| 
 |Dane Dunning       |OP          |  3| 17.333|  4| 2.077|     19| 1.096| 14|  2|  0| 
