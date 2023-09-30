@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |     13|  6|   6|  1|  0| 
+|Will Smith        |C         |     15|  8|   8|  2|  0| 
 |Paul Goldschmidt  |1B        |     18|  6|   6|  2|  1| 
-|Ozzie Albies      |2B        |     28| 11|  14|  4|  1| 
-|Eugenio Suarez    |3B        |     21|  7|   9|  2|  0| 
+|Ozzie Albies      |2B        |     32| 11|  15|  4|  1| 
+|Eugenio Suarez    |3B        |     22|  7|  10|  2|  0| 
 |Francisco Lindor  |SS        |     26| 11|  11|  4|  5| 
-|Ketel Marte       |MI        |     22|  8|   8|  3|  1| 
-|Jake Burger       |CI        |     22|  8|  10|  3|  0| 
-|Andrew Benintendi |OF        |     16|  4|   2|  0|  0| 
-|George Springer   |OF        |     17|  8|   7|  2|  1| 
+|Ketel Marte       |MI        |     24|  8|   8|  3|  2| 
+|Jake Burger       |CI        |     24|  8|  11|  3|  0| 
+|Andrew Benintendi |OF        |     17|  4|   2|  0|  0| 
+|George Springer   |OF        |     18|  8|   7|  2|  1| 
 |James Outman      |OF        |     17|  9|   6|  4|  0| 
-|Nolan Jones       |OF        |     35| 14|  11|  4|  5| 
-|Andrew Vaughn     |DH        |     21|  7|   8|  2|  0| 
-|Jose Abreu        |DH        |     15|  6|   8|  3|  0| 
+|Nolan Jones       |OF        |     38| 14|  12|  4|  6| 
+|Andrew Vaughn     |DH        |     22|  7|   8|  2|  0| 
+|Jose Abreu        |DH        |     17|  6|  10|  3|  0| 
 |Shohei Ohtani     |DH        |     **| **|  **| **| **| 
-|Tommy Pham        |DH        |     19|  7|   7|  0|  4| 
-|Everson Pereira   |BAT BENCH |      6|  3|   1|  0|  2| 
+|Tommy Pham        |DH        |     20|  7|   7|  0|  4| 
+|Everson Pereira   |BAT BENCH |      6|  3|   2|  0|  2| 
 |Francisco Alvarez |BAT BENCH |      7|  1|   6|  1|  1| 
-|Oswald Peraza     |BAT BENCH |     14|  6|   4|  2|  0| 
+|Oswald Peraza     |BAT BENCH |     15|  7|   4|  2|  0| 
 |Starling Marte    |BAT BENCH |     **| **|  **| **| **| 
 |Wander Franco     |BAT BENCH |     **| **|  **| **| **| 
 
@@ -41,7 +41,7 @@
 |Michael Wacha     |SP          |  3| 16.000| 11|  6.188|     22| 1.375| 15|  2|  0| 
 |Tyler Glasnow     |SP          |  3| 14.333| 10|  6.279|     20| 1.395| 20|  1|  0| 
 |Clay Holmes       |RP          |  6|  6.000|  1|  1.500|      7| 1.167|  4|  0|  5| 
-|Ryan Pressly      |RP          |  5|  5.333|  5|  8.438|     11| 2.062|  6|  1|  0| 
+|Ryan Pressly      |RP          |  6|  6.333|  5|  7.105|     12| 1.895|  7|  1|  1| 
 |David Peterson    |OP          |  3| 16.667|  6|  3.240|     23| 1.380| 25|  0|  0| 
 |Hyun Jin Ryu      |OP          |  3| 15.000|  8|  4.800|     24| 1.600|  9|  0|  0| 
 |Jack Flaherty     |OP          |  2|  6.000|  3|  4.500|     10| 1.667|  8|  0|  0| 

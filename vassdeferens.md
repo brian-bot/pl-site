@@ -6,17 +6,17 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Adley Rutschman   |C         |     28|  8|   9|  2|  0| 
-|Spencer Torkelson |1B        |     18|  8|  15|  3|  0| 
-|Jordan Westburg   |2B        |      7|  1|   2|  0|  0| 
-|Bobby Witt Jr.    |3B        |     23| 14|   7|  1|  8| 
+|Spencer Torkelson |1B        |     20|  9|  16|  4|  0| 
+|Jordan Westburg   |2B        |      8|  1|   2|  0|  0| 
+|Bobby Witt Jr.    |3B        |     26| 16|  10|  2|  8| 
 |Carlos Correa     |SS        |      7|  3|   2|  0|  0| 
-|Elly De La Cruz   |MI        |     15|  8|   4|  2|  9| 
+|Elly De La Cruz   |MI        |     17| 10|   6|  2|  9| 
 |Ryan O'Hearn      |CI        |     17|  7|   8|  2|  1| 
-|Corbin Carroll    |OF        |     22| 13|   7|  1|  5| 
-|Max Kepler        |OF        |     22| 12|   5|  1|  1| 
+|Corbin Carroll    |OF        |     24| 13|   7|  1|  7| 
+|Max Kepler        |OF        |     25| 13|   6|  1|  1| 
 |MJ Melendez       |OF        |     18|  7|   7|  1|  0| 
-|TJ Friedl         |OF        |     27|  9|  13|  5|  3| 
-|Aaron Judge       |DH        |     31| 10|  17|  6|  0| 
+|TJ Friedl         |OF        |     28| 11|  14|  5|  3| 
+|Aaron Judge       |DH        |     33| 12|  17|  6|  0| 
 |CJ Abrams         |DH        |     18|  7|   6|  0|  3| 
 |Oscar Colas       |DH        |     **| **|  **| **| **| 
 |Triston Casas     |DH        |      7|  1|   1|  0|  0| 
@@ -48,7 +48,7 @@
 |Reese Olson      |OP          |  3| 17.667|  3|  1.528|     17| 0.962| 19|  2|  0| 
 |Trevor May       |OP          |  4|  4.333|  0|  0.000|      2| 0.462|  6|  0|  2| 
 |Ben Lively       |PITCH BENCH |  3|  9.333|  8|  7.714|     15| 1.607| 10|  0|  0| 
-|Garrett Whitlock |PITCH BENCH |  4|  5.333|  3|  5.062|      6| 1.125|  4|  0|  0| 
+|Garrett Whitlock |PITCH BENCH |  5|  7.333|  3|  3.682|      7| 0.955|  7|  0|  1| 
 
 
 * * *
