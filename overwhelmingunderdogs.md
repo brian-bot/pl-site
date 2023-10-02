@@ -7,13 +7,13 @@
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Sean Murphy      |C         |      8|  3|   1|  1|  0| 
 |Pete Alonso      |1B        |     21| 11|  15|  3|  0| 
-|Bryson Stott     |2B        |     12|  4|   5|  1|  3| 
-|Alex Bregman     |3B        |     25|  8|   3|  2|  0| 
+|Bryson Stott     |2B        |     16|  5|   6|  1|  3| 
+|Alex Bregman     |3B        |     27| 10|   5|  3|  0| 
 |Trea Turner      |SS        |     21|  9|   3|  1|  4| 
-|Anthony Volpe    |MI        |     15|  5|   2|  1|  2| 
+|Anthony Volpe    |MI        |     16|  5|   2|  1|  2| 
 |Nathaniel Lowe   |CI        |     20|  7|   8|  2|  0| 
 |Bryan Reynolds   |OF        |     26| 10|  13|  4|  0| 
-|Christian Yelich |OF        |     15|  8|   6|  2|  0| 
+|Christian Yelich |OF        |     17|  9|   6|  2|  1| 
 |Julio Rodriguez  |OF        |     21| 10|   6|  2|  1| 
 |Matt Wallner     |OF        |     26| 11|  12|  3|  0| 
 |Brandon Nimmo    |DH        |     30| 11|  10|  1|  0| 
@@ -22,7 +22,7 @@
 |Jorge Polanco    |DH        |     16|  7|   7|  2|  0| 
 |Andrew McCutchen |BAT BENCH |     **| **|  **| **| **| 
 |Josh Jung        |BAT BENCH |     13|  5|   3|  1|  0| 
-|Tommy Edman      |BAT BENCH |     18|  6|   2|  1|  2| 
+|Tommy Edman      |BAT BENCH |     20|  7|   2|  1|  3| 
 
 * * *
 
@@ -46,7 +46,7 @@
 |Will Smith        |OP          |  6|  4.667|  6| 11.571|     10| 2.143|  4|  0|  0| 
 |Carlos Rodon      |PITCH BENCH |  4| 18.000| 15|  7.500|     28| 1.556| 23|  1|  0| 
 |Giovanny Gallegos |PITCH BENCH |  3|  2.000|  1|  4.500|      3| 1.500|  3|  0|  0| 
-|JP Sears          |PITCH BENCH |  3| 16.667|  8|  4.320|     25| 1.500| 16|  1|  0| 
+|JP Sears          |PITCH BENCH |  4| 20.667| 11|  4.790|     31| 1.500| 20|  1|  0| 
 |Marcus Stroman    |PITCH BENCH |  4|  8.000|  5|  5.625|     13| 1.625|  8|  0|  0| 
 
 

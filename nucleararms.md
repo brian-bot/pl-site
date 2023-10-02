@@ -5,22 +5,22 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |     15|  8|   8|  2|  0| 
+|Will Smith        |C         |     18|  9|   8|  2|  0| 
 |Paul Goldschmidt  |1B        |     21|  8|   7|  2|  1| 
-|Ozzie Albies      |2B        |     33| 12|  16|  4|  1| 
-|Eugenio Suarez    |3B        |     23|  8|  11|  3|  0| 
-|Francisco Lindor  |SS        |     30| 15|  13|  5|  5| 
+|Ozzie Albies      |2B        |     37| 15|  16|  4|  1| 
+|Eugenio Suarez    |3B        |     24|  9|  11|  3|  0| 
+|Francisco Lindor  |SS        |     31| 15|  13|  5|  5| 
 |Ketel Marte       |MI        |     24|  8|   8|  3|  2| 
 |Jake Burger       |CI        |     25|  8|  11|  3|  0| 
 |Andrew Benintendi |OF        |     17|  4|   2|  0|  0| 
 |George Springer   |OF        |     20|  8|   8|  2|  1| 
-|James Outman      |OF        |     17|  9|   6|  4|  0| 
-|Nolan Jones       |OF        |     41| 14|  12|  4|  6| 
-|Andrew Vaughn     |DH        |     23|  7|   8|  2|  0| 
-|Jose Abreu        |DH        |     18|  6|  11|  3|  0| 
+|James Outman      |OF        |     19| 10|   7|  4|  1| 
+|Nolan Jones       |OF        |     43| 15|  13|  5|  7| 
+|Andrew Vaughn     |DH        |     24|  7|   8|  2|  0| 
+|Jose Abreu        |DH        |     20|  8|  13|  4|  0| 
 |Shohei Ohtani     |DH        |     **| **|  **| **| **| 
 |Tommy Pham        |DH        |     22|  7|   7|  0|  4| 
-|Everson Pereira   |BAT BENCH |      7|  3|   3|  0|  2| 
+|Everson Pereira   |BAT BENCH |      8|  3|   3|  0|  2| 
 |Francisco Alvarez |BAT BENCH |     10|  4|  12|  3|  1| 
 |Oswald Peraza     |BAT BENCH |     16|  7|   4|  2|  0| 
 |Starling Marte    |BAT BENCH |     **| **|  **| **| **| 
@@ -47,7 +47,7 @@
 |Jack Flaherty     |OP          |  3|  7.000|  4| 5.143|     12| 1.714| 10|  0|  0| 
 |Kirby Yates       |OP          |  5|  4.667|  5| 9.643|      7| 1.500|  5|  0|  1| 
 |Matt Brash        |OP          |  8|  8.667|  2| 2.077|     13| 1.500| 10|  0|  0| 
-|Joe Jimenez       |PITCH BENCH |  6|  5.333|  3| 5.062|      5| 0.938|  8|  0|  0| 
+|Joe Jimenez       |PITCH BENCH |  7|  6.000|  3| 4.500|      7| 1.167|  8|  0|  0| 
 |Shohei Ohtani     |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 
 

@@ -9,19 +9,19 @@
 |Vladimir Guerrero Jr. |1B        |     25| 11|  10|  5|  0| 
 |Marcus Semien         |2B        |     27| 12|  13|  5|  0| 
 |Justin Turner         |3B        |     17|  2|   2|  0|  0| 
-|Xander Bogaerts       |SS        |     30| 13|   8|  1|  4| 
+|Xander Bogaerts       |SS        |     31| 13|   8|  1|  4| 
 |J.P. Crawford         |MI        |     31| 10|  15|  4|  0| 
 |Luis Arraez           |CI        |     16|  8|   6|  4|  1| 
-|Anthony Santander     |OF        |     19|  5|  12|  1|  1| 
+|Anthony Santander     |OF        |     20|  5|  12|  1|  1| 
 |Ian Happ              |OF        |     29| 10|  12|  4|  0| 
 |Nick Castellanos      |OF        |     22| 10|  17|  7|  3| 
 |Steven Kwan           |OF        |     26|  9|   4|  0|  2| 
 |Austin Hays           |DH        |     16|  4|   6|  2|  1| 
-|Jose Altuve           |DH        |     28|  9|   9|  1|  1| 
+|Jose Altuve           |DH        |     29| 10|   9|  1|  1| 
 |Josh Bell             |DH        |     24|  7|   9|  2|  0| 
 |Manny Machado         |DH        |     17|  3|   7|  2|  0| 
 |Byron Buxton          |BAT BENCH |     **| **|  **| **| **| 
-|Harold Ramirez        |BAT BENCH |     20|  7|   9|  2|  0| 
+|Harold Ramirez        |BAT BENCH |     23|  9|  10|  2|  0| 
 
 
 * * *
@@ -34,7 +34,7 @@
 |Aaron Nola      |SP          |  3| 17.333|  5|  2.596|     18| 1.038| 17|  0|  0| 
 |Brady Singer    |SP          |  2| 11.333| 10|  7.941|     21| 1.853|  6|  0|  0| 
 |Jameson Taillon |SP          |  4| 21.000|  5|  2.143|     24| 1.143| 18|  1|  1| 
-|Lucas Giolito   |SP          |  3| 15.667|  8|  4.596|     22| 1.404| 23|  1|  0| 
+|Lucas Giolito   |SP          |  4| 20.667| 13|  5.661|     33| 1.597| 27|  1|  0| 
 |Luis Castillo   |SP          |  4| 21.667| 13|  5.400|     33| 1.523| 28|  2|  0| 
 |Pablo Lopez     |SP          |  3| 15.333| 11|  6.457|     20| 1.304| 21|  1|  0| 
 |Clarke Schmidt  |RP          |  4| 18.333| 11|  5.400|     30| 1.636| 10|  0|  0| 
