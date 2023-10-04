@@ -7,7 +7,7 @@
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Salvador Perez     |C         |     17|  6|  15|  2|  0| 
 |Matt Olson         |1B        |     31| 13|  12|  4|  0| 
-|Jazz Chisholm Jr.  |2B        |     21| 12|  12|  3|  3| 
+|Jazz Chisholm Jr.  |2B        |     20| 11|  11|  3|  3| 
 |Spencer Steer      |3B        |     23|  8|   8|  3|  2| 
 |Fernando Tatis Jr. |SS        |     25| 10|   7|  2|  4| 
 |Jeremy Pena        |MI        |     22|  5|   4|  0|  2| 
@@ -17,11 +17,11 @@
 |Masataka Yoshida   |OF        |     14|  2|   4|  0|  0| 
 |Ronald Acuna Jr.   |OF        |     27| 18|  11|  5|  8| 
 |Brandon Drury      |DH        |     25|  9|  14|  5|  0| 
-|Bryan De La Cruz   |DH        |     18|  5|   5|  0|  1| 
+|Bryan De La Cruz   |DH        |     17|  4|   5|  0|  1| 
 |Esteury Ruiz       |DH        |     15|  4|   5|  1|  9| 
 |Mark Canha         |DH        |     21|  6|  12|  1|  3| 
 |Adam Duvall        |BAT BENCH |     10|  4|   6|  2|  0| 
-|Daulton Varsho     |BAT BENCH |     16|  8|  11|  4|  1| 
+|Daulton Varsho     |BAT BENCH |     15|  8|  10|  4|  1| 
 |Logan O'Hoppe      |BAT BENCH |     19| 10|   7|  4|  0| 
 |Ronny Mauricio     |BAT BENCH |     20| 10|   6|  2|  3| 
 |Trevor Story       |BAT BENCH |     18|  5|   7|  2|  3| 

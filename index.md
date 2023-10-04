@@ -2,7 +2,7 @@
 
 ## Period 9 scores
 
-Through games on 2023-10-01 ([website build status](https://github.com/brian-bot/pl-site/actions))
+Through games on 2023-10-03 ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 
 |team                   | points|   r| hitsbb| hr| rbi| sb|  w| sv|  so|   era|  whip|
@@ -15,8 +15,8 @@ Through games on 2023-10-01 ([website build status](https://github.com/brian-bot
 |[Nuclear Arms](./nucleararms)|   69.0| 131|    345| 39| 132| 22| 10|  8| 194| 3.721| 1.274|
 |[Terminoeckers](./terminoeckers)|   68.0| 125|    325| 24| 100| 23| 18|  7| 224| 3.088| 1.057|
 |[Overwhelming Underdogs](./overwhelmingunderdogs)|   38.5| 122|    300| 33| 116| 16|  9|  7| 150| 5.120| 1.368|
-|[T and A](./tanda)     |   55.5| 116|    320| 35| 139| 32|  7|  2| 218| 4.584| 1.314|
-|[Mean Wieners](./meanwieners)|   47.0| 110|    319| 29| 110|  9| 12|  6| 220| 3.775| 1.136|
+|[T and A](./tanda)     |   54.5| 114|    318| 35| 138| 32|  7|  2| 218| 4.584| 1.314|
+|[Mean Wieners](./meanwieners)|   48.0| 110|    319| 29| 110|  9| 12|  6| 220| 3.775| 1.136|
 
 * * *
 * * *
@@ -28,8 +28,8 @@ Through games on 2023-10-01 ([website build status](https://github.com/brian-bot
 |:----------------------|--:|--:|--:|------:|
 |Terminoeckers          |  6|  3|  0|  563.5|
 |Overwhelming Underdogs |  6|  3|  0|  550.0|
-|Mean Wieners           |  6|  3|  0|  528.5|
-|T and A                |  5|  4|  0|  586.5|
+|Mean Wieners           |  6|  3|  0|  529.5|
+|T and A                |  5|  4|  0|  585.5|
 |Nuclear Arms           |  5|  4|  0|  513.5|
 |SYWA                   |  5|  4|  0|  506.5|
 |Wonderbots             |  4|  5|  0|  436.0|

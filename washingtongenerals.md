@@ -20,7 +20,7 @@
 |Michael Harris II |DH        |     21|  8|   7|  2|  0| 
 |Shea Langeliers   |DH        |     12|  6|  11|  4|  0| 
 |Thairo Estrada    |DH        |     22|  6|   4|  2|  2| 
-|Jon Berti         |BAT BENCH |     29|  8|   6|  4|  2| 
+|Jon Berti         |BAT BENCH |     28|  8|   6|  4|  2| 
 |Josh Rojas        |BAT BENCH |     11|  6|   3|  1|  1| 
 |Mike Trout        |BAT BENCH |     **| **|  **| **| **| 
 
