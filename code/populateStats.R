@@ -27,9 +27,17 @@ pullData <- lapply(firstDate:lastDate, function(d){
 names(pullData) <- as.character(as.Date(firstDate:lastDate, origin="1970-01-01"))
 
 ## ORGANIZE ALL OF THE STATS BY SEASON PERIODS
-currentPeriod <- which(sapply(periods, function(x){ (today-1) >= x$startDate & (today-1) <= x$endDate}))
-finishedPeriods <- which(sapply(periods, function(x){ today > x$endDate}))
-seasonPeriods <- which(sapply(periods, function(x){ (today-1) >= x$startDate }))
+currentPeriod <- which(sapply(periods, function(x){ 
+  lastDate >= x$startDate & lastDate <= x$endDate
+}))
+finishedPeriods <- which(sapply(periods, function(x){ 
+  today > x$endDate
+}))
+seasonPeriods <- which(sapply(periods, function(x){ 
+  lastDate >= x$startDate 
+}))
+if(any(finishedPeriods == 9)) 
+  currentPeriod <- 9
 
 source("code/getRangeMlb.R")
 allStats <- lapply(as.list(seasonPeriods), function(y){
