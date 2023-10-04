@@ -37,7 +37,7 @@ seasonPeriods <- which(sapply(periods, function(x){
   lastDate >= x$startDate 
 }))
 if(any(finishedPeriods == 9)) 
-  currentPeriod <- 9
+  currentPeriod <- finishedPeriods[9]
 
 source("code/getRangeMlb.R")
 allStats <- lapply(as.list(seasonPeriods), function(y){
