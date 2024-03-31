@@ -3,25 +3,24 @@
 ### Batters
 
  
-|players               |position  | hitsbb|  r| rbi| hr| sb| 
-|:---------------------|:---------|------:|--:|---:|--:|--:| 
-|Alejandro Kirk        |C         |     17|  4|   6|  2|  0| 
-|Vladimir Guerrero Jr. |1B        |     25| 11|  10|  5|  0| 
-|Marcus Semien         |2B        |     27| 12|  13|  5|  0| 
-|Justin Turner         |3B        |     17|  2|   2|  0|  0| 
-|Xander Bogaerts       |SS        |     31| 13|   8|  1|  4| 
-|J.P. Crawford         |MI        |     31| 10|  15|  4|  0| 
-|Luis Arraez           |CI        |     16|  8|   6|  4|  1| 
-|Anthony Santander     |OF        |     20|  5|  12|  1|  1| 
-|Ian Happ              |OF        |     29| 10|  12|  4|  0| 
-|Nick Castellanos      |OF        |     22| 10|  17|  7|  3| 
-|Steven Kwan           |OF        |     26|  9|   4|  0|  2| 
-|Austin Hays           |DH        |     16|  4|   6|  2|  1| 
-|Jose Altuve           |DH        |     29| 10|   9|  1|  1| 
-|Josh Bell             |DH        |     24|  7|   9|  2|  0| 
-|Manny Machado         |DH        |     17|  3|   7|  2|  0| 
-|Byron Buxton          |BAT BENCH |     **| **|  **| **| **| 
-|Harold Ramirez        |BAT BENCH |     23|  9|  10|  2|  0| 
+|players           |position  | hitsbb|  r| rbi| hr| sb| 
+|:-----------------|:---------|------:|--:|---:|--:|--:| 
+|William Contreras |C         |      3|  1|   1|  0|  0| 
+|Nolan Jones       |1B        |      3|  1|   2|  0|  0| 
+|Ozzie Albies      |2B        |      4|  3|   3|  1|  1| 
+|Manny Machado     |3B        |      8|  5|   4|  2|  0| 
+|Corey Seager      |SS        |      5|  1|   2|  0|  0| 
+|Ezequiel Tovar    |MI        |      2|  1|   2|  1|  0| 
+|Ha-Seong Kim      |CI        |      6|  1|   1|  0|  2| 
+|Bryan Reynolds    |OF        |      8|  2|   4|  1|  0| 
+|Cedric Mullins    |OF        |      2|  2|   4|  1|  0| 
+|Mookie Betts      |OF        |     18|  9|  10|  4|  0| 
+|Teoscar Hernández |OF        |      6|  5|   4|  2|  0| 
+|Alec Bohm         |DH        |      2|  1|   0|  0|  0| 
+|Jack Suwinski     |DH        |      2|  1|   1|  0|  0| 
+|Jeremy Peña       |DH        |      4|  1|   0|  0|  0| 
+|Tyler O'Neill     |DH        |      4|  2|   1|  1|  1| 
+|Jarred Kelenic    |BAT BENCH |      5|  1|   2|  0|  0| 
 
 
 * * *
@@ -29,23 +28,18 @@
 ### Pitchers
 
  
-|players         |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
-|:---------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Aaron Nola      |SP          |  3| 17.333|  5|  2.596|     18| 1.038| 17|  0|  0| 
-|Brady Singer    |SP          |  2| 11.333| 10|  7.941|     21| 1.853|  6|  0|  0| 
-|Jameson Taillon |SP          |  4| 21.000|  5|  2.143|     24| 1.143| 18|  1|  1| 
-|Lucas Giolito   |SP          |  4| 20.667| 13|  5.661|     33| 1.597| 27|  1|  0| 
-|Luis Castillo   |SP          |  4| 21.667| 13|  5.400|     33| 1.523| 28|  2|  0| 
-|Pablo Lopez     |SP          |  3| 15.333| 11|  6.457|     20| 1.304| 21|  1|  0| 
-|Clarke Schmidt  |RP          |  4| 18.333| 11|  5.400|     30| 1.636| 10|  0|  0| 
-|Dylan Floro     |RP          |  4|  3.333|  0|  0.000|      4| 1.200|  2|  0|  0| 
-|Alex Cobb       |OP          |  1|  2.000|  5| 22.500|      6| 3.000|  1|  0|  0| 
-|Andres Munoz    |OP          |  7|  6.333|  2|  2.842|      5| 0.789|  7|  1|  1| 
-|Jordan Lyles    |OP          |  4| 22.000| 16|  6.545|     23| 1.045| 16|  2|  0| 
-|Tyler Anderson  |OP          |  1|  5.000|  4|  7.200|      9| 1.800|  7|  0|  0| 
-|Yusei Kikuchi   |OP          |  4| 19.000| 13|  6.158|     28| 1.474| 21|  2|  0| 
-|Jose Leclerc    |PITCH BENCH |  9|  9.667|  1|  0.931|      7| 0.724| 14|  0|  2| 
-|Ranger Suarez   |PITCH BENCH |  3| 17.333| 11|  5.712|     26| 1.500| 15|  2|  0| 
+|players       |position |  g|    ip| er|    era| hitsbb|  whip| so|  w| sv| 
+|:-------------|:--------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
+|Corbin Burnes |SP       |  1| 6.000|  1|  1.500|      1| 0.167| 11|  1|  0| 
+|Kyle Freeland |SP       |  1| 2.333| 10| 38.571|     11| 4.714|  2|  0|  0| 
+|Logan Gilbert |SP       |  1| 7.000|  1|  1.286|      5| 0.714|  8|  0|  0| 
+|Nick Pivetta  |SP       |  1| 6.000|  1|  1.500|      3| 0.500| 10|  0|  0| 
+|Trevor Megill |SP       |  2| 2.000|  0|  0.000|      3| 1.500|  3|  0|  0| 
+|Clay Holmes   |RP       |  2| 2.000|  0|  0.000|      3| 1.500|  0|  0|  2| 
+|David Bednar  |RP       |  1| 1.000|  0|  0.000|      0| 0.000|  1|  0|  0| 
+|José Leclerc  |OP       |  1| 1.000|  1|  9.000|      2| 2.000|  1|  0|  0| 
+|JP Sears      |OP       |  1| 3.667|  5| 12.273|      8| 2.182|  1|  0|  0| 
+|Lance Lynn    |OP       |  1| 4.000|  0|  0.000|      5| 1.250|  5|  0|  0| 
 
 
 * * *

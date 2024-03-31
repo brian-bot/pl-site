@@ -3,28 +3,24 @@
 ### Batters
 
  
-|players           |position  | hitsbb|  r| rbi| hr| sb| 
-|:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman   |C         |     31|  8|  10|  2|  0| 
-|Spencer Torkelson |1B        |     22|  9|  16|  4|  0| 
-|Jordan Westburg   |2B        |      9|  2|   2|  0|  0| 
-|Bobby Witt Jr.    |3B        |     30| 17|  10|  2|  8| 
-|Carlos Correa     |SS        |      7|  3|   2|  0|  0| 
-|Elly De La Cruz   |MI        |     19| 10|   8|  2|  9| 
-|Ryan O'Hearn      |CI        |     17|  7|   8|  2|  1| 
-|Corbin Carroll    |OF        |     25| 13|   7|  1|  7| 
-|Max Kepler        |OF        |     27| 15|   9|  2|  1| 
-|MJ Melendez       |OF        |     22|  8|   8|  2|  0| 
-|TJ Friedl         |OF        |     30| 11|  14|  5|  3| 
-|Aaron Judge       |DH        |     35| 12|  17|  6|  0| 
-|CJ Abrams         |DH        |     22|  9|   7|  0|  6| 
-|Oscar Colas       |DH        |     **| **|  **| **| **| 
-|Triston Casas     |DH        |      7|  1|   1|  0|  0| 
-|Casey Schmitt     |BAT BENCH |      2|  2|   2|  2|  0| 
-|Emmanuel Rivera   |BAT BENCH |     10|  0|   3|  0|  0| 
-|Jake Cronenworth  |BAT BENCH |     **| **|  **| **| **| 
-|Oneil Cruz        |BAT BENCH |     **| **|  **| **| **| 
-|Riley Greene      |BAT BENCH |     **| **|  **| **| **| 
+|players            |position  | hitsbb|  r| rbi| hr| sb| 
+|:------------------|:---------|------:|--:|---:|--:|--:| 
+|Adley Rutschman    |C         |      5|  5|   2|  0|  0| 
+|Pete Alonso        |1B        |      3|  1|   1|  1|  0| 
+|Nico Hoerner       |2B        |      2|  0|   0|  0|  0| 
+|Jake Burger        |3B        |      7|  2|   5|  0|  0| 
+|CJ Abrams          |SS        |      4|  3|   0|  0|  3| 
+|Ketel Marte        |MI        |      8|  5|   1|  0|  1| 
+|Vinnie Pasquantino |CI        |      1|  0|   0|  0|  0| 
+|Juan Soto          |OF        |      9|  2|   3|  1|  0| 
+|Marcell Ozuna      |OF        |      1|  1|   3|  1|  0| 
+|Matt Wallner       |OF        |      2|  0|   0|  0|  0| 
+|Riley Greene       |OF        |      2|  2|   1|  1|  0| 
+|Anthony Rizzo      |DH        |      5|  1|   1|  0|  0| 
+|Elly De La Cruz    |DH        |      3|  2|   0|  0|  1| 
+|Mitch Garver       |DH        |      1|  0|   0|  0|  0| 
+|Sal Frelick        |DH        |      1|  1|   0|  0|  1| 
+|Jordan Westburg    |BAT BENCH |      2|  1|   3|  0|  0| 
 
 
 * * *
@@ -32,23 +28,17 @@
 ### Pitchers
 
  
-|players          |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
-|:----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Andrew Abbott    |SP          |  3| 10.333|  7| 6.097|     23| 2.226| 13|  0|  0| 
-|Dean Kremer      |SP          |  3| 13.667|  4| 2.634|     16| 1.171| 16|  1|  0| 
-|Kodai Senga      |SP          |  3| 17.000|  4| 2.118|     19| 1.118| 21|  2|  0| 
-|Kyle Bradish     |SP          |  4| 23.000|  4| 1.565|     17| 0.739| 23|  1|  0| 
-|Michael Lorenzen |SP          |  4|  4.333|  4| 8.308|     10| 2.308|  4|  0|  1| 
-|Sandy Alcantara  |SP          | **|     **| **|    **|     **|    **| **| **| **| 
-|Jordan Romano    |RP          |  6|  7.000|  4| 5.143|      9| 1.286|  8|  0|  2| 
-|Kenley Jansen    |RP          |  1|  0.000|  1|   Inf|      2|   Inf|  0|  0|  0| 
-|Jordan Hicks     |OP          |  8|  9.000|  2| 2.000|     11| 1.222| 10|  0|  0| 
-|Kenta Maeda      |OP          |  3| 15.333|  3| 1.761|     10| 0.652| 21|  2|  0| 
-|Kutter Crawford  |OP          |  4| 22.000|  6| 2.455|     18| 0.818| 28|  0|  0| 
-|Reese Olson      |OP          |  3| 17.667|  3| 1.528|     17| 0.962| 19|  2|  0| 
-|Trevor May       |OP          |  5|  5.333|  0| 0.000|      2| 0.375|  7|  0|  2| 
-|Ben Lively       |PITCH BENCH |  4| 12.000|  9| 6.750|     19| 1.583| 10|  0|  0| 
-|Garrett Whitlock |PITCH BENCH |  5|  7.333|  3| 3.682|      7| 0.955|  7|  0|  1| 
+|players        |position    |  g|    ip| er|    era| hitsbb|  whip| so|  w| sv| 
+|:--------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
+|Freddy Peralta |SP          |  1| 6.000|  1|  1.500|      2| 0.333|  8|  1|  0| 
+|Nestor Cortes  |SP          |  1| 5.000|  4|  7.200|      7| 1.400|  5|  0|  0| 
+|Zac Gallen     |SP          |  1| 5.000|  1|  1.800|      5| 1.000|  3|  1|  0| 
+|Emmanuel Clase |RP          |  1| 1.000|  0|  0.000|      2| 2.000|  0|  0|  1| 
+|Pete Fairbanks |RP          |  1| 1.000|  0|  0.000|      0| 0.000|  2|  0|  0| 
+|Alex Lange     |OP          |  1| 0.333|  0|  0.000|      3| 9.000|  1|  0|  0| 
+|Robert Suarez  |OP          |  2| 2.333|  1|  3.857|      2| 0.857|  3|  0|  2| 
+|Ryan Weathers  |OP          |  1| 4.000|  3|  6.750|      9| 2.250|  5|  0|  0| 
+|Hunter Harvey  |PITCH BENCH |  1| 1.000|  2| 18.000|      3| 3.000|  1|  1|  0| 
 
 
 * * *
