@@ -2,8 +2,8 @@ name: Make-PL-Website
 
 ## Run this workflow every early morning to ensure we get the past days games
 on: 
-  # schedule:
-    # - cron: '15 9 * * *'
+  schedule:
+    - cron: '15 9 * * *'
   workflow_dispatch:
 
 jobs:
@@ -31,14 +31,14 @@ jobs:
           sudo apt-get install libcurl4-openssl-dev
           
       - name: Cache R packages
-        id: cache-rpkgall15
+        id: cache-rpkgall16
         uses: actions/cache@v2
         with:
           path: ${{ env.R_LIBS_USER }}
-          key: ${{ runner.os }}-rpkgall15
+          key: ${{ runner.os }}-rpkgall16
 
       - name: Install dependencies
-        if: steps.cache-rpkgall15.outputs.cache-hit != 'true'
+        if: steps.cache-rpkgall16.outputs.cache-hit != 'true'
         run: |
           install.packages(c("plyr", "dplyr", "remotes", "knitr", "DT", "webshot"))
           require("remotes")
