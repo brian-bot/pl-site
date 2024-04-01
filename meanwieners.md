@@ -5,23 +5,23 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Logan O'Hoppe    |C         |      4|  0|   1|  0|  0| 
+|Logan O'Hoppe    |C         |      6|  1|   1|  0|  0| 
 |Rhys Hoskins     |1B        |      5|  2|   4|  1|  0| 
 |Ryan McMahon     |2B        |      8|  0|   2|  0|  0| 
-|Nolan Gorman     |3B        |      4|  1|   2|  0|  0| 
+|Nolan Gorman     |3B        |      5|  1|   2|  0|  0| 
 |Ceddanne Rafaela |SS        |      4|  3|   1|  0|  0| 
-|Zach Neto        |MI        |      0|  0|   1|  0|  0| 
-|Ke'Bryan Hayes   |CI        |      9|  3|   3|  0|  0| 
-|Aaron Judge      |OF        |      4|  1|   0|  0|  0| 
+|Zach Neto        |MI        |      2|  0|   2|  0|  0| 
+|Ke'Bryan Hayes   |CI        |     12|  4|   4|  0|  0| 
+|Aaron Judge      |OF        |      4|  1|   1|  0|  0| 
 |Luis Robert Jr.  |OF        |      5|  2|   4|  2|  0| 
-|Wyatt Langford   |OF        |      4|  1|   1|  0|  0| 
+|Wyatt Langford   |OF        |      6|  1|   3|  0|  0| 
 |Yordan Alvarez   |OF        |      4|  1|   0|  0|  0| 
 |Byron Buxton     |DH        |      5|  1|   3|  0|  0| 
-|Chas McCormick   |DH        |      2|  0|   2|  0|  1| 
-|Daulton Varsho   |DH        |      4|  2|   0|  0|  0| 
-|Will Benson      |DH        |      3|  1|   0|  0|  0| 
-|Colt Keith       |BAT BENCH |      2|  0|   0|  0|  0| 
-|José Caballero   |BAT BENCH |      5|  2|   3|  0|  0| 
+|Chas McCormick   |DH        |      3|  0|   2|  0|  1| 
+|Daulton Varsho   |DH        |      5|  2|   0|  0|  0| 
+|Will Benson      |DH        |      6|  2|   3|  1|  0| 
+|Colt Keith       |BAT BENCH |      3|  0|   0|  0|  0| 
+|José Caballero   |BAT BENCH |      6|  2|   3|  0|  1| 
 
 
 * * *

@@ -6,21 +6,21 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith        |C         |     12|  2|   4|  0|  0| 
-|Yandy Díaz        |1B        |      6|  3|   5|  1|  0| 
-|Isaac Paredes     |2B        |      2|  1|   0|  0|  0| 
-|Rafael Devers     |3B        |      2|  1|   2|  1|  0| 
-|Bobby Witt Jr.    |SS        |      5|  1|   0|  0|  0| 
-|Trea Turner       |MI        |      2|  0|   0|  0|  0| 
-|Yainer Diaz       |CI        |      6|  1|   1|  0|  0| 
+|Yandy Díaz        |1B        |      7|  3|   5|  1|  0| 
+|Isaac Paredes     |2B        |      3|  2|   1|  1|  0| 
+|Rafael Devers     |3B        |      3|  1|   2|  1|  0| 
+|Bobby Witt Jr.    |SS        |      8|  4|   1|  1|  0| 
+|Trea Turner       |MI        |      3|  1|   1|  0|  1| 
+|Yainer Diaz       |CI        |      8|  1|   2|  0|  0| 
 |Anthony Santander |OF        |      3|  3|   7|  2|  0| 
-|Christopher Morel |OF        |      4|  2|   0|  0|  0| 
-|Kerry Carpenter   |OF        |      3|  0|   0|  0|  0| 
-|Masataka Yoshida  |OF        |      4|  0|   1|  0|  0| 
+|Christopher Morel |OF        |      5|  3|   3|  1|  0| 
+|Kerry Carpenter   |OF        |      5|  1|   1|  1|  0| 
+|Masataka Yoshida  |OF        |      5|  1|   1|  0|  0| 
 |Carlos Correa     |DH        |      4|  0|   2|  0|  0| 
 |Edouard Julien    |DH        |      3|  1|   0|  0|  0| 
-|Luis Arraez       |DH        |      2|  1|   0|  0|  0| 
-|Taylor Ward       |DH        |      2|  2|   2|  1|  0| 
-|Ryan Mountcastle  |BAT BENCH |      5|  1|   4|  0|  0| 
+|Luis Arraez       |DH        |      4|  2|   0|  0|  0| 
+|Taylor Ward       |DH        |      3|  3|   4|  2|  0| 
+|Ryan Mountcastle  |BAT BENCH |      6|  1|   4|  0|  0| 
 
 
 * * *

@@ -5,23 +5,23 @@
  
 |players                      |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------------------|:---------|------:|--:|---:|--:|--:| 
-|Francisco Alvarez            |C         |      3|  2|   2|  1|  0| 
-|Salvador Perez               |1B        |      1|  0|   0|  0|  0| 
-|Andrés Giménez               |2B        |      9|  5|   4|  0|  1| 
-|José Ramírez                 |3B        |      4|  3|   4|  1|  0| 
-|Trevor Story                 |SS        |      2|  0|   0|  0|  1| 
+|Francisco Alvarez            |C         |      6|  3|   2|  1|  0| 
+|Salvador Perez               |1B        |      4|  2|   4|  1|  0| 
+|Andrés Giménez               |2B        |     10|  6|   4|  0|  1| 
+|José Ramírez                 |3B        |      4|  4|   4|  1|  0| 
+|Trevor Story                 |SS        |      4|  0|   0|  0|  1| 
 |Jeff McNeil                  |MI        |      1|  0|   0|  0|  0| 
-|Christian Encarnacion-Strand |CI        |      0|  0|   0|  0|  0| 
+|Christian Encarnacion-Strand |CI        |      1|  1|   1|  1|  0| 
 |Adolis García                |OF        |      4|  2|   4|  2|  1| 
-|Christian Yelich             |OF        |      5|  2|   2|  1|  0| 
+|Christian Yelich             |OF        |      7|  3|   2|  1|  2| 
 |Mike Trout                   |OF        |      2|  1|   1|  1|  0| 
-|Nick Castellanos             |OF        |      3|  0|   2|  0|  0| 
-|Andrew Vaughn                |DH        |      2|  0|   0|  0|  0| 
+|Nick Castellanos             |OF        |      5|  0|   2|  0|  0| 
+|Andrew Vaughn                |DH        |      3|  0|   0|  0|  0| 
 |Brent Rooker                 |DH        |      1|  0|   0|  0|  0| 
-|Giancarlo Stanton            |DH        |      2|  1|   1|  1|  0| 
-|Shohei Ohtani                |DH        |      8|  3|   2|  0|  1| 
-|Jake Cronenworth             |BAT BENCH |     10|  3|   6|  0|  0| 
-|Yoán Moncada                 |BAT BENCH |      1|  2|   0|  0|  0| 
+|Giancarlo Stanton            |DH        |      3|  2|   1|  1|  0| 
+|Shohei Ohtani                |DH        |      9|  4|   2|  0|  1| 
+|Jake Cronenworth             |BAT BENCH |     11|  4|   7|  0|  0| 
+|Yoán Moncada                 |BAT BENCH |      2|  2|   0|  0|  0| 
 
 
 * * *
