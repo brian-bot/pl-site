@@ -5,24 +5,24 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|Bo Naylor             |C         |      2|  0|   0|  0|  0| 
-|Freddie Freeman       |1B        |     13|  3|   4|  1|  0| 
-|Gleyber Torres        |2B        |      6|  3|   0|  0|  1| 
-|Max Muncy             |3B        |     10|  4|   5|  1|  0| 
+|Bo Naylor             |C         |      5|  1|   0|  0|  0| 
+|Freddie Freeman       |1B        |     16|  5|   6|  1|  0| 
+|Gleyber Torres        |2B        |      8|  3|   1|  0|  1| 
+|Max Muncy             |3B        |     10|  5|   5|  1|  0| 
 |Willy Adames          |SS        |      6|  2|   2|  0|  0| 
-|Zack Gelof            |MI        |      4|  1|   0|  0|  1| 
+|Zack Gelof            |MI        |      5|  1|   0|  0|  1| 
 |Vladimir Guerrero Jr. |CI        |      9|  2|   1|  1|  0| 
-|Cody Bellinger        |OF        |      6|  1|   2|  0|  0| 
-|Kyle Tucker           |OF        |      7|  2|   1|  0|  1| 
-|Michael Harris II     |OF        |      7|  5|   2|  1|  0| 
-|Seiya Suzuki          |OF        |      3|  2|   2|  0|  0| 
-|Brandon Lowe          |DH        |      4|  1|   4|  1|  0| 
+|Cody Bellinger        |OF        |      7|  1|   4|  0|  0| 
+|Kyle Tucker           |OF        |     10|  4|   5|  2|  1| 
+|Michael Harris II     |OF        |      9|  6|   2|  1|  0| 
+|Seiya Suzuki          |OF        |      5|  3|   2|  0|  0| 
+|Brandon Lowe          |DH        |      5|  1|   4|  1|  0| 
 |James Outman          |DH        |      7|  2|   3|  0|  0| 
-|Jose Siri             |DH        |      5|  2|   0|  0|  3| 
-|Maikel Garcia         |DH        |      2|  2|   2|  2|  0| 
-|Ian Happ              |BAT BENCH |      7|  1|   2|  0|  0| 
-|Michael Busch         |BAT BENCH |      4|  1|   0|  0|  0| 
-|Parker Meadows        |BAT BENCH |      3|  1|   0|  0|  0| 
+|Jose Siri             |DH        |      8|  3|   2|  1|  3| 
+|Maikel Garcia         |DH        |      3|  2|   3|  2|  0| 
+|Ian Happ              |BAT BENCH |      9|  2|   2|  0|  0| 
+|Michael Busch         |BAT BENCH |      5|  1|   0|  0|  0| 
+|Parker Meadows        |BAT BENCH |      3|  2|   0|  0|  0| 
 
 
 * * *
@@ -38,12 +38,12 @@
 |Michael King   |SP          |  2| 7.333|  5|  6.136|     16| 2.182| 11|  1|  0| 
 |Nathan Eovaldi |SP          |  1| 6.000|  2|  3.000|      5| 0.833|  3|  0|  0| 
 |Adbert Alzolay |RP          |  2| 2.000|  1|  4.500|      2| 1.000|  2|  0|  0| 
-|Edwin Díaz     |RP          |  1| 1.000|  0|  0.000|      1| 1.000|  1|  0|  0| 
+|Edwin Díaz     |RP          |  2| 2.000|  0|  0.000|      1| 0.500|  3|  0|  0| 
 |A.J. Puk       |OP          |  1| 2.000|  4| 18.000|      9| 4.500|  1|  0|  0| 
-|Jason Foley    |OP          |  2| 1.333|  0|  0.000|      0| 0.000|  2|  0|  2| 
+|Jason Foley    |OP          |  3| 2.333|  0|  0.000|      1| 0.429|  4|  1|  2| 
 |Seth Lugo      |OP          |  1| 6.000|  0|  0.000|      3| 0.500|  4|  0|  0| 
 |Abner Uribe    |PITCH BENCH |  2| 2.000|  1|  4.500|      1| 0.500|  2|  0|  2| 
-|James McArthur |PITCH BENCH |  1| 1.000|  1|  9.000|      2| 2.000|  1|  0|  0| 
+|James McArthur |PITCH BENCH |  2| 2.000|  2|  9.000|      5| 2.500|  2|  0|  0| 
 |Kyle Harrison  |PITCH BENCH |  1| 6.000|  2|  3.000|      6| 1.000|  5|  1|  0| 
 
 

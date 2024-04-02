@@ -5,22 +5,22 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |     12|  2|   4|  0|  0| 
+|Will Smith        |C         |     15|  2|   6|  0|  0| 
 |Yandy Díaz        |1B        |      7|  3|   5|  1|  0| 
 |Isaac Paredes     |2B        |      3|  2|   1|  1|  0| 
-|Rafael Devers     |3B        |      3|  1|   2|  1|  0| 
-|Bobby Witt Jr.    |SS        |      8|  4|   1|  1|  0| 
-|Trea Turner       |MI        |      3|  1|   1|  0|  1| 
-|Yainer Diaz       |CI        |      8|  1|   2|  0|  0| 
-|Anthony Santander |OF        |      3|  3|   7|  2|  0| 
-|Christopher Morel |OF        |      5|  3|   3|  1|  0| 
+|Rafael Devers     |3B        |      5|  2|   2|  1|  0| 
+|Bobby Witt Jr.    |SS        |     10|  5|   2|  2|  1| 
+|Trea Turner       |MI        |      6|  2|   2|  0|  2| 
+|Yainer Diaz       |CI        |     10|  3|   4|  2|  0| 
+|Anthony Santander |OF        |      4|  4|   8|  2|  0| 
+|Christopher Morel |OF        |      7|  4|   3|  1|  0| 
 |Kerry Carpenter   |OF        |      5|  1|   1|  1|  0| 
-|Masataka Yoshida  |OF        |      5|  1|   1|  0|  0| 
+|Masataka Yoshida  |OF        |      7|  3|   2|  0|  0| 
 |Carlos Correa     |DH        |      4|  0|   2|  0|  0| 
 |Edouard Julien    |DH        |      3|  1|   0|  0|  0| 
-|Luis Arraez       |DH        |      4|  2|   0|  0|  0| 
-|Taylor Ward       |DH        |      3|  3|   4|  2|  0| 
-|Ryan Mountcastle  |BAT BENCH |      6|  1|   4|  0|  0| 
+|Luis Arraez       |DH        |      9|  3|   0|  0|  0| 
+|Taylor Ward       |DH        |      4|  4|   5|  2|  0| 
+|Ryan Mountcastle  |BAT BENCH |      8|  2|   7|  1|  0| 
 
 
 * * *

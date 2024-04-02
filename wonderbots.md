@@ -7,20 +7,20 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |William Contreras |C         |      5|  2|   2|  0|  0| 
 |Nolan Jones       |1B        |      3|  1|   2|  0|  0| 
-|Ozzie Albies      |2B        |      6|  4|   6|  2|  1| 
-|Manny Machado     |3B        |     10|  7|   7|  2|  0| 
-|Corey Seager      |SS        |      5|  1|   2|  0|  0| 
-|Ezequiel Tovar    |MI        |      4|  1|   2|  1|  0| 
-|Ha-Seong Kim      |CI        |     10|  4|   4|  1|  2| 
-|Bryan Reynolds    |OF        |     10|  2|   5|  1|  0| 
-|Cedric Mullins    |OF        |      3|  2|   4|  1|  0| 
-|Mookie Betts      |OF        |     18|  9|  10|  4|  0| 
-|Teoscar Hernández |OF        |      8|  7|   6|  3|  0| 
-|Alec Bohm         |DH        |      4|  1|   2|  0|  0| 
-|Jack Suwinski     |DH        |      3|  2|   1|  0|  0| 
-|Jeremy Peña       |DH        |      7|  1|   0|  0|  0| 
-|Tyler O'Neill     |DH        |      7|  4|   2|  2|  1| 
-|Jarred Kelenic    |BAT BENCH |      6|  2|   2|  0|  0| 
+|Ozzie Albies      |2B        |      9|  6|   7|  2|  1| 
+|Manny Machado     |3B        |     12|  7|   7|  2|  0| 
+|Corey Seager      |SS        |      8|  3|   2|  0|  0| 
+|Ezequiel Tovar    |MI        |      5|  1|   2|  1|  0| 
+|Ha-Seong Kim      |CI        |     11|  4|   4|  1|  2| 
+|Bryan Reynolds    |OF        |     13|  2|   8|  1|  0| 
+|Cedric Mullins    |OF        |      4|  3|   4|  1|  0| 
+|Mookie Betts      |OF        |     21| 12|  10|  4|  0| 
+|Teoscar Hernández |OF        |      9|  8|   9|  4|  0| 
+|Alec Bohm         |DH        |      6|  1|   4|  0|  0| 
+|Jack Suwinski     |DH        |      4|  2|   1|  0|  0| 
+|Jeremy Peña       |DH        |     10|  2|   3|  1|  0| 
+|Tyler O'Neill     |DH        |      9|  5|   2|  2|  1| 
+|Jarred Kelenic    |BAT BENCH |      7|  2|   2|  0|  0| 
 
 
 * * *

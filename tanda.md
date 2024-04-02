@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Willson Contreras |C         |      3|  1|   0|  0|  0| 
-|Matt Olson        |1B        |      4|  2|   4|  1|  0| 
-|Marcus Semien     |2B        |      6|  2|   4|  0|  0| 
+|Willson Contreras |C         |      5|  2|   2|  1|  0| 
+|Matt Olson        |1B        |      5|  2|   4|  1|  0| 
+|Marcus Semien     |2B        |      8|  3|   4|  0|  0| 
 |Royce Lewis       |3B        |      2|  1|   1|  1|  0| 
-|Oneil Cruz        |SS        |      7|  4|   2|  1|  0| 
-|Gunnar Henderson  |MI        |      7|  3|   4|  1|  0| 
+|Oneil Cruz        |SS        |      8|  5|   2|  1|  0| 
+|Gunnar Henderson  |MI        |      8|  4|   4|  1|  0| 
 |Brandon Drury     |CI        |      3|  1|   0|  0|  0| 
 |Jackson Chourio   |OF        |      6|  0|   2|  0|  1| 
-|Jarren Duran      |OF        |      4|  1|   0|  0|  2| 
-|Jorge Soler       |OF        |      5|  4|   0|  0|  0| 
-|Julio Rodríguez   |OF        |      4|  0|   1|  0|  1| 
+|Jarren Duran      |OF        |      7|  3|   1|  0|  5| 
+|Jorge Soler       |OF        |      7|  4|   1|  0|  0| 
+|Julio Rodríguez   |OF        |      6|  0|   1|  0|  2| 
 |Eloy Jiménez      |DH        |      2|  0|   0|  0|  0| 
 |Esteury Ruiz      |DH        |      3|  2|   1|  0|  1| 
-|Jung Hoo Lee      |DH        |      7|  1|   4|  1|  0| 
-|Mitch Haniger     |DH        |      5|  3|   3|  1|  0| 
-|Henry Davis       |BAT BENCH |      6|  1|   0|  0|  0| 
-|Matt Chapman      |BAT BENCH |      5|  4|   6|  2|  0| 
+|Jung Hoo Lee      |DH        |      9|  1|   4|  1|  0| 
+|Mitch Haniger     |DH        |      7|  3|   3|  1|  0| 
+|Henry Davis       |BAT BENCH |      9|  3|   0|  0|  0| 
+|Matt Chapman      |BAT BENCH |      8|  4|   6|  2|  0| 
 
 
 * * *

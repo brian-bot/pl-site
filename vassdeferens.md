@@ -5,22 +5,22 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman    |C         |      5|  5|   2|  0|  0| 
+|Adley Rutschman    |C         |      8|  6|   2|  0|  0| 
 |Pete Alonso        |1B        |      5|  1|   1|  1|  0| 
-|Nico Hoerner       |2B        |      4|  1|   0|  0|  0| 
-|Jake Burger        |3B        |      8|  3|   6|  0|  0| 
-|CJ Abrams          |SS        |      5|  4|   1|  1|  3| 
-|Ketel Marte        |MI        |      8|  6|   1|  0|  1| 
-|Vinnie Pasquantino |CI        |      3|  1|   0|  0|  0| 
-|Juan Soto          |OF        |     12|  2|   4|  1|  0| 
-|Marcell Ozuna      |OF        |      2|  1|   3|  1|  0| 
+|Nico Hoerner       |2B        |      5|  1|   0|  0|  0| 
+|Jake Burger        |3B        |      9|  4|   7|  0|  0| 
+|CJ Abrams          |SS        |      7|  4|   2|  1|  3| 
+|Ketel Marte        |MI        |     10|  6|   3|  0|  1| 
+|Vinnie Pasquantino |CI        |      5|  2|   0|  0|  0| 
+|Juan Soto          |OF        |     14|  2|   4|  1|  0| 
+|Marcell Ozuna      |OF        |      3|  2|   3|  1|  0| 
 |Matt Wallner       |OF        |      3|  0|   0|  0|  0| 
-|Riley Greene       |OF        |      2|  2|   1|  1|  0| 
-|Anthony Rizzo      |DH        |      7|  2|   1|  0|  0| 
-|Elly De La Cruz    |DH        |      4|  3|   0|  0|  1| 
-|Mitch Garver       |DH        |      1|  0|   0|  0|  0| 
+|Riley Greene       |OF        |      3|  2|   1|  1|  0| 
+|Anthony Rizzo      |DH        |      8|  3|   1|  0|  0| 
+|Elly De La Cruz    |DH        |      5|  3|   0|  0|  2| 
+|Mitch Garver       |DH        |      2|  1|   0|  0|  0| 
 |Sal Frelick        |DH        |      2|  1|   0|  0|  1| 
-|Jordan Westburg    |BAT BENCH |      3|  2|   3|  0|  0| 
+|Jordan Westburg    |BAT BENCH |      4|  3|   5|  1|  0| 
 
 
 * * *
