@@ -5,21 +5,21 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman    |C         |      8|  6|   2|  0|  0| 
+|Adley Rutschman    |C         |     11|  6|   3|  0|  0| 
 |Pete Alonso        |1B        |      5|  1|   1|  1|  0| 
-|Nico Hoerner       |2B        |      8|  2|   0|  0|  0| 
-|Jake Burger        |3B        |      9|  4|   7|  0|  0| 
-|CJ Abrams          |SS        |      7|  4|   2|  1|  3| 
-|Ketel Marte        |MI        |     12|  8|   3|  0|  1| 
-|Vinnie Pasquantino |CI        |      6|  2|   0|  0|  0| 
-|Juan Soto          |OF        |     15|  2|   4|  1|  0| 
+|Nico Hoerner       |2B        |     10|  4|   0|  0|  0| 
+|Jake Burger        |3B        |     10|  4|   8|  0|  0| 
+|CJ Abrams          |SS        |      9|  4|   4|  1|  3| 
+|Ketel Marte        |MI        |     14|  9|   4|  1|  1| 
+|Vinnie Pasquantino |CI        |      7|  3|   0|  0|  0| 
+|Juan Soto          |OF        |     15|  3|   4|  1|  0| 
 |Marcell Ozuna      |OF        |      5|  4|   5|  3|  0| 
 |Matt Wallner       |OF        |      3|  0|   1|  0|  0| 
 |Riley Greene       |OF        |      3|  2|   1|  1|  0| 
-|Anthony Rizzo      |DH        |      8|  3|   1|  0|  0| 
-|Elly De La Cruz    |DH        |      6|  4|   0|  0|  2| 
+|Anthony Rizzo      |DH        |     10|  3|   1|  0|  0| 
+|Elly De La Cruz    |DH        |      7|  4|   1|  0|  2| 
 |Mitch Garver       |DH        |      4|  1|   0|  0|  0| 
-|Sal Frelick        |DH        |      2|  1|   0|  0|  1| 
+|Sal Frelick        |DH        |      4|  2|   0|  0|  1| 
 |Jordan Westburg    |BAT BENCH |      5|  4|   5|  1|  0| 
 
 
@@ -36,9 +36,9 @@
 |Emmanuel Clase |RP          |  2|  2.000|  0| 0.000|      3| 1.500|  2|  0|  2| 
 |Pete Fairbanks |RP          |  2|  2.000|  1| 4.500|      3| 1.500|  3|  0|  0| 
 |Alex Lange     |OP          |  1|  0.333|  0| 0.000|      3| 9.000|  1|  0|  0| 
-|Robert Suarez  |OP          |  2|  2.333|  1| 3.857|      2| 0.857|  3|  0|  2| 
+|Robert Suarez  |OP          |  3|  4.000|  1| 2.250|      5| 1.250|  5|  0|  3| 
 |Ryan Weathers  |OP          |  1|  4.000|  3| 6.750|      9| 2.250|  5|  0|  0| 
-|Hunter Harvey  |PITCH BENCH |  2|  2.000|  2| 9.000|      4| 2.000|  2|  1|  0| 
+|Hunter Harvey  |PITCH BENCH |  3|  3.667|  2| 4.909|      4| 1.091|  6|  1|  0| 
 
 
 * * *
