@@ -6,22 +6,22 @@
 |players                      |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------------------|:---------|------:|--:|---:|--:|--:| 
 |Francisco Alvarez            |C         |      9|  3|   4|  1|  0| 
-|Salvador Perez               |1B        |     10|  4|   8|  2|  0| 
+|Salvador Perez               |1B        |     14|  4|   9|  2|  0| 
 |Andrés Giménez               |2B        |     15|  8|   6|  0|  1| 
 |José Ramírez                 |3B        |     11|  9|   7|  1|  0| 
 |Trevor Story                 |SS        |     10|  1|   4|  0|  1| 
-|Jeff McNeil                  |MI        |      3|  0|   0|  0|  0| 
+|Jeff McNeil                  |MI        |      4|  1|   1|  1|  0| 
 |Christian Encarnacion-Strand |CI        |      5|  1|   4|  1|  0| 
-|Adolis García                |OF        |      8|  5|   6|  3|  1| 
-|Christian Yelich             |OF        |      9|  4|   3|  2|  2| 
-|Mike Trout                   |OF        |      8|  4|   3|  3|  1| 
-|Nick Castellanos             |OF        |      7|  0|   2|  0|  0| 
-|Andrew Vaughn                |DH        |      7|  0|   2|  0|  0| 
-|Brent Rooker                 |DH        |      3|  0|   0|  0|  0| 
+|Adolis García                |OF        |     10|  6|  10|  4|  1| 
+|Christian Yelich             |OF        |     10|  5|   4|  3|  2| 
+|Mike Trout                   |OF        |      9|  4|   3|  3|  1| 
+|Nick Castellanos             |OF        |      8|  1|   2|  0|  0| 
+|Andrew Vaughn                |DH        |      8|  0|   2|  0|  0| 
+|Brent Rooker                 |DH        |      5|  1|   2|  1|  0| 
 |Giancarlo Stanton            |DH        |      4|  2|   1|  1|  0| 
-|Shohei Ohtani                |DH        |     13|  7|   4|  1|  1| 
-|Jake Cronenworth             |BAT BENCH |     13|  4|   7|  0|  0| 
-|Yoán Moncada                 |BAT BENCH |      9|  3|   0|  0|  0| 
+|Shohei Ohtani                |DH        |     15|  9|   6|  2|  1| 
+|Jake Cronenworth             |BAT BENCH |     15|  4|   8|  0|  0| 
+|Yoán Moncada                 |BAT BENCH |     11|  3|   0|  0|  0| 
 
 
 * * *
@@ -42,7 +42,7 @@
 |Andrew Heaney      |OP       |  1|  4.667|  1| 1.929|      4| 0.857|  7|  0|  0| 
 |Brandon Pfaadt     |OP       |  1|  5.000|  1| 1.800|      5| 1.000|  6|  1|  0| 
 |Brayan Bello       |OP       |  2| 10.000|  6| 5.400|     11| 1.100|  8|  1|  0| 
-|Griffin Canning    |OP       |  1|  5.000|  5| 9.000|      8| 1.600|  2|  0|  0| 
+|Griffin Canning    |OP       |  2|  9.667|  9| 8.379|     16| 1.655|  6|  0|  0| 
 |Miles Mikolas      |OP       |  2| 10.333|  7| 6.097|     17| 1.645|  9|  1|  0| 
 
 
