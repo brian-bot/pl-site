@@ -6,20 +6,20 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Willson Contreras |C         |     10|  4|   4|  2|  0| 
-|Matt Olson        |1B        |      9|  4|   6|  2|  0| 
-|Marcus Semien     |2B        |     16|  6|   8|  1|  0| 
+|Matt Olson        |1B        |     13|  6|   7|  2|  0| 
+|Marcus Semien     |2B        |     18|  7|   9|  1|  0| 
 |Royce Lewis       |3B        |      2|  1|   1|  1|  0| 
 |Oneil Cruz        |SS        |     15|  7|   4|  2|  1| 
 |Gunnar Henderson  |MI        |     11|  6|   6|  2|  2| 
 |Brandon Drury     |CI        |      7|  3|   1|  0|  0| 
-|Jackson Chourio   |OF        |      8|  1|   4|  1|  1| 
-|Jarren Duran      |OF        |     17|  5|   4|  1|  6| 
+|Jackson Chourio   |OF        |      9|  2|   6|  2|  1| 
+|Jarren Duran      |OF        |     18|  5|   5|  1|  6| 
 |Jorge Soler       |OF        |     12|  7|   3|  2|  0| 
-|Julio Rodríguez   |OF        |      8|  1|   2|  0|  2| 
+|Julio Rodríguez   |OF        |     10|  1|   3|  0|  2| 
 |Eloy Jiménez      |DH        |      2|  0|   0|  0|  0| 
 |Esteury Ruiz      |DH        |      3|  2|   1|  0|  1| 
 |Jung Hoo Lee      |DH        |     11|  2|   4|  1|  0| 
-|Mitch Haniger     |DH        |     10|  4|   4|  1|  0| 
+|Mitch Haniger     |DH        |     13|  4|   4|  1|  0| 
 |Henry Davis       |BAT BENCH |      9|  4|   1|  0|  0| 
 |Matt Chapman      |BAT BENCH |     10|  6|   7|  2|  0| 
 
@@ -38,7 +38,7 @@
 |Hunter Greene    |SP          |  2| 10.667|  3|  2.531|     13| 1.219| 13|  0|  0| 
 |Triston McKenzie |SP          |  1|  3.333|  4| 10.800|      6| 1.800|  2|  0|  0| 
 |Craig Kimbrel    |RP          |  3|  3.000|  1|  3.000|      1| 0.333|  5|  1|  1| 
-|Raisel Iglesias  |RP          |  2|  2.000|  0|  0.000|      2| 1.000|  1|  0|  0| 
+|Raisel Iglesias  |RP          |  3|  3.000|  0|  0.000|      2| 0.667|  1|  0|  1| 
 |Erick Fedde      |OP          |  2|  9.667|  3|  2.793|     14| 1.448| 11|  0|  0| 
 |Frankie Montas   |OP          |  2| 11.667|  1|  0.771|     12| 1.029|  9|  2|  0| 
 |Luis Severino    |OP          |  2| 10.000|  4|  3.600|     16| 1.600| 13|  0|  0| 

@@ -8,20 +8,20 @@
 |J.T. Realmuto       |C         |     11|  4|   4|  2|  0| 
 |Paul Goldschmidt    |1B        |     14|  4|   6|  1|  0| 
 |Bryson Stott        |2B        |     12|  4|   2|  0|  2| 
-|Austin Riley        |3B        |      7|  5|   5|  1|  0| 
+|Austin Riley        |3B        |     10|  7|   6|  1|  0| 
 |Francisco Lindor    |SS        |      7|  1|   1|  0|  0| 
-|Bo Bichette         |MI        |      4|  1|   2|  0|  0| 
-|Alex Bregman        |CI        |      9|  1|   1|  0|  1| 
+|Bo Bichette         |MI        |      7|  2|   2|  0|  0| 
+|Alex Bregman        |CI        |     11|  1|   1|  0|  1| 
 |Brandon Nimmo       |OF        |     11|  0|   2|  0|  1| 
-|George Springer     |OF        |     11|  5|   2|  2|  0| 
-|Lourdes Gurriel Jr. |OF        |     15|  8|  11|  3|  1| 
-|Ronald Acuña Jr.    |OF        |     10|  6|   3|  0|  1| 
+|George Springer     |OF        |     14|  5|   2|  2|  0| 
+|Lourdes Gurriel Jr. |OF        |     17|  9|  11|  3|  1| 
+|Ronald Acuña Jr.    |OF        |     12|  8|   4|  0|  1| 
 |Jeimer Candelario   |DH        |      9|  3|   3|  1|  0| 
 |José Abreu          |DH        |      4|  2|   0|  0|  0| 
 |Spencer Torkelson   |DH        |      9|  4|   2|  0|  0| 
 |Steven Kwan         |DH        |     16| 10|   3|  1|  1| 
-|Eugenio Suárez      |BAT BENCH |     13|  4|   7|  1|  0| 
-|Nolan Schanuel      |BAT BENCH |      9|  3|   4|  1|  0| 
+|Eugenio Suárez      |BAT BENCH |     16|  6|   7|  1|  0| 
+|Nolan Schanuel      |BAT BENCH |     11|  3|   4|  1|  0| 
 
 
 * * *
@@ -42,7 +42,7 @@
 |James Paxton   |OP          |  1|  5.000|  0|  0.000|      9| 1.800|  5|  1|  0| 
 |Max Meyer      |OP          |  1|  5.000|  2|  3.600|      4| 0.800|  4|  0|  0| 
 |Ranger Suárez  |OP          |  2| 11.000|  5|  4.091|      8| 0.727| 11|  1|  0| 
-|Reid Detmers   |OP          |  1|  5.000|  1|  1.800|      5| 1.000|  7|  1|  0| 
+|Reid Detmers   |OP          |  2| 11.000|  2|  1.636|      9| 0.818| 19|  2|  0| 
 |Tanner Scott   |OP          |  4|  4.000|  1|  2.250|      7| 1.750|  5|  0|  0| 
 |Shohei Ohtani  |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 

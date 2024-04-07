@@ -7,16 +7,16 @@ Through games on 2024-04-06 ([website build status](https://github.com/brian-bot
 
 |team                   | points|  r| hitsbb| hr| rbi| sb|  w| sv|  so|   era|  whip|
 |:----------------------|------:|--:|------:|--:|---:|--:|--:|--:|---:|-----:|-----:|
-|[Washington Generals](./washingtongenerals)|   42.5| 58|    149| 11|  47|  7|  5|  3|  88| 3.696| 1.209|
-|[Mean Wieners](./meanwieners)|   40.0| 49|    154| 10|  59|  4|  3|  4| 116| 4.012| 1.319|
-|[Bone Pilers](./bonepilers)|   63.5| 64|    146| 14|  51| 13|  6|  2| 125| 2.674| 1.006|
-|[T and A](./tanda)     |   52.0| 53|    141| 16|  52| 13|  5|  1| 116| 2.536| 1.255|
-|[Terminoeckers](./terminoeckers)|   65.0| 61|    178| 16|  62| 11|  7|  2| 102| 3.396| 1.307|
-|[Overwhelming Underdogs](./overwhelmingunderdogs)|   58.5| 73|    175| 18|  56|  8|  4|  5|  88| 4.963| 1.213|
-|[Boys of Summer](./boysofsummer)|   52.0| 70|    175| 17|  58|  6|  8|  1| 103| 4.469| 1.417|
-|[Vass Deferens](./vassdeferens)|   47.0| 68|    155| 14|  47|  9|  5|  8|  84| 4.335| 1.376|
-|[Wonderbots](./wonderbots)|   61.0| 87|    191| 27|  92| 10|  4|  4|  86| 5.749| 1.437|
-|[Nuclear Arms](./nucleararms)|   68.5| 58|    147| 21|  69|  7| 10|  3| 120| 3.545| 1.156|
+|[Washington Generals](./washingtongenerals)|   41.5| 64|    164| 11|  49|  7|  6|  3| 100| 3.555| 1.174|
+|[Mean Wieners](./meanwieners)|   42.5| 54|    170| 12|  64|  5|  3|  5| 117| 3.975| 1.307|
+|[Bone Pilers](./bonepilers)|   57.5| 66|    151| 14|  51| 13|  6|  2| 125| 2.674| 1.006|
+|[T and A](./tanda)     |   51.0| 57|    154| 17|  58| 13|  5|  2| 116| 2.514| 1.243|
+|[Terminoeckers](./terminoeckers)|   66.5| 65|    194| 17|  67| 14|  8|  2| 106| 3.190| 1.271|
+|[Overwhelming Underdogs](./overwhelmingunderdogs)|   67.0| 81|    186| 19|  60|  9|  6|  5| 108| 4.664| 1.164|
+|[Boys of Summer](./boysofsummer)|   45.5| 71|    183| 18|  62|  6|  8|  1| 104| 5.217| 1.505|
+|[Vass Deferens](./vassdeferens)|   48.5| 73|    167| 17|  58|  9|  5|  8|  89| 4.038| 1.397|
+|[Wonderbots](./wonderbots)|   63.0| 93|    205| 27|  93| 11|  4|  6|  91| 5.400| 1.468|
+|[Nuclear Arms](./nucleararms)|   67.0| 60|    154| 22|  71|  7| 10|  4| 128| 3.714| 1.167|
 
 * * *
 * * *

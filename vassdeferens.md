@@ -10,15 +10,15 @@
 |Nico Hoerner       |2B        |     12|  6|   0|  0|  0| 
 |Jake Burger        |3B        |     14|  6|  10|  2|  0| 
 |CJ Abrams          |SS        |     12|  5|   5|  2|  3| 
-|Ketel Marte        |MI        |     15| 10|   5|  2|  1| 
+|Ketel Marte        |MI        |     18| 11|   7|  3|  1| 
 |Vinnie Pasquantino |CI        |      8|  4|   0|  0|  0| 
-|Juan Soto          |OF        |     15|  3|   4|  1|  0| 
-|Marcell Ozuna      |OF        |      8|  4|   6|  3|  0| 
+|Juan Soto          |OF        |     19|  4|   6|  1|  0| 
+|Marcell Ozuna      |OF        |     11|  6|  10|  4|  0| 
 |Matt Wallner       |OF        |      6|  0|   1|  0|  0| 
 |Riley Greene       |OF        |      9|  4|   3|  2|  0| 
-|Anthony Rizzo      |DH        |     11|  3|   1|  0|  0| 
+|Anthony Rizzo      |DH        |     12|  4|   3|  1|  0| 
 |Elly De La Cruz    |DH        |     10|  7|   3|  0|  3| 
-|Mitch Garver       |DH        |      6|  1|   1|  0|  0| 
+|Mitch Garver       |DH        |      7|  1|   2|  0|  0| 
 |Sal Frelick        |DH        |      6|  4|   0|  0|  2| 
 |Jordan Westburg    |BAT BENCH |      8|  6|   5|  1|  0| 
 
@@ -40,8 +40,8 @@
 |Pete Fairbanks   |RP          |  3|  2.000|  4| 18.000|      6| 3.000|  3|  0|  0| 
 |Alex Lange       |OP          |  3|  1.667|  0|  0.000|      4| 2.400|  4|  0|  1| 
 |Chris Paddack    |OP          |  1|  4.000|  2|  4.500|      8| 2.000|  2|  0|  0| 
-|Garrett Whitlock |OP          |  1|  5.000|  1|  1.800|      3| 0.600|  8|  1|  0| 
-|Robert Suarez    |OP          |  3|  4.000|  1|  2.250|      5| 1.250|  5|  0|  3| 
+|Garrett Whitlock |OP          |  2|  9.333|  1|  0.964|     11| 1.179| 12|  1|  0| 
+|Robert Suarez    |OP          |  4|  5.000|  1|  1.800|      6| 1.200|  6|  0|  3| 
 |Ryan Weathers    |OP          |  2|  9.000|  4|  4.000|     15| 1.667| 11|  0|  0| 
 |Hunter Harvey    |PITCH BENCH |  3|  3.667|  2|  4.909|      4| 1.091|  6|  1|  0| 
 
