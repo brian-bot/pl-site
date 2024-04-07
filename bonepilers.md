@@ -6,18 +6,18 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Cal Raleigh       |C         |      7|  4|   1|  0|  0| 
-|Bryce Harper      |1B        |      9|  4|   7|  3|  1| 
+|Bryce Harper      |1B        |     11|  5|   7|  3|  1| 
 |Thairo Estrada    |2B        |      5|  2|   6|  1|  0| 
-|Nolan Arenado     |3B        |     10|  3|   4|  0|  0| 
-|Dansby Swanson    |SS        |     13|  4|   4|  2|  1| 
+|Nolan Arenado     |3B        |     11|  3|   4|  0|  0| 
+|Dansby Swanson    |SS        |     14|  5|   4|  2|  1| 
 |J.P. Crawford     |MI        |      8|  3|   3|  1|  0| 
-|Josh Naylor       |CI        |     10|  4|   5|  1|  0| 
+|Josh Naylor       |CI        |     12|  4|   5|  1|  0| 
 |Evan Carter       |OF        |     10|  5|   1|  0|  1| 
-|Jazz Chisholm Jr. |OF        |     12|  5|   5|  1|  1| 
+|Jazz Chisholm Jr. |OF        |     13|  5|   5|  1|  1| 
 |Kyle Schwarber    |OF        |     11|  7|   5|  2|  1| 
 |Randy Arozarena   |OF        |     10|  6|   4|  2|  2| 
-|Lane Thomas       |DH        |      5|  0|   4|  0|  2| 
-|Starling Marte    |DH        |      7|  3|   1|  1|  0| 
+|Lane Thomas       |DH        |      8|  1|   4|  0|  3| 
+|Starling Marte    |DH        |     10|  5|   1|  1|  2| 
 |Ty France         |DH        |     10|  3|   1|  0|  0| 
 |Victor Scott II   |DH        |      6|  6|   0|  0|  1| 
 |Brice Turang      |BAT BENCH |      9|  2|   2|  0|  6| 

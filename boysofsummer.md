@@ -10,15 +10,15 @@
 |Isaac Paredes     |2B        |      9|  5|   5|  2|  0| 
 |Rafael Devers     |3B        |     10|  3|   2|  1|  0| 
 |Bobby Witt Jr.    |SS        |     16|  7|   2|  2|  2| 
-|Trea Turner       |MI        |      9|  4|   2|  0|  2| 
+|Trea Turner       |MI        |     11|  5|   2|  0|  3| 
 |Yainer Diaz       |CI        |     15|  4|   4|  2|  0| 
-|Anthony Santander |OF        |      7|  4|   9|  2|  0| 
-|Christopher Morel |OF        |     11|  7|   4|  2|  0| 
-|Kerry Carpenter   |OF        |      6|  1|   1|  1|  0| 
+|Anthony Santander |OF        |      8|  5|   9|  2|  0| 
+|Christopher Morel |OF        |     12|  7|   4|  2|  0| 
+|Kerry Carpenter   |OF        |      7|  1|   1|  1|  0| 
 |Masataka Yoshida  |OF        |     10|  3|   2|  0|  0| 
-|Carlos Correa     |DH        |     13|  3|   3|  0|  0| 
-|Edouard Julien    |DH        |      4|  2|   1|  1|  0| 
-|Luis Arraez       |DH        |     12|  5|   0|  0|  0| 
+|Carlos Correa     |DH        |     16|  4|   3|  0|  0| 
+|Edouard Julien    |DH        |      6|  2|   1|  1|  1| 
+|Luis Arraez       |DH        |     13|  6|   0|  0|  0| 
 |Taylor Ward       |DH        |      9|  8|   8|  3|  0| 
 |Ryan Mountcastle  |BAT BENCH |     11|  3|   7|  1|  0| 
 

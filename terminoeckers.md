@@ -8,21 +8,21 @@
 |Bo Naylor             |C         |      8|  2|   2|  1|  0| 
 |Freddie Freeman       |1B        |     24|  8|   7|  1|  1| 
 |Gleyber Torres        |2B        |     12|  4|   1|  0|  1| 
-|Max Muncy             |3B        |     14|  7|   5|  1|  0| 
+|Max Muncy             |3B        |     16|  7|   7|  1|  0| 
 |Willy Adames          |SS        |     11|  3|   3|  1|  1| 
-|Zack Gelof            |MI        |      8|  2|   0|  0|  1| 
+|Zack Gelof            |MI        |     11|  5|   0|  0|  2| 
 |Vladimir Guerrero Jr. |CI        |     11|  2|   1|  1|  0| 
-|Cody Bellinger        |OF        |     10|  3|   6|  1|  0| 
+|Cody Bellinger        |OF        |     12|  3|   6|  1|  0| 
 |Kyle Tucker           |OF        |     13|  4|   5|  2|  1| 
 |Michael Harris II     |OF        |     11|  6|   2|  1|  0| 
-|Seiya Suzuki          |OF        |     13|  6|  11|  2|  0| 
+|Seiya Suzuki          |OF        |     14|  6|  11|  2|  0| 
 |Brandon Lowe          |DH        |      5|  1|   4|  1|  0| 
 |James Outman          |DH        |      9|  2|   3|  0|  0| 
 |Jose Siri             |DH        |     12|  4|   2|  1|  4| 
 |Maikel Garcia         |DH        |      9|  4|   8|  3|  1| 
-|Ian Happ              |BAT BENCH |     16|  6|   6|  0|  0| 
-|Michael Busch         |BAT BENCH |     10|  4|   2|  1|  0| 
-|Parker Meadows        |BAT BENCH |      6|  3|   0|  0|  0| 
+|Ian Happ              |BAT BENCH |     18|  6|   6|  0|  0| 
+|Michael Busch         |BAT BENCH |     11|  4|   2|  1|  0| 
+|Parker Meadows        |BAT BENCH |      7|  3|   0|  0|  1| 
 
 
 * * *
