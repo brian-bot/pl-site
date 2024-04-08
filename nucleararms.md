@@ -5,23 +5,23 @@
  
 |players                      |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------------------|:---------|------:|--:|---:|--:|--:| 
-|Francisco Alvarez            |C         |      9|  3|   4|  1|  0| 
+|Francisco Alvarez            |C         |     11|  3|   4|  1|  0| 
 |Salvador Perez               |1B        |     15|  5|   9|  2|  0| 
 |Andrés Giménez               |2B        |     16|  8|   6|  0|  1| 
 |José Ramírez                 |3B        |     12|  9|   7|  1|  0| 
 |Trevor Story                 |SS        |     10|  1|   4|  0|  1| 
-|Jeff McNeil                  |MI        |      5|  2|   1|  1|  0| 
-|Christian Encarnacion-Strand |CI        |      5|  1|   5|  1|  0| 
-|Adolis García                |OF        |     11|  6|  11|  4|  1| 
+|Jeff McNeil                  |MI        |      6|  2|   1|  1|  0| 
+|Christian Encarnacion-Strand |CI        |      6|  1|   5|  1|  0| 
+|Adolis García                |OF        |     13|  7|  11|  4|  1| 
 |Christian Yelich             |OF        |     11|  5|   4|  3|  2| 
-|Mike Trout                   |OF        |     10|  4|   3|  3|  1| 
+|Mike Trout                   |OF        |     13|  5|   4|  4|  2| 
 |Nick Castellanos             |OF        |     10|  1|   2|  0|  0| 
-|Andrew Vaughn                |DH        |      8|  0|   2|  0|  0| 
+|Andrew Vaughn                |DH        |     10|  0|   2|  0|  0| 
 |Brent Rooker                 |DH        |      7|  2|   5|  2|  0| 
-|Giancarlo Stanton            |DH        |      7|  3|   2|  2|  0| 
-|Shohei Ohtani                |DH        |     18| 10|   6|  2|  1| 
-|Jake Cronenworth             |BAT BENCH |     16|  4|   8|  0|  0| 
-|Yoán Moncada                 |BAT BENCH |     12|  3|   0|  0|  0| 
+|Giancarlo Stanton            |DH        |      8|  4|   6|  3|  0| 
+|Shohei Ohtani                |DH        |     20| 10|   7|  2|  1| 
+|Jake Cronenworth             |BAT BENCH |     18|  5|   9|  0|  0| 
+|Yoán Moncada                 |BAT BENCH |     14|  3|   0|  0|  0| 
 
 
 * * *

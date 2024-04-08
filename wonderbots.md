@@ -5,22 +5,22 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras |C         |     12|  4|   3|  0|  0| 
-|Nolan Jones       |1B        |      9|  5|   3|  0|  1| 
-|Ozzie Albies      |2B        |     11|  7|   7|  2|  1| 
-|Manny Machado     |3B        |     14|  8|   7|  2|  0| 
+|William Contreras |C         |     16|  7|   8|  2|  0| 
+|Nolan Jones       |1B        |     12|  6|   3|  0|  1| 
+|Ozzie Albies      |2B        |     12|  8|   7|  2|  1| 
+|Manny Machado     |3B        |     15|  8|   7|  2|  0| 
 |Corey Seager      |SS        |     16|  6|   5|  1|  0| 
-|Ezequiel Tovar    |MI        |     13|  4|   5|  2|  1| 
-|Ha-Seong Kim      |CI        |     14|  5|   4|  1|  3| 
+|Ezequiel Tovar    |MI        |     14|  4|   5|  2|  1| 
+|Ha-Seong Kim      |CI        |     15|  5|   5|  1|  3| 
 |Bryan Reynolds    |OF        |     18|  4|   9|  1|  0| 
 |Cedric Mullins    |OF        |      5|  5|   7|  2|  1| 
-|Mookie Betts      |OF        |     28| 15|  11|  5|  1| 
-|Teoscar Hernández |OF        |     16| 10|  14|  4|  1| 
-|Alec Bohm         |DH        |     11|  2|   5|  0|  1| 
-|Jack Suwinski     |DH        |      9|  5|   3|  1|  0| 
-|Jeremy Peña       |DH        |     13|  4|   6|  2|  0| 
-|Tyler O'Neill     |DH        |     16|  9|   4|  4|  1| 
-|Jarred Kelenic    |BAT BENCH |     12|  3|   3|  0|  0| 
+|Mookie Betts      |OF        |     29| 16|  11|  5|  1| 
+|Teoscar Hernández |OF        |     17| 10|  14|  4|  1| 
+|Alec Bohm         |DH        |     12|  2|   5|  0|  1| 
+|Jack Suwinski     |DH        |     10|  6|   3|  1|  0| 
+|Jeremy Peña       |DH        |     14|  4|   6|  2|  1| 
+|Tyler O'Neill     |DH        |     19| 12|   5|  5|  1| 
+|Jarred Kelenic    |BAT BENCH |     13|  3|   3|  0|  0| 
 
 
 * * *
@@ -42,7 +42,7 @@
 |José Leclerc  |OP       |  4|  4.000|  6| 13.500|     10| 2.500|  2|  0|  1| 
 |JP Sears      |OP       |  2|  9.333|  9|  8.679|     15| 1.607|  2|  0|  0| 
 |Lance Lynn    |OP       |  2|  8.667|  4|  4.154|     14| 1.615| 12|  0|  0| 
-|Sean Manaea   |OP       |  1|  6.000|  0|  0.000|      3| 0.500|  8|  0|  0| 
+|Sean Manaea   |OP       |  2| 11.000|  1|  0.818|      8| 0.727| 14|  1|  0| 
 
 
 * * *
