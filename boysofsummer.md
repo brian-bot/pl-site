@@ -5,22 +5,22 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |     21|  4|   9|  0|  0| 
+|Will Smith        |C         |     23|  6|  12|  1|  0| 
 |Yandy Díaz        |1B        |     14|  6|   9|  1|  0| 
-|Isaac Paredes     |2B        |     13|  6|   8|  3|  0| 
+|Isaac Paredes     |2B        |     17|  7|   9|  4|  0| 
 |Rafael Devers     |3B        |     13|  4|   3|  2|  0| 
-|Bobby Witt Jr.    |SS        |     18|  7|   2|  2|  2| 
-|Trea Turner       |MI        |     14|  5|   3|  0|  3| 
-|Yainer Diaz       |CI        |     15|  4|   4|  2|  0| 
-|Anthony Santander |OF        |      9|  5|  10|  2|  0| 
-|Christopher Morel |OF        |     14|  9|   6|  2|  0| 
-|Kerry Carpenter   |OF        |      7|  1|   1|  1|  0| 
+|Bobby Witt Jr.    |SS        |     19|  8|   3|  2|  2| 
+|Trea Turner       |MI        |     17|  5|   3|  0|  4| 
+|Yainer Diaz       |CI        |     16|  4|   5|  2|  0| 
+|Anthony Santander |OF        |     10|  5|  11|  2|  0| 
+|Christopher Morel |OF        |     17| 10|  10|  3|  0| 
+|Kerry Carpenter   |OF        |      8|  2|   2|  1|  0| 
 |Masataka Yoshida  |OF        |     13|  5|   3|  0|  0| 
-|Carlos Correa     |DH        |     16|  4|   3|  0|  0| 
+|Carlos Correa     |DH        |     17|  5|   4|  1|  0| 
 |Edouard Julien    |DH        |      6|  2|   1|  1|  1| 
-|Luis Arraez       |DH        |     17|  9|   0|  0|  0| 
-|Taylor Ward       |DH        |     14|  8|  11|  3|  1| 
-|Ryan Mountcastle  |BAT BENCH |     14|  4|   8|  1|  0| 
+|Luis Arraez       |DH        |     18|  9|   0|  0|  0| 
+|Taylor Ward       |DH        |     15|  8|  11|  3|  1| 
+|Ryan Mountcastle  |BAT BENCH |     15|  5|   8|  1|  0| 
 
 
 * * *
@@ -39,10 +39,10 @@
 |Camilo Doval      |RP       |  3|  2.667|  2|  6.750|      5| 1.875|  5|  1|  1| 
 |Griffin Jax       |RP       |  4|  4.000|  0|  0.000|      4| 1.000|  4|  1|  1| 
 |Josiah Gray       |OP       |  2|  8.333| 13| 14.040|     20| 2.400|  9|  0|  0| 
-|Logan Allen       |OP       |  2| 11.667|  3|  2.314|     13| 1.114|  9|  2|  0| 
+|Logan Allen       |OP       |  3| 15.667|  8|  4.596|     21| 1.340| 13|  2|  0| 
 |MacKenzie Gore    |OP       |  2| 11.000|  5|  4.091|     14| 1.273| 12|  1|  0| 
-|Patrick Sandoval  |OP       |  2|  7.333|  5|  6.136|     14| 1.909|  9|  1|  0| 
-|Ryan Pressly      |OP       |  5|  3.667|  6| 14.727|      9| 2.455|  5|  0|  0| 
+|Patrick Sandoval  |OP       |  3| 12.333|  9|  6.568|     23| 1.865| 15|  1|  0| 
+|Ryan Pressly      |OP       |  6|  4.667|  6| 11.571|     11| 2.357|  7|  0|  0| 
 
 
 * * *
