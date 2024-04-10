@@ -7,7 +7,7 @@
 |:----------------------------|:---------|------:|--:|---:|--:|--:| 
 |Francisco Alvarez            |C         |     11|  3|   4|  1|  0| 
 |Salvador Perez               |1B        |     17|  5|  10|  2|  0| 
-|Andrés Giménez               |2B        |     21|  9|   7|  0|  1| 
+|Andrés Giménez               |2B        |     22|  9|   7|  0|  1| 
 |José Ramírez                 |3B        |     16| 12|  10|  2|  0| 
 |Trevor Story                 |SS        |     10|  1|   4|  0|  1| 
 |Jeff McNeil                  |MI        |     10|  4|   1|  1|  0| 

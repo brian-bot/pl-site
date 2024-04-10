@@ -7,7 +7,7 @@ Through games on 2024-04-09 ([website build status](https://github.com/brian-bot
 
 |team                   | points|   r| hitsbb| hr| rbi| sb|  w| sv|  so|   era|  whip|
 |:----------------------|------:|---:|------:|--:|---:|--:|--:|--:|---:|-----:|-----:|
-|[Washington Generals](./washingtongenerals)|   44.0|  84|    218| 16|  71| 11|  9|  4| 131| 4.223| 1.246|
+|[Washington Generals](./washingtongenerals)|   44.0|  84|    218| 16|  71| 11|  9|  4| 131| 4.362| 1.254|
 |[Mean Wieners](./meanwieners)|   42.0|  70|    223| 18|  84|  6|  4|  7| 149| 4.179| 1.334|
 |[Bone Pilers](./bonepilers)|   56.5|  81|    198| 20|  69| 18|  7|  4| 147| 2.748| 1.031|
 |[T and A](./tanda)     |   43.0|  72|    190| 19|  63| 14|  8|  3| 146| 2.731| 1.290|
@@ -16,7 +16,7 @@ Through games on 2024-04-09 ([website build status](https://github.com/brian-bot
 |[Boys of Summer](./boysofsummer)|   42.0|  86|    223| 23|  86|  8|  9|  2| 130| 5.081| 1.508|
 |[Vass Deferens](./vassdeferens)|   65.0|  99|    223| 24|  84| 13|  7| 10| 133| 3.536| 1.277|
 |[Wonderbots](./wonderbots)|   62.5| 124|    270| 32| 115| 15|  6|  7| 114| 5.507| 1.445|
-|[Nuclear Arms](./nucleararms)|   69.0|  81|    206| 29|  94|  8| 13|  5| 166| 3.538| 1.149|
+|[Nuclear Arms](./nucleararms)|   69.0|  81|    207| 29|  94|  8| 13|  5| 166| 3.538| 1.149|
 
 * * *
 * * *
