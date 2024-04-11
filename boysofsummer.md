@@ -5,22 +5,22 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |     23|  6|  12|  1|  0| 
-|Yandy Díaz        |1B        |     14|  6|   9|  1|  0| 
-|Isaac Paredes     |2B        |     17|  7|   9|  4|  0| 
-|Rafael Devers     |3B        |     13|  4|   3|  2|  0| 
-|Bobby Witt Jr.    |SS        |     19|  8|   3|  2|  2| 
-|Trea Turner       |MI        |     17|  5|   3|  0|  4| 
-|Yainer Diaz       |CI        |     16|  4|   5|  2|  0| 
-|Anthony Santander |OF        |     10|  5|  11|  2|  0| 
-|Christopher Morel |OF        |     17| 10|  10|  3|  0| 
+|Will Smith        |C         |     24|  6|  12|  1|  0| 
+|Yandy Díaz        |1B        |     15|  7|   9|  1|  0| 
+|Isaac Paredes     |2B        |     17|  7|  10|  4|  0| 
+|Rafael Devers     |3B        |     15|  5|   3|  2|  0| 
+|Bobby Witt Jr.    |SS        |     20|  9|   3|  2|  2| 
+|Trea Turner       |MI        |     19|  5|   3|  0|  4| 
+|Yainer Diaz       |CI        |     19|  5|   6|  2|  0| 
+|Anthony Santander |OF        |     11|  5|  11|  2|  0| 
+|Christopher Morel |OF        |     17| 11|  10|  3|  0| 
 |Kerry Carpenter   |OF        |      8|  2|   2|  1|  0| 
-|Masataka Yoshida  |OF        |     13|  5|   3|  0|  0| 
-|Carlos Correa     |DH        |     17|  5|   4|  1|  0| 
-|Edouard Julien    |DH        |      6|  2|   1|  1|  1| 
-|Luis Arraez       |DH        |     18|  9|   0|  0|  0| 
-|Taylor Ward       |DH        |     15|  8|  11|  3|  1| 
-|Ryan Mountcastle  |BAT BENCH |     15|  5|   8|  1|  0| 
+|Masataka Yoshida  |OF        |     14|  5|   3|  0|  0| 
+|Carlos Correa     |DH        |     19|  5|   4|  1|  0| 
+|Edouard Julien    |DH        |      9|  5|   3|  3|  1| 
+|Luis Arraez       |DH        |     20| 10|   1|  0|  0| 
+|Taylor Ward       |DH        |     17|  8|  11|  3|  1| 
+|Ryan Mountcastle  |BAT BENCH |     18|  7|   8|  1|  0| 
 
 
 * * *
@@ -37,7 +37,7 @@
 |Kevin Gausman     |SP       |  2|  5.667|  6|  9.529|      8| 1.412|  6|  0|  0| 
 |Logan Webb        |SP       |  3| 16.667|  9|  4.860|     26| 1.560| 13|  0|  0| 
 |Camilo Doval      |RP       |  3|  2.667|  2|  6.750|      5| 1.875|  5|  1|  1| 
-|Griffin Jax       |RP       |  4|  4.000|  0|  0.000|      4| 1.000|  4|  1|  1| 
+|Griffin Jax       |RP       |  5|  5.000|  0|  0.000|      4| 0.800|  7|  1|  1| 
 |Josiah Gray       |OP       |  2|  8.333| 13| 14.040|     20| 2.400|  9|  0|  0| 
 |Logan Allen       |OP       |  3| 15.667|  8|  4.596|     21| 1.340| 13|  2|  0| 
 |MacKenzie Gore    |OP       |  2| 11.000|  5|  4.091|     14| 1.273| 12|  1|  0| 

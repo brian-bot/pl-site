@@ -6,24 +6,24 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Sean Murphy        |C         |      0|  0|   0|  0|  0| 
-|Christian Walker   |1B        |     21|  8|  11|  3|  0| 
-|Jose Altuve        |2B        |     22| 10|   3|  3|  0| 
+|Christian Walker   |1B        |     24|  9|  11|  3|  0| 
+|Jose Altuve        |2B        |     24| 10|   3|  3|  0| 
 |Josh Jung          |3B        |      9|  5|   6|  2|  1| 
-|Xander Bogaerts    |SS        |     18| 10|   6|  1|  1| 
-|Anthony Volpe      |MI        |     20| 10|   6|  2|  3| 
-|Triston Casas      |CI        |     16|  5|   3|  1|  0| 
-|Corbin Carroll     |OF        |     18|  7|   2|  1|  3| 
-|Fernando Tatis Jr. |OF        |     19|  9|   8|  4|  2| 
+|Xander Bogaerts    |SS        |     19| 11|   6|  1|  1| 
+|Anthony Volpe      |MI        |     23| 11|   6|  2|  3| 
+|Triston Casas      |CI        |     18|  7|   5|  2|  0| 
+|Corbin Carroll     |OF        |     19|  9|   2|  1|  3| 
+|Fernando Tatis Jr. |OF        |     21| 10|   9|  4|  2| 
 |Jordan Walker      |OF        |     10|  2|   2|  0|  0| 
-|Spencer Steer      |OF        |     23| 10|  15|  3|  2| 
-|Jackson Merrill    |DH        |     17| 10|   2|  1|  1| 
-|Jonathan India     |DH        |     19|  5|   3|  0|  2| 
+|Spencer Steer      |OF        |     24| 10|  15|  3|  2| 
+|Jackson Merrill    |DH        |     19| 11|   3|  1|  2| 
+|Jonathan India     |DH        |     20|  5|   3|  0|  2| 
 |Jorge Polanco      |DH        |     14|  2|   3|  1|  0| 
-|Justin Turner      |DH        |     19|  7|   5|  1|  0| 
-|Brendan Donovan    |BAT BENCH |     19|  7|   7|  1|  0| 
-|Josh Bell          |BAT BENCH |     16|  6|   6|  1|  0| 
+|Justin Turner      |DH        |     21|  7|   5|  1|  0| 
+|Brendan Donovan    |BAT BENCH |     21|  8|   8|  2|  0| 
+|Josh Bell          |BAT BENCH |     17|  6|   6|  1|  0| 
 |Mark Canha         |BAT BENCH |     16|  4|   4|  2|  1| 
-|MJ Melendez        |BAT BENCH |     16|  5|   8|  3|  1| 
+|MJ Melendez        |BAT BENCH |     18|  6|   8|  3|  1| 
 
 
 * * *
@@ -39,7 +39,7 @@
 |Max Fried       |SP          |  2|  5.000| 10| 18.000|     16| 3.200|  6|  0|  0| 
 |Pablo López     |SP          |  2| 12.667|  4|  2.842|     11| 0.868|  9|  1|  0| 
 |Ryan Pepiot     |SP          |  2| 11.667|  6|  4.629|     11| 0.943| 14|  1|  0| 
-|David Robertson |RP          |  6|  7.000|  1|  1.286|      7| 1.000|  7|  1|  0| 
+|David Robertson |RP          |  7|  7.333|  1|  1.227|      7| 0.955|  8|  1|  0| 
 |Ryan Helsley    |RP          |  7|  7.000|  3|  3.857|      9| 1.286|  7|  1|  4| 
 |Aaron Civale    |OP          |  3| 17.000|  4|  2.118|     16| 0.941| 18|  2|  0| 
 |José Alvarado   |OP          |  6|  5.667|  5|  7.941|      9| 1.588|  7|  0|  2| 
