@@ -14,10 +14,10 @@
 |Josh Naylor       |CI        |     20|  8|   9|  3|  0| 
 |Evan Carter       |OF        |     17|  9|   3|  1|  1| 
 |Jazz Chisholm Jr. |OF        |     17|  7|   8|  2|  3| 
-|Kyle Schwarber    |OF        |     16|  8|   5|  2|  1| 
+|Kyle Schwarber    |OF        |     17|  8|   5|  2|  1| 
 |Randy Arozarena   |OF        |     14|  7|   4|  2|  2| 
 |Lane Thomas       |DH        |     14|  4|   7|  1|  6| 
-|Starling Marte    |DH        |     15|  6|   3|  1|  2| 
+|Starling Marte    |DH        |     18|  8|   3|  1|  3| 
 |Ty France         |DH        |     14|  4|   2|  0|  0| 
 |Victor Scott II   |DH        |      8|  6|   1|  0|  2| 
 |Brice Turang      |BAT BENCH |     16|  8|   7|  1|  7| 

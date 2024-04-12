@@ -7,11 +7,11 @@
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Sean Murphy        |C         |      0|  0|   0|  0|  0| 
 |Christian Walker   |1B        |     24|  9|  11|  3|  0| 
-|Jose Altuve        |2B        |     24| 10|   3|  3|  0| 
+|Jose Altuve        |2B        |     28| 10|   3|  3|  0| 
 |Josh Jung          |3B        |      9|  5|   6|  2|  1| 
 |Xander Bogaerts    |SS        |     19| 11|   6|  1|  1| 
 |Anthony Volpe      |MI        |     23| 11|   6|  2|  3| 
-|Triston Casas      |CI        |     18|  7|   5|  2|  0| 
+|Triston Casas      |CI        |     19|  8|   5|  2|  0| 
 |Corbin Carroll     |OF        |     19|  9|   2|  1|  3| 
 |Fernando Tatis Jr. |OF        |     21| 10|   9|  4|  2| 
 |Jordan Walker      |OF        |     10|  2|   2|  0|  0| 
@@ -23,7 +23,7 @@
 |Brendan Donovan    |BAT BENCH |     21|  8|   8|  2|  0| 
 |Josh Bell          |BAT BENCH |     17|  6|   6|  1|  0| 
 |Mark Canha         |BAT BENCH |     16|  4|   4|  2|  1| 
-|MJ Melendez        |BAT BENCH |     18|  6|   8|  3|  1| 
+|MJ Melendez        |BAT BENCH |     20|  7|   8|  3|  1| 
 
 
 * * *

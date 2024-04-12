@@ -13,13 +13,13 @@
 |Zack Gelof            |MI        |     17|  9|   5|  2|  2| 
 |Vladimir Guerrero Jr. |CI        |     19|  7|   5|  3|  0| 
 |Cody Bellinger        |OF        |     16|  5|  10|  2|  0| 
-|Kyle Tucker           |OF        |     19|  6|   7|  2|  1| 
-|Michael Harris II     |OF        |     18|  8|   6|  2|  1| 
+|Kyle Tucker           |OF        |     20|  6|   7|  2|  1| 
+|Michael Harris II     |OF        |     19|  8|   6|  2|  1| 
 |Seiya Suzuki          |OF        |     21|  9|  12|  2|  0| 
 |Brandon Lowe          |DH        |      8|  3|   4|  1|  0| 
 |James Outman          |DH        |     14|  4|   7|  2|  0| 
 |Jose Siri             |DH        |     20|  6|   4|  1|  6| 
-|Maikel Garcia         |DH        |     13|  5|  10|  3|  3| 
+|Maikel Garcia         |DH        |     15|  7|  12|  3|  3| 
 |Ian Happ              |BAT BENCH |     24| 11|   8|  0|  0| 
 |Michael Busch         |BAT BENCH |     16|  5|   7|  2|  0| 
 |Parker Meadows        |BAT BENCH |      9|  5|   0|  0|  2| 

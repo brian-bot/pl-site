@@ -6,21 +6,21 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Willson Contreras |C         |     13|  5|   4|  2|  0| 
-|Matt Olson        |1B        |     17|  8|   9|  3|  0| 
-|Marcus Semien     |2B        |     23| 10|  10|  1|  0| 
+|Matt Olson        |1B        |     18|  8|   9|  3|  0| 
+|Marcus Semien     |2B        |     24| 10|  10|  1|  1| 
 |Royce Lewis       |3B        |      2|  1|   1|  1|  0| 
-|Oneil Cruz        |SS        |     17|  7|   4|  2|  1| 
-|Gunnar Henderson  |MI        |     15|  8|   6|  2|  3| 
+|Oneil Cruz        |SS        |     18|  7|   4|  2|  1| 
+|Gunnar Henderson  |MI        |     16|  9|   8|  3|  3| 
 |Brandon Drury     |CI        |     11|  4|   1|  0|  0| 
 |Jackson Chourio   |OF        |     14|  5|   9|  2|  2| 
-|Jarren Duran      |OF        |     21|  7|   5|  1|  6| 
+|Jarren Duran      |OF        |     23|  8|   6|  1|  6| 
 |Jorge Soler       |OF        |     17|  8|   3|  2|  0| 
 |Julio Rodríguez   |OF        |     14|  3|   3|  0|  2| 
 |Eloy Jiménez      |DH        |      2|  0|   0|  0|  0| 
 |Esteury Ruiz      |DH        |      3|  2|   1|  0|  1| 
 |Jung Hoo Lee      |DH        |     17|  4|   4|  1|  0| 
 |Mitch Haniger     |DH        |     17|  5|   8|  2|  0| 
-|Henry Davis       |BAT BENCH |     12|  4|   2|  0|  0| 
+|Henry Davis       |BAT BENCH |     13|  4|   2|  0|  0| 
 |Matt Chapman      |BAT BENCH |     15|  8|   9|  2|  1| 
 
 
@@ -37,7 +37,7 @@
 |Cristian Javier  |SP          |  3| 16.333|  2| 1.102|     19| 1.163| 13|  1|  0| 
 |Hunter Greene    |SP          |  3| 16.667|  9| 4.860|     20| 1.200| 22|  0|  0| 
 |Triston McKenzie |SP          |  2|  9.000|  4| 4.000|     13| 1.444|  4|  1|  0| 
-|Craig Kimbrel    |RP          |  4|  4.000|  1| 2.250|      1| 0.250|  7|  1|  2| 
+|Craig Kimbrel    |RP          |  5|  5.000|  1| 1.800|      1| 0.200|  8|  2|  2| 
 |Raisel Iglesias  |RP          |  4|  4.000|  2| 4.500|      5| 1.250|  2|  0|  2| 
 |Erick Fedde      |OP          |  3| 14.667|  7| 4.295|     21| 1.432| 14|  0|  0| 
 |Frankie Montas   |OP          |  3| 16.667|  4| 2.160|     19| 1.140| 13|  2|  0| 

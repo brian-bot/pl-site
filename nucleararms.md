@@ -5,17 +5,17 @@
  
 |players                      |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------------------|:---------|------:|--:|---:|--:|--:| 
-|Francisco Alvarez            |C         |     11|  3|   4|  1|  0| 
-|Salvador Perez               |1B        |     18|  6|  10|  2|  0| 
+|Francisco Alvarez            |C         |     13|  5|   6|  1|  0| 
+|Salvador Perez               |1B        |     20|  6|  10|  2|  0| 
 |Andrés Giménez               |2B        |     23| 10|   7|  0|  2| 
 |José Ramírez                 |3B        |     16| 12|  10|  2|  0| 
 |Trevor Story                 |SS        |     10|  1|   4|  0|  1| 
-|Jeff McNeil                  |MI        |     10|  4|   1|  1|  0| 
+|Jeff McNeil                  |MI        |     14|  6|   4|  1|  0| 
 |Christian Encarnacion-Strand |CI        |      9|  4|   5|  1|  0| 
-|Adolis García                |OF        |     18|  9|  13|  4|  2| 
+|Adolis García                |OF        |     19|  9|  13|  4|  2| 
 |Christian Yelich             |OF        |     18|  7|  11|  5|  2| 
 |Mike Trout                   |OF        |     20|  8|   8|  6|  2| 
-|Nick Castellanos             |OF        |     13|  1|   3|  0|  0| 
+|Nick Castellanos             |OF        |     13|  2|   3|  0|  0| 
 |Andrew Vaughn                |DH        |     14|  1|   3|  0|  0| 
 |Brent Rooker                 |DH        |      7|  2|   5|  2|  0| 
 |Giancarlo Stanton            |DH        |     13|  7|   8|  4|  0| 
