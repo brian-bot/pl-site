@@ -5,22 +5,22 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Willson Contreras |C         |     13|  5|   4|  2|  0| 
-|Matt Olson        |1B        |     18|  8|   9|  3|  0| 
-|Marcus Semien     |2B        |     24| 10|  10|  1|  1| 
+|Willson Contreras |C         |     15|  6|   4|  2|  0| 
+|Matt Olson        |1B        |     20|  9|  10|  3|  0| 
+|Marcus Semien     |2B        |     25| 11|  10|  1|  1| 
 |Royce Lewis       |3B        |      2|  1|   1|  1|  0| 
 |Oneil Cruz        |SS        |     18|  7|   4|  2|  1| 
 |Gunnar Henderson  |MI        |     16|  9|   8|  3|  3| 
-|Brandon Drury     |CI        |     11|  4|   1|  0|  0| 
+|Brandon Drury     |CI        |     12|  4|   2|  0|  0| 
 |Jackson Chourio   |OF        |     14|  5|   9|  2|  2| 
-|Jarren Duran      |OF        |     23|  8|   6|  1|  6| 
-|Jorge Soler       |OF        |     17|  8|   3|  2|  0| 
-|Julio Rodríguez   |OF        |     14|  3|   3|  0|  2| 
+|Jarren Duran      |OF        |     25|  8|   6|  1|  6| 
+|Jorge Soler       |OF        |     20|  8|   3|  2|  0| 
+|Julio Rodríguez   |OF        |     15|  3|   5|  0|  2| 
 |Eloy Jiménez      |DH        |      2|  0|   0|  0|  0| 
 |Esteury Ruiz      |DH        |      3|  2|   1|  0|  1| 
-|Jung Hoo Lee      |DH        |     17|  4|   4|  1|  0| 
-|Mitch Haniger     |DH        |     17|  5|   8|  2|  0| 
-|Henry Davis       |BAT BENCH |     13|  4|   2|  0|  0| 
+|Jung Hoo Lee      |DH        |     18|  5|   4|  1|  1| 
+|Mitch Haniger     |DH        |     18|  6|   8|  2|  0| 
+|Henry Davis       |BAT BENCH |     16|  6|   4|  0|  0| 
 |Matt Chapman      |BAT BENCH |     15|  8|   9|  2|  1| 
 
 
@@ -41,7 +41,7 @@
 |Raisel Iglesias  |RP          |  4|  4.000|  2| 4.500|      5| 1.250|  2|  0|  2| 
 |Erick Fedde      |OP          |  3| 14.667|  7| 4.295|     21| 1.432| 14|  0|  0| 
 |Frankie Montas   |OP          |  3| 16.667|  4| 2.160|     19| 1.140| 13|  2|  0| 
-|Luis Severino    |OP          |  2| 10.000|  4| 3.600|     16| 1.600| 13|  0|  0| 
+|Luis Severino    |OP          |  3| 15.000|  5| 3.000|     21| 1.400| 17|  1|  0| 
 |Marcus Stroman   |OP          |  3| 17.000|  4| 2.118|     18| 1.059| 17|  1|  0| 
 |Yusei Kikuchi    |OP          |  3| 15.667|  4| 2.298|     20| 1.277| 20|  0|  0| 
 |Dean Kremer      |PITCH BENCH |  2| 12.333|  3| 2.189|      9| 0.730| 11|  0|  0| 

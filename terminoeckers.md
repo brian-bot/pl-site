@@ -6,22 +6,22 @@
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
 |Bo Naylor             |C         |     12|  3|   5|  2|  0| 
-|Freddie Freeman       |1B        |     30|  9|   8|  1|  1| 
+|Freddie Freeman       |1B        |     31| 10|   8|  1|  1| 
 |Gleyber Torres        |2B        |     18|  5|   2|  0|  2| 
-|Max Muncy             |3B        |     20|  8|   8|  2|  0| 
-|Willy Adames          |SS        |     15|  5|   4|  2|  1| 
-|Zack Gelof            |MI        |     17|  9|   5|  2|  2| 
-|Vladimir Guerrero Jr. |CI        |     19|  7|   5|  3|  0| 
-|Cody Bellinger        |OF        |     16|  5|  10|  2|  0| 
-|Kyle Tucker           |OF        |     20|  6|   7|  2|  1| 
-|Michael Harris II     |OF        |     19|  8|   6|  2|  1| 
-|Seiya Suzuki          |OF        |     21|  9|  12|  2|  0| 
+|Max Muncy             |3B        |     23|  9|   9|  3|  0| 
+|Willy Adames          |SS        |     18|  8|   7|  3|  1| 
+|Zack Gelof            |MI        |     17|  9|   5|  2|  3| 
+|Vladimir Guerrero Jr. |CI        |     20|  7|   5|  3|  0| 
+|Cody Bellinger        |OF        |     17|  5|  10|  2|  0| 
+|Kyle Tucker           |OF        |     23|  8|  10|  4|  1| 
+|Michael Harris II     |OF        |     20|  8|   7|  2|  1| 
+|Seiya Suzuki          |OF        |     22|  9|  12|  2|  0| 
 |Brandon Lowe          |DH        |      8|  3|   4|  1|  0| 
-|James Outman          |DH        |     14|  4|   7|  2|  0| 
+|James Outman          |DH        |     15|  5|   7|  2|  0| 
 |Jose Siri             |DH        |     20|  6|   4|  1|  6| 
-|Maikel Garcia         |DH        |     15|  7|  12|  3|  3| 
-|Ian Happ              |BAT BENCH |     24| 11|   8|  0|  0| 
-|Michael Busch         |BAT BENCH |     16|  5|   7|  2|  0| 
+|Maikel Garcia         |DH        |     16|  7|  12|  3|  3| 
+|Ian Happ              |BAT BENCH |     25| 11|   8|  0|  0| 
+|Michael Busch         |BAT BENCH |     18|  6|   8|  3|  0| 
 |Parker Meadows        |BAT BENCH |      9|  5|   0|  0|  2| 
 
 
@@ -36,7 +36,7 @@
 |Charlie Morton |SP          |  2| 11.333|  4| 3.176|     15| 1.324| 10|  1|  0| 
 |Framber Valdez |SP          |  2| 12.333|  3| 2.189|     17| 1.378| 10|  0|  0| 
 |Joe Musgrove   |SP          |  4| 18.333| 14| 6.873|     32| 1.745| 17|  1|  0| 
-|Michael King   |SP          |  3| 14.333|  5| 3.140|     21| 1.465| 15|  2|  0| 
+|Michael King   |SP          |  4| 19.333|  9| 4.190|     29| 1.500| 19|  2|  0| 
 |Nathan Eovaldi |SP          |  3| 18.667|  3| 1.446|     15| 0.804| 19|  1|  0| 
 |Adbert Alzolay |RP          |  6|  5.667|  2| 3.176|      6| 1.059|  6|  1|  1| 
 |Edwin Díaz     |RP          |  5|  5.000|  0| 0.000|      2| 0.400|  8|  0|  2| 
