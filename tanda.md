@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Willson Contreras |C         |     15|  6|   4|  2|  0| 
+|Willson Contreras |C         |     17|  6|   4|  2|  0| 
 |Matt Olson        |1B        |     20|  9|  10|  3|  0| 
-|Marcus Semien     |2B        |     25| 11|  10|  1|  1| 
+|Marcus Semien     |2B        |     26| 11|  10|  1|  1| 
 |Royce Lewis       |3B        |      2|  1|   1|  1|  0| 
-|Oneil Cruz        |SS        |     18|  7|   4|  2|  1| 
-|Gunnar Henderson  |MI        |     16|  9|   8|  3|  3| 
-|Brandon Drury     |CI        |     12|  4|   2|  0|  0| 
-|Jackson Chourio   |OF        |     14|  5|   9|  2|  2| 
-|Jarren Duran      |OF        |     25|  8|   6|  1|  6| 
-|Jorge Soler       |OF        |     20|  8|   3|  2|  0| 
+|Oneil Cruz        |SS        |     19|  8|   6|  3|  1| 
+|Gunnar Henderson  |MI        |     17|  9|   9|  3|  3| 
+|Brandon Drury     |CI        |     13|  4|   2|  0|  0| 
+|Jackson Chourio   |OF        |     15|  5|   9|  2|  2| 
+|Jarren Duran      |OF        |     25|  8|   7|  1|  6| 
+|Jorge Soler       |OF        |     21|  9|   4|  3|  0| 
 |Julio Rodríguez   |OF        |     15|  3|   5|  0|  2| 
 |Eloy Jiménez      |DH        |      2|  0|   0|  0|  0| 
 |Esteury Ruiz      |DH        |      3|  2|   1|  0|  1| 
-|Jung Hoo Lee      |DH        |     18|  5|   4|  1|  1| 
-|Mitch Haniger     |DH        |     18|  6|   8|  2|  0| 
+|Jung Hoo Lee      |DH        |     19|  6|   4|  1|  1| 
+|Mitch Haniger     |DH        |     20|  7|   8|  2|  0| 
 |Henry Davis       |BAT BENCH |     16|  6|   4|  0|  0| 
-|Matt Chapman      |BAT BENCH |     15|  8|   9|  2|  1| 
+|Matt Chapman      |BAT BENCH |     18| 11|  10|  3|  1| 
 
 
 * * *
@@ -32,11 +32,11 @@
 |players          |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Chris Bassitt    |SP          |  3| 16.000|  9| 5.062|     29| 1.812| 17|  1|  0| 
-|Chris Sale       |SP          |  2| 10.667|  4| 3.375|     11| 1.031| 13|  1|  0| 
+|Chris Sale       |SP          |  3| 17.667|  9| 4.585|     20| 1.132| 20|  1|  0| 
 |Cole Ragans      |SP          |  3| 17.333|  5| 2.596|     22| 1.269| 21|  0|  0| 
 |Cristian Javier  |SP          |  3| 16.333|  2| 1.102|     19| 1.163| 13|  1|  0| 
 |Hunter Greene    |SP          |  3| 16.667|  9| 4.860|     20| 1.200| 22|  0|  0| 
-|Triston McKenzie |SP          |  2|  9.000|  4| 4.000|     13| 1.444|  4|  1|  0| 
+|Triston McKenzie |SP          |  3| 13.000|  9| 6.231|     23| 1.769|  5|  1|  0| 
 |Craig Kimbrel    |RP          |  5|  5.000|  1| 1.800|      1| 0.200|  8|  2|  2| 
 |Raisel Iglesias  |RP          |  4|  4.000|  2| 4.500|      5| 1.250|  2|  0|  2| 
 |Erick Fedde      |OP          |  3| 14.667|  7| 4.295|     21| 1.432| 14|  0|  0| 
@@ -44,7 +44,7 @@
 |Luis Severino    |OP          |  3| 15.000|  5| 3.000|     21| 1.400| 17|  1|  0| 
 |Marcus Stroman   |OP          |  3| 17.000|  4| 2.118|     18| 1.059| 17|  1|  0| 
 |Yusei Kikuchi    |OP          |  3| 15.667|  4| 2.298|     20| 1.277| 20|  0|  0| 
-|Dean Kremer      |PITCH BENCH |  2| 12.333|  3| 2.189|      9| 0.730| 11|  0|  0| 
+|Dean Kremer      |PITCH BENCH |  3| 16.333|  9| 4.959|     20| 1.224| 14|  0|  0| 
 
 
 * * *
