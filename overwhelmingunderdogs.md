@@ -6,23 +6,23 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Sean Murphy        |C         |      0|  0|   0|  0|  0| 
-|Christian Walker   |1B        |     27| 10|  11|  3|  0| 
-|Jose Altuve        |2B        |     33| 12|   5|  3|  0| 
+|Christian Walker   |1B        |     30| 11|  11|  3|  0| 
+|Jose Altuve        |2B        |     36| 14|   7|  5|  1| 
 |Josh Jung          |3B        |      9|  5|   6|  2|  1| 
-|Xander Bogaerts    |SS        |     19| 11|   7|  1|  1| 
-|Anthony Volpe      |MI        |     27| 13|   7|  2|  5| 
-|Triston Casas      |CI        |     21|  9|   7|  3|  0| 
-|Corbin Carroll     |OF        |     22| 10|   2|  1|  4| 
-|Fernando Tatis Jr. |OF        |     25| 12|  12|  5|  2| 
+|Xander Bogaerts    |SS        |     22| 12|   7|  1|  1| 
+|Anthony Volpe      |MI        |     31| 14|   8|  2|  5| 
+|Triston Casas      |CI        |     24| 10|   8|  4|  0| 
+|Corbin Carroll     |OF        |     23| 10|   4|  1|  5| 
+|Fernando Tatis Jr. |OF        |     28| 13|  12|  5|  2| 
 |Jordan Walker      |OF        |     12|  3|   2|  0|  0| 
-|Spencer Steer      |OF        |     29| 11|  18|  3|  2| 
-|Jackson Merrill    |DH        |     23| 12|   4|  1|  2| 
-|Jonathan India     |DH        |     25|  7|   3|  0|  2| 
-|Jorge Polanco      |DH        |     19|  2|   3|  1|  0| 
-|Justin Turner      |DH        |     23|  7|   5|  1|  0| 
-|Brendan Donovan    |BAT BENCH |     25| 10|   9|  2|  0| 
-|Josh Bell          |BAT BENCH |     20|  8|   7|  2|  0| 
-|Mark Canha         |BAT BENCH |     20|  7|   6|  3|  1| 
+|Spencer Steer      |OF        |     31| 12|  18|  3|  3| 
+|Jackson Merrill    |DH        |     26| 12|   5|  1|  2| 
+|Jonathan India     |DH        |     25|  8|   4|  0|  2| 
+|Jorge Polanco      |DH        |     21|  3|   5|  2|  0| 
+|Justin Turner      |DH        |     26|  7|   8|  1|  0| 
+|Brendan Donovan    |BAT BENCH |     26| 10|   9|  2|  0| 
+|Josh Bell          |BAT BENCH |     21|  9|   7|  2|  0| 
+|Mark Canha         |BAT BENCH |     21|  8|   8|  3|  1| 
 |MJ Melendez        |BAT BENCH |     20|  7|   8|  3|  1| 
 
 
@@ -34,7 +34,7 @@
 |players         |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:---------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Bryce Miller    |SP          |  3| 18.333|  4| 1.964|     18| 0.982| 17|  2|  0| 
-|Jesús Luzardo   |SP          |  3| 15.000| 12| 7.200|     23| 1.533| 17|  0|  0| 
+|Jesús Luzardo   |SP          |  4| 20.000| 17| 7.650|     31| 1.550| 21|  0|  0| 
 |Justin Steele   |SP          |  1|  4.667|  1| 1.929|      4| 0.857|  6|  0|  0| 
 |Max Fried       |SP          |  3| 11.333| 11| 8.735|     21| 1.853| 10|  1|  0| 
 |Pablo López     |SP          |  3| 16.667|  9| 4.860|     20| 1.200| 16|  1|  0| 

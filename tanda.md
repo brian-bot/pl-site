@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Willson Contreras |C         |     17|  6|   4|  2|  0| 
-|Matt Olson        |1B        |     20|  9|  10|  3|  0| 
-|Marcus Semien     |2B        |     26| 11|  10|  1|  1| 
+|Willson Contreras |C         |     18|  6|   4|  2|  0| 
+|Matt Olson        |1B        |     24| 11|  11|  3|  0| 
+|Marcus Semien     |2B        |     28| 12|  14|  2|  1| 
 |Royce Lewis       |3B        |      2|  1|   1|  1|  0| 
 |Oneil Cruz        |SS        |     19|  8|   6|  3|  1| 
-|Gunnar Henderson  |MI        |     17|  9|   9|  3|  3| 
-|Brandon Drury     |CI        |     13|  4|   2|  0|  0| 
+|Gunnar Henderson  |MI        |     20| 10|  10|  3|  4| 
+|Brandon Drury     |CI        |     15|  5|   3|  1|  0| 
 |Jackson Chourio   |OF        |     15|  5|   9|  2|  2| 
-|Jarren Duran      |OF        |     25|  8|   7|  1|  6| 
-|Jorge Soler       |OF        |     21|  9|   4|  3|  0| 
+|Jarren Duran      |OF        |     27|  9|   7|  1|  6| 
+|Jorge Soler       |OF        |     23|  9|   5|  3|  0| 
 |Julio Rodríguez   |OF        |     15|  3|   5|  0|  2| 
 |Eloy Jiménez      |DH        |      2|  0|   0|  0|  0| 
 |Esteury Ruiz      |DH        |      3|  2|   1|  0|  1| 
-|Jung Hoo Lee      |DH        |     19|  6|   4|  1|  1| 
-|Mitch Haniger     |DH        |     20|  7|   8|  2|  0| 
+|Jung Hoo Lee      |DH        |     20|  7|   4|  1|  2| 
+|Mitch Haniger     |DH        |     21|  7|   8|  2|  0| 
 |Henry Davis       |BAT BENCH |     16|  6|   4|  0|  0| 
 |Matt Chapman      |BAT BENCH |     18| 11|  10|  3|  1| 
 
@@ -33,12 +33,12 @@
 |:----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Chris Bassitt    |SP          |  3| 16.000|  9| 5.062|     29| 1.812| 17|  1|  0| 
 |Chris Sale       |SP          |  3| 17.667|  9| 4.585|     20| 1.132| 20|  1|  0| 
-|Cole Ragans      |SP          |  3| 17.333|  5| 2.596|     22| 1.269| 21|  0|  0| 
-|Cristian Javier  |SP          |  3| 16.333|  2| 1.102|     19| 1.163| 13|  1|  0| 
+|Cole Ragans      |SP          |  4| 23.333|  5| 1.929|     28| 1.200| 29|  0|  0| 
+|Cristian Javier  |SP          |  4| 23.333|  4| 1.543|     26| 1.114| 18|  2|  0| 
 |Hunter Greene    |SP          |  3| 16.667|  9| 4.860|     20| 1.200| 22|  0|  0| 
 |Triston McKenzie |SP          |  3| 13.000|  9| 6.231|     23| 1.769|  5|  1|  0| 
-|Craig Kimbrel    |RP          |  5|  5.000|  1| 1.800|      1| 0.200|  8|  2|  2| 
-|Raisel Iglesias  |RP          |  4|  4.000|  2| 4.500|      5| 1.250|  2|  0|  2| 
+|Craig Kimbrel    |RP          |  6|  6.000|  1| 1.500|      3| 0.500| 11|  2|  3| 
+|Raisel Iglesias  |RP          |  5|  5.000|  2| 3.600|      5| 1.000|  3|  0|  3| 
 |Erick Fedde      |OP          |  3| 14.667|  7| 4.295|     21| 1.432| 14|  0|  0| 
 |Frankie Montas   |OP          |  3| 16.667|  4| 2.160|     19| 1.140| 13|  2|  0| 
 |Luis Severino    |OP          |  3| 15.000|  5| 3.000|     21| 1.400| 17|  1|  0| 

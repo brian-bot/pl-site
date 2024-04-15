@@ -5,22 +5,22 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Cal Raleigh       |C         |     11|  6|   4|  2|  0| 
+|Cal Raleigh       |C         |     12|  6|   4|  2|  0| 
 |Bryce Harper      |1B        |     18|  6|   7|  3|  1| 
-|Thairo Estrada    |2B        |     15|  6|   9|  3|  0| 
-|Nolan Arenado     |3B        |     19|  5|   8|  1|  0| 
-|Dansby Swanson    |SS        |     19|  7|   7|  2|  1| 
-|J.P. Crawford     |MI        |     16|  7|   5|  2|  0| 
-|Josh Naylor       |CI        |     25|  9|  10|  4|  0| 
-|Evan Carter       |OF        |     22| 12|   4|  1|  1| 
-|Jazz Chisholm Jr. |OF        |     19|  8|   8|  2|  3| 
+|Thairo Estrada    |2B        |     16|  6|   9|  3|  0| 
+|Nolan Arenado     |3B        |     20|  5|   8|  1|  0| 
+|Dansby Swanson    |SS        |     20|  8|   7|  2|  1| 
+|J.P. Crawford     |MI        |     18|  8|   5|  2|  0| 
+|Josh Naylor       |CI        |     27| 10|  12|  4|  0| 
+|Evan Carter       |OF        |     23| 13|   5|  2|  1| 
+|Jazz Chisholm Jr. |OF        |     20|  9|   9|  2|  3| 
 |Kyle Schwarber    |OF        |     24| 11|   6|  3|  1| 
-|Randy Arozarena   |OF        |     15|  7|   4|  2|  2| 
-|Lane Thomas       |DH        |     16|  4|   7|  1|  6| 
-|Starling Marte    |DH        |     21| 10|   4|  2|  3| 
+|Randy Arozarena   |OF        |     16|  8|   5|  2|  3| 
+|Lane Thomas       |DH        |     19|  5|  10|  2|  7| 
+|Starling Marte    |DH        |     23| 10|   4|  2|  3| 
 |Ty France         |DH        |     16|  4|   3|  0|  0| 
 |Victor Scott II   |DH        |      9|  6|   2|  0|  2| 
-|Brice Turang      |BAT BENCH |     19|  8|   7|  1|  7| 
+|Brice Turang      |BAT BENCH |     20|  8|   7|  1|  7| 
 
 
 * * *
@@ -35,7 +35,7 @@
 |Spencer Strider    |SP          |  2|  9.000|  7| 7.000|     15| 1.667| 12|  0|  0| 
 |Tanner Bibee       |SP          |  3| 13.667|  9| 5.927|     25| 1.829| 15|  1|  0| 
 |Tarik Skubal       |SP          |  3| 17.333|  4| 2.077|     13| 0.750| 20|  2|  0| 
-|Zack Wheeler       |SP          |  3| 19.000|  4| 1.895|     17| 0.895| 20|  0|  0| 
+|Zack Wheeler       |SP          |  4| 24.000|  8| 3.000|     25| 1.042| 30|  0|  0| 
 |Joel Payamps       |RP          |  6|  5.333|  4| 6.750|      5| 0.938|  4|  0|  1| 
 |Kevin Ginkel       |RP          |  7|  7.333|  2| 2.455|      8| 1.091|  9|  0|  3| 
 |Cristopher Sánchez |OP          |  3| 15.333|  6| 3.522|     22| 1.435| 15|  0|  0| 
