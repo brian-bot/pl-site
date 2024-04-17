@@ -6,22 +6,22 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Sean Murphy        |C         |      0|  0|   0|  0|  0| 
-|Christian Walker   |1B        |     31| 12|  11|  3|  0| 
+|Christian Walker   |1B        |     34| 14|  11|  3|  0| 
 |Jose Altuve        |2B        |     39| 14|   7|  5|  1| 
 |Josh Jung          |3B        |      9|  5|   6|  2|  1| 
-|Xander Bogaerts    |SS        |     23| 13|   7|  1|  1| 
+|Xander Bogaerts    |SS        |     24| 14|   7|  1|  1| 
 |Anthony Volpe      |MI        |     32| 14|   8|  2|  6| 
-|Triston Casas      |CI        |     24| 10|   8|  4|  0| 
-|Corbin Carroll     |OF        |     24| 10|   5|  1|  5| 
-|Fernando Tatis Jr. |OF        |     29| 13|  13|  5|  2| 
-|Jordan Walker      |OF        |     13|  3|   3|  0|  0| 
-|Spencer Steer      |OF        |     31| 12|  18|  3|  3| 
-|Jackson Merrill    |DH        |     29| 12|   7|  1|  3| 
+|Triston Casas      |CI        |     27| 11|   9|  5|  0| 
+|Corbin Carroll     |OF        |     27| 11|   5|  1|  7| 
+|Fernando Tatis Jr. |OF        |     33| 15|  13|  5|  3| 
+|Jordan Walker      |OF        |     14|  3|   4|  0|  0| 
+|Spencer Steer      |OF        |     32| 12|  18|  3|  3| 
+|Jackson Merrill    |DH        |     29| 12|   8|  1|  4| 
 |Jonathan India     |DH        |     25|  8|   4|  0|  2| 
-|Jorge Polanco      |DH        |     24|  6|   8|  3|  0| 
-|Justin Turner      |DH        |     27|  7|   8|  1|  0| 
-|Brendan Donovan    |BAT BENCH |     27| 10|   9|  2|  0| 
-|Josh Bell          |BAT BENCH |     21|  9|   7|  2|  0| 
+|Jorge Polanco      |DH        |     26|  6|   8|  3|  0| 
+|Justin Turner      |DH        |     28|  7|   9|  1|  0| 
+|Brendan Donovan    |BAT BENCH |     28| 10|  10|  2|  0| 
+|Josh Bell          |BAT BENCH |     24| 10|   7|  2|  0| 
 |Mark Canha         |BAT BENCH |     23|  8|   8|  3|  1| 
 |MJ Melendez        |BAT BENCH |     20|  7|   8|  3|  1| 
 
@@ -40,8 +40,8 @@
 |Pablo López     |SP          |  3| 16.667|  9| 4.860|     20| 1.200| 16|  1|  0| 
 |Ryan Pepiot     |SP          |  3| 16.667| 10| 5.400|     17| 1.020| 20|  1|  0| 
 |David Robertson |RP          |  9|  9.333|  1| 0.964|      8| 0.857|  9|  1|  0| 
-|Ryan Helsley    |RP          |  9|  9.000|  3| 3.000|      9| 1.000| 11|  1|  6| 
-|Aaron Civale    |OP          |  3| 17.000|  4| 2.118|     16| 0.941| 18|  2|  0| 
+|Ryan Helsley    |RP          | 10| 10.000|  3| 2.700|      9| 0.900| 12|  1|  7| 
+|Aaron Civale    |OP          |  4| 23.000|  7| 2.739|     21| 0.913| 26|  2|  0| 
 |José Alvarado   |OP          |  8|  7.333|  5| 6.136|      9| 1.227|  8|  0|  2| 
 |Kenta Maeda     |OP          |  3| 15.000| 10| 6.000|     19| 1.267| 10|  0|  0| 
 |Michael Wacha   |OP          |  3| 18.000|  8| 4.000|     19| 1.056| 17|  1|  0| 
