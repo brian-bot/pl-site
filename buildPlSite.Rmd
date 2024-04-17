@@ -27,8 +27,20 @@ kable(tmpDF, row.names = FALSE, digits=3)
 kable(standings, row.names = FALSE)
 ```
 
+```{r leagueStatsFinished, echo=FALSE, results='hide'}
+for(j in finishedPeriods){
+  tmpDF2 <- leagueStats[[ j ]][ unlist(periods[[j]]$matchups), ]
+  cat(paste0("## Period ", j, "\n\n"),
+    kable(tmpDF2, row.names = FALSE, digits=3),
+    "\n\n* * *\n\n",
+    fill=TRUE,
+    file=paste0("data/penguinRosters/", names(finishedPeriods)[j], "/FinalResults-Scores.md"))
+}
+```
+
 ```{r teamStats, include=FALSE, results='hide'}
 for(i in teamNames){
+  ## CURRENT PERIOD
   cat(paste0("## ", i, "\n\n### Batters\n\n"),
       kable(allRosters[[names(currentPeriod)]][[i]]$battingStats, row.names = FALSE, digits=3),
       "\n\n* * *\n\n### Pitchers\n\n",
@@ -36,5 +48,16 @@ for(i in teamNames){
       "\n\n* * *\n\n",
       fill=TRUE,
       file=paste0(gsub(" ", "", tolower(i)), ".md"))
+  
+  ## ALL FINISHED PERIODS
+  for(j in names(finishedPeriods)){
+    cat(paste0("## ", j, "\n\n## ", i, "\n\n### Batters\n\n"),
+        kable(allRosters[[j]][[i]]$battingStats, row.names = FALSE, digits=3),
+        "\n\n* * *\n\n### Pitchers\n\n",
+        kable(allRosters[[j]][[i]]$pitchingStats, row.names = FALSE, digits=3),
+        "\n\n* * *\n\n",
+        fill=TRUE,
+        file=paste0("data/penguinRosters/", j, "/FinalResults-", gsub(" ", "", tolower(i)), ".md"))
+  }
 }
 ```
