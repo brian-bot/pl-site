@@ -45,6 +45,7 @@
 |José Alvarado   |OP          |  1| 1.000|  0| 0.00|      1| 1.000|  1|  0|  1| 
 |Kyle Finnegan   |OP          |  1| 1.000|  0| 0.00|      0| 0.000|  1|  0|  1| 
 |Michael Wacha   |OP          |  1| 6.000|  2| 3.00|      6| 1.000|  4|  0|  0| 
+|Nick Lodolo     |OP          | **|    **| **|   **|     **|    **| **| **| **| 
 |Justin Steele   |PITCH BENCH | **|    **| **|   **|     **|    **| **| **| **| 
 |Kenta Maeda     |PITCH BENCH | **|    **| **|   **|     **|    **| **| **| **| 
 
