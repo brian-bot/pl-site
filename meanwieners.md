@@ -21,7 +21,6 @@
 |Daulton Varsho   |DH        |      2|  2|   3|  2|  0| 
 |Will Benson      |DH        |      0|  0|   0|  0|  0| 
 |Chas McCormick   |BAT BENCH |     **| **|  **| **| **| 
-|Colt Keith       |BAT BENCH |      1|  0|   0|  0|  0| 
 |Ke'Bryan Hayes   |BAT BENCH |     **| **|  **| **| **| 
 |Luis Robert Jr.  |BAT BENCH |     **| **|  **| **| **| 
 
