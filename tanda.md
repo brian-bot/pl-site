@@ -22,7 +22,6 @@
 |Mitch Haniger     |DH        |      1|  1|   1|  0|  0| 
 |Eloy Jiménez      |BAT BENCH |      3|  1|   0|  0|  0| 
 |Esteury Ruiz      |BAT BENCH |      1|  2|   2|  1|  1| 
-|Henry Davis       |BAT BENCH |      0|  1|   0|  0|  0| 
 |Jake Fraley       |BAT BENCH |      0|  0|   0|  0|  0| 
 |Royce Lewis       |BAT BENCH |     **| **|  **| **| **| 
 
