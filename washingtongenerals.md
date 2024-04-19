@@ -18,9 +18,9 @@
 |Ronald Acuña Jr.    |OF        |      2|  1|   1|  1|  0| 
 |Eugenio Suárez      |DH        |      0|  0|   0|  0|  0| 
 |Jeimer Candelario   |DH        |     **| **|  **| **| **| 
-|Spencer Torkelson   |DH        |      2|  1|   0|  0|  0| 
+|Spencer Torkelson   |DH        |      5|  1|   1|  0|  0| 
 |Steven Kwan         |DH        |      0|  0|   0|  0|  0| 
-|Nolan Schanuel      |BAT BENCH |      3|  1|   0|  0|  0| 
+|Nolan Schanuel      |BAT BENCH |      4|  1|   0|  0|  0| 
 
 
 * * *

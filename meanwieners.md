@@ -9,12 +9,12 @@
 |Rhys Hoskins     |1B        |      1|  0|   0|  0|  0| 
 |Ryan McMahon     |2B        |      2|  1|   0|  0|  0| 
 |Nolan Gorman     |3B        |      0|  0|   0|  0|  0| 
-|José Caballero   |SS        |      2|  0|   0|  0|  0| 
+|José Caballero   |SS        |      3|  0|   0|  0|  0| 
 |Jordan Westburg  |MI        |      1|  0|   0|  0|  0| 
 |Ryan O'Hearn     |CI        |      0|  0|   0|  0|  0| 
 |Aaron Judge      |OF        |      1|  0|   2|  0|  0| 
 |Nelson Velázquez |OF        |      1|  1|   0|  0|  0| 
-|Wyatt Langford   |OF        |      1|  0|   0|  0|  0| 
+|Wyatt Langford   |OF        |      3|  2|   1|  0|  0| 
 |Yordan Alvarez   |OF        |      2|  2|   1|  1|  0| 
 |Andy Pages       |DH        |      0|  0|   0|  0|  0| 
 |Byron Buxton     |DH        |      0|  0|   0|  0|  0| 

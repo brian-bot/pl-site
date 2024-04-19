@@ -5,7 +5,7 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|Bo Naylor             |C         |     **| **|  **| **| **| 
+|Bo Naylor             |C         |      1|  0|   0|  0|  0| 
 |Freddie Freeman       |1B        |      1|  0|   0|  0|  0| 
 |Gleyber Torres        |2B        |      1|  1|   0|  0|  0| 
 |Max Muncy             |3B        |      1|  0|   0|  0|  0| 
@@ -44,7 +44,7 @@
 |Jason Foley    |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |José Buttó     |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Kyle Harrison  |OP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Ryne Nelson    |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Ryne Nelson    |OP          |  1| 2.000|  0| 0.000|      2| 1.000|  0|  0|  0| 
 |Bobby Miller   |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
 |Clarke Schmidt |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
 |Framber Valdez |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 

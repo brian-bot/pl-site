@@ -9,7 +9,7 @@
 |Nolan Jones       |1B        |      0|  0|   0|  0|  1| 
 |Mookie Betts      |2B        |      0|  0|   0|  0|  0| 
 |Manny Machado     |3B        |      1|  0|   0|  0|  0| 
-|Corey Seager      |SS        |      2|  1|   0|  0|  0| 
+|Corey Seager      |SS        |      4|  1|   1|  0|  0| 
 |Ezequiel Tovar    |MI        |      3|  1|   2|  0|  0| 
 |Ha-Seong Kim      |CI        |      1|  0|   0|  0|  0| 
 |Bryan Reynolds    |OF        |      2|  0|   1|  0|  0| 
@@ -42,7 +42,7 @@
 |Lance Lynn      |OP          | **|    **| **|   **|     **|   **| **| **| **| 
 |Sean Manaea     |OP          | **|    **| **|   **|     **|   **| **| **| **| 
 |Tyler Anderson  |OP          | **|    **| **|   **|     **|   **| **| **| **| 
-|José Leclerc    |PITCH BENCH | **|    **| **|   **|     **|   **| **| **| **| 
+|José Leclerc    |PITCH BENCH |  1| 1.000|  0|  0.0|      2|  2.0|  2|  1|  0| 
 |Nick Pivetta    |PITCH BENCH | **|    **| **|   **|     **|   **| **| **| **| 
 |Sonny Gray      |PITCH BENCH | **|    **| **|   **|     **|   **| **| **| **| 
 
