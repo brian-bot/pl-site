@@ -8,18 +8,18 @@
 |J.T. Realmuto       |C         |      1|  1|   1|  0|  0| 
 |Paul Goldschmidt    |1B        |      1|  0|   0|  0|  0| 
 |Bryson Stott        |2B        |      0|  0|   0|  0|  0| 
-|Austin Riley        |3B        |      1|  1|   0|  0|  0| 
-|Francisco Lindor    |SS        |      1|  1|   0|  0|  0| 
-|Bo Bichette         |MI        |      2|  0|   1|  0|  0| 
+|Austin Riley        |3B        |      2|  1|   0|  0|  0| 
+|Francisco Lindor    |SS        |      3|  3|   2|  1|  1| 
+|Bo Bichette         |MI        |      4|  1|   1|  0|  1| 
 |Alex Bregman        |CI        |      4|  0|   1|  0|  0| 
-|Brandon Nimmo       |OF        |      2|  0|   2|  0|  0| 
+|Brandon Nimmo       |OF        |      4|  1|   2|  0|  0| 
 |George Springer     |OF        |      1|  0|   0|  0|  0| 
-|Lourdes Gurriel Jr. |OF        |      0|  0|   0|  0|  0| 
-|Ronald Acuña Jr.    |OF        |      2|  1|   1|  1|  0| 
-|Eugenio Suárez      |DH        |      0|  0|   0|  0|  0| 
+|Lourdes Gurriel Jr. |OF        |      2|  0|   1|  0|  0| 
+|Ronald Acuña Jr.    |OF        |      4|  2|   1|  1|  0| 
+|Eugenio Suárez      |DH        |      5|  3|   1|  0|  0| 
 |Jeimer Candelario   |DH        |     **| **|  **| **| **| 
-|Spencer Torkelson   |DH        |      5|  1|   1|  0|  0| 
-|Steven Kwan         |DH        |      0|  0|   0|  0|  0| 
+|Spencer Torkelson   |DH        |      8|  1|   2|  0|  0| 
+|Steven Kwan         |DH        |      1|  1|   2|  0|  0| 
 |Nolan Schanuel      |BAT BENCH |      4|  1|   0|  0|  0| 
 
 
@@ -35,15 +35,15 @@
 |James Paxton   |SP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Jordan Hicks   |SP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Mitch Keller   |SP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Josh Hader     |RP          |  1| 1.000|  0| 0.000|      0| 0.000|  3|  0|  0| 
+|Josh Hader     |RP          |  2| 2.000|  1| 4.500|      3| 1.500|  5|  0|  1| 
 |Kenley Jansen  |RP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Ranger Suárez  |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Reese Olson    |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Reid Detmers   |OP          |  1| 5.333|  1| 1.688|      8| 1.500|  4|  0|  0| 
 |Steven Matz    |OP          |  1| 5.000|  5| 9.000|     10| 2.000|  4|  0|  0| 
 |Tanner Scott   |OP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Alec Marsh     |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
-|Bowden Francis |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
+|Alec Marsh     |PITCH BENCH |  1| 5.667|  0| 0.000|      5| 0.882|  6|  1|  0| 
+|Bowden Francis |PITCH BENCH |  1| 2.000|  0| 0.000|      2| 1.000|  2|  1|  0| 
 |Max Meyer      |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
 |Shohei Ohtani  |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
 
