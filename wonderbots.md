@@ -8,15 +8,15 @@
 |William Contreras |C         |      5|  2|   3|  0|  0| 
 |Nolan Jones       |1B        |      0|  0|   0|  0|  1| 
 |Mookie Betts      |2B        |      5|  1|   0|  0|  2| 
-|Manny Machado     |3B        |      1|  0|   0|  0|  0| 
+|Manny Machado     |3B        |      2|  0|   0|  0|  0| 
 |Corey Seager      |SS        |      5|  1|   1|  0|  0| 
-|Ezequiel Tovar    |MI        |      3|  1|   2|  0|  0| 
-|Ha-Seong Kim      |CI        |      3|  0|   0|  0|  0| 
+|Ezequiel Tovar    |MI        |      4|  1|   2|  0|  0| 
+|Ha-Seong Kim      |CI        |      4|  0|   1|  0|  0| 
 |Bryan Reynolds    |OF        |      7|  0|   1|  0|  0| 
 |Cedric Mullins    |OF        |      2|  2|   2|  1|  0| 
 |Jack Suwinski     |OF        |      1|  0|   0|  0|  0| 
 |Teoscar Hernández |OF        |      4|  0|   1|  0|  0| 
-|Alec Bohm         |DH        |      4|  3|   7|  2|  0| 
+|Alec Bohm         |DH        |      7|  5|   7|  2|  0| 
 |Bryan De La Cruz  |DH        |      5|  3|   5|  3|  0| 
 |Jeremy Peña       |DH        |      5|  1|   2|  0|  2| 
 |Tyler O'Neill     |DH        |     **| **|  **| **| **| 
@@ -30,15 +30,15 @@
  
 |players          |position    |  g|    ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
-|Corbin Burnes    |SP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Graham Ashcraft  |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Corbin Burnes    |SP          |  1| 5.667|  3|  4.765|      5| 0.882|  4|  1|  0| 
+|Graham Ashcraft  |SP          |  1| 5.000|  5|  9.000|      8| 1.600|  4|  1|  0| 
 |Justin Verlander |SP          |  1| 6.000|  2|  3.000|      4| 0.667|  4|  1|  0| 
 |Logan Gilbert    |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Louie Varland    |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Sonny Gray       |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Clay Holmes      |RP          |  3| 3.000|  0|  0.000|      4| 1.333|  2|  0|  2| 
 |David Bednar     |RP          |  1| 0.667|  3| 40.500|      3| 4.500|  2|  0|  0| 
-|Jon Gray         |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Jon Gray         |OP          |  1| 1.667|  0|  0.000|      0| 0.000|  4|  0|  0| 
 |JP Sears         |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Lance Lynn       |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Sean Manaea      |OP          |  1| 5.000|  2|  3.600|      7| 1.400|  3|  0|  0| 

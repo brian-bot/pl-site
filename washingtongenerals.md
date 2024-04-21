@@ -5,22 +5,22 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto       |C         |      1|  1|   1|  0|  0| 
+|J.T. Realmuto       |C         |      2|  2|   2|  0|  0| 
 |Paul Goldschmidt    |1B        |      3|  0|   1|  0|  0| 
 |Bryson Stott        |2B        |      0|  0|   0|  0|  0| 
-|Austin Riley        |3B        |      2|  1|   0|  0|  0| 
+|Austin Riley        |3B        |      3|  1|   0|  0|  0| 
 |Francisco Lindor    |SS        |      5|  3|   4|  1|  1| 
-|Bo Bichette         |MI        |      4|  1|   1|  0|  1| 
+|Bo Bichette         |MI        |      4|  2|   1|  0|  1| 
 |Alex Bregman        |CI        |      6|  1|   2|  0|  0| 
 |Brandon Nimmo       |OF        |      8|  3|   2|  0|  1| 
 |George Springer     |OF        |      1|  0|   0|  0|  0| 
 |Lourdes Gurriel Jr. |OF        |      5|  1|   1|  0|  0| 
-|Ronald Acuña Jr.    |OF        |      4|  2|   1|  1|  0| 
+|Ronald Acuña Jr.    |OF        |      7|  3|   1|  1|  1| 
 |Eugenio Suárez      |DH        |      6|  4|   1|  0|  0| 
-|Jeimer Candelario   |DH        |     **| **|  **| **| **| 
+|Jeimer Candelario   |DH        |      2|  1|   0|  0|  0| 
 |Spencer Torkelson   |DH        |      8|  1|   2|  0|  0| 
 |Steven Kwan         |DH        |      5|  3|   2|  0|  1| 
-|Nolan Schanuel      |BAT BENCH |      4|  1|   0|  0|  0| 
+|Nolan Schanuel      |BAT BENCH |      5|  1|   0|  0|  0| 
 
 
 * * *

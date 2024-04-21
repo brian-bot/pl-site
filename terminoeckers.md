@@ -10,16 +10,16 @@
 |Gleyber Torres        |2B        |      1|  1|   0|  0|  0| 
 |Max Muncy             |3B        |      2|  0|   1|  0|  0| 
 |Willy Adames          |SS        |      5|  1|   1|  0|  1| 
-|Maikel Garcia         |MI        |      1|  0|   0|  0|  1| 
-|Vladimir Guerrero Jr. |CI        |      4|  0|   1|  0|  0| 
-|Cody Bellinger        |OF        |      4|  3|   2|  1|  0| 
+|Maikel Garcia         |MI        |      3|  2|   1|  0|  1| 
+|Vladimir Guerrero Jr. |CI        |      6|  1|   1|  0|  0| 
+|Cody Bellinger        |OF        |      5|  4|   3|  2|  0| 
 |Ian Happ              |OF        |      2|  0|   0|  0|  0| 
 |Kyle Tucker           |OF        |      8|  2|   3|  0|  2| 
-|Michael Harris II     |OF        |      3|  4|   1|  1|  0| 
+|Michael Harris II     |OF        |      6|  4|   2|  1|  1| 
 |Jesse Winker          |DH        |      3|  1|   3|  0|  0| 
 |Jose Siri             |DH        |      0|  0|   1|  0|  0| 
 |Jurickson Profar      |DH        |      2|  0|   0|  0|  0| 
-|Michael Busch         |DH        |      2|  0|   1|  0|  0| 
+|Michael Busch         |DH        |      4|  1|   3|  0|  0| 
 |James Outman          |BAT BENCH |      2|  0|   0|  0|  0| 
 |Seiya Suzuki          |BAT BENCH |     **| **|  **| **| **| 
 |Zack Gelof            |BAT BENCH |      3|  1|   0|  0|  0| 
@@ -32,11 +32,11 @@
  
 |players        |position    |  g|    ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:--------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
-|Charlie Morton |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Charlie Morton |SP          |  1| 6.000|  2|  3.000|      6| 1.000|  4|  1|  0| 
 |Jack Flaherty  |SP          |  1| 6.000|  2|  3.000|      5| 0.833| 10|  0|  0| 
 |Joe Musgrove   |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Michael King   |SP          |  1| 7.667|  1|  1.174|      4| 0.522| 10|  0|  0| 
-|Nathan Eovaldi |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Nathan Eovaldi |SP          |  1| 5.333|  3|  5.062|     11| 2.062|  6|  0|  0| 
 |Seth Lugo      |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Adbert Alzolay |RP          |  1| 1.333|  2| 13.500|      3| 2.250|  0|  0|  0| 
 |Edwin Díaz     |RP          |  1| 0.667|  0|  0.000|      2| 3.000|  2|  0|  0| 

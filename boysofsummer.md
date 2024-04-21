@@ -9,18 +9,18 @@
 |Yandy Díaz        |1B        |      7|  1|   0|  0|  0| 
 |Isaac Paredes     |2B        |      4|  1|   2|  0|  0| 
 |Rafael Devers     |3B        |      0|  0|   0|  0|  0| 
-|Bobby Witt Jr.    |SS        |      4|  2|   0|  0|  1| 
-|Trea Turner       |MI        |      6|  4|   1|  1|  0| 
+|Bobby Witt Jr.    |SS        |      5|  3|   0|  0|  1| 
+|Trea Turner       |MI        |      8|  5|   3|  1|  0| 
 |Yainer Diaz       |CI        |      4|  1|   1|  0|  0| 
-|Christopher Morel |OF        |      3|  1|   0|  0|  0| 
+|Christopher Morel |OF        |      5|  2|   0|  0|  0| 
 |Kerry Carpenter   |OF        |      7|  3|   6|  1|  0| 
 |Masataka Yoshida  |OF        |      6|  2|   2|  1|  0| 
-|Taylor Ward       |OF        |      4|  0|   1|  0|  1| 
+|Taylor Ward       |OF        |      6|  1|   1|  0|  1| 
 |Edouard Julien    |DH        |      3|  1|   0|  0|  0| 
 |LaMonte Wade Jr.  |DH        |      4|  3|   1|  0|  0| 
 |Luis Arraez       |DH        |      3|  1|   0|  0|  0| 
-|Ryan Mountcastle  |DH        |      3|  1|   0|  0|  0| 
-|Anthony Santander |BAT BENCH |      4|  1|   1|  1|  0| 
+|Ryan Mountcastle  |DH        |      6|  3|   1|  0|  0| 
+|Anthony Santander |BAT BENCH |      7|  2|   3|  1|  0| 
 |Carlos Correa     |BAT BENCH |     **| **|  **| **| **| 
 |Ceddanne Rafaela  |BAT BENCH |      2|  2|   2|  1|  1| 
 
