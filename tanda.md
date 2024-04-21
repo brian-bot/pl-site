@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Willson Contreras |C         |      6|  1|   1|  0|  1| 
+|Willson Contreras |C         |      9|  2|   2|  0|  1| 
 |Matt Olson        |1B        |      3|  1|   1|  0|  0| 
 |Marcus Semien     |2B        |      5|  6|   2|  2|  0| 
 |Gunnar Henderson  |3B        |      3|  1|   1|  1|  0| 
-|Oneil Cruz        |SS        |      2|  0|   0|  0|  0| 
+|Oneil Cruz        |SS        |      3|  0|   0|  0|  1| 
 |Brandon Drury     |MI        |      1|  0|   0|  0|  0| 
-|Matt Chapman      |CI        |      4|  0|   1|  0|  0| 
-|Jackson Chourio   |OF        |      0|  0|   0|  0|  0| 
-|Jarren Duran      |OF        |      4|  2|   2|  0|  1| 
-|Jorge Soler       |OF        |      5|  3|   1|  1|  0| 
+|Matt Chapman      |CI        |      6|  0|   1|  0|  1| 
+|Jackson Chourio   |OF        |      4|  3|   2|  1|  1| 
+|Jarren Duran      |OF        |      5|  3|   2|  0|  1| 
+|Jorge Soler       |OF        |      6|  3|   1|  1|  0| 
 |Julio Rodríguez   |OF        |      2|  0|   0|  0|  0| 
 |Colton Cowser     |DH        |      1|  0|   0|  0|  1| 
-|Jung Hoo Lee      |DH        |      4|  2|   0|  0|  0| 
-|Michael Conforto  |DH        |      0|  0|   0|  0|  0| 
+|Jung Hoo Lee      |DH        |      6|  4|   2|  1|  0| 
+|Michael Conforto  |DH        |      1|  0|   1|  0|  0| 
 |Mitch Haniger     |DH        |      1|  1|   1|  0|  0| 
 |Eloy Jiménez      |BAT BENCH |      3|  1|   0|  0|  0| 
-|Esteury Ruiz      |BAT BENCH |      1|  2|   2|  1|  1| 
+|Esteury Ruiz      |BAT BENCH |      3|  2|   2|  1|  1| 
 |Jake Fraley       |BAT BENCH |      2|  0|   0|  0|  0| 
 |Royce Lewis       |BAT BENCH |     **| **|  **| **| **| 
 
