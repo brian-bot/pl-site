@@ -9,20 +9,20 @@
 |Freddie Freeman       |1B        |      7|  1|   5|  0|  0| 
 |Gleyber Torres        |2B        |      3|  2|   0|  0|  0| 
 |Max Muncy             |3B        |      3|  1|   1|  0|  0| 
-|Willy Adames          |SS        |      7|  1|   1|  0|  1| 
-|Maikel Garcia         |MI        |      4|  2|   1|  0|  1| 
-|Vladimir Guerrero Jr. |CI        |      6|  1|   1|  0|  0| 
+|Willy Adames          |SS        |      8|  1|   1|  0|  1| 
+|Maikel Garcia         |MI        |      5|  3|   3|  1|  1| 
+|Vladimir Guerrero Jr. |CI        |      8|  2|   1|  0|  0| 
 |Cody Bellinger        |OF        |      8|  4|   4|  2|  0| 
 |Ian Happ              |OF        |      2|  0|   0|  0|  0| 
 |Kyle Tucker           |OF        |      8|  2|   3|  0|  2| 
-|Michael Harris II     |OF        |      7|  5|   2|  1|  1| 
+|Michael Harris II     |OF        |      9|  5|   2|  1|  3| 
 |Jesse Winker          |DH        |      4|  2|   4|  0|  0| 
 |Jose Siri             |DH        |      0|  0|   1|  0|  0| 
-|Jurickson Profar      |DH        |      4|  1|   0|  0|  1| 
+|Jurickson Profar      |DH        |      6|  1|   1|  0|  1| 
 |Michael Busch         |DH        |      4|  1|   3|  0|  0| 
 |James Outman          |BAT BENCH |      2|  0|   0|  0|  0| 
 |Seiya Suzuki          |BAT BENCH |     **| **|  **| **| **| 
-|Zack Gelof            |BAT BENCH |      5|  1|   0|  0|  1| 
+|Zack Gelof            |BAT BENCH |      6|  2|   2|  1|  1| 
 
 
 * * *

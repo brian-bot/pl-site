@@ -5,19 +5,19 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras |C         |      5|  2|   3|  0|  0| 
+|William Contreras |C         |      7|  3|   3|  0|  0| 
 |Nolan Jones       |1B        |      0|  0|   0|  0|  1| 
 |Mookie Betts      |2B        |      6|  2|   1|  0|  2| 
 |Manny Machado     |3B        |      4|  0|   0|  0|  0| 
 |Corey Seager      |SS        |      5|  1|   1|  0|  0| 
-|Ezequiel Tovar    |MI        |      7|  2|   3|  0|  0| 
+|Ezequiel Tovar    |MI        |      8|  2|   3|  0|  0| 
 |Ha-Seong Kim      |CI        |      6|  2|   1|  0|  2| 
-|Bryan Reynolds    |OF        |      7|  0|   1|  0|  0| 
-|Cedric Mullins    |OF        |      4|  2|   2|  1|  1| 
-|Jack Suwinski     |OF        |      3|  0|   0|  0|  0| 
+|Bryan Reynolds    |OF        |      9|  0|   1|  0|  0| 
+|Cedric Mullins    |OF        |      5|  2|   2|  1|  2| 
+|Jack Suwinski     |OF        |      4|  1|   0|  0|  0| 
 |Teoscar Hernández |OF        |      5|  0|   1|  0|  0| 
-|Alec Bohm         |DH        |     10|  5|   8|  2|  0| 
-|Bryan De La Cruz  |DH        |      7|  3|   5|  3|  0| 
+|Alec Bohm         |DH        |     12|  7|   8|  2|  0| 
+|Bryan De La Cruz  |DH        |      8|  3|   5|  3|  0| 
 |Jeremy Peña       |DH        |      5|  1|   2|  0|  2| 
 |Tyler O'Neill     |DH        |     **| **|  **| **| **| 
 |Ozzie Albies      |BAT BENCH |     **| **|  **| **| **| 
@@ -37,10 +37,10 @@
 |Louie Varland    |SP          |  1| 2.667|  4| 13.500|      7| 2.625|  2|  0|  0| 
 |Sonny Gray       |SP          |  1| 6.333|  2|  2.842|      6| 0.947| 12|  0|  0| 
 |Clay Holmes      |RP          |  3| 3.000|  0|  0.000|      4| 1.333|  2|  0|  2| 
-|David Bednar     |RP          |  2| 1.667|  3| 16.200|      3| 1.800|  3|  0|  0| 
+|David Bednar     |RP          |  3| 2.667|  3| 10.125|      4| 1.500|  4|  0|  1| 
 |Jon Gray         |OP          |  1| 1.667|  0|  0.000|      0| 0.000|  4|  0|  0| 
-|JP Sears         |OP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Lance Lynn       |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|JP Sears         |OP          |  1| 6.000|  0|  0.000|      4| 0.667|  7|  0|  0| 
+|Lance Lynn       |OP          |  1| 5.000|  3|  5.400|     10| 2.000|  7|  0|  0| 
 |Sean Manaea      |OP          |  1| 5.000|  2|  3.600|      7| 1.400|  3|  0|  0| 
 |Tyler Anderson   |OP          |  1| 7.000|  1|  1.286|      6| 0.857|  2|  0|  0| 
 |José Leclerc     |PITCH BENCH |  1| 1.000|  0|  0.000|      2| 2.000|  2|  1|  0| 
