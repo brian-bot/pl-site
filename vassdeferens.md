@@ -5,21 +5,21 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman    |C         |     11|  3|   7|  1|  0| 
-|Pete Alonso        |1B        |      8|  4|   2|  1|  0| 
-|Nico Hoerner       |2B        |      8|  4|   4|  0|  1| 
-|Elly De La Cruz    |3B        |     12|  7|   7|  3|  5| 
-|CJ Abrams          |SS        |      9|  6|   2|  2|  1| 
+|Adley Rutschman    |C         |     13|  3|   8|  1|  0| 
+|Pete Alonso        |1B        |     10|  5|   2|  1|  0| 
+|Nico Hoerner       |2B        |     10|  5|   4|  0|  1| 
+|Elly De La Cruz    |3B        |     15|  8|   8|  3|  8| 
+|CJ Abrams          |SS        |     10|  6|   2|  2|  1| 
 |Ketel Marte        |MI        |     14|  4|   5|  1|  0| 
-|Vinnie Pasquantino |CI        |     11|  4|   1|  1|  0| 
-|Juan Soto          |OF        |     10|  4|   5|  2|  0| 
-|Lars Nootbaar      |OF        |      8|  2|   2|  0|  1| 
-|Marcell Ozuna      |OF        |      9|  6|   5|  2|  0| 
-|Riley Greene       |OF        |     15|  9|   4|  2|  0| 
-|Anthony Rizzo      |DH        |      6|  2|   3|  1|  0| 
+|Vinnie Pasquantino |CI        |     12|  4|   1|  1|  0| 
+|Juan Soto          |OF        |     12|  6|   7|  3|  0| 
+|Lars Nootbaar      |OF        |      9|  2|   4|  0|  1| 
+|Marcell Ozuna      |OF        |     12|  6|   7|  2|  0| 
+|Riley Greene       |OF        |     16| 10|   4|  2|  0| 
+|Anthony Rizzo      |DH        |      8|  3|   4|  2|  0| 
 |Edward Olivares    |DH        |      2|  0|   1|  0|  0| 
 |Mitch Garver       |DH        |      6|  2|   1|  1|  0| 
-|Sal Frelick        |DH        |      4|  1|   0|  0|  0| 
+|Sal Frelick        |DH        |      6|  2|   0|  0|  0| 
 |Iván Herrera       |BAT BENCH |      4|  0|   2|  0|  0| 
 |Jake Burger        |BAT BENCH |     **| **|  **| **| **| 
 |Matt Wallner       |BAT BENCH |     **| **|  **| **| **| 
@@ -43,7 +43,7 @@
 |Chris Paddack    |OP       |  1|  7.000|  0|  0.000|      6| 0.857| 10|  1|  0| 
 |Garrett Whitlock |OP       | **|     **| **|     **|     **|    **| **| **| **| 
 |Hunter Harvey    |OP       |  3|  3.333|  2|  5.400|      5| 1.500|  3|  0|  0| 
-|Robert Suarez    |OP       |  2|  2.000|  0|  0.000|      3| 1.500|  1|  0|  2| 
+|Robert Suarez    |OP       |  3|  3.000|  0|  0.000|      3| 1.000|  2|  0|  3| 
 |Ryan Weathers    |OP       |  1|  5.667|  3|  4.765|      9| 1.588|  1|  0|  0| 
 
 

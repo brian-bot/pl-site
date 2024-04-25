@@ -7,19 +7,19 @@
 |:-----------------|:--------|------:|--:|---:|--:|--:| 
 |Cal Raleigh       |C        |     12|  5|   9|  4|  0| 
 |Bryce Harper      |1B       |      8|  3|   3|  0|  0| 
-|Brice Turang      |2B       |      9|  4|   2|  1|  4| 
-|Nolan Arenado     |3B       |     10|  1|   2|  0|  0| 
-|Dansby Swanson    |SS       |      8|  5|   1|  0|  1| 
+|Brice Turang      |2B       |     11|  5|   2|  1|  4| 
+|Nolan Arenado     |3B       |     12|  2|   3|  0|  0| 
+|Dansby Swanson    |SS       |      9|  6|   4|  1|  1| 
 |J.P. Crawford     |MI       |      8|  3|   4|  0|  0| 
 |Josh Naylor       |CI       |      7|  2|   8|  2|  0| 
-|Evan Carter       |OF       |      4|  2|   2|  1|  0| 
-|Jazz Chisholm Jr. |OF       |      9|  1|   2|  0|  0| 
-|Kyle Schwarber    |OF       |      9|  6|   6|  3|  0| 
-|Randy Arozarena   |OF       |      5|  2|   1|  0|  1| 
+|Evan Carter       |OF       |      6|  3|   4|  2|  0| 
+|Jazz Chisholm Jr. |OF       |     11|  1|   2|  0|  1| 
+|Kyle Schwarber    |OF       |     11|  7|   6|  3|  0| 
+|Randy Arozarena   |OF       |      6|  3|   2|  1|  1| 
 |Lane Thomas       |DH       |      4|  1|   0|  0|  3| 
 |Starling Marte    |DH       |     10|  5|   8|  2|  3| 
 |Thairo Estrada    |DH       |      8|  4|   3|  0|  0| 
-|Ty France         |DH       |      7|  2|   0|  0|  0| 
+|Ty France         |DH       |      9|  2|   0|  0|  0| 
 
 * * *
 
