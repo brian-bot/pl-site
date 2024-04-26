@@ -7,15 +7,15 @@
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |MJ Melendez        |C         |      4|  2|   4|  1|  0| 
 |Christian Walker   |1B        |     10|  6|   6|  1|  0| 
-|Jose Altuve        |2B        |      8|  3|   1|  1|  2| 
+|Jose Altuve        |2B        |      9|  4|   1|  1|  2| 
 |Jorge Polanco      |3B        |      7|  2|   0|  0|  1| 
-|Xander Bogaerts    |SS        |     10|  3|   3|  1|  1| 
-|Anthony Volpe      |MI        |      6|  2|   2|  0|  0| 
+|Xander Bogaerts    |SS        |     12|  3|   4|  1|  1| 
+|Anthony Volpe      |MI        |      8|  2|   2|  0|  0| 
 |Triston Casas      |CI        |      4|  1|   1|  1|  0| 
 |Corbin Carroll     |OF        |      9|  2|   0|  0|  1| 
-|Fernando Tatis Jr. |OF        |      9|  3|   2|  1|  0| 
+|Fernando Tatis Jr. |OF        |     10|  4|   2|  1|  0| 
 |Mark Canha         |OF        |     16|  4|   6|  2|  0| 
-|Spencer Steer      |OF        |      7|  4|   1|  0|  2| 
+|Spencer Steer      |OF        |      8|  4|   1|  0|  2| 
 |Brendan Donovan    |DH        |      7|  1|   2|  0|  0| 
 |Jackson Merrill    |DH        |      8|  0|   4|  0|  0| 
 |Jonathan India     |DH        |      3|  2|   0|  0|  0| 
@@ -43,7 +43,7 @@
 |Ryan Helsley    |RP          |  3|  3.000|  0| 0.000|      3| 1.000|  2|  1|  0| 
 |Aaron Civale    |OP          |  1|  4.667|  5| 9.643|     13| 2.786|  5|  0|  0| 
 |José Alvarado   |OP          |  3|  2.333|  1| 3.857|      3| 1.286|  2|  0|  2| 
-|Kyle Finnegan   |OP          |  2|  2.000|  0| 0.000|      0| 0.000|  1|  1|  1| 
+|Kyle Finnegan   |OP          |  3|  3.000|  0| 0.000|      0| 0.000|  2|  1|  1| 
 |Michael Wacha   |OP          |  2| 10.333|  4| 3.484|     17| 1.645|  8|  0|  0| 
 |Nick Lodolo     |OP          |  2| 11.333|  4| 3.176|     16| 1.412| 10|  1|  0| 
 |Justin Steele   |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 

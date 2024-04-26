@@ -6,19 +6,19 @@
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
 |Bo Naylor             |C         |      4|  3|   0|  0|  0| 
-|Freddie Freeman       |1B        |     12|  1|   7|  0|  0| 
-|Gleyber Torres        |2B        |      4|  2|   0|  0|  0| 
+|Freddie Freeman       |1B        |     15|  1|   8|  0|  0| 
+|Gleyber Torres        |2B        |      6|  2|   0|  0|  0| 
 |Max Muncy             |3B        |      9|  2|   2|  0|  0| 
-|Willy Adames          |SS        |     10|  1|   1|  0|  1| 
+|Willy Adames          |SS        |     12|  2|   1|  0|  2| 
 |Maikel Garcia         |MI        |     10|  4|   4|  1|  3| 
 |Vladimir Guerrero Jr. |CI        |      9|  2|   1|  0|  0| 
 |Cody Bellinger        |OF        |      9|  5|   6|  3|  0| 
-|Ian Happ              |OF        |      5|  2|   0|  0|  0| 
-|Kyle Tucker           |OF        |     12|  3|   3|  0|  3| 
+|Ian Happ              |OF        |      7|  2|   0|  0|  0| 
+|Kyle Tucker           |OF        |     14|  3|   3|  0|  3| 
 |Michael Harris II     |OF        |     14|  6|   4|  1|  4| 
 |Jesse Winker          |DH        |      6|  2|   4|  0|  0| 
 |Jose Siri             |DH        |      0|  0|   1|  0|  0| 
-|Jurickson Profar      |DH        |      8|  3|   2|  0|  1| 
+|Jurickson Profar      |DH        |     11|  5|   5|  1|  1| 
 |Michael Busch         |DH        |      4|  1|   4|  0|  0| 
 |James Outman          |BAT BENCH |      3|  1|   1|  0|  0| 
 |Seiya Suzuki          |BAT BENCH |     **| **|  **| **| **| 
