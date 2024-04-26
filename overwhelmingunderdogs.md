@@ -19,7 +19,7 @@
 |Brendan Donovan    |DH        |      7|  1|   2|  0|  0| 
 |Jackson Merrill    |DH        |      8|  0|   4|  0|  0| 
 |Jonathan India     |DH        |      3|  2|   0|  0|  0| 
-|Justin Turner      |DH        |      8|  4|   3|  1|  0| 
+|Justin Turner      |DH        |      9|  5|   3|  1|  0| 
 |Jordan Walker      |BAT BENCH |      2|  1|   0|  0|  0| 
 |Josh Bell          |BAT BENCH |      6|  4|   3|  1|  0| 
 |Josh Jung          |BAT BENCH |     **| **|  **| **| **| 

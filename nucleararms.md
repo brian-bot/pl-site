@@ -6,7 +6,7 @@
 |players                      |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------------------|:---------|------:|--:|---:|--:|--:| 
 |Francisco Alvarez            |C         |      1|  2|   1|  0|  1| 
-|Salvador Perez               |1B        |     16|  3|   8|  2|  0| 
+|Salvador Perez               |1B        |     17|  4|  10|  3|  0| 
 |Andrés Giménez               |2B        |      6|  2|   5|  0|  1| 
 |José Ramírez                 |3B        |      8|  4|   8|  2|  3| 
 |Jackson Holliday             |SS        |      2|  1|   0|  0|  0| 
@@ -32,7 +32,7 @@
 |players            |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:------------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Brayan Bello       |SP          |  1|  6.000|  0| 0.000|      3| 0.500|  7|  1|  0| 
-|José Berríos       |SP          |  1|  6.000|  0| 0.000|      7| 1.167|  6|  1|  0| 
+|José Berríos       |SP          |  2| 11.000|  2| 1.636|     13| 1.182|  7|  1|  0| 
 |Reynaldo López     |SP          |  1|  7.000|  1| 1.286|      5| 0.714|  6|  0|  0| 
 |Tyler Glasnow      |SP          |  1|  8.000|  0| 0.000|      7| 0.875| 10|  1|  0| 
 |Yoshinobu Yamamoto |SP          |  2| 12.000|  3| 2.250|     13| 1.083| 16|  1|  0| 

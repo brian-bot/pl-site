@@ -10,8 +10,8 @@
 |Gleyber Torres        |2B        |      6|  2|   0|  0|  0| 
 |Max Muncy             |3B        |      9|  2|   2|  0|  0| 
 |Willy Adames          |SS        |     12|  2|   1|  0|  2| 
-|Maikel Garcia         |MI        |     10|  4|   4|  1|  3| 
-|Vladimir Guerrero Jr. |CI        |      9|  2|   1|  0|  0| 
+|Maikel Garcia         |MI        |     11|  4|   4|  1|  3| 
+|Vladimir Guerrero Jr. |CI        |     10|  2|   1|  0|  0| 
 |Cody Bellinger        |OF        |      9|  5|   6|  3|  0| 
 |Ian Happ              |OF        |      7|  2|   0|  0|  0| 
 |Kyle Tucker           |OF        |     14|  3|   3|  0|  3| 

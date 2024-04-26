@@ -18,7 +18,7 @@
 |Yordan Alvarez   |OF        |      8|  4|   2|  1|  0| 
 |Andy Pages       |DH        |      9|  7|   4|  2|  0| 
 |Byron Buxton     |DH        |      9|  3|   3|  1|  0| 
-|Daulton Varsho   |DH        |     13|  6|   8|  4|  2| 
+|Daulton Varsho   |DH        |     14|  6|   8|  4|  2| 
 |Will Benson      |DH        |      4|  1|   2|  1|  0| 
 |Chas McCormick   |BAT BENCH |      5|  1|   2|  0|  1| 
 |Ke'Bryan Hayes   |BAT BENCH |      6|  2|   1|  0|  0| 

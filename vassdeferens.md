@@ -11,7 +11,7 @@
 |Elly De La Cruz    |3B        |     17|  8|   8|  3|  8| 
 |CJ Abrams          |SS        |     11|  7|   2|  2|  2| 
 |Ketel Marte        |MI        |     14|  4|   5|  1|  0| 
-|Vinnie Pasquantino |CI        |     12|  4|   1|  1|  0| 
+|Vinnie Pasquantino |CI        |     14|  5|   1|  1|  0| 
 |Juan Soto          |OF        |     14|  6|   7|  3|  0| 
 |Lars Nootbaar      |OF        |      9|  2|   4|  0|  1| 
 |Marcell Ozuna      |OF        |     12|  6|   7|  2|  0| 
