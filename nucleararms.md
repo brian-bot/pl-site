@@ -6,21 +6,21 @@
 |players                      |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------------------|:---------|------:|--:|---:|--:|--:| 
 |Francisco Alvarez            |C         |      1|  2|   1|  0|  1| 
-|Salvador Perez               |1B        |     17|  4|  10|  3|  0| 
+|Salvador Perez               |1B        |     18|  5|  10|  3|  0| 
 |Andrés Giménez               |2B        |      6|  2|   5|  0|  1| 
-|José Ramírez                 |3B        |      8|  4|   8|  2|  3| 
+|José Ramírez                 |3B        |      9|  4|   8|  2|  3| 
 |Jackson Holliday             |SS        |      2|  1|   0|  0|  0| 
 |Jeff McNeil                  |MI        |     11|  2|   1|  0|  0| 
 |Christian Encarnacion-Strand |CI        |      7|  4|   4|  0|  0| 
 |Adolis García                |OF        |     10|  6|   8|  3|  0| 
-|Giancarlo Stanton            |OF        |      7|  4|   3|  1|  0| 
-|Mike Trout                   |OF        |      8|  5|   3|  3|  2| 
-|Nick Castellanos             |OF        |      7|  4|   2|  0|  0| 
-|Andrew Vaughn                |DH        |      9|  3|   0|  0|  1| 
-|Jake Cronenworth             |DH        |     12|  2|   2|  0|  0| 
-|Orlando Arcia                |DH        |      5|  1|   2|  0|  0| 
-|Shohei Ohtani                |DH        |     17|  7|   6|  2|  2| 
-|Brent Rooker                 |BAT BENCH |      8|  4|   5|  3|  0| 
+|Giancarlo Stanton            |OF        |      8|  4|   4|  1|  0| 
+|Mike Trout                   |OF        |     10|  5|   3|  3|  2| 
+|Nick Castellanos             |OF        |      8|  5|   3|  1|  0| 
+|Andrew Vaughn                |DH        |      9|  3|   1|  0|  1| 
+|Jake Cronenworth             |DH        |     13|  2|   3|  0|  0| 
+|Orlando Arcia                |DH        |      7|  2|   3|  1|  0| 
+|Shohei Ohtani                |DH        |     19|  9|   7|  3|  2| 
+|Brent Rooker                 |BAT BENCH |     11|  5|   6|  3|  0| 
 |Christian Yelich             |BAT BENCH |     **| **|  **| **| **| 
 
 
