@@ -6,21 +6,21 @@
 |players                      |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------------------|:---------|------:|--:|---:|--:|--:| 
 |Francisco Alvarez            |C         |      1|  2|   1|  0|  1| 
-|Salvador Perez               |1B        |     18|  5|  10|  3|  0| 
-|Andrés Giménez               |2B        |      6|  2|   5|  0|  1| 
-|José Ramírez                 |3B        |      9|  4|   8|  2|  3| 
+|Salvador Perez               |1B        |     20|  5|  11|  3|  0| 
+|Andrés Giménez               |2B        |      8|  2|   5|  0|  1| 
+|José Ramírez                 |3B        |     11|  5|   9|  2|  4| 
 |Jackson Holliday             |SS        |      2|  1|   0|  0|  0| 
 |Jeff McNeil                  |MI        |     11|  2|   1|  0|  0| 
-|Christian Encarnacion-Strand |CI        |      7|  4|   4|  0|  0| 
+|Christian Encarnacion-Strand |CI        |      9|  6|   4|  0|  0| 
 |Adolis García                |OF        |     10|  6|   8|  3|  0| 
-|Giancarlo Stanton            |OF        |      8|  4|   4|  1|  0| 
-|Mike Trout                   |OF        |     10|  5|   3|  3|  2| 
-|Nick Castellanos             |OF        |      8|  5|   3|  1|  0| 
-|Andrew Vaughn                |DH        |      9|  3|   1|  0|  1| 
+|Giancarlo Stanton            |OF        |     11|  6|   7|  2|  0| 
+|Mike Trout                   |OF        |     11|  5|   3|  3|  2| 
+|Nick Castellanos             |OF        |      9|  5|   3|  1|  0| 
+|Andrew Vaughn                |DH        |     10|  4|   2|  0|  1| 
 |Jake Cronenworth             |DH        |     13|  2|   3|  0|  0| 
-|Orlando Arcia                |DH        |      7|  2|   3|  1|  0| 
-|Shohei Ohtani                |DH        |     19|  9|   7|  3|  2| 
-|Brent Rooker                 |BAT BENCH |     11|  5|   6|  3|  0| 
+|Orlando Arcia                |DH        |      8|  2|   3|  1|  0| 
+|Shohei Ohtani                |DH        |     20|  9|   8|  3|  2| 
+|Brent Rooker                 |BAT BENCH |     12|  5|   6|  3|  0| 
 |Christian Yelich             |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -34,10 +34,10 @@
 |Brayan Bello       |SP          |  1|  6.000|  0| 0.000|      3| 0.500|  7|  1|  0| 
 |José Berríos       |SP          |  2| 11.000|  2| 1.636|     13| 1.182|  7|  1|  0| 
 |Reynaldo López     |SP          |  1|  7.000|  1| 1.286|      5| 0.714|  6|  0|  0| 
-|Tyler Glasnow      |SP          |  1|  8.000|  0| 0.000|      7| 0.875| 10|  1|  0| 
+|Tyler Glasnow      |SP          |  2| 14.000|  1| 0.643|     12| 0.857| 19|  2|  0| 
 |Yoshinobu Yamamoto |SP          |  2| 12.000|  3| 2.250|     13| 1.083| 16|  1|  0| 
 |Yu Darvish         |SP          | **|     **| **|    **|     **|    **| **| **| **| 
-|Alexis Díaz        |RP          |  4|  4.333|  0| 0.000|      3| 0.692|  4|  0|  3| 
+|Alexis Díaz        |RP          |  5|  5.000|  0| 0.000|      3| 0.600|  4|  0|  4| 
 |Carlos Estévez     |RP          |  1|  1.000|  0| 0.000|      0| 0.000|  2|  0|  1| 
 |Brandon Pfaadt     |OP          |  2| 12.333|  4| 2.919|     11| 0.892| 10|  0|  0| 
 |Dane Dunning       |OP          |  2|  9.333|  5| 4.821|     14| 1.500| 12|  0|  0| 
