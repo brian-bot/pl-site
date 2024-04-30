@@ -5,21 +5,21 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman    |C         |     17|  5|  10|  3|  0| 
-|Pete Alonso        |1B        |     14|  6|   4|  2|  0| 
+|Adley Rutschman    |C         |     18|  5|  10|  3|  0| 
+|Pete Alonso        |1B        |     15|  6|   4|  2|  1| 
 |Nico Hoerner       |2B        |     15|  6|   4|  0|  1| 
-|Elly De La Cruz    |3B        |     20| 10|   8|  3| 11| 
-|CJ Abrams          |SS        |     17| 10|   5|  2|  2| 
-|Ketel Marte        |MI        |     17|  4|   6|  1|  0| 
+|Elly De La Cruz    |3B        |     21| 11|   9|  4| 11| 
+|CJ Abrams          |SS        |     20| 12|   7|  3|  3| 
+|Ketel Marte        |MI        |     19|  4|   6|  1|  0| 
 |Vinnie Pasquantino |CI        |     14|  5|   3|  1|  0| 
-|Juan Soto          |OF        |     21| 10|   9|  4|  1| 
+|Juan Soto          |OF        |     22| 10|   9|  4|  1| 
 |Lars Nootbaar      |OF        |     11|  2|   4|  0|  2| 
 |Marcell Ozuna      |OF        |     17|  8|   9|  2|  0| 
 |Riley Greene       |OF        |     20| 11|   5|  2|  0| 
 |Anthony Rizzo      |DH        |     17|  9|   8|  4|  0| 
 |Edward Olivares    |DH        |      5|  1|   1|  0|  0| 
-|Mitch Garver       |DH        |      8|  4|   2|  2|  0| 
-|Sal Frelick        |DH        |     10|  4|   0|  0|  0| 
+|Mitch Garver       |DH        |     10|  5|   4|  3|  0| 
+|Sal Frelick        |DH        |     11|  4|   0|  0|  1| 
 |Iván Herrera       |BAT BENCH |      4|  0|   2|  0|  0| 
 |Jake Burger        |BAT BENCH |     **| **|  **| **| **| 
 |Matt Wallner       |BAT BENCH |     **| **|  **| **| **| 
