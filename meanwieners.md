@@ -6,22 +6,22 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Logan O'Hoppe    |C         |      8|  5|   3|  0|  0| 
-|Rhys Hoskins     |1B        |     15|  4|   9|  3|  1| 
-|Ryan McMahon     |2B        |     13|  4|   5|  2|  0| 
-|Nolan Gorman     |3B        |      8|  2|   4|  1|  0| 
+|Rhys Hoskins     |1B        |     18|  5|   9|  3|  1| 
+|Ryan McMahon     |2B        |     16|  5|   7|  2|  0| 
+|Nolan Gorman     |3B        |     10|  2|   4|  1|  0| 
 |José Caballero   |SS        |     12|  5|   4|  1|  4| 
-|Jordan Westburg  |MI        |     13|  5|   5|  1|  2| 
+|Jordan Westburg  |MI        |     14|  5|   5|  1|  2| 
 |Ryan O'Hearn     |CI        |      8|  1|   3|  0|  0| 
-|Aaron Judge      |OF        |     19|  5|   9|  3|  1| 
+|Aaron Judge      |OF        |     20|  5|   9|  3|  1| 
 |Nelson Velázquez |OF        |      7|  5|   1|  0|  0| 
 |Wyatt Langford   |OF        |     13|  6|   3|  1|  1| 
 |Yordan Alvarez   |OF        |     11|  6|   6|  3|  0| 
-|Andy Pages       |DH        |     15|  9|   8|  2|  0| 
-|Byron Buxton     |DH        |     13|  7|   4|  1|  1| 
+|Andy Pages       |DH        |     17| 10|   8|  2|  0| 
+|Byron Buxton     |DH        |     15|  8|   4|  1|  1| 
 |Daulton Varsho   |DH        |     17|  7|   9|  4|  2| 
-|Will Benson      |DH        |      9|  4|   5|  2|  0| 
+|Will Benson      |DH        |     10|  4|   5|  2|  1| 
 |Chas McCormick   |BAT BENCH |      7|  2|   3|  0|  1| 
-|Ke'Bryan Hayes   |BAT BENCH |     13|  4|   2|  1|  0| 
+|Ke'Bryan Hayes   |BAT BENCH |     13|  4|   3|  1|  0| 
 |Luis Robert Jr.  |BAT BENCH |     **| **|  **| **| **| 
 
 * * *
@@ -35,9 +35,9 @@
 |Carlos Rodón    |SP          |  2| 13.000|  1|  0.692|      6| 0.462| 12|  1|  0| 
 |Dylan Cease     |SP          |  2| 13.000|  6|  4.154|     10| 0.769| 13|  1|  0| 
 |Joe Ryan        |SP          |  3| 17.333|  8|  4.154|     20| 1.154| 17|  1|  0| 
-|Luis Castillo   |SP          |  2| 13.000|  2|  1.385|      9| 0.692| 15|  2|  0| 
+|Luis Castillo   |SP          |  3| 20.000|  2|  0.900|     13| 0.650| 22|  3|  0| 
 |Zach Eflin      |SP          |  2| 12.000|  4|  3.000|     14| 1.167| 10|  0|  0| 
-|Andrés Muñoz    |RP          |  4|  3.000|  1|  3.000|      4| 1.333|  2|  0|  2| 
+|Andrés Muñoz    |RP          |  5|  4.667|  1|  1.929|      6| 1.286|  5|  0|  3| 
 |Evan Phillips   |RP          |  5|  5.000|  0|  0.000|      6| 1.200|  9|  0|  3| 
 |Garrett Crochet |OP          |  3| 12.000| 14| 10.500|     19| 1.583| 16|  0|  0| 
 |Gavin Stone     |OP          |  2| 10.333|  3|  2.613|     13| 1.258|  3|  1|  0| 
