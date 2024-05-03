@@ -7,10 +7,10 @@
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |MJ Melendez        |C         |      5|  2|   4|  1|  0| 
 |Christian Walker   |1B        |     21| 10|  11|  4|  0| 
-|Jose Altuve        |2B        |     17|  8|   3|  2|  3| 
+|Jose Altuve        |2B        |     20|  9|   4|  2|  5| 
 |Jorge Polanco      |3B        |     14|  5|   4|  1|  1| 
 |Xander Bogaerts    |SS        |     16|  3|   4|  1|  1| 
-|Anthony Volpe      |MI        |     16|  6|   5|  1|  1| 
+|Anthony Volpe      |MI        |     17|  7|   5|  1|  1| 
 |Triston Casas      |CI        |      4|  1|   1|  1|  0| 
 |Corbin Carroll     |OF        |     13|  2|   0|  0|  1| 
 |Fernando Tatis Jr. |OF        |     15|  8|   4|  1|  1| 
@@ -21,7 +21,7 @@
 |Jonathan India     |DH        |     14|  3|   6|  1|  1| 
 |Justin Turner      |DH        |     13|  8|   6|  3|  0| 
 |Jordan Walker      |BAT BENCH |      2|  1|   0|  0|  0| 
-|Josh Bell          |BAT BENCH |     12|  5|   3|  1|  0| 
+|Josh Bell          |BAT BENCH |     14|  6|   4|  2|  0| 
 |Josh Jung          |BAT BENCH |     **| **|  **| **| **| 
 |Sean Murphy        |BAT BENCH |     **| **|  **| **| **| 
 
@@ -39,7 +39,7 @@
 |Max Fried       |SP          |  3| 20.000|  3|  1.350|     16| 0.800| 15|  1|  0| 
 |Pablo López     |SP          |  3| 15.000|  8|  4.800|     13| 0.867| 21|  1|  0| 
 |Ryan Pepiot     |SP          |  3| 18.000|  2|  1.000|     13| 0.722| 18|  2|  0| 
-|David Robertson |RP          |  4|  6.000|  1|  1.500|      5| 0.833|  9|  0|  0| 
+|David Robertson |RP          |  5|  7.333|  1|  1.227|      6| 0.818| 11|  0|  0| 
 |Ryan Helsley    |RP          |  6|  6.000|  0|  0.000|      6| 1.000|  7|  1|  3| 
 |Aaron Civale    |OP          |  2|  9.000| 11| 11.000|     21| 2.333|  8|  0|  0| 
 |José Alvarado   |OP          |  6|  5.333|  1|  1.688|      7| 1.312|  5|  1|  3| 

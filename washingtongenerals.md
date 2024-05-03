@@ -9,17 +9,17 @@
 |Paul Goldschmidt    |1B        |     20|  8|   4|  1|  1| 
 |Bryson Stott        |2B        |     11|  8|   8|  2|  2| 
 |Austin Riley        |3B        |     15|  4|   4|  0|  0| 
-|Francisco Lindor    |SS        |     16|  8|   9|  4|  4| 
+|Francisco Lindor    |SS        |     18|  9|  13|  4|  4| 
 |Bo Bichette         |MI        |     12|  2|   5|  0|  1| 
-|Alex Bregman        |CI        |     12|  3|   7|  1|  0| 
-|Brandon Nimmo       |OF        |     21|  8|   5|  1|  1| 
+|Alex Bregman        |CI        |     13|  4|   7|  1|  1| 
+|Brandon Nimmo       |OF        |     24|  8|   7|  1|  1| 
 |George Springer     |OF        |     11|  2|   1|  1|  0| 
 |Lourdes Gurriel Jr. |OF        |     11|  5|   2|  0|  0| 
 |Ronald Acuña Jr.    |OF        |     20| 13|   2|  1|  5| 
 |Eugenio Suárez      |DH        |     17|  7|   5|  0|  0| 
 |Jeimer Candelario   |DH        |     14|  3|   3|  1|  0| 
 |Spencer Torkelson   |DH        |     15|  5|   5|  0|  0| 
-|Steven Kwan         |DH        |     22|  9|   6|  1|  2| 
+|Steven Kwan         |DH        |     23| 10|   6|  1|  2| 
 |Nolan Schanuel      |BAT BENCH |     18|  3|   5|  1|  0| 
 
 

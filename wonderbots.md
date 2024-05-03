@@ -10,16 +10,16 @@
 |Mookie Betts      |2B        |     28|  7|   7|  0|  5| 
 |Manny Machado     |3B        |      9|  1|   4|  0|  0| 
 |Corey Seager      |SS        |     13|  2|   3|  1|  0| 
-|Ezequiel Tovar    |MI        |     15|  5|   4|  0|  0| 
+|Ezequiel Tovar    |MI        |     15|  5|   4|  0|  1| 
 |Ha-Seong Kim      |CI        |     17|  7|   5|  1|  3| 
 |Bryan Reynolds    |OF        |     20|  4|   5|  2|  0| 
 |Cedric Mullins    |OF        |     11|  4|   4|  2|  3| 
 |Jack Suwinski     |OF        |     10|  2|   1|  0|  0| 
 |Teoscar Hernández |OF        |     17|  7|   4|  1|  2| 
 |Alec Bohm         |DH        |     33| 11|  20|  3|  0| 
-|Bryan De La Cruz  |DH        |     19|  8|   7|  3|  0| 
-|Jeremy Peña       |DH        |     15|  6|   3|  1|  2| 
-|Tyler O'Neill     |DH        |     11|  6|   4|  2|  0| 
+|Bryan De La Cruz  |DH        |     21|  9|   7|  3|  0| 
+|Jeremy Peña       |DH        |     18|  8|   4|  1|  3| 
+|Tyler O'Neill     |DH        |     14|  6|   5|  2|  0| 
 |Ozzie Albies      |BAT BENCH |     11|  3|   4|  0|  0| 
 
 

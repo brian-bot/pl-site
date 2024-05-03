@@ -7,12 +7,12 @@
 |:----------------------------|:---------|------:|--:|---:|--:|--:| 
 |Francisco Alvarez            |C         |      1|  2|   1|  0|  1| 
 |Salvador Perez               |1B        |     27|  6|  12|  3|  0| 
-|Andrés Giménez               |2B        |     16|  4|   8|  1|  2| 
-|José Ramírez                 |3B        |     16|  5|   9|  2|  4| 
+|Andrés Giménez               |2B        |     18|  4|   9|  1|  2| 
+|José Ramírez                 |3B        |     17|  5|  10|  2|  4| 
 |Jackson Holliday             |SS        |      2|  1|   0|  0|  0| 
-|Jeff McNeil                  |MI        |     18|  2|   1|  0|  1| 
+|Jeff McNeil                  |MI        |     18|  3|   1|  0|  1| 
 |Christian Encarnacion-Strand |CI        |      9|  6|   4|  0|  0| 
-|Adolis García                |OF        |     16|  7|  10|  4|  0| 
+|Adolis García                |OF        |     17|  7|  10|  4|  0| 
 |Giancarlo Stanton            |OF        |     15|  7|   7|  2|  0| 
 |Mike Trout                   |OF        |     14|  6|   4|  3|  3| 
 |Nick Castellanos             |OF        |     15|  9|   4|  2|  0| 

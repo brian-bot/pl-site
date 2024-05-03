@@ -11,14 +11,14 @@
 |Nolan Arenado     |3B       |     20|  7|   4|  0|  0| 
 |Dansby Swanson    |SS       |     16| 10|   4|  1|  3| 
 |J.P. Crawford     |MI       |      8|  3|   4|  0|  0| 
-|Josh Naylor       |CI       |     14|  4|  12|  3|  2| 
-|Evan Carter       |OF       |     11|  5|   6|  3|  1| 
-|Jazz Chisholm Jr. |OF       |     17|  4|   8|  2|  1| 
+|Josh Naylor       |CI       |     15|  4|  12|  3|  2| 
+|Evan Carter       |OF       |     12|  5|   7|  3|  1| 
+|Jazz Chisholm Jr. |OF       |     18|  4|   9|  2|  1| 
 |Kyle Schwarber    |OF       |     22| 13|  13|  5|  1| 
 |Randy Arozarena   |OF       |     11|  3|   4|  1|  1| 
 |Lane Thomas       |DH       |      4|  1|   0|  0|  3| 
-|Starling Marte    |DH       |     11|  5|   8|  2|  3| 
-|Thairo Estrada    |DH       |     11|  5|   4|  1|  1| 
+|Starling Marte    |DH       |     12|  5|   9|  2|  3| 
+|Thairo Estrada    |DH       |     12|  5|   5|  1|  1| 
 |Ty France         |DH       |     15|  4|   4|  2|  0| 
 
 * * *
@@ -36,7 +36,7 @@
 |Zack Wheeler       |SP       |  3| 18.333|  1|  0.491|     14| 0.764| 22|  3|  0| 
 |Kirby Yates        |RP       |  5|  6.000|  0|  0.000|      4| 0.667|  9|  1|  4| 
 |Michael Kopech     |RP       |  7|  7.000|  6|  7.714|     10| 1.429| 10|  0|  0| 
-|Anthony Bender     |OP       |  5|  5.000|  7| 12.600|     12| 2.400|  5|  0|  0| 
+|Anthony Bender     |OP       |  6|  6.000|  7| 10.500|     13| 2.167|  6|  0|  0| 
 |Casey Mize         |OP       |  2| 11.000|  2|  1.636|     14| 1.273|  6|  1|  0| 
 |Cristopher Sánchez |OP       |  3| 14.000|  6|  3.857|     23| 1.643| 14|  1|  0| 
 |Kevin Ginkel       |OP       |  4|  3.667|  1|  2.455|      3| 0.818|  3|  0|  2| 

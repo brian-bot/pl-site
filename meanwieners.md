@@ -7,12 +7,12 @@
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Logan O'Hoppe    |C         |      8|  5|   3|  0|  0| 
 |Rhys Hoskins     |1B        |     20|  5|   9|  3|  1| 
-|Ryan McMahon     |2B        |     19|  5|   7|  2|  0| 
+|Ryan McMahon     |2B        |     21|  5|   7|  2|  0| 
 |Nolan Gorman     |3B        |     10|  2|   4|  1|  0| 
 |José Caballero   |SS        |     14|  5|   4|  1|  4| 
-|Jordan Westburg  |MI        |     15|  5|   5|  1|  2| 
+|Jordan Westburg  |MI        |     17|  6|   7|  1|  2| 
 |Ryan O'Hearn     |CI        |     10|  1|   3|  0|  0| 
-|Aaron Judge      |OF        |     20|  5|   9|  3|  1| 
+|Aaron Judge      |OF        |     21|  5|   9|  3|  1| 
 |Nelson Velázquez |OF        |      7|  5|   1|  0|  0| 
 |Wyatt Langford   |OF        |     14|  6|   3|  1|  1| 
 |Yordan Alvarez   |OF        |     11|  6|   6|  3|  0| 
@@ -32,7 +32,7 @@
 |players         |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:---------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Aaron Nola      |SP          |  2| 16.000|  5|  2.812|     13| 0.812| 17|  2|  0| 
-|Carlos Rodón    |SP          |  2| 13.000|  1|  0.692|      6| 0.462| 12|  1|  0| 
+|Carlos Rodón    |SP          |  3| 17.000|  7|  3.706|     14| 0.824| 18|  1|  0| 
 |Dylan Cease     |SP          |  2| 13.000|  6|  4.154|     10| 0.769| 13|  1|  0| 
 |Joe Ryan        |SP          |  3| 17.333|  8|  4.154|     20| 1.154| 17|  1|  0| 
 |Luis Castillo   |SP          |  3| 20.000|  2|  0.900|     13| 0.650| 22|  3|  0| 

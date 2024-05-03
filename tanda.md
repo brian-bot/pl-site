@@ -7,16 +7,16 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Willson Contreras |C         |     20|  7|   5|  3|  1| 
 |Matt Olson        |1B        |     14|  3|   5|  0|  0| 
-|Marcus Semien     |2B        |     14|  9|   4|  3|  0| 
+|Marcus Semien     |2B        |     15|  9|   5|  3|  0| 
 |Gunnar Henderson  |3B        |     21| 13|  10|  5|  2| 
 |Oneil Cruz        |SS        |     16|  0|   2|  0|  2| 
 |Brandon Drury     |MI        |      6|  3|   2|  0|  0| 
-|Matt Chapman      |CI        |     14|  3|   3|  0|  2| 
+|Matt Chapman      |CI        |     16|  4|   3|  0|  2| 
 |Jackson Chourio   |OF        |      9|  5|   2|  1|  2| 
 |Jarren Duran      |OF        |     21|  9|   8|  0|  3| 
-|Jorge Soler       |OF        |     13|  5|   3|  2|  0| 
+|Jorge Soler       |OF        |     14|  5|   3|  2|  0| 
 |Julio Rodríguez   |OF        |     21|  6|   6|  1|  3| 
-|Colton Cowser     |DH        |     12|  4|   3|  2|  1| 
+|Colton Cowser     |DH        |     13|  4|   3|  2|  1| 
 |Jung Hoo Lee      |DH        |     16|  5|   2|  1|  0| 
 |Michael Conforto  |DH        |     12|  5|   2|  1|  0| 
 |Mitch Haniger     |DH        |      6|  3|   6|  1|  0| 
