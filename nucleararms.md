@@ -6,21 +6,21 @@
 |players                      |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------------------|:---------|------:|--:|---:|--:|--:| 
 |Francisco Alvarez            |C         |      1|  2|   1|  0|  1| 
-|Salvador Perez               |1B        |     27|  6|  12|  3|  0| 
+|Salvador Perez               |1B        |     28|  7|  15|  4|  0| 
 |Andrés Giménez               |2B        |     18|  4|   9|  1|  2| 
 |José Ramírez                 |3B        |     17|  5|  10|  2|  4| 
 |Jackson Holliday             |SS        |      2|  1|   0|  0|  0| 
-|Jeff McNeil                  |MI        |     18|  3|   1|  0|  1| 
+|Jeff McNeil                  |MI        |     19|  4|   1|  0|  1| 
 |Christian Encarnacion-Strand |CI        |      9|  6|   4|  0|  0| 
-|Adolis García                |OF        |     17|  7|  10|  4|  0| 
-|Giancarlo Stanton            |OF        |     15|  7|   7|  2|  0| 
+|Adolis García                |OF        |     18|  7|  10|  4|  0| 
+|Giancarlo Stanton            |OF        |     16|  7|   8|  2|  0| 
 |Mike Trout                   |OF        |     14|  6|   4|  3|  3| 
 |Nick Castellanos             |OF        |     15|  9|   4|  2|  0| 
-|Andrew Vaughn                |DH        |     15|  5|   4|  0|  1| 
-|Jake Cronenworth             |DH        |     19|  6|  10|  2|  0| 
-|Orlando Arcia                |DH        |      8|  3|   3|  1|  0| 
-|Shohei Ohtani                |DH        |     24| 10|   9|  3|  2| 
-|Brent Rooker                 |BAT BENCH |     16|  6|   8|  3|  1| 
+|Andrew Vaughn                |DH        |     16|  5|   4|  0|  1| 
+|Jake Cronenworth             |DH        |     22|  7|  11|  3|  0| 
+|Orlando Arcia                |DH        |      9|  3|   4|  1|  0| 
+|Shohei Ohtani                |DH        |     27| 11|  10|  3|  4| 
+|Brent Rooker                 |BAT BENCH |     17|  7|  10|  4|  1| 
 |Christian Yelich             |BAT BENCH |     **| **|  **| **| **| 
 
 
