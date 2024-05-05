@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Willson Contreras |C         |     24|  9|   5|  3|  2| 
-|Matt Olson        |1B        |     14|  3|   5|  0|  0| 
-|Marcus Semien     |2B        |     16| 10|   5|  3|  0| 
-|Gunnar Henderson  |3B        |     24| 13|  10|  5|  2| 
-|Oneil Cruz        |SS        |     17|  1|   4|  1|  2| 
+|Willson Contreras |C         |     27| 10|   5|  3|  2| 
+|Matt Olson        |1B        |     16|  3|   5|  0|  0| 
+|Marcus Semien     |2B        |     18| 12|   6|  3|  0| 
+|Gunnar Henderson  |3B        |     26| 13|  10|  5|  2| 
+|Oneil Cruz        |SS        |     18|  1|   4|  1|  2| 
 |Brandon Drury     |MI        |      6|  3|   2|  0|  0| 
-|Matt Chapman      |CI        |     17|  5|   3|  0|  2| 
-|Jackson Chourio   |OF        |     10|  6|   2|  1|  3| 
-|Jarren Duran      |OF        |     22| 10|   8|  0|  3| 
-|Jorge Soler       |OF        |     14|  5|   3|  2|  0| 
-|Julio Rodríguez   |OF        |     22|  6|   6|  1|  3| 
+|Matt Chapman      |CI        |     18|  5|   3|  0|  2| 
+|Jackson Chourio   |OF        |     12|  7|   2|  1|  3| 
+|Jarren Duran      |OF        |     23| 10|   8|  0|  3| 
+|Jorge Soler       |OF        |     15|  5|   3|  2|  0| 
+|Julio Rodríguez   |OF        |     24|  6|   6|  1|  3| 
 |Colton Cowser     |DH        |     13|  4|   3|  2|  1| 
-|Jung Hoo Lee      |DH        |     17|  5|   2|  1|  0| 
+|Jung Hoo Lee      |DH        |     18|  5|   2|  1|  0| 
 |Michael Conforto  |DH        |     13|  5|   2|  1|  0| 
-|Mitch Haniger     |DH        |      7|  3|   6|  1|  0| 
-|Eloy Jiménez      |BAT BENCH |     20|  8|   9|  3|  1| 
-|Esteury Ruiz      |BAT BENCH |     11|  4|   4|  1|  3| 
-|Jake Fraley       |BAT BENCH |      3|  1|   0|  0|  0| 
+|Mitch Haniger     |DH        |      8|  3|   6|  1|  0| 
+|Eloy Jiménez      |BAT BENCH |     22|  9|  10|  3|  1| 
+|Esteury Ruiz      |BAT BENCH |     13|  5|   5|  1|  3| 
+|Jake Fraley       |BAT BENCH |      4|  2|   0|  0|  0| 
 |Royce Lewis       |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -39,9 +39,9 @@
 |Cristian Javier  |SP          | **|     **| **|    **|     **|    **| **| **| **| 
 |Hunter Greene    |SP          |  3| 19.667|  4| 1.831|     20| 1.017| 17|  1|  0| 
 |Yusei Kikuchi    |SP          |  3| 18.000|  7| 3.500|     21| 1.167| 14|  1|  0| 
-|Jordan Romano    |RP          |  5|  4.667|  1| 1.929|      4| 0.857|  5|  0|  3| 
+|Jordan Romano    |RP          |  6|  5.667|  2| 3.176|      7| 1.235|  6|  0|  3| 
 |Raisel Iglesias  |RP          |  8|  8.000|  1| 1.125|      9| 1.125|  6|  0|  4| 
-|Craig Kimbrel    |OP          |  7|  5.333|  3| 5.062|     11| 2.062|  7|  1|  4| 
+|Craig Kimbrel    |OP          |  8|  5.667|  4| 6.353|     14| 2.471|  8|  1|  4| 
 |Dean Kremer      |OP          |  3| 18.000|  7| 3.500|     17| 0.944| 17|  2|  0| 
 |Luis Severino    |OP          |  3| 20.000|  4| 1.800|     16| 0.800| 14|  1|  0| 
 |Marcus Stroman   |OP          |  4| 20.000| 10| 4.500|     35| 1.750| 18|  1|  0| 
