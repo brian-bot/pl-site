@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Willson Contreras |C         |     27| 10|   5|  3|  2| 
-|Matt Olson        |1B        |     16|  3|   5|  0|  0| 
-|Marcus Semien     |2B        |     18| 12|   6|  3|  0| 
-|Gunnar Henderson  |3B        |     26| 13|  10|  5|  2| 
-|Oneil Cruz        |SS        |     18|  1|   4|  1|  2| 
+|Willson Contreras |C         |     28| 11|   6|  4|  2| 
+|Matt Olson        |1B        |     17|  3|   5|  0|  0| 
+|Marcus Semien     |2B        |     19| 12|   6|  3|  0| 
+|Gunnar Henderson  |3B        |     28| 14|  10|  5|  2| 
+|Oneil Cruz        |SS        |     20|  2|   6|  2|  2| 
 |Brandon Drury     |MI        |      6|  3|   2|  0|  0| 
 |Matt Chapman      |CI        |     18|  5|   3|  0|  2| 
 |Jackson Chourio   |OF        |     12|  7|   2|  1|  3| 
-|Jarren Duran      |OF        |     23| 10|   8|  0|  3| 
+|Jarren Duran      |OF        |     25| 12|   8|  0|  3| 
 |Jorge Soler       |OF        |     15|  5|   3|  2|  0| 
-|Julio Rodríguez   |OF        |     24|  6|   6|  1|  3| 
-|Colton Cowser     |DH        |     13|  4|   3|  2|  1| 
-|Jung Hoo Lee      |DH        |     18|  5|   2|  1|  0| 
-|Michael Conforto  |DH        |     13|  5|   2|  1|  0| 
+|Julio Rodríguez   |OF        |     25|  6|   6|  1|  3| 
+|Colton Cowser     |DH        |     15|  5|   4|  2|  1| 
+|Jung Hoo Lee      |DH        |     19|  5|   2|  1|  0| 
+|Michael Conforto  |DH        |     15|  5|   3|  1|  0| 
 |Mitch Haniger     |DH        |      8|  3|   6|  1|  0| 
-|Eloy Jiménez      |BAT BENCH |     22|  9|  10|  3|  1| 
+|Eloy Jiménez      |BAT BENCH |     23| 10|  11|  4|  1| 
 |Esteury Ruiz      |BAT BENCH |     13|  5|   5|  1|  3| 
-|Jake Fraley       |BAT BENCH |      4|  2|   0|  0|  0| 
+|Jake Fraley       |BAT BENCH |      5|  2|   1|  0|  0| 
 |Royce Lewis       |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -42,8 +42,8 @@
 |Jordan Romano    |RP          |  6|  5.667|  2| 3.176|      7| 1.235|  6|  0|  3| 
 |Raisel Iglesias  |RP          |  8|  8.000|  1| 1.125|      9| 1.125|  6|  0|  4| 
 |Craig Kimbrel    |OP          |  8|  5.667|  4| 6.353|     14| 2.471|  8|  1|  4| 
-|Dean Kremer      |OP          |  3| 18.000|  7| 3.500|     17| 0.944| 17|  2|  0| 
-|Luis Severino    |OP          |  3| 20.000|  4| 1.800|     16| 0.800| 14|  1|  0| 
+|Dean Kremer      |OP          |  4| 24.000|  7| 2.625|     19| 0.792| 23|  3|  0| 
+|Luis Severino    |OP          |  4| 25.000|  8| 2.880|     26| 1.040| 20|  1|  0| 
 |Marcus Stroman   |OP          |  4| 20.000| 10| 4.500|     35| 1.750| 18|  1|  0| 
 |Yariel Rodríguez |OP          |  3| 11.667|  6| 4.629|     21| 1.800| 10|  0|  0| 
 |Frankie Montas   |PITCH BENCH |  1|  0.667|  0| 0.000|      1| 1.500|  0|  0|  0| 
