@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Willson Contreras |C         |     28| 11|   6|  4|  2| 
+|Willson Contreras |C         |     29| 12|   7|  4|  2| 
 |Matt Olson        |1B        |     17|  3|   5|  0|  0| 
 |Marcus Semien     |2B        |     19| 12|   6|  3|  0| 
 |Gunnar Henderson  |3B        |     28| 14|  10|  5|  2| 
-|Oneil Cruz        |SS        |     20|  2|   6|  2|  2| 
+|Oneil Cruz        |SS        |     21|  2|   6|  2|  2| 
 |Brandon Drury     |MI        |      6|  3|   2|  0|  0| 
 |Matt Chapman      |CI        |     18|  5|   3|  0|  2| 
-|Jackson Chourio   |OF        |     12|  7|   2|  1|  3| 
+|Jackson Chourio   |OF        |     13|  7|   2|  1|  3| 
 |Jarren Duran      |OF        |     25| 12|   8|  0|  3| 
 |Jorge Soler       |OF        |     15|  5|   3|  2|  0| 
 |Julio Rodríguez   |OF        |     25|  6|   6|  1|  3| 
 |Colton Cowser     |DH        |     15|  5|   4|  2|  1| 
-|Jung Hoo Lee      |DH        |     19|  5|   2|  1|  0| 
-|Michael Conforto  |DH        |     15|  5|   3|  1|  0| 
-|Mitch Haniger     |DH        |      8|  3|   6|  1|  0| 
+|Jung Hoo Lee      |DH        |     21|  5|   2|  1|  0| 
+|Michael Conforto  |DH        |     16|  5|   3|  1|  0| 
+|Mitch Haniger     |DH        |      9|  3|   6|  1|  0| 
 |Eloy Jiménez      |BAT BENCH |     23| 10|  11|  4|  1| 
-|Esteury Ruiz      |BAT BENCH |     13|  5|   5|  1|  3| 
+|Esteury Ruiz      |BAT BENCH |     13|  5|   6|  1|  3| 
 |Jake Fraley       |BAT BENCH |      5|  2|   1|  0|  0| 
 |Royce Lewis       |BAT BENCH |     **| **|  **| **| **| 
 
@@ -35,7 +35,7 @@
 |:----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Chris Bassitt    |SP          |  3| 14.000| 12| 7.714|     26| 1.857| 12|  0|  0| 
 |Chris Sale       |SP          |  3| 19.000|  5| 2.368|     15| 0.789| 22|  3|  0| 
-|Cole Ragans      |SP          |  3| 13.333|  9| 6.075|     22| 1.650| 17|  2|  0| 
+|Cole Ragans      |SP          |  4| 19.333| 11| 5.121|     26| 1.345| 25|  2|  0| 
 |Cristian Javier  |SP          | **|     **| **|    **|     **|    **| **| **| **| 
 |Hunter Greene    |SP          |  3| 19.667|  4| 1.831|     20| 1.017| 17|  1|  0| 
 |Yusei Kikuchi    |SP          |  3| 18.000|  7| 3.500|     21| 1.167| 14|  1|  0| 
