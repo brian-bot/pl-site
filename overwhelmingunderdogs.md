@@ -5,25 +5,24 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|MJ Melendez        |C         |      9|  3|   4|  1|  1| 
-|Christian Walker   |1B        |     25| 12|  13|  4|  0| 
-|Jose Altuve        |2B        |     24| 11|   5|  2|  6| 
-|Jorge Polanco      |3B        |     19|  8|   5|  2|  1| 
-|Xander Bogaerts    |SS        |     21|  7|   4|  1|  1| 
-|Anthony Volpe      |MI        |     22| 10|   8|  2|  1| 
-|Triston Casas      |CI        |      4|  1|   1|  1|  0| 
-|Corbin Carroll     |OF        |     18|  4|   7|  1|  1| 
-|Fernando Tatis Jr. |OF        |     25| 13|   7|  2|  3| 
-|Mark Canha         |OF        |     28|  9|   8|  2|  0| 
-|Spencer Steer      |OF        |     19|  6|   5|  1|  6| 
-|Brendan Donovan    |DH        |     19|  5|   9|  2|  0| 
-|Jackson Merrill    |DH        |     14|  4|   8|  1|  0| 
-|Jonathan India     |DH        |     19|  4|   7|  2|  1| 
-|Justin Turner      |DH        |     17|  9|   7|  3|  0| 
-|Jordan Walker      |BAT BENCH |      2|  1|   0|  0|  0| 
-|Josh Bell          |BAT BENCH |     22|  6|   6|  2|  0| 
+|MJ Melendez        |C         |      0|  0|   0|  0|  0| 
+|Christian Walker   |1B        |      2|  0|   1|  0|  0| 
+|Jose Altuve        |2B        |      1|  0|   1|  0|  0| 
+|Jorge Polanco      |3B        |      1|  0|   0|  0|  0| 
+|Xander Bogaerts    |SS        |      0|  0|   0|  0|  0| 
+|Anthony Volpe      |MI        |      3|  2|   0|  0|  0| 
+|Josh Bell          |CI        |      1|  0|   0|  0|  0| 
+|Corbin Carroll     |OF        |      1|  0|   0|  0|  0| 
+|Fernando Tatis Jr. |OF        |      1|  0|   1|  0|  0| 
+|Mark Canha         |OF        |     **| **|  **| **| **| 
+|Spencer Steer      |OF        |      1|  0|   0|  0|  1| 
+|Brendan Donovan    |DH        |     **| **|  **| **| **| 
+|Jackson Merrill    |DH        |      1|  0|   0|  0|  0| 
+|Jonathan India     |DH        |      1|  0|   0|  0|  0| 
+|Justin Turner      |DH        |      0|  1|   0|  0|  0| 
 |Josh Jung          |BAT BENCH |     **| **|  **| **| **| 
 |Sean Murphy        |BAT BENCH |     **| **|  **| **| **| 
+|Triston Casas      |BAT BENCH |     **| **|  **| **| **| 
 
 
 * * *
@@ -31,23 +30,25 @@
 ### Pitchers
 
  
-|players         |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
-|:---------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Bryce Miller    |SP          |  4| 23.000|  8|  3.130|     20| 0.870| 25|  1|  0| 
-|Jesús Luzardo   |SP          |  1|  6.000|  2|  3.000|      6| 1.000|  6|  0|  0| 
-|Matt Waldron    |SP          |  4| 19.667| 17|  7.780|     32| 1.627| 13|  1|  0| 
-|Max Fried       |SP          |  4| 27.000|  7|  2.333|     23| 0.852| 22|  1|  0| 
-|Pablo López     |SP          |  4| 21.000|  9|  3.857|     19| 0.905| 29|  2|  0| 
-|Ryan Pepiot     |SP          |  4| 20.000|  5|  2.250|     17| 0.850| 21|  2|  0| 
-|David Robertson |RP          |  7|  9.333|  1|  0.964|      7| 0.750| 13|  0|  1| 
-|Ryan Helsley    |RP          |  8|  8.000|  0|  0.000|      7| 0.875|  7|  1|  4| 
-|Aaron Civale    |OP          |  3| 13.667| 18| 11.854|     28| 2.049| 13|  0|  0| 
-|José Alvarado   |OP          |  8|  7.333|  2|  2.455|      9| 1.227|  7|  1|  5| 
-|Kyle Finnegan   |OP          |  8|  8.000|  0|  0.000|      2| 0.250|  8|  1|  6| 
-|Michael Wacha   |OP          |  4| 19.667| 15|  6.864|     36| 1.831| 14|  0|  0| 
-|Nick Lodolo     |OP          |  4| 23.333|  9|  3.471|     25| 1.071| 27|  2|  0| 
-|Justin Steele   |PITCH BENCH |  1|  4.667|  0|  0.000|      4| 0.857|  2|  0|  0| 
-|Kenta Maeda     |PITCH BENCH |  4| 15.667| 13|  7.468|     24| 1.532| 13|  1|  0| 
+|players         |position    |  g|    ip| er|   era| hitsbb| whip| so|  w| sv| 
+|:---------------|:-----------|--:|-----:|--:|-----:|------:|----:|--:|--:|--:| 
+|Bryce Miller    |SP          | **|    **| **|    **|     **|   **| **| **| **| 
+|Justin Steele   |SP          | **|    **| **|    **|     **|   **| **| **| **| 
+|Matt Waldron    |SP          | **|    **| **|    **|     **|   **| **| **| **| 
+|Max Fried       |SP          | **|    **| **|    **|     **|   **| **| **| **| 
+|Nick Lodolo     |SP          | **|    **| **|    **|     **|   **| **| **| **| 
+|Pablo López     |SP          | **|    **| **|    **|     **|   **| **| **| **| 
+|Paul Sewald     |RP          | **|    **| **|    **|     **|   **| **| **| **| 
+|Ryan Helsley    |RP          | **|    **| **|    **|     **|   **| **| **| **| 
+|Aaron Civale    |OP          |  1| 4.667|  2| 3.857|      7|  1.5|  4|  0|  0| 
+|David Robertson |OP          |  1| 2.000|  0| 0.000|      1|  0.5|  5|  1|  0| 
+|José Alvarado   |OP          | **|    **| **|    **|     **|   **| **| **| **| 
+|Kyle Finnegan   |OP          |  1| 1.000|  0| 0.000|      1|  1.0|  1|  0|  0| 
+|Michael Wacha   |OP          | **|    **| **|    **|     **|   **| **| **| **| 
+|Jesús Luzardo   |PITCH BENCH | **|    **| **|    **|     **|   **| **| **| **| 
+|Kenta Maeda     |PITCH BENCH | **|    **| **|    **|     **|   **| **| **| **| 
+|Ryan Pepiot     |PITCH BENCH | **|    **| **|    **|     **|   **| **| **| **| 
+|Yennier Cano    |PITCH BENCH |  1| 0.667|  0| 0.000|      2|  3.0|  0|  0|  0| 
 
 
 * * *

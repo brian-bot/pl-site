@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras |C         |     30| 14|  10|  1|  2| 
-|Nolan Jones       |1B        |      5|  2|   1|  0|  1| 
-|Mookie Betts      |2B        |     34| 10|   9|  0|  5| 
-|Manny Machado     |3B        |     14|  4|   9|  1|  0| 
-|Corey Seager      |SS        |     20|  6|   8|  2|  0| 
-|Ezequiel Tovar    |MI        |     18|  5|   4|  0|  1| 
-|Ha-Seong Kim      |CI        |     22| 10|   9|  2|  3| 
-|Bryan Reynolds    |OF        |     25|  7|   5|  2|  0| 
-|Cedric Mullins    |OF        |     13|  4|   4|  2|  3| 
-|Jack Suwinski     |OF        |     12|  2|   3|  0|  0| 
-|Teoscar Hernández |OF        |     24| 11|   8|  4|  2| 
-|Alec Bohm         |DH        |     37| 15|  22|  3|  0| 
-|Bryan De La Cruz  |DH        |     29| 14|  11|  5|  0| 
-|Jeremy Peña       |DH        |     21| 10|   5|  1|  3| 
-|Tyler O'Neill     |DH        |     17|  8|   5|  2|  0| 
-|Nathaniel Lowe    |BAT BENCH |     30| 10|   7|  1|  1| 
-|Ozzie Albies      |BAT BENCH |     14|  4|   4|  0|  0| 
+|William Contreras |C         |      2|  0|   2|  0|  0| 
+|Nathaniel Lowe    |1B        |      5|  2|   3|  0|  0| 
+|Mookie Betts      |2B        |      1|  0|   0|  0|  0| 
+|Manny Machado     |3B        |      1|  0|   1|  0|  0| 
+|Corey Seager      |SS        |      1|  0|   0|  0|  0| 
+|Ezequiel Tovar    |MI        |      2|  0|   0|  0|  0| 
+|Ha-Seong Kim      |CI        |      1|  0|   0|  0|  1| 
+|Bryan Reynolds    |OF        |      1|  1|   0|  0|  0| 
+|Cedric Mullins    |OF        |      0|  0|   0|  0|  0| 
+|Teoscar Hernández |OF        |      2|  1|   3|  1|  0| 
+|Tyler O'Neill     |OF        |      1|  0|   0|  0|  0| 
+|Alec Bohm         |DH        |      1|  0|   0|  0|  0| 
+|Bryan De La Cruz  |DH        |      2|  1|   1|  1|  0| 
+|Jeremy Peña       |DH        |      3|  1|   1|  1|  0| 
+|Ozzie Albies      |DH        |      1|  0|   0|  0|  0| 
+|Jack Suwinski     |BAT BENCH |      1|  0|   0|  0|  0| 
+|Nolan Jones       |BAT BENCH |     **| **|  **| **| **| 
 
 
 * * *
@@ -29,25 +29,25 @@
 ### Pitchers
 
  
-|players          |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
-|:----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Corbin Burnes    |SP          |  4| 24.000|  9|  3.375|     24| 1.000| 22|  1|  0| 
-|Graham Ashcraft  |SP          |  3| 17.333|  6|  3.115|     22| 1.269| 11|  1|  0| 
-|Justin Verlander |SP          |  4| 22.333| 11|  4.433|     31| 1.388| 15|  1|  0| 
-|Logan Gilbert    |SP          |  3| 21.000|  2|  0.857|     17| 0.810| 21|  2|  0| 
-|Louie Varland    |SP          |  1|  2.667|  4| 13.500|      7| 2.625|  2|  0|  0| 
-|Sonny Gray       |SP          |  3| 19.333|  3|  1.397|     17| 0.879| 27|  2|  0| 
-|Clay Holmes      |RP          |  8|  8.333|  0|  0.000|      6| 0.720| 12|  0|  5| 
-|David Bednar     |RP          |  9|  7.667|  8|  9.391|     12| 1.565| 11|  1|  4| 
-|Jon Gray         |OP          |  4| 21.333|  4|  1.688|     18| 0.844| 21|  1|  0| 
-|JP Sears         |OP          |  3| 18.667|  7|  3.375|     18| 0.964| 21|  1|  0| 
-|Lance Lynn       |OP          |  3| 15.000|  8|  4.800|     25| 1.667| 14|  0|  0| 
-|Sean Manaea      |OP          |  4| 20.667|  6|  2.613|     29| 1.403| 13|  1|  0| 
-|Tyler Anderson   |OP          |  4| 24.333| 10|  3.699|     30| 1.233| 20|  0|  0| 
-|José Leclerc     |PITCH BENCH |  6|  6.000|  0|  0.000|      7| 1.167|  7|  3|  0| 
-|Kyle Bradish     |PITCH BENCH |  1|  4.667|  1|  1.929|      6| 1.286|  5|  0|  0| 
-|Nick Pivetta     |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Tylor Megill     |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
+|players          |position    |  g|    ip| er|    era| hitsbb|  whip| so|  w| sv| 
+|:----------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
+|Corbin Burnes    |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Graham Ashcraft  |SP          |  1| 5.000|  3|  5.400|      9| 1.800|  2|  0|  0| 
+|Justin Verlander |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Kyle Bradish     |SP          |  1| 5.000|  1|  1.800|      6| 1.200|  9|  0|  0| 
+|Logan Gilbert    |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Sonny Gray       |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Clay Holmes      |RP          | **|    **| **|     **|     **|    **| **| **| **| 
+|David Bednar     |RP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Jon Gray         |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|JP Sears         |OP          |  1| 5.667|  4|  6.353|      8| 1.412|  3|  1|  0| 
+|Nick Pivetta     |OP          |  1| 4.000|  5| 11.250|      8| 2.000|  1|  0|  0| 
+|Sean Manaea      |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Tyler Anderson   |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|José Leclerc     |PITCH BENCH |  1| 1.000|  1|  9.000|      2| 2.000|  2|  0|  0| 
+|Lance Lynn       |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Trevor Megill    |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Tylor Megill     |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 
 
 * * *
