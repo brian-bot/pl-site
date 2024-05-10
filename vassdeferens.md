@@ -8,21 +8,21 @@
 |Adley Rutschman    |C         |      1|  0|   0|  0|  0| 
 |Pete Alonso        |1B        |     **| **|  **| **| **| 
 |Nico Hoerner       |2B        |      1|  0|   0|  0|  0| 
-|Elly De La Cruz    |3B        |      0|  0|   0|  0|  2| 
+|Elly De La Cruz    |3B        |      3|  1|   1|  0|  4| 
 |CJ Abrams          |SS        |      2|  1|   1|  0|  0| 
-|Ketel Marte        |MI        |      1|  0|   0|  0|  0| 
-|Vinnie Pasquantino |CI        |      2|  0|   1|  0|  0| 
-|Juan Soto          |OF        |      3|  1|   5|  1|  0| 
-|Lars Nootbaar      |OF        |     **| **|  **| **| **| 
+|Ketel Marte        |MI        |      2|  1|   0|  0|  0| 
+|Vinnie Pasquantino |CI        |      4|  2|   4|  1|  0| 
+|Juan Soto          |OF        |      5|  1|   5|  1|  0| 
+|Lars Nootbaar      |OF        |      1|  1|   1|  1|  0| 
 |Marcell Ozuna      |OF        |      3|  2|   4|  2|  0| 
 |Riley Greene       |OF        |      0|  0|   0|  0|  0| 
-|Anthony Rizzo      |DH        |      1|  1|   0|  0|  0| 
+|Anthony Rizzo      |DH        |      2|  1|   0|  0|  0| 
 |Jake Burger        |DH        |      1|  0|   0|  0|  0| 
-|Jo Adell           |DH        |      2|  1|   2|  1|  0| 
+|Jo Adell           |DH        |      5|  3|   2|  1|  0| 
 |Wenceel Pérez      |DH        |      0|  0|   0|  0|  0| 
 |Heston Kjerstad    |BAT BENCH |      0|  0|   0|  0|  0| 
-|Mitch Garver       |BAT BENCH |      3|  1|   1|  1|  0| 
-|Sal Frelick        |BAT BENCH |      1|  0|   0|  0|  0| 
+|Mitch Garver       |BAT BENCH |      4|  1|   1|  1|  0| 
+|Sal Frelick        |BAT BENCH |      2|  0|   0|  0|  0| 
 
 
 * * *

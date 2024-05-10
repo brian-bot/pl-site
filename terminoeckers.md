@@ -7,16 +7,16 @@
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
 |Danny Jansen          |C         |      1|  1|   0|  0|  0| 
 |Freddie Freeman       |1B        |      2|  2|   0|  0|  0| 
-|Gleyber Torres        |2B        |      2|  0|   0|  0|  0| 
+|Gleyber Torres        |2B        |      4|  0|   0|  0|  0| 
 |Max Muncy             |3B        |      0|  0|   0|  0|  0| 
-|Willy Adames          |SS        |      1|  0|   0|  0|  1| 
-|Maikel Garcia         |MI        |      2|  1|   0|  0|  0| 
+|Willy Adames          |SS        |      2|  0|   0|  0|  2| 
+|Maikel Garcia         |MI        |      5|  3|   2|  0|  0| 
 |Vladimir Guerrero Jr. |CI        |      3|  0|   1|  0|  0| 
 |Cody Bellinger        |OF        |      0|  0|   0|  0|  0| 
-|Kyle Tucker           |OF        |      1|  1|   1|  1|  0| 
+|Kyle Tucker           |OF        |      2|  1|   1|  1|  1| 
 |Michael Harris II     |OF        |      0|  0|   0|  0|  0| 
 |Seiya Suzuki          |OF        |     **| **|  **| **| **| 
-|Alex Verdugo          |DH        |      0|  0|   0|  0|  0| 
+|Alex Verdugo          |DH        |      1|  0|   0|  0|  0| 
 |Jonny DeLuca          |DH        |      1|  0|   0|  0|  0| 
 |Jurickson Profar      |DH        |      0|  0|   0|  0|  0| 
 |Michael Busch         |DH        |      0|  0|   0|  0|  0| 

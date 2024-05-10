@@ -7,9 +7,9 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith        |C         |     **| **|  **| **| **| 
 |Yandy Díaz        |1B        |      1|  1|   0|  0|  0| 
-|Thairo Estrada    |2B        |      1|  0|   0|  0|  0| 
+|Thairo Estrada    |2B        |      4|  0|   0|  0|  0| 
 |Rafael Devers     |3B        |      1|  0|   0|  0|  0| 
-|Bobby Witt Jr.    |SS        |      3|  3|   1|  1|  0| 
+|Bobby Witt Jr.    |SS        |      4|  3|   1|  1|  0| 
 |Carlos Correa     |MI        |      1|  1|   1|  1|  0| 
 |Ryan Mountcastle  |CI        |      1|  1|   2|  1|  0| 
 |Christopher Morel |OF        |      0|  0|   0|  0|  0| 
@@ -20,9 +20,9 @@
 |Ceddanne Rafaela  |DH        |      1|  0|   0|  0|  0| 
 |Isaac Paredes     |DH        |      2|  0|   1|  0|  0| 
 |Luis Arraez       |DH        |      3|  2|   0|  0|  0| 
-|Edouard Julien    |BAT BENCH |      1|  1|   0|  0|  0| 
+|Edouard Julien    |BAT BENCH |      3|  2|   1|  0|  1| 
 |Trea Turner       |BAT BENCH |     **| **|  **| **| **| 
-|Yainer Diaz       |BAT BENCH |      2|  0|   0|  0|  0| 
+|Yainer Diaz       |BAT BENCH |      3|  0|   0|  0|  0| 
 
 
 * * *
@@ -32,7 +32,7 @@
  
 |players           |position    |  g|    ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
-|Ben Lively        |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Ben Lively        |SP          |  1| 5.667|  3|  4.765|     11| 1.941|  2|  0|  0| 
 |Brady Singer      |SP          |  1| 5.333|  1|  1.688|      7| 1.312|  4|  1|  0| 
 |Kevin Gausman     |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Logan Webb        |SP          | **|    **| **|     **|     **|    **| **| **| **| 

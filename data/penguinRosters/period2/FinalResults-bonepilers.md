@@ -8,7 +8,7 @@
 |players           |position | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:--------|------:|--:|---:|--:|--:| 
 |Cal Raleigh       |C        |     22| 10|  16|  7|  0| 
-|Bryce Harper      |1B       |     34| 13|  17|  5|  0| 
+|Bryce Harper      |1B       |     35| 13|  17|  5|  0| 
 |Brice Turang      |2B       |     25|  8|   5|  1|  6| 
 |Nolan Arenado     |3B       |     30|  8|  11|  1|  0| 
 |Dansby Swanson    |SS       |     20| 11|   5|  2|  3| 
