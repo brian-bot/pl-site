@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |      1|  0|   0|  0|  0| 
-|Yandy Díaz        |1B        |      4|  1|   0|  0|  0| 
-|Thairo Estrada    |2B        |      5|  1|   1|  1|  0| 
-|Rafael Devers     |3B        |      2|  0|   0|  0|  0| 
-|Bobby Witt Jr.    |SS        |      4|  3|   1|  1|  0| 
-|Carlos Correa     |MI        |      3|  3|   1|  1|  0| 
-|Ryan Mountcastle  |CI        |      2|  2|   2|  1|  0| 
-|Christopher Morel |OF        |      2|  0|   1|  0|  0| 
-|Kerry Carpenter   |OF        |      2|  1|   0|  0|  0| 
+|Will Smith        |C         |      2|  1|   0|  0|  0| 
+|Yandy Díaz        |1B        |      7|  4|   2|  1|  0| 
+|Thairo Estrada    |2B        |      6|  1|   1|  1|  0| 
+|Rafael Devers     |3B        |      4|  0|   2|  0|  0| 
+|Bobby Witt Jr.    |SS        |      6|  4|   2|  1|  2| 
+|Carlos Correa     |MI        |      6|  5|   2|  1|  0| 
+|Ryan Mountcastle  |CI        |      5|  3|   2|  1|  0| 
+|Christopher Morel |OF        |      3|  0|   1|  0|  0| 
+|Kerry Carpenter   |OF        |      4|  3|   3|  2|  0| 
 |Richie Palacios   |OF        |      1|  0|   0|  0|  1| 
-|Taylor Ward       |OF        |      4|  1|   0|  0|  0| 
-|Anthony Santander |DH        |      4|  2|   1|  1|  0| 
+|Taylor Ward       |OF        |      7|  3|   0|  0|  0| 
+|Anthony Santander |DH        |      6|  3|   2|  2|  0| 
 |Ceddanne Rafaela  |DH        |      3|  0|   0|  0|  0| 
-|Isaac Paredes     |DH        |      3|  0|   1|  0|  0| 
-|Luis Arraez       |DH        |      4|  2|   1|  0|  0| 
-|Edouard Julien    |BAT BENCH |      3|  2|   1|  0|  1| 
+|Isaac Paredes     |DH        |      5|  0|   2|  0|  0| 
+|Luis Arraez       |DH        |      5|  2|   1|  0|  0| 
+|Edouard Julien    |BAT BENCH |      6|  3|   1|  0|  2| 
 |Trea Turner       |BAT BENCH |     **| **|  **| **| **| 
-|Yainer Diaz       |BAT BENCH |      3|  0|   1|  0|  0| 
+|Yainer Diaz       |BAT BENCH |      5|  0|   2|  0|  0| 
 
 
 * * *
@@ -34,7 +34,7 @@
 |:-----------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
 |Ben Lively        |SP          |  1| 5.667|  3|  4.765|     11| 1.941|  2|  0|  0| 
 |Brady Singer      |SP          |  1| 5.333|  1|  1.688|      7| 1.312|  4|  1|  0| 
-|Kevin Gausman     |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Kevin Gausman     |SP          |  1| 3.000|  6| 18.000|     12| 4.000|  6|  0|  0| 
 |Logan Webb        |SP          |  1| 7.000|  2|  2.571|     10| 1.429|  6|  0|  0| 
 |MacKenzie Gore    |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Paul Blackburn    |SP          |  1| 4.000|  7| 15.750|     10| 2.500|  5|  0|  0| 
