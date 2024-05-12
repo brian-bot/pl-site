@@ -45,6 +45,7 @@
 |Kyle Harrison           |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Luis Gil                |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Simeon Woods Richardson |OP          |  1| 4.333|  5| 10.385|      9| 2.077|  2|  0|  0| 
+|Taj Bradley             |OP          |  1| 6.000|  1|  1.500|      6| 1.000|  7|  0|  0| 
 |Bobby Miller            |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Joe Musgrove            |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Nathan Eovaldi          |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
