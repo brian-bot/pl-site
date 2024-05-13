@@ -5,21 +5,21 @@
  
 |players                      |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez               |C         |      5|  0|   2|  0|  0| 
+|Salvador Perez               |C         |      7|  1|   2|  0|  0| 
 |Christian Encarnacion-Strand |1B        |     **| **|  **| **| **| 
-|Andrés Giménez               |2B        |      0|  0|   1|  0|  0| 
-|José Ramírez                 |3B        |      3|  2|   3|  2|  0| 
+|Andrés Giménez               |2B        |      1|  1|   2|  1|  0| 
+|José Ramírez                 |3B        |      4|  3|   3|  2|  0| 
 |Amed Rosario                 |SS        |      1|  0|   0|  0|  0| 
-|Vaughn Grissom               |MI        |      1|  0|   0|  0|  0| 
-|Jake Cronenworth             |CI        |      3|  0|   1|  0|  0| 
-|Adolis García                |OF        |      3|  0|   1|  0|  0| 
-|Brent Rooker                 |OF        |     10|  5|   4|  1|  1| 
-|Giancarlo Stanton            |OF        |      3|  1|   1|  1|  0| 
-|Nick Castellanos             |OF        |      6|  3|   1|  1|  0| 
-|Christian Yelich             |DH        |      5|  3|   2|  0|  1| 
-|Jeff McNeil                  |DH        |      2|  0|   0|  0|  0| 
+|Vaughn Grissom               |MI        |      2|  1|   0|  0|  0| 
+|Jake Cronenworth             |CI        |      4|  1|   2|  1|  0| 
+|Adolis García                |OF        |      4|  0|   2|  0|  0| 
+|Brent Rooker                 |OF        |     12|  6|   6|  2|  1| 
+|Giancarlo Stanton            |OF        |      4|  1|   1|  1|  0| 
+|Nick Castellanos             |OF        |      7|  4|   4|  2|  0| 
+|Christian Yelich             |DH        |      8|  4|   2|  0|  1| 
+|Jeff McNeil                  |DH        |      3|  1|   0|  0|  0| 
 |Shohei Ohtani                |DH        |      3|  1|   0|  0|  0| 
-|Tommy Pham                   |DH        |      7|  1|   3|  0|  1| 
+|Tommy Pham                   |DH        |      8|  1|   3|  0|  1| 
 |Francisco Alvarez            |BAT BENCH |     **| **|  **| **| **| 
 |Masataka Yoshida             |BAT BENCH |     **| **|  **| **| **| 
 |Mike Trout                   |BAT BENCH |     **| **|  **| **| **| 
@@ -33,12 +33,12 @@
 |players            |position    |  g|    ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:------------------|:-----------|--:|-----:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Andrew Heaney      |SP          |  1| 5.000|  2| 3.600|      8| 1.600|  8|  0|  0| 
-|Brayan Bello       |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Brayan Bello       |SP          |  1| 5.000|  2| 3.600|      6| 1.200|  1|  1|  0| 
 |José Berríos       |SP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Tyler Glasnow      |SP          |  1| 7.000|  1| 1.286|      3| 0.429| 10|  0|  0| 
 |Yoshinobu Yamamoto |SP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Yu Darvish         |SP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Alexis Díaz        |RP          |  1| 1.000|  0| 0.000|      1| 1.000|  2|  0|  1| 
+|Yu Darvish         |SP          |  1| 7.000|  0| 0.000|      3| 0.429|  7|  1|  0| 
+|Alexis Díaz        |RP          |  2| 2.000|  0| 0.000|      2| 1.000|  2|  0|  1| 
 |Carlos Estévez     |RP          |  2| 2.000|  2| 9.000|      3| 1.500|  3|  0|  1| 
 |Brandon Pfaadt     |OP          |  1| 6.000|  3| 4.500|      7| 1.167|  0|  0|  0| 
 |Dane Dunning       |OP          | **|    **| **|    **|     **|    **| **| **| **| 
