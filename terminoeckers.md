@@ -6,24 +6,24 @@
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
 |Danny Jansen          |C         |      4|  3|   3|  1|  0| 
-|Freddie Freeman       |1B        |      7|  4|   2|  1|  0| 
-|Gleyber Torres        |2B        |      5|  1|   3|  1|  0| 
-|Max Muncy             |3B        |      3|  2|   0|  0|  0| 
-|Willy Adames          |SS        |      7|  4|   4|  0|  2| 
-|Maikel Garcia         |MI        |      8|  4|   2|  0|  1| 
+|Freddie Freeman       |1B        |      9|  6|   3|  1|  0| 
+|Gleyber Torres        |2B        |      7|  2|   3|  1|  0| 
+|Max Muncy             |3B        |      3|  2|   1|  0|  0| 
+|Willy Adames          |SS        |      8|  4|   4|  0|  2| 
+|Maikel Garcia         |MI        |      9|  4|   3|  0|  2| 
 |Vladimir Guerrero Jr. |CI        |     15|  3|   4|  0|  1| 
-|Cody Bellinger        |OF        |      8|  2|   3|  1|  0| 
-|Kyle Tucker           |OF        |     10|  4|   5|  3|  1| 
-|Michael Harris II     |OF        |      6|  1|   1|  0|  0| 
+|Cody Bellinger        |OF        |      9|  2|   3|  1|  0| 
+|Kyle Tucker           |OF        |     12|  4|   5|  3|  1| 
+|Michael Harris II     |OF        |      8|  2|   2|  1|  0| 
 |Seiya Suzuki          |OF        |      4|  2|   1|  0|  1| 
-|Alex Verdugo          |DH        |      1|  0|   0|  0|  0| 
-|Jonny DeLuca          |DH        |      4|  1|   0|  0|  0| 
-|Jurickson Profar      |DH        |      5|  1|   2|  1|  0| 
+|Alex Verdugo          |DH        |      3|  0|   2|  0|  0| 
+|Jonny DeLuca          |DH        |      6|  1|   0|  0|  0| 
+|Jurickson Profar      |DH        |      9|  2|   2|  1|  0| 
 |Michael Busch         |DH        |      5|  3|   1|  0|  1| 
 |Ian Happ              |BAT BENCH |      5|  2|   1|  0|  0| 
-|Jacob Young           |BAT BENCH |      4|  0|   1|  0|  1| 
+|Jacob Young           |BAT BENCH |      5|  0|   1|  0|  1| 
 |Tyler Black           |BAT BENCH |     **| **|  **| **| **| 
-|Zack Gelof            |BAT BENCH |     **| **|  **| **| **| 
+|Zack Gelof            |BAT BENCH |      0|  0|   0|  0|  0| 
 
 
 * * *
@@ -41,7 +41,7 @@
 |Seth Lugo               |SP          |  1| 8.000|  1|  1.125|      5| 0.625| 12|  1|  0| 
 |Edwin Díaz              |RP          |  2| 2.000|  2|  9.000|      4| 2.000|  3|  1|  0| 
 |Jason Foley             |RP          |  4| 3.667|  0|  0.000|      2| 0.545|  3|  0|  1| 
-|James McArthur          |OP          |  2| 1.667|  1|  5.400|      1| 0.600|  0|  0|  2| 
+|James McArthur          |OP          |  3| 3.000|  2|  6.000|      3| 1.000|  3|  0|  3| 
 |Kyle Harrison           |OP          |  1| 5.000|  3|  5.400|      8| 1.600|  5|  0|  0| 
 |Luis Gil                |OP          |  1| 6.000|  0|  0.000|      5| 0.833|  3|  1|  0| 
 |Simeon Woods Richardson |OP          |  1| 4.333|  5| 10.385|      9| 2.077|  2|  0|  0| 
