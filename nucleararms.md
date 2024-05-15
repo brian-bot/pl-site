@@ -15,11 +15,11 @@
 |Adolis García                |OF        |      4|  0|   2|  0|  0| 
 |Brent Rooker                 |OF        |     15|  7|   6|  2|  1| 
 |Giancarlo Stanton            |OF        |      4|  1|   1|  1|  0| 
-|Nick Castellanos             |OF        |      8|  4|   4|  2|  0| 
+|Nick Castellanos             |OF        |     10|  5|   4|  2|  0| 
 |Christian Yelich             |DH        |      9|  4|   2|  0|  1| 
-|Jeff McNeil                  |DH        |      3|  1|   0|  0|  0| 
+|Jeff McNeil                  |DH        |      4|  1|   0|  0|  0| 
 |Shohei Ohtani                |DH        |      5|  1|   1|  0|  0| 
-|Tommy Pham                   |DH        |      8|  1|   3|  0|  1| 
+|Tommy Pham                   |DH        |     10|  1|   4|  0|  1| 
 |Francisco Alvarez            |BAT BENCH |     **| **|  **| **| **| 
 |Masataka Yoshida             |BAT BENCH |     **| **|  **| **| **| 
 |Mike Trout                   |BAT BENCH |     **| **|  **| **| **| 

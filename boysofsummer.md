@@ -44,7 +44,7 @@
 |Hayden Wesneski   |OP          |  2|  9.000|  5|  5.000|     12| 1.333|  5|  0|  0| 
 |Mason Miller      |OP          |  1|  2.000|  0|  0.000|      0| 0.000|  4|  0|  0| 
 |Reed Garrett      |OP          |  1|  2.000|  0|  0.000|      2| 1.000|  3|  0|  0| 
-|Trevor Williams   |OP          | **|     **| **|     **|     **|    **| **| **| **| 
+|Trevor Williams   |OP          |  1|  5.000|  1|  1.800|      5| 1.000|  2|  0|  0| 
 |Blake Snell       |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Grayson Rodriguez |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Walker Buehler    |PITCH BENCH |  1|  3.333|  3|  8.100|      7| 2.100|  2|  0|  0| 

@@ -12,7 +12,7 @@
 |Oneil Cruz       |SS        |     11|  7|   6|  2|  1| 
 |Luis Rengifo     |MI        |     **| **|  **| **| **| 
 |Josh Rojas       |CI        |      7|  0|   0|  0|  1| 
-|Eloy Jiménez     |OF        |      5|  0|   0|  0|  0| 
+|Eloy Jiménez     |OF        |      7|  1|   1|  1|  0| 
 |Jarren Duran     |OF        |      4|  1|   1|  0|  0| 
 |Jesse Winker     |OF        |      2|  0|   0|  0|  0| 
 |Julio Rodríguez  |OF        |      8|  4|   2|  1|  1| 

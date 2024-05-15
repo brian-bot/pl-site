@@ -16,8 +16,8 @@
 |Cedric Mullins    |OF        |      0|  0|   1|  0|  0| 
 |Teoscar Hernández |OF        |      3|  2|   7|  2|  0| 
 |Tyler O'Neill     |OF        |      6|  2|   3|  1|  0| 
-|Alec Bohm         |DH        |      6|  2|   1|  0|  1| 
-|Bryan De La Cruz  |DH        |      7|  2|   2|  1|  0| 
+|Alec Bohm         |DH        |      9|  2|   3|  0|  1| 
+|Bryan De La Cruz  |DH        |      7|  3|   2|  1|  0| 
 |Jeremy Peña       |DH        |     13|  5|   3|  1|  1| 
 |Ozzie Albies      |DH        |      5|  1|   1|  1|  0| 
 |Jack Suwinski     |BAT BENCH |      6|  1|   2|  1|  2| 

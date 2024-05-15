@@ -14,11 +14,11 @@
 |Josh Naylor       |CI        |      7|  4|   2|  2|  0| 
 |Evan Carter       |OF        |      1|  1|   1|  0|  0| 
 |Jazz Chisholm Jr. |OF        |      9|  1|   1|  0|  0| 
-|Kyle Schwarber    |OF        |      2|  0|   3|  0|  0| 
+|Kyle Schwarber    |OF        |      5|  2|   3|  0|  0| 
 |Randy Arozarena   |OF        |      7|  2|   4|  1|  1| 
 |Josh Lowe         |DH        |      5|  1|   0|  0|  0| 
 |Kyle Manzardo     |DH        |      4|  0|   0|  0|  0| 
-|Starling Marte    |DH        |      3|  2|   0|  0|  0| 
+|Starling Marte    |DH        |      5|  2|   0|  0|  0| 
 |Ty France         |DH        |      4|  3|   4|  1|  0| 
 |Lane Thomas       |BAT BENCH |     **| **|  **| **| **| 
 
@@ -36,7 +36,7 @@
 |Tanner Bibee       |SP          |  2| 9.333|  4|  3.857|     10| 1.071|  9|  0|  0| 
 |Tarik Skubal       |SP          |  1| 6.333|  2|  2.842|      9| 1.421|  7|  1|  0| 
 |Zack Wheeler       |SP          |  1| 4.000|  6| 13.500|      9| 2.250|  2|  0|  0| 
-|Alex Lange         |RP          |  2| 1.333|  4| 27.000|      8| 6.000|  1|  0|  0| 
+|Alex Lange         |RP          |  3| 2.333|  4| 15.429|      9| 3.857|  2|  0|  0| 
 |Kirby Yates        |RP          |  1| 1.000|  1|  9.000|      3| 3.000|  1|  0|  1| 
 |Christian Scott    |OP          |  1| 6.000|  3|  4.500|      8| 1.333|  8|  0|  0| 
 |Héctor Neris       |OP          |  1| 1.000|  0|  0.000|      3| 3.000|  1|  1|  0| 
