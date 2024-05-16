@@ -5,22 +5,22 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Jonah Heim       |C         |      7|  2|   4|  0|  0| 
-|Matt Olson       |1B        |     10|  3|   6|  2|  0| 
-|Marcus Semien    |2B        |     12|  5|   2|  1|  0| 
-|Gunnar Henderson |3B        |      7|  4|   3|  2|  0| 
+|Jonah Heim       |C         |      9|  2|   4|  0|  0| 
+|Matt Olson       |1B        |     11|  3|   6|  2|  0| 
+|Marcus Semien    |2B        |     13|  6|   4|  2|  0| 
+|Gunnar Henderson |3B        |      8|  4|   3|  2|  0| 
 |Oneil Cruz       |SS        |     12|  7|   6|  2|  1| 
 |Luis Rengifo     |MI        |     **| **|  **| **| **| 
-|Josh Rojas       |CI        |      8|  0|   0|  0|  1| 
-|Eloy Jiménez     |OF        |      9|  1|   1|  1|  0| 
-|Jarren Duran     |OF        |      5|  1|   1|  0|  0| 
-|Jesse Winker     |OF        |      2|  0|   0|  0|  0| 
-|Julio Rodríguez  |OF        |     10|  4|   2|  1|  1| 
-|Colton Cowser    |DH        |      6|  1|   1|  0|  0| 
-|Jackson Chourio  |DH        |      2|  2|   0|  0|  0| 
+|Josh Rojas       |CI        |      9|  0|   1|  0|  1| 
+|Eloy Jiménez     |OF        |     10|  1|   1|  1|  1| 
+|Jarren Duran     |OF        |      8|  2|   1|  0|  0| 
+|Jesse Winker     |OF        |      3|  0|   0|  0|  0| 
+|Julio Rodríguez  |OF        |     12|  4|   2|  1|  1| 
+|Colton Cowser    |DH        |      8|  1|   1|  0|  0| 
+|Jackson Chourio  |DH        |      4|  4|   2|  1|  0| 
 |Jung Hoo Lee     |DH        |      1|  1|   1|  0|  0| 
 |Michael Conforto |DH        |      9|  3|   2|  2|  0| 
-|J.D. Martinez    |BAT BENCH |      6|  2|   3|  1|  0| 
+|J.D. Martinez    |BAT BENCH |      8|  3|   4|  2|  0| 
 |Jorge Soler      |BAT BENCH |     **| **|  **| **| **| 
 |Royce Lewis      |BAT BENCH |     **| **|  **| **| **| 
 
@@ -35,9 +35,9 @@
 |Cole Ragans     |SP          |  1|  6.333|  7|  9.947|      9| 1.421|  3|  0|  0| 
 |Hunter Greene   |SP          |  2| 12.000|  5|  3.750|     15| 1.250| 11|  1|  0| 
 |Jameson Taillon |SP          |  1|  4.000|  2|  4.500|     10| 2.500|  2|  0|  0| 
-|Marcus Stroman  |SP          |  1|  5.667|  4|  6.353|     11| 1.941|  5|  0|  0| 
-|Yusei Kikuchi   |SP          |  1|  8.000|  2|  2.250|      4| 0.500|  3|  0|  0| 
-|Jordan Romano   |RP          |  3|  4.000|  1|  2.250|      5| 1.250|  3|  1|  2| 
+|Marcus Stroman  |SP          |  2| 11.667|  4|  3.086|     16| 1.371|  7|  1|  0| 
+|Yusei Kikuchi   |SP          |  2| 12.333|  3|  2.189|     11| 0.892| 12|  0|  0| 
+|Jordan Romano   |RP          |  4|  4.000|  3|  6.750|      7| 1.750|  3|  1|  2| 
 |Raisel Iglesias |RP          |  2|  2.000|  2|  9.000|      5| 2.500|  1|  0|  1| 
 |Craig Kimbrel   |OP          |  4|  3.667|  2|  4.909|      3| 0.818|  4|  1|  0| 
 |Cristian Javier |OP          |  1|  1.333|  7| 47.250|      9| 6.750|  0|  0|  0| 
