@@ -6,17 +6,17 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Adley Rutschman    |C         |      8|  4|   5|  4|  0| 
-|Pete Alonso        |1B        |      9|  3|   3|  0|  0| 
+|Pete Alonso        |1B        |     11|  5|   4|  1|  0| 
 |Nico Hoerner       |2B        |     10|  4|   2|  1|  1| 
-|Elly De La Cruz    |3B        |     11|  5|   2|  1|  7| 
+|Elly De La Cruz    |3B        |     16|  8|   3|  1| 11| 
 |CJ Abrams          |SS        |      7|  2|   1|  0|  0| 
 |Ketel Marte        |MI        |      8|  4|   6|  2|  0| 
 |Vinnie Pasquantino |CI        |      7|  3|   4|  1|  0| 
-|Juan Soto          |OF        |      9|  4|   6|  1|  0| 
+|Juan Soto          |OF        |     10|  5|   6|  1|  0| 
 |Lars Nootbaar      |OF        |     12|  2|   4|  1|  0| 
 |Marcell Ozuna      |OF        |     14|  3|   7|  2|  0| 
 |Riley Greene       |OF        |      5|  1|   2|  0|  0| 
-|Anthony Rizzo      |DH        |      8|  6|   2|  1|  0| 
+|Anthony Rizzo      |DH        |      8|  6|   3|  1|  0| 
 |Jake Burger        |DH        |      3|  1|   0|  0|  0| 
 |Jo Adell           |DH        |      8|  6|   6|  3|  0| 
 |Wenceel Pérez      |DH        |      7|  2|   0|  0|  1| 

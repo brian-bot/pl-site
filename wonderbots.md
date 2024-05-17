@@ -7,18 +7,18 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |William Contreras |C         |     20|  9|   7|  1|  0| 
 |Nathaniel Lowe    |1B        |     14|  4|   5|  1|  0| 
-|Mookie Betts      |2B        |     12|  5|   1|  1|  0| 
+|Mookie Betts      |2B        |     13|  6|   1|  1|  0| 
 |Manny Machado     |3B        |      4|  1|   1|  0|  1| 
 |Corey Seager      |SS        |     12|  2|   3|  2|  0| 
 |Ezequiel Tovar    |MI        |     13|  5|   5|  2|  1| 
 |Ha-Seong Kim      |CI        |      8|  0|   0|  0|  1| 
-|Bryan Reynolds    |OF        |     11|  2|   2|  1|  0| 
+|Bryan Reynolds    |OF        |     12|  2|   3|  1|  0| 
 |Cedric Mullins    |OF        |      0|  0|   1|  0|  0| 
-|Teoscar Hernández |OF        |      5|  3|  10|  2|  0| 
+|Teoscar Hernández |OF        |      6|  3|  10|  2|  0| 
 |Tyler O'Neill     |OF        |      8|  3|   3|  1|  0| 
-|Alec Bohm         |DH        |     11|  3|   3|  0|  1| 
+|Alec Bohm         |DH        |     13|  3|   4|  0|  1| 
 |Bryan De La Cruz  |DH        |      8|  4|   4|  2|  0| 
-|Jeremy Peña       |DH        |     15|  6|   3|  1|  1| 
+|Jeremy Peña       |DH        |     15|  7|   4|  1|  1| 
 |Ozzie Albies      |DH        |      9|  3|   1|  1|  0| 
 |Jack Suwinski     |BAT BENCH |      6|  1|   2|  1|  2| 
 |Nolan Jones       |BAT BENCH |     **| **|  **| **| **| 
@@ -38,7 +38,7 @@
 |Logan Gilbert    |SP          |  2| 10.667| 11|  9.281|     18| 1.687| 11|  0|  0| 
 |Sonny Gray       |SP          |  2| 11.000| 11|  9.000|     18| 1.636| 15|  1|  0| 
 |Clay Holmes      |RP          |  2|  2.000|  0|  0.000|      3| 1.500|  3|  0|  1| 
-|David Bednar     |RP          |  3|  3.000|  1|  3.000|      4| 1.333|  2|  0|  2| 
+|David Bednar     |RP          |  4|  4.000|  1|  2.250|      4| 1.000|  3|  0|  3| 
 |Jon Gray         |OP          |  2| 12.333|  1|  0.730|     15| 1.216| 10|  1|  0| 
 |JP Sears         |OP          |  2| 10.667|  5|  4.219|     15| 1.406|  5|  1|  0| 
 |Nick Pivetta     |OP          |  2|  9.667|  7|  6.517|     12| 1.241|  9|  0|  0| 

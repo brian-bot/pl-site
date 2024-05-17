@@ -10,15 +10,15 @@
 |Andrés Giménez               |2B        |      8|  4|   5|  1|  1| 
 |José Ramírez                 |3B        |     12|  3|   7|  2|  2| 
 |Amed Rosario                 |SS        |      5|  1|   3|  0|  0| 
-|Vaughn Grissom               |MI        |      3|  1|   0|  0|  0| 
+|Vaughn Grissom               |MI        |      4|  1|   0|  0|  0| 
 |Jake Cronenworth             |CI        |      6|  1|   2|  1|  0| 
 |Adolis García                |OF        |      8|  3|   5|  2|  0| 
 |Brent Rooker                 |OF        |     16|  7|   7|  2|  1| 
 |Giancarlo Stanton            |OF        |      8|  2|   3|  2|  0| 
-|Nick Castellanos             |OF        |     11|  5|   4|  2|  0| 
+|Nick Castellanos             |OF        |     11|  6|   5|  2|  0| 
 |Christian Yelich             |DH        |     11|  4|   3|  0|  1| 
-|Jeff McNeil                  |DH        |      5|  2|   1|  0|  0| 
-|Shohei Ohtani                |DH        |     11|  2|   3|  1|  0| 
+|Jeff McNeil                  |DH        |      6|  2|   1|  0|  0| 
+|Shohei Ohtani                |DH        |     12|  2|   3|  1|  2| 
 |Tommy Pham                   |DH        |     14|  2|   5|  0|  1| 
 |Francisco Alvarez            |BAT BENCH |     **| **|  **| **| **| 
 |Masataka Yoshida             |BAT BENCH |     **| **|  **| **| **| 
@@ -35,7 +35,7 @@
 |Andrew Heaney      |SP          |  1|  5.000|  2| 3.600|      8| 1.600|  8|  0|  0| 
 |Brayan Bello       |SP          |  1|  5.000|  2| 3.600|      6| 1.200|  1|  1|  0| 
 |José Berríos       |SP          |  1|  7.000|  2| 2.571|      4| 0.571|  4|  0|  0| 
-|Tyler Glasnow      |SP          |  1|  7.000|  1| 1.286|      3| 0.429| 10|  0|  0| 
+|Tyler Glasnow      |SP          |  2| 12.000|  5| 3.750|     10| 0.833| 18|  0|  0| 
 |Yoshinobu Yamamoto |SP          |  1|  5.667|  4| 6.353|      7| 1.235|  6|  0|  0| 
 |Yu Darvish         |SP          |  1|  7.000|  0| 0.000|      3| 0.429|  7|  1|  0| 
 |Alexis Díaz        |RP          |  3|  2.333|  2| 7.714|      5| 2.143|  2|  0|  1| 

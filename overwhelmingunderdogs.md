@@ -7,10 +7,10 @@
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |MJ Melendez        |C         |      3|  0|   0|  0|  0| 
 |Christian Walker   |1B        |     12|  4|   4|  1|  1| 
-|Jose Altuve        |2B        |      8|  3|   2|  0|  0| 
+|Jose Altuve        |2B        |     10|  3|   2|  0|  0| 
 |Jorge Polanco      |3B        |      5|  1|   0|  0|  0| 
 |Xander Bogaerts    |SS        |      5|  2|   2|  2|  0| 
-|Anthony Volpe      |MI        |     13|  4|   6|  1|  1| 
+|Anthony Volpe      |MI        |     15|  5|   7|  2|  2| 
 |Josh Bell          |CI        |     11|  3|   6|  1|  0| 
 |Corbin Carroll     |OF        |      7|  3|   2|  0|  0| 
 |Fernando Tatis Jr. |OF        |     11|  1|   2|  1|  0| 
@@ -33,7 +33,7 @@
 |players         |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:---------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Bryce Miller    |SP          |  1|  6.000|  2|  3.000|      7| 1.167|  9|  0|  0| 
-|Justin Steele   |SP          |  1|  4.000|  6| 13.500|      8| 2.000|  3|  0|  0| 
+|Justin Steele   |SP          |  2|  9.667| 11| 10.241|     15| 1.552| 10|  0|  0| 
 |Matt Waldron    |SP          |  1|  5.333|  2|  3.375|      4| 0.750|  6|  0|  0| 
 |Max Fried       |SP          |  1|  7.000|  0|  0.000|      3| 0.429|  5|  1|  0| 
 |Nick Lodolo     |SP          |  1|  6.000|  4|  6.000|      6| 1.000|  6|  0|  0| 
@@ -42,7 +42,7 @@
 |Ryan Helsley    |RP          |  2|  2.000|  0|  0.000|      1| 0.500|  4|  0|  2| 
 |Aaron Civale    |OP          |  2|  9.667|  5|  4.655|     12| 1.241| 10|  0|  0| 
 |David Robertson |OP          |  3|  3.000|  4| 12.000|      5| 1.667|  7|  1|  0| 
-|José Alvarado   |OP          |  3|  3.000|  0|  0.000|      0| 0.000|  1|  0|  1| 
+|José Alvarado   |OP          |  4|  4.000|  1|  2.250|      2| 0.500|  3|  0|  1| 
 |Kyle Finnegan   |OP          |  2|  2.000|  0|  0.000|      3| 1.500|  2|  0|  1| 
 |Michael Wacha   |OP          |  2| 12.000|  3|  2.250|     13| 1.083| 13|  2|  0| 
 |Jesús Luzardo   |PITCH BENCH |  1|  5.667|  2|  3.176|      5| 0.882|  8|  0|  0| 
