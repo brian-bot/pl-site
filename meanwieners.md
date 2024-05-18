@@ -5,23 +5,23 @@
  
 |players         |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------|:---------|------:|--:|---:|--:|--:| 
-|Logan O'Hoppe   |C         |      7|  3|   6|  1|  0| 
+|Logan O'Hoppe   |C         |     10|  5|   6|  1|  0| 
 |Rhys Hoskins    |1B        |      8|  2|   8|  2|  0| 
-|Ryan McMahon    |2B        |     12|  6|   3|  1|  0| 
-|Jordan Westburg |3B        |     12|  4|   5|  1|  1| 
+|Ryan McMahon    |2B        |     15|  7|   5|  1|  0| 
+|Jordan Westburg |3B        |     12|  4|   6|  1|  1| 
 |José Caballero  |SS        |      7|  3|   0|  0|  3| 
 |Luis García Jr. |MI        |      4|  1|   1|  0|  0| 
-|Ryan O'Hearn    |CI        |      8|  0|   2|  0|  0| 
-|Aaron Judge     |OF        |     20|  8|   8|  4|  0| 
-|Andy Pages      |OF        |      7|  2|   0|  0|  1| 
-|Daulton Varsho  |OF        |      6|  2|   3|  1|  1| 
+|Ryan O'Hearn    |CI        |      9|  1|   2|  0|  0| 
+|Aaron Judge     |OF        |     24| 10|   9|  5|  0| 
+|Andy Pages      |OF        |      8|  3|   0|  0|  1| 
+|Daulton Varsho  |OF        |      7|  3|   3|  1|  1| 
 |Yordan Alvarez  |OF        |     11|  4|   2|  1|  0| 
 |Ryan Jeffers    |DH        |      7|  4|   5|  3|  0| 
 |TJ Friedl       |DH        |      6|  2|   2|  0|  2| 
 |Willi Castro    |DH        |     10|  2|   2|  1|  1| 
 |Wilyer Abreu    |DH        |      6|  3|   2|  2|  0| 
 |Luis Robert Jr. |BAT BENCH |     **| **|  **| **| **| 
-|Nolan Gorman    |BAT BENCH |     12|  5|   3|  1|  0| 
+|Nolan Gorman    |BAT BENCH |     13|  6|   4|  2|  0| 
 |Wyatt Langford  |BAT BENCH |     **| **|  **| **| **| 
 
 * * *
@@ -37,15 +37,15 @@
 |Joe Ryan        |SP          |  2| 12.333|  5| 3.649|     13| 1.054| 12|  1|  0| 
 |Luis Castillo   |SP          |  1|  6.000|  2| 3.000|      7| 1.167|  8|  1|  0| 
 |Zach Eflin      |SP          |  1|  5.000|  3| 5.400|      6| 1.200|  2|  1|  0| 
-|Andrés Muñoz    |RP          |  3|  4.000|  0| 0.000|      1| 0.250|  6|  0|  2| 
-|Jeff Hoffman    |RP          |  3|  3.000|  0| 0.000|      3| 1.000|  3|  0|  0| 
+|Andrés Muñoz    |RP          |  3|  4.000|  0| 0.000|      2| 0.500|  6|  0|  2| 
+|Jeff Hoffman    |RP          |  4|  4.000|  0| 0.000|      4| 1.000|  3|  0|  1| 
 |Garrett Crochet |OP          |  2| 11.000|  0| 0.000|     11| 1.000| 17|  2|  0| 
 |Gavin Stone     |OP          |  2| 13.000|  2| 1.385|     14| 1.077|  6|  2|  0| 
 |Jared Jones     |OP          |  2| 12.000|  5| 3.750|     16| 1.333| 11|  1|  0| 
 |Jason Adam      |OP          |  5|  4.000|  0| 0.000|      4| 1.000|  4|  0|  1| 
 |Ronel Blanco    |OP          |  2|  8.667|  2| 2.077|     13| 1.500|  9|  1|  0| 
 |Evan Phillips   |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
-|Frankie Montas  |PITCH BENCH |  1|  4.667|  4| 7.714|      8| 1.714|  3|  0|  0| 
+|Frankie Montas  |PITCH BENCH |  2|  9.667|  7| 6.517|     15| 1.552|  4|  0|  0| 
 |Trevor Rogers   |PITCH BENCH |  2|  8.333|  4| 4.320|     16| 1.920|  9|  1|  0| 
 
 

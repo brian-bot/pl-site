@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |      9|  3|   3|  0|  0| 
-|Yandy Díaz        |1B        |     15|  7|   6|  2|  0| 
-|Thairo Estrada    |2B        |      8|  2|   1|  1|  0| 
-|Rafael Devers     |3B        |     11|  5|   4|  2|  0| 
-|Bobby Witt Jr.    |SS        |      8|  6|   4|  1|  2| 
-|Carlos Correa     |MI        |     10|  6|   2|  1|  0| 
-|Ryan Mountcastle  |CI        |      6|  3|   2|  1|  0| 
-|Christopher Morel |OF        |      7|  1|   5|  1|  0| 
-|Kerry Carpenter   |OF        |      6|  5|   3|  2|  0| 
-|Richie Palacios   |OF        |      6|  2|   3|  0|  1| 
-|Taylor Ward       |OF        |     13|  6|   2|  1|  0| 
-|Anthony Santander |DH        |      9|  4|   2|  2|  0| 
+|Will Smith        |C         |     11|  3|   4|  0|  0| 
+|Yandy Díaz        |1B        |     17|  7|   7|  2|  0| 
+|Thairo Estrada    |2B        |     11|  5|   4|  2|  0| 
+|Rafael Devers     |3B        |     12|  6|   6|  3|  0| 
+|Bobby Witt Jr.    |SS        |      9|  7|   4|  1|  2| 
+|Carlos Correa     |MI        |     11|  6|   2|  1|  0| 
+|Ryan Mountcastle  |CI        |      6|  4|   2|  1|  0| 
+|Christopher Morel |OF        |      9|  1|   7|  1|  0| 
+|Kerry Carpenter   |OF        |      8|  6|   7|  2|  0| 
+|Richie Palacios   |OF        |      7|  3|   5|  1|  1| 
+|Taylor Ward       |OF        |     15|  7|   3|  2|  0| 
+|Anthony Santander |DH        |     10|  5|   2|  2|  0| 
 |Ceddanne Rafaela  |DH        |      6|  1|   3|  1|  0| 
-|Isaac Paredes     |DH        |     12|  0|   5|  0|  0| 
-|Luis Arraez       |DH        |      9|  2|   3|  0|  1| 
+|Isaac Paredes     |DH        |     15|  1|   5|  0|  0| 
+|Luis Arraez       |DH        |     11|  3|   3|  0|  1| 
 |Edouard Julien    |BAT BENCH |     10|  4|   1|  0|  3| 
 |Trea Turner       |BAT BENCH |     **| **|  **| **| **| 
-|Yainer Diaz       |BAT BENCH |     10|  2|   6|  0|  0| 
+|Yainer Diaz       |BAT BENCH |     11|  2|   6|  0|  0| 
 
 
 * * *
@@ -39,7 +39,7 @@
 |MacKenzie Gore    |SP          |  1|  6.000|  2|  3.000|      8| 1.333|  9|  0|  0| 
 |Paul Blackburn    |SP          |  1|  4.000|  7| 15.750|     10| 2.500|  5|  0|  0| 
 |Camilo Doval      |RP          |  4|  4.333|  2|  4.154|      7| 1.615|  6|  0|  1| 
-|Jhoan Duran       |RP          |  3|  3.000|  0|  0.000|      1| 0.333|  1|  0|  1| 
+|Jhoan Duran       |RP          |  4|  4.000|  1|  2.250|      3| 0.750|  2|  0|  1| 
 |Bryse Wilson      |OP          |  1|  4.000|  2|  4.500|     10| 2.500|  1|  0|  0| 
 |Hayden Wesneski   |OP          |  3| 10.333|  5|  4.355|     13| 1.258|  8|  0|  0| 
 |Mason Miller      |OP          |  2|  4.000|  0|  0.000|      1| 0.250|  9|  0|  0| 
