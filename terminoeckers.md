@@ -6,24 +6,24 @@
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
 |Danny Jansen          |C         |      8|  4|   3|  1|  0| 
-|Freddie Freeman       |1B        |     17| 10|   4|  1|  0| 
-|Gleyber Torres        |2B        |     12|  4|   4|  1|  1| 
+|Freddie Freeman       |1B        |     18| 11|   4|  1|  0| 
+|Gleyber Torres        |2B        |     14|  6|   4|  1|  1| 
 |Max Muncy             |3B        |      3|  2|   2|  0|  0| 
 |Willy Adames          |SS        |     10|  4|   4|  0|  3| 
-|Maikel Garcia         |MI        |     12|  7|   6|  1|  2| 
-|Vladimir Guerrero Jr. |CI        |     19|  5|   5|  0|  1| 
-|Cody Bellinger        |OF        |     16|  3|   4|  1|  0| 
-|Kyle Tucker           |OF        |     22|  7|   5|  3|  2| 
+|Maikel Garcia         |MI        |     14|  9|   8|  1|  3| 
+|Vladimir Guerrero Jr. |CI        |     21|  5|   5|  0|  1| 
+|Cody Bellinger        |OF        |     17|  3|   4|  1|  0| 
+|Kyle Tucker           |OF        |     24|  9|   9|  5|  2| 
 |Michael Harris II     |OF        |     10|  2|   2|  1|  1| 
-|Seiya Suzuki          |OF        |      8|  5|   2|  1|  1| 
-|Alex Verdugo          |DH        |      7|  3|   4|  0|  0| 
-|Jonny DeLuca          |DH        |     10|  3|   2|  1|  1| 
-|Jurickson Profar      |DH        |     12|  3|   3|  1|  1| 
-|Michael Busch         |DH        |     12|  6|   1|  0|  1| 
+|Seiya Suzuki          |OF        |     10|  6|   3|  1|  1| 
+|Alex Verdugo          |DH        |      8|  3|   4|  0|  0| 
+|Jonny DeLuca          |DH        |     11|  3|   2|  1|  2| 
+|Jurickson Profar      |DH        |     16|  5|   4|  1|  1| 
+|Michael Busch         |DH        |     13|  6|   1|  0|  1| 
 |Ian Happ              |BAT BENCH |      8|  4|   2|  1|  0| 
-|Jacob Young           |BAT BENCH |      7|  1|   1|  0|  2| 
+|Jacob Young           |BAT BENCH |      8|  1|   2|  0|  2| 
 |Tyler Black           |BAT BENCH |     **| **|  **| **| **| 
-|Zack Gelof            |BAT BENCH |      3|  1|   1|  0|  0| 
+|Zack Gelof            |BAT BENCH |      5|  1|   1|  0|  0| 
 
 
 * * *

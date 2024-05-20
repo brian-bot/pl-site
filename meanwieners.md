@@ -7,19 +7,19 @@
 |:---------------|:---------|------:|--:|---:|--:|--:| 
 |Logan O'Hoppe   |C         |     11|  5|   6|  1|  0| 
 |Rhys Hoskins    |1B        |      8|  2|   8|  2|  0| 
-|Ryan McMahon    |2B        |     17|  8|   5|  1|  0| 
-|Jordan Westburg |3B        |     14|  5|   6|  1|  1| 
+|Ryan McMahon    |2B        |     18|  9|   6|  2|  0| 
+|Jordan Westburg |3B        |     15|  6|   6|  1|  1| 
 |José Caballero  |SS        |     10|  3|   1|  0|  3| 
 |Luis García Jr. |MI        |      4|  1|   1|  0|  0| 
-|Ryan O'Hearn    |CI        |     10|  1|   3|  0|  0| 
-|Aaron Judge     |OF        |     26| 10|   9|  5|  0| 
-|Andy Pages      |OF        |      9|  3|   1|  0|  1| 
+|Ryan O'Hearn    |CI        |     11|  2|   4|  1|  0| 
+|Aaron Judge     |OF        |     27| 11|  11|  6|  0| 
+|Andy Pages      |OF        |     10|  4|   3|  1|  1| 
 |Daulton Varsho  |OF        |      8|  4|   5|  1|  1| 
-|Yordan Alvarez  |OF        |     12|  4|   2|  1|  0| 
-|Ryan Jeffers    |DH        |      8|  4|   5|  3|  0| 
+|Yordan Alvarez  |OF        |     15|  6|   2|  1|  1| 
+|Ryan Jeffers    |DH        |      9|  4|   5|  3|  0| 
 |TJ Friedl       |DH        |      6|  2|   2|  0|  2| 
-|Willi Castro    |DH        |     11|  3|   2|  1|  1| 
-|Wilyer Abreu    |DH        |      7|  3|   2|  2|  1| 
+|Willi Castro    |DH        |     12|  3|   2|  1|  1| 
+|Wilyer Abreu    |DH        |      9|  3|   3|  2|  1| 
 |Luis Robert Jr. |BAT BENCH |     **| **|  **| **| **| 
 |Nolan Gorman    |BAT BENCH |     15|  8|   6|  3|  0| 
 |Wyatt Langford  |BAT BENCH |     **| **|  **| **| **| 
@@ -31,8 +31,8 @@
  
 |players         |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:---------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Aaron Nola      |SP          |  2| 14.667|  4| 2.455|     13| 0.886| 15|  1|  0| 
-|Carlos Rodón    |SP          |  2| 12.333|  3| 2.189|     13| 1.054| 13|  2|  0| 
+|Aaron Nola      |SP          |  3| 21.667|  6| 2.492|     18| 0.831| 20|  2|  0| 
+|Carlos Rodón    |SP          |  3| 18.333|  5| 2.455|     19| 1.036| 19|  3|  0| 
 |Dylan Cease     |SP          |  2| 12.667|  3| 2.132|      9| 0.711| 20|  1|  0| 
 |Joe Ryan        |SP          |  2| 12.333|  5| 3.649|     13| 1.054| 12|  1|  0| 
 |Luis Castillo   |SP          |  2| 12.000|  4| 3.000|     15| 1.250| 10|  1|  0| 
