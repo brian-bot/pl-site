@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |     12|  3|   4|  0|  0| 
-|Yandy Díaz        |1B        |     23|  8|   7|  2|  0| 
+|Will Smith        |C         |     14|  4|   5|  1|  0| 
+|Yandy Díaz        |1B        |     24|  8|   7|  2|  0| 
 |Thairo Estrada    |2B        |     13|  8|   6|  2|  0| 
-|Rafael Devers     |3B        |     15|  9|   9|  5|  0| 
-|Bobby Witt Jr.    |SS        |     12|  9|   6|  1|  2| 
-|Carlos Correa     |MI        |     14|  6|   2|  1|  0| 
+|Rafael Devers     |3B        |     16| 10|  11|  6|  0| 
+|Bobby Witt Jr.    |SS        |     14|  9|   6|  1|  2| 
+|Carlos Correa     |MI        |     15|  7|   4|  2|  0| 
 |Ryan Mountcastle  |CI        |      6|  4|   2|  1|  0| 
 |Christopher Morel |OF        |     13|  1|   9|  1|  0| 
-|Kerry Carpenter   |OF        |      9|  6|   8|  2|  0| 
+|Kerry Carpenter   |OF        |     11|  8|  10|  3|  0| 
 |Richie Palacios   |OF        |      9|  4|   5|  1|  2| 
-|Taylor Ward       |OF        |     18|  8|   4|  3|  0| 
+|Taylor Ward       |OF        |     21|  9|   5|  3|  0| 
 |Anthony Santander |DH        |     10|  5|   2|  2|  0| 
-|Ceddanne Rafaela  |DH        |      6|  2|   3|  1|  1| 
+|Ceddanne Rafaela  |DH        |      7|  3|   5|  2|  1| 
 |Isaac Paredes     |DH        |     19|  2|   7|  1|  0| 
-|Luis Arraez       |DH        |     14|  4|   3|  0|  2| 
+|Luis Arraez       |DH        |     18|  4|   3|  0|  2| 
 |Edouard Julien    |BAT BENCH |     10|  4|   1|  0|  3| 
 |Trea Turner       |BAT BENCH |     **| **|  **| **| **| 
-|Yainer Diaz       |BAT BENCH |     11|  2|   6|  0|  0| 
+|Yainer Diaz       |BAT BENCH |     13|  4|   7|  0|  0| 
 
 
 * * *
@@ -32,7 +32,7 @@
  
 |players           |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Ben Lively        |SP          |  2| 10.667|  6|  5.062|     19| 1.781|  7|  1|  0| 
+|Ben Lively        |SP          |  3| 16.333|  7|  3.857|     25| 1.531| 14|  2|  0| 
 |Brady Singer      |SP          |  3| 16.333|  6|  3.306|     24| 1.469| 19|  2|  0| 
 |Kevin Gausman     |SP          |  2|  9.000|  9|  9.000|     21| 2.333| 12|  0|  0| 
 |Logan Webb        |SP          |  2| 13.000|  2|  1.385|     16| 1.231| 11|  1|  0| 
