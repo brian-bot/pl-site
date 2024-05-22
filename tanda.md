@@ -5,23 +5,23 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Jonah Heim       |C         |     11|  3|   5|  1|  0| 
+|Jonah Heim       |C         |     13|  3|   5|  1|  0| 
 |Matt Olson       |1B        |     17|  4|   9|  3|  0| 
-|Marcus Semien    |2B        |     17|  8|   6|  3|  0| 
+|Marcus Semien    |2B        |     18|  8|   7|  3|  0| 
 |Gunnar Henderson |3B        |     17|  9|  10|  6|  1| 
-|Oneil Cruz       |SS        |     13|  8|   6|  2|  1| 
-|Luis Rengifo     |MI        |      6|  1|   1|  0|  3| 
-|Josh Rojas       |CI        |     11|  0|   1|  0|  1| 
-|Eloy Jiménez     |OF        |     15|  1|   1|  1|  2| 
-|Jarren Duran     |OF        |     17|  6|   4|  1|  1| 
+|Oneil Cruz       |SS        |     16|  8|   7|  2|  1| 
+|Luis Rengifo     |MI        |      8|  2|   4|  1|  3| 
+|Josh Rojas       |CI        |     12|  1|   1|  0|  1| 
+|Eloy Jiménez     |OF        |     17|  2|   1|  1|  2| 
+|Jarren Duran     |OF        |     19|  8|   5|  2|  2| 
 |Jesse Winker     |OF        |      9|  3|   3|  2|  1| 
-|Julio Rodríguez  |OF        |     18|  6|   3|  1|  1| 
-|Colton Cowser    |DH        |     17|  3|   4|  0|  0| 
+|Julio Rodríguez  |OF        |     19|  6|   3|  1|  1| 
+|Colton Cowser    |DH        |     18|  3|   4|  0|  0| 
 |Jackson Chourio  |DH        |      9|  5|   2|  1|  0| 
 |Jung Hoo Lee     |DH        |      1|  1|   1|  0|  0| 
 |Michael Conforto |DH        |      9|  3|   2|  2|  0| 
-|J.D. Martinez    |BAT BENCH |     15|  4|   7|  2|  0| 
-|Jorge Soler      |BAT BENCH |      5|  2|   2|  0|  0| 
+|J.D. Martinez    |BAT BENCH |     16|  4|   7|  2|  0| 
+|Jorge Soler      |BAT BENCH |      6|  3|   2|  0|  0| 
 |Royce Lewis      |BAT BENCH |     **| **|  **| **| **| 
 
 * * *
@@ -36,11 +36,11 @@
 |Hunter Greene   |SP          |  3| 18.333|  7|  3.436|     21| 1.145| 19|  1|  0| 
 |Jameson Taillon |SP          |  2|  8.667|  5|  5.192|     18| 2.077|  6|  0|  0| 
 |Marcus Stroman  |SP          |  3| 19.000|  5|  2.368|     20| 1.053| 13|  1|  0| 
-|Yusei Kikuchi   |SP          |  2| 12.333|  3|  2.189|     11| 0.892| 12|  0|  0| 
+|Yusei Kikuchi   |SP          |  3| 18.333|  5|  2.455|     19| 1.036| 18|  0|  0| 
 |Jordan Romano   |RP          |  5|  4.333|  3|  6.231|      7| 1.615|  4|  1|  3| 
 |Raisel Iglesias |RP          |  4|  4.000|  2|  4.500|      7| 1.750|  2|  0|  2| 
 |Craig Kimbrel   |OP          |  5|  4.667|  2|  3.857|      3| 0.643|  6|  1|  1| 
-|Cristian Javier |OP          |  2|  7.333|  7|  8.591|     12| 1.636|  8|  1|  0| 
+|Cristian Javier |OP          |  3| 11.333| 11|  8.735|     23| 2.029|  9|  1|  0| 
 |Dean Kremer     |OP          |  2|  9.667|  8|  7.448|     17| 1.759| 12|  0|  0| 
 |Erick Fedde     |OP          |  3| 19.000|  5|  2.368|     17| 0.895| 11|  2|  0| 
 |Luis Severino   |OP          |  2| 11.667|  7|  5.400|     16| 1.371|  7|  0|  0| 
