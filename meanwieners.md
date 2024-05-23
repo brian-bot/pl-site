@@ -7,21 +7,21 @@
 |:---------------|:---------|------:|--:|---:|--:|--:| 
 |Logan O'Hoppe   |C         |     14|  6|   9|  2|  0| 
 |Rhys Hoskins    |1B        |      8|  2|   8|  2|  0| 
-|Ryan McMahon    |2B        |     19| 10|   8|  3|  0| 
-|Jordan Westburg |3B        |     16|  6|   6|  1|  1| 
-|José Caballero  |SS        |     11|  3|   1|  0|  3| 
-|Luis García Jr. |MI        |      6|  2|   4|  1|  0| 
-|Ryan O'Hearn    |CI        |     12|  2|   4|  1|  0| 
-|Aaron Judge     |OF        |     31| 13|  11|  6|  0| 
+|Ryan McMahon    |2B        |     21| 11|  10|  4|  0| 
+|Jordan Westburg |3B        |     18|  6|   6|  1|  1| 
+|José Caballero  |SS        |     13|  4|   3|  0|  4| 
+|Luis García Jr. |MI        |      8|  3|   4|  1|  0| 
+|Ryan O'Hearn    |CI        |     13|  2|   5|  1|  0| 
+|Aaron Judge     |OF        |     33| 15|  13|  7|  0| 
 |Andy Pages      |OF        |     10|  4|   3|  1|  1| 
-|Daulton Varsho  |OF        |     10|  6|   7|  2|  1| 
-|Yordan Alvarez  |OF        |     21|  7|   3|  2|  1| 
-|Ryan Jeffers    |DH        |     11|  5|   5|  3|  0| 
+|Daulton Varsho  |OF        |     13|  8|   9|  2|  1| 
+|Yordan Alvarez  |OF        |     22|  7|   3|  2|  1| 
+|Ryan Jeffers    |DH        |     12|  5|   6|  3|  1| 
 |TJ Friedl       |DH        |      6|  2|   2|  0|  2| 
-|Willi Castro    |DH        |     16|  6|   4|  2|  1| 
-|Wilyer Abreu    |DH        |     11|  4|   5|  2|  2| 
+|Willi Castro    |DH        |     17|  6|   4|  2|  1| 
+|Wilyer Abreu    |DH        |     14|  5|   7|  3|  2| 
 |Luis Robert Jr. |BAT BENCH |     **| **|  **| **| **| 
-|Nolan Gorman    |BAT BENCH |     18|  9|   7|  3|  1| 
+|Nolan Gorman    |BAT BENCH |     22| 11|  12|  5|  1| 
 |Wyatt Langford  |BAT BENCH |     **| **|  **| **| **| 
 
 * * *
@@ -41,7 +41,7 @@
 |Jeff Hoffman    |RP          |  5|  4.667|  1| 1.929|      7| 1.500|  4|  0|  1| 
 |Garrett Crochet |OP          |  3| 17.000|  0| 0.000|     14| 0.824| 21|  3|  0| 
 |Gavin Stone     |OP          |  3| 19.000|  6| 2.842|     23| 1.211| 11|  2|  0| 
-|Jared Jones     |OP          |  2| 12.000|  5| 3.750|     16| 1.333| 11|  1|  0| 
+|Jared Jones     |OP          |  3| 18.000|  8| 4.000|     25| 1.389| 16|  1|  0| 
 |Jason Adam      |OP          |  7|  6.000|  2| 3.000|      9| 1.500|  6|  0|  1| 
 |Ronel Blanco    |OP          |  2|  8.667|  2| 2.077|     13| 1.500|  9|  1|  0| 
 |Evan Phillips   |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
