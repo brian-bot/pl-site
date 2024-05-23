@@ -6,7 +6,7 @@
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |J.T. Realmuto       |C         |     15|  7|   5|  1|  0| 
-|Paul Goldschmidt    |1B        |     18|  7|   5|  2|  2| 
+|Paul Goldschmidt    |1B        |     17|  7|   5|  2|  2| 
 |Bryson Stott        |2B        |     25| 12|  13|  2|  5| 
 |Austin Riley        |3B        |      5|  3|   0|  0|  0| 
 |Francisco Lindor    |SS        |     15|  7|   3|  1|  2| 

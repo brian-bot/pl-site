@@ -11,7 +11,7 @@
 |Rafael Devers     |3B        |     19| 12|  11|  6|  1| 
 |Bobby Witt Jr.    |SS        |     19| 13|  14|  3|  3| 
 |Carlos Correa     |MI        |     18|  9|   5|  3|  0| 
-|Ryan Mountcastle  |CI        |      8|  4|   2|  1|  0| 
+|Ryan Mountcastle  |CI        |      7|  4|   2|  1|  0| 
 |Christopher Morel |OF        |     16|  1|   9|  1|  0| 
 |Kerry Carpenter   |OF        |     13|  8|  10|  3|  0| 
 |Richie Palacios   |OF        |     12|  5|   5|  1|  2| 
@@ -42,7 +42,7 @@
 |Jhoan Duran       |RP          |  6|  5.667|  5|  7.941|      8| 1.412|  3|  0|  2| 
 |Bryse Wilson      |OP          |  2|  8.667|  4|  4.154|     16| 1.846|  4|  0|  0| 
 |Hayden Wesneski   |OP          |  5| 12.667|  5|  3.553|     17| 1.342| 10|  0|  0| 
-|Mason Miller      |OP          |  4|  6.000|  0|  0.000|      1| 0.167| 12|  0|  1| 
+|Mason Miller      |OP          |  4|  6.000|  0|  0.000|      2| 0.333| 12|  0|  1| 
 |Reed Garrett      |OP          |  5|  7.000|  2|  2.571|     11| 1.571| 11|  0|  1| 
 |Trevor Williams   |OP          |  2|  9.333|  4|  3.857|     11| 1.179|  5|  0|  0| 
 |Blake Snell       |PITCH BENCH |  1|  3.333|  4| 10.800|      8| 2.400|  5|  0|  0| 

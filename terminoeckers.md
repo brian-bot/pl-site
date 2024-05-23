@@ -47,7 +47,7 @@
 |Simeon Woods Richardson |OP          |  3| 14.333|  6|  3.767|     17| 1.186|  5|  0|  0| 
 |Taj Bradley             |OP          |  3| 18.000|  8|  4.000|     17| 0.944| 23|  1|  0| 
 |Bobby Miller            |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Joe Musgrove            |PITCH BENCH |  1|  3.000|  0|  0.000|      5| 1.667|  3|  0|  0| 
+|Joe Musgrove            |PITCH BENCH |  1|  3.000|  1|  3.000|      5| 1.667|  3|  0|  0| 
 |Nathan Eovaldi          |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 
 

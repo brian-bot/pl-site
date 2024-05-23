@@ -16,7 +16,7 @@
 |Fernando Tatis Jr. |OF        |     18|  5|   5|  1|  0| 
 |Mark Canha         |OF        |     15|  5|   4|  1|  0| 
 |Spencer Steer      |OF        |     14|  3|   8|  0|  2| 
-|Brendan Donovan    |DH        |     20|  7|   4|  0|  0| 
+|Brendan Donovan    |DH        |     19|  7|   4|  0|  0| 
 |Jackson Merrill    |DH        |     13|  3|   4|  1|  3| 
 |Jonathan India     |DH        |     13|  3|   0|  0|  1| 
 |Justin Turner      |DH        |      4|  2|   0|  0|  0| 
@@ -39,7 +39,7 @@
 |Nick Lodolo     |SP          |  1|  6.000|  4| 6.000|      6| 1.000|  6|  0|  0| 
 |Pablo López     |SP          |  3| 17.667| 11| 5.604|     23| 1.302| 18|  1|  0| 
 |Paul Sewald     |RP          |  5|  5.000|  0| 0.000|      3| 0.600|  5|  0|  3| 
-|Ryan Helsley    |RP          |  5|  5.000|  0| 0.000|      4| 0.800|  6|  0|  5| 
+|Ryan Helsley    |RP          |  4|  4.000|  0| 0.000|      3| 0.750|  5|  0|  4| 
 |Aaron Civale    |OP          |  3| 15.000|  9| 5.400|     22| 1.467| 13|  0|  0| 
 |David Robertson |OP          |  4|  5.000|  4| 7.200|      5| 1.000| 10|  1|  0| 
 |José Alvarado   |OP          |  6|  5.667|  1| 1.588|      3| 0.529|  5|  0|  2| 

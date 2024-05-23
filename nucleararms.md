@@ -18,7 +18,7 @@
 |Nick Castellanos             |OF        |     17|  9|   7|  2|  0| 
 |Christian Yelich             |DH        |     19|  6|   7|  0|  4| 
 |Jeff McNeil                  |DH        |     14|  6|   6|  2|  1| 
-|Shohei Ohtani                |DH        |     21|  7|   7|  2|  4| 
+|Shohei Ohtani                |DH        |     20|  7|   7|  2|  4| 
 |Tommy Pham                   |DH        |     23|  5|   6|  1|  3| 
 |Francisco Alvarez            |BAT BENCH |     **| **|  **| **| **| 
 |Masataka Yoshida             |BAT BENCH |     **| **|  **| **| **| 

@@ -8,7 +8,7 @@
 |Logan O'Hoppe   |C         |     14|  6|   9|  2|  0| 
 |Rhys Hoskins    |1B        |      8|  2|   8|  2|  0| 
 |Ryan McMahon    |2B        |     21| 11|  10|  4|  0| 
-|Jordan Westburg |3B        |     18|  6|   6|  1|  1| 
+|Jordan Westburg |3B        |     17|  6|   6|  1|  1| 
 |José Caballero  |SS        |     13|  4|   3|  0|  4| 
 |Luis García Jr. |MI        |      8|  3|   4|  1|  0| 
 |Ryan O'Hearn    |CI        |     13|  2|   5|  1|  0| 
@@ -21,7 +21,7 @@
 |Willi Castro    |DH        |     17|  6|   4|  2|  1| 
 |Wilyer Abreu    |DH        |     14|  5|   7|  3|  2| 
 |Luis Robert Jr. |BAT BENCH |     **| **|  **| **| **| 
-|Nolan Gorman    |BAT BENCH |     22| 11|  12|  5|  1| 
+|Nolan Gorman    |BAT BENCH |     19| 10|   9|  4|  1| 
 |Wyatt Langford  |BAT BENCH |     **| **|  **| **| **| 
 
 * * *
