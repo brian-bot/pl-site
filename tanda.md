@@ -5,10 +5,10 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Jonah Heim       |C         |     13|  3|   5|  1|  0| 
+|Jonah Heim       |C         |     14|  3|   5|  1|  0| 
 |Matt Olson       |1B        |     19|  5|  10|  4|  0| 
 |Marcus Semien    |2B        |     20| 10|   7|  3|  0| 
-|Gunnar Henderson |3B        |     20| 10|  11|  6|  1| 
+|Gunnar Henderson |3B        |     24| 11|  11|  6|  1| 
 |Oneil Cruz       |SS        |     18|  9|   7|  2|  1| 
 |Luis Rengifo     |MI        |      9|  2|   4|  1|  3| 
 |Josh Rojas       |CI        |     12|  1|   1|  0|  1| 
@@ -21,7 +21,7 @@
 |Jung Hoo Lee     |DH        |      1|  1|   1|  0|  0| 
 |Michael Conforto |DH        |      9|  3|   2|  2|  0| 
 |J.D. Martinez    |BAT BENCH |     16|  4|   7|  2|  0| 
-|Jorge Soler      |BAT BENCH |      9|  4|   5|  0|  0| 
+|Jorge Soler      |BAT BENCH |     10|  5|   6|  0|  0| 
 |Royce Lewis      |BAT BENCH |     **| **|  **| **| **| 
 
 * * *
@@ -38,8 +38,8 @@
 |Marcus Stroman  |SP          |  3| 19.000|  5|  2.368|     20| 1.053| 13|  1|  0| 
 |Yusei Kikuchi   |SP          |  3| 18.333|  5|  2.455|     19| 1.036| 18|  0|  0| 
 |Jordan Romano   |RP          |  5|  4.333|  3|  6.231|      7| 1.615|  4|  1|  3| 
-|Raisel Iglesias |RP          |  4|  4.000|  2|  4.500|      7| 1.750|  2|  0|  2| 
-|Craig Kimbrel   |OP          |  5|  4.667|  2|  3.857|      3| 0.643|  6|  1|  1| 
+|Raisel Iglesias |RP          |  5|  5.000|  2|  3.600|      7| 1.400|  4|  0|  3| 
+|Craig Kimbrel   |OP          |  6|  5.333|  2|  3.375|      3| 0.562|  6|  1|  2| 
 |Cristian Javier |OP          |  3| 11.333| 11|  8.735|     23| 2.029|  9|  1|  0| 
 |Dean Kremer     |OP          |  2|  9.667|  8|  7.448|     17| 1.759| 12|  0|  0| 
 |Erick Fedde     |OP          |  3| 19.000|  5|  2.368|     17| 0.895| 11|  2|  0| 
