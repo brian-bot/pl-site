@@ -6,22 +6,22 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Jonah Heim       |C         |     14|  3|   5|  1|  0| 
-|Matt Olson       |1B        |     19|  5|  10|  4|  0| 
-|Marcus Semien    |2B        |     20| 10|   7|  3|  0| 
-|Gunnar Henderson |3B        |     24| 11|  11|  6|  1| 
-|Oneil Cruz       |SS        |     18|  9|   7|  2|  1| 
-|Luis Rengifo     |MI        |      9|  2|   4|  1|  3| 
+|Matt Olson       |1B        |     20|  6|  10|  4|  0| 
+|Marcus Semien    |2B        |     22| 11|   7|  3|  0| 
+|Gunnar Henderson |3B        |     26| 13|  13|  7|  1| 
+|Oneil Cruz       |SS        |     20| 10|   7|  2|  1| 
+|Luis Rengifo     |MI        |     12|  4|   5|  2|  3| 
 |Josh Rojas       |CI        |     12|  1|   1|  0|  1| 
 |Eloy Jiménez     |OF        |     17|  2|   1|  1|  2| 
-|Jarren Duran     |OF        |     20|  9|   6|  2|  2| 
-|Jesse Winker     |OF        |     11|  3|   3|  2|  1| 
+|Jarren Duran     |OF        |     23|  9|   6|  2|  2| 
+|Jesse Winker     |OF        |     12|  4|   3|  2|  1| 
 |Julio Rodríguez  |OF        |     19|  6|   3|  1|  1| 
 |Colton Cowser    |DH        |     19|  3|   4|  0|  0| 
-|Jackson Chourio  |DH        |      9|  5|   2|  1|  1| 
+|Jackson Chourio  |DH        |     10|  6|   2|  1|  1| 
 |Jung Hoo Lee     |DH        |      1|  1|   1|  0|  0| 
 |Michael Conforto |DH        |      9|  3|   2|  2|  0| 
-|J.D. Martinez    |BAT BENCH |     16|  4|   7|  2|  0| 
-|Jorge Soler      |BAT BENCH |     10|  5|   6|  0|  0| 
+|J.D. Martinez    |BAT BENCH |     17|  5|   8|  3|  0| 
+|Jorge Soler      |BAT BENCH |     11|  6|   7|  1|  0| 
 |Royce Lewis      |BAT BENCH |     **| **|  **| **| **| 
 
 * * *
@@ -39,7 +39,7 @@
 |Yusei Kikuchi   |SP          |  3| 18.333|  5|  2.455|     19| 1.036| 18|  0|  0| 
 |Jordan Romano   |RP          |  5|  4.333|  3|  6.231|      7| 1.615|  4|  1|  3| 
 |Raisel Iglesias |RP          |  5|  5.000|  2|  3.600|      7| 1.400|  4|  0|  3| 
-|Craig Kimbrel   |OP          |  6|  5.333|  2|  3.375|      3| 0.562|  6|  1|  2| 
+|Craig Kimbrel   |OP          |  7|  6.333|  2|  2.842|      3| 0.474|  7|  1|  3| 
 |Cristian Javier |OP          |  3| 11.333| 11|  8.735|     23| 2.029|  9|  1|  0| 
 |Dean Kremer     |OP          |  2|  9.667|  8|  7.448|     17| 1.759| 12|  0|  0| 
 |Erick Fedde     |OP          |  3| 19.000|  5|  2.368|     17| 0.895| 11|  2|  0| 

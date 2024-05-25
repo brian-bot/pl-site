@@ -6,20 +6,20 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |MJ Melendez        |C         |      7|  2|   0|  0|  0| 
-|Christian Walker   |1B        |     18|  8|   8|  3|  1| 
-|Jose Altuve        |2B        |     14|  7|   6|  2|  0| 
+|Christian Walker   |1B        |     19|  8|   8|  3|  1| 
+|Jose Altuve        |2B        |     17|  8|   6|  2|  0| 
 |Jorge Polanco      |3B        |      6|  1|   0|  0|  0| 
 |Xander Bogaerts    |SS        |      8|  2|   3|  2|  2| 
-|Anthony Volpe      |MI        |     26|  8|   7|  2|  3| 
-|Josh Bell          |CI        |     21|  5|  13|  2|  0| 
+|Anthony Volpe      |MI        |     28| 10|   7|  2|  3| 
+|Josh Bell          |CI        |     22|  5|  13|  2|  0| 
 |Corbin Carroll     |OF        |     13|  6|   4|  0|  0| 
-|Fernando Tatis Jr. |OF        |     19|  6|   6|  1|  0| 
-|Mark Canha         |OF        |     15|  5|   4|  1|  0| 
-|Spencer Steer      |OF        |     17|  4|   8|  0|  2| 
+|Fernando Tatis Jr. |OF        |     20|  6|   6|  1|  0| 
+|Mark Canha         |OF        |     17|  7|   4|  1|  0| 
+|Spencer Steer      |OF        |     19|  6|  11|  1|  2| 
 |Brendan Donovan    |DH        |     19|  7|   4|  0|  0| 
-|Jackson Merrill    |DH        |     14|  4|   4|  1|  3| 
-|Jonathan India     |DH        |     14|  3|   0|  0|  1| 
-|Justin Turner      |DH        |      5|  2|   1|  0|  0| 
+|Jackson Merrill    |DH        |     15|  4|   4|  1|  3| 
+|Jonathan India     |DH        |     18|  4|   4|  1|  1| 
+|Justin Turner      |DH        |      6|  2|   1|  0|  0| 
 |Josh Jung          |BAT BENCH |     **| **|  **| **| **| 
 |Sean Murphy        |BAT BENCH |     **| **|  **| **| **| 
 |Triston Casas      |BAT BENCH |     **| **|  **| **| **| 
@@ -42,13 +42,13 @@
 |Ryan Helsley    |RP          |  4|  4.000|  0| 0.000|      3| 0.750|  5|  0|  4| 
 |Aaron Civale    |OP          |  3| 15.000|  9| 5.400|     22| 1.467| 13|  0|  0| 
 |David Robertson |OP          |  4|  5.000|  4| 7.200|      5| 1.000| 10|  1|  0| 
-|José Alvarado   |OP          |  7|  6.667|  1| 1.350|      5| 0.750|  6|  0|  2| 
+|José Alvarado   |OP          |  8|  7.667|  2| 2.348|      7| 0.913|  8|  0|  2| 
 |Kyle Finnegan   |OP          |  3|  3.667|  1| 2.455|      5| 1.364|  2|  0|  1| 
 |Michael Wacha   |OP          |  3| 19.000|  5| 2.368|     20| 1.053| 16|  3|  0| 
 |Jesús Luzardo   |PITCH BENCH |  3| 19.667|  2| 0.915|     13| 0.661| 19|  2|  0| 
-|Kenta Maeda     |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
+|Kenta Maeda     |PITCH BENCH |  1|  5.000|  0| 0.000|      4| 0.800|  1|  1|  0| 
 |Ryan Pepiot     |PITCH BENCH |  1|  4.000|  3| 6.750|      6| 1.500|  3|  0|  0| 
-|Yennier Cano    |PITCH BENCH |  7|  4.333|  3| 6.231|     10| 2.308|  2|  0|  1| 
+|Yennier Cano    |PITCH BENCH |  8|  5.333|  4| 6.750|     11| 2.062|  4|  1|  1| 
 
 
 * * *
