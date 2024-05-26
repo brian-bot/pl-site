@@ -5,23 +5,23 @@
  
 |players         |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------|:---------|------:|--:|---:|--:|--:| 
-|Logan O'Hoppe   |C         |     16|  7|  11|  3|  0| 
+|Logan O'Hoppe   |C         |     17|  7|  11|  3|  0| 
 |Rhys Hoskins    |1B        |      8|  2|   8|  2|  0| 
-|Ryan McMahon    |2B        |     22| 12|  11|  4|  0| 
-|Jordan Westburg |3B        |     20|  7|   7|  1|  1| 
-|José Caballero  |SS        |     14|  4|   3|  0|  4| 
-|Luis García Jr. |MI        |      9|  4|   7|  2|  0| 
-|Ryan O'Hearn    |CI        |     15|  3|   5|  1|  0| 
-|Aaron Judge     |OF        |     38| 18|  16|  9|  0| 
+|Ryan McMahon    |2B        |     23| 13|  11|  4|  0| 
+|Jordan Westburg |3B        |     23|  8|   8|  2|  1| 
+|José Caballero  |SS        |     15|  4|   3|  0|  5| 
+|Luis García Jr. |MI        |     10|  5|   7|  2|  1| 
+|Ryan O'Hearn    |CI        |     16|  4|   7|  2|  0| 
+|Aaron Judge     |OF        |     40| 20|  18| 10|  0| 
 |Andy Pages      |OF        |     11|  5|   3|  1|  1| 
 |Daulton Varsho  |OF        |     14|  9|  11|  3|  1| 
-|Yordan Alvarez  |OF        |     25|  8|   4|  2|  1| 
-|Ryan Jeffers    |DH        |     12|  5|   6|  3|  1| 
+|Yordan Alvarez  |OF        |     27|  8|   4|  2|  1| 
+|Ryan Jeffers    |DH        |     14|  5|   7|  3|  1| 
 |TJ Friedl       |DH        |      6|  2|   2|  0|  2| 
-|Willi Castro    |DH        |     20|  7|   4|  2|  1| 
-|Wilyer Abreu    |DH        |     14|  5|   7|  3|  2| 
+|Willi Castro    |DH        |     21|  7|   4|  2|  2| 
+|Wilyer Abreu    |DH        |     15|  6|   8|  3|  2| 
 |Luis Robert Jr. |BAT BENCH |     **| **|  **| **| **| 
-|Nolan Gorman    |BAT BENCH |     19| 10|   9|  4|  1| 
+|Nolan Gorman    |BAT BENCH |     21| 12|   9|  4|  2| 
 |Wyatt Langford  |BAT BENCH |     **| **|  **| **| **| 
 
 * * *
@@ -31,9 +31,9 @@
  
 |players         |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:---------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Aaron Nola      |SP          |  3| 21.667|  6| 2.492|     18| 0.831| 20|  2|  0| 
+|Aaron Nola      |SP          |  4| 27.667|  8| 2.602|     25| 0.904| 25|  2|  0| 
 |Carlos Rodón    |SP          |  4| 24.333|  5| 1.849|     25| 1.027| 21|  4|  0| 
-|Dylan Cease     |SP          |  3| 16.667|  8| 4.320|     21| 1.260| 25|  1|  0| 
+|Dylan Cease     |SP          |  4| 23.333| 12| 4.629|     29| 1.243| 34|  1|  0| 
 |Joe Ryan        |SP          |  3| 19.333|  5| 2.328|     18| 0.931| 18|  2|  0| 
 |Luis Castillo   |SP          |  3| 17.000|  6| 3.176|     25| 1.471| 13|  1|  0| 
 |Zach Eflin      |SP          |  2| 11.000|  7| 5.727|     15| 1.364|  5|  1|  0| 
@@ -42,7 +42,7 @@
 |Garrett Crochet |OP          |  3| 17.000|  0| 0.000|     14| 0.824| 21|  3|  0| 
 |Gavin Stone     |OP          |  3| 19.000|  6| 2.842|     23| 1.211| 11|  2|  0| 
 |Jared Jones     |OP          |  3| 18.000|  8| 4.000|     25| 1.389| 16|  1|  0| 
-|Jason Adam      |OP          |  7|  6.000|  2| 3.000|      9| 1.500|  6|  0|  1| 
+|Jason Adam      |OP          |  8|  7.000|  2| 2.571|     10| 1.429|  6|  0|  1| 
 |Ronel Blanco    |OP          |  2|  8.667|  2| 2.077|     13| 1.500|  9|  1|  0| 
 |Evan Phillips   |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 |Frankie Montas  |PITCH BENCH |  3| 15.667| 11| 6.319|     25| 1.596|  7|  0|  0| 

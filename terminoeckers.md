@@ -6,20 +6,20 @@
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
 |Danny Jansen          |C         |     16|  8|   9|  2|  0| 
-|Freddie Freeman       |1B        |     22| 12|   8|  2|  0| 
-|Gleyber Torres        |2B        |     20|  9|   8|  3|  1| 
+|Freddie Freeman       |1B        |     23| 12|   8|  2|  0| 
+|Gleyber Torres        |2B        |     21|  9|   9|  3|  1| 
 |Max Muncy             |3B        |      3|  2|   2|  0|  0| 
-|Willy Adames          |SS        |     16|  4|   7|  0|  3| 
-|Maikel Garcia         |MI        |     24| 15|  10|  1|  5| 
-|Vladimir Guerrero Jr. |CI        |     31| 10|   9|  1|  1| 
-|Cody Bellinger        |OF        |     18|  4|   4|  1|  0| 
-|Kyle Tucker           |OF        |     32| 13|  12|  7|  4| 
-|Michael Harris II     |OF        |     17|  6|   4|  2|  2| 
-|Seiya Suzuki          |OF        |     12|  6|   3|  1|  1| 
-|Alex Verdugo          |DH        |     15|  5|  10|  1|  0| 
-|Jonny DeLuca          |DH        |     14|  3|   3|  1|  2| 
-|Jurickson Profar      |DH        |     27| 10|   5|  1|  1| 
-|Michael Busch         |DH        |     14|  8|   1|  0|  1| 
+|Willy Adames          |SS        |     18|  5|   7|  0|  3| 
+|Maikel Garcia         |MI        |     26| 15|  11|  1|  5| 
+|Vladimir Guerrero Jr. |CI        |     33| 10|   9|  1|  1| 
+|Cody Bellinger        |OF        |     20|  4|   5|  1|  0| 
+|Kyle Tucker           |OF        |     32| 13|  13|  7|  4| 
+|Michael Harris II     |OF        |     18|  6|   4|  2|  2| 
+|Seiya Suzuki          |OF        |     13|  6|   3|  1|  1| 
+|Alex Verdugo          |DH        |     17|  6|  10|  1|  0| 
+|Jonny DeLuca          |DH        |     15|  3|   4|  1|  2| 
+|Jurickson Profar      |DH        |     29| 10|   5|  1|  1| 
+|Michael Busch         |DH        |     15|  9|   2|  0|  1| 
 |Ian Happ              |BAT BENCH |     13|  5|   2|  1|  1| 
 |Jacob Young           |BAT BENCH |     12|  3|   4|  0|  3| 
 |Tyler Black           |BAT BENCH |     **| **|  **| **| **| 
@@ -39,9 +39,9 @@
 |Jack Flaherty           |SP          |  3| 19.000|  8|  3.789|     22| 1.158| 25|  1|  0| 
 |Michael King            |SP          |  3| 19.000|  9|  4.263|     21| 1.105| 24|  1|  0| 
 |Seth Lugo               |SP          |  3| 20.667|  4|  1.742|     18| 0.871| 25|  3|  0| 
-|Edwin Díaz              |RP          |  5|  4.333|  7| 14.538|     11| 2.538|  7|  1|  0| 
-|Jason Foley             |RP          |  6|  5.000|  1|  1.800|      4| 0.800|  3|  0|  2| 
-|James McArthur          |OP          |  5|  5.000|  2|  3.600|      6| 1.200|  5|  0|  4| 
+|Edwin Díaz              |RP          |  6|  5.333|  8| 13.500|     13| 2.438|  8|  1|  0| 
+|Jason Foley             |RP          |  7|  6.000|  1|  1.500|      5| 0.833|  3|  0|  2| 
+|James McArthur          |OP          |  6|  7.000|  2|  2.571|      7| 1.000|  5|  1|  4| 
 |Kyle Harrison           |OP          |  3| 15.000| 10|  6.000|     23| 1.533| 15|  1|  0| 
 |Luis Gil                |OP          |  3| 18.333|  1|  0.491|     14| 0.764| 25|  3|  0| 
 |Simeon Woods Richardson |OP          |  3| 14.333|  6|  3.767|     17| 1.186|  5|  0|  0| 
