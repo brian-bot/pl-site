@@ -7,19 +7,19 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Cal Raleigh       |C         |     15|  8|   8|  2|  0| 
 |Bryce Harper      |1B        |     25| 12|  13|  4|  2| 
-|Brice Turang      |2B        |     18|  5|   7|  1|  5| 
+|Brice Turang      |2B        |     20|  5|   7|  1|  5| 
 |Nolan Arenado     |3B        |     13|  6|   3|  1|  0| 
 |Dansby Swanson    |SS        |      6|  3|   0|  0|  0| 
 |Joey Loperfido    |MI        |     11|  3|   3|  1|  1| 
 |Josh Naylor       |CI        |     16|  9|   7|  4|  1| 
 |Evan Carter       |OF        |      2|  1|   1|  0|  0| 
-|Jazz Chisholm Jr. |OF        |     23|  9|   6|  2|  1| 
-|Kyle Schwarber    |OF        |     28| 10|   9|  0|  0| 
-|Randy Arozarena   |OF        |     16|  7|   5|  2|  1| 
+|Jazz Chisholm Jr. |OF        |     25|  9|   6|  2|  1| 
+|Kyle Schwarber    |OF        |     29| 11|   9|  0|  0| 
+|Randy Arozarena   |OF        |     17|  8|   5|  2|  1| 
 |Josh Lowe         |DH        |     13|  5|   3|  2|  0| 
 |Kyle Manzardo     |DH        |     11|  2|   3|  0|  0| 
-|Starling Marte    |DH        |     16|  8|   4|  2|  1| 
-|Ty France         |DH        |     16|  5|   8|  3|  0| 
+|Starling Marte    |DH        |     16|  9|   4|  2|  1| 
+|Ty France         |DH        |     18|  6|  11|  4|  0| 
 |Lane Thomas       |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -41,9 +41,9 @@
 |Christian Scott    |OP          |  3| 16.000|  9|  5.062|     19| 1.188| 15|  0|  0| 
 |Héctor Neris       |OP          |  4|  4.000|  0|  0.000|      4| 1.000|  3|  2|  0| 
 |John Means         |OP          |  3| 13.667|  6|  3.951|     15| 1.098|  8|  1|  0| 
-|Kevin Ginkel       |OP          |  6|  5.333|  6| 10.125|     12| 2.250|  4|  1|  0| 
+|Kevin Ginkel       |OP          |  7|  6.333|  6|  8.526|     15| 2.368|  5|  1|  0| 
 |Zack Littell       |OP          |  3| 16.333|  8|  4.408|     18| 1.102| 13|  1|  0| 
-|Casey Mize         |PITCH BENCH |  3| 13.667|  9|  5.927|     19| 1.390| 10|  0|  0| 
+|Casey Mize         |PITCH BENCH |  4| 18.000| 12|  6.000|     29| 1.611| 10|  0|  0| 
 |Merrill Kelly      |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 
 
