@@ -6,15 +6,15 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Sean Murphy        |C         |      1|  0|   0|  0|  0| 
-|Christian Walker   |1B        |      4|  1|   0|  0|  1| 
-|Jose Altuve        |2B        |      2|  0|   0|  0|  0| 
-|Matt Vierling      |3B        |      4|  3|   5|  2|  0| 
+|Christian Walker   |1B        |      6|  1|   0|  0|  1| 
+|Jose Altuve        |2B        |      3|  0|   0|  0|  0| 
+|Matt Vierling      |3B        |      6|  4|   5|  2|  0| 
 |Jackson Merrill    |SS        |      1|  0|   0|  0|  0| 
-|Anthony Volpe      |MI        |      4|  1|   0|  0|  0| 
+|Anthony Volpe      |MI        |      5|  2|   1|  0|  0| 
 |Josh Bell          |CI        |      6|  2|   0|  0|  0| 
-|Corbin Carroll     |OF        |      3|  0|   1|  0|  0| 
+|Corbin Carroll     |OF        |      4|  1|   1|  0|  0| 
 |Fernando Tatis Jr. |OF        |      3|  1|   0|  0|  0| 
-|Mark Canha         |OF        |      3|  1|   1|  0|  0| 
+|Mark Canha         |OF        |      4|  1|   2|  0|  0| 
 |Spencer Steer      |OF        |      0|  0|   0|  0|  0| 
 |Brendan Donovan    |DH        |      6|  1|   0|  0|  0| 
 |Jonah Heim         |DH        |      3|  1|   1|  0|  0| 
@@ -22,7 +22,7 @@
 |Justin Turner      |DH        |      4|  0|   2|  0|  0| 
 |Jorge Polanco      |BAT BENCH |     **| **|  **| **| **| 
 |Josh Jung          |BAT BENCH |     **| **|  **| **| **| 
-|MJ Melendez        |BAT BENCH |      0|  0|   0|  0|  0| 
+|MJ Melendez        |BAT BENCH |      2|  1|   1|  1|  0| 
 |Triston Casas      |BAT BENCH |     **| **|  **| **| **| 
 |Xander Bogaerts    |BAT BENCH |     **| **|  **| **| **| 
 
@@ -48,7 +48,7 @@
 |Michael Wacha |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Ryan Pepiot   |OP          |  1| 5.667|  2| 3.176|      4| 0.706|  7|  0|  0| 
 |Kenta Maeda   |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
-|Kyle Finnegan |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
+|Kyle Finnegan |PITCH BENCH |  1| 1.000|  0| 0.000|      1| 1.000|  1|  0|  1| 
 
 
 * * *

@@ -5,7 +5,7 @@
  
 |players                      |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez               |C         |      3|  2|   2|  1|  0| 
+|Salvador Perez               |C         |      4|  2|   2|  1|  0| 
 |Alec Burleson                |1B        |      1|  0|   1|  0|  0| 
 |Andrés Giménez               |2B        |      4|  3|   0|  0|  1| 
 |José Ramírez                 |3B        |      5|  5|   2|  1|  0| 
@@ -13,10 +13,10 @@
 |Jeff McNeil                  |MI        |      1|  0|   0|  0|  0| 
 |Jake Cronenworth             |CI        |      0|  0|   0|  0|  0| 
 |Adolis García                |OF        |      3|  2|   0|  0|  0| 
-|Brent Rooker                 |OF        |      3|  0|   0|  0|  0| 
+|Brent Rooker                 |OF        |      4|  1|   1|  0|  0| 
 |Giancarlo Stanton            |OF        |      2|  0|   0|  0|  0| 
 |Nick Castellanos             |OF        |      4|  2|   2|  1|  0| 
-|Christian Yelich             |DH        |      3|  3|   3|  1|  0| 
+|Christian Yelich             |DH        |      4|  4|   3|  1|  0| 
 |Shohei Ohtani                |DH        |      2|  1|   3|  1|  0| 
 |Tommy Pham                   |DH        |      0|  0|   0|  0|  0| 
 |Vaughn Grissom               |DH        |      2|  0|   0|  0|  0| 

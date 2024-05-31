@@ -18,7 +18,7 @@
 |Jarren Duran     |OF        |     24|  9|   7|  2|  2| 
 |Jesse Winker     |OF        |     16|  6|   5|  2|  3| 
 |Julio Rodríguez  |OF        |     25| 10|   8|  3|  5| 
-|Colton Cowser    |DH        |     21|  6|   5|  1|  0| 
+|Colton Cowser    |DH        |     22|  6|   5|  1|  0| 
 |Jackson Chourio  |DH        |     12|  6|   3|  1|  1| 
 |Jung Hoo Lee     |DH        |      1|  1|   1|  0|  0| 
 |Michael Conforto |DH        |      9|  3|   2|  2|  0| 

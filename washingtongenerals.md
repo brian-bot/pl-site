@@ -9,21 +9,21 @@
 |Paul Goldschmidt    |1B        |      5|  2|   0|  0|  0| 
 |Bryson Stott        |2B        |      2|  0|   0|  0|  1| 
 |Jeimer Candelario   |3B        |      3|  0|   0|  0|  0| 
-|Francisco Lindor    |SS        |      4|  2|   2|  1|  0| 
+|Francisco Lindor    |SS        |      8|  3|   4|  2|  1| 
 |Bo Bichette         |MI        |      3|  1|   2|  0|  0| 
-|Alex Bregman        |CI        |      3|  1|   2|  1|  0| 
+|Alex Bregman        |CI        |      5|  3|   4|  2|  0| 
 |Brandon Marsh       |OF        |      0|  0|   0|  0|  0| 
 |Brandon Nimmo       |OF        |      3|  0|   0|  0|  0| 
-|Lourdes Gurriel Jr. |OF        |      2|  0|   0|  0|  0| 
+|Lourdes Gurriel Jr. |OF        |      3|  0|   0|  0|  0| 
 |Steven Kwan         |OF        |     **| **|  **| **| **| 
 |Austin Riley        |DH        |      1|  1|   0|  0|  0| 
-|Eugenio Suárez      |DH        |      1|  0|   1|  0|  0| 
+|Eugenio Suárez      |DH        |      1|  0|   1|  0|  1| 
 |Masyn Winn          |DH        |      4|  0|   3|  0|  0| 
 |Spencer Torkelson   |DH        |      0|  0|   0|  0|  0| 
 |Blaze Alexander     |BAT BENCH |      0|  0|   0|  0|  0| 
 |Esteury Ruiz        |BAT BENCH |     **| **|  **| **| **| 
 |George Springer     |BAT BENCH |      7|  4|   0|  0|  0| 
-|Max Kepler          |BAT BENCH |      1|  0|   0|  0|  0| 
+|Max Kepler          |BAT BENCH |      2|  1|   1|  0|  0| 
 
 
 * * *
@@ -39,7 +39,7 @@
 |James Paxton      |SP          |  1|  3|  0| 0.0|      2| 0.667|  3|  0|  0| 
 |Jordan Hicks      |SP          | **| **| **|  **|     **|    **| **| **| **| 
 |Jordan Montgomery |SP          | **| **| **|  **|     **|    **| **| **| **| 
-|Josh Hader        |RP          |  1|  1|  0| 0.0|      2| 2.000|  3|  0|  0| 
+|Josh Hader        |RP          |  2|  2|  0| 0.0|      4| 2.000|  5|  0|  0| 
 |Kenley Jansen     |RP          | **| **| **|  **|     **|    **| **| **| **| 
 |Alec Marsh        |OP          | **| **| **|  **|     **|    **| **| **| **| 
 |Mitch Keller      |OP          | **| **| **|  **|     **|    **| **| **| **| 
