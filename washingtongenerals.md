@@ -6,23 +6,23 @@
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |J.T. Realmuto       |C         |      1|  1|   0|  0|  0| 
-|Paul Goldschmidt    |1B        |      7|  2|   0|  0|  0| 
-|Bryson Stott        |2B        |      2|  0|   0|  0|  1| 
-|Jeimer Candelario   |3B        |      5|  0|   1|  0|  0| 
+|Paul Goldschmidt    |1B        |      8|  2|   0|  0|  0| 
+|Bryson Stott        |2B        |      4|  0|   2|  0|  3| 
+|Jeimer Candelario   |3B        |      7|  1|   1|  0|  0| 
 |Francisco Lindor    |SS        |     12|  4|   5|  2|  2| 
 |Bo Bichette         |MI        |      4|  1|   2|  0|  0| 
-|Alex Bregman        |CI        |      8|  4|   5|  3|  0| 
-|Brandon Marsh       |OF        |      4|  1|   2|  0|  0| 
-|Brandon Nimmo       |OF        |      5|  2|   0|  0|  0| 
-|Lourdes Gurriel Jr. |OF        |      4|  0|   2|  0|  0| 
-|Steven Kwan         |OF        |      4|  2|   1|  0|  0| 
-|Austin Riley        |DH        |      5|  4|   1|  0|  0| 
-|Eugenio Suárez      |DH        |      2|  1|   3|  1|  1| 
-|Masyn Winn          |DH        |      4|  0|   4|  0|  0| 
+|Alex Bregman        |CI        |     10|  5|   7|  4|  0| 
+|Brandon Marsh       |OF        |      6|  2|   2|  0|  0| 
+|Brandon Nimmo       |OF        |      6|  3|   2|  0|  0| 
+|Lourdes Gurriel Jr. |OF        |      5|  1|   3|  1|  0| 
+|Steven Kwan         |OF        |      5|  2|   1|  0|  0| 
+|Austin Riley        |DH        |      6|  4|   1|  0|  0| 
+|Eugenio Suárez      |DH        |      3|  2|   3|  1|  1| 
+|Masyn Winn          |DH        |      6|  3|   4|  0|  0| 
 |Spencer Torkelson   |DH        |      0|  0|   0|  0|  0| 
-|Blaze Alexander     |BAT BENCH |      2|  2|   1|  0|  1| 
+|Blaze Alexander     |BAT BENCH |      3|  2|   1|  0|  1| 
 |Esteury Ruiz        |BAT BENCH |     **| **|  **| **| **| 
-|George Springer     |BAT BENCH |     11|  5|   1|  0|  0| 
+|George Springer     |BAT BENCH |     12|  5|   1|  0|  0| 
 |Max Kepler          |BAT BENCH |      4|  2|   1|  0|  0| 
 
 
@@ -40,7 +40,7 @@
 |Jordan Hicks      |SP          |  1| 5.333|  4|  6.750|      7| 1.312|  4|  0|  0| 
 |Jordan Montgomery |SP          |  1| 4.000|  6| 13.500|     12| 3.000|  4|  0|  0| 
 |Josh Hader        |RP          |  3| 3.000|  0|  0.000|      4| 1.333|  6|  0|  1| 
-|Kenley Jansen     |RP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Kenley Jansen     |RP          |  1| 1.000|  0|  0.000|      1| 1.000|  1|  0|  0| 
 |Alec Marsh        |OP          |  1| 5.000|  5|  9.000|     10| 2.000|  3|  0|  0| 
 |Mitch Keller      |OP          |  1| 6.000|  1|  1.500|      6| 1.000|  8|  1|  0| 
 |Ranger Suárez     |OP          |  1| 2.000|  0|  0.000|      0| 0.000|  2|  0|  0| 

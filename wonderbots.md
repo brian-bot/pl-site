@@ -6,20 +6,20 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |William Contreras |C         |      7|  4|   1|  0|  1| 
-|Nathaniel Lowe    |1B        |      2|  0|   1|  0|  0| 
-|Ozzie Albies      |2B        |      8|  1|   0|  0|  1| 
-|Manny Machado     |3B        |      8|  3|   1|  0|  1| 
-|Corey Seager      |SS        |      9|  3|   5|  2|  0| 
+|Nathaniel Lowe    |1B        |      3|  1|   1|  0|  0| 
+|Ozzie Albies      |2B        |      9|  1|   1|  0|  1| 
+|Manny Machado     |3B        |      9|  3|   2|  0|  1| 
+|Corey Seager      |SS        |     10|  4|   5|  2|  0| 
 |Ezequiel Tovar    |MI        |     10|  4|   1|  1|  0| 
-|Ha-Seong Kim      |CI        |      5|  4|   4|  1|  0| 
-|Bryan De La Cruz  |OF        |      2|  0|   0|  0|  0| 
-|Bryan Reynolds    |OF        |      2|  1|   4|  1|  0| 
-|Mookie Betts      |OF        |      5|  1|   1|  0|  0| 
+|Ha-Seong Kim      |CI        |      6|  4|   4|  1|  0| 
+|Bryan De La Cruz  |OF        |      3|  0|   0|  0|  0| 
+|Bryan Reynolds    |OF        |      5|  1|   4|  1|  0| 
+|Mookie Betts      |OF        |      7|  2|   2|  1|  0| 
 |Teoscar Hernández |OF        |      7|  2|   0|  0|  0| 
 |Alec Bohm         |DH        |      5|  3|   2|  0|  0| 
-|Connor Joe        |DH        |      7|  3|   2|  0|  0| 
-|Jeremy Peña       |DH        |      2|  1|   0|  0|  0| 
-|Zach Neto         |DH        |      4|  0|   0|  0|  2| 
+|Connor Joe        |DH        |      9|  4|   2|  0|  0| 
+|Jeremy Peña       |DH        |      2|  1|   0|  0|  1| 
+|Zach Neto         |DH        |      5|  0|   1|  0|  2| 
 |Cedric Mullins    |BAT BENCH |      0|  0|   0|  0|  0| 
 |Nolan Jones       |BAT BENCH |     **| **|  **| **| **| 
 |Tyler O'Neill     |BAT BENCH |     **| **|  **| **| **| 
@@ -38,10 +38,10 @@
 |Logan Gilbert    |SP          |  1| 6.000|  4|  6.000|      9| 1.500|  5|  0|  0| 
 |Sonny Gray       |SP          |  1| 5.000|  4|  7.200|      8| 1.600| 10|  0|  0| 
 |Tylor Megill     |SP          |  1| 7.000|  0|  0.000|      4| 0.571|  9|  0|  0| 
-|Clay Holmes      |RP          |  3| 2.333|  0|  0.000|      6| 2.571|  1|  0|  1| 
+|Clay Holmes      |RP          |  4| 3.333|  0|  0.000|      6| 1.800|  1|  0|  2| 
 |David Bednar     |RP          |  2| 2.000|  0|  0.000|      2| 1.000|  2|  0|  0| 
 |JP Sears         |OP          |  1| 7.000|  4|  5.143|      8| 1.143|  5|  0|  0| 
-|Lance Lynn       |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Lance Lynn       |OP          |  1| 4.000|  0|  0.000|      5| 1.250|  4|  0|  0| 
 |Nick Pivetta     |OP          |  1| 5.333|  2|  3.375|      5| 0.938|  9|  0|  0| 
 |Trevor Megill    |OP          |  2| 1.000|  1|  9.000|      1| 1.000|  3|  0|  0| 
 |Tyler Anderson   |OP          |  1| 5.000|  1|  1.800|     10| 2.000|  4|  0|  0| 
