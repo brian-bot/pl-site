@@ -5,20 +5,20 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman    |C         |      8|  1|   1|  0|  0| 
+|Adley Rutschman    |C         |      9|  1|   1|  0|  0| 
 |Pete Alonso        |1B        |      9|  4|   4|  1|  0| 
 |Nico Hoerner       |2B        |      9|  4|   1|  0|  0| 
-|Elly De La Cruz    |3B        |      4|  1|   0|  0|  1| 
+|Elly De La Cruz    |3B        |      6|  2|   1|  0|  1| 
 |CJ Abrams          |SS        |      2|  0|   0|  0|  0| 
-|Ketel Marte        |MI        |     11|  4|   5|  2|  0| 
+|Ketel Marte        |MI        |     12|  4|   5|  2|  0| 
 |Vinnie Pasquantino |CI        |      8|  3|   7|  2|  0| 
 |Juan Soto          |OF        |     14|  7|   9|  3|  0| 
 |Marcell Ozuna      |OF        |      9|  4|   6|  2|  0| 
-|Riley Greene       |OF        |     13|  6|   3|  1|  2| 
+|Riley Greene       |OF        |     14|  6|   3|  1|  2| 
 |Wenceel Pérez      |OF        |      6|  4|   1|  0|  0| 
 |Anthony Rizzo      |DH        |      3|  2|   0|  0|  0| 
 |Jake Burger        |DH        |     10|  3|   2|  0|  0| 
-|Jo Adell           |DH        |      1|  1|   4|  1|  0| 
+|Jo Adell           |DH        |      2|  2|   4|  1|  0| 
 |Mitch Garver       |DH        |      2|  0|   3|  0|  0| 
 |Lars Nootbaar      |BAT BENCH |      3|  0|   0|  0|  0| 
 |Michael Massey     |BAT BENCH |     **| **|  **| **| **| 

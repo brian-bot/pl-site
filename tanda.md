@@ -7,23 +7,23 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Logan O'Hoppe     |C         |      4|  3|   2|  2|  0| 
 |Matt Olson        |1B        |      9|  3|   4|  1|  0| 
-|Marcus Semien     |2B        |      8|  3|   0|  0|  0| 
-|Gunnar Henderson  |3B        |     11|  4|   5|  2|  1| 
+|Marcus Semien     |2B        |     11|  4|   1|  1|  0| 
+|Gunnar Henderson  |3B        |     12|  4|   5|  2|  1| 
 |Oneil Cruz        |SS        |      4|  3|   1|  0|  0| 
 |Dylan Moore       |MI        |      3|  1|   0|  0|  0| 
-|Luis Rengifo      |CI        |      8|  3|   0|  0|  0| 
-|J.D. Martinez     |OF        |     10|  4|   5|  2|  0| 
+|Luis Rengifo      |CI        |      9|  4|   0|  0|  1| 
+|J.D. Martinez     |OF        |     12|  6|   5|  2|  0| 
 |Jarren Duran      |OF        |      8|  3|   2|  0|  0| 
 |Julio Rodríguez   |OF        |      9|  3|   4|  0|  1| 
 |Luis Matos        |OF        |      2|  1|   1|  0|  0| 
-|Anthony Santander |DH        |      9|  4|   2|  1|  0| 
-|Colton Cowser     |DH        |      4|  3|   1|  0|  0| 
+|Anthony Santander |DH        |     11|  6|   4|  2|  0| 
+|Colton Cowser     |DH        |      5|  4|   2|  0|  0| 
 |Jorge Mateo       |DH        |      4|  0|   3|  0|  0| 
-|Jorge Soler       |DH        |      4|  2|   1|  0|  0| 
+|Jorge Soler       |DH        |      5|  2|   1|  0|  0| 
 |Brandon Lowe      |BAT BENCH |      8|  1|   1|  0|  0| 
 |Byron Buxton      |BAT BENCH |      6|  1|   0|  0|  1| 
 |Jackson Chourio   |BAT BENCH |      2|  1|   3|  1|  0| 
-|Michael Conforto  |BAT BENCH |     **| **|  **| **| **| 
+|Michael Conforto  |BAT BENCH |      0|  0|   0|  0|  0| 
 |Royce Lewis       |BAT BENCH |     **| **|  **| **| **| 
 
 
