@@ -5,25 +5,25 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |      6|  4|   4|  3|  0| 
-|Ryan Mountcastle  |1B        |      9|  3|   4|  2|  0| 
+|Will Smith        |C         |      9|  4|   4|  3|  0| 
+|Ryan Mountcastle  |1B        |     11|  5|   9|  4|  0| 
 |Luis García Jr.   |2B        |      7|  3|   0|  0|  0| 
-|Rafael Devers     |3B        |     11|  3|   5|  1|  0| 
-|Bobby Witt Jr.    |SS        |     10|  4|   6|  0|  1| 
+|Rafael Devers     |3B        |     12|  4|   5|  1|  0| 
+|Bobby Witt Jr.    |SS        |     13|  6|  10|  2|  1| 
 |Carlos Correa     |MI        |      4|  2|   5|  0|  0| 
-|Christopher Morel |CI        |     10|  3|   2|  1|  1| 
-|Jake McCarthy     |OF        |      7|  3|   1|  0|  3| 
+|Christopher Morel |CI        |     12|  5|   4|  2|  1| 
+|Jake McCarthy     |OF        |      8|  4|   1|  0|  3| 
 |Joc Pederson      |OF        |      7|  2|   4|  1|  1| 
 |Kerry Carpenter   |OF        |     **| **|  **| **| **| 
 |Taylor Ward       |OF        |      8|  1|   2|  0|  0| 
 |David Fry         |DH        |      9|  4|   7|  2|  1| 
-|Isaac Paredes     |DH        |      8|  2|   3|  1|  0| 
-|Luis Arraez       |DH        |      9|  5|   4|  0|  0| 
-|Yainer Diaz       |DH        |      2|  1|   2|  1|  0| 
+|Isaac Paredes     |DH        |     10|  4|   5|  1|  0| 
+|Luis Arraez       |DH        |     10|  6|   4|  0|  0| 
+|Yainer Diaz       |DH        |      3|  2|   5|  2|  0| 
 |Edouard Julien    |BAT BENCH |      3|  1|   1|  0|  1| 
-|Thairo Estrada    |BAT BENCH |      5|  0|   0|  0|  0| 
+|Thairo Estrada    |BAT BENCH |      6|  0|   0|  0|  0| 
 |Trea Turner       |BAT BENCH |     **| **|  **| **| **| 
-|Yandy Díaz        |BAT BENCH |      9|  0|   4|  0|  0| 
+|Yandy Díaz        |BAT BENCH |     11|  1|   4|  0|  0| 
 
 
 * * *
@@ -47,7 +47,7 @@
 |Robert Gasser     |OP          |  1|  5.000|  3|  5.400|      7| 1.400|  3|  0|  0| 
 |Trevor Williams   |OP          |  1|  5.667|  1|  1.588|      6| 1.059|  4|  1|  0| 
 |Paul Blackburn    |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Reed Garrett      |PITCH BENCH |  4|  3.000|  2|  6.000|      4| 1.333|  4|  0|  1| 
+|Reed Garrett      |PITCH BENCH |  5|  4.000|  3|  6.750|      7| 1.750|  6|  0|  1| 
 
 
 * * *
