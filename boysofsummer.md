@@ -5,25 +5,25 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |      9|  4|   4|  3|  0| 
+|Will Smith        |C         |     11|  4|   5|  3|  0| 
 |Ryan Mountcastle  |1B        |     11|  5|   9|  4|  0| 
-|Luis García Jr.   |2B        |      7|  3|   0|  0|  0| 
-|Rafael Devers     |3B        |     12|  4|   5|  1|  0| 
+|Luis García Jr.   |2B        |      8|  3|   0|  0|  0| 
+|Rafael Devers     |3B        |     15|  7|   8|  3|  0| 
 |Bobby Witt Jr.    |SS        |     13|  6|  10|  2|  1| 
-|Carlos Correa     |MI        |      4|  2|   5|  0|  0| 
-|Christopher Morel |CI        |     12|  5|   4|  2|  1| 
-|Jake McCarthy     |OF        |      8|  4|   1|  0|  3| 
-|Joc Pederson      |OF        |      7|  2|   4|  1|  1| 
+|Carlos Correa     |MI        |      4|  2|   7|  0|  0| 
+|Christopher Morel |CI        |     14|  6|   4|  2|  2| 
+|Jake McCarthy     |OF        |     11|  5|   1|  0|  4| 
+|Joc Pederson      |OF        |      8|  2|   5|  1|  1| 
 |Kerry Carpenter   |OF        |     **| **|  **| **| **| 
-|Taylor Ward       |OF        |      8|  1|   2|  0|  0| 
+|Taylor Ward       |OF        |      9|  1|   2|  0|  0| 
 |David Fry         |DH        |      9|  4|   7|  2|  1| 
-|Isaac Paredes     |DH        |     10|  4|   5|  1|  0| 
-|Luis Arraez       |DH        |     10|  6|   4|  0|  0| 
-|Yainer Diaz       |DH        |      3|  2|   5|  2|  0| 
+|Isaac Paredes     |DH        |     12|  5|   8|  1|  0| 
+|Luis Arraez       |DH        |     12|  7|   4|  0|  0| 
+|Yainer Diaz       |DH        |      4|  3|   6|  3|  0| 
 |Edouard Julien    |BAT BENCH |      3|  1|   1|  0|  1| 
-|Thairo Estrada    |BAT BENCH |      6|  0|   0|  0|  0| 
+|Thairo Estrada    |BAT BENCH |      9|  1|   1|  0|  0| 
 |Trea Turner       |BAT BENCH |     **| **|  **| **| **| 
-|Yandy Díaz        |BAT BENCH |     11|  1|   4|  0|  0| 
+|Yandy Díaz        |BAT BENCH |     12|  1|   4|  0|  0| 
 
 
 * * *
@@ -43,7 +43,7 @@
 |Jhoan Duran       |RP          |  3|  3.000|  0|  0.000|      4| 1.333|  2|  0|  3| 
 |Ben Lively        |OP          |  1|  5.667|  2|  3.176|      6| 1.059|  4|  1|  0| 
 |Blake Snell       |OP          |  1|  4.667|  3|  5.786|      8| 1.714|  7|  0|  0| 
-|Mason Miller      |OP          |  2|  3.000|  1|  3.000|      6| 2.000|  6|  0|  1| 
+|Mason Miller      |OP          |  3|  4.667|  2|  3.857|      8| 1.714|  7|  0|  2| 
 |Robert Gasser     |OP          |  1|  5.000|  3|  5.400|      7| 1.400|  3|  0|  0| 
 |Trevor Williams   |OP          |  1|  5.667|  1|  1.588|      6| 1.059|  4|  1|  0| 
 |Paul Blackburn    |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 

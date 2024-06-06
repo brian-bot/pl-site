@@ -6,19 +6,19 @@
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
 |Danny Jansen          |C         |      6|  2|   0|  0|  0| 
-|Freddie Freeman       |1B        |     15|  4|   5|  2|  1| 
-|Gleyber Torres        |2B        |     10|  2|   1|  1|  0| 
-|Matt Chapman          |3B        |     10|  2|   1|  0|  0| 
+|Freddie Freeman       |1B        |     16|  5|   5|  2|  2| 
+|Gleyber Torres        |2B        |     11|  2|   3|  1|  0| 
+|Matt Chapman          |3B        |     13|  3|   1|  0|  0| 
 |Willy Adames          |SS        |     14|  6|   7|  1|  0| 
 |Maikel Garcia         |MI        |     11|  8|   1|  0|  1| 
 |Vladimir Guerrero Jr. |CI        |     12|  3|   2|  1|  1| 
-|Cody Bellinger        |OF        |     11|  6|   4|  1|  2| 
+|Cody Bellinger        |OF        |     11|  6|   6|  1|  2| 
 |Kyle Tucker           |OF        |      7|  4|   1|  1|  1| 
 |Michael Harris II     |OF        |      9|  3|   2|  0|  0| 
-|Seiya Suzuki          |OF        |     10|  3|   7|  2|  1| 
-|Alex Verdugo          |DH        |      8|  3|   5|  1|  0| 
+|Seiya Suzuki          |OF        |     11|  3|   7|  2|  1| 
+|Alex Verdugo          |DH        |      8|  3|   6|  1|  0| 
 |Brenton Doyle         |DH        |      9|  1|   1|  0|  0| 
-|Ian Happ              |DH        |     11|  6|   9|  2|  0| 
+|Ian Happ              |DH        |     12|  6|  10|  2|  1| 
 |Jake Meyers           |DH        |      7|  2|   3|  0|  2| 
 |Jonny DeLuca          |BAT BENCH |      2|  0|   0|  0|  0| 
 |Jurickson Profar      |BAT BENCH |     14|  2|   6|  1|  0| 

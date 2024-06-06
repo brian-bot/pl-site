@@ -5,22 +5,22 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Cal Raleigh       |C         |      6|  0|   4|  0|  0| 
-|Bryce Harper      |1B        |     11|  3|   3|  1|  0| 
+|Cal Raleigh       |C         |      7|  0|   4|  0|  0| 
+|Bryce Harper      |1B        |     13|  3|   3|  1|  0| 
 |Brice Turang      |2B        |     10|  4|   2|  0|  2| 
-|Nolan Arenado     |3B        |      7|  2|   4|  2|  0| 
-|Dansby Swanson    |SS        |      7|  2|   4|  1|  0| 
-|J.P. Crawford     |MI        |      8|  4|   5|  1|  1| 
+|Nolan Arenado     |3B        |      9|  3|   5|  3|  0| 
+|Dansby Swanson    |SS        |     10|  4|   4|  1|  0| 
+|J.P. Crawford     |MI        |      9|  4|   5|  1|  1| 
 |Josh Naylor       |CI        |      8|  7|   9|  3|  0| 
 |Evan Carter       |OF        |     **| **|  **| **| **| 
 |Jazz Chisholm Jr. |OF        |      5|  1|   2|  0|  1| 
-|Kyle Schwarber    |OF        |     11|  2|   2|  1|  1| 
-|Randy Arozarena   |OF        |     13|  2|   1|  0|  0| 
+|Kyle Schwarber    |OF        |     12|  2|   2|  1|  1| 
+|Randy Arozarena   |OF        |     16|  4|   1|  0|  0| 
 |Lane Thomas       |DH        |     12|  4|   5|  1|  4| 
 |Patrick Bailey    |DH        |      6|  0|   1|  0|  0| 
 |Starling Marte    |DH        |     13|  5|   6|  0|  2| 
-|Ty France         |DH        |     12|  3|   5|  1|  0| 
-|Josh Lowe         |BAT BENCH |     **| **|  **| **| **| 
+|Ty France         |DH        |     13|  3|   5|  1|  0| 
+|Josh Lowe         |BAT BENCH |      1|  0|   1|  0|  0| 
 |Kyle Manzardo     |BAT BENCH |      4|  1|   3|  0|  0| 
 
 
@@ -37,12 +37,12 @@
 |Tanner Bibee       |SP          |  1|  6.333|  1| 1.421|      4| 0.632|  7|  1|  0| 
 |Tarik Skubal       |SP          |  2| 13.000|  1| 0.692|     13| 1.000| 14|  1|  0| 
 |Zack Wheeler       |SP          |  2| 13.000|  1| 0.692|     12| 0.923| 15|  1|  0| 
-|Kirby Yates        |RP          |  2|  1.333|  0| 0.000|      2| 1.500|  2|  0|  1| 
-|Mark Leiter Jr.    |RP          |  3|  2.000|  1| 4.500|      2| 1.000|  3|  1|  0| 
+|Kirby Yates        |RP          |  3|  2.333|  0| 0.000|      2| 0.857|  4|  0|  1| 
+|Mark Leiter Jr.    |RP          |  4|  2.333|  1| 3.857|      2| 0.857|  4|  1|  0| 
 |Blake Treinen      |OP          |  3|  3.000|  0| 0.000|      3| 1.000|  4|  1|  1| 
 |Bryse Wilson       |OP          |  2|  9.667|  6| 5.586|     15| 1.552|  2|  0|  0| 
 |Christian Scott    |OP          |  1|  5.000|  2| 3.600|      5| 1.000|  4|  0|  0| 
-|Héctor Neris       |OP          |  4|  4.000|  2| 4.500|      6| 1.500|  3|  1|  2| 
+|Héctor Neris       |OP          |  5|  5.000|  2| 3.600|      7| 1.400|  5|  2|  2| 
 |Zack Littell       |OP          |  2| 13.000|  6| 4.154|     19| 1.462| 11|  0|  0| 
 |Merrill Kelly      |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 
