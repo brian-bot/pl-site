@@ -6,24 +6,24 @@
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |J.T. Realmuto       |C         |      3|  1|   0|  0|  0| 
-|Paul Goldschmidt    |1B        |     12|  3|   0|  0|  0| 
+|Paul Goldschmidt    |1B        |     13|  3|   0|  0|  0| 
 |Bryson Stott        |2B        |      8|  0|   2|  0|  4| 
-|Jeimer Candelario   |3B        |     12|  4|   5|  2|  2| 
+|Jeimer Candelario   |3B        |     14|  4|   5|  2|  2| 
 |Francisco Lindor    |SS        |     19|  6|   7|  3|  3| 
 |Bo Bichette         |MI        |      8|  1|   2|  0|  0| 
 |Alex Bregman        |CI        |     14|  9|   8|  5|  0| 
 |Brandon Marsh       |OF        |      6|  2|   2|  0|  0| 
 |Brandon Nimmo       |OF        |     13|  4|   2|  0|  1| 
-|Lourdes Gurriel Jr. |OF        |     10|  3|   7|  2|  0| 
-|Steven Kwan         |OF        |      7|  4|   1|  0|  0| 
-|Austin Riley        |DH        |      8|  5|   1|  0|  0| 
-|Eugenio Suárez      |DH        |      5|  3|   3|  1|  1| 
-|Masyn Winn          |DH        |     11|  4|   6|  1|  1| 
+|Lourdes Gurriel Jr. |OF        |     11|  3|   7|  2|  0| 
+|Steven Kwan         |OF        |      9|  6|   1|  0|  0| 
+|Austin Riley        |DH        |      9|  6|   2|  0|  0| 
+|Eugenio Suárez      |DH        |      6|  4|   4|  2|  1| 
+|Masyn Winn          |DH        |     13|  4|   6|  1|  1| 
 |Spencer Torkelson   |DH        |      0|  0|   0|  0|  0| 
 |Blaze Alexander     |BAT BENCH |     10|  4|   3|  0|  1| 
 |Esteury Ruiz        |BAT BENCH |     **| **|  **| **| **| 
 |George Springer     |BAT BENCH |     16|  8|   2|  1|  0| 
-|Max Kepler          |BAT BENCH |      4|  2|   1|  0|  0| 
+|Max Kepler          |BAT BENCH |      5|  3|   2|  0|  0| 
 
 
 * * *
