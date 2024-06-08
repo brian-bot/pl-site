@@ -6,19 +6,19 @@
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |J.T. Realmuto       |C         |      3|  1|   0|  0|  0| 
-|Paul Goldschmidt    |1B        |     13|  3|   0|  0|  0| 
+|Paul Goldschmidt    |1B        |     15|  4|   2|  0|  0| 
 |Bryson Stott        |2B        |      8|  0|   2|  0|  4| 
-|Jeimer Candelario   |3B        |     14|  4|   5|  2|  2| 
+|Jeimer Candelario   |3B        |     15|  4|   5|  2|  2| 
 |Francisco Lindor    |SS        |     19|  6|   7|  3|  3| 
-|Bo Bichette         |MI        |      8|  1|   2|  0|  0| 
-|Alex Bregman        |CI        |     14|  9|   8|  5|  0| 
+|Bo Bichette         |MI        |     10|  1|   3|  0|  0| 
+|Alex Bregman        |CI        |     17| 10|   8|  5|  0| 
 |Brandon Marsh       |OF        |      6|  2|   2|  0|  0| 
 |Brandon Nimmo       |OF        |     13|  4|   2|  0|  1| 
-|Lourdes Gurriel Jr. |OF        |     11|  3|   7|  2|  0| 
+|Lourdes Gurriel Jr. |OF        |     12|  4|   8|  3|  0| 
 |Steven Kwan         |OF        |      9|  6|   1|  0|  0| 
-|Austin Riley        |DH        |      9|  6|   2|  0|  0| 
+|Austin Riley        |DH        |     11|  6|   2|  0|  0| 
 |Eugenio Suárez      |DH        |      6|  4|   4|  2|  1| 
-|Masyn Winn          |DH        |     13|  4|   6|  1|  1| 
+|Masyn Winn          |DH        |     15|  6|   6|  1|  1| 
 |Spencer Torkelson   |DH        |      0|  0|   0|  0|  0| 
 |Blaze Alexander     |BAT BENCH |     10|  4|   3|  0|  1| 
 |Esteury Ruiz        |BAT BENCH |     **| **|  **| **| **| 
@@ -42,10 +42,10 @@
 |Josh Hader        |RP          |  4|  4.000|  0|  0.000|      4| 1.000|  7|  0|  2| 
 |Kenley Jansen     |RP          |  1|  1.000|  0|  0.000|      1| 1.000|  1|  0|  0| 
 |Alec Marsh        |OP          |  1|  5.000|  5|  9.000|     10| 2.000|  3|  0|  0| 
-|Mitch Keller      |OP          |  1|  6.000|  1|  1.500|      6| 1.000|  8|  1|  0| 
+|Mitch Keller      |OP          |  2| 12.000|  1|  0.750|     15| 1.250| 16|  2|  0| 
 |Ranger Suárez     |OP          |  1|  2.000|  0|  0.000|      0| 0.000|  2|  0|  0| 
-|Reese Olson       |OP          |  1|  5.333|  5|  8.438|      7| 1.312|  5|  0|  0| 
-|Tanner Scott      |OP          |  2|  2.000|  0|  0.000|      2| 1.000|  2|  0|  0| 
+|Reese Olson       |OP          |  2|  9.333| 13| 12.536|     20| 2.143| 11|  0|  0| 
+|Tanner Scott      |OP          |  3|  3.667|  0|  0.000|      2| 0.545|  4|  1|  0| 
 |Bowden Francis    |PITCH BENCH |  1|  3.333|  4| 10.800|      5| 1.500|  2|  0|  0| 
 |Max Meyer         |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Reid Detmers      |PITCH BENCH |  1|  3.667|  5| 12.273|      8| 2.182|  3|  0|  0| 

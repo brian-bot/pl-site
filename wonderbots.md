@@ -5,20 +5,20 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras |C         |     10|  4|   1|  0|  1| 
-|Nathaniel Lowe    |1B        |      8|  2|   2|  0|  0| 
+|William Contreras |C         |     11|  5|   3|  0|  1| 
+|Nathaniel Lowe    |1B        |      9|  3|   2|  0|  0| 
 |Ozzie Albies      |2B        |     13|  4|   4|  1|  1| 
 |Manny Machado     |3B        |     15|  4|   4|  1|  3| 
 |Corey Seager      |SS        |     14|  4|   6|  2|  0| 
 |Ezequiel Tovar    |MI        |     14|  6|   1|  1|  0| 
-|Ha-Seong Kim      |CI        |     10|  4|   4|  1|  0| 
-|Bryan De La Cruz  |OF        |      4|  2|   2|  1|  0| 
-|Bryan Reynolds    |OF        |      9|  3|   6|  1|  1| 
-|Mookie Betts      |OF        |     13|  5|   5|  2|  0| 
-|Teoscar Hernández |OF        |     11|  5|   1|  1|  0| 
+|Ha-Seong Kim      |CI        |     13|  7|   6|  2|  0| 
+|Bryan De La Cruz  |OF        |      7|  3|   3|  2|  0| 
+|Bryan Reynolds    |OF        |     11|  4|   6|  1|  1| 
+|Mookie Betts      |OF        |     16|  5|   5|  2|  0| 
+|Teoscar Hernández |OF        |     14|  5|   3|  1|  0| 
 |Alec Bohm         |DH        |      6|  4|   3|  1|  0| 
-|Connor Joe        |DH        |     11|  5|   2|  0|  0| 
-|Jeremy Peña       |DH        |      8|  2|   2|  0|  2| 
+|Connor Joe        |DH        |     12|  6|   3|  1|  0| 
+|Jeremy Peña       |DH        |      9|  2|   2|  0|  2| 
 |Zach Neto         |DH        |      8|  1|   5|  1|  2| 
 |Cedric Mullins    |BAT BENCH |      1|  1|   0|  0|  1| 
 |Nolan Jones       |BAT BENCH |     **| **|  **| **| **| 
@@ -38,10 +38,10 @@
 |Logan Gilbert    |SP          |  2| 13.000|  5|  3.462|     14| 1.077| 10|  0|  0| 
 |Sonny Gray       |SP          |  2|  9.667|  7|  6.517|     14| 1.448| 15|  0|  0| 
 |Tylor Megill     |SP          |  2| 12.000|  4|  3.000|     14| 1.167| 13|  1|  0| 
-|Clay Holmes      |RP          |  5|  4.333|  0|  0.000|      7| 1.615|  2|  0|  3| 
-|David Bednar     |RP          |  4|  4.000|  0|  0.000|      2| 0.500|  2|  0|  1| 
+|Clay Holmes      |RP          |  6|  5.333|  0|  0.000|      7| 1.312|  2|  0|  3| 
+|David Bednar     |RP          |  5|  5.000|  0|  0.000|      3| 0.600|  3|  0|  2| 
 |JP Sears         |OP          |  2| 13.000|  6|  4.154|     13| 1.000| 13|  0|  0| 
-|Lance Lynn       |OP          |  1|  4.000|  0|  0.000|      5| 1.250|  4|  0|  0| 
+|Lance Lynn       |OP          |  2|  8.000|  4|  4.500|     13| 1.625| 10|  0|  0| 
 |Nick Pivetta     |OP          |  2| 12.333|  2|  1.459|      8| 0.649| 18|  1|  0| 
 |Trevor Megill    |OP          |  3|  2.000|  1|  4.500|      3| 1.500|  6|  0|  0| 
 |Tyler Anderson   |OP          |  2| 11.667|  2|  1.543|     18| 1.543|  6|  0|  0| 
