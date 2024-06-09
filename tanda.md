@@ -6,25 +6,25 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Logan O'Hoppe     |C         |      8|  5|   2|  2|  0| 
-|Matt Olson        |1B        |     12|  4|   5|  1|  0| 
-|Marcus Semien     |2B        |     16|  6|   1|  1|  0| 
-|Gunnar Henderson  |3B        |     19|  8|   5|  2|  1| 
-|Oneil Cruz        |SS        |      8|  6|   5|  2|  1| 
-|Dylan Moore       |MI        |      6|  4|   1|  0|  1| 
-|Luis Rengifo      |CI        |     13|  4|   1|  0|  2| 
-|J.D. Martinez     |OF        |     15|  7|   5|  2|  0| 
-|Jarren Duran      |OF        |     15|  8|   5|  2|  1| 
-|Julio Rodríguez   |OF        |     15|  5|   5|  1|  1| 
+|Matt Olson        |1B        |     14|  4|   5|  1|  0| 
+|Marcus Semien     |2B        |     17|  7|   1|  1|  0| 
+|Gunnar Henderson  |3B        |     21|  9|   8|  3|  1| 
+|Oneil Cruz        |SS        |      9|  7|   5|  2|  1| 
+|Dylan Moore       |MI        |      6|  4|   2|  0|  1| 
+|Luis Rengifo      |CI        |     14|  4|   1|  0|  3| 
+|J.D. Martinez     |OF        |     16|  7|   6|  2|  0| 
+|Jarren Duran      |OF        |     17|  8|   5|  2|  3| 
+|Julio Rodríguez   |OF        |     16|  6|   5|  1|  1| 
 |Luis Matos        |OF        |      3|  1|   1|  0|  0| 
-|Anthony Santander |DH        |     17|  8|   7|  4|  0| 
-|Colton Cowser     |DH        |      8|  7|   2|  0|  0| 
+|Anthony Santander |DH        |     19|  8|   7|  4|  0| 
+|Colton Cowser     |DH        |      9|  7|   2|  0|  1| 
 |Jorge Mateo       |DH        |      4|  0|   3|  0|  0| 
 |Jorge Soler       |DH        |      8|  4|   3|  1|  0| 
 |Brandon Lowe      |BAT BENCH |     13|  5|   7|  1|  0| 
-|Byron Buxton      |BAT BENCH |      8|  1|   1|  0|  1| 
-|Jackson Chourio   |BAT BENCH |      2|  1|   3|  1|  0| 
+|Byron Buxton      |BAT BENCH |      9|  1|   1|  0|  1| 
+|Jackson Chourio   |BAT BENCH |      4|  2|   5|  1|  0| 
 |Michael Conforto  |BAT BENCH |      4|  2|   2|  1|  0| 
-|Royce Lewis       |BAT BENCH |      4|  2|   2|  2|  0| 
+|Royce Lewis       |BAT BENCH |      5|  2|   2|  2|  0| 
 
 
 * * *

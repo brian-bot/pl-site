@@ -5,22 +5,22 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras |C         |     11|  5|   3|  0|  1| 
-|Nathaniel Lowe    |1B        |      9|  3|   2|  0|  0| 
-|Ozzie Albies      |2B        |     13|  4|   4|  1|  1| 
+|William Contreras |C         |     12|  5|   3|  0|  1| 
+|Nathaniel Lowe    |1B        |     10|  3|   3|  0|  0| 
+|Ozzie Albies      |2B        |     14|  4|   5|  1|  1| 
 |Manny Machado     |3B        |     15|  4|   4|  1|  3| 
 |Corey Seager      |SS        |     14|  4|   6|  2|  0| 
-|Ezequiel Tovar    |MI        |     14|  6|   1|  1|  0| 
-|Ha-Seong Kim      |CI        |     13|  7|   6|  2|  0| 
+|Ezequiel Tovar    |MI        |     18|  8|   5|  3|  0| 
+|Ha-Seong Kim      |CI        |     15|  8|   9|  3|  0| 
 |Bryan De La Cruz  |OF        |      7|  3|   3|  2|  0| 
-|Bryan Reynolds    |OF        |     11|  4|   6|  1|  1| 
-|Mookie Betts      |OF        |     16|  5|   5|  2|  0| 
-|Teoscar Hernández |OF        |     14|  5|   3|  1|  0| 
-|Alec Bohm         |DH        |      6|  4|   3|  1|  0| 
+|Bryan Reynolds    |OF        |     13|  4|   6|  1|  1| 
+|Mookie Betts      |OF        |     18|  7|   5|  2|  0| 
+|Teoscar Hernández |OF        |     17|  7|   9|  3|  1| 
+|Alec Bohm         |DH        |      7|  5|   3|  1|  0| 
 |Connor Joe        |DH        |     12|  6|   3|  1|  0| 
-|Jeremy Peña       |DH        |      9|  2|   2|  0|  2| 
-|Zach Neto         |DH        |      8|  1|   5|  1|  2| 
-|Cedric Mullins    |BAT BENCH |      1|  1|   0|  0|  1| 
+|Jeremy Peña       |DH        |     10|  3|   2|  0|  2| 
+|Zach Neto         |DH        |      9|  1|   5|  1|  2| 
+|Cedric Mullins    |BAT BENCH |      2|  2|   0|  0|  1| 
 |Nolan Jones       |BAT BENCH |     **| **|  **| **| **| 
 |Tyler O'Neill     |BAT BENCH |      5|  3|   1|  0|  0| 
 
@@ -34,20 +34,20 @@
 |:----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Corbin Burnes    |SP          |  2| 14.000|  1|  0.643|     11| 0.786| 10|  2|  0| 
 |Justin Verlander |SP          |  2| 12.000|  5|  3.750|     13| 1.083| 13|  0|  0| 
-|Kyle Bradish     |SP          |  1|  2.667|  5| 16.875|     10| 3.750|  6|  0|  0| 
+|Kyle Bradish     |SP          |  2|  8.667|  5|  5.192|     11| 1.269| 15|  1|  0| 
 |Logan Gilbert    |SP          |  2| 13.000|  5|  3.462|     14| 1.077| 10|  0|  0| 
 |Sonny Gray       |SP          |  2|  9.667|  7|  6.517|     14| 1.448| 15|  0|  0| 
 |Tylor Megill     |SP          |  2| 12.000|  4|  3.000|     14| 1.167| 13|  1|  0| 
 |Clay Holmes      |RP          |  6|  5.333|  0|  0.000|      7| 1.312|  2|  0|  3| 
-|David Bednar     |RP          |  5|  5.000|  0|  0.000|      3| 0.600|  3|  0|  2| 
+|David Bednar     |RP          |  6|  6.000|  0|  0.000|      4| 0.667|  5|  0|  2| 
 |JP Sears         |OP          |  2| 13.000|  6|  4.154|     13| 1.000| 13|  0|  0| 
 |Lance Lynn       |OP          |  2|  8.000|  4|  4.500|     13| 1.625| 10|  0|  0| 
 |Nick Pivetta     |OP          |  2| 12.333|  2|  1.459|      8| 0.649| 18|  1|  0| 
-|Trevor Megill    |OP          |  3|  2.000|  1|  4.500|      3| 1.500|  6|  0|  0| 
-|Tyler Anderson   |OP          |  2| 11.667|  2|  1.543|     18| 1.543|  6|  0|  0| 
+|Trevor Megill    |OP          |  4|  3.000|  1|  3.000|      3| 1.000|  6|  0|  1| 
+|Tyler Anderson   |OP          |  3| 17.667|  6|  3.057|     26| 1.472|  9|  0|  0| 
 |Graham Ashcraft  |PITCH BENCH |  2|  8.333|  7|  7.560|     13| 1.560|  6|  0|  0| 
-|Jon Gray         |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Sean Manaea      |PITCH BENCH |  1|  5.667|  5|  7.941|      8| 1.412| 10|  0|  0| 
+|Jon Gray         |PITCH BENCH |  1|  2.333|  0|  0.000|      2| 0.857|  4|  0|  0| 
+|Sean Manaea      |PITCH BENCH |  2|  9.333| 11| 10.607|     16| 1.714| 13|  0|  0| 
 
 
 * * *

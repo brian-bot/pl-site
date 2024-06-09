@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Cal Raleigh       |C         |     11|  1|   4|  0|  1| 
-|Bryce Harper      |1B        |     13|  3|   3|  1|  0| 
-|Brice Turang      |2B        |     14|  6|   4|  0|  3| 
-|Nolan Arenado     |3B        |     12|  3|   6|  3|  0| 
-|Dansby Swanson    |SS        |     11|  5|   5|  2|  0| 
-|J.P. Crawford     |MI        |     13|  5|   5|  1|  1| 
-|Josh Naylor       |CI        |      8|  7|  10|  3|  0| 
+|Cal Raleigh       |C         |     12|  1|   4|  0|  1| 
+|Bryce Harper      |1B        |     16|  4|   4|  2|  0| 
+|Brice Turang      |2B        |     17|  8|   4|  0|  4| 
+|Nolan Arenado     |3B        |     13|  3|   7|  3|  0| 
+|Dansby Swanson    |SS        |     15|  5|   6|  2|  0| 
+|J.P. Crawford     |MI        |     15|  6|   7|  2|  1| 
+|Josh Naylor       |CI        |     10|  8|  12|  3|  0| 
 |Evan Carter       |OF        |     **| **|  **| **| **| 
-|Jazz Chisholm Jr. |OF        |      7|  1|   3|  0|  2| 
-|Kyle Schwarber    |OF        |     12|  2|   2|  1|  1| 
+|Jazz Chisholm Jr. |OF        |      8|  1|   3|  0|  2| 
+|Kyle Schwarber    |OF        |     13|  2|   3|  1|  1| 
 |Randy Arozarena   |OF        |     18|  4|   1|  0|  0| 
-|Lane Thomas       |DH        |     15|  5|   6|  2|  4| 
-|Patrick Bailey    |DH        |      6|  0|   1|  0|  0| 
-|Starling Marte    |DH        |     13|  5|   6|  0|  2| 
+|Lane Thomas       |DH        |     17|  7|   6|  2|  4| 
+|Patrick Bailey    |DH        |      7|  0|   1|  0|  0| 
+|Starling Marte    |DH        |     15|  5|   7|  0|  2| 
 |Ty France         |DH        |     18|  4|   6|  1|  0| 
 |Josh Lowe         |BAT BENCH |      1|  0|   1|  0|  0| 
-|Kyle Manzardo     |BAT BENCH |      6|  1|   3|  0|  0| 
+|Kyle Manzardo     |BAT BENCH |      7|  1|   4|  0|  0| 
 
 
 * * *
@@ -38,7 +38,7 @@
 |Tarik Skubal       |SP          |  2| 13.000|  1| 0.692|     13| 1.000| 14|  1|  0| 
 |Zack Wheeler       |SP          |  2| 13.000|  1| 0.692|     12| 0.923| 15|  1|  0| 
 |Kirby Yates        |RP          |  3|  2.333|  0| 0.000|      2| 0.857|  4|  0|  1| 
-|Mark Leiter Jr.    |RP          |  4|  2.333|  1| 3.857|      2| 0.857|  4|  1|  0| 
+|Mark Leiter Jr.    |RP          |  5|  3.000|  1| 3.000|      2| 0.667|  4|  1|  0| 
 |Blake Treinen      |OP          |  5|  4.333|  0| 0.000|      5| 1.154|  7|  1|  1| 
 |Bryse Wilson       |OP          |  2|  9.667|  6| 5.586|     15| 1.552|  2|  0|  0| 
 |Christian Scott    |OP          |  1|  5.000|  2| 3.600|      5| 1.000|  4|  0|  0| 
