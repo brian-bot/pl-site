@@ -6,23 +6,23 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Sean Murphy        |C         |      7|  2|   3|  1|  0| 
-|Christian Walker   |1B        |     14|  4|   6|  2|  1| 
-|Jose Altuve        |2B        |     13|  3|   2|  0|  1| 
-|Matt Vierling      |3B        |     14|  7|   5|  2|  0| 
-|Jackson Merrill    |SS        |     10|  4|   2|  0|  1| 
+|Christian Walker   |1B        |     16|  4|   8|  2|  1| 
+|Jose Altuve        |2B        |     17|  5|   5|  1|  1| 
+|Matt Vierling      |3B        |     16|  7|   5|  2|  0| 
+|Jackson Merrill    |SS        |     11|  4|   2|  0|  2| 
 |Anthony Volpe      |MI        |     16| 11|   2|  0|  1| 
 |Josh Bell          |CI        |     17|  6|   4|  1|  0| 
-|Corbin Carroll     |OF        |     17|  8|   3|  0|  1| 
-|Fernando Tatis Jr. |OF        |     25|  9|   5|  2|  1| 
-|Mark Canha         |OF        |      9|  2|   4|  0|  1| 
-|Spencer Steer      |OF        |     14|  4|   5|  1|  0| 
-|Brendan Donovan    |DH        |     12|  3|   2|  0|  0| 
-|Jonah Heim         |DH        |      9|  3|   3|  1|  0| 
-|Jonathan India     |DH        |     21|  8|   9|  1|  0| 
-|Justin Turner      |DH        |     15|  2|   3|  0|  0| 
+|Corbin Carroll     |OF        |     20| 10|   3|  0|  2| 
+|Fernando Tatis Jr. |OF        |     27| 10|   6|  3|  1| 
+|Mark Canha         |OF        |     11|  4|   4|  0|  1| 
+|Spencer Steer      |OF        |     16|  5|   5|  1|  0| 
+|Brendan Donovan    |DH        |     13|  4|   2|  0|  0| 
+|Jonah Heim         |DH        |     10|  3|   3|  1|  0| 
+|Jonathan India     |DH        |     22|  8|   9|  1|  0| 
+|Justin Turner      |DH        |     17|  3|   3|  0|  0| 
 |Jorge Polanco      |BAT BENCH |     **| **|  **| **| **| 
 |Josh Jung          |BAT BENCH |     **| **|  **| **| **| 
-|MJ Melendez        |BAT BENCH |      5|  3|   5|  2|  0| 
+|MJ Melendez        |BAT BENCH |      6|  4|   7|  3|  0| 
 |Triston Casas      |BAT BENCH |     **| **|  **| **| **| 
 |Xander Bogaerts    |BAT BENCH |     **| **|  **| **| **| 
 
@@ -44,11 +44,11 @@
 |Ryan Helsley  |RP          |  4|  4.000|  1|  2.250|      3| 0.750|  6|  0|  4| 
 |Aaron Civale  |OP          |  2| 10.333|  5|  4.355|     15| 1.452| 11|  0|  0| 
 |Jesús Luzardo |OP          |  2| 10.333| 12| 10.452|     20| 1.935|  6|  0|  0| 
-|José Alvarado |OP          |  5|  5.000|  0|  0.000|      3| 0.600|  6|  0|  2| 
+|José Alvarado |OP          |  6|  5.667|  2|  3.176|      7| 1.235|  8|  0|  2| 
 |Michael Wacha |OP          |  1|  5.333|  2|  3.375|      6| 1.125|  2|  0|  0| 
 |Ryan Pepiot   |OP          |  2| 11.667|  5|  3.857|     10| 0.857| 15|  1|  0| 
 |Kenta Maeda   |PITCH BENCH |  1|  4.667|  5|  9.643|     10| 2.143|  6|  0|  0| 
-|Kyle Finnegan |PITCH BENCH |  4|  4.000|  1|  2.250|      3| 0.750|  4|  0|  3| 
+|Kyle Finnegan |PITCH BENCH |  5|  5.000|  1|  1.800|      3| 0.600|  5|  0|  4| 
 
 
 * * *
