@@ -2,21 +2,21 @@
 
 ## Period 4 scores
 
-Through games on 2024-06-09 ([website build status](https://github.com/brian-bot/pl-site/actions))
+Through games on 2024-06-10 ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 
-|team                   | points|  r| hitsbb| hr| rbi| sb|  w| sv|  so|   era|  whip|
-|:----------------------|------:|--:|------:|--:|---:|--:|--:|--:|---:|-----:|-----:|
-|[Washington Generals](./washingtongenerals)|   32.5| 73|    198| 18|  65| 13| 10|  2| 125| 5.831| 1.580|
-|[Terminoeckers](./terminoeckers)|   58.0| 82|    225| 15|  77| 20|  8|  1|  96| 3.020| 0.987|
-|[Mean Wieners](./meanwieners)|   71.0| 91|    215| 28|  80| 15|  7|  3| 138| 3.688| 0.973|
-|[Overwhelming Underdogs](./overwhelmingunderdogs)|   58.0| 86|    236| 13|  64|  9|  9|  9| 129| 3.641| 1.137|
-|[Bone Pilers](./bonepilers)|   59.5| 62|    218| 18|  78| 15| 10|  5| 137| 3.423| 1.148|
-|[Wonderbots](./wonderbots)|   61.0| 78|    208| 22|  80| 11|  5|  7| 143| 3.199| 1.137|
-|[T and A](./tanda)     |   54.5| 96|    207| 22|  66| 16|  8|  7| 117| 4.206| 1.251|
-|[Boys of Summer](./boysofsummer)|   62.5| 78|    211| 26|  98| 13| 12|  7| 114| 4.091| 1.273|
-|[Vass Deferens](./vassdeferens)|   57.5| 90|    211| 25|  86| 10|  8|  6| 131| 4.251| 1.193|
-|[Nuclear Arms](./nucleararms)|   35.5| 72|    178| 25|  76|  8|  5|  6| 140| 4.291| 1.350|
+|team                   | points|   r| hitsbb| hr| rbi| sb|  w| sv|  so|   era|  whip|
+|:----------------------|------:|---:|------:|--:|---:|--:|--:|--:|---:|-----:|-----:|
+|[Washington Generals](./washingtongenerals)|   30.5|  73|    199| 18|  66| 13| 10|  2| 125| 5.780| 1.575|
+|[Terminoeckers](./terminoeckers)|   55.5|  84|    232| 16|  80| 22|  8|  1| 101| 3.147| 1.003|
+|[Mean Wieners](./meanwieners)|   78.0|  95|    224| 29|  85| 17|  9|  3| 149| 3.488| 0.982|
+|[Overwhelming Underdogs](./overwhelmingunderdogs)|   55.5|  88|    242| 14|  66|  9|  9|  9| 138| 3.613| 1.153|
+|[Bone Pilers](./bonepilers)|   59.0|  67|    226| 19|  83| 15| 10|  5| 137| 3.423| 1.148|
+|[Wonderbots](./wonderbots)|   63.5|  78|    216| 22|  83| 12|  6|  8| 157| 3.071| 1.114|
+|[T and A](./tanda)     |   54.0| 101|    215| 23|  67| 16|  8|  8| 123| 4.031| 1.230|
+|[Boys of Summer](./boysofsummer)|   59.5|  78|    217| 26| 100| 13| 12|  7| 117| 4.057| 1.279|
+|[Vass Deferens](./vassdeferens)|   58.5|  91|    213| 25|  86| 10|  9|  6| 140| 4.008| 1.172|
+|[Nuclear Arms](./nucleararms)|   36.0|  75|    184| 26|  77|  8|  5|  6| 146| 4.479| 1.367|
 
 * * *
 * * *

@@ -5,19 +5,19 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Cal Raleigh       |C         |     14|  1|   6|  0|  1| 
+|Cal Raleigh       |C         |     15|  2|  10|  1|  1| 
 |Bryce Harper      |1B        |     19|  4|   4|  2|  0| 
-|Brice Turang      |2B        |     18|  8|   5|  0|  4| 
+|Brice Turang      |2B        |     19|  9|   5|  0|  4| 
 |Nolan Arenado     |3B        |     15|  3|   7|  3|  0| 
 |Dansby Swanson    |SS        |     18|  5|   6|  2|  0| 
-|J.P. Crawford     |MI        |     17|  7|   8|  3|  1| 
+|J.P. Crawford     |MI        |     19|  9|   8|  3|  1| 
 |Josh Naylor       |CI        |     11|  8|  12|  3|  0| 
 |Evan Carter       |OF        |     **| **|  **| **| **| 
 |Jazz Chisholm Jr. |OF        |      9|  2|   4|  1|  2| 
 |Kyle Schwarber    |OF        |     16|  3|   3|  1|  1| 
 |Randy Arozarena   |OF        |     20|  4|   2|  0|  0| 
 |Lane Thomas       |DH        |     19|  8|   6|  2|  4| 
-|Patrick Bailey    |DH        |      9|  0|   2|  0|  0| 
+|Patrick Bailey    |DH        |     13|  1|   3|  0|  0| 
 |Starling Marte    |DH        |     15|  5|   7|  0|  2| 
 |Ty France         |DH        |     18|  4|   6|  1|  0| 
 |Josh Lowe         |BAT BENCH |      2|  0|   1|  0|  0| 

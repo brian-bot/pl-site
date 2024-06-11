@@ -8,23 +8,23 @@
 |Logan O'Hoppe     |C         |     12|  8|   4|  3|  1| 
 |Matt Olson        |1B        |     16|  4|   5|  1|  0| 
 |Marcus Semien     |2B        |     19|  9|   3|  2|  1| 
-|Gunnar Henderson  |3B        |     24| 12|   8|  3|  1| 
+|Gunnar Henderson  |3B        |     27| 15|   9|  4|  1| 
 |Oneil Cruz        |SS        |     11|  7|   6|  2|  1| 
 |Dylan Moore       |MI        |      8|  5|   2|  0|  1| 
 |Luis Rengifo      |CI        |     17|  5|   1|  0|  5| 
 |J.D. Martinez     |OF        |     17|  7|   8|  2|  0| 
 |Jarren Duran      |OF        |     19| 11|   5|  2|  4| 
-|Julio Rodríguez   |OF        |     18|  7|   6|  1|  1| 
+|Julio Rodríguez   |OF        |     20|  8|   6|  1|  1| 
 |Luis Matos        |OF        |      3|  1|   1|  0|  0| 
 |Anthony Santander |DH        |     20|  9|   8|  5|  0| 
-|Colton Cowser     |DH        |     11|  7|   3|  0|  1| 
+|Colton Cowser     |DH        |     12|  7|   3|  0|  1| 
 |Jorge Mateo       |DH        |      4|  0|   3|  0|  0| 
-|Jorge Soler       |DH        |      8|  4|   3|  1|  0| 
-|Brandon Lowe      |BAT BENCH |     14|  5|   8|  1|  0| 
+|Jorge Soler       |DH        |     10|  5|   3|  1|  0| 
+|Brandon Lowe      |BAT BENCH |     16|  5|   8|  1|  1| 
 |Byron Buxton      |BAT BENCH |     10|  2|   1|  0|  2| 
-|Jackson Chourio   |BAT BENCH |      5|  3|   5|  1|  0| 
+|Jackson Chourio   |BAT BENCH |      7|  4|   6|  2|  0| 
 |Michael Conforto  |BAT BENCH |      4|  2|   2|  1|  0| 
-|Royce Lewis       |BAT BENCH |      6|  2|   3|  2|  0| 
+|Royce Lewis       |BAT BENCH |      7|  4|   5|  3|  0| 
 
 
 * * *
@@ -36,7 +36,7 @@
 |:---------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Chris Sale      |SP          |  2| 11.000| 10| 8.182|     16| 1.455| 14|  0|  0| 
 |Cole Ragans     |SP          |  3| 17.000|  4| 2.118|     20| 1.176| 22|  0|  0| 
-|Erick Fedde     |SP          |  2| 10.000|  7| 6.300|     19| 1.900| 15|  0|  0| 
+|Erick Fedde     |SP          |  3| 17.000|  8| 4.235|     25| 1.471| 19|  0|  0| 
 |Hunter Greene   |SP          |  2| 12.667|  9| 6.395|     15| 1.184| 13|  1|  0| 
 |Marcus Stroman  |SP          |  2| 12.000|  6| 4.500|     15| 1.250|  4|  1|  0| 
 |Yusei Kikuchi   |SP          |  2| 11.333|  6| 4.765|     15| 1.324| 10|  1|  0| 
@@ -44,7 +44,7 @@
 |Raisel Iglesias |RP          |  5|  5.000|  1| 1.800|      1| 0.200|  3|  0|  4| 
 |Chris Bassitt   |OP          |  2| 13.000|  4| 2.769|     15| 1.154| 14|  1|  0| 
 |Cole Irvin      |OP          |  2| 12.000|  4| 3.000|     17| 1.417|  7|  1|  0| 
-|Craig Kimbrel   |OP          |  3|  2.333|  0| 0.000|      2| 0.857|  2|  0|  2| 
+|Craig Kimbrel   |OP          |  4|  3.333|  0| 0.000|      3| 0.900|  4|  0|  3| 
 |José Soriano    |OP          |  2| 12.000|  5| 3.750|     16| 1.333|  4|  1|  0| 
 |Luis Severino   |OP          |  2| 13.333|  5| 3.375|     14| 1.050|  8|  2|  0| 
 |Cristian Javier |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 

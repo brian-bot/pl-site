@@ -11,7 +11,7 @@
 |Jeimer Candelario   |3B        |     16|  5|   6|  3|  2| 
 |Francisco Lindor    |SS        |     22|  8|   7|  3|  3| 
 |Bo Bichette         |MI        |     13|  4|   4|  0|  0| 
-|Alex Bregman        |CI        |     21| 11|   9|  5|  0| 
+|Alex Bregman        |CI        |     22| 11|  10|  5|  0| 
 |Brandon Marsh       |OF        |      6|  2|   2|  0|  0| 
 |Brandon Nimmo       |OF        |     15|  5|   3|  0|  1| 
 |Lourdes Gurriel Jr. |OF        |     16|  6|  10|  3|  0| 
@@ -39,7 +39,7 @@
 |James Paxton      |SP          |  2|  4.667|  6| 11.571|     10| 2.143|  5|  0|  0| 
 |Jordan Hicks      |SP          |  2|  9.000|  6|  6.000|     17| 1.889| 11|  0|  0| 
 |Jordan Montgomery |SP          |  2|  6.000| 14| 21.000|     23| 3.833|  5|  0|  0| 
-|Josh Hader        |RP          |  5|  4.667|  2|  3.857|      6| 1.286|  8|  0|  2| 
+|Josh Hader        |RP          |  6|  5.667|  2|  3.176|      7| 1.235|  8|  0|  2| 
 |Kenley Jansen     |RP          |  2|  3.000|  0|  0.000|      2| 0.667|  6|  1|  0| 
 |Alec Marsh        |OP          |  2| 10.000|  9|  8.100|     17| 1.700| 11|  1|  0| 
 |Mitch Keller      |OP          |  2| 12.000|  1|  0.750|     15| 1.250| 16|  2|  0| 
