@@ -5,25 +5,25 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |     14|  5|   6|  3|  0| 
-|Ryan Mountcastle  |1B        |     19|  6|  12|  5|  0| 
+|Will Smith        |C         |     18|  7|   9|  4|  0| 
+|Ryan Mountcastle  |1B        |     20|  7|  12|  5|  0| 
 |Luis García Jr.   |2B        |     12|  5|   1|  0|  0| 
 |Rafael Devers     |3B        |     18|  8|   8|  3|  0| 
-|Bobby Witt Jr.    |SS        |     21|  8|  12|  2|  3| 
-|Carlos Correa     |MI        |     15|  5|  12|  1|  0| 
-|Christopher Morel |CI        |     20|  8|   6|  3|  2| 
+|Bobby Witt Jr.    |SS        |     23|  8|  12|  2|  3| 
+|Carlos Correa     |MI        |     17|  5|  12|  1|  0| 
+|Christopher Morel |CI        |     22| 10|   7|  4|  2| 
 |Jake McCarthy     |OF        |     18|  6|   3|  1|  5| 
-|Joc Pederson      |OF        |     13|  3|   7|  1|  2| 
+|Joc Pederson      |OF        |     14|  3|   7|  1|  2| 
 |Kerry Carpenter   |OF        |     **| **|  **| **| **| 
-|Taylor Ward       |OF        |     14|  1|   2|  0|  0| 
+|Taylor Ward       |OF        |     17|  3|   4|  1|  0| 
 |David Fry         |DH        |     13|  5|   9|  2|  1| 
-|Isaac Paredes     |DH        |     13|  5|   8|  1|  0| 
-|Luis Arraez       |DH        |     18|  9|   4|  0|  0| 
+|Isaac Paredes     |DH        |     14|  5|   8|  1|  0| 
+|Luis Arraez       |DH        |     20| 10|   5|  0|  0| 
 |Yainer Diaz       |DH        |      9|  4|  10|  4|  0| 
 |Edouard Julien    |BAT BENCH |      3|  1|   1|  0|  1| 
 |Thairo Estrada    |BAT BENCH |     11|  2|   1|  0|  0| 
 |Trea Turner       |BAT BENCH |     **| **|  **| **| **| 
-|Yandy Díaz        |BAT BENCH |     19|  3|   4|  0|  0| 
+|Yandy Díaz        |BAT BENCH |     22|  3|   4|  0|  0| 
 
 
 * * *
@@ -33,7 +33,7 @@
  
 |players           |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Brady Singer      |SP          |  1|  3.667|  2| 4.909|     10| 2.727|  2|  0|  0| 
+|Brady Singer      |SP          |  2|  9.333|  8| 7.714|     18| 1.929|  8|  0|  0| 
 |Grayson Rodriguez |SP          |  3| 18.333|  7| 3.436|     18| 0.982| 20|  2|  0| 
 |Kevin Gausman     |SP          |  3| 21.333|  7| 2.953|     18| 0.844| 16|  2|  0| 
 |Logan Webb        |SP          |  2| 14.000|  6| 3.857|     13| 0.929| 12|  1|  0| 
