@@ -7,23 +7,23 @@
 |:---------------|:---------|------:|--:|---:|--:|--:| 
 |Ryan Jeffers    |C         |     10|  4|   3|  2|  0| 
 |Ryan O'Hearn    |1B        |     15|  7|   6|  2|  2| 
-|Ryan McMahon    |2B        |     13|  6|   3|  1|  0| 
+|Ryan McMahon    |2B        |     16|  8|   4|  2|  0| 
 |Jordan Westburg |3B        |     14|  6|   7|  2|  1| 
-|José Caballero  |SS        |     11|  7|   3|  1|  3| 
-|Davis Schneider |MI        |     14|  5|   7|  1|  0| 
+|José Caballero  |SS        |     13|  8|   4|  2|  3| 
+|Davis Schneider |MI        |     16|  7|   8|  2|  0| 
 |Nolan Gorman    |CI        |     17| 10|  12|  7|  0| 
-|Aaron Judge     |OF        |     32| 15|  23|  8|  3| 
+|Aaron Judge     |OF        |     33| 16|  23|  8|  3| 
 |Daulton Varsho  |OF        |     16|  7|   1|  0|  2| 
-|Luis Robert Jr. |OF        |      7|  4|   4|  3|  0| 
-|Yordan Alvarez  |OF        |     27| 11|  11|  4|  2| 
-|Jacob Young     |DH        |     13|  4|   4|  0|  1| 
+|Luis Robert Jr. |OF        |      8|  5|   5|  4|  0| 
+|Yordan Alvarez  |OF        |     29| 13|  13|  5|  2| 
+|Jacob Young     |DH        |     14|  5|   4|  0|  1| 
 |Joey Ortiz      |DH        |     20|  8|   5|  0|  3| 
-|Willi Castro    |DH        |     23|  9|   1|  0|  1| 
+|Willi Castro    |DH        |     26| 11|   2|  1|  1| 
 |Wilyer Abreu    |DH        |      5|  2|   1|  1|  0| 
-|Andy Pages      |BAT BENCH |     23| 10|   3|  1|  0| 
+|Andy Pages      |BAT BENCH |     25| 10|   3|  1|  0| 
 |Rhys Hoskins    |BAT BENCH |     11|  3|   1|  1|  1| 
-|Shea Langeliers |BAT BENCH |      7|  2|   3|  1|  1| 
-|Wyatt Langford  |BAT BENCH |     12|  4|   6|  0|  1| 
+|Shea Langeliers |BAT BENCH |      9|  2|   4|  1|  1| 
+|Wyatt Langford  |BAT BENCH |     14|  4|   6|  0|  1| 
 
 * * *
 
