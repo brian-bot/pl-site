@@ -6,16 +6,16 @@
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
 |Danny Jansen          |C         |     13|  4|   3|  0|  0| 
-|Freddie Freeman       |1B        |     29| 12|  11|  4|  2| 
-|Gleyber Torres        |2B        |     20|  8|   9|  2|  0| 
+|Freddie Freeman       |1B        |     30| 12|  11|  4|  2| 
+|Gleyber Torres        |2B        |     21|  8|   9|  2|  0| 
 |Matt Chapman          |3B        |     18|  4|   2|  0|  0| 
 |Willy Adames          |SS        |     23|  8|  12|  3|  2| 
-|Maikel Garcia         |MI        |     17| 12|   2|  0|  3| 
+|Maikel Garcia         |MI        |     19| 13|   4|  0|  3| 
 |Vladimir Guerrero Jr. |CI        |     19|  6|   5|  2|  1| 
-|Cody Bellinger        |OF        |     20|  9|   9|  2|  3| 
+|Cody Bellinger        |OF        |     21|  9|   9|  2|  3| 
 |Kyle Tucker           |OF        |      7|  4|   1|  1|  1| 
-|Michael Harris II     |OF        |     16|  5|   3|  0|  0| 
-|Seiya Suzuki          |OF        |     21|  6|  10|  4|  3| 
+|Michael Harris II     |OF        |     17|  7|   3|  0|  0| 
+|Seiya Suzuki          |OF        |     22|  6|  10|  4|  4| 
 |Alex Verdugo          |DH        |     19|  8|   9|  1|  0| 
 |Brenton Doyle         |DH        |     18|  6|   4|  0|  4| 
 |Ian Happ              |DH        |     18|  6|  13|  2|  3| 
@@ -36,15 +36,15 @@
 |Clarke Schmidt   |SP          | **|     **| **|     **|     **|    **| **| **| **| 
 |Framber Valdez   |SP          |  3| 20.000|  7|  3.150|     18| 0.900| 13|  2|  0| 
 |Jack Flaherty    |SP          |  2| 11.667|  0|  0.000|      4| 0.343| 13|  2|  0| 
-|Michael King     |SP          |  3| 17.000|  3|  1.588|     17| 1.000| 21|  1|  0| 
+|Michael King     |SP          |  3| 17.000|  3|  1.588|     18| 1.059| 21|  1|  0| 
 |Seth Lugo        |SP          |  3| 19.000| 10|  4.737|     25| 1.316| 14|  1|  0| 
-|Edwin Díaz       |RP          | **|     **| **|     **|     **|    **| **| **| **| 
-|James McArthur   |RP          |  5|  3.667|  6| 14.727|      8| 2.182|  1|  0|  1| 
+|Edwin Díaz       |RP          |  1|  1.000|  0|  0.000|      0| 0.000|  1|  1|  0| 
+|James McArthur   |RP          |  6|  4.667|  6| 11.571|      9| 1.929|  2|  1|  1| 
 |Alek Manoah      |OP          |  1|  1.667|  0|  0.000|      1| 0.600|  3|  0|  0| 
 |Jeremiah Estrada |OP          |  8|  6.667|  2|  2.700|     10| 1.500| 12|  0|  0| 
 |Joe Musgrove     |OP          | **|     **| **|     **|     **|    **| **| **| **| 
 |Luis Gil         |OP          |  3| 19.667|  4|  1.831|     14| 0.712| 20|  2|  0| 
-|Taj Bradley      |OP          |  2|  8.333| 10| 10.800|     16| 1.920| 10|  0|  0| 
+|Taj Bradley      |OP          |  3| 15.333| 10|  5.870|     21| 1.370| 21|  1|  0| 
 |Bobby Miller     |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Jason Foley      |PITCH BENCH |  5|  4.333|  0|  0.000|      3| 0.692|  4|  0|  1| 
 |Kyle Harrison    |PITCH BENCH |  3| 17.333|  8|  4.154|     25| 1.442| 13|  0|  0| 
