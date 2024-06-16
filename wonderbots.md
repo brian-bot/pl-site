@@ -6,23 +6,23 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |William Contreras |C         |     17|  8|   5|  1|  2| 
-|Nathaniel Lowe    |1B        |     16|  5|   5|  0|  0| 
-|Ozzie Albies      |2B        |     21|  8|   6|  1|  1| 
+|Nathaniel Lowe    |1B        |     17|  5|   5|  0|  0| 
+|Ozzie Albies      |2B        |     22|  9|   7|  1|  1| 
 |Manny Machado     |3B        |     19|  4|   4|  1|  3| 
 |Corey Seager      |SS        |     17|  5|   9|  3|  0| 
-|Ezequiel Tovar    |MI        |     23| 11|  10|  4|  0| 
+|Ezequiel Tovar    |MI        |     25| 12|  11|  4|  0| 
 |Ha-Seong Kim      |CI        |     22|  9|  11|  3|  1| 
 |Bryan De La Cruz  |OF        |     13|  4|   5|  2|  0| 
-|Bryan Reynolds    |OF        |     21|  6|  10|  2|  1| 
-|Mookie Betts      |OF        |     24|  9|  10|  2|  0| 
-|Teoscar Hernández |OF        |     23|  9|  12|  5|  1| 
-|Alec Bohm         |DH        |     14|  6|   7|  1|  0| 
-|Connor Joe        |DH        |     15|  7|   6|  1|  0| 
+|Bryan Reynolds    |OF        |     23|  7|  10|  2|  1| 
+|Mookie Betts      |OF        |     26|  9|  10|  2|  0| 
+|Teoscar Hernández |OF        |     25|  9|  12|  5|  1| 
+|Alec Bohm         |DH        |     16|  6|   8|  1|  0| 
+|Connor Joe        |DH        |     17|  7|   6|  1|  0| 
 |Jeremy Peña       |DH        |     14|  3|   5|  0|  3| 
-|Zach Neto         |DH        |     16|  6|  10|  3|  2| 
-|Cedric Mullins    |BAT BENCH |      9|  7|   0|  0|  2| 
-|Nolan Jones       |BAT BENCH |      2|  0|   0|  0|  0| 
-|Tyler O'Neill     |BAT BENCH |      9|  4|   5|  1|  0| 
+|Zach Neto         |DH        |     17|  6|  10|  3|  3| 
+|Cedric Mullins    |BAT BENCH |     11|  7|   0|  0|  2| 
+|Nolan Jones       |BAT BENCH |      6|  2|   0|  0|  1| 
+|Tyler O'Neill     |BAT BENCH |     11|  6|   6|  1|  0| 
 
 
 * * *
@@ -43,7 +43,7 @@
 |JP Sears         |OP          |  3| 18.000|  9| 4.500|     23| 1.278| 14|  0|  0| 
 |Lance Lynn       |OP          |  3| 12.333|  7| 5.108|     20| 1.622| 15|  0|  0| 
 |Nick Pivetta     |OP          |  3| 16.333|  6| 3.306|     18| 1.102| 22|  1|  0| 
-|Trevor Megill    |OP          |  6|  5.000|  1| 1.800|      6| 1.200|  7|  0|  3| 
+|Trevor Megill    |OP          |  7|  6.000|  2| 3.000|      8| 1.333|  7|  0|  4| 
 |Tyler Anderson   |OP          |  4| 23.000|  7| 2.739|     36| 1.565| 14|  1|  0| 
 |Graham Ashcraft  |PITCH BENCH |  2|  8.333|  7| 7.560|     13| 1.560|  6|  0|  0| 
 |Jon Gray         |PITCH BENCH |  2|  5.333|  1| 1.687|      7| 1.312|  7|  0|  0| 
