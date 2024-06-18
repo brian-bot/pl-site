@@ -5,25 +5,27 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto       |C         |      6|  1|   0|  0|  0| 
-|Paul Goldschmidt    |1B        |     23|  7|   5|  1|  0| 
-|Bryson Stott        |2B        |     17|  3|   4|  0|  5| 
-|Jeimer Candelario   |3B        |     25|  8|  15|  6|  2| 
-|Francisco Lindor    |SS        |     31| 14|  10|  5|  5| 
-|Bo Bichette         |MI        |     17|  4|   5|  0|  0| 
-|Alex Bregman        |CI        |     28| 14|  12|  5|  0| 
-|Brandon Marsh       |OF        |      7|  2|   2|  0|  0| 
-|Brandon Nimmo       |OF        |     24| 10|   6|  0|  1| 
-|Lourdes Gurriel Jr. |OF        |     21|  7|  13|  3|  0| 
-|Steven Kwan         |OF        |     30| 11|   6|  1|  0| 
-|Austin Riley        |DH        |     22| 11|  10|  3|  0| 
-|Eugenio Suárez      |DH        |     17|  6|   7|  3|  1| 
-|Masyn Winn          |DH        |     22|  7|   9|  1|  1| 
-|Spencer Torkelson   |DH        |      0|  0|   0|  0|  0| 
-|Blaze Alexander     |BAT BENCH |     14|  5|   3|  0|  1| 
+|Shea Langeliers     |C         |     **| **|  **| **| **| 
+|Paul Goldschmidt    |1B        |      3|  1|   0|  0|  0| 
+|Bryson Stott        |2B        |      1|  0|   0|  0|  0| 
+|Jeimer Candelario   |3B        |      1|  1|   0|  0|  1| 
+|Francisco Lindor    |SS        |      4|  3|   2|  0|  0| 
+|Bo Bichette         |MI        |     **| **|  **| **| **| 
+|Alex Bregman        |CI        |     **| **|  **| **| **| 
+|Brandon Nimmo       |OF        |      3|  2|   4|  1|  0| 
+|George Springer     |OF        |      1|  0|   0|  0|  0| 
+|Lourdes Gurriel Jr. |OF        |     **| **|  **| **| **| 
+|Steven Kwan         |OF        |     **| **|  **| **| **| 
+|Austin Riley        |DH        |      2|  1|   0|  0|  0| 
+|Eugenio Suárez      |DH        |     **| **|  **| **| **| 
+|Masyn Winn          |DH        |      2|  2|   2|  1|  0| 
+|Michael Busch       |DH        |      2|  1|   2|  1|  0| 
+|Blaze Alexander     |BAT BENCH |     **| **|  **| **| **| 
+|Brandon Marsh       |BAT BENCH |      3|  2|   0|  0|  0| 
 |Esteury Ruiz        |BAT BENCH |     **| **|  **| **| **| 
-|George Springer     |BAT BENCH |     23| 12|   4|  1|  1| 
-|Max Kepler          |BAT BENCH |     17|  6|   8|  1|  0| 
+|J.T. Realmuto       |BAT BENCH |     **| **|  **| **| **| 
+|JJ Bleday           |BAT BENCH |     **| **|  **| **| **| 
+|Max Kepler          |BAT BENCH |     **| **|  **| **| **| 
 
 
 * * *
@@ -31,24 +33,22 @@
 ### Pitchers
 
  
-|players           |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
-|:-----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Andrew Abbott     |SP          |  4| 22.000| 13|  5.318|     33| 1.500| 17|  2|  0| 
-|Braxton Garrett   |SP          |  3| 12.333| 10|  7.297|     20| 1.622|  9|  1|  0| 
-|George Kirby      |SP          |  4| 24.000|  4|  1.500|     23| 0.958| 27|  2|  0| 
-|James Paxton      |SP          |  3| 10.667|  7|  5.906|     14| 1.312|  7|  1|  0| 
-|Jordan Hicks      |SP          |  3| 13.667|  9|  5.927|     23| 1.683| 16|  0|  0| 
-|Jordan Montgomery |SP          |  4| 16.667| 17|  9.180|     36| 2.160| 15|  2|  0| 
-|Josh Hader        |RP          |  8|  7.667|  3|  3.522|      9| 1.174| 11|  0|  2| 
-|Kenley Jansen     |RP          |  4|  5.333|  1|  1.688|      4| 0.750|  7|  1|  2| 
-|Alec Marsh        |OP          |  3| 17.000|  9|  4.765|     20| 1.176| 18|  1|  0| 
-|Mitch Keller      |OP          |  3| 18.000|  5|  2.500|     23| 1.278| 20|  2|  0| 
-|Ranger Suárez     |OP          |  3| 14.333|  3|  1.884|     17| 1.186| 14|  1|  0| 
-|Reese Olson       |OP          |  3| 14.667| 17| 10.432|     32| 2.182| 14|  0|  0| 
-|Tanner Scott      |OP          |  5|  6.000|  2|  3.000|      4| 0.667|  8|  1|  1| 
-|Bowden Francis    |PITCH BENCH |  3| 11.333|  4|  3.176|     13| 1.147|  7|  1|  0| 
-|Max Meyer         |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Reid Detmers      |PITCH BENCH |  1|  3.667|  5| 12.273|      8| 2.182|  3|  0|  0| 
+|players           |position    |  g|    ip| er|   era| hitsbb|  whip| so|  w| sv| 
+|:-----------------|:-----------|--:|-----:|--:|-----:|------:|-----:|--:|--:|--:| 
+|Andrew Abbott     |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Braxton Garrett   |SP          |  1| 6.000|  1| 1.500|      5| 0.833|  6|  0|  0| 
+|George Kirby      |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|James Paxton      |SP          |  1| 7.000|  1| 1.286|      3| 0.429|  8|  1|  0| 
+|Jordan Hicks      |SP          |  1| 5.000|  0| 0.000|      8| 1.600|  4|  0|  0| 
+|Jordan Montgomery |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Josh Hader        |RP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Kenley Jansen     |RP          |  1| 0.333|  0| 0.000|      0| 0.000|  0|  0|  1| 
+|Alec Marsh        |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Mitch Keller      |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Ranger Suárez     |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Reese Olson       |OP          |  1| 6.000|  0| 0.000|      4| 0.667|  8|  0|  0| 
+|Tanner Scott      |OP          |  1| 1.000|  0| 0.000|      1| 1.000|  1|  0|  0| 
+|Reid Detmers      |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
 
 
 * * *

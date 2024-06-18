@@ -5,23 +5,22 @@
  
 |players                      |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez               |C         |     22|  5|   6|  2|  0| 
-|Alec Burleson                |1B        |     19|  7|   7|  4|  0| 
-|Andrés Giménez               |2B        |     14|  4|   2|  0|  3| 
-|José Ramírez                 |3B        |     22| 14|   8|  3|  3| 
-|Paul DeJong                  |SS        |     22| 10|  12|  7|  0| 
-|Jeff McNeil                  |MI        |      8|  5|   0|  0|  0| 
-|Jake Cronenworth             |CI        |     22|  6|  10|  2|  0| 
-|Adolis García                |OF        |     15|  8|   3|  1|  2| 
-|Brent Rooker                 |OF        |     18|  3|   7|  2|  0| 
-|Giancarlo Stanton            |OF        |     23|  9|  11|  4|  0| 
-|Nick Castellanos             |OF        |     18| 10|   8|  3|  0| 
-|Christian Yelich             |DH        |     34|  8|  12|  1|  7| 
-|Shohei Ohtani                |DH        |     24| 13|  11|  6|  2| 
-|Tommy Pham                   |DH        |     10|  4|   1|  0|  0| 
-|Vaughn Grissom               |DH        |      3|  1|   0|  0|  0| 
+|Francisco Alvarez            |C         |      3|  1|   2|  0|  0| 
+|Salvador Perez               |1B        |     **| **|  **| **| **| 
+|Andrés Giménez               |2B        |     **| **|  **| **| **| 
+|José Ramírez                 |3B        |     **| **|  **| **| **| 
+|Paul DeJong                  |SS        |     **| **|  **| **| **| 
+|Spencer Horwitz              |MI        |     **| **|  **| **| **| 
+|Alec Burleson                |CI        |      0|  1|   0|  0|  0| 
+|Adolis García                |OF        |      0|  0|   0|  0|  0| 
+|Brent Rooker                 |OF        |     **| **|  **| **| **| 
+|Giancarlo Stanton            |OF        |     **| **|  **| **| **| 
+|Nick Castellanos             |OF        |      2|  0|   0|  0|  0| 
+|Christian Yelich             |DH        |      0|  0|   0|  0|  0| 
+|Jake Cronenworth             |DH        |      0|  0|   1|  0|  0| 
+|Shohei Ohtani                |DH        |      4|  2|   1|  0|  1| 
+|Tommy Pham                   |DH        |     **| **|  **| **| **| 
 |Christian Encarnacion-Strand |BAT BENCH |     **| **|  **| **| **| 
-|Francisco Alvarez            |BAT BENCH |      2|  0|   2|  0|  0| 
 |Mike Trout                   |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -30,22 +29,23 @@
 ### Pitchers
 
  
-|players            |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
-|:------------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Brayan Bello       |SP          |  4| 20.667| 16| 6.968|     39| 1.887| 19|  1|  0| 
-|José Berríos       |SP          |  4| 24.667| 10| 3.649|     29| 1.176| 12|  1|  0| 
-|Tyler Glasnow      |SP          |  4| 26.000|  8| 2.769|     24| 0.923| 38|  1|  0| 
-|Yoshinobu Yamamoto |SP          |  3| 15.000|  1| 0.600|     14| 0.933| 15|  1|  0| 
-|Yu Darvish         |SP          |  1|  3.000|  2| 6.000|      7| 2.333|  2|  0|  0| 
-|Alexis Díaz        |RP          |  6|  6.000|  3| 4.500|     11| 1.833|  5|  0|  5| 
-|Carlos Estévez     |RP          |  6|  6.000|  0| 0.000|      0| 0.000|  5|  1|  5| 
-|Brandon Pfaadt     |OP          |  4| 24.333| 14| 5.178|     33| 1.356| 26|  1|  0| 
-|Dane Dunning       |OP          |  4| 18.333| 11| 5.400|     26| 1.418| 20|  1|  0| 
-|David Peterson     |OP          |  3| 16.667|  8| 4.320|     25| 1.500|  6|  2|  0| 
-|Javier Assad       |OP          |  3| 15.667|  9| 5.170|     24| 1.532| 18|  0|  0| 
-|Michael Kopech     |OP          |  7|  5.667|  5| 7.941|     12| 2.118| 10|  1|  0| 
-|Triston McKenzie   |OP          |  3| 15.667| 11| 6.319|     26| 1.660| 20|  1|  0| 
-|Reynaldo López     |PITCH BENCH |  3| 18.000|  3| 1.500|     16| 0.889| 23|  2|  0| 
+|players            |position    |  g| ip| er| era| hitsbb|  whip| so|  w| sv| 
+|:------------------|:-----------|--:|--:|--:|---:|------:|-----:|--:|--:|--:| 
+|Brayan Bello       |SP          | **| **| **|  **|     **|    **| **| **| **| 
+|David Peterson     |SP          |  1|  6|  2| 3.0|      7| 1.167|  6|  1|  0| 
+|Drew Thorpe        |SP          | **| **| **|  **|     **|    **| **| **| **| 
+|José Berríos       |SP          | **| **| **|  **|     **|    **| **| **| **| 
+|Reynaldo López     |SP          | **| **| **|  **|     **|    **| **| **| **| 
+|Tyler Glasnow      |SP          | **| **| **|  **|     **|    **| **| **| **| 
+|Alexis Díaz        |RP          | **| **| **|  **|     **|    **| **| **| **| 
+|Carlos Estévez     |RP          |  1|  1|  0| 0.0|      0| 0.000|  1|  0|  1| 
+|Brandon Pfaadt     |OP          | **| **| **|  **|     **|    **| **| **| **| 
+|Dane Dunning       |OP          | **| **| **|  **|     **|    **| **| **| **| 
+|Javier Assad       |OP          |  1|  5|  1| 1.8|      7| 1.400|  7|  0|  0| 
+|Michael Kopech     |OP          | **| **| **|  **|     **|    **| **| **| **| 
+|Triston McKenzie   |OP          | **| **| **|  **|     **|    **| **| **| **| 
+|Yoshinobu Yamamoto |PITCH BENCH | **| **| **|  **|     **|    **| **| **| **| 
+|Yu Darvish         |PITCH BENCH | **| **| **|  **|     **|    **| **| **| **| 
 
 
 * * *
