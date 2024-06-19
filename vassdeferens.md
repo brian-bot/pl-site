@@ -5,25 +5,25 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman    |C         |     **| **|  **| **| **| 
-|Pete Alonso        |1B        |      4|  1|   2|  0|  0| 
+|Adley Rutschman    |C         |      2|  0|   0|  0|  0| 
+|Pete Alonso        |1B        |      7|  2|   3|  0|  0| 
 |Nico Hoerner       |2B        |      2|  1|   0|  0|  0| 
-|Elly De La Cruz    |3B        |      3|  0|   0|  0|  1| 
-|CJ Abrams          |SS        |     **| **|  **| **| **| 
-|Ketel Marte        |MI        |     **| **|  **| **| **| 
-|Vinnie Pasquantino |CI        |     **| **|  **| **| **| 
-|Juan Soto          |OF        |     **| **|  **| **| **| 
-|Marcell Ozuna      |OF        |      1|  0|   0|  0|  0| 
-|Riley Greene       |OF        |      3|  0|   1|  0|  0| 
+|Elly De La Cruz    |3B        |      4|  0|   0|  0|  1| 
+|CJ Abrams          |SS        |      2|  0|   0|  0|  0| 
+|Ketel Marte        |MI        |      2|  1|   3|  1|  0| 
+|Vinnie Pasquantino |CI        |      2|  1|   0|  0|  0| 
+|Juan Soto          |OF        |      3|  0|   0|  0|  0| 
+|Marcell Ozuna      |OF        |      2|  0|   1|  0|  0| 
+|Riley Greene       |OF        |      5|  1|   1|  0|  0| 
 |Wenceel Pérez      |OF        |      0|  0|   0|  0|  0| 
 |Heliot Ramos       |DH        |      2|  1|   1|  1|  0| 
-|Jake Burger        |DH        |      0|  1|   0|  0|  0| 
-|Miguel Andujar     |DH        |     **| **|  **| **| **| 
-|Mitch Garver       |DH        |     **| **|  **| **| **| 
+|Jake Burger        |DH        |      1|  1|   0|  0|  0| 
+|Miguel Andujar     |DH        |      2|  0|   1|  0|  0| 
+|Mitch Garver       |DH        |      2|  0|   2|  0|  0| 
 |Anthony Rizzo      |BAT BENCH |     **| **|  **| **| **| 
-|Jo Adell           |BAT BENCH |      1|  1|   0|  0|  0| 
+|Jo Adell           |BAT BENCH |      1|  1|   1|  0|  0| 
 |Michael Massey     |BAT BENCH |     **| **|  **| **| **| 
-|Sal Frelick        |BAT BENCH |      1|  0|   0|  0|  1| 
+|Sal Frelick        |BAT BENCH |      4|  2|   0|  0|  1| 
 
 
 * * *
@@ -31,23 +31,23 @@
 ### Pitchers
 
  
-|players          |position    |  g| ip| er| era| hitsbb|  whip| so|  w| sv| 
-|:----------------|:-----------|--:|--:|--:|---:|------:|-----:|--:|--:|--:| 
-|Bailey Ober      |SP          | **| **| **|  **|     **|    **| **| **| **| 
-|Freddy Peralta   |SP          | **| **| **|  **|     **|    **| **| **| **| 
-|Michael Lorenzen |SP          | **| **| **|  **|     **|    **| **| **| **| 
-|Mitchell Parker  |SP          | **| **| **|  **|     **|    **| **| **| **| 
-|Nestor Cortes    |SP          | **| **| **|  **|     **|    **| **| **| **| 
-|Tanner Houck     |SP          | **| **| **|  **|     **|    **| **| **| **| 
-|Emmanuel Clase   |RP          | **| **| **|  **|     **|    **| **| **| **| 
-|Robert Suarez    |RP          | **| **| **|  **|     **|    **| **| **| **| 
-|Bryan Woo        |OP          | **| **| **|  **|     **|    **| **| **| **| 
-|Chris Paddack    |OP          | **| **| **|  **|     **|    **| **| **| **| 
-|Mitch Spence     |OP          | **| **| **|  **|     **|    **| **| **| **| 
-|Paul Skenes      |OP          |  1|  6|  1| 1.5|      7| 1.167|  7|  1|  0| 
-|Pete Fairbanks   |OP          | **| **| **|  **|     **|    **| **| **| **| 
-|Ryan Weathers    |PITCH BENCH | **| **| **|  **|     **|    **| **| **| **| 
-|Zac Gallen       |PITCH BENCH | **| **| **|  **|     **|    **| **| **| **| 
+|players          |position    |  g|    ip| er|    era| hitsbb|   whip| so|  w| sv| 
+|:----------------|:-----------|--:|-----:|--:|------:|------:|------:|--:|--:|--:| 
+|Bailey Ober      |SP          | **|    **| **|     **|     **|     **| **| **| **| 
+|Freddy Peralta   |SP          | **|    **| **|     **|     **|     **| **| **| **| 
+|Michael Lorenzen |SP          |  1| 6.000|  3|  4.500|      5|  0.833|  3|  0|  0| 
+|Mitchell Parker  |SP          | **|    **| **|     **|     **|     **| **| **| **| 
+|Nestor Cortes    |SP          |  1| 6.000|  0|  0.000|      5|  0.833|  6|  1|  0| 
+|Tanner Houck     |SP          |  1| 5.667|  2|  3.176|      8|  1.412|  5|  0|  0| 
+|Emmanuel Clase   |RP          | **|    **| **|     **|     **|     **| **| **| **| 
+|Robert Suarez    |RP          |  1| 0.333|  2| 54.000|      4| 12.000|  0|  0|  0| 
+|Bryan Woo        |OP          | **|    **| **|     **|     **|     **| **| **| **| 
+|Chris Paddack    |OP          | **|    **| **|     **|     **|     **| **| **| **| 
+|Mitch Spence     |OP          | **|    **| **|     **|     **|     **| **| **| **| 
+|Paul Skenes      |OP          |  1| 6.000|  1|  1.500|      7|  1.167|  7|  1|  0| 
+|Pete Fairbanks   |OP          |  1| 0.667|  1| 13.500|      2|  3.000|  1|  0|  0| 
+|Ryan Weathers    |PITCH BENCH | **|    **| **|     **|     **|     **| **| **| **| 
+|Zac Gallen       |PITCH BENCH | **|    **| **|     **|     **|     **| **| **| **| 
 
 
 * * *

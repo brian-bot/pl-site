@@ -2,21 +2,21 @@
 
 ## Period 5 scores
 
-Through games on 2024-06-17 ([website build status](https://github.com/brian-bot/pl-site/actions))
+Through games on 2024-06-18 ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 
-|team                   | points|  r| hitsbb| hr| rbi| sb|  w| sv| so|    era|  whip|
-|:----------------------|------:|--:|------:|--:|---:|--:|--:|--:|--:|------:|-----:|
-|[Washington Generals](./washingtongenerals)|   85.0| 11|     19|  3|  10|  1|  1|  1| 27|  0.711| 0.829|
-|[Overwhelming Underdogs](./overwhelmingunderdogs)|   43.5|  2|     12|  1|   3|  0|  0|  0|  7|  1.421| 1.105|
-|[Mean Wieners](./meanwieners)|   36.5|  2|      6|  0|   0|  0|  0|  0|  0|     **|    **|
-|[Boys of Summer](./boysofsummer)|   49.5|  2|      5|  1|   5|  0|  0|  1|  1|  0.000| 0.000|
-|[Bone Pilers](./bonepilers)|   58.0|  6|     16|  4|   7|  0|  1|  0|  5|  3.375| 1.125|
-|[Vass Deferens](./vassdeferens)|   55.5|  4|     15|  1|   4|  1|  1|  0|  7|  1.500| 1.167|
-|[T and A](./tanda)     |   31.5|  6|      8|  0|   2|  0|  0|  0|  7| 11.250| 1.750|
-|[Nuclear Arms](./nucleararms)|   57.0|  4|      9|  0|   4|  1|  1|  1| 14|  2.250| 1.167|
-|[Terminoeckers](./terminoeckers)|   62.5|  8|     16|  1|   4|  1|  0|  0|  0|     **|    **|
-|[Wonderbots](./wonderbots)|   71.0| 10|     22|  6|  14|  0|  1|  1| 11|  6.750| 1.500|
+|team                   | points|  r| hitsbb| hr| rbi| sb|  w| sv| so|   era|  whip|
+|:----------------------|------:|--:|------:|--:|---:|--:|--:|--:|--:|-----:|-----:|
+|[Washington Generals](./washingtongenerals)|   77.0| 16|     37|  5|  16|  1|  1|  2| 33| 2.670| 0.989|
+|[Overwhelming Underdogs](./overwhelmingunderdogs)|   51.0|  9|     31|  2|   8|  1|  3|  0| 39| 3.403| 1.210|
+|[Mean Wieners](./meanwieners)|   56.5| 12|     24|  3|   9|  1|  1|  2| 10| 3.000| 0.667|
+|[Boys of Summer](./boysofsummer)|   45.5|  7|     28|  2|   9|  0|  1|  2|  9| 1.800| 0.700|
+|[Bone Pilers](./bonepilers)|   58.0| 16|     30|  8|  17|  1|  1|  0| 10| 3.375| 1.200|
+|[Vass Deferens](./vassdeferens)|   56.0|  8|     38|  2|  12|  1|  2|  0| 22| 3.284| 1.257|
+|[T and A](./tanda)     |   33.5| 13|     19|  2|   7|  1|  0|  1| 17| 6.851| 1.657|
+|[Nuclear Arms](./nucleararms)|   55.5| 12|     32|  3|  14|  1|  1|  2| 15| 4.109| 1.370|
+|[Terminoeckers](./terminoeckers)|   52.0| 17|     35|  2|  11|  3|  0|  1| 14| 3.176| 1.706|
+|[Wonderbots](./wonderbots)|   65.0| 21|     40|  8|  23|  0|  1|  2| 17| 7.461| 1.579|
 
 * * *
 * * *
