@@ -15,7 +15,7 @@
 |Ezequiel Tovar    |MI        |     25| 12|  11|  4|  0| 
 |Ha-Seong Kim      |CI        |     23|  9|  12|  3|  1| 
 |Bryan De La Cruz  |OF        |     14|  4|   5|  2|  0| 
-|Bryan Reynolds    |OF        |     25|  8|  10|  2|  1| 
+|Bryan Reynolds    |OF        |     24|  8|  10|  2|  1| 
 |Mookie Betts      |OF        |     27|  9|  10|  2|  0| 
 |Teoscar Hernández |OF        |     25|  9|  12|  5|  1| 
 |Alec Bohm         |DH        |     20|  6|  10|  1|  1| 
