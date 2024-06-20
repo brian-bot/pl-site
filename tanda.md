@@ -21,8 +21,8 @@
 |David Hamilton    |DH        |      2|  1|   1|  0|  2| 
 |Jorge Soler       |DH        |      5|  4|   4|  1|  0| 
 |Colton Cowser     |BAT BENCH |      2|  0|   0|  0|  0| 
-|J.P. Crawford     |BAT BENCH |      4|  1|   3|  1|  0| 
 |Jackson Chourio   |BAT BENCH |      2|  1|   3|  0|  0| 
+|Jesse Winker      |BAT BENCH |      4|  1|   2|  1|  0| 
 |Ryan O'Hearn      |BAT BENCH |      2|  0|   2|  0|  0| 
 
 
