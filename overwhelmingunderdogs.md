@@ -5,18 +5,18 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|MJ Melendez        |C         |      2|  0|   0|  0|  0| 
-|Christian Walker   |1B        |      2|  1|   0|  0|  0| 
-|Jose Altuve        |2B        |      2|  0|   0|  0|  0| 
+|MJ Melendez        |C         |      5|  0|   0|  0|  0| 
+|Christian Walker   |1B        |      4|  2|   1|  1|  0| 
+|Jose Altuve        |2B        |      4|  1|   1|  0|  0| 
 |Matt Vierling      |3B        |      1|  0|   0|  0|  0| 
-|Jackson Merrill    |SS        |      3|  2|   1|  1|  0| 
-|Anthony Volpe      |MI        |      5|  2|   1|  0|  0| 
+|Jackson Merrill    |SS        |      4|  3|   2|  2|  0| 
+|Anthony Volpe      |MI        |      6|  3|   1|  0|  0| 
 |Josh Bell          |CI        |      5|  1|   1|  0|  0| 
 |Corbin Carroll     |OF        |      5|  2|   1|  0|  1| 
-|Fernando Tatis Jr. |OF        |      2|  0|   0|  0|  0| 
+|Fernando Tatis Jr. |OF        |      6|  2|   1|  1|  0| 
 |Mark Canha         |OF        |      5|  0|   0|  0|  0| 
 |Spencer Steer      |OF        |      4|  0|   1|  0|  0| 
-|Brendan Donovan    |DH        |      5|  1|   4|  1|  0| 
+|Brendan Donovan    |DH        |      8|  2|   7|  2|  0| 
 |Jonathan India     |DH        |      3|  1|   0|  0|  0| 
 |Justin Turner      |DH        |      8|  5|   1|  1|  0| 
 |Sean Murphy        |DH        |      4|  3|   4|  2|  0| 
@@ -41,14 +41,14 @@
 |Nick Lodolo   |SP          |  1| 7.000|  1|  1.286|      4| 0.571|  8|  1|  0| 
 |Pablo López   |SP          |  1| 4.000|  5| 11.250|      8| 2.000|  3|  0|  0| 
 |Kyle Finnegan |RP          |  1| 1.000|  0|  0.000|      0| 0.000|  2|  0|  1| 
-|Paul Sewald   |RP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Paul Sewald   |RP          |  1| 1.000|  0|  0.000|      1| 1.000|  1|  0|  1| 
 |Aaron Civale  |OP          |  1| 3.667|  4|  9.818|      9| 2.455|  5|  0|  0| 
 |José Alvarado |OP          |  1| 1.000|  0|  0.000|      0| 0.000|  1|  0|  0| 
 |Michael Wacha |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Ryan Pepiot   |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Tobias Myers  |OP          |  1| 6.333|  0|  0.000|      6| 0.947|  6|  1|  0| 
 |Jesús Luzardo |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
-|Ryan Helsley  |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Ryan Helsley  |PITCH BENCH |  1| 1.000|  0|  0.000|      2| 2.000|  2|  0|  1| 
 
 
 * * *

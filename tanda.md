@@ -8,22 +8,22 @@
 |Logan O'Hoppe     |C         |      2|  2|   0|  0|  0| 
 |Matt Olson        |1B        |      0|  0|   0|  0|  0| 
 |Marcus Semien     |2B        |      2|  1|   0|  0|  0| 
-|Royce Lewis       |3B        |      4|  1|   1|  1|  0| 
-|Gunnar Henderson  |SS        |      4|  3|   0|  0|  2| 
+|Royce Lewis       |3B        |      7|  2|   2|  2|  0| 
+|Gunnar Henderson  |SS        |      8|  6|   1|  0|  3| 
 |Oneil Cruz        |MI        |      1|  1|   2|  0|  0| 
-|Anthony Santander |CI        |      1|  2|   2|  1|  0| 
+|Anthony Santander |CI        |      4|  3|   5|  2|  0| 
 |J.D. Martinez     |OF        |      3|  1|   0|  0|  0| 
 |Jarren Duran      |OF        |      4|  2|   2|  1|  2| 
-|Julio Rodríguez   |OF        |      1|  0|   0|  0|  0| 
+|Julio Rodríguez   |OF        |      2|  0|   0|  0|  0| 
 |Luis Rengifo      |OF        |      3|  0|   0|  0|  0| 
-|Andrew Vaughn     |DH        |      2|  0|   2|  0|  0| 
-|Brandon Lowe      |DH        |      2|  2|   1|  1|  0| 
+|Andrew Vaughn     |DH        |      4|  0|   3|  0|  0| 
+|Brandon Lowe      |DH        |      3|  2|   2|  1|  0| 
 |David Hamilton    |DH        |      2|  1|   1|  0|  2| 
-|Jorge Soler       |DH        |      5|  4|   4|  1|  0| 
+|Jorge Soler       |DH        |      7|  5|   4|  1|  0| 
 |Colton Cowser     |BAT BENCH |      2|  0|   0|  0|  0| 
 |Jackson Chourio   |BAT BENCH |      2|  1|   3|  0|  0| 
-|Jesse Winker      |BAT BENCH |      4|  1|   2|  1|  0| 
-|Ryan O'Hearn      |BAT BENCH |      2|  0|   2|  0|  0| 
+|Jesse Winker      |BAT BENCH |      6|  2|   3|  2|  0| 
+|Ryan O'Hearn      |BAT BENCH |      5|  0|   6|  0|  0| 
 
 
 * * *
@@ -41,7 +41,7 @@
 |Yusei Kikuchi   |SP          |  1| 4.000|  5| 11.250|      7| 1.750|  7|  0|  0| 
 |Craig Kimbrel   |RP          |  1| 1.000|  1|  9.000|      2| 2.000|  1|  1|  0| 
 |Raisel Iglesias |RP          |  1| 1.000|  0|  0.000|      0| 0.000|  1|  0|  1| 
-|Cole Irvin      |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Cole Irvin      |OP          |  1| 4.667|  5|  9.643|      7| 1.500|  2|  0|  0| 
 |Jake Irvin      |OP          |  1| 5.000|  4|  7.200|     12| 2.400|  2|  0|  0| 
 |José Soriano    |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Kyle Gibson     |OP          | **|    **| **|     **|     **|    **| **| **| **| 
