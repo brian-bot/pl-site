@@ -5,21 +5,21 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|Tyler Soderstrom      |C         |      1|  0|   0|  0|  0| 
+|Tyler Soderstrom      |C         |      5|  1|   3|  0|  0| 
 |Freddie Freeman       |1B        |     11|  4|   2|  1|  0| 
 |Gleyber Torres        |2B        |      4|  3|   3|  1|  0| 
 |Matt Chapman          |3B        |      3|  3|   0|  0|  0| 
-|Willy Adames          |SS        |      8|  2|   3|  1|  0| 
-|Maikel Garcia         |MI        |      0|  0|   1|  0|  0| 
-|Vladimir Guerrero Jr. |CI        |      2|  0|   0|  0|  0| 
+|Willy Adames          |SS        |     10|  2|   3|  1|  0| 
+|Maikel Garcia         |MI        |      2|  0|   1|  0|  0| 
+|Vladimir Guerrero Jr. |CI        |      4|  1|   1|  1|  0| 
 |Alex Verdugo          |OF        |      3|  1|   0|  0|  0| 
-|Cody Bellinger        |OF        |      5|  3|   1|  0|  1| 
+|Cody Bellinger        |OF        |      7|  3|   1|  0|  1| 
 |Kyle Tucker           |OF        |     **| **|  **| **| **| 
-|Seiya Suzuki          |OF        |      5|  1|   1|  0|  1| 
-|Brenton Doyle         |DH        |      4|  2|   4|  1|  0| 
+|Seiya Suzuki          |OF        |      7|  1|   1|  0|  1| 
+|Brenton Doyle         |DH        |      6|  2|   4|  1|  0| 
 |Ian Happ              |DH        |      7|  4|   5|  2|  1| 
-|Jarred Kelenic        |DH        |      3|  1|   0|  0|  1| 
-|Jurickson Profar      |DH        |      5|  1|   2|  0|  0| 
+|Jarred Kelenic        |DH        |      6|  2|   1|  0|  1| 
+|Jurickson Profar      |DH        |      6|  1|   2|  0|  0| 
 |Max Muncy             |BAT BENCH |     **| **|  **| **| **| 
 |Michael Harris II     |BAT BENCH |     **| **|  **| **| **| 
 |Wilyer Abreu          |BAT BENCH |     **| **|  **| **| **| 
@@ -34,9 +34,9 @@
 |:--------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
 |Charlie Morton |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Framber Valdez |SP          |  1| 6.000|  2|  3.000|      7| 1.167|  5|  0|  0| 
-|Jack Flaherty  |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Jack Flaherty  |SP          |  1| 5.667|  1|  1.588|      7| 1.235|  8|  1|  0| 
 |Michael King   |SP          |  1| 4.667|  1|  1.929|      9| 1.929|  6|  0|  0| 
-|Nathan Eovaldi |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Nathan Eovaldi |SP          |  1| 6.000|  2|  3.000|      5| 0.833|  6|  1|  0| 
 |Seth Lugo      |SP          |  1| 6.667|  2|  2.700|      9| 1.350|  8|  0|  0| 
 |Edwin Díaz     |RP          |  1| 1.000|  0|  0.000|      1| 1.000|  0|  0|  1| 
 |Yimi García    |RP          | **|    **| **|     **|     **|    **| **| **| **| 
@@ -46,7 +46,7 @@
 |Luis Gil       |OP          |  1| 1.333|  7| 47.250|     10| 7.500|  1|  0|  0| 
 |Taj Bradley    |OP          |  1| 6.000|  2|  3.000|      9| 1.500|  3|  0|  0| 
 |Bobby Miller   |PITCH BENCH |  1| 6.333|  5|  7.105|      9| 1.421|  2|  0|  0| 
-|Jason Foley    |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Jason Foley    |PITCH BENCH |  1| 1.333|  0|  0.000|      0| 0.000|  1|  0|  1| 
 |Kyle Harrison  |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 
 
