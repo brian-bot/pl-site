@@ -5,25 +5,25 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Logan O'Hoppe     |C         |      3|  2|   0|  0|  0| 
+|Logan O'Hoppe     |C         |      4|  3|   1|  1|  0| 
 |Matt Olson        |1B        |      2|  2|   2|  1|  0| 
-|Marcus Semien     |2B        |      3|  1|   3|  0|  0| 
-|Royce Lewis       |3B        |      8|  3|   3|  3|  0| 
-|Gunnar Henderson  |SS        |     12|  9|   4|  2|  4| 
-|Oneil Cruz        |MI        |      1|  1|   2|  0|  0| 
+|Marcus Semien     |2B        |      4|  2|   3|  0|  0| 
+|Royce Lewis       |3B        |     10|  5|   3|  3|  0| 
+|Gunnar Henderson  |SS        |     13|  9|   4|  2|  4| 
+|Oneil Cruz        |MI        |      3|  3|   3|  1|  0| 
 |Anthony Santander |CI        |      7|  4|   8|  3|  0| 
-|J.D. Martinez     |OF        |      5|  3|   4|  1|  0| 
-|Jarren Duran      |OF        |      6|  3|   3|  2|  2| 
+|J.D. Martinez     |OF        |      7|  3|   4|  1|  0| 
+|Jarren Duran      |OF        |      8|  4|   3|  2|  2| 
 |Julio Rodríguez   |OF        |      3|  0|   0|  0|  0| 
 |Luis Rengifo      |OF        |      5|  1|   0|  0|  2| 
-|Andrew Vaughn     |DH        |      5|  0|   3|  0|  0| 
-|Brandon Lowe      |DH        |      4|  3|   3|  1|  0| 
-|David Hamilton    |DH        |      2|  1|   1|  0|  2| 
-|Jorge Soler       |DH        |      7|  5|   4|  1|  0| 
+|Andrew Vaughn     |DH        |      7|  0|   4|  0|  0| 
+|Brandon Lowe      |DH        |      5|  4|   3|  1|  0| 
+|David Hamilton    |DH        |      3|  1|   1|  0|  3| 
+|Jorge Soler       |DH        |      9|  6|   5|  1|  0| 
 |Colton Cowser     |BAT BENCH |      2|  0|   0|  0|  0| 
 |Jackson Chourio   |BAT BENCH |      3|  2|   3|  0|  0| 
-|Jesse Winker      |BAT BENCH |      8|  2|   3|  2|  0| 
-|Ryan O'Hearn      |BAT BENCH |      6|  1|   7|  0|  1| 
+|Jesse Winker      |BAT BENCH |      9|  2|   3|  2|  1| 
+|Ryan O'Hearn      |BAT BENCH |      7|  1|   7|  0|  1| 
 
 
 * * *
@@ -47,7 +47,7 @@
 |Kyle Gibson     |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Erick Fedde     |PITCH BENCH |  1| 7.000|  2|  2.571|      6| 0.857|  3|  0|  0| 
 |Jordan Romano   |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
-|Marcus Stroman  |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Marcus Stroman  |PITCH BENCH |  1| 6.667|  3|  4.050|      5| 0.750|  6|  1|  0| 
 
 
 * * *
