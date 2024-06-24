@@ -7,23 +7,23 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |William Contreras |C         |      4|  1|   1|  0|  0| 
 |Nolan Jones       |1B        |      7|  2|   2|  1|  0| 
-|Ozzie Albies      |2B        |      8|  5|   5|  2|  1| 
-|Manny Machado     |3B        |     11|  5|   4|  1|  0| 
-|Corey Seager      |SS        |      4|  3|   2|  0|  0| 
+|Ozzie Albies      |2B        |      9|  5|   6|  2|  1| 
+|Manny Machado     |3B        |     12|  5|   5|  1|  0| 
+|Corey Seager      |SS        |      6|  3|   2|  0|  0| 
 |Ezequiel Tovar    |MI        |      8|  4|   2|  1|  0| 
-|Ha-Seong Kim      |CI        |      6|  3|   1|  1|  1| 
-|Bryan De La Cruz  |OF        |      7|  4|   5|  3|  0| 
-|Bryan Reynolds    |OF        |      9|  4|   4|  2|  0| 
+|Ha-Seong Kim      |CI        |      7|  4|   1|  1|  1| 
+|Bryan De La Cruz  |OF        |      8|  4|   5|  3|  0| 
+|Bryan Reynolds    |OF        |     12|  5|   5|  3|  0| 
 |Teoscar Hernández |OF        |      7|  3|   4|  1|  0| 
-|Tyler O'Neill     |OF        |      8|  4|   3|  3|  0| 
-|Alec Bohm         |DH        |      8|  4|   4|  2|  0| 
-|Jeremy Peña       |DH        |      3|  0|   1|  0|  0| 
+|Tyler O'Neill     |OF        |     11|  4|   3|  3|  0| 
+|Alec Bohm         |DH        |     11|  5|   4|  2|  0| 
+|Jeremy Peña       |DH        |      6|  1|   4|  0|  0| 
 |Miguel Rojas      |DH        |      6|  5|   1|  0|  0| 
 |Zach Neto         |DH        |      5|  2|   3|  1|  0| 
 |Connor Joe        |BAT BENCH |      1|  0|   0|  0|  0| 
 |Edmundo Sosa      |BAT BENCH |      5|  1|   0|  0|  0| 
 |Mookie Betts      |BAT BENCH |     **| **|  **| **| **| 
-|Nathaniel Lowe    |BAT BENCH |      7|  2|   0|  0|  1| 
+|Nathaniel Lowe    |BAT BENCH |      9|  3|   0|  0|  1| 
 |Willson Contreras |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -38,14 +38,14 @@
 |Justin Verlander |SP          | **|     **| **|     **|     **|    **| **| **| **| 
 |Logan Gilbert    |SP          |  1|  8.000|  0|  0.000|      5| 0.625|  6|  1|  0| 
 |Miles Mikolas    |SP          |  1|  6.000|  4|  6.000|      8| 1.333|  3|  1|  0| 
-|Sonny Gray       |SP          |  1|  7.667|  2|  2.348|      7| 0.913|  4|  0|  0| 
+|Sonny Gray       |SP          |  2| 14.667|  3|  1.841|      8| 0.545| 12|  1|  0| 
 |Tylor Megill     |SP          |  1|  3.000|  6| 18.000|      8| 2.667|  6|  0|  0| 
-|Clay Holmes      |RP          |  2|  2.000|  3| 13.500|      4| 2.000|  1|  0|  0| 
+|Clay Holmes      |RP          |  3|  3.000|  3|  9.000|      4| 1.333|  3|  0|  0| 
 |David Bednar     |RP          |  2|  2.000|  0|  0.000|      0| 0.000|  1|  0|  2| 
 |Jon Gray         |OP          |  2|  9.000|  9|  9.000|     13| 1.444|  5|  1|  0| 
 |Lance Lynn       |OP          |  1|  5.333|  5|  8.438|     10| 1.875|  5|  0|  0| 
 |Nick Pivetta     |OP          |  2| 11.333|  6|  4.765|     17| 1.500|  9|  1|  0| 
-|Trevor Megill    |OP          |  2|  1.333|  0|  0.000|      0| 0.000|  1|  0|  2| 
+|Trevor Megill    |OP          |  3|  2.333|  0|  0.000|      0| 0.000|  2|  0|  2| 
 |Tyler Anderson   |OP          |  1|  7.000|  1|  1.286|      7| 1.000|  5|  0|  0| 
 |Sean Manaea      |PITCH BENCH |  1|  5.667|  3|  4.765|      5| 0.882|  6|  0|  0| 
 

@@ -6,23 +6,23 @@
 |players         |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------|:---------|------:|--:|---:|--:|--:| 
 |Ryan Jeffers    |C         |      5|  2|   2|  0|  0| 
-|Mark Vientos    |1B        |      6|  5|   1|  1|  0| 
-|Ryan McMahon    |2B        |     11|  5|   5|  2|  0| 
-|Jordan Westburg |3B        |      5|  2|   2|  1|  0| 
-|Willi Castro    |SS        |     10|  4|   6|  1|  0| 
-|Joey Ortiz      |MI        |      9|  3|   0|  0|  0| 
-|Nolan Gorman    |CI        |      3|  1|   3|  1|  1| 
-|Aaron Judge     |OF        |      6|  3|   6|  2|  0| 
+|Mark Vientos    |1B        |      7|  6|   2|  2|  0| 
+|Ryan McMahon    |2B        |     13|  5|   5|  2|  0| 
+|Jordan Westburg |3B        |      6|  3|   3|  2|  0| 
+|Willi Castro    |SS        |     11|  5|   6|  1|  0| 
+|Joey Ortiz      |MI        |     11|  4|   0|  0|  1| 
+|Nolan Gorman    |CI        |      3|  1|   3|  1|  2| 
+|Aaron Judge     |OF        |      7|  3|   6|  2|  0| 
 |Luis Robert Jr. |OF        |      6|  2|   1|  0|  2| 
 |TJ Friedl       |OF        |      3|  0|   1|  0|  0| 
-|Yordan Alvarez  |OF        |      5|  3|   4|  2|  0| 
+|Yordan Alvarez  |OF        |      6|  3|   4|  2|  0| 
 |Andy Pages      |DH        |      8|  4|   3|  1|  0| 
 |Daulton Varsho  |DH        |      3|  0|   0|  0|  1| 
 |Jose Siri       |DH        |      6|  4|   1|  1|  0| 
-|Wyatt Langford  |DH        |      9|  2|   9|  2|  1| 
-|Byron Buxton    |BAT BENCH |      3|  1|   1|  0|  1| 
-|Davis Schneider |BAT BENCH |      4|  2|   2|  2|  0| 
-|José Caballero  |BAT BENCH |      2|  2|   0|  0|  2| 
+|Wyatt Langford  |DH        |     10|  3|  10|  2|  1| 
+|Byron Buxton    |BAT BENCH |      5|  2|   3|  1|  1| 
+|Davis Schneider |BAT BENCH |      6|  2|   2|  2|  0| 
+|José Caballero  |BAT BENCH |      2|  3|   0|  0|  2| 
 |Rhys Hoskins    |BAT BENCH |      8|  2|   3|  0|  0| 
 
 * * *
@@ -42,7 +42,7 @@
 |Evan Phillips   |RP          |  3| 2.000|  0|  0.000|      1| 0.500|  3|  0|  2| 
 |Gavin Stone     |OP          |  1| 5.333|  2|  3.375|      6| 1.125|  7|  1|  0| 
 |Hunter Brown    |OP          |  1| 6.000|  1|  1.500|      7| 1.167|  6|  1|  0| 
-|Jeff Hoffman    |OP          |  1| 1.000|  0|  0.000|      0| 0.000|  2|  1|  0| 
+|Jeff Hoffman    |OP          |  2| 2.000|  1|  4.500|      3| 1.500|  3|  1|  0| 
 |Ronel Blanco    |OP          |  1| 7.000|  1|  1.286|      7| 1.000|  4|  1|  0| 
 |Zach Eflin      |OP          |  1| 7.000|  4|  5.143|      6| 0.857|  6|  0|  0| 
 |Ben Brown       |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
