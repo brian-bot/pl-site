@@ -45,6 +45,7 @@
 |Jake Irvin      |OP          |  2| 11.000|  5|  4.091|     16| 1.455| 12|  0|  0| 
 |José Soriano    |OP          | **|     **| **|     **|     **|    **| **| **| **| 
 |Kyle Gibson     |OP          | **|     **| **|     **|     **|    **| **| **| **| 
+|Max Scherzer    |OP          |  1|  5.000|  0|  0.000|      1| 0.200|  4|  1|  0| 
 |Erick Fedde     |PITCH BENCH |  1|  7.000|  2|  2.571|      6| 0.857|  3|  0|  0| 
 |Jordan Romano   |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Marcus Stroman  |PITCH BENCH |  1|  6.667|  3|  4.050|      5| 0.750|  6|  1|  0| 
