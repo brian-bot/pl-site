@@ -5,26 +5,26 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras |C         |      4|  1|   1|  0|  0| 
+|William Contreras |C         |      5|  2|   1|  0|  0| 
 |Nolan Jones       |1B        |      7|  2|   2|  1|  0| 
 |Ozzie Albies      |2B        |      9|  5|   6|  2|  1| 
-|Manny Machado     |3B        |     12|  5|   5|  1|  0| 
-|Corey Seager      |SS        |      6|  3|   2|  0|  0| 
+|Manny Machado     |3B        |     13|  5|   5|  1|  0| 
+|Corey Seager      |SS        |      7|  3|   3|  0|  1| 
 |Ezequiel Tovar    |MI        |      8|  4|   2|  1|  0| 
-|Ha-Seong Kim      |CI        |      7|  4|   1|  1|  1| 
-|Bryan De La Cruz  |OF        |      8|  4|   5|  3|  0| 
-|Bryan Reynolds    |OF        |     12|  5|   5|  3|  0| 
+|Ha-Seong Kim      |CI        |      9|  6|   2|  1|  1| 
+|Bryan De La Cruz  |OF        |      9|  4|   6|  3|  0| 
+|Bryan Reynolds    |OF        |     15|  5|   6|  3|  0| 
 |Teoscar Hernández |OF        |      7|  3|   4|  1|  0| 
-|Tyler O'Neill     |OF        |     11|  4|   3|  3|  0| 
-|Alec Bohm         |DH        |     11|  5|   4|  2|  0| 
+|Tyler O'Neill     |OF        |     12|  5|   3|  3|  0| 
+|Alec Bohm         |DH        |     15|  6|   7|  3|  1| 
 |Jeremy Peña       |DH        |      6|  1|   4|  0|  0| 
-|Miguel Rojas      |DH        |      6|  5|   1|  0|  0| 
-|Zach Neto         |DH        |      5|  2|   3|  1|  0| 
-|Connor Joe        |BAT BENCH |      1|  0|   0|  0|  0| 
+|Miguel Rojas      |DH        |      8|  6|   1|  0|  0| 
+|Zach Neto         |DH        |      7|  3|   3|  1|  0| 
+|Connor Joe        |BAT BENCH |      2|  0|   0|  0|  0| 
 |Edmundo Sosa      |BAT BENCH |      5|  1|   0|  0|  0| 
 |Mookie Betts      |BAT BENCH |     **| **|  **| **| **| 
 |Nathaniel Lowe    |BAT BENCH |      9|  3|   0|  0|  1| 
-|Willson Contreras |BAT BENCH |     **| **|  **| **| **| 
+|Willson Contreras |BAT BENCH |      1|  1|   1|  0|  0| 
 
 
 * * *
@@ -43,9 +43,9 @@
 |Clay Holmes      |RP          |  3|  3.000|  3|  9.000|      4| 1.333|  3|  0|  0| 
 |David Bednar     |RP          |  2|  2.000|  0|  0.000|      0| 0.000|  1|  0|  2| 
 |Jon Gray         |OP          |  2|  9.000|  9|  9.000|     13| 1.444|  5|  1|  0| 
-|Lance Lynn       |OP          |  1|  5.333|  5|  8.438|     10| 1.875|  5|  0|  0| 
+|Lance Lynn       |OP          |  2| 12.000|  6|  4.500|     14| 1.167| 10|  1|  0| 
 |Nick Pivetta     |OP          |  2| 11.333|  6|  4.765|     17| 1.500|  9|  1|  0| 
-|Trevor Megill    |OP          |  3|  2.333|  0|  0.000|      0| 0.000|  2|  0|  2| 
+|Trevor Megill    |OP          |  4|  3.333|  0|  0.000|      0| 0.000|  4|  0|  3| 
 |Tyler Anderson   |OP          |  1|  7.000|  1|  1.286|      7| 1.000|  5|  0|  0| 
 |Sean Manaea      |PITCH BENCH |  1|  5.667|  3|  4.765|      5| 0.882|  6|  0|  0| 
 

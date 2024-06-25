@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |      5|  1|   4|  1|  0| 
+|Will Smith        |C         |      7|  1|   4|  1|  0| 
 |Ryan Mountcastle  |1B        |     11|  4|   7|  0|  0| 
-|Isaac Paredes     |2B        |     10|  2|   1|  1|  0| 
-|Rafael Devers     |3B        |      6|  3|   3|  1|  0| 
-|Bobby Witt Jr.    |SS        |      3|  1|   2|  1|  0| 
-|Trea Turner       |MI        |      8|  4|   3|  1|  0| 
-|Josh Smith        |CI        |      9|  4|   6|  3|  0| 
+|Isaac Paredes     |2B        |     11|  2|   1|  1|  0| 
+|Rafael Devers     |3B        |      9|  5|   5|  2|  0| 
+|Bobby Witt Jr.    |SS        |      5|  1|   2|  1|  0| 
+|Trea Turner       |MI        |     10|  5|   3|  1|  0| 
+|Josh Smith        |CI        |     12|  4|   6|  3|  0| 
 |Jake McCarthy     |OF        |      7|  2|   0|  0|  2| 
 |Joc Pederson      |OF        |      7|  1|   1|  1|  0| 
-|Masataka Yoshida  |OF        |      2|  1|   1|  0|  0| 
-|Taylor Ward       |OF        |      8|  1|   2|  0|  1| 
+|Masataka Yoshida  |OF        |      4|  1|   1|  0|  0| 
+|Taylor Ward       |OF        |     10|  3|   4|  1|  1| 
 |Carlos Correa     |DH        |      9|  3|   1|  0|  0| 
-|David Fry         |DH        |      4|  0|   1|  0|  0| 
-|Luis Arraez       |DH        |      7|  2|   4|  1|  0| 
+|David Fry         |DH        |      5|  0|   1|  0|  0| 
+|Luis Arraez       |DH        |      8|  2|   4|  1|  0| 
 |Yainer Diaz       |DH        |      9|  7|   4|  0|  1| 
-|Christopher Morel |BAT BENCH |      7|  4|   5|  2|  0| 
+|Christopher Morel |BAT BENCH |      9|  4|   5|  2|  0| 
 |Kerry Carpenter   |BAT BENCH |     **| **|  **| **| **| 
-|Yandy Díaz        |BAT BENCH |     11|  3|   6|  2|  0| 
+|Yandy Díaz        |BAT BENCH |     13|  3|   8|  2|  0| 
 
 
 * * *
@@ -41,7 +41,7 @@
 |Jhoan Duran             |RP          |  3|  3.000|  2|  6.000|      2| 0.667|  4|  1|  0| 
 |Mason Miller            |RP          |  3|  3.000|  0|  0.000|      1| 0.333|  4|  0|  2| 
 |Ben Lively              |OP          |  1|  5.667|  2|  3.176|      5| 0.882|  4|  1|  0| 
-|Cade Povich             |OP          |  1|  4.667|  1|  1.929|      6| 1.286|  1|  0|  0| 
+|Cade Povich             |OP          |  2| 10.333|  4|  3.484|     14| 1.355|  6|  0|  0| 
 |Camilo Doval            |OP          |  1|  1.000|  0|  0.000|      0| 0.000|  1|  0|  1| 
 |DJ Herz                 |OP          |  1|  3.667|  3|  7.364|      7| 1.909|  5|  0|  0| 
 |Simeon Woods Richardson |OP          |  1|  6.000|  2|  3.000|      6| 1.000|  6|  0|  0| 
