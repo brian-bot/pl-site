@@ -19,10 +19,10 @@
 |Carlos Correa     |DH        |      9|  3|   1|  0|  0| 
 |David Fry         |DH        |      6|  0|   2|  0|  0| 
 |Luis Arraez       |DH        |      9|  4|   4|  1|  0| 
-|Yainer Diaz       |DH        |     10|  8|   5|  0|  1| 
+|Yandy Díaz        |DH        |     14|  4|   9|  3|  0| 
 |Christopher Morel |BAT BENCH |     10|  4|   5|  2|  0| 
 |Kerry Carpenter   |BAT BENCH |     **| **|  **| **| **| 
-|Yandy Díaz        |BAT BENCH |     14|  4|   9|  3|  0| 
+|Yainer Diaz       |BAT BENCH |     10|  8|   5|  0|  1| 
 
 
 * * *

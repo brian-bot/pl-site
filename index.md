@@ -7,10 +7,10 @@ Through games on 2024-06-25 ([website build status](https://github.com/brian-bot
 
 |team                   | points|  r| hitsbb| hr| rbi| sb|  w| sv|  so|   era|  whip|
 |:----------------------|------:|--:|------:|--:|---:|--:|--:|--:|---:|-----:|-----:|
-|[Washington Generals](./washingtongenerals)|   66.5| 65|    143| 20|  51|  5|  7|  8|  99| 2.896| 1.088|
-|[Overwhelming Underdogs](./overwhelmingunderdogs)|   61.5| 56|    161| 15|  47|  5|  7|  5| 107| 3.112| 1.150|
+|[Washington Generals](./washingtongenerals)|   65.5| 65|    143| 20|  51|  5|  7|  8|  99| 2.896| 1.088|
+|[Overwhelming Underdogs](./overwhelmingunderdogs)|   61.0| 56|    161| 15|  47|  5|  7|  5| 107| 3.112| 1.150|
 |[Mean Wieners](./meanwieners)|   54.0| 56|    138| 21|  60|  8|  6|  4|  96| 3.857| 1.244|
-|[Boys of Summer](./boysofsummer)|   26.0| 51|    141| 15|  52|  4|  4|  3|  83| 4.641| 1.289|
+|[Boys of Summer](./boysofsummer)|   27.5| 47|    145| 18|  56|  3|  4|  3|  83| 4.641| 1.289|
 |[Bone Pilers](./bonepilers)|   67.5| 68|    148| 23|  73| 12|  6|  1| 105| 3.857| 1.176|
 |[Vass Deferens](./vassdeferens)|   63.5| 55|    176| 14|  47|  9|  5|  9| 111| 3.304| 1.066|
 |[T and A](./tanda)     |   47.0| 64|    123| 20|  62| 13|  5|  2|  92| 4.587| 1.263|
