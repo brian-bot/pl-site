@@ -6,22 +6,22 @@
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Shea Langeliers     |C         |      4|  2|   3|  1|  0| 
-|Paul Goldschmidt    |1B        |      9|  3|   4|  2|  0| 
-|Bryson Stott        |2B        |     10|  1|   2|  0|  1| 
+|Paul Goldschmidt    |1B        |     12|  5|   5|  2|  1| 
+|Bryson Stott        |2B        |     12|  4|   2|  0|  2| 
 |Jeimer Candelario   |3B        |      6|  4|   4|  2|  1| 
-|Francisco Lindor    |SS        |     12|  7|   5|  1|  2| 
+|Francisco Lindor    |SS        |     14|  8|   5|  1|  2| 
 |Bo Bichette         |MI        |      1|  1|   0|  0|  0| 
-|Alex Bregman        |CI        |     16|  6|   2|  0|  0| 
-|Brandon Nimmo       |OF        |     14| 11|  11|  5|  0| 
+|Alex Bregman        |CI        |     16|  7|   2|  0|  0| 
+|Brandon Nimmo       |OF        |     16| 13|  11|  5|  0| 
 |George Springer     |OF        |      7|  1|   2|  1|  0| 
-|Lourdes Gurriel Jr. |OF        |     10|  2|   1|  1|  0| 
+|Lourdes Gurriel Jr. |OF        |     11|  2|   3|  1|  0| 
 |Steven Kwan         |OF        |     13|  9|   7|  3|  1| 
-|Austin Riley        |DH        |     12|  5|   2|  2|  0| 
+|Austin Riley        |DH        |     16|  6|   2|  2|  0| 
 |Eugenio Suárez      |DH        |      7|  1|   1|  0|  0| 
-|Masyn Winn          |DH        |     10|  8|   3|  1|  0| 
-|Michael Busch       |DH        |     12|  4|   4|  1|  0| 
+|Masyn Winn          |DH        |     12|  9|   3|  1|  0| 
+|Michael Busch       |DH        |     13|  4|   4|  1|  0| 
 |Blaze Alexander     |BAT BENCH |      3|  1|   0|  0|  1| 
-|Brandon Marsh       |BAT BENCH |      7|  3|   1|  0|  0| 
+|Brandon Marsh       |BAT BENCH |     11|  4|   5|  1|  0| 
 |Esteury Ruiz        |BAT BENCH |     **| **|  **| **| **| 
 |J.T. Realmuto       |BAT BENCH |     **| **|  **| **| **| 
 |JJ Bleday           |BAT BENCH |     11|  4|   4|  1|  0| 
@@ -37,7 +37,7 @@
 |:-----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Andrew Abbott     |SP          |  1|  5.667|  2|  3.176|      5| 0.882| 10|  1|  0| 
 |Braxton Garrett   |SP          |  1|  6.000|  1|  1.500|      5| 0.833|  6|  0|  0| 
-|George Kirby      |SP          |  1|  7.000|  2|  2.571|      5| 0.714|  5|  0|  0| 
+|George Kirby      |SP          |  2| 13.000|  3|  2.077|      9| 0.692| 12|  1|  0| 
 |James Paxton      |SP          |  2| 12.000|  1|  0.750|      9| 0.750| 14|  1|  0| 
 |Jordan Hicks      |SP          |  2|  9.000|  5|  5.000|     17| 1.889|  5|  0|  0| 
 |Jordan Montgomery |SP          |  1|  6.000|  2|  3.000|      6| 1.000|  5|  1|  0| 

@@ -5,25 +5,25 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman    |C         |     19|  6|   0|  0|  0| 
-|Pete Alonso        |1B        |     14|  3|   6|  1|  0| 
-|Nico Hoerner       |2B        |     13|  5|   0|  0|  3| 
+|Adley Rutschman    |C         |     20|  6|   0|  0|  0| 
+|Pete Alonso        |1B        |     17|  6|   6|  1|  0| 
+|Nico Hoerner       |2B        |     14|  5|   0|  0|  3| 
 |Elly De La Cruz    |3B        |     16|  6|   4|  2|  1| 
 |CJ Abrams          |SS        |     17|  8|   4|  1|  3| 
-|Ketel Marte        |MI        |      6|  2|   7|  2|  0| 
-|Vinnie Pasquantino |CI        |      6|  2|   2|  1|  0| 
-|Juan Soto          |OF        |     14|  6|   2|  1|  0| 
+|Ketel Marte        |MI        |      8|  3|   7|  2|  0| 
+|Vinnie Pasquantino |CI        |      8|  2|   3|  1|  0| 
+|Juan Soto          |OF        |     16|  7|   2|  1|  0| 
 |Marcell Ozuna      |OF        |     11|  3|   2|  1|  0| 
-|Riley Greene       |OF        |     14|  2|   5|  1|  1| 
+|Riley Greene       |OF        |     16|  2|   5|  1|  1| 
 |Wenceel Pérez      |OF        |     10|  1|   1|  0|  1| 
-|Heliot Ramos       |DH        |      9|  3|   5|  2|  0| 
+|Heliot Ramos       |DH        |     10|  3|   5|  2|  0| 
 |Jake Burger        |DH        |      5|  3|   1|  0|  0| 
-|Miguel Andujar     |DH        |     14|  2|   2|  0|  0| 
-|Mitch Garver       |DH        |      8|  3|   6|  2|  0| 
+|Miguel Andujar     |DH        |     16|  2|   2|  0|  0| 
+|Mitch Garver       |DH        |      9|  4|   6|  2|  0| 
 |Anthony Rizzo      |BAT BENCH |     **| **|  **| **| **| 
 |Jo Adell           |BAT BENCH |      4|  2|   2|  0|  0| 
 |Michael Massey     |BAT BENCH |      2|  1|   0|  0|  0| 
-|Sal Frelick        |BAT BENCH |     10|  3|   1|  0|  2| 
+|Sal Frelick        |BAT BENCH |     13|  3|   1|  0|  2| 
 
 
 * * *
