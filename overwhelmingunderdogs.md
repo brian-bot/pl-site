@@ -6,21 +6,21 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |MJ Melendez        |C         |     11|  2|   0|  0|  0| 
-|Christian Walker   |1B        |      8|  4|   1|  1|  0| 
+|Christian Walker   |1B        |      8|  4|   2|  1|  0| 
 |Jose Altuve        |2B        |     13|  7|   6|  1|  3| 
-|Matt Vierling      |3B        |      7|  5|   2|  1|  0| 
+|Matt Vierling      |3B        |      8|  5|   2|  1|  0| 
 |Jackson Merrill    |SS        |     13|  6|   8|  3|  0| 
-|Anthony Volpe      |MI        |     12|  4|   2|  0|  0| 
-|Josh Bell          |CI        |     10|  2|   2|  1|  0| 
+|Anthony Volpe      |MI        |     13|  4|   2|  0|  0| 
+|Josh Bell          |CI        |     11|  2|   3|  1|  0| 
 |Corbin Carroll     |OF        |     10|  4|   1|  0|  2| 
 |Fernando Tatis Jr. |OF        |      7|  2|   1|  1|  0| 
 |Mark Canha         |OF        |     11|  1|   1|  0|  0| 
-|Spencer Steer      |OF        |     11|  4|   7|  1|  0| 
-|Brendan Donovan    |DH        |     18|  4|  11|  3|  1| 
-|Jonathan India     |DH        |     20|  9|   3|  1|  2| 
-|Justin Turner      |DH        |     17|  5|   3|  1|  0| 
-|Sean Murphy        |DH        |     12|  3|   4|  2|  0| 
-|Jonah Heim         |BAT BENCH |     10|  3|   2|  1|  0| 
+|Spencer Steer      |OF        |     13|  6|   9|  2|  0| 
+|Brendan Donovan    |DH        |     19|  5|  12|  3|  1| 
+|Jonathan India     |DH        |     22| 10|   4|  1|  2| 
+|Justin Turner      |DH        |     19|  7|   4|  1|  0| 
+|Sean Murphy        |DH        |     13|  3|   4|  2|  0| 
+|Jonah Heim         |BAT BENCH |     12|  3|   2|  1|  0| 
 |Jorge Polanco      |BAT BENCH |      1|  1|   0|  0|  0| 
 |Josh Jung          |BAT BENCH |     **| **|  **| **| **| 
 |Triston Casas      |BAT BENCH |     **| **|  **| **| **| 
@@ -44,7 +44,7 @@
 |Paul Sewald   |RP          |  3|  3.000|  0| 0.000|      2| 0.667|  1|  0|  3| 
 |Aaron Civale  |OP          |  2|  8.667|  5| 5.192|     13| 1.500|  8|  0|  0| 
 |José Alvarado |OP          |  3|  3.000|  1| 3.000|      2| 0.667|  4|  0|  0| 
-|Michael Wacha |OP          |  1|  5.000|  1| 1.800|      4| 0.800|  5|  0|  0| 
+|Michael Wacha |OP          |  2| 10.333|  2| 1.742|     13| 1.258| 11|  0|  0| 
 |Ryan Pepiot   |OP          |  2|  8.667|  3| 3.115|     10| 1.154| 11|  0|  0| 
 |Tobias Myers  |OP          |  2| 11.333|  1| 0.794|     11| 0.971|  9|  2|  0| 
 |Jesús Luzardo |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 

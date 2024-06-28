@@ -6,18 +6,18 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith        |C         |      7|  1|   4|  1|  0| 
-|Ryan Mountcastle  |1B        |     15|  5|   7|  0|  0| 
+|Ryan Mountcastle  |1B        |     15|  5|   8|  0|  0| 
 |Isaac Paredes     |2B        |     13|  3|   3|  2|  0| 
 |Rafael Devers     |3B        |     11|  7|   6|  3|  0| 
-|Bobby Witt Jr.    |SS        |      8|  2|   2|  1|  0| 
-|Trea Turner       |MI        |     13|  5|   3|  1|  0| 
-|Josh Smith        |CI        |     14|  4|   7|  3|  0| 
-|Jake McCarthy     |OF        |      8|  3|   0|  0|  2| 
+|Bobby Witt Jr.    |SS        |      9|  2|   2|  1|  0| 
+|Trea Turner       |MI        |     16|  8|   3|  1|  0| 
+|Josh Smith        |CI        |     16|  5|   7|  3|  0| 
+|Jake McCarthy     |OF        |      9|  4|   0|  0|  2| 
 |Joc Pederson      |OF        |      9|  2|   1|  1|  0| 
 |Masataka Yoshida  |OF        |      5|  1|   2|  0|  0| 
-|Taylor Ward       |OF        |     13|  5|   5|  2|  1| 
-|Carlos Correa     |DH        |     13|  5|   2|  0|  0| 
-|David Fry         |DH        |      6|  0|   2|  0|  0| 
+|Taylor Ward       |OF        |     14|  5|   5|  2|  1| 
+|Carlos Correa     |DH        |     17|  7|   3|  0|  0| 
+|David Fry         |DH        |      7|  0|   2|  0|  0| 
 |Luis Arraez       |DH        |      9|  4|   4|  1|  0| 
 |Yandy Díaz        |DH        |     16|  4|  10|  3|  0| 
 |Christopher Morel |BAT BENCH |     14|  4|   5|  2|  0| 
@@ -40,7 +40,7 @@
 |MacKenzie Gore          |SP          |  2| 10.000|  9|  8.100|     20| 2.000|  8|  0|  0| 
 |Jhoan Duran             |RP          |  4|  3.667|  2|  4.909|      2| 0.545|  4|  1|  0| 
 |Mason Miller            |RP          |  4|  4.000|  0|  0.000|      2| 0.500|  6|  0|  2| 
-|Ben Lively              |OP          |  1|  5.667|  2|  3.176|      5| 0.882|  4|  1|  0| 
+|Ben Lively              |OP          |  2| 11.667|  4|  3.086|     12| 1.029|  9|  1|  0| 
 |Cade Povich             |OP          |  2| 10.333|  4|  3.484|     14| 1.355|  6|  0|  0| 
 |Camilo Doval            |OP          |  3|  3.000|  0|  0.000|      1| 0.333|  3|  0|  2| 
 |DJ Herz                 |OP          |  2|  7.000|  7|  9.000|     15| 2.143|  6|  0|  0| 

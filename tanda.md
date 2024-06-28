@@ -5,25 +5,25 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Logan O'Hoppe     |C         |      6|  4|   3|  1|  0| 
+|Logan O'Hoppe     |C         |      7|  4|   3|  1|  0| 
 |Matt Olson        |1B        |      6|  4|   2|  1|  0| 
-|Marcus Semien     |2B        |      6|  2|   4|  0|  0| 
-|Royce Lewis       |3B        |     11|  5|   3|  3|  0| 
-|Gunnar Henderson  |SS        |     22| 14|   8|  4|  4| 
+|Marcus Semien     |2B        |      7|  2|   4|  0|  0| 
+|Royce Lewis       |3B        |     12|  6|   5|  3|  0| 
+|Gunnar Henderson  |SS        |     24| 16|   8|  4|  4| 
 |Oneil Cruz        |MI        |      7|  5|   6|  2|  1| 
 |Anthony Santander |CI        |     10|  5|  10|  4|  0| 
 |J.D. Martinez     |OF        |     11|  3|   7|  1|  0| 
 |Jarren Duran      |OF        |     14|  7|   6|  2|  3| 
 |Julio Rodríguez   |OF        |      5|  1|   0|  0|  0| 
-|Luis Rengifo      |OF        |     10|  4|   0|  0|  2| 
-|Andrew Vaughn     |DH        |      7|  0|   4|  0|  0| 
+|Luis Rengifo      |OF        |     12|  5|   2|  1|  2| 
+|Andrew Vaughn     |DH        |      8|  0|   4|  0|  0| 
 |Brandon Lowe      |DH        |      5|  4|   3|  1|  0| 
 |David Hamilton    |DH        |      5|  3|   3|  1|  3| 
-|Jorge Soler       |DH        |     10|  7|   6|  1|  0| 
-|Colton Cowser     |BAT BENCH |      5|  1|   1|  1|  0| 
+|Jorge Soler       |DH        |     11|  8|   7|  1|  0| 
+|Colton Cowser     |BAT BENCH |      7|  3|   2|  2|  0| 
 |Jackson Chourio   |BAT BENCH |      9|  6|   5|  1|  0| 
 |Jesse Winker      |BAT BENCH |     13|  4|   5|  3|  1| 
-|Ryan O'Hearn      |BAT BENCH |     10|  2|   9|  1|  1| 
+|Ryan O'Hearn      |BAT BENCH |     12|  4|   9|  1|  1| 
 
 
 * * *
@@ -34,7 +34,7 @@
 |players         |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:---------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Chris Bassitt   |SP          |  2| 13.000|  4|  2.769|     15| 1.154|  8|  0|  0| 
-|Chris Sale      |SP          |  1|  5.000|  1|  1.800|      4| 0.800|  8|  1|  0| 
+|Chris Sale      |SP          |  2| 12.000|  2|  1.500|      9| 0.750| 19|  1|  0| 
 |Cole Ragans     |SP          |  2| 12.000|  3|  2.250|     15| 1.250| 18|  1|  0| 
 |Hunter Greene   |SP          |  2| 10.333|  6|  5.226|     11| 1.065| 14|  0|  0| 
 |Luis Severino   |SP          |  2| 12.333|  6|  4.378|     12| 0.973| 11|  1|  0| 
