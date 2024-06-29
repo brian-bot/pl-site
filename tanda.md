@@ -5,25 +5,25 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Logan O'Hoppe     |C         |      7|  4|   3|  1|  0| 
-|Matt Olson        |1B        |      6|  4|   2|  1|  0| 
+|Logan O'Hoppe     |C         |      9|  5|   6|  2|  0| 
+|Matt Olson        |1B        |      8|  4|   3|  1|  0| 
 |Marcus Semien     |2B        |      7|  2|   4|  0|  0| 
 |Royce Lewis       |3B        |     12|  6|   5|  3|  0| 
-|Gunnar Henderson  |SS        |     24| 16|   8|  4|  4| 
+|Gunnar Henderson  |SS        |     26| 16|   9|  4|  4| 
 |Oneil Cruz        |MI        |      7|  5|   6|  2|  1| 
-|Anthony Santander |CI        |     10|  5|  10|  4|  0| 
-|J.D. Martinez     |OF        |     11|  3|   7|  1|  0| 
-|Jarren Duran      |OF        |     14|  7|   6|  2|  3| 
-|Julio Rodríguez   |OF        |      5|  1|   0|  0|  0| 
-|Luis Rengifo      |OF        |     12|  5|   2|  1|  2| 
-|Andrew Vaughn     |DH        |      8|  0|   4|  0|  0| 
+|Anthony Santander |CI        |     11|  5|  10|  4|  0| 
+|J.D. Martinez     |OF        |     13|  3|   7|  1|  0| 
+|Jarren Duran      |OF        |     15|  7|   6|  2|  3| 
+|Julio Rodríguez   |OF        |      6|  1|   0|  0|  0| 
+|Luis Rengifo      |OF        |     14|  7|   4|  2|  2| 
+|Andrew Vaughn     |DH        |     11|  2|   4|  0|  0| 
 |Brandon Lowe      |DH        |      5|  4|   3|  1|  0| 
 |David Hamilton    |DH        |      5|  3|   3|  1|  3| 
-|Jorge Soler       |DH        |     11|  8|   7|  1|  0| 
-|Colton Cowser     |BAT BENCH |      7|  3|   2|  2|  0| 
-|Jackson Chourio   |BAT BENCH |      9|  6|   5|  1|  0| 
+|Jorge Soler       |DH        |     12|  8|   7|  1|  0| 
+|Colton Cowser     |BAT BENCH |      8|  4|   3|  3|  0| 
+|Jackson Chourio   |BAT BENCH |     11|  7|   8|  2|  0| 
 |Jesse Winker      |BAT BENCH |     13|  4|   5|  3|  1| 
-|Ryan O'Hearn      |BAT BENCH |     12|  4|   9|  1|  1| 
+|Ryan O'Hearn      |BAT BENCH |     13|  4|   9|  1|  1| 
 
 
 * * *
@@ -38,17 +38,17 @@
 |Cole Ragans     |SP          |  2| 12.000|  3|  2.250|     15| 1.250| 18|  1|  0| 
 |Hunter Greene   |SP          |  2| 10.333|  6|  5.226|     11| 1.065| 14|  0|  0| 
 |Luis Severino   |SP          |  2| 12.333|  6|  4.378|     12| 0.973| 11|  1|  0| 
-|Yusei Kikuchi   |SP          |  2|  6.000|  9| 13.500|     16| 2.667| 10|  0|  0| 
-|Craig Kimbrel   |RP          |  2|  2.000|  1|  4.500|      3| 1.500|  4|  1|  1| 
+|Yusei Kikuchi   |SP          |  3| 11.000| 13| 10.636|     21| 1.909| 17|  0|  0| 
+|Craig Kimbrel   |RP          |  3|  3.000|  1|  3.000|      3| 1.000|  6|  1|  2| 
 |Raisel Iglesias |RP          |  3|  3.000|  0|  0.000|      0| 0.000|  5|  0|  2| 
 |Cole Irvin      |OP          |  2|  8.667|  9|  9.346|     17| 1.962|  3|  0|  0| 
 |Jake Irvin      |OP          |  2| 11.000|  5|  4.091|     16| 1.455| 12|  0|  0| 
 |José Soriano    |OP          | **|     **| **|     **|     **|    **| **| **| **| 
 |Kyle Gibson     |OP          |  1|  4.000|  4|  9.000|      9| 2.250|  4|  0|  0| 
-|Max Scherzer    |OP          |  1|  5.000|  0|  0.000|      1| 0.200|  4|  1|  0| 
+|Max Scherzer    |OP          |  2| 10.333|  2|  1.742|      7| 0.677|  8|  1|  0| 
 |Erick Fedde     |PITCH BENCH |  2| 13.000|  6|  4.154|     12| 0.923|  8|  0|  0| 
 |Jordan Romano   |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Marcus Stroman  |PITCH BENCH |  1|  6.667|  3|  4.050|      5| 0.750|  6|  1|  0| 
+|Marcus Stroman  |PITCH BENCH |  2| 11.000|  6|  4.909|     13| 1.182|  9|  1|  0| 
 
 
 * * *
