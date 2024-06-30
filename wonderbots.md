@@ -5,26 +5,26 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras |C         |      9|  3|   1|  0|  0| 
-|Nolan Jones       |1B        |     10|  3|   2|  1|  0| 
-|Ozzie Albies      |2B        |     13|  6|   6|  2|  1| 
-|Manny Machado     |3B        |     19|  9|   7|  2|  0| 
-|Corey Seager      |SS        |     12|  4|   3|  0|  1| 
-|Ezequiel Tovar    |MI        |     11|  4|   2|  1|  0| 
-|Ha-Seong Kim      |CI        |     13|  8|   2|  1|  1| 
+|William Contreras |C         |     11|  3|   2|  0|  0| 
+|Nolan Jones       |1B        |     11|  4|   4|  2|  0| 
+|Ozzie Albies      |2B        |     15|  6|   6|  2|  1| 
+|Manny Machado     |3B        |     21| 11|  12|  4|  0| 
+|Corey Seager      |SS        |     14|  5|   4|  1|  1| 
+|Ezequiel Tovar    |MI        |     12|  4|   2|  1|  0| 
+|Ha-Seong Kim      |CI        |     16|  9|   2|  1|  1| 
 |Bryan De La Cruz  |OF        |     12|  5|   9|  3|  0| 
-|Bryan Reynolds    |OF        |     20|  7|   8|  4|  0| 
-|Teoscar Hernández |OF        |      8|  3|   5|  1|  0| 
+|Bryan Reynolds    |OF        |     21|  7|   8|  4|  0| 
+|Teoscar Hernández |OF        |      9|  4|   5|  1|  0| 
 |Tyler O'Neill     |OF        |     14|  7|   5|  4|  0| 
-|Alec Bohm         |DH        |     16|  6|   8|  3|  1| 
-|Jeremy Peña       |DH        |     12|  2|   6|  0|  0| 
-|Miguel Rojas      |DH        |     14|  7|   1|  0|  0| 
+|Alec Bohm         |DH        |     17|  6|   9|  3|  1| 
+|Jeremy Peña       |DH        |     14|  4|   8|  0|  0| 
+|Miguel Rojas      |DH        |     17|  8|   5|  0|  0| 
 |Zach Neto         |DH        |     13|  6|   6|  1|  2| 
-|Connor Joe        |BAT BENCH |      6|  2|   0|  0|  0| 
+|Connor Joe        |BAT BENCH |      8|  2|   0|  0|  0| 
 |Edmundo Sosa      |BAT BENCH |      7|  1|   1|  0|  0| 
 |Mookie Betts      |BAT BENCH |     **| **|  **| **| **| 
-|Nathaniel Lowe    |BAT BENCH |     12|  4|   4|  1|  1| 
-|Willson Contreras |BAT BENCH |      7|  2|   1|  0|  0| 
+|Nathaniel Lowe    |BAT BENCH |     15|  5|   6|  2|  1| 
+|Willson Contreras |BAT BENCH |      8|  3|   1|  0|  0| 
 
 
 * * *
@@ -38,9 +38,9 @@
 |Justin Verlander |SP          | **|     **| **|     **|     **|    **| **| **| **| 
 |Logan Gilbert    |SP          |  2| 14.000|  2|  1.286|      9| 0.643|  9|  1|  0| 
 |Miles Mikolas    |SP          |  2| 10.333| 13| 11.323|     21| 2.032|  4|  1|  0| 
-|Sonny Gray       |SP          |  2| 14.667|  3|  1.841|      8| 0.545| 12|  1|  0| 
-|Tylor Megill     |SP          |  1|  3.000|  6| 18.000|      8| 2.667|  6|  0|  0| 
-|Clay Holmes      |RP          |  3|  3.000|  3|  9.000|      4| 1.333|  3|  0|  0| 
+|Sonny Gray       |SP          |  3| 19.000|  6|  2.842|     16| 0.842| 18|  1|  0| 
+|Tylor Megill     |SP          |  2|  8.333| 10| 10.800|     16| 1.920| 12|  0|  0| 
+|Clay Holmes      |RP          |  4|  4.000|  4|  9.000|      6| 1.500|  5|  0|  0| 
 |David Bednar     |RP          |  2|  2.000|  0|  0.000|      0| 0.000|  1|  0|  2| 
 |Jon Gray         |OP          |  3| 14.000| 17| 10.929|     23| 1.643|  6|  1|  0| 
 |Lance Lynn       |OP          |  2| 12.000|  6|  4.500|     14| 1.167| 10|  1|  0| 
