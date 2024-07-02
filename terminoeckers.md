@@ -9,14 +9,14 @@
 |Freddie Freeman       |1B        |     20|  7|   9|  2|  0| 
 |Gleyber Torres        |2B        |     12|  6|   7|  2|  0| 
 |Matt Chapman          |3B        |     21| 13|   9|  3|  2| 
-|Willy Adames          |SS        |     15|  6|   3|  1|  0| 
+|Willy Adames          |SS        |     18|  7|   4|  1|  0| 
 |Maikel Garcia         |MI        |      8|  4|   2|  0|  4| 
 |Vladimir Guerrero Jr. |CI        |     21|  9|  20|  6|  0| 
 |Alex Verdugo          |OF        |     11|  4|   2|  0|  0| 
 |Cody Bellinger        |OF        |     20|  8|   2|  0|  1| 
 |Kyle Tucker           |OF        |     **| **|  **| **| **| 
 |Seiya Suzuki          |OF        |     17|  6|   5|  2|  2| 
-|Brenton Doyle         |DH        |     11|  4|   8|  2|  1| 
+|Brenton Doyle         |DH        |     15|  7|  11|  4|  2| 
 |Ian Happ              |DH        |     21| 10|  11|  4|  1| 
 |Jarred Kelenic        |DH        |     21|  6|   8|  3|  2| 
 |Jurickson Profar      |DH        |     16|  6|   9|  1|  0| 

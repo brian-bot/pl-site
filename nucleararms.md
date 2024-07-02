@@ -5,18 +5,18 @@
  
 |players                      |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------------------|:---------|------:|--:|---:|--:|--:| 
-|Francisco Alvarez            |C         |     24|  7|  10|  3|  0| 
+|Francisco Alvarez            |C         |     26|  8|  13|  3|  0| 
 |Salvador Perez               |1B        |     12|  5|   7|  3|  0| 
 |Andrés Giménez               |2B        |     13|  5|   3|  1|  3| 
 |José Ramírez                 |3B        |     19| 14|  14|  5|  4| 
 |Paul DeJong                  |SS        |     11|  4|   5|  1|  0| 
-|Spencer Horwitz              |MI        |     19|  7|   3|  2|  0| 
+|Spencer Horwitz              |MI        |     20|  7|   3|  2|  0| 
 |Alec Burleson                |CI        |     18| 11|  14|  3|  3| 
 |Adolis García                |OF        |     18| 11|   4|  3|  0| 
 |Brent Rooker                 |OF        |     16|  3|   6|  2|  0| 
 |Giancarlo Stanton            |OF        |      8|  2|   5|  1|  0| 
 |Nick Castellanos             |OF        |     24|  4|  12|  2|  2| 
-|Christian Yelich             |DH        |     20| 10|   5|  2|  4| 
+|Christian Yelich             |DH        |     22| 12|   5|  2|  5| 
 |Jake Cronenworth             |DH        |     16| 14|   8|  2|  0| 
 |Shohei Ohtani                |DH        |     29| 14|  16|  7|  1| 
 |Tommy Pham                   |DH        |     19|  4|   3|  1|  1| 
@@ -32,7 +32,7 @@
 |players            |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:------------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Brayan Bello       |SP          |  2|  8.333|  9|  9.720|     17| 2.040|  8|  1|  0| 
-|David Peterson     |SP          |  2| 10.333|  3|  2.613|     15| 1.452| 14|  1|  0| 
+|David Peterson     |SP          |  3| 16.667|  5|  2.700|     23| 1.380| 16|  1|  0| 
 |Drew Thorpe        |SP          |  2| 12.000|  2|  1.500|      9| 0.750|  9|  2|  0| 
 |José Berríos       |SP          |  2| 12.000|  7|  5.250|     12| 1.000| 11|  1|  0| 
 |Reynaldo López     |SP          |  2| 10.000|  2|  1.800|     16| 1.600| 11|  2|  0| 

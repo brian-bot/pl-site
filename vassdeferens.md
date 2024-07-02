@@ -6,10 +6,10 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Adley Rutschman    |C         |     25|  8|   2|  1|  0| 
-|Pete Alonso        |1B        |     24|  8|   9|  2|  1| 
+|Pete Alonso        |1B        |     25|  8|   9|  2|  1| 
 |Nico Hoerner       |2B        |     21|  8|   3|  2|  4| 
 |Elly De La Cruz    |3B        |     22|  8|   6|  2|  4| 
-|CJ Abrams          |SS        |     25| 10|   6|  2|  4| 
+|CJ Abrams          |SS        |     28| 12|   6|  2|  4| 
 |Ketel Marte        |MI        |     18|  8|  10|  3|  0| 
 |Vinnie Pasquantino |CI        |     16|  6|   9|  3|  0| 
 |Juan Soto          |OF        |     23| 11|   6|  2|  0| 
@@ -23,7 +23,7 @@
 |Anthony Rizzo      |BAT BENCH |     **| **|  **| **| **| 
 |Jo Adell           |BAT BENCH |      8|  4|   4|  1|  0| 
 |Michael Massey     |BAT BENCH |      5|  2|   1|  1|  0| 
-|Sal Frelick        |BAT BENCH |     16|  6|   3|  0|  3| 
+|Sal Frelick        |BAT BENCH |     18|  7|   3|  0|  4| 
 
 
 * * *

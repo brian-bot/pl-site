@@ -8,11 +8,11 @@
 |Logan O'Hoppe     |C         |     12|  6|   7|  3|  0| 
 |Matt Olson        |1B        |     10|  4|   3|  1|  0| 
 |Marcus Semien     |2B        |      9|  2|   4|  0|  0| 
-|Royce Lewis       |3B        |     12|  6|   5|  3|  0| 
+|Royce Lewis       |3B        |     13|  6|   5|  3|  0| 
 |Gunnar Henderson  |SS        |     28| 17|   9|  4|  4| 
 |Oneil Cruz        |MI        |     11|  6|   8|  3|  1| 
 |Anthony Santander |CI        |     14|  7|  12|  5|  0| 
-|J.D. Martinez     |OF        |     16|  3|   7|  1|  0| 
+|J.D. Martinez     |OF        |     19|  4|  10|  2|  0| 
 |Jarren Duran      |OF        |     18|  9|   8|  4|  3| 
 |Julio Rodríguez   |OF        |      7|  1|   0|  0|  1| 
 |Luis Rengifo      |OF        |     17|  9|   4|  2|  3| 
@@ -21,8 +21,8 @@
 |David Hamilton    |DH        |      5|  3|   3|  1|  3| 
 |Jorge Soler       |DH        |     17| 11|   9|  1|  0| 
 |Colton Cowser     |BAT BENCH |      8|  4|   3|  3|  0| 
-|Jackson Chourio   |BAT BENCH |     14|  9|   8|  2|  0| 
-|Jesse Winker      |BAT BENCH |     15|  5|   6|  3|  1| 
+|Jackson Chourio   |BAT BENCH |     15| 10|  10|  2|  0| 
+|Jesse Winker      |BAT BENCH |     17|  7|   7|  3|  1| 
 |Ryan O'Hearn      |BAT BENCH |     17|  5|  10|  1|  1| 
 
 

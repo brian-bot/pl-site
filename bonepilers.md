@@ -17,7 +17,7 @@
 |Kyle Schwarber    |OF        |     20| 10|   6|  3|  0| 
 |Randy Arozarena   |OF        |     19|  4|   6|  2|  3| 
 |Kyle Manzardo     |DH        |     **| **|  **| **| **| 
-|Lane Thomas       |DH        |     17| 10|  11|  1|  1| 
+|Lane Thomas       |DH        |     18| 11|  11|  1|  1| 
 |Patrick Bailey    |DH        |     17|  8|   6|  2|  0| 
 |Starling Marte    |DH        |      3|  3|   2|  0|  0| 
 |Evan Carter       |BAT BENCH |     **| **|  **| **| **| 

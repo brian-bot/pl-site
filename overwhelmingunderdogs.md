@@ -18,7 +18,7 @@
 |Spencer Steer      |OF        |     19|  7|   9|  2|  1| 
 |Brendan Donovan    |DH        |     22|  5|  12|  3|  1| 
 |Jonathan India     |DH        |     28| 11|   6|  1|  2| 
-|Justin Turner      |DH        |     26|  8|   5|  1|  0| 
+|Justin Turner      |DH        |     27|  8|   5|  1|  0| 
 |Sean Murphy        |DH        |     16|  3|   4|  2|  0| 
 |Jonah Heim         |BAT BENCH |     12|  3|   2|  1|  0| 
 |Jorge Polanco      |BAT BENCH |      4|  1|   1|  0|  1| 
@@ -40,7 +40,7 @@
 |Max Fried     |SP          |  3| 17.333|  3| 1.558|     22| 1.269| 14|  1|  0| 
 |Nick Lodolo   |SP          |  2| 11.667|  4| 3.086|     13| 1.114| 11|  1|  0| 
 |Pablo López   |SP          |  3| 18.000|  6| 3.000|     16| 0.889| 26|  2|  0| 
-|Kyle Finnegan |RP          |  4|  3.000|  2| 6.000|      8| 2.667|  6|  0|  2| 
+|Kyle Finnegan |RP          |  5|  4.000|  2| 4.500|      8| 2.000|  7|  0|  2| 
 |Paul Sewald   |RP          |  5|  5.000|  0| 0.000|      2| 0.400|  4|  0|  4| 
 |Aaron Civale  |OP          |  3| 14.333|  7| 4.395|     23| 1.605| 10|  0|  0| 
 |José Alvarado |OP          |  4|  4.000|  1| 2.250|      2| 0.500|  5|  0|  0| 
