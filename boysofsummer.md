@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |     13|  4|   8|  1|  0| 
-|Ryan Mountcastle  |1B        |     16|  5|   8|  0|  0| 
-|Isaac Paredes     |2B        |     20|  5|   7|  3|  0| 
-|Rafael Devers     |3B        |     17| 10|  11|  5|  0| 
-|Bobby Witt Jr.    |SS        |     16|  7|   4|  2|  1| 
-|Trea Turner       |MI        |     23| 11|   9|  3|  0| 
-|Josh Smith        |CI        |     22|  7|   8|  3|  0| 
-|Jake McCarthy     |OF        |     15|  4|   1|  0|  2| 
-|Joc Pederson      |OF        |     12|  4|   2|  2|  0| 
-|Masataka Yoshida  |OF        |     13|  2|   3|  0|  0| 
+|Will Smith        |C         |     14|  5|   8|  1|  0| 
+|Ryan Mountcastle  |1B        |     17|  5|   9|  0|  0| 
+|Isaac Paredes     |2B        |     23|  6|   8|  4|  0| 
+|Rafael Devers     |3B        |     20| 12|  13|  5|  0| 
+|Bobby Witt Jr.    |SS        |     19|  9|   5|  2|  1| 
+|Trea Turner       |MI        |     25| 13|   9|  3|  0| 
+|Josh Smith        |CI        |     23|  7|   9|  3|  0| 
+|Jake McCarthy     |OF        |     16|  6|   1|  0|  3| 
+|Joc Pederson      |OF        |     13|  4|   2|  2|  0| 
+|Masataka Yoshida  |OF        |     16|  3|   5|  0|  0| 
 |Taylor Ward       |OF        |     20|  7|   7|  2|  1| 
-|Carlos Correa     |DH        |     21| 10|   6|  2|  0| 
-|David Fry         |DH        |     12|  1|   2|  0|  0| 
-|Luis Arraez       |DH        |     16|  7|   4|  1|  0| 
-|Yandy Díaz        |DH        |     19|  4|  10|  3|  0| 
-|Christopher Morel |BAT BENCH |     17|  4|   5|  2|  0| 
+|Carlos Correa     |DH        |     23| 10|   6|  2|  0| 
+|David Fry         |DH        |     12|  1|   3|  0|  0| 
+|Luis Arraez       |DH        |     17|  7|   5|  1|  0| 
+|Yandy Díaz        |DH        |     20|  4|  10|  3|  0| 
+|Christopher Morel |BAT BENCH |     19|  4|   5|  2|  0| 
 |Kerry Carpenter   |BAT BENCH |     **| **|  **| **| **| 
-|Yainer Diaz       |BAT BENCH |     20| 10|   8|  0|  1| 
+|Yainer Diaz       |BAT BENCH |     24| 10|  11|  0|  1| 
 
 
 * * *

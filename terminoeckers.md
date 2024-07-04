@@ -5,21 +5,21 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|Tyler Soderstrom      |C         |     10|  3|   5|  2|  0| 
-|Freddie Freeman       |1B        |     22|  8|  10|  2|  0| 
+|Tyler Soderstrom      |C         |     11|  3|   5|  2|  0| 
+|Freddie Freeman       |1B        |     26|  9|  13|  3|  0| 
 |Gleyber Torres        |2B        |     13|  7|   8|  2|  0| 
-|Matt Chapman          |3B        |     21| 13|   9|  3|  2| 
+|Matt Chapman          |3B        |     24| 13|  10|  3|  2| 
 |Willy Adames          |SS        |     21|  8|   5|  1|  0| 
-|Maikel Garcia         |MI        |      9|  4|   2|  0|  4| 
-|Vladimir Guerrero Jr. |CI        |     23| 11|  20|  6|  0| 
-|Alex Verdugo          |OF        |     12|  5|   2|  0|  0| 
-|Cody Bellinger        |OF        |     22|  9|   3|  0|  1| 
+|Maikel Garcia         |MI        |     10|  5|   2|  0|  4| 
+|Vladimir Guerrero Jr. |CI        |     24| 11|  20|  6|  0| 
+|Alex Verdugo          |OF        |     13|  5|   2|  0|  0| 
+|Cody Bellinger        |OF        |     25|  9|   4|  0|  1| 
 |Kyle Tucker           |OF        |     **| **|  **| **| **| 
 |Seiya Suzuki          |OF        |     19|  7|   8|  3|  2| 
-|Brenton Doyle         |DH        |     18|  8|  13|  5|  2| 
-|Ian Happ              |DH        |     21| 10|  11|  4|  1| 
+|Brenton Doyle         |DH        |     20|  8|  13|  5|  2| 
+|Ian Happ              |DH        |     23| 12|  11|  4|  1| 
 |Jarred Kelenic        |DH        |     22|  7|   8|  3|  2| 
-|Jurickson Profar      |DH        |     16|  6|   9|  1|  0| 
+|Jurickson Profar      |DH        |     19|  7|   9|  1|  1| 
 |Max Muncy             |BAT BENCH |     **| **|  **| **| **| 
 |Michael Harris II     |BAT BENCH |     **| **|  **| **| **| 
 |Wilyer Abreu          |BAT BENCH |      9|  5|   0|  0|  0| 
@@ -33,7 +33,7 @@
 |players        |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:--------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Charlie Morton |SP          |  2| 12.000|  5|  3.750|     14| 1.167| 11|  1|  0| 
-|Framber Valdez |SP          |  3| 17.667|  9|  4.585|     28| 1.585| 17|  1|  0| 
+|Framber Valdez |SP          |  3| 17.667|  6|  3.057|     26| 1.472| 17|  1|  0| 
 |Jack Flaherty  |SP          |  2| 11.333|  6|  4.765|     15| 1.324| 15|  1|  0| 
 |Michael King   |SP          |  3| 16.667|  7|  3.780|     25| 1.500| 20|  1|  0| 
 |Nathan Eovaldi |SP          |  3| 20.000|  7|  3.150|     16| 0.800| 16|  2|  0| 
