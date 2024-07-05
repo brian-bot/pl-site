@@ -7,19 +7,19 @@
 |:----------------------------|:---------|------:|--:|---:|--:|--:| 
 |Francisco Alvarez            |C         |     27|  8|  13|  3|  0| 
 |Salvador Perez               |1B        |     14|  5|   9|  3|  0| 
-|Andrés Giménez               |2B        |     15|  6|   3|  1|  3| 
-|José Ramírez                 |3B        |     20| 14|  14|  5|  5| 
-|Paul DeJong                  |SS        |     13|  5|   5|  1|  0| 
-|Spencer Horwitz              |MI        |     21|  8|   4|  3|  0| 
-|Alec Burleson                |CI        |     22| 13|  17|  4|  3| 
-|Adolis García                |OF        |     20| 11|   4|  3|  0| 
-|Brent Rooker                 |OF        |     21|  5|   8|  4|  1| 
+|Andrés Giménez               |2B        |     16|  7|   5|  1|  3| 
+|José Ramírez                 |3B        |     21| 15|  14|  5|  5| 
+|Paul DeJong                  |SS        |     14|  6|   7|  2|  0| 
+|Spencer Horwitz              |MI        |     24|  8|   6|  3|  0| 
+|Alec Burleson                |CI        |     24| 13|  18|  4|  3| 
+|Adolis García                |OF        |     21| 11|   4|  3|  1| 
+|Brent Rooker                 |OF        |     24|  5|   9|  4|  2| 
 |Giancarlo Stanton            |OF        |      8|  2|   5|  1|  0| 
-|Nick Castellanos             |OF        |     27|  5|  12|  2|  2| 
-|Christian Yelich             |DH        |     28| 13|   6|  3|  5| 
+|Nick Castellanos             |OF        |     29|  6|  13|  3|  2| 
+|Christian Yelich             |DH        |     30| 14|   6|  3|  5| 
 |Jake Cronenworth             |DH        |     19| 15|   8|  2|  1| 
-|Shohei Ohtani                |DH        |     33| 17|  18|  8|  1| 
-|Tommy Pham                   |DH        |     21|  5|   3|  1|  1| 
+|Shohei Ohtani                |DH        |     34| 17|  18|  8|  2| 
+|Tommy Pham                   |DH        |     22|  5|   3|  1|  1| 
 |Christian Encarnacion-Strand |BAT BENCH |     **| **|  **| **| **| 
 |Mike Trout                   |BAT BENCH |     **| **|  **| **| **| 
 
