@@ -7,20 +7,20 @@
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |MJ Melendez        |C         |     18|  2|   1|  0|  0| 
 |Christian Walker   |1B        |     25| 12|  13|  6|  0| 
-|Jose Altuve        |2B        |     26| 11|  10|  2|  3| 
-|Matt Vierling      |3B        |     11|  7|   5|  2|  0| 
-|Jackson Merrill    |SS        |     22|  9|  14|  5|  1| 
-|Anthony Volpe      |MI        |     16|  7|   4|  0|  0| 
+|Jose Altuve        |2B        |     29| 11|  11|  2|  3| 
+|Matt Vierling      |3B        |     14|  8|   5|  2|  0| 
+|Jackson Merrill    |SS        |     23| 10|  17|  5|  1| 
+|Anthony Volpe      |MI        |     18|  7|   5|  0|  0| 
 |Josh Bell          |CI        |     15|  4|   4|  1|  0| 
-|Corbin Carroll     |OF        |     17|  9|   1|  0|  3| 
+|Corbin Carroll     |OF        |     19| 11|   1|  0|  3| 
 |Fernando Tatis Jr. |OF        |      7|  2|   1|  1|  0| 
 |Mark Canha         |OF        |     14|  1|   3|  0|  0| 
-|Spencer Steer      |OF        |     23|  9|  12|  3|  1| 
-|Brendan Donovan    |DH        |     28|  7|  13|  3|  1| 
-|Jonathan India     |DH        |     34| 15|   7|  2|  2| 
+|Spencer Steer      |OF        |     25| 11|  14|  4|  1| 
+|Brendan Donovan    |DH        |     29|  8|  13|  3|  1| 
+|Jonathan India     |DH        |     35| 16|   7|  2|  2| 
 |Justin Turner      |DH        |     30|  9|   6|  1|  0| 
 |Sean Murphy        |DH        |     18|  4|   5|  3|  0| 
-|Jonah Heim         |BAT BENCH |     14|  5|   3|  1|  0| 
+|Jonah Heim         |BAT BENCH |     16|  5|   3|  1|  0| 
 |Jorge Polanco      |BAT BENCH |      6|  1|   1|  0|  1| 
 |Josh Jung          |BAT BENCH |     **| **|  **| **| **| 
 |Triston Casas      |BAT BENCH |     **| **|  **| **| **| 
@@ -35,20 +35,20 @@
 |players       |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:-------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Bryce Miller  |SP          |  4| 20.333| 12| 5.311|     30| 1.475| 17|  1|  0| 
-|Justin Steele |SP          |  3| 20.000|  7| 3.150|     20| 1.000| 22|  0|  0| 
+|Justin Steele |SP          |  4| 29.000|  8| 2.483|     24| 0.828| 29|  1|  0| 
 |Matt Waldron  |SP          |  3| 17.333|  6| 3.115|     21| 1.212| 17|  1|  0| 
-|Max Fried     |SP          |  3| 17.333|  3| 1.558|     22| 1.269| 14|  1|  0| 
+|Max Fried     |SP          |  4| 23.333|  8| 3.086|     34| 1.457| 18|  1|  0| 
 |Nick Lodolo   |SP          |  2| 11.667|  4| 3.086|     13| 1.114| 11|  1|  0| 
-|Pablo López   |SP          |  3| 18.000|  6| 3.000|     16| 0.889| 26|  2|  0| 
-|Kyle Finnegan |RP          |  7|  6.000|  2| 3.000|      8| 1.333|  8|  0|  3| 
-|Paul Sewald   |RP          |  6|  5.667|  2| 3.176|      5| 0.882|  6|  0|  4| 
-|Aaron Civale  |OP          |  3| 14.333|  7| 4.395|     23| 1.605| 10|  0|  0| 
-|José Alvarado |OP          |  5|  5.000|  1| 1.800|      3| 0.600|  6|  0|  1| 
+|Pablo López   |SP          |  4| 23.000| 12| 4.696|     26| 1.130| 32|  2|  0| 
+|Kyle Finnegan |RP          |  8|  7.000|  3| 3.857|     10| 1.429|  8|  0|  3| 
+|Paul Sewald   |RP          |  7|  5.667|  5| 7.941|      8| 1.412|  6|  0|  4| 
+|Aaron Civale  |OP          |  4| 19.333| 11| 5.121|     31| 1.603| 18|  0|  0| 
+|José Alvarado |OP          |  6|  6.000|  4| 6.000|      6| 1.000|  6|  0|  1| 
 |Michael Wacha |OP          |  3| 16.333|  3| 1.653|     18| 1.102| 19|  1|  0| 
 |Ryan Pepiot   |OP          |  3| 12.667|  5| 3.553|     17| 1.342| 11|  0|  0| 
 |Tobias Myers  |OP          |  4| 23.333|  8| 3.086|     29| 1.243| 20|  2|  0| 
 |Jesús Luzardo |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
-|Ryan Helsley  |PITCH BENCH |  7|  7.000|  2| 2.571|      8| 1.143| 11|  0|  7| 
+|Ryan Helsley  |PITCH BENCH |  8|  9.000|  2| 2.000|     11| 1.222| 11|  1|  7| 
 
 
 * * *

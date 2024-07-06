@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Cal Raleigh       |C         |     16|  4|   8|  3|  2| 
+|Cal Raleigh       |C         |     19|  5|   8|  3|  2| 
 |Bryce Harper      |1B        |     21| 11|  12|  5|  0| 
-|Brice Turang      |2B        |     27|  8|  14|  3|  2| 
-|Nolan Arenado     |3B        |     13|  5|   2|  1|  1| 
+|Brice Turang      |2B        |     28|  9|  14|  3|  2| 
+|Nolan Arenado     |3B        |     17|  7|   2|  1|  1| 
 |Dansby Swanson    |SS        |     16|  4|   8|  2|  1| 
-|Nick Gonzales     |MI        |     14|  5|   3|  0|  1| 
-|Josh Naylor       |CI        |     21| 12|  13|  3|  0| 
-|Jazz Chisholm Jr. |OF        |     20|  6|   6|  0|  2| 
-|Josh Lowe         |OF        |     19|  9|   8|  3|  5| 
+|Nick Gonzales     |MI        |     15|  5|   3|  0|  1| 
+|Josh Naylor       |CI        |     23| 14|  14|  4|  0| 
+|Jazz Chisholm Jr. |OF        |     23|  6|   6|  0|  3| 
+|Josh Lowe         |OF        |     20|  9|   8|  3|  6| 
 |Kyle Schwarber    |OF        |     20| 10|   6|  3|  0| 
-|Randy Arozarena   |OF        |     24|  6|   7|  2|  4| 
+|Randy Arozarena   |OF        |     25|  6|   7|  2|  4| 
 |Kyle Manzardo     |DH        |     **| **|  **| **| **| 
-|Lane Thomas       |DH        |     22| 12|  12|  1|  3| 
-|Patrick Bailey    |DH        |     19|  9|   6|  2|  0| 
+|Lane Thomas       |DH        |     24| 13|  12|  1|  4| 
+|Patrick Bailey    |DH        |     19|  9|   7|  2|  0| 
 |Starling Marte    |DH        |      3|  3|   2|  0|  0| 
 |Evan Carter       |BAT BENCH |     **| **|  **| **| **| 
-|Joey Loperfido    |BAT BENCH |      7|  3|   4|  0|  1| 
+|Joey Loperfido    |BAT BENCH |      9|  3|   6|  0|  1| 
 
 
 * * *
@@ -34,12 +34,12 @@
 |Cristopher Sánchez |SP          |  4| 27.000|  8| 2.667|     23| 0.852| 21|  3|  0| 
 |Kutter Crawford    |SP          |  3| 13.667|  4| 2.634|     12| 0.878| 16|  1|  0| 
 |Shota Imanaga      |SP          |  3| 15.000| 16| 9.600|     26| 1.733| 14|  0|  0| 
-|Tanner Bibee       |SP          |  3| 18.000|  3| 1.500|     14| 0.778| 22|  3|  0| 
+|Tanner Bibee       |SP          |  4| 22.667|  7| 2.779|     22| 0.971| 28|  3|  0| 
 |Tarik Skubal       |SP          |  3| 17.000|  7| 3.706|     18| 1.059| 21|  1|  0| 
 |Zack Wheeler       |SP          |  3| 19.667|  5| 2.288|     18| 0.915| 20|  1|  0| 
-|Kirby Yates        |RP          |  5|  5.000|  0| 0.000|      5| 1.000|  9|  0|  1| 
-|Ryne Stanek        |RP          |  8|  7.333|  2| 2.455|      5| 0.682| 10|  2|  0| 
-|Blake Treinen      |OP          |  6|  5.000|  2| 3.600|      7| 1.400|  5|  0|  0| 
+|Kirby Yates        |RP          |  6|  6.000|  0| 0.000|      5| 0.833| 11|  0|  2| 
+|Ryne Stanek        |RP          |  9|  8.333|  2| 2.160|      5| 0.600| 11|  2|  0| 
+|Blake Treinen      |OP          |  7|  6.000|  2| 3.000|      8| 1.333|  5|  0|  0| 
 |Casey Mize         |OP          |  3| 13.667|  5| 3.293|     19| 1.390| 15|  1|  0| 
 |Gerrit Cole        |OP          |  3| 13.000|  9| 6.231|     19| 1.462| 11|  1|  0| 
 |Héctor Neris       |OP          |  5|  5.000|  2| 3.600|      7| 1.400|  8|  1|  1| 
