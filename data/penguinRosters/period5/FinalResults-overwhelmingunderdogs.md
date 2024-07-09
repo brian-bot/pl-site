@@ -18,7 +18,7 @@
 |Fernando Tatis Jr. |OF        |      7|  2|   1|  1|  0| 
 |Mark Canha         |OF        |     15|  1|   4|  0|  0| 
 |Spencer Steer      |OF        |     27| 13|  15|  5|  1| 
-|Brendan Donovan    |DH        |     31|  9|  14|  3|  1| 
+|Brendan Donovan    |DH        |     32|  9|  14|  3|  1| 
 |Jonathan India     |DH        |     36| 16|   7|  2|  2| 
 |Justin Turner      |DH        |     30|  9|   6|  1|  0| 
 |Sean Murphy        |DH        |     18|  4|   5|  3|  0| 
