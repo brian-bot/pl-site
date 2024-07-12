@@ -10,19 +10,19 @@
 |Ozzie Albies      |2B        |      3|  1|   1|  0|  1| 
 |Manny Machado     |3B        |      1|  0|   0|  0|  0| 
 |Corey Seager      |SS        |      7|  4|   5|  2|  0| 
-|Zach Neto         |MI        |      5|  2|   3|  1|  0| 
+|Zach Neto         |MI        |      7|  2|   3|  1|  0| 
 |Ha-Seong Kim      |CI        |      1|  0|   0|  0|  0| 
-|Bryan De La Cruz  |OF        |      4|  0|   1|  0|  0| 
+|Bryan De La Cruz  |OF        |      7|  1|   2|  1|  0| 
 |Bryan Reynolds    |OF        |      4|  3|   2|  1|  0| 
-|Teoscar Hernández |OF        |      4|  1|   0|  0|  0| 
+|Teoscar Hernández |OF        |      6|  1|   0|  0|  0| 
 |Tyler O'Neill     |OF        |      4|  2|   1|  0|  0| 
-|Alec Bohm         |DH        |      3|  0|   0|  0|  0| 
-|Ezequiel Tovar    |DH        |      4|  1|   1|  0|  0| 
-|Jeremy Peña       |DH        |      2|  0|   0|  0|  1| 
+|Alec Bohm         |DH        |      4|  0|   0|  0|  0| 
+|Ezequiel Tovar    |DH        |      5|  1|   1|  0|  0| 
+|Jeremy Peña       |DH        |      3|  0|   1|  0|  1| 
 |Willson Contreras |DH        |      6|  3|   4|  1|  1| 
-|Miguel Rojas      |BAT BENCH |      4|  1|   2|  0|  1| 
+|Miguel Rojas      |BAT BENCH |      5|  1|   2|  0|  1| 
 |Mookie Betts      |BAT BENCH |     **| **|  **| **| **| 
-|Nolan Jones       |BAT BENCH |      6|  2|   1|  0|  0| 
+|Nolan Jones       |BAT BENCH |      8|  2|   1|  0|  0| 
 
 
 * * *

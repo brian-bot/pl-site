@@ -6,20 +6,20 @@
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
 |Tyler Soderstrom      |C         |      4|  0|   1|  0|  0| 
-|Freddie Freeman       |1B        |      2|  0|   0|  0|  1| 
-|Gleyber Torres        |2B        |      3|  1|   1|  0|  0| 
-|Matt Chapman          |3B        |      2|  2|   1|  1|  0| 
+|Freddie Freeman       |1B        |      3|  0|   0|  0|  1| 
+|Gleyber Torres        |2B        |      4|  1|   1|  0|  0| 
+|Matt Chapman          |3B        |      3|  2|   1|  1|  1| 
 |Willy Adames          |SS        |      7|  3|   4|  1|  1| 
 |Maikel Garcia         |MI        |      4|  2|   3|  1|  0| 
-|Vladimir Guerrero Jr. |CI        |      3|  2|   0|  0|  0| 
-|Brenton Doyle         |OF        |      8|  3|   3|  2|  0| 
+|Vladimir Guerrero Jr. |CI        |      3|  2|   1|  0|  0| 
+|Brenton Doyle         |OF        |      9|  3|   3|  2|  0| 
 |Cody Bellinger        |OF        |      5|  1|   0|  0|  1| 
-|Ian Happ              |OF        |      5|  2|   3|  1|  0| 
-|Seiya Suzuki          |OF        |      4|  1|   3|  0|  1| 
-|Jarred Kelenic        |DH        |      6|  1|   3|  1|  2| 
+|Ian Happ              |OF        |      6|  3|   4|  1|  0| 
+|Seiya Suzuki          |OF        |      7|  2|   6|  0|  1| 
+|Jarred Kelenic        |DH        |      7|  1|   3|  1|  2| 
 |Jurickson Profar      |DH        |      3|  1|   1|  1|  0| 
-|Luis García Jr.       |DH        |      5|  1|   0|  0|  0| 
-|Rowdy Tellez          |DH        |      5|  3|   2|  1|  0| 
+|Luis García Jr.       |DH        |      6|  1|   0|  0|  0| 
+|Rowdy Tellez          |DH        |      6|  3|   2|  1|  0| 
 |Kyle Tucker           |BAT BENCH |     **| **|  **| **| **| 
 |Max Muncy             |BAT BENCH |     **| **|  **| **| **| 
 |Michael Harris II     |BAT BENCH |     **| **|  **| **| **| 
@@ -39,15 +39,15 @@
 |Nathan Eovaldi   |SP          |  1| 7.000|  2|  2.571|      4| 0.571|  5|  1|  0| 
 |Seth Lugo        |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Taj Bradley      |SP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Chad Green       |RP          |  1| 1.000|  0|  0.000|      3| 3.000|  2|  1|  0| 
+|Chad Green       |RP          |  2| 2.000|  1|  4.500|      4| 2.000|  3|  1|  1| 
 |Edwin Díaz       |RP          |  2| 1.667|  0|  0.000|      2| 1.200|  2|  1|  1| 
-|Albert Suárez    |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Albert Suárez    |OP          |  1| 5.000|  4|  7.200|      8| 1.600|  4|  0|  0| 
 |Andrew Heaney    |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Gavin Williams   |OP          |  1| 5.333|  0|  0.000|      5| 0.938|  5|  0|  0| 
 |Griffin Jax      |OP          |  3| 3.000|  1|  3.000|      4| 1.333|  5|  0|  0| 
 |Yariel Rodríguez |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Bobby Miller     |PITCH BENCH |  1| 4.000|  9| 20.250|     13| 3.250|  2|  0|  0| 
-|Jack Flaherty    |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Jack Flaherty    |PITCH BENCH |  1| 6.000|  1|  1.500|      4| 0.667|  4|  1|  0| 
 |Luis Gil         |PITCH BENCH |  1| 6.667|  1|  1.350|      4| 0.600|  9|  0|  0| 
 
 
