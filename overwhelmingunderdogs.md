@@ -23,7 +23,7 @@
 |Fernando Tatis Jr. |BAT BENCH |     **| **|  **| **| **| 
 |Jorge Polanco      |BAT BENCH |      9|  2|   3|  0|  0| 
 |Josh Jung          |BAT BENCH |     **| **|  **| **| **| 
-|MJ Melendez        |BAT BENCH |      6|  5|   5|  3|  0| 
+|MJ Melendez        |BAT BENCH |      7|  5|   5|  3|  0| 
 |Triston Casas      |BAT BENCH |     **| **|  **| **| **| 
 
 
