@@ -7,19 +7,19 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Logan O'Hoppe     |C         |      9|  3|   2|  2|  0| 
 |Matt Olson        |1B        |      6|  3|   3|  1|  0| 
-|Marcus Semien     |2B        |     16|  5|   4|  1|  0| 
-|Gunnar Henderson  |3B        |      7|  2|   3|  1|  0| 
-|Oneil Cruz        |SS        |      5|  3|   5|  1|  0| 
-|Brandon Lowe      |MI        |     11|  2|   2|  1|  0| 
-|Anthony Santander |CI        |      9|  3|   2|  2|  0| 
-|J.D. Martinez     |OF        |      9|  3|   1|  0|  0| 
-|Jarren Duran      |OF        |     12|  3|   1|  0|  1| 
-|Jesse Winker      |OF        |      7|  2|   3|  1|  0| 
-|Jorge Soler       |OF        |      6|  2|   1|  0|  0| 
-|Ceddanne Rafaela  |DH        |      7|  3|   3|  1|  0| 
+|Marcus Semien     |2B        |     17|  5|   4|  1|  0| 
+|Gunnar Henderson  |3B        |     11|  5|   3|  1|  0| 
+|Oneil Cruz        |SS        |      8|  5|   8|  1|  0| 
+|Brandon Lowe      |MI        |     12|  3|   3|  2|  0| 
+|Anthony Santander |CI        |     12|  5|   7|  4|  0| 
+|J.D. Martinez     |OF        |     10|  3|   2|  0|  0| 
+|Jarren Duran      |OF        |     14|  4|   2|  1|  1| 
+|Jesse Winker      |OF        |     11|  4|   3|  1|  2| 
+|Jorge Soler       |OF        |      7|  3|   1|  0|  0| 
+|Ceddanne Rafaela  |DH        |      8|  3|   3|  1|  1| 
 |Jackson Chourio   |DH        |      7|  5|   0|  0|  1| 
-|Julio Rodríguez   |DH        |     17|  4|   5|  2|  0| 
-|Zack Gelof        |DH        |      9|  5|   9|  3|  0| 
+|Julio Rodríguez   |DH        |     18|  4|   5|  2|  0| 
+|Zack Gelof        |DH        |     10|  6|   9|  3|  0| 
 |Andrew Vaughn     |BAT BENCH |      7|  2|   1|  0|  0| 
 |David Hamilton    |BAT BENCH |     11|  2|   1|  0|  0| 
 |Luis Rengifo      |BAT BENCH |     **| **|  **| **| **| 
@@ -33,7 +33,7 @@
  
 |players         |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:---------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Chris Bassitt   |SP          |  1|  5.000|  3|  5.400|      9| 1.800|  6|  1|  0| 
+|Chris Bassitt   |SP          |  2| 11.667|  8|  6.171|     17| 1.457| 12|  1|  0| 
 |Chris Sale      |SP          |  2| 10.333|  3|  2.613|     14| 1.355| 13|  2|  0| 
 |Cole Ragans     |SP          |  1|  7.000|  1|  1.286|      5| 0.714|  7|  1|  0| 
 |Dean Kremer     |SP          |  2|  8.667|  7|  7.269|     16| 1.846|  7|  0|  0| 

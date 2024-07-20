@@ -5,25 +5,25 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |      8|  2|   0|  0|  0| 
+|Will Smith        |C         |     10|  3|   0|  0|  0| 
 |Ryan Mountcastle  |1B        |      8|  0|   1|  0|  1| 
 |Isaac Paredes     |2B        |     11|  2|   3|  1|  0| 
-|Rafael Devers     |3B        |     12|  8|   8|  4|  0| 
-|Bobby Witt Jr.    |SS        |     10|  5|   5|  2|  0| 
-|Trea Turner       |MI        |     14|  6|   9|  4|  1| 
-|Josh Smith        |CI        |     14|  5|   6|  3|  1| 
+|Rafael Devers     |3B        |     13|  8|   8|  4|  0| 
+|Bobby Witt Jr.    |SS        |     14|  7|   7|  3|  0| 
+|Trea Turner       |MI        |     16|  8|  11|  5|  1| 
+|Josh Smith        |CI        |     15|  5|   6|  3|  1| 
 |Jake McCarthy     |OF        |      7|  4|   1|  0|  0| 
 |Joc Pederson      |OF        |      6|  0|   1|  0|  0| 
-|Ryan O'Hearn      |OF        |      3|  3|   0|  0|  0| 
+|Ryan O'Hearn      |OF        |      4|  4|   0|  0|  0| 
 |Taylor Ward       |OF        |      5|  1|   0|  0|  0| 
 |Carlos Correa     |DH        |      8|  3|   2|  2|  0| 
 |Colt Keith        |DH        |     17|  9|   9|  2|  1| 
 |Jose Miranda      |DH        |      4|  0|   0|  0|  0| 
-|Yainer Diaz       |DH        |      8|  1|   4|  0|  0| 
-|Christopher Morel |BAT BENCH |     10|  4|   4|  3|  0| 
-|David Fry         |BAT BENCH |      2|  0|   0|  0|  0| 
+|Yainer Diaz       |DH        |     10|  1|   6|  0|  0| 
+|Christopher Morel |BAT BENCH |     12|  4|   5|  3|  0| 
+|David Fry         |BAT BENCH |      6|  2|   1|  0|  0| 
 |Kerry Carpenter   |BAT BENCH |     **| **|  **| **| **| 
-|Luis Arraez       |BAT BENCH |      4|  0|   1|  0|  0| 
+|Luis Arraez       |BAT BENCH |      6|  0|   1|  0|  0| 
 |Yandy Díaz        |BAT BENCH |     10|  3|   3|  0|  0| 
 
 
