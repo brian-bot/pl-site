@@ -6,22 +6,22 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Adley Rutschman    |C         |     10|  4|   2|  1|  0| 
-|Pete Alonso        |1B        |     12|  6|   3|  1|  0| 
-|Nico Hoerner       |2B        |     22|  9|   7|  0|  0| 
-|Elly De La Cruz    |3B        |     17|  5|   5|  2|  5| 
+|Pete Alonso        |1B        |     15|  6|   3|  1|  0| 
+|Nico Hoerner       |2B        |     23|  9|   7|  0|  0| 
+|Elly De La Cruz    |3B        |     20|  7|   5|  2|  6| 
 |CJ Abrams          |SS        |     13|  4|   3|  1|  2| 
-|Ketel Marte        |MI        |     18|  6|   6|  2|  2| 
-|Vinnie Pasquantino |CI        |      8|  2|   4|  0|  0| 
+|Ketel Marte        |MI        |     20|  7|   8|  3|  2| 
+|Vinnie Pasquantino |CI        |     11|  3|   5|  0|  0| 
 |Heliot Ramos       |OF        |     11|  3|   6|  2|  0| 
-|Juan Soto          |OF        |     21|  9|   4|  2|  1| 
-|Marcell Ozuna      |OF        |     19|  9|   7|  5|  0| 
+|Juan Soto          |OF        |     24| 11|   8|  4|  1| 
+|Marcell Ozuna      |OF        |     22| 10|   7|  5|  0| 
 |Riley Greene       |OF        |     18|  4|   6|  0|  0| 
 |James Wood         |DH        |     12|  4|   6|  1|  1| 
-|Miguel Andujar     |DH        |     13|  7|   5|  1|  1| 
+|Miguel Andujar     |DH        |     14|  8|   6|  1|  1| 
 |Mitch Garver       |DH        |     10|  2|   4|  1|  0| 
-|Wenceel Pérez      |DH        |     14|  7|   3|  1|  1| 
-|Jake Burger        |BAT BENCH |     15|  7|  10|  4|  0| 
-|Jo Adell           |BAT BENCH |     14|  4|   8|  1|  2| 
+|Wenceel Pérez      |DH        |     16| 10|   4|  1|  2| 
+|Jake Burger        |BAT BENCH |     16|  7|  10|  4|  0| 
+|Jo Adell           |BAT BENCH |     16|  5|   9|  1|  3| 
 |Michael Massey     |BAT BENCH |      8|  2|   4|  0|  0| 
 |Sal Frelick        |BAT BENCH |     13|  5|   2|  0|  2| 
 
@@ -33,11 +33,11 @@
  
 |players          |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Bailey Ober      |SP          |  1|  6.000|  3|  4.500|      5| 0.833|  6|  0|  0| 
+|Bailey Ober      |SP          |  2| 13.000|  5|  3.462|     10| 0.769| 10|  1|  0| 
 |Freddy Peralta   |SP          |  2| 11.000|  4|  3.273|     14| 1.273| 14|  0|  0| 
-|Michael Lorenzen |SP          |  1|  5.000|  5|  9.000|      9| 1.800|  3|  0|  0| 
+|Michael Lorenzen |SP          |  2| 10.000|  7|  6.300|     17| 1.700| 11|  0|  0| 
 |Nestor Cortes    |SP          |  2|  8.667| 11| 11.423|     19| 2.192|  5|  0|  0| 
-|Tanner Houck     |SP          |  1|  6.000|  0|  0.000|      5| 0.833|  6|  1|  0| 
+|Tanner Houck     |SP          |  2| 12.000|  4|  3.000|     18| 1.500|  8|  1|  0| 
 |Zac Gallen       |SP          |  3| 14.000| 10|  6.429|     27| 1.929|  9|  1|  0| 
 |Emmanuel Clase   |RP          |  4|  4.000|  1|  2.250|      4| 1.000|  0|  0|  3| 
 |Robert Suarez    |RP          |  3|  3.333|  0|  0.000|      3| 0.900|  3|  0|  1| 

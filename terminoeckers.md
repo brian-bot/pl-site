@@ -6,24 +6,24 @@
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
 |Tyler Soderstrom      |C         |      4|  0|   1|  0|  0| 
-|Freddie Freeman       |1B        |     13|  6|   8|  3|  2| 
+|Freddie Freeman       |1B        |     14|  7|   8|  3|  2| 
 |Gleyber Torres        |2B        |     14|  2|   2|  0|  0| 
-|Matt Chapman          |3B        |     10|  8|   1|  1|  2| 
-|Willy Adames          |SS        |     18|  6|   9|  2|  1| 
-|Maikel Garcia         |MI        |     11|  6|   4|  1|  2| 
+|Matt Chapman          |3B        |     11|  8|   1|  1|  3| 
+|Willy Adames          |SS        |     21|  7|  10|  3|  1| 
+|Maikel Garcia         |MI        |     13|  7|   4|  1|  2| 
 |Vladimir Guerrero Jr. |CI        |     12|  6|   7|  3|  0| 
-|Brenton Doyle         |OF        |     16|  6|   9|  5|  0| 
+|Brenton Doyle         |OF        |     18|  7|  10|  5|  0| 
 |Cody Bellinger        |OF        |      5|  1|   0|  0|  1| 
-|Ian Happ              |OF        |     13|  6|   6|  2|  0| 
+|Ian Happ              |OF        |     14|  7|   7|  3|  0| 
 |Seiya Suzuki          |OF        |     18|  4|  10|  1|  2| 
 |Jarred Kelenic        |DH        |     11|  3|   4|  2|  3| 
 |Jurickson Profar      |DH        |      9|  1|   1|  1|  0| 
 |Luis García Jr.       |DH        |      9|  4|   1|  1|  0| 
-|Rowdy Tellez          |DH        |      8|  3|   6|  1|  0| 
+|Rowdy Tellez          |DH        |     10|  3|   6|  1|  0| 
 |Kyle Tucker           |BAT BENCH |     **| **|  **| **| **| 
 |Max Muncy             |BAT BENCH |     **| **|  **| **| **| 
 |Michael Harris II     |BAT BENCH |     **| **|  **| **| **| 
-|Noelvi Marte          |BAT BENCH |     10|  7|   3|  1|  0| 
+|Noelvi Marte          |BAT BENCH |     11|  7|   3|  1|  0| 
 
 
 * * *
@@ -40,7 +40,7 @@
 |Seth Lugo        |SP          |  2| 14.000|  6|  3.857|     14| 1.000| 12|  1|  0| 
 |Taj Bradley      |SP          |  2| 14.000|  0|  0.000|     10| 0.714| 13|  2|  0| 
 |Chad Green       |RP          |  6|  6.667|  2|  2.700|      8| 1.200|  5|  1|  3| 
-|Edwin Díaz       |RP          |  4|  3.667|  0|  0.000|      4| 1.091|  4|  1|  3| 
+|Edwin Díaz       |RP          |  5|  4.667|  1|  1.929|      7| 1.500|  5|  1|  4| 
 |Albert Suárez    |OP          |  1|  5.000|  4|  7.200|      8| 1.600|  4|  0|  0| 
 |Andrew Heaney    |OP          |  2| 10.000|  2|  1.800|     12| 1.200|  9|  1|  0| 
 |Gavin Williams   |OP          |  3| 14.000|  4|  2.571|     19| 1.357| 12|  0|  0| 

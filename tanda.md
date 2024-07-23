@@ -5,22 +5,22 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Logan O'Hoppe     |C         |     13|  5|   2|  2|  0| 
-|Matt Olson        |1B        |      6|  3|   3|  1|  0| 
-|Marcus Semien     |2B        |     21|  6|   4|  1|  0| 
+|Logan O'Hoppe     |C         |     15|  5|   2|  2|  1| 
+|Matt Olson        |1B        |      7|  3|   3|  1|  0| 
+|Marcus Semien     |2B        |     22|  7|   5|  2|  0| 
 |Gunnar Henderson  |3B        |     14|  5|   3|  1|  0| 
-|Oneil Cruz        |SS        |     10|  6|  11|  2|  0| 
-|Brandon Lowe      |MI        |     12|  3|   3|  2|  0| 
+|Oneil Cruz        |SS        |     12|  6|  12|  2|  2| 
+|Brandon Lowe      |MI        |     13|  3|   3|  2|  0| 
 |Anthony Santander |CI        |     16|  6|  10|  5|  1| 
-|J.D. Martinez     |OF        |     12|  3|   3|  0|  0| 
-|Jarren Duran      |OF        |     20|  8|   8|  2|  1| 
+|J.D. Martinez     |OF        |     15|  4|   3|  0|  0| 
+|Jarren Duran      |OF        |     21| 10|   8|  2|  1| 
 |Jesse Winker      |OF        |     11|  4|   3|  1|  2| 
-|Jorge Soler       |OF        |      9|  4|   2|  1|  0| 
-|Ceddanne Rafaela  |DH        |     13|  5|   4|  1|  2| 
+|Jorge Soler       |OF        |     10|  4|   2|  1|  0| 
+|Ceddanne Rafaela  |DH        |     14|  6|   4|  1|  2| 
 |Jackson Chourio   |DH        |     12|  8|   5|  1|  3| 
 |Julio Rodríguez   |DH        |     19|  5|   7|  3|  0| 
-|Zack Gelof        |DH        |     10|  6|   9|  3|  0| 
-|Andrew Vaughn     |BAT BENCH |      8|  2|   1|  0|  0| 
+|Zack Gelof        |DH        |     11|  7|   9|  3|  1| 
+|Andrew Vaughn     |BAT BENCH |     10|  3|   1|  0|  0| 
 |David Hamilton    |BAT BENCH |     12|  2|   1|  0|  2| 
 |Luis Rengifo      |BAT BENCH |     **| **|  **| **| **| 
 |Royce Lewis       |BAT BENCH |     **| **|  **| **| **| 
@@ -35,13 +35,13 @@
 |:---------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Chris Bassitt   |SP          |  2| 11.667|  8| 6.171|     17| 1.457| 12|  1|  0| 
 |Chris Sale      |SP          |  2| 10.333|  3| 2.613|     14| 1.355| 13|  2|  0| 
-|Cole Ragans     |SP          |  1|  7.000|  1| 1.286|      5| 0.714|  7|  1|  0| 
+|Cole Ragans     |SP          |  2| 13.000|  4| 2.769|     13| 1.000| 12|  2|  0| 
 |Dean Kremer     |SP          |  3| 14.000| 10| 6.429|     24| 1.714|  9|  0|  0| 
-|Hunter Greene   |SP          |  1|  6.000|  1| 1.500|      4| 0.667| 10|  1|  0| 
+|Hunter Greene   |SP          |  2| 13.000|  1| 0.692|      9| 0.692| 17|  2|  0| 
 |Max Scherzer    |SP          |  3| 12.667|  8| 5.684|     20| 1.579| 13|  0|  0| 
 |Craig Kimbrel   |RP          |  3|  3.000|  3| 9.000|      6| 2.000|  5|  1|  1| 
 |Raisel Iglesias |RP          |  3|  4.000|  0| 0.000|      1| 0.250|  2|  1|  1| 
-|Erick Fedde     |OP          |  1|  5.000|  0| 0.000|      6| 1.200|  5|  1|  0| 
+|Erick Fedde     |OP          |  2| 11.333|  2| 1.588|     11| 0.971| 10|  1|  0| 
 |Jake Irvin      |OP          |  3| 17.000| 14| 7.412|     28| 1.647| 12|  0|  0| 
 |James McArthur  |OP          |  3|  3.000|  1| 3.000|      4| 1.333|  2|  0|  2| 
 |José Soriano    |OP          |  2| 11.000|  4| 3.273|     16| 1.455|  8|  1|  0| 
