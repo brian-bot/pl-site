@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Logan O'Hoppe     |C         |     15|  5|   2|  2|  1| 
+|Logan O'Hoppe     |C         |     16|  6|   2|  2|  1| 
 |Matt Olson        |1B        |      7|  3|   3|  1|  0| 
-|Marcus Semien     |2B        |     22|  7|   5|  2|  0| 
+|Marcus Semien     |2B        |     24|  8|   5|  2|  0| 
 |Gunnar Henderson  |3B        |     14|  5|   3|  1|  0| 
-|Oneil Cruz        |SS        |     12|  6|  12|  2|  2| 
-|Brandon Lowe      |MI        |     13|  3|   3|  2|  0| 
-|Anthony Santander |CI        |     16|  6|  10|  5|  1| 
+|Oneil Cruz        |SS        |     14|  7|  12|  2|  2| 
+|Brandon Lowe      |MI        |     14|  4|   5|  3|  0| 
+|Anthony Santander |CI        |     17|  7|  10|  5|  1| 
 |J.D. Martinez     |OF        |     15|  4|   3|  0|  0| 
-|Jarren Duran      |OF        |     21| 10|   8|  2|  1| 
+|Jarren Duran      |OF        |     24| 12|   8|  2|  1| 
 |Jesse Winker      |OF        |     11|  4|   3|  1|  2| 
-|Jorge Soler       |OF        |     10|  4|   2|  1|  0| 
+|Jorge Soler       |OF        |     12|  4|   2|  1|  0| 
 |Ceddanne Rafaela  |DH        |     14|  6|   4|  1|  2| 
-|Jackson Chourio   |DH        |     12|  8|   5|  1|  3| 
+|Jackson Chourio   |DH        |     14|  8|   5|  1|  3| 
 |Julio Rodríguez   |DH        |     19|  5|   7|  3|  0| 
-|Zack Gelof        |DH        |     11|  7|   9|  3|  1| 
-|Andrew Vaughn     |BAT BENCH |     10|  3|   1|  0|  0| 
+|Zack Gelof        |DH        |     12|  8|  10|  4|  1| 
+|Andrew Vaughn     |BAT BENCH |     11|  3|   2|  0|  0| 
 |David Hamilton    |BAT BENCH |     12|  2|   1|  0|  2| 
-|Luis Rengifo      |BAT BENCH |     **| **|  **| **| **| 
+|Luis Rengifo      |BAT BENCH |      1|  0|   2|  0|  0| 
 |Royce Lewis       |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -43,8 +43,8 @@
 |Raisel Iglesias |RP          |  3|  4.000|  0| 0.000|      1| 0.250|  2|  1|  1| 
 |Erick Fedde     |OP          |  2| 11.333|  2| 1.588|     11| 0.971| 10|  1|  0| 
 |Jake Irvin      |OP          |  3| 17.000| 14| 7.412|     28| 1.647| 12|  0|  0| 
-|James McArthur  |OP          |  3|  3.000|  1| 3.000|      4| 1.333|  2|  0|  2| 
-|José Soriano    |OP          |  2| 11.000|  4| 3.273|     16| 1.455|  8|  1|  0| 
+|James McArthur  |OP          |  4|  4.000|  1| 2.250|      6| 1.500|  3|  0|  2| 
+|José Soriano    |OP          |  3| 18.667|  5| 2.411|     22| 1.179| 13|  2|  0| 
 |Kyle Gibson     |OP          |  3| 15.667|  8| 4.596|     28| 1.787| 17|  1|  0| 
 |Luis Severino   |PITCH BENCH |  2| 12.333|  2| 1.459|     12| 0.973| 11|  2|  0| 
 |Marcus Stroman  |PITCH BENCH |  2|  9.667|  3| 2.793|     14| 1.448|  7|  0|  0| 
