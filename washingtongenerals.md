@@ -6,24 +6,24 @@
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Shea Langeliers     |C         |     14|  5|   8|  2|  0| 
-|Paul Goldschmidt    |1B        |     12|  6|   5|  3|  0| 
+|Paul Goldschmidt    |1B        |     13|  6|   5|  3|  0| 
 |Bryson Stott        |2B        |      7|  1|   3|  1|  2| 
-|Jeimer Candelario   |3B        |     15|  9|   7|  2|  0| 
-|Francisco Lindor    |SS        |     31|  8|  12|  4|  4| 
+|Jeimer Candelario   |3B        |     16| 10|   7|  2|  0| 
+|Francisco Lindor    |SS        |     34| 10|  17|  6|  4| 
 |Bo Bichette         |MI        |      3|  1|   0|  0|  0| 
-|Alex Bregman        |CI        |     16|  8|   6|  2|  1| 
-|Brandon Nimmo       |OF        |     17|  4|  11|  3|  1| 
-|George Springer     |OF        |     14|  7|  12|  4|  0| 
-|Lourdes Gurriel Jr. |OF        |      9|  3|   2|  0|  2| 
-|Steven Kwan         |OF        |     16|  5|   1|  1|  2| 
+|Alex Bregman        |CI        |     19|  9|   8|  2|  1| 
+|Brandon Nimmo       |OF        |     18|  4|  11|  3|  1| 
+|George Springer     |OF        |     15|  8|  12|  4|  1| 
+|Lourdes Gurriel Jr. |OF        |     10|  4|   2|  0|  2| 
+|Steven Kwan         |OF        |     17|  5|   2|  1|  2| 
 |Austin Riley        |DH        |     16|  4|   3|  2|  0| 
-|Eugenio Suárez      |DH        |     16| 10|  16|  5|  0| 
-|Masyn Winn          |DH        |     14|  8|   3|  1|  0| 
+|Eugenio Suárez      |DH        |     18| 11|  17|  6|  0| 
+|Masyn Winn          |DH        |     17|  8|   3|  1|  0| 
 |Michael Busch       |DH        |     20|  8|   7|  2|  1| 
-|Brandon Marsh       |BAT BENCH |      8|  6|   4|  2|  2| 
+|Brandon Marsh       |BAT BENCH |      8|  7|   4|  2|  3| 
 |J.T. Realmuto       |BAT BENCH |      5|  1|   0|  0|  0| 
 |JJ Bleday           |BAT BENCH |     17|  9|   6|  1|  0| 
-|Max Kepler          |BAT BENCH |     15|  6|   1|  0|  0| 
+|Max Kepler          |BAT BENCH |     17|  7|   3|  0|  0| 
 
 
 * * *
@@ -45,7 +45,7 @@
 |Mitch Keller      |OP          |  3| 18.000|  5|  2.500|     22| 1.222| 12|  1|  0| 
 |Ranger Suárez     |OP          |  2| 11.333|  7|  5.559|     17| 1.500| 10|  0|  0| 
 |Reese Olson       |OP          |  2|  8.000|  3|  3.375|     10| 1.250|  3|  1|  0| 
-|Tanner Scott      |OP          |  5|  5.667|  0|  0.000|      2| 0.353|  8|  0|  4| 
+|Tanner Scott      |OP          |  6|  6.667|  0|  0.000|      3| 0.450|  9|  0|  5| 
 |Alec Marsh        |PITCH BENCH |  3| 12.000|  8|  6.000|     13| 1.083| 15|  1|  0| 
 |Max Meyer         |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Reid Detmers      |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
