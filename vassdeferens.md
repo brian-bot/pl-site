@@ -6,21 +6,21 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Adley Rutschman    |C         |     12|  6|   2|  1|  0| 
-|Pete Alonso        |1B        |     19|  8|   5|  2|  0| 
+|Pete Alonso        |1B        |     21|  8|   5|  2|  0| 
 |Nico Hoerner       |2B        |     25|  9|   7|  0|  0| 
 |Elly De La Cruz    |3B        |     23| 10|   6|  3|  8| 
-|CJ Abrams          |SS        |     13|  4|   3|  1|  2| 
+|CJ Abrams          |SS        |     14|  4|   3|  1|  2| 
 |Ketel Marte        |MI        |     26| 11|  13|  5|  2| 
 |Vinnie Pasquantino |CI        |     17|  4|   7|  0|  0| 
-|Heliot Ramos       |OF        |     14|  3|   8|  2|  0| 
+|Heliot Ramos       |OF        |     17|  3|   9|  2|  0| 
 |Juan Soto          |OF        |     28| 12|   9|  5|  1| 
-|Marcell Ozuna      |OF        |     22| 10|   8|  5|  0| 
+|Marcell Ozuna      |OF        |     24| 11|   8|  5|  0| 
 |Riley Greene       |OF        |     19|  4|   6|  0|  0| 
 |James Wood         |DH        |     12|  4|   6|  1|  1| 
-|Miguel Andujar     |DH        |     17|  8|   7|  1|  1| 
+|Miguel Andujar     |DH        |     18|  8|   7|  1|  1| 
 |Mitch Garver       |DH        |     10|  2|   4|  1|  0| 
-|Wenceel Pérez      |DH        |     17| 11|   6|  2|  3| 
-|Jake Burger        |BAT BENCH |     17|  7|  10|  4|  0| 
+|Wenceel Pérez      |DH        |     18| 11|   6|  2|  3| 
+|Jake Burger        |BAT BENCH |     18|  8|  10|  4|  0| 
 |Jo Adell           |BAT BENCH |     16|  5|   9|  1|  3| 
 |Michael Massey     |BAT BENCH |      9|  3|   4|  0|  0| 
 |Sal Frelick        |BAT BENCH |     14|  5|   2|  0|  2| 

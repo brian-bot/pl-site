@@ -6,15 +6,15 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |William Contreras |C         |     15|  4|   6|  1|  0| 
-|Nathaniel Lowe    |1B        |     21|  7|   7|  2|  0| 
+|Nathaniel Lowe    |1B        |     24|  8|   7|  2|  0| 
 |Ozzie Albies      |2B        |     11|  2|   3|  0|  2| 
 |Manny Machado     |3B        |     14|  3|   3|  1|  0| 
-|Corey Seager      |SS        |     23| 11|   9|  4|  0| 
-|Zach Neto         |MI        |     21|  9|   6|  2|  3| 
-|Ha-Seong Kim      |CI        |     10|  7|   0|  0|  2| 
-|Bryan De La Cruz  |OF        |     14|  4|   4|  2|  2| 
+|Corey Seager      |SS        |     25| 11|   9|  4|  0| 
+|Zach Neto         |MI        |     22| 10|   7|  2|  4| 
+|Ha-Seong Kim      |CI        |     12|  7|   3|  0|  2| 
+|Bryan De La Cruz  |OF        |     16|  4|   5|  2|  2| 
 |Bryan Reynolds    |OF        |     22| 10|   7|  2|  0| 
-|Teoscar Hernández |OF        |     24|  6|   7|  2|  0| 
+|Teoscar Hernández |OF        |     26|  6|   7|  2|  0| 
 |Tyler O'Neill     |OF        |     16|  7|   8|  4|  0| 
 |Alec Bohm         |DH        |     22|  5|   1|  0|  0| 
 |Ezequiel Tovar    |DH        |     24| 10|  12|  5|  0| 
@@ -32,7 +32,7 @@
  
 |players          |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Corbin Burnes    |SP          |  2| 12.000|  4| 3.000|     15| 1.250| 11|  1|  0| 
+|Corbin Burnes    |SP          |  3| 19.333|  7| 3.259|     22| 1.138| 16|  1|  0| 
 |Logan Gilbert    |SP          |  3| 21.333|  4| 1.687|     12| 0.562| 24|  1|  0| 
 |Miles Mikolas    |SP          |  3| 17.667|  8| 4.075|     22| 1.245|  8|  2|  0| 
 |Sean Manaea      |SP          |  4| 22.667| 10| 3.971|     27| 1.191| 20|  1|  0| 

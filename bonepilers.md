@@ -11,14 +11,14 @@
 |Nolan Arenado     |3B        |     18|  8|   7|  3|  0| 
 |Dansby Swanson    |SS        |     19|  5|   4|  1|  2| 
 |Nick Gonzales     |MI        |     16|  5|  11|  0|  0| 
-|Josh Naylor       |CI        |     17|  5|   7|  1|  2| 
-|Jazz Chisholm Jr. |OF        |     18|  7|   9|  3|  5| 
-|Josh Lowe         |OF        |      8|  1|   2|  0|  2| 
+|Josh Naylor       |CI        |     18|  5|   7|  1|  2| 
+|Jazz Chisholm Jr. |OF        |     18|  7|  10|  3|  5| 
+|Josh Lowe         |OF        |      9|  1|   4|  0|  2| 
 |Kyle Schwarber    |OF        |     16|  6|   8|  2|  0| 
-|Randy Arozarena   |OF        |     19|  8|   7|  4|  5| 
+|Randy Arozarena   |OF        |     20|  8|   8|  4|  5| 
 |Joey Loperfido    |DH        |      7|  3|   4|  1|  0| 
-|Lane Thomas       |DH        |     21|  4|   2|  0|  5| 
-|Patrick Bailey    |DH        |     18|  7|   4|  1|  1| 
+|Lane Thomas       |DH        |     23|  4|   2|  0|  5| 
+|Patrick Bailey    |DH        |     19|  7|   4|  1|  1| 
 |Rhys Hoskins      |DH        |      9|  3|   5|  2|  0| 
 |Evan Carter       |BAT BENCH |     **| **|  **| **| **| 
 |Starling Marte    |BAT BENCH |     **| **|  **| **| **| 
@@ -44,7 +44,7 @@
 |Héctor Neris       |OP          |  6|  5.000|  1|  1.800|      6| 1.200|  6|  1|  3| 
 |Shane Baz          |OP          |  2|  7.667|  3|  3.522|     16| 2.087|  6|  0|  0| 
 |Zack Littell       |OP          |  3| 15.667| 13|  7.468|     29| 1.851| 14|  0|  0| 
-|Blake Treinen      |PITCH BENCH |  6|  6.000|  0|  0.000|      6| 1.000|  7|  2|  0| 
+|Blake Treinen      |PITCH BENCH |  7|  6.333|  0|  0.000|      7| 1.105|  8|  3|  0| 
 |Casey Mize         |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Merrill Kelly      |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 

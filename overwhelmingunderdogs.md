@@ -9,17 +9,17 @@
 |Christian Walker   |1B        |     21|  3|   6|  1|  0| 
 |Jose Altuve        |2B        |     16|  6|   6|  1|  2| 
 |Matt Vierling      |3B        |     18|  9|   7|  2|  0| 
-|Jackson Merrill    |SS        |     12|  5|   3|  0|  0| 
+|Jackson Merrill    |SS        |     13|  5|   3|  0|  1| 
 |Anthony Volpe      |MI        |     14|  5|   4|  1|  2| 
-|Josh Bell          |CI        |     19|  4|   8|  3|  0| 
+|Josh Bell          |CI        |     21|  5|  10|  4|  0| 
 |Brendan Donovan    |OF        |     18|  4|   5|  1|  1| 
 |Corbin Carroll     |OF        |     16| 10|  12|  4|  5| 
 |Mark Canha         |OF        |     14|  5|   3|  1|  0| 
 |Spencer Steer      |OF        |     17|  8|   7|  2|  2| 
 |Jonah Heim         |DH        |     12|  5|   6|  2|  0| 
 |Jonathan India     |DH        |     18|  7|   5|  2|  1| 
-|Justin Turner      |DH        |     10|  4|   4|  1|  0| 
-|Xander Bogaerts    |DH        |     15|  3|   1|  0|  1| 
+|Justin Turner      |DH        |     11|  4|   4|  1|  0| 
+|Xander Bogaerts    |DH        |     17|  4|   1|  0|  1| 
 |Fernando Tatis Jr. |BAT BENCH |     **| **|  **| **| **| 
 |Jorge Polanco      |BAT BENCH |     16|  4|   4|  1|  0| 
 |Josh Jung          |BAT BENCH |     **| **|  **| **| **| 
@@ -42,7 +42,7 @@
 |Pablo López   |SP          |  2| 12.000|  3| 2.250|     10| 0.833| 12|  0|  0| 
 |Kyle Finnegan |RP          |  6|  5.333|  2| 3.375|      6| 1.125|  5|  0|  5| 
 |Paul Sewald   |RP          |  7|  7.000|  4| 5.143|      9| 1.286|  6|  0|  4| 
-|Aaron Civale  |OP          |  2| 10.667|  6| 5.062|     16| 1.500| 10|  0|  0| 
+|Aaron Civale  |OP          |  2| 10.667|  4| 3.375|     15| 1.406| 10|  0|  0| 
 |Michael Wacha |OP          |  3| 16.667|  6| 3.240|     20| 1.200| 11|  2|  0| 
 |Ryan Helsley  |OP          |  3|  3.000|  0| 0.000|      3| 1.000|  6|  0|  2| 
 |Ryan Pepiot   |OP          |  2| 11.667|  1| 0.771|      9| 0.771| 11|  2|  0| 

@@ -7,19 +7,19 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Francisco Alvarez |C         |     14|  2|   1|  0|  0| 
 |Salvador Perez    |1B        |     16|  9|  12|  4|  0| 
-|Andrés Giménez    |2B        |     10|  1|   4|  0|  1| 
-|José Ramírez      |3B        |     19|  5|   6|  1|  2| 
-|Paul DeJong       |SS        |      6|  1|   2|  1|  0| 
-|Spencer Horwitz   |MI        |     16|  5|   3|  1|  0| 
+|Andrés Giménez    |2B        |     11|  1|   4|  0|  1| 
+|José Ramírez      |3B        |     21|  5|   6|  1|  2| 
+|Paul DeJong       |SS        |      7|  1|   2|  1|  0| 
+|Spencer Horwitz   |MI        |     18|  5|   3|  1|  0| 
 |Alec Burleson     |CI        |     21|  9|  18|  5|  1| 
 |Adolis García     |OF        |     13|  4|   5|  1|  2| 
-|Brent Rooker      |OF        |     26| 14|  15|  5|  2| 
+|Brent Rooker      |OF        |     27| 15|  16|  6|  2| 
 |Christian Yelich  |OF        |     17|  5|   4|  1|  2| 
 |Nick Castellanos  |OF        |     16|  4|  10|  2|  0| 
 |Alex Verdugo      |DH        |      9|  0|   2|  0|  0| 
-|Jake Cronenworth  |DH        |     12|  3|   6|  2|  0| 
-|Nolan Schanuel    |DH        |     23|  4|   4|  1|  2| 
-|Shohei Ohtani     |DH        |     21|  6|   8|  2|  6| 
+|Jake Cronenworth  |DH        |     13|  4|   6|  2|  0| 
+|Nolan Schanuel    |DH        |     24|  5|   4|  1|  2| 
+|Shohei Ohtani     |DH        |     24|  7|   9|  3|  6| 
 |Giancarlo Stanton |BAT BENCH |     **| **|  **| **| **| 
 |Jackson Holliday  |BAT BENCH |     **| **|  **| **| **| 
 |Mike Trout        |BAT BENCH |     **| **|  **| **| **| 
@@ -43,7 +43,7 @@
 |Brandon Pfaadt     |OP          |  2| 13.000|  0|  0.000|      5| 0.385| 11|  1|  0| 
 |Cal Quantrill      |OP          |  3| 14.000| 10|  6.429|     20| 1.429| 12|  1|  0| 
 |Justin Wrobleski   |OP          |  3| 14.333|  7|  4.395|     19| 1.326| 13|  0|  0| 
-|Michael Kopech     |OP          |  5|  5.333|  4|  6.750|      4| 0.750|  6|  0|  1| 
+|Michael Kopech     |OP          |  6|  6.333|  4|  5.684|      6| 0.947|  8|  0|  1| 
 |Michael Mercado    |OP          |  2|  5.667| 11| 17.471|     16| 2.824|  3|  0|  0| 
 |Javier Assad       |PITCH BENCH |  2|  5.667|  3|  4.765|     16| 2.824|  2|  0|  0| 
 |Yoshinobu Yamamoto |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
