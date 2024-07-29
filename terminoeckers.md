@@ -7,19 +7,19 @@
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
 |Tyler Soderstrom      |C         |      4|  0|   1|  0|  0| 
 |Freddie Freeman       |1B        |     20|  8|   9|  3|  2| 
-|Gleyber Torres        |2B        |     22|  5|   6|  2|  0| 
-|Matt Chapman          |3B        |     24| 14|   4|  3|  3| 
+|Gleyber Torres        |2B        |     25|  6|   8|  2|  0| 
+|Matt Chapman          |3B        |     28| 14|   6|  3|  4| 
 |Willy Adames          |SS        |     25|  9|  10|  3|  1| 
-|Maikel Garcia         |MI        |     15| 10|   5|  1|  2| 
-|Vladimir Guerrero Jr. |CI        |     25| 13|  10|  5|  0| 
+|Maikel Garcia         |MI        |     16| 10|   5|  1|  2| 
+|Vladimir Guerrero Jr. |CI        |     26| 14|  12|  6|  0| 
 |Brenton Doyle         |OF        |     23|  9|  17|  6|  1| 
 |Cody Bellinger        |OF        |      5|  1|   0|  0|  1| 
-|Ian Happ              |OF        |     17|  7|   8|  3|  0| 
-|Seiya Suzuki          |OF        |     27|  7|  13|  3|  2| 
+|Ian Happ              |OF        |     19|  8|   8|  3|  0| 
+|Seiya Suzuki          |OF        |     29|  8|  13|  3|  2| 
 |Jarred Kelenic        |DH        |     14|  4|   6|  2|  3| 
-|Jurickson Profar      |DH        |     19|  8|   8|  5|  0| 
+|Jurickson Profar      |DH        |     21|  8|   9|  5|  0| 
 |Luis García Jr.       |DH        |     17|  5|   6|  1|  3| 
-|Rowdy Tellez          |DH        |     14|  5|   8|  2|  0| 
+|Rowdy Tellez          |DH        |     15|  5|   8|  2|  0| 
 |Kyle Tucker           |BAT BENCH |     **| **|  **| **| **| 
 |Max Muncy             |BAT BENCH |     **| **|  **| **| **| 
 |Michael Harris II     |BAT BENCH |     **| **|  **| **| **| 
@@ -41,7 +41,7 @@
 |Taj Bradley      |SP          |  3| 20.000|  0|  0.000|     13| 0.650| 20|  3|  0| 
 |Chad Green       |RP          |  8|  9.000|  2|  2.000|      8| 0.889|  8|  2|  3| 
 |Edwin Díaz       |RP          |  6|  5.667|  1|  1.588|      8| 1.412|  7|  1|  4| 
-|Albert Suárez    |OP          |  2|  7.000| 10| 12.857|     17| 2.429|  7|  0|  0| 
+|Albert Suárez    |OP          |  3| 11.667| 13| 10.029|     25| 2.143|  9|  0|  0| 
 |Andrew Heaney    |OP          |  3| 15.000|  6|  3.600|     20| 1.333| 13|  1|  0| 
 |Gavin Williams   |OP          |  4| 20.000|  7|  3.150|     27| 1.350| 21|  0|  0| 
 |Griffin Jax      |OP          |  8|  8.000|  3|  3.375|      7| 0.875|  8|  0|  0| 
