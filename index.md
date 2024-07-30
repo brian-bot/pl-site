@@ -2,21 +2,21 @@
 
 ## Period 6 scores
 
-Through games on 2024-07-28 ([website build status](https://github.com/brian-bot/pl-site/actions))
+Through games on 2024-07-29 ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 
 |team                   | points|   r| hitsbb| hr| rbi| sb|  w| sv|  so|   era|  whip|
 |:----------------------|------:|---:|------:|--:|---:|--:|--:|--:|---:|-----:|-----:|
-|[Washington Generals](./washingtongenerals)|   56.5| 122|    292| 47| 130| 17|  7| 14| 124| 3.793| 1.307|
-|[Boys of Summer](./boysofsummer)|   44.5| 106|    296| 33| 110| 10| 14|  6| 196| 4.050| 1.205|
-|[Mean Wieners](./meanwieners)|   43.0|  84|    280| 28|  95| 13| 12|  6| 224| 3.109| 1.115|
-|[Vass Deferens](./vassdeferens)|   62.0| 127|    335| 35| 123| 26| 11| 14| 169| 4.524| 1.333|
-|[Bone Pilers](./bonepilers)|   63.5| 107|    292| 35| 123| 31| 13|  8| 192| 3.514| 1.166|
-|[Overwhelming Underdogs](./overwhelmingunderdogs)|   52.5| 103|    300| 28| 100| 19| 11| 12| 158| 2.940| 1.089|
-|[T and A](./tanda)     |   62.0| 134|    331| 42| 117| 17| 15|  4| 198| 4.284| 1.332|
-|[Wonderbots](./wonderbots)|   53.0| 125|    352| 37| 113| 15|  8|  6| 202| 4.545| 1.235|
-|[Terminoeckers](./terminoeckers)|   68.5| 109|    287| 40| 118| 19| 14|  7| 198| 3.398| 1.072|
-|[Nuclear Arms](./nucleararms)|   44.5| 106|    314| 37| 128| 25|  9|  6| 149| 4.756| 1.341|
+|[Washington Generals](./washingtongenerals)|   56.5| 133|    316| 49| 136| 19|  7| 14| 127| 4.221| 1.366|
+|[Boys of Summer](./boysofsummer)|   43.0| 114|    316| 35| 119| 10| 14|  6| 202| 4.409| 1.241|
+|[Mean Wieners](./meanwieners)|   46.0|  95|    306| 33| 108| 14| 13|  6| 231| 3.149| 1.131|
+|[Vass Deferens](./vassdeferens)|   67.5| 137|    355| 39| 135| 28| 12| 14| 183| 4.325| 1.320|
+|[Bone Pilers](./bonepilers)|   67.0| 118|    308| 40| 131| 32| 14|  9| 201| 3.695| 1.180|
+|[Overwhelming Underdogs](./overwhelmingunderdogs)|   49.0| 110|    316| 31| 107| 21| 11| 12| 158| 3.179| 1.114|
+|[T and A](./tanda)     |   59.5| 146|    348| 44| 125| 18| 15|  5| 199| 4.286| 1.329|
+|[Wonderbots](./wonderbots)|   50.0| 128|    364| 38| 117| 16|  9|  7| 216| 4.792| 1.265|
+|[Terminoeckers](./terminoeckers)|   67.0| 118|    304| 43| 126| 20| 15|  7| 202| 3.527| 1.084|
+|[Nuclear Arms](./nucleararms)|   44.5| 115|    328| 39| 135| 25|  9|  6| 149| 4.756| 1.341|
 
 * * *
 * * *

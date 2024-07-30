@@ -7,20 +7,20 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Logan O'Hoppe     |C         |     22|  8|   3|  2|  1| 
 |Matt Olson        |1B        |     15|  6|   7|  3|  0| 
-|Marcus Semien     |2B        |     33| 14|   6|  3|  0| 
-|Gunnar Henderson  |3B        |     22|  6|   4|  1|  0| 
-|Oneil Cruz        |SS        |     20| 11|  14|  4|  2| 
+|Marcus Semien     |2B        |     34| 15|   6|  3|  0| 
+|Gunnar Henderson  |3B        |     24|  8|   4|  1|  0| 
+|Oneil Cruz        |SS        |     21| 11|  15|  4|  2| 
 |Brandon Lowe      |MI        |     26|  7|   9|  4|  1| 
-|Anthony Santander |CI        |     24| 13|  12|  7|  1| 
-|J.D. Martinez     |OF        |     20|  6|   7|  1|  0| 
-|Jarren Duran      |OF        |     31| 15|  12|  3|  1| 
-|Jesse Winker      |OF        |     16|  6|   5|  1|  2| 
+|Anthony Santander |CI        |     28| 15|  14|  8|  1| 
+|J.D. Martinez     |OF        |     21|  7|   9|  1|  0| 
+|Jarren Duran      |OF        |     33| 17|  13|  3|  2| 
+|Jesse Winker      |OF        |     18|  7|   5|  1|  2| 
 |Jorge Soler       |OF        |     31| 12|   8|  2|  1| 
-|Ceddanne Rafaela  |DH        |     20|  8|   6|  2|  4| 
-|Jackson Chourio   |DH        |     19|  9|   7|  2|  3| 
+|Ceddanne Rafaela  |DH        |     22| 10|   6|  2|  4| 
+|Jackson Chourio   |DH        |     21| 10|   9|  3|  3| 
 |Julio Rodríguez   |DH        |     19|  5|   7|  3|  0| 
 |Zack Gelof        |DH        |     13|  8|  10|  4|  1| 
-|Andrew Vaughn     |BAT BENCH |     15|  4|   3|  0|  0| 
+|Andrew Vaughn     |BAT BENCH |     17|  5|   4|  1|  0| 
 |David Hamilton    |BAT BENCH |     15|  4|   2|  0|  3| 
 |Luis Rengifo      |BAT BENCH |      6|  2|   5|  0|  1| 
 |Royce Lewis       |BAT BENCH |      4|  1|   2|  1|  0| 
@@ -39,11 +39,11 @@
 |Dean Kremer     |SP          |  4| 20.000| 11|  4.950|     32| 1.600| 16|  0|  0| 
 |Hunter Greene   |SP          |  3| 20.000|  1|  0.450|     12| 0.600| 22|  2|  0| 
 |Max Scherzer    |SP          |  4| 18.667|  9|  4.339|     24| 1.286| 22|  1|  0| 
-|Craig Kimbrel   |RP          |  5|  4.667|  6| 11.571|     12| 2.571|  6|  1|  1| 
+|Craig Kimbrel   |RP          |  6|  5.667|  7| 11.118|     14| 2.471|  7|  1|  1| 
 |Raisel Iglesias |RP          |  5|  6.000|  0|  0.000|      3| 0.500|  6|  1|  1| 
 |Erick Fedde     |OP          |  3| 15.333|  5|  2.935|     19| 1.239| 14|  1|  0| 
 |Jake Irvin      |OP          |  4| 22.333| 16|  6.448|     33| 1.478| 17|  1|  0| 
-|James McArthur  |OP          |  6|  6.000|  9| 13.500|     14| 2.333|  4|  0|  2| 
+|James McArthur  |OP          |  7|  7.000|  9| 11.571|     14| 2.000|  4|  0|  3| 
 |José Soriano    |OP          |  4| 21.333|  8|  3.375|     29| 1.359| 15|  2|  0| 
 |Kyle Gibson     |OP          |  4| 20.667| 10|  4.355|     37| 1.790| 17|  1|  0| 
 |Luis Severino   |PITCH BENCH |  3| 17.333|  4|  2.077|     21| 1.212| 17|  2|  0| 

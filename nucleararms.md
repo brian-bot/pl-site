@@ -6,21 +6,21 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Francisco Alvarez |C         |     15|  3|   2|  1|  0| 
-|Salvador Perez    |1B        |     18| 11|  15|  5|  0| 
-|Andrés Giménez    |2B        |     15|  2|   4|  0|  2| 
-|José Ramírez      |3B        |     25|  6|   6|  1|  4| 
-|Paul DeJong       |SS        |     12|  3|   4|  2|  0| 
-|Spencer Horwitz   |MI        |     21|  7|   6|  1|  0| 
+|Salvador Perez    |1B        |     20| 11|  16|  5|  0| 
+|Andrés Giménez    |2B        |     16|  2|   4|  0|  2| 
+|José Ramírez      |3B        |     28|  9|   9|  3|  4| 
+|Paul DeJong       |SS        |     14|  3|   5|  2|  0| 
+|Spencer Horwitz   |MI        |     23|  9|   7|  1|  0| 
 |Alec Burleson     |CI        |     24| 11|  18|  5|  1| 
-|Adolis García     |OF        |     18|  5|   9|  2|  2| 
+|Adolis García     |OF        |     18|  6|  10|  2|  2| 
 |Brent Rooker      |OF        |     33| 18|  21|  7|  3| 
 |Christian Yelich  |OF        |     17|  5|   4|  1|  2| 
-|Nick Castellanos  |OF        |     18|  6|  11|  3|  0| 
-|Alex Verdugo      |DH        |     16|  5|   3|  0|  0| 
+|Nick Castellanos  |OF        |     19|  7|  11|  3|  0| 
+|Alex Verdugo      |DH        |     19|  7|   3|  0|  0| 
 |Jake Cronenworth  |DH        |     16|  5|   6|  2|  0| 
 |Nolan Schanuel    |DH        |     34|  9|   8|  3|  2| 
 |Shohei Ohtani     |DH        |     32| 10|  11|  4|  9| 
-|Giancarlo Stanton |BAT BENCH |     **| **|  **| **| **| 
+|Giancarlo Stanton |BAT BENCH |      1|  1|   0|  0|  0| 
 |Jackson Holliday  |BAT BENCH |     **| **|  **| **| **| 
 |Mike Trout        |BAT BENCH |     **| **|  **| **| **| 
 
