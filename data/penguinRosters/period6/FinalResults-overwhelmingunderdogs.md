@@ -10,7 +10,7 @@
 |Sean Murphy        |C         |     14|  3|   4|  2|  0| 
 |Christian Walker   |1B        |     25|  5|   7|  1|  0| 
 |Jose Altuve        |2B        |     26|  7|   7|  1|  2| 
-|Matt Vierling      |3B        |     26| 12|   7|  2|  2| 
+|Matt Vierling      |3B        |     25| 12|   7|  2|  2| 
 |Jackson Merrill    |SS        |     18|  8|   7|  1|  1| 
 |Anthony Volpe      |MI        |     22| 10|   7|  3|  4| 
 |Josh Bell          |CI        |     28|  7|  14|  6|  0| 
