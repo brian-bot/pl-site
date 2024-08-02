@@ -10,7 +10,7 @@
 |Luis García Jr.   |2B        |      2|  0|   1|  0|  0| 
 |Manny Machado     |3B        |      2|  0|   0|  0|  0| 
 |Corey Seager      |SS        |      1|  0|   0|  0|  0| 
-|Zach Neto         |MI        |      1|  0|   0|  0|  0| 
+|Zach Neto         |MI        |      2|  0|   0|  0|  0| 
 |Ha-Seong Kim      |CI        |      2|  1|   0|  0|  0| 
 |Bryan De La Cruz  |OF        |      2|  1|   0|  0|  0| 
 |Bryan Reynolds    |OF        |      0|  0|   0|  0|  0| 
@@ -36,7 +36,7 @@
 |Logan Gilbert    |SP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Miles Mikolas    |SP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Sean Manaea      |SP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Sonny Gray       |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Sonny Gray       |SP          |  1| 7.000|  2| 2.571|      6| 0.857|  9|  0|  0| 
 |Tyler Anderson   |SP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Clay Holmes      |RP          |  1| 1.000|  0| 0.000|      1| 1.000|  0|  0|  1| 
 |David Bednar     |RP          | **|    **| **|    **|     **|    **| **| **| **| 

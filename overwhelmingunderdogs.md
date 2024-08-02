@@ -8,7 +8,7 @@
 |Jonah Heim         |C         |     **| **|  **| **| **| 
 |Josh Bell          |1B        |     **| **|  **| **| **| 
 |Jose Altuve        |2B        |      0|  0|   0|  0|  0| 
-|Matt Vierling      |3B        |     **| **|  **| **| **| 
+|Matt Vierling      |3B        |      1|  0|   0|  0|  0| 
 |Jackson Merrill    |SS        |      2|  1|   1|  0|  0| 
 |Anthony Volpe      |MI        |      1|  1|   0|  0|  0| 
 |Josh Jung          |CI        |      0|  0|   0|  0|  0| 
@@ -23,7 +23,7 @@
 |Christian Walker   |BAT BENCH |     **| **|  **| **| **| 
 |Fernando Tatis Jr. |BAT BENCH |     **| **|  **| **| **| 
 |MJ Melendez        |BAT BENCH |      0|  1|   1|  0|  0| 
-|Sean Murphy        |BAT BENCH |     **| **|  **| **| **| 
+|Sean Murphy        |BAT BENCH |      1|  0|   0|  0|  0| 
 |Triston Casas      |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -44,7 +44,7 @@
 |Paul Sewald   |RP          |  1| 0.333|  2| 54.000|      4| 12.000|  0|  0|  0| 
 |Aaron Civale  |OP          | **|    **| **|     **|     **|     **| **| **| **| 
 |Michael Wacha |OP          | **|    **| **|     **|     **|     **| **| **| **| 
-|Ryan Helsley  |OP          | **|    **| **|     **|     **|     **| **| **| **| 
+|Ryan Helsley  |OP          |  1| 0.667|  3| 40.500|      4|  6.000|  0|  0|  0| 
 |Ryan Pepiot   |OP          | **|    **| **|     **|     **|     **| **| **| **| 
 |Tobias Myers  |OP          | **|    **| **|     **|     **|     **| **| **| **| 
 |Jesús Luzardo |PITCH BENCH | **|    **| **|     **|     **|     **| **| **| **| 

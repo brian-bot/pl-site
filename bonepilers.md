@@ -8,16 +8,16 @@
 |Cal Raleigh       |C         |      2|  1|   0|  0|  0| 
 |Bryce Harper      |1B        |      0|  0|   0|  0|  0| 
 |Brice Turang      |2B        |      0|  0|   0|  0|  0| 
-|Nolan Arenado     |3B        |      2|  2|   0|  0|  0| 
-|Dansby Swanson    |SS        |      1|  0|   0|  0|  0| 
+|Nolan Arenado     |3B        |      4|  2|   1|  0|  0| 
+|Dansby Swanson    |SS        |      4|  1|   2|  0|  0| 
 |Nick Gonzales     |MI        |     **| **|  **| **| **| 
-|Josh Naylor       |CI        |     **| **|  **| **| **| 
+|Josh Naylor       |CI        |      4|  2|   1|  0|  0| 
 |Jazz Chisholm Jr. |OF        |      1|  1|   0|  0|  0| 
 |Josh Lowe         |OF        |      3|  0|   0|  0|  1| 
 |Kyle Schwarber    |OF        |      3|  1|   0|  0|  0| 
 |Randy Arozarena   |OF        |      2|  0|   0|  0|  0| 
 |Joey Loperfido    |DH        |      1|  0|   0|  0|  0| 
-|Lane Thomas       |DH        |     **| **|  **| **| **| 
+|Lane Thomas       |DH        |      3|  2|   0|  0|  0| 
 |Patrick Bailey    |DH        |      0|  0|   0|  0|  0| 
 |Rhys Hoskins      |DH        |      1|  1|   0|  0|  0| 
 |Evan Carter       |BAT BENCH |     **| **|  **| **| **| 
@@ -33,7 +33,7 @@
 |:------------------|:-----------|--:|-----:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Cristopher Sánchez |SP          |  1| 5.667|  6| 9.529|      9| 1.588|  7|  0|  0| 
 |Kutter Crawford    |SP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Shota Imanaga      |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Shota Imanaga      |SP          |  1| 6.667|  4| 5.400|     10| 1.500|  7|  0|  0| 
 |Tanner Bibee       |SP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Tarik Skubal       |SP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Zack Wheeler       |SP          | **|    **| **|    **|     **|    **| **| **| **| 

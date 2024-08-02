@@ -5,25 +5,25 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman    |C         |     **| **|  **| **| **| 
+|Adley Rutschman    |C         |      0|  0|   1|  0|  0| 
 |Pete Alonso        |1B        |      0|  0|   0|  0|  0| 
-|Nico Hoerner       |2B        |      2|  2|   1|  0|  1| 
+|Nico Hoerner       |2B        |      4|  3|   1|  0|  2| 
 |Elly De La Cruz    |3B        |      1|  0|   0|  0|  0| 
 |CJ Abrams          |SS        |      1|  1|   1|  0|  0| 
 |Ketel Marte        |MI        |      1|  0|   0|  0|  0| 
-|Jake Burger        |CI        |      1|  1|   2|  1|  0| 
+|Jake Burger        |CI        |      4|  1|   3|  1|  0| 
 |Heliot Ramos       |OF        |      0|  0|   0|  0|  0| 
 |Juan Soto          |OF        |      2|  0|   0|  0|  0| 
 |Lawrence Butler    |OF        |      0|  0|   0|  0|  0| 
-|Marcell Ozuna      |OF        |      0|  0|   0|  0|  0| 
+|Marcell Ozuna      |OF        |      2|  1|   0|  0|  0| 
 |James Wood         |DH        |      3|  1|   0|  0|  0| 
 |Juan Yepez         |DH        |      2|  1|   0|  0|  0| 
 |Miguel Andujar     |DH        |      2|  0|   0|  0|  0| 
-|Wenceel Pérez      |DH        |     **| **|  **| **| **| 
+|Wenceel Pérez      |DH        |      2|  0|   0|  0|  0| 
 |Mitch Garver       |BAT BENCH |      0|  0|   0|  0|  0| 
 |Riley Greene       |BAT BENCH |     **| **|  **| **| **| 
 |Sal Frelick        |BAT BENCH |      2|  0|   0|  0|  0| 
-|Vinnie Pasquantino |BAT BENCH |      2|  1|   3|  1|  0| 
+|Vinnie Pasquantino |BAT BENCH |      4|  3|   7|  3|  0| 
 
 
 * * *

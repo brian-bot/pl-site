@@ -10,16 +10,16 @@
 |Gleyber Torres        |2B        |      0|  0|   0|  0|  0| 
 |Matt Chapman          |3B        |      2|  0|   0|  0|  0| 
 |Willy Adames          |SS        |      0|  0|   0|  0|  0| 
-|Maikel Garcia         |MI        |      2|  2|   0|  0|  1| 
+|Maikel Garcia         |MI        |      3|  3|   0|  0|  3| 
 |Vladimir Guerrero Jr. |CI        |      1|  0|   1|  0|  0| 
 |Brenton Doyle         |OF        |      1|  1|   1|  1|  0| 
 |Ian Happ              |OF        |      4|  3|   2|  1|  0| 
 |Jurickson Profar      |OF        |      2|  0|   2|  0|  0| 
-|Seiya Suzuki          |OF        |      2|  1|   3|  0|  0| 
-|Cody Bellinger        |DH        |      3|  2|   2|  0|  0| 
-|Colton Cowser         |DH        |      2|  2|   1|  1|  0| 
-|Jarred Kelenic        |DH        |      0|  1|   0|  0|  0| 
-|Michael Toglia        |DH        |      0|  0|   0|  0|  0| 
+|Seiya Suzuki          |OF        |      4|  2|   4|  1|  0| 
+|Cody Bellinger        |DH        |      5|  4|   3|  1|  0| 
+|Colton Cowser         |DH        |      4|  3|   1|  1|  0| 
+|Jarred Kelenic        |DH        |      1|  1|   0|  0|  0| 
+|Michael Toglia        |DH        |      2|  1|   2|  1|  0| 
 |Gavin Lux             |BAT BENCH |      2|  0|   1|  0|  0| 
 |Kyle Tucker           |BAT BENCH |     **| **|  **| **| **| 
 |Max Muncy             |BAT BENCH |     **| **|  **| **| **| 
@@ -38,13 +38,13 @@
 |Jack Flaherty  |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Michael King   |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Nathan Eovaldi |SP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Seth Lugo      |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Seth Lugo      |SP          |  1| 8.000|  1|  1.125|      5| 0.625|  3|  1|  0| 
 |Taj Bradley    |SP          |  1| 5.000|  4|  7.200|      5| 1.000|  6|  0|  0| 
 |Chad Green     |RP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Edwin Díaz     |RP          | **|    **| **|     **|     **|    **| **| **| **| 
 |A.J. Puk       |OP          |  1| 1.000|  0|  0.000|      0| 0.000|  1|  0|  0| 
 |Andrew Heaney  |OP          |  1| 4.333|  6| 12.462|      7| 1.615|  2|  0|  0| 
-|Charlie Morton |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Charlie Morton |OP          |  1| 6.000|  0|  0.000|      7| 1.167|  6|  1|  0| 
 |Gavin Williams |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Luis Gil       |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |David Festa    |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
