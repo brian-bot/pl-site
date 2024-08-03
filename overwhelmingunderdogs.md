@@ -6,19 +6,19 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Jonah Heim         |C         |     **| **|  **| **| **| 
-|Josh Bell          |1B        |     **| **|  **| **| **| 
+|Josh Bell          |1B        |      2|  2|   2|  2|  0| 
 |Jose Altuve        |2B        |      0|  0|   0|  0|  0| 
-|Matt Vierling      |3B        |      1|  0|   0|  0|  0| 
+|Matt Vierling      |3B        |      3|  1|   0|  0|  0| 
 |Jackson Merrill    |SS        |      2|  1|   1|  0|  0| 
-|Anthony Volpe      |MI        |      1|  1|   0|  0|  0| 
+|Anthony Volpe      |MI        |      4|  2|   2|  1|  0| 
 |Josh Jung          |CI        |      0|  0|   0|  0|  0| 
-|Brendan Donovan    |OF        |      2|  1|   3|  0|  0| 
-|Corbin Carroll     |OF        |      1|  1|   1|  0|  0| 
-|Mark Canha         |OF        |     **| **|  **| **| **| 
+|Brendan Donovan    |OF        |      4|  1|   4|  0|  0| 
+|Corbin Carroll     |OF        |      2|  2|   1|  0|  0| 
+|Mark Canha         |OF        |      3|  0|   0|  0|  0| 
 |Spencer Steer      |OF        |      0|  0|   0|  0|  0| 
 |Jonathan India     |DH        |      0|  0|   0|  0|  0| 
 |Jorge Polanco      |DH        |      1|  0|   0|  0|  0| 
-|Justin Turner      |DH        |      2|  0|   0|  0|  0| 
+|Justin Turner      |DH        |      4|  1|   4|  1|  0| 
 |Xander Bogaerts    |DH        |      1|  1|   1|  0|  0| 
 |Christian Walker   |BAT BENCH |     **| **|  **| **| **| 
 |Fernando Tatis Jr. |BAT BENCH |     **| **|  **| **| **| 
@@ -48,7 +48,7 @@
 |Ryan Pepiot   |OP          | **|    **| **|     **|     **|     **| **| **| **| 
 |Tobias Myers  |OP          | **|    **| **|     **|     **|     **| **| **| **| 
 |Jesús Luzardo |PITCH BENCH | **|    **| **|     **|     **|     **| **| **| **| 
-|José Alvarado |PITCH BENCH | **|    **| **|     **|     **|     **| **| **| **| 
+|José Alvarado |PITCH BENCH |  1| 1.000|  1|  9.000|      1|  1.000|  1|  0|  0| 
 
 
 * * *
