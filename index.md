@@ -2,21 +2,21 @@
 
 ## Period 7 scores
 
-Through games on 2024-08-02 ([website build status](https://github.com/brian-bot/pl-site/actions))
+Through games on 2024-08-03 ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 
-|team                   | points|  r| hitsbb| hr| rbi| sb|  w| sv| so|    era|  whip|
-|:----------------------|------:|--:|------:|--:|---:|--:|--:|--:|--:|------:|-----:|
-|[Washington Generals](./washingtongenerals)|   48.0| 18|     46|  5|  12|  2|  0|  2| 25|  6.671| 1.659|
-|[Vass Deferens](./vassdeferens)|   62.0| 18|     44|  6|  15|  3|  3|  0| 28|  4.667| 1.148|
-|[Mean Wieners](./meanwieners)|   51.5| 13|     32|  5|  12|  1|  2|  0| 23|  2.700| 0.900|
-|[Wonderbots](./wonderbots)|   47.0| 20|     43|  5|  11|  1|  1|  1| 17|  4.569| 1.523|
-|[Bone Pilers](./bonepilers)|   48.0| 20|     45|  0|   8|  1|  1|  1| 34|  6.457| 1.402|
-|[Boys of Summer](./boysofsummer)|   68.0| 21|     43|  4|  12|  4|  5|  0| 38|  2.939| 1.061|
-|[T and A](./tanda)     |   76.0| 18|     56|  9|  30|  5|  1|  1| 41|  5.672| 1.361|
-|[Terminoeckers](./terminoeckers)|   83.0| 25|     51|  6|  18|  3|  3|  1| 31|  4.547| 1.042|
-|[Overwhelming Underdogs](./overwhelmingunderdogs)|   23.0| 11|     26|  4|  15|  0|  1|  0| 13| 10.658| 1.974|
-|[Nuclear Arms](./nucleararms)|   43.5| 20|     40|  5|  25|  0|  0|  0| 18|  4.629| 1.500|
+|team                   | points|  r| hitsbb| hr| rbi| sb|  w| sv| so|   era|  whip|
+|:----------------------|------:|--:|------:|--:|---:|--:|--:|--:|--:|-----:|-----:|
+|[Washington Generals](./washingtongenerals)|   40.0| 25|     60|  6|  14|  2|  1|  2| 40| 5.357| 1.405|
+|[Vass Deferens](./vassdeferens)|   62.0| 25|     60|  8|  23|  4|  4|  1| 43| 4.829| 1.098|
+|[Mean Wieners](./meanwieners)|   47.0| 18|     44|  6|  17|  1|  4|  0| 47| 3.797| 1.125|
+|[Wonderbots](./wonderbots)|   58.0| 32|     64|  8|  21|  4|  1|  3| 20| 4.696| 1.565|
+|[Bone Pilers](./bonepilers)|   45.0| 27|     67|  3|  14|  1|  2|  2| 39| 5.445| 1.286|
+|[Boys of Summer](./boysofsummer)|   57.0| 25|     59|  4|  17|  4|  5|  0| 46| 3.580| 1.127|
+|[T and A](./tanda)     |   79.5| 29|     84| 10|  39|  7|  2|  1| 58| 4.355| 1.219|
+|[Terminoeckers](./terminoeckers)|   74.0| 33|     64| 10|  25|  3|  4|  1| 38| 3.823| 1.035|
+|[Overwhelming Underdogs](./overwhelmingunderdogs)|   32.5| 20|     48|  7|  25|  0|  1|  2| 22| 8.877| 1.767|
+|[Nuclear Arms](./nucleararms)|   55.0| 29|     63|  7|  30|  3|  0|  2| 32| 4.576| 1.373|
 
 * * *
 * * *
