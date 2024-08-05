@@ -6,20 +6,20 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith        |C         |      2|  1|   1|  0|  0| 
-|Ryan Mountcastle  |1B        |      3|  1|   3|  0|  0| 
-|Isaac Paredes     |2B        |      3|  3|   0|  0|  0| 
-|Rafael Devers     |3B        |      7|  3|   2|  1|  0| 
-|Bobby Witt Jr.    |SS        |      8|  6|   3|  1|  2| 
-|Trea Turner       |MI        |      2|  1|   0|  0|  0| 
+|Ryan Mountcastle  |1B        |      4|  1|   4|  0|  0| 
+|Isaac Paredes     |2B        |      5|  4|   0|  0|  0| 
+|Rafael Devers     |3B        |      8|  4|   2|  1|  0| 
+|Bobby Witt Jr.    |SS        |      9|  6|   3|  1|  2| 
+|Trea Turner       |MI        |      3|  2|   0|  0|  0| 
 |Josh Smith        |CI        |      4|  1|   1|  0|  0| 
 |Christopher Morel |OF        |      5|  1|   1|  1|  0| 
-|Jake McCarthy     |OF        |      3|  1|   0|  0|  2| 
-|Joc Pederson      |OF        |      5|  1|   2|  1|  0| 
-|Ryan O'Hearn      |OF        |      4|  2|   2|  0|  0| 
-|Colt Keith        |DH        |      3|  1|   0|  0|  0| 
-|Jose Miranda      |DH        |      3|  0|   0|  0|  0| 
-|Luis Arraez       |DH        |      2|  1|   1|  0|  0| 
-|Yainer Diaz       |DH        |      5|  2|   1|  0|  0| 
+|Jake McCarthy     |OF        |      5|  1|   1|  0|  2| 
+|Joc Pederson      |OF        |      7|  3|   5|  2|  0| 
+|Ryan O'Hearn      |OF        |      5|  2|   3|  0|  0| 
+|Colt Keith        |DH        |      5|  1|   0|  0|  0| 
+|Jose Miranda      |DH        |      6|  2|   1|  0|  0| 
+|Luis Arraez       |DH        |      3|  2|   1|  0|  0| 
+|Yainer Diaz       |DH        |      6|  2|   1|  0|  0| 
 |Amed Rosario      |BAT BENCH |      2|  1|   1|  0|  0| 
 |Carlos Correa     |BAT BENCH |     **| **|  **| **| **| 
 |David Fry         |BAT BENCH |      3|  2|   3|  1|  0| 
@@ -45,7 +45,7 @@
 |Blake Snell             |OP          |  1| 9.000|  0|  0.000|      3| 0.333| 11|  1|  0| 
 |James McArthur          |OP          |  2| 1.667|  1|  5.400|      4| 2.400|  0|  0|  0| 
 |Kyle Harrison           |OP          |  1| 3.667|  6| 14.727|      7| 1.909|  4|  0|  0| 
-|Simeon Woods Richardson |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Simeon Woods Richardson |OP          |  1| 4.000|  3|  6.750|      9| 2.250|  6|  0|  0| 
 |Hayden Birdsong         |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Mason Miller            |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 

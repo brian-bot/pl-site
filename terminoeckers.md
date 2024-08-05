@@ -7,24 +7,24 @@
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
 |Tyler Stephenson      |C         |      4|  3|   4|  2|  0| 
 |Freddie Freeman       |1B        |     **| **|  **| **| **| 
-|Gleyber Torres        |2B        |      3|  1|   0|  0|  0| 
-|Matt Chapman          |3B        |      5|  2|   1|  1|  0| 
-|Willy Adames          |SS        |      3|  1|   0|  0|  0| 
-|Maikel Garcia         |MI        |      4|  4|   0|  0|  3| 
-|Vladimir Guerrero Jr. |CI        |      8|  3|   3|  1|  0| 
-|Brenton Doyle         |OF        |      3|  2|   1|  1|  0| 
+|Gleyber Torres        |2B        |      5|  1|   0|  0|  0| 
+|Matt Chapman          |3B        |      7|  4|   3|  2|  0| 
+|Willy Adames          |SS        |      4|  1|   0|  0|  0| 
+|Maikel Garcia         |MI        |      6|  4|   0|  0|  3| 
+|Vladimir Guerrero Jr. |CI        |      9|  3|   3|  1|  0| 
+|Brenton Doyle         |OF        |      4|  3|   2|  2|  0| 
 |Ian Happ              |OF        |      5|  4|   2|  1|  0| 
-|Jurickson Profar      |OF        |      3|  0|   2|  0|  0| 
-|Seiya Suzuki          |OF        |      6|  3|   4|  1|  0| 
-|Cody Bellinger        |DH        |      6|  4|   3|  1|  0| 
-|Colton Cowser         |DH        |      8|  3|   3|  1|  0| 
+|Jurickson Profar      |OF        |      6|  3|   3|  1|  0| 
+|Seiya Suzuki          |OF        |      9|  3|   4|  1|  0| 
+|Cody Bellinger        |DH        |      6|  4|   4|  1|  0| 
+|Colton Cowser         |DH        |     11|  6|   3|  1|  0| 
 |Jarred Kelenic        |DH        |      3|  2|   0|  0|  0| 
-|Michael Toglia        |DH        |      3|  1|   2|  1|  0| 
-|Gavin Lux             |BAT BENCH |      5|  1|   3|  0|  0| 
+|Michael Toglia        |DH        |      5|  1|   2|  1|  0| 
+|Gavin Lux             |BAT BENCH |      7|  2|   3|  0|  0| 
 |Kyle Tucker           |BAT BENCH |     **| **|  **| **| **| 
 |Max Muncy             |BAT BENCH |     **| **|  **| **| **| 
 |Michael Harris II     |BAT BENCH |     **| **|  **| **| **| 
-|Tyler Fitzgerald      |BAT BENCH |      3|  1|   2|  1|  0| 
+|Tyler Fitzgerald      |BAT BENCH |      6|  3|   4|  2|  0| 
 
 
 * * *
@@ -37,18 +37,18 @@
 |Framber Valdez |SP          |  1| 6.000|  4|  6.000|      6| 1.000| 10|  1|  0| 
 |Jack Flaherty  |SP          |  1| 6.000|  0|  0.000|      6| 1.000|  7|  1|  0| 
 |Michael King   |SP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Nathan Eovaldi |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Nathan Eovaldi |SP          |  1| 5.000|  5|  9.000|      8| 1.600|  7|  0|  0| 
 |Seth Lugo      |SP          |  1| 8.000|  1|  1.125|      5| 0.625|  3|  1|  0| 
 |Taj Bradley    |SP          |  1| 5.000|  4|  7.200|      5| 1.000|  6|  0|  0| 
-|Chad Green     |RP          |  1| 1.000|  0|  0.000|      0| 0.000|  3|  0|  1| 
+|Chad Green     |RP          |  2| 2.333|  0|  0.000|      2| 0.857|  3|  0|  1| 
 |Edwin Díaz     |RP          | **|    **| **|     **|     **|    **| **| **| **| 
-|A.J. Puk       |OP          |  2| 1.333|  1|  6.750|      3| 2.250|  1|  0|  0| 
+|A.J. Puk       |OP          |  3| 2.000|  1|  4.500|      3| 1.500|  2|  0|  1| 
 |Andrew Heaney  |OP          |  1| 4.333|  6| 12.462|      7| 1.615|  2|  0|  0| 
 |Charlie Morton |OP          |  1| 6.000|  0|  0.000|      7| 1.167|  6|  1|  0| 
-|Gavin Williams |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Gavin Williams |OP          |  1| 4.000|  6| 13.500|     10| 2.500|  8|  0|  0| 
 |Luis Gil       |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |David Festa    |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
-|River Ryan     |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|River Ryan     |PITCH BENCH |  1| 4.667|  2|  3.857|      8| 1.714|  4|  0|  0| 
 
 
 * * *

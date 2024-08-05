@@ -5,23 +5,23 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Shea Langeliers     |C         |      1|  1|   1|  1|  0| 
+|Shea Langeliers     |C         |      2|  1|   1|  1|  0| 
 |Paul Goldschmidt    |1B        |      7|  3|   2|  1|  0| 
-|Bryson Stott        |2B        |      2|  0|   0|  0|  0| 
-|Jeimer Candelario   |3B        |      3|  1|   0|  0|  0| 
-|Francisco Lindor    |SS        |      4|  2|   0|  0|  0| 
-|Masyn Winn          |MI        |      6|  1|   2|  1|  0| 
+|Bryson Stott        |2B        |      3|  1|   1|  1|  0| 
+|Jeimer Candelario   |3B        |      4|  2|   1|  1|  0| 
+|Francisco Lindor    |SS        |      6|  2|   1|  0|  1| 
+|Masyn Winn          |MI        |      7|  2|   4|  2|  0| 
 |Alex Bregman        |CI        |      3|  0|   0|  0|  0| 
-|Brandon Nimmo       |OF        |      5|  2|   0|  0|  1| 
+|Brandon Nimmo       |OF        |      6|  2|   0|  0|  1| 
 |George Springer     |OF        |      4|  2|   0|  0|  0| 
-|Lourdes Gurriel Jr. |OF        |      3|  1|   0|  0|  0| 
-|Steven Kwan         |OF        |      6|  4|   1|  0|  1| 
-|Austin Riley        |DH        |      4|  2|   4|  1|  0| 
-|Eugenio Suárez      |DH        |      4|  3|   0|  0|  0| 
-|JJ Bleday           |DH        |      5|  1|   1|  0|  0| 
-|Michael Busch       |DH        |      3|  2|   3|  2|  0| 
+|Lourdes Gurriel Jr. |OF        |      4|  1|   0|  0|  1| 
+|Steven Kwan         |OF        |     10|  6|   2|  0|  3| 
+|Austin Riley        |DH        |      7|  2|   4|  1|  0| 
+|Eugenio Suárez      |DH        |      5|  3|   0|  0|  0| 
+|JJ Bleday           |DH        |      7|  2|   1|  0|  0| 
+|Michael Busch       |DH        |      4|  2|   4|  2|  0| 
 |Bo Bichette         |BAT BENCH |     **| **|  **| **| **| 
-|J.T. Realmuto       |BAT BENCH |      2|  0|   0|  0|  0| 
+|J.T. Realmuto       |BAT BENCH |      3|  0|   1|  0|  0| 
 
 
 * * *

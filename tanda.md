@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Logan O'Hoppe     |C         |      5|  2|   3|  2|  0| 
-|Anthony Santander |1B        |      5|  4|   3|  1|  0| 
-|Marcus Semien     |2B        |      5|  1|   3|  1|  0| 
-|Royce Lewis       |3B        |      7|  2|   5|  1|  0| 
-|Gunnar Henderson  |SS        |      8|  4|   3|  0|  0| 
+|Logan O'Hoppe     |C         |      7|  2|   3|  2|  0| 
+|Anthony Santander |1B        |      7|  6|   3|  1|  1| 
+|Marcus Semien     |2B        |      6|  1|   3|  1|  0| 
+|Royce Lewis       |3B        |     10|  5|   8|  2|  0| 
+|Gunnar Henderson  |SS        |     12|  7|   5|  1|  0| 
 |Oneil Cruz        |MI        |      7|  2|   2|  0|  2| 
 |Matt Olson        |CI        |      8|  4|   5|  3|  0| 
-|J.D. Martinez     |OF        |      7|  1|   5|  1|  0| 
-|Jackson Chourio   |OF        |      5|  2|   2|  0|  1| 
-|Jarren Duran      |OF        |      6|  1|   0|  0|  1| 
-|Jorge Soler       |OF        |      4|  1|   1|  0|  0| 
-|Brandon Lowe      |DH        |      4|  1|   2|  0|  0| 
+|J.D. Martinez     |OF        |      8|  1|   5|  1|  0| 
+|Jackson Chourio   |OF        |      7|  2|   2|  0|  1| 
+|Jarren Duran      |OF        |     10|  2|   2|  1|  3| 
+|Jorge Soler       |OF        |      5|  1|   1|  0|  0| 
+|Brandon Lowe      |DH        |      6|  1|   3|  0|  0| 
 |Ceddanne Rafaela  |DH        |      5|  2|   2|  1|  1| 
 |Luis Rengifo      |DH        |      0|  0|   0|  0|  0| 
-|Xavier Edwards    |DH        |      8|  2|   3|  0|  2| 
+|Xavier Edwards    |DH        |     10|  3|   4|  0|  2| 
 |Julio Rodríguez   |BAT BENCH |     **| **|  **| **| **| 
-|Zack Gelof        |BAT BENCH |      0|  0|   0|  0|  0| 
+|Zack Gelof        |BAT BENCH |      1|  0|   0|  0|  1| 
 
 
 * * *
@@ -36,7 +36,7 @@
 |Erick Fedde     |SP          |  1| 5.000|  5|  9.000|      6| 1.200|  4|  0|  0| 
 |Hunter Greene   |SP          |  1| 6.000|  0|  0.000|      2| 0.333| 11|  1|  0| 
 |Luis Severino   |SP          |  1| 3.000|  6| 18.000|      8| 2.667|  2|  0|  0| 
-|Robbie Ray      |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Robbie Ray      |SP          |  1| 5.000|  2|  3.600|      4| 0.800|  9|  1|  0| 
 |Craig Kimbrel   |RP          |  2| 2.000|  0|  0.000|      3| 1.500|  3|  0|  0| 
 |Raisel Iglesias |RP          |  2| 2.000|  0|  0.000|      0| 0.000|  3|  0|  1| 
 |Dean Kremer     |OP          |  1| 5.000|  4|  7.200|      8| 1.600|  2|  0|  0| 

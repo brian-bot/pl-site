@@ -5,25 +5,25 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman    |C         |      3|  1|   3|  0|  0| 
-|Pete Alonso        |1B        |      4|  1|   2|  1|  0| 
-|Nico Hoerner       |2B        |      7|  5|   1|  0|  3| 
-|Elly De La Cruz    |3B        |      1|  0|   0|  0|  0| 
-|CJ Abrams          |SS        |      2|  2|   3|  1|  0| 
-|Ketel Marte        |MI        |      4|  2|   3|  2|  0| 
-|Jake Burger        |CI        |      7|  3|   6|  3|  0| 
+|Adley Rutschman    |C         |      5|  1|   6|  0|  0| 
+|Pete Alonso        |1B        |      5|  1|   2|  1|  0| 
+|Nico Hoerner       |2B        |      8|  6|   1|  0|  3| 
+|Elly De La Cruz    |3B        |      2|  0|   0|  0|  2| 
+|CJ Abrams          |SS        |      3|  3|   3|  1|  0| 
+|Ketel Marte        |MI        |      5|  3|   5|  3|  0| 
+|Jake Burger        |CI        |      8|  3|   7|  3|  0| 
 |Heliot Ramos       |OF        |      1|  0|   0|  0|  0| 
-|Juan Soto          |OF        |      5|  3|   0|  0|  0| 
-|Lawrence Butler    |OF        |      2|  1|   0|  0|  0| 
-|Marcell Ozuna      |OF        |      3|  2|   2|  1|  0| 
-|James Wood         |DH        |      6|  2|   1|  0|  1| 
-|Juan Yepez         |DH        |      5|  1|   0|  0|  0| 
-|Miguel Andujar     |DH        |      6|  1|   1|  0|  0| 
-|Wenceel Pérez      |DH        |      4|  1|   1|  0|  0| 
+|Juan Soto          |OF        |      9|  4|   1|  1|  0| 
+|Lawrence Butler    |OF        |      2|  1|   0|  0|  1| 
+|Marcell Ozuna      |OF        |      4|  2|   2|  1|  0| 
+|James Wood         |DH        |      8|  2|   4|  0|  1| 
+|Juan Yepez         |DH        |      6|  2|   0|  0|  0| 
+|Miguel Andujar     |DH        |      8|  1|   1|  0|  1| 
+|Wenceel Pérez      |DH        |      5|  1|   1|  0|  0| 
 |Mitch Garver       |BAT BENCH |      0|  0|   0|  0|  0| 
 |Riley Greene       |BAT BENCH |     **| **|  **| **| **| 
 |Sal Frelick        |BAT BENCH |      5|  4|   0|  0|  0| 
-|Vinnie Pasquantino |BAT BENCH |      8|  5|  10|  4|  1| 
+|Vinnie Pasquantino |BAT BENCH |      9|  5|  10|  4|  1| 
 
 
 * * *
@@ -41,10 +41,10 @@
 |Zac Gallen       |SP          |  1| 6.000|  1|  1.500|      7| 1.167|  6|  1|  0| 
 |Emmanuel Clase   |RP          |  1| 1.000|  0|  0.000|      1| 1.000|  2|  0|  0| 
 |Robert Suarez    |RP          |  1| 1.000|  0|  0.000|      0| 0.000|  1|  0|  1| 
-|Jose Quintana    |OP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Mitchell Parker  |OP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Paul Skenes      |OP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Pete Fairbanks   |OP          |  1| 1.000|  0|  0.000|      0| 0.000|  0|  0|  0| 
+|Jose Quintana    |OP          |  1| 5.000|  3|  5.400|      7| 1.400|  4|  0|  0| 
+|Mitchell Parker  |OP          |  1| 6.000|  0|  0.000|      6| 1.000|  3|  1|  0| 
+|Paul Skenes      |OP          |  1| 5.333|  2|  3.375|      8| 1.500|  4|  0|  0| 
+|Pete Fairbanks   |OP          |  2| 2.000|  0|  0.000|      0| 0.000|  2|  0|  1| 
 |Tyler Phillips   |OP          |  1| 1.667|  8| 43.200|      8| 4.800|  1|  0|  0| 
 |Michael Lorenzen |PITCH BENCH |  1| 5.667|  1|  1.588|      7| 1.235|  5|  0|  0| 
 |Mitch Spence     |PITCH BENCH |  1| 5.667|  2|  3.176|      8| 1.412|  6|  0|  0| 
