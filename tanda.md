@@ -7,21 +7,21 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Logan O'Hoppe     |C         |      7|  2|   3|  2|  0| 
 |Anthony Santander |1B        |      7|  6|   3|  1|  1| 
-|Marcus Semien     |2B        |      6|  1|   3|  1|  0| 
-|Royce Lewis       |3B        |     10|  5|   8|  2|  0| 
+|Marcus Semien     |2B        |      7|  1|   3|  1|  0| 
+|Royce Lewis       |3B        |     10|  5|   9|  2|  0| 
 |Gunnar Henderson  |SS        |     12|  7|   5|  1|  0| 
 |Oneil Cruz        |MI        |      7|  2|   2|  0|  2| 
 |Matt Olson        |CI        |      8|  4|   5|  3|  0| 
 |J.D. Martinez     |OF        |      8|  1|   5|  1|  0| 
 |Jackson Chourio   |OF        |      7|  2|   2|  0|  1| 
-|Jarren Duran      |OF        |     10|  2|   2|  1|  3| 
+|Jarren Duran      |OF        |     11|  2|   5|  1|  4| 
 |Jorge Soler       |OF        |      5|  1|   1|  0|  0| 
 |Brandon Lowe      |DH        |      6|  1|   3|  0|  0| 
-|Ceddanne Rafaela  |DH        |      5|  2|   2|  1|  1| 
+|Ceddanne Rafaela  |DH        |      7|  3|   2|  1|  1| 
 |Luis Rengifo      |DH        |      0|  0|   0|  0|  0| 
-|Xavier Edwards    |DH        |     10|  3|   4|  0|  2| 
+|Xavier Edwards    |DH        |     12|  4|   4|  0|  3| 
 |Julio Rodríguez   |BAT BENCH |     **| **|  **| **| **| 
-|Zack Gelof        |BAT BENCH |      1|  0|   0|  0|  1| 
+|Zack Gelof        |BAT BENCH |      3|  2|   0|  0|  2| 
 
 
 * * *

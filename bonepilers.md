@@ -6,18 +6,18 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Cal Raleigh       |C         |      8|  2|   0|  0|  0| 
-|Bryce Harper      |1B        |      5|  1|   2|  1|  0| 
+|Bryce Harper      |1B        |      6|  1|   2|  1|  0| 
 |Brice Turang      |2B        |      3|  0|   1|  0|  0| 
-|Nolan Arenado     |3B        |      8|  3|   3|  0|  0| 
-|Dansby Swanson    |SS        |      7|  2|   3|  0|  0| 
+|Nolan Arenado     |3B        |      9|  3|   3|  0|  0| 
+|Dansby Swanson    |SS        |      8|  2|   3|  0|  0| 
 |Nick Gonzales     |MI        |     **| **|  **| **| **| 
-|Josh Naylor       |CI        |      9|  4|   6|  1|  0| 
+|Josh Naylor       |CI        |     10|  5|   7|  1|  0| 
 |Jazz Chisholm Jr. |OF        |      5|  2|   0|  0|  1| 
 |Josh Lowe         |OF        |      8|  2|   3|  2|  1| 
-|Kyle Schwarber    |OF        |     10|  4|   1|  1|  0| 
+|Kyle Schwarber    |OF        |     12|  5|   1|  1|  0| 
 |Randy Arozarena   |OF        |      7|  4|   0|  0|  0| 
 |Joey Loperfido    |DH        |      5|  3|   0|  0|  0| 
-|Lane Thomas       |DH        |      5|  2|   0|  0|  0| 
+|Lane Thomas       |DH        |      6|  3|   0|  0|  0| 
 |Patrick Bailey    |DH        |      1|  1|   0|  0|  0| 
 |Rhys Hoskins      |DH        |      4|  3|   2|  1|  0| 
 |Evan Carter       |BAT BENCH |     **| **|  **| **| **| 
@@ -38,7 +38,7 @@
 |Tarik Skubal       |SP          |  1| 6.333|  5| 7.105|      9| 1.421|  8|  0|  0| 
 |Zack Wheeler       |SP          |  1| 8.000|  0| 0.000|      3| 0.375|  9|  1|  0| 
 |Blake Treinen      |RP          |  2| 2.000|  0| 0.000|      1| 0.500|  1|  0|  0| 
-|Kirby Yates        |RP          |  1| 1.333|  0| 0.000|      2| 1.500|  2|  0|  1| 
+|Kirby Yates        |RP          |  2| 3.333|  0| 0.000|      3| 0.900|  6|  1|  1| 
 |Christian Scott    |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Gerrit Cole        |OP          |  1| 5.667|  2| 3.176|      6| 1.059|  4|  0|  0| 
 |Héctor Neris       |OP          |  2| 2.333|  1| 3.857|      2| 0.857|  2|  0|  1| 
@@ -46,7 +46,7 @@
 |Zack Littell       |OP          |  1| 5.667|  1| 1.588|      5| 0.882|  3|  1|  0| 
 |Casey Mize         |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
 |Merrill Kelly      |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
-|Ryne Stanek        |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
+|Ryne Stanek        |PITCH BENCH |  1| 1.000|  0| 0.000|      1| 1.000|  1|  0|  0| 
 
 
 * * *

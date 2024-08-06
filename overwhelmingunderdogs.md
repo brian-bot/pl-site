@@ -6,17 +6,17 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Jonah Heim         |C         |      2|  2|   3|  1|  0| 
-|Josh Bell          |1B        |      4|  2|   2|  2|  0| 
-|Jose Altuve        |2B        |      3|  0|   0|  0|  0| 
+|Josh Bell          |1B        |      6|  3|   2|  2|  0| 
+|Jose Altuve        |2B        |      5|  2|   0|  0|  0| 
 |Matt Vierling      |3B        |      5|  1|   1|  0|  0| 
 |Jackson Merrill    |SS        |      4|  2|   3|  0|  0| 
 |Anthony Volpe      |MI        |      7|  5|   5|  2|  1| 
-|Josh Jung          |CI        |      3|  2|   1|  1|  0| 
-|Brendan Donovan    |OF        |      8|  2|   4|  0|  0| 
-|Corbin Carroll     |OF        |      6|  4|   1|  0|  0| 
-|Mark Canha         |OF        |      3|  0|   0|  0|  0| 
-|Spencer Steer      |OF        |      1|  1|   0|  0|  0| 
-|Jonathan India     |DH        |      4|  1|   1|  1|  0| 
+|Josh Jung          |CI        |      5|  2|   1|  1|  0| 
+|Brendan Donovan    |OF        |      9|  2|   4|  0|  0| 
+|Corbin Carroll     |OF        |      6|  5|   1|  0|  0| 
+|Mark Canha         |OF        |      4|  0|   0|  0|  0| 
+|Spencer Steer      |OF        |      2|  1|   0|  0|  1| 
+|Jonathan India     |DH        |      7|  3|   1|  1|  0| 
 |Jorge Polanco      |DH        |      3|  1|   1|  0|  0| 
 |Justin Turner      |DH        |      5|  2|   4|  1|  0| 
 |Xander Bogaerts    |DH        |      6|  3|   2|  0|  1| 

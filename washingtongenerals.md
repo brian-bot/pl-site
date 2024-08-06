@@ -5,20 +5,20 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Shea Langeliers     |C         |      2|  1|   1|  1|  0| 
+|Shea Langeliers     |C         |      4|  1|   1|  1|  0| 
 |Paul Goldschmidt    |1B        |      7|  3|   2|  1|  0| 
-|Bryson Stott        |2B        |      3|  1|   1|  1|  0| 
-|Jeimer Candelario   |3B        |      4|  2|   1|  1|  0| 
-|Francisco Lindor    |SS        |      6|  2|   1|  0|  1| 
-|Masyn Winn          |MI        |      7|  2|   4|  2|  0| 
-|Alex Bregman        |CI        |      3|  0|   0|  0|  0| 
+|Bryson Stott        |2B        |      4|  2|   2|  1|  0| 
+|Jeimer Candelario   |3B        |      5|  3|   1|  1|  0| 
+|Francisco Lindor    |SS        |      7|  3|   1|  0|  1| 
+|Masyn Winn          |MI        |      8|  2|   4|  2|  1| 
+|Alex Bregman        |CI        |      4|  1|   1|  1|  0| 
 |Brandon Nimmo       |OF        |      6|  2|   0|  0|  1| 
 |George Springer     |OF        |      4|  2|   0|  0|  0| 
-|Lourdes Gurriel Jr. |OF        |      4|  1|   0|  0|  1| 
-|Steven Kwan         |OF        |     10|  6|   2|  0|  3| 
+|Lourdes Gurriel Jr. |OF        |      5|  1|   0|  0|  1| 
+|Steven Kwan         |OF        |     12|  6|   2|  0|  3| 
 |Austin Riley        |DH        |      7|  2|   4|  1|  0| 
-|Eugenio Suárez      |DH        |      5|  3|   0|  0|  0| 
-|JJ Bleday           |DH        |      7|  2|   1|  0|  0| 
+|Eugenio Suárez      |DH        |      7|  3|   2|  0|  0| 
+|JJ Bleday           |DH        |      9|  3|   1|  0|  0| 
 |Michael Busch       |DH        |      4|  2|   4|  2|  0| 
 |Bo Bichette         |BAT BENCH |     **| **|  **| **| **| 
 |J.T. Realmuto       |BAT BENCH |      3|  0|   1|  0|  0| 
@@ -37,7 +37,7 @@
 |Jordan Montgomery |SP          |  1| 3.000|  1|  3.000|      3| 1.000|  3|  0|  0| 
 |Luis L. Ortiz     |SP          |  1| 5.333|  6| 10.125|      9| 1.688|  2|  0|  0| 
 |Mitch Keller      |SP          |  1| 4.000|  0|  0.000|      3| 0.750|  4|  0|  0| 
-|Josh Hader        |RP          |  2| 2.000|  0|  0.000|      2| 1.000|  1|  0|  2| 
+|Josh Hader        |RP          |  3| 3.000|  0|  0.000|      3| 1.000|  4|  0|  2| 
 |Kenley Jansen     |RP          |  1| 1.000|  0|  0.000|      1| 1.000|  1|  0|  0| 
 |DJ Herz           |OP          |  1| 5.000|  0|  0.000|      3| 0.600|  6|  1|  0| 
 |Hunter Strickland |OP          |  2| 1.667|  4| 21.600|      4| 2.400|  1|  0|  0| 

@@ -6,20 +6,20 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |William Contreras |C         |      5|  2|   2|  1|  0| 
-|Nathaniel Lowe    |1B        |      2|  0|   0|  0|  0| 
-|Luis García Jr.   |2B        |     10|  5|   3|  2|  2| 
+|Nathaniel Lowe    |1B        |      3|  1|   0|  0|  0| 
+|Luis García Jr.   |2B        |     12|  5|   3|  2|  3| 
 |Manny Machado     |3B        |      9|  3|   3|  1|  0| 
-|Corey Seager      |SS        |      6|  4|   4|  3|  0| 
+|Corey Seager      |SS        |      7|  5|   5|  4|  0| 
 |Zach Neto         |MI        |      8|  3|   4|  1|  1| 
 |Ha-Seong Kim      |CI        |      2|  1|   0|  0|  0| 
 |Bryan De La Cruz  |OF        |      3|  1|   1|  0|  0| 
 |Bryan Reynolds    |OF        |      8|  2|   5|  1|  0| 
-|Teoscar Hernández |OF        |      7|  4|   2|  1|  1| 
+|Teoscar Hernández |OF        |      8|  5|   4|  2|  1| 
 |Tyler O'Neill     |OF        |      4|  2|   0|  0|  0| 
-|Alec Bohm         |DH        |      6|  5|   5|  1|  1| 
+|Alec Bohm         |DH        |      7|  5|   6|  1|  1| 
 |Ezequiel Tovar    |DH        |      2|  2|   0|  0|  0| 
-|Jeremy Peña       |DH        |      2|  2|   0|  0|  0| 
-|Willson Contreras |DH        |      6|  2|   0|  0|  0| 
+|Jeremy Peña       |DH        |      5|  2|   2|  0|  0| 
+|Willson Contreras |DH        |      7|  2|   0|  0|  0| 
 |Mookie Betts      |BAT BENCH |     **| **|  **| **| **| 
 |Nolan Jones       |BAT BENCH |     **| **|  **| **| **| 
 |Ozzie Albies      |BAT BENCH |     **| **|  **| **| **| 
@@ -35,7 +35,7 @@
 |Corbin Burnes    |SP          |  1| 5.000|  4| 7.200|      8| 1.600|  4|  1|  0| 
 |Logan Gilbert    |SP          |  1| 6.000|  1| 1.500|      4| 0.667|  7|  0|  0| 
 |Miles Mikolas    |SP          |  1| 4.000|  4| 9.000|     10| 2.500|  3|  0|  0| 
-|Sean Manaea      |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Sean Manaea      |SP          |  1| 7.000|  0| 0.000|      6| 0.857| 10|  1|  0| 
 |Sonny Gray       |SP          |  1| 7.000|  2| 2.571|      6| 0.857|  9|  0|  0| 
 |Tyler Anderson   |SP          |  1| 5.000|  3| 5.400|     10| 2.000|  3|  0|  0| 
 |Clay Holmes      |RP          |  3| 2.000|  0| 0.000|      1| 0.500|  2|  0|  2| 
