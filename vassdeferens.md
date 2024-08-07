@@ -5,25 +5,25 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman    |C         |      5|  1|   6|  0|  0| 
-|Pete Alonso        |1B        |      7|  2|   2|  1|  0| 
-|Nico Hoerner       |2B        |      8|  6|   1|  0|  3| 
-|Elly De La Cruz    |3B        |      6|  3|   3|  2|  2| 
-|CJ Abrams          |SS        |      3|  3|   3|  1|  0| 
+|Adley Rutschman    |C         |      6|  2|   6|  0|  0| 
+|Pete Alonso        |1B        |      9|  3|   2|  1|  0| 
+|Nico Hoerner       |2B        |     10|  8|   1|  0|  4| 
+|Elly De La Cruz    |3B        |     10|  5|   5|  2|  3| 
+|CJ Abrams          |SS        |      5|  4|   6|  2|  0| 
 |Ketel Marte        |MI        |      7|  4|   6|  4|  0| 
 |Jake Burger        |CI        |      9|  3|   7|  3|  0| 
-|Heliot Ramos       |OF        |      1|  0|   0|  0|  0| 
+|Heliot Ramos       |OF        |      3|  1|   1|  1|  1| 
 |Juan Soto          |OF        |      9|  4|   1|  1|  0| 
 |Lawrence Butler    |OF        |      3|  2|   1|  1|  1| 
 |Marcell Ozuna      |OF        |      4|  2|   2|  1|  0| 
-|James Wood         |DH        |     10|  2|   5|  0|  1| 
-|Juan Yepez         |DH        |      6|  2|   0|  0|  0| 
-|Miguel Andujar     |DH        |      8|  1|   1|  0|  1| 
-|Wenceel Pérez      |DH        |      5|  1|   1|  0|  0| 
+|James Wood         |DH        |     14|  6|   7|  1|  3| 
+|Juan Yepez         |DH        |      9|  2|   0|  0|  0| 
+|Miguel Andujar     |DH        |     11|  1|   1|  0|  1| 
+|Wenceel Pérez      |DH        |      7|  2|   2|  0|  0| 
 |Mitch Garver       |BAT BENCH |      0|  0|   0|  0|  0| 
 |Riley Greene       |BAT BENCH |     **| **|  **| **| **| 
-|Sal Frelick        |BAT BENCH |      5|  4|   0|  0|  0| 
-|Vinnie Pasquantino |BAT BENCH |     10|  6|  11|  5|  1| 
+|Sal Frelick        |BAT BENCH |      7|  5|   0|  0|  1| 
+|Vinnie Pasquantino |BAT BENCH |     13|  7|  13|  5|  1| 
 
 
 * * *
