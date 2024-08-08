@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras |C         |      9|  4|   6|  1|  0| 
-|Nathaniel Lowe    |1B        |      3|  1|   0|  0|  0| 
+|William Contreras |C         |     10|  5|   6|  1|  0| 
+|Nathaniel Lowe    |1B        |      5|  2|   1|  0|  0| 
 |Luis García Jr.   |2B        |     13|  6|   3|  2|  3| 
-|Manny Machado     |3B        |      9|  3|   3|  1|  0| 
-|Corey Seager      |SS        |      8|  6|   7|  5|  0| 
-|Zach Neto         |MI        |      8|  3|   4|  1|  1| 
-|Ha-Seong Kim      |CI        |      2|  1|   0|  0|  0| 
+|Manny Machado     |3B        |     11|  4|   4|  1|  1| 
+|Corey Seager      |SS        |      9|  6|   7|  5|  0| 
+|Zach Neto         |MI        |     13|  5|  12|  3|  1| 
+|Ha-Seong Kim      |CI        |      4|  2|   0|  0|  1| 
 |Bryan De La Cruz  |OF        |      3|  1|   1|  0|  0| 
-|Bryan Reynolds    |OF        |      8|  2|   5|  1|  0| 
-|Teoscar Hernández |OF        |     10|  7|   5|  3|  1| 
+|Bryan Reynolds    |OF        |     11|  2|   7|  1|  0| 
+|Teoscar Hernández |OF        |     11|  8|   5|  3|  1| 
 |Tyler O'Neill     |OF        |      4|  2|   0|  0|  0| 
-|Alec Bohm         |DH        |     10|  6|   6|  1|  1| 
-|Ezequiel Tovar    |DH        |      3|  3|   0|  0|  0| 
-|Jeremy Peña       |DH        |      6|  4|   2|  0|  0| 
-|Willson Contreras |DH        |      8|  2|   0|  0|  0| 
+|Alec Bohm         |DH        |     11|  7|   6|  1|  1| 
+|Ezequiel Tovar    |DH        |      4|  4|   1|  1|  0| 
+|Jeremy Peña       |DH        |      7|  4|   3|  0|  0| 
+|Willson Contreras |DH        |     10|  3|   1|  0|  0| 
 |Mookie Betts      |BAT BENCH |     **| **|  **| **| **| 
 |Nolan Jones       |BAT BENCH |     **| **|  **| **| **| 
 |Ozzie Albies      |BAT BENCH |     **| **|  **| **| **| 
@@ -38,8 +38,8 @@
 |Sean Manaea      |SP          |  1|  7.000|  0| 0.000|      6| 0.857| 10|  1|  0| 
 |Sonny Gray       |SP          |  2| 14.000|  4| 2.571|     11| 0.786| 15|  1|  0| 
 |Tyler Anderson   |SP          |  1|  5.000|  3| 5.400|     10| 2.000|  3|  0|  0| 
-|Clay Holmes      |RP          |  3|  2.000|  0| 0.000|      1| 0.500|  2|  0|  2| 
-|David Bednar     |RP          |  1|  1.000|  1| 9.000|      3| 3.000|  2|  0|  1| 
+|Clay Holmes      |RP          |  4|  3.000|  0| 0.000|      1| 0.333|  4|  0|  3| 
+|David Bednar     |RP          |  2|  2.000|  2| 9.000|      5| 2.500|  3|  0|  1| 
 |Clayton Kershaw  |OP          |  2|  8.333|  4| 4.320|     12| 1.440|  5|  0|  0| 
 |Edward Cabrera   |OP          |  1|  5.000|  0| 0.000|      5| 1.000|  8|  1|  0| 
 |Frankie Montas   |OP          |  1|  5.000|  3| 5.400|      9| 1.800|  5|  1|  0| 
