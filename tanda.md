@@ -8,16 +8,16 @@
 |Logan O'Hoppe     |C         |      8|  3|   3|  2|  0| 
 |Anthony Santander |1B        |     10|  8|   6|  3|  1| 
 |Marcus Semien     |2B        |     11|  2|   4|  2|  0| 
-|Royce Lewis       |3B        |     11|  6|  11|  3|  0| 
-|Gunnar Henderson  |SS        |     13|  7|   5|  1|  0| 
-|Oneil Cruz        |MI        |     11|  4|   3|  0|  2| 
-|Matt Olson        |CI        |     12|  4|   6|  3|  0| 
-|J.D. Martinez     |OF        |     11|  2|   6|  1|  0| 
-|Jackson Chourio   |OF        |     17|  7|   6|  2|  3| 
-|Jarren Duran      |OF        |     12|  2|   5|  1|  4| 
-|Jorge Soler       |OF        |      8|  2|   1|  0|  0| 
-|Brandon Lowe      |DH        |      9|  4|   8|  2|  1| 
-|Ceddanne Rafaela  |DH        |      9|  4|   3|  1|  1| 
+|Royce Lewis       |3B        |     14|  6|  12|  3|  0| 
+|Gunnar Henderson  |SS        |     14|  7|   5|  1|  0| 
+|Oneil Cruz        |MI        |     14|  5|   5|  1|  2| 
+|Matt Olson        |CI        |     13|  4|   6|  3|  0| 
+|J.D. Martinez     |OF        |     13|  2|   6|  1|  0| 
+|Jackson Chourio   |OF        |     18|  8|   6|  2|  4| 
+|Jarren Duran      |OF        |     15|  3|   5|  1|  5| 
+|Jorge Soler       |OF        |     10|  3|   3|  1|  0| 
+|Brandon Lowe      |DH        |     10|  4|   8|  2|  1| 
+|Ceddanne Rafaela  |DH        |     12|  5|   3|  1|  1| 
 |Luis Rengifo      |DH        |      0|  0|   0|  0|  0| 
 |Xavier Edwards    |DH        |     16|  4|   4|  0|  4| 
 |Julio Rodríguez   |BAT BENCH |     **| **|  **| **| **| 
@@ -36,12 +36,12 @@
 |Erick Fedde     |SP          |  2| 10.000|  6|  5.400|     12| 1.200| 10|  1|  0| 
 |Hunter Greene   |SP          |  2| 12.000|  3|  2.250|     10| 0.833| 16|  1|  0| 
 |Luis Severino   |SP          |  2|  8.000| 10| 11.250|     16| 2.000|  7|  0|  0| 
-|Robbie Ray      |SP          |  1|  5.000|  2|  3.600|      4| 0.800|  9|  1|  0| 
+|Robbie Ray      |SP          |  2| 11.000|  4|  3.273|     12| 1.091| 16|  1|  0| 
 |Craig Kimbrel   |RP          |  3|  3.000|  0|  0.000|      4| 1.333|  4|  0|  0| 
 |Raisel Iglesias |RP          |  3|  3.000|  0|  0.000|      0| 0.000|  4|  0|  1| 
 |Dean Kremer     |OP          |  2|  9.333|  9|  8.679|     17| 1.821|  8|  0|  0| 
 |Jake Irvin      |OP          |  2| 10.667|  9|  7.594|     17| 1.594|  8|  0|  0| 
-|José Soriano    |OP          |  1|  6.000|  0|  0.000|      7| 1.167|  6|  0|  0| 
+|José Soriano    |OP          |  2| 12.000|  1|  0.750|     12| 1.000| 13|  0|  0| 
 |Max Scherzer    |OP          | **|     **| **|     **|     **|    **| **| **| **| 
 |Yusei Kikuchi   |OP          |  2| 11.000|  4|  3.273|     13| 1.182| 19|  1|  0| 
 |Chris Bassitt   |PITCH BENCH |  1|  7.000|  2|  2.571|      5| 0.714|  9|  1|  0| 

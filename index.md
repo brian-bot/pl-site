@@ -2,21 +2,21 @@
 
 ## Period 7 scores
 
-Through games on 2024-08-08 ([website build status](https://github.com/brian-bot/pl-site/actions))
+Through games on 2024-08-09 ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 
 |team                   | points|  r| hitsbb| hr| rbi| sb|  w| sv|  so|   era|  whip|
 |:----------------------|------:|--:|------:|--:|---:|--:|--:|--:|---:|-----:|-----:|
-|[Washington Generals](./washingtongenerals)|   40.0| 55|    141| 14|  43|  9|  3|  5|  79| 5.770| 1.560|
-|[Vass Deferens](./vassdeferens)|   76.5| 67|    160| 26|  66| 18|  7|  4|  80| 4.982| 1.251|
-|[Mean Wieners](./meanwieners)|   37.0| 38|    101| 11|  39|  7|  4|  1|  73| 3.724| 1.094|
-|[Wonderbots](./wonderbots)|   74.0| 70|    145| 21|  66|  9|  6|  4|  87| 3.841| 1.230|
-|[Bone Pilers](./bonepilers)|   56.5| 60|    146| 13|  42|  6|  7|  2|  83| 4.375| 1.103|
-|[Boys of Summer](./boysofsummer)|   47.5| 50|    135| 11|  46|  4| 10|  2|  87| 4.116| 1.235|
-|[T and A](./tanda)     |   67.0| 59|    158| 21|  71| 16|  6|  1| 120| 4.485| 1.336|
-|[Terminoeckers](./terminoeckers)|   67.5| 72|    148| 23|  63|  5|  6|  5|  92| 5.143| 1.264|
-|[Overwhelming Underdogs](./overwhelmingunderdogs)|   33.0| 54|    131| 13|  49|  5|  5|  5|  59| 5.852| 1.537|
-|[Nuclear Arms](./nucleararms)|   51.0| 58|    145| 15|  54| 10|  3|  3|  72| 4.192| 1.260|
+|[Washington Generals](./washingtongenerals)|   33.0| 61|    162| 15|  44|  9|  3|  5|  84| 6.090| 1.568|
+|[Vass Deferens](./vassdeferens)|   77.0| 70|    173| 29|  70| 18|  8|  4| 103| 4.370| 1.197|
+|[Mean Wieners](./meanwieners)|   34.0| 43|    121| 12|  42| 10|  5|  1|  91| 4.280| 1.195|
+|[Wonderbots](./wonderbots)|   71.0| 78|    166| 23|  75| 10|  6|  4|  94| 3.871| 1.246|
+|[Bone Pilers](./bonepilers)|   53.0| 64|    156| 16|  52|  7|  7|  3|  96| 4.298| 1.183|
+|[Boys of Summer](./boysofsummer)|   46.0| 56|    153| 14|  56|  5| 11|  3|  96| 4.267| 1.250|
+|[T and A](./tanda)     |   70.0| 64|    178| 23|  76| 18|  6|  1| 134| 4.246| 1.309|
+|[Terminoeckers](./terminoeckers)|   69.5| 89|    176| 29|  74|  6|  7|  6| 104| 5.125| 1.281|
+|[Overwhelming Underdogs](./overwhelmingunderdogs)|   41.5| 61|    148| 16|  55|  7|  8|  6|  72| 4.988| 1.422|
+|[Nuclear Arms](./nucleararms)|   55.0| 64|    162| 18|  59| 11|  4|  3|  80| 3.825| 1.250|
 
 * * *
 * * *
