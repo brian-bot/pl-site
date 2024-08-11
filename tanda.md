@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Logan O'Hoppe     |C         |      8|  3|   3|  2|  0| 
-|Anthony Santander |1B        |     10|  8|   6|  3|  1| 
-|Marcus Semien     |2B        |     11|  2|   4|  2|  0| 
+|Logan O'Hoppe     |C         |     10|  4|   3|  2|  0| 
+|Anthony Santander |1B        |     12|  8|   6|  3|  1| 
+|Marcus Semien     |2B        |     13|  2|   4|  2|  0| 
 |Royce Lewis       |3B        |     14|  6|  12|  3|  0| 
-|Gunnar Henderson  |SS        |     14|  7|   5|  1|  0| 
-|Oneil Cruz        |MI        |     14|  5|   5|  1|  2| 
-|Matt Olson        |CI        |     13|  4|   6|  3|  0| 
-|J.D. Martinez     |OF        |     13|  2|   6|  1|  0| 
+|Gunnar Henderson  |SS        |     17|  8|   5|  1|  0| 
+|Oneil Cruz        |MI        |     15|  5|   5|  1|  2| 
+|Matt Olson        |CI        |     16|  6|  12|  5|  0| 
+|J.D. Martinez     |OF        |     14|  2|   6|  1|  0| 
 |Jackson Chourio   |OF        |     18|  8|   6|  2|  4| 
-|Jarren Duran      |OF        |     15|  3|   5|  1|  5| 
-|Jorge Soler       |OF        |     10|  3|   3|  1|  0| 
+|Jarren Duran      |OF        |     16|  4|   5|  1|  6| 
+|Jorge Soler       |OF        |     14|  5|   6|  2|  0| 
 |Brandon Lowe      |DH        |     10|  4|   8|  2|  1| 
-|Ceddanne Rafaela  |DH        |     12|  5|   3|  1|  1| 
+|Ceddanne Rafaela  |DH        |     13|  6|   3|  1|  1| 
 |Luis Rengifo      |DH        |      0|  0|   0|  0|  0| 
-|Xavier Edwards    |DH        |     16|  4|   4|  0|  4| 
+|Xavier Edwards    |DH        |     19|  5|   4|  0|  6| 
 |Julio Rodríguez   |BAT BENCH |     **| **|  **| **| **| 
-|Zack Gelof        |BAT BENCH |      7|  3|   2|  1|  2| 
+|Zack Gelof        |BAT BENCH |      8|  3|   2|  1|  2| 
 
 
 * * *
@@ -38,7 +38,7 @@
 |Luis Severino   |SP          |  2|  8.000| 10| 11.250|     16| 2.000|  7|  0|  0| 
 |Robbie Ray      |SP          |  2| 11.000|  4|  3.273|     12| 1.091| 16|  1|  0| 
 |Craig Kimbrel   |RP          |  3|  3.000|  0|  0.000|      4| 1.333|  4|  0|  0| 
-|Raisel Iglesias |RP          |  3|  3.000|  0|  0.000|      0| 0.000|  4|  0|  1| 
+|Raisel Iglesias |RP          |  4|  4.000|  0|  0.000|      0| 0.000|  5|  0|  2| 
 |Dean Kremer     |OP          |  2|  9.333|  9|  8.679|     17| 1.821|  8|  0|  0| 
 |Jake Irvin      |OP          |  2| 10.667|  9|  7.594|     17| 1.594|  8|  0|  0| 
 |José Soriano    |OP          |  2| 12.000|  1|  0.750|     12| 1.000| 13|  0|  0| 

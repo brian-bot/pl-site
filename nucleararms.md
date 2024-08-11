@@ -5,25 +5,25 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Austin Wells      |C         |     11|  0|   2|  0|  0| 
-|Salvador Perez    |1B        |     17|  4|   5|  1|  0| 
+|Austin Wells      |C         |     13|  0|   6|  0|  0| 
+|Salvador Perez    |1B        |     19|  5|   7|  2|  0| 
 |Andrés Giménez    |2B        |     13|  4|   2|  0|  1| 
 |José Ramírez      |3B        |     15|  8|   9|  3|  5| 
-|Jackson Holliday  |SS        |     12|  8|  11|  4|  0| 
-|Spencer Horwitz   |MI        |     11|  4|   4|  1|  0| 
-|Alec Burleson     |CI        |     11|  7|   6|  2|  0| 
-|Adolis García     |OF        |      5|  2|   0|  0|  0| 
-|Brent Rooker      |OF        |      9|  3|   4|  2|  0| 
-|Giancarlo Stanton |OF        |      5|  1|   1|  0|  0| 
+|Jackson Holliday  |SS        |     14| 10|  12|  5|  0| 
+|Spencer Horwitz   |MI        |     12|  4|   4|  1|  0| 
+|Alec Burleson     |CI        |     12|  7|   6|  2|  0| 
+|Adolis García     |OF        |     11|  4|   1|  0|  0| 
+|Brent Rooker      |OF        |     11|  4|   5|  3|  0| 
+|Giancarlo Stanton |OF        |      7|  2|   3|  1|  0| 
 |Nick Castellanos  |OF        |     16|  6|   4|  0|  1| 
 |Austin Hays       |DH        |      6|  3|   0|  0|  0| 
 |Jeff McNeil       |DH        |     11|  5|   1|  1|  0| 
 |Nolan Schanuel    |DH        |     12|  5|   3|  1|  0| 
-|Shohei Ohtani     |DH        |      8|  4|   7|  3|  4| 
+|Shohei Ohtani     |DH        |      9|  4|   7|  3|  4| 
 |Christian Yelich  |BAT BENCH |     **| **|  **| **| **| 
 |Francisco Alvarez |BAT BENCH |      7|  2|   2|  0|  0| 
 |Jacob Wilson      |BAT BENCH |     **| **|  **| **| **| 
-|Jake Cronenworth  |BAT BENCH |      9|  2|   3|  0|  0| 
+|Jake Cronenworth  |BAT BENCH |     11|  2|   5|  0|  0| 
 |Mike Trout        |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -44,9 +44,9 @@
 |Carlos Estévez     |RP          |  4|  4.667|  0|  0.000|      5| 1.071|  6|  0|  1| 
 |Ben Joyce          |OP          |  4|  3.333|  1|  2.700|      5| 1.500|  4|  0|  1| 
 |Brandon Pfaadt     |OP          |  2| 11.333|  5|  3.971|     13| 1.147|  9|  1|  0| 
-|Devin Williams     |OP          |  2|  2.000|  1|  4.500|      2| 1.000|  4|  0|  0| 
+|Devin Williams     |OP          |  3|  3.000|  1|  3.000|      2| 0.667|  7|  0|  1| 
 |Justin Wrobleski   |OP          | **|     **| **|     **|     **|    **| **| **| **| 
-|Michael Kopech     |OP          |  4|  4.000|  0|  0.000|      1| 0.250|  6|  0|  0| 
+|Michael Kopech     |OP          |  5|  5.333|  0|  0.000|      1| 0.188|  8|  1|  0| 
 |Reynaldo López     |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Yoshinobu Yamamoto |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 
