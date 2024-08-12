@@ -5,25 +5,25 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Austin Wells      |C         |     13|  0|   6|  0|  0| 
+|Austin Wells      |C         |     14|  0|   6|  0|  0| 
 |Salvador Perez    |1B        |     19|  5|   7|  2|  0| 
-|Andrés Giménez    |2B        |     13|  4|   2|  0|  1| 
-|José Ramírez      |3B        |     15|  8|   9|  3|  5| 
+|Andrés Giménez    |2B        |     15|  5|   2|  0|  3| 
+|José Ramírez      |3B        |     17|  9|  10|  4|  5| 
 |Jackson Holliday  |SS        |     14| 10|  12|  5|  0| 
-|Spencer Horwitz   |MI        |     12|  4|   4|  1|  0| 
+|Spencer Horwitz   |MI        |     13|  5|   4|  1|  0| 
 |Alec Burleson     |CI        |     12|  7|   6|  2|  0| 
-|Adolis García     |OF        |     11|  4|   1|  0|  0| 
-|Brent Rooker      |OF        |     11|  4|   5|  3|  0| 
-|Giancarlo Stanton |OF        |      7|  2|   3|  1|  0| 
-|Nick Castellanos  |OF        |     16|  6|   4|  0|  1| 
+|Adolis García     |OF        |     14|  5|   2|  0|  1| 
+|Brent Rooker      |OF        |     13|  5|   6|  3|  0| 
+|Giancarlo Stanton |OF        |      9|  3|   7|  2|  0| 
+|Nick Castellanos  |OF        |     18|  7|   4|  0|  1| 
 |Austin Hays       |DH        |      6|  3|   0|  0|  0| 
-|Jeff McNeil       |DH        |     11|  5|   1|  1|  0| 
-|Nolan Schanuel    |DH        |     12|  5|   3|  1|  0| 
-|Shohei Ohtani     |DH        |      9|  4|   7|  3|  4| 
+|Jeff McNeil       |DH        |     13|  6|   2|  2|  0| 
+|Nolan Schanuel    |DH        |     15|  6|   3|  1|  0| 
+|Shohei Ohtani     |DH        |     10|  4|   7|  3|  4| 
 |Christian Yelich  |BAT BENCH |     **| **|  **| **| **| 
 |Francisco Alvarez |BAT BENCH |      7|  2|   2|  0|  0| 
 |Jacob Wilson      |BAT BENCH |     **| **|  **| **| **| 
-|Jake Cronenworth  |BAT BENCH |     11|  2|   5|  0|  0| 
+|Jake Cronenworth  |BAT BENCH |     12|  2|   6|  0|  0| 
 |Mike Trout        |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -39,10 +39,10 @@
 |Drew Thorpe        |SP          |  1|  5.000|  6| 10.800|      9| 1.800|  0|  0|  0| 
 |Javier Assad       |SP          |  2|  8.000|  3|  3.375|     12| 1.500|  4|  0|  0| 
 |José Berríos       |SP          |  2| 12.000|  6|  4.500|     17| 1.417| 14|  1|  0| 
-|Tyler Glasnow      |SP          |  1|  6.000|  3|  4.500|      5| 0.833|  9|  1|  0| 
-|Alexis Díaz        |RP          |  2|  1.667|  1|  5.400|      1| 0.600|  2|  0|  1| 
+|Tyler Glasnow      |SP          |  2| 13.000|  5|  3.462|     11| 0.846| 13|  1|  0| 
+|Alexis Díaz        |RP          |  3|  2.667|  1|  3.375|      1| 0.375|  4|  0|  2| 
 |Carlos Estévez     |RP          |  4|  4.667|  0|  0.000|      5| 1.071|  6|  0|  1| 
-|Ben Joyce          |OP          |  4|  3.333|  1|  2.700|      5| 1.500|  4|  0|  1| 
+|Ben Joyce          |OP          |  5|  4.333|  3|  6.231|     10| 2.308|  4|  0|  1| 
 |Brandon Pfaadt     |OP          |  2| 11.333|  5|  3.971|     13| 1.147|  9|  1|  0| 
 |Devin Williams     |OP          |  3|  3.000|  1|  3.000|      2| 0.667|  7|  0|  1| 
 |Justin Wrobleski   |OP          | **|     **| **|     **|     **|    **| **| **| **| 
