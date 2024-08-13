@@ -9,18 +9,18 @@
 |Mark Vientos    |1B        |      6|  2|   4|  2|  0| 
 |Ryan McMahon    |2B        |     13|  5|   3|  0|  1| 
 |Jordan Westburg |3B        |      1|  1|   0|  0|  0| 
-|Willi Castro    |SS        |     13|  7|   7|  1|  2| 
-|José Caballero  |MI        |      8|  3|   3|  1|  4| 
-|Carlos Santana  |CI        |     12|  4|   2|  1|  0| 
-|Aaron Judge     |OF        |     26|  9|   7|  3|  1| 
+|Willi Castro    |SS        |     14|  8|  10|  2|  2| 
+|José Caballero  |MI        |      8|  3|   4|  1|  4| 
+|Carlos Santana  |CI        |     14|  5|   2|  1|  0| 
+|Aaron Judge     |OF        |     29|  9|   8|  3|  1| 
 |Luis Robert Jr. |OF        |      2|  2|   1|  0|  2| 
 |Wyatt Langford  |OF        |     10|  4|   0|  0|  2| 
-|Yordan Alvarez  |OF        |     23|  9|   8|  5|  0| 
+|Yordan Alvarez  |OF        |     25| 11|   9|  5|  0| 
 |Byron Buxton    |DH        |     12|  8|   6|  4|  0| 
 |Lars Nootbaar   |DH        |      5|  1|   1|  0|  1| 
 |Taylor Ward     |DH        |     13|  3|   1|  0|  0| 
-|TJ Friedl       |DH        |     13|  3|  10|  2|  0| 
-|Daulton Varsho  |BAT BENCH |     16|  7|   2|  1|  1| 
+|TJ Friedl       |DH        |     14|  3|  10|  2|  0| 
+|Daulton Varsho  |BAT BENCH |     17|  7|   2|  1|  1| 
 |Nolan Gorman    |BAT BENCH |      7|  1|   0|  0|  0| 
 
 * * *
@@ -37,7 +37,7 @@
 |Joe Ryan              |SP          |  2|  8.333|  3|  3.240|      7| 0.840|  9|  1|  0| 
 |Luis Castillo         |SP          |  2| 12.000|  4|  3.000|     14| 1.167| 18|  1|  0| 
 |Andrés Muñoz          |RP          |  2|  2.000|  0|  0.000|      1| 0.500|  2|  0|  0| 
-|Daniel Hudson         |RP          |  5|  5.000|  2|  3.600|      4| 0.800|  3|  0|  1| 
+|Daniel Hudson         |RP          |  6|  6.000|  2|  3.000|      4| 0.667|  3|  0|  2| 
 |Hunter Brown          |OP          |  2| 11.333|  3|  2.382|     12| 1.059| 13|  1|  0| 
 |Jeff Hoffman          |OP          |  4|  3.000|  6| 18.000|      8| 2.667|  6|  0|  0| 
 |Ronel Blanco          |OP          |  2|  9.000|  4|  4.000|     15| 1.667| 12|  0|  0| 

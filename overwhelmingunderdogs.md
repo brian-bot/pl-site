@@ -5,25 +5,25 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Jonah Heim         |C         |      5|  2|   4|  1|  0| 
-|Josh Bell          |1B        |     16|  7|   7|  4|  0| 
-|Jose Altuve        |2B        |     15|  5|   3|  1|  0| 
+|Jonah Heim         |C         |      7|  3|   4|  1|  0| 
+|Josh Bell          |1B        |     18|  9|   8|  4|  0| 
+|Jose Altuve        |2B        |     17|  6|   3|  1|  0| 
 |Matt Vierling      |3B        |     12|  5|   4|  1|  1| 
 |Jackson Merrill    |SS        |     17| 11|  11|  4|  2| 
-|Anthony Volpe      |MI        |      8|  5|   6|  2|  1| 
-|Josh Jung          |CI        |     10|  2|   1|  1|  0| 
-|Brendan Donovan    |OF        |     16|  4|   5|  0|  0| 
-|Corbin Carroll     |OF        |     14| 11|   8|  3|  1| 
-|Mark Canha         |OF        |     11|  2|   3|  0|  0| 
-|Spencer Steer      |OF        |     11|  4|   4|  1|  1| 
+|Anthony Volpe      |MI        |     11|  5|   7|  2|  1| 
+|Josh Jung          |CI        |     11|  2|   1|  1|  0| 
+|Brendan Donovan    |OF        |     17|  4|   5|  0|  0| 
+|Corbin Carroll     |OF        |     15| 12|   8|  3|  1| 
+|Mark Canha         |OF        |     12|  2|   3|  0|  0| 
+|Spencer Steer      |OF        |     14|  6|   9|  3|  2| 
 |Jonathan India     |DH        |     11|  6|   1|  1|  0| 
 |Jorge Polanco      |DH        |      9|  3|   3|  1|  0| 
 |Justin Turner      |DH        |     12|  3|   6|  1|  0| 
-|Xander Bogaerts    |DH        |     15|  7|   4|  0|  1| 
+|Xander Bogaerts    |DH        |     16|  7|   5|  0|  1| 
 |Christian Walker   |BAT BENCH |     **| **|  **| **| **| 
 |Fernando Tatis Jr. |BAT BENCH |     **| **|  **| **| **| 
-|MJ Melendez        |BAT BENCH |     10|  5|   6|  1|  1| 
-|Sean Murphy        |BAT BENCH |      8|  1|   0|  0|  0| 
+|MJ Melendez        |BAT BENCH |     11|  6|   6|  1|  1| 
+|Sean Murphy        |BAT BENCH |      9|  1|   0|  0|  0| 
 |Triston Casas      |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -39,7 +39,7 @@
 |Matt Waldron  |SP          |  2| 10.000|  6| 5.400|     11| 1.100| 12|  1|  0| 
 |Max Fried     |SP          |  2|  8.333|  9| 9.720|     19| 2.280| 15|  0|  0| 
 |Nick Lodolo   |SP          |  3| 17.000| 13| 6.882|     22| 1.294| 17|  1|  0| 
-|Pablo López   |SP          |  2| 11.000|  6| 4.909|     14| 1.273|  9|  1|  0| 
+|Pablo López   |SP          |  3| 17.000|  8| 4.235|     20| 1.176| 14|  2|  0| 
 |Kyle Finnegan |RP          |  4|  5.000|  2| 3.600|      8| 1.600|  4|  1|  2| 
 |Paul Sewald   |RP          |  5|  4.333|  2| 4.154|      9| 2.077|  3|  1|  0| 
 |Aaron Civale  |OP          |  2| 10.333|  7| 6.097|     15| 1.452|  8|  1|  0| 
