@@ -5,22 +5,22 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras |C         |     20|  9|  11|  3|  0| 
-|Nathaniel Lowe    |1B        |     11|  5|   2|  1|  0| 
-|Luis García Jr.   |2B        |     21|  9|   8|  3|  4| 
-|Manny Machado     |3B        |     15|  6|  10|  2|  1| 
-|Corey Seager      |SS        |     16|  8|  13|  7|  0| 
-|Zach Neto         |MI        |     22|  8|  14|  4|  2| 
+|William Contreras |C         |     21| 10|  12|  4|  0| 
+|Nathaniel Lowe    |1B        |     13|  5|   3|  1|  0| 
+|Luis García Jr.   |2B        |     22|  9|   9|  3|  4| 
+|Manny Machado     |3B        |     17|  6|  12|  2|  1| 
+|Corey Seager      |SS        |     17|  9|  13|  7|  0| 
+|Zach Neto         |MI        |     25|  8|  14|  4|  3| 
 |Ha-Seong Kim      |CI        |     12|  3|   1|  0|  2| 
-|Bryan De La Cruz  |OF        |      7|  3|   1|  0|  0| 
-|Bryan Reynolds    |OF        |     17|  5|   8|  1|  0| 
-|Teoscar Hernández |OF        |     19| 12|  10|  4|  2| 
+|Bryan De La Cruz  |OF        |      8|  3|   1|  0|  0| 
+|Bryan Reynolds    |OF        |     20|  5|   8|  1|  0| 
+|Teoscar Hernández |OF        |     20| 13|  10|  4|  2| 
 |Tyler O'Neill     |OF        |      4|  2|   0|  0|  0| 
-|Alec Bohm         |DH        |     16|  7|   8|  1|  1| 
-|Ezequiel Tovar    |DH        |      8|  6|   3|  1|  0| 
-|Jeremy Peña       |DH        |     16|  6|   6|  1|  1| 
-|Willson Contreras |DH        |     17|  7|   5|  2|  0| 
-|Mookie Betts      |BAT BENCH |      2|  1|   3|  1|  1| 
+|Alec Bohm         |DH        |     17|  7|   8|  1|  1| 
+|Ezequiel Tovar    |DH        |      9|  7|   3|  1|  0| 
+|Jeremy Peña       |DH        |     18|  7|   7|  2|  1| 
+|Willson Contreras |DH        |     18|  7|   5|  2|  0| 
+|Mookie Betts      |BAT BENCH |      4|  1|   3|  1|  1| 
 |Nolan Jones       |BAT BENCH |     **| **|  **| **| **| 
 |Ozzie Albies      |BAT BENCH |     **| **|  **| **| **| 
 
