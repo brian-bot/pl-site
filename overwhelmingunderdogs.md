@@ -5,25 +5,25 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Jonah Heim         |C         |      7|  3|   4|  1|  0| 
-|Josh Bell          |1B        |     19|  9|   9|  4|  0| 
+|Jonah Heim         |C         |      8|  4|   6|  2|  0| 
+|Josh Bell          |1B        |     20| 11|   9|  4|  0| 
 |Jose Altuve        |2B        |     17|  6|   3|  1|  0| 
-|Matt Vierling      |3B        |     13|  7|   4|  1|  2| 
-|Jackson Merrill    |SS        |     17| 11|  11|  4|  2| 
-|Anthony Volpe      |MI        |     13|  5|   7|  2|  1| 
+|Matt Vierling      |3B        |     15|  8|   4|  1|  2| 
+|Jackson Merrill    |SS        |     19| 12|  13|  4|  2| 
+|Anthony Volpe      |MI        |     14|  6|   7|  2|  1| 
 |Josh Jung          |CI        |     11|  2|   1|  1|  0| 
-|Brendan Donovan    |OF        |     18|  4|   5|  0|  0| 
-|Corbin Carroll     |OF        |     16| 13|   8|  3|  1| 
+|Brendan Donovan    |OF        |     20|  4|   5|  0|  0| 
+|Corbin Carroll     |OF        |     19| 15|   8|  3|  1| 
 |Mark Canha         |OF        |     12|  2|   3|  0|  0| 
-|Spencer Steer      |OF        |     16|  6|  10|  3|  3| 
-|Jonathan India     |DH        |     11|  6|   1|  1|  0| 
-|Jorge Polanco      |DH        |      9|  3|   3|  1|  0| 
+|Spencer Steer      |OF        |     17|  7|  10|  3|  3| 
+|Jonathan India     |DH        |     14|  8|   5|  3|  0| 
+|Jorge Polanco      |DH        |     12|  3|   4|  1|  0| 
 |Justin Turner      |DH        |     13|  4|   6|  1|  0| 
 |Xander Bogaerts    |DH        |     17|  7|   5|  0|  1| 
 |Christian Walker   |BAT BENCH |     **| **|  **| **| **| 
 |Fernando Tatis Jr. |BAT BENCH |     **| **|  **| **| **| 
 |MJ Melendez        |BAT BENCH |     12|  7|   7|  2|  1| 
-|Sean Murphy        |BAT BENCH |      9|  1|   0|  0|  0| 
+|Sean Murphy        |BAT BENCH |     11|  2|   2|  1|  0| 
 |Triston Casas      |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -48,7 +48,7 @@
 |Ryan Pepiot   |OP          | **|     **| **|    **|     **|    **| **| **| **| 
 |Tobias Myers  |OP          |  2| 12.333|  1| 0.730|      8| 0.649| 11|  0|  0| 
 |Jesús Luzardo |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
-|José Alvarado |PITCH BENCH |  5|  5.000|  4| 7.200|      8| 1.600|  4|  0|  0| 
+|José Alvarado |PITCH BENCH |  6|  6.000|  4| 6.000|     10| 1.667|  4|  0|  0| 
 
 
 * * *
