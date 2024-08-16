@@ -5,11 +5,11 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Shea Langeliers     |C         |     16|  3|   5|  2|  0| 
+|Shea Langeliers     |C         |     21|  4|   5|  2|  0| 
 |Paul Goldschmidt    |1B        |     16|  5|   6|  2|  1| 
-|Bryson Stott        |2B        |      8|  4|   2|  1|  1| 
+|Bryson Stott        |2B        |      9|  4|   2|  1|  1| 
 |Jeimer Candelario   |3B        |     13|  5|   5|  2|  0| 
-|Francisco Lindor    |SS        |     22|  8|   6|  1|  2| 
+|Francisco Lindor    |SS        |     24|  9|   6|  1|  2| 
 |Masyn Winn          |MI        |     18|  8|   4|  2|  1| 
 |Alex Bregman        |CI        |     22| 12|   8|  5|  0| 
 |Brandon Nimmo       |OF        |     13|  3|   2|  0|  1| 
@@ -18,10 +18,10 @@
 |Steven Kwan         |OF        |     22| 12|   6|  2|  3| 
 |Austin Riley        |DH        |     22| 10|  13|  5|  0| 
 |Eugenio Suárez      |DH        |     19|  9|  10|  2|  0| 
-|JJ Bleday           |DH        |     20|  7|   4|  1|  0| 
+|JJ Bleday           |DH        |     24|  9|   8|  2|  1| 
 |Michael Busch       |DH        |     14|  5|   5|  3|  0| 
 |Bo Bichette         |BAT BENCH |     **| **|  **| **| **| 
-|J.T. Realmuto       |BAT BENCH |     12|  5|   5|  1|  0| 
+|J.T. Realmuto       |BAT BENCH |     14|  6|   5|  1|  0| 
 
 
 * * *

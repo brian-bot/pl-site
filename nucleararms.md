@@ -12,14 +12,14 @@
 |Jackson Holliday  |SS        |     16| 10|  13|  5|  0| 
 |Spencer Horwitz   |MI        |     17|  9|   6|  2|  0| 
 |Alec Burleson     |CI        |     13|  8|   7|  2|  0| 
-|Adolis García     |OF        |     20|  7|   5|  2|  1| 
+|Adolis García     |OF        |     23|  7|   6|  2|  1| 
 |Brent Rooker      |OF        |     15|  8|   6|  3|  0| 
 |Giancarlo Stanton |OF        |     11|  3|   7|  2|  0| 
-|Nick Castellanos  |OF        |     21|  7|   4|  0|  1| 
+|Nick Castellanos  |OF        |     23|  8|   6|  1|  1| 
 |Austin Hays       |DH        |      6|  3|   0|  0|  0| 
-|Jeff McNeil       |DH        |     15|  6|   2|  2|  0| 
+|Jeff McNeil       |DH        |     17|  6|   2|  2|  0| 
 |Nolan Schanuel    |DH        |     17|  6|   3|  1|  0| 
-|Shohei Ohtani     |DH        |     14|  8|  10|  5|  7| 
+|Shohei Ohtani     |DH        |     15|  8|  10|  5|  7| 
 |Christian Yelich  |BAT BENCH |     **| **|  **| **| **| 
 |Francisco Alvarez |BAT BENCH |      9|  3|   2|  0|  0| 
 |Jacob Wilson      |BAT BENCH |     **| **|  **| **| **| 
@@ -44,9 +44,9 @@
 |Carlos Estévez     |RP          |  6|  6.667|  1|  1.350|      7| 1.050|  8|  0|  1| 
 |Ben Joyce          |OP          |  5|  4.333|  3|  6.231|     10| 2.308|  4|  0|  1| 
 |Brandon Pfaadt     |OP          |  3| 18.333|  9|  4.418|     21| 1.145| 20|  2|  0| 
-|Devin Williams     |OP          |  4|  4.000|  1|  2.250|      2| 0.500|  8|  0|  2| 
+|Devin Williams     |OP          |  5|  5.000|  1|  1.800|      2| 0.400| 10|  0|  3| 
 |Justin Wrobleski   |OP          | **|     **| **|     **|     **|    **| **| **| **| 
-|Michael Kopech     |OP          |  6|  6.333|  0|  0.000|      2| 0.316| 10|  1|  0| 
+|Michael Kopech     |OP          |  7|  7.333|  0|  0.000|      2| 0.273| 11|  1|  0| 
 |Reynaldo López     |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Yoshinobu Yamamoto |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 

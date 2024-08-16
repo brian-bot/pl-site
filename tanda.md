@@ -6,22 +6,22 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Logan O'Hoppe     |C         |     10|  4|   3|  2|  0| 
-|Anthony Santander |1B        |     16| 10|   8|  5|  1| 
-|Marcus Semien     |2B        |     17|  4|   6|  2|  0| 
-|Royce Lewis       |3B        |     19| 10|  15|  4|  0| 
-|Gunnar Henderson  |SS        |     22|  9|   7|  2|  0| 
+|Anthony Santander |1B        |     18| 12|   8|  5|  1| 
+|Marcus Semien     |2B        |     19|  5|   6|  2|  0| 
+|Royce Lewis       |3B        |     22| 10|  15|  4|  0| 
+|Gunnar Henderson  |SS        |     24| 10|   9|  3|  0| 
 |Oneil Cruz        |MI        |     20|  5|   5|  1|  3| 
 |Matt Olson        |CI        |     23| 10|  14|  6|  0| 
-|J.D. Martinez     |OF        |     17|  4|   7|  1|  0| 
-|Jackson Chourio   |OF        |     23|  9|   7|  2|  4| 
+|J.D. Martinez     |OF        |     19|  5|   7|  1|  0| 
+|Jackson Chourio   |OF        |     25| 11|   9|  3|  4| 
 |Jarren Duran      |OF        |     18|  4|   5|  1|  6| 
 |Jorge Soler       |OF        |     22|  8|  11|  4|  0| 
 |Brandon Lowe      |DH        |     12|  5|   9|  2|  3| 
-|Ceddanne Rafaela  |DH        |     19|  9|   3|  1|  2| 
+|Ceddanne Rafaela  |DH        |     21|  9|   3|  1|  2| 
 |Luis Rengifo      |DH        |      0|  0|   0|  0|  0| 
 |Xavier Edwards    |DH        |     26|  9|   4|  0| 10| 
 |Julio Rodríguez   |BAT BENCH |      3|  0|   1|  0|  0| 
-|Zack Gelof        |BAT BENCH |     13|  4|   4|  2|  3| 
+|Zack Gelof        |BAT BENCH |     15|  5|   4|  2|  3| 
 
 
 * * *
@@ -31,7 +31,7 @@
  
 |players         |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:---------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Chris Sale      |SP          |  3| 17.333|  4| 2.077|     23| 1.327| 28|  0|  0| 
+|Chris Sale      |SP          |  3| 17.333|  4| 2.077|     24| 1.385| 28|  0|  0| 
 |Cole Ragans     |SP          |  3| 19.000|  4| 1.895|     19| 1.000| 21|  3|  0| 
 |Erick Fedde     |SP          |  3| 16.000| 10| 5.625|     20| 1.250| 12|  1|  0| 
 |Hunter Greene   |SP          |  3| 19.000|  4| 1.895|     15| 0.789| 24|  2|  0| 
