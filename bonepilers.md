@@ -7,18 +7,18 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Cal Raleigh       |C         |     19|  5|   9|  3|  0| 
 |Bryce Harper      |1B        |     24|  6|   6|  2|  0| 
-|Brice Turang      |2B        |     13|  6|   6|  1|  5| 
-|Nolan Arenado     |3B        |     23|  8|   9|  1|  1| 
-|Dansby Swanson    |SS        |     18|  6|   9|  0|  3| 
+|Brice Turang      |2B        |     14|  7|   6|  1|  5| 
+|Nolan Arenado     |3B        |     24|  9|  10|  2|  1| 
+|Dansby Swanson    |SS        |     20|  6|   9|  0|  3| 
 |Nick Gonzales     |MI        |     **| **|  **| **| **| 
-|Josh Naylor       |CI        |     23| 10|  14|  3|  0| 
+|Josh Naylor       |CI        |     24| 11|  15|  4|  0| 
 |Jazz Chisholm Jr. |OF        |     15|  8|   3|  3|  4| 
-|Josh Lowe         |OF        |     18|  6|   6|  2|  6| 
-|Kyle Schwarber    |OF        |     29| 14|  15|  6|  1| 
+|Josh Lowe         |OF        |     19|  7|   7|  2|  7| 
+|Kyle Schwarber    |OF        |     30| 14|  15|  6|  1| 
 |Randy Arozarena   |OF        |     24|  9|   3|  0|  0| 
 |Joey Loperfido    |DH        |      8|  4|   1|  0|  1| 
-|Lane Thomas       |DH        |     10|  4|   0|  0|  1| 
-|Patrick Bailey    |DH        |      4|  3|   2|  0|  0| 
+|Lane Thomas       |DH        |     12|  4|   0|  0|  1| 
+|Patrick Bailey    |DH        |      5|  3|   2|  0|  0| 
 |Rhys Hoskins      |DH        |     17|  6|   5|  2|  1| 
 |Evan Carter       |BAT BENCH |     **| **|  **| **| **| 
 |Starling Marte    |BAT BENCH |     **| **|  **| **| **| 
@@ -31,10 +31,10 @@
  
 |players            |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:------------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Cristopher Sánchez |SP          |  3| 16.333| 14| 7.714|     29| 1.776| 13|  1|  0| 
+|Cristopher Sánchez |SP          |  4| 25.333| 15| 5.329|     31| 1.224| 17|  2|  0| 
 |Kutter Crawford    |SP          |  3| 14.333| 15| 9.419|     20| 1.395| 12|  2|  0| 
 |Shota Imanaga      |SP          |  3| 18.667|  9| 4.339|     21| 1.125| 20|  1|  0| 
-|Tanner Bibee       |SP          |  1|  5.667|  1| 1.588|      6| 1.059|  5|  1|  0| 
+|Tanner Bibee       |SP          |  2| 10.667|  2| 1.687|     10| 0.937| 12|  1|  0| 
 |Tarik Skubal       |SP          |  3| 19.333|  8| 3.724|     18| 0.931| 26|  2|  0| 
 |Zack Wheeler       |SP          |  3| 20.000|  3| 1.350|     15| 0.750| 23|  2|  0| 
 |Blake Treinen      |RP          |  2|  2.000|  0| 0.000|      1| 0.500|  1|  0|  0| 
