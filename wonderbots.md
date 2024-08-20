@@ -9,18 +9,18 @@
 |Nathaniel Lowe    |1B        |     19|  7|   3|  1|  0| 
 |Luis García Jr.   |2B        |     28| 11|   9|  3|  4| 
 |Manny Machado     |3B        |     24|  9|  13|  3|  1| 
-|Corey Seager      |SS        |     22| 11|  14|  7|  0| 
-|Zach Neto         |MI        |     27|  8|  14|  4|  3| 
+|Corey Seager      |SS        |     25| 13|  18|  9|  0| 
+|Zach Neto         |MI        |     28|  9|  15|  5|  3| 
 |Ha-Seong Kim      |CI        |     17|  4|   3|  1|  2| 
 |Bryan De La Cruz  |OF        |     13|  4|   2|  0|  0| 
-|Bryan Reynolds    |OF        |     21|  6|   8|  1|  0| 
+|Bryan Reynolds    |OF        |     22|  6|   8|  1|  0| 
 |Teoscar Hernández |OF        |     23| 13|  11|  4|  2| 
-|Tyler O'Neill     |OF        |      6|  3|   1|  0|  0| 
+|Tyler O'Neill     |OF        |      7|  3|   1|  0|  0| 
 |Alec Bohm         |DH        |     25| 11|  13|  2|  1| 
 |Ezequiel Tovar    |DH        |     13|  9|   3|  1|  0| 
-|Jeremy Peña       |DH        |     23|  8|   8|  3|  2| 
+|Jeremy Peña       |DH        |     24| 10|   8|  3|  2| 
 |Willson Contreras |DH        |     24|  7|   6|  2|  0| 
-|Mookie Betts      |BAT BENCH |     11|  5|   4|  2|  1| 
+|Mookie Betts      |BAT BENCH |     13|  5|   4|  2|  1| 
 |Nolan Jones       |BAT BENCH |     **| **|  **| **| **| 
 |Ozzie Albies      |BAT BENCH |     **| **|  **| **| **| 
 

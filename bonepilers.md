@@ -13,15 +13,15 @@
 |Nick Gonzales     |MI        |     **| **|  **| **| **| 
 |Josh Naylor       |CI        |     24| 11|  15|  4|  0| 
 |Jazz Chisholm Jr. |OF        |     15|  8|   3|  3|  4| 
-|Josh Lowe         |OF        |     20|  7|   7|  2|  7| 
+|Josh Lowe         |OF        |     21|  7|   7|  2|  8| 
 |Kyle Schwarber    |OF        |     31| 14|  15|  6|  1| 
-|Randy Arozarena   |OF        |     24|  9|   3|  0|  0| 
+|Randy Arozarena   |OF        |     25|  9|   3|  0|  1| 
 |Joey Loperfido    |DH        |     10|  5|   2|  1|  1| 
 |Lane Thomas       |DH        |     12|  4|   0|  0|  1| 
 |Patrick Bailey    |DH        |      5|  3|   2|  0|  0| 
 |Rhys Hoskins      |DH        |     17|  6|   5|  2|  1| 
 |Evan Carter       |BAT BENCH |     **| **|  **| **| **| 
-|Starling Marte    |BAT BENCH |      1|  0|   0|  0|  0| 
+|Starling Marte    |BAT BENCH |      2|  0|   0|  0|  1| 
 
 
 * * *
@@ -38,7 +38,7 @@
 |Tarik Skubal       |SP          |  4| 25.333|  9| 3.197|     25| 0.987| 31|  2|  0| 
 |Zack Wheeler       |SP          |  3| 20.000|  3| 1.350|     15| 0.750| 23|  2|  0| 
 |Blake Treinen      |RP          |  2|  2.000|  0| 0.000|      1| 0.500|  1|  0|  0| 
-|Kirby Yates        |RP          |  6|  8.000|  2| 2.250|      7| 0.875| 13|  1|  2| 
+|Kirby Yates        |RP          |  7|  9.000|  2| 2.000|      7| 0.778| 15|  1|  3| 
 |Christian Scott    |OP          | **|     **| **|    **|     **|    **| **| **| **| 
 |Gerrit Cole        |OP          |  3| 17.000|  3| 1.588|     20| 1.176| 22|  1|  0| 
 |Héctor Neris       |OP          |  6|  6.333|  4| 5.684|     11| 1.737|  7|  0|  3| 

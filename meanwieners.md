@@ -6,21 +6,21 @@
 |players         |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------|:---------|------:|--:|---:|--:|--:| 
 |Ben Rice        |C         |      5|  4|   0|  0|  0| 
-|Mark Vientos    |1B        |     19|  6|   9|  4|  0| 
+|Mark Vientos    |1B        |     20|  7|   9|  4|  0| 
 |Ryan McMahon    |2B        |     15|  6|   4|  0|  1| 
 |Jordan Westburg |3B        |      1|  1|   0|  0|  0| 
-|Willi Castro    |SS        |     19| 11|  13|  3|  2| 
-|José Caballero  |MI        |     12|  5|   6|  1|  7| 
+|Willi Castro    |SS        |     19| 11|  14|  3|  2| 
+|José Caballero  |MI        |     13|  5|   6|  1|  7| 
 |Carlos Santana  |CI        |     23| 11|   8|  4|  1| 
 |Aaron Judge     |OF        |     39| 12|  12|  5|  1| 
-|Luis Robert Jr. |OF        |      9|  4|   6|  2|  2| 
+|Luis Robert Jr. |OF        |     12|  5|   7|  2|  3| 
 |Wyatt Langford  |OF        |     18|  8|   5|  1|  2| 
-|Yordan Alvarez  |OF        |     31| 11|  11|  5|  0| 
+|Yordan Alvarez  |OF        |     35| 11|  11|  5|  0| 
 |Byron Buxton    |DH        |     12|  8|   6|  4|  0| 
 |Lars Nootbaar   |DH        |     10|  2|   2|  1|  1| 
 |Taylor Ward     |DH        |     19|  3|   2|  0|  0| 
-|TJ Friedl       |DH        |     20|  6|  12|  4|  0| 
-|Daulton Varsho  |BAT BENCH |     24| 10|   6|  2|  1| 
+|TJ Friedl       |DH        |     23|  8|  13|  5|  0| 
+|Daulton Varsho  |BAT BENCH |     26| 10|   7|  2|  1| 
 |Nolan Gorman    |BAT BENCH |      8|  1|   0|  0|  0| 
 
 * * *
@@ -43,8 +43,8 @@
 |Ronel Blanco          |OP          |  3| 15.000|  4| 2.400|     17| 1.133| 16|  0|  0| 
 |Spencer Schwellenbach |OP          |  3| 18.000|  8| 4.000|     20| 1.111| 25|  0|  0| 
 |Zach Eflin            |OP          |  3| 19.333|  3| 1.397|     16| 0.828| 18|  3|  0| 
-|Evan Phillips         |PITCH BENCH |  8|  6.333|  0| 0.000|      5| 0.789| 11|  1|  0| 
-|Gavin Stone           |PITCH BENCH |  3| 13.667|  9| 5.927|     19| 1.390| 13|  1|  0| 
+|Evan Phillips         |PITCH BENCH |  9|  7.333|  0| 0.000|      5| 0.682| 12|  1|  1| 
+|Gavin Stone           |PITCH BENCH |  4| 20.667|  9| 3.919|     23| 1.113| 23|  2|  0| 
 |Jared Jones           |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 
 

@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Logan O'Hoppe     |C         |     12|  5|   5|  3|  0| 
-|Anthony Santander |1B        |     20| 12|   8|  5|  1| 
-|Marcus Semien     |2B        |     24|  7|   8|  3|  0| 
+|Logan O'Hoppe     |C         |     14|  5|   5|  3|  0| 
+|Anthony Santander |1B        |     21| 12|   8|  5|  1| 
+|Marcus Semien     |2B        |     26|  8|   8|  3|  0| 
 |Royce Lewis       |3B        |     24| 10|  15|  4|  0| 
-|Gunnar Henderson  |SS        |     29| 12|  13|  5|  0| 
-|Oneil Cruz        |MI        |     24|  7|   7|  1|  4| 
+|Gunnar Henderson  |SS        |     30| 12|  13|  5|  0| 
+|Oneil Cruz        |MI        |     25|  7|   7|  1|  4| 
 |Matt Olson        |CI        |     30| 11|  15|  6|  0| 
-|J.D. Martinez     |OF        |     22|  5|   8|  1|  0| 
+|J.D. Martinez     |OF        |     23|  6|  10|  2|  0| 
 |Jackson Chourio   |OF        |     27| 11|   9|  3|  5| 
-|Jarren Duran      |OF        |     23|  7|   8|  2|  8| 
+|Jarren Duran      |OF        |     24|  8|   9|  3|  8| 
 |Jorge Soler       |OF        |     22|  8|  11|  4|  0| 
 |Brandon Lowe      |DH        |     20|  9|  13|  4|  3| 
 |Ceddanne Rafaela  |DH        |     24| 10|   4|  1|  2| 
 |Luis Rengifo      |DH        |      0|  0|   0|  0|  0| 
-|Xavier Edwards    |DH        |     31|  9|   4|  0| 12| 
-|Julio Rodríguez   |BAT BENCH |      8|  2|   1|  0|  0| 
-|Zack Gelof        |BAT BENCH |     17|  6|   4|  2|  3| 
+|Xavier Edwards    |DH        |     32|  9|   6|  0| 12| 
+|Julio Rodríguez   |BAT BENCH |     10|  2|   1|  0|  0| 
+|Zack Gelof        |BAT BENCH |     19|  7|   4|  2|  3| 
 
 
 * * *
@@ -43,7 +43,7 @@
 |Jake Irvin      |OP          |  4| 22.667| 15| 5.956|     34| 1.500| 16|  1|  0| 
 |José Soriano    |OP          |  3| 15.333|  3| 1.761|     18| 1.174| 18|  0|  0| 
 |Max Scherzer    |OP          | **|     **| **|    **|     **|    **| **| **| **| 
-|Yusei Kikuchi   |OP          |  3| 16.667|  5| 2.700|     16| 0.960| 24|  2|  0| 
+|Yusei Kikuchi   |OP          |  4| 22.333|  6| 2.418|     23| 1.030| 31|  2|  0| 
 |Chris Bassitt   |PITCH BENCH |  3| 16.000| 12| 6.750|     22| 1.375| 19|  1|  0| 
 |Colin Rea       |PITCH BENCH |  3| 20.000|  7| 3.150|     18| 0.900| 18|  2|  0| 
 |Jeffrey Springs |PITCH BENCH |  3| 15.000|  6| 3.600|     20| 1.333| 18|  1|  0| 
