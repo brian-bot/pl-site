@@ -19,7 +19,7 @@
 |Lourdes Gurriel Jr. |OF        |     25|  9|   3|  1|  1| 
 |Steven Kwan         |OF        |     26| 13|   6|  2|  4| 
 |Austin Riley        |DH        |     24| 11|  13|  5|  0| 
-|Eugenio Suárez      |DH        |     22| 11|  10|  2|  0| 
+|Eugenio Suárez      |DH        |     23| 11|  10|  2|  0| 
 |JJ Bleday           |DH        |     27| 10|  10|  3|  1| 
 |Michael Busch       |DH        |     19|  6|   7|  3|  0| 
 |Bo Bichette         |BAT BENCH |     **| **|  **| **| **| 
