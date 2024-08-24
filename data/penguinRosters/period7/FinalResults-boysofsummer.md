@@ -11,7 +11,7 @@
 |Ryan Mountcastle  |1B        |     20|  5|   9|  0|  0| 
 |Isaac Paredes     |2B        |     17|  7|   8|  2|  0| 
 |Rafael Devers     |3B        |     29| 11|   9|  3|  0| 
-|Bobby Witt Jr.    |SS        |     38| 22|  16|  6|  2| 
+|Bobby Witt Jr.    |SS        |     37| 22|  16|  6|  2| 
 |Trea Turner       |MI        |     20|  9|   6|  1|  1| 
 |Josh Smith        |CI        |     20|  5|   6|  1|  1| 
 |Christopher Morel |OF        |     17|  4|   1|  1|  1| 
