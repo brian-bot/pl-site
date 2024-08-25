@@ -5,25 +5,25 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman    |C         |      3|  1|   1|  0|  0| 
-|Pete Alonso        |1B        |      6|  1|   1|  0|  0| 
-|Nico Hoerner       |2B        |      3|  2|   1|  0|  1| 
-|Elly De La Cruz    |3B        |      6|  3|   3|  1|  1| 
-|CJ Abrams          |SS        |      2|  1|   0|  0|  0| 
-|Jace Jung          |MI        |      2|  2|   0|  0|  0| 
-|Jake Burger        |CI        |      4|  2|   2|  1|  1| 
-|Heliot Ramos       |OF        |      4|  3|   2|  1|  0| 
-|Juan Soto          |OF        |      4|  3|   5|  1|  0| 
-|Lawrence Butler    |OF        |      5|  3|   3|  1|  1| 
-|Marcell Ozuna      |OF        |      3|  0|   0|  0|  0| 
-|James Wood         |DH        |      7|  2|   2|  0|  1| 
-|Juan Yepez         |DH        |      3|  2|   3|  1|  0| 
-|Riley Greene       |DH        |      5|  4|   3|  1|  0| 
-|Vinnie Pasquantino |DH        |      2|  2|   1|  0|  0| 
+|Adley Rutschman    |C         |      6|  1|   1|  0|  0| 
+|Pete Alonso        |1B        |      7|  1|   2|  0|  0| 
+|Nico Hoerner       |2B        |      5|  2|   1|  0|  1| 
+|Elly De La Cruz    |3B        |     10|  6|   5|  1|  2| 
+|CJ Abrams          |SS        |      4|  1|   0|  0|  1| 
+|Jace Jung          |MI        |      3|  2|   0|  0|  0| 
+|Jake Burger        |CI        |      5|  2|   2|  1|  1| 
+|Heliot Ramos       |OF        |      5|  3|   2|  1|  0| 
+|Juan Soto          |OF        |      5|  3|   5|  1|  0| 
+|Lawrence Butler    |OF        |      6|  4|   3|  1|  1| 
+|Marcell Ozuna      |OF        |      4|  0|   0|  0|  0| 
+|James Wood         |DH        |      9|  2|   2|  0|  1| 
+|Juan Yepez         |DH        |      4|  2|   3|  1|  0| 
+|Riley Greene       |DH        |      7|  7|   4|  1|  0| 
+|Vinnie Pasquantino |DH        |      3|  2|   1|  0|  0| 
 |Jonah Bride        |BAT BENCH |      3|  0|   1|  0|  0| 
 |Ketel Marte        |BAT BENCH |     **| **|  **| **| **| 
-|Miguel Andujar     |BAT BENCH |      4|  0|   0|  0|  0| 
-|Mitch Garver       |BAT BENCH |     **| **|  **| **| **| 
+|Miguel Andujar     |BAT BENCH |      5|  0|   0|  0|  0| 
+|Mitch Garver       |BAT BENCH |      1|  0|   0|  0|  0| 
 
 
 * * *
@@ -38,7 +38,7 @@
 |Freddy Peralta   |SP          |  1| 5.000|  0| 0.000|      5| 1.000|  2|  0|  0| 
 |Nestor Cortes    |SP          |  1| 7.000|  0| 0.000|      3| 0.429|  4|  1|  0| 
 |Tanner Houck     |SP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Zac Gallen       |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Zac Gallen       |SP          |  1| 6.000|  0| 0.000|      6| 1.000|  9|  1|  0| 
 |Emmanuel Clase   |RP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Robert Suarez    |RP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Edwin Uceta      |OP          |  1| 1.333|  0| 0.000|      2| 1.500|  3|  0|  0| 
