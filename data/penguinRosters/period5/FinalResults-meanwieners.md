@@ -19,11 +19,11 @@
 |TJ Friedl       |OF        |      4|  0|   1|  0|  0| 
 |Yordan Alvarez  |OF        |     32| 16|  13|  5|  1| 
 |Andy Pages      |DH        |     22|  9|   4|  1|  0| 
-|Daulton Varsho  |DH        |     12|  2|   1|  0|  2| 
+|Daulton Varsho  |DH        |     13|  2|   1|  0|  2| 
 |Jose Siri       |DH        |     18|  9|   5|  3|  1| 
 |Wyatt Langford  |DH        |     30|  8|  15|  3|  1| 
 |Byron Buxton    |BAT BENCH |     24| 14|  15|  5|  1| 
-|Davis Schneider |BAT BENCH |     12|  3|   2|  2|  0| 
+|Davis Schneider |BAT BENCH |     13|  3|   2|  2|  2| 
 |José Caballero  |BAT BENCH |     11|  7|   2|  1|  2| 
 |Rhys Hoskins    |BAT BENCH |     22|  8|  15|  3|  0| 
 

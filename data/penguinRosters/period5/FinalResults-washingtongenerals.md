@@ -15,7 +15,7 @@
 |Bo Bichette         |MI        |      9|  6|   2|  0|  1| 
 |Alex Bregman        |CI        |     29| 13|   8|  1|  0| 
 |Brandon Nimmo       |OF        |     31| 18|  17|  6|  3| 
-|George Springer     |OF        |     27|  9|  13|  4|  1| 
+|George Springer     |OF        |     28| 10|  14|  5|  1| 
 |Lourdes Gurriel Jr. |OF        |     26| 10|  12|  4|  0| 
 |Steven Kwan         |OF        |     26| 13|  10|  5|  1| 
 |Austin Riley        |DH        |     28| 12|   9|  5|  0| 

@@ -2,21 +2,21 @@
 
 ## Period 8 scores
 
-Through games on 2024-08-25 ([website build status](https://github.com/brian-bot/pl-site/actions))
+Through games on 2024-08-26 ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 
 |team                   | points|  r| hitsbb| hr| rbi| sb|  w| sv| so|   era|  whip|
 |:----------------------|------:|--:|------:|--:|---:|--:|--:|--:|--:|-----:|-----:|
-|[Washington Generals](./washingtongenerals)|   44.0| 35|     83| 11|  39|  3|  2|  1| 34| 4.171| 1.390|
-|[Wonderbots](./wonderbots)|   39.0| 26|     76|  7|  30|  8|  1|  2| 61| 5.564| 1.309|
-|[Mean Wieners](./meanwieners)|   66.0| 38|     86| 12|  34|  4|  2|  1| 61| 2.717| 1.019|
-|[Nuclear Arms](./nucleararms)|   38.5| 30|     83| 10|  33|  8|  2|  1| 25| 4.779| 1.407|
-|[Bone Pilers](./bonepilers)|   43.0| 33|     75|  4|  27|  8|  7|  1| 40| 3.638| 1.277|
-|[Terminoeckers](./terminoeckers)|   66.5| 41|     92|  9|  29|  5|  4|  3| 64| 3.549| 1.234|
-|[T and A](./tanda)     |   46.0| 24|     73|  4|  28|  8|  4|  5| 51| 3.741| 1.193|
-|[Vass Deferens](./vassdeferens)|   81.0| 46|    104|  9|  39|  9|  7|  1| 51| 1.187| 0.857|
-|[Overwhelming Underdogs](./overwhelmingunderdogs)|   62.0| 38|     91| 11|  27|  5|  5|  3| 58| 4.717| 1.139|
-|[Boys of Summer](./boysofsummer)|   64.0| 27|     85| 10|  38|  3|  3|  3| 68| 3.375| 1.092|
+|[Washington Generals](./washingtongenerals)|   38.5| 40|    100| 12|  45|  4|  2|  1| 41| 4.213| 1.468|
+|[Wonderbots](./wonderbots)|   35.0| 30|     81|  9|  34|  8|  1|  3| 69| 5.429| 1.304|
+|[Mean Wieners](./meanwieners)|   59.0| 42|     97| 14|  38|  6|  2|  1| 66| 2.715| 1.089|
+|[Nuclear Arms](./nucleararms)|   47.0| 37|    105| 13|  45|  8|  3|  1| 31| 4.273| 1.317|
+|[Bone Pilers](./bonepilers)|   50.0| 42|     95|  8|  38|  8|  7|  1| 47| 3.544| 1.275|
+|[Terminoeckers](./terminoeckers)|   61.0| 47|    105|  9|  31|  8|  4|  4| 64| 3.489| 1.230|
+|[T and A](./tanda)     |   45.5| 31|     81|  6|  36|  8|  4|  5| 55| 3.640| 1.230|
+|[Vass Deferens](./vassdeferens)|   81.0| 54|    119| 10|  44| 10|  8|  1| 64| 2.509| 1.035|
+|[Overwhelming Underdogs](./overwhelmingunderdogs)|   70.0| 42|    107| 13|  36|  7|  7|  3| 81| 4.050| 1.050|
+|[Boys of Summer](./boysofsummer)|   63.0| 36|    106| 13|  44|  4|  4|  3| 71| 3.574| 1.103|
 
 * * *
 * * *
@@ -26,15 +26,15 @@ Through games on 2024-08-25 ([website build status](https://github.com/brian-bot
 
 |team                   |  w|  l|  t| points|
 |:----------------------|--:|--:|--:|------:|
-|Vass Deferens          |  7|  0|  0|  500.5|
-|Wonderbots             |  5|  2|  0|  391.0|
+|Vass Deferens          |  7|  0|  0|  499.0|
+|Wonderbots             |  5|  2|  0|  390.5|
 |Mean Wieners           |  4|  3|  0|  380.0|
-|Nuclear Arms           |  4|  3|  0|  377.5|
-|Washington Generals    |  4|  3|  0|  337.0|
+|Nuclear Arms           |  4|  3|  0|  377.0|
+|Washington Generals    |  4|  3|  0|  338.0|
 |Terminoeckers          |  3|  4|  0|  419.5|
-|T and A                |  3|  4|  0|  386.5|
+|T and A                |  3|  4|  0|  389.0|
 |Bone Pilers            |  3|  4|  0|  375.5|
-|Boys of Summer         |  1|  6|  0|  361.5|
+|Boys of Summer         |  1|  6|  0|  360.5|
 |Overwhelming Underdogs |  1|  6|  0|  321.0|
 
 

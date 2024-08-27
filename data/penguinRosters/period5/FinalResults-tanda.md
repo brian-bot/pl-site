@@ -15,7 +15,7 @@
 |Oneil Cruz        |MI        |     20|  8|  11|  4|  2| 
 |Anthony Santander |CI        |     20|  7|  13|  5|  0| 
 |J.D. Martinez     |OF        |     21|  6|  10|  2|  0| 
-|Jarren Duran      |OF        |     23| 11|   9|  5|  4| 
+|Jarren Duran      |OF        |     24| 12|  10|  6|  4| 
 |Julio Rodríguez   |OF        |     11|  4|   1|  1|  2| 
 |Luis Rengifo      |OF        |     19|  9|   5|  2|  4| 
 |Andrew Vaughn     |DH        |     21|  6|  11|  2|  0| 

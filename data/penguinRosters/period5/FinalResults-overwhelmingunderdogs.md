@@ -25,7 +25,7 @@
 |Jonah Heim         |BAT BENCH |     17|  6|   3|  1|  0| 
 |Jorge Polanco      |BAT BENCH |      6|  1|   1|  0|  1| 
 |Josh Jung          |BAT BENCH |     **| **|  **| **| **| 
-|Triston Casas      |BAT BENCH |     **| **|  **| **| **| 
+|Triston Casas      |BAT BENCH |      1|  0|   0|  0|  0| 
 |Xander Bogaerts    |BAT BENCH |     **| **|  **| **| **| 
 
 

@@ -13,7 +13,7 @@
 |Matt Chapman          |3B        |     30| 16|  12|  4|  3| 
 |Willy Adames          |SS        |     23|  9|   7|  1|  1| 
 |Maikel Garcia         |MI        |     12|  5|   2|  0|  4| 
-|Vladimir Guerrero Jr. |CI        |     27| 12|  22|  6|  0| 
+|Vladimir Guerrero Jr. |CI        |     28| 13|  24|  6|  0| 
 |Alex Verdugo          |OF        |     18|  7|   4|  1|  0| 
 |Cody Bellinger        |OF        |     28| 12|   5|  0|  1| 
 |Kyle Tucker           |OF        |     **| **|  **| **| **| 

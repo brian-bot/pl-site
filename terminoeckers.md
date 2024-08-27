@@ -11,19 +11,19 @@
 |Matt Chapman          |3B        |      2|  0|   1|  0|  1| 
 |Willy Adames          |SS        |     10|  6|   1|  1|  1| 
 |Tyler Fitzgerald      |MI        |      4|  2|   1|  0|  2| 
-|Vladimir Guerrero Jr. |CI        |     10|  5|   4|  1|  0| 
+|Vladimir Guerrero Jr. |CI        |     13|  7|   4|  1|  0| 
 |Brenton Doyle         |OF        |      7|  3|   3|  1|  1| 
-|Ian Happ              |OF        |      8|  3|   3|  1|  0| 
-|Jurickson Profar      |OF        |      7|  1|   3|  1|  0| 
+|Ian Happ              |OF        |     11|  3|   3|  1|  2| 
+|Jurickson Profar      |OF        |     10|  3|   3|  1|  0| 
 |Michael Harris II     |OF        |      5|  1|   1|  1|  0| 
-|Cody Bellinger        |DH        |      6|  1|   2|  0|  0| 
+|Cody Bellinger        |DH        |      9|  3|   4|  0|  1| 
 |Colton Cowser         |DH        |      5|  4|   1|  1|  0| 
 |Max Muncy             |DH        |      6|  2|   3|  0|  0| 
-|Michael Toglia        |DH        |      8|  5|   1|  1|  0| 
-|Gleyber Torres        |BAT BENCH |     11|  5|   4|  1|  0| 
+|Michael Toglia        |DH        |      9|  5|   1|  1|  0| 
+|Gleyber Torres        |BAT BENCH |     13|  6|   5|  2|  0| 
 |Kyle Tucker           |BAT BENCH |     **| **|  **| **| **| 
-|Maikel Garcia         |BAT BENCH |      3|  1|   1|  1|  0| 
-|Seiya Suzuki          |BAT BENCH |     11|  5|   4|  2|  0| 
+|Maikel Garcia         |BAT BENCH |      6|  3|   2|  1|  0| 
+|Seiya Suzuki          |BAT BENCH |     15|  8|   5|  2|  1| 
 
 
 * * *
@@ -45,9 +45,9 @@
 |Albert Suárez  |OP          |  1| 5.667|  2| 3.176|      6| 1.059|  3|  0|  0| 
 |Andrew Heaney  |OP          |  1| 5.000|  0| 0.000|      6| 1.200|  8|  0|  0| 
 |Charlie Morton |OP          |  1| 5.667|  2| 3.176|     10| 1.765|  6|  0|  0| 
-|Lucas Erceg    |OP          |  2| 2.000|  0| 0.000|      1| 0.500|  3|  0|  2| 
+|Lucas Erceg    |OP          |  3| 3.000|  0| 0.000|      2| 0.667|  3|  0|  3| 
 |Gavin Williams |PITCH BENCH |  1| 4.333|  3| 6.231|      8| 1.846|  5|  0|  0| 
-|Grant Holmes   |PITCH BENCH |  1| 1.000|  0| 0.000|      2| 2.000|  0|  0|  0| 
+|Grant Holmes   |PITCH BENCH |  2| 3.000|  1| 3.000|      5| 1.667|  1|  0|  0| 
 |Ryne Nelson    |PITCH BENCH |  1| 6.000|  2| 3.000|      6| 1.000|  7|  1|  0| 
 
 

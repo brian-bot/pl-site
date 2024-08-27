@@ -16,7 +16,7 @@
 |Josh Smith        |CI        |     25|  7|   9|  3|  0| 
 |Jake McCarthy     |OF        |     17|  7|   2|  0|  3| 
 |Joc Pederson      |OF        |     18|  7|   5|  4|  0| 
-|Masataka Yoshida  |OF        |     18|  4|   8|  1|  0| 
+|Masataka Yoshida  |OF        |     19|  4|   8|  1|  0| 
 |Taylor Ward       |OF        |     24|  9|   8|  2|  1| 
 |Carlos Correa     |DH        |     27| 14|  10|  3|  0| 
 |David Fry         |DH        |     16|  1|   3|  0|  0| 

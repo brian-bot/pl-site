@@ -17,7 +17,7 @@
 |Bryan De La Cruz  |OF        |     20|  7|  12|  4|  0| 
 |Bryan Reynolds    |OF        |     31| 11|  16|  7|  0| 
 |Teoscar Hernández |OF        |     18|  5|  10|  2|  0| 
-|Tyler O'Neill     |OF        |     25| 12|   7|  4|  2| 
+|Tyler O'Neill     |OF        |     26| 12|   7|  4|  2| 
 |Alec Bohm         |DH        |     25|  9|  13|  5|  1| 
 |Jeremy Peña       |DH        |     25| 11|  14|  2|  0| 
 |Miguel Rojas      |DH        |     19|  8|   5|  0|  0| 
@@ -46,7 +46,7 @@
 |David Bednar     |RP          |  2|  2.000|  0|  0.000|      0| 0.000|  1|  0|  2| 
 |Jon Gray         |OP          |  4| 18.000| 20| 10.000|     32| 1.778|  8|  1|  0| 
 |Lance Lynn       |OP          |  4| 20.667| 16|  6.968|     30| 1.452| 18|  2|  0| 
-|Nick Pivetta     |OP          |  4| 22.333| 11|  4.433|     28| 1.254| 23|  1|  0| 
+|Nick Pivetta     |OP          |  5| 28.333| 13|  4.129|     32| 1.129| 33|  1|  0| 
 |Trevor Megill    |OP          |  8|  7.333|  0|  0.000|      3| 0.409|  6|  0|  5| 
 |Tyler Anderson   |OP          |  4| 24.667| 10|  3.649|     28| 1.135| 19|  2|  0| 
 |Sean Manaea      |PITCH BENCH |  3| 17.667|  4|  2.038|     19| 1.075| 14|  1|  0| 
