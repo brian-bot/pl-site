@@ -5,25 +5,25 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Austin Wells        |C         |      5|  1|   2|  1|  0| 
-|Salvador Perez      |1B        |     12|  4|   9|  3|  0| 
-|Andrés Giménez      |2B        |      7|  3|   1|  0|  2| 
+|Austin Wells        |C         |      7|  1|   2|  1|  0| 
+|Salvador Perez      |1B        |     14|  5|   9|  3|  0| 
+|Andrés Giménez      |2B        |      8|  3|   1|  0|  2| 
 |José Ramírez        |3B        |     12|  3|   3|  1|  3| 
-|Jackson Holliday    |SS        |      3|  1|   3|  0|  0| 
-|Spencer Horwitz     |MI        |      8|  4|   3|  1|  0| 
-|Alec Burleson       |CI        |     10|  2|   2|  0|  0| 
+|Jackson Holliday    |SS        |      5|  2|   3|  0|  0| 
+|Spencer Horwitz     |MI        |     11|  4|   3|  1|  0| 
+|Alec Burleson       |CI        |     11|  3|   2|  0|  0| 
 |Adolis García       |OF        |      4|  0|   1|  0|  1| 
-|Brent Rooker        |OF        |      9|  2|   4|  1|  0| 
-|Giancarlo Stanton   |OF        |      7|  3|   5|  3|  0| 
-|Nick Castellanos    |OF        |      6|  3|   5|  1|  0| 
+|Brent Rooker        |OF        |     10|  2|   4|  1|  0| 
+|Giancarlo Stanton   |OF        |      8|  3|   5|  3|  0| 
+|Nick Castellanos    |OF        |      7|  4|   8|  2|  0| 
 |Adrian Del Castillo |DH        |      6|  3|   0|  0|  0| 
-|Jeff McNeil         |DH        |      4|  2|   1|  0|  0| 
-|Nolan Schanuel      |DH        |      5|  0|   0|  0|  0| 
-|Shohei Ohtani       |DH        |      7|  6|   6|  2|  2| 
-|Austin Hays         |BAT BENCH |      2|  0|   1|  0|  0| 
-|Francisco Alvarez   |BAT BENCH |      0|  1|   0|  0|  0| 
-|Jacob Wilson        |BAT BENCH |     **| **|  **| **| **| 
-|Jake Cronenworth    |BAT BENCH |      5|  3|   1|  0|  0| 
+|Jeff McNeil         |DH        |      6|  3|   3|  0|  0| 
+|Nolan Schanuel      |DH        |      6|  0|   1|  0|  0| 
+|Shohei Ohtani       |DH        |      9|  7|   6|  2|  2| 
+|Austin Hays         |BAT BENCH |      4|  2|   1|  0|  0| 
+|Francisco Alvarez   |BAT BENCH |      1|  2|   1|  0|  0| 
+|Jacob Wilson        |BAT BENCH |      1|  1|   0|  0|  0| 
+|Jake Cronenworth    |BAT BENCH |      7|  3|   2|  0|  0| 
 
 
 * * *
@@ -33,7 +33,7 @@
  
 |players            |position    |  g|    ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:------------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
-|Brandon Pfaadt     |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Brandon Pfaadt     |SP          |  1| 4.667|  6| 11.571|      9| 1.929|  6|  0|  0| 
 |Brayan Bello       |SP          |  1| 5.333|  5|  8.438|     11| 2.062|  2|  0|  0| 
 |David Peterson     |SP          |  1| 7.333|  1|  1.227|      7| 0.955|  2|  1|  0| 
 |José Berríos       |SP          |  1| 7.667|  2|  2.348|      8| 1.043|  6|  1|  0| 
@@ -45,7 +45,7 @@
 |Cade Povich        |OP          |  1| 5.000|  5|  9.000|     10| 2.000|  3|  0|  0| 
 |Devin Williams     |OP          |  1| 0.667|  2| 27.000|      4| 6.000|  2|  0|  0| 
 |Javier Assad       |OP          |  1| 7.000|  3|  3.857|      7| 1.000|  3|  0|  0| 
-|Michael Kopech     |OP          |  2| 2.000|  1|  4.500|      3| 1.500|  2|  1|  0| 
+|Michael Kopech     |OP          |  3| 3.000|  1|  3.000|      4| 1.333|  4|  1|  0| 
 |Drew Thorpe        |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Tyler Glasnow      |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Yoshinobu Yamamoto |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
