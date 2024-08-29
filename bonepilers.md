@@ -6,21 +6,21 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Cal Raleigh       |C         |      8|  2|   2|  0|  0| 
-|Bryce Harper      |1B        |     12|  5|   3|  0|  0| 
+|Bryce Harper      |1B        |     13|  5|   3|  0|  0| 
 |Brice Turang      |2B        |      5|  2|   0|  0|  0| 
-|Nolan Arenado     |3B        |      9|  3|   5|  1|  0| 
-|Dansby Swanson    |SS        |     10|  9|   8|  2|  4| 
+|Nolan Arenado     |3B        |     11|  4|   6|  1|  0| 
+|Dansby Swanson    |SS        |     11| 11|   9|  2|  5| 
 |Joey Loperfido    |MI        |      8|  3|   3|  1|  0| 
-|Josh Naylor       |CI        |      8|  2|   3|  1|  0| 
-|Jazz Chisholm Jr. |OF        |      4|  2|   2|  1|  0| 
-|Josh Lowe         |OF        |      8|  2|   2|  1|  0| 
-|Kyle Schwarber    |OF        |      9|  4|   4|  0|  0| 
-|Randy Arozarena   |OF        |     10|  4|   4|  1|  3| 
-|Lane Thomas       |DH        |      6|  1|   2|  0|  1| 
+|Josh Naylor       |CI        |     11|  3|   5|  1|  0| 
+|Jazz Chisholm Jr. |OF        |      7|  3|   3|  2|  1| 
+|Josh Lowe         |OF        |      9|  3|   3|  2|  0| 
+|Kyle Schwarber    |OF        |     10|  4|   4|  0|  0| 
+|Randy Arozarena   |OF        |     13|  6|   5|  2|  3| 
+|Lane Thomas       |DH        |      6|  2|   2|  0|  2| 
 |Rhys Hoskins      |DH        |      6|  5|   5|  1|  0| 
-|Sal Frelick       |DH        |      7|  2|   0|  0|  0| 
-|Starling Marte    |DH        |      3|  1|   0|  0|  0| 
-|Junior Caminero   |BAT BENCH |      8|  5|   3|  2|  0| 
+|Sal Frelick       |DH        |      8|  3|   0|  0|  0| 
+|Starling Marte    |DH        |      5|  2|   0|  0|  1| 
+|Junior Caminero   |BAT BENCH |      9|  5|   3|  2|  0| 
 |Patrick Bailey    |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -34,11 +34,11 @@
 |Cristopher Sánchez |SP          |  1|  6.000|  3| 4.500|     10| 1.667|  8|  0|  0| 
 |Kutter Crawford    |SP          |  1|  5.000|  2| 3.600|      5| 1.000|  3|  0|  0| 
 |Shota Imanaga      |SP          |  1|  7.000|  2| 2.571|      6| 0.857|  3|  1|  0| 
-|Tanner Bibee       |SP          |  1|  5.667|  4| 6.353|      9| 1.588|  6|  0|  0| 
+|Tanner Bibee       |SP          |  2| 10.667|  9| 7.594|     19| 1.781| 12|  0|  0| 
 |Tarik Skubal       |SP          |  1|  5.000|  3| 5.400|      8| 1.600|  8|  1|  0| 
 |Zack Wheeler       |SP          |  1|  6.000|  2| 3.000|      8| 1.333|  6|  0|  0| 
 |Blake Treinen      |RP          |  3|  3.000|  1| 3.000|      6| 2.000|  1|  1|  0| 
-|Kirby Yates        |RP          |  2|  2.000|  0| 0.000|      0| 0.000|  3|  1|  1| 
+|Kirby Yates        |RP          |  3|  3.000|  0| 0.000|      1| 0.333|  5|  1|  2| 
 |Gerrit Cole        |OP          |  2| 11.000|  3| 2.455|     13| 1.182|  9|  1|  0| 
 |Héctor Neris       |OP          |  2|  1.667|  0| 0.000|      0| 0.000|  2|  1|  0| 
 |Merrill Kelly      |OP          |  1|  6.000|  4| 6.000|     10| 1.667|  5|  1|  0| 
