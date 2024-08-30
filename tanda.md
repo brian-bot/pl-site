@@ -6,14 +6,14 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Joey Bart         |C         |      6|  4|   3|  0|  0| 
-|Anthony Santander |1B        |      7|  3|   4|  1|  0| 
+|Anthony Santander |1B        |      9|  3|   4|  1|  0| 
 |Marcus Semien     |2B        |      9|  2|   3|  0|  1| 
 |Royce Lewis       |3B        |      4|  2|   4|  0|  0| 
 |Gunnar Henderson  |SS        |      5|  2|   0|  0|  1| 
 |Oneil Cruz        |MI        |     16|  4|   3|  0|  5| 
-|Matt Olson        |CI        |     11|  7|  10|  2|  0| 
-|J.D. Martinez     |OF        |      6|  4|   3|  1|  0| 
-|Jackson Chourio   |OF        |     12|  5|   7|  1|  2| 
+|Matt Olson        |CI        |     13|  9|  13|  4|  0| 
+|J.D. Martinez     |OF        |      7|  4|   3|  1|  0| 
+|Jackson Chourio   |OF        |     14|  6|   9|  1|  2| 
 |Jarren Duran      |OF        |     13|  6|   3|  2|  1| 
 |Julio Rodríguez   |OF        |      7|  2|   4|  1|  0| 
 |Brandon Lowe      |DH        |      7|  2|   0|  0|  0| 
@@ -23,7 +23,7 @@
 |Jorge Soler       |BAT BENCH |      6|  3|   1|  1|  0| 
 |Logan O'Hoppe     |BAT BENCH |      2|  1|   0|  0|  0| 
 |Masataka Yoshida  |BAT BENCH |      9|  1|   3|  0|  1| 
-|Zack Gelof        |BAT BENCH |      9|  5|   3|  1|  4| 
+|Zack Gelof        |BAT BENCH |     10|  5|   3|  1|  4| 
 
 
 * * *
@@ -39,7 +39,7 @@
 |JP Sears             |SP          |  1|  3.667|  5| 12.273|     10| 2.727|  3|  0|  0| 
 |Luis Severino        |SP          |  2|  9.667|  5|  4.655|     18| 1.862| 14|  1|  0| 
 |Yusei Kikuchi        |SP          |  1|  5.667|  3|  4.765|      5| 0.882|  4|  0|  0| 
-|Justin Martinez      |RP          |  3|  3.667|  2|  4.909|      4| 1.091|  6|  0|  3| 
+|Justin Martinez      |RP          |  4|  4.667|  3|  5.786|      6| 1.286|  8|  0|  3| 
 |Raisel Iglesias      |RP          |  4|  5.333|  0|  0.000|      2| 0.375|  6|  2|  1| 
 |Cody Bradford        |OP          |  1|  6.000|  1|  1.500|      5| 0.833|  3|  0|  0| 
 |Colin Rea            |OP          |  1|  6.667|  4|  5.400|      8| 1.200|  5|  1|  0| 

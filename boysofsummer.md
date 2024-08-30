@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto     |C         |     10|  3|   8|  2|  0| 
+|J.T. Realmuto     |C         |     11|  4|   8|  2|  0| 
 |Ryan O'Hearn      |1B        |      3|  2|   2|  1|  0| 
-|Colt Keith        |2B        |     13|  4|   8|  1|  1| 
+|Colt Keith        |2B        |     14|  4|   8|  1|  1| 
 |Rafael Devers     |3B        |      6|  1|   3|  1|  0| 
 |Bobby Witt Jr.    |SS        |     14|  4|   3|  3|  2| 
-|Trea Turner       |MI        |     11|  3|   4|  0|  0| 
+|Trea Turner       |MI        |     12|  4|   4|  0|  0| 
 |Jose Miranda      |CI        |      6|  1|   2|  0|  0| 
-|Jake McCarthy     |OF        |      7|  4|   5|  1|  2| 
-|Kerry Carpenter   |OF        |     14|  5|   7|  2|  0| 
+|Jake McCarthy     |OF        |      8|  4|   5|  1|  2| 
+|Kerry Carpenter   |OF        |     15|  5|   7|  2|  0| 
 |Matt Wallner      |OF        |     14|  5|   6|  3|  0| 
 |Wilyer Abreu      |OF        |      8|  2|   3|  0|  0| 
 |Isaac Paredes     |DH        |     10|  4|   3|  1|  0| 
-|Joc Pederson      |DH        |     10|  4|   2|  1|  0| 
+|Joc Pederson      |DH        |     11|  4|   2|  1|  0| 
 |Will Smith        |DH        |      5|  2|   1|  0|  0| 
-|Yainer Diaz       |DH        |      8|  3|   1|  1|  0| 
+|Yainer Diaz       |DH        |      9|  4|   1|  1|  0| 
 |Carlos Correa     |BAT BENCH |     **| **|  **| **| **| 
 |Christopher Morel |BAT BENCH |      8|  3|   2|  1|  0| 
-|Josh Smith        |BAT BENCH |      3|  1|   0|  0|  0| 
+|Josh Smith        |BAT BENCH |      6|  1|   0|  0|  0| 
 |Ryan Mountcastle  |BAT BENCH |      1|  0|   0|  0|  0| 
 
 
@@ -34,7 +34,7 @@
 |players            |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:------------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Blake Snell        |SP          |  1|  3.000|  2|  6.000|      6| 2.000|  5|  0|  0| 
-|Brady Singer       |SP          |  1|  5.000|  5|  9.000|     11| 2.200|  5|  0|  0| 
+|Brady Singer       |SP          |  2| 11.000|  7|  5.727|     17| 1.545| 11|  0|  0| 
 |Chris Bassitt      |SP          |  2| 12.667|  5|  3.553|     12| 0.947| 15|  0|  0| 
 |Jameson Taillon    |SP          |  2| 11.667|  8|  6.171|     16| 1.371|  8|  1|  0| 
 |Kevin Gausman      |SP          |  1|  7.000|  1|  1.286|      2| 0.286| 10|  1|  0| 
