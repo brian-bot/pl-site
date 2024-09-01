@@ -5,25 +5,25 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|Tyler Stephenson      |C         |     18| 10|   7|  2|  0| 
-|Freddie Freeman       |1B        |      3|  2|   4|  1|  0| 
-|Gavin Lux             |2B        |      6|  3|   0|  0|  1| 
-|Matt Chapman          |3B        |      8|  3|   5|  1|  1| 
-|Willy Adames          |SS        |     17| 10|   7|  4|  1| 
-|Tyler Fitzgerald      |MI        |      8|  3|   1|  0|  2| 
-|Vladimir Guerrero Jr. |CI        |     18|  7|   5|  1|  0| 
-|Brenton Doyle         |OF        |     14|  6|   6|  2|  1| 
-|Ian Happ              |OF        |     19|  6|   6|  1|  2| 
-|Jurickson Profar      |OF        |     15|  5|   4|  1|  1| 
-|Michael Harris II     |OF        |      9|  3|   3|  2|  0| 
+|Tyler Stephenson      |C         |     19| 10|   7|  2|  0| 
+|Freddie Freeman       |1B        |      6|  3|   6|  2|  0| 
+|Gavin Lux             |2B        |      9|  5|   0|  0|  1| 
+|Matt Chapman          |3B        |     10|  4|   5|  1|  1| 
+|Willy Adames          |SS        |     20| 12|  10|  5|  2| 
+|Tyler Fitzgerald      |MI        |      9|  3|   2|  0|  2| 
+|Vladimir Guerrero Jr. |CI        |     21|  8|   6|  1|  0| 
+|Brenton Doyle         |OF        |     15|  7|   6|  2|  1| 
+|Ian Happ              |OF        |     19|  6|   7|  1|  2| 
+|Jurickson Profar      |OF        |     16|  5|   4|  1|  1| 
+|Michael Harris II     |OF        |     10|  3|   3|  2|  0| 
 |Cody Bellinger        |DH        |     12|  6|   7|  1|  2| 
 |Colton Cowser         |DH        |     12|  6|   4|  2|  0| 
-|Max Muncy             |DH        |      9|  4|   3|  0|  0| 
+|Max Muncy             |DH        |     12|  5|   4|  0|  0| 
 |Michael Toglia        |DH        |     15|  7|   1|  1|  0| 
-|Gleyber Torres        |BAT BENCH |     17|  8|   5|  2|  0| 
+|Gleyber Torres        |BAT BENCH |     18|  8|   5|  2|  0| 
 |Kyle Tucker           |BAT BENCH |     **| **|  **| **| **| 
 |Maikel Garcia         |BAT BENCH |     12|  5|   4|  1|  3| 
-|Seiya Suzuki          |BAT BENCH |     21| 10|   8|  3|  1| 
+|Seiya Suzuki          |BAT BENCH |     22| 10|   8|  3|  2| 
 
 
 * * *
@@ -41,7 +41,7 @@
 |Taj Bradley    |SP          |  2|  8.333| 13| 14.040|     17| 2.040|  7|  0|  0| 
 |Chad Green     |RP          |  4|  4.000|  0|  0.000|      1| 0.250|  3|  1|  2| 
 |Edwin Díaz     |RP          |  5|  3.667|  4|  9.818|      4| 1.091|  7|  1|  1| 
-|A.J. Puk       |OP          |  3|  2.667|  0|  0.000|      1| 0.375|  6|  0|  0| 
+|A.J. Puk       |OP          |  4|  3.667|  0|  0.000|      2| 0.545|  8|  0|  0| 
 |Albert Suárez  |OP          |  2| 12.667|  4|  2.842|     14| 1.105|  7|  1|  0| 
 |Andrew Heaney  |OP          |  2| 10.000|  1|  0.900|     12| 1.200| 10|  0|  0| 
 |Charlie Morton |OP          |  2| 11.333|  5|  3.971|     19| 1.676| 13|  0|  0| 
