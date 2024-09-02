@@ -6,24 +6,24 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Joey Bart         |C         |      6|  4|   3|  0|  0| 
-|Anthony Santander |1B        |     12|  4|   6|  2|  0| 
-|Marcus Semien     |2B        |     11|  2|   3|  0|  1| 
-|Royce Lewis       |3B        |      6|  2|   4|  0|  0| 
-|Gunnar Henderson  |SS        |      7|  2|   0|  0|  1| 
-|Oneil Cruz        |MI        |     20|  5|   6|  0|  5| 
-|Matt Olson        |CI        |     15| 10|  14|  4|  0| 
-|J.D. Martinez     |OF        |      9|  5|   5|  2|  0| 
-|Jackson Chourio   |OF        |     20|  8|  10|  2|  3| 
-|Jarren Duran      |OF        |     17|  8|   4|  3|  1| 
-|Julio Rodríguez   |OF        |     15|  5|   8|  2|  0| 
-|Brandon Lowe      |DH        |     10|  5|   1|  0|  0| 
+|Anthony Santander |1B        |     14|  4|   6|  2|  0| 
+|Marcus Semien     |2B        |     12|  3|   3|  0|  1| 
+|Royce Lewis       |3B        |      8|  4|   7|  1|  0| 
+|Gunnar Henderson  |SS        |     10|  2|   2|  0|  2| 
+|Oneil Cruz        |MI        |     20|  5|   6|  0|  6| 
+|Matt Olson        |CI        |     17| 11|  14|  4|  0| 
+|J.D. Martinez     |OF        |     11|  5|   5|  2|  0| 
+|Jackson Chourio   |OF        |     21|  8|  10|  2|  3| 
+|Jarren Duran      |OF        |     18|  8|   5|  3|  1| 
+|Julio Rodríguez   |OF        |     16|  5|   8|  2|  1| 
+|Brandon Lowe      |DH        |     11|  6|   1|  0|  0| 
 |Ceddanne Rafaela  |DH        |      5|  2|   4|  1|  0| 
 |David Hamilton    |DH        |      4|  4|   2|  1|  1| 
 |Xavier Edwards    |DH        |      3|  1|   1|  0|  1| 
 |Jorge Soler       |BAT BENCH |      8|  3|   1|  1|  0| 
 |Logan O'Hoppe     |BAT BENCH |      2|  1|   0|  0|  0| 
 |Masataka Yoshida  |BAT BENCH |      9|  1|   3|  0|  1| 
-|Zack Gelof        |BAT BENCH |     10|  5|   3|  1|  4| 
+|Zack Gelof        |BAT BENCH |     13|  6|   4|  1|  5| 
 
 
 * * *
@@ -40,7 +40,7 @@
 |Luis Severino        |SP          |  2|  9.667|  5| 4.655|     18| 1.862| 14|  1|  0| 
 |Yusei Kikuchi        |SP          |  2| 12.667|  4| 2.842|     10| 0.789| 16|  1|  0| 
 |Justin Martinez      |RP          |  5|  5.333|  3| 5.062|      7| 1.312|  8|  0|  3| 
-|Raisel Iglesias      |RP          |  4|  5.333|  0| 0.000|      2| 0.375|  6|  2|  1| 
+|Raisel Iglesias      |RP          |  5|  7.333|  0| 0.000|      3| 0.409|  9|  2|  1| 
 |Cody Bradford        |OP          |  2| 13.000|  3| 2.077|      9| 0.692| 11|  0|  0| 
 |Colin Rea            |OP          |  2| 10.667|  7| 5.906|     14| 1.312| 10|  1|  0| 
 |Joe Musgrove         |OP          |  2| 13.000|  3| 2.077|      9| 0.692| 12|  1|  0| 
