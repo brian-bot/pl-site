@@ -5,21 +5,21 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Austin Wells        |C         |     12|  5|   6|  3|  0| 
+|Austin Wells        |C         |     13|  6|   6|  3|  0| 
 |Salvador Perez      |1B        |     18|  5|   9|  3|  0| 
-|Andrés Giménez      |2B        |     14|  8|   4|  2|  3| 
-|José Ramírez        |3B        |     17|  7|   4|  2|  5| 
-|Jackson Holliday    |SS        |     10|  6|   4|  0|  3| 
+|Andrés Giménez      |2B        |     15|  8|   4|  2|  3| 
+|José Ramírez        |3B        |     18|  8|   4|  2|  5| 
+|Jackson Holliday    |SS        |     12|  7|   4|  0|  3| 
 |Spencer Horwitz     |MI        |     17|  6|   6|  2|  0| 
-|Alec Burleson       |CI        |     21|  7|   2|  0|  1| 
+|Alec Burleson       |CI        |     22|  7|   2|  0|  1| 
 |Adolis García       |OF        |     10|  0|   4|  0|  1| 
-|Brent Rooker        |OF        |     23|  8|   9|  4|  1| 
-|Giancarlo Stanton   |OF        |     13|  5|   9|  4|  0| 
+|Brent Rooker        |OF        |     24|  9|  10|  4|  1| 
+|Giancarlo Stanton   |OF        |     14|  6|  10|  5|  0| 
 |Nick Castellanos    |OF        |     13|  6|  13|  3|  0| 
 |Adrian Del Castillo |DH        |      9|  3|   0|  0|  0| 
-|Jeff McNeil         |DH        |     12|  3|   3|  0|  0| 
+|Jeff McNeil         |DH        |     13|  3|   3|  0|  0| 
 |Nolan Schanuel      |DH        |     10|  1|   2|  0|  1| 
-|Shohei Ohtani       |DH        |     15| 13|  10|  5|  5| 
+|Shohei Ohtani       |DH        |     19| 15|  10|  5|  8| 
 |Austin Hays         |BAT BENCH |      8|  2|   1|  0|  0| 
 |Francisco Alvarez   |BAT BENCH |      3|  3|   2|  0|  0| 
 |Jacob Wilson        |BAT BENCH |      5|  3|   1|  0|  0| 
@@ -34,7 +34,7 @@
 |players            |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:------------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Brandon Pfaadt     |SP          |  2| 10.333|  9|  7.839|     19| 1.839| 16|  1|  0| 
-|Brayan Bello       |SP          |  2| 13.333|  5|  3.375|     14| 1.050| 11|  1|  0| 
+|Brayan Bello       |SP          |  3| 18.333|  9|  4.418|     22| 1.200| 15|  1|  0| 
 |David Peterson     |SP          |  2| 14.333|  3|  1.884|     16| 1.116|  6|  1|  0| 
 |José Berríos       |SP          |  2| 13.667|  2|  1.317|     12| 0.878| 11|  2|  0| 
 |Reynaldo López     |SP          |  2| 12.000|  2|  1.500|     11| 0.917| 13|  1|  0| 
