@@ -5,21 +5,21 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Shea Langeliers     |C         |      9|  7|   7|  3|  0| 
-|Paul Goldschmidt    |1B        |     21|  1|   6|  1|  1| 
-|Bryson Stott        |2B        |     17|  4|   2|  1|  4| 
-|Eugenio Suárez      |3B        |     17| 11|  17|  5|  0| 
-|Francisco Lindor    |SS        |     21| 11|   9|  5|  0| 
-|Masyn Winn          |MI        |     23|  9|   6|  1|  0| 
+|Shea Langeliers     |C         |     10|  7|   7|  3|  0| 
+|Paul Goldschmidt    |1B        |     24|  2|   9|  2|  2| 
+|Bryson Stott        |2B        |     19|  5|   3|  1|  4| 
+|Eugenio Suárez      |3B        |     19| 12|  17|  5|  0| 
+|Francisco Lindor    |SS        |     23| 13|  12|  6|  1| 
+|Masyn Winn          |MI        |     24| 10|   6|  1|  0| 
 |Alex Bregman        |CI        |     11|  2|   2|  2|  0| 
-|Brandon Nimmo       |OF        |     15|  2|   1|  0|  1| 
-|George Springer     |OF        |     12|  5|   5|  2|  1| 
+|Brandon Nimmo       |OF        |     15|  2|   2|  0|  1| 
+|George Springer     |OF        |     16|  7|   5|  2|  1| 
 |Lourdes Gurriel Jr. |OF        |     15|  8|   9|  2|  1| 
-|Steven Kwan         |OF        |     15|  5|   5|  0|  1| 
-|JJ Bleday           |DH        |     17| 10|   7|  4|  0| 
+|Steven Kwan         |OF        |     16|  5|   7|  0|  1| 
+|JJ Bleday           |DH        |     18| 11|   7|  4|  0| 
 |Johan Rojas         |DH        |      4|  3|   0|  0|  0| 
 |Luis Arraez         |DH        |     22|  5|   7|  1|  2| 
-|Michael Busch       |DH        |     12|  7|   5|  0|  0| 
+|Michael Busch       |DH        |     13|  7|   5|  0|  0| 
 |Bo Bichette         |BAT BENCH |     **| **|  **| **| **| 
 |Jeimer Candelario   |BAT BENCH |     **| **|  **| **| **| 
 
@@ -45,9 +45,9 @@
 |Tanner Scott      |OP          |  6|  5.333|  0|  0.000|      4| 0.750|  7|  1|  1| 
 |Valente Bellozo   |OP          |  2|  8.667| 11| 11.423|     21| 2.423|  5|  0|  0| 
 |Landon Knack      |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Max Meyer         |PITCH BENCH |  2| 11.000|  6|  4.909|     16| 1.455|  8|  0|  0| 
+|Max Meyer         |PITCH BENCH |  3| 16.667| 11|  5.940|     26| 1.560| 13|  0|  0| 
 |Reese Olson       |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Reid Detmers      |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
+|Reid Detmers      |PITCH BENCH |  1|  6.000|  2|  3.000|      5| 0.833| 10|  0|  0| 
 
 
 * * *

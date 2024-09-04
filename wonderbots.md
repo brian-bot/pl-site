@@ -5,19 +5,19 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras |C         |     23|  8|   8|  3|  1| 
-|Nathaniel Lowe    |1B        |     14|  5|   1|  1|  0| 
-|Luis García Jr.   |2B        |      9|  3|   4|  1|  2| 
+|William Contreras |C         |     24|  8|   8|  3|  1| 
+|Nathaniel Lowe    |1B        |     15|  5|   2|  1|  0| 
+|Luis García Jr.   |2B        |     10|  3|   4|  1|  2| 
 |Manny Machado     |3B        |     22|  6|  11|  3|  2| 
 |Corey Seager      |SS        |     16|  4|   6|  2|  0| 
-|Zach Neto         |MI        |      9|  3|   3|  1|  3| 
+|Zach Neto         |MI        |     11|  3|   3|  1|  4| 
 |Alec Bohm         |CI        |      6|  2|   4|  0|  0| 
-|Bryan Reynolds    |OF        |     21| 10|   8|  3|  3| 
-|Mookie Betts      |OF        |     16|  9|  13|  2|  3| 
+|Bryan Reynolds    |OF        |     22| 10|   8|  3|  3| 
+|Mookie Betts      |OF        |     18| 10|  17|  3|  4| 
 |Teoscar Hernández |OF        |     19|  7|   7|  2|  4| 
-|Tyler O'Neill     |OF        |      8|  4|   4|  3|  1| 
+|Tyler O'Neill     |OF        |     10|  4|   4|  3|  1| 
 |Alex Call         |DH        |      3|  2|   0|  0|  1| 
-|Ezequiel Tovar    |DH        |     13|  6|   8|  2|  1| 
+|Ezequiel Tovar    |DH        |     14|  6|   8|  2|  1| 
 |Jeremy Peña       |DH        |     10|  7|   8|  2|  0| 
 |Willson Contreras |DH        |     10|  3|   1|  0|  1| 
 |Bryan De La Cruz  |BAT BENCH |      9|  5|   8|  1|  0| 
@@ -39,8 +39,8 @@
 |Sean Manaea      |SP          |  3| 20.667|  6|  2.613|     11| 0.532| 25|  2|  0| 
 |Sonny Gray       |SP          |  2| 12.000|  6|  4.500|     12| 1.000| 11|  1|  0| 
 |Tyler Anderson   |SP          |  2|  9.000|  6|  6.000|     17| 1.889|  6|  0|  0| 
-|Clay Holmes      |RP          |  4|  3.667|  0|  0.000|      3| 0.818|  1|  0|  3| 
-|David Bednar     |RP          |  5|  4.333|  6| 12.462|     11| 2.538|  2|  0|  1| 
+|Clay Holmes      |RP          |  5|  4.000|  4|  9.000|      7| 1.750|  1|  0|  3| 
+|David Bednar     |RP          |  6|  5.333|  6| 10.125|     11| 2.062|  3|  0|  1| 
 |Clayton Kershaw  |OP          |  2|  6.000|  8| 12.000|     15| 2.500|  5|  0|  0| 
 |Edward Cabrera   |OP          |  2| 10.667|  4|  3.375|     16| 1.500| 11|  1|  0| 
 |Frankie Montas   |OP          |  2| 12.000|  8|  6.000|     17| 1.417| 11|  0|  0| 
