@@ -2,21 +2,21 @@
 
 ## Period 8 scores
 
-Through games on 2024-09-03 ([website build status](https://github.com/brian-bot/pl-site/actions))
+Through games on 2024-09-04 ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 
 |team                   | points|   r| hitsbb| hr| rbi| sb|  w| sv|  so|   era|  whip|
 |:----------------------|------:|---:|------:|--:|---:|--:|--:|--:|---:|-----:|-----:|
-|[Washington Generals](./washingtongenerals)|   51.5|  99|    249| 29|  98| 13|  7|  7| 101| 4.500| 1.294|
-|[Wonderbots](./wonderbots)|   38.0|  80|    210| 26|  91| 24|  7|  4| 144| 4.815| 1.239|
-|[Mean Wieners](./meanwieners)|   59.5|  85|    225| 33|  94| 13|  5|  4| 166| 3.122| 1.086|
-|[Nuclear Arms](./nucleararms)|   65.0|  96|    243| 29|  91| 23| 14|  8| 135| 3.488| 1.227|
-|[Bone Pilers](./bonepilers)|   58.5| 101|    242| 22|  92| 25| 14|  3| 135| 3.539| 1.172|
-|[Terminoeckers](./terminoeckers)|   60.0| 108|    256| 28|  96| 13|  7|  7| 145| 4.112| 1.279|
-|[T and A](./tanda)     |   60.5|  91|    208| 21|  92| 19| 12| 10| 162| 2.973| 1.126|
-|[Vass Deferens](./vassdeferens)|   58.0| 104|    239| 24|  81| 20| 13|  6| 139| 2.911| 1.156|
-|[Overwhelming Underdogs](./overwhelmingunderdogs)|   58.5|  98|    241| 27|  86| 22| 12|  7| 150| 3.831| 1.153|
-|[Boys of Summer](./boysofsummer)|   40.5|  76|    223| 23|  87|  9|  6| 10| 151| 3.806| 1.176|
+|[Washington Generals](./washingtongenerals)|   49.0| 109|    265| 30| 100| 15|  8|  7| 114| 4.410| 1.289|
+|[Wonderbots](./wonderbots)|   37.0|  82|    223| 26|  95| 25|  7|  4| 157| 4.649| 1.207|
+|[Mean Wieners](./meanwieners)|   60.5|  98|    254| 35| 105| 14|  5|  4| 167| 3.102| 1.079|
+|[Nuclear Arms](./nucleararms)|   56.5|  99|    258| 29|  97| 23| 14|  9| 139| 3.439| 1.217|
+|[Bone Pilers](./bonepilers)|   65.5| 110|    262| 24|  98| 27| 16|  4| 151| 3.301| 1.107|
+|[Terminoeckers](./terminoeckers)|   65.0| 116|    276| 29| 104| 14| 10|  8| 171| 4.053| 1.275|
+|[T and A](./tanda)     |   57.5|  97|    223| 22|  97| 19| 12| 11| 174| 3.256| 1.141|
+|[Vass Deferens](./vassdeferens)|   61.5| 113|    261| 25|  87| 21| 14|  6| 154| 2.917| 1.138|
+|[Overwhelming Underdogs](./overwhelmingunderdogs)|   62.0| 109|    265| 30|  94| 25| 12|  7| 152| 3.796| 1.156|
+|[Boys of Summer](./boysofsummer)|   35.5|  79|    239| 24|  92| 10|  6| 10| 160| 4.215| 1.196|
 
 * * *
 * * *
