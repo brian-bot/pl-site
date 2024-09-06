@@ -6,23 +6,23 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |William Contreras |C         |     24|  8|   8|  3|  1| 
-|Nathaniel Lowe    |1B        |     18|  6|   3|  1|  0| 
+|Nathaniel Lowe    |1B        |     20|  6|   3|  1|  0| 
 |Luis García Jr.   |2B        |     12|  3|   4|  1|  2| 
 |Manny Machado     |3B        |     23|  6|  13|  3|  2| 
 |Corey Seager      |SS        |     16|  4|   6|  2|  0| 
-|Zach Neto         |MI        |     14|  4|   4|  1|  5| 
+|Zach Neto         |MI        |     17|  4|   4|  1|  5| 
 |Alec Bohm         |CI        |      6|  2|   4|  0|  0| 
-|Bryan Reynolds    |OF        |     22| 10|   8|  3|  3| 
+|Bryan Reynolds    |OF        |     24| 12|   9|  3|  4| 
 |Mookie Betts      |OF        |     20| 10|  17|  3|  4| 
 |Teoscar Hernández |OF        |     19|  7|   7|  2|  4| 
 |Tyler O'Neill     |OF        |     12|  4|   4|  3|  1| 
 |Alex Call         |DH        |      3|  2|   0|  0|  1| 
-|Ezequiel Tovar    |DH        |     14|  6|   8|  2|  1| 
-|Jeremy Peña       |DH        |     10|  7|   8|  2|  0| 
+|Ezequiel Tovar    |DH        |     16|  7|   9|  3|  2| 
+|Jeremy Peña       |DH        |     12|  7|   8|  2|  1| 
 |Willson Contreras |DH        |     10|  3|   1|  0|  1| 
-|Bryan De La Cruz  |BAT BENCH |      9|  5|   8|  1|  0| 
+|Bryan De La Cruz  |BAT BENCH |     10|  6|   8|  1|  1| 
 |Ha-Seong Kim      |BAT BENCH |     **| **|  **| **| **| 
-|Nolan Jones       |BAT BENCH |     15|  5|   6|  0|  1| 
+|Nolan Jones       |BAT BENCH |     16|  5|   7|  0|  1| 
 |Ozzie Albies      |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -45,8 +45,8 @@
 |Edward Cabrera   |OP          |  2| 10.667|  4|  3.375|     16| 1.500| 11|  1|  0| 
 |Frankie Montas   |OP          |  2| 12.000|  8|  6.000|     17| 1.417| 11|  0|  0| 
 |Justin Verlander |OP          |  3| 14.667| 11|  6.750|     25| 1.705| 12|  0|  0| 
-|Nick Pivetta     |OP          |  1|  6.000|  2|  3.000|      7| 1.167|  6|  0|  0| 
-|Aroldis Chapman  |PITCH BENCH |  6|  6.000|  3|  4.500|      8| 1.333| 11|  1|  1| 
+|Nick Pivetta     |OP          |  1|  6.000|  2|  3.000|      8| 1.333|  6|  0|  0| 
+|Aroldis Chapman  |PITCH BENCH |  7|  6.667|  3|  4.050|      8| 1.200| 12|  1|  2| 
 |Jon Gray         |PITCH BENCH |  2|  6.667| 11| 14.850|     14| 2.100|  6|  0|  0| 
 |Lance Lynn       |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 

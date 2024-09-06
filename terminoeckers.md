@@ -5,21 +5,21 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|Tyler Stephenson      |C         |     25| 10|  10|  2|  0| 
+|Tyler Stephenson      |C         |     26| 10|  10|  2|  0| 
 |Freddie Freeman       |1B        |     12|  5|  11|  4|  0| 
 |Gavin Lux             |2B        |     14|  7|   0|  0|  1| 
-|Matt Chapman          |3B        |     13|  5|   7|  2|  1| 
+|Matt Chapman          |3B        |     14|  6|   7|  2|  1| 
 |Willy Adames          |SS        |     24| 14|  15|  7|  3| 
-|Tyler Fitzgerald      |MI        |     15|  6|   2|  0|  2| 
+|Tyler Fitzgerald      |MI        |     17|  7|   2|  0|  3| 
 |Vladimir Guerrero Jr. |CI        |     26| 11|   9|  2|  0| 
-|Brenton Doyle         |OF        |     18|  8|   6|  2|  1| 
+|Brenton Doyle         |OF        |     19|  8|   6|  2|  2| 
 |Ian Happ              |OF        |     26|  9|  12|  1|  2| 
-|Jurickson Profar      |OF        |     20|  5|   5|  1|  2| 
+|Jurickson Profar      |OF        |     22|  6|   6|  2|  2| 
 |Michael Harris II     |OF        |     15|  5|   5|  3|  0| 
 |Cody Bellinger        |DH        |     18|  9|  11|  2|  2| 
 |Colton Cowser         |DH        |     18| 10|   6|  2|  0| 
 |Max Muncy             |DH        |     14|  5|   4|  0|  0| 
-|Michael Toglia        |DH        |     18|  7|   1|  1|  0| 
+|Michael Toglia        |DH        |     20|  9|   2|  2|  1| 
 |Gleyber Torres        |BAT BENCH |     28| 11|   9|  2|  0| 
 |Kyle Tucker           |BAT BENCH |     **| **|  **| **| **| 
 |Maikel Garcia         |BAT BENCH |     14|  5|   5|  1|  3| 
@@ -38,7 +38,7 @@
 |Michael King   |SP          |  2|  9.333|  3|  2.893|     17| 1.821| 10|  0|  0| 
 |Nathan Eovaldi |SP          |  3| 20.000|  5|  2.250|     18| 0.900| 21|  3|  0| 
 |Seth Lugo      |SP          |  3| 19.333|  7|  3.259|     26| 1.345| 16|  1|  0| 
-|Taj Bradley    |SP          |  2|  8.333| 13| 14.040|     17| 2.040|  7|  0|  0| 
+|Taj Bradley    |SP          |  3| 15.333| 17|  9.978|     24| 1.565| 17|  0|  0| 
 |Chad Green     |RP          |  6|  5.667|  6|  9.529|      7| 1.235|  6|  1|  2| 
 |Edwin Díaz     |RP          |  7|  5.667|  4|  6.353|      5| 0.882| 12|  1|  2| 
 |A.J. Puk       |OP          |  6|  5.000|  0|  0.000|      2| 0.400| 12|  0|  0| 
