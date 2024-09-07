@@ -7,19 +7,19 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Ryan Jeffers      |C         |     12|  3|   0|  0|  0| 
 |Carlos Santana    |1B        |     16|  4|   5|  2|  0| 
-|Ryan McMahon      |2B        |     18|  2|   4|  1|  0| 
-|Mark Vientos      |3B        |     19|  7|   8|  3|  0| 
+|Ryan McMahon      |2B        |     20|  3|   4|  1|  0| 
+|Mark Vientos      |3B        |     22|  9|  12|  5|  0| 
 |Willi Castro      |SS        |     18|  8|   4|  1|  1| 
 |José Caballero    |MI        |     11|  5|   8|  1|  2| 
-|Spencer Torkelson |CI        |     17|  8|  10|  4|  0| 
-|Aaron Judge       |OF        |     24| 10|  10|  6|  1| 
-|Daulton Varsho    |OF        |     14|  9|   5|  3|  0| 
-|Luis Robert Jr.   |OF        |     15|  7|   2|  0|  3| 
-|Yordan Alvarez    |OF        |     19|  7|   7|  5|  1| 
-|Lars Nootbaar     |DH        |     23|  7|  11|  1|  2| 
-|Taylor Ward       |DH        |     20| 10|   8|  5|  1| 
-|TJ Friedl         |DH        |     16|  3|  10|  0|  2| 
-|Wyatt Langford    |DH        |     21| 10|  13|  3|  1| 
+|Spencer Torkelson |CI        |     17|  9|  10|  4|  0| 
+|Aaron Judge       |OF        |     26| 11|  11|  6|  1| 
+|Daulton Varsho    |OF        |     15|  9|   5|  3|  0| 
+|Luis Robert Jr.   |OF        |     16|  7|   2|  0|  3| 
+|Yordan Alvarez    |OF        |     21|  9|  13|  7|  1| 
+|Lars Nootbaar     |DH        |     25|  7|  11|  1|  2| 
+|Taylor Ward       |DH        |     22| 10|   8|  5|  1| 
+|TJ Friedl         |DH        |     17|  4|  12|  1|  2| 
+|Wyatt Langford    |DH        |     22| 11|  13|  3|  1| 
 |Byron Buxton      |BAT BENCH |     **| **|  **| **| **| 
 |Jasson Domínguez  |BAT BENCH |     **| **|  **| **| **| 
 |Nolan Gorman      |BAT BENCH |     **| **|  **| **| **| 
@@ -45,7 +45,7 @@
 |Jared Jones           |OP          |  2| 10.333|  8| 6.968|     15| 1.452|  8|  0|  0| 
 |Jeff Hoffman          |OP          |  7|  6.667|  0| 0.000|      4| 0.600|  6|  0|  1| 
 |Spencer Schwellenbach |OP          |  3| 17.000|  4| 2.118|     18| 1.059| 19|  1|  0| 
-|Daniel Hudson         |PITCH BENCH |  3|  2.667|  0| 0.000|      3| 1.125|  3|  0|  0| 
+|Daniel Hudson         |PITCH BENCH |  4|  3.667|  0| 0.000|      4| 1.091|  3|  0|  0| 
 |Zach Eflin            |PITCH BENCH |  1|  7.000|  1| 1.286|      5| 0.714|  9|  1|  0| 
 
 
