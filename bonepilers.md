@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Cal Raleigh       |C         |     20|  7|  11|  2|  1| 
-|Bryce Harper      |1B        |     28|  8|   5|  0|  0| 
-|Brice Turang      |2B        |     18|  5|   2|  0|  4| 
+|Cal Raleigh       |C         |     22|  7|  11|  2|  1| 
+|Bryce Harper      |1B        |     29|  8|   5|  0|  0| 
+|Brice Turang      |2B        |     19|  6|   2|  0|  4| 
 |Nolan Arenado     |3B        |     20| 11|   9|  2|  0| 
 |Dansby Swanson    |SS        |     25| 18|  16|  4|  5| 
-|Joey Loperfido    |MI        |     10|  3|   4|  1|  0| 
-|Josh Naylor       |CI        |     21|  6|  11|  2|  1| 
-|Jazz Chisholm Jr. |OF        |     18|  9|   4|  2|  6| 
-|Josh Lowe         |OF        |     21|  6|   4|  2|  5| 
-|Kyle Schwarber    |OF        |     26| 12|  14|  5|  0| 
-|Randy Arozarena   |OF        |     23| 10|   8|  2|  3| 
-|Lane Thomas       |DH        |     16|  6|   5|  1|  3| 
+|Joey Loperfido    |MI        |     12|  4|   5|  1|  0| 
+|Josh Naylor       |CI        |     22|  6|  11|  2|  1| 
+|Jazz Chisholm Jr. |OF        |     19|  9|   4|  2|  7| 
+|Josh Lowe         |OF        |     23|  6|   4|  2|  5| 
+|Kyle Schwarber    |OF        |     27| 13|  15|  5|  0| 
+|Randy Arozarena   |OF        |     24| 10|   8|  2|  3| 
+|Lane Thomas       |DH        |     17|  7|   7|  2|  3| 
 |Rhys Hoskins      |DH        |     14|  9|  10|  3|  0| 
-|Sal Frelick       |DH        |     13|  5|   4|  0|  0| 
+|Sal Frelick       |DH        |     14|  6|   4|  0|  0| 
 |Starling Marte    |DH        |     10|  2|   2|  0|  1| 
 |Junior Caminero   |BAT BENCH |     22| 10|  10|  3|  0| 
-|Patrick Bailey    |BAT BENCH |      5|  0|   4|  0|  0| 
+|Patrick Bailey    |BAT BENCH |      8|  3|   4|  0|  0| 
 
 
 * * *
@@ -37,8 +37,8 @@
 |Tanner Bibee       |SP          |  3| 16.667| 10| 5.400|     24| 1.440| 18|  1|  0| 
 |Tarik Skubal       |SP          |  3| 18.667|  6| 2.893|     21| 1.125| 23|  2|  0| 
 |Zack Wheeler       |SP          |  3| 19.000|  3| 1.421|     15| 0.789| 20|  2|  0| 
-|Blake Treinen      |RP          |  6|  6.333|  1| 1.421|      7| 1.105|  6|  1|  0| 
-|Kirby Yates        |RP          |  7|  6.333|  1| 1.421|      4| 0.632| 10|  2|  5| 
+|Blake Treinen      |RP          |  7|  7.333|  1| 1.227|      9| 1.227|  9|  1|  0| 
+|Kirby Yates        |RP          |  8|  7.333|  1| 1.227|      4| 0.545| 11|  2|  6| 
 |Gerrit Cole        |OP          |  3| 17.000|  4| 2.118|     18| 1.059| 18|  2|  0| 
 |Héctor Neris       |OP          |  6|  5.667|  2| 3.176|      3| 0.529|  5|  1|  0| 
 |Merrill Kelly      |OP          |  3| 18.333| 10| 4.909|     27| 1.473| 14|  1|  0| 

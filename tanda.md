@@ -5,25 +5,25 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Joey Bart         |C         |      6|  4|   3|  0|  0| 
-|Anthony Santander |1B        |     22|  7|   9|  2|  0| 
-|Marcus Semien     |2B        |     17|  7|   3|  0|  1| 
+|Joey Bart         |C         |      8|  6|   3|  0|  0| 
+|Anthony Santander |1B        |     23|  7|   9|  2|  0| 
+|Marcus Semien     |2B        |     18|  8|   4|  0|  2| 
 |Royce Lewis       |3B        |     13|  4|   8|  1|  0| 
 |Gunnar Henderson  |SS        |     20|  8|   7|  3|  3| 
-|Oneil Cruz        |MI        |     24|  6|   6|  0|  7| 
-|Matt Olson        |CI        |     20| 12|  15|  4|  0| 
-|J.D. Martinez     |OF        |     12|  5|   6|  2|  0| 
-|Jackson Chourio   |OF        |     31| 11|  16|  4|  3| 
-|Jarren Duran      |OF        |     22| 10|   7|  3|  1| 
-|Julio Rodríguez   |OF        |     25| 11|  11|  3|  3| 
+|Oneil Cruz        |MI        |     27|  7|   7|  0|  7| 
+|Matt Olson        |CI        |     23| 13|  15|  4|  0| 
+|J.D. Martinez     |OF        |     13|  5|   8|  2|  0| 
+|Jackson Chourio   |OF        |     32| 11|  16|  4|  3| 
+|Jarren Duran      |OF        |     23| 11|   7|  3|  1| 
+|Julio Rodríguez   |OF        |     26| 11|  11|  3|  3| 
 |Brandon Lowe      |DH        |     14|  8|   1|  0|  0| 
 |Ceddanne Rafaela  |DH        |      7|  4|   6|  2|  0| 
 |David Hamilton    |DH        |      4|  4|   2|  1|  1| 
-|Xavier Edwards    |DH        |      5|  2|   2|  0|  1| 
+|Xavier Edwards    |DH        |      7|  4|   2|  0|  3| 
 |Jorge Soler       |BAT BENCH |     12|  5|   2|  1|  0| 
 |Logan O'Hoppe     |BAT BENCH |      6|  4|   4|  2|  0| 
 |Masataka Yoshida  |BAT BENCH |     14|  2|   3|  0|  1| 
-|Zack Gelof        |BAT BENCH |     17|  8|   4|  1|  5| 
+|Zack Gelof        |BAT BENCH |     18|  9|   4|  1|  6| 
 
 
 * * *
@@ -38,7 +38,7 @@
 |Jeffrey Springs      |SP          |  3| 14.333|  4| 2.512|     18| 1.256| 16|  1|  0| 
 |JP Sears             |SP          |  3| 16.667| 11| 5.940|     23| 1.380| 12|  1|  0| 
 |Luis Severino        |SP          |  3| 16.667|  6| 3.240|     26| 1.560| 19|  2|  0| 
-|Yusei Kikuchi        |SP          |  2| 12.667|  4| 2.842|     10| 0.789| 16|  1|  0| 
+|Yusei Kikuchi        |SP          |  3| 18.667|  8| 3.857|     17| 0.911| 22|  2|  0| 
 |Justin Martinez      |RP          |  7|  7.667|  6| 7.043|     14| 1.826| 12|  0|  4| 
 |Raisel Iglesias      |RP          |  8| 10.333|  0| 0.000|      6| 0.581| 15|  2|  4| 
 |Cody Bradford        |OP          |  3| 19.000|  4| 1.895|     13| 0.684| 15|  1|  0| 
@@ -48,7 +48,7 @@
 |Seranthony Domínguez |OP          |  6|  5.667|  2| 3.176|      6| 1.059|  7|  0|  5| 
 |Erick Fedde          |PITCH BENCH |  3| 16.000|  6| 3.375|     18| 1.125| 16|  0|  0| 
 |Hunter Greene        |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
-|Kyle Gibson          |PITCH BENCH |  3| 16.667| 10| 5.400|     23| 1.380| 13|  1|  0| 
+|Kyle Gibson          |PITCH BENCH |  4| 23.333| 10| 3.857|     29| 1.243| 22|  1|  0| 
 
 
 * * *
