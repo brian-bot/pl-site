@@ -5,26 +5,26 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|MJ Melendez        |C         |     18|  8|   6|  3|  1| 
-|Josh Bell          |1B        |     26|  7|   8|  0|  0| 
-|Jose Altuve        |2B        |     26| 14|   6|  3|  2| 
-|Matt Vierling      |3B        |     24|  9|   5|  2|  1| 
-|Jackson Merrill    |SS        |     21|  8|  13|  5|  3| 
-|Xander Bogaerts    |MI        |     19|  5|   6|  2|  3| 
-|Josh Jung          |CI        |     22|  9|   5|  2|  3| 
+|MJ Melendez        |C         |     20|  9|   6|  3|  1| 
+|Josh Bell          |1B        |     27|  8|   8|  0|  0| 
+|Jose Altuve        |2B        |     28| 15|   7|  3|  2| 
+|Matt Vierling      |3B        |     25| 10|   6|  2|  1| 
+|Jackson Merrill    |SS        |     23| 10|  14|  6|  3| 
+|Xander Bogaerts    |MI        |     20|  6|   8|  3|  3| 
+|Josh Jung          |CI        |     23|  9|   5|  2|  3| 
 |Brendan Donovan    |OF        |     20| 11|   7|  2|  1| 
-|Corbin Carroll     |OF        |     27| 15|  15|  5|  5| 
+|Corbin Carroll     |OF        |     28| 15|  15|  5|  5| 
 |Mark Canha         |OF        |      5|  1|   1|  0|  1| 
-|Spencer Steer      |OF        |     25|  4|   9|  1|  4| 
+|Spencer Steer      |OF        |     26|  5|   9|  1|  4| 
 |Jonathan India     |DH        |     23| 13|   7|  3|  2| 
-|Jorge Polanco      |DH        |     13|  5|   1|  1|  1| 
-|Justin Turner      |DH        |     21|  7|   5|  2|  0| 
+|Jorge Polanco      |DH        |     14|  6|   3|  2|  1| 
+|Justin Turner      |DH        |     24|  9|   5|  2|  0| 
 |Triston Casas      |DH        |     18|  4|   6|  1|  0| 
-|Anthony Volpe      |BAT BENCH |     20|  8|   7|  0|  4| 
+|Anthony Volpe      |BAT BENCH |     20|  8|   8|  0|  4| 
 |Christian Walker   |BAT BENCH |      5|  0|   2|  0|  0| 
 |Fernando Tatis Jr. |BAT BENCH |      5|  3|   1|  0|  0| 
 |Jonah Heim         |BAT BENCH |      7|  2|   4|  1|  0| 
-|Sean Murphy        |BAT BENCH |      7|  3|   2|  1|  0| 
+|Sean Murphy        |BAT BENCH |      7|  3|   3|  1|  0| 
 
 
 * * *
@@ -41,14 +41,14 @@
 |Nick Lodolo   |SP          |  1|  4.667|  5|  9.643|      5| 1.071|  9|  0|  0| 
 |Pablo López   |SP          |  3| 21.333|  3|  1.266|     19| 0.891| 21|  3|  0| 
 |Kyle Finnegan |RP          |  6|  7.000|  2|  2.571|     13| 1.857|  7|  0|  5| 
-|Paul Sewald   |RP          |  4|  5.000|  3|  5.400|      4| 0.800|  5|  0|  0| 
+|Paul Sewald   |RP          |  5|  6.000|  4|  6.000|      6| 1.000|  7|  0|  0| 
 |Aaron Civale  |OP          |  3| 16.000|  6|  3.375|     18| 1.125| 17|  1|  0| 
-|Michael Wacha |OP          |  3| 17.000|  9|  4.765|     21| 1.235| 15|  1|  0| 
+|Michael Wacha |OP          |  4| 24.000|  9|  3.375|     26| 1.083| 22|  2|  0| 
 |Ryan Helsley  |OP          |  8|  9.000|  0|  0.000|      7| 0.778| 13|  3|  5| 
 |Ryan Pepiot   |OP          |  4| 20.333|  8|  3.541|     28| 1.377| 19|  2|  0| 
 |Tobias Myers  |OP          |  4| 20.667|  8|  3.484|     29| 1.403| 27|  1|  0| 
 |Jesús Luzardo |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|José Alvarado |PITCH BENCH |  4|  4.000|  0|  0.000|      5| 1.250|  6|  0|  0| 
+|José Alvarado |PITCH BENCH |  5|  5.000|  0|  0.000|      5| 1.000|  6|  0|  0| 
 
 
 * * *
