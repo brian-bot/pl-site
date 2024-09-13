@@ -5,23 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Cal Raleigh       |C         |     23|  8|  12|  2|  1| 
-|Bryce Harper      |1B        |     33|  9|   6|  0|  0| 
-|Brice Turang      |2B        |     19|  6|   2|  0|  4| 
-|Nolan Arenado     |3B        |     22| 12|   9|  2|  0| 
-|Dansby Swanson    |SS        |     27| 21|  16|  4|  6| 
-|Joey Loperfido    |MI        |     14|  4|   5|  1|  0| 
-|Josh Naylor       |CI        |     25|  7|  12|  2|  1| 
-|Jazz Chisholm Jr. |OF        |     22| 10|   4|  2|  8| 
-|Josh Lowe         |OF        |     24|  6|   4|  2|  6| 
-|Kyle Schwarber    |OF        |     30| 14|  16|  6|  0| 
-|Randy Arozarena   |OF        |     26| 12|  10|  3|  3| 
-|Lane Thomas       |DH        |     19|  7|   8|  2|  3| 
-|Rhys Hoskins      |DH        |     15|  9|  11|  3|  0| 
-|Sal Frelick       |DH        |     14|  6|   4|  0|  0| 
-|Starling Marte    |DH        |     11|  2|   3|  0|  2| 
-|Junior Caminero   |BAT BENCH |     23| 10|  10|  3|  0| 
-|Patrick Bailey    |BAT BENCH |      8|  3|   4|  0|  0| 
+|Cal Raleigh       |C         |      5|  2|   2|  1|  0| 
+|Bryce Harper      |1B        |      4|  0|   0|  0|  0| 
+|Brice Turang      |2B        |      1|  1|   0|  0|  0| 
+|Nolan Arenado     |3B        |      5|  1|   1|  1|  0| 
+|Dansby Swanson    |SS        |      2|  3|   0|  0|  0| 
+|Junior Caminero   |MI        |      4|  1|   1|  0|  0| 
+|Josh Naylor       |CI        |      3|  1|   0|  0|  0| 
+|Jazz Chisholm Jr. |OF        |      4|  0|   1|  0|  0| 
+|Josh Lowe         |OF        |      4|  1|   0|  0|  0| 
+|Kyle Schwarber    |OF        |      2|  2|   1|  1|  0| 
+|Randy Arozarena   |OF        |      2|  0|   2|  0|  0| 
+|Lane Thomas       |DH        |      6|  3|   8|  1|  0| 
+|Rhys Hoskins      |DH        |      2|  0|   0|  0|  0| 
+|Sal Frelick       |DH        |      3|  0|   0|  0|  0| 
+|Starling Marte    |DH        |      1|  0|   1|  0|  0| 
+|Joey Loperfido    |BAT BENCH |      2|  0|   1|  0|  0| 
+|Nick Gonzales     |BAT BENCH |      5|  0|   0|  0|  0| 
+|Patrick Bailey    |BAT BENCH |      3|  1|   0|  0|  0| 
 
 
 * * *
@@ -29,25 +30,24 @@
 ### Pitchers
 
  
-|players            |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
-|:------------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Cristopher Sánchez |SP          |  4| 24.667|  7| 2.554|     29| 1.176| 27|  1|  0| 
-|Kutter Crawford    |SP          |  3| 17.667|  6| 3.057|     16| 0.906| 14|  0|  0| 
-|Shota Imanaga      |SP          |  3| 20.000|  5| 2.250|     13| 0.650| 18|  3|  0| 
-|Tanner Bibee       |SP          |  4| 21.667| 12| 4.985|     31| 1.431| 22|  1|  0| 
-|Tarik Skubal       |SP          |  3| 18.667|  6| 2.893|     21| 1.125| 23|  2|  0| 
-|Zack Wheeler       |SP          |  3| 19.000|  3| 1.421|     15| 0.789| 20|  2|  0| 
-|Blake Treinen      |RP          |  7|  7.333|  1| 1.227|      9| 1.227|  9|  1|  0| 
-|Kirby Yates        |RP          |  9|  8.333|  1| 1.080|      5| 0.600| 11|  2|  7| 
-|Gerrit Cole        |OP          |  4| 23.000|  4| 1.565|     22| 0.957| 25|  2|  0| 
-|Héctor Neris       |OP          |  7|  6.667|  3| 4.050|      5| 0.750|  6|  1|  0| 
-|Merrill Kelly      |OP          |  3| 18.333| 10| 4.909|     27| 1.473| 14|  1|  0| 
-|Shane Baz          |OP          |  2| 11.000|  3| 2.455|     10| 0.909| 10|  1|  0| 
-|Zack Littell       |OP          |  2|  9.000|  4| 4.000|     15| 1.667|  6|  1|  0| 
-|Casey Mize         |PITCH BENCH |  2| 11.333|  6| 4.765|     13| 1.147|  6|  0|  0| 
-|Christian Scott    |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
-|Nick Gonzales      |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
-|Ryne Stanek        |PITCH BENCH |  4|  4.667|  1| 1.929|      2| 0.429|  9|  1|  0| 
+|players            |position    |  g|    ip| er|    era| hitsbb|  whip| so|  w| sv| 
+|:------------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
+|Cristopher Sánchez |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Kutter Crawford    |SP          |  1| 6.333|  3|  4.263|      8| 1.263|  6|  0|  0| 
+|Shota Imanaga      |SP          |  1| 7.000|  3|  3.857|      7| 1.000|  4|  1|  0| 
+|Tanner Bibee       |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Tarik Skubal       |SP          |  1| 6.000|  1|  1.500|      4| 0.667|  6|  0|  0| 
+|Zack Wheeler       |SP          |  1| 6.000|  2|  3.000|      7| 1.167|  9|  1|  0| 
+|Blake Treinen      |RP          |  2| 2.000|  0|  0.000|      1| 0.500|  1|  0|  0| 
+|Kirby Yates        |RP          |  1| 1.000|  0|  0.000|      1| 1.000|  2|  0|  1| 
+|Gerrit Cole        |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Héctor Neris       |OP          |  1| 1.000|  0|  0.000|      1| 1.000|  0|  0|  0| 
+|Merrill Kelly      |OP          |  1| 4.000|  3|  6.750|      6| 1.500|  3|  0|  0| 
+|Shane Baz          |OP          |  1| 5.333|  2|  3.375|      4| 0.750|  4|  0|  0| 
+|Zack Littell       |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Casey Mize         |PITCH BENCH |  1| 4.667|  4|  7.714|      6| 1.286|  7|  0|  0| 
+|Christian Scott    |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Ryne Stanek        |PITCH BENCH |  1| 0.667|  1| 13.500|      3| 4.500|  0|  0|  0| 
 
 
 * * *
