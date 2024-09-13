@@ -30,22 +30,23 @@
 ### Pitchers
 
  
-|players               |position    |  g|    ip| er|  era| hitsbb| whip| so|  w| sv| 
-|:---------------------|:-----------|--:|-----:|--:|----:|------:|----:|--:|--:|--:| 
-|Aaron Nola            |SP          | **|    **| **|   **|     **|   **| **| **| **| 
-|Carlos Rodón          |SP          | **|    **| **|   **|     **|   **| **| **| **| 
-|Dylan Cease           |SP          | **|    **| **|   **|     **|   **| **| **| **| 
-|Garrett Crochet       |SP          | **|    **| **|   **|     **|   **| **| **| **| 
-|Zach Eflin            |SP          | **|    **| **|   **|     **|   **| **| **| **| 
-|Andrés Muñoz          |RP          |  1| 1.000|  0|  0.0|      0|  0.0|  2|  0|  1| 
-|Evan Phillips         |RP          |  2| 2.000|  0|  0.0|      3|  1.5|  2|  0|  0| 
-|Hunter Brown          |OP          |  1| 5.000|  5|  9.0|     10|  2.0|  7|  0|  0| 
-|Jared Jones           |OP          | **|    **| **|   **|     **|   **| **| **| **| 
-|Ronel Blanco          |OP          | **|    **| **|   **|     **|   **| **| **| **| 
-|Spencer Schwellenbach |OP          | **|    **| **|   **|     **|   **| **| **| **| 
-|Daniel Hudson         |PITCH BENCH |  1| 0.667|  1| 13.5|      3|  4.5|  1|  0|  0| 
-|Jeff Hoffman          |PITCH BENCH | **|    **| **|   **|     **|   **| **| **| **| 
-|Luis Castillo         |PITCH BENCH | **|    **| **|   **|     **|   **| **| **| **| 
+|players               |position    |  g|    ip| er|   era| hitsbb| whip| so|  w| sv| 
+|:---------------------|:-----------|--:|-----:|--:|-----:|------:|----:|--:|--:|--:| 
+|Aaron Nola            |SP          | **|    **| **|    **|     **|   **| **| **| **| 
+|Carlos Rodón          |SP          | **|    **| **|    **|     **|   **| **| **| **| 
+|Dylan Cease           |SP          | **|    **| **|    **|     **|   **| **| **| **| 
+|Garrett Crochet       |SP          | **|    **| **|    **|     **|   **| **| **| **| 
+|Zach Eflin            |SP          | **|    **| **|    **|     **|   **| **| **| **| 
+|Andrés Muñoz          |RP          |  1| 1.000|  0|  0.00|      0| 0.00|  2|  0|  1| 
+|Evan Phillips         |RP          |  2| 2.000|  0|  0.00|      3| 1.50|  2|  0|  0| 
+|Hunter Brown          |OP          |  1| 5.000|  5|  9.00|     10| 2.00|  7|  0|  0| 
+|Jared Jones           |OP          | **|    **| **|    **|     **|   **| **| **| **| 
+|Kumar Rocker          |OP          |  1| 4.000|  1|  2.25|      5| 1.25|  7|  0|  0| 
+|Ronel Blanco          |OP          | **|    **| **|    **|     **|   **| **| **| **| 
+|Spencer Schwellenbach |OP          | **|    **| **|    **|     **|   **| **| **| **| 
+|Daniel Hudson         |PITCH BENCH |  1| 0.667|  1| 13.50|      3| 4.50|  1|  0|  0| 
+|Jeff Hoffman          |PITCH BENCH | **|    **| **|    **|     **|   **| **| **| **| 
+|Luis Castillo         |PITCH BENCH | **|    **| **|    **|     **|   **| **| **| **| 
 
 
 * * *
