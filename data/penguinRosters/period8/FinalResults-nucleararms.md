@@ -8,7 +8,7 @@
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Austin Wells        |C         |     19|  7|  13|  4|  0| 
-|Salvador Perez      |1B        |     27|  6|  13|  4|  0| 
+|Salvador Perez      |1B        |     26|  6|  12|  4|  0| 
 |Andrés Giménez      |2B        |     24| 10|   7|  3|  5| 
 |José Ramírez        |3B        |     26|  8|   5|  2|  7| 
 |Jackson Holliday    |SS        |     15|  7|   5|  0|  3| 

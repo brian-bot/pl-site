@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras |C         |      5|  1|   2|  0|  0| 
-|Nathaniel Lowe    |1B        |      6|  1|   3|  1|  0| 
-|Luis García Jr.   |2B        |      0|  0|   0|  0|  0| 
-|Manny Machado     |3B        |      2|  1|   4|  1|  0| 
-|Zach Neto         |SS        |      3|  1|   3|  1|  0| 
+|William Contreras |C         |      7|  1|   2|  0|  0| 
+|Nathaniel Lowe    |1B        |      9|  1|   5|  1|  0| 
+|Luis García Jr.   |2B        |      1|  1|   1|  1|  0| 
+|Manny Machado     |3B        |      4|  2|   5|  1|  0| 
+|Zach Neto         |SS        |      3|  1|   4|  1|  0| 
 |Mookie Betts      |MI        |      2|  0|   0|  0|  0| 
 |Alec Bohm         |CI        |     **| **|  **| **| **| 
-|Bryan De La Cruz  |OF        |      0|  0|   0|  0|  0| 
-|Bryan Reynolds    |OF        |      5|  3|   1|  0|  0| 
-|Teoscar Hernández |OF        |      3|  2|   0|  0|  1| 
+|Bryan De La Cruz  |OF        |      2|  1|   0|  0|  0| 
+|Bryan Reynolds    |OF        |      7|  3|   2|  0|  0| 
+|Teoscar Hernández |OF        |      4|  3|   0|  0|  1| 
 |Tyler O'Neill     |OF        |      5|  2|   3|  1|  0| 
-|Ezequiel Tovar    |DH        |      2|  1|   2|  0|  0| 
-|Jeremy Peña       |DH        |      2|  1|   0|  0|  0| 
+|Ezequiel Tovar    |DH        |      4|  2|   3|  1|  0| 
+|Jeremy Peña       |DH        |      4|  1|   0|  0|  0| 
 |Nolan Jones       |DH        |      2|  2|   0|  0|  0| 
-|Victor Robles     |DH        |     10|  2|   0|  0|  3| 
+|Victor Robles     |DH        |     12|  3|   0|  0|  4| 
 |Corey Seager      |BAT BENCH |     **| **|  **| **| **| 
 |Ha-Seong Kim      |BAT BENCH |     **| **|  **| **| **| 
 |Willson Contreras |BAT BENCH |     **| **|  **| **| **| 
@@ -41,12 +41,12 @@
 |Aroldis Chapman  |RP          |  1| 1.000|  1| 9.000|      3| 3.000|  2|  0|  1| 
 |Clay Holmes      |RP          |  2| 1.667|  1| 5.400|      2| 1.200|  1|  1|  0| 
 |Albert Suárez    |OP          |  1| 6.000|  1| 1.500|      6| 1.000|  8|  1|  0| 
-|Edward Cabrera   |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Edward Cabrera   |OP          |  1| 6.000|  0| 0.000|      2| 0.333|  9|  0|  0| 
 |Frankie Montas   |OP          |  1| 6.000|  0| 0.000|      4| 0.667|  8|  1|  0| 
 |Lance Lynn       |OP          |  1| 5.000|  1| 1.800|      6| 1.200|  7|  0|  0| 
 |Nick Pivetta     |OP          |  1| 6.000|  1| 1.500|      5| 0.833|  9|  0|  0| 
 |Clayton Kershaw  |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
-|David Bednar     |PITCH BENCH |  2| 1.667|  0| 0.000|      2| 1.200|  3|  0|  0| 
+|David Bednar     |PITCH BENCH |  2| 1.667|  1| 5.400|      3| 1.800|  3|  0|  0| 
 |Jon Gray         |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
 |Justin Verlander |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
 
