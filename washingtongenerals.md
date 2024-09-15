@@ -5,21 +5,21 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Shea Langeliers     |C         |      3|  0|   1|  0|  0| 
+|Shea Langeliers     |C         |      3|  0|   2|  0|  0| 
 |Paul Goldschmidt    |1B        |      8|  0|   1|  0|  0| 
-|Bryson Stott        |2B        |      0|  0|   0|  0|  0| 
-|Eugenio Suárez      |3B        |      6|  4|   2|  2|  0| 
+|Bryson Stott        |2B        |      1|  1|   0|  0|  0| 
+|Eugenio Suárez      |3B        |      7|  4|   2|  2|  0| 
 |Francisco Lindor    |SS        |      6|  3|   2|  1|  0| 
 |Masyn Winn          |MI        |      5|  3|   1|  1|  1| 
-|Alex Bregman        |CI        |      6|  3|   2|  1|  0| 
-|Brandon Nimmo       |OF        |      4|  2|   4|  1|  0| 
+|Alex Bregman        |CI        |      7|  3|   2|  1|  0| 
+|Brandon Nimmo       |OF        |      5|  3|   4|  1|  0| 
 |George Springer     |OF        |      6|  1|   0|  0|  1| 
 |Johan Rojas         |OF        |      3|  0|   0|  0|  0| 
 |Steven Kwan         |OF        |      8|  3|   0|  0|  0| 
-|JJ Bleday           |DH        |      7|  0|   1|  0|  0| 
-|Luis Arraez         |DH        |      8|  3|   0|  0|  0| 
-|Michael Busch       |DH        |      5|  2|   4|  1|  0| 
-|Pete Crow-Armstrong |DH        |      3|  0|   2|  0|  0| 
+|JJ Bleday           |DH        |     10|  1|   1|  0|  0| 
+|Luis Arraez         |DH        |     10|  5|   1|  0|  0| 
+|Michael Busch       |DH        |      5|  2|   5|  1|  0| 
+|Pete Crow-Armstrong |DH        |      5|  2|   3|  1|  1| 
 |Bo Bichette         |BAT BENCH |     **| **|  **| **| **| 
 |Lourdes Gurriel Jr. |BAT BENCH |     **| **|  **| **| **| 
 
@@ -33,7 +33,7 @@
 |:-----------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
 |George Kirby      |SP          |  1| 5.000|  5|  9.000|      8| 1.600|  4|  0|  0| 
 |Luis L. Ortiz     |SP          |  1| 4.000|  4|  9.000|      7| 1.750|  5|  0|  0| 
-|Mitch Keller      |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Mitch Keller      |SP          |  1| 6.000|  3|  4.500|      5| 0.833|  6|  0|  0| 
 |Ranger Suárez     |SP          |  1| 5.333|  4|  6.750|     14| 2.625|  2|  0|  0| 
 |Reid Detmers      |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Rhett Lowder      |SP          |  1| 5.000|  0|  0.000|      5| 1.000|  3|  1|  0| 
@@ -48,7 +48,7 @@
 |Jordan Montgomery |PITCH BENCH |  1| 3.000|  0|  0.000|      3| 1.000|  0|  0|  1| 
 |Kenley Jansen     |PITCH BENCH |  2| 2.000|  0|  0.000|      1| 0.500|  1|  0|  0| 
 |Max Meyer         |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
-|Valente Bellozo   |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Valente Bellozo   |PITCH BENCH |  1| 5.333|  3|  5.062|      7| 1.312|  4|  0|  0| 
 
 
 * * *
