@@ -6,24 +6,24 @@
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
 |Tyler Stephenson      |C         |      6|  1|   0|  0|  0| 
-|Freddie Freeman       |1B        |      4|  1|   1|  0|  1| 
+|Freddie Freeman       |1B        |      6|  2|   4|  1|  1| 
 |Gleyber Torres        |2B        |      9|  5|   4|  2|  0| 
 |Matt Chapman          |3B        |      4|  1|   2|  1|  0| 
 |Willy Adames          |SS        |      8|  3|   8|  2|  0| 
 |Tyler Fitzgerald      |MI        |      3|  3|   1|  0|  0| 
 |Vladimir Guerrero Jr. |CI        |      9|  5|   2|  0|  0| 
-|Brenton Doyle         |OF        |      4|  0|   4|  0|  1| 
-|Ian Happ              |OF        |     10|  3|   1|  0|  2| 
-|Jurickson Profar      |OF        |     10|  4|   0|  0|  0| 
-|Kyle Tucker           |OF        |      7|  4|   2|  1|  0| 
-|Cody Bellinger        |DH        |     10|  7|   6|  2|  0| 
+|Brenton Doyle         |OF        |      6|  1|   4|  0|  3| 
+|Ian Happ              |OF        |     11|  4|   2|  0|  2| 
+|Jurickson Profar      |OF        |     14|  6|   1|  1|  0| 
+|Kyle Tucker           |OF        |      8|  4|   2|  1|  0| 
+|Cody Bellinger        |DH        |     12|  8|   6|  2|  0| 
 |Colton Cowser         |DH        |      5|  0|   0|  0|  0| 
-|Michael Toglia        |DH        |      6|  4|   1|  1|  1| 
-|Seiya Suzuki          |DH        |     13|  3|   3|  1|  1| 
-|Gavin Lux             |BAT BENCH |      2|  0|   1|  0|  0| 
-|Maikel Garcia         |BAT BENCH |      4|  1|   3|  0|  3| 
-|Max Muncy             |BAT BENCH |      6|  5|   3|  3|  0| 
-|Michael Harris II     |BAT BENCH |      8|  5|   4|  2|  0| 
+|Michael Toglia        |DH        |      7|  4|   1|  1|  1| 
+|Seiya Suzuki          |DH        |     16|  4|   3|  1|  1| 
+|Gavin Lux             |BAT BENCH |      3|  1|   1|  0|  0| 
+|Maikel Garcia         |BAT BENCH |      5|  1|   4|  0|  3| 
+|Max Muncy             |BAT BENCH |      8|  6|   3|  3|  0| 
+|Michael Harris II     |BAT BENCH |     10|  5|   4|  2|  1| 
 
 
 * * *
@@ -37,9 +37,9 @@
 |Jack Flaherty  |SP          |  1|  3.000|  4| 12.000|      9| 3.000|  4|  0|  0| 
 |Michael King   |SP          |  1|  5.000|  1|  1.800|      6| 1.200|  6|  0|  0| 
 |Nathan Eovaldi |SP          |  1|  5.000|  4|  7.200|      8| 1.600|  6|  0|  0| 
-|Seth Lugo      |SP          |  1|  7.000|  0|  0.000|      3| 0.429| 10|  1|  0| 
+|Seth Lugo      |SP          |  2| 11.667|  4|  3.086|     13| 1.114| 14|  1|  0| 
 |Taj Bradley    |SP          |  2| 10.333|  5|  4.355|     16| 1.548| 12|  0|  0| 
-|Edwin Díaz     |RP          |  2|  1.000|  1|  9.000|      2| 2.000|  2|  0|  1| 
+|Edwin Díaz     |RP          |  3|  2.000|  1|  4.500|      3| 1.500|  3|  0|  1| 
 |Porter Hodge   |RP          |  2|  2.000|  2|  9.000|      3| 1.500|  2|  0|  1| 
 |Andrew Heaney  |OP          |  1|  5.000|  3|  5.400|      8| 1.600|  3|  0|  0| 
 |Charlie Morton |OP          |  1|  6.000|  1|  1.500|      5| 0.833|  6|  0|  0| 

@@ -8,18 +8,18 @@
 |Joey Bart         |C         |      6|  1|   2|  0|  0| 
 |Anthony Santander |1B        |      7|  2|   1|  1|  0| 
 |Marcus Semien     |2B        |      6|  5|   5|  3|  0| 
-|Royce Lewis       |3B        |      6|  1|   2|  0|  0| 
+|Royce Lewis       |3B        |      8|  2|   2|  0|  0| 
 |Gunnar Henderson  |SS        |      8|  4|   2|  1|  1| 
 |Oneil Cruz        |MI        |      7|  3|   4|  0|  1| 
-|Matt Olson        |CI        |     11|  2|   8|  0|  0| 
+|Matt Olson        |CI        |     13|  2|   8|  0|  0| 
 |J.D. Martinez     |OF        |      2|  1|   0|  0|  0| 
-|Jackson Chourio   |OF        |     10|  6|   8|  2|  0| 
+|Jackson Chourio   |OF        |     11|  7|   8|  2|  0| 
 |Jarren Duran      |OF        |      8|  5|   0|  0|  0| 
 |Julio Rodríguez   |OF        |      9|  5|   5|  2|  1| 
 |Connor Norby      |DH        |      3|  1|   2|  0|  0| 
-|Jorge Soler       |DH        |     11|  6|   4|  1|  0| 
+|Jorge Soler       |DH        |     12|  6|   4|  1|  0| 
 |Xavier Edwards    |DH        |      5|  1|   0|  0|  2| 
-|Zack Gelof        |DH        |     10|  2|   3|  1|  1| 
+|Zack Gelof        |DH        |     11|  2|   3|  1|  1| 
 |Brandon Lowe      |BAT BENCH |      6|  1|   1|  1|  0| 
 |Cedric Mullins    |BAT BENCH |      7|  3|   4|  2|  2| 
 |Logan O'Hoppe     |BAT BENCH |      3|  2|   1|  0|  0| 
@@ -40,11 +40,11 @@
 |Yusei Kikuchi        |SP          |  1|  7.000|  3|  3.857|      5| 0.714|  6|  1|  0| 
 |Raisel Iglesias      |RP          |  2|  1.667|  5| 27.000|      5| 3.000|  2|  0|  0| 
 |Seranthony Domínguez |RP          |  3|  3.000|  2|  6.000|      5| 1.667|  5|  0|  1| 
-|Colin Rea            |OP          |  1|  4.000| 10| 22.500|     12| 3.000|  1|  0|  0| 
-|Jason Foley          |OP          |  3|  3.333|  2|  5.400|      3| 0.900|  4|  0|  2| 
+|Colin Rea            |OP          |  2|  6.667| 10| 13.500|     15| 2.250|  2|  0|  1| 
+|Jason Foley          |OP          |  4|  4.333|  2|  4.154|      3| 0.692|  5|  0|  3| 
 |Joe Musgrove         |OP          |  1|  6.000|  0|  0.000|      3| 0.500|  8|  1|  0| 
 |JP Sears             |OP          |  2| 12.000|  4|  3.000|     14| 1.167|  5|  0|  0| 
-|Yu Darvish           |OP          |  1|  5.000|  2|  3.600|      7| 1.400|  5|  1|  0| 
+|Yu Darvish           |OP          |  2| 11.000|  2|  1.636|     12| 1.091|  8|  2|  0| 
 |Alex Cobb            |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Erick Fedde          |PITCH BENCH |  1|  5.000|  3|  5.400|      7| 1.400|  3|  0|  0| 
 |Justin Martinez      |PITCH BENCH |  3|  3.667|  1|  2.455|      3| 0.818|  5|  0|  0| 

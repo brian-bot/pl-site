@@ -6,20 +6,20 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Austin Wells      |C         |      3|  0|   1|  0|  0| 
-|Salvador Perez    |1B        |      9|  1|   5|  1|  0| 
-|Andrés Giménez    |2B        |      6|  2|   2|  0|  2| 
-|José Ramírez      |3B        |      9|  5|   1|  1|  3| 
+|Salvador Perez    |1B        |     10|  1|   5|  1|  0| 
+|Andrés Giménez    |2B        |      7|  2|   3|  0|  2| 
+|José Ramírez      |3B        |     11|  5|   1|  1|  3| 
 |Trevor Story      |SS        |      7|  2|   2|  1|  1| 
 |Spencer Horwitz   |MI        |      8|  2|   2|  0|  0| 
-|Alec Burleson     |CI        |      5|  2|   0|  0|  0| 
+|Alec Burleson     |CI        |      7|  3|   0|  0|  0| 
 |Adolis García     |OF        |      5|  0|   2|  0|  0| 
-|Brent Rooker      |OF        |      9|  4|   8|  2|  2| 
+|Brent Rooker      |OF        |     11|  5|  10|  3|  2| 
 |Giancarlo Stanton |OF        |      6|  0|   2|  0|  0| 
-|Nick Castellanos  |OF        |      6|  4|   2|  1|  1| 
-|Jacob Wilson      |DH        |      5|  3|   0|  0|  0| 
-|Jake Cronenworth  |DH        |      5|  1|   0|  0|  0| 
-|Nolan Schanuel    |DH        |     12|  1|   4|  1|  3| 
-|Shohei Ohtani     |DH        |      7|  2|   5|  1|  1| 
+|Nick Castellanos  |OF        |      7|  4|   2|  1|  1| 
+|Jacob Wilson      |DH        |      8|  4|   0|  0|  0| 
+|Jake Cronenworth  |DH        |      6|  1|   0|  0|  0| 
+|Nolan Schanuel    |DH        |     13|  1|   4|  1|  4| 
+|Shohei Ohtani     |DH        |      8|  3|   7|  1|  1| 
 |Austin Hays       |BAT BENCH |     **| **|  **| **| **| 
 |Francisco Alvarez |BAT BENCH |      4|  3|   6|  2|  0| 
 |Jackson Holliday  |BAT BENCH |      1|  0|   0|  0|  1| 
@@ -45,7 +45,7 @@
 |Devin Williams     |OP          |  3|  3.000|  0|  0.000|      4| 1.333|  5|  0|  3| 
 |Javier Assad       |OP          |  1|  6.000|  4|  6.000|     10| 1.667|  5|  0|  0| 
 |Michael Kopech     |OP          |  2|  2.000|  1|  4.500|      5| 2.500|  3|  1|  1| 
-|Yoshinobu Yamamoto |OP          |  1|  4.000|  0|  0.000|      3| 0.750|  8|  0|  0| 
+|Yoshinobu Yamamoto |OP          |  2|  8.000|  0|  0.000|      9| 1.125| 11|  0|  0| 
 |Cade Povich        |PITCH BENCH |  1|  5.000|  2|  3.600|      4| 0.800|  8|  0|  0| 
 |Tyler Glasnow      |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 
