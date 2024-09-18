@@ -2,21 +2,21 @@
 
 ## Period 9 scores
 
-Through games on 2024-09-16 ([website build status](https://github.com/brian-bot/pl-site/actions))
+Through games on 2024-09-17 ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 
-|team                   | points|  r| hitsbb| hr| rbi| sb|  w| sv| so|   era|  whip|
-|:----------------------|------:|--:|------:|--:|---:|--:|--:|--:|--:|-----:|-----:|
-|[Washington Generals](./washingtongenerals)|   37.0| 41|    116| 12|  33|  3|  3|  2| 74| 5.678| 1.528|
-|[Nuclear Arms](./nucleararms)|   49.0| 33|    117|  9|  41| 14|  3|  6| 45| 3.436| 1.345|
-|[Mean Wieners](./meanwieners)|   60.5| 46|    116| 12|  39|  9|  6|  2| 68| 3.668| 1.272|
-|[Bone Pilers](./bonepilers)|   58.0| 39|    127| 10|  44|  7|  4|  1| 84| 3.498| 1.020|
-|[T and A](./tanda)     |   60.0| 47|    116| 11|  46|  6|  5|  5| 68| 4.940| 1.213|
-|[Overwhelming Underdogs](./overwhelmingunderdogs)|   53.0| 46|    112| 10|  37| 10|  7|  3| 71| 3.980| 1.363|
-|[Terminoeckers](./terminoeckers)|   57.0| 51|    124| 12|  40|  8|  1|  2| 71| 3.877| 1.308|
-|[Boys of Summer](./boysofsummer)|   40.5| 35|    105| 10|  36|  7|  4|  3| 68| 2.577| 1.295|
-|[Vass Deferens](./vassdeferens)|   67.5| 43|    115| 15|  42|  7|  5|  6| 67| 2.515| 0.941|
-|[Wonderbots](./wonderbots)|   67.5| 37|    114| 10|  49|  9|  5|  2| 88| 1.937| 0.848|
+|team                   | points|  r| hitsbb| hr| rbi| sb|  w| sv|  so|   era|  whip|
+|:----------------------|------:|--:|------:|--:|---:|--:|--:|--:|---:|-----:|-----:|
+|[Washington Generals](./washingtongenerals)|   28.0| 48|    133| 14|  38|  6|  4|  2|  76| 5.573| 1.500|
+|[Nuclear Arms](./nucleararms)|   51.0| 39|    138| 11|  51| 14|  3|  7|  47| 3.375| 1.339|
+|[Mean Wieners](./meanwieners)|   63.0| 55|    140| 15|  51| 11|  6|  2|  71| 3.609| 1.248|
+|[Bone Pilers](./bonepilers)|   64.5| 47|    143| 14|  51|  7|  6|  2|  97| 3.203| 0.956|
+|[T and A](./tanda)     |   54.0| 57|    134| 13|  49|  7|  6|  6|  79| 4.434| 1.204|
+|[Overwhelming Underdogs](./overwhelmingunderdogs)|   58.0| 53|    130| 14|  44| 12|  8|  4|  84| 3.699| 1.325|
+|[Terminoeckers](./terminoeckers)|   52.0| 65|    151| 14|  47|  9|  1|  2|  84| 4.366| 1.379|
+|[Boys of Summer](./boysofsummer)|   43.5| 37|    121| 10|  39|  8|  5|  4|  86| 2.426| 1.289|
+|[Vass Deferens](./vassdeferens)|   70.0| 53|    137| 19|  58|  7|  6|  6|  82| 3.607| 1.117|
+|[Wonderbots](./wonderbots)|   66.0| 48|    132| 13|  57| 10|  6|  2| 112| 2.645| 0.953|
 
 * * *
 * * *
