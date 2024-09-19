@@ -5,25 +5,25 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|Tyler Stephenson      |C         |      9|  2|   1|  0|  0| 
-|Freddie Freeman       |1B        |      8|  4|   5|  1|  1| 
+|Tyler Stephenson      |C         |     11|  2|   1|  0|  0| 
+|Freddie Freeman       |1B        |     11|  6|   5|  1|  2| 
 |Gleyber Torres        |2B        |     12|  8|   4|  2|  0| 
 |Matt Chapman          |3B        |      4|  1|   2|  1|  0| 
-|Willy Adames          |SS        |      8|  3|   8|  2|  0| 
-|Tyler Fitzgerald      |MI        |      3|  3|   1|  0|  0| 
+|Willy Adames          |SS        |      9|  3|   8|  2|  0| 
+|Tyler Fitzgerald      |MI        |      4|  4|   1|  0|  0| 
 |Vladimir Guerrero Jr. |CI        |     12|  7|   3|  0|  0| 
-|Brenton Doyle         |OF        |      7|  2|   5|  0|  3| 
+|Brenton Doyle         |OF        |      8|  2|   5|  0|  3| 
 |Ian Happ              |OF        |     14|  6|   4|  2|  2| 
 |Jurickson Profar      |OF        |     16|  6|   1|  1|  0| 
 |Kyle Tucker           |OF        |     11|  5|   3|  1|  1| 
-|Cody Bellinger        |DH        |     14|  9|   6|  2|  0| 
-|Colton Cowser         |DH        |      6|  0|   0|  0|  0| 
+|Cody Bellinger        |DH        |     14|  9|   7|  2|  0| 
+|Colton Cowser         |DH        |      8|  1|   0|  0|  0| 
 |Michael Toglia        |DH        |      9|  5|   1|  1|  1| 
-|Seiya Suzuki          |DH        |     18|  4|   3|  1|  1| 
+|Seiya Suzuki          |DH        |     20|  4|   4|  1|  1| 
 |Gavin Lux             |BAT BENCH |      4|  1|   1|  0|  0| 
 |Maikel Garcia         |BAT BENCH |      5|  1|   4|  0|  3| 
-|Max Muncy             |BAT BENCH |     11|  6|   8|  3|  1| 
-|Michael Harris II     |BAT BENCH |     12|  6|   5|  3|  1| 
+|Max Muncy             |BAT BENCH |     12|  6|   8|  3|  1| 
+|Michael Harris II     |BAT BENCH |     13|  7|   6|  4|  1| 
 
 
 * * *
@@ -33,7 +33,7 @@
  
 |players        |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:--------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Framber Valdez |SP          |  1|  6.333|  1|  1.421|      6| 0.947|  6|  0|  0| 
+|Framber Valdez |SP          |  2| 13.333|  2|  1.350|     13| 0.975| 12|  0|  0| 
 |Jack Flaherty  |SP          |  1|  3.000|  4| 12.000|      9| 3.000|  4|  0|  0| 
 |Michael King   |SP          |  2| 12.000|  3|  2.250|     12| 1.000| 13|  0|  0| 
 |Nathan Eovaldi |SP          |  2|  9.667| 11| 10.241|     21| 2.172| 10|  0|  0| 

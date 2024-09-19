@@ -7,22 +7,22 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Joey Bart         |C         |      7|  1|   2|  0|  0| 
 |Anthony Santander |1B        |      7|  2|   1|  1|  0| 
-|Marcus Semien     |2B        |      8|  7|   5|  3|  0| 
-|Royce Lewis       |3B        |      8|  2|   2|  0|  0| 
-|Gunnar Henderson  |SS        |      8|  4|   2|  1|  1| 
+|Marcus Semien     |2B        |      9|  7|   5|  3|  0| 
+|Royce Lewis       |3B        |      9|  3|   2|  0|  0| 
+|Gunnar Henderson  |SS        |     10|  4|   2|  1|  1| 
 |Oneil Cruz        |MI        |      7|  3|   4|  0|  1| 
-|Matt Olson        |CI        |     16|  3|  10|  1|  0| 
+|Matt Olson        |CI        |     18|  4|  11|  1|  0| 
 |J.D. Martinez     |OF        |      2|  1|   0|  0|  0| 
-|Jackson Chourio   |OF        |     12|  7|   8|  2|  0| 
-|Jarren Duran      |OF        |      8|  5|   0|  0|  0| 
-|Julio Rodríguez   |OF        |     13|  5|   5|  2|  1| 
-|Connor Norby      |DH        |      7|  5|   2|  0|  0| 
+|Jackson Chourio   |OF        |     13|  8|   8|  2|  0| 
+|Jarren Duran      |OF        |      9|  5|   1|  0|  0| 
+|Julio Rodríguez   |OF        |     14|  5|   5|  2|  1| 
+|Connor Norby      |DH        |      8|  5|   2|  0|  0| 
 |Jorge Soler       |DH        |     14|  8|   5|  2|  0| 
-|Xavier Edwards    |DH        |      6|  2|   0|  0|  3| 
-|Zack Gelof        |DH        |     11|  2|   3|  1|  1| 
-|Brandon Lowe      |BAT BENCH |      7|  2|   3|  2|  0| 
-|Cedric Mullins    |BAT BENCH |      8|  3|   4|  2|  3| 
-|Logan O'Hoppe     |BAT BENCH |      3|  2|   1|  0|  0| 
+|Xavier Edwards    |DH        |      7|  2|   0|  0|  5| 
+|Zack Gelof        |DH        |     13|  3|   4|  1|  1| 
+|Brandon Lowe      |BAT BENCH |      8|  2|   3|  2|  0| 
+|Cedric Mullins    |BAT BENCH |      8|  3|   5|  2|  3| 
+|Logan O'Hoppe     |BAT BENCH |      4|  2|   1|  0|  0| 
 
 
 * * *
@@ -33,7 +33,7 @@
 |players              |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:--------------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Chris Sale           |SP          |  1|  6.000|  1|  1.500|      7| 1.167|  6|  1|  0| 
-|Cody Bradford        |SP          |  1|  3.667|  8| 19.636|      9| 2.455|  4|  0|  0| 
+|Cody Bradford        |SP          |  2| 10.667|  8|  6.750|     14| 1.312| 10|  1|  0| 
 |Cole Ragans          |SP          |  2| 13.000|  3|  2.077|     14| 1.077| 13|  0|  0| 
 |Luis Gil             |SP          |  2| 10.000|  2|  1.800|     14| 1.400| 10|  1|  0| 
 |Luis Severino        |SP          |  1|  6.000|  3|  4.500|      4| 0.667|  5|  0|  0| 
@@ -47,7 +47,7 @@
 |Yu Darvish           |OP          |  2| 11.000|  2|  1.636|     12| 1.091|  8|  2|  0| 
 |Alex Cobb            |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Erick Fedde          |PITCH BENCH |  1|  5.000|  3|  5.400|      7| 1.400|  3|  0|  0| 
-|Justin Martinez      |PITCH BENCH |  3|  3.667|  1|  2.455|      3| 0.818|  5|  0|  0| 
+|Justin Martinez      |PITCH BENCH |  4|  4.667|  1|  1.929|      4| 0.857|  5|  0|  0| 
 |Max Scherzer         |PITCH BENCH |  1|  4.000|  2|  4.500|      7| 1.750|  2|  0|  0| 
 
 
