@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras |C         |     16|  5|   8|  1|  1| 
-|Nathaniel Lowe    |1B        |     14|  2|   6|  1|  0| 
+|William Contreras |C         |     20|  6|  10|  2|  1| 
+|Nathaniel Lowe    |1B        |     15|  2|   8|  1|  0| 
 |Luis García Jr.   |2B        |      4|  2|   2|  1|  0| 
-|Manny Machado     |3B        |     12|  5|  14|  4|  0| 
-|Zach Neto         |SS        |      7|  2|   4|  1|  1| 
-|Mookie Betts      |MI        |      7|  3|   3|  0|  1| 
-|Alec Bohm         |CI        |      3|  1|   1|  1|  0| 
+|Manny Machado     |3B        |     13|  6|  14|  4|  1| 
+|Zach Neto         |SS        |      8|  3|   4|  1|  1| 
+|Mookie Betts      |MI        |      7|  3|   4|  0|  1| 
+|Alec Bohm         |CI        |      7|  3|   5|  2|  0| 
 |Bryan De La Cruz  |OF        |      4|  2|   3|  1|  1| 
 |Bryan Reynolds    |OF        |     16|  3|   3|  0|  0| 
-|Teoscar Hernández |OF        |     12|  7|   3|  1|  1| 
-|Tyler O'Neill     |OF        |      9|  4|   5|  2|  0| 
-|Ezequiel Tovar    |DH        |     11|  5|   8|  3|  0| 
-|Jeremy Peña       |DH        |     11|  4|   2|  0|  1| 
+|Teoscar Hernández |OF        |     14|  8|   5|  2|  1| 
+|Tyler O'Neill     |OF        |     10|  5|   5|  2|  0| 
+|Ezequiel Tovar    |DH        |     12|  5|   8|  3|  0| 
+|Jeremy Peña       |DH        |     13|  5|   2|  0|  2| 
 |Nolan Jones       |DH        |      7|  3|   1|  0|  1| 
-|Victor Robles     |DH        |     18|  4|   1|  0|  6| 
+|Victor Robles     |DH        |     20|  6|   2|  0|  7| 
 |Corey Seager      |BAT BENCH |     **| **|  **| **| **| 
 |Ha-Seong Kim      |BAT BENCH |     **| **|  **| **| **| 
 |Willson Contreras |BAT BENCH |     **| **|  **| **| **| 
@@ -33,11 +33,11 @@
 |players          |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Bowden Francis   |SP          |  2| 14.000|  3| 1.929|      8| 0.571|  7|  0|  0| 
-|Corbin Burnes    |SP          |  1|  7.000|  0| 0.000|      3| 0.429|  7|  1|  0| 
+|Corbin Burnes    |SP          |  2| 14.000|  0| 0.000|      9| 0.643| 15|  2|  0| 
 |Logan Gilbert    |SP          |  2| 11.333|  6| 4.765|     15| 1.324| 16|  1|  0| 
 |Sean Manaea      |SP          |  2| 13.667|  2| 1.317|     12| 0.878| 14|  0|  0| 
 |Sonny Gray       |SP          |  2| 11.667|  5| 3.857|     13| 1.114| 17|  1|  0| 
-|Tyler Anderson   |SP          |  1|  5.000|  4| 7.200|     10| 2.000|  4|  0|  0| 
+|Tyler Anderson   |SP          |  2|  7.667|  7| 8.217|     18| 2.348|  8|  0|  0| 
 |Aroldis Chapman  |RP          |  3|  3.000|  1| 3.000|      4| 1.333|  3|  0|  3| 
 |Clay Holmes      |RP          |  5|  4.000|  2| 4.500|      6| 1.500|  3|  1|  0| 
 |Albert Suárez    |OP          |  2|  9.333|  5| 4.821|     14| 1.500| 11|  1|  0| 
@@ -48,7 +48,7 @@
 |Clayton Kershaw  |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 |David Bednar     |PITCH BENCH |  5|  4.000|  3| 6.750|      8| 2.000|  5|  0|  0| 
 |Jon Gray         |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
-|Justin Verlander |PITCH BENCH |  1|  5.000|  2| 3.600|      6| 1.200|  2|  1|  0| 
+|Justin Verlander |PITCH BENCH |  2|  9.667|  8| 7.448|     15| 1.552|  6|  1|  0| 
 
 
 * * *
