@@ -5,22 +5,22 @@
  
 |players         |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman |C         |      8|  2|   5|  1|  0| 
-|Pete Alonso     |1B        |     16|  6|   8|  3|  0| 
+|Adley Rutschman |C         |     10|  4|   5|  1|  0| 
+|Pete Alonso     |1B        |     21|  7|   9|  3|  0| 
 |Nico Hoerner    |2B        |     19|  5|   2|  0|  2| 
-|Elly De La Cruz |3B        |     16|  7|   5|  1|  3| 
+|Elly De La Cruz |3B        |     19|  9|   9|  2|  3| 
 |CJ Abrams       |SS        |     13|  5|   1|  1|  3| 
-|Ketel Marte     |MI        |     15|  5|   9|  3|  0| 
-|Jake Burger     |CI        |     13|  4|   8|  2|  0| 
+|Ketel Marte     |MI        |     20|  7|  11|  4|  1| 
+|Jake Burger     |CI        |     14|  4|   8|  2|  0| 
 |Heliot Ramos    |OF        |     12|  6|   3|  1|  1| 
-|Juan Soto       |OF        |     14|  6|   6|  2|  1| 
-|Lawrence Butler |OF        |     11|  4|   3|  1|  2| 
-|Marcell Ozuna   |OF        |     18|  7|   3|  1|  0| 
+|Juan Soto       |OF        |     16|  8|   6|  2|  1| 
+|Lawrence Butler |OF        |     12|  4|   3|  1|  3| 
+|Marcell Ozuna   |OF        |     22|  8|   3|  1|  0| 
 |James Wood      |DH        |     15|  5|   6|  3|  2| 
-|Jonah Bride     |DH        |     11|  5|   6|  1|  0| 
-|Juan Yepez      |DH        |      7|  3|   1|  1|  0| 
-|Riley Greene    |DH        |     13|  7|  10|  4|  0| 
-|Jace Jung       |BAT BENCH |      7|  5|   0|  0|  0| 
+|Jonah Bride     |DH        |     13|  7|   6|  1|  0| 
+|Juan Yepez      |DH        |      9|  5|   1|  1|  0| 
+|Riley Greene    |DH        |     17| 10|  11|  4|  0| 
+|Jace Jung       |BAT BENCH |      8|  5|   0|  0|  0| 
 |Miguel Andujar  |BAT BENCH |     **| **|  **| **| **| 
 |Mitch Garver    |BAT BENCH |      4|  1|   3|  1|  0| 
 

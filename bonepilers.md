@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Cal Raleigh       |C         |     15|  3|   3|  1|  0| 
+|Cal Raleigh       |C         |     18|  3|   4|  1|  0| 
 |Bryce Harper      |1B        |     17|  6|   7|  3|  1| 
 |Brice Turang      |2B        |     15|  6|   2|  0|  5| 
-|Nolan Arenado     |3B        |     17|  4|   5|  1|  0| 
-|Dansby Swanson    |SS        |     16| 11|   6|  2|  1| 
-|Junior Caminero   |MI        |     11|  2|   3|  1|  0| 
+|Nolan Arenado     |3B        |     19|  5|   5|  1|  0| 
+|Dansby Swanson    |SS        |     17| 11|   6|  2|  1| 
+|Junior Caminero   |MI        |     12|  2|   3|  1|  0| 
 |Josh Naylor       |CI        |     13|  6|   4|  2|  0| 
 |Jazz Chisholm Jr. |OF        |     11|  3|   3|  1|  2| 
-|Josh Lowe         |OF        |     12|  4|   1|  1|  1| 
-|Kyle Schwarber    |OF        |     14|  7|   4|  1|  0| 
-|Randy Arozarena   |OF        |     15|  3|   5|  1|  0| 
-|Lane Thomas       |DH        |     13|  7|  11|  4|  0| 
+|Josh Lowe         |OF        |     14|  4|   1|  1|  2| 
+|Kyle Schwarber    |OF        |     15|  8|   5|  2|  0| 
+|Randy Arozarena   |OF        |     17|  4|   6|  1|  0| 
+|Lane Thomas       |DH        |     15|  8|  11|  4|  0| 
 |Rhys Hoskins      |DH        |     12|  3|   3|  2|  0| 
-|Sal Frelick       |DH        |      7|  2|   1|  0|  1| 
-|Starling Marte    |DH        |     13|  3|   7|  0|  1| 
-|Joey Loperfido    |BAT BENCH |      4|  0|   1|  0|  0| 
-|Nick Gonzales     |BAT BENCH |     14|  2|   2|  0|  1| 
+|Sal Frelick       |DH        |      8|  2|   1|  0|  1| 
+|Starling Marte    |DH        |     15|  4|   7|  0|  1| 
+|Joey Loperfido    |BAT BENCH |      5|  0|   1|  0|  0| 
+|Nick Gonzales     |BAT BENCH |     15|  2|   2|  0|  1| 
 |Patrick Bailey    |BAT BENCH |      9|  2|   1|  0|  0| 
 
 
@@ -42,7 +42,7 @@
 |Kirby Yates        |RP          |  3|  3.000|  0| 0.000|      3| 1.000|  4|  0|  2| 
 |Gerrit Cole        |OP          |  2| 13.333|  8| 5.400|     11| 0.825|  9|  1|  0| 
 |Héctor Neris       |OP          |  6|  6.333|  1| 1.421|      5| 0.789|  7|  1|  1| 
-|Merrill Kelly      |OP          |  2| 10.000|  4| 3.600|     10| 1.000|  8|  0|  0| 
+|Merrill Kelly      |OP          |  3| 15.000|  4| 2.400|     12| 0.800| 14|  1|  0| 
 |Shane Baz          |OP          |  2| 12.333|  4| 2.919|      7| 0.568| 10|  1|  0| 
 |Zack Littell       |OP          |  2| 13.000|  0| 0.000|      3| 0.231| 12|  2|  0| 
 |Casey Mize         |PITCH BENCH |  2|  9.000|  5| 5.000|     16| 1.778| 10|  0|  0| 
