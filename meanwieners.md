@@ -7,21 +7,21 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Ryan Jeffers      |C         |      5|  5|   3|  0|  0| 
 |Carlos Santana    |1B        |     13|  6|   4|  2|  0| 
-|Ryan McMahon      |2B        |     11|  4|   3|  2|  0| 
-|Mark Vientos      |3B        |     11|  4|   5|  1|  0| 
-|Willi Castro      |SS        |     17|  7|   6|  1|  1| 
-|José Caballero    |MI        |      8|  1|   2|  0|  5| 
-|Spencer Torkelson |CI        |     15|  3|   4|  0|  0| 
-|Aaron Judge       |OF        |     21|  6|  11|  3|  2| 
+|Ryan McMahon      |2B        |     13|  5|   3|  2|  0| 
+|Mark Vientos      |3B        |     12|  5|   5|  1|  0| 
+|Willi Castro      |SS        |     19|  8|   7|  1|  1| 
+|José Caballero    |MI        |      9|  1|   2|  0|  5| 
+|Spencer Torkelson |CI        |     16|  4|   5|  1|  0| 
+|Aaron Judge       |OF        |     25|  8|  12|  4|  2| 
 |Daulton Varsho    |OF        |      2|  2|   0|  0|  0| 
 |Luis Robert Jr.   |OF        |     14|  6|   0|  0|  1| 
-|Yordan Alvarez    |OF        |     18|  8|   6|  3|  0| 
-|Jasson Domínguez  |DH        |     12|  4|   2|  1|  3| 
-|Taylor Ward       |DH        |     18|  7|   6|  3|  1| 
-|TJ Friedl         |DH        |     14|  5|   9|  2|  1| 
-|Wyatt Langford    |DH        |     20|  9|   3|  2|  4| 
-|Byron Buxton      |BAT BENCH |      8|  5|   4|  1|  1| 
-|Lars Nootbaar     |BAT BENCH |     11|  3|   5|  1|  0| 
+|Yordan Alvarez    |OF        |     20|  8|   6|  3|  0| 
+|Jasson Domínguez  |DH        |     13|  5|   4|  2|  3| 
+|Taylor Ward       |DH        |     20|  8|   7|  3|  1| 
+|TJ Friedl         |DH        |     15|  5|   9|  2|  1| 
+|Wyatt Langford    |DH        |     21| 10|   6|  3|  4| 
+|Byron Buxton      |BAT BENCH |     10|  5|   5|  1|  1| 
+|Lars Nootbaar     |BAT BENCH |     13|  4|   5|  1|  0| 
 |Nolan Gorman      |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -38,7 +38,7 @@
 |Garrett Crochet       |SP          |  2|  8.000|  1| 1.125|      4| 0.500| 12|  0|  0| 
 |Jacob deGrom          |SP          |  2|  6.667|  1| 1.350|      8| 1.200|  9|  0|  0| 
 |Zach Eflin            |SP          |  2| 12.667|  3| 2.132|     13| 1.026|  8|  0|  0| 
-|Andrés Muñoz          |RP          |  5|  5.000|  0| 0.000|      1| 0.200|  7|  1|  3| 
+|Andrés Muñoz          |RP          |  6|  5.667|  1| 1.588|      3| 0.529|  8|  1|  3| 
 |Evan Phillips         |RP          |  6|  5.333|  5| 8.438|     10| 1.875|  4|  1|  0| 
 |Hunter Brown          |OP          |  2| 11.000|  7| 5.727|     16| 1.455| 10|  0|  0| 
 |Jared Jones           |OP          |  2|  9.000|  8| 8.000|     18| 2.000| 10|  0|  0| 
