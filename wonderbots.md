@@ -11,15 +11,15 @@
 |Manny Machado     |3B        |     14|  6|  14|  4|  1| 
 |Zach Neto         |SS        |     11|  5|  10|  3|  1| 
 |Mookie Betts      |MI        |     12|  5|   7|  2|  2| 
-|Alec Bohm         |CI        |      8|  3|   6|  2|  0| 
+|Alec Bohm         |CI        |      9|  3|   6|  2|  0| 
 |Bryan De La Cruz  |OF        |      6|  2|   3|  1|  1| 
 |Bryan Reynolds    |OF        |     17|  3|   3|  0|  0| 
 |Teoscar Hernández |OF        |     17|  9|   6|  3|  1| 
-|Tyler O'Neill     |OF        |     10|  5|   5|  2|  0| 
+|Tyler O'Neill     |OF        |     11|  5|   5|  2|  0| 
 |Ezequiel Tovar    |DH        |     16|  6|  10|  3|  0| 
-|Jeremy Peña       |DH        |     18|  7|   2|  0|  2| 
+|Jeremy Peña       |DH        |     19|  7|   2|  0|  2| 
 |Nolan Jones       |DH        |      9|  4|   3|  0|  1| 
-|Victor Robles     |DH        |     21|  8|   4|  0|  9| 
+|Victor Robles     |DH        |     24| 10|   4|  0|  9| 
 |Corey Seager      |BAT BENCH |     **| **|  **| **| **| 
 |Ha-Seong Kim      |BAT BENCH |     **| **|  **| **| **| 
 |Willson Contreras |BAT BENCH |     **| **|  **| **| **| 

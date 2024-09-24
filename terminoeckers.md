@@ -8,7 +8,7 @@
 |Tyler Stephenson      |C         |     15|  6|   7|  1|  0| 
 |Freddie Freeman       |1B        |     17|  6|   6|  1|  3| 
 |Gleyber Torres        |2B        |     19| 10|   7|  3|  0| 
-|Matt Chapman          |3B        |      7|  3|   4|  3|  0| 
+|Matt Chapman          |3B        |     10|  4|   7|  4|  0| 
 |Willy Adames          |SS        |     14|  4|   9|  2|  1| 
 |Tyler Fitzgerald      |MI        |      7|  5|   1|  0|  0| 
 |Vladimir Guerrero Jr. |CI        |     23| 10|   6|  2|  0| 
@@ -19,7 +19,7 @@
 |Cody Bellinger        |DH        |     16|  9|  10|  2|  0| 
 |Colton Cowser         |DH        |     13|  4|   2|  2|  0| 
 |Michael Toglia        |DH        |     12|  7|   3|  2|  2| 
-|Seiya Suzuki          |DH        |     25|  5|   7|  2|  2| 
+|Seiya Suzuki          |DH        |     26|  5|   7|  2|  2| 
 |Gavin Lux             |BAT BENCH |     11|  3|   2|  0|  0| 
 |Maikel Garcia         |BAT BENCH |      7|  1|   4|  0|  4| 
 |Max Muncy             |BAT BENCH |     20| 12|   9|  3|  1| 

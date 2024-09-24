@@ -7,19 +7,19 @@
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Shea Langeliers     |C         |     14|  4|   7|  3|  0| 
 |Paul Goldschmidt    |1B        |     16|  6|   2|  0|  2| 
-|Bryson Stott        |2B        |      9|  2|   0|  0|  2| 
-|Eugenio Suárez      |3B        |     17|  7|   8|  3|  0| 
+|Bryson Stott        |2B        |      9|  3|   0|  0|  2| 
+|Eugenio Suárez      |3B        |     18|  7|   8|  3|  0| 
 |Francisco Lindor    |SS        |      7|  3|   2|  1|  0| 
 |Masyn Winn          |MI        |     11|  7|   2|  2|  1| 
-|Alex Bregman        |CI        |     17|  8|   8|  3|  0| 
+|Alex Bregman        |CI        |     18|  8|   8|  3|  0| 
 |Brandon Nimmo       |OF        |     14|  9|  13|  4|  1| 
-|George Springer     |OF        |     11|  4|   0|  0|  1| 
-|Johan Rojas         |OF        |      6|  2|   2|  0|  2| 
+|George Springer     |OF        |     12|  4|   0|  0|  1| 
+|Johan Rojas         |OF        |      7|  2|   2|  0|  2| 
 |Steven Kwan         |OF        |      8|  3|   0|  0|  0| 
 |JJ Bleday           |DH        |     19|  2|   2|  0|  1| 
 |Luis Arraez         |DH        |     17|  6|   2|  0|  0| 
-|Michael Busch       |DH        |     13|  5|  10|  4|  0| 
-|Pete Crow-Armstrong |DH        |     14|  8|   5|  2|  1| 
+|Michael Busch       |DH        |     14|  5|  10|  4|  0| 
+|Pete Crow-Armstrong |DH        |     15|  8|   5|  2|  1| 
 |Bo Bichette         |BAT BENCH |      2|  0|   1|  0|  0| 
 |Lourdes Gurriel Jr. |BAT BENCH |      4|  2|   2|  1|  0| 
 

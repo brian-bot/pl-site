@@ -14,8 +14,8 @@
 |Matt Olson        |CI        |     29|  8|  19|  4|  0| 
 |J.D. Martinez     |OF        |      4|  2|   0|  0|  0| 
 |Jackson Chourio   |OF        |     18| 10|   9|  2|  1| 
-|Jarren Duran      |OF        |     17|  8|   3|  0|  2| 
-|Julio Rodríguez   |OF        |     23| 10|  14|  5|  2| 
+|Jarren Duran      |OF        |     19|  8|   3|  0|  2| 
+|Julio Rodríguez   |OF        |     26| 11|  16|  5|  3| 
 |Connor Norby      |DH        |     14|  8|   3|  1|  1| 
 |Jorge Soler       |DH        |     20| 12|  11|  4|  0| 
 |Xavier Edwards    |DH        |      9|  2|   0|  0|  5| 
