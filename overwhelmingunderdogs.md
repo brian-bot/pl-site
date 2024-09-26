@@ -6,22 +6,22 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |MJ Melendez        |C         |      7|  1|   0|  0|  0| 
-|Christian Walker   |1B        |     17|  7|  10|  3|  0| 
+|Christian Walker   |1B        |     19|  9|  11|  3|  0| 
 |Jose Altuve        |2B        |     17|  6|   5|  1|  2| 
-|Matt Vierling      |3B        |     16|  6|   4|  0|  1| 
-|Anthony Volpe      |SS        |     11|  5|   4|  1|  1| 
-|Xander Bogaerts    |MI        |     12|  3|   6|  2|  3| 
+|Matt Vierling      |3B        |     17|  6|   4|  0|  1| 
+|Anthony Volpe      |SS        |     12|  5|   5|  1|  1| 
+|Xander Bogaerts    |MI        |     14|  3|   7|  2|  3| 
 |Josh Jung          |CI        |      6|  2|   2|  1|  0| 
-|Corbin Carroll     |OF        |     23| 12|   6|  2|  6| 
-|Fernando Tatis Jr. |OF        |     17| 10|  11|  6|  2| 
-|Jackson Merrill    |OF        |     17|  4|   6|  1|  0| 
+|Corbin Carroll     |OF        |     25| 13|   7|  2|  6| 
+|Fernando Tatis Jr. |OF        |     20| 11|  12|  7|  2| 
+|Jackson Merrill    |OF        |     18|  5|   6|  1|  0| 
 |Spencer Steer      |OF        |     14|  7|   6|  1|  1| 
 |Jonathan India     |DH        |     23|  7|   5|  1|  1| 
-|Jorge Polanco      |DH        |     15|  3|   6|  2|  0| 
-|Justin Turner      |DH        |     24|  9|   5|  2|  0| 
-|Triston Casas      |DH        |     18|  7|  10|  4|  0| 
-|Brendan Donovan    |BAT BENCH |     24|  4|   7|  2|  1| 
-|Jonah Heim         |BAT BENCH |     10|  2|   4|  1|  0| 
+|Jorge Polanco      |DH        |     16|  3|   6|  2|  0| 
+|Justin Turner      |DH        |     25|  9|   7|  2|  0| 
+|Triston Casas      |DH        |     19|  7|  11|  4|  0| 
+|Brendan Donovan    |BAT BENCH |     24|  4|   8|  2|  1| 
+|Jonah Heim         |BAT BENCH |     12|  4|   4|  1|  0| 
 |Josh Bell          |BAT BENCH |      9|  5|   5|  1|  0| 
 |Mark Canha         |BAT BENCH |     10|  0|   0|  0|  2| 
 |Sean Murphy        |BAT BENCH |      8|  2|   4|  1|  0| 
@@ -44,7 +44,7 @@
 |Kyle Finnegan   |RP          |  5|  5.000|  0|  0.000|      5| 1.000|  4|  0|  2| 
 |Aaron Civale    |OP          |  3| 14.667|  6|  3.682|     18| 1.227| 10|  2|  0| 
 |Michael Wacha   |OP          |  2| 10.667|  3|  2.531|     14| 1.312| 13|  1|  0| 
-|Ryan Helsley    |OP          |  4|  4.000|  0|  0.000|      1| 0.250|  6|  0|  4| 
+|Ryan Helsley    |OP          |  5|  4.667|  0|  0.000|      1| 0.214|  6|  0|  5| 
 |Ryan Pepiot     |OP          |  3| 13.000|  5|  3.462|     15| 1.154| 19|  0|  0| 
 |Tobias Myers    |OP          |  3| 14.000|  7|  4.500|     22| 1.571| 10|  1|  0| 
 |Jesús Luzardo   |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
