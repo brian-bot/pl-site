@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Ryan Jeffers      |C         |      8|  6|   3|  0|  0| 
-|Carlos Santana    |1B        |     20|  7|   9|  2|  0| 
-|Ryan McMahon      |2B        |     17|  7|   4|  2|  0| 
+|Ryan Jeffers      |C         |     10|  7|   5|  1|  0| 
+|Carlos Santana    |1B        |     23|  8|   9|  2|  0| 
+|Ryan McMahon      |2B        |     17|  7|   5|  2|  0| 
 |Mark Vientos      |3B        |     15|  7|   8|  3|  0| 
-|Willi Castro      |SS        |     22| 10|   8|  1|  1| 
+|Willi Castro      |SS        |     23| 10|   8|  1|  1| 
 |José Caballero    |MI        |     11|  1|   2|  0|  5| 
 |Spencer Torkelson |CI        |     21|  6|   8|  2|  0| 
 |Aaron Judge       |OF        |     33| 12|  18|  7|  2| 
 |Daulton Varsho    |OF        |      2|  2|   0|  0|  0| 
 |Luis Robert Jr.   |OF        |     19|  7|   0|  0|  1| 
 |Yordan Alvarez    |OF        |     20|  8|   6|  3|  0| 
-|Jasson Domínguez  |DH        |     17|  6|   4|  2|  4| 
-|Taylor Ward       |DH        |     26|  8|   9|  3|  2| 
-|TJ Friedl         |DH        |     20|  6|   9|  2|  1| 
-|Wyatt Langford    |DH        |     28| 14|  10|  5|  6| 
+|Jasson Domínguez  |DH        |     19|  6|   4|  2|  4| 
+|Taylor Ward       |DH        |     27|  8|  10|  3|  2| 
+|TJ Friedl         |DH        |     21|  6|   9|  2|  1| 
+|Wyatt Langford    |DH        |     30| 16|  11|  6|  6| 
 |Byron Buxton      |BAT BENCH |     18|  8|   7|  2|  1| 
-|Lars Nootbaar     |BAT BENCH |     20|  9|  10|  3|  0| 
+|Lars Nootbaar     |BAT BENCH |     22|  9|  10|  3|  0| 
 |Nolan Gorman      |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -46,7 +46,7 @@
 |Ronel Blanco          |OP          |  3| 17.000|  2| 1.059|     18| 1.059| 17|  3|  0| 
 |Spencer Schwellenbach |OP          |  3| 19.000|  4| 1.895|     16| 0.842| 15|  3|  0| 
 |Daniel Hudson         |PITCH BENCH |  8|  7.667|  6| 7.043|     13| 1.696| 10|  0|  0| 
-|Jeff Hoffman          |PITCH BENCH |  5|  5.000|  0| 0.000|      1| 0.200|  6|  0|  0| 
+|Jeff Hoffman          |PITCH BENCH |  6|  6.000|  4| 6.000|      5| 0.833|  8|  0|  0| 
 |Luis Castillo         |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 
 

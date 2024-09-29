@@ -5,21 +5,21 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Shea Langeliers     |C         |     18|  6|   9|  3|  0| 
-|Paul Goldschmidt    |1B        |     18|  7|   4|  1|  2| 
+|Shea Langeliers     |C         |     20|  7|  12|  4|  0| 
+|Paul Goldschmidt    |1B        |     21|  8|   6|  1|  2| 
 |Bryson Stott        |2B        |     13|  5|   2|  0|  3| 
 |Eugenio Suárez      |3B        |     21|  8|   9|  3|  0| 
 |Francisco Lindor    |SS        |     10|  3|   2|  1|  0| 
-|Masyn Winn          |MI        |     17| 13|   7|  3|  1| 
+|Masyn Winn          |MI        |     20| 15|   8|  3|  1| 
 |Alex Bregman        |CI        |     23|  9|  10|  4|  0| 
 |Brandon Nimmo       |OF        |     15| 10|  13|  4|  1| 
-|George Springer     |OF        |     15|  5|   0|  0|  1| 
+|George Springer     |OF        |     17|  5|   0|  0|  2| 
 |Johan Rojas         |OF        |      8|  3|   2|  0|  2| 
 |Steven Kwan         |OF        |     13|  5|   1|  1|  0| 
-|JJ Bleday           |DH        |     21|  2|   5|  0|  1| 
+|JJ Bleday           |DH        |     24|  3|   5|  0|  1| 
 |Luis Arraez         |DH        |     20|  7|   4|  0|  0| 
 |Michael Busch       |DH        |     15|  6|  10|  4|  0| 
-|Pete Crow-Armstrong |DH        |     18|  9|   5|  2|  1| 
+|Pete Crow-Armstrong |DH        |     19|  9|   6|  2|  1| 
 |Bo Bichette         |BAT BENCH |      2|  0|   1|  0|  0| 
 |Lourdes Gurriel Jr. |BAT BENCH |     10|  3|   4|  1|  0| 
 
@@ -36,7 +36,7 @@
 |Mitch Keller      |SP          |  3| 14.333| 14|  8.791|     25| 1.744| 13|  0|  0| 
 |Ranger Suárez     |SP          |  4| 17.333| 15|  7.788|     38| 2.192| 13|  0|  0| 
 |Reid Detmers      |SP          |  3| 12.333| 18| 13.135|     31| 2.514| 21|  0|  0| 
-|Rhett Lowder      |SP          |  3| 15.333|  3|  1.761|     19| 1.239| 12|  2|  0| 
+|Rhett Lowder      |SP          |  4| 20.333|  3|  1.328|     25| 1.230| 13|  2|  0| 
 |Calvin Faucher    |RP          | **|     **| **|     **|     **|    **| **| **| **| 
 |Josh Hader        |RP          | 10|  9.667|  7|  6.517|     11| 1.138| 15|  1|  5| 
 |DJ Herz           |OP          |  3| 13.333|  9|  6.075|     20| 1.500| 13|  1|  0| 
