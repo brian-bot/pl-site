@@ -26,16 +26,16 @@ Through games on 2024-09-29 ([website build status](https://github.com/brian-bot
 
 |team                   |  w|  l|  t| points|
 |:----------------------|--:|--:|--:|------:|
-|Vass Deferens          |  8|  1|  0|  635.0|
-|Wonderbots             |  6|  3|  0|  502.0|
-|Nuclear Arms           |  6|  3|  0|  486.5|
-|Bone Pilers            |  5|  4|  0|  520.5|
-|T and A                |  5|  4|  0|  508.5|
-|Terminoeckers          |  4|  5|  0|  538.0|
-|Mean Wieners           |  4|  5|  0|  492.0|
-|Washington Generals    |  4|  5|  0|  404.0|
-|Overwhelming Underdogs |  2|  7|  0|  425.5|
-|Boys of Summer         |  1|  8|  0|  438.0|
+|Vass Deferens          |  7|  1|  0|  556.5|
+|Wonderbots             |  6|  2|  0|  435.5|
+|Nuclear Arms           |  5|  3|  0|  438.0|
+|T and A                |  4|  4|  0|  451.5|
+|Bone Pilers            |  4|  4|  0|  446.0|
+|Mean Wieners           |  4|  4|  0|  431.5|
+|Washington Generals    |  4|  4|  0|  381.5|
+|Terminoeckers          |  3|  5|  0|  487.0|
+|Overwhelming Underdogs |  2|  6|  0|  383.5|
+|Boys of Summer         |  1|  7|  0|  389.0|
 
 
 
