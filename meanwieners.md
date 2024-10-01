@@ -8,7 +8,7 @@
 |Ryan Jeffers      |C         |     10|  7|   5|  1|  0| 
 |Carlos Santana    |1B        |     26|  9|  10|  3|  0| 
 |Ryan McMahon      |2B        |     17|  7|   5|  2|  0| 
-|Mark Vientos      |3B        |     17|  8|   8|  3|  0| 
+|Mark Vientos      |3B        |     17|  8|   9|  3|  0| 
 |Willi Castro      |SS        |     23| 10|   8|  1|  1| 
 |José Caballero    |MI        |     12|  1|   2|  0|  5| 
 |Spencer Torkelson |CI        |     24|  7|   9|  2|  0| 
@@ -44,7 +44,7 @@
 |Jared Jones           |OP          |  3| 13.333| 10| 6.750|     25| 1.875| 17|  0|  0| 
 |Kumar Rocker          |OP          |  3| 11.667|  5| 3.857|     18| 1.543| 14|  0|  0| 
 |Ronel Blanco          |OP          |  3| 17.000|  2| 1.059|     18| 1.059| 17|  3|  0| 
-|Spencer Schwellenbach |OP          |  3| 19.000|  4| 1.895|     16| 0.842| 15|  3|  0| 
+|Spencer Schwellenbach |OP          |  4| 26.000|  5| 1.731|     20| 0.769| 20|  3|  0| 
 |Daniel Hudson         |PITCH BENCH |  8|  7.667|  6| 7.043|     13| 1.696| 10|  0|  0| 
 |Jeff Hoffman          |PITCH BENCH |  6|  6.000|  4| 6.000|      5| 0.833|  8|  0|  0| 
 |Luis Castillo         |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 

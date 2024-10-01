@@ -13,13 +13,13 @@
 |Royce Lewis       |3B        |     18|  6|   3|  0|  0| 
 |Gunnar Henderson  |SS        |     24|  9|   7|  1|  3| 
 |Oneil Cruz        |MI        |     19|  8|   6|  2|  1| 
-|Matt Olson        |CI        |     36|  9|  19|  4|  0| 
-|J.D. Martinez     |OF        |      7|  3|   0|  0|  0| 
+|Matt Olson        |CI        |     38|  9|  19|  4|  0| 
+|J.D. Martinez     |OF        |      9|  3|   0|  0|  0| 
 |Jackson Chourio   |OF        |     25| 11|  10|  2|  2| 
 |Jarren Duran      |OF        |     25| 12|   3|  0|  2| 
 |Julio Rodríguez   |OF        |     31| 16|  19|  6|  3| 
 |Connor Norby      |DH        |     22| 11|   4|  1|  1| 
-|Jorge Soler       |DH        |     26| 13|  11|  4|  0| 
+|Jorge Soler       |DH        |     28| 14|  11|  4|  0| 
 |Xavier Edwards    |DH        |     27| 10|   7|  0|  6| 
 |Zack Gelof        |DH        |     18|  6|   5|  1|  3| 
 |Brandon Lowe      |BAT BENCH |     17|  7|   8|  4|  0| 
@@ -40,7 +40,7 @@
 |Luis Gil             |SP          |  4| 21.000| 12| 5.143|     29| 1.381| 20|  2|  0| 
 |Luis Severino        |SP          |  3| 16.000| 10| 5.625|     19| 1.188| 17|  1|  0| 
 |Yusei Kikuchi        |SP          |  3| 19.000|  4| 1.895|     16| 0.842| 23|  1|  0| 
-|Raisel Iglesias      |RP          |  7|  7.000|  5| 6.429|      8| 1.143|  6|  1|  2| 
+|Raisel Iglesias      |RP          |  9|  8.333|  7| 7.560|     11| 1.320|  6|  1|  3| 
 |Seranthony Domínguez |RP          |  8|  6.333|  5| 7.105|     14| 2.211|  7|  0|  2| 
 |Colin Rea            |OP          |  5| 17.667| 18| 9.170|     36| 2.038| 13|  0|  1| 
 |Jason Foley          |OP          |  9|  7.667|  4| 4.696|      7| 0.913|  8|  0|  7| 

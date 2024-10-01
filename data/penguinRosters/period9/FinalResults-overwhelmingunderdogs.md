@@ -26,7 +26,7 @@
 |Jonah Heim         |BAT BENCH |     15|  4|   6|  1|  0| 
 |Josh Bell          |BAT BENCH |      9|  5|   5|  1|  0| 
 |Mark Canha         |BAT BENCH |     11|  1|   0|  0|  2| 
-|Sean Murphy        |BAT BENCH |      9|  3|   6|  2|  0| 
+|Sean Murphy        |BAT BENCH |     11|  4|   6|  2|  0| 
 
 
 * * *

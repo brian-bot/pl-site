@@ -8,7 +8,7 @@
 |players         |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------|:---------|------:|--:|---:|--:|--:| 
 |Adley Rutschman |C         |     18|  6|   7|  1|  0| 
-|Pete Alonso     |1B        |     25|  8|   9|  3|  0| 
+|Pete Alonso     |1B        |     27|  8|   9|  3|  0| 
 |Nico Hoerner    |2B        |     28| 10|   7|  2|  3| 
 |Elly De La Cruz |3B        |     23| 10|  11|  2|  5| 
 |CJ Abrams       |SS        |     13|  5|   1|  1|  3| 
@@ -17,7 +17,7 @@
 |Heliot Ramos    |OF        |     21| 10|   5|  2|  1| 
 |Juan Soto       |OF        |     28| 14|  11|  3|  2| 
 |Lawrence Butler |OF        |     18|  7|   3|  1|  4| 
-|Marcell Ozuna   |OF        |     27| 10|   4|  2|  1| 
+|Marcell Ozuna   |OF        |     29| 10|   6|  2|  1| 
 |James Wood      |DH        |     25|  9|   8|  4|  2| 
 |Jonah Bride     |DH        |     28| 12|  15|  5|  0| 
 |Juan Yepez      |DH        |     17|  9|   4|  1|  0| 

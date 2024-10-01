@@ -19,7 +19,7 @@
 |Lane Thomas       |DH        |     17| 10|  14|  5|  0| 
 |Rhys Hoskins      |DH        |     22|  9|  11|  3|  0| 
 |Sal Frelick       |DH        |     13|  4|   4|  0|  2| 
-|Starling Marte    |DH        |     17|  4|   7|  0|  1| 
+|Starling Marte    |DH        |     20|  6|   7|  0|  1| 
 |Joey Loperfido    |BAT BENCH |      7|  2|   2|  0|  1| 
 |Nick Gonzales     |BAT BENCH |     24|  6|   4|  2|  1| 
 |Patrick Bailey    |BAT BENCH |     16|  6|   4|  1|  1| 

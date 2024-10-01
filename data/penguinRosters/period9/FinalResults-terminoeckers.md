@@ -25,7 +25,7 @@
 |Gavin Lux             |BAT BENCH |     20|  8|   4|  0|  0| 
 |Maikel Garcia         |BAT BENCH |     11|  1|   4|  0|  4| 
 |Max Muncy             |BAT BENCH |     28| 13|  11|  3|  1| 
-|Michael Harris II     |BAT BENCH |     33| 16|  13|  7|  2| 
+|Michael Harris II     |BAT BENCH |     35| 18|  13|  7|  2| 
 
 
 * * *
@@ -41,7 +41,7 @@
 |Nathan Eovaldi |SP          |  4| 23.667| 14|  5.324|     33| 1.394| 22|  1|  0| 
 |Seth Lugo      |SP          |  4| 20.667|  6|  2.613|     18| 0.871| 22|  1|  0| 
 |Taj Bradley    |SP          |  4| 21.333|  6|  2.531|     28| 1.312| 23|  2|  0| 
-|Edwin Díaz     |RP          |  7|  7.333|  1|  1.227|      7| 0.955| 14|  0|  3| 
+|Edwin Díaz     |RP          |  8|  9.000|  3|  3.000|     11| 1.222| 16|  1|  3| 
 |Porter Hodge   |RP          |  6|  6.000|  2|  3.000|      5| 0.833|  6|  0|  5| 
 |Andrew Heaney  |OP          |  3| 14.667| 14|  8.591|     26| 1.773| 10|  0|  0| 
 |Charlie Morton |OP          |  3| 16.333|  9|  4.959|     23| 1.408| 12|  0|  0| 

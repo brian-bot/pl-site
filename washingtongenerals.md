@@ -9,10 +9,10 @@
 |Paul Goldschmidt    |1B        |     22|  8|   7|  1|  2| 
 |Bryson Stott        |2B        |     14|  5|   3|  0|  3| 
 |Eugenio Suárez      |3B        |     24| 10|  11|  4|  0| 
-|Francisco Lindor    |SS        |     13|  5|   4|  2|  2| 
+|Francisco Lindor    |SS        |     15|  7|   7|  3|  2| 
 |Masyn Winn          |MI        |     20| 15|   8|  3|  1| 
 |Alex Bregman        |CI        |     23|  9|  10|  4|  0| 
-|Brandon Nimmo       |OF        |     16| 10|  14|  4|  2| 
+|Brandon Nimmo       |OF        |     18| 11|  16|  5|  2| 
 |George Springer     |OF        |     17|  5|   0|  0|  2| 
 |Johan Rojas         |OF        |      8|  3|   2|  0|  2| 
 |Steven Kwan         |OF        |     13|  5|   1|  1|  0| 

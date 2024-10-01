@@ -21,7 +21,7 @@
 |Nolan Schanuel    |DH        |     23|  4|   7|  1|  5| 
 |Shohei Ohtani     |DH        |     42| 19|  29|  8| 12| 
 |Austin Hays       |BAT BENCH |      3|  1|   1|  1|  0| 
-|Francisco Alvarez |BAT BENCH |     16|  9|  15|  5|  0| 
+|Francisco Alvarez |BAT BENCH |     17| 10|  16|  5|  0| 
 |Jackson Holliday  |BAT BENCH |     13|  3|   2|  0|  1| 
 |Jeff McNeil       |BAT BENCH |     **| **|  **| **| **| 
 
@@ -37,7 +37,7 @@
 |Brayan Bello       |SP          |  3| 15.000|  4| 2.400|     17| 1.133| 13|  1|  0| 
 |David Peterson     |SP          |  4| 22.667|  9| 3.574|     27| 1.191| 20|  1|  0| 
 |José Berríos       |SP          |  3| 16.000|  8| 4.500|     20| 1.250| 14|  1|  0| 
-|Reynaldo López     |SP          |  2|  7.000|  1| 1.286|      3| 0.429| 10|  0|  0| 
+|Reynaldo López     |SP          |  3|  8.000|  1| 1.125|      3| 0.375| 12|  0|  0| 
 |Walker Buehler     |SP          |  3| 16.333|  6| 3.306|     20| 1.224| 15|  0|  0| 
 |Alexis Díaz        |RP          |  4|  4.000|  0| 0.000|      5| 1.250|  4|  0|  1| 
 |Carlos Estévez     |RP          |  5|  4.333|  2| 4.154|      9| 2.077|  2|  0|  2| 
