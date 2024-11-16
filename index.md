@@ -2,7 +2,7 @@
 
 ## Period 9 scores
 
-Through games on 2024-11-14 ([website build status](https://github.com/brian-bot/pl-site/actions))
+Through games on 2024-11-15 ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 
 |team                   | points|   r| hitsbb| hr| rbi| sb|  w| sv|  so|   era|  whip|
