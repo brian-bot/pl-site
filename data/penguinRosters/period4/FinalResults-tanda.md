@@ -11,7 +11,7 @@
 |Matt Olson        |1B        |     30| 10|   9|  3|  0| 
 |Marcus Semien     |2B        |     27| 11|   6|  2|  2| 
 |Gunnar Henderson  |3B        |     34| 16|  12|  5|  2| 
-|Oneil Cruz        |SS        |     16|  9|   9|  2|  1| 
+|Oneil Cruz        |SS        |      9|  5|   4|  0|  0| 
 |Dylan Moore       |MI        |     11|  6|   2|  0|  3| 
 |Luis Rengifo      |CI        |     25|  7|   3|  0|  6| 
 |J.D. Martinez     |OF        |     33| 12|  17|  5|  0| 
@@ -23,10 +23,10 @@
 |Jorge Mateo       |DH        |      6|  3|   6|  1|  1| 
 |Jorge Soler       |DH        |     22| 10|   7|  2|  0| 
 |Brandon Lowe      |BAT BENCH |     24|  8|  12|  3|  1| 
-|Byron Buxton      |BAT BENCH |     20|  7|   7|  1|  3| 
+|Byron Buxton      |BAT BENCH |     16|  6|   7|  1|  2| 
 |Jackson Chourio   |BAT BENCH |     15|  5|   8|  2|  1| 
 |Michael Conforto  |BAT BENCH |      7|  3|   2|  1|  0| 
-|Royce Lewis       |BAT BENCH |     19| 11|  10|  6|  0| 
+|Royce Lewis       |BAT BENCH |     17| 11|   9|  6|  0| 
 
 
 * * *

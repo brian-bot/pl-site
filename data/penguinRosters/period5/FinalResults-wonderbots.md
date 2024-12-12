@@ -15,18 +15,18 @@
 |Ezequiel Tovar    |MI        |     14|  4|   3|  1|  0| 
 |Ha-Seong Kim      |CI        |     22| 11|   5|  1|  3| 
 |Bryan De La Cruz  |OF        |     20|  7|  12|  4|  0| 
-|Bryan Reynolds    |OF        |     31| 11|  16|  7|  0| 
+|Bryan Reynolds    |OF        |      9|  2|   3|  1|  0| 
 |Teoscar Hernández |OF        |     18|  5|  10|  2|  0| 
 |Tyler O'Neill     |OF        |     26| 12|   7|  4|  2| 
 |Alec Bohm         |DH        |     25|  9|  13|  5|  1| 
 |Jeremy Peña       |DH        |     25| 11|  14|  2|  0| 
 |Miguel Rojas      |DH        |     19|  8|   5|  0|  0| 
 |Zach Neto         |DH        |     17|  7|  10|  2|  5| 
-|Connor Joe        |BAT BENCH |     10|  2|   0|  0|  0| 
+|Connor Joe        |BAT BENCH |      7|  2|   0|  0|  0| 
 |Edmundo Sosa      |BAT BENCH |     10|  2|   2|  0|  0| 
 |Mookie Betts      |BAT BENCH |     **| **|  **| **| **| 
 |Nathaniel Lowe    |BAT BENCH |     24|  9|  14|  4|  1| 
-|Willson Contreras |BAT BENCH |     22|  5|   6|  2|  0| 
+|Willson Contreras |BAT BENCH |     16|  4|   4|  1|  0| 
 
 
 * * *
@@ -39,11 +39,11 @@
 |Corbin Burnes    |SP          |  3| 20.000|  7|  3.150|     19| 0.950| 16|  1|  0| 
 |Justin Verlander |SP          | **|     **| **|     **|     **|    **| **| **| **| 
 |Logan Gilbert    |SP          |  3| 19.333|  6|  2.793|     18| 0.931| 15|  1|  0| 
-|Miles Mikolas    |SP          |  3| 16.333| 15|  8.265|     26| 1.592|  8|  1|  0| 
+|Miles Mikolas    |SP          |  2| 10.333| 13| 11.323|     21| 2.032|  4|  1|  0| 
 |Sonny Gray       |SP          |  4| 24.000| 11|  4.125|     25| 1.042| 24|  1|  0| 
 |Tylor Megill     |SP          |  2|  8.333| 10| 10.800|     16| 1.920| 12|  0|  0| 
 |Clay Holmes      |RP          |  6|  6.000|  6|  9.000|      8| 1.333|  8|  0|  0| 
-|David Bednar     |RP          |  2|  2.000|  0|  0.000|      0| 0.000|  1|  0|  2| 
+|David Bednar     |RP          | **|     **| **|     **|     **|    **| **| **| **| 
 |Jon Gray         |OP          |  4| 18.000| 20| 10.000|     32| 1.778|  8|  1|  0| 
 |Lance Lynn       |OP          |  4| 20.667| 16|  6.968|     30| 1.452| 18|  2|  0| 
 |Nick Pivetta     |OP          |  5| 28.333| 13|  4.129|     32| 1.129| 33|  1|  0| 

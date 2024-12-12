@@ -7,17 +7,17 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Francisco Alvarez |C         |     15|  3|   2|  1|  0| 
+|Francisco Alvarez |C         |     11|  3|   2|  1|  0| 
 |Salvador Perez    |1B        |     20| 11|  16|  5|  0| 
 |Andrés Giménez    |2B        |     17|  2|   4|  0|  2| 
 |José Ramírez      |3B        |     29| 10|  11|  4|  4| 
 |Paul DeJong       |SS        |     14|  3|   5|  2|  0| 
 |Spencer Horwitz   |MI        |     24|  9|   7|  1|  0| 
-|Alec Burleson     |CI        |     26| 13|  19|  5|  1| 
+|Alec Burleson     |CI        |     23| 13|  18|  5|  1| 
 |Adolis García     |OF        |     19|  6|  10|  2|  2| 
 |Brent Rooker      |OF        |     35| 19|  23|  8|  3| 
 |Christian Yelich  |OF        |     17|  5|   4|  1|  2| 
-|Nick Castellanos  |OF        |     19|  7|  11|  3|  0| 
+|Nick Castellanos  |OF        |     13|  6|   8|  2|  0| 
 |Alex Verdugo      |DH        |     21|  8|   4|  0|  0| 
 |Jake Cronenworth  |DH        |     17|  5|   7|  2|  0| 
 |Nolan Schanuel    |DH        |     36| 11|   8|  3|  2| 

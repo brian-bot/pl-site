@@ -9,7 +9,7 @@
 |Jhonkensy Noel    |1B        |      5|  1|   0|  0|  0| 
 |Colt Keith        |2B        |     17|  4|   6|  1|  0| 
 |Rafael Devers     |3B        |     13|  3|   2|  0|  1| 
-|Bobby Witt Jr.    |SS        |     29|  6|  11|  2|  3| 
+|Bobby Witt Jr.    |SS        |     24|  5|   7|  1|  3| 
 |Trea Turner       |MI        |     24| 12|  11|  5|  4| 
 |Isaac Paredes     |CI        |     27|  7|   8|  0|  1| 
 |Christopher Morel |OF        |     12|  1|   4|  0|  0| 
@@ -34,7 +34,7 @@
 |players            |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:------------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Blake Snell        |SP          |  3| 17.000|  1| 0.529|     12| 0.706| 29|  3|  0| 
-|Brady Singer       |SP          |  3| 16.333| 12| 6.612|     25| 1.531| 17|  0|  0| 
+|Brady Singer       |SP          |  2| 11.333|  8| 6.353|     15| 1.324| 11|  0|  0| 
 |Jameson Taillon    |SP          |  3| 19.000|  2| 0.947|     16| 0.842| 12|  2|  0| 
 |Kevin Gausman      |SP          |  3| 18.000|  3| 1.500|     19| 1.056| 12|  2|  0| 
 |Logan Webb         |SP          |  3| 15.000|  6| 3.600|     19| 1.267| 15|  1|  0| 

@@ -24,7 +24,7 @@
 |Justin Turner      |DH        |     28|  7|   9|  1|  0| 
 |Brendan Donovan    |BAT BENCH |     28| 10|  10|  2|  0| 
 |Josh Bell          |BAT BENCH |     24| 10|   7|  2|  0| 
-|Mark Canha         |BAT BENCH |     23|  8|   8|  3|  1| 
+|Mark Canha         |BAT BENCH |     21|  8|   8|  3|  1| 
 |MJ Melendez        |BAT BENCH |     20|  7|   8|  3|  1| 
 
 
@@ -47,7 +47,7 @@
 |José Alvarado   |OP          |  8|  7.333|  5| 6.136|      9| 1.227|  8|  0|  2| 
 |Kenta Maeda     |OP          |  3| 15.000| 10| 6.000|     19| 1.267| 10|  0|  0| 
 |Michael Wacha   |OP          |  3| 18.000|  8| 4.000|     19| 1.056| 17|  1|  0| 
-|Tyler Wells     |OP          |  3| 15.333| 10| 5.870|     21| 1.370| 13|  0|  0| 
+|Tyler Wells     |OP          |  2| 10.000|  7| 6.300|     12| 1.200| 10|  0|  0| 
 |Kyle Finnegan   |PITCH BENCH |  8|  7.333|  3| 3.682|     11| 1.500|  7|  0|  6| 
 
 

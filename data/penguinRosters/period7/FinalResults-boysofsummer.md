@@ -15,12 +15,12 @@
 |Trea Turner       |MI        |     20|  9|   6|  1|  1| 
 |Josh Smith        |CI        |     20|  5|   6|  1|  1| 
 |Christopher Morel |OF        |     17|  4|   1|  1|  1| 
-|Jake McCarthy     |OF        |     32| 12|  19|  4|  4| 
-|Joc Pederson      |OF        |     28| 12|  14|  5|  1| 
+|Jake McCarthy     |OF        |     30| 12|  18|  4|  3| 
+|Joc Pederson      |OF        |     21|  9|   9|  3|  1| 
 |Ryan O'Hearn      |OF        |     19|  6|   5|  0|  0| 
 |Colt Keith        |DH        |     19|  4|   3|  0|  1| 
 |Jose Miranda      |DH        |     16|  5|   3|  0|  0| 
-|Luis Arraez       |DH        |     22| 12|   6|  0|  2| 
+|Luis Arraez       |DH        |     19| 11|   5|  0|  2| 
 |Yainer Diaz       |DH        |     29|  9|  13|  5|  0| 
 |Amed Rosario      |BAT BENCH |      4|  1|   2|  0|  1| 
 |Carlos Correa     |BAT BENCH |     **| **|  **| **| **| 

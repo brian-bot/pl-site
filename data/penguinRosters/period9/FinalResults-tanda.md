@@ -7,15 +7,15 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Joey Bart         |C         |     16|  3|   4|  0|  0| 
+|Joey Bart         |C         |      8|  1|   2|  0|  0| 
 |Anthony Santander |1B        |     20|  8|   8|  4|  0| 
 |Marcus Semien     |2B        |     25| 13|   7|  4|  2| 
 |Royce Lewis       |3B        |     18|  6|   3|  0|  0| 
 |Gunnar Henderson  |SS        |     24|  9|   7|  1|  3| 
-|Oneil Cruz        |MI        |     19|  8|   6|  2|  1| 
+|Oneil Cruz        |MI        |     12|  5|   2|  2|  0| 
 |Matt Olson        |CI        |     38|  9|  19|  4|  0| 
 |J.D. Martinez     |OF        |      9|  3|   0|  0|  0| 
-|Jackson Chourio   |OF        |     25| 11|  10|  2|  2| 
+|Jackson Chourio   |OF        |     23| 10|  10|  2|  2| 
 |Jarren Duran      |OF        |     25| 12|   3|  0|  2| 
 |Julio Rodríguez   |OF        |     31| 16|  19|  6|  3| 
 |Connor Norby      |DH        |     22| 11|   4|  1|  1| 
@@ -42,7 +42,7 @@
 |Yusei Kikuchi        |SP          |  3| 19.000|  4| 1.895|     16| 0.842| 23|  1|  0| 
 |Raisel Iglesias      |RP          |  9|  8.333|  7| 7.560|     11| 1.320|  6|  1|  3| 
 |Seranthony Domínguez |RP          |  8|  6.333|  5| 7.105|     14| 2.211|  7|  0|  2| 
-|Colin Rea            |OP          |  5| 17.667| 18| 9.170|     36| 2.038| 13|  0|  1| 
+|Colin Rea            |OP          |  4| 16.333| 18| 9.918|     34| 2.082| 11|  0|  1| 
 |Jason Foley          |OP          |  9|  7.667|  4| 4.696|      7| 0.913|  8|  0|  7| 
 |Joe Musgrove         |OP          |  3| 18.333|  2| 0.982|     13| 0.709| 23|  1|  0| 
 |JP Sears             |OP          |  4| 23.000| 12| 4.696|     32| 1.391| 15|  0|  0| 

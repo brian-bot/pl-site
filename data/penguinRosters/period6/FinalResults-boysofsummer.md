@@ -12,7 +12,7 @@
 |Isaac Paredes     |2B        |     24|  7|   8|  2|  0| 
 |Rafael Devers     |3B        |     32| 15|  15|  5|  0| 
 |Bobby Witt Jr.    |SS        |     38| 18|  18|  5|  1| 
-|Trea Turner       |MI        |     26| 13|  14|  6|  2| 
+|Trea Turner       |MI        |     23| 10|  11|  5|  2| 
 |Josh Smith        |CI        |     27|  8|  11|  4|  3| 
 |Jake McCarthy     |OF        |     18|  8|   4|  0|  1| 
 |Joc Pederson      |OF        |     18|  4|   6|  2|  1| 

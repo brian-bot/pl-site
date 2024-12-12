@@ -9,7 +9,7 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Cal Raleigh       |C         |     29| 10|  10|  5|  0| 
 |Bryce Harper      |1B        |     26|  9|   8|  4|  2| 
-|Brice Turang      |2B        |     22|  9|   5|  0|  9| 
+|Brice Turang      |2B        |     21|  9|   5|  0|  8| 
 |Nolan Arenado     |3B        |     26|  7|   7|  1|  0| 
 |Dansby Swanson    |SS        |     25| 15|   8|  2|  3| 
 |Junior Caminero   |MI        |     19|  5|   7|  3|  0| 
@@ -19,11 +19,11 @@
 |Kyle Schwarber    |OF        |     24| 12|  10|  4|  0| 
 |Randy Arozarena   |OF        |     25|  6|   8|  1|  0| 
 |Lane Thomas       |DH        |     17| 10|  14|  5|  0| 
-|Rhys Hoskins      |DH        |     22|  9|  11|  3|  0| 
-|Sal Frelick       |DH        |     13|  4|   4|  0|  2| 
+|Rhys Hoskins      |DH        |     18|  8|  10|  3|  0| 
+|Sal Frelick       |DH        |     11|  3|   2|  0|  2| 
 |Starling Marte    |DH        |     20|  6|   7|  0|  1| 
 |Joey Loperfido    |BAT BENCH |      7|  2|   2|  0|  1| 
-|Nick Gonzales     |BAT BENCH |     24|  6|   4|  2|  1| 
+|Nick Gonzales     |BAT BENCH |     16|  6|   3|  2|  1| 
 |Patrick Bailey    |BAT BENCH |     16|  6|   4|  1|  1| 
 
 

@@ -14,15 +14,15 @@
 |Bobby Witt Jr.    |SS        |     28| 17|   8|  4|  3| 
 |Trea Turner       |MI        |     29| 10|   5|  1|  4| 
 |Yainer Diaz       |CI        |     26|  8|   8|  3|  0| 
-|Anthony Santander |OF        |     17|  8|  14|  3|  0| 
+|Anthony Santander |OF        |     13|  7|  12|  3|  0| 
 |Christopher Morel |OF        |     19| 11|  11|  3|  0| 
-|Kerry Carpenter   |OF        |     17|  4|   5|  2|  0| 
+|Kerry Carpenter   |OF        |     16|  3|   4|  2|  0| 
 |Masataka Yoshida  |OF        |     20|  7|   8|  1|  0| 
 |Carlos Correa     |DH        |     19|  5|   4|  1|  0| 
 |Edouard Julien    |DH        |     17|  8|   5|  4|  1| 
 |Luis Arraez       |DH        |     30| 13|   3|  0|  0| 
 |Taylor Ward       |DH        |     23| 13|  20|  6|  1| 
-|Ryan Mountcastle  |BAT BENCH |     25| 10|   9|  2|  0| 
+|Ryan Mountcastle  |BAT BENCH |     21|  9|   8|  2|  0| 
 
 
 * * *
@@ -33,7 +33,7 @@
 |players           |position |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:--------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Brady Singer      |SP       |  3| 18.333|  2|  0.982|     14| 0.764| 18|  2|  0| 
-|Grayson Rodriguez |SP       |  4| 24.000|  7|  2.625|     28| 1.167| 27|  3|  0| 
+|Grayson Rodriguez |SP       |  3| 17.667|  5|  2.547|     20| 1.132| 20|  2|  0| 
 |Hunter Brown      |SP       |  4| 13.667| 16| 10.537|     38| 2.780| 11|  0|  0| 
 |Jose Quintana     |SP       |  4| 20.667|  7|  3.048|     31| 1.500| 16|  1|  0| 
 |Kevin Gausman     |SP       |  3|  9.333| 12| 11.571|     18| 1.929| 10|  0|  0| 

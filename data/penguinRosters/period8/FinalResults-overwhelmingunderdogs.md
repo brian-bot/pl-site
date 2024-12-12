@@ -17,8 +17,8 @@
 |Brendan Donovan    |OF        |     20| 11|   7|  2|  1| 
 |Corbin Carroll     |OF        |     28| 15|  15|  5|  5| 
 |Mark Canha         |OF        |      5|  1|   1|  0|  1| 
-|Spencer Steer      |OF        |     28|  5|   9|  1|  4| 
-|Jonathan India     |DH        |     23| 13|   7|  3|  2| 
+|Spencer Steer      |OF        |     21|  3|   6|  1|  3| 
+|Jonathan India     |DH        |     18| 10|   7|  3|  2| 
 |Jorge Polanco      |DH        |     14|  6|   3|  2|  1| 
 |Justin Turner      |DH        |     24|  9|   5|  2|  0| 
 |Triston Casas      |DH        |     18|  4|   6|  1|  0| 
@@ -37,12 +37,12 @@
 |players       |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:-------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Bryce Miller  |SP          |  3| 17.667|  4|  2.038|     14| 0.792| 18|  2|  0| 
-|Justin Steele |SP          |  2| 12.000|  4|  3.000|     12| 1.000| 16|  2|  0| 
+|Justin Steele |SP          |  1|  7.000|  2|  2.571|      4| 0.571| 10|  1|  0| 
 |Matt Waldron  |SP          |  1|  4.333| 10| 20.769|     13| 3.000|  3|  0|  0| 
 |Max Fried     |SP          |  4| 26.000|  6|  2.077|     24| 0.923| 23|  2|  0| 
-|Nick Lodolo   |SP          |  1|  4.667|  5|  9.643|      5| 1.071|  9|  0|  0| 
+|Nick Lodolo   |SP          | **|     **| **|     **|     **|    **| **| **| **| 
 |Pablo López   |SP          |  3| 21.333|  3|  1.266|     19| 0.891| 21|  3|  0| 
-|Kyle Finnegan |RP          |  6|  7.000|  2|  2.571|     13| 1.857|  7|  0|  5| 
+|Kyle Finnegan |RP          |  5|  6.000|  2|  3.000|     13| 2.167|  5|  0|  4| 
 |Paul Sewald   |RP          |  5|  6.000|  4|  6.000|      6| 1.000|  7|  0|  0| 
 |Aaron Civale  |OP          |  3| 16.000|  6|  3.375|     18| 1.125| 17|  1|  0| 
 |Michael Wacha |OP          |  4| 24.000|  9|  3.375|     26| 1.083| 22|  2|  0| 

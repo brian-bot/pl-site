@@ -25,7 +25,7 @@
 |Christian Yelich  |BAT BENCH |     **| **|  **| **| **| 
 |Francisco Alvarez |BAT BENCH |     14|  6|   3|  1|  0| 
 |Jacob Wilson      |BAT BENCH |     **| **|  **| **| **| 
-|Jake Cronenworth  |BAT BENCH |     26|  8|  12|  1|  1| 
+|Jake Cronenworth  |BAT BENCH |     24|  8|  12|  1|  1| 
 |Mike Trout        |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -45,7 +45,7 @@
 |Alexis Díaz        |RP          |  6|  5.667|  2|  3.176|      4| 0.706|  7|  0|  3| 
 |Carlos Estévez     |RP          |  7|  7.667|  3|  3.522|     10| 1.304| 10|  1|  1| 
 |Ben Joyce          |OP          |  7|  7.000|  3|  3.857|     11| 1.571|  7|  0|  2| 
-|Brandon Pfaadt     |OP          |  4| 23.667| 13|  4.944|     32| 1.352| 24|  3|  0| 
+|Brandon Pfaadt     |OP          |  3| 18.667| 10|  4.821|     24| 1.286| 21|  3|  0| 
 |Devin Williams     |OP          |  7|  7.000|  1|  1.286|      5| 0.714| 13|  0|  5| 
 |Justin Wrobleski   |OP          |  1|  5.000|  4|  7.200|      6| 1.200|  3|  1|  0| 
 |Michael Kopech     |OP          |  9|  9.333|  0|  0.000|      2| 0.214| 13|  1|  2| 

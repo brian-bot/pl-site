@@ -24,7 +24,7 @@
 |Maikel Garcia         |DH        |     17|  7|  12|  3|  3| 
 |Ian Happ              |BAT BENCH |     29| 14|  12|  1|  0| 
 |Michael Busch         |BAT BENCH |     26| 10|  12|  6|  0| 
-|Parker Meadows        |BAT BENCH |      9|  5|   0|  0|  2| 
+|Parker Meadows        |BAT BENCH |      8|  3|   0|  0|  1| 
 
 
 * * *

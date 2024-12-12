@@ -15,11 +15,11 @@
 |Ezequiel Tovar    |MI        |     25| 12|  11|  4|  0| 
 |Ha-Seong Kim      |CI        |     23|  9|  12|  3|  1| 
 |Bryan De La Cruz  |OF        |     14|  4|   5|  2|  0| 
-|Bryan Reynolds    |OF        |     24|  8|  10|  2|  1| 
-|Mookie Betts      |OF        |     27|  9|  10|  2|  0| 
-|Teoscar Hernández |OF        |     25|  9|  12|  5|  1| 
+|Bryan Reynolds    |OF        |     14|  4|   7|  2|  0| 
+|Mookie Betts      |OF        |     21|  6|   7|  1|  0| 
+|Teoscar Hernández |OF        |     21|  6|  11|  4|  1| 
 |Alec Bohm         |DH        |     20|  6|  10|  1|  1| 
-|Connor Joe        |DH        |     17|  7|   6|  1|  0| 
+|Connor Joe        |DH        |     13|  4|   3|  0|  0| 
 |Jeremy Peña       |DH        |     15|  3|   5|  0|  3| 
 |Zach Neto         |DH        |     18|  6|  11|  3|  3| 
 |Cedric Mullins    |BAT BENCH |     12|  7|   0|  0|  2| 
@@ -41,13 +41,13 @@
 |Sonny Gray       |SP          |  3| 16.667|  8| 4.320|     19| 1.140| 24|  1|  0| 
 |Tylor Megill     |SP          |  4| 21.667|  9| 3.738|     28| 1.292| 26|  2|  0| 
 |Clay Holmes      |RP          |  8|  7.000|  2| 2.571|     12| 1.714|  3|  0|  4| 
-|David Bednar     |RP          |  8|  8.000|  2| 2.250|      7| 0.875|  8|  0|  3| 
+|David Bednar     |RP          |  4|  4.000|  2| 4.500|      5| 1.250|  5|  0|  1| 
 |JP Sears         |OP          |  4| 22.333| 13| 5.239|     36| 1.612| 15|  0|  0| 
 |Lance Lynn       |OP          |  3| 12.333|  7| 5.108|     20| 1.622| 15|  0|  0| 
 |Nick Pivetta     |OP          |  3| 16.333|  6| 3.306|     18| 1.102| 22|  1|  0| 
 |Trevor Megill    |OP          |  8|  7.000|  2| 2.571|     10| 1.429|  8|  0|  5| 
 |Tyler Anderson   |OP          |  4| 23.000|  7| 2.739|     36| 1.565| 14|  1|  0| 
-|Graham Ashcraft  |PITCH BENCH |  2|  8.333|  7| 7.560|     13| 1.560|  6|  0|  0| 
+|Graham Ashcraft  |PITCH BENCH |  1|  3.667|  4| 9.818|      6| 1.636|  2|  0|  0| 
 |Jon Gray         |PITCH BENCH |  2|  5.333|  1| 1.687|      7| 1.312|  7|  0|  0| 
 |Sean Manaea      |PITCH BENCH |  3| 14.333| 12| 7.535|     21| 1.465| 20|  1|  0| 
 

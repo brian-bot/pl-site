@@ -9,7 +9,7 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith        |C         |     20| 10|  13|  5|  0| 
 |Ryan Mountcastle  |1B        |     19|  6|  10|  1|  0| 
-|Isaac Paredes     |2B        |     27|  7|   9|  4|  0| 
+|Isaac Paredes     |2B        |     24|  7|   9|  4|  0| 
 |Rafael Devers     |3B        |     26| 14|  17|  6|  1| 
 |Bobby Witt Jr.    |SS        |     25| 11|   7|  3|  1| 
 |Trea Turner       |MI        |     29| 16|  14|  5|  1| 
@@ -21,7 +21,7 @@
 |Carlos Correa     |DH        |     27| 14|  10|  3|  0| 
 |David Fry         |DH        |     16|  1|   3|  0|  0| 
 |Luis Arraez       |DH        |     23|  9|   5|  1|  0| 
-|Yandy Díaz        |DH        |     25|  5|  13|  4|  0| 
+|Yandy Díaz        |DH        |     19|  4|  10|  3|  0| 
 |Christopher Morel |BAT BENCH |     21|  4|   6|  2|  0| 
 |Kerry Carpenter   |BAT BENCH |     **| **|  **| **| **| 
 |Yainer Diaz       |BAT BENCH |     30| 14|  12|  0|  1| 

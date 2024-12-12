@@ -9,7 +9,7 @@
 |Freddie Freeman       |1B        |     20|  6|   6|  1|  3| 
 |Gleyber Torres        |2B        |     28| 14|   8|  3|  0| 
 |Matt Chapman          |3B        |     13|  6|   7|  4|  0| 
-|Willy Adames          |SS        |     23|  9|  11|  2|  3| 
+|Willy Adames          |SS        |     19|  7|  10|  2|  2| 
 |Tyler Fitzgerald      |MI        |     14|  7|   4|  1|  0| 
 |Vladimir Guerrero Jr. |CI        |     31| 11|   9|  2|  0| 
 |Brenton Doyle         |OF        |     10|  3|   6|  1|  4| 
@@ -21,7 +21,7 @@
 |Michael Toglia        |DH        |     23|  7|   5|  2|  3| 
 |Seiya Suzuki          |DH        |     35|  8|   9|  2|  2| 
 |Gavin Lux             |BAT BENCH |     20|  8|   4|  0|  0| 
-|Maikel Garcia         |BAT BENCH |     11|  1|   4|  0|  4| 
+|Maikel Garcia         |BAT BENCH |      7|  0|   2|  0|  1| 
 |Max Muncy             |BAT BENCH |     28| 13|  11|  3|  1| 
 |Michael Harris II     |BAT BENCH |     35| 18|  13|  7|  2| 
 
@@ -44,7 +44,7 @@
 |Andrew Heaney  |OP          |  3| 14.667| 14|  8.591|     26| 1.773| 10|  0|  0| 
 |Charlie Morton |OP          |  3| 16.333|  9|  4.959|     23| 1.408| 12|  0|  0| 
 |Clarke Schmidt |OP          |  4| 20.000| 10|  4.500|     27| 1.350| 24|  0|  0| 
-|Lucas Erceg    |OP          |  6|  7.667|  1|  1.174|      6| 0.783| 10|  0|  3| 
+|Lucas Erceg    |OP          |  5|  6.667|  1|  1.350|      5| 0.750|  8|  0|  3| 
 |Ryne Nelson    |OP          |  1|  3.000|  0|  0.000|      1| 0.333|  1|  0|  1| 
 |Bobby Miller   |PITCH BENCH |  2|  6.333| 10| 14.211|     17| 2.684|  4|  0|  0| 
 |Chad Green     |PITCH BENCH |  6|  6.000|  4|  6.000|      9| 1.500|  4|  0|  1| 

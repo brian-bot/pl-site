@@ -8,7 +8,7 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Adley Rutschman    |C         |     17|  8|   2|  1|  0| 
-|Pete Alonso        |1B        |     28| 12|   9|  4|  0| 
+|Pete Alonso        |1B        |     27| 12|   9|  4|  0| 
 |Nico Hoerner       |2B        |     28|  9|  10|  0|  2| 
 |Elly De La Cruz    |3B        |     28| 10|   6|  3| 12| 
 |CJ Abrams          |SS        |     21|  8|   5|  1|  6| 
@@ -46,7 +46,7 @@
 |Jose Quintana    |OP          |  4| 23.667|  7|  2.662|     23| 0.972| 24|  3|  0| 
 |Mitch Spence     |OP          |  4| 21.000| 13|  5.571|     31| 1.476| 17|  2|  0| 
 |Mitchell Parker  |OP          |  4| 15.667| 14|  8.043|     28| 1.787| 16|  0|  0| 
-|Paul Skenes      |OP          |  3| 21.333|  3|  1.266|     13| 0.609| 25|  1|  0| 
+|Paul Skenes      |OP          |  2| 13.000|  1|  0.692|      9| 0.692| 17|  1|  0| 
 |Pete Fairbanks   |OP          |  7|  7.000|  2|  2.571|      9| 1.286|  4|  0|  6| 
 |Bryan Woo        |PITCH BENCH |  3| 13.000|  6|  4.154|     20| 1.538|  9|  1|  0| 
 |Landon Knack     |PITCH BENCH |  2|  9.333|  4|  3.857|     11| 1.179| 11|  1|  0| 

@@ -18,7 +18,7 @@
 |Kerry Carpenter   |OF        |     24|  8|  13|  3|  0| 
 |Matt Wallner      |OF        |     26|  6|   9|  4|  0| 
 |Wilyer Abreu      |OF        |     14|  4|   6|  1|  0| 
-|Isaac Paredes     |DH        |     25|  9|   9|  1|  0| 
+|Isaac Paredes     |DH        |     19|  5|   7|  0|  0| 
 |Joc Pederson      |DH        |     19|  7|   2|  1|  0| 
 |Will Smith        |DH        |     15|  4|   7|  1|  0| 
 |Yainer Diaz       |DH        |     23|  9|  10|  1|  1| 
@@ -38,7 +38,7 @@
 |Blake Snell        |SP          |  3| 11.000|  4| 3.273|     15| 1.364| 15|  0|  0| 
 |Brady Singer       |SP          |  4| 21.667| 12| 4.985|     32| 1.477| 17|  0|  0| 
 |Chris Bassitt      |SP          |  3| 18.000|  8| 4.000|     24| 1.333| 22|  0|  0| 
-|Jameson Taillon    |SP          |  4| 24.667|  9| 3.284|     27| 1.095| 17|  2|  0| 
+|Jameson Taillon    |SP          |  3| 18.000|  5| 2.500|     19| 1.056| 14|  1|  0| 
 |Kevin Gausman      |SP          |  3| 18.667|  6| 2.893|     19| 1.018| 19|  1|  0| 
 |Logan Webb         |SP          |  4| 25.000| 15| 5.400|     32| 1.280| 17|  1|  0| 
 |Mason Miller       |RP          |  6|  8.000|  5| 5.625|     12| 1.500| 12|  0|  4| 

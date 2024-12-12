@@ -11,10 +11,10 @@
 |Matt Olson        |1B        |     17|  6|   7|  3|  0| 
 |Marcus Semien     |2B        |     34| 15|   6|  3|  0| 
 |Gunnar Henderson  |3B        |     26| 10|   4|  1|  0| 
-|Oneil Cruz        |SS        |     21| 11|  15|  4|  2| 
+|Oneil Cruz        |SS        |     10|  5|   6|  2|  0| 
 |Brandon Lowe      |MI        |     28|  8|  10|  4|  1| 
 |Anthony Santander |CI        |     31| 16|  16|  9|  1| 
-|J.D. Martinez     |OF        |     23|  7|  10|  1|  0| 
+|J.D. Martinez     |OF        |     22|  7|  10|  1|  0| 
 |Jarren Duran      |OF        |     34| 17|  13|  3|  2| 
 |Jesse Winker      |OF        |     19|  7|   5|  1|  2| 
 |Jorge Soler       |OF        |     31| 12|   8|  2|  1| 

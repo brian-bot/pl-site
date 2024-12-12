@@ -11,7 +11,7 @@
 |Freddie Freeman       |1B        |     34|  8|  13|  2|  0| 
 |Gleyber Torres        |2B        |     19|  6|   5|  1|  0| 
 |Max Muncy             |3B        |     24| 10|  13|  5|  0| 
-|Willy Adames          |SS        |     26|  9|  15|  4|  4| 
+|Willy Adames          |SS        |     21|  8|  15|  4|  3| 
 |Maikel Garcia         |MI        |     29|  9|  10|  1|  5| 
 |Vladimir Guerrero Jr. |CI        |     25|  5|   7|  1|  0| 
 |Cody Bellinger        |OF        |     12|  6|   7|  4|  0| 

@@ -17,7 +17,7 @@
 |Brandon Nimmo       |OF        |     17|  7|   4|  2|  2| 
 |George Springer     |OF        |     13|  7|   5|  1|  2| 
 |Lourdes Gurriel Jr. |OF        |     19|  6|   7|  1|  1| 
-|Ronald Acuña Jr.    |OF        |     21|  7|   7|  2|  2| 
+|Ronald Acuña Jr.    |OF        |     17|  6|   4|  1|  1| 
 |Brandon Marsh       |DH        |     21|  8|   4|  0|  3| 
 |Esteury Ruiz        |DH        |      0|  2|   0|  0|  1| 
 |Eugenio Suárez      |DH        |     18|  4|   5|  1|  1| 
@@ -43,7 +43,7 @@
 |Jordan Montgomery |SP          |  4| 24.333| 11| 4.068|     36| 1.479| 16|  2|  0| 
 |Josh Hader        |RP          |  7|  9.333|  1| 0.964|      4| 0.429| 14|  2|  4| 
 |Kenley Jansen     |RP          |  7|  7.000|  4| 5.143|      9| 1.286|  9|  0|  4| 
-|Mitch Keller      |OP          |  3| 18.667|  3| 1.446|     19| 1.018| 14|  3|  0| 
+|Mitch Keller      |OP          |  2| 12.000|  2| 1.500|     13| 1.083| 10|  2|  0| 
 |Ranger Suárez     |OP          |  4| 25.000|  5| 1.800|     25| 1.000| 31|  3|  0| 
 |Reese Olson       |OP          |  4| 23.000|  2| 0.783|     18| 0.783| 16|  1|  0| 
 |Reid Detmers      |OP          |  4| 19.000| 19| 9.000|     36| 1.895| 23|  0|  0| 

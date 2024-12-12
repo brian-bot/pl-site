@@ -8,20 +8,20 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Jonah Heim         |C         |     10|  6|   6|  2|  0| 
-|Josh Bell          |1B        |     21| 11|   9|  4|  0| 
+|Josh Bell          |1B        |     17|  9|   7|  2|  0| 
 |Jose Altuve        |2B        |     26| 11|   6|  2|  3| 
 |Matt Vierling      |3B        |     18|  9|   4|  1|  2| 
-|Jackson Merrill    |SS        |     24| 14|  16|  4|  2| 
+|Jackson Merrill    |SS        |     17|  8|  12|  2|  2| 
 |Anthony Volpe      |MI        |     19|  7|   8|  2|  3| 
 |Josh Jung          |CI        |     17|  3|   3|  2|  0| 
 |Brendan Donovan    |OF        |     26|  4|   6|  0|  0| 
-|Corbin Carroll     |OF        |     25| 23|  13|  6|  1| 
+|Corbin Carroll     |OF        |     20| 20|  13|  6|  1| 
 |Mark Canha         |OF        |     16|  2|   3|  0|  0| 
 |Spencer Steer      |OF        |     22|  8|  12|  3|  3| 
 |Jonathan India     |DH        |     23|  9|   6|  3|  0| 
-|Jorge Polanco      |DH        |     22|  6|   9|  2|  0| 
-|Justin Turner      |DH        |     17|  4|   7|  1|  0| 
-|Xander Bogaerts    |DH        |     26| 10|   9|  1|  2| 
+|Jorge Polanco      |DH        |     17|  4|   7|  1|  0| 
+|Justin Turner      |DH        |     15|  4|   7|  1|  0| 
+|Xander Bogaerts    |DH        |     21|  8|   7|  1|  2| 
 |Christian Walker   |BAT BENCH |     **| **|  **| **| **| 
 |Fernando Tatis Jr. |BAT BENCH |     **| **|  **| **| **| 
 |MJ Melendez        |BAT BENCH |     16|  7|   8|  2|  1| 
@@ -43,7 +43,7 @@
 |Nick Lodolo   |SP          |  4| 19.333| 21| 9.776|     32| 1.655| 19|  1|  0| 
 |Pablo López   |SP          |  4| 23.000|  8| 3.130|     29| 1.261| 17|  2|  0| 
 |Kyle Finnegan |RP          |  6|  6.000|  3| 4.500|     13| 2.167|  4|  1|  3| 
-|Paul Sewald   |RP          |  8|  7.333|  4| 4.909|     13| 1.773|  8|  1|  0| 
+|Paul Sewald   |RP          |  6|  5.333|  4| 6.750|     11| 2.062|  6|  0|  0| 
 |Aaron Civale  |OP          |  3| 16.333|  7| 3.857|     20| 1.224| 12|  2|  0| 
 |Michael Wacha |OP          |  3| 19.000|  4| 1.895|     23| 1.211| 17|  2|  0| 
 |Ryan Helsley  |OP          |  6|  5.667|  4| 6.353|     11| 1.941|  4|  0|  5| 

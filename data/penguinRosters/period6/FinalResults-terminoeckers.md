@@ -21,7 +21,7 @@
 |Jarred Kelenic        |DH        |     18|  6|   7|  3|  3| 
 |Jurickson Profar      |DH        |     24|  9|  10|  5|  0| 
 |Luis García Jr.       |DH        |     18|  5|   6|  1|  3| 
-|Rowdy Tellez          |DH        |     17|  5|   8|  2|  0| 
+|Rowdy Tellez          |DH        |     10|  2|   2|  1|  0| 
 |Kyle Tucker           |BAT BENCH |     **| **|  **| **| **| 
 |Max Muncy             |BAT BENCH |     **| **|  **| **| **| 
 |Michael Harris II     |BAT BENCH |     **| **|  **| **| **| 
@@ -42,7 +42,7 @@
 |Seth Lugo        |SP          |  3| 20.333| 12|  5.311|     21| 1.033| 14|  1|  0| 
 |Taj Bradley      |SP          |  3| 20.000|  0|  0.000|     13| 0.650| 20|  3|  0| 
 |Chad Green       |RP          |  9| 10.333|  2|  1.742|      8| 0.774|  9|  2|  3| 
-|Edwin Díaz       |RP          |  7|  7.000|  1|  1.286|      8| 1.143|  9|  1|  5| 
+|Edwin Díaz       |RP          |  6|  5.667|  1|  1.588|      6| 1.059|  8|  0|  5| 
 |Albert Suárez    |OP          |  3| 11.667| 13| 10.029|     25| 2.143|  9|  0|  0| 
 |Andrew Heaney    |OP          |  3| 15.000|  6|  3.600|     20| 1.333| 13|  1|  0| 
 |Gavin Williams   |OP          |  5| 25.000|  7|  2.520|     30| 1.200| 29|  1|  0| 

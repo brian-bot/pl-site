@@ -12,7 +12,7 @@
 |Marcus Semien     |2B        |     26|  8|   8|  3|  0| 
 |Royce Lewis       |3B        |     25| 11|  16|  4|  0| 
 |Gunnar Henderson  |SS        |     33| 14|  14|  5|  0| 
-|Oneil Cruz        |MI        |     28|  7|   8|  1|  5| 
+|Oneil Cruz        |MI        |     13|  1|   3|  1|  2| 
 |Matt Olson        |CI        |     30| 12|  15|  6|  0| 
 |J.D. Martinez     |OF        |     24|  7|  13|  3|  0| 
 |Jackson Chourio   |OF        |     27| 11|   9|  3|  5| 
@@ -22,7 +22,7 @@
 |Ceddanne Rafaela  |DH        |     25| 10|   4|  1|  2| 
 |Luis Rengifo      |DH        |      0|  0|   0|  0|  0| 
 |Xavier Edwards    |DH        |     33|  9|   7|  0| 12| 
-|Julio Rodríguez   |BAT BENCH |     10|  2|   1|  0|  0| 
+|Julio Rodríguez   |BAT BENCH |      5|  0|   1|  0|  0| 
 |Zack Gelof        |BAT BENCH |     19|  7|   4|  2|  3| 
 
 

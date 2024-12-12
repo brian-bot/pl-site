@@ -8,22 +8,22 @@
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Shea Langeliers     |C         |     22|  8|  11|  3|  0| 
-|Paul Goldschmidt    |1B        |     20| 10|   8|  5|  0| 
+|Paul Goldschmidt    |1B        |     17| 10|   8|  5|  0| 
 |Bryson Stott        |2B        |     15|  5|   4|  2|  2| 
 |Jeimer Candelario   |3B        |     19| 11|  10|  3|  0| 
-|Francisco Lindor    |SS        |     40| 13|  20|  7|  6| 
+|Francisco Lindor    |SS        |     35| 12|  18|  7|  6| 
 |Bo Bichette         |MI        |      3|  1|   0|  0|  0| 
 |Alex Bregman        |CI        |     23| 12|  10|  4|  1| 
-|Brandon Nimmo       |OF        |     26|  8|  13|  3|  2| 
+|Brandon Nimmo       |OF        |     22|  7|  10|  2|  2| 
 |George Springer     |OF        |     24| 12|  13|  4|  4| 
 |Lourdes Gurriel Jr. |OF        |     19| 10|   4|  1|  2| 
 |Steven Kwan         |OF        |     22|  6|   3|  2|  2| 
 |Austin Riley        |DH        |     25|  7|   6|  3|  0| 
 |Eugenio Suárez      |DH        |     29| 19|  25| 10|  0| 
-|Masyn Winn          |DH        |     23| 11|   7|  3|  0| 
+|Masyn Winn          |DH        |     20| 11|   7|  3|  0| 
 |Michael Busch       |DH        |     26| 11|  10|  3|  1| 
 |Brandon Marsh       |BAT BENCH |     13|  9|   8|  4|  3| 
-|J.T. Realmuto       |BAT BENCH |     10|  3|   0|  0|  0| 
+|J.T. Realmuto       |BAT BENCH |      8|  3|   0|  0|  0| 
 |JJ Bleday           |BAT BENCH |     21| 12|   7|  2|  0| 
 |Max Kepler          |BAT BENCH |     22|  8|   3|  0|  0| 
 
@@ -44,7 +44,7 @@
 |Josh Hader        |RP          |  8|  7.000|  4| 5.143|      6| 0.857| 11|  1|  5| 
 |Kenley Jansen     |RP          |  6|  7.000|  6| 7.714|     13| 1.857|  9|  0|  3| 
 |Jason Foley       |OP          |  9|  6.333|  5| 7.105|     13| 2.053|  2|  0|  1| 
-|Mitch Keller      |OP          |  4| 25.000|  7| 2.520|     26| 1.040| 18|  1|  0| 
+|Mitch Keller      |OP          |  2| 10.000|  4| 3.600|     11| 1.100|  9|  0|  0| 
 |Ranger Suárez     |OP          |  2| 11.333|  7| 5.559|     17| 1.500| 10|  0|  0| 
 |Reese Olson       |OP          |  2|  8.000|  3| 3.375|     10| 1.250|  3|  1|  0| 
 |Tanner Scott      |OP          |  7|  7.667|  0| 0.000|      5| 0.652| 11|  0|  5| 

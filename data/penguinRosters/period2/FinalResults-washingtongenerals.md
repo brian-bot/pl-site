@@ -22,7 +22,7 @@
 |Jeimer Candelario   |DH        |     15|  3|   3|  1|  0| 
 |Spencer Torkelson   |DH        |     20|  6|   6|  0|  0| 
 |Steven Kwan         |DH        |     27| 10|   6|  1|  2| 
-|Nolan Schanuel      |BAT BENCH |     26|  6|   7|  2|  0| 
+|Nolan Schanuel      |BAT BENCH |     23|  5|   6|  2|  0| 
 
 
 * * *
@@ -37,9 +37,9 @@
 |James Paxton      |SP          |  3| 16.333|  6|  3.306|     26| 1.592|  8|  2|  0| 
 |Jordan Hicks      |SP          |  3| 15.000|  4|  2.400|     18| 1.200| 12|  0|  0| 
 |Jordan Montgomery |SP          |  3| 16.000| 10|  5.625|     21| 1.312|  8|  1|  0| 
-|Mitch Keller      |SP          |  4| 25.000| 12|  4.320|     30| 1.200| 23|  1|  0| 
+|Mitch Keller      |SP          |  1|  5.000|  3|  5.400|      7| 1.400|  7|  0|  0| 
 |Josh Hader        |RP          |  6|  7.000|  2|  2.571|      8| 1.143| 13|  1|  2| 
-|Kenley Jansen     |RP          |  4|  4.000|  0|  0.000|      1| 0.250|  5|  1|  1| 
+|Kenley Jansen     |RP          |  3|  3.000|  0|  0.000|      1| 0.333|  2|  1|  0| 
 |Ranger Suárez     |OP          |  3| 21.000|  4|  1.714|     14| 0.667| 19|  3|  0| 
 |Reese Olson       |OP          |  3| 17.000|  3|  1.588|     17| 1.000| 17|  0|  0| 
 |Reid Detmers      |OP          |  4| 23.000| 17|  6.652|     35| 1.522| 18|  0|  0| 

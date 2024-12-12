@@ -7,7 +7,7 @@
  
 |players         |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------|:---------|------:|--:|---:|--:|--:| 
-|Logan O'Hoppe   |C         |     18|  7|  11|  3|  0| 
+|Logan O'Hoppe   |C         |     17|  6|  10|  3|  0| 
 |Rhys Hoskins    |1B        |      8|  2|   8|  2|  0| 
 |Ryan McMahon    |2B        |     25| 14|  13|  5|  0| 
 |Jordan Westburg |3B        |     26| 10|   9|  2|  1| 
@@ -43,7 +43,7 @@
 |Jeff Hoffman    |RP          |  7|  6.667|  1| 1.350|      7| 1.050|  5|  0|  2| 
 |Garrett Crochet |OP          |  4| 23.000|  2| 0.783|     18| 0.783| 32|  3|  0| 
 |Gavin Stone     |OP          |  3| 19.000|  6| 2.842|     23| 1.211| 11|  2|  0| 
-|Jared Jones     |OP          |  3| 18.000|  8| 4.000|     25| 1.389| 16|  1|  0| 
+|Jared Jones     |OP          |  1|  6.000|  3| 4.500|      7| 1.167|  7|  1|  0| 
 |Jason Adam      |OP          |  8|  7.000|  2| 2.571|     10| 1.429|  6|  0|  1| 
 |Ronel Blanco    |OP          |  3| 15.667|  3| 1.723|     18| 1.149| 15|  2|  0| 
 |Evan Phillips   |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
