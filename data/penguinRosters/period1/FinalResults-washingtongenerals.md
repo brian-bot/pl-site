@@ -20,7 +20,7 @@
 |Ronald Acuña Jr.    |OF        |     30| 16|   5|  0|  8| 
 |Jeimer Candelario   |DH        |     16|  7|   7|  2|  0| 
 |José Abreu          |DH        |      8|  6|   1|  0|  0| 
-|Spencer Torkelson   |DH        |     18|  7|   5|  0|  0| 
+|Spencer Torkelson   |DH        |     22|  7|   6|  0|  0| 
 |Steven Kwan         |DH        |     32| 18|   5|  2|  1| 
 |Eugenio Suárez      |BAT BENCH |     22|  9|  13|  2|  0| 
 |Nolan Schanuel      |BAT BENCH |     14|  5|   5|  1|  0| 
@@ -37,8 +37,8 @@
 |Bowden Francis |SP          |  3| 10.667| 14| 11.812|     21| 1.969| 15|  1|  0| 
 |George Kirby   |SP          |  4| 20.333| 15|  6.639|     27| 1.328| 19|  2|  0| 
 |Jordan Hicks   |SP          |  4| 23.000|  4|  1.565|     21| 0.913| 18|  2|  0| 
-|Mitch Keller   |SP          |  3| 18.000| 10|  5.000|     27| 1.500| 12|  1|  0| 
-|Reese Olson    |SP          |  2| 12.000|  1|  0.750|     12| 1.000| 11|  0|  0| 
+|Mitch Keller   |SP          |  4| 24.000| 12|  4.500|     35| 1.458| 21|  2|  0| 
+|Reese Olson    |SP          |  3| 16.333|  7|  3.857|     24| 1.469| 14|  0|  0| 
 |Josh Hader     |RP          |  9|  7.667|  8|  9.391|     13| 1.696| 11|  0|  1| 
 |Kenley Jansen  |RP          |  7|  6.667|  2|  2.700|     12| 1.800|  9|  0|  4| 
 |James Paxton   |OP          |  3| 16.000|  5|  2.812|     24| 1.500| 10|  2|  0| 

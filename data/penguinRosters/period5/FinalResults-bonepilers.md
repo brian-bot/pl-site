@@ -10,14 +10,14 @@
 |Cal Raleigh       |C         |     20|  5|   8|  3|  2| 
 |Bryce Harper      |1B        |     21| 11|  12|  5|  0| 
 |Brice Turang      |2B        |     28|  9|  14|  3|  2| 
-|Nolan Arenado     |3B        |     18|  6|   3|  1|  1| 
+|Nolan Arenado     |3B        |     20|  7|   3|  1|  1| 
 |Dansby Swanson    |SS        |     16|  4|   8|  2|  1| 
-|Nick Gonzales     |MI        |      9|  2|   1|  0|  1| 
+|Nick Gonzales     |MI        |     16|  5|   3|  0|  1| 
 |Josh Naylor       |CI        |     23| 14|  15|  4|  0| 
 |Jazz Chisholm Jr. |OF        |     24|  6|   6|  0|  3| 
-|Josh Lowe         |OF        |     12|  6|   3|  1|  5| 
+|Josh Lowe         |OF        |     20|  9|   8|  3|  6| 
 |Kyle Schwarber    |OF        |     20| 10|   6|  3|  0| 
-|Randy Arozarena   |OF        |     23|  6|   6|  2|  4| 
+|Randy Arozarena   |OF        |     28|  6|   7|  2|  4| 
 |Kyle Manzardo     |DH        |     **| **|  **| **| **| 
 |Lane Thomas       |DH        |     26| 14|  14|  1|  5| 
 |Patrick Bailey    |DH        |     19|  9|   7|  2|  0| 

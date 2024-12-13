@@ -6,7 +6,7 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Austin Wells      |C         |     11|  3|   6|  0|  0| 
-|Salvador Perez    |1B        |     17|  1|   5|  0|  0| 
+|Salvador Perez    |1B        |     21|  2|   7|  1|  0| 
 |Andrés Giménez    |2B        |     17|  4|   6|  1|  3| 
 |José Ramírez      |3B        |     27| 13|  12|  5|  5| 
 |Trevor Story      |SS        |     23|  6|   5|  2|  4| 

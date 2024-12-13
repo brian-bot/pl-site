@@ -7,7 +7,7 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|Tyler Stephenson      |C         |     21|  7|   8|  1|  0| 
+|Tyler Stephenson      |C         |     29| 10|  10|  2|  0| 
 |Freddie Freeman       |1B        |     20|  6|  11|  4|  0| 
 |Gavin Lux             |2B        |     15|  7|   1|  0|  1| 
 |Matt Chapman          |3B        |     19|  7|   9|  3|  3| 
@@ -15,17 +15,17 @@
 |Tyler Fitzgerald      |MI        |     21|  8|   2|  0|  3| 
 |Vladimir Guerrero Jr. |CI        |     30| 13|  11|  2|  0| 
 |Brenton Doyle         |OF        |     19|  8|   6|  2|  2| 
-|Ian Happ              |OF        |     21|  7|  10|  1|  0| 
+|Ian Happ              |OF        |     30|  9|  12|  1|  2| 
 |Jurickson Profar      |OF        |     25|  7|   6|  2|  2| 
 |Michael Harris II     |OF        |     17|  6|   8|  3|  0| 
-|Cody Bellinger        |DH        |     20|  8|  10|  3|  0| 
+|Cody Bellinger        |DH        |     24| 12|  13|  3|  2| 
 |Colton Cowser         |DH        |     23| 12|   6|  2|  0| 
 |Max Muncy             |DH        |     19|  7|   6|  1|  0| 
 |Michael Toglia        |DH        |     26| 11|   5|  3|  1| 
 |Gleyber Torres        |BAT BENCH |     36| 14|  10|  2|  0| 
 |Kyle Tucker           |BAT BENCH |      4|  2|   1|  0|  0| 
 |Maikel Garcia         |BAT BENCH |     17|  5|   5|  1|  3| 
-|Seiya Suzuki          |BAT BENCH |     25|  9|   4|  2|  3| 
+|Seiya Suzuki          |BAT BENCH |     35| 14|   8|  3|  4| 
 
 
 * * *

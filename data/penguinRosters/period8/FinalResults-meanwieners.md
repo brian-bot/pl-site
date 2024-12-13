@@ -20,7 +20,7 @@
 |Yordan Alvarez    |OF        |     25|  9|  14|  7|  1| 
 |Lars Nootbaar     |DH        |     28|  7|  11|  1|  2| 
 |Taylor Ward       |DH        |     29| 13|   9|  6|  1| 
-|TJ Friedl         |DH        |     16|  4|  10|  1|  1| 
+|TJ Friedl         |DH        |     19|  5|  12|  1|  2| 
 |Wyatt Langford    |DH        |     23| 12|  14|  3|  1| 
 |Byron Buxton      |BAT BENCH |     **| **|  **| **| **| 
 |Jasson Domínguez  |BAT BENCH |      1|  1|   0|  0|  1| 
@@ -44,7 +44,7 @@
 |Evan Phillips         |RP          |  7|  7.000|  1| 1.286|      5| 0.714|  9|  0|  2| 
 |Gavin Stone           |OP          |  2| 12.000|  6| 4.500|     11| 0.917| 11|  0|  0| 
 |Hunter Brown          |OP          |  3| 18.667|  1| 0.482|     14| 0.750| 16|  0|  0| 
-|Jared Jones           |OP          |  1|  6.333|  3| 4.263|      7| 1.105|  4|  0|  0| 
+|Jared Jones           |OP          |  3| 17.333| 10| 5.192|     19| 1.096| 17|  1|  0| 
 |Jeff Hoffman          |OP          |  8|  7.667|  0| 0.000|      6| 0.783|  8|  0|  1| 
 |Spencer Schwellenbach |OP          |  4| 22.000|  7| 2.864|     28| 1.273| 22|  1|  0| 
 |Daniel Hudson         |PITCH BENCH |  4|  3.667|  0| 0.000|      4| 1.091|  3|  0|  0| 

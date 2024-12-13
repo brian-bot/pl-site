@@ -14,7 +14,7 @@
 |Jackson Merrill    |SS        |     18|  8|   7|  1|  1| 
 |Anthony Volpe      |MI        |     22| 10|   7|  3|  4| 
 |Josh Bell          |CI        |     28|  7|  14|  6|  0| 
-|Brendan Donovan    |OF        |     20|  4|   5|  1|  1| 
+|Brendan Donovan    |OF        |     21|  4|   5|  1|  1| 
 |Corbin Carroll     |OF        |     25| 15|  15|  6|  5| 
 |Mark Canha         |OF        |     19|  7|   5|  1|  0| 
 |Spencer Steer      |OF        |     21|  9|   8|  2|  4| 
@@ -46,11 +46,11 @@
 |Paul Sewald   |RP          |  9|  9.000|  5|  5.000|     12| 1.333| 11|  0|  5| 
 |Aaron Civale  |OP          |  3| 16.000|  6|  3.375|     22| 1.375| 13|  0|  0| 
 |Michael Wacha |OP          |  4| 23.667|  8|  3.042|     27| 1.141| 16|  3|  0| 
-|Ryan Helsley  |OP          |  4|  4.000|  0|  0.000|      5| 1.250|  4|  1|  1| 
+|Ryan Helsley  |OP          |  5|  5.000|  0|  0.000|      5| 1.000|  7|  1|  2| 
 |Ryan Pepiot   |OP          |  2| 11.667|  1|  0.771|      9| 0.771| 11|  2|  0| 
 |Tobias Myers  |OP          |  3| 17.333|  3|  1.558|     17| 0.981| 17|  1|  0| 
 |Jesús Luzardo |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|José Alvarado |PITCH BENCH |  6|  5.333|  3|  5.062|      8| 1.500|  4|  0|  0| 
+|José Alvarado |PITCH BENCH |  8|  6.667|  5|  6.750|     12| 1.800|  7|  0|  0| 
 
 
 * * *

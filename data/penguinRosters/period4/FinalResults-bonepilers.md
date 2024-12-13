@@ -11,7 +11,7 @@
 |Bryce Harper      |1B        |     30|  9|   5|  2|  1| 
 |Brice Turang      |2B        |     24| 12|   5|  0|  7| 
 |Nolan Arenado     |3B        |     24|  5|   9|  3|  0| 
-|Dansby Swanson    |SS        |     21|  5|   7|  2|  0| 
+|Dansby Swanson    |SS        |     22|  5|   7|  2|  0| 
 |J.P. Crawford     |MI        |     23| 10|   8|  3|  1| 
 |Josh Naylor       |CI        |     20|  9|  15|  4|  0| 
 |Evan Carter       |OF        |     **| **|  **| **| **| 
@@ -41,10 +41,10 @@
 |Zack Wheeler       |SP          |  4| 24.333| 10| 3.699|     27| 1.110| 23|  2|  0| 
 |Kirby Yates        |RP          |  6|  5.333|  1| 1.688|      6| 1.125|  9|  0|  3| 
 |Mark Leiter Jr.    |RP          |  8|  5.333|  5| 8.438|      9| 1.688|  8|  1|  0| 
-|Blake Treinen      |OP          |  7|  6.000|  4| 6.000|      9| 1.500|  8|  1|  1| 
+|Blake Treinen      |OP          |  8|  7.000|  4| 5.143|     10| 1.429| 11|  1|  1| 
 |Bryse Wilson       |OP          |  4| 19.333| 13| 6.052|     28| 1.448| 12|  1|  0| 
 |Christian Scott    |OP          |  1|  5.000|  2| 3.600|      5| 1.000|  4|  0|  0| 
-|Héctor Neris       |OP          |  7|  6.667|  6| 8.100|     12| 1.800|  8|  2|  4| 
+|Héctor Neris       |OP          |  8|  7.667|  7| 8.217|     14| 1.826|  9|  2|  4| 
 |Zack Littell       |OP          |  4| 21.000| 15| 6.429|     36| 1.714| 16|  0|  0| 
 |Merrill Kelly      |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 

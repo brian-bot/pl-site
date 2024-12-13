@@ -17,10 +17,10 @@
 |Corbin Carroll     |OF        |     31| 18|   5|  0|  3| 
 |Fernando Tatis Jr. |OF        |     33| 13|   7|  4|  2| 
 |Mark Canha         |OF        |     20|  8|   7|  0|  3| 
-|Spencer Steer      |OF        |     18|  5|   7|  2|  1| 
+|Spencer Steer      |OF        |     20|  6|   7|  2|  1| 
 |Brendan Donovan    |DH        |     21|  6|   4|  1|  1| 
 |Jonah Heim         |DH        |     11|  3|   3|  1|  0| 
-|Jonathan India     |DH        |     25|  8|  11|  1|  1| 
+|Jonathan India     |DH        |     27|  9|  11|  1|  1| 
 |Justin Turner      |DH        |     20|  4|   3|  0|  0| 
 |Jorge Polanco      |BAT BENCH |     **| **|  **| **| **| 
 |Josh Jung          |BAT BENCH |     **| **|  **| **| **| 

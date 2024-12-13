@@ -13,7 +13,7 @@
 |Nolan Gorman     |3B        |     19|  5|   8|  3|  0| 
 |Ceddanne Rafaela |SS        |     13|  7|   6|  0|  1| 
 |Zach Neto        |MI        |     16|  3|   6|  0|  3| 
-|Ke'Bryan Hayes   |CI        |     23|  9|   6|  0|  0| 
+|Ke'Bryan Hayes   |CI        |     31|  9|   7|  0|  0| 
 |Aaron Judge      |OF        |     28|  7|   9|  3|  0| 
 |Luis Robert Jr.  |OF        |      7|  3|   4|  2|  1| 
 |Wyatt Langford   |OF        |     24|  7|   8|  0|  0| 
@@ -22,7 +22,7 @@
 |Chas McCormick   |DH        |     20|  4|   5|  0|  1| 
 |Daulton Varsho   |DH        |     16| 10|   5|  2|  1| 
 |Will Benson      |DH        |     23|  7|   6|  2|  5| 
-|Colt Keith       |BAT BENCH |     14|  3|   4|  0|  1| 
+|Colt Keith       |BAT BENCH |     16|  3|   5|  0|  1| 
 |José Caballero   |BAT BENCH |     17|  7|   8|  1|  5| 
 
 
@@ -47,7 +47,7 @@
 |Mason Miller    |OP          |  6|  8.000|  2| 2.250|      9| 1.125| 15|  0|  3| 
 |Trevor Rogers   |OP          |  3| 15.000|  8| 4.800|     28| 1.867| 14|  0|  0| 
 |DL Hall         |PITCH BENCH |  3| 12.667| 10| 7.105|     27| 2.132| 10|  0|  0| 
-|Jared Jones     |PITCH BENCH |  3| 17.000|  6| 3.176|     12| 0.706| 25|  1|  0| 
+|Jared Jones     |PITCH BENCH |  4| 23.000|  8| 3.130|     18| 0.783| 32|  1|  0| 
 
 
 * * *

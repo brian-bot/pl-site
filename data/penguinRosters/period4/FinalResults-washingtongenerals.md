@@ -25,7 +25,7 @@
 |Blaze Alexander     |BAT BENCH |     14|  5|   3|  0|  1| 
 |Esteury Ruiz        |BAT BENCH |     **| **|  **| **| **| 
 |George Springer     |BAT BENCH |     23| 12|   4|  1|  1| 
-|Max Kepler          |BAT BENCH |     13|  5|   7|  1|  0| 
+|Max Kepler          |BAT BENCH |     17|  6|   8|  1|  0| 
 
 
 * * *
@@ -38,13 +38,13 @@
 |Andrew Abbott     |SP          |  4| 22.000| 13|  5.318|     33| 1.500| 17|  2|  0| 
 |Braxton Garrett   |SP          |  3| 12.333| 10|  7.297|     20| 1.622|  9|  1|  0| 
 |George Kirby      |SP          |  4| 24.000|  4|  1.500|     23| 0.958| 27|  2|  0| 
-|James Paxton      |SP          |  2|  9.000|  1|  1.000|      6| 0.667|  5|  1|  0| 
+|James Paxton      |SP          |  3| 10.667|  7|  5.906|     14| 1.312|  7|  1|  0| 
 |Jordan Hicks      |SP          |  3| 13.667|  9|  5.927|     23| 1.683| 16|  0|  0| 
 |Jordan Montgomery |SP          |  4| 16.667| 17|  9.180|     36| 2.160| 15|  2|  0| 
 |Josh Hader        |RP          |  8|  7.667|  3|  3.522|      9| 1.174| 11|  0|  2| 
 |Kenley Jansen     |RP          |  4|  5.333|  1|  1.688|      4| 0.750|  7|  1|  2| 
 |Alec Marsh        |OP          |  3| 17.000|  9|  4.765|     20| 1.176| 18|  1|  0| 
-|Mitch Keller      |OP          |  2| 12.000|  5|  3.750|     14| 1.167| 12|  1|  0| 
+|Mitch Keller      |OP          |  3| 18.000|  5|  2.500|     23| 1.278| 20|  2|  0| 
 |Ranger Suárez     |OP          |  3| 14.333|  3|  1.884|     17| 1.186| 14|  1|  0| 
 |Reese Olson       |OP          |  3| 14.667| 17| 10.432|     32| 2.182| 14|  0|  0| 
 |Tanner Scott      |OP          |  5|  6.000|  2|  3.000|      4| 0.667|  8|  1|  1| 

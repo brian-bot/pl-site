@@ -19,7 +19,7 @@
 |Giancarlo Stanton            |OF        |     23|  9|  11|  4|  0| 
 |Nick Castellanos             |OF        |     18| 10|   8|  3|  0| 
 |Christian Yelich             |DH        |     34|  8|  12|  1|  7| 
-|Shohei Ohtani                |DH        |     20| 11|   9|  5|  2| 
+|Shohei Ohtani                |DH        |     24| 13|  11|  6|  2| 
 |Tommy Pham                   |DH        |     10|  4|   1|  0|  0| 
 |Vaughn Grissom               |DH        |      3|  1|   0|  0|  0| 
 |Christian Encarnacion-Strand |BAT BENCH |     **| **|  **| **| **| 
@@ -36,15 +36,15 @@
 |:------------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Brayan Bello       |SP          |  4| 20.667| 16| 6.968|     39| 1.887| 19|  1|  0| 
 |José Berríos       |SP          |  4| 24.667| 10| 3.649|     29| 1.176| 12|  1|  0| 
-|Tyler Glasnow      |SP          |  3| 20.000|  7| 3.150|     19| 0.950| 29|  1|  0| 
+|Tyler Glasnow      |SP          |  4| 26.000|  8| 2.769|     24| 0.923| 38|  1|  0| 
 |Yoshinobu Yamamoto |SP          |  3| 15.000|  1| 0.600|     14| 0.933| 15|  1|  0| 
 |Yu Darvish         |SP          |  1|  3.000|  2| 6.000|      7| 2.333|  2|  0|  0| 
-|Alexis Díaz        |RP          |  5|  5.000|  2| 3.600|      8| 1.600|  5|  0|  4| 
+|Alexis Díaz        |RP          |  6|  6.000|  3| 4.500|     11| 1.833|  5|  0|  5| 
 |Carlos Estévez     |RP          |  6|  6.000|  0| 0.000|      0| 0.000|  5|  1|  5| 
 |Brandon Pfaadt     |OP          |  4| 24.333| 14| 5.178|     33| 1.356| 26|  1|  0| 
 |Dane Dunning       |OP          |  4| 18.333| 11| 5.400|     26| 1.418| 20|  1|  0| 
 |David Peterson     |OP          |  3| 16.667|  8| 4.320|     25| 1.500|  6|  2|  0| 
-|Javier Assad       |OP          |  2| 10.333|  7| 6.097|     16| 1.548| 11|  0|  0| 
+|Javier Assad       |OP          |  3| 15.667|  9| 5.170|     24| 1.532| 18|  0|  0| 
 |Michael Kopech     |OP          |  7|  5.667|  5| 7.941|     12| 2.118| 10|  1|  0| 
 |Triston McKenzie   |OP          |  3| 15.667| 11| 6.319|     26| 1.660| 20|  1|  0| 
 |Reynaldo López     |PITCH BENCH |  3| 18.000|  3| 1.500|     16| 0.889| 23|  2|  0| 

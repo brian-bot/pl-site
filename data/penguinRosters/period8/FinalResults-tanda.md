@@ -7,12 +7,12 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Joey Bart         |C         |      4|  1|   0|  0|  0| 
+|Joey Bart         |C         |      9|  7|   5|  1|  0| 
 |Anthony Santander |1B        |     26|  8|  12|  3|  0| 
 |Marcus Semien     |2B        |     20|  9|   6|  1|  3| 
 |Royce Lewis       |3B        |     13|  4|   8|  1|  0| 
 |Gunnar Henderson  |SS        |     25|  9|   7|  3|  4| 
-|Oneil Cruz        |MI        |     11|  2|   3|  0|  3| 
+|Oneil Cruz        |MI        |     28|  8|   8|  1|  7| 
 |Matt Olson        |CI        |     26| 13|  16|  4|  0| 
 |J.D. Martinez     |OF        |     14|  5|   9|  2|  0| 
 |Jackson Chourio   |OF        |     32| 11|  16|  4|  3| 
@@ -21,7 +21,7 @@
 |Brandon Lowe      |DH        |     15|  9|   2|  1|  0| 
 |Ceddanne Rafaela  |DH        |      9|  5|  10|  2|  0| 
 |David Hamilton    |DH        |      4|  4|   2|  1|  1| 
-|Xavier Edwards    |DH        |      8|  5|   3|  0|  4| 
+|Xavier Edwards    |DH        |     10|  5|   3|  0|  4| 
 |Jorge Soler       |BAT BENCH |     13|  5|   2|  1|  0| 
 |Logan O'Hoppe     |BAT BENCH |      8|  5|   4|  2|  0| 
 |Masataka Yoshida  |BAT BENCH |     16|  2|   3|  0|  1| 

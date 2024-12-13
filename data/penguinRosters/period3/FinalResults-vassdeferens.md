@@ -9,18 +9,18 @@
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Adley Rutschman    |C         |     19|  9|  15|  5|  0| 
 |Pete Alonso        |1B        |     24|  7|   7|  3|  0| 
-|Nico Hoerner       |2B        |     12|  4|   5|  1|  1| 
+|Nico Hoerner       |2B        |     17|  6|   5|  1|  2| 
 |Elly De La Cruz    |3B        |     25|  9|   5|  1| 12| 
 |CJ Abrams          |SS        |     18|  8|   7|  2|  0| 
 |Ketel Marte        |MI        |     18|  9|   9|  3|  0| 
 |Vinnie Pasquantino |CI        |     18|  7|  12|  1|  0| 
 |Juan Soto          |OF        |     29| 14|  16|  6|  0| 
 |Lars Nootbaar      |OF        |     24|  7|  11|  3|  1| 
-|Marcell Ozuna      |OF        |     27|  8|  13|  5|  0| 
+|Marcell Ozuna      |OF        |     31|  9|  13|  5|  0| 
 |Riley Greene       |OF        |     14|  5|   3|  0|  1| 
 |Anthony Rizzo      |DH        |     20|  9|   5|  1|  0| 
 |Jake Burger        |DH        |     14|  4|   4|  1|  0| 
-|Jo Adell           |DH        |     15| 10|   9|  5|  1| 
+|Jo Adell           |DH        |     17| 11|  11|  6|  1| 
 |Wenceel Pérez      |DH        |     19|  8|   6|  0|  2| 
 |Heston Kjerstad    |BAT BENCH |      0|  0|   0|  0|  0| 
 |Mitch Garver       |BAT BENCH |     18|  8|   5|  2|  0| 
@@ -48,7 +48,7 @@
 |Mitchell Parker  |OP          |  4| 23.000| 11| 4.304|     26| 1.130| 19|  2|  0| 
 |Ryan Weathers    |OP          |  4| 27.000|  4| 1.333|     19| 0.704| 22|  1|  0| 
 |Garrett Whitlock |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
-|Paul Skenes      |PITCH BENCH |  2| 10.000|  3| 2.700|      9| 0.900| 18|  1|  0| 
+|Paul Skenes      |PITCH BENCH |  3| 16.000|  4| 2.250|     16| 1.000| 21|  1|  0| 
 |Pete Fairbanks   |PITCH BENCH |  7|  7.000|  0| 0.000|      4| 0.571|  8|  0|  2| 
 
 

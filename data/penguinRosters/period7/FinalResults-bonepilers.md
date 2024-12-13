@@ -7,7 +7,7 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Cal Raleigh       |C         |     21|  7|   9|  3|  0| 
+|Cal Raleigh       |C         |     22|  8|  11|  4|  0| 
 |Bryce Harper      |1B        |     24|  6|   6|  2|  0| 
 |Brice Turang      |2B        |     19|  8|   6|  1|  5| 
 |Nolan Arenado     |3B        |     26|  9|  10|  2|  1| 
@@ -17,7 +17,7 @@
 |Jazz Chisholm Jr. |OF        |     15|  8|   3|  3|  4| 
 |Josh Lowe         |OF        |     21|  7|   7|  2|  8| 
 |Kyle Schwarber    |OF        |     31| 14|  15|  6|  1| 
-|Randy Arozarena   |OF        |     25|  9|   3|  0|  1| 
+|Randy Arozarena   |OF        |     26|  9|   3|  0|  1| 
 |Joey Loperfido    |DH        |     13|  7|   2|  1|  1| 
 |Lane Thomas       |DH        |     13|  5|   1|  0|  1| 
 |Patrick Bailey    |DH        |      5|  3|   2|  0|  0| 

@@ -13,7 +13,7 @@
 |Jorge Polanco      |3B        |     19|  8|   5|  2|  1| 
 |Xander Bogaerts    |SS        |     21|  7|   4|  1|  1| 
 |Anthony Volpe      |MI        |     22| 10|   8|  2|  1| 
-|Triston Casas      |CI        |      1|  0|   0|  0|  0| 
+|Triston Casas      |CI        |      4|  1|   1|  1|  0| 
 |Corbin Carroll     |OF        |     18|  4|   7|  1|  1| 
 |Fernando Tatis Jr. |OF        |     25| 13|   7|  2|  3| 
 |Mark Canha         |OF        |     28|  9|   8|  2|  0| 

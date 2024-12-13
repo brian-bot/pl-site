@@ -11,11 +11,11 @@
 |Matt Olson        |1B        |     18|  3|   5|  0|  0| 
 |Marcus Semien     |2B        |     23| 15|  11|  4|  0| 
 |Gunnar Henderson  |3B        |     28| 14|  10|  5|  2| 
-|Oneil Cruz        |SS        |      6|  0|   0|  0|  1| 
-|Brandon Drury     |MI        |      6|  3|   2|  0|  0| 
+|Oneil Cruz        |SS        |     21|  2|   6|  2|  2| 
+|Brandon Drury     |MI        |      7|  3|   2|  0|  0| 
 |Matt Chapman      |CI        |     19|  6|   3|  0|  2| 
-|Jackson Chourio   |OF        |     13|  7|   2|  1|  3| 
-|Jarren Duran      |OF        |     23|  9|   8|  0|  2| 
+|Jackson Chourio   |OF        |     14|  7|   2|  1|  3| 
+|Jarren Duran      |OF        |     27| 12|   8|  0|  3| 
 |Jorge Soler       |OF        |     15|  5|   3|  2|  0| 
 |Julio Rodríguez   |OF        |     28|  7|   6|  1|  4| 
 |Colton Cowser     |DH        |     15|  5|   4|  2|  1| 

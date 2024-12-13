@@ -19,9 +19,9 @@
 |Marcell Ozuna      |OF        |     24|  9|  12|  3|  0| 
 |Riley Greene       |OF        |     34| 17|  10|  6|  0| 
 |Anthony Rizzo      |DH        |     26| 11|  13|  5|  0| 
-|Edward Olivares    |DH        |      5|  1|   0|  0|  0| 
+|Edward Olivares    |DH        |     10|  2|   5|  1|  0| 
 |Mitch Garver       |DH        |     18|  7|   6|  3|  0| 
-|Sal Frelick        |DH        |     14|  2|   0|  0|  1| 
+|Sal Frelick        |DH        |     17|  4|   0|  0|  1| 
 |Iván Herrera       |BAT BENCH |      9|  0|   4|  0|  0| 
 |Jake Burger        |BAT BENCH |      0|  0|   0|  0|  0| 
 |Matt Wallner       |BAT BENCH |     **| **|  **| **| **| 
@@ -35,7 +35,7 @@
 |players          |position |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:--------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Bailey Ober      |SP       |  4| 24.333|  9|  3.329|     19| 0.781| 24|  3|  0| 
-|Freddy Peralta   |SP       |  3| 16.333|  5|  2.755|     16| 0.980| 19|  1|  0| 
+|Freddy Peralta   |SP       |  4| 21.000| 10|  4.286|     26| 1.238| 24|  1|  0| 
 |Michael Lorenzen |SP       |  3| 18.000|  9|  4.500|     20| 1.111| 13|  1|  0| 
 |Nestor Cortes    |SP       |  4| 26.333|  9|  3.076|     25| 0.949| 27|  0|  0| 
 |Tanner Houck     |SP       |  4| 27.667|  6|  1.952|     23| 0.831| 27|  1|  0| 

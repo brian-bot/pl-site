@@ -16,7 +16,7 @@
 |Yainer Diaz       |CI        |     15|  6|   7|  0|  0| 
 |Christopher Morel |OF        |     27| 10|  13|  5|  4| 
 |Kerry Carpenter   |OF        |     19|  5|  10|  1|  0| 
-|Masataka Yoshida  |OF        |      6|  3|   1|  0|  0| 
+|Masataka Yoshida  |OF        |     11|  5|   3|  1|  0| 
 |Taylor Ward       |OF        |     22|  6|   4|  1|  1| 
 |Edouard Julien    |DH        |     25|  9|   9|  3|  1| 
 |LaMonte Wade Jr.  |DH        |     24|  5|   5|  0|  0| 
@@ -24,7 +24,7 @@
 |Ryan Mountcastle  |DH        |     20|  9|   7|  3|  2| 
 |Anthony Santander |BAT BENCH |     24|  9|   9|  2|  0| 
 |Carlos Correa     |BAT BENCH |     10|  4|   4|  0|  0| 
-|Ceddanne Rafaela  |BAT BENCH |     15|  8|  12|  2|  2| 
+|Ceddanne Rafaela  |BAT BENCH |     18| 10|  14|  3|  3| 
 
 
 * * *

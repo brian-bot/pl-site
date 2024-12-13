@@ -14,15 +14,15 @@
 |Corey Seager      |SS        |     30|  9|  11|  8|  0| 
 |Ezequiel Tovar    |MI        |     29| 13|  11|  4|  1| 
 |Ha-Seong Kim      |CI        |     23|  5|   2|  1|  6| 
-|Bryan Reynolds    |OF        |     14|  3|   3|  1|  2| 
+|Bryan Reynolds    |OF        |     26|  6|  11|  3|  2| 
 |Cedric Mullins    |OF        |      8|  5|   5|  0|  5| 
 |Teoscar Hernández |OF        |     23|  6|  12|  3|  0| 
 |Tyler O'Neill     |OF        |     14|  7|   4|  2|  0| 
 |Alec Bohm         |DH        |     23|  6|  15|  1|  1| 
 |Bryan De La Cruz  |DH        |     24|  6|   5|  2|  0| 
 |Jeremy Peña       |DH        |     27| 12|   8|  2|  2| 
-|Ozzie Albies      |DH        |     18|  4|   5|  1|  1| 
-|Jack Suwinski     |BAT BENCH |      6|  3|   3|  2|  2| 
+|Ozzie Albies      |DH        |     23|  6|   7|  1|  1| 
+|Jack Suwinski     |BAT BENCH |     12|  4|   3|  2|  4| 
 |Nolan Jones       |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -40,7 +40,7 @@
 |Logan Gilbert    |SP          |  4| 22.667| 15| 5.956|     30| 1.324| 16|  0|  0| 
 |Sonny Gray       |SP          |  4| 21.667| 12| 4.985|     26| 1.200| 29|  3|  0| 
 |Clay Holmes      |RP          |  7|  6.667|  4| 5.400|     12| 1.800|  8|  0|  4| 
-|David Bednar     |RP          |  5|  4.333|  2| 4.154|      5| 1.154|  2|  0|  4| 
+|David Bednar     |RP          |  9|  8.333|  2| 2.160|      9| 1.080|  5|  1|  5| 
 |Jon Gray         |OP          |  3| 17.333|  3| 1.558|     22| 1.269| 14|  1|  0| 
 |JP Sears         |OP          |  4| 21.000|  9| 3.857|     25| 1.190| 10|  2|  0| 
 |Nick Pivetta     |OP          |  4| 19.000| 13| 6.158|     23| 1.211| 20|  1|  0| 

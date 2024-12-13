@@ -11,7 +11,7 @@
 |Bryce Harper      |1B        |     33|  9|   6|  0|  0| 
 |Brice Turang      |2B        |     19|  6|   2|  0|  4| 
 |Nolan Arenado     |3B        |     22| 12|   9|  2|  0| 
-|Dansby Swanson    |SS        |     21| 15|   8|  2|  5| 
+|Dansby Swanson    |SS        |     27| 21|  16|  4|  6| 
 |Joey Loperfido    |MI        |     14|  4|   5|  1|  0| 
 |Josh Naylor       |CI        |     25|  7|  12|  2|  1| 
 |Jazz Chisholm Jr. |OF        |     22| 10|   4|  2|  8| 

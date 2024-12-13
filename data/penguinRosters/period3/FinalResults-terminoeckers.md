@@ -14,15 +14,15 @@
 |Willy Adames          |SS        |     21|  6|  10|  1|  3| 
 |Maikel Garcia         |MI        |     29| 16|  12|  1|  5| 
 |Vladimir Guerrero Jr. |CI        |     38| 11|  10|  1|  1| 
-|Cody Bellinger        |OF        |     18|  2|   3|  0|  0| 
+|Cody Bellinger        |OF        |     23|  4|   5|  1|  0| 
 |Kyle Tucker           |OF        |     35| 14|  15|  8|  4| 
-|Michael Harris II     |OF        |     17|  6|   4|  2|  3| 
-|Seiya Suzuki          |OF        |     16|  6|   3|  1|  1| 
+|Michael Harris II     |OF        |     22|  7|   4|  2|  3| 
+|Seiya Suzuki          |OF        |     16|  7|   3|  1|  1| 
 |Alex Verdugo          |DH        |     18|  7|  11|  2|  0| 
 |Jonny DeLuca          |DH        |     15|  3|   4|  1|  2| 
 |Jurickson Profar      |DH        |     31| 10|   5|  1|  1| 
-|Michael Busch         |DH        |     14|  7|   2|  0|  0| 
-|Ian Happ              |BAT BENCH |     13|  6|   4|  3|  1| 
+|Michael Busch         |DH        |     15|  9|   2|  0|  1| 
+|Ian Happ              |BAT BENCH |     16|  7|   5|  3|  1| 
 |Jacob Young           |BAT BENCH |     15|  3|   5|  0|  4| 
 |Tyler Black           |BAT BENCH |     **| **|  **| **| **| 
 |Zack Gelof            |BAT BENCH |     12|  2|   3|  0|  0| 

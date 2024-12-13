@@ -8,9 +8,9 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Adley Rutschman    |C         |     31| 10|   6|  2|  0| 
-|Pete Alonso        |1B        |     27|  9|  11|  3|  1| 
+|Pete Alonso        |1B        |     29| 10|  11|  3|  1| 
 |Nico Hoerner       |2B        |     26|  9|   5|  2|  4| 
-|Elly De La Cruz    |3B        |     26| 13|   8|  3|  6| 
+|Elly De La Cruz    |3B        |     30| 13|   8|  3|  7| 
 |CJ Abrams          |SS        |     37| 16|  10|  3|  4| 
 |Ketel Marte        |MI        |     25| 10|  12|  3|  1| 
 |Vinnie Pasquantino |CI        |     22|  7|  13|  4|  0| 
@@ -46,8 +46,8 @@
 |Bryan Woo        |OP          |  2|  7.000|  4| 5.143|     10| 1.429|  4|  0|  0| 
 |Chris Paddack    |OP          |  1|  4.667|  3| 5.786|      8| 1.714|  3|  0|  0| 
 |Mitch Spence     |OP          |  3| 16.667|  9| 4.860|     23| 1.380| 18|  1|  0| 
-|Paul Skenes      |OP          |  1|  6.000|  1| 1.500|      8| 1.333|  9|  0|  0| 
-|Pete Fairbanks   |OP          |  6|  6.667|  3| 4.050|      6| 0.900|  5|  1|  3| 
+|Paul Skenes      |OP          |  4| 26.000|  5| 1.731|     28| 1.077| 32|  2|  0| 
+|Pete Fairbanks   |OP          |  7|  7.667|  3| 3.522|      6| 0.783|  6|  1|  4| 
 |Ryan Weathers    |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 |Zac Gallen       |PITCH BENCH |  2| 10.000|  3| 2.700|      9| 0.900| 11|  1|  0| 
 

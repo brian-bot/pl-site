@@ -7,9 +7,9 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Logan O'Hoppe    |C         |      9|  6|   4|  0|  0| 
-|Rhys Hoskins     |1B        |     18|  6|   5|  3|  0| 
-|Ryan McMahon     |2B        |     22|  5|   7|  2|  0| 
+|Logan O'Hoppe    |C         |     13|  6|   6|  0|  0| 
+|Rhys Hoskins     |1B        |     25|  7|  10|  4|  1| 
+|Ryan McMahon     |2B        |     25|  6|   8|  3|  0| 
 |Nolan Gorman     |3B        |     12|  3|   4|  1|  0| 
 |José Caballero   |SS        |     23| 11|   5|  1|  9| 
 |Jordan Westburg  |MI        |     20|  7|   9|  2|  2| 
@@ -23,7 +23,7 @@
 |Daulton Varsho   |DH        |     23| 10|  11|  4|  3| 
 |Will Benson      |DH        |     12|  5|   5|  2|  2| 
 |Chas McCormick   |BAT BENCH |      7|  2|   3|  0|  1| 
-|Ke'Bryan Hayes   |BAT BENCH |      8|  2|   2|  1|  0| 
+|Ke'Bryan Hayes   |BAT BENCH |     17|  6|   4|  1|  0| 
 |Luis Robert Jr.  |BAT BENCH |     **| **|  **| **| **| 
 
 * * *
@@ -43,8 +43,8 @@
 |Evan Phillips   |RP          |  6|  6.000|  0| 0.000|      7| 1.167| 10|  0|  3| 
 |Garrett Crochet |OP          |  4| 18.000| 15| 7.500|     22| 1.222| 22|  1|  0| 
 |Gavin Stone     |OP          |  3| 16.333|  4| 2.204|     19| 1.163|  8|  1|  0| 
-|Jared Jones     |OP          |  1|  5.000|  3| 5.400|      7| 1.400|  3|  0|  0| 
-|Joel Payamps    |OP          |  4|  3.333|  0| 0.000|      2| 0.600|  1|  1|  2| 
+|Jared Jones     |OP          |  3| 18.000|  4| 2.000|     14| 0.778| 20|  1|  0| 
+|Joel Payamps    |OP          |  6|  5.333|  0| 0.000|      4| 0.750|  3|  1|  3| 
 |Trevor Rogers   |OP          |  4| 18.667| 15| 7.232|     30| 1.607| 14|  0|  0| 
 |Ronel Blanco    |PITCH BENCH |  3| 17.667|  7| 3.566|     22| 1.245| 20|  1|  0| 
 
