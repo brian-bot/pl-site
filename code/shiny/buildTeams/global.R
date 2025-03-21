@@ -1,14 +1,30 @@
 source("../../leagueBootstrap2025.R")
+require(mlbstats)
+require(plyr)
+require(dplyr)
 
-load("../../../data/hidden/rangeData.RData")
-allNames <- data.frame(fullName = c(rangeData$batters$fullName, rangeData$pitchers$fullName),
-                       withId = c(rownames(rangeData$batters), rownames(rangeData$pitchers)),
+today <- Sys.Date()
+currentPeriod <- which(sapply(periods, function(x){ today >= x$startDate & today <= x$endDate}))
+seasonPeriods <- which(sapply(periods, function(x){ today >= x$startDate }))
+
+## try using team roster api
+getAllRosters <- function(){
+  tts <- mlbstatsRestGET("teams?sportId=1")$team
+  rrs <- lapply(as.list(1:length(tts)), function(i){
+    tr <- mlbstatsRestGET(paste0("teams/", tts[[i]]$id, "/roster?rosterType=fullRoster&season=", format(today,'%Y')))$roster
+    rr <- lapply(tr, function(x){
+      return(data.frame(id = x$person$id, fullName = x$person$fullName, stringsAsFactors = FALSE))
+    })
+    return(bind_rows(rr))
+  })
+  return(bind_rows(rrs))
+}
+allMlbPlayers <- getAllRosters()
+
+allNames <- data.frame(fullName = allMlbPlayers$fullName,
+                       withId = paste0(allMlbPlayers$fullName, " (", allMlbPlayers$id, ")"),
                        stringsAsFactors = FALSE)
 rownames(allNames) <- NULL
 allNames <- allNames[ !duplicated(allNames), ]
 rownames(allNames) <- allNames$withId
 allNames <- allNames[ order(allNames$withId), ]
-
-today <- Sys.Date()
-currentPeriod <- which(sapply(periods, function(x){ today >= x$startDate & today <= x$endDate}))
-seasonPeriods <- which(sapply(periods, function(x){ today >= x$startDate }))
