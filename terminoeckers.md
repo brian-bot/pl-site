@@ -12,12 +12,12 @@
 |Trea Turner         |SS        |      1|  0|   0|  0|  0| 
 |Brandon Lowe        |MI        |      1|  1|   0|  0|  0| 
 |Rhys Hoskins        |CI        |      2|  0|   0|  0|  0| 
-|Ian Happ            |OF        |      7|  2|   4|  1|  0| 
+|Ian Happ            |OF        |      8|  2|   4|  1|  0| 
 |Juan Soto           |OF        |      5|  1|   1|  1|  0| 
-|Kyle Tucker         |OF        |      4|  0|   2|  0|  0| 
-|Lawrence Butler     |OF        |      1|  0|   0|  0|  0| 
+|Kyle Tucker         |OF        |      5|  0|   2|  0|  1| 
+|Lawrence Butler     |OF        |      3|  2|   0|  0|  0| 
 |Lars Nootbaar       |DH        |      2|  2|   2|  1|  0| 
-|Pete Crow-Armstrong |DH        |      2|  2|   0|  0|  1| 
+|Pete Crow-Armstrong |DH        |      4|  2|   1|  0|  1| 
 |Trevor Story        |DH        |      2|  2|   0|  0|  2| 
 |Victor Scott II     |DH        |      0|  0|   0|  0|  0| 
 |Jonathan Aranda     |BAT BENCH |      0|  0|   1|  0|  0| 
@@ -34,11 +34,11 @@
 |Bailey Ober     |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Garrett Crochet |SP          |  1| 5.000|  2|  3.600|      7| 1.400|  4|  0|  0| 
 |Gavin Williams  |SP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Jack Flaherty   |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Jack Flaherty   |SP          |  1| 5.667|  2|  3.176|      5| 0.882|  5|  0|  0| 
 |Max Fried       |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Seth Lugo       |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Mason Miller    |RP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Tanner Scott    |RP          |  2| 2.000|  1|  4.500|      1| 0.500|  2|  0|  1| 
+|Tanner Scott    |RP          |  3| 3.000|  2|  6.000|      4| 1.333|  2|  0|  1| 
 |Casey Mize      |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Clay Holmes     |OP          |  1| 4.667|  2|  3.857|      9| 1.929|  4|  0|  0| 
 |José Soriano    |OP          | **|    **| **|     **|     **|    **| **| **| **| 

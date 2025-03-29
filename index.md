@@ -7,16 +7,16 @@ Through games on 2025-03-28 ([website build status](https://github.com/brian-bot
 
 |team                   | points|  r| hitsbb| hr| rbi| sb|  w| sv| so|   era|  whip|
 |:----------------------|------:|--:|------:|--:|---:|--:|--:|--:|--:|-----:|-----:|
-|[Nuclear Arms](./nucleararms)|   32.5|  9|     19|  2|   6|  2|  1|  1| 15| 4.737| 1.737|
-|[Terminoeckers](./terminoeckers)|   65.5| 18|     38|  6|  14|  5|  0|  1| 10| 3.857| 1.457|
-|[Vass Deferens](./vassdeferens)|   62.5|  8|     22|  5|  19|  1|  1|  1| 24| 1.895| 0.947|
-|[Washington Generals](./washingtongenerals)|   34.5|  6|     20|  0|   6|  3|  2|  0| 22| 7.967| 1.525|
-|[Boys of Summer](./boysofsummer)|   72.0| 10|     23|  4|  11|  2|  2|  2| 37| 3.176| 1.206|
-|[Bone Pilers](./bonepilers)|   59.5| 11|     30|  1|  10|  2|  2|  1| 25| 3.951| 1.244|
-|[Overwhelming Underdogs](./overwhelmingunderdogs)|   67.0| 14|     34|  3|   5|  2|  2|  1| 21| 2.000| 0.722|
-|[T and A](./tanda)     |   65.0|  9|     25|  3|   8|  2|  1|  2| 41| 3.311| 0.991|
-|[Wonderbots](./wonderbots)|   43.0|  4|     23|  2|   8|  1|  3|  1| 20| 4.709| 1.395|
-|[Mean Wieners](./meanwieners)|   48.5| 14|     31|  4|   8|  0|  1|  0| 11| 3.951| 1.171|
+|[Nuclear Arms](./nucleararms)|   42.5| 11|     23|  4|   9|  2|  2|  1| 24| 3.600| 1.480|
+|[Terminoeckers](./terminoeckers)|   69.0| 20|     44|  6|  15|  6|  0|  1| 15| 3.927| 1.364|
+|[Vass Deferens](./vassdeferens)|   59.5|  8|     23|  5|  19|  1|  1|  2| 25| 1.800| 0.900|
+|[Washington Generals](./washingtongenerals)|   35.0|  9|     26|  1|   8|  3|  2|  0| 26| 7.105| 1.421|
+|[Boys of Summer](./boysofsummer)|   58.5| 11|     26|  4|  12|  2|  2|  2| 41| 4.263| 1.376|
+|[Bone Pilers](./bonepilers)|   49.0| 12|     35|  1|  10|  2|  2|  1| 25| 5.205| 1.373|
+|[Overwhelming Underdogs](./overwhelmingunderdogs)|   74.0| 19|     43|  4|  10|  2|  3|  1| 32| 2.224| 0.953|
+|[T and A](./tanda)     |   70.0| 12|     30|  5|  12|  2|  1|  2| 41| 3.311| 0.991|
+|[Wonderbots](./wonderbots)|   51.0|  9|     34|  4|  14|  1|  3|  1| 27| 4.909| 1.394|
+|[Mean Wieners](./meanwieners)|   41.5| 16|     35|  4|   8|  1|  1|  0| 11| 3.951| 1.171|
 
 * * *
 * * *

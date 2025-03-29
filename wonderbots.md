@@ -5,19 +5,19 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Shea Langeliers  |C         |      0|  0|   0|  0|  0| 
+|Shea Langeliers  |C         |      2|  0|   1|  0|  0| 
 |Alec Bohm        |1B        |      2|  1|   2|  0|  0| 
 |Marcus Semien    |2B        |      1|  0|   0|  0|  0| 
-|Austin Riley     |3B        |      1|  1|   1|  1|  0| 
+|Austin Riley     |3B        |      3|  2|   1|  1|  0| 
 |Ezequiel Tovar   |SS        |      2|  0|   1|  0|  0| 
 |Anthony Volpe    |MI        |      1|  1|   1|  1|  0| 
-|Luis Arraez      |CI        |      0|  0|   1|  0|  0| 
-|Corbin Carroll   |OF        |      3|  0|   0|  0|  0| 
-|Michael Conforto |OF        |      3|  0|   0|  0|  0| 
+|Luis Arraez      |CI        |      1|  0|   1|  0|  0| 
+|Corbin Carroll   |OF        |      4|  0|   0|  0|  0| 
+|Michael Conforto |OF        |      4|  1|   1|  0|  0| 
 |Mike Trout       |OF        |      2|  0|   0|  0|  0| 
-|Mookie Betts     |OF        |      2|  1|   0|  0|  0| 
+|Mookie Betts     |OF        |      5|  4|   4|  2|  0| 
 |Bryan Reynolds   |DH        |      2|  0|   2|  0|  1| 
-|Colt Keith       |DH        |      0|  0|   0|  0|  0| 
+|Colt Keith       |DH        |      1|  0|   0|  0|  0| 
 |Ryan McMahon     |DH        |      4|  0|   0|  0|  0| 
 |Tyler Fitzgerald |DH        |      0|  0|   0|  0|  0| 
 |Connor Norby     |BAT BENCH |     **| **|  **| **| **| 
@@ -30,7 +30,7 @@
  
 |players               |position    |  g|    ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:---------------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
-|Dylan Cease           |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Dylan Cease           |SP          |  1| 4.333|  3|  6.231|      6| 1.385|  7|  0|  0| 
 |Logan Webb            |SP          |  1| 5.000|  3|  5.400|      9| 1.800|  5|  0|  0| 
 |Pablo López           |SP          |  1| 5.000|  2|  3.600|      8| 1.600|  3|  0|  0| 
 |Spencer Schwellenbach |SP          | **|    **| **|     **|     **|    **| **| **| **| 

@@ -11,16 +11,16 @@
 |Rafael Devers       |3B        |      0|  0|   0|  0|  0| 
 |Bo Bichette         |SS        |      3|  1|   1|  0|  0| 
 |Masyn Winn          |MI        |      0|  0|   0|  0|  0| 
-|Josh Naylor         |CI        |      1|  0|   1|  0|  0| 
+|Josh Naylor         |CI        |      2|  0|   2|  0|  0| 
 |Aaron Judge         |OF        |      1|  0|   1|  0|  0| 
 |Colton Cowser       |OF        |      2|  1|   0|  0|  0| 
 |Jackson Chourio     |OF        |      0|  0|   0|  0|  0| 
 |Jarren Duran        |OF        |      3|  0|   0|  0|  2| 
 |Jake Burger         |DH        |      2|  2|   1|  0|  0| 
-|Jake Cronenworth    |DH        |      0|  0|   0|  0|  0| 
+|Jake Cronenworth    |DH        |      3|  1|   1|  1|  0| 
 |Jake McCarthy       |DH        |      0|  0|   1|  0|  0| 
-|Lourdes Gurriel Jr. |DH        |      0|  0|   1|  0|  0| 
-|JJ Bleday           |BAT BENCH |      0|  0|   0|  0|  0| 
+|Lourdes Gurriel Jr. |DH        |      2|  2|   1|  0|  0| 
+|JJ Bleday           |BAT BENCH |      3|  1|   1|  0|  0| 
 |Kyren Paris         |BAT BENCH |      0|  0|   0|  0|  0| 
 
 
@@ -34,7 +34,7 @@
 |Bowden Francis    |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Bryce Miller      |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Justin Steele     |SP          |  2| 9.000|  8|  8.000|     13| 1.444|  7|  1|  0| 
-|Luis Castillo     |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Luis Castillo     |SP          |  1| 5.000|  2|  3.600|      5| 1.000|  4|  0|  0| 
 |Michael King      |SP          |  1| 2.667|  3| 10.125|      8| 3.000|  3|  0|  0| 
 |Zack Littell      |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Jhoan Duran       |RP          | **|    **| **|     **|     **|    **| **| **| **| 

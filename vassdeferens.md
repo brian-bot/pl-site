@@ -14,7 +14,7 @@
 |Vinnie Pasquantino    |CI        |      2|  1|   3|  1|  0| 
 |James Wood            |OF        |      1|  0|   0|  0|  0| 
 |Michael Toglia        |OF        |      1|  1|   0|  0|  0| 
-|Teoscar Hernández     |OF        |      3|  2|   4|  1|  0| 
+|Teoscar Hernández     |OF        |      4|  2|   4|  1|  0| 
 |Victor Robles         |OF        |      0|  0|   1|  0|  0| 
 |Andrew Vaughn         |DH        |      0|  0|   0|  0|  0| 
 |Cedric Mullins        |DH        |      4|  2|   5|  2|  0| 
@@ -39,14 +39,14 @@
 |Robbie Ray      |SP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Zack Wheeler    |SP          |  1| 6.000|  1| 1.500|      4| 0.667|  8|  0|  0| 
 |A.J. Puk        |RP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Robert Suarez   |RP          |  1| 1.000|  0| 0.000|      1| 1.000|  2|  0|  1| 
+|Robert Suarez   |RP          |  2| 2.000|  0| 0.000|      1| 0.500|  3|  0|  2| 
 |Ben Joyce       |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Calvin Faucher  |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Chris Martin    |OP          |  1| 1.333|  0| 0.000|      1| 0.750|  2|  0|  0| 
 |Matthew Boyd    |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Mike Clevinger  |OP          |  1| 0.333|  0| 0.000|      1| 3.000|  1|  0|  0| 
 |Hayden Birdsong |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
-|Jason Adam      |PITCH BENCH |  1| 1.000|  0| 0.000|      0| 0.000|  1|  0|  0| 
+|Jason Adam      |PITCH BENCH |  2| 2.000|  0| 0.000|      1| 0.500|  4|  1|  0| 
 |Liam Hendriks   |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
 |Ryan Weathers   |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
 

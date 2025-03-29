@@ -7,15 +7,15 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Austin Wells      |C         |      2|  1|   1|  1|  0| 
 |Pete Alonso       |1B        |      4|  0|   0|  0|  0| 
-|Ketel Marte       |2B        |      2|  2|   0|  0|  0| 
+|Ketel Marte       |2B        |      4|  3|   0|  0|  0| 
 |José Ramírez      |3B        |      0|  0|   1|  0|  0| 
 |Francisco Lindor  |SS        |      1|  0|   1|  0|  0| 
 |CJ Abrams         |MI        |      0|  0|   1|  0|  0| 
-|Eugenio Suárez    |CI        |      2|  2|   1|  1|  0| 
+|Eugenio Suárez    |CI        |      4|  4|   5|  3|  0| 
 |Adolis García     |OF        |      2|  0|   0|  0|  1| 
 |Jorge Soler       |OF        |      0|  0|   0|  0|  0| 
 |Luis Robert Jr.   |OF        |      1|  0|   0|  0|  0| 
-|Randy Arozarena   |OF        |      2|  1|   1|  1|  0| 
+|Randy Arozarena   |OF        |      3|  1|   1|  1|  0| 
 |Garrett Mitchell  |DH        |      0|  0|   0|  0|  0| 
 |George Springer   |DH        |      3|  1|   0|  0|  1| 
 |TJ Friedl         |DH        |      2|  1|   1|  0|  0| 
