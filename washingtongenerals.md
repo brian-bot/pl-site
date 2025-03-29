@@ -7,16 +7,16 @@
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Willson Contreras   |C         |      0|  0|   0|  0|  0| 
 |Michael Busch       |1B        |      4|  1|   0|  0|  1| 
-|Jose Altuve         |2B        |      1|  0|   0|  0|  0| 
+|Jose Altuve         |2B        |      4|  1|   0|  0|  0| 
 |Rafael Devers       |3B        |      0|  0|   0|  0|  0| 
-|Bo Bichette         |SS        |      0|  0|   0|  0|  0| 
+|Bo Bichette         |SS        |      3|  1|   1|  0|  0| 
 |Masyn Winn          |MI        |      0|  0|   0|  0|  0| 
 |Josh Naylor         |CI        |      1|  0|   1|  0|  0| 
 |Aaron Judge         |OF        |      1|  0|   1|  0|  0| 
 |Colton Cowser       |OF        |      2|  1|   0|  0|  0| 
 |Jackson Chourio     |OF        |      0|  0|   0|  0|  0| 
-|Jarren Duran        |OF        |      1|  0|   0|  0|  1| 
-|Jake Burger         |DH        |      1|  1|   0|  0|  0| 
+|Jarren Duran        |OF        |      3|  0|   0|  0|  2| 
+|Jake Burger         |DH        |      2|  2|   1|  0|  0| 
 |Jake Cronenworth    |DH        |      0|  0|   0|  0|  0| 
 |Jake McCarthy       |DH        |      0|  0|   1|  0|  0| 
 |Lourdes Gurriel Jr. |DH        |      0|  0|   1|  0|  0| 

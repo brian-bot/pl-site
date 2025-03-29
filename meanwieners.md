@@ -7,12 +7,12 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Logan O'Hoppe     |C         |      2|  1|   1|  1|  0| 
 |Matt Olson        |1B        |      4|  0|   0|  0|  0| 
-|Andrés Giménez    |2B        |      2|  1|   2|  1|  0| 
-|Mark Vientos      |3B        |      1|  0|   0|  0|  0| 
+|Andrés Giménez    |2B        |      3|  2|   2|  1|  0| 
+|Mark Vientos      |3B        |      2|  1|   1|  0|  0| 
 |Elly De La Cruz   |SS        |      2|  2|   0|  0|  0| 
 |Dansby Swanson    |MI        |      3|  1|   1|  0|  0| 
 |Christian Walker  |CI        |      1|  1|   0|  0|  0| 
-|Anthony Santander |OF        |      0|  0|   0|  0|  0| 
+|Anthony Santander |OF        |      3|  1|   0|  0|  0| 
 |Jasson Domínguez  |OF        |      0|  0|   0|  0|  0| 
 |Josh Lowe         |OF        |      1|  0|   0|  0|  0| 
 |Michael Harris II |OF        |      1|  0|   0|  0|  0| 
@@ -34,7 +34,7 @@
 |Chris Sale       |SP          |  1| 5.000|  3| 5.40|      7| 1.400|  7|  0|  0| 
 |Jacob deGrom     |SP          | **|    **| **|   **|     **|    **| **| **| **| 
 |Joe Ryan         |SP          | **|    **| **|   **|     **|    **| **| **| **| 
-|Kevin Gausman    |SP          | **|    **| **|   **|     **|    **| **| **| **| 
+|Kevin Gausman    |SP          |  1| 6.000|  2| 3.00|      4| 0.667|  4|  1|  0| 
 |Nick Pivetta     |SP          | **|    **| **|   **|     **|    **| **| **| **| 
 |Tyler Glasnow    |SP          | **|    **| **|   **|     **|    **| **| **| **| 
 |Félix Bautista   |RP          | **|    **| **|   **|     **|    **| **| **| **| 

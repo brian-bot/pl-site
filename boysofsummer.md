@@ -8,14 +8,14 @@
 |Yainer Diaz       |C         |      2|  0|   1|  0|  0| 
 |Bryce Harper      |1B        |      2|  2|   1|  1|  0| 
 |Ceddanne Rafaela  |2B        |      0|  0|   1|  0|  0| 
-|Alex Bregman      |3B        |      0|  0|   0|  0|  0| 
+|Alex Bregman      |3B        |      1|  0|   0|  0|  0| 
 |Bobby Witt Jr.    |SS        |      1|  1|   0|  0|  1| 
 |Willy Adames      |MI        |      0|  0|   0|  0|  0| 
 |Nolan Arenado     |CI        |      2|  1|   1|  1|  0| 
 |Julio Rodríguez   |OF        |      1|  0|   0|  0|  0| 
 |Kerry Carpenter   |OF        |      0|  0|   1|  0|  0| 
 |Kyle Schwarber    |OF        |      3|  2|   1|  1|  0| 
-|Tyler O'Neill     |OF        |      5|  3|   3|  1|  0| 
+|Tyler O'Neill     |OF        |      5|  3|   4|  1|  0| 
 |Byron Buxton      |DH        |      0|  0|   0|  0|  0| 
 |Nico Hoerner      |DH        |      3|  1|   1|  0|  0| 
 |Taylor Ward       |DH        |      1|  0|   0|  0|  0| 
@@ -40,7 +40,7 @@
 |Sandy Alcantara |SP          |  1| 4.667|  2| 3.857|      6| 1.286|  7|  0|  0| 
 |Sean Burke      |SP          |  1| 6.000|  0| 0.000|      3| 0.500|  3|  1|  0| 
 |Zac Gallen      |SP          |  1| 4.000|  4| 9.000|      8| 2.000|  4|  0|  0| 
-|Edwin Díaz      |RP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Edwin Díaz      |RP          |  1| 1.000|  0| 0.000|      0| 0.000|  1|  0|  1| 
 |Josh Hader      |RP          |  1| 1.000|  1| 9.000|      3| 3.000|  2|  0|  1| 
 |Brandon Pfaadt  |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Jameson Taillon |OP          | **|    **| **|    **|     **|    **| **| **| **| 

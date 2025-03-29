@@ -10,13 +10,13 @@
 |Ozzie Albies       |2B        |      1|  1|   3|  1|  0| 
 |Jazz Chisholm Jr.  |3B        |      1|  0|   0|  0|  0| 
 |Gunnar Henderson   |SS        |     **| **|  **| **| **| 
-|Jackson Holliday   |MI        |      1|  1|   0|  0|  0| 
+|Jackson Holliday   |MI        |      3|  2|   1|  1|  0| 
 |Brendan Donovan    |CI        |      2|  1|   1|  0|  0| 
 |Brent Rooker       |OF        |      0|  0|   0|  0|  0| 
 |Brenton Doyle      |OF        |      0|  0|   0|  0|  0| 
 |Christian Yelich   |OF        |      1|  0|   0|  0|  0| 
 |Fernando Tatis Jr. |OF        |      3|  2|   0|  0|  2| 
-|Brandon Nimmo      |DH        |      1|  0|   0|  0|  0| 
+|Brandon Nimmo      |DH        |      2|  1|   0|  0|  0| 
 |Jordan Walker      |DH        |      2|  1|   0|  0|  0| 
 |Kris Bryant        |DH        |      0|  0|   0|  0|  0| 
 |Steven Kwan        |DH        |      2|  1|   1|  0|  0| 

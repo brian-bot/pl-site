@@ -11,13 +11,13 @@
 |Matt Chapman      |3B        |      1|  1|   0|  0|  0| 
 |Matt McLain       |SS        |      0|  0|   0|  0|  0| 
 |Carlos Correa     |MI        |      0|  0|   0|  0|  0| 
-|Isaac Paredes     |CI        |      1|  1|   0|  0|  0| 
-|Joc Pederson      |OF        |      0|  0|   0|  0|  0| 
+|Isaac Paredes     |CI        |      2|  1|   0|  0|  0| 
+|Joc Pederson      |OF        |      1|  1|   0|  0|  0| 
 |Marcell Ozuna     |OF        |      3|  1|   0|  0|  0| 
-|Oneil Cruz        |OF        |      1|  0|   0|  0|  1| 
+|Oneil Cruz        |OF        |      4|  2|   2|  1|  2| 
 |Riley Greene      |OF        |      1|  0|   0|  0|  0| 
 |Jurickson Profar  |DH        |      1|  1|   0|  0|  0| 
-|Kristian Campbell |DH        |      2|  0|   0|  0|  0| 
+|Kristian Campbell |DH        |      4|  0|   0|  0|  0| 
 |Nick Castellanos  |DH        |      2|  0|   0|  0|  0| 
 |Shohei Ohtani     |DH        |      7|  5|   2|  2|  0| 
 |Evan Carter       |BAT BENCH |     **| **|  **| **| **| 

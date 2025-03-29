@@ -28,26 +28,26 @@
 ### Pitchers
 
  
-|players               |position    |  g| ip| er| era| hitsbb| whip| so|  w| sv| 
-|:---------------------|:-----------|--:|--:|--:|---:|------:|----:|--:|--:|--:| 
-|Dylan Cease           |SP          | **| **| **|  **|     **|   **| **| **| **| 
-|Logan Webb            |SP          |  1|  5|  3| 5.4|      9|  1.8|  5|  0|  0| 
-|Pablo López           |SP          |  1|  5|  2| 3.6|      8|  1.6|  3|  0|  0| 
-|Spencer Schwellenbach |SP          | **| **| **|  **|     **|   **| **| **| **| 
-|Tim Anderson          |SP          | **| **| **|  **|     **|   **| **| **| **| 
-|Zach Eflin            |SP          |  1|  6|  2| 3.0|      3|  0.5|  2|  1|  0| 
-|Aroldis Chapman       |RP          |  1|  1|  0| 0.0|      1|  1.0|  1|  1|  0| 
-|David Bednar          |RP          |  1|  0|  1| Inf|      3|  Inf|  0|  0|  0| 
-|Landen Roupp          |OP          | **| **| **|  **|     **|   **| **| **| **| 
-|Luis L. Ortiz         |OP          | **| **| **|  **|     **|   **| **| **| **| 
-|Tanner Houck          |OP          | **| **| **|  **|     **|   **| **| **| **| 
-|Tylor Megill          |OP          | **| **| **|  **|     **|   **| **| **| **| 
-|Will Warren           |OP          | **| **| **|  **|     **|   **| **| **| **| 
-|Alexis Díaz           |PITCH BENCH | **| **| **|  **|     **|   **| **| **| **| 
-|Brandon Woodruff      |PITCH BENCH | **| **| **|  **|     **|   **| **| **| **| 
-|George Kirby          |PITCH BENCH | **| **| **|  **|     **|   **| **| **| **| 
-|Justin Slaten         |PITCH BENCH |  1|  1|  0| 0.0|      0|  0.0|  1|  0|  1| 
-|Ranger Suárez         |PITCH BENCH | **| **| **|  **|     **|   **| **| **| **| 
+|players               |position    |  g|    ip| er|    era| hitsbb|  whip| so|  w| sv| 
+|:---------------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
+|Dylan Cease           |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Logan Webb            |SP          |  1| 5.000|  3|  5.400|      9| 1.800|  5|  0|  0| 
+|Pablo López           |SP          |  1| 5.000|  2|  3.600|      8| 1.600|  3|  0|  0| 
+|Spencer Schwellenbach |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Tim Anderson          |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Zach Eflin            |SP          |  1| 6.000|  2|  3.000|      3| 0.500|  2|  1|  0| 
+|Aroldis Chapman       |RP          |  1| 1.000|  0|  0.000|      1| 1.000|  1|  1|  0| 
+|David Bednar          |RP          |  2| 1.000|  3| 27.000|      5| 5.000|  1|  0|  1| 
+|Landen Roupp          |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Luis L. Ortiz         |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Tanner Houck          |OP          |  1| 5.667|  4|  6.353|     10| 1.765|  2|  0|  0| 
+|Tylor Megill          |OP          |  1| 5.000|  1|  1.800|      4| 0.800|  6|  1|  0| 
+|Will Warren           |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Alexis Díaz           |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Brandon Woodruff      |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|George Kirby          |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Justin Slaten         |PITCH BENCH |  1| 1.000|  0|  0.000|      0| 0.000|  1|  0|  1| 
+|Ranger Suárez         |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 
 
 * * *

@@ -5,7 +5,7 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman     |C         |      3|  3|   3|  2|  0| 
+|Adley Rutschman     |C         |      5|  4|   3|  2|  0| 
 |Triston Casas       |1B        |      0|  0|   0|  0|  0| 
 |Jordan Westburg     |2B        |      3|  1|   1|  1|  0| 
 |Manny Machado       |3B        |      3|  3|   1|  0|  2| 
@@ -13,12 +13,12 @@
 |Brandon Lowe        |MI        |      1|  1|   0|  0|  0| 
 |Rhys Hoskins        |CI        |      2|  0|   0|  0|  0| 
 |Ian Happ            |OF        |      7|  2|   4|  1|  0| 
-|Juan Soto           |OF        |      3|  0|   0|  0|  0| 
+|Juan Soto           |OF        |      5|  1|   1|  1|  0| 
 |Kyle Tucker         |OF        |      4|  0|   2|  0|  0| 
 |Lawrence Butler     |OF        |      1|  0|   0|  0|  0| 
 |Lars Nootbaar       |DH        |      2|  2|   2|  1|  0| 
 |Pete Crow-Armstrong |DH        |      2|  2|   0|  0|  1| 
-|Trevor Story        |DH        |      1|  1|   0|  0|  1| 
+|Trevor Story        |DH        |      2|  2|   0|  0|  2| 
 |Victor Scott II     |DH        |      0|  0|   0|  0|  0| 
 |Jonathan Aranda     |BAT BENCH |      0|  0|   1|  0|  0| 
 |Zac Veen            |BAT BENCH |     **| **|  **| **| **| 

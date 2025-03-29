@@ -8,8 +8,8 @@
 |William Contreras     |C         |      0|  0|   0|  0|  0| 
 |Cody Bellinger        |1B        |      2|  0|   1|  0|  0| 
 |Brice Turang          |2B        |      1|  0|   1|  0|  0| 
-|Vladimir Guerrero Jr. |3B        |      2|  1|   0|  0|  0| 
-|Corey Seager          |SS        |      0|  0|   0|  0|  0| 
+|Vladimir Guerrero Jr. |3B        |      4|  1|   1|  0|  0| 
+|Corey Seager          |SS        |      1|  0|   0|  0|  0| 
 |Luis García Jr.       |MI        |      2|  0|   1|  0|  1| 
 |Vinnie Pasquantino    |CI        |      2|  1|   3|  1|  0| 
 |James Wood            |OF        |      1|  0|   0|  0|  0| 
@@ -17,7 +17,7 @@
 |Teoscar Hernández     |OF        |      3|  2|   4|  1|  0| 
 |Victor Robles         |OF        |      0|  0|   1|  0|  0| 
 |Andrew Vaughn         |DH        |      0|  0|   0|  0|  0| 
-|Cedric Mullins        |DH        |      3|  2|   5|  2|  0| 
+|Cedric Mullins        |DH        |      4|  2|   5|  2|  0| 
 |Heliot Ramos          |DH        |      1|  1|   2|  1|  0| 
 |Paul Goldschmidt      |DH        |      0|  0|   0|  0|  0| 
 |Gabriel Moreno        |BAT BENCH |      3|  2|   0|  0|  0| 
@@ -34,7 +34,7 @@
 |:---------------|:-----------|--:|-----:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Brady Singer    |SP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Bryan Woo       |SP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Jack Leiter     |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Jack Leiter     |SP          |  1| 5.000|  1| 1.800|      6| 1.200|  4|  1|  0| 
 |Paul Skenes     |SP          |  1| 5.333|  2| 3.375|      5| 0.938|  7|  0|  0| 
 |Robbie Ray      |SP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Zack Wheeler    |SP          |  1| 6.000|  1| 1.500|      4| 0.667|  8|  0|  0| 
