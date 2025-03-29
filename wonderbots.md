@@ -3,52 +3,51 @@
 ### Batters
 
  
-|players           |position  | hitsbb|  r| rbi| hr| sb| 
-|:-----------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras |C         |     28|  9|  10|  2|  3| 
-|Nathaniel Lowe    |1B        |     28|  8|  16|  4|  0| 
-|Luis García Jr.   |2B        |     14|  7|   7|  3|  1| 
-|Manny Machado     |3B        |     21|  8|  15|  4|  2| 
-|Zach Neto         |SS        |     15|  5|  10|  3|  1| 
-|Mookie Betts      |MI        |     16|  6|   9|  2|  2| 
-|Alec Bohm         |CI        |     10|  3|   8|  2|  0| 
-|Bryan De La Cruz  |OF        |     10|  4|   5|  2|  1| 
-|Bryan Reynolds    |OF        |     26|  6|   6|  2|  0| 
-|Teoscar Hernández |OF        |     29| 11|  12|  5|  2| 
-|Tyler O'Neill     |OF        |     13|  5|   5|  2|  0| 
-|Ezequiel Tovar    |DH        |     24|  8|  14|  4|  0| 
-|Jeremy Peña       |DH        |     20|  7|   2|  0|  4| 
-|Nolan Jones       |DH        |     18|  4|   6|  0|  1| 
-|Victor Robles     |DH        |     29| 14|   7|  0| 11| 
-|Corey Seager      |BAT BENCH |     **| **|  **| **| **| 
-|Ha-Seong Kim      |BAT BENCH |     **| **|  **| **| **| 
-|Willson Contreras |BAT BENCH |     **| **|  **| **| **| 
-
+|players          |position  | hitsbb|  r| rbi| hr| sb| 
+|:----------------|:---------|------:|--:|---:|--:|--:| 
+|Shea Langeliers  |C         |      0|  0|   0|  0|  0| 
+|Alec Bohm        |1B        |      2|  1|   2|  0|  0| 
+|Marcus Semien    |2B        |      1|  0|   0|  0|  0| 
+|Austin Riley     |3B        |      1|  1|   1|  1|  0| 
+|Ezequiel Tovar   |SS        |      2|  0|   1|  0|  0| 
+|Anthony Volpe    |MI        |      1|  1|   1|  1|  0| 
+|Luis Arraez      |CI        |      0|  0|   1|  0|  0| 
+|Corbin Carroll   |OF        |      3|  0|   0|  0|  0| 
+|Michael Conforto |OF        |      3|  0|   0|  0|  0| 
+|Mike Trout       |OF        |      2|  0|   0|  0|  0| 
+|Mookie Betts     |OF        |      2|  1|   0|  0|  0| 
+|Bryan Reynolds   |DH        |      2|  0|   2|  0|  1| 
+|Colt Keith       |DH        |      0|  0|   0|  0|  0| 
+|Ryan McMahon     |DH        |      4|  0|   0|  0|  0| 
+|Tyler Fitzgerald |DH        |      0|  0|   0|  0|  0| 
+|Connor Norby     |BAT BENCH |     **| **|  **| **| **| 
+|Zach Neto        |BAT BENCH |     **| **|  **| **| **| 
 
 * * *
 
 ### Pitchers
 
  
-|players          |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
-|:----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Bowden Francis   |SP          |  3| 19.000|  3| 1.421|     12| 0.632| 11|  0|  0| 
-|Corbin Burnes    |SP          |  3| 19.000|  1| 0.474|     12| 0.632| 24|  2|  0| 
-|Logan Gilbert    |SP          |  4| 23.000| 10| 3.913|     22| 0.957| 29|  2|  0| 
-|Sean Manaea      |SP          |  4| 24.333| 10| 3.699|     24| 0.986| 21|  1|  0| 
-|Sonny Gray       |SP          |  2| 11.667|  5| 3.857|     13| 1.114| 17|  1|  0| 
-|Tyler Anderson   |SP          |  3| 12.000| 11| 8.250|     25| 2.083| 10|  0|  0| 
-|Aroldis Chapman  |RP          |  7|  6.667|  1| 1.350|      5| 0.750|  9|  0|  7| 
-|Clay Holmes      |RP          |  9|  7.000|  2| 2.571|      9| 1.286|  6|  1|  1| 
-|Albert Suárez    |OP          |  4| 20.333| 11| 4.869|     25| 1.230| 21|  2|  0| 
-|Edward Cabrera   |OP          |  3| 13.333|  8| 5.400|     16| 1.200| 17|  0|  0| 
-|Frankie Montas   |OP          |  4| 18.333| 12| 5.891|     25| 1.364| 28|  1|  0| 
-|Lance Lynn       |OP          |  2| 11.000|  2| 1.636|     12| 1.091| 12|  1|  0| 
-|Nick Pivetta     |OP          |  4| 22.333|  7| 2.821|     22| 0.985| 25|  1|  0| 
-|Clayton Kershaw  |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
-|David Bednar     |PITCH BENCH |  9|  7.667|  3| 3.522|     11| 1.435|  8|  0|  0| 
-|Jon Gray         |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
-|Justin Verlander |PITCH BENCH |  3| 15.667| 11| 6.319|     22| 1.404| 11|  2|  0| 
+|players               |position    |  g| ip| er| era| hitsbb| whip| so|  w| sv| 
+|:---------------------|:-----------|--:|--:|--:|---:|------:|----:|--:|--:|--:| 
+|Dylan Cease           |SP          | **| **| **|  **|     **|   **| **| **| **| 
+|Logan Webb            |SP          |  1|  5|  3| 5.4|      9|  1.8|  5|  0|  0| 
+|Pablo López           |SP          |  1|  5|  2| 3.6|      8|  1.6|  3|  0|  0| 
+|Spencer Schwellenbach |SP          | **| **| **|  **|     **|   **| **| **| **| 
+|Tim Anderson          |SP          | **| **| **|  **|     **|   **| **| **| **| 
+|Zach Eflin            |SP          |  1|  6|  2| 3.0|      3|  0.5|  2|  1|  0| 
+|Aroldis Chapman       |RP          |  1|  1|  0| 0.0|      1|  1.0|  1|  1|  0| 
+|David Bednar          |RP          |  1|  0|  1| Inf|      3|  Inf|  0|  0|  0| 
+|Landen Roupp          |OP          | **| **| **|  **|     **|   **| **| **| **| 
+|Luis L. Ortiz         |OP          | **| **| **|  **|     **|   **| **| **| **| 
+|Tanner Houck          |OP          | **| **| **|  **|     **|   **| **| **| **| 
+|Tylor Megill          |OP          | **| **| **|  **|     **|   **| **| **| **| 
+|Will Warren           |OP          | **| **| **|  **|     **|   **| **| **| **| 
+|Alexis Díaz           |PITCH BENCH | **| **| **|  **|     **|   **| **| **| **| 
+|Brandon Woodruff      |PITCH BENCH | **| **| **|  **|     **|   **| **| **| **| 
+|George Kirby          |PITCH BENCH | **| **| **|  **|     **|   **| **| **| **| 
+|Justin Slaten         |PITCH BENCH |  1|  1|  0| 0.0|      0|  0.0|  1|  0|  1| 
+|Ranger Suárez         |PITCH BENCH | **| **| **|  **|     **|   **| **| **| **| 
 
 
 * * *

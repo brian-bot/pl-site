@@ -5,23 +5,23 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Shea Langeliers     |C         |     20|  7|  12|  4|  0| 
-|Paul Goldschmidt    |1B        |     22|  8|   7|  1|  2| 
-|Bryson Stott        |2B        |     14|  5|   3|  0|  3| 
-|Eugenio Suárez      |3B        |     24| 10|  11|  4|  0| 
-|Francisco Lindor    |SS        |     15|  7|   7|  3|  2| 
-|Masyn Winn          |MI        |     20| 15|   8|  3|  1| 
-|Alex Bregman        |CI        |     23|  9|  10|  4|  0| 
-|Brandon Nimmo       |OF        |     18| 11|  16|  5|  2| 
-|George Springer     |OF        |     17|  5|   0|  0|  2| 
-|Johan Rojas         |OF        |      8|  3|   2|  0|  2| 
-|Steven Kwan         |OF        |     13|  5|   1|  1|  0| 
-|JJ Bleday           |DH        |     24|  3|   5|  0|  1| 
-|Luis Arraez         |DH        |     21|  8|   4|  0|  0| 
-|Michael Busch       |DH        |     19|  6|  10|  4|  0| 
-|Pete Crow-Armstrong |DH        |     19|  9|   6|  2|  1| 
-|Bo Bichette         |BAT BENCH |      2|  0|   1|  0|  0| 
-|Lourdes Gurriel Jr. |BAT BENCH |     13|  3|   5|  1|  0| 
+|Willson Contreras   |C         |      0|  0|   0|  0|  0| 
+|Michael Busch       |1B        |      4|  1|   0|  0|  1| 
+|Jose Altuve         |2B        |      1|  0|   0|  0|  0| 
+|Rafael Devers       |3B        |      0|  0|   0|  0|  0| 
+|Bo Bichette         |SS        |      0|  0|   0|  0|  0| 
+|Masyn Winn          |MI        |      0|  0|   0|  0|  0| 
+|Josh Naylor         |CI        |      1|  0|   1|  0|  0| 
+|Aaron Judge         |OF        |      1|  0|   1|  0|  0| 
+|Colton Cowser       |OF        |      2|  1|   0|  0|  0| 
+|Jackson Chourio     |OF        |      0|  0|   0|  0|  0| 
+|Jarren Duran        |OF        |      1|  0|   0|  0|  1| 
+|Jake Burger         |DH        |      1|  1|   0|  0|  0| 
+|Jake Cronenworth    |DH        |      0|  0|   0|  0|  0| 
+|Jake McCarthy       |DH        |      0|  0|   1|  0|  0| 
+|Lourdes Gurriel Jr. |DH        |      0|  0|   1|  0|  0| 
+|JJ Bleday           |BAT BENCH |      0|  0|   0|  0|  0| 
+|Kyren Paris         |BAT BENCH |      0|  0|   0|  0|  0| 
 
 
 * * *
@@ -29,26 +29,25 @@
 ### Pitchers
 
  
-|players           |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
-|:-----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|George Kirby      |SP          |  4| 24.000|  8|  3.000|     19| 0.792| 17|  3|  0| 
-|Luis L. Ortiz     |SP          |  3| 17.000|  7|  3.706|     19| 1.118| 17|  1|  0| 
-|Mitch Keller      |SP          |  3| 14.333| 14|  8.791|     25| 1.744| 13|  0|  0| 
-|Ranger Suárez     |SP          |  4| 17.333| 15|  7.788|     38| 2.192| 13|  0|  0| 
-|Reid Detmers      |SP          |  3| 12.333| 18| 13.135|     31| 2.514| 21|  0|  0| 
-|Rhett Lowder      |SP          |  4| 20.333|  3|  1.328|     25| 1.230| 13|  2|  0| 
-|Calvin Faucher    |RP          | **|     **| **|     **|     **|    **| **| **| **| 
-|Josh Hader        |RP          | 10|  9.667|  7|  6.517|     11| 1.138| 15|  1|  5| 
-|DJ Herz           |OP          |  3| 13.333|  9|  6.075|     20| 1.500| 13|  1|  0| 
-|Landon Knack      |OP          |  4| 15.000| 10|  6.000|     24| 1.600| 17|  1|  0| 
-|Matthew Boyd      |OP          |  3| 11.000|  5|  4.091|     23| 2.091| 20|  0|  0| 
-|Reese Olson       |OP          |  3|  9.333|  7|  6.750|     11| 1.179|  9|  0|  0| 
-|Tanner Scott      |OP          |  9|  8.333|  4|  4.320|     15| 1.800| 11|  0|  2| 
-|Andrew Abbott     |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Jordan Montgomery |PITCH BENCH |  3| 12.000|  6|  4.500|     19| 1.583| 10|  0|  1| 
-|Kenley Jansen     |PITCH BENCH |  5|  5.000|  0|  0.000|      3| 0.600|  4|  0|  1| 
-|Max Meyer         |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Valente Bellozo   |PITCH BENCH |  3| 15.667|  7|  4.021|     22| 1.404|  9|  1|  0| 
+|players           |position    |  g|    ip| er|    era| hitsbb|  whip| so|  w| sv| 
+|:-----------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
+|Bowden Francis    |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Bryce Miller      |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Justin Steele     |SP          |  2| 9.000|  8|  8.000|     13| 1.444|  7|  1|  0| 
+|Luis Castillo     |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Michael King      |SP          |  1| 2.667|  3| 10.125|      8| 3.000|  3|  0|  0| 
+|Zack Littell      |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Jhoan Duran       |RP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Pete Fairbanks    |RP          |  1| 1.000|  0|  0.000|      2| 2.000|  2|  1|  0| 
+|Cade Povich       |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Graham Ashcraft   |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Kenley Jansen     |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Nathan Eovaldi    |OP          |  1| 6.000|  2|  3.000|      3| 0.500|  9|  0|  0| 
+|Ryan Johnson      |OP          |  1| 1.667|  5| 27.000|      5| 3.000|  1|  0|  0| 
+|Clarke Schmidt    |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Grayson Rodriguez |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Shane McClanahan  |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Yu Darvish        |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 
 
 * * *
