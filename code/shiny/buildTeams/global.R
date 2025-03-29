@@ -15,7 +15,9 @@ getAllRosters <- function(){
     rr <- lapply(tr, function(x){
       return(data.frame(id = x$person$id, fullName = x$person$fullName, stringsAsFactors = FALSE))
     })
-    return(bind_rows(rr))
+    rr_return <- bind_rows(rr)
+    rr_return$teamName <- tts[[i]]$name
+    return(rr_return)
   })
   return(bind_rows(rrs))
 }
@@ -23,6 +25,7 @@ allMlbPlayers <- getAllRosters()
 
 allNames <- data.frame(fullName = allMlbPlayers$fullName,
                        withId = paste0(allMlbPlayers$fullName, " (", allMlbPlayers$id, ")"),
+                       withTeam = paste0(allMlbPlayers$fullName, " (", allMlbPlayers$teamName, ")"),
                        stringsAsFactors = FALSE)
 rownames(allNames) <- NULL
 allNames <- allNames[ !duplicated(allNames), ]

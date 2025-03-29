@@ -104,7 +104,8 @@ shinyServer(function(input, output, session){
                         withId = withId,
                         stringsAsFactors = FALSE)
       tmp$players <- allNames[tmp$withId, "fullName"]
-      return(tmp[, c("position", "players", "withId")])
+      tmp$withTeam <- allNames[tmp$withId, "withTeam"]
+      return(tmp[, c("position", "players", "withId", "withTeam")])
     } else{
       return(NULL)
     }
