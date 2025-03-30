@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |      9|  3|   2|  0|  0| 
-|Freddie Freeman   |1B        |      1|  1|   2|  1|  0| 
-|Jonathan India    |2B        |      0|  0|   0|  0|  0| 
-|Matt Chapman      |3B        |      1|  1|   0|  0|  0| 
-|Matt McLain       |SS        |      0|  0|   0|  0|  0| 
+|Will Smith        |C         |     10|  4|   3|  1|  0| 
+|Freddie Freeman   |1B        |      3|  2|   4|  2|  0| 
+|Jonathan India    |2B        |      3|  1|   0|  0|  0| 
+|Matt Chapman      |3B        |      2|  1|   0|  0|  0| 
+|Matt McLain       |SS        |      2|  2|   1|  1|  0| 
 |Carlos Correa     |MI        |      0|  0|   0|  0|  0| 
-|Isaac Paredes     |CI        |      2|  1|   0|  0|  0| 
-|Joc Pederson      |OF        |      1|  1|   0|  0|  0| 
-|Marcell Ozuna     |OF        |      5|  1|   2|  0|  0| 
-|Oneil Cruz        |OF        |      4|  2|   2|  1|  2| 
+|Isaac Paredes     |CI        |      4|  2|   0|  0|  0| 
+|Joc Pederson      |OF        |      2|  1|   0|  0|  0| 
+|Marcell Ozuna     |OF        |      8|  1|   2|  0|  0| 
+|Oneil Cruz        |OF        |      8|  3|   2|  1|  4| 
 |Riley Greene      |OF        |      3|  1|   0|  0|  0| 
-|Jurickson Profar  |DH        |      2|  2|   0|  0|  0| 
-|Kristian Campbell |DH        |      4|  0|   0|  0|  0| 
-|Nick Castellanos  |DH        |      2|  0|   0|  0|  0| 
-|Shohei Ohtani     |DH        |      9|  6|   2|  2|  0| 
+|Jurickson Profar  |DH        |      4|  2|   0|  0|  0| 
+|Kristian Campbell |DH        |      7|  1|   1|  1|  0| 
+|Nick Castellanos  |DH        |      4|  2|   0|  0|  0| 
+|Shohei Ohtani     |DH        |     11|  8|   2|  2|  1| 
 |Evan Carter       |BAT BENCH |     **| **|  **| **| **| 
 |Roman Anthony     |BAT BENCH |     **| **|  **| **| **| 
 |Tyler Stephenson  |BAT BENCH |     **| **|  **| **| **| 
@@ -32,8 +32,8 @@
  
 |players            |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:------------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Jesús Luzardo      |SP          | **|     **| **|    **|     **|    **| **| **| **| 
-|Justin Verlander   |SP          | **|     **| **|    **|     **|    **| **| **| **| 
+|Jesús Luzardo      |SP          |  1|  5.000|  2| 3.600|      7| 1.400| 11|  1|  0| 
+|Justin Verlander   |SP          |  1|  5.000|  2| 3.600|      7| 1.400|  5|  0|  0| 
 |Kodai Senga        |SP          | **|     **| **|    **|     **|    **| **| **| **| 
 |Logan Gilbert      |SP          |  1|  7.000|  1| 1.286|      2| 0.286|  8|  0|  0| 
 |Sonny Gray         |SP          |  1|  5.000|  2| 3.600|      6| 1.200|  6|  1|  0| 
@@ -42,10 +42,10 @@
 |Trevor Megill      |RP          | **|     **| **|    **|     **|    **| **| **| **| 
 |Chris Bassitt      |OP          | **|     **| **|    **|     **|    **| **| **| **| 
 |Drew Rasmussen     |OP          | **|     **| **|    **|     **|    **| **| **| **| 
-|Erick Fedde        |OP          | **|     **| **|    **|     **|    **| **| **| **| 
-|Jeff Hoffman       |OP          | **|     **| **|    **|     **|    **| **| **| **| 
+|Erick Fedde        |OP          |  1|  6.000|  1| 1.500|      2| 0.333|  2|  1|  0| 
+|Jeff Hoffman       |OP          |  1|  1.000|  0| 0.000|      1| 1.000|  1|  0|  0| 
 |Merrill Kelly      |OP          |  1|  5.333|  1| 1.688|      7| 1.312|  1|  1|  0| 
-|Dean Kremer        |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
+|Dean Kremer        |PITCH BENCH |  1|  5.333|  5| 8.438|      7| 1.312|  6|  1|  0| 
 |Shane Bieber       |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 |Spencer Strider    |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 

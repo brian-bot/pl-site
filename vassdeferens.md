@@ -5,23 +5,23 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras     |C         |      0|  0|   0|  0|  0| 
-|Cody Bellinger        |1B        |      2|  0|   1|  0|  0| 
-|Brice Turang          |2B        |      1|  0|   1|  0|  0| 
-|Vladimir Guerrero Jr. |3B        |      4|  1|   1|  0|  0| 
-|Corey Seager          |SS        |      1|  0|   0|  0|  0| 
+|William Contreras     |C         |      1|  0|   0|  0|  0| 
+|Cody Bellinger        |1B        |      5|  3|   5|  1|  0| 
+|Brice Turang          |2B        |      2|  3|   3|  1|  0| 
+|Vladimir Guerrero Jr. |3B        |      5|  2|   2|  0|  0| 
+|Corey Seager          |SS        |      3|  1|   0|  0|  0| 
 |Luis García Jr.       |MI        |      2|  0|   1|  0|  1| 
-|Vinnie Pasquantino    |CI        |      2|  1|   3|  1|  0| 
-|James Wood            |OF        |      1|  0|   0|  0|  0| 
+|Vinnie Pasquantino    |CI        |      3|  1|   3|  1|  0| 
+|James Wood            |OF        |      3|  0|   0|  0|  1| 
 |Michael Toglia        |OF        |      1|  1|   0|  0|  0| 
-|Teoscar Hernández     |OF        |      4|  2|   4|  1|  0| 
-|Victor Robles         |OF        |      0|  0|   1|  0|  0| 
+|Teoscar Hernández     |OF        |      5|  2|   6|  1|  0| 
+|Victor Robles         |OF        |      2|  0|   1|  0|  0| 
 |Andrew Vaughn         |DH        |      0|  0|   0|  0|  0| 
-|Cedric Mullins        |DH        |      4|  2|   5|  2|  0| 
-|Heliot Ramos          |DH        |      1|  1|   2|  1|  0| 
-|Paul Goldschmidt      |DH        |      0|  0|   0|  0|  0| 
-|Gabriel Moreno        |BAT BENCH |      3|  2|   0|  0|  0| 
-|Jo Adell              |BAT BENCH |      1|  0|   0|  0|  0| 
+|Cedric Mullins        |DH        |      6|  3|   6|  2|  1| 
+|Heliot Ramos          |DH        |      2|  2|   2|  1|  0| 
+|Paul Goldschmidt      |DH        |      4|  3|   1|  1|  0| 
+|Gabriel Moreno        |BAT BENCH |      5|  2|   0|  0|  0| 
+|Jo Adell              |BAT BENCH |      3|  0|   0|  0|  0| 
 |Ronald Acuña Jr.      |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -40,11 +40,11 @@
 |Zack Wheeler    |SP          |  1| 6.000|  1| 1.500|      4| 0.667|  8|  0|  0| 
 |A.J. Puk        |RP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Robert Suarez   |RP          |  2| 2.000|  0| 0.000|      1| 0.500|  3|  0|  2| 
-|Ben Joyce       |OP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Calvin Faucher  |OP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Chris Martin    |OP          |  1| 1.333|  0| 0.000|      1| 0.750|  2|  0|  0| 
+|Ben Joyce       |OP          |  1| 1.000|  0| 0.000|      1| 1.000|  0|  0|  0| 
+|Calvin Faucher  |OP          |  1| 1.000|  0| 0.000|      1| 1.000|  2|  0|  0| 
+|Chris Martin    |OP          |  2| 2.333|  0| 0.000|      1| 0.429|  4|  0|  1| 
 |Matthew Boyd    |OP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Mike Clevinger  |OP          |  1| 0.333|  0| 0.000|      1| 3.000|  1|  0|  0| 
+|Mike Clevinger  |OP          |  2| 1.333|  1| 6.750|      3| 2.250|  1|  0|  0| 
 |Hayden Birdsong |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
 |Jason Adam      |PITCH BENCH |  2| 2.000|  0| 0.000|      1| 0.500|  4|  1|  0| 
 |Liam Hendriks   |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
