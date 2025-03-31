@@ -6,25 +6,25 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Yainer Diaz       |C         |      2|  0|   1|  0|  0| 
-|Bryce Harper      |1B        |      4|  3|   1|  1|  0| 
-|Ceddanne Rafaela  |2B        |      0|  0|   1|  0|  0| 
-|Alex Bregman      |3B        |      4|  0|   0|  0|  0| 
-|Bobby Witt Jr.    |SS        |      2|  1|   1|  0|  1| 
-|Willy Adames      |MI        |      1|  0|   0|  0|  0| 
-|Nolan Arenado     |CI        |      5|  2|   2|  1|  0| 
-|Julio Rodríguez   |OF        |      5|  0|   0|  0|  2| 
+|Bryce Harper      |1B        |      5|  3|   1|  1|  0| 
+|Ceddanne Rafaela  |2B        |      1|  0|   1|  0|  1| 
+|Alex Bregman      |3B        |      5|  0|   0|  0|  1| 
+|Bobby Witt Jr.    |SS        |      4|  1|   2|  0|  1| 
+|Willy Adames      |MI        |      1|  0|   1|  0|  0| 
+|Nolan Arenado     |CI        |      7|  3|   2|  1|  0| 
+|Julio Rodríguez   |OF        |      6|  1|   2|  1|  2| 
 |Kerry Carpenter   |OF        |      1|  0|   1|  0|  0| 
-|Kyle Schwarber    |OF        |      5|  3|   4|  2|  0| 
-|Tyler O'Neill     |OF        |      5|  3|   4|  1|  0| 
-|Byron Buxton      |DH        |      0|  0|   0|  0|  0| 
-|Nico Hoerner      |DH        |      3|  1|   1|  0|  0| 
-|Taylor Ward       |DH        |      3|  0|   0|  0|  0| 
-|Xander Bogaerts   |DH        |      5|  1|   1|  0|  1| 
-|Alec Burleson     |BAT BENCH |      2|  1|   0|  0|  0| 
+|Kyle Schwarber    |OF        |      7|  3|   4|  2|  0| 
+|Tyler O'Neill     |OF        |      6|  3|   4|  1|  0| 
+|Byron Buxton      |DH        |      1|  0|   1|  0|  0| 
+|Nico Hoerner      |DH        |      4|  1|   1|  0|  0| 
+|Taylor Ward       |DH        |      4|  1|   0|  0|  0| 
+|Xander Bogaerts   |DH        |      7|  2|   2|  0|  2| 
+|Alec Burleson     |BAT BENCH |      3|  2|   2|  0|  0| 
 |Francisco Alvarez |BAT BENCH |     **| **|  **| **| **| 
 |Gleyber Torres    |BAT BENCH |      4|  2|   1|  1|  1| 
-|Matt Wallner      |BAT BENCH |      1|  0|   0|  0|  0| 
-|Nathaniel Lowe    |BAT BENCH |      3|  1|   3|  1|  0| 
+|Matt Wallner      |BAT BENCH |      3|  1|   0|  0|  0| 
+|Nathaniel Lowe    |BAT BENCH |      6|  3|   5|  2|  0| 
 
 
 * * *
