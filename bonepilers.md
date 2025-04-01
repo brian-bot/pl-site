@@ -5,24 +5,24 @@
  
 |players                      |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------------------|:---------|------:|--:|---:|--:|--:| 
-|Cal Raleigh                  |C         |      4|  0|   0|  0|  1| 
-|Christian Encarnacion-Strand |1B        |      4|  1|   1|  1|  0| 
-|Matt Shaw                    |2B        |      5|  5|   1|  1|  0| 
-|Junior Caminero              |3B        |      5|  2|   1|  0|  0| 
-|Jeremy Peña                  |SS        |      3|  2|   1|  1|  0| 
-|Bryson Stott                 |MI        |      4|  4|   2|  1|  1| 
+|Cal Raleigh                  |C         |      5|  1|   2|  1|  1| 
+|Christian Encarnacion-Strand |1B        |      6|  2|   1|  1|  0| 
+|Matt Shaw                    |2B        |      8|  7|   1|  1|  0| 
+|Junior Caminero              |3B        |      6|  3|   1|  0|  0| 
+|Jeremy Peña                  |SS        |      4|  2|   1|  1|  0| 
+|Bryson Stott                 |MI        |      5|  5|   2|  1|  1| 
 |Josh Jung                    |CI        |      3|  0|   1|  0|  0| 
-|Jackson Merrill              |OF        |      7|  1|   5|  0|  0| 
-|Seiya Suzuki                 |OF        |      6|  3|   2|  1|  0| 
+|Jackson Merrill              |OF        |      8|  2|   5|  0|  0| 
+|Seiya Suzuki                 |OF        |      9|  4|   3|  1|  0| 
 |Wyatt Langford               |OF        |      6|  2|   1|  1|  0| 
 |Yordan Alvarez               |OF        |      4|  0|   2|  0|  0| 
-|Cam Smith                    |DH        |      3|  0|   0|  0|  0| 
+|Cam Smith                    |DH        |      4|  1|   0|  0|  0| 
 |Dylan Crews                  |DH        |      1|  1|   0|  0|  1| 
 |Kyle Manzardo                |DH        |      8|  3|   6|  2|  0| 
 |Lane Thomas                  |DH        |      4|  0|   0|  0|  0| 
 |Chandler Simpson             |BAT BENCH |     **| **|  **| **| **| 
-|Joey Ortiz                   |BAT BENCH |      2|  1|   0|  0|  0| 
-|Nolan Schanuel               |BAT BENCH |      3|  1|   0|  0|  0| 
+|Joey Ortiz                   |BAT BENCH |      3|  1|   0|  0|  0| 
+|Nolan Schanuel               |BAT BENCH |      5|  1|   1|  0|  1| 
 |Tyler Soderstrom             |BAT BENCH |      8|  3|   4|  3|  0| 
 
 
@@ -42,8 +42,8 @@
 |Emmanuel Clase     |RP          |  2| 2.000|  1|  4.500|      3| 1.500|  2|  1|  0| 
 |Kyle Finnegan      |RP          |  2| 2.000|  0|  0.000|      3| 1.500|  2|  0|  1| 
 |Beau Brieske       |OP          |  2| 1.333|  4| 27.000|      4| 3.000|  1|  0|  0| 
-|Cristopher Sánchez |OP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Jackson Jobe       |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Cristopher Sánchez |OP          |  1| 5.333|  1|  1.688|      6| 1.125|  7|  0|  0| 
+|Jackson Jobe       |OP          |  1| 4.000|  3|  6.750|      7| 1.750|  3|  0|  0| 
 |Luke Jackson       |OP          |  3| 2.333|  3| 11.571|      5| 2.143|  2|  0|  2| 
 |Nestor Cortes      |OP          |  1| 2.000|  8| 36.000|     11| 5.500|  2|  0|  0| 
 |Logan Allen        |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 

@@ -5,20 +5,20 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras     |C         |      3|  1|   0|  0|  0| 
+|William Contreras     |C         |      4|  1|   0|  0|  0| 
 |Cody Bellinger        |1B        |      5|  3|   6|  1|  0| 
-|Brice Turang          |2B        |      4|  4|   3|  1|  1| 
-|Vladimir Guerrero Jr. |3B        |      6|  2|   2|  0|  0| 
-|Corey Seager          |SS        |      3|  1|   0|  0|  0| 
+|Brice Turang          |2B        |      5|  4|   3|  1|  1| 
+|Vladimir Guerrero Jr. |3B        |      7|  2|   3|  0|  0| 
+|Corey Seager          |SS        |      4|  1|   0|  0|  0| 
 |Luis García Jr.       |MI        |      2|  0|   1|  0|  1| 
-|Vinnie Pasquantino    |CI        |      6|  1|   3|  1|  0| 
-|James Wood            |OF        |      3|  0|   0|  0|  1| 
+|Vinnie Pasquantino    |CI        |      6|  1|   4|  1|  0| 
+|James Wood            |OF        |      6|  1|   1|  1|  1| 
 |Michael Toglia        |OF        |      2|  2|   0|  0|  0| 
-|Teoscar Hernández     |OF        |      5|  2|   6|  1|  0| 
-|Victor Robles         |OF        |      4|  1|   1|  0|  0| 
-|Andrew Vaughn         |DH        |      1|  0|   0|  0|  0| 
-|Cedric Mullins        |DH        |      7|  3|   6|  2|  1| 
-|Heliot Ramos          |DH        |      4|  3|   4|  2|  0| 
+|Teoscar Hernández     |OF        |      8|  5|   8|  2|  0| 
+|Victor Robles         |OF        |      5|  1|   1|  0|  0| 
+|Andrew Vaughn         |DH        |      2|  1|   3|  1|  0| 
+|Cedric Mullins        |DH        |      9|  3|  10|  2|  1| 
+|Heliot Ramos          |DH        |      5|  4|   4|  2|  1| 
 |Paul Goldschmidt      |DH        |      7|  5|   2|  1|  0| 
 |Gabriel Moreno        |BAT BENCH |      7|  3|   1|  0|  0| 
 |Jo Adell              |BAT BENCH |      3|  0|   0|  0|  0| 
@@ -32,7 +32,7 @@
  
 |players         |position    |  g|    ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:---------------|:-----------|--:|-----:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Brady Singer    |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Brady Singer    |SP          |  1| 7.000|  0| 0.000|      3| 0.429|  8|  1|  0| 
 |Bryan Woo       |SP          |  1| 6.000|  1| 1.500|      5| 0.833|  5|  1|  0| 
 |Jack Leiter     |SP          |  1| 5.000|  1| 1.800|      6| 1.200|  4|  1|  0| 
 |Paul Skenes     |SP          |  1| 5.333|  2| 3.375|      5| 0.938|  7|  0|  0| 
