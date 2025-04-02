@@ -9,22 +9,22 @@
 |Bryce Harper      |1B        |      6|  3|   1|  1|  0| 
 |Ceddanne Rafaela  |2B        |      1|  0|   1|  0|  1| 
 |Alex Bregman      |3B        |      6|  0|   0|  0|  1| 
-|Bobby Witt Jr.    |SS        |      7|  2|   3|  0|  3| 
-|Willy Adames      |MI        |      3|  1|   1|  0|  0| 
-|Nolan Arenado     |CI        |      9|  3|   3|  1|  0| 
-|Julio Rodríguez   |OF        |      8|  3|   3|  1|  2| 
-|Kerry Carpenter   |OF        |      3|  0|   3|  0|  0| 
+|Bobby Witt Jr.    |SS        |      9|  2|   3|  0|  3| 
+|Willy Adames      |MI        |      4|  1|   3|  0|  0| 
+|Nolan Arenado     |CI        |     10|  3|   4|  1|  0| 
+|Julio Rodríguez   |OF        |     10|  3|   3|  1|  2| 
+|Kerry Carpenter   |OF        |      4|  1|   4|  0|  0| 
 |Kyle Schwarber    |OF        |      8|  4|   6|  3|  0| 
 |Tyler O'Neill     |OF        |     10|  5|   5|  1|  0| 
-|Byron Buxton      |DH        |      1|  0|   1|  0|  0| 
-|Nico Hoerner      |DH        |      8|  3|   2|  0|  0| 
-|Taylor Ward       |DH        |      6|  2|   1|  0|  0| 
-|Xander Bogaerts   |DH        |      9|  4|   2|  0|  2| 
-|Alec Burleson     |BAT BENCH |      4|  2|   2|  0|  0| 
+|Byron Buxton      |DH        |      3|  2|   1|  0|  0| 
+|Nico Hoerner      |DH        |      9|  3|   2|  0|  1| 
+|Taylor Ward       |DH        |      7|  3|   1|  0|  0| 
+|Xander Bogaerts   |DH        |     10|  4|   3|  0|  3| 
+|Alec Burleson     |BAT BENCH |      5|  2|   2|  0|  0| 
 |Francisco Alvarez |BAT BENCH |     **| **|  **| **| **| 
 |Gleyber Torres    |BAT BENCH |      4|  2|   1|  1|  1| 
-|Matt Wallner      |BAT BENCH |      3|  1|   0|  0|  0| 
-|Nathaniel Lowe    |BAT BENCH |      7|  3|   5|  2|  0| 
+|Matt Wallner      |BAT BENCH |      7|  1|   0|  0|  0| 
+|Nathaniel Lowe    |BAT BENCH |      8|  3|   5|  2|  0| 
 
 
 * * *
@@ -37,7 +37,7 @@
 |Carlos Rodón    |SP          |  1| 5.333|  1|  1.688|      6| 1.125|  7|  1|  0| 
 |Cole Ragans     |SP          |  1| 5.000|  3|  5.400|      7| 1.400|  3|  0|  0| 
 |Reynaldo López  |SP          |  1| 5.000|  3|  5.400|     11| 2.200|  1|  0|  0| 
-|Sandy Alcantara |SP          |  1| 4.667|  2|  3.857|      6| 1.286|  7|  0|  0| 
+|Sandy Alcantara |SP          |  2| 9.667|  4|  3.724|      9| 0.931| 11|  1|  0| 
 |Sean Burke      |SP          |  1| 6.000|  0|  0.000|      3| 0.500|  3|  1|  0| 
 |Zac Gallen      |SP          |  1| 4.000|  4|  9.000|      8| 2.000|  4|  0|  0| 
 |Edwin Díaz      |RP          |  1| 1.000|  0|  0.000|      0| 0.000|  1|  0|  1| 
