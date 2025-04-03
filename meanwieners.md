@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Logan O'Hoppe     |C         |      2|  1|   1|  1|  0| 
-|Matt Olson        |1B        |      9|  0|   0|  0|  0| 
-|Andrés Giménez    |2B        |     11|  8|   5|  3|  1| 
+|Logan O'Hoppe     |C         |      3|  2|   5|  2|  0| 
+|Matt Olson        |1B        |     11|  1|   2|  0|  0| 
+|Andrés Giménez    |2B        |     12|  8|   6|  3|  1| 
 |Mark Vientos      |3B        |      4|  2|   1|  0|  0| 
-|Elly De La Cruz   |SS        |      8|  6|   8|  2|  1| 
+|Elly De La Cruz   |SS        |      9|  6|   8|  2|  2| 
 |Dansby Swanson    |MI        |     11|  5|   6|  2|  1| 
 |Christian Walker  |CI        |      3|  1|   0|  0|  0| 
-|Anthony Santander |OF        |      7|  1|   1|  0|  0| 
+|Anthony Santander |OF        |      9|  2|   1|  0|  0| 
 |Jasson Domínguez  |OF        |      6|  3|   1|  1|  0| 
 |Josh Lowe         |OF        |      1|  0|   0|  0|  0| 
-|Michael Harris II |OF        |      3|  1|   1|  1|  0| 
+|Michael Harris II |OF        |      4|  1|   1|  1|  0| 
 |Ben Rice          |DH        |      6|  4|   2|  2|  0| 
-|Max Muncy         |DH        |      5|  1|   0|  0|  0| 
-|Ryan Mountcastle  |DH        |      5|  3|   1|  0|  0| 
-|Tommy Edman       |DH        |      7|  5|   5|  3|  1| 
+|Max Muncy         |DH        |      6|  1|   2|  0|  0| 
+|Ryan Mountcastle  |DH        |      6|  3|   1|  0|  0| 
+|Tommy Edman       |DH        |     10|  6|   7|  4|  1| 
 |Maikel Garcia     |BAT BENCH |      8|  3|   3|  2|  0| 
 |Zack Gelof        |BAT BENCH |     **| **|  **| **| **| 
 
@@ -41,7 +41,7 @@
 |Ryan Pressly     |RP          |  4|  4.000|  3|  6.750|     11| 2.750|  1|  0|  2| 
 |AJ Smith-Shawver |OP          |  1|  4.000|  2|  4.500|      9| 2.250|  4|  0|  0| 
 |Chris Paddack    |OP          |  1|  3.333|  9| 24.300|     10| 3.000|  2|  0|  0| 
-|Lucas Erceg      |OP          |  2|  1.667|  0|  0.000|      1| 0.600|  0|  0|  0| 
+|Lucas Erceg      |OP          |  3|  2.333|  0|  0.000|      1| 0.429|  1|  0|  0| 
 |Max Scherzer     |OP          |  1|  3.000|  2|  6.000|      3| 1.000|  1|  0|  0| 
 |Nick Lodolo      |OP          |  1|  6.000|  2|  3.000|      5| 0.833|  1|  1|  0| 
 |Ben Brown        |PITCH BENCH |  2|  7.667|  5|  5.870|     15| 1.957| 10|  1|  0| 
