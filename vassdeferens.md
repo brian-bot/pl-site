@@ -6,20 +6,20 @@
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
 |William Contreras     |C         |      7|  2|   0|  0|  0| 
-|Cody Bellinger        |1B        |      7|  4|   6|  1|  1| 
-|Brice Turang          |2B        |      9|  6|   4|  1|  1| 
+|Cody Bellinger        |1B        |      8|  5|   6|  1|  1| 
+|Brice Turang          |2B        |     10|  6|   4|  1|  1| 
 |Vladimir Guerrero Jr. |3B        |      9|  3|   3|  0|  0| 
 |Corey Seager          |SS        |      5|  1|   0|  0|  0| 
 |Luis García Jr.       |MI        |      2|  0|   1|  0|  1| 
 |Vinnie Pasquantino    |CI        |      6|  1|   4|  1|  0| 
 |James Wood            |OF        |      7|  2|   1|  1|  1| 
-|Michael Toglia        |OF        |      2|  2|   0|  0|  0| 
+|Michael Toglia        |OF        |      3|  2|   0|  0|  0| 
 |Teoscar Hernández     |OF        |      9|  5|   8|  2|  0| 
 |Victor Robles         |OF        |      7|  1|   3|  0|  0| 
 |Andrew Vaughn         |DH        |      3|  1|   3|  1|  0| 
-|Cedric Mullins        |DH        |      9|  3|  10|  2|  1| 
+|Cedric Mullins        |DH        |     12|  5|  11|  3|  2| 
 |Heliot Ramos          |DH        |      7|  5|   7|  3|  1| 
-|Paul Goldschmidt      |DH        |      7|  5|   2|  1|  0| 
+|Paul Goldschmidt      |DH        |      8|  5|   2|  1|  0| 
 |Gabriel Moreno        |BAT BENCH |      9|  4|   1|  0|  0| 
 |Jo Adell              |BAT BENCH |      4|  0|   1|  0|  0| 
 |Ronald Acuña Jr.      |BAT BENCH |     **| **|  **| **| **| 

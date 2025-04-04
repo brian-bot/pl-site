@@ -5,13 +5,13 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman     |C         |      9|  6|   3|  2|  0| 
-|Triston Casas       |1B        |      3|  0|   0|  0|  0| 
-|Jordan Westburg     |2B        |     10|  5|   3|  3|  0| 
+|Adley Rutschman     |C         |     11|  6|   3|  2|  0| 
+|Triston Casas       |1B        |      5|  1|   2|  1|  0| 
+|Jordan Westburg     |2B        |     12|  5|   4|  3|  0| 
 |Manny Machado       |3B        |     12|  5|   2|  0|  4| 
-|Trea Turner         |SS        |      5|  1|   1|  0|  0| 
+|Trea Turner         |SS        |      6|  1|   1|  0|  1| 
 |Brandon Lowe        |MI        |      9|  4|   6|  2|  0| 
-|Rhys Hoskins        |CI        |      6|  0|   2|  0|  0| 
+|Rhys Hoskins        |CI        |      7|  0|   2|  0|  0| 
 |Ian Happ            |OF        |     14|  6|   5|  1|  0| 
 |Juan Soto           |OF        |     11|  5|   2|  1|  0| 
 |Kyle Tucker         |OF        |     20| 10|  11|  4|  2| 

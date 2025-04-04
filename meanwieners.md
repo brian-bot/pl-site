@@ -11,14 +11,14 @@
 |Mark Vientos      |3B        |      4|  2|   1|  0|  0| 
 |Elly De La Cruz   |SS        |      9|  6|   8|  2|  2| 
 |Dansby Swanson    |MI        |     11|  5|   6|  2|  1| 
-|Christian Walker  |CI        |      3|  1|   0|  0|  0| 
+|Christian Walker  |CI        |      6|  3|   1|  1|  0| 
 |Anthony Santander |OF        |      9|  2|   1|  0|  0| 
-|Jasson Domínguez  |OF        |      6|  3|   1|  1|  0| 
+|Jasson Domínguez  |OF        |      8|  4|   1|  1|  0| 
 |Josh Lowe         |OF        |      1|  0|   0|  0|  0| 
 |Michael Harris II |OF        |      4|  1|   1|  1|  0| 
-|Ben Rice          |DH        |      6|  4|   2|  2|  0| 
+|Ben Rice          |DH        |      9|  6|   2|  2|  1| 
 |Max Muncy         |DH        |      6|  1|   2|  0|  0| 
-|Ryan Mountcastle  |DH        |      6|  3|   1|  0|  0| 
+|Ryan Mountcastle  |DH        |      7|  3|   1|  0|  0| 
 |Tommy Edman       |DH        |     10|  6|   7|  4|  1| 
 |Maikel Garcia     |BAT BENCH |      8|  3|   3|  2|  0| 
 |Zack Gelof        |BAT BENCH |     **| **|  **| **| **| 
@@ -33,7 +33,7 @@
 |:----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Chris Sale       |SP          |  2| 10.000|  6|  5.400|     11| 1.100| 12|  0|  0| 
 |Jacob deGrom     |SP          |  1|  5.000|  0|  0.000|      4| 0.800|  6|  0|  0| 
-|Joe Ryan         |SP          |  1|  5.000|  1|  1.800|      5| 1.000|  5|  0|  0| 
+|Joe Ryan         |SP          |  2| 10.000|  5|  4.500|     10| 1.000| 11|  0|  0| 
 |Kevin Gausman    |SP          |  1|  6.000|  2|  3.000|      4| 0.667|  4|  1|  0| 
 |Nick Pivetta     |SP          |  1|  7.000|  0|  0.000|      1| 0.143|  4|  1|  0| 
 |Tyler Glasnow    |SP          |  1|  5.000|  0|  0.000|      5| 1.000|  8|  1|  0| 
@@ -43,7 +43,7 @@
 |Chris Paddack    |OP          |  1|  3.333|  9| 24.300|     10| 3.000|  2|  0|  0| 
 |Lucas Erceg      |OP          |  3|  2.333|  0|  0.000|      1| 0.429|  1|  0|  0| 
 |Max Scherzer     |OP          |  1|  3.000|  2|  6.000|      3| 1.000|  1|  0|  0| 
-|Nick Lodolo      |OP          |  1|  6.000|  2|  3.000|      5| 0.833|  1|  1|  0| 
+|Nick Lodolo      |OP          |  2| 12.667|  2|  1.421|      9| 0.711|  5|  1|  0| 
 |Ben Brown        |PITCH BENCH |  2|  7.667|  5|  5.870|     15| 1.957| 10|  1|  0| 
 |Grant Holmes     |PITCH BENCH |  2|  5.000|  4|  7.200|      8| 1.600|  5|  0|  0| 
 |Griffin Canning  |PITCH BENCH |  1|  5.667|  2|  3.176|      6| 1.059|  4|  0|  0| 
