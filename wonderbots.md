@@ -5,20 +5,20 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Shea Langeliers  |C         |      9|  3|   5|  2|  0| 
-|Alec Bohm        |1B        |      8|  2|   2|  0|  0| 
-|Marcus Semien    |2B        |      6|  1|   2|  0|  0| 
+|Shea Langeliers  |C         |     13|  5|   7|  3|  0| 
+|Alec Bohm        |1B        |      8|  2|   3|  0|  0| 
+|Marcus Semien    |2B        |      8|  2|   3|  1|  0| 
 |Austin Riley     |3B        |      8|  2|   3|  1|  0| 
-|Ezequiel Tovar   |SS        |      7|  1|   1|  0|  0| 
-|Anthony Volpe    |MI        |     11|  8|   9|  4|  0| 
-|Luis Arraez      |CI        |      5|  2|   3|  1|  1| 
-|Corbin Carroll   |OF        |     14|  6|   6|  3|  0| 
-|Michael Conforto |OF        |     12|  5|   4|  1|  0| 
-|Mike Trout       |OF        |      8|  4|   6|  2|  0| 
-|Mookie Betts     |OF        |      9|  7|   6|  3|  1| 
-|Bryan Reynolds   |DH        |      9|  2|   3|  1|  1| 
-|Colt Keith       |DH        |     13|  3|   1|  0|  0| 
-|Ryan McMahon     |DH        |      7|  0|   1|  0|  0| 
+|Ezequiel Tovar   |SS        |      8|  1|   1|  0|  0| 
+|Anthony Volpe    |MI        |     13|  8|  12|  4|  0| 
+|Luis Arraez      |CI        |      8|  2|   3|  1|  1| 
+|Corbin Carroll   |OF        |     15|  6|   6|  3|  0| 
+|Michael Conforto |OF        |     13|  6|   5|  2|  0| 
+|Mike Trout       |OF        |     10|  6|   8|  3|  0| 
+|Mookie Betts     |OF        |     11|  7|   6|  3|  1| 
+|Bryan Reynolds   |DH        |     10|  3|   3|  1|  1| 
+|Colt Keith       |DH        |     15|  4|   1|  0|  0| 
+|Ryan McMahon     |DH        |     10|  1|   2|  1|  0| 
 |Tyler Fitzgerald |DH        |      6|  4|   0|  0|  2| 
 |Connor Norby     |BAT BENCH |     **| **|  **| **| **| 
 |Zach Neto        |BAT BENCH |     **| **|  **| **| **| 
