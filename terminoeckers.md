@@ -5,22 +5,22 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman     |C         |     12|  6|   3|  2|  0| 
-|Triston Casas       |1B        |      7|  3|   2|  1|  0| 
-|Jordan Westburg     |2B        |     13|  6|   4|  3|  0| 
-|Manny Machado       |3B        |     13|  5|   2|  0|  4| 
-|Trea Turner         |SS        |      9|  2|   1|  0|  3| 
-|Brandon Lowe        |MI        |     12|  5|   7|  3|  0| 
+|Adley Rutschman     |C         |     13|  6|   3|  2|  0| 
+|Triston Casas       |1B        |      8|  3|   2|  1|  0| 
+|Jordan Westburg     |2B        |     14|  6|   4|  3|  0| 
+|Manny Machado       |3B        |     15|  7|   2|  0|  5| 
+|Trea Turner         |SS        |     11|  3|   1|  0|  3| 
+|Brandon Lowe        |MI        |     13|  5|   8|  3|  0| 
 |Rhys Hoskins        |CI        |      9|  0|   2|  0|  0| 
-|Ian Happ            |OF        |     18|  8|   5|  1|  0| 
-|Juan Soto           |OF        |     13|  7|   3|  1|  1| 
-|Kyle Tucker         |OF        |     24| 11|  12|  4|  3| 
-|Lawrence Butler     |OF        |     15|  5|   0|  0|  1| 
-|Lars Nootbaar       |DH        |     18|  9|   6|  2|  0| 
-|Pete Crow-Armstrong |DH        |     13|  7|   3|  0|  2| 
-|Trevor Story        |DH        |      8|  4|   4|  2|  2| 
-|Victor Scott II     |DH        |     11|  5|   5|  1|  4| 
-|Jonathan Aranda     |BAT BENCH |     10|  3|   3|  1|  0| 
+|Ian Happ            |OF        |     20| 10|   5|  1|  0| 
+|Juan Soto           |OF        |     15|  8|   3|  1|  1| 
+|Kyle Tucker         |OF        |     27| 13|  15|  5|  3| 
+|Lawrence Butler     |OF        |     17|  6|   2|  1|  1| 
+|Lars Nootbaar       |DH        |     20| 10|   6|  2|  0| 
+|Pete Crow-Armstrong |DH        |     13|  8|   3|  0|  3| 
+|Trevor Story        |DH        |     11|  6|   4|  2|  2| 
+|Victor Scott II     |DH        |     14|  6|   5|  1|  4| 
+|Jonathan Aranda     |BAT BENCH |     11|  4|   3|  1|  0| 
 |Zac Veen            |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -45,8 +45,8 @@
 |Justin Martinez |OP          |  4|  3.667|  0|  0.000|      3| 0.818|  6|  1|  1| 
 |Walker Buehler  |OP          |  2|  9.333|  9|  8.679|     15| 1.607|  7|  1|  0| 
 |Bubba Chandler  |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Griffin Jax     |PITCH BENCH |  2|  1.667|  1|  5.400|      4| 2.400|  3|  0|  0| 
-|Kris Bubic      |PITCH BENCH |  1|  6.000|  0|  0.000|      5| 0.833|  8|  1|  0| 
+|Griffin Jax     |PITCH BENCH |  3|  2.667|  3| 10.125|      7| 2.625|  6|  0|  0| 
+|Kris Bubic      |PITCH BENCH |  2| 12.667|  1|  0.711|     11| 0.868| 16|  2|  0| 
 |Max Meyer       |PITCH BENCH |  2| 11.667|  4|  3.086|     16| 1.371| 15|  0|  0| 
 
 
