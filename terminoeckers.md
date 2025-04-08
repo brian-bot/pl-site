@@ -5,20 +5,20 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman     |C         |     13|  6|   3|  2|  0| 
-|Triston Casas       |1B        |      8|  3|   2|  1|  0| 
-|Jordan Westburg     |2B        |     14|  6|   4|  3|  0| 
-|Manny Machado       |3B        |     15|  7|   2|  0|  5| 
+|Adley Rutschman     |C         |     15|  7|   4|  2|  0| 
+|Triston Casas       |1B        |     10|  3|   3|  1|  0| 
+|Jordan Westburg     |2B        |     15|  7|   4|  3|  0| 
+|Manny Machado       |3B        |     17|  8|   4|  0|  5| 
 |Trea Turner         |SS        |     11|  3|   1|  0|  3| 
 |Brandon Lowe        |MI        |     13|  5|   8|  3|  0| 
 |Rhys Hoskins        |CI        |      9|  0|   2|  0|  0| 
-|Ian Happ            |OF        |     20| 10|   5|  1|  0| 
-|Juan Soto           |OF        |     15|  8|   3|  1|  1| 
-|Kyle Tucker         |OF        |     27| 13|  15|  5|  3| 
-|Lawrence Butler     |OF        |     17|  6|   2|  1|  1| 
-|Lars Nootbaar       |DH        |     20| 10|   6|  2|  0| 
-|Pete Crow-Armstrong |DH        |     13|  8|   3|  0|  3| 
-|Trevor Story        |DH        |     11|  6|   4|  2|  2| 
+|Ian Happ            |OF        |     21| 11|   8|  1|  1| 
+|Juan Soto           |OF        |     18|  8|   4|  1|  1| 
+|Kyle Tucker         |OF        |     29| 14|  16|  5|  3| 
+|Lawrence Butler     |OF        |     19|  6|   3|  1|  1| 
+|Lars Nootbaar       |DH        |     21| 10|   6|  2|  0| 
+|Pete Crow-Armstrong |DH        |     15|  9|   3|  0|  4| 
+|Trevor Story        |DH        |     12|  6|   4|  2|  2| 
 |Victor Scott II     |DH        |     14|  6|   5|  1|  4| 
 |Jonathan Aranda     |BAT BENCH |     11|  4|   3|  1|  0| 
 |Zac Veen            |BAT BENCH |     **| **|  **| **| **| 
@@ -39,7 +39,7 @@
 |Seth Lugo       |SP          |  2| 11.000|  4|  3.273|     13| 1.182|  6|  1|  0| 
 |Mason Miller    |RP          |  4|  4.000|  0|  0.000|      3| 0.750|  8|  0|  3| 
 |Tanner Scott    |RP          |  6|  6.000|  3|  4.500|      6| 1.000|  4|  0|  3| 
-|Casey Mize      |OP          |  1|  5.667|  0|  0.000|      4| 0.706|  6|  1|  0| 
+|Casey Mize      |OP          |  2| 11.667|  1|  0.771|     11| 0.943| 12|  2|  0| 
 |Clay Holmes     |OP          |  2|  9.333|  3|  2.893|     17| 1.821| 10|  0|  0| 
 |José Soriano    |OP          |  2| 12.333|  5|  3.649|     12| 0.973| 14|  1|  0| 
 |Justin Martinez |OP          |  4|  3.667|  0|  0.000|      3| 0.818|  6|  1|  1| 
