@@ -5,21 +5,21 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Shea Langeliers  |C         |     14|  5|   7|  3|  0| 
+|Shea Langeliers  |C         |     15|  6|   7|  3|  0| 
 |Alec Bohm        |1B        |      9|  3|   3|  0|  0| 
-|Marcus Semien    |2B        |      8|  2|   5|  1|  0| 
-|Austin Riley     |3B        |     10|  3|   4|  1|  0| 
-|Ezequiel Tovar   |SS        |     13|  4|   4|  0|  2| 
-|Anthony Volpe    |MI        |     16|  9|  12|  4|  0| 
+|Marcus Semien    |2B        |     10|  3|   5|  1|  0| 
+|Austin Riley     |3B        |     12|  4|   5|  2|  0| 
+|Ezequiel Tovar   |SS        |     15|  4|   4|  0|  2| 
+|Anthony Volpe    |MI        |     17|  9|  12|  4|  0| 
 |Luis Arraez      |CI        |     18|  5|   4|  1|  2| 
-|Corbin Carroll   |OF        |     22|  9|   7|  4|  0| 
+|Corbin Carroll   |OF        |     25| 11|   8|  5|  0| 
 |Michael Conforto |OF        |     16|  7|   5|  2|  0| 
-|Mike Trout       |OF        |     14|  6|   8|  3|  1| 
-|Mookie Betts     |OF        |     17|  9|   8|  3|  1| 
-|Bryan Reynolds   |DH        |     13|  5|   6|  2|  1| 
+|Mike Trout       |OF        |     16|  6|   8|  3|  1| 
+|Mookie Betts     |OF        |     19| 10|   8|  3|  1| 
+|Bryan Reynolds   |DH        |     16|  5|   6|  2|  1| 
 |Colt Keith       |DH        |     18|  6|   1|  0|  0| 
-|Ryan McMahon     |DH        |     14|  1|   3|  1|  0| 
-|Tyler Fitzgerald |DH        |      7|  4|   0|  0|  3| 
+|Ryan McMahon     |DH        |     16|  2|   4|  2|  0| 
+|Tyler Fitzgerald |DH        |      9|  4|   1|  0|  3| 
 |Connor Norby     |BAT BENCH |     **| **|  **| **| **| 
 |Zach Neto        |BAT BENCH |     **| **|  **| **| **| 
 
@@ -36,17 +36,17 @@
 |Spencer Schwellenbach |SP          |  2| 14.000|  0|  0.000|      4| 0.286| 14|  1|  0| 
 |Tyler Anderson        |SP          |  2| 10.000|  5|  4.500|     13| 1.300|  9|  0|  0| 
 |Zach Eflin            |SP          |  3| 18.000|  6|  3.000|     15| 0.833|  8|  2|  0| 
-|Aroldis Chapman       |RP          |  4|  3.667|  0|  0.000|      4| 1.091|  4|  2|  2| 
+|Aroldis Chapman       |RP          |  5|  4.667|  0|  0.000|      5| 1.071|  6|  2|  2| 
 |David Bednar          |RP          |  3|  1.000|  3| 27.000|      6| 6.000|  1|  0|  1| 
 |Landen Roupp          |OP          |  2| 10.000|  4|  3.600|     15| 1.500| 12|  0|  0| 
 |Luis L. Ortiz         |OP          |  2| 10.667| 10|  8.437|     20| 1.875|  5|  0|  0| 
-|Tanner Houck          |OP          |  2|  9.667|  7|  6.517|     17| 1.759|  8|  0|  0| 
-|Tylor Megill          |OP          |  2| 10.333|  1|  0.871|      9| 0.871| 10|  2|  0| 
+|Tanner Houck          |OP          |  3| 16.333|  8|  4.408|     24| 1.469| 10|  0|  0| 
+|Tylor Megill          |OP          |  3| 14.333|  1|  0.628|     18| 1.256| 17|  2|  0| 
 |Will Warren           |OP          |  2|  9.000|  6|  6.000|     12| 1.333|  9|  0|  0| 
 |Alexis Díaz           |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Brandon Woodruff      |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |George Kirby          |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Justin Slaten         |PITCH BENCH |  5|  4.000|  4|  9.000|      5| 1.250|  3|  0|  1| 
+|Justin Slaten         |PITCH BENCH |  6|  5.000|  4|  7.200|      5| 1.000|  3|  0|  1| 
 |Ranger Suárez         |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 
 

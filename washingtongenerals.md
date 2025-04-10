@@ -5,23 +5,23 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Willson Contreras   |C         |      8|  3|   3|  0|  0| 
-|Michael Busch       |1B        |     17|  6|   5|  1|  1| 
-|Jose Altuve         |2B        |     20|  9|   5|  3|  3| 
-|Rafael Devers       |3B        |     20|  8|   9|  1|  0| 
-|Bo Bichette         |SS        |     21|  5|   7|  0|  0| 
-|Masyn Winn          |MI        |     15|  8|   3|  1|  0| 
-|Josh Naylor         |CI        |     20|  6|   6|  0|  3| 
-|Aaron Judge         |OF        |     22| 14|  18|  6|  2| 
+|Willson Contreras   |C         |      9|  4|   3|  0|  0| 
+|Michael Busch       |1B        |     18|  6|   6|  1|  1| 
+|Jose Altuve         |2B        |     22|  9|   6|  3|  3| 
+|Rafael Devers       |3B        |     22|  8|   9|  1|  0| 
+|Bo Bichette         |SS        |     21|  5|   8|  0|  0| 
+|Masyn Winn          |MI        |     16|  8|   3|  1|  0| 
+|Josh Naylor         |CI        |     23|  7|   9|  1|  3| 
+|Aaron Judge         |OF        |     25| 14|  20|  6|  2| 
 |Colton Cowser       |OF        |      4|  2|   1|  1|  0| 
-|Jackson Chourio     |OF        |     15|  7|  11|  3|  1| 
-|Jarren Duran        |OF        |     16|  4|   7|  0|  3| 
-|Jake Burger         |DH        |      6|  5|   6|  2|  0| 
+|Jackson Chourio     |OF        |     17| 10|  16|  4|  1| 
+|Jarren Duran        |OF        |     17|  5|   7|  0|  4| 
+|Jake Burger         |DH        |      7|  5|   6|  2|  0| 
 |Jake Cronenworth    |DH        |     18|  7|   5|  2|  0| 
-|Jake McCarthy       |DH        |      2|  0|   2|  0|  1| 
+|Jake McCarthy       |DH        |      3|  1|   2|  0|  1| 
 |Lourdes Gurriel Jr. |DH        |      8|  4|   7|  2|  0| 
-|JJ Bleday           |BAT BENCH |     17|  9|   4|  1|  1| 
-|Kyren Paris         |BAT BENCH |     14|  9|   6|  3|  4| 
+|JJ Bleday           |BAT BENCH |     18|  9|   4|  1|  1| 
+|Kyren Paris         |BAT BENCH |     16| 11|   8|  5|  4| 
 
 
 * * *
@@ -37,9 +37,9 @@
 |Luis Castillo     |SP          |  3| 17.000|  4|  2.118|     19| 1.118| 15|  1|  0| 
 |Michael King      |SP          |  3| 13.333|  6|  4.050|     21| 1.575| 16|  2|  0| 
 |Zack Littell      |SP          |  2| 13.000|  6|  4.154|     12| 0.923| 10|  0|  0| 
-|Jhoan Duran       |RP          |  4|  3.333|  1|  2.700|      5| 1.500|  4|  0|  0| 
-|Pete Fairbanks    |RP          |  4|  4.000|  1|  2.250|      6| 1.500|  6|  1|  1| 
-|Cade Povich       |OP          |  2| 10.333|  7|  6.097|     20| 1.935| 12|  0|  0| 
+|Jhoan Duran       |RP          |  5|  4.333|  1|  2.077|      6| 1.385|  4|  0|  0| 
+|Pete Fairbanks    |RP          |  5|  5.000|  1|  1.800|      7| 1.400|  7|  1|  2| 
+|Cade Povich       |OP          |  2| 10.333|  4|  3.484|     19| 1.839| 12|  0|  0| 
 |Graham Ashcraft   |OP          |  5|  5.333|  0|  0.000|      5| 0.938|  3|  0|  0| 
 |Kenley Jansen     |OP          |  5|  5.000|  0|  0.000|      5| 1.000|  6|  0|  3| 
 |Nathan Eovaldi    |OP          |  3| 19.667|  5|  2.288|     13| 0.661| 21|  1|  0| 
