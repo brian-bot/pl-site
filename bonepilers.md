@@ -8,9 +8,9 @@
 |Cal Raleigh                  |C         |     16|  4|   3|  2|  2| 
 |Christian Encarnacion-Strand |1B        |     10|  3|   3|  2|  0| 
 |Matt Shaw                    |2B        |     18| 11|   3|  1|  0| 
-|Junior Caminero              |3B        |     10|  5|   3|  1|  0| 
+|Junior Caminero              |3B        |     13|  6|   3|  1|  0| 
 |Jeremy Peña                  |SS        |     14|  6|   2|  2|  4| 
-|Bryson Stott                 |MI        |     13|  5|   5|  1|  1| 
+|Bryson Stott                 |MI        |     16|  5|   5|  1|  1| 
 |Josh Jung                    |CI        |      7|  2|   3|  0|  0| 
 |Jackson Merrill              |OF        |     17|  7|  10|  3|  1| 
 |Seiya Suzuki                 |OF        |     29| 11|  15|  4|  1| 
@@ -18,11 +18,11 @@
 |Yordan Alvarez               |OF        |     17|  1|   8|  1|  1| 
 |Cam Smith                    |DH        |      8|  2|   2|  0|  0| 
 |Dylan Crews                  |DH        |      7|  5|   0|  0|  3| 
-|Kyle Manzardo                |DH        |     15|  5|   9|  3|  0| 
+|Kyle Manzardo                |DH        |     16|  6|  11|  4|  0| 
 |Lane Thomas                  |DH        |      7|  0|   2|  0|  1| 
 |Chandler Simpson             |BAT BENCH |     **| **|  **| **| **| 
-|Joey Ortiz                   |BAT BENCH |     13|  5|   2|  0|  0| 
-|Nolan Schanuel               |BAT BENCH |     18|  6|   4|  0|  1| 
+|Joey Ortiz                   |BAT BENCH |     15|  5|   2|  0|  0| 
+|Nolan Schanuel               |BAT BENCH |     19|  6|   5|  0|  1| 
 |Tyler Soderstrom             |BAT BENCH |     23| 10|  10|  6|  0| 
 
 

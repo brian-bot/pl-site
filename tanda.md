@@ -13,17 +13,17 @@
 |CJ Abrams         |MI        |     12|  6|   7|  4|  3| 
 |Eugenio Suárez    |CI        |     16|  7|  11|  5|  1| 
 |Adolis García     |OF        |     13|  4|   5|  2|  2| 
-|Jorge Soler       |OF        |     14|  6|   6|  3|  0| 
+|Jorge Soler       |OF        |     15|  6|   6|  3|  0| 
 |Luis Robert Jr.   |OF        |     11|  3|   1|  0|  3| 
 |Randy Arozarena   |OF        |     19|  5|   9|  3|  1| 
-|Garrett Mitchell  |DH        |     12|  3|   2|  0|  1| 
-|George Springer   |DH        |     22|  6|   9|  2|  2| 
+|Garrett Mitchell  |DH        |     13|  3|   2|  0|  1| 
+|George Springer   |DH        |     23|  6|  10|  2|  2| 
 |TJ Friedl         |DH        |     15|  7|   5|  1|  1| 
 |Xavier Edwards    |DH        |     20|  6|   3|  0|  3| 
 |Christopher Morel |BAT BENCH |     11|  4|   2|  0|  0| 
 |Daulton Varsho    |BAT BENCH |     **| **|  **| **| **| 
-|J.T. Realmuto     |BAT BENCH |     11|  2|   3|  0|  3| 
-|Luis Rengifo      |BAT BENCH |     13|  6|   4|  1|  0| 
+|J.T. Realmuto     |BAT BENCH |     14|  2|   3|  0|  4| 
+|Luis Rengifo      |BAT BENCH |     14|  7|   4|  1|  0| 
 |Royce Lewis       |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -43,9 +43,9 @@
 |Andrés Muñoz       |RP          |  6|  6.000|  0|  0.000|      7| 1.167|  9|  0|  4| 
 |Ryan Walker        |RP          |  6|  6.000|  1|  1.500|      4| 0.667|  5|  0|  3| 
 |Charlie Morton     |OP          |  3| 13.333| 13|  8.775|     25| 1.875| 17|  0|  0| 
-|Jordan Romano      |OP          |  5|  4.000|  7| 15.750|     10| 2.500|  6|  0|  1| 
+|Jordan Romano      |OP          |  6|  5.000|  7| 12.600|     10| 2.000|  6|  0|  1| 
 |Luis Severino      |OP          |  3| 19.000| 10|  4.737|     24| 1.263| 15|  0|  0| 
-|Michael Wacha      |OP          |  2|  9.667|  5|  4.655|     15| 1.552|  7|  0|  0| 
+|Michael Wacha      |OP          |  3| 15.000|  7|  4.200|     21| 1.400| 11|  0|  0| 
 |Reese Olson        |OP          |  2| 10.667|  6|  5.062|     16| 1.500| 10|  1|  0| 
 |Nick Martinez      |PITCH BENCH |  3| 16.333| 11|  6.061|     20| 1.224| 15|  0|  0| 
 

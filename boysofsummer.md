@@ -6,24 +6,24 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Yainer Diaz       |C         |      5|  1|   1|  0|  0| 
-|Bryce Harper      |1B        |     19|  7|   5|  2|  1| 
+|Bryce Harper      |1B        |     22|  7|   5|  2|  2| 
 |Ceddanne Rafaela  |2B        |     12|  7|   6|  0|  2| 
-|Alex Bregman      |3B        |     19|  7|  11|  2|  1| 
-|Bobby Witt Jr.    |SS        |     18|  8|   5|  1|  3| 
+|Alex Bregman      |3B        |     21|  7|  12|  2|  1| 
+|Bobby Witt Jr.    |SS        |     20|  9|   6|  1|  4| 
 |Willy Adames      |MI        |     13|  5|   6|  0|  1| 
 |Nolan Arenado     |CI        |     21|  7|   6|  1|  0| 
 |Julio Rodríguez   |OF        |     19|  9|   7|  3|  4| 
 |Kerry Carpenter   |OF        |      9|  5|   9|  4|  0| 
-|Kyle Schwarber    |OF        |     21| 11|  11|  5|  0| 
+|Kyle Schwarber    |OF        |     23| 12|  12|  6|  0| 
 |Tyler O'Neill     |OF        |     17|  6|   7|  1|  0| 
 |Byron Buxton      |DH        |      9|  7|   4|  1|  2| 
 |Nico Hoerner      |DH        |     19|  7|   8|  0|  6| 
-|Taylor Ward       |DH        |     12|  4|   3|  1|  0| 
+|Taylor Ward       |DH        |     15|  6|   6|  3|  0| 
 |Xander Bogaerts   |DH        |     21|  7|   5|  0|  3| 
 |Alec Burleson     |BAT BENCH |     13|  5|   4|  0|  0| 
 |Francisco Alvarez |BAT BENCH |     **| **|  **| **| **| 
 |Gleyber Torres    |BAT BENCH |      4|  2|   1|  1|  1| 
-|Matt Wallner      |BAT BENCH |     17|  6|   2|  1|  0| 
+|Matt Wallner      |BAT BENCH |     19|  6|   2|  1|  0| 
 |Nathaniel Lowe    |BAT BENCH |     15|  6|   9|  3|  0| 
 
 
