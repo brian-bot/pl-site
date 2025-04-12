@@ -5,21 +5,21 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Shea Langeliers  |C         |     15|  6|   7|  3|  0| 
+|Shea Langeliers  |C         |     18|  8|   8|  3|  0| 
 |Alec Bohm        |1B        |      9|  3|   3|  0|  0| 
-|Marcus Semien    |2B        |     10|  3|   5|  1|  0| 
-|Austin Riley     |3B        |     15|  6|   6|  2|  0| 
-|Ezequiel Tovar   |SS        |     15|  4|   4|  0|  2| 
-|Anthony Volpe    |MI        |     17|  9|  12|  4|  0| 
+|Marcus Semien    |2B        |     11|  3|   5|  1|  0| 
+|Austin Riley     |3B        |     17|  7|   6|  2|  0| 
+|Ezequiel Tovar   |SS        |     16|  4|   4|  0|  2| 
+|Anthony Volpe    |MI        |     19| 10|  12|  4|  1| 
 |Luis Arraez      |CI        |     18|  5|   4|  1|  2| 
-|Corbin Carroll   |OF        |     25| 11|   8|  5|  0| 
-|Michael Conforto |OF        |     16|  7|   5|  2|  0| 
-|Mike Trout       |OF        |     18|  8|  11|  5|  1| 
-|Mookie Betts     |OF        |     19| 10|   8|  3|  1| 
-|Bryan Reynolds   |DH        |     16|  5|   6|  2|  1| 
-|Colt Keith       |DH        |     18|  6|   1|  0|  0| 
+|Corbin Carroll   |OF        |     26| 11|   8|  5|  0| 
+|Michael Conforto |OF        |     18|  7|   5|  2|  0| 
+|Mike Trout       |OF        |     19|  9|  12|  6|  1| 
+|Mookie Betts     |OF        |     21| 10|   8|  3|  1| 
+|Bryan Reynolds   |DH        |     17|  5|   6|  2|  1| 
+|Colt Keith       |DH        |     20|  7|   2|  0|  0| 
 |Ryan McMahon     |DH        |     18|  3|   4|  2|  0| 
-|Tyler Fitzgerald |DH        |      9|  4|   1|  0|  3| 
+|Tyler Fitzgerald |DH        |     11|  4|   1|  0|  4| 
 |Connor Norby     |BAT BENCH |     **| **|  **| **| **| 
 |Zach Neto        |BAT BENCH |     **| **|  **| **| **| 
 
