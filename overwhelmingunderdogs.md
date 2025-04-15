@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |     25|  5|   7|  1|  1| 
-|Freddie Freeman   |1B        |      5|  3|   4|  2|  0| 
-|Jonathan India    |2B        |     21|  5|   3|  0|  0| 
-|Matt Chapman      |3B        |     23|  8|   8|  2|  1| 
+|Will Smith        |C         |     27|  5|   9|  1|  1| 
+|Freddie Freeman   |1B        |      7|  3|   4|  2|  0| 
+|Jonathan India    |2B        |     22|  5|   3|  0|  0| 
+|Matt Chapman      |3B        |     24|  8|   9|  2|  1| 
 |Matt McLain       |SS        |      9|  7|   5|  3|  1| 
 |Carlos Correa     |MI        |     14|  5|   3|  0|  0| 
-|Isaac Paredes     |CI        |     26|  8|   9|  3|  0| 
+|Isaac Paredes     |CI        |     27|  8|   9|  3|  0| 
 |Joc Pederson      |OF        |      9|  2|   0|  0|  0| 
 |Marcell Ozuna     |OF        |     31| 10|   8|  3|  0| 
-|Oneil Cruz        |OF        |     19|  5|   5|  2|  8| 
+|Oneil Cruz        |OF        |     21|  7|   5|  2|  8| 
 |Riley Greene      |OF        |     17|  9|   5|  3|  0| 
 |Jurickson Profar  |DH        |      4|  2|   0|  0|  0| 
-|Kristian Campbell |DH        |     27| 10|   5|  2|  1| 
-|Nick Castellanos  |DH        |     20|  7|   9|  2|  0| 
-|Shohei Ohtani     |DH        |     29| 15|   5|  4|  4| 
+|Kristian Campbell |DH        |     29| 11|   6|  3|  1| 
+|Nick Castellanos  |DH        |     23|  8|  11|  3|  0| 
+|Shohei Ohtani     |DH        |     32| 18|   6|  5|  4| 
 |Evan Carter       |BAT BENCH |     **| **|  **| **| **| 
 |Roman Anthony     |BAT BENCH |     **| **|  **| **| **| 
 |Tyler Stephenson  |BAT BENCH |     **| **|  **| **| **| 
@@ -36,7 +36,7 @@
 |Justin Verlander   |SP          |  3| 13.000| 10| 6.923|     22| 1.692| 16|  0|  0| 
 |Kodai Senga        |SP          |  3| 17.000|  2| 1.059|     17| 1.000| 16|  2|  0| 
 |Logan Gilbert      |SP          |  4| 22.667|  6| 2.382|     15| 0.662| 32|  1|  0| 
-|Sonny Gray         |SP          |  3| 16.000|  8| 4.500|     14| 0.875| 19|  2|  0| 
+|Sonny Gray         |SP          |  4| 23.000|  8| 3.130|     18| 0.783| 23|  3|  0| 
 |Yoshinobu Yamamoto |SP          |  4| 22.000|  3| 1.227|     20| 0.909| 28|  2|  0| 
 |Ryan Helsley       |RP          |  6|  6.000|  2| 3.000|     10| 1.667|  9|  0|  2| 
 |Trevor Megill      |RP          |  6|  4.667|  3| 5.786|      8| 1.714|  8|  0|  1| 

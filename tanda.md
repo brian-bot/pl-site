@@ -5,11 +5,11 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Austin Wells      |C         |     14|  4|   6|  2|  0| 
-|Pete Alonso       |1B        |     28|  9|  18|  4|  0| 
+|Austin Wells      |C         |     15|  5|   7|  3|  0| 
+|Pete Alonso       |1B        |     32| 10|  19|  4|  0| 
 |Ketel Marte       |2B        |     15|  6|   1|  0|  0| 
 |José Ramírez      |3B        |     18|  6|   7|  4|  1| 
-|Francisco Lindor  |SS        |     18|  9|   6|  1|  2| 
+|Francisco Lindor  |SS        |     19|  9|   6|  1|  2| 
 |CJ Abrams         |MI        |     13|  6|   7|  4|  4| 
 |Eugenio Suárez    |CI        |     18|  7|  11|  5|  1| 
 |Adolis García     |OF        |     19|  5|   5|  2|  3| 
@@ -20,9 +20,9 @@
 |George Springer   |DH        |     24|  6|  10|  2|  2| 
 |TJ Friedl         |DH        |     20| 11|   6|  1|  2| 
 |Xavier Edwards    |DH        |     28| 10|   5|  0|  6| 
-|Christopher Morel |BAT BENCH |     16|  6|   4|  1|  2| 
+|Christopher Morel |BAT BENCH |     19|  8|   6|  1|  2| 
 |Daulton Varsho    |BAT BENCH |     **| **|  **| **| **| 
-|J.T. Realmuto     |BAT BENCH |     15|  2|   3|  0|  4| 
+|J.T. Realmuto     |BAT BENCH |     16|  2|   3|  0|  4| 
 |Luis Rengifo      |BAT BENCH |     18|  8|   4|  1|  0| 
 |Royce Lewis       |BAT BENCH |     **| **|  **| **| **| 
 
