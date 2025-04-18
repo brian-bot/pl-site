@@ -28,6 +28,6 @@ allNames <- data.frame(fullName = allMlbPlayers$fullName,
                        withTeam = paste0(allMlbPlayers$fullName, " (", allMlbPlayers$teamName, ")"),
                        stringsAsFactors = FALSE)
 rownames(allNames) <- NULL
-allNames <- allNames[ !duplicated(allNames), ]
+allNames <- allNames[ !duplicated(allNames$withId), ]
 rownames(allNames) <- allNames$withId
 allNames <- allNames[ order(allNames$withId), ]
