@@ -2,21 +2,21 @@
 
 ## Period 2 scores
 
-Through games on 2025-04-17 ([website build status](https://github.com/brian-bot/pl-site/actions))
+Through games on 2025-04-18 ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 
 |team                   | points|  r| hitsbb| hr| rbi| sb|  w| sv| so|   era|  whip|
 |:----------------------|------:|--:|------:|--:|---:|--:|--:|--:|--:|-----:|-----:|
-|[Nuclear Arms](./nucleararms)|   50.0|  6|     10|  2|   4|  1|  0|  1|  3| 8.526| 2.053|
-|[Vass Deferens](./vassdeferens)|   71.5|  7|     14|  2|   6|  1|  0|  2|  7| 2.455| 1.227|
-|[Terminoeckers](./terminoeckers)|   34.5|  6|      8|  1|   1|  0|  0|  0|  1| 0.000| 3.000|
-|[Washington Generals](./washingtongenerals)|   49.5|  3|      9|  2|   4|  0|  0|  1|  6| 5.192| 1.154|
-|[Boys of Summer](./boysofsummer)|   69.0|  7|     17|  0|   2|  2|  1|  1|  4| 0.000| 0.857|
-|[T and A](./tanda)     |   72.0|  5|     20|  2|  14|  0|  3|  1| 25| 2.662| 1.352|
-|[Bone Pilers](./bonepilers)|   69.0|  6|     13|  3|   6|  2|  1|  0| 19| 6.585| 1.171|
-|[Wonderbots](./wonderbots)|   35.5|  4|      7|  1|   2|  4|  0|  0|  1| 3.375| 3.000|
-|[Overwhelming Underdogs](./overwhelmingunderdogs)|   60.0|  3|     12|  2|   7|  2|  0|  0|  0|    **|    **|
-|[Mean Wieners](./meanwieners)|   39.0|  3|      9|  1|   4|  0|  0|  0|  2| 0.000| 2.000|
+|[Nuclear Arms](./nucleararms)|   41.0| 12|     33|  3|  11|  1|  0|  2| 12| 6.395| 1.579|
+|[Vass Deferens](./vassdeferens)|   64.5| 13|     31|  3|  11|  3|  1|  3| 25| 2.864| 1.091|
+|[Terminoeckers](./terminoeckers)|   48.5| 18|     28|  5|  14|  0|  0|  1|  1| 0.000| 2.250|
+|[Washington Generals](./washingtongenerals)|   49.0| 13|     28|  3|   9|  1|  1|  2| 11| 3.447| 1.021|
+|[Boys of Summer](./boysofsummer)|   59.0| 18|     36|  2|   7|  3|  2|  2| 25| 4.714| 1.286|
+|[T and A](./tanda)     |   65.5| 12|     37|  4|  21|  1|  3|  1| 25| 2.662| 1.352|
+|[Bone Pilers](./bonepilers)|   73.0| 14|     31|  6|  15|  2|  3|  1| 33| 3.900| 1.267|
+|[Wonderbots](./wonderbots)|   51.0|  7|     22|  3|   8|  4|  2|  0| 28| 1.742| 1.161|
+|[Overwhelming Underdogs](./overwhelmingunderdogs)|   65.5| 11|     31|  4|  13|  2|  1|  2| 19| 0.628| 0.767|
+|[Mean Wieners](./meanwieners)|   33.0| 10|     22|  4|  12|  1|  1|  0| 10| 6.517| 1.345|
 
 * * *
 * * *

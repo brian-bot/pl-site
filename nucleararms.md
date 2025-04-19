@@ -5,25 +5,25 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez     |C         |      1|  1|   0|  0|  0| 
-|Yandy Díaz         |1B        |      0|  0|   0|  0|  0| 
-|Ozzie Albies       |2B        |     **| **|  **| **| **| 
+|Salvador Perez     |C         |      2|  1|   0|  0|  0| 
+|Yandy Díaz         |1B        |      1|  0|   0|  0|  0| 
+|Ozzie Albies       |2B        |      3|  1|   1|  0|  0| 
 |Jazz Chisholm Jr.  |3B        |      1|  1|   0|  0|  0| 
 |Gunnar Henderson   |SS        |      2|  2|   1|  1|  0| 
-|Brendan Donovan    |MI        |      1|  0|   1|  0|  1| 
+|Brendan Donovan    |MI        |      3|  3|   2|  1|  1| 
 |Wilmer Flores      |CI        |      0|  0|   0|  0|  0| 
-|Brent Rooker       |OF        |      3|  2|   2|  1|  0| 
+|Brent Rooker       |OF        |      6|  2|   3|  1|  0| 
 |Brenton Doyle      |OF        |     **| **|  **| **| **| 
-|Christian Yelich   |OF        |     **| **|  **| **| **| 
-|Fernando Tatis Jr. |OF        |     **| **|  **| **| **| 
-|Brandon Nimmo      |DH        |      0|  0|   0|  0|  0| 
-|Jordan Walker      |DH        |      0|  0|   0|  0|  0| 
-|Jung Hoo Lee       |DH        |      1|  0|   0|  0|  0| 
-|Steven Kwan        |DH        |      1|  0|   0|  0|  0| 
+|Christian Yelich   |OF        |      3|  0|   3|  0|  0| 
+|Fernando Tatis Jr. |OF        |      2|  1|   0|  0|  0| 
+|Brandon Nimmo      |DH        |      1|  1|   0|  0|  0| 
+|Jordan Walker      |DH        |      1|  0|   1|  0|  0| 
+|Jung Hoo Lee       |DH        |      4|  0|   0|  0|  0| 
+|Steven Kwan        |DH        |      4|  0|   0|  0|  0| 
 |Hyeseong Kim       |BAT BENCH |     **| **|  **| **| **| 
 |Jackson Holliday   |BAT BENCH |      1|  0|   0|  0|  0| 
-|Sal Frelick        |BAT BENCH |     **| **|  **| **| **| 
-|Spencer Steer      |BAT BENCH |     **| **|  **| **| **| 
+|Sal Frelick        |BAT BENCH |      2|  0|   0|  0|  0| 
+|Spencer Steer      |BAT BENCH |      1|  0|   0|  0|  0| 
 
 
 * * *
@@ -40,10 +40,10 @@
 |Taj Bradley     |SP          |  1| 5.333|  6| 10.125|     13| 2.438|  3|  0|  0| 
 |Tyler Mahle     |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Devin Williams  |RP          |  1| 1.000|  0|  0.000|      0| 0.000|  0|  0|  1| 
-|Raisel Iglesias |RP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Raisel Iglesias |RP          |  1| 1.000|  0|  0.000|      0| 0.000|  0|  0|  1| 
 |Carlos Estévez  |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Chase Dollander |OP          | **|    **| **|     **|     **|    **| **| **| **| 
-|David Peterson  |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|David Peterson  |OP          |  1| 5.333|  3|  5.062|      7| 1.312|  9|  0|  0| 
 |Jeffrey Springs |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |José Berríos    |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Blake Snell     |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 

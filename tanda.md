@@ -5,20 +5,20 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Sean Murphy       |C         |     **| **|  **| **| **| 
-|Pete Alonso       |1B        |      0|  0|   0|  0|  0| 
+|Sean Murphy       |C         |      2|  0|   0|  0|  0| 
+|Pete Alonso       |1B        |      3|  0|   0|  0|  0| 
 |Luis Rengifo      |2B        |      1|  0|   2|  0|  0| 
-|José Ramírez      |3B        |      0|  0|   0|  0|  0| 
-|Francisco Lindor  |SS        |      3|  0|   1|  0|  0| 
-|Xavier Edwards    |MI        |      3|  1|   1|  0|  0| 
-|Spencer Torkelson |CI        |      3|  1|   3|  0|  0| 
-|Adolis García     |OF        |      1|  1|   2|  1|  0| 
+|José Ramírez      |3B        |      3|  2|   0|  0|  1| 
+|Francisco Lindor  |SS        |      4|  1|   2|  1|  0| 
+|Xavier Edwards    |MI        |      4|  1|   1|  0|  0| 
+|Spencer Torkelson |CI        |      5|  2|   5|  0|  0| 
+|Adolis García     |OF        |      2|  1|   2|  1|  0| 
 |Jorge Soler       |OF        |      1|  0|   1|  0|  0| 
 |Luis Robert Jr.   |OF        |      1|  0|   0|  0|  0| 
-|Randy Arozarena   |OF        |      4|  2|   3|  1|  0| 
+|Randy Arozarena   |OF        |      5|  2|   3|  1|  0| 
 |CJ Abrams         |DH        |     **| **|  **| **| **| 
-|Eugenio Suárez    |DH        |      1|  0|   0|  0|  0| 
-|George Springer   |DH        |     **| **|  **| **| **| 
+|Eugenio Suárez    |DH        |      2|  1|   4|  1|  0| 
+|George Springer   |DH        |      2|  2|   0|  0|  0| 
 |TJ Friedl         |DH        |      2|  0|   1|  0|  0| 
 |Jesús Sánchez     |BAT BENCH |      0|  0|   0|  0|  0| 
 |Ketel Marte       |BAT BENCH |     **| **|  **| **| **| 
