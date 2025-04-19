@@ -17,11 +17,11 @@
 |Jarren Duran        |OF        |      1|  0|   0|  0|  0| 
 |JJ Bleday           |OF        |      3|  2|   2|  1|  0| 
 |Jake Burger         |DH        |      2|  1|   0|  0|  0| 
-|Jake Cronenworth    |DH        |     **| **|  **| **| **| 
+|Jake McCarthy       |DH        |      1|  1|   0|  0|  0| 
 |Kyren Paris         |DH        |      0|  0|   0|  0|  0| 
 |Lourdes Gurriel Jr. |DH        |      2|  2|   3|  1|  0| 
 |Colton Cowser       |BAT BENCH |     **| **|  **| **| **| 
-|Jake McCarthy       |BAT BENCH |      1|  1|   0|  0|  0| 
+|Jake Cronenworth    |BAT BENCH |     **| **|  **| **| **| 
 
 
 * * *
