@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Logan O'Hoppe     |C         |      0|  0|   0|  0|  0| 
-|Matt Olson        |1B        |      2|  1|   0|  0|  0| 
-|Andrés Giménez    |2B        |      0|  0|   0|  0|  0| 
+|Logan O'Hoppe     |C         |      2|  0|   0|  0|  0| 
+|Matt Olson        |1B        |      5|  1|   2|  0|  0| 
+|Andrés Giménez    |2B        |      3|  1|   0|  0|  1| 
 |Mark Vientos      |3B        |      3|  2|   2|  2|  0| 
-|Elly De La Cruz   |SS        |      4|  2|   3|  1|  0| 
-|Dansby Swanson    |MI        |      1|  0|   0|  0|  0| 
-|Christian Walker  |CI        |      1|  1|   0|  0|  0| 
-|Anthony Santander |OF        |      1|  0|   1|  0|  0| 
-|Jasson Domínguez  |OF        |      0|  1|   1|  0|  0| 
-|Michael Harris II |OF        |      2|  1|   2|  0|  1| 
-|Wilyer Abreu      |OF        |     **| **|  **| **| **| 
-|Ben Rice          |DH        |      4|  0|   2|  0|  0| 
-|Mike Yastrzemski  |DH        |      1|  0|   0|  0|  0| 
+|Elly De La Cruz   |SS        |      6|  3|   3|  1|  2| 
+|Dansby Swanson    |MI        |      3|  0|   0|  0|  0| 
+|Christian Walker  |CI        |      2|  2|   2|  1|  0| 
+|Anthony Santander |OF        |      2|  1|   2|  0|  0| 
+|Jasson Domínguez  |OF        |      1|  2|   1|  0|  0| 
+|Michael Harris II |OF        |      3|  2|   3|  1|  1| 
+|Wilyer Abreu      |OF        |      1|  0|   0|  0|  0| 
+|Ben Rice          |DH        |      6|  2|   2|  0|  0| 
+|Mike Yastrzemski  |DH        |      2|  1|   0|  0|  0| 
 |Ryan Mountcastle  |DH        |      0|  0|   0|  0|  0| 
 |Tommy Edman       |DH        |      3|  2|   1|  1|  0| 
-|Austin Hays       |BAT BENCH |      4|  1|   2|  1|  0| 
+|Austin Hays       |BAT BENCH |      6|  2|   3|  2|  0| 
 |Josh Lowe         |BAT BENCH |     **| **|  **| **| **| 
-|Max Muncy         |BAT BENCH |      1|  0|   0|  0|  0| 
+|Max Muncy         |BAT BENCH |      2|  0|   1|  0|  0| 
 |Zack Gelof        |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -33,15 +33,15 @@
  
 |players         |position    |  g|    ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:---------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
-|Chris Sale      |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Chris Sale      |SP          |  1| 4.333|  2|  4.154|      9| 2.077|  8|  0|  0| 
 |Jacob deGrom    |SP          |  1| 7.000|  1|  1.286|      4| 0.571|  7|  0|  0| 
 |Joe Ryan        |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Kevin Gausman   |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Nick Pivetta    |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Tyler Glasnow   |SP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Félix Bautista  |RP          |  1| 1.000|  0|  0.000|      2| 2.000|  2|  0|  0| 
+|Félix Bautista  |RP          |  2| 2.000|  0|  0.000|      2| 1.000|  3|  0|  1| 
 |Ryan Pressly    |RP          |  1| 1.000|  0|  0.000|      1| 1.000|  0|  1|  0| 
-|Ben Brown       |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Ben Brown       |OP          |  1| 4.000|  1|  2.250|      7| 1.750|  6|  0|  0| 
 |Blake Treinen   |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Grant Holmes    |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Nick Lodolo     |OP          | **|    **| **|     **|     **|    **| **| **| **| 
