@@ -6,24 +6,24 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Yainer Diaz       |C         |      2|  1|   1|  0|  0| 
-|Bryce Harper      |1B        |      6|  4|   3|  1|  1| 
-|Nico Hoerner      |2B        |      3|  2|   0|  0|  0| 
-|Alex Bregman      |3B        |      3|  3|   0|  0|  0| 
-|Bobby Witt Jr.    |SS        |      5|  2|   0|  0|  1| 
-|Willy Adames      |MI        |      2|  1|   1|  0|  0| 
+|Bryce Harper      |1B        |      8|  5|   5|  1|  1| 
+|Nico Hoerner      |2B        |      4|  2|   1|  0|  0| 
+|Alex Bregman      |3B        |      5|  4|   0|  0|  0| 
+|Bobby Witt Jr.    |SS        |      6|  3|   1|  0|  1| 
+|Willy Adames      |MI        |      4|  1|   3|  0|  0| 
 |Nolan Arenado     |CI        |      6|  0|   1|  0|  0| 
-|Byron Buxton      |OF        |      3|  1|   1|  0|  1| 
-|Julio Rodríguez   |OF        |      3|  2|   0|  0|  1| 
-|Kyle Schwarber    |OF        |      7|  3|   4|  1|  1| 
+|Byron Buxton      |OF        |      5|  2|   2|  1|  1| 
+|Julio Rodríguez   |OF        |      5|  4|   0|  0|  1| 
+|Kyle Schwarber    |OF        |      8|  3|   4|  1|  1| 
 |Tyler O'Neill     |OF        |      2|  1|   1|  0|  0| 
-|Gleyber Torres    |DH        |      3|  1|   0|  0|  1| 
-|Kerry Carpenter   |DH        |      5|  3|   0|  0|  0| 
-|Nathaniel Lowe    |DH        |      3|  0|   0|  0|  0| 
-|Xander Bogaerts   |DH        |      1|  1|   0|  0|  0| 
-|Alec Burleson     |BAT BENCH |      2|  0|   0|  0|  0| 
-|Ceddanne Rafaela  |BAT BENCH |      3|  2|   2|  1|  0| 
-|Christopher Morel |BAT BENCH |      0|  1|   0|  0|  0| 
-|Taylor Ward       |BAT BENCH |      1|  1|   0|  0|  0| 
+|Gleyber Torres    |DH        |      3|  2|   0|  0|  1| 
+|Kerry Carpenter   |DH        |      8|  3|   1|  0|  0| 
+|Nathaniel Lowe    |DH        |      8|  0|   1|  0|  0| 
+|Xander Bogaerts   |DH        |      3|  1|   0|  0|  0| 
+|Alec Burleson     |BAT BENCH |      3|  0|   1|  0|  0| 
+|Ceddanne Rafaela  |BAT BENCH |      4|  2|   2|  1|  0| 
+|Christopher Morel |BAT BENCH |      1|  1|   0|  0|  0| 
+|Taylor Ward       |BAT BENCH |      2|  1|   0|  0|  0| 
 
 
 * * *
@@ -42,12 +42,12 @@
 |Edwin Díaz      |RP          |  2|  2|  0|  0.00|      1| 0.500|  4|  0|  2| 
 |Josh Hader      |RP          |  2|  2|  0|  0.00|      1| 0.500|  1|  0|  2| 
 |Brandon Pfaadt  |OP          | **| **| **|    **|     **|    **| **| **| **| 
-|Jameson Taillon |OP          | **| **| **|    **|     **|    **| **| **| **| 
+|Jameson Taillon |OP          |  1|  5|  1|  1.80|      5| 1.000|  6|  0|  0| 
 |Kirby Yates     |OP          |  2|  1|  2| 18.00|      2| 2.000|  2|  0|  0| 
 |Ronel Blanco    |OP          | **| **| **|    **|     **|    **| **| **| **| 
-|Ryan Pepiot     |OP          | **| **| **|    **|     **|    **| **| **| **| 
+|Ryan Pepiot     |OP          |  1|  6|  3|  4.50|      7| 1.167|  7|  0|  0| 
 |Brayan Bello    |PITCH BENCH | **| **| **|    **|     **|    **| **| **| **| 
-|Liam Hendriks   |PITCH BENCH | **| **| **|    **|     **|    **| **| **| **| 
+|Liam Hendriks   |PITCH BENCH |  1|  1|  2| 18.00|      3| 3.000|  1|  0|  0| 
 |Luis Gil        |PITCH BENCH | **| **| **|    **|     **|    **| **| **| **| 
 
 
