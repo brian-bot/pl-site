@@ -5,16 +5,16 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Willson Contreras   |C         |      6|  1|   0|  0|  0| 
+|Willson Contreras   |C         |      8|  2|   2|  1|  0| 
 |Michael Busch       |1B        |      7|  1|   4|  1|  1| 
-|Jose Altuve         |2B        |      3|  0|   0|  0|  0| 
-|Rafael Devers       |3B        |      6|  4|   3|  1|  0| 
-|Bo Bichette         |SS        |      6|  1|   2|  0|  2| 
+|Jose Altuve         |2B        |      5|  1|   2|  0|  0| 
+|Rafael Devers       |3B        |      7|  4|   3|  1|  0| 
+|Bo Bichette         |SS        |      7|  1|   2|  0|  2| 
 |Masyn Winn          |MI        |     **| **|  **| **| **| 
 |Josh Naylor         |CI        |      8|  3|   3|  1|  0| 
-|Aaron Judge         |OF        |      7|  1|   4|  0|  0| 
-|Jackson Chourio     |OF        |      4|  2|   2|  0|  0| 
-|Jarren Duran        |OF        |      4|  1|   1|  0|  0| 
+|Aaron Judge         |OF        |      9|  1|   4|  0|  0| 
+|Jackson Chourio     |OF        |      5|  2|   2|  0|  0| 
+|Jarren Duran        |OF        |      5|  2|   1|  0|  0| 
 |JJ Bleday           |OF        |      4|  3|   2|  1|  0| 
 |Jake Burger         |DH        |      2|  1|   0|  0|  0| 
 |Jake McCarthy       |DH        |      1|  1|   0|  0|  0| 
@@ -39,7 +39,7 @@
 |Zack Littell      |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Jhoan Duran       |RP          |  1| 1.000|  0|  0.000|      0| 0.000|  1|  0|  0| 
 |Pete Fairbanks    |RP          |  2| 1.667|  2| 10.800|      5| 3.000|  1|  0|  0| 
-|Clarke Schmidt    |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Clarke Schmidt    |OP          |  1| 4.000|  5| 11.250|     10| 2.500|  7|  0|  0| 
 |Dennis Santana    |OP          |  2| 1.667|  0|  0.000|      0| 0.000|  1|  0|  1| 
 |Jordan Hicks      |OP          |  1| 7.000|  5|  6.429|     10| 1.429|  5|  0|  0| 
 |Kenley Jansen     |OP          |  1| 1.000|  0|  0.000|      0| 0.000|  0|  0|  1| 

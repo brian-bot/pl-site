@@ -7,22 +7,22 @@
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Salvador Perez     |C         |      2|  1|   0|  0|  0| 
 |Yandy Díaz         |1B        |      5|  0|   2|  0|  0| 
-|Ozzie Albies       |2B        |      4|  1|   1|  0|  0| 
-|Jazz Chisholm Jr.  |3B        |      3|  1|   1|  0|  1| 
+|Ozzie Albies       |2B        |      5|  2|   1|  0|  0| 
+|Jazz Chisholm Jr.  |3B        |      4|  2|   3|  1|  1| 
 |Gunnar Henderson   |SS        |      6|  4|   3|  2|  0| 
-|Brendan Donovan    |MI        |      4|  4|   2|  1|  1| 
-|Wilmer Flores      |CI        |      1|  0|   0|  0|  0| 
+|Brendan Donovan    |MI        |      6|  4|   2|  1|  1| 
+|Wilmer Flores      |CI        |      4|  1|   1|  1|  0| 
 |Brent Rooker       |OF        |      7|  3|   4|  2|  0| 
 |Brenton Doyle      |OF        |     **| **|  **| **| **| 
-|Christian Yelich   |OF        |      7|  3|   4|  0|  1| 
-|Fernando Tatis Jr. |OF        |      7|  6|   2|  2|  1| 
-|Brandon Nimmo      |DH        |      3|  1|   1|  0|  0| 
+|Christian Yelich   |OF        |     10|  3|   4|  0|  2| 
+|Fernando Tatis Jr. |OF        |      8|  7|   3|  2|  1| 
+|Brandon Nimmo      |DH        |      4|  1|   1|  0|  0| 
 |Jordan Walker      |DH        |      1|  0|   1|  0|  0| 
-|Jung Hoo Lee       |DH        |      5|  0|   0|  0|  0| 
-|Steven Kwan        |DH        |      8|  1|   3|  1|  1| 
+|Jung Hoo Lee       |DH        |      6|  0|   1|  0|  0| 
+|Steven Kwan        |DH        |     11|  3|   3|  1|  2| 
 |Hyeseong Kim       |BAT BENCH |     **| **|  **| **| **| 
 |Jackson Holliday   |BAT BENCH |      5|  0|   0|  0|  0| 
-|Sal Frelick        |BAT BENCH |      7|  1|   0|  0|  2| 
+|Sal Frelick        |BAT BENCH |      8|  1|   0|  0|  2| 
 |Spencer Steer      |BAT BENCH |      4|  3|   1|  0|  0| 
 
 
@@ -40,7 +40,7 @@
 |Taj Bradley     |SP          |  1| 5.333|  6| 10.125|     13| 2.438|  3|  0|  0| 
 |Tyler Mahle     |SP          |  1| 7.000|  0|  0.000|      5| 0.714|  4|  0|  0| 
 |Devin Williams  |RP          |  2| 2.000|  4| 18.000|      5| 2.500|  0|  0|  1| 
-|Raisel Iglesias |RP          |  2| 2.000|  0|  0.000|      0| 0.000|  1|  0|  2| 
+|Raisel Iglesias |RP          |  3| 3.000|  3|  9.000|      4| 1.333|  2|  0|  2| 
 |Carlos Estévez  |OP          |  2| 3.000|  0|  0.000|      2| 0.667|  1|  1|  0| 
 |Chase Dollander |OP          |  1| 4.000|  6| 13.500|     11| 2.750|  5|  0|  0| 
 |David Peterson  |OP          |  1| 5.333|  3|  5.062|      7| 1.312|  9|  0|  0| 

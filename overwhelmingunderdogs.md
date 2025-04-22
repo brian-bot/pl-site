@@ -8,16 +8,16 @@
 |Will Smith        |C         |      2|  1|   1|  0|  0| 
 |Freddie Freeman   |1B        |      3|  1|   3|  1|  0| 
 |Jonathan India    |2B        |      6|  0|   0|  0|  0| 
-|Matt Chapman      |3B        |      9|  2|   5|  2|  1| 
-|Matt McLain       |SS        |      7|  4|   4|  1|  1| 
+|Matt Chapman      |3B        |     10|  2|   5|  2|  1| 
+|Matt McLain       |SS        |      9|  5|   4|  1|  2| 
 |Carlos Correa     |MI        |      5|  2|   1|  1|  0| 
-|Isaac Paredes     |CI        |      4|  1|   1|  0|  0| 
+|Isaac Paredes     |CI        |      5|  1|   2|  0|  0| 
 |Joc Pederson      |OF        |      0|  0|   0|  0|  0| 
-|Marcell Ozuna     |OF        |      5|  3|   1|  1|  0| 
+|Marcell Ozuna     |OF        |      8|  3|   1|  1|  0| 
 |Oneil Cruz        |OF        |      6|  3|   2|  2|  2| 
-|Riley Greene      |OF        |      7|  2|   3|  0|  0| 
+|Riley Greene      |OF        |      9|  2|   4|  0|  0| 
 |Kameron Misner    |DH        |      2|  1|   0|  0|  0| 
-|Kristian Campbell |DH        |      6|  0|   0|  0|  0| 
+|Kristian Campbell |DH        |      9|  0|   2|  0|  0| 
 |Nick Castellanos  |DH        |      6|  2|   3|  0|  0| 
 |Shohei Ohtani     |DH        |      1|  0|   0|  0|  0| 
 |Austin Wells      |BAT BENCH |      4|  1|   2|  1|  0| 
@@ -43,7 +43,7 @@
 |Ryan Helsley       |RP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Trevor Megill      |RP          |  1| 0.667|  0| 0.000|      0| 0.000|  0|  0|  1| 
 |Drew Rasmussen     |OP          |  1| 5.667|  1| 1.588|      6| 1.059|  7|  0|  0| 
-|Erick Fedde        |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Erick Fedde        |OP          |  1| 6.000|  2| 3.000|      8| 1.333|  3|  0|  0| 
 |Jeff Hoffman       |OP          |  1| 1.000|  0| 0.000|      0| 0.000|  2|  0|  1| 
 |Merrill Kelly      |OP          |  1| 5.667|  1| 1.588|      3| 0.529|  5|  0|  0| 
 |Spencer Strider    |OP          | **|    **| **|    **|     **|    **| **| **| **| 
