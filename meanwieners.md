@@ -6,19 +6,19 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Logan O'Hoppe     |C         |      4|  1|   0|  0|  0| 
-|Matt Olson        |1B        |     11|  4|   6|  2|  0| 
-|Andrés Giménez    |2B        |      4|  1|   0|  0|  1| 
-|Mark Vientos      |3B        |      5|  3|   3|  2|  0| 
-|Elly De La Cruz   |SS        |     10|  5|   4|  2|  5| 
-|Dansby Swanson    |MI        |      5|  3|   1|  0|  1| 
-|Christian Walker  |CI        |      6|  3|   3|  1|  0| 
-|Anthony Santander |OF        |      2|  1|   2|  0|  0| 
-|Jasson Domínguez  |OF        |      3|  3|   3|  1|  0| 
-|Michael Harris II |OF        |      6|  3|   4|  1|  2| 
+|Matt Olson        |1B        |     12|  5|   6|  2|  0| 
+|Andrés Giménez    |2B        |      5|  1|   0|  0|  2| 
+|Mark Vientos      |3B        |      6|  4|   3|  2|  0| 
+|Elly De La Cruz   |SS        |     13|  6|   4|  2|  6| 
+|Dansby Swanson    |MI        |      7|  5|   3|  0|  1| 
+|Christian Walker  |CI        |      8|  4|   4|  2|  0| 
+|Anthony Santander |OF        |      3|  1|   2|  0|  0| 
+|Jasson Domínguez  |OF        |      6|  4|   3|  1|  1| 
+|Michael Harris II |OF        |      9|  3|   5|  1|  2| 
 |Wilyer Abreu      |OF        |      7|  2|   3|  1|  2| 
-|Ben Rice          |DH        |      7|  3|   3|  1|  0| 
+|Ben Rice          |DH        |     10|  5|   4|  1|  0| 
 |Mike Yastrzemski  |DH        |      5|  1|   0|  0|  0| 
-|Ryan Mountcastle  |DH        |      1|  0|   0|  0|  0| 
+|Ryan Mountcastle  |DH        |      3|  0|   0|  0|  0| 
 |Tommy Edman       |DH        |      5|  3|   5|  2|  0| 
 |Austin Hays       |BAT BENCH |     13|  7|   5|  2|  1| 
 |Josh Lowe         |BAT BENCH |     **| **|  **| **| **| 
@@ -45,9 +45,9 @@
 |Blake Treinen   |OP          | **|     **| **|     **|     **|    **| **| **| **| 
 |Grant Holmes    |OP          |  1|  5.667|  1|  1.588|      8| 1.412|  7|  1|  0| 
 |Nick Lodolo     |OP          |  1|  5.667|  3|  4.765|      9| 1.588|  4|  0|  0| 
-|Porter Hodge    |OP          |  3|  2.667|  6| 20.250|      6| 2.250|  2|  1|  0| 
+|Porter Hodge    |OP          |  4|  3.667|  6| 14.727|      6| 1.636|  3|  1|  1| 
 |Griffin Canning |PITCH BENCH |  2| 11.000|  2|  1.636|     13| 1.182| 13|  2|  0| 
-|Kumar Rocker    |PITCH BENCH |  1|  7.000|  3|  3.857|      5| 0.714|  8|  1|  0| 
+|Kumar Rocker    |PITCH BENCH |  2|  8.667|  8|  8.308|     13| 1.500| 10|  1|  0| 
 |Lucas Erceg     |PITCH BENCH |  2|  1.667|  1|  5.400|      1| 0.600|  0|  0|  0| 
 
 
