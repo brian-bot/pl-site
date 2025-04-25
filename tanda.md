@@ -12,12 +12,12 @@
 |Francisco Lindor  |SS        |     16|  8|   8|  4|  0| 
 |Xavier Edwards    |MI        |      8|  1|   1|  0|  0| 
 |Spencer Torkelson |CI        |     12|  3|   8|  1|  0| 
-|Adolis García     |OF        |      5|  3|   6|  2|  0| 
+|Adolis García     |OF        |      6|  3|   6|  2|  0| 
 |Jorge Soler       |OF        |      5|  2|   1|  0|  0| 
 |Luis Robert Jr.   |OF        |      9|  3|   2|  1|  1| 
-|Randy Arozarena   |OF        |     10|  4|   6|  1|  1| 
-|CJ Abrams         |DH        |     **| **|  **| **| **| 
-|Eugenio Suárez    |DH        |      5|  2|   4|  1|  0| 
+|Randy Arozarena   |OF        |     13|  5|   6|  1|  2| 
+|CJ Abrams         |DH        |      0|  0|   0|  0|  0| 
+|Eugenio Suárez    |DH        |      6|  3|   4|  1|  0| 
 |George Springer   |DH        |     10|  3|   2|  0|  2| 
 |TJ Friedl         |DH        |     14|  2|   5|  0|  3| 
 |Jesús Sánchez     |BAT BENCH |      7|  1|   1|  0|  1| 
@@ -36,10 +36,10 @@
 |Aaron Nola         |SP          |  1|  6.333|  4|  5.684|      9| 1.421|  6|  0|  0| 
 |Edward Cabrera     |SP          |  2|  9.000|  8|  8.000|     14| 1.556| 13|  0|  0| 
 |Hunter Greene      |SP          |  1|  3.000|  5| 15.000|      8| 2.667|  4|  0|  0| 
-|MacKenzie Gore     |SP          |  1|  6.000|  2|  3.000|      6| 1.000| 13|  1|  0| 
+|MacKenzie Gore     |SP          |  2| 12.000|  4|  3.000|     11| 0.917| 21|  1|  0| 
 |Mitch Keller       |SP          |  1|  5.000|  2|  3.600|      7| 1.400|  3|  0|  0| 
 |Yusei Kikuchi      |SP          |  1|  5.333|  0|  0.000|      9| 1.688|  6|  0|  0| 
-|Andrés Muñoz       |RP          |  3|  3.000|  0|  0.000|      1| 0.333|  3|  1|  1| 
+|Andrés Muñoz       |RP          |  4|  4.000|  0|  0.000|      2| 0.500|  5|  1|  2| 
 |Ryan Walker        |RP          |  3|  1.667|  6| 32.400|      8| 4.800|  2|  0|  1| 
 |Andrew Heaney      |OP          |  2| 13.333|  0|  0.000|      8| 0.600| 13|  2|  0| 
 |Eduardo Rodriguez  |OP          |  2| 12.000|  5|  3.750|     17| 1.417| 14|  1|  0| 

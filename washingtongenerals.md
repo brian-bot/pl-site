@@ -11,11 +11,11 @@
 |Rafael Devers       |3B        |     10|  6|   5|  1|  0| 
 |Bo Bichette         |SS        |      8|  1|   2|  0|  2| 
 |Masyn Winn          |MI        |      3|  0|   2|  0|  0| 
-|Josh Naylor         |CI        |     11|  3|   4|  1|  0| 
+|Josh Naylor         |CI        |     12|  3|   5|  1|  0| 
 |Aaron Judge         |OF        |     16|  3|   5|  0|  1| 
 |Jackson Chourio     |OF        |      7|  4|   3|  0|  0| 
-|Jarren Duran        |OF        |     10|  3|   1|  0|  1| 
-|JJ Bleday           |OF        |      8|  3|   3|  1|  0| 
+|Jarren Duran        |OF        |     11|  4|   1|  0|  1| 
+|JJ Bleday           |OF        |      9|  3|   3|  1|  0| 
 |Jake Burger         |DH        |      4|  2|   1|  1|  0| 
 |Jake McCarthy       |DH        |      1|  1|   0|  0|  0| 
 |Kyren Paris         |DH        |      0|  0|   0|  0|  0| 
@@ -38,15 +38,15 @@
 |Mitchell Parker   |SP          |  1|  8.000|  0|  0.000|      3| 0.375|  4|  1|  0| 
 |Zack Littell      |SP          |  1|  6.000|  3|  4.500|      7| 1.167|  2|  0|  0| 
 |Jhoan Duran       |RP          |  2|  2.000|  1|  4.500|      3| 1.500|  2|  0|  1| 
-|Pete Fairbanks    |RP          |  3|  2.333|  2|  7.714|      5| 2.143|  1|  1|  0| 
+|Pete Fairbanks    |RP          |  4|  3.333|  2|  5.400|      6| 1.800|  2|  1|  1| 
 |Clarke Schmidt    |OP          |  1|  4.000|  5| 11.250|     10| 2.500|  7|  0|  0| 
 |Dennis Santana    |OP          |  4|  3.000|  0|  0.000|      1| 0.333|  3|  0|  2| 
 |Jordan Hicks      |OP          |  2| 12.000| 10|  7.500|     21| 1.750| 10|  0|  0| 
-|Kenley Jansen     |OP          |  1|  1.000|  0|  0.000|      0| 0.000|  0|  0|  1| 
+|Kenley Jansen     |OP          |  2|  2.000|  0|  0.000|      1| 0.500|  1|  0|  2| 
 |Nathan Eovaldi    |OP          |  1|  6.000|  2|  3.000|      5| 0.833|  7|  0|  0| 
-|Cade Povich       |PITCH BENCH |  1|  3.333|  7| 18.900|     11| 3.300|  4|  0|  0| 
+|Cade Povich       |PITCH BENCH |  2| 10.000|  8|  7.200|     16| 1.600|  9|  1|  0| 
 |Grayson Rodriguez |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Ryan Johnson      |PITCH BENCH |  2|  2.667|  0|  0.000|      1| 0.375|  1|  0|  0| 
+|Ryan Johnson      |PITCH BENCH |  3|  3.667|  0|  0.000|      3| 0.818|  2|  0|  0| 
 |Shane McClanahan  |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Tony Gonsolin     |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 
