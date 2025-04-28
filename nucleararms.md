@@ -5,25 +5,25 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez     |C         |      9|  4|   4|  0|  0| 
-|Yandy Díaz         |1B        |     13|  2|   7|  0|  1| 
+|Salvador Perez     |C         |     11|  4|   4|  0|  0| 
+|Yandy Díaz         |1B        |     14|  2|   7|  0|  1| 
 |Ozzie Albies       |2B        |     10|  6|   3|  0|  1| 
-|Jazz Chisholm Jr.  |3B        |     12|  3|   4|  1|  2| 
-|Gunnar Henderson   |SS        |     11|  4|   4|  2|  0| 
-|Brendan Donovan    |MI        |     11|  5|   4|  1|  1| 
-|Wilmer Flores      |CI        |     12|  2|   4|  1|  0| 
-|Brent Rooker       |OF        |     13|  7|   6|  3|  0| 
+|Jazz Chisholm Jr.  |3B        |     15|  5|   6|  1|  2| 
+|Gunnar Henderson   |SS        |     12|  4|   4|  2|  0| 
+|Brendan Donovan    |MI        |     12|  5|   5|  1|  1| 
+|Wilmer Flores      |CI        |     13|  2|   5|  1|  0| 
+|Brent Rooker       |OF        |     16|  7|   7|  3|  0| 
 |Brenton Doyle      |OF        |      4|  1|   1|  0|  1| 
-|Christian Yelich   |OF        |     18|  5|  10|  1|  2| 
-|Fernando Tatis Jr. |OF        |     13|  7|   4|  2|  1| 
-|Brandon Nimmo      |DH        |      7|  2|   2|  0|  0| 
-|Jordan Walker      |DH        |      4|  1|   1|  0|  0| 
-|Jung Hoo Lee       |DH        |     15|  3|   2|  0|  0| 
-|Steven Kwan        |DH        |     18|  5|   4|  1|  3| 
+|Christian Yelich   |OF        |     21|  6|  12|  1|  3| 
+|Fernando Tatis Jr. |OF        |     15|  8|   4|  2|  1| 
+|Brandon Nimmo      |DH        |      7|  2|   3|  0|  0| 
+|Jordan Walker      |DH        |      5|  1|   1|  0|  0| 
+|Jung Hoo Lee       |DH        |     16|  3|   2|  0|  0| 
+|Steven Kwan        |DH        |     19|  5|   4|  1|  3| 
 |Hyeseong Kim       |BAT BENCH |     **| **|  **| **| **| 
 |Jackson Holliday   |BAT BENCH |     14|  2|   0|  0|  1| 
-|Sal Frelick        |BAT BENCH |     12|  3|   1|  0|  2| 
-|Spencer Steer      |BAT BENCH |     11|  6|   5|  1|  1| 
+|Sal Frelick        |BAT BENCH |     13|  3|   2|  0|  2| 
+|Spencer Steer      |BAT BENCH |     14|  8|   5|  1|  1| 
 
 
 * * *
