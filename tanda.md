@@ -5,22 +5,22 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Sean Murphy       |C         |     10|  4|   5|  3|  0| 
-|Pete Alonso       |1B        |     18|  5|   5|  1|  0| 
+|Sean Murphy       |C         |     12|  4|   6|  3|  0| 
+|Pete Alonso       |1B        |     21|  8|   6|  1|  0| 
 |Luis Rengifo      |2B        |      8|  0|   2|  0|  0| 
-|José Ramírez      |3B        |     13|  6|   6|  1|  4| 
-|Francisco Lindor  |SS        |     21|  9|   8|  4|  0| 
-|Xavier Edwards    |MI        |     10|  2|   3|  0|  0| 
+|José Ramírez      |3B        |     14|  6|   6|  1|  4| 
+|Francisco Lindor  |SS        |     23| 10|   8|  4|  0| 
+|Xavier Edwards    |MI        |     11|  3|   3|  0|  0| 
 |Spencer Torkelson |CI        |     15|  6|  11|  2|  0| 
 |Adolis García     |OF        |      7|  3|   6|  2|  0| 
 |Jorge Soler       |OF        |      6|  3|   1|  0|  0| 
 |Luis Robert Jr.   |OF        |     15|  7|   4|  2|  4| 
 |Randy Arozarena   |OF        |     16|  7|   6|  1|  2| 
-|CJ Abrams         |DH        |      4|  2|   3|  0|  1| 
+|CJ Abrams         |DH        |      5|  2|   3|  0|  1| 
 |Eugenio Suárez    |DH        |     15| 10|   9|  5|  0| 
 |George Springer   |DH        |     13|  4|   2|  0|  2| 
-|TJ Friedl         |DH        |     19|  4|   6|  0|  3| 
-|Jesús Sánchez     |BAT BENCH |     10|  2|   3|  1|  1| 
+|TJ Friedl         |DH        |     20|  4|   6|  0|  3| 
+|Jesús Sánchez     |BAT BENCH |     12|  3|   4|  1|  1| 
 |Ketel Marte       |BAT BENCH |     **| **|  **| **| **| 
 |Nick Kurtz        |BAT BENCH |      4|  0|   3|  0|  0| 
 |Royce Lewis       |BAT BENCH |     **| **|  **| **| **| 
@@ -34,7 +34,7 @@
 |players            |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:------------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Aaron Nola         |SP          |  2| 13.333|  5|  3.375|     13| 0.975| 12|  0|  0| 
-|Edward Cabrera     |SP          |  2|  9.000|  8|  8.000|     14| 1.556| 13|  0|  0| 
+|Edward Cabrera     |SP          |  3| 13.000| 13|  9.000|     26| 2.000| 15|  0|  0| 
 |Hunter Greene      |SP          |  2|  9.000|  8|  8.000|     15| 1.667| 12|  1|  0| 
 |MacKenzie Gore     |SP          |  2| 12.000|  4|  3.000|     11| 0.917| 21|  1|  0| 
 |Mitch Keller       |SP          |  2| 11.000|  4|  3.273|     13| 1.182|  9|  0|  0| 

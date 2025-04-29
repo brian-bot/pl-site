@@ -6,18 +6,18 @@
 |players                      |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------------------|:---------|------:|--:|---:|--:|--:| 
 |Cal Raleigh                  |C         |     18|  6|   7|  3|  1| 
-|Tyler Soderstrom             |1B        |     13|  4|   5|  1|  1| 
+|Tyler Soderstrom             |1B        |     14|  4|   7|  1|  1| 
 |Bryson Stott                 |2B        |     19|  8|   8|  1|  3| 
 |Junior Caminero              |3B        |     11|  4|   3|  1|  1| 
-|Jeremy Peña                  |SS        |     14|  3|   4|  0|  1| 
+|Jeremy Peña                  |SS        |     16|  5|   4|  0|  1| 
 |Geraldo Perdomo              |MI        |     15|  6|   5|  1|  4| 
-|Josh Jung                    |CI        |     10|  1|   1|  1|  1| 
-|Dylan Crews                  |OF        |     15| 10|   6|  4|  2| 
+|Josh Jung                    |CI        |     12|  1|   1|  1|  1| 
+|Dylan Crews                  |OF        |     16| 10|   6|  4|  2| 
 |Lane Thomas                  |OF        |      2|  2|   0|  0|  0| 
 |Seiya Suzuki                 |OF        |      8|  3|   8|  2|  0| 
-|Yordan Alvarez               |OF        |     10|  2|   6|  1|  0| 
-|Cam Smith                    |DH        |      9|  4|   4|  2|  0| 
-|Kyle Manzardo                |DH        |      9|  4|   7|  3|  0| 
+|Yordan Alvarez               |OF        |     12|  2|   7|  1|  0| 
+|Cam Smith                    |DH        |     10|  5|   4|  2|  0| 
+|Kyle Manzardo                |DH        |     10|  4|   7|  3|  0| 
 |Nolan Schanuel               |DH        |      8|  3|   1|  0|  0| 
 |Wyatt Langford               |DH        |     15|  3|   3|  2|  2| 
 |Chandler Simpson             |BAT BENCH |     15|  5|   3|  0|  3| 
@@ -42,7 +42,7 @@
 |Emmanuel Clase     |RP          |  4|  3.333|  3| 8.100|      7| 2.100|  3|  1|  2| 
 |Kyle Finnegan      |RP          |  4|  3.333|  1| 2.700|      6| 1.800|  5|  0|  3| 
 |Cristopher Sánchez |OP          |  2|  9.000|  4| 4.000|     11| 1.222| 14|  1|  0| 
-|Emilio Pagán       |OP          |  5|  5.000|  3| 5.400|      4| 0.800|  7|  0|  3| 
+|Emilio Pagán       |OP          |  6|  6.000|  3| 4.500|      4| 0.667|  7|  0|  4| 
 |Jackson Jobe       |OP          |  1|  5.000|  1| 1.800|      7| 1.400|  5|  1|  0| 
 |Logan Allen        |OP          |  2| 10.000|  8| 7.200|     18| 1.800|  7|  0|  0| 
 |Luke Jackson       |OP          |  4|  2.667|  1| 3.375|      4| 1.500|  2|  0|  2| 

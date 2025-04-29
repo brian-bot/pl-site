@@ -5,22 +5,22 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |      6|  3|   3|  1|  0| 
-|Freddie Freeman   |1B        |     10|  4|   8|  1|  0| 
+|Will Smith        |C         |      8|  3|   3|  1|  1| 
+|Freddie Freeman   |1B        |     13|  5|   9|  1|  0| 
 |Jonathan India    |2B        |     14|  3|   1|  0|  0| 
 |Matt Chapman      |3B        |     17|  4|   7|  3|  2| 
-|Matt McLain       |SS        |     10|  5|   4|  1|  2| 
-|Carlos Correa     |MI        |     12|  4|   4|  1|  0| 
-|Isaac Paredes     |CI        |     12|  3|   3|  1|  0| 
+|Matt McLain       |SS        |     11|  5|   4|  1|  3| 
+|Carlos Correa     |MI        |     14|  5|   4|  1|  0| 
+|Isaac Paredes     |CI        |     14|  4|   3|  1|  0| 
 |Joc Pederson      |OF        |      7|  1|   1|  0|  0| 
-|Marcell Ozuna     |OF        |     20|  4|   3|  2|  0| 
+|Marcell Ozuna     |OF        |     21|  5|   4|  2|  0| 
 |Oneil Cruz        |OF        |     18|  9|   7|  5|  4| 
-|Riley Greene      |OF        |     14|  3|   8|  1|  0| 
+|Riley Greene      |OF        |     16|  5|  11|  3|  0| 
 |Kameron Misner    |DH        |      8|  5|   1|  0|  0| 
 |Kristian Campbell |DH        |     18|  6|   4|  0|  1| 
 |Nick Castellanos  |DH        |     13|  4|   4|  0|  0| 
-|Shohei Ohtani     |DH        |     10|  5|   1|  0|  1| 
-|Austin Wells      |BAT BENCH |      9|  2|   7|  1|  0| 
+|Shohei Ohtani     |DH        |     14|  6|   1|  0|  2| 
+|Austin Wells      |BAT BENCH |     10|  2|   8|  1|  0| 
 |Brooks Lee        |BAT BENCH |     12|  2|   2|  0|  0| 
 |Jurickson Profar  |BAT BENCH |     **| **|  **| **| **| 
 |Matt Wallner      |BAT BENCH |     **| **|  **| **| **| 

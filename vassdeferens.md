@@ -6,22 +6,22 @@
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
 |William Contreras     |C         |     14|  3|   5|  0|  2| 
-|Cody Bellinger        |1B        |     11|  4|   4|  1|  1| 
+|Cody Bellinger        |1B        |     13|  4|   4|  1|  1| 
 |Brice Turang          |2B        |     18| 11|   5|  0|  4| 
 |Vladimir Guerrero Jr. |3B        |     14|  3|   2|  1|  0| 
 |Corey Seager          |SS        |      7|  3|   1|  1|  0| 
-|Luis García Jr.       |MI        |     15|  7|   2|  0|  1| 
+|Luis García Jr.       |MI        |     16|  7|   2|  0|  2| 
 |Vinnie Pasquantino    |CI        |      8|  4|   5|  1|  0| 
-|James Wood            |OF        |     16|  5|   6|  2|  0| 
-|Michael Toglia        |OF        |     12|  2|   6|  1|  1| 
+|James Wood            |OF        |     18|  6|   7|  3|  0| 
+|Michael Toglia        |OF        |     13|  2|   6|  1|  1| 
 |Pavin Smith           |OF        |     17|  6|   4|  2|  1| 
-|Teoscar Hernández     |OF        |     10|  6|   9|  3|  0| 
-|Cedric Mullins        |DH        |     15|  5|   3|  2|  2| 
+|Teoscar Hernández     |OF        |     11|  7|  11|  4|  0| 
+|Cedric Mullins        |DH        |     18|  5|   3|  2|  2| 
 |Heliot Ramos          |DH        |     17|  7|   1|  0|  1| 
-|Jacob Wilson          |DH        |     14|  5|   6|  1|  1| 
-|Paul Goldschmidt      |DH        |     19|  5|   4|  0|  1| 
+|Jacob Wilson          |DH        |     15|  5|   6|  1|  1| 
+|Paul Goldschmidt      |DH        |     20|  6|   4|  0|  1| 
 |Gabriel Moreno        |BAT BENCH |      7|  3|   3|  0|  0| 
-|Hunter Goodman        |BAT BENCH |     17|  8|   4|  1|  0| 
+|Hunter Goodman        |BAT BENCH |     18|  9|   7|  2|  0| 
 |Ronald Acuña Jr.      |BAT BENCH |     **| **|  **| **| **| 
 |Victor Robles         |BAT BENCH |     **| **|  **| **| **| 
 

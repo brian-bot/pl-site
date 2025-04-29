@@ -5,18 +5,18 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Willson Contreras   |C         |     20|  3|   2|  1|  1| 
+|Willson Contreras   |C         |     21|  3|   2|  1|  1| 
 |Michael Busch       |1B        |     13|  3|   4|  1|  1| 
-|Jose Altuve         |2B        |      8|  2|   2|  0|  0| 
+|Jose Altuve         |2B        |     10|  3|   5|  1|  0| 
 |Rafael Devers       |3B        |     18| 11|   8|  3|  0| 
 |Bo Bichette         |SS        |     11|  2|   2|  0|  2| 
 |Masyn Winn          |MI        |      7|  3|   2|  0|  1| 
 |Josh Naylor         |CI        |     16|  4|   7|  1|  0| 
-|Aaron Judge         |OF        |     21|  5|   6|  1|  1| 
+|Aaron Judge         |OF        |     23|  5|   7|  1|  1| 
 |Jackson Chourio     |OF        |     15|  6|   6|  1|  0| 
 |Jarren Duran        |OF        |     19|  7|   4|  0|  3| 
-|JJ Bleday           |OF        |     12|  5|   3|  1|  0| 
-|Jake Burger         |DH        |      6|  4|   3|  1|  0| 
+|JJ Bleday           |OF        |     13|  5|   3|  1|  0| 
+|Jake Burger         |DH        |      7|  4|   3|  1|  0| 
 |Jake McCarthy       |DH        |      1|  1|   0|  0|  0| 
 |Kyren Paris         |DH        |      0|  0|   0|  0|  0| 
 |Lourdes Gurriel Jr. |DH        |      8|  2|   5|  1|  1| 
