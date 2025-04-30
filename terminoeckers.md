@@ -8,19 +8,19 @@
 |Adley Rutschman     |C         |     14|  4|   2|  1|  0| 
 |Jonathan Aranda     |1B        |     14|  4|   2|  1|  0| 
 |Jordan Westburg     |2B        |      9|  4|   2|  1|  0| 
-|Manny Machado       |3B        |      7|  1|   2|  0|  0| 
-|Trea Turner         |SS        |     19|  6|   6|  0|  2| 
-|Brandon Lowe        |MI        |      9|  3|   4|  1|  0| 
+|Manny Machado       |3B        |      9|  2|   3|  0|  0| 
+|Trea Turner         |SS        |     23|  8|   7|  0|  2| 
+|Brandon Lowe        |MI        |     10|  3|   4|  1|  0| 
 |Matt Mervis         |CI        |      9|  3|   2|  1|  0| 
-|Ian Happ            |OF        |     17|  7|   6|  1|  0| 
-|Juan Soto           |OF        |     19|  7|   5|  0|  1| 
-|Kyle Tucker         |OF        |     13|  6|   6|  2|  4| 
-|Lawrence Butler     |OF        |     10|  7|   3|  3|  1| 
+|Ian Happ            |OF        |     18|  8|   6|  1|  0| 
+|Juan Soto           |OF        |     20|  7|   5|  0|  1| 
+|Kyle Tucker         |OF        |     15|  7|   7|  2|  4| 
+|Lawrence Butler     |OF        |     11|  7|   3|  3|  1| 
 |Lars Nootbaar       |DH        |     18|  7|   7|  1|  1| 
-|Pete Crow-Armstrong |DH        |     12|  7|   9|  2|  5| 
-|Rhys Hoskins        |DH        |     16|  2|   5|  1|  1| 
-|Trevor Story        |DH        |     12|  7|   8|  2|  0| 
-|Triston Casas       |BAT BENCH |     10|  2|   7|  2|  0| 
+|Pete Crow-Armstrong |DH        |     13|  8|  11|  3|  5| 
+|Rhys Hoskins        |DH        |     18|  3|   5|  1|  1| 
+|Trevor Story        |DH        |     14|  8|   8|  2|  0| 
+|Triston Casas       |BAT BENCH |     12|  2|   8|  2|  0| 
 |Victor Scott II     |BAT BENCH |     10|  5|   3|  0|  3| 
 
 
@@ -32,9 +32,9 @@
 |players         |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:---------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Bailey Ober     |SP          |  2| 13.667|  2| 1.317|     17| 1.244|  8|  2|  0| 
-|Garrett Crochet |SP          |  2| 11.000|  4| 3.273|     16| 1.455| 16|  0|  0| 
+|Garrett Crochet |SP          |  3| 18.000|  6| 3.000|     23| 1.278| 22|  1|  0| 
 |Jack Flaherty   |SP          |  2| 11.000|  6| 4.909|     13| 1.182| 13|  0|  0| 
-|Max Fried       |SP          |  2| 13.667|  1| 0.659|     12| 0.878|  5|  2|  0| 
+|Max Fried       |SP          |  2| 13.667|  0| 0.000|     11| 0.805|  5|  2|  0| 
 |Max Meyer       |SP          |  2| 10.000|  5| 4.500|     14| 1.400| 20|  1|  0| 
 |Seth Lugo       |SP          |  2| 14.667|  3| 1.841|     11| 0.750| 13|  1|  0| 
 |Mason Miller    |RP          |  5|  5.000|  2| 3.600|      4| 0.800| 10|  0|  4| 

@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |      8|  3|   3|  1|  1| 
-|Freddie Freeman   |1B        |     13|  5|   9|  1|  0| 
-|Jonathan India    |2B        |     14|  3|   1|  0|  0| 
+|Will Smith        |C         |     11|  4|   5|  1|  1| 
+|Freddie Freeman   |1B        |     17|  7|   9|  1|  0| 
+|Jonathan India    |2B        |     16|  4|   1|  0|  0| 
 |Matt Chapman      |3B        |     17|  4|   7|  3|  2| 
 |Matt McLain       |SS        |     11|  5|   4|  1|  3| 
-|Carlos Correa     |MI        |     14|  5|   4|  1|  0| 
-|Isaac Paredes     |CI        |     14|  4|   3|  1|  0| 
+|Carlos Correa     |MI        |     15|  5|   4|  1|  0| 
+|Isaac Paredes     |CI        |     17|  6|   4|  1|  0| 
 |Joc Pederson      |OF        |      7|  1|   1|  0|  0| 
 |Marcell Ozuna     |OF        |     21|  5|   4|  2|  0| 
-|Oneil Cruz        |OF        |     18|  9|   7|  5|  4| 
-|Riley Greene      |OF        |     16|  5|  11|  3|  0| 
-|Kameron Misner    |DH        |      8|  5|   1|  0|  0| 
-|Kristian Campbell |DH        |     18|  6|   4|  0|  1| 
+|Oneil Cruz        |OF        |     19|  9|   7|  5|  4| 
+|Riley Greene      |OF        |     17|  5|  11|  3|  0| 
+|Kameron Misner    |DH        |      9|  5|   1|  0|  0| 
+|Kristian Campbell |DH        |     21|  7|   6|  1|  1| 
 |Nick Castellanos  |DH        |     13|  4|   4|  0|  0| 
-|Shohei Ohtani     |DH        |     14|  6|   1|  0|  2| 
-|Austin Wells      |BAT BENCH |     10|  2|   8|  1|  0| 
-|Brooks Lee        |BAT BENCH |     12|  2|   2|  0|  0| 
+|Shohei Ohtani     |DH        |     16|  8|   2|  1|  3| 
+|Austin Wells      |BAT BENCH |     11|  3|   9|  2|  0| 
+|Brooks Lee        |BAT BENCH |     13|  2|   2|  0|  0| 
 |Jurickson Profar  |BAT BENCH |     **| **|  **| **| **| 
 |Matt Wallner      |BAT BENCH |     **| **|  **| **| **| 
 |Roman Anthony     |BAT BENCH |     **| **|  **| **| **| 

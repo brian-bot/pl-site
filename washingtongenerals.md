@@ -6,19 +6,19 @@
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Willson Contreras   |C         |     21|  3|   2|  1|  1| 
-|Michael Busch       |1B        |     13|  3|   4|  1|  1| 
-|Jose Altuve         |2B        |     10|  3|   5|  1|  0| 
-|Rafael Devers       |3B        |     18| 11|   8|  3|  0| 
-|Bo Bichette         |SS        |     11|  2|   2|  0|  2| 
+|Michael Busch       |1B        |     15|  3|   4|  1|  1| 
+|Jose Altuve         |2B        |     11|  4|   5|  1|  0| 
+|Rafael Devers       |3B        |     20| 12|   9|  4|  0| 
+|Bo Bichette         |SS        |     12|  3|   2|  0|  3| 
 |Masyn Winn          |MI        |      7|  3|   2|  0|  1| 
 |Josh Naylor         |CI        |     16|  4|   7|  1|  0| 
-|Aaron Judge         |OF        |     23|  5|   7|  1|  1| 
-|Jackson Chourio     |OF        |     15|  6|   6|  1|  0| 
-|Jarren Duran        |OF        |     19|  7|   4|  0|  3| 
+|Aaron Judge         |OF        |     27|  8|   8|  2|  1| 
+|Jackson Chourio     |OF        |     16|  6|   7|  1|  0| 
+|Jarren Duran        |OF        |     20|  8|   6|  1|  3| 
 |JJ Bleday           |OF        |     13|  5|   3|  1|  0| 
-|Jake Burger         |DH        |      7|  4|   3|  1|  0| 
+|Jake Burger         |DH        |     11|  7|   4|  1|  0| 
 |Jake McCarthy       |DH        |      1|  1|   0|  0|  0| 
-|Kyren Paris         |DH        |      0|  0|   0|  0|  0| 
+|Kyren Paris         |DH        |      1|  0|   0|  0|  0| 
 |Lourdes Gurriel Jr. |DH        |      8|  2|   5|  1|  1| 
 |Colton Cowser       |BAT BENCH |     **| **|  **| **| **| 
 |Jake Cronenworth    |BAT BENCH |     **| **|  **| **| **| 
@@ -31,13 +31,13 @@
  
 |players           |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Bowden Francis    |SP          |  2| 10.667|  4| 3.375|     15| 1.406|  7|  1|  0| 
-|Bryce Miller      |SP          |  1|  4.667|  4| 7.714|      9| 1.929|  4|  0|  0| 
+|Bowden Francis    |SP          |  3| 13.667| 11| 7.244|     23| 1.683|  8|  1|  0| 
+|Bryce Miller      |SP          |  2|  9.667|  4| 3.724|     16| 1.655| 10|  1|  0| 
 |Luis Castillo     |SP          |  2| 11.000|  3| 2.455|     15| 1.364| 10|  2|  0| 
 |Michael King      |SP          |  2| 10.667|  2| 1.687|     11| 1.031| 16|  0|  0| 
 |Mitchell Parker   |SP          |  2| 13.000|  6| 4.154|     15| 1.154|  4|  1|  0| 
 |Zack Littell      |SP          |  2| 11.000|  5| 4.091|     13| 1.182|  3|  1|  0| 
-|Jhoan Duran       |RP          |  3|  3.000|  1| 3.000|      3| 1.000|  2|  0|  1| 
+|Jhoan Duran       |RP          |  4|  4.000|  1| 2.250|      3| 0.750|  4|  0|  1| 
 |Pete Fairbanks    |RP          |  6|  5.333|  2| 3.375|      7| 1.312|  3|  1|  3| 
 |Clarke Schmidt    |OP          |  2|  9.000|  6| 6.000|     15| 1.667| 13|  0|  0| 
 |Dennis Santana    |OP          |  5|  4.000|  0| 0.000|      2| 0.500|  3|  0|  2| 

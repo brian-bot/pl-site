@@ -5,21 +5,21 @@
  
 |players                      |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------------------|:---------|------:|--:|---:|--:|--:| 
-|Cal Raleigh                  |C         |     18|  6|   7|  3|  1| 
+|Cal Raleigh                  |C         |     21|  6|   7|  3|  1| 
 |Tyler Soderstrom             |1B        |     14|  4|   7|  1|  1| 
-|Bryson Stott                 |2B        |     19|  8|   8|  1|  3| 
-|Junior Caminero              |3B        |     11|  4|   3|  1|  1| 
-|Jeremy Peña                  |SS        |     16|  5|   4|  0|  1| 
-|Geraldo Perdomo              |MI        |     15|  6|   5|  1|  4| 
-|Josh Jung                    |CI        |     12|  1|   1|  1|  1| 
+|Bryson Stott                 |2B        |     20|  9|   8|  1|  4| 
+|Junior Caminero              |3B        |     14|  5|   4|  2|  1| 
+|Jeremy Peña                  |SS        |     19|  5|   4|  0|  1| 
+|Geraldo Perdomo              |MI        |     17|  6|   5|  1|  4| 
+|Josh Jung                    |CI        |     14|  2|   2|  1|  1| 
 |Dylan Crews                  |OF        |     16| 10|   6|  4|  2| 
 |Lane Thomas                  |OF        |      2|  2|   0|  0|  0| 
-|Seiya Suzuki                 |OF        |      8|  3|   8|  2|  0| 
-|Yordan Alvarez               |OF        |     12|  2|   7|  1|  0| 
+|Seiya Suzuki                 |OF        |     12|  6|  10|  3|  0| 
+|Yordan Alvarez               |OF        |     13|  3|   8|  1|  0| 
 |Cam Smith                    |DH        |     10|  5|   4|  2|  0| 
-|Kyle Manzardo                |DH        |     10|  4|   7|  3|  0| 
-|Nolan Schanuel               |DH        |      8|  3|   1|  0|  0| 
-|Wyatt Langford               |DH        |     15|  3|   3|  2|  2| 
+|Kyle Manzardo                |DH        |     13|  5|   8|  4|  0| 
+|Nolan Schanuel               |DH        |      9|  4|   2|  0|  0| 
+|Wyatt Langford               |DH        |     17|  4|   6|  2|  2| 
 |Chandler Simpson             |BAT BENCH |     15|  5|   3|  0|  3| 
 |Christian Encarnacion-Strand |BAT BENCH |     **| **|  **| **| **| 
 |Jackson Merrill              |BAT BENCH |     **| **|  **| **| **| 
@@ -35,12 +35,12 @@
 |:------------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Corbin Burnes      |SP          |  2| 11.333|  3| 2.382|     12| 1.059| 11|  0|  0| 
 |Framber Valdez     |SP          |  2| 14.000|  4| 2.571|     15| 1.071|  7|  0|  0| 
-|Freddy Peralta     |SP          |  2| 10.000|  3| 2.700|     15| 1.500|  8|  1|  0| 
+|Freddy Peralta     |SP          |  3| 16.000|  5| 2.812|     21| 1.312| 13|  2|  0| 
 |Hunter Brown       |SP          |  2| 13.000|  1| 0.692|     11| 0.846| 18|  2|  0| 
-|Tanner Bibee       |SP          |  2| 11.667|  8| 6.171|     17| 1.457| 10|  1|  0| 
+|Tanner Bibee       |SP          |  3| 18.667|  9| 4.339|     22| 1.179| 15|  1|  0| 
 |Tarik Skubal       |SP          |  2| 11.000|  2| 1.636|     12| 1.091| 15|  1|  0| 
-|Emmanuel Clase     |RP          |  4|  3.333|  3| 8.100|      7| 2.100|  3|  1|  2| 
-|Kyle Finnegan      |RP          |  4|  3.333|  1| 2.700|      6| 1.800|  5|  0|  3| 
+|Emmanuel Clase     |RP          |  5|  4.333|  3| 6.231|      8| 1.846|  3|  2|  2| 
+|Kyle Finnegan      |RP          |  5|  4.000|  3| 6.750|      8| 2.000|  5|  0|  3| 
 |Cristopher Sánchez |OP          |  2|  9.000|  4| 4.000|     11| 1.222| 14|  1|  0| 
 |Emilio Pagán       |OP          |  6|  6.000|  3| 4.500|      4| 0.667|  7|  0|  4| 
 |Jackson Jobe       |OP          |  1|  5.000|  1| 1.800|      7| 1.400|  5|  1|  0| 
