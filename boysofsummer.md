@@ -6,23 +6,23 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Yainer Diaz       |C         |     10|  5|   6|  1|  0| 
-|Bryce Harper      |1B        |     16|  6|   7|  1|  2| 
-|Nico Hoerner      |2B        |     11|  5|   3|  0|  0| 
-|Alex Bregman      |3B        |     24| 12|   7|  2|  0| 
-|Bobby Witt Jr.    |SS        |     19|  6|   3|  0|  4| 
-|Willy Adames      |MI        |     15|  6|   7|  1|  0| 
+|Bryce Harper      |1B        |     18|  7|   7|  1|  2| 
+|Nico Hoerner      |2B        |     13|  5|   3|  0|  0| 
+|Alex Bregman      |3B        |     26| 13|   8|  3|  0| 
+|Bobby Witt Jr.    |SS        |     21|  7|   4|  0|  4| 
+|Willy Adames      |MI        |     17|  6|   7|  1|  1| 
 |Nolan Arenado     |CI        |     13|  2|   4|  1|  0| 
-|Byron Buxton      |OF        |     13|  8|   9|  3|  2| 
-|Julio Rodríguez   |OF        |     16|  7|   5|  1|  1| 
-|Kyle Schwarber    |OF        |     17|  5|   8|  2|  1| 
+|Byron Buxton      |OF        |     14|  8|   9|  3|  3| 
+|Julio Rodríguez   |OF        |     17|  8|   6|  1|  1| 
+|Kyle Schwarber    |OF        |     19|  6|  11|  3|  1| 
 |Tyler O'Neill     |OF        |      2|  1|   2|  0|  0| 
 |Gleyber Torres    |DH        |     17|  8|  10|  2|  3| 
-|Kerry Carpenter   |DH        |     12|  6|   4|  2|  0| 
-|Nathaniel Lowe    |DH        |     14|  3|   7|  3|  0| 
+|Kerry Carpenter   |DH        |     12|  7|   4|  2|  0| 
+|Nathaniel Lowe    |DH        |     16|  3|   8|  3|  0| 
 |Xander Bogaerts   |DH        |     11|  5|   3|  1|  0| 
 |Alec Burleson     |BAT BENCH |     10|  2|   1|  0|  0| 
-|Ceddanne Rafaela  |BAT BENCH |     11|  7|   7|  2|  2| 
-|Christopher Morel |BAT BENCH |      8|  4|   5|  2|  0| 
+|Ceddanne Rafaela  |BAT BENCH |     12|  9|   7|  2|  3| 
+|Christopher Morel |BAT BENCH |      9|  4|   5|  2|  0| 
 |Taylor Ward       |BAT BENCH |      7|  3|   2|  1|  0| 
 
 
