@@ -5,21 +5,21 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Willson Contreras   |C         |     25|  6|   5|  2|  1| 
-|Michael Busch       |1B        |     15|  3|   4|  1|  1| 
+|Willson Contreras   |C         |     26|  6|   5|  2|  1| 
+|Michael Busch       |1B        |     17|  3|   6|  1|  1| 
 |Jose Altuve         |2B        |     14|  4|   7|  1|  0| 
-|Rafael Devers       |3B        |     22| 13|  10|  4|  0| 
-|Bo Bichette         |SS        |     14|  3|   2|  0|  3| 
+|Rafael Devers       |3B        |     24| 13|  10|  4|  0| 
+|Bo Bichette         |SS        |     15|  4|   2|  0|  3| 
 |Masyn Winn          |MI        |     13|  7|   4|  2|  2| 
-|Josh Naylor         |CI        |     18|  4|   7|  1|  0| 
+|Josh Naylor         |CI        |     20|  4|   7|  1|  0| 
 |Aaron Judge         |OF        |     31|  9|  11|  3|  1| 
 |Jackson Chourio     |OF        |     16|  6|   7|  1|  0| 
-|Jarren Duran        |OF        |     23|  9|   7|  1|  4| 
-|JJ Bleday           |OF        |     15|  7|   3|  1|  0| 
-|Jake Burger         |DH        |     11|  7|   4|  1|  0| 
+|Jarren Duran        |OF        |     24|  9|   7|  1|  5| 
+|JJ Bleday           |OF        |     16|  7|   3|  1|  0| 
+|Jake Burger         |DH        |     12|  7|   4|  1|  0| 
 |Jake McCarthy       |DH        |      1|  1|   0|  0|  0| 
-|Kyren Paris         |DH        |      1|  0|   0|  0|  0| 
-|Lourdes Gurriel Jr. |DH        |     10|  3|   5|  1|  1| 
+|Kyren Paris         |DH        |      2|  0|   0|  0|  0| 
+|Lourdes Gurriel Jr. |DH        |     11|  3|   5|  1|  1| 
 |Colton Cowser       |BAT BENCH |     **| **|  **| **| **| 
 |Jake Cronenworth    |BAT BENCH |     **| **|  **| **| **| 
 
@@ -37,7 +37,7 @@
 |Michael King      |SP          |  3| 16.333|  3| 1.653|     15| 0.918| 22|  1|  0| 
 |Mitchell Parker   |SP          |  2| 13.000|  6| 4.154|     15| 1.154|  4|  1|  0| 
 |Zack Littell      |SP          |  2| 11.000|  5| 4.091|     13| 1.182|  3|  1|  0| 
-|Jhoan Duran       |RP          |  4|  4.000|  1| 2.250|      3| 0.750|  4|  0|  1| 
+|Jhoan Duran       |RP          |  5|  5.000|  1| 1.800|      6| 1.200|  7|  0|  1| 
 |Pete Fairbanks    |RP          |  6|  5.333|  2| 3.375|      7| 1.312|  3|  1|  3| 
 |Clarke Schmidt    |OP          |  2|  9.000|  6| 6.000|     15| 1.667| 13|  0|  0| 
 |Dennis Santana    |OP          |  5|  4.000|  0| 0.000|      2| 0.500|  3|  0|  2| 

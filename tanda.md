@@ -6,23 +6,23 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Sean Murphy       |C         |     14|  6|   6|  3|  0| 
-|Pete Alonso       |1B        |     28| 10|   7|  2|  0| 
+|Pete Alonso       |1B        |     30| 10|   7|  2|  0| 
 |Luis Rengifo      |2B        |      9|  0|   2|  0|  0| 
-|José Ramírez      |3B        |     16|  7|   6|  1|  5| 
+|José Ramírez      |3B        |     17|  8|   7|  1|  6| 
 |Francisco Lindor  |SS        |     27| 12|  10|  5|  0| 
 |Xavier Edwards    |MI        |     13|  4|   3|  0|  0| 
-|Spencer Torkelson |CI        |     18|  6|  11|  2|  0| 
+|Spencer Torkelson |CI        |     19|  7|  13|  3|  0| 
 |Adolis García     |OF        |     12|  5|  10|  2|  0| 
-|Jorge Soler       |OF        |     10|  4|   3|  1|  0| 
-|Luis Robert Jr.   |OF        |     19|  9|   5|  3|  6| 
+|Jorge Soler       |OF        |     11|  5|   5|  2|  0| 
+|Luis Robert Jr.   |OF        |     21|  9|   9|  3|  7| 
 |Randy Arozarena   |OF        |     19|  9|   7|  2|  2| 
-|CJ Abrams         |DH        |     11|  3|   4|  0|  1| 
-|Eugenio Suárez    |DH        |     16| 10|   9|  5|  0| 
+|CJ Abrams         |DH        |     13|  4|   4|  0|  1| 
+|Eugenio Suárez    |DH        |     16| 11|  10|  5|  0| 
 |George Springer   |DH        |     17|  5|   2|  0|  2| 
-|TJ Friedl         |DH        |     21|  4|   6|  0|  3| 
+|TJ Friedl         |DH        |     23|  6|   6|  0|  4| 
 |Jesús Sánchez     |BAT BENCH |     14|  3|   4|  1|  1| 
 |Ketel Marte       |BAT BENCH |     **| **|  **| **| **| 
-|Nick Kurtz        |BAT BENCH |      6|  0|   3|  0|  0| 
+|Nick Kurtz        |BAT BENCH |      7|  0|   3|  0|  0| 
 |Royce Lewis       |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -38,7 +38,7 @@
 |Hunter Greene      |SP          |  2|  9.000|  8|  8.000|     15| 1.667| 12|  1|  0| 
 |MacKenzie Gore     |SP          |  3| 18.000|  7|  3.500|     16| 0.889| 27|  1|  0| 
 |Mitch Keller       |SP          |  2| 11.000|  4|  3.273|     13| 1.182|  9|  0|  0| 
-|Yusei Kikuchi      |SP          |  2|  7.333|  4|  4.909|     22| 3.000|  6|  0|  0| 
+|Yusei Kikuchi      |SP          |  3| 12.333|  6|  4.378|     28| 2.270| 11|  0|  0| 
 |Andrés Muñoz       |RP          |  6|  6.000|  0|  0.000|      2| 0.333|  7|  1|  4| 
 |Ryan Walker        |RP          |  5|  3.667|  6| 14.727|     10| 2.727|  6|  1|  1| 
 |Andrew Heaney      |OP          |  3| 18.000|  4|  2.000|     16| 0.889| 13|  2|  0| 

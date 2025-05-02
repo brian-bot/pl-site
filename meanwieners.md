@@ -5,19 +5,19 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Logan O'Hoppe     |C         |     11|  4|   5|  3|  0| 
+|Logan O'Hoppe     |C         |     13|  5|   6|  4|  0| 
 |Matt Olson        |1B        |     23| 12|   6|  2|  0| 
 |Andrés Giménez    |2B        |      8|  2|   0|  0|  2| 
 |Mark Vientos      |3B        |     17|  9|  11|  4|  0| 
-|Elly De La Cruz   |SS        |     25| 10|   6|  2|  9| 
-|Dansby Swanson    |MI        |     14|  8|   4|  1|  2| 
+|Elly De La Cruz   |SS        |     27| 11|   6|  2|  9| 
+|Dansby Swanson    |MI        |     16| 10|   5|  2|  2| 
 |Christian Walker  |CI        |     13|  6|   7|  3|  0| 
-|Anthony Santander |OF        |      8|  3|   6|  2|  0| 
+|Anthony Santander |OF        |      9|  3|   6|  2|  0| 
 |Jasson Domínguez  |OF        |     11|  6|   4|  1|  1| 
 |Michael Harris II |OF        |     16|  6|  13|  1|  4| 
 |Wilyer Abreu      |OF        |     16|  5|   9|  3|  2| 
 |Ben Rice          |DH        |     16| 10|   6|  3|  0| 
-|Mike Yastrzemski  |DH        |     13|  4|   3|  2|  0| 
+|Mike Yastrzemski  |DH        |     15|  4|   4|  2|  0| 
 |Ryan Mountcastle  |DH        |      6|  1|   3|  1|  0| 
 |Tommy Edman       |DH        |     11|  6|  10|  2|  1| 
 |Austin Hays       |BAT BENCH |     22| 14|   9|  4|  1| 
@@ -40,12 +40,12 @@
 |Nick Pivetta    |SP          |  2| 12.333|  3|  2.189|     10| 0.811| 15|  2|  0| 
 |Tyler Glasnow   |SP          |  2|  5.000|  2|  3.600|      7| 1.400|  6|  0|  0| 
 |Félix Bautista  |RP          |  5|  5.000|  0|  0.000|      3| 0.600|  7|  0|  4| 
-|Ryan Pressly    |RP          |  3|  3.000|  0|  0.000|      2| 0.667|  1|  1|  0| 
+|Ryan Pressly    |RP          |  4|  4.000|  0|  0.000|      2| 0.500|  1|  1|  0| 
 |Ben Brown       |OP          |  2|  7.667|  7|  8.217|     17| 2.217| 11|  0|  0| 
 |Blake Treinen   |OP          | **|     **| **|     **|     **|    **| **| **| **| 
 |Grant Holmes    |OP          |  2| 11.333|  7|  5.559|     16| 1.412| 11|  1|  0| 
 |Nick Lodolo     |OP          |  2| 12.667|  3|  2.132|     12| 0.947| 13|  1|  0| 
-|Porter Hodge    |OP          |  6|  5.000|  6| 10.800|      8| 1.600|  4|  1|  1| 
+|Porter Hodge    |OP          |  7|  6.000|  6|  9.000|     10| 1.667|  4|  1|  1| 
 |Griffin Canning |PITCH BENCH |  3| 16.000|  2|  1.125|     20| 1.250| 18|  3|  0| 
 |Kumar Rocker    |PITCH BENCH |  2|  8.667|  8|  8.308|     13| 1.500| 10|  1|  0| 
 |Lucas Erceg     |PITCH BENCH |  6|  5.667|  1|  1.588|      4| 0.706|  3|  0|  1| 

@@ -6,21 +6,21 @@
 |players                      |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------------------|:---------|------:|--:|---:|--:|--:| 
 |Cal Raleigh                  |C         |     22|  8|   8|  3|  2| 
-|Tyler Soderstrom             |1B        |     15|  4|   7|  1|  1| 
+|Tyler Soderstrom             |1B        |     17|  5|   7|  1|  1| 
 |Bryson Stott                 |2B        |     22| 10|   9|  1|  5| 
-|Junior Caminero              |3B        |     14|  5|   4|  2|  1| 
+|Junior Caminero              |3B        |     15|  5|   4|  2|  1| 
 |Jeremy Peña                  |SS        |     22|  7|   5|  1|  1| 
-|Geraldo Perdomo              |MI        |     18|  6|   8|  1|  5| 
+|Geraldo Perdomo              |MI        |     21|  7|   9|  2|  5| 
 |Josh Jung                    |CI        |     16|  2|   2|  1|  1| 
-|Dylan Crews                  |OF        |     16| 10|   6|  4|  2| 
+|Dylan Crews                  |OF        |     17| 10|   6|  4|  3| 
 |Lane Thomas                  |OF        |      2|  2|   0|  0|  0| 
-|Seiya Suzuki                 |OF        |     12|  6|  10|  3|  0| 
+|Seiya Suzuki                 |OF        |     15|  8|  13|  5|  0| 
 |Yordan Alvarez               |OF        |     13|  3|   8|  1|  0| 
 |Cam Smith                    |DH        |     12|  5|   4|  2|  0| 
-|Kyle Manzardo                |DH        |     13|  5|   8|  4|  0| 
+|Kyle Manzardo                |DH        |     16|  5|   9|  4|  0| 
 |Nolan Schanuel               |DH        |     12|  5|   2|  0|  0| 
-|Wyatt Langford               |DH        |     17|  4|   6|  2|  2| 
-|Chandler Simpson             |BAT BENCH |     15|  5|   3|  0|  3| 
+|Wyatt Langford               |DH        |     18|  4|   6|  2|  2| 
+|Chandler Simpson             |BAT BENCH |     17|  6|   3|  0|  3| 
 |Christian Encarnacion-Strand |BAT BENCH |     **| **|  **| **| **| 
 |Jackson Merrill              |BAT BENCH |     **| **|  **| **| **| 
 |Matt Shaw                    |BAT BENCH |     **| **|  **| **| **| 
@@ -40,7 +40,7 @@
 |Tanner Bibee       |SP          |  3| 18.667|  9|  4.339|     22| 1.179| 15|  1|  0| 
 |Tarik Skubal       |SP          |  2| 11.000|  2|  1.636|     12| 1.091| 15|  1|  0| 
 |Emmanuel Clase     |RP          |  6|  5.333|  4|  6.750|     10| 1.875|  6|  2|  3| 
-|Kyle Finnegan      |RP          |  5|  4.000|  3|  6.750|      8| 2.000|  5|  0|  3| 
+|Kyle Finnegan      |RP          |  6|  5.000|  3|  5.400|      9| 1.800|  5|  0|  4| 
 |Cristopher Sánchez |OP          |  3| 14.000|  6|  3.857|     19| 1.357| 20|  2|  0| 
 |Emilio Pagán       |OP          |  6|  6.000|  3|  4.500|      4| 0.667|  7|  0|  4| 
 |Jackson Jobe       |OP          |  2|  9.000|  4|  4.000|     15| 1.667|  9|  1|  0| 
