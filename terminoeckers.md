@@ -5,23 +5,23 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman     |C         |     19|  6|   3|  1|  0| 
-|Jonathan Aranda     |1B        |     17|  4|   3|  1|  0| 
+|Adley Rutschman     |C         |     20|  6|   4|  1|  0| 
+|Jonathan Aranda     |1B        |     22|  5|   6|  2|  0| 
 |Jordan Westburg     |2B        |      9|  4|   2|  1|  0| 
-|Manny Machado       |3B        |     14|  4|   5|  1|  0| 
-|Trea Turner         |SS        |     31| 12|   7|  0|  2| 
-|Brandon Lowe        |MI        |     12|  4|   4|  1|  1| 
+|Manny Machado       |3B        |     18|  5|   5|  1|  1| 
+|Trea Turner         |SS        |     32| 12|   7|  0|  2| 
+|Brandon Lowe        |MI        |     15|  4|   6|  1|  1| 
 |Matt Mervis         |CI        |     10|  4|   2|  1|  0| 
-|Ian Happ            |OF        |     29| 13|   8|  1|  0| 
-|Juan Soto           |OF        |     26| 10|   7|  2|  1| 
-|Kyle Tucker         |OF        |     21| 11|  11|  4|  4| 
-|Lawrence Butler     |OF        |     14|  8|   7|  4|  1| 
-|Lars Nootbaar       |DH        |     22| 10|   8|  2|  2| 
-|Pete Crow-Armstrong |DH        |     16| 11|  16|  6|  5| 
-|Rhys Hoskins        |DH        |     22|  4|   6|  2|  1| 
+|Ian Happ            |OF        |     30| 13|   8|  1|  0| 
+|Juan Soto           |OF        |     29| 12|   7|  2|  1| 
+|Kyle Tucker         |OF        |     24| 11|  11|  4|  5| 
+|Lawrence Butler     |OF        |     16|  8|   7|  4|  2| 
+|Lars Nootbaar       |DH        |     24| 11|   8|  2|  2| 
+|Pete Crow-Armstrong |DH        |     17| 11|  16|  6|  5| 
+|Rhys Hoskins        |DH        |     23|  5|   6|  2|  1| 
 |Trevor Story        |DH        |     18|  9|   8|  2|  1| 
 |Triston Casas       |BAT BENCH |     14|  2|   8|  2|  0| 
-|Victor Scott II     |BAT BENCH |     15|  7|   7|  1|  5| 
+|Victor Scott II     |BAT BENCH |     20|  8|   8|  1|  5| 
 
 
 * * *
@@ -32,7 +32,7 @@
 |players         |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:---------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Bailey Ober     |SP          |  3| 19.667|  3| 1.373|     25| 1.271| 14|  3|  0| 
-|Garrett Crochet |SP          |  3| 18.000|  6| 3.000|     23| 1.278| 22|  1|  0| 
+|Garrett Crochet |SP          |  4| 23.000|  7| 2.739|     29| 1.261| 28|  1|  0| 
 |Jack Flaherty   |SP          |  3| 16.667| 10| 5.400|     22| 1.320| 21|  0|  0| 
 |Max Fried       |SP          |  3| 20.667|  0| 0.000|     14| 0.677| 11|  3|  0| 
 |Max Meyer       |SP          |  3| 15.000| 10| 6.000|     26| 1.733| 20|  1|  0| 
