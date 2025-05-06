@@ -5,17 +5,17 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Willson Contreras   |C         |     33|  7|  10|  3|  1| 
-|Michael Busch       |1B        |     19|  4|  10|  2|  1| 
-|Jose Altuve         |2B        |     16|  4|   7|  1|  0| 
+|Willson Contreras   |C         |     35|  8|  12|  4|  1| 
+|Michael Busch       |1B        |     20|  4|  10|  2|  1| 
+|Jose Altuve         |2B        |     17|  5|   7|  1|  0| 
 |Rafael Devers       |3B        |     31| 13|  14|  4|  0| 
 |Bo Bichette         |SS        |     19|  5|   3|  1|  4| 
 |Masyn Winn          |MI        |     17|  9|   5|  2|  2| 
-|Josh Naylor         |CI        |     23|  5|   8|  1|  2| 
-|Aaron Judge         |OF        |     36| 12|  12|  4|  1| 
-|Jackson Chourio     |OF        |     18|  8|   7|  1|  0| 
+|Josh Naylor         |CI        |     25|  5|   9|  1|  2| 
+|Aaron Judge         |OF        |     37| 12|  12|  4|  1| 
+|Jackson Chourio     |OF        |     19|  8|   7|  1|  0| 
 |Jarren Duran        |OF        |     27| 11|   9|  1|  5| 
-|JJ Bleday           |OF        |     22| 12|   5|  3|  0| 
+|JJ Bleday           |OF        |     25| 14|   5|  3|  0| 
 |Jake Burger         |DH        |     12|  7|   4|  1|  0| 
 |Jake McCarthy       |DH        |      1|  1|   0|  0|  0| 
 |Kyren Paris         |DH        |      5|  1|   2|  0|  0| 
@@ -32,7 +32,7 @@
 |players           |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Bowden Francis    |SP          |  4| 18.000| 15|  7.500|     30| 1.667| 10|  1|  0| 
-|Bryce Miller      |SP          |  2|  9.667|  4|  3.724|     16| 1.655| 10|  1|  0| 
+|Bryce Miller      |SP          |  3| 13.667|  8|  5.268|     23| 1.683| 11|  1|  0| 
 |Luis Castillo     |SP          |  3| 17.000|  4|  2.118|     21| 1.235| 12|  2|  0| 
 |Michael King      |SP          |  3| 16.333|  3|  1.653|     15| 0.918| 22|  1|  0| 
 |Mitchell Parker   |SP          |  3| 17.000| 11|  5.824|     23| 1.353|  5|  1|  0| 

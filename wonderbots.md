@@ -5,19 +5,19 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Shea Langeliers  |C         |     12|  4|   5|  2|  1| 
+|Shea Langeliers  |C         |     15|  5|   7|  3|  1| 
 |Ty France        |1B        |     22|  7|   9|  1|  0| 
 |Marcus Semien    |2B        |     23|  6|   8|  1|  1| 
-|Austin Riley     |3B        |     24|  4|  12|  3|  0| 
+|Austin Riley     |3B        |     25|  5|  13|  3|  0| 
 |Zach Neto        |SS        |     19|  8|   8|  4|  5| 
-|Anthony Volpe    |MI        |     21|  5|   4|  1|  2| 
-|Luis Arraez      |CI        |     13|  4|   7|  1|  0| 
-|Bryan Reynolds   |OF        |     24|  6|   9|  2|  2| 
-|Corbin Carroll   |OF        |     21| 10|  10|  3|  4| 
-|Michael Conforto |OF        |      9|  5|   1|  0|  1| 
+|Anthony Volpe    |MI        |     21|  5|   5|  1|  2| 
+|Luis Arraez      |CI        |     14|  5|   7|  1|  0| 
+|Bryan Reynolds   |OF        |     25|  7|  11|  3|  2| 
+|Corbin Carroll   |OF        |     24| 12|  11|  4|  4| 
+|Michael Conforto |OF        |     10|  5|   1|  0|  1| 
 |Mike Trout       |OF        |     10|  5|   4|  3|  0| 
-|Connor Norby     |DH        |     15| 11|   3|  1|  2| 
-|Mookie Betts     |DH        |     20| 13|  11|  1|  0| 
+|Connor Norby     |DH        |     16| 11|   4|  1|  2| 
+|Mookie Betts     |DH        |     22| 15|  11|  1|  0| 
 |Ryan McMahon     |DH        |     17|  7|   3|  1|  1| 
 |Tyler Fitzgerald |DH        |     11|  5|   2|  1|  1| 
 |Alec Bohm        |BAT BENCH |     23|  8|   6|  0|  0| 
@@ -39,7 +39,7 @@
 |Tyler Anderson        |SP          |  3| 18.000|  5|  2.500|     17| 0.944| 12|  1|  0| 
 |Alexis Díaz           |RP          |  5|  5.333|  8| 13.500|     11| 2.062|  2|  0|  0| 
 |Aroldis Chapman       |RP          |  4|  4.000|  1|  2.250|      2| 0.500|  5|  0|  0| 
-|Landen Roupp          |OP          |  3| 15.000|  9|  5.400|     25| 1.667| 15|  1|  0| 
+|Landen Roupp          |OP          |  4| 20.000| 11|  4.950|     30| 1.500| 19|  1|  0| 
 |Luis L. Ortiz         |OP          |  3| 15.667|  6|  3.447|     22| 1.404| 21|  1|  0| 
 |Tanner Houck          |OP          |  3| 18.000|  7|  3.500|     18| 1.000| 19|  0|  0| 
 |Tylor Megill          |OP          |  3| 16.667|  7|  3.780|     16| 0.960| 25|  1|  0| 
