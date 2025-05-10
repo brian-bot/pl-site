@@ -5,25 +5,25 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras     |C         |     27|  8|   8|  0|  3| 
-|Cody Bellinger        |1B        |     23|  8|  10|  3|  2| 
-|Brice Turang          |2B        |     28| 12|   6|  0|  4| 
-|Vladimir Guerrero Jr. |3B        |     24|  9|   8|  3|  0| 
-|Corey Seager          |SS        |     11|  6|   3|  1|  0| 
-|Luis García Jr.       |MI        |     23| 11|   7|  2|  4| 
-|Vinnie Pasquantino    |CI        |     18|  9|  11|  4|  0| 
-|James Wood            |OF        |     34| 10|  10|  4|  2| 
-|Michael Toglia        |OF        |     18|  3|   8|  2|  1| 
-|Pavin Smith           |OF        |     23|  8|   4|  2|  1| 
-|Teoscar Hernández     |OF        |     24| 12|  18|  4|  2| 
-|Cedric Mullins        |DH        |     20|  6|   4|  3|  2| 
-|Heliot Ramos          |DH        |     28| 13|   5|  2|  1| 
-|Jacob Wilson          |DH        |     31|  8|  12|  1|  1| 
-|Paul Goldschmidt      |DH        |     30| 13|  11|  2|  2| 
-|Gabriel Moreno        |BAT BENCH |     14|  7|   3|  0|  0| 
-|Hunter Goodman        |BAT BENCH |     26| 10|  10|  2|  0| 
+|William Contreras     |C         |      2|  1|   1|  0|  0| 
+|Cody Bellinger        |1B        |      2|  1|   1|  1|  0| 
+|Brice Turang          |2B        |      1|  1|   0|  0|  0| 
+|Vladimir Guerrero Jr. |3B        |      7|  3|   0|  0|  0| 
+|Corey Seager          |SS        |      1|  1|   1|  0|  0| 
+|Luis García Jr.       |MI        |      3|  1|   1|  0|  0| 
+|Vinnie Pasquantino    |CI        |      5|  1|   2|  0|  0| 
+|Cedric Mullins        |OF        |      0|  0|   0|  0|  0| 
+|Heliot Ramos          |OF        |      2|  0|   0|  0|  0| 
+|James Wood            |OF        |      4|  0|   0|  0|  0| 
+|Pavin Smith           |OF        |      2|  1|   0|  0|  0| 
+|Carson Kelly          |DH        |      1|  0|   0|  0|  0| 
+|Hunter Goodman        |DH        |      2|  0|   1|  0|  0| 
+|Jacob Wilson          |DH        |      4|  1|   1|  0|  0| 
+|Paul Goldschmidt      |DH        |      0|  0|   0|  0|  0| 
+|Gavin Sheets          |BAT BENCH |      0|  0|   0|  0|  0| 
+|Michael Toglia        |BAT BENCH |      6|  1|   2|  1|  0| 
 |Ronald Acuña Jr.      |BAT BENCH |     **| **|  **| **| **| 
-|Victor Robles         |BAT BENCH |     **| **|  **| **| **| 
+|Teoscar Hernández     |BAT BENCH |     **| **|  **| **| **| 
 
 
 * * *
@@ -31,24 +31,24 @@
 ### Pitchers
 
  
-|players       |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
-|:-------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Brady Singer  |SP          |  4| 22.333| 10| 4.030|     27| 1.209| 20|  1|  0| 
-|Bryan Woo     |SP          |  3| 19.333|  5| 2.328|     14| 0.724| 20|  2|  0| 
-|Jose Quintana |SP          |  3| 16.000|  8| 4.500|     24| 1.500| 15|  2|  0| 
-|Paul Skenes   |SP          |  4| 24.333|  7| 2.589|     28| 1.151| 21|  1|  0| 
-|Robbie Ray    |SP          |  3| 19.000|  4| 1.895|     18| 0.947| 20|  1|  0| 
-|Zack Wheeler  |SP          |  4| 26.667|  8| 2.700|     22| 0.825| 38|  2|  0| 
-|A.J. Puk      |RP          |  1|  1.000|  0| 0.000|      1| 1.000|  1|  0|  1| 
-|Robert Suarez |RP          |  7|  7.000|  1| 1.286|      4| 0.571|  8|  0|  6| 
-|Jason Adam    |OP          |  8|  8.667|  1| 1.038|      8| 0.923| 10|  1|  0| 
-|Matthew Boyd  |OP          |  3| 17.000|  7| 3.706|     25| 1.471| 17|  2|  0| 
-|Randy Vásquez |OP          |  3| 11.667| 10| 7.714|     26| 2.229|  5|  0|  0| 
-|Shane Smith   |OP          |  4| 19.667|  6| 2.746|     27| 1.373| 19|  1|  0| 
-|Tommy Kahnle  |OP          |  7|  7.667|  0| 0.000|      4| 0.522|  7|  0|  3| 
-|Jack Leiter   |PITCH BENCH |  2|  7.667|  8| 9.391|     16| 2.087|  5|  0|  0| 
-|Richard Fitts |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
-|Ryan Weathers |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
+|players       |position    |  g|    ip| er|    era| hitsbb|  whip| so|  w| sv| 
+|:-------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
+|Brady Singer  |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Bryan Woo     |SP          |  1| 6.000|  5|  7.500|      9| 1.500|  6|  0|  0| 
+|Jose Quintana |SP          |  1| 5.333|  1|  1.688|      7| 1.312|  3|  0|  0| 
+|Paul Skenes   |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Robbie Ray    |SP          |  1| 6.000|  1|  1.500|      5| 0.833|  5|  1|  0| 
+|Zack Wheeler  |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Robert Suarez |RP          |  1| 1.000|  0|  0.000|      1| 1.000|  0|  0|  0| 
+|Zach Agnos    |RP          |  1| 2.000|  0|  0.000|      1| 0.500|  2|  0|  0| 
+|Jack Leiter   |OP          |  1| 5.333|  4|  6.750|      7| 1.312|  3|  0|  0| 
+|Jason Adam    |OP          |  1| 1.333|  2| 13.500|      2| 1.500|  1|  0|  0| 
+|Matthew Boyd  |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Shane Smith   |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Tommy Kahnle  |OP          |  2| 2.000|  0|  0.000|      4| 2.000|  1|  0|  0| 
+|A.J. Puk      |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Randy Vásquez |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Ryan Weathers |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 
 
 * * *
