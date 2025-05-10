@@ -13,15 +13,15 @@
 |Willy Adames    |MI        |      3|  0|   0|  0|  0| 
 |Maikel Garcia   |CI        |      5|  0|   2|  0|  1| 
 |Byron Buxton    |OF        |      7|  4|   3|  1|  1| 
-|Julio Rodríguez |OF        |      2|  0|   0|  0|  0| 
+|Julio Rodríguez |OF        |      4|  1|   0|  0|  0| 
 |Kerry Carpenter |OF        |      2|  2|   1|  0|  0| 
 |Kyle Schwarber  |OF        |      4|  0|   0|  0|  0| 
 |Alec Burleson   |DH        |      0|  0|   0|  0|  0| 
 |Gleyber Torres  |DH        |      6|  2|   5|  0|  0| 
 |Jordan Lawlar   |DH        |     **| **|  **| **| **| 
 |Nolan Arenado   |DH        |      3|  1|   0|  0|  0| 
-|Jordan Beck     |BAT BENCH |      4|  2|   1|  0|  0| 
-|Tyler O'Neill   |BAT BENCH |     **| **|  **| **| **| 
+|Jordan Beck     |BAT BENCH |      5|  3|   2|  1|  0| 
+|Tyler O'Neill   |BAT BENCH |      2|  1|   0|  0|  0| 
 
 * * *
 

@@ -5,23 +5,23 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Shea Langeliers  |C         |      0|  0|   0|  0|  0| 
+|Shea Langeliers  |C         |      1|  1|   0|  0|  0| 
 |Alec Bohm        |1B        |      4|  2|   0|  0|  0| 
 |Marcus Semien    |2B        |      0|  0|   0|  0|  0| 
 |Austin Riley     |3B        |      4|  2|   0|  0|  1| 
 |Zach Neto        |SS        |      5|  3|   0|  0|  0| 
-|Anthony Volpe    |MI        |      0|  0|   0|  0|  0| 
-|Luis Arraez      |CI        |      1|  0|   0|  0|  0| 
+|Anthony Volpe    |MI        |      2|  0|   0|  0|  1| 
+|Luis Arraez      |CI        |      4|  2|   0|  0|  0| 
 |Bryan Reynolds   |OF        |      1|  1|   0|  0|  0| 
 |Corbin Carroll   |OF        |      4|  1|   1|  1|  0| 
-|Michael Conforto |OF        |      1|  0|   0|  0|  0| 
+|Michael Conforto |OF        |      2|  1|   0|  0|  0| 
 |Nolan Jones      |OF        |      1|  0|   0|  0|  0| 
 |Agustín Ramírez  |DH        |      3|  0|   0|  0|  0| 
 |Anthony Ramirez  |DH        |     **| **|  **| **| **| 
 |Connor Norby     |DH        |      1|  0|   0|  0|  0| 
-|Mookie Betts     |DH        |      4|  2|   1|  0|  0| 
-|Ryan McMahon     |DH        |      7|  2|   2|  1|  0| 
-|Ben Rice         |BAT BENCH |      0|  0|   0|  0|  0| 
+|Mookie Betts     |DH        |      6|  2|   2|  0|  1| 
+|Ryan McMahon     |DH        |     10|  5|   3|  2|  0| 
+|Ben Rice         |BAT BENCH |      3|  1|   1|  0|  0| 
 |Ezequiel Tovar   |BAT BENCH |     **| **|  **| **| **| 
 |Mike Trout       |BAT BENCH |     **| **|  **| **| **| 
 |Tim Tawa         |BAT BENCH |      1|  0|   0|  0|  0| 
