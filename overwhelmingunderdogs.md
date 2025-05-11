@@ -7,20 +7,20 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith        |C         |      6|  2|   0|  0|  0| 
 |Freddie Freeman   |1B        |      7|  3|   5|  0|  0| 
-|Jonathan India    |2B        |      4|  3|   2|  0|  0| 
+|Jonathan India    |2B        |      5|  3|   2|  0|  0| 
 |Matt Chapman      |3B        |      2|  2|   1|  1|  0| 
-|Matt McLain       |SS        |      3|  1|   0|  0|  1| 
-|Carlos Correa     |MI        |      3|  0|   1|  0|  0| 
-|Isaac Paredes     |CI        |      4|  1|   2|  0|  0| 
-|Marcell Ozuna     |OF        |      4|  1|   0|  0|  0| 
-|Max Kepler        |OF        |      3|  0|   1|  0|  0| 
-|Oneil Cruz        |OF        |      2|  0|   0|  0|  0| 
-|Riley Greene      |OF        |      3|  2|   0|  0|  1| 
-|Kameron Misner    |DH        |      0|  0|   0|  0|  0| 
+|Matt McLain       |SS        |      6|  4|   3|  1|  2| 
+|Carlos Correa     |MI        |      4|  0|   1|  0|  0| 
+|Isaac Paredes     |CI        |      7|  2|   3|  0|  0| 
+|Marcell Ozuna     |OF        |      6|  1|   0|  0|  0| 
+|Max Kepler        |OF        |      4|  1|   3|  0|  0| 
+|Oneil Cruz        |OF        |      3|  1|   0|  0|  1| 
+|Riley Greene      |OF        |      4|  3|   1|  1|  1| 
+|Kameron Misner    |DH        |      2|  2|   0|  0|  1| 
 |Kristian Campbell |DH        |      2|  0|   0|  0|  0| 
-|Nick Castellanos  |DH        |      4|  0|   0|  0|  0| 
-|Shohei Ohtani     |DH        |      8|  5|   5|  2|  0| 
-|Joc Pederson      |BAT BENCH |      6|  0|   0|  0|  0| 
+|Nick Castellanos  |DH        |      5|  1|   0|  0|  0| 
+|Shohei Ohtani     |DH        |     10|  5|   5|  2|  0| 
+|Joc Pederson      |BAT BENCH |      8|  1|   2|  1|  0| 
 |Jurickson Profar  |BAT BENCH |     **| **|  **| **| **| 
 |Matt Wallner      |BAT BENCH |     **| **|  **| **| **| 
 |Roman Anthony     |BAT BENCH |     **| **|  **| **| **| 
@@ -39,12 +39,12 @@
 |Simeon Woods Richardson |SP          |  1| 4.667|  2|  3.857|      6| 1.286|  1|  0|  0| 
 |Sonny Gray              |SP          |  1| 7.000|  0|  0.000|      3| 0.429|  8|  1|  0| 
 |Yoshinobu Yamamoto      |SP          |  1| 5.000|  5|  9.000|      7| 1.400|  4|  0|  0| 
-|Ryan Helsley            |RP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Trevor Megill           |RP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Ryan Helsley            |RP          |  1| 1.000|  0|  0.000|      3| 3.000|  1|  0|  1| 
+|Trevor Megill           |RP          |  1| 0.000|  0|     **|      1|   Inf|  0|  0|  0| 
 |Cade Smith              |OP          |  1| 0.333|  0|  0.000|      3| 9.000|  0|  0|  0| 
 |Drew Rasmussen          |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Erick Fedde             |OP          |  1| 9.000|  0|  0.000|      6| 0.667|  8|  1|  0| 
-|Jeff Hoffman            |OP          |  2| 1.333|  3| 20.250|      4| 3.000|  4|  0|  1| 
+|Jeff Hoffman            |OP          |  3| 2.333|  3| 11.571|      4| 1.714|  7|  0|  2| 
 |Justin Verlander        |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |GIlberto Lopez          |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Shane Bieber            |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
