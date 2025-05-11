@@ -17,7 +17,6 @@
 |Michael Conforto |OF        |      3|  1|   0|  0|  0| 
 |Nolan Jones      |OF        |      1|  0|   0|  0|  0| 
 |Agustín Ramírez  |DH        |      3|  0|   0|  0|  0| 
-|Anthony Ramirez  |DH        |     **| **|  **| **| **| 
 |Connor Norby     |DH        |      3|  0|   0|  0|  2| 
 |Mookie Betts     |DH        |      6|  2|   2|  0|  1| 
 |Ryan McMahon     |DH        |     11|  5|   3|  2|  0| 
