@@ -2,21 +2,21 @@
 
 ## Period 3 scores
 
-Through games on 2025-05-10 ([website build status](https://github.com/brian-bot/pl-site/actions))
+Through games on 2025-05-11 ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 
 |team                   | points|  r| hitsbb| hr| rbi| sb|  w| sv| so|   era|  whip|
 |:----------------------|------:|--:|------:|--:|---:|--:|--:|--:|--:|-----:|-----:|
-|[Nuclear Arms](./nucleararms)|   22.5| 23|     56|  4|  18|  4|  1|  1| 29| 5.090| 1.352|
-|[Washington Generals](./washingtongenerals)|   50.5| 26|     70|  8|  35|  3|  1|  4| 27| 4.854| 1.348|
-|[Terminoeckers](./terminoeckers)|   78.5| 31|     72|  7|  28|  6|  4|  2| 66| 2.700| 1.076|
-|[Boys of Summer](./boysofsummer)|   67.5| 26|     82|  6|  34|  7|  2|  2| 46| 2.930| 1.302|
-|[Vass Deferens](./vassdeferens)|   31.5| 24|     71|  5|  16|  1|  1|  1| 30| 4.846| 1.333|
-|[Mean Wieners](./meanwieners)|   48.5| 16|     47|  6|  25|  0|  4|  2| 48| 4.339| 1.125|
-|[Bone Pilers](./bonepilers)|   79.5| 30|     72|  7|  27|  6|  5|  2| 51| 2.279| 1.071|
-|[T and A](./tanda)     |   63.5| 34|     84| 10|  31|  7|  2|  1| 44| 4.869| 1.623|
-|[Overwhelming Underdogs](./overwhelmingunderdogs)|   61.5| 30|     73|  5|  24|  5|  3|  3| 43| 2.872| 1.149|
-|[Wonderbots](./wonderbots)|   46.5| 26|     68|  4|  15|  5|  1|  1| 46| 2.376| 1.008|
+|[Nuclear Arms](./nucleararms)|   25.5| 32|     73|  7|  25|  5|  2|  1| 35| 4.592| 1.286|
+|[Washington Generals](./washingtongenerals)|   57.0| 33|     86| 11|  41|  3|  5|  4| 43| 4.253| 1.212|
+|[Terminoeckers](./terminoeckers)|   73.5| 34|     86|  9|  37|  7|  4|  2| 71| 2.827| 1.052|
+|[Boys of Summer](./boysofsummer)|   60.5| 33|     93| 10|  44|  7|  2|  2| 51| 3.262| 1.369|
+|[Vass Deferens](./vassdeferens)|   38.0| 33|     89|  8|  28|  3|  2|  1| 46| 3.981| 1.212|
+|[Mean Wieners](./meanwieners)|   46.0| 24|     68|  9|  36|  2|  4|  2| 67| 4.667| 1.204|
+|[Bone Pilers](./bonepilers)|   69.5| 36|     88|  8|  29|  7|  5|  2| 52| 2.236| 1.070|
+|[T and A](./tanda)     |   62.0| 44|    105| 13|  38|  9|  2|  1| 59| 5.911| 1.651|
+|[Overwhelming Underdogs](./overwhelmingunderdogs)|   60.5| 36|     93|  6|  30|  5|  3|  4| 49| 3.000| 1.111|
+|[Wonderbots](./wonderbots)|   57.5| 38|     91|  7|  21|  5|  2|  2| 65| 2.969| 1.084|
 
 * * *
 * * *

@@ -5,19 +5,19 @@
  
 |players                      |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------------------|:---------|------:|--:|---:|--:|--:| 
-|Cal Raleigh                  |C         |      5|  3|   0|  0|  0| 
-|Tyler Soderstrom             |1B        |      4|  3|   2|  0|  0| 
-|Bryson Stott                 |2B        |      5|  3|   5|  1|  0| 
+|Cal Raleigh                  |C         |      7|  3|   0|  0|  0| 
+|Tyler Soderstrom             |1B        |      5|  3|   2|  0|  0| 
+|Bryson Stott                 |2B        |      7|  4|   5|  1|  1| 
 |Junior Caminero              |3B        |      6|  1|   2|  1|  1| 
-|Jeremy Peña                  |SS        |      6|  3|   7|  1|  1| 
-|Geraldo Perdomo              |MI        |      6|  1|   0|  0|  0| 
-|Josh Jung                    |CI        |      4|  1|   1|  1|  0| 
+|Jeremy Peña                  |SS        |      8|  4|   7|  1|  1| 
+|Geraldo Perdomo              |MI        |      7|  1|   0|  0|  0| 
+|Josh Jung                    |CI        |      6|  2|   3|  2|  0| 
 |Dylan Crews                  |OF        |      3|  2|   2|  1|  0| 
 |Jackson Merrill              |OF        |     10|  4|   6|  1|  0| 
 |Seiya Suzuki                 |OF        |      2|  1|   1|  0|  0| 
-|Wyatt Langford               |OF        |      5|  3|   0|  0|  3| 
-|Cam Smith                    |DH        |      2|  1|   0|  0|  0| 
-|Chandler Simpson             |DH        |      2|  0|   0|  0|  1| 
+|Wyatt Langford               |OF        |      7|  3|   0|  0|  3| 
+|Cam Smith                    |DH        |      4|  3|   0|  0|  0| 
+|Chandler Simpson             |DH        |      4|  1|   0|  0|  1| 
 |Kyle Manzardo                |DH        |      2|  1|   1|  1|  0| 
 |Nolan Schanuel               |DH        |     10|  3|   0|  0|  0| 
 |Christian Encarnacion-Strand |BAT BENCH |     **| **|  **| **| **| 
@@ -39,7 +39,7 @@
 |Hunter Brown       |SP          |  1| 5.667|  0|  0.000|      6| 1.059|  9|  1|  0| 
 |Tanner Bibee       |SP          |  1| 7.000|  1|  1.286|      5| 0.714|  3|  0|  0| 
 |Tarik Skubal       |SP          |  1| 7.000|  1|  1.286|      2| 0.286| 12|  1|  0| 
-|Emmanuel Clase     |RP          |  1| 1.000|  0|  0.000|      1| 1.000|  1|  0|  1| 
+|Emmanuel Clase     |RP          |  2| 2.000|  0|  0.000|      2| 1.000|  2|  0|  1| 
 |Kyle Finnegan      |RP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Cristopher Sánchez |OP          |  1| 6.000|  0|  0.000|      4| 0.667|  5|  1|  0| 
 |Emilio Pagán       |OP          |  2| 2.000|  1|  4.500|      3| 1.500|  3|  0|  1| 
