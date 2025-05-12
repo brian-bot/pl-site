@@ -46,7 +46,7 @@
 |Erick Fedde             |OP          |  1| 9.000|  0|  0.000|      6| 0.667|  8|  1|  0| 
 |Jeff Hoffman            |OP          |  3| 2.333|  3| 11.571|      4| 1.714|  7|  0|  2| 
 |Justin Verlander        |OP          | **|    **| **|     **|     **|    **| **| **| **| 
-|GIlberto Lopez          |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Logan Gilbert           |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Shane Bieber            |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Spencer Strider         |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 

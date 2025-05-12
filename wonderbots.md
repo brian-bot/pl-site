@@ -36,7 +36,7 @@
 |Logan Webb            |SP          |  1| 7.000|  2| 2.571|      6| 0.857|  9|  0|  0| 
 |Pablo López           |SP          |  1| 6.000|  4| 6.000|      7| 1.167|  6|  0|  0| 
 |Ranger Suárez         |SP          |  1| 7.000|  0| 0.000|      4| 0.571|  5|  1|  0| 
-|Spencer Schwellenbach |SP          |  1| 6.000|  1| 1.500|      7| 1.167|  6|  0|  0| 
+|Spencer Schwellenbach |SP          |  1| 6.000|  0| 0.000|      6| 1.000|  6|  0|  0| 
 |Tyler Anderson        |SP          |  1| 5.000|  1| 1.800|      6| 1.200|  5|  0|  0| 
 |Aroldis Chapman       |RP          |  3| 3.000|  1| 3.000|      3| 1.000|  3|  0|  2| 
 |Luke Weaver           |RP          |  1| 1.667|  0| 0.000|      1| 0.600|  0|  0|  0| 
