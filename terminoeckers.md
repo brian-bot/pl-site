@@ -8,17 +8,17 @@
 |Adley Rutschman     |C         |      3|  1|   1|  0|  0| 
 |Ryan O'Hearn        |1B        |      8|  1|   0|  0|  0| 
 |Jonathan Aranda     |2B        |      7|  2|   1|  0|  0| 
-|Manny Machado       |3B        |     10|  5|   4|  0|  0| 
-|Trea Turner         |SS        |      8|  4|   3|  1|  1| 
-|Trevor Story        |MI        |      4|  3|   3|  1|  1| 
-|Rhys Hoskins        |CI        |      6|  0|   2|  0|  0| 
+|Manny Machado       |3B        |     13|  6|   4|  0|  0| 
+|Trea Turner         |SS        |      9|  4|   3|  1|  1| 
+|Trevor Story        |MI        |      5|  3|   3|  1|  1| 
+|Rhys Hoskins        |CI        |      8|  0|   2|  0|  1| 
 |Ian Happ            |OF        |      2|  0|   0|  0|  1| 
-|Juan Soto           |OF        |      5|  3|   5|  3|  0| 
-|Kyle Tucker         |OF        |      3|  2|   1|  1|  1| 
+|Juan Soto           |OF        |      7|  3|   6|  3|  0| 
+|Kyle Tucker         |OF        |      4|  3|   2|  1|  1| 
 |Lawrence Butler     |OF        |      3|  1|   2|  1|  0| 
 |Andy Pages          |DH        |      8|  3|   6|  0|  2| 
-|Lars Nootbaar       |DH        |      8|  3|   4|  1|  0| 
-|Pete Crow-Armstrong |DH        |      5|  2|   2|  1|  1| 
+|Lars Nootbaar       |DH        |     10|  3|   4|  1|  0| 
+|Pete Crow-Armstrong |DH        |      6|  2|   2|  1|  1| 
 |Victor Scott II     |DH        |      6|  4|   3|  0|  0| 
 |Brandon Lowe        |BAT BENCH |      2|  2|   1|  1|  0| 
 |Jordan Westburg     |BAT BENCH |     **| **|  **| **| **| 
@@ -44,7 +44,7 @@
 |Casey Mize       |OP          |  1| 6.000|  1|  1.500|      3| 0.500|  8|  1|  0| 
 |Clay Holmes      |OP          |  1| 6.000|  1|  1.500|      6| 1.000|  5|  1|  0| 
 |Kris Bubic       |OP          |  1| 7.000|  0|  0.000|      7| 1.000|  7|  1|  0| 
-|Shelby Miller    |OP          |  1| 1.000|  0|  0.000|      1| 1.000|  1|  0|  0| 
+|Shelby Miller    |OP          |  2| 2.000|  0|  0.000|      1| 0.500|  2|  0|  1| 
 |Bubba Chandler   |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Gavin Williams   |PITCH BENCH |  1| 5.000|  0|  0.000|      8| 1.600|  8|  1|  0| 
 |Justin Martinez  |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 

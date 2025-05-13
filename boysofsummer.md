@@ -5,22 +5,22 @@
  
 |players         |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------|:---------|------:|--:|---:|--:|--:| 
-|Yainer Diaz     |C         |      7|  1|   7|  1|  0| 
-|Bryce Harper    |1B        |      6|  1|   5|  1|  0| 
-|Nico Hoerner    |2B        |      5|  2|   1|  0|  0| 
-|Alex Bregman    |3B        |      7|  3|   4|  1|  0| 
-|Bobby Witt Jr.  |SS        |      9|  4|   4|  1|  3| 
-|Willy Adames    |MI        |      4|  1|   0|  0|  0| 
+|Yainer Diaz     |C         |      9|  2|   7|  1|  0| 
+|Bryce Harper    |1B        |      7|  1|   5|  1|  0| 
+|Nico Hoerner    |2B        |      6|  3|   1|  0|  1| 
+|Alex Bregman    |3B        |      9|  3|   4|  1|  0| 
+|Bobby Witt Jr.  |SS        |     11|  5|   6|  1|  3| 
+|Willy Adames    |MI        |      5|  2|   0|  0|  0| 
 |Maikel Garcia   |CI        |      6|  0|   2|  0|  1| 
 |Byron Buxton    |OF        |      7|  4|   4|  1|  1| 
-|Julio Rodríguez |OF        |      5|  2|   0|  0|  0| 
-|Kerry Carpenter |OF        |      6|  4|   2|  1|  0| 
-|Kyle Schwarber  |OF        |      8|  3|   4|  2|  1| 
+|Julio Rodríguez |OF        |      6|  3|   1|  1|  0| 
+|Kerry Carpenter |OF        |      9|  7|   2|  1|  0| 
+|Kyle Schwarber  |OF        |      9|  4|   4|  2|  1| 
 |Alec Burleson   |DH        |      3|  0|   0|  0|  1| 
-|Gleyber Torres  |DH        |      9|  3|   6|  0|  0| 
-|Nolan Arenado   |DH        |      6|  3|   2|  1|  0| 
-|Xander Bogaerts |DH        |      5|  2|   3|  1|  0| 
-|Jordan Beck     |BAT BENCH |      9|  5|   2|  1|  0| 
+|Gleyber Torres  |DH        |     13|  5|   9|  1|  0| 
+|Nolan Arenado   |DH        |      7|  4|   2|  1|  0| 
+|Xander Bogaerts |DH        |      5|  2|   4|  1|  0| 
+|Jordan Beck     |BAT BENCH |     10|  5|   2|  1|  0| 
 |Jordan Lawlar   |BAT BENCH |     **| **|  **| **| **| 
 |Tyler O'Neill   |BAT BENCH |      4|  1|   0|  0|  0| 
 
@@ -41,8 +41,8 @@
 |Josh Hader         |RP          |  2| 2.000|  0| 0.000|      3| 1.500|  5|  0|  1| 
 |Andrew Abbott      |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Brandon Pfaadt     |OP          |  1| 6.333|  0| 0.000|      7| 1.105|  6|  1|  0| 
-|Matt Strahm        |OP          |  1| 1.000|  0| 0.000|      2| 2.000|  2|  0|  1| 
-|Matthew Liberatore |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Matt Strahm        |OP          |  2| 2.000|  1| 4.500|      3| 1.500|  3|  0|  1| 
+|Matthew Liberatore |OP          |  1| 5.333|  2| 3.375|      8| 1.500|  4|  0|  0| 
 |Ryan Pepiot        |OP          |  1| 6.000|  1| 1.500|      4| 0.667|  3|  0|  0| 
 |Eury Pérez         |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
 |Luis Gil           |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
