@@ -6,20 +6,20 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith        |C         |     15|  3|   2|  0|  0| 
-|Freddie Freeman   |1B        |     14|  6|   8|  1|  0| 
+|Freddie Freeman   |1B        |     16|  7|   9|  1|  0| 
 |Jonathan India    |2B        |     12|  4|   5|  0|  0| 
 |Matt Chapman      |3B        |      8|  4|   1|  1|  0| 
-|Matt McLain       |SS        |      9|  4|   3|  1|  2| 
+|Matt McLain       |SS        |     12|  6|   4|  2|  2| 
 |Carlos Correa     |MI        |      6|  1|   1|  0|  0| 
 |Isaac Paredes     |CI        |     16|  5|   5|  2|  0| 
-|Marcell Ozuna     |OF        |     13|  3|   4|  1|  0| 
+|Marcell Ozuna     |OF        |     13|  3|   5|  1|  0| 
 |Max Kepler        |OF        |      5|  2|   4|  0|  0| 
 |Oneil Cruz        |OF        |      3|  1|   0|  0|  1| 
 |Riley Greene      |OF        |     12|  6|   6|  2|  1| 
-|Kameron Misner    |DH        |      5|  3|   1|  0|  1| 
+|Kameron Misner    |DH        |      6|  4|   2|  1|  1| 
 |Kristian Campbell |DH        |      4|  1|   2|  1|  0| 
 |Nick Castellanos  |DH        |     10|  2|   2|  0|  1| 
-|Shohei Ohtani     |DH        |     16|  8|   7|  3|  0| 
+|Shohei Ohtani     |DH        |     18| 10|  13|  5|  0| 
 |Joc Pederson      |BAT BENCH |     12|  3|   2|  1|  0| 
 |Jurickson Profar  |BAT BENCH |     **| **|  **| **| **| 
 |Matt Wallner      |BAT BENCH |     **| **|  **| **| **| 

@@ -21,7 +21,7 @@
 |Cam Smith                    |DH        |     15|  5|   4|  2|  0| 
 |Kyle Manzardo                |DH        |     21|  7|  10|  4|  1| 
 |Nolan Schanuel               |DH        |     15|  7|   2|  0|  0| 
-|Wyatt Langford               |DH        |     24|  6|   8|  2|  2| 
+|Wyatt Langford               |DH        |     23|  6|   8|  2|  2| 
 |Chandler Simpson             |BAT BENCH |     19|  9|   5|  0|  6| 
 |Christian Encarnacion-Strand |BAT BENCH |     **| **|  **| **| **| 
 |Jackson Merrill              |BAT BENCH |      2|  1|   0|  0|  0| 

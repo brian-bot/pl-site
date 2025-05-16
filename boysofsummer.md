@@ -5,14 +5,14 @@
  
 |players         |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------|:---------|------:|--:|---:|--:|--:| 
-|Yainer Diaz     |C         |      9|  2|   7|  1|  0| 
+|Yainer Diaz     |C         |     10|  2|   7|  1|  0| 
 |Bryce Harper    |1B        |     11|  2|   6|  1|  0| 
 |Nico Hoerner    |2B        |      8|  5|   2|  0|  1| 
 |Alex Bregman    |3B        |     14|  5|   6|  3|  0| 
 |Bobby Witt Jr.  |SS        |     14|  5|   6|  1|  4| 
 |Willy Adames    |MI        |     10|  5|   2|  1|  0| 
 |Maikel Garcia   |CI        |      9|  2|   4|  1|  1| 
-|Byron Buxton    |OF        |     11|  6|   4|  1|  1| 
+|Byron Buxton    |OF        |     12|  7|   5|  2|  1| 
 |Julio Rodríguez |OF        |      8|  4|   3|  1|  0| 
 |Kerry Carpenter |OF        |     13|  8|   2|  1|  1| 
 |Kyle Schwarber  |OF        |     11|  5|   5|  3|  1| 

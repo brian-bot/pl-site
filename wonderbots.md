@@ -5,20 +5,20 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Shea Langeliers  |C         |     11|  4|   5|  1|  1| 
+|Shea Langeliers  |C         |     13|  4|   6|  1|  1| 
 |Alec Bohm        |1B        |     12|  3|   1|  1|  0| 
 |Marcus Semien    |2B        |      7|  1|   3|  1|  0| 
-|Austin Riley     |3B        |     11|  4|   1|  0|  2| 
+|Austin Riley     |3B        |     12|  5|   1|  0|  2| 
 |Zach Neto        |SS        |     11|  7|   3|  2|  0| 
 |Anthony Volpe    |MI        |     13|  5|   3|  1|  2| 
 |Luis Arraez      |CI        |     10|  6|   3|  0|  0| 
 |Bryan Reynolds   |OF        |      3|  2|   1|  0|  0| 
 |Corbin Carroll   |OF        |     13|  7|   4|  4|  1| 
-|Michael Conforto |OF        |      9|  3|   0|  0|  0| 
+|Michael Conforto |OF        |     10|  3|   0|  0|  0| 
 |Nolan Jones      |OF        |      3|  0|   1|  0|  0| 
 |Agustín Ramírez  |DH        |      9|  1|   2|  1|  0| 
 |Connor Norby     |DH        |      8|  2|   1|  1|  2| 
-|Mookie Betts     |DH        |     10|  6|   6|  1|  1| 
+|Mookie Betts     |DH        |     13|  9|   7|  1|  2| 
 |Ryan McMahon     |DH        |     18|  8|   4|  3|  0| 
 |Ezequiel Tovar   |BAT BENCH |     **| **|  **| **| **| 
 |Mike Trout       |BAT BENCH |     **| **|  **| **| **| 

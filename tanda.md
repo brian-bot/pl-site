@@ -10,19 +10,19 @@
 |Ketel Marte       |2B        |     10|  7|   7|  5|  0| 
 |José Ramírez      |3B        |     15|  8|   6|  3|  4| 
 |Francisco Lindor  |SS        |     13|  5|   4|  2|  3| 
-|CJ Abrams         |MI        |     15|  3|   2|  1|  1| 
+|CJ Abrams         |MI        |     17|  5|   3|  2|  2| 
 |Spencer Torkelson |CI        |     11|  5|   7|  1|  0| 
-|Adolis García     |OF        |      8|  5|   6|  2|  1| 
+|Adolis García     |OF        |      9|  5|   6|  2|  1| 
 |George Springer   |OF        |     11|  8|   3|  1|  1| 
 |Luis Robert Jr.   |OF        |      5|  1|   2|  0|  2| 
 |Randy Arozarena   |OF        |     13|  2|   2|  0|  1| 
 |Eugenio Suárez    |DH        |     14|  9|   8|  3|  0| 
-|Nathaniel Lowe    |DH        |      5|  3|   2|  1|  0| 
+|Nathaniel Lowe    |DH        |      6|  3|   2|  1|  0| 
 |TJ Friedl         |DH        |     14|  5|   4|  2|  0| 
 |Xavier Edwards    |DH        |     12|  2|   1|  0|  2| 
 |Jorge Polanco     |BAT BENCH |      5|  1|   2|  1|  0| 
 |Jorge Soler       |BAT BENCH |     11|  1|   3|  0|  0| 
-|Royce Lewis       |BAT BENCH |      4|  1|   1|  0|  0| 
+|Royce Lewis       |BAT BENCH |      6|  2|   2|  0|  0| 
 |Sean Murphy       |BAT BENCH |      8|  1|   3|  0|  0| 
 
 
