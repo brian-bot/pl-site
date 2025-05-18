@@ -6,20 +6,20 @@
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Willson Contreras   |C         |     14|  7|   7|  1|  0| 
-|Michael Busch       |1B        |     10|  5|   2|  1|  0| 
-|Jose Altuve         |2B        |      8|  3|   0|  0|  0| 
-|Rafael Devers       |3B        |     19|  4|   9|  2|  1| 
-|Bo Bichette         |SS        |     19|  6|   8|  3|  0| 
+|Michael Busch       |1B        |     11|  5|   2|  1|  0| 
+|Jose Altuve         |2B        |     10|  3|   0|  0|  0| 
+|Rafael Devers       |3B        |     23|  6|  11|  3|  1| 
+|Bo Bichette         |SS        |     20|  6|   8|  3|  0| 
 |Masyn Winn          |MI        |     18|  8|   7|  2|  0| 
-|Josh Naylor         |CI        |     12|  5|   4|  1|  2| 
+|Josh Naylor         |CI        |     13|  5|   5|  1|  2| 
 |Aaron Judge         |OF        |     19|  8|   7|  3|  0| 
 |Jackson Chourio     |OF        |      9|  2|   1|  1|  5| 
-|Jarren Duran        |OF        |     11|  4|   4|  0|  1| 
+|Jarren Duran        |OF        |     13|  5|   8|  1|  1| 
 |JJ Bleday           |OF        |      4|  2|   5|  2|  0| 
 |Gavin Lux           |DH        |     13|  3|   4|  0|  0| 
-|Jake Burger         |DH        |      8|  1|   3|  1|  0| 
+|Jake Burger         |DH        |      9|  1|   3|  1|  0| 
 |Kyren Paris         |DH        |      4|  3|   1|  1|  0| 
-|Lourdes Gurriel Jr. |DH        |      9|  2|   5|  1|  0| 
+|Lourdes Gurriel Jr. |DH        |     13|  4|   7|  1|  0| 
 |Colton Cowser       |BAT BENCH |     **| **|  **| **| **| 
 |Jake Cronenworth    |BAT BENCH |     15|  5|   5|  1|  1| 
 
@@ -38,10 +38,10 @@
 |Mitchell Parker   |SP          |  2|  8.667|  8|  8.308|     15| 1.731| 11|  0|  0| 
 |Zack Littell      |SP          |  2| 13.333|  5|  3.375|     16| 1.200|  7|  1|  0| 
 |Jhoan Duran       |RP          |  6|  6.000|  0|  0.000|      5| 0.833|  8|  1|  4| 
-|Pete Fairbanks    |RP          |  4|  3.667|  2|  4.909|      7| 1.909|  3|  1|  0| 
-|Clarke Schmidt    |OP          |  1|  6.000|  3|  4.500|      5| 0.833|  6|  1|  0| 
+|Pete Fairbanks    |RP          |  5|  4.667|  2|  3.857|      7| 1.500|  3|  1|  0| 
+|Clarke Schmidt    |OP          |  2| 12.000|  5|  3.750|     13| 1.083| 11|  1|  0| 
 |Dennis Santana    |OP          |  4|  4.000|  2|  4.500|      4| 1.000|  2|  1|  1| 
-|Kenley Jansen     |OP          |  4|  2.667|  2|  6.750|      4| 1.500|  3|  0|  0| 
+|Kenley Jansen     |OP          |  5|  4.000|  2|  4.500|      5| 1.250|  3|  0|  1| 
 |Nathan Eovaldi    |OP          |  2| 12.667|  0|  0.000|      8| 0.632| 12|  1|  0| 
 |Tony Gonsolin     |OP          |  1|  5.000|  0|  0.000|      5| 1.000|  4|  1|  0| 
 |Bowden Francis    |PITCH BENCH |  2| 11.333|  7|  5.559|     17| 1.500| 11|  0|  0| 
