@@ -5,25 +5,25 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras     |C         |     12|  8|   2|  1|  0| 
+|William Contreras     |C         |     17|  8|   4|  1|  1| 
 |Cody Bellinger        |1B        |     21|  8|   9|  3|  0| 
-|Brice Turang          |2B        |     11|  3|   0|  0|  4| 
+|Brice Turang          |2B        |     14|  5|   2|  0|  5| 
 |Vladimir Guerrero Jr. |3B        |     25| 10|   2|  1|  0| 
 |Corey Seager          |SS        |      4|  4|   4|  2|  0| 
 |Luis García Jr.       |MI        |      8|  3|   5|  1|  0| 
-|Vinnie Pasquantino    |CI        |     14|  3|   4|  1|  0| 
-|Cedric Mullins        |OF        |      8|  4|   6|  2|  1| 
-|Heliot Ramos          |OF        |     21|  6|  10|  3|  0| 
+|Vinnie Pasquantino    |CI        |     16|  4|   6|  2|  0| 
+|Cedric Mullins        |OF        |     10|  5|   9|  3|  2| 
+|Heliot Ramos          |OF        |     22|  6|  10|  3|  0| 
 |James Wood            |OF        |     17|  7|   7|  2|  2| 
-|Pavin Smith           |OF        |     14|  4|   2|  0|  0| 
+|Pavin Smith           |OF        |     16|  5|   2|  0|  0| 
 |Carson Kelly          |DH        |      7|  3|   0|  0|  0| 
 |Hunter Goodman        |DH        |     19|  8|  12|  2|  0| 
-|Jacob Wilson          |DH        |     16|  6|   6|  2|  2| 
+|Jacob Wilson          |DH        |     20|  7|   6|  2|  3| 
 |Paul Goldschmidt      |DH        |     15|  9|   8|  2|  1| 
 |Gavin Sheets          |BAT BENCH |     12|  5|   9|  2|  0| 
-|Michael Toglia        |BAT BENCH |     17|  5|   6|  3|  0| 
+|Michael Toglia        |BAT BENCH |     18|  6|   6|  3|  0| 
 |Ronald Acuña Jr.      |BAT BENCH |     **| **|  **| **| **| 
-|Teoscar Hernández     |BAT BENCH |     **| **|  **| **| **| 
+|Teoscar Hernández     |BAT BENCH |      0|  1|   1|  0|  0| 
 
 
 * * *
@@ -37,7 +37,7 @@
 |Bryan Woo     |SP          |  3| 19.333|  6|  2.793|     18| 0.931| 17|  1|  0| 
 |Jose Quintana |SP          |  1|  5.333|  1|  1.688|      7| 1.312|  3|  0|  0| 
 |Paul Skenes   |SP          |  2| 14.000|  2|  1.286|     13| 0.929| 15|  0|  0| 
-|Robbie Ray    |SP          |  2| 12.000|  4|  3.000|     15| 1.250| 14|  2|  0| 
+|Robbie Ray    |SP          |  3| 19.000|  4|  1.895|     22| 1.158| 21|  2|  0| 
 |Zack Wheeler  |SP          |  2| 13.000|  0|  0.000|      9| 0.692| 14|  2|  0| 
 |Robert Suarez |RP          |  4|  3.000|  5| 15.000|      6| 2.000|  3|  0|  1| 
 |Zach Agnos    |RP          |  4|  4.667|  2|  3.857|      6| 1.286|  6|  0|  0| 

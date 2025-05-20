@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |     21|  5|   5|  1|  0| 
-|Freddie Freeman   |1B        |     21|  9|   9|  1|  0| 
-|Jonathan India    |2B        |     13|  4|   5|  0|  0| 
+|Will Smith        |C         |     23|  5|   5|  1|  0| 
+|Freddie Freeman   |1B        |     22| 10|   9|  1|  0| 
+|Jonathan India    |2B        |     15|  4|   5|  0|  0| 
 |Matt Chapman      |3B        |     11|  5|   1|  1|  0| 
-|Matt McLain       |SS        |     14|  7|   4|  2|  2| 
+|Matt McLain       |SS        |     14|  7|   5|  2|  2| 
 |Carlos Correa     |MI        |      6|  1|   1|  0|  0| 
-|Isaac Paredes     |CI        |     20|  8|  10|  3|  0| 
+|Isaac Paredes     |CI        |     22|  8|  10|  3|  0| 
 |Marcell Ozuna     |OF        |     20|  7|   9|  3|  0| 
-|Max Kepler        |OF        |      7|  2|   4|  0|  0| 
+|Max Kepler        |OF        |      8|  2|   4|  0|  0| 
 |Oneil Cruz        |OF        |      3|  1|   0|  0|  1| 
-|Riley Greene      |OF        |     17|  7|   9|  3|  1| 
+|Riley Greene      |OF        |     18|  7|   9|  3|  1| 
 |Kameron Misner    |DH        |      7|  5|   2|  1|  1| 
 |Kristian Campbell |DH        |      4|  1|   2|  1|  0| 
-|Nick Castellanos  |DH        |     13|  3|   4|  0|  1| 
-|Shohei Ohtani     |DH        |     24| 12|  15|  6|  0| 
+|Nick Castellanos  |DH        |     15|  5|   4|  0|  1| 
+|Shohei Ohtani     |DH        |     25| 13|  16|  7|  0| 
 |Joc Pederson      |BAT BENCH |     16|  4|   4|  2|  0| 
 |Jurickson Profar  |BAT BENCH |     **| **|  **| **| **| 
 |Matt Wallner      |BAT BENCH |     **| **|  **| **| **| 
@@ -34,13 +34,13 @@
 |players                 |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:-----------------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Jesús Luzardo           |SP          |  2| 12.333|  3|  2.189|     15| 1.216| 10|  1|  0| 
-|Kodai Senga             |SP          |  2| 11.667|  0|  0.000|     14| 1.200| 11|  1|  0| 
+|Kodai Senga             |SP          |  3| 17.667|  3|  1.528|     22| 1.245| 16|  1|  0| 
 |Merrill Kelly           |SP          |  3| 20.333|  4|  1.770|     18| 0.885| 25|  2|  0| 
 |Simeon Woods Richardson |SP          |  2|  8.667|  8|  8.308|     16| 1.846|  5|  0|  0| 
-|Sonny Gray              |SP          |  2| 10.667|  7|  5.906|     12| 1.125| 12|  1|  0| 
+|Sonny Gray              |SP          |  3| 16.667|  7|  3.780|     16| 0.960| 22|  2|  0| 
 |Yoshinobu Yamamoto      |SP          |  2| 11.000|  8|  6.545|     13| 1.182| 10|  1|  0| 
 |Ryan Helsley            |RP          |  3|  3.000|  0|  0.000|      3| 1.000|  3|  0|  3| 
-|Trevor Megill           |RP          |  4|  3.000|  0|  0.000|      2| 0.667|  3|  0|  2| 
+|Trevor Megill           |RP          |  5|  4.000|  0|  0.000|      3| 0.750|  3|  0|  3| 
 |Cade Smith              |OP          |  4|  3.333|  0|  0.000|      6| 1.800|  7|  0|  0| 
 |Drew Rasmussen          |OP          |  2| 11.000|  3|  2.455|      9| 0.818|  8|  1|  0| 
 |Erick Fedde             |OP          |  2| 14.667|  0|  0.000|     13| 0.886| 11|  1|  0| 
