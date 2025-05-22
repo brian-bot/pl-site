@@ -6,21 +6,21 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith        |C         |     26|  5|   7|  1|  0| 
-|Freddie Freeman   |1B        |     25| 11|   9|  1|  0| 
+|Freddie Freeman   |1B        |     26| 11|   9|  1|  0| 
 |Jonathan India    |2B        |     15|  4|   5|  0|  0| 
-|Matt Chapman      |3B        |     11|  5|   1|  1|  0| 
+|Matt Chapman      |3B        |     13|  6|   2|  2|  0| 
 |Matt McLain       |SS        |     14|  7|   5|  2|  2| 
 |Carlos Correa     |MI        |      6|  1|   1|  0|  0| 
-|Isaac Paredes     |CI        |     24|  9|  11|  4|  0| 
+|Isaac Paredes     |CI        |     26| 11|  14|  6|  0| 
 |Marcell Ozuna     |OF        |     21|  7|   9|  3|  0| 
 |Max Kepler        |OF        |     11|  2|   5|  0|  0| 
-|Oneil Cruz        |OF        |      5|  2|   0|  0|  3| 
-|Riley Greene      |OF        |     21|  8|  13|  4|  1| 
-|Kameron Misner    |DH        |      7|  6|   2|  1|  2| 
-|Kristian Campbell |DH        |      4|  1|   2|  1|  0| 
-|Nick Castellanos  |DH        |     16|  6|   5|  0|  1| 
+|Oneil Cruz        |OF        |      6|  3|   0|  0|  3| 
+|Riley Greene      |OF        |     24| 11|  13|  4|  1| 
+|Kameron Misner    |DH        |      9|  7|   2|  1|  3| 
+|Kristian Campbell |DH        |      6|  1|   2|  1|  0| 
+|Nick Castellanos  |DH        |     18|  8|   6|  0|  1| 
 |Shohei Ohtani     |DH        |     27| 14|  16|  7|  1| 
-|Joc Pederson      |BAT BENCH |     17|  5|   4|  2|  0| 
+|Joc Pederson      |BAT BENCH |     18|  5|   4|  2|  0| 
 |Jurickson Profar  |BAT BENCH |     **| **|  **| **| **| 
 |Matt Wallner      |BAT BENCH |     **| **|  **| **| **| 
 |Roman Anthony     |BAT BENCH |     **| **|  **| **| **| 
@@ -40,8 +40,8 @@
 |Sonny Gray              |SP          |  3| 16.667|  7|  3.780|     16| 0.960| 22|  2|  0| 
 |Yoshinobu Yamamoto      |SP          |  3| 18.000|  8|  4.000|     16| 0.889| 19|  1|  0| 
 |Ryan Helsley            |RP          |  3|  3.000|  0|  0.000|      3| 1.000|  3|  0|  3| 
-|Trevor Megill           |RP          |  5|  4.000|  0|  0.000|      3| 0.750|  3|  0|  3| 
-|Cade Smith              |OP          |  4|  3.333|  0|  0.000|      6| 1.800|  7|  0|  0| 
+|Trevor Megill           |RP          |  6|  5.000|  0|  0.000|      5| 1.000|  3|  0|  3| 
+|Cade Smith              |OP          |  5|  4.000|  1|  2.250|      8| 2.000|  7|  0|  0| 
 |Drew Rasmussen          |OP          |  2| 11.000|  3|  2.455|      9| 0.818|  8|  1|  0| 
 |Erick Fedde             |OP          |  3| 19.667|  4|  1.831|     18| 0.915| 13|  1|  0| 
 |Jeff Hoffman            |OP          |  6|  4.667|  8| 15.429|     10| 2.143|  9|  1|  3| 

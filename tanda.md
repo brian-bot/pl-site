@@ -6,23 +6,23 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Austin Wells      |C         |     10|  4|   5|  1|  1| 
-|Pete Alonso       |1B        |     10|  2|   3|  0|  0| 
-|Ketel Marte       |2B        |     21| 12|   9|  6|  1| 
-|José Ramírez      |3B        |     19|  9|   7|  4|  4| 
-|Francisco Lindor  |SS        |     18|  6|   6|  2|  4| 
+|Pete Alonso       |1B        |     11|  2|   3|  0|  0| 
+|Ketel Marte       |2B        |     22| 13|  10|  7|  1| 
+|José Ramírez      |3B        |     23| 11|   8|  4|  4| 
+|Francisco Lindor  |SS        |     20|  7|   7|  3|  6| 
 |CJ Abrams         |MI        |     23|  9|   5|  4|  2| 
-|Spencer Torkelson |CI        |     18|  7|  11|  2|  0| 
-|Adolis García     |OF        |     12|  5|   6|  2|  1| 
-|George Springer   |OF        |     12|  8|   3|  1|  1| 
+|Spencer Torkelson |CI        |     22|  8|  12|  2|  0| 
+|Adolis García     |OF        |     13|  5|   6|  2|  1| 
+|George Springer   |OF        |     15| 10|   3|  1|  2| 
 |Luis Robert Jr.   |OF        |      8|  2|   2|  0|  2| 
-|Randy Arozarena   |OF        |     17|  5|   3|  1|  1| 
-|Eugenio Suárez    |DH        |     19| 10|  15|  4|  0| 
+|Randy Arozarena   |OF        |     18|  5|   3|  1|  1| 
+|Eugenio Suárez    |DH        |     21| 10|  15|  4|  0| 
 |Nathaniel Lowe    |DH        |     10|  7|   6|  2|  0| 
 |TJ Friedl         |DH        |     23|  8|   5|  2|  0| 
 |Xavier Edwards    |DH        |     12|  2|   1|  0|  2| 
-|Jorge Polanco     |BAT BENCH |      7|  1|   3|  1|  0| 
-|Jorge Soler       |BAT BENCH |     14|  3|   3|  0|  0| 
-|Royce Lewis       |BAT BENCH |     12|  4|   3|  1|  0| 
+|Jorge Polanco     |BAT BENCH |      9|  2|   3|  1|  0| 
+|Jorge Soler       |BAT BENCH |     17|  4|   5|  0|  0| 
+|Royce Lewis       |BAT BENCH |     13|  4|   3|  1|  0| 
 |Sean Murphy       |BAT BENCH |     10|  2|   4|  1|  0| 
 
 
@@ -39,7 +39,7 @@
 |Michael Wacha       |SP          |  3| 18.333|  3|  1.473|     22| 1.200| 14|  2|  0| 
 |Mitch Keller        |SP          |  3| 19.000|  6|  2.842|     23| 1.211| 19|  0|  0| 
 |Reese Olson         |SP          |  2| 10.000|  3|  2.700|     10| 1.000| 11|  0|  0| 
-|Andrés Muñoz        |RP          |  4|  3.667|  0|  0.000|      1| 0.273|  5|  0|  3| 
+|Andrés Muñoz        |RP          |  5|  4.667|  0|  0.000|      2| 0.429|  5|  0|  4| 
 |José Alvarado       |RP          |  4|  3.000|  0|  0.000|      3| 1.000|  3|  1|  1| 
 |Eduardo Rodriguez   |OP          |  2|  6.667| 10| 13.500|     20| 3.000|  7|  0|  0| 
 |Jameson Taillon     |OP          |  3| 17.000|  9|  4.765|     21| 1.235| 13|  1|  0| 
