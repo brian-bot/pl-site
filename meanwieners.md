@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Logan O'Hoppe     |C         |     12|  5|  12|  4|  0| 
-|Matt Olson        |1B        |     17|  8|   8|  4|  0| 
+|Logan O'Hoppe     |C         |     14|  7|  13|  5|  0| 
+|Matt Olson        |1B        |     20| 10|  10|  5|  0| 
 |Andrés Giménez    |2B        |      1|  1|   0|  0|  0| 
 |Mark Vientos      |3B        |     13|  5|   3|  1|  0| 
 |Elly De La Cruz   |SS        |     14|  7|   8|  3|  2| 
 |Dansby Swanson    |MI        |     22|  8|   7|  3|  3| 
-|Christian Walker  |CI        |     16|  4|   9|  1|  0| 
+|Christian Walker  |CI        |     17|  4|   9|  1|  0| 
 |Anthony Santander |OF        |      9|  1|   5|  1|  0| 
 |Josh Lowe         |OF        |      9|  4|   3|  2|  0| 
-|Trent Grisham     |OF        |     17|  7|   4|  3|  0| 
+|Trent Grisham     |OF        |     18|  7|   4|  3|  0| 
 |Wilyer Abreu      |OF        |     12|  4|   5|  4|  0| 
 |Austin Hays       |DH        |     12|  2|   7|  1|  1| 
 |Ben Rice          |DH        |     12|  5|   7|  2|  0| 
-|Michael Harris II |DH        |     18|  1|   7|  0|  0| 
+|Michael Harris II |DH        |     19|  1|   9|  0|  1| 
 |Mike Yastrzemski  |DH        |     16|  5|   0|  0|  3| 
 |Jasson Domínguez  |BAT BENCH |     16|  9|  10|  4|  1| 
-|Luis Urías        |BAT BENCH |     15|  5|   2|  1|  1| 
+|Luis Urías        |BAT BENCH |     16|  5|   2|  1|  1| 
 |Max Muncy         |BAT BENCH |     20|  4|  12|  2|  0| 
 |Ryan Mountcastle  |BAT BENCH |     18|  4|   4|  0|  0| 
 |Tommy Edman       |BAT BENCH |      2|  1|   2|  0|  0| 
