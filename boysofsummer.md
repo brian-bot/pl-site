@@ -6,21 +6,21 @@
 |players         |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------|:---------|------:|--:|---:|--:|--:| 
 |Yainer Diaz     |C         |     18|  4|   8|  2|  0| 
-|Bryce Harper    |1B        |     29|  7|  15|  2|  2| 
-|Nico Hoerner    |2B        |     23| 16|   7|  0|  3| 
+|Bryce Harper    |1B        |     31|  8|  16|  2|  2| 
+|Nico Hoerner    |2B        |     24| 16|   7|  0|  4| 
 |Alex Bregman    |3B        |     23|  6|   8|  3|  0| 
-|Bobby Witt Jr.  |SS        |     21|  7|   9|  1|  6| 
+|Bobby Witt Jr.  |SS        |     22|  7|   9|  1|  8| 
 |Willy Adames    |MI        |     17|  8|   5|  1|  0| 
-|Maikel Garcia   |CI        |     23|  4|   7|  1|  1| 
+|Maikel Garcia   |CI        |     24|  4|   9|  1|  1| 
 |Byron Buxton    |OF        |     12|  7|   5|  2|  1| 
-|Julio Rodríguez |OF        |     16|  8|  12|  3|  0| 
-|Kerry Carpenter |OF        |     21| 11|   3|  2|  1| 
-|Kyle Schwarber  |OF        |     25| 12|   9|  5|  1| 
-|Alec Burleson   |DH        |     13|  2|   5|  2|  1| 
-|Gleyber Torres  |DH        |     24|  7|   9|  1|  0| 
-|Nolan Arenado   |DH        |     13|  6|  10|  2|  0| 
+|Julio Rodríguez |OF        |     17|  8|  12|  3|  1| 
+|Kerry Carpenter |OF        |     22| 12|   3|  2|  1| 
+|Kyle Schwarber  |OF        |     28| 14|  12|  6|  1| 
+|Alec Burleson   |DH        |     15|  4|   5|  2|  1| 
+|Gleyber Torres  |DH        |     29|  8|  11|  1|  0| 
+|Nolan Arenado   |DH        |     14|  7|  11|  2|  0| 
 |Xander Bogaerts |DH        |     16|  5|   7|  2|  3| 
-|Jordan Beck     |BAT BENCH |     25| 12|   5|  3|  2| 
+|Jordan Beck     |BAT BENCH |     26| 12|   5|  3|  2| 
 |Jordan Lawlar   |BAT BENCH |      1|  0|   0|  0|  0| 
 |Tyler O'Neill   |BAT BENCH |      5|  1|   0|  0|  2| 
 
@@ -37,12 +37,12 @@
 |Cole Ragans        |SP          |  2| 10.000|  8| 7.200|     14| 1.400| 15|  0|  0| 
 |JP Sears           |SP          |  3| 14.000| 11| 7.071|     22| 1.571| 10|  0|  0| 
 |Zac Gallen         |SP          |  3| 16.333| 14| 7.714|     29| 1.776| 14|  0|  0| 
-|Edwin Díaz         |RP          |  6|  6.000|  0| 0.000|      3| 0.500|  5|  0|  2| 
-|Josh Hader         |RP          |  7|  7.000|  1| 1.286|      5| 0.714|  9|  0|  4| 
-|Andrew Abbott      |OP          |  2| 11.000|  1| 0.818|     11| 1.000| 12|  1|  0| 
+|Edwin Díaz         |RP          |  7|  7.333|  0| 0.000|      3| 0.409|  8|  0|  3| 
+|Josh Hader         |RP          |  8|  8.000|  1| 1.125|      6| 0.750| 12|  0|  5| 
+|Andrew Abbott      |OP          |  3| 16.667|  2| 1.080|     19| 1.140| 14|  2|  0| 
 |Brandon Pfaadt     |OP          |  3| 16.333|  7| 3.857|     20| 1.224|  9|  2|  0| 
 |Matt Strahm        |OP          |  6|  6.000|  1| 1.500|      5| 0.833|  8|  0|  1| 
-|Matthew Liberatore |OP          |  2| 11.333|  3| 2.382|     15| 1.324|  9|  0|  0| 
+|Matthew Liberatore |OP          |  3| 18.333|  4| 1.964|     21| 1.145| 13|  0|  0| 
 |Ryan Pepiot        |OP          |  3| 18.000|  7| 3.500|     20| 1.111| 12|  0|  0| 
 |Eury Pérez         |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 |Luis Gil           |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
