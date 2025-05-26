@@ -6,23 +6,23 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Austin Wells      |C         |     14|  6|   7|  1|  1| 
-|Pete Alonso       |1B        |     14|  3|   4|  0|  0| 
-|Ketel Marte       |2B        |     26| 15|  11|  8|  2| 
-|José Ramírez      |3B        |     29| 15|  10|  4|  5| 
-|Francisco Lindor  |SS        |     24|  8|   7|  3|  7| 
-|CJ Abrams         |MI        |     25| 11|   6|  4|  2| 
-|Spencer Torkelson |CI        |     24|  9|  13|  3|  0| 
-|Adolis García     |OF        |     14|  6|   7|  3|  1| 
+|Pete Alonso       |1B        |     15|  4|   6|  1|  0| 
+|Ketel Marte       |2B        |     27| 16|  11|  8|  2| 
+|José Ramírez      |3B        |     30| 15|  10|  4|  5| 
+|Francisco Lindor  |SS        |     25|  9|   7|  3|  7| 
+|CJ Abrams         |MI        |     26| 12|   6|  4|  2| 
+|Spencer Torkelson |CI        |     26|  9|  13|  3|  0| 
+|Adolis García     |OF        |     15|  6|   9|  3|  1| 
 |George Springer   |OF        |     17| 10|   3|  1|  2| 
-|Luis Robert Jr.   |OF        |     12|  5|   4|  0|  4| 
-|Randy Arozarena   |OF        |     23|  6|   3|  1|  1| 
-|Eugenio Suárez    |DH        |     23| 11|  15|  4|  0| 
-|Nathaniel Lowe    |DH        |     13|  7|   6|  2|  0| 
-|TJ Friedl         |DH        |     27| 10|   6|  2|  0| 
+|Luis Robert Jr.   |OF        |     13|  5|   5|  0|  5| 
+|Randy Arozarena   |OF        |     25|  7|   3|  1|  1| 
+|Eugenio Suárez    |DH        |     26| 12|  17|  4|  0| 
+|Nathaniel Lowe    |DH        |     14|  7|   6|  2|  0| 
+|TJ Friedl         |DH        |     30| 12|   6|  2|  0| 
 |Xavier Edwards    |DH        |     12|  2|   1|  0|  2| 
 |Jorge Polanco     |BAT BENCH |      9|  2|   3|  1|  0| 
 |Jorge Soler       |BAT BENCH |     21|  7|   8|  1|  0| 
-|Royce Lewis       |BAT BENCH |     13|  4|   3|  1|  0| 
+|Royce Lewis       |BAT BENCH |     14|  4|   3|  1|  0| 
 |Sean Murphy       |BAT BENCH |     11|  2|   4|  1|  0| 
 
 

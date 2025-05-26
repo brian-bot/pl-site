@@ -6,22 +6,22 @@
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Willson Contreras   |C         |     18|  8|   9|  1|  0| 
-|Michael Busch       |1B        |     18|  7|   5|  1|  1| 
-|Jose Altuve         |2B        |     20|  6|   4|  2|  1| 
+|Michael Busch       |1B        |     20|  7|   6|  1|  1| 
+|Jose Altuve         |2B        |     23|  8|   4|  2|  1| 
 |Rafael Devers       |3B        |     38| 13|  25|  7|  1| 
 |Bo Bichette         |SS        |     26|  9|  11|  3|  0| 
-|Masyn Winn          |MI        |     24| 11|   8|  2|  0| 
-|Josh Naylor         |CI        |     18|  7|   8|  1|  2| 
-|Aaron Judge         |OF        |     31| 15|  12|  6|  1| 
-|Jackson Chourio     |OF        |     20|  5|   3|  1|  6| 
-|Jarren Duran        |OF        |     25| 11|  14|  2|  1| 
+|Masyn Winn          |MI        |     26| 13|   9|  3|  0| 
+|Josh Naylor         |CI        |     19|  8|   8|  1|  2| 
+|Aaron Judge         |OF        |     34| 15|  13|  6|  1| 
+|Jackson Chourio     |OF        |     21|  6|   3|  1|  6| 
+|Jarren Duran        |OF        |     29| 11|  14|  2|  1| 
 |JJ Bleday           |OF        |      7|  2|   5|  2|  0| 
 |Gavin Lux           |DH        |     18|  4|   5|  0|  0| 
-|Jake Burger         |DH        |     14|  3|   7|  3|  1| 
+|Jake Burger         |DH        |     16|  5|   9|  4|  1| 
 |Kyren Paris         |DH        |      8|  6|   1|  1|  2| 
-|Lourdes Gurriel Jr. |DH        |     22|  6|  10|  2|  1| 
+|Lourdes Gurriel Jr. |DH        |     23|  6|  10|  2|  1| 
 |Colton Cowser       |BAT BENCH |     **| **|  **| **| **| 
-|Jake Cronenworth    |BAT BENCH |     20|  5|   5|  1|  1| 
+|Jake Cronenworth    |BAT BENCH |     22|  6|   6|  2|  1| 
 
 
 * * *
@@ -33,11 +33,11 @@
 |:-----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Bryce Miller      |SP          |  1|  5.000|  7| 12.600|     10| 2.000|  3|  0|  0| 
 |Jordan Hicks      |SP          |  4| 10.000|  9|  8.100|     18| 1.800|  7|  0|  0| 
-|Luis Castillo     |SP          |  3| 18.000|  6|  3.000|     20| 1.111| 14|  1|  0| 
+|Luis Castillo     |SP          |  4| 24.000|  9|  3.375|     30| 1.250| 20|  1|  0| 
 |Michael King      |SP          |  2| 11.000|  5|  4.091|     13| 1.182| 16|  0|  0| 
 |Mitchell Parker   |SP          |  3| 14.000| 11|  7.071|     22| 1.571| 15|  1|  0| 
 |Zack Littell      |SP          |  3| 18.333|  7|  3.436|     23| 1.255| 13|  1|  0| 
-|Jhoan Duran       |RP          |  8|  8.000|  1|  1.125|      9| 1.125| 11|  3|  4| 
+|Jhoan Duran       |RP          |  9|  9.000|  1|  1.000|     10| 1.111| 12|  3|  4| 
 |Pete Fairbanks    |RP          |  9|  8.667|  2|  2.077|     12| 1.385|  9|  1|  2| 
 |Clarke Schmidt    |OP          |  3| 16.667|  8|  4.320|     21| 1.260| 19|  1|  0| 
 |Dennis Santana    |OP          |  8|  8.000|  2|  2.250|      8| 1.000|  9|  1|  2| 
