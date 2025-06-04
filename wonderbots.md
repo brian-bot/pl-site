@@ -5,49 +5,49 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Shea Langeliers  |C         |     21|  8|   8|  2|  3| 
-|Alec Bohm        |1B        |     26|  8|   8|  3|  0| 
-|Marcus Semien    |2B        |     18|  2|   4|  1|  2| 
-|Austin Riley     |3B        |     24| 11|   3|  0|  2| 
-|Zach Neto        |SS        |     27| 19|  12|  5|  1| 
-|Anthony Volpe    |MI        |     24|  9|  10|  1|  2| 
-|Luis Arraez      |CI        |     21|  7|   4|  0|  0| 
-|Bryan Reynolds   |OF        |     17|  5|   8|  1|  0| 
-|Corbin Carroll   |OF        |     22| 11|   7|  5|  4| 
-|Michael Conforto |OF        |     20|  6|   0|  0|  0| 
-|Nolan Jones      |OF        |     10|  1|   4|  0|  0| 
-|Agustín Ramírez  |DH        |     21|  8|   5|  2|  0| 
-|Connor Norby     |DH        |     24|  5|  10|  2|  2| 
-|Mookie Betts     |DH        |     26| 13|  10|  3|  3| 
-|Ryan McMahon     |DH        |     31| 12|   8|  3|  0| 
-|Ezequiel Tovar   |BAT BENCH |     20|  6|   5|  2|  0| 
-|Mike Trout       |BAT BENCH |     **| **|  **| **| **| 
-|Tim Tawa         |BAT BENCH |     11|  2|   2|  0|  4| 
-|Tyler Fitzgerald |BAT BENCH |     10|  1|   0|  0|  1| 
+|Shea Langeliers  |C         |      6|  2|   2|  1|  0| 
+|Alec Bohm        |1B        |     10|  5|   1|  1|  0| 
+|Connor Norby     |2B        |      2|  2|   1|  0|  0| 
+|Austin Riley     |3B        |     11|  5|   5|  2|  0| 
+|Zach Neto        |SS        |      8|  3|   2|  1|  0| 
+|Anthony Volpe    |MI        |      7|  2|   3|  1|  0| 
+|Luis Arraez      |CI        |     10|  3|   5|  0|  0| 
+|Bryan Reynolds   |OF        |     14|  2|   7|  1|  0| 
+|Corbin Carroll   |OF        |      9|  7|   5|  3|  1| 
+|Jake Meyers      |OF        |      6|  2|   0|  0|  0| 
+|Mookie Betts     |OF        |      5|  3|   0|  0|  0| 
+|Agustín Ramírez  |DH        |     11|  3|   5|  1|  0| 
+|Ben Rice         |DH        |      6|  2|   3|  2|  0| 
+|Ezequiel Tovar   |DH        |      3|  4|   1|  1|  0| 
+|Ryan McMahon     |DH        |      6|  0|   2|  0|  0| 
+|Marcus Semien    |BAT BENCH |     12|  6|   3|  1|  2| 
+|Michael Conforto |BAT BENCH |      8|  2|   3|  1|  0| 
+|Mike Trout       |BAT BENCH |     10|  2|   5|  1|  0| 
+|Tyler Fitzgerald |BAT BENCH |      7|  0|   0|  0|  2| 
 
 * * *
 
 ### Pitchers
 
  
-|players               |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
-|:---------------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Dylan Cease           |SP          |  4| 25.333|  9|  3.197|     20| 0.789| 33|  0|  0| 
-|Logan Webb            |SP          |  3| 19.000|  6|  2.842|     23| 1.211| 18|  1|  0| 
-|Pablo López           |SP          |  3| 17.667|  5|  2.547|     18| 1.019| 17|  1|  0| 
-|Ranger Suárez         |SP          |  3| 20.667|  3|  1.306|     20| 0.968| 17|  3|  0| 
-|Spencer Schwellenbach |SP          |  4| 27.000|  8|  2.667|     26| 0.963| 23|  2|  0| 
-|Tyler Anderson        |SP          |  3| 14.667| 10|  6.136|     26| 1.773|  9|  0|  0| 
-|Aroldis Chapman       |RP          |  9|  8.667|  2|  2.077|      8| 0.923| 10|  1|  4| 
-|Luke Weaver           |RP          |  9|  9.333|  1|  0.964|      6| 0.643|  7|  1|  5| 
-|David Bednar          |OP          |  8|  6.667|  4|  5.400|     12| 1.800| 11|  0|  2| 
-|Landen Roupp          |OP          |  3| 17.000|  2|  1.059|     19| 1.118| 10|  1|  0| 
-|Tanner Houck          |OP          |  2|  7.000| 13| 16.714|     20| 2.857|  2|  0|  0| 
-|Tylor Megill          |OP          |  3| 12.000|  9|  6.750|     23| 1.917| 21|  0|  0| 
-|Zach Eflin            |OP          |  3| 15.333| 14|  8.217|     24| 1.565| 10|  1|  0| 
-|Brandon Woodruff      |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|George Kirby          |PITCH BENCH |  1|  3.667|  5| 12.273|      7| 1.909|  4|  0|  0| 
-|Luis L. Ortiz         |PITCH BENCH |  3| 16.000|  6|  3.375|     23| 1.438| 19|  0|  0| 
+|players          |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
+|:----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
+|Dylan Cease      |SP          |  1|  4.667|  3| 5.786|      8| 1.714|  6|  0|  0| 
+|George Kirby     |SP          |  2| 10.000|  8| 7.200|     18| 1.800|  7|  0|  0| 
+|Logan Webb       |SP          |  2| 14.000|  3| 1.929|     14| 1.000| 17|  0|  0| 
+|Pablo López      |SP          |  2| 10.000|  6| 5.400|     16| 1.600|  7|  1|  0| 
+|Ranger Suárez    |SP          |  2| 12.000|  1| 0.750|     14| 1.167| 10|  1|  0| 
+|Tyler Anderson   |SP          |  2| 10.333|  6| 5.226|     15| 1.452|  8|  0|  0| 
+|Aroldis Chapman  |RP          |  5|  5.000|  1| 1.800|      5| 1.000|  6|  0|  1| 
+|Luke Weaver      |RP          |  1|  1.000|  1| 9.000|      1| 1.000|  1|  0|  0| 
+|David Bednar     |OP          |  3|  3.000|  0| 0.000|      0| 0.000|  3|  0|  1| 
+|Landen Roupp     |OP          |  2| 10.333|  1| 0.871|     13| 1.258| 12|  0|  0| 
+|Luis L. Ortiz    |OP          |  1|  6.000|  1| 1.500|      9| 1.500|  5|  0|  0| 
+|Tylor Megill     |OP          |  2| 11.667|  6| 4.629|     13| 1.114| 13|  1|  0| 
+|Zach Eflin       |OP          |  1|  7.000|  0| 0.000|      5| 0.714|  6|  1|  0| 
+|Brandon Woodruff |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
+|Tanner Houck     |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
+|Yu Darvish       |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 
 
 * * *

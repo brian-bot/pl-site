@@ -5,24 +5,22 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez     |C         |     16|  2|   9|  2|  0| 
-|Yandy Díaz         |1B        |     14|  4|  12|  2|  1| 
-|Ozzie Albies       |2B        |     21|  8|   5|  0|  0| 
-|Brendan Donovan    |3B        |     29| 10|   3|  0|  0| 
-|Gunnar Henderson   |SS        |     32| 13|  10|  4|  3| 
-|Jackson Holliday   |MI        |     25|  8|  12|  2|  1| 
-|Spencer Steer      |CI        |     22|  6|   3|  1|  1| 
-|Brent Rooker       |OF        |     24|  9|   7|  3|  0| 
-|Brenton Doyle      |OF        |     21|  4|   4|  0|  3| 
-|Christian Yelich   |OF        |     19|  9|   5|  3|  2| 
-|Fernando Tatis Jr. |OF        |     19| 11|   8|  4|  0| 
-|Brandon Nimmo      |DH        |     16|  3|   4|  1|  1| 
-|Jung Hoo Lee       |DH        |     19|  5|   8|  2|  0| 
-|Sal Frelick        |DH        |     19|  4|   8|  2|  3| 
-|Steven Kwan        |DH        |     24|  6|   2|  0|  3| 
-|Hyeseong Kim       |BAT BENCH |     14|  8|   4|  1|  2| 
-|Jazz Chisholm Jr.  |BAT BENCH |     **| **|  **| **| **| 
-|Wilmer Flores      |BAT BENCH |     27|  8|  12|  3|  0| 
+|Salvador Perez     |C         |      7|  1|   1|  0|  0| 
+|Yandy Díaz         |1B        |      9|  5|   5|  1|  0| 
+|Ozzie Albies       |2B        |     10|  3|   4|  1|  1| 
+|Brendan Donovan    |3B        |      7|  3|   2|  1|  0| 
+|Gunnar Henderson   |SS        |      7|  2|   0|  0|  0| 
+|Jackson Holliday   |MI        |      8|  2|   3|  1|  2| 
+|Ryan O'Hearn       |CI        |     10|  3|   5|  1|  1| 
+|Brent Rooker       |OF        |     14|  3|   7|  1|  0| 
+|Brenton Doyle      |OF        |      5|  2|   2|  1|  0| 
+|Christian Yelich   |OF        |     15|  6|  11|  4|  1| 
+|Fernando Tatis Jr. |OF        |     10|  4|   1|  1|  3| 
+|Brandon Nimmo      |DH        |     11|  5|   4|  1|  0| 
+|Jung Hoo Lee       |DH        |      6|  0|   0|  0|  3| 
+|Sal Frelick        |DH        |     12|  5|   4|  1|  1| 
+|Steven Kwan        |DH        |      8|  1|   2|  1|  1| 
+|Jazz Chisholm Jr.  |BAT BENCH |      2|  2|   1|  1|  0| 
 
 
 * * *
@@ -32,23 +30,25 @@
  
 |players         |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:---------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Dustin May      |SP          |  3| 17.667|  7|  3.566|     22| 1.245| 21|  1|  0| 
-|Gunnar Hoglund  |SP          |  4| 20.333| 14|  6.197|     31| 1.525| 15|  0|  0| 
-|Lucas Giolito   |SP          |  3| 17.667|  7|  3.566|     21| 1.189| 14|  1|  0| 
-|Roki Sasaki     |SP          |  1|  4.000|  5| 11.250|      7| 1.750|  0|  0|  0| 
-|Shane Baz       |SP          |  4| 19.667| 15|  6.864|     35| 1.780| 15|  1|  0| 
-|Tyler Mahle     |SP          |  4| 22.333|  7|  2.821|     25| 1.119| 11|  2|  0| 
-|Ben Casparius   |RP          |  5|  8.000|  3|  3.375|      6| 0.750| 10|  0|  0| 
-|Raisel Iglesias |RP          |  7|  6.333|  6|  8.526|     14| 2.211|  4|  1|  2| 
-|Carlos Estévez  |OP          |  7|  7.000|  1|  1.286|      8| 1.143|  8|  1|  4| 
-|David Peterson  |OP          |  3| 19.667|  5|  2.288|     22| 1.119| 18|  1|  0| 
-|Jeffrey Springs |OP          |  3| 19.667|  5|  2.288|     16| 0.814| 15|  1|  0| 
-|José Berríos    |OP          |  4| 23.333| 12|  4.629|     31| 1.329| 20|  0|  0| 
-|Tomoyuki Sugano |OP          |  3| 19.667|  7|  3.203|     16| 0.814| 11|  1|  0| 
+|Colton Gordon   |SP          |  1|  5.000|  4|  7.200|      6| 1.200|  6|  0|  0| 
+|David Peterson  |SP          |  1|  5.667|  1|  1.588|      6| 1.059|  5|  1|  0| 
+|Dustin May      |SP          |  2| 11.000|  5|  4.091|     14| 1.273| 14|  1|  0| 
+|Jeffrey Springs |SP          |  1|  2.000|  6| 27.000|     12| 6.000|  2|  0|  0| 
+|José Berríos    |SP          |  1|  6.000|  0|  0.000|      4| 0.667|  9|  1|  0| 
+|Tyler Mahle     |SP          |  2| 11.333|  4|  3.176|     14| 1.235| 10|  0|  0| 
+|Carlos Estévez  |RP          |  3|  3.333|  0|  0.000|      3| 0.900|  4|  0|  3| 
+|Raisel Iglesias |RP          |  2|  2.000|  1|  4.500|      2| 1.000|  3|  0|  0| 
+|Ben Casparius   |OP          |  3|  5.333|  0|  0.000|      2| 0.375|  6|  0|  0| 
+|Cade Smith      |OP          |  3|  3.000|  1|  3.000|      2| 0.667|  4|  0|  0| 
+|Devin Williams  |OP          |  4|  3.667|  3|  7.364|      5| 1.364|  3|  0|  2| 
+|Griffin Jax     |OP          |  3|  2.333|  1|  3.857|      5| 2.143|  5|  0|  0| 
+|Tomoyuki Sugano |OP          |  2| 12.333|  4|  2.919|     14| 1.135|  8|  1|  0| 
 |Blake Snell     |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Devin Williams  |PITCH BENCH |  8|  7.333|  0|  0.000|      5| 0.682| 13|  2|  0| 
+|Lucas Giolito   |PITCH BENCH |  1|  4.667|  1|  1.929|      7| 1.500|  3|  0|  0| 
+|Roki Sasaki     |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
+|Shane Baz       |PITCH BENCH |  1|  5.667|  3|  4.765|      7| 1.235|  3|  0|  0| 
 |Shota Imanaga   |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Taj Bradley     |PITCH BENCH |  3| 16.000|  9|  5.062|     20| 1.250| 18|  1|  0| 
+|Taj Bradley     |PITCH BENCH |  2| 14.000|  2|  1.286|     11| 0.786| 16|  0|  0| 
 
 
 * * *

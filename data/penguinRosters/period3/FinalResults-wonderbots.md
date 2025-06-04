@@ -7,7 +7,7 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Shea Langeliers  |C         |     21|  8|   8|  2|  3| 
+|Shea Langeliers  |C         |     22|  8|   8|  2|  3| 
 |Alec Bohm        |1B        |     26|  8|   8|  3|  0| 
 |Marcus Semien    |2B        |     18|  2|   4|  1|  2| 
 |Austin Riley     |3B        |     24| 11|   3|  0|  2| 
