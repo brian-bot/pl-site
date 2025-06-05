@@ -5,24 +5,24 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Carlos Narváez      |C         |      5|  2|   1|  0|  0| 
-|Rhys Hoskins        |1B        |      4|  2|   6|  2|  0| 
-|Brandon Lowe        |2B        |      8|  5|   2|  1|  0| 
-|Manny Machado       |3B        |      9|  3|   5|  1|  0| 
+|Carlos Narváez      |C         |      8|  4|   2|  0|  0| 
+|Rhys Hoskins        |1B        |      7|  3|   6|  2|  0| 
+|Brandon Lowe        |2B        |     11|  7|   4|  2|  0| 
+|Manny Machado       |3B        |     11|  4|   5|  1|  1| 
 |Trea Turner         |SS        |     11|  4|   5|  2|  2| 
-|Jonathan Aranda     |MI        |     15|  6|   3|  0|  0| 
+|Jonathan Aranda     |MI        |     18|  7|   4|  0|  0| 
 |Miguel Vargas       |CI        |     11|  5|   3|  1|  0| 
-|Ian Happ            |OF        |      8|  3|   0|  0|  1| 
-|Juan Soto           |OF        |     11|  5|   5|  3|  0| 
+|Ian Happ            |OF        |     10|  3|   0|  0|  1| 
+|Juan Soto           |OF        |     14|  6|   6|  3|  0| 
 |Kyle Tucker         |OF        |     11|  3|   0|  0|  1| 
-|Lawrence Butler     |OF        |     19|  8|   5|  2|  1| 
-|Andy Pages          |DH        |     13|  4|   8|  2|  0| 
+|Lawrence Butler     |OF        |     20|  9|   5|  2|  1| 
+|Andy Pages          |DH        |     16|  5|   9|  3|  0| 
 |Lars Nootbaar       |DH        |     11|  4|   3|  1|  0| 
 |Pete Crow-Armstrong |DH        |     10|  7|   3|  1|  7| 
 |Victor Scott II     |DH        |      3|  2|   0|  0|  0| 
-|Adley Rutschman     |BAT BENCH |      5|  2|   0|  0|  0| 
+|Adley Rutschman     |BAT BENCH |      6|  3|   1|  1|  0| 
 |Nick Kurtz          |BAT BENCH |     **| **|  **| **| **| 
-|Trevor Story        |BAT BENCH |      7|  2|   5|  1|  0| 
+|Trevor Story        |BAT BENCH |      7|  3|   5|  1|  0| 
 
 
 * * *
@@ -44,9 +44,9 @@
 |Clay Holmes     |OP          |  1|  7.000|  3|  3.857|      3| 0.429|  3|  1|  0| 
 |Gavin Williams  |OP          |  1|  6.667|  0|  0.000|      3| 0.450|  6|  1|  0| 
 |Jameson Taillon |OP          |  1|  6.333|  2|  2.842|      4| 0.632|  2|  1|  0| 
-|Jordan Romano   |OP          |  3|  3.000|  1|  3.000|      6| 2.000|  5|  0|  2| 
+|Jordan Romano   |OP          |  4|  3.667|  2|  4.909|      8| 2.182|  6|  0|  2| 
 |Bubba Chandler  |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Justin Martinez |PITCH BENCH |  1|  1.000|  0|  0.000|      0| 0.000|  2|  0|  1| 
+|Justin Martinez |PITCH BENCH |  2|  2.667|  1|  3.375|      4| 1.500|  6|  0|  2| 
 |Seth Lugo       |PITCH BENCH |  1|  3.333|  4| 10.800|      7| 2.100|  3|  0|  0| 
 |Walker Buehler  |PITCH BENCH |  1|  5.667|  5|  7.941|     12| 2.118|  6|  0|  0| 
 
