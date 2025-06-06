@@ -5,22 +5,22 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Iván Herrera      |C         |      8|  0|   1|  0|  0| 
-|Pete Alonso       |1B        |     12|  4|  13|  4|  0| 
-|Ketel Marte       |2B        |     13|  4|   4|  2|  0| 
-|José Ramírez      |3B        |     15|  7|   3|  2|  3| 
+|Iván Herrera      |C         |     12|  1|   3|  1|  0| 
+|Pete Alonso       |1B        |     16|  6|  15|  5|  0| 
+|Ketel Marte       |2B        |     16|  7|   6|  3|  0| 
+|José Ramírez      |3B        |     17|  7|   3|  2|  4| 
 |Francisco Lindor  |SS        |     15| 10|   6|  4|  1| 
-|CJ Abrams         |MI        |     10|  8|   1|  0|  2| 
-|Spencer Torkelson |CI        |      5|  2|   2|  1|  0| 
-|Adolis García     |OF        |      2|  1|   0|  0|  0| 
-|George Springer   |OF        |     14|  7|   6|  3|  0| 
+|CJ Abrams         |MI        |     12|  8|   1|  0|  2| 
+|Spencer Torkelson |CI        |      6|  2|   2|  1|  0| 
+|Adolis García     |OF        |      3|  1|   0|  0|  0| 
+|George Springer   |OF        |     15|  8|   6|  3|  0| 
 |Luis Robert Jr.   |OF        |      2|  0|   0|  0|  0| 
 |Randy Arozarena   |OF        |      6|  1|   4|  1|  0| 
 |Daulton Varsho    |DH        |      4|  1|   0|  0|  0| 
-|Eugenio Suárez    |DH        |      6|  4|   3|  1|  0| 
+|Eugenio Suárez    |DH        |      9|  4|   5|  1|  0| 
 |Taylor Ward       |DH        |      8|  4|   5|  2|  0| 
 |TJ Friedl         |DH        |     16|  4|   1|  1|  1| 
-|Jac Caglianone    |BAT BENCH |      0|  0|   0|  0|  0| 
+|Jac Caglianone    |BAT BENCH |      1|  0|   1|  0|  0| 
 |Royce Lewis       |BAT BENCH |      5|  2|   2|  0|  0| 
 |Xavier Edwards    |BAT BENCH |      8|  2|   1|  0|  0| 
 
@@ -35,7 +35,7 @@
 |Hunter Greene       |SP          |  2| 10.000|  4|  3.600|     16| 1.600| 10|  0|  0| 
 |MacKenzie Gore      |SP          |  2| 13.000|  0|  0.000|      8| 0.615| 15|  1|  0| 
 |Michael Wacha       |SP          |  1|  7.000|  0|  0.000|      2| 0.286|  6|  0|  0| 
-|Mitch Keller        |SP          |  1|  6.000|  3|  4.500|      5| 0.833|  1|  0|  0| 
+|Mitch Keller        |SP          |  2| 12.333|  9|  6.568|     14| 1.135|  6|  0|  0| 
 |Will Warren         |SP          |  1|  1.333|  7| 47.250|     10| 7.500|  2|  0|  0| 
 |Yusei Kikuchi       |SP          |  2| 10.000|  4|  3.600|     22| 2.200|  9|  0|  0| 
 |Andrés Muñoz        |RP          |  3|  3.000|  4| 12.000|      6| 2.000|  5|  1|  0| 

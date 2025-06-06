@@ -5,20 +5,20 @@
  
 |players                      |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------------------|:---------|------:|--:|---:|--:|--:| 
-|Cal Raleigh                  |C         |     14|  7|  11|  6|  1| 
-|Tyler Soderstrom             |1B        |     10|  3|   5|  2|  0| 
+|Cal Raleigh                  |C         |     16|  8|  14|  7|  1| 
+|Tyler Soderstrom             |1B        |     12|  5|  11|  4|  0| 
 |Bryson Stott                 |2B        |     11|  4|   2|  0|  1| 
-|Junior Caminero              |3B        |     12|  9|  14|  5|  1| 
-|Jeremy Peña                  |SS        |     15|  7|   5|  3|  4| 
-|Geraldo Perdomo              |MI        |      7|  4|   4|  0|  0| 
-|Josh Jung                    |CI        |      6|  1|   4|  0|  1| 
+|Junior Caminero              |3B        |     14| 11|  16|  6|  1| 
+|Jeremy Peña                  |SS        |     18|  9|   6|  3|  5| 
+|Geraldo Perdomo              |MI        |      8|  5|   5|  0|  0| 
+|Josh Jung                    |CI        |      7|  1|   4|  0|  1| 
 |Chandler Simpson             |OF        |      3|  1|   0|  0|  5| 
 |Jackson Merrill              |OF        |     11|  5|   5|  1|  0| 
-|Seiya Suzuki                 |OF        |      9|  1|   4|  0|  0| 
-|Wyatt Langford               |OF        |      8|  2|   5|  1|  1| 
-|Cam Smith                    |DH        |      7|  1|   3|  0|  1| 
+|Seiya Suzuki                 |OF        |     12|  1|   4|  0|  0| 
+|Wyatt Langford               |OF        |      9|  2|   5|  1|  1| 
+|Cam Smith                    |DH        |      8|  2|   4|  0|  2| 
 |Kyle Manzardo                |DH        |      6|  2|   1|  1|  0| 
-|Matt Shaw                    |DH        |      7|  2|   2|  0|  3| 
+|Matt Shaw                    |DH        |     10|  4|   2|  0|  5| 
 |Nolan Schanuel               |DH        |     15|  4|   4|  0|  0| 
 |Christian Encarnacion-Strand |BAT BENCH |     **| **|  **| **| **| 
 |Dylan Crews                  |BAT BENCH |     **| **|  **| **| **| 
@@ -34,7 +34,7 @@
 |players            |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:------------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Corbin Burnes      |SP          |  2| 11.667|  3| 2.314|     13| 1.114| 12|  0|  0| 
-|Framber Valdez     |SP          |  1|  9.000|  1| 1.000|      4| 0.444|  9|  1|  0| 
+|Framber Valdez     |SP          |  2| 16.000|  3| 1.688|     11| 0.688| 20|  2|  0| 
 |Freddy Peralta     |SP          |  2| 11.000|  6| 4.909|     19| 1.727| 15|  0|  0| 
 |Hunter Brown       |SP          |  2| 12.000|  1| 0.750|     11| 0.917| 13|  2|  0| 
 |Tanner Bibee       |SP          |  2| 11.333|  7| 5.559|     16| 1.412| 13|  0|  0| 
