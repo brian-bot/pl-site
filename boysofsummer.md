@@ -13,9 +13,9 @@
 |Willy Adames    |MI        |     11|  1|   1|  0|  1| 
 |Maikel Garcia   |CI        |     17|  9|   6|  2|  3| 
 |Jordan Beck     |OF        |     12|  2|   4|  0|  2| 
-|Julio Rodríguez |OF        |     17|  6|   4|  1|  5| 
-|Kyle Schwarber  |OF        |     14|  4|   6|  2|  0| 
-|Kyle Stowers    |OF        |      6|  1|   2|  0|  0| 
+|Julio Rodríguez |OF        |     19|  6|   4|  1|  5| 
+|Kyle Schwarber  |OF        |     17|  5|   6|  2|  0| 
+|Kyle Stowers    |OF        |      7|  2|   2|  0|  0| 
 |Byron Buxton    |DH        |     14|  4|  11|  0|  2| 
 |Gleyber Torres  |DH        |     20|  7|   3|  0|  0| 
 |Kerry Carpenter |DH        |      9|  6|   5|  3|  0| 
@@ -42,8 +42,8 @@
 |Randy Rodríguez    |OP          |  6|  6.667|  0|  0.000|      3| 0.450| 11|  0|  1| 
 |Ryan Walker        |OP          |  7|  5.667|  2|  3.176|      6| 1.059|  6|  0|  0| 
 |Sandy Alcantara    |OP          |  2| 10.000|  8|  7.200|     16| 1.600|  4|  0|  0| 
-|Brayan Bello       |PITCH BENCH |  2| 10.667|  4|  3.375|     13| 1.219|  6|  0|  0| 
-|Eury Pérez         |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
+|Brayan Bello       |PITCH BENCH |  3| 17.000|  7|  3.706|     21| 1.235| 10|  0|  0| 
+|Eury Pérez         |PITCH BENCH |  1|  3.000|  4| 12.000|      6| 2.000|  5|  0|  0| 
 |Luis Gil           |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Ronel Blanco       |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Zac Gallen         |PITCH BENCH |  3| 18.667| 10|  4.821|     23| 1.232| 12|  1|  0| 
