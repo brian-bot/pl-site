@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |     12|  9|   8|  1|  0| 
-|Freddie Freeman   |1B        |     22|  6|   6|  0|  0| 
-|Jonathan India    |2B        |     19|  8|   6|  2|  0| 
+|Will Smith        |C         |     15| 10|   9|  1|  0| 
+|Freddie Freeman   |1B        |     24|  7|   6|  0|  0| 
+|Jonathan India    |2B        |     22|  8|   6|  2|  0| 
 |Matt Chapman      |3B        |     22|  7|   5|  3|  2| 
-|Matt McLain       |SS        |     12|  4|   5|  1|  0| 
-|Carlos Correa     |MI        |     14|  7|   3|  1|  0| 
-|Isaac Paredes     |CI        |     12|  5|   8|  3|  0| 
-|Marcell Ozuna     |OF        |     18|  6|   6|  1|  0| 
-|Matt Wallner      |OF        |     12|  5|   5|  4|  0| 
-|Oneil Cruz        |OF        |     16|  8|   6|  2|  5| 
-|Riley Greene      |OF        |     18|  3|   8|  1|  0| 
-|Chase Meidroth    |DH        |     21|  5|   4|  1|  0| 
-|Kristian Campbell |DH        |     16|  2|   5|  1|  0| 
-|Nick Castellanos  |DH        |     20|  5|   3|  2|  0| 
-|Shohei Ohtani     |DH        |     23| 10|   6|  4|  0| 
+|Matt McLain       |SS        |     14|  4|   5|  1|  0| 
+|Carlos Correa     |MI        |     16|  7|   4|  1|  0| 
+|Isaac Paredes     |CI        |     15|  6|  10|  3|  0| 
+|Marcell Ozuna     |OF        |     20|  7|   6|  1|  0| 
+|Matt Wallner      |OF        |     12|  6|   5|  4|  0| 
+|Oneil Cruz        |OF        |     18|  9|   6|  2|  6| 
+|Riley Greene      |OF        |     19|  3|   8|  1|  0| 
+|Chase Meidroth    |DH        |     22|  5|   4|  1|  0| 
+|Kristian Campbell |DH        |     17|  2|   5|  1|  0| 
+|Nick Castellanos  |DH        |     21|  5|   3|  2|  0| 
+|Shohei Ohtani     |DH        |     24| 11|   6|  4|  0| 
 |Jurickson Profar  |BAT BENCH |     **| **|  **| **| **| 
-|Max Kepler        |BAT BENCH |      7|  3|   5|  1|  0| 
+|Max Kepler        |BAT BENCH |      9|  4|   6|  1|  0| 
 |Roman Anthony     |BAT BENCH |      2|  0|   3|  0|  0| 
 
 
@@ -32,7 +32,7 @@
  
 |players            |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:------------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Jesús Luzardo      |SP          |  2|  5.667| 20| 31.765|     26| 4.588|  6|  0|  0| 
+|Jesús Luzardo      |SP          |  3| 11.667| 21| 16.200|     31| 2.657| 16|  1|  0| 
 |Kodai Senga        |SP          |  2| 12.333|  3|  2.189|     11| 0.892| 13|  1|  0| 
 |Merrill Kelly      |SP          |  3| 18.000|  4|  2.000|     16| 0.889| 21|  1|  0| 
 |Sonny Gray         |SP          |  2| 13.333|  0|  0.000|     13| 0.975| 15|  2|  0| 
@@ -43,7 +43,7 @@
 |Drew Rasmussen     |OP          |  3| 17.000|  2|  1.059|     10| 0.588| 16|  2|  0| 
 |Erick Fedde        |OP          |  2| 11.333|  2|  1.588|     15| 1.324|  7|  0|  0| 
 |Jeff Hoffman       |OP          |  8|  6.667|  4|  5.400|      7| 1.050|  9|  1|  6| 
-|JP Sears           |OP          |  3| 13.333| 15| 10.125|     25| 1.875|  7|  1|  0| 
+|JP Sears           |OP          |  4| 18.667| 17|  8.196|     29| 1.554| 16|  1|  0| 
 |Ronny Henriquez    |OP          |  5|  6.333|  6|  8.526|      6| 0.947|  8|  1|  0| 
 |Justin Verlander   |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Logan Gilbert      |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 

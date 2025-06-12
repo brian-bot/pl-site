@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Iván Herrera      |C         |     18|  3|   6|  2|  0| 
-|Pete Alonso       |1B        |     24| 11|  22|  7|  0| 
-|Ketel Marte       |2B        |     26| 10|  11|  5|  0| 
-|José Ramírez      |3B        |     27| 10|   6|  3|  6| 
-|Francisco Lindor  |SS        |     20| 10|   8|  4|  3| 
+|Iván Herrera      |C         |     19|  3|   6|  2|  0| 
+|Pete Alonso       |1B        |     27| 11|  23|  7|  0| 
+|Ketel Marte       |2B        |     28| 11|  11|  5|  0| 
+|José Ramírez      |3B        |     29| 11|   7|  3|  7| 
+|Francisco Lindor  |SS        |     21| 11|   8|  4|  3| 
 |CJ Abrams         |MI        |     16| 10|   3|  1|  2| 
-|Spencer Torkelson |CI        |     12|  4|   7|  3|  0| 
+|Spencer Torkelson |CI        |     13|  5|   7|  3|  0| 
 |Adolis García     |OF        |      7|  3|   3|  0|  2| 
-|George Springer   |OF        |     23| 11|  12|  5|  0| 
-|Luis Robert Jr.   |OF        |      7|  1|   6|  1|  0| 
+|George Springer   |OF        |     24| 11|  13|  5|  0| 
+|Luis Robert Jr.   |OF        |      8|  1|   6|  1|  0| 
 |Randy Arozarena   |OF        |     18|  3|   6|  2|  2| 
 |Daulton Varsho    |DH        |      4|  1|   0|  0|  0| 
-|Eugenio Suárez    |DH        |     12|  6|   7|  3|  0| 
-|Taylor Ward       |DH        |     12|  6|   8|  3|  0| 
-|TJ Friedl         |DH        |     26| 10|   7|  4|  1| 
-|Jac Caglianone    |BAT BENCH |      7|  0|   2|  0|  0| 
+|Eugenio Suárez    |DH        |     15|  7|  11|  4|  0| 
+|Taylor Ward       |DH        |     13|  7|   9|  3|  0| 
+|TJ Friedl         |DH        |     28| 11|   8|  5|  1| 
+|Jac Caglianone    |BAT BENCH |      8|  0|   2|  0|  0| 
 |Royce Lewis       |BAT BENCH |     14|  4|   5|  0|  0| 
-|Xavier Edwards    |BAT BENCH |     14|  5|   3|  0|  0| 
+|Xavier Edwards    |BAT BENCH |     15|  5|   3|  0|  0| 
 
 
 * * *
