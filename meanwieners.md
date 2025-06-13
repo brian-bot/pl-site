@@ -10,15 +10,15 @@
 |Luis Urías        |2B        |     17|  6|   3|  0|  1| 
 |Max Muncy         |3B        |     27| 12|  14|  6|  2| 
 |Elly De La Cruz   |SS        |     23| 12|   6|  4|  3| 
-|Dansby Swanson    |MI        |     13|  2|   5|  1|  0| 
-|Christian Walker  |CI        |     15|  5|  10|  3|  0| 
+|Dansby Swanson    |MI        |     14|  2|   5|  1|  0| 
+|Christian Walker  |CI        |     16|  5|  10|  3|  0| 
 |Anthony Santander |OF        |      3|  1|   0|  0|  0| 
 |Josh Lowe         |OF        |     17|  9|   4|  1|  3| 
-|Trent Grisham     |OF        |     19|  6|   4|  1|  0| 
+|Trent Grisham     |OF        |     21|  6|   4|  1|  0| 
 |Wilyer Abreu      |OF        |      6|  2|   4|  1|  0| 
 |Austin Hays       |DH        |      1|  1|   0|  0|  0| 
 |Jasson Domínguez  |DH        |     11|  3|   1|  0|  2| 
-|Mike Yastrzemski  |DH        |      9|  2|   7|  0|  0| 
+|Mike Yastrzemski  |DH        |     12|  4|   7|  0|  0| 
 |Tommy Edman       |DH        |     16|  8|   7|  1|  1| 
 |Andrés Giménez    |BAT BENCH |     10|  3|   4|  1|  0| 
 |Mark Vientos      |BAT BENCH |      3|  1|   3|  1|  0| 
@@ -41,7 +41,7 @@
 |Nick Lodolo           |SP          |  4| 21.333| 12| 5.062|     24| 1.125| 19|  0|  0| 
 |Nick Pivetta          |SP          |  3| 16.000| 11| 6.188|     23| 1.438| 16|  1|  0| 
 |Félix Bautista        |RP          |  5|  5.000|  1| 1.800|      8| 1.600|  9|  0|  4| 
-|Will Vest             |RP          |  7|  8.333|  3| 3.240|      6| 0.720|  7|  1|  5| 
+|Will Vest             |RP          |  8|  9.333|  3| 2.893|      6| 0.643|  9|  1|  6| 
 |Abner Uribe           |OP          |  5|  6.000|  0| 0.000|      2| 0.333|  7|  0|  0| 
 |Ben Brown             |OP          |  3| 18.667|  8| 3.857|     21| 1.125| 21|  0|  0| 
 |Grant Holmes          |OP          |  3| 14.333|  9| 5.651|     21| 1.465| 22|  0|  0| 

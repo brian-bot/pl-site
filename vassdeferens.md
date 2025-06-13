@@ -7,20 +7,20 @@
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
 |William Contreras     |C         |     18|  5|   4|  0|  0| 
 |Cody Bellinger        |1B        |     17|  8|   4|  1|  3| 
-|Brice Turang          |2B        |     23|  8|   3|  0|  2| 
+|Brice Turang          |2B        |     25|  9|   4|  0|  2| 
 |Vladimir Guerrero Jr. |3B        |     24| 10|   7|  1|  2| 
 |Jacob Wilson          |SS        |     25|  8|  10|  2|  1| 
-|Luis García Jr.       |MI        |     20|  7|   8|  1|  0| 
-|Vinnie Pasquantino    |CI        |     26|  7|   8|  2|  0| 
-|Heliot Ramos          |OF        |     28| 10|   7|  2|  2| 
-|James Wood            |OF        |     20|  5|   9|  3|  2| 
+|Luis García Jr.       |MI        |     21|  8|   9|  1|  0| 
+|Vinnie Pasquantino    |CI        |     27|  7|   8|  2|  0| 
+|Heliot Ramos          |OF        |     30| 10|   9|  2|  2| 
+|James Wood            |OF        |     23|  6|   9|  3|  2| 
 |Ronald Acuña Jr.      |OF        |     29| 11|   8|  4|  0| 
 |Teoscar Hernández     |OF        |     11|  8|   5|  1|  0| 
 |Cedric Mullins        |DH        |      4|  4|   1|  0|  1| 
-|Corey Seager          |DH        |     11|  2|   0|  0|  0| 
+|Corey Seager          |DH        |     13|  2|   0|  0|  0| 
 |Gavin Sheets          |DH        |     15|  2|   8|  1|  0| 
-|Paul Goldschmidt      |DH        |     14|  6|   4|  2|  1| 
-|Brooks Lee            |BAT BENCH |     17|  6|   7|  1|  1| 
+|Paul Goldschmidt      |DH        |     17|  6|   4|  2|  1| 
+|Brooks Lee            |BAT BENCH |     18|  6|   8|  1|  1| 
 |Hunter Goodman        |BAT BENCH |     20|  8|   8|  4|  0| 
 |Michael Toglia        |BAT BENCH |      2|  0|   0|  0|  0| 
 |Pavin Smith           |BAT BENCH |     13|  3|   5|  1|  1| 
@@ -46,9 +46,9 @@
 |Matthew Boyd    |OP          |  3| 19.333|  3|  1.397|     19| 0.983| 14|  1|  0| 
 |Randy Vásquez   |OP          |  3| 12.667|  5|  3.553|     18| 1.421|  9|  0|  0| 
 |Shane Smith     |OP          |  3| 15.000|  4|  2.400|     21| 1.400| 15|  2|  0| 
-|Hayden Birdsong |PITCH BENCH |  2|  9.667|  3|  2.793|     12| 1.241| 10|  1|  0| 
+|Hayden Birdsong |PITCH BENCH |  3| 15.667|  6|  3.447|     20| 1.277| 16|  1|  0| 
 |Jose Quintana   |PITCH BENCH |  2| 10.000|  3|  2.700|     16| 1.600|  7|  0|  0| 
-|Tommy Kahnle    |PITCH BENCH |  7|  7.333|  0|  0.000|      3| 0.409|  6|  0|  2| 
+|Tommy Kahnle    |PITCH BENCH |  8|  8.333|  1|  1.080|      5| 0.600|  6|  0|  2| 
 
 
 * * *

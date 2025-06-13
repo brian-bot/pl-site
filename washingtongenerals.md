@@ -6,23 +6,23 @@
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Bo Naylor           |C         |     15|  6|   3|  2|  0| 
-|Michael Busch       |1B        |     18|  6|  11|  4|  0| 
-|Jose Altuve         |2B        |     18|  7|   7|  3|  1| 
+|Michael Busch       |1B        |     19|  6|  11|  4|  0| 
+|Jose Altuve         |2B        |     21|  8|   9|  3|  2| 
 |Rafael Devers       |3B        |     26| 10|   9|  2|  0| 
 |Bo Bichette         |SS        |     22|  9|  15|  4|  0| 
 |Masyn Winn          |MI        |     21| 10|   5|  0|  1| 
 |Josh Naylor         |CI        |     21|  6|  12|  2|  1| 
 |Aaron Judge         |OF        |     28| 13|  12|  7|  2| 
-|Jackson Chourio     |OF        |     20| 10|  11|  3|  4| 
+|Jackson Chourio     |OF        |     21| 11|  13|  4|  4| 
 |Jarren Duran        |OF        |     20|  8|   4|  1|  1| 
 |Lourdes Gurriel Jr. |OF        |     21|  5|   7|  2|  2| 
 |Gavin Lux           |DH        |     12|  1|   6|  1|  0| 
-|Jake Burger         |DH        |     12|  7|   4|  2|  0| 
+|Jake Burger         |DH        |     15|  9|   7|  3|  0| 
 |Jake Cronenworth    |DH        |     20|  5|   4|  0|  0| 
 |Kyren Paris         |DH        |     **| **|  **| **| **| 
-|Colton Cowser       |BAT BENCH |      8|  2|   2|  2|  0| 
+|Colton Cowser       |BAT BENCH |      9|  2|   2|  2|  0| 
 |JJ Bleday           |BAT BENCH |      8|  1|   3|  1|  0| 
-|Willson Contreras   |BAT BENCH |     22|  8|  15|  2|  0| 
+|Willson Contreras   |BAT BENCH |     24|  8|  15|  2|  0| 
 
 
 * * *

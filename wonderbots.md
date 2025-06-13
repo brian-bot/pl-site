@@ -17,13 +17,13 @@
 |Jake Meyers      |OF        |     17|  5|   0|  0|  2| 
 |Mookie Betts     |OF        |     20|  7|   2|  1|  0| 
 |Agustín Ramírez  |DH        |     14|  4|   6|  2|  0| 
-|Ben Rice         |DH        |     11|  4|   4|  2|  1| 
+|Ben Rice         |DH        |     12|  4|   4|  2|  1| 
 |Ezequiel Tovar   |DH        |      3|  4|   1|  1|  0| 
-|Ryan McMahon     |DH        |     17|  3|   4|  2|  0| 
-|Marcus Semien    |BAT BENCH |     24| 13|  10|  4|  3| 
+|Ryan McMahon     |DH        |     19|  4|   4|  2|  0| 
+|Marcus Semien    |BAT BENCH |     25| 14|  10|  4|  3| 
 |Michael Conforto |BAT BENCH |     16|  3|   6|  2|  0| 
 |Mike Trout       |BAT BENCH |     20|  5|   7|  1|  0| 
-|Tyler Fitzgerald |BAT BENCH |     13|  2|   1|  0|  3| 
+|Tyler Fitzgerald |BAT BENCH |     13|  2|   2|  0|  3| 
 
 * * *
 
