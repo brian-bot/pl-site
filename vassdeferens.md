@@ -5,25 +5,25 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras     |C         |     18|  5|   4|  0|  0| 
+|William Contreras     |C         |     19|  5|   6|  0|  0| 
 |Cody Bellinger        |1B        |     17|  8|   4|  1|  3| 
 |Brice Turang          |2B        |     25|  9|   4|  0|  2| 
-|Vladimir Guerrero Jr. |3B        |     24| 10|   7|  1|  2| 
-|Jacob Wilson          |SS        |     25|  8|  10|  2|  1| 
-|Luis García Jr.       |MI        |     21|  8|   9|  1|  0| 
-|Vinnie Pasquantino    |CI        |     27|  7|   8|  2|  0| 
-|Heliot Ramos          |OF        |     30| 10|   9|  2|  2| 
-|James Wood            |OF        |     23|  6|   9|  3|  2| 
-|Ronald Acuña Jr.      |OF        |     29| 11|   8|  4|  0| 
-|Teoscar Hernández     |OF        |     11|  8|   5|  1|  0| 
-|Cedric Mullins        |DH        |      4|  4|   1|  0|  1| 
-|Corey Seager          |DH        |     13|  2|   0|  0|  0| 
-|Gavin Sheets          |DH        |     15|  2|   8|  1|  0| 
+|Vladimir Guerrero Jr. |3B        |     25| 10|   7|  1|  2| 
+|Jacob Wilson          |SS        |     27| 10|  10|  2|  1| 
+|Luis García Jr.       |MI        |     22|  9|   9|  1|  0| 
+|Vinnie Pasquantino    |CI        |     28|  7|   8|  2|  0| 
+|Heliot Ramos          |OF        |     32| 11|   9|  2|  2| 
+|James Wood            |OF        |     26|  9|  13|  4|  2| 
+|Ronald Acuña Jr.      |OF        |     33| 13|   8|  4|  1| 
+|Teoscar Hernández     |OF        |     14|  9|   6|  2|  0| 
+|Cedric Mullins        |DH        |      5|  4|   1|  0|  1| 
+|Corey Seager          |DH        |     15|  2|   1|  0|  0| 
+|Gavin Sheets          |DH        |     16|  2|   8|  1|  0| 
 |Paul Goldschmidt      |DH        |     17|  6|   4|  2|  1| 
-|Brooks Lee            |BAT BENCH |     18|  6|   8|  1|  1| 
-|Hunter Goodman        |BAT BENCH |     20|  8|   8|  4|  0| 
+|Brooks Lee            |BAT BENCH |     19|  6|   8|  1|  1| 
+|Hunter Goodman        |BAT BENCH |     22|  9|   9|  4|  0| 
 |Michael Toglia        |BAT BENCH |      2|  0|   0|  0|  0| 
-|Pavin Smith           |BAT BENCH |     13|  3|   5|  1|  1| 
+|Pavin Smith           |BAT BENCH |     15|  3|   5|  1|  1| 
 
 
 * * *
@@ -35,7 +35,7 @@
 |:---------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Brady Singer    |SP          |  3| 17.000|  7|  3.706|     23| 1.353| 10|  1|  0| 
 |Bryan Woo       |SP          |  3| 18.667| 12|  5.786|     21| 1.125| 12|  0|  0| 
-|Paul Skenes     |SP          |  3| 22.333|  1|  0.403|     11| 0.493| 22|  1|  0| 
+|Paul Skenes     |SP          |  4| 27.333|  1|  0.329|     17| 0.622| 27|  1|  0| 
 |Robbie Ray      |SP          |  3| 18.000|  5|  2.500|     18| 1.000| 23|  1|  0| 
 |Ryan Weathers   |SP          |  2|  9.000|  7|  7.000|     12| 1.333|  8|  0|  0| 
 |Zack Wheeler    |SP          |  2| 11.333|  7|  5.559|     12| 1.059| 13|  0|  0| 
