@@ -5,24 +5,24 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Carlos Narváez      |C         |     19|  9|   6|  1|  0| 
-|Rhys Hoskins        |1B        |     10|  4|   8|  3|  0| 
-|Brandon Lowe        |2B        |     22| 13|   7|  3|  0| 
-|Manny Machado       |3B        |     24| 10|  15|  4|  1| 
-|Trea Turner         |SS        |     25| 11|   8|  2|  5| 
-|Jonathan Aranda     |MI        |     31| 11|   9|  1|  0| 
-|Miguel Vargas       |CI        |     23| 10|   7|  2|  1| 
-|Ian Happ            |OF        |     24|  9|   8|  4|  1| 
+|Carlos Narváez      |C         |     22| 10|   6|  1|  0| 
+|Rhys Hoskins        |1B        |     11|  4|   8|  3|  0| 
+|Brandon Lowe        |2B        |     24| 15|   8|  3|  0| 
+|Manny Machado       |3B        |     26| 10|  17|  4|  1| 
+|Trea Turner         |SS        |     26| 11|   8|  2|  5| 
+|Jonathan Aranda     |MI        |     32| 11|   9|  1|  0| 
+|Miguel Vargas       |CI        |     24| 11|   7|  2|  1| 
+|Ian Happ            |OF        |     24|  9|   9|  4|  1| 
 |Juan Soto           |OF        |     35| 17|  11|  5|  1| 
-|Kyle Tucker         |OF        |     25|  8|   4|  1|  2| 
-|Lawrence Butler     |OF        |     31| 17|   7|  2|  3| 
-|Andy Pages          |DH        |     22|  7|  11|  3|  0| 
+|Kyle Tucker         |OF        |     27|  8|   4|  1|  2| 
+|Lawrence Butler     |OF        |     32| 18|   8|  3|  3| 
+|Andy Pages          |DH        |     23|  8|  12|  3|  0| 
 |Lars Nootbaar       |DH        |     19|  7|   3|  1|  0| 
-|Pete Crow-Armstrong |DH        |     18| 10|   9|  4|  8| 
-|Victor Scott II     |DH        |     13|  3|   1|  0|  3| 
-|Adley Rutschman     |BAT BENCH |     20|  7|   4|  2|  0| 
+|Pete Crow-Armstrong |DH        |     19| 10|   9|  4|  9| 
+|Victor Scott II     |DH        |     14|  3|   3|  0|  3| 
+|Adley Rutschman     |BAT BENCH |     23|  8|   4|  2|  0| 
 |Nick Kurtz          |BAT BENCH |      2|  0|   1|  0|  0| 
-|Trevor Story        |BAT BENCH |     18|  8|  13|  3|  2| 
+|Trevor Story        |BAT BENCH |     20|  9|  14|  3|  2| 
 
 
 * * *
@@ -34,7 +34,7 @@
 |:---------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Bailey Ober     |SP          |  3| 15.667| 14| 8.043|     25| 1.596| 11|  0|  0| 
 |Garrett Crochet |SP          |  3| 21.333|  7| 2.953|     19| 0.891| 28|  2|  0| 
-|Jack Flaherty   |SP          |  3| 18.000|  1| 0.500|     13| 0.722| 21|  3|  0| 
+|Jack Flaherty   |SP          |  4| 22.667|  8| 3.176|     23| 1.015| 26|  3|  0| 
 |Kris Bubic      |SP          |  2| 11.333|  6| 4.765|     16| 1.412| 12|  0|  0| 
 |Max Fried       |SP          |  3| 18.000|  8| 4.000|     17| 0.944| 14|  2|  0| 
 |Max Meyer       |SP          |  2|  8.333|  8| 8.640|     20| 2.400|  5|  0|  0| 

@@ -5,22 +5,22 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez     |C         |     19|  5|   8|  2|  0| 
-|Yandy Díaz         |1B        |     26| 11|  10|  3|  0| 
+|Salvador Perez     |C         |     20|  5|   8|  2|  0| 
+|Yandy Díaz         |1B        |     28| 11|  12|  3|  0| 
 |Ozzie Albies       |2B        |     22|  5|   6|  1|  1| 
 |Brendan Donovan    |3B        |     18|  6|   4|  1|  0| 
-|Gunnar Henderson   |SS        |     22|  5|   4|  1|  2| 
-|Jackson Holliday   |MI        |     19|  9|   4|  2|  4| 
+|Gunnar Henderson   |SS        |     23|  6|   5|  1|  3| 
+|Jackson Holliday   |MI        |     20| 10|   4|  2|  4| 
 |Ryan O'Hearn       |CI        |     16|  6|   9|  2|  1| 
-|Brent Rooker       |OF        |     31| 10|  15|  3|  0| 
-|Brenton Doyle      |OF        |     12|  5|   5|  1|  1| 
+|Brent Rooker       |OF        |     32| 10|  15|  3|  0| 
+|Brenton Doyle      |OF        |     13|  5|   6|  1|  1| 
 |Christian Yelich   |OF        |     25|  8|  12|  4|  1| 
-|Fernando Tatis Jr. |OF        |     24| 10|   1|  1|  6| 
-|Brandon Nimmo      |DH        |     25| 15|  10|  5|  3| 
-|Jung Hoo Lee       |DH        |     21| 10|   1|  0|  3| 
-|Sal Frelick        |DH        |     24|  9|   6|  1|  3| 
+|Fernando Tatis Jr. |OF        |     26| 12|   3|  1|  6| 
+|Brandon Nimmo      |DH        |     28| 15|  12|  5|  3| 
+|Jung Hoo Lee       |DH        |     22| 10|   1|  0|  3| 
+|Sal Frelick        |DH        |     27| 10|   8|  1|  4| 
 |Steven Kwan        |DH        |     20|  4|   4|  2|  2| 
-|Jazz Chisholm Jr.  |BAT BENCH |     12|  4|   7|  2|  4| 
+|Jazz Chisholm Jr.  |BAT BENCH |     14|  5|   7|  2|  4| 
 
 
 * * *
@@ -39,9 +39,9 @@
 |Carlos Estévez  |RP          |  7|  6.667|  1|  1.350|      8| 1.200|  6|  0|  5| 
 |Raisel Iglesias |RP          |  6|  5.667|  5|  7.941|     11| 1.941|  7|  0|  0| 
 |Ben Casparius   |OP          |  5| 10.333|  3|  2.613|     12| 1.161|  8|  0|  0| 
-|Cade Smith      |OP          |  6|  6.667|  1|  1.350|      3| 0.450|  8|  1|  0| 
+|Cade Smith      |OP          |  7|  7.667|  1|  1.174|      3| 0.391| 10|  1|  0| 
 |Devin Williams  |OP          |  7|  6.333|  3|  4.263|      5| 0.789|  6|  0|  5| 
-|Griffin Jax     |OP          |  7|  6.333|  3|  4.263|      8| 1.263| 12|  0|  0| 
+|Griffin Jax     |OP          |  8|  7.333|  3|  3.682|      9| 1.227| 14|  0|  0| 
 |Mark Leiter Jr. |OP          |  7|  4.667|  6| 11.571|     14| 3.000|  6|  1|  1| 
 |Blake Snell     |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Lucas Giolito   |PITCH BENCH |  3| 12.333|  8|  5.838|     22| 1.784|  8|  1|  0| 
