@@ -5,22 +5,22 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras     |C         |     21|  6|   7|  1|  0| 
-|Cody Bellinger        |1B        |     17|  8|   4|  1|  3| 
-|Brice Turang          |2B        |     28| 10|   4|  0|  2| 
+|William Contreras     |C         |     22|  6|   7|  1|  0| 
+|Cody Bellinger        |1B        |     19|  8|   4|  1|  3| 
+|Brice Turang          |2B        |     29| 10|   4|  0|  2| 
 |Vladimir Guerrero Jr. |3B        |     27| 10|   8|  1|  2| 
-|Jacob Wilson          |SS        |     29| 10|  10|  2|  1| 
-|Luis García Jr.       |MI        |     23|  9|   9|  1|  0| 
-|Vinnie Pasquantino    |CI        |     28|  7|   8|  2|  0| 
-|Heliot Ramos          |OF        |     32| 11|   9|  2|  2| 
-|James Wood            |OF        |     26|  9|  13|  4|  2| 
-|Ronald Acuña Jr.      |OF        |     36| 16|  10|  5|  1| 
-|Teoscar Hernández     |OF        |     16| 11|   8|  3|  0| 
-|Cedric Mullins        |DH        |      7|  5|   3|  1|  1| 
-|Corey Seager          |DH        |     18|  3|   2|  0|  0| 
-|Gavin Sheets          |DH        |     20|  4|   9|  2|  0| 
-|Paul Goldschmidt      |DH        |     19|  8|   4|  2|  1| 
-|Brooks Lee            |BAT BENCH |     20|  7|  10|  2|  1| 
+|Jacob Wilson          |SS        |     30| 11|  10|  2|  1| 
+|Luis García Jr.       |MI        |     24|  9|  10|  1|  0| 
+|Vinnie Pasquantino    |CI        |     30|  7|   9|  2|  0| 
+|Heliot Ramos          |OF        |     33| 11|   9|  2|  2| 
+|James Wood            |OF        |     28|  9|  13|  4|  2| 
+|Ronald Acuña Jr.      |OF        |     38| 16|  10|  5|  1| 
+|Teoscar Hernández     |OF        |     17| 11|   8|  3|  0| 
+|Cedric Mullins        |DH        |      8|  6|   3|  1|  1| 
+|Corey Seager          |DH        |     20|  3|   2|  0|  0| 
+|Gavin Sheets          |DH        |     23|  5|   9|  2|  0| 
+|Paul Goldschmidt      |DH        |     20|  8|   4|  2|  1| 
+|Brooks Lee            |BAT BENCH |     23|  8|  11|  3|  1| 
 |Hunter Goodman        |BAT BENCH |     23| 10|   9|  4|  0| 
 |Michael Toglia        |BAT BENCH |      2|  0|   0|  0|  0| 
 |Pavin Smith           |BAT BENCH |     16|  4|   5|  1|  1| 
@@ -38,7 +38,7 @@
 |Paul Skenes     |SP          |  4| 27.333|  1|  0.329|     17| 0.622| 27|  1|  0| 
 |Robbie Ray      |SP          |  3| 18.000|  5|  2.500|     18| 1.000| 23|  1|  0| 
 |Ryan Weathers   |SP          |  2|  9.000|  7|  7.000|     12| 1.333|  8|  0|  0| 
-|Zack Wheeler    |SP          |  2| 11.333|  7|  5.559|     12| 1.059| 13|  0|  0| 
+|Zack Wheeler    |SP          |  3| 17.333|  8|  4.154|     16| 0.923| 22|  1|  0| 
 |Robert Suarez   |RP          |  7|  7.667|  5|  5.870|      7| 0.913| 10|  1|  4| 
 |Zach Agnos      |RP          |  7|  6.333| 11| 15.632|     15| 2.368|  5|  0|  1| 
 |Jack Leiter     |OP          |  3| 14.667|  5|  3.068|     18| 1.227| 15|  1|  0| 
