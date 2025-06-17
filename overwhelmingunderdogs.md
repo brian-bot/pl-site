@@ -9,7 +9,7 @@
 |Freddie Freeman   |1B        |     27|  7|   6|  0|  0| 
 |Jonathan India    |2B        |     23|  8|   6|  2|  0| 
 |Matt Chapman      |3B        |     22|  7|   5|  3|  2| 
-|Matt McLain       |SS        |     18|  7|   8|  2|  0| 
+|Matt McLain       |SS        |     16|  6|   8|  2|  0| 
 |Carlos Correa     |MI        |     19|  8|   5|  1|  0| 
 |Isaac Paredes     |CI        |     18|  8|  11|  4|  0| 
 |Marcell Ozuna     |OF        |     23|  8|  11|  2|  0| 

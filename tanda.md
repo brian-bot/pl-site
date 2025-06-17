@@ -7,7 +7,7 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Iván Herrera      |C         |     25|  4|   7|  3|  0| 
 |Pete Alonso       |1B        |     31| 12|  23|  7|  0| 
-|Ketel Marte       |2B        |     31| 13|  12|  5|  0| 
+|Ketel Marte       |2B        |     30| 12|  10|  4|  0| 
 |José Ramírez      |3B        |     32| 12|   8|  4|  7| 
 |Francisco Lindor  |SS        |     28| 15|   8|  4|  3| 
 |CJ Abrams         |MI        |     26| 15|   3|  1|  4| 
@@ -19,7 +19,7 @@
 |Daulton Varsho    |DH        |      4|  1|   0|  0|  0| 
 |Eugenio Suárez    |DH        |     19|  9|  16|  6|  0| 
 |Taylor Ward       |DH        |     20|  7|  10|  3|  0| 
-|TJ Friedl         |DH        |     34| 14|   9|  6|  1| 
+|TJ Friedl         |DH        |     32| 13|   7|  5|  1| 
 |Jac Caglianone    |BAT BENCH |     11|  1|   2|  0|  0| 
 |Royce Lewis       |BAT BENCH |     17|  6|   6|  1|  0| 
 |Xavier Edwards    |BAT BENCH |     24|  7|   4|  0|  0| 

@@ -10,7 +10,7 @@
 |Bryson Stott                 |2B        |     19|  5|   3|  0|  1| 
 |Junior Caminero              |3B        |     28| 19|  21|  8|  2| 
 |Jeremy Peña                  |SS        |     33| 17|   9|  3|  9| 
-|Geraldo Perdomo              |MI        |     20| 12|  13|  2|  0| 
+|Geraldo Perdomo              |MI        |     19| 11|  12|  1|  0| 
 |Josh Jung                    |CI        |     16|  5|   8|  0|  1| 
 |Chandler Simpson             |OF        |      3|  1|   0|  0|  5| 
 |Jackson Merrill              |OF        |     23|  8|   8|  1|  0| 
@@ -20,7 +20,7 @@
 |Kyle Manzardo                |DH        |     10|  2|   3|  1|  0| 
 |Matt Shaw                    |DH        |     16|  6|   3|  1|  5| 
 |Nolan Schanuel               |DH        |     31|  7|   9|  1|  2| 
-|Christian Encarnacion-Strand |BAT BENCH |     15|  7|   9|  4|  0| 
+|Christian Encarnacion-Strand |BAT BENCH |     12|  6|   7|  3|  0| 
 |Dylan Crews                  |BAT BENCH |     **| **|  **| **| **| 
 |Lane Thomas                  |BAT BENCH |      8|  2|   3|  1|  1| 
 |Yordan Alvarez               |BAT BENCH |     **| **|  **| **| **| 
@@ -42,7 +42,7 @@
 |Emmanuel Clase     |RP          |  8|  7.667|  2| 2.348|     10| 1.304|  9|  0|  4| 
 |Kyle Finnegan      |RP          |  7|  7.333|  4| 4.909|      9| 1.227|  4|  0|  3| 
 |Cristopher Sánchez |OP          |  4| 25.667|  7| 2.455|     30| 1.169| 23|  1|  0| 
-|Emilio Pagán       |OP          |  6|  5.667|  0| 0.000|      2| 0.353|  9|  0|  3| 
+|Emilio Pagán       |OP          |  5|  4.667|  0| 0.000|      2| 0.429|  7|  0|  3| 
 |Jackson Jobe       |OP          |  1|  4.667|  3| 5.786|     10| 2.143|  4|  0|  0| 
 |Logan Allen        |OP          |  3| 13.000|  6| 4.154|     14| 1.077| 10|  2|  0| 
 |Luke Jackson       |OP          |  8|  7.333|  1| 1.227|      7| 0.955|  5|  1|  1| 
