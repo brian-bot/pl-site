@@ -11,7 +11,7 @@
 |Matt Chapman      |3B        |     **| **|  **| **| **| 
 |Matt McLain       |SS        |      5|  2|   1|  0|  0| 
 |Carlos Correa     |MI        |      6|  2|   1|  0|  0| 
-|Isaac Paredes     |CI        |      5|  2|   2|  0|  0| 
+|Isaac Paredes     |CI        |      7|  2|   2|  0|  0| 
 |Marcell Ozuna     |OF        |      3|  0|   4|  0|  0| 
 |Matt Wallner      |OF        |      2|  0|   0|  0|  0| 
 |Oneil Cruz        |OF        |      1|  0|   0|  0|  0| 
@@ -19,7 +19,7 @@
 |Max Kepler        |DH        |      5|  1|   0|  0|  0| 
 |Nick Castellanos  |DH        |      2|  1|   0|  0|  0| 
 |Roman Anthony     |DH        |      2|  0|   0|  0|  1| 
-|Shohei Ohtani     |DH        |      1|  0|   0|  0|  0| 
+|Shohei Ohtani     |DH        |      3|  0|   0|  0|  0| 
 |Jonathan India    |BAT BENCH |      1|  1|   1|  0|  0| 
 |Jurickson Profar  |BAT BENCH |     **| **|  **| **| **| 
 |Kristian Campbell |BAT BENCH |      0|  0|   0|  0|  0| 
@@ -37,7 +37,7 @@
 |Merrill Kelly      |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Sonny Gray         |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Spencer Strider    |SP          |  1| 6.000|  1|  1.500|      6| 1.000|  8|  1|  0| 
-|Yoshinobu Yamamoto |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Yoshinobu Yamamoto |SP          |  1| 6.333|  3|  4.263|      7| 1.105|  5|  0|  0| 
 |Ryan Helsley       |RP          |  1| 1.000|  0|  0.000|      0| 0.000|  1|  0|  1| 
 |Trevor Megill      |RP          |  1| 1.000|  0|  0.000|      1| 1.000|  1|  0|  1| 
 |Drew Rasmussen     |OP          |  1| 5.333|  2|  3.375|      7| 1.312|  5|  0|  0| 

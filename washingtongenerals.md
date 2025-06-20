@@ -7,7 +7,7 @@
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Bo Naylor           |C         |      0|  0|   0|  0|  0| 
 |Michael Busch       |1B        |      3|  0|   0|  0|  0| 
-|Jose Altuve         |2B        |      3|  1|   3|  1|  0| 
+|Jose Altuve         |2B        |      4|  1|   3|  1|  0| 
 |Rafael Devers       |3B        |      5|  0|   1|  0|  0| 
 |Bo Bichette         |SS        |      6|  4|   3|  2|  0| 
 |Masyn Winn          |MI        |      3|  3|   1|  0|  0| 
@@ -17,7 +17,7 @@
 |Jarren Duran        |OF        |      0|  0|   0|  0|  0| 
 |Lourdes Gurriel Jr. |OF        |      4|  0|   1|  0|  0| 
 |Jake Burger         |DH        |      1|  0|   1|  0|  0| 
-|Jake Cronenworth    |DH        |      3|  1|   1|  0|  1| 
+|Jake Cronenworth    |DH        |      6|  1|   2|  0|  1| 
 |William Contreras   |DH        |      7|  1|   1|  0|  0| 
 |Gavin Lux           |BAT BENCH |      4|  1|   2|  1|  0| 
 |JJ Bleday           |BAT BENCH |      0|  0|   0|  0|  0| 

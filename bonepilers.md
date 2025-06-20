@@ -6,17 +6,17 @@
 |players                      |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------------------|:---------|------:|--:|---:|--:|--:| 
 |Cal Raleigh                  |C         |      4|  2|   6|  1|  1| 
-|Tyler Soderstrom             |1B        |      0|  0|   0|  0|  0| 
+|Tyler Soderstrom             |1B        |      0|  1|   0|  0|  0| 
 |Bryson Stott                 |2B        |      6|  1|   4|  1|  1| 
 |Junior Caminero              |3B        |      8|  2|   3|  0|  0| 
-|Jeremy Peña                  |SS        |      5|  2|   2|  0|  0| 
+|Jeremy Peña                  |SS        |      7|  2|   3|  0|  0| 
 |Geraldo Perdomo              |MI        |      3|  1|   0|  0|  0| 
 |Josh Jung                    |CI        |      1|  1|   0|  0|  0| 
 |Jackson Merrill              |OF        |     **| **|  **| **| **| 
 |Lane Thomas                  |OF        |      2|  1|   0|  0|  0| 
 |Seiya Suzuki                 |OF        |      1|  1|   3|  1|  0| 
 |Wyatt Langford               |OF        |      4|  2|   1|  0|  0| 
-|Cam Smith                    |DH        |      8|  5|   4|  2|  0| 
+|Cam Smith                    |DH        |      9|  5|   4|  2|  0| 
 |Christian Encarnacion-Strand |DH        |      1|  0|   0|  0|  0| 
 |Matt Shaw                    |DH        |      2|  0|   1|  0|  0| 
 |Nolan Schanuel               |DH        |      3|  2|   2|  1|  0| 

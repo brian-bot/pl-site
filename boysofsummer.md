@@ -19,7 +19,7 @@
 |Alejandro Kirk  |DH        |      4|  2|   3|  2|  0| 
 |Gleyber Torres  |DH        |      6|  2|   4|  0|  0| 
 |Jordan Beck     |DH        |      3|  2|   2|  1|  0| 
-|Yainer Diaz     |DH        |      4|  2|   0|  0|  0| 
+|Yainer Diaz     |DH        |      5|  2|   0|  0|  0| 
 |Alex Bregman    |BAT BENCH |     **| **|  **| **| **| 
 |Kerry Carpenter |BAT BENCH |      1|  1|   0|  0|  0| 
 |Royce Lewis     |BAT BENCH |     **| **|  **| **| **| 
@@ -38,7 +38,7 @@
 |Matthew Liberatore |SP          |  1| 6.000|  2| 3.000|      5| 0.833|  4|  1|  0| 
 |Ryan Pepiot        |SP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Edwin Díaz         |RP          |  1| 1.000|  0| 0.000|      0| 0.000|  1|  0|  0| 
-|Josh Hader         |RP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Josh Hader         |RP          |  1| 1.333|  1| 6.750|      1| 0.750|  2|  0|  0| 
 |Brandon Walter     |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Eury Pérez         |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Jose Bello         |OP          | **|    **| **|    **|     **|    **| **| **| **| 

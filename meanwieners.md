@@ -7,18 +7,18 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Logan O'Hoppe     |C         |      4|  1|   0|  0|  0| 
 |Matt Olson        |1B        |      8|  3|   5|  1|  0| 
-|Luis Urías        |2B        |      2|  1|   0|  0|  0| 
-|Max Muncy         |3B        |      4|  2|   1|  0|  0| 
+|Luis Urías        |2B        |      4|  1|   0|  0|  0| 
+|Max Muncy         |3B        |      5|  3|   1|  0|  0| 
 |Elly De La Cruz   |SS        |      2|  1|   0|  0|  1| 
 |Dansby Swanson    |MI        |      3|  2|   1|  1|  0| 
-|Christian Walker  |CI        |      4|  3|   2|  1|  0| 
+|Christian Walker  |CI        |      7|  4|   2|  1|  0| 
 |Josh Lowe         |OF        |      4|  1|   1|  0|  1| 
 |Michael Harris II |OF        |      0|  0|   0|  0|  0| 
 |Trent Grisham     |OF        |      3|  2|   2|  1|  0| 
 |Willi Castro      |OF        |      6|  4|   0|  0|  0| 
 |Austin Hays       |DH        |     **| **|  **| **| **| 
 |Jake Mangum       |DH        |      4|  0|   2|  0|  0| 
-|Tommy Edman       |DH        |      3|  1|   2|  0|  0| 
+|Tommy Edman       |DH        |      7|  2|   3|  0|  0| 
 |Wilyer Abreu      |DH        |     **| **|  **| **| **| 
 |Andrés Giménez    |BAT BENCH |      4|  1|   0|  0|  0| 
 |Anthony Santander |BAT BENCH |     **| **|  **| **| **| 

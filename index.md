@@ -7,16 +7,16 @@ Through games on 2025-06-19 ([website build status](https://github.com/brian-bot
 
 |team                   | points|  r| hitsbb| hr| rbi| sb|  w| sv| so|   era|  whip|
 |:----------------------|------:|--:|------:|--:|---:|--:|--:|--:|--:|-----:|-----:|
-|[Nuclear Arms](./nucleararms)|   41.0| 15|     56|  3|  14|  3|  0|  2| 20| 4.576| 1.220|
-|[Bone Pilers](./bonepilers)|   69.5| 20|     48|  6|  26|  2|  5|  3| 28| 2.547| 1.132|
-|[Terminoeckers](./terminoeckers)|   58.0| 24|     52| 11|  21|  1|  4|  1| 40| 5.635| 1.487|
-|[Overwhelming Underdogs](./overwhelmingunderdogs)|   41.5| 15|     47|  3|  17|  2|  2|  2| 29| 3.414| 1.414|
-|[Vass Deferens](./vassdeferens)|   61.5| 23|     69| 11|  29|  2|  1|  0| 30| 4.732| 1.206|
-|[T and A](./tanda)     |   73.5| 17|     51|  4|  24|  3|  3|  2| 44| 2.132| 1.026|
-|[Washington Generals](./washingtongenerals)|   39.0| 16|     46|  3|  13|  3|  0|  1| 23| 3.908| 1.026|
-|[Mean Wieners](./meanwieners)|   53.0| 21|     47|  4|  16|  2|  3|  2| 37| 4.500| 1.250|
-|[Boys of Summer](./boysofsummer)|   58.0| 28|     52| 10|  22|  0|  2|  0| 22| 3.284| 1.014|
-|[Wonderbots](./wonderbots)|   55.0| 19|     56|  5|  13|  1|  3|  0| 30| 2.541| 1.059|
+|[Nuclear Arms](./nucleararms)|   41.5| 15|     58|  3|  14|  3|  0|  2| 24| 4.378| 1.297|
+|[Bone Pilers](./bonepilers)|   67.5| 21|     51|  6|  27|  2|  5|  3| 28| 2.547| 1.132|
+|[Terminoeckers](./terminoeckers)|   60.0| 26|     57| 13|  24|  1|  4|  1| 41| 5.672| 1.487|
+|[Overwhelming Underdogs](./overwhelmingunderdogs)|   43.5| 15|     51|  3|  17|  2|  2|  2| 34| 3.566| 1.358|
+|[Vass Deferens](./vassdeferens)|   60.0| 25|     74| 12|  31|  2|  1|  0| 30| 4.959| 1.224|
+|[T and A](./tanda)     |   71.0| 17|     51|  4|  24|  3|  3|  2| 44| 2.132| 1.026|
+|[Washington Generals](./washingtongenerals)|   38.0| 16|     50|  3|  14|  3|  0|  1| 23| 3.908| 1.026|
+|[Mean Wieners](./meanwieners)|   57.5| 24|     57|  4|  17|  2|  3|  2| 37| 4.500| 1.250|
+|[Boys of Summer](./boysofsummer)|   56.0| 28|     53| 10|  22|  0|  2|  0| 24| 3.462| 1.000|
+|[Wonderbots](./wonderbots)|   55.0| 22|     60|  5|  13|  1|  3|  0| 30| 2.541| 1.059|
 
 * * *
 * * *

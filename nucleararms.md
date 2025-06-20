@@ -12,9 +12,9 @@
 |Gunnar Henderson   |SS        |      7|  3|   2|  0|  0| 
 |Jackson Holliday   |MI        |      3|  1|   1|  0|  0| 
 |Ryan O'Hearn       |CI        |      3|  1|   1|  0|  0| 
-|Brent Rooker       |OF        |      4|  1|   0|  0|  0| 
+|Brent Rooker       |OF        |      5|  1|   0|  0|  0| 
 |Christian Yelich   |OF        |      3|  0|   1|  0|  1| 
-|Fernando Tatis Jr. |OF        |      3|  2|   0|  0|  0| 
+|Fernando Tatis Jr. |OF        |      4|  2|   0|  0|  0| 
 |Steven Kwan        |OF        |      5|  1|   0|  0|  1| 
 |Brandon Nimmo      |DH        |      3|  0|   0|  0|  1| 
 |Giancarlo Stanton  |DH        |      3|  0|   1|  0|  0| 
@@ -32,7 +32,7 @@
  
 |players         |position    |  g|    ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:---------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
-|Colton Gordon   |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Colton Gordon   |SP          |  1| 5.000|  2|  3.600|      8| 1.600|  4|  0|  0| 
 |David Peterson  |SP          |  1| 7.000|  3|  3.857|      8| 1.143|  3|  0|  0| 
 |Dustin May      |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Emmet Sheehan   |SP          |  1| 4.000|  1|  2.250|      3| 0.750|  6|  0|  0| 

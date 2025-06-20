@@ -11,11 +11,11 @@
 |Austin Riley     |3B        |      3|  3|   1|  0|  0| 
 |Zach Neto        |SS        |      3|  1|   0|  0|  0| 
 |Anthony Volpe    |MI        |      1|  0|   1|  0|  0| 
-|Luis Arraez      |CI        |      5|  2|   1|  0|  0| 
+|Luis Arraez      |CI        |      6|  3|   1|  0|  0| 
 |Bryan Reynolds   |OF        |      0|  0|   0|  0|  0| 
 |Corbin Carroll   |OF        |      6|  2|   0|  0|  0| 
 |Jac Caglianone   |OF        |      2|  2|   2|  2|  0| 
-|Jake Meyers      |OF        |      5|  2|   3|  0|  0| 
+|Jake Meyers      |OF        |      8|  4|   3|  0|  0| 
 |Ben Rice         |DH        |      1|  0|   0|  0|  0| 
 |Marcus Semien    |DH        |      4|  0|   1|  0|  0| 
 |Mike Trout       |DH        |      6|  2|   1|  1|  0| 
