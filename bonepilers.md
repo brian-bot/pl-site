@@ -5,24 +5,24 @@
  
 |players                      |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------------------|:---------|------:|--:|---:|--:|--:| 
-|Cal Raleigh                  |C         |     29| 12|  19|  9|  2| 
-|Tyler Soderstrom             |1B        |     28|  9|  14|  4|  2| 
-|Bryson Stott                 |2B        |     19|  5|   3|  0|  1| 
-|Junior Caminero              |3B        |     28| 19|  21|  8|  2| 
-|Jeremy Peña                  |SS        |     33| 17|   9|  3|  9| 
-|Geraldo Perdomo              |MI        |     19| 11|  12|  1|  0| 
-|Josh Jung                    |CI        |     16|  5|   8|  0|  1| 
-|Chandler Simpson             |OF        |      3|  1|   0|  0|  5| 
-|Jackson Merrill              |OF        |     23|  8|   8|  1|  0| 
-|Seiya Suzuki                 |OF        |     21|  4|   9|  3|  1| 
-|Wyatt Langford               |OF        |     22|  7|   9|  3|  1| 
-|Cam Smith                    |DH        |     18|  6|   9|  0|  2| 
-|Kyle Manzardo                |DH        |     10|  2|   3|  1|  0| 
-|Matt Shaw                    |DH        |     16|  6|   3|  1|  5| 
-|Nolan Schanuel               |DH        |     31|  7|   9|  1|  2| 
-|Christian Encarnacion-Strand |BAT BENCH |     12|  6|   7|  3|  0| 
+|Cal Raleigh                  |C         |      4|  2|   6|  1|  1| 
+|Tyler Soderstrom             |1B        |      0|  0|   0|  0|  0| 
+|Bryson Stott                 |2B        |      6|  1|   4|  1|  1| 
+|Junior Caminero              |3B        |      8|  2|   3|  0|  0| 
+|Jeremy Peña                  |SS        |      5|  2|   2|  0|  0| 
+|Geraldo Perdomo              |MI        |      3|  1|   0|  0|  0| 
+|Josh Jung                    |CI        |      1|  1|   0|  0|  0| 
+|Jackson Merrill              |OF        |     **| **|  **| **| **| 
+|Lane Thomas                  |OF        |      2|  1|   0|  0|  0| 
+|Seiya Suzuki                 |OF        |      1|  1|   3|  1|  0| 
+|Wyatt Langford               |OF        |      4|  2|   1|  0|  0| 
+|Cam Smith                    |DH        |      8|  5|   4|  2|  0| 
+|Christian Encarnacion-Strand |DH        |      1|  0|   0|  0|  0| 
+|Matt Shaw                    |DH        |      2|  0|   1|  0|  0| 
+|Nolan Schanuel               |DH        |      3|  2|   2|  1|  0| 
+|Chandler Simpson             |BAT BENCH |     **| **|  **| **| **| 
 |Dylan Crews                  |BAT BENCH |     **| **|  **| **| **| 
-|Lane Thomas                  |BAT BENCH |      8|  2|   3|  1|  1| 
+|Kyle Manzardo                |BAT BENCH |      2|  1|   0|  0|  0| 
 |Yordan Alvarez               |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -31,24 +31,24 @@
 ### Pitchers
 
  
-|players            |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
-|:------------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Corbin Burnes      |SP          |  2| 11.667|  3| 2.314|     13| 1.114| 12|  0|  0| 
-|Framber Valdez     |SP          |  3| 21.000|  5| 2.143|     19| 0.905| 32|  3|  0| 
-|Freddy Peralta     |SP          |  4| 23.000|  7| 2.739|     27| 1.174| 24|  1|  0| 
-|Hunter Brown       |SP          |  4| 24.333|  4| 1.479|     24| 0.986| 34|  2|  0| 
-|Tanner Bibee       |SP          |  4| 22.667| 11| 4.368|     28| 1.235| 22|  0|  0| 
-|Tarik Skubal       |SP          |  3| 21.667|  1| 0.415|     15| 0.692| 19|  2|  0| 
-|Emmanuel Clase     |RP          |  8|  7.667|  2| 2.348|     10| 1.304|  9|  0|  4| 
-|Kyle Finnegan      |RP          |  7|  7.333|  4| 4.909|      9| 1.227|  4|  0|  3| 
-|Cristopher Sánchez |OP          |  4| 25.667|  7| 2.455|     30| 1.169| 23|  1|  0| 
-|Emilio Pagán       |OP          |  5|  4.667|  0| 0.000|      2| 0.429|  7|  0|  3| 
-|Jackson Jobe       |OP          |  1|  4.667|  3| 5.786|     10| 2.143|  4|  0|  0| 
-|Logan Allen        |OP          |  3| 13.000|  6| 4.154|     14| 1.077| 10|  2|  0| 
-|Luke Jackson       |OP          |  8|  7.333|  1| 1.227|      7| 0.955|  5|  1|  1| 
-|Quinn Priester     |PITCH BENCH |  4| 23.000|  5| 1.957|     20| 0.870| 14|  4|  0| 
-|Shohei Ohtani      |PITCH BENCH |  1|  1.000|  1| 9.000|      2| 2.000|  0|  0|  0| 
-|Tobias Myers       |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
+|players            |position    |  g|    ip| er|   era| hitsbb|  whip| so|  w| sv| 
+|:------------------|:-----------|--:|-----:|--:|-----:|------:|-----:|--:|--:|--:| 
+|Framber Valdez     |SP          |  1| 6.000|  2| 3.000|     10| 1.667|  3|  1|  0| 
+|Freddy Peralta     |SP          |  1| 5.000|  3| 5.400|      4| 0.800|  6|  1|  0| 
+|Hunter Brown       |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Shohei Ohtani      |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Tanner Bibee       |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Tarik Skubal       |SP          |  1| 5.667|  2| 3.176|      9| 1.588|  6|  1|  0| 
+|Emmanuel Clase     |RP          |  2| 2.000|  0| 0.000|      4| 2.000|  2|  0|  2| 
+|Kyle Finnegan      |RP          |  1| 1.333|  0| 0.000|      0| 0.000|  1|  0|  0| 
+|Cristopher Sánchez |OP          |  1| 8.000|  1| 1.125|      5| 0.625|  4|  1|  0| 
+|Emilio Pagán       |OP          |  1| 1.000|  0| 0.000|      2| 2.000|  2|  0|  1| 
+|Logan Allen        |OP          |  1| 5.333|  2| 3.375|      6| 1.125|  4|  1|  0| 
+|Luke Jackson       |OP          |  1| 1.000|  0| 0.000|      0| 0.000|  0|  0|  0| 
+|Quinn Priester     |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Cade Horton        |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
+|Jackson Jobe       |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
+|Sawyer Gipson-Long |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
 
 
 * * *

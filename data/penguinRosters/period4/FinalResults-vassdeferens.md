@@ -19,7 +19,7 @@
 |Ronald Acuña Jr.      |OF        |     38| 16|  10|  5|  1| 
 |Teoscar Hernández     |OF        |     18| 12|   8|  3|  0| 
 |Cedric Mullins        |DH        |      8|  6|   3|  1|  1| 
-|Corey Seager          |DH        |     20|  3|   2|  0|  0| 
+|Corey Seager          |DH        |     21|  3|   2|  0|  0| 
 |Gavin Sheets          |DH        |     25|  6|   9|  2|  0| 
 |Paul Goldschmidt      |DH        |     20|  8|   4|  2|  1| 
 |Brooks Lee            |BAT BENCH |     23|  8|  11|  3|  1| 

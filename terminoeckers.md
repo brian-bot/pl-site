@@ -5,24 +5,23 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Carlos Narváez      |C         |     23| 10|   6|  1|  0| 
-|Rhys Hoskins        |1B        |     12|  5|   8|  3|  0| 
-|Brandon Lowe        |2B        |     28| 17|  10|  4|  0| 
-|Manny Machado       |3B        |     28| 11|  21|  5|  1| 
-|Trea Turner         |SS        |     31| 13|  10|  3|  5| 
-|Jonathan Aranda     |MI        |     38| 13|  11|  1|  0| 
-|Miguel Vargas       |CI        |     25| 12|   8|  3|  1| 
-|Ian Happ            |OF        |     26| 10|  10|  4|  2| 
-|Juan Soto           |OF        |     38| 17|  11|  5|  1| 
-|Kyle Tucker         |OF        |     28|  8|   4|  1|  3| 
-|Lawrence Butler     |OF        |     34| 18|   8|  3|  3| 
-|Andy Pages          |DH        |     26| 11|  16|  4|  0| 
-|Lars Nootbaar       |DH        |     19|  7|   3|  1|  0| 
-|Pete Crow-Armstrong |DH        |     19| 10|   9|  4|  9| 
-|Victor Scott II     |DH        |     14|  3|   3|  0|  3| 
-|Adley Rutschman     |BAT BENCH |     24|  9|   5|  3|  0| 
-|Nick Kurtz          |BAT BENCH |      5|  2|   4|  2|  0| 
-|Trevor Story        |BAT BENCH |     22|  9|  15|  3|  2| 
+|Adley Rutschman     |C         |      2|  0|   0|  0|  0| 
+|Rhys Hoskins        |1B        |      3|  2|   1|  1|  0| 
+|Brandon Lowe        |2B        |      5|  3|   2|  1|  0| 
+|Manny Machado       |3B        |      3|  1|   0|  0|  0| 
+|Trea Turner         |SS        |      3|  1|   1|  1|  0| 
+|Jonathan Aranda     |MI        |      5|  0|   2|  0|  0| 
+|Miguel Vargas       |CI        |      4|  2|   1|  0|  1| 
+|Ian Happ            |OF        |      3|  2|   2|  1|  0| 
+|Juan Soto           |OF        |      4|  1|   1|  1|  0| 
+|Kyle Tucker         |OF        |      4|  2|   0|  0|  0| 
+|Lawrence Butler     |OF        |      0|  0|   0|  0|  0| 
+|Andy Pages          |DH        |      6|  3|   4|  2|  0| 
+|Nick Kurtz          |DH        |      4|  3|   2|  1|  0| 
+|Pete Crow-Armstrong |DH        |      5|  3|   3|  2|  0| 
+|Trevor Story        |DH        |      1|  1|   2|  1|  0| 
+|Lars Nootbaar       |BAT BENCH |      6|  2|   2|  1|  0| 
+|Victor Scott II     |BAT BENCH |      4|  3|   2|  1|  1| 
 
 
 * * *
@@ -30,25 +29,26 @@
 ### Pitchers
 
  
-|players         |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
-|:---------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Bailey Ober     |SP          |  3| 15.667| 14| 8.043|     25| 1.596| 11|  0|  0| 
-|Garrett Crochet |SP          |  3| 21.333|  7| 2.953|     19| 0.891| 28|  2|  0| 
-|Jack Flaherty   |SP          |  4| 22.667|  8| 3.176|     23| 1.015| 26|  3|  0| 
-|Kris Bubic      |SP          |  2| 11.333|  6| 4.765|     16| 1.412| 12|  0|  0| 
-|Max Fried       |SP          |  4| 25.000| 10| 3.600|     25| 1.000| 23|  2|  0| 
-|Max Meyer       |SP          |  2|  8.333|  8| 8.640|     20| 2.400|  5|  0|  0| 
-|Mason Miller    |RP          |  7|  7.667|  3| 3.522|      6| 0.783|  9|  1|  2| 
-|Tanner Scott    |RP          | 10|  9.000|  5| 5.000|      9| 1.000| 13|  1|  3| 
-|Casey Mize      |OP          |  3| 13.333|  7| 4.725|     30| 2.250| 14|  0|  0| 
-|Clay Holmes     |OP          |  3| 18.000|  5| 2.500|     17| 0.944| 12|  2|  0| 
-|Gavin Williams  |OP          |  3| 16.667|  5| 2.700|     19| 1.140| 12|  1|  0| 
-|Jameson Taillon |OP          |  3| 19.667|  5| 2.288|     15| 0.763| 14|  3|  0| 
-|Jordan Romano   |OP          |  8|  7.333|  3| 3.682|     12| 1.636| 10|  0|  2| 
-|Bubba Chandler  |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
-|Justin Martinez |PITCH BENCH |  3|  3.333|  2| 5.400|      5| 1.500|  8|  0|  2| 
-|Seth Lugo       |PITCH BENCH |  3| 14.000|  6| 3.857|     19| 1.357| 10|  0|  0| 
-|Walker Buehler  |PITCH BENCH |  3| 14.667| 13| 7.977|     28| 1.909| 15|  1|  0| 
+|players         |position    |  g|    ip| er|    era| hitsbb|  whip| so|  w| sv| 
+|:---------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
+|Andrew Heaney   |SP          |  1| 4.000|  7| 15.750|     11| 2.750|  2|  0|  0| 
+|Garrett Crochet |SP          |  1| 6.000|  1|  1.500|      6| 1.000|  8|  1|  0| 
+|Jack Flaherty   |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Kris Bubic      |SP          |  1| 5.333|  3|  5.062|     10| 1.875|  6|  1|  0| 
+|Max Fried       |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Seth Lugo       |SP          |  1| 6.000|  1|  1.500|      4| 0.667|  9|  1|  0| 
+|Mason Miller    |RP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Tanner Scott    |RP          |  1| 1.000|  0|  0.000|      0| 0.000|  1|  0|  1| 
+|Casey Mize      |OP          |  1| 6.000|  2|  3.000|      5| 0.833|  4|  1|  0| 
+|Clay Holmes     |OP          |  1| 4.667|  3|  5.786|     10| 2.143|  5|  0|  0| 
+|Jameson Taillon |OP          |  1| 4.000|  5| 11.250|      9| 2.250|  2|  0|  0| 
+|José Soriano    |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Shelby Miller   |OP          |  2| 1.333|  2| 13.500|      2| 1.500|  3|  0|  0| 
+|Bailey Ober     |PITCH BENCH |  1| 5.667|  4|  6.353|      9| 1.588|  5|  0|  0| 
+|Bubba Chandler  |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Gavin Williams  |PITCH BENCH |  1| 6.000|  0|  0.000|      5| 0.833|  6|  0|  0| 
+|Jordan Romano   |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Walker Buehler  |PITCH BENCH |  1| 3.333|  8| 21.600|     12| 3.600|  2|  0|  0| 
 
 
 * * *
