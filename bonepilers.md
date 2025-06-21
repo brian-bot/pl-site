@@ -5,24 +5,24 @@
  
 |players                      |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------------------|:---------|------:|--:|---:|--:|--:| 
-|Cal Raleigh                  |C         |      4|  2|   6|  1|  1| 
-|Tyler Soderstrom             |1B        |      0|  1|   0|  0|  0| 
-|Bryson Stott                 |2B        |      6|  1|   4|  1|  1| 
+|Cal Raleigh                  |C         |      8|  6|   9|  3|  2| 
+|Tyler Soderstrom             |1B        |      2|  3|   0|  0|  1| 
+|Bryson Stott                 |2B        |      9|  1|   7|  1|  1| 
 |Junior Caminero              |3B        |      8|  2|   3|  0|  0| 
-|Jeremy Peña                  |SS        |      7|  2|   3|  0|  0| 
-|Geraldo Perdomo              |MI        |      3|  1|   0|  0|  0| 
-|Josh Jung                    |CI        |      1|  1|   0|  0|  0| 
+|Jeremy Peña                  |SS        |     11|  3|   4|  1|  0| 
+|Geraldo Perdomo              |MI        |      4|  1|   0|  0|  0| 
+|Josh Jung                    |CI        |      1|  1|   1|  0|  0| 
 |Jackson Merrill              |OF        |     **| **|  **| **| **| 
 |Lane Thomas                  |OF        |      2|  1|   0|  0|  0| 
-|Seiya Suzuki                 |OF        |      1|  1|   3|  1|  0| 
+|Seiya Suzuki                 |OF        |      3|  2|   3|  1|  0| 
 |Wyatt Langford               |OF        |      4|  2|   1|  0|  0| 
-|Cam Smith                    |DH        |      9|  5|   4|  2|  0| 
+|Cam Smith                    |DH        |     10|  5|   4|  2|  0| 
 |Christian Encarnacion-Strand |DH        |      1|  0|   0|  0|  0| 
 |Matt Shaw                    |DH        |      2|  0|   1|  0|  0| 
 |Nolan Schanuel               |DH        |      3|  2|   2|  1|  0| 
 |Chandler Simpson             |BAT BENCH |     **| **|  **| **| **| 
 |Dylan Crews                  |BAT BENCH |     **| **|  **| **| **| 
-|Kyle Manzardo                |BAT BENCH |      2|  1|   0|  0|  0| 
+|Kyle Manzardo                |BAT BENCH |      3|  1|   0|  0|  0| 
 |Yordan Alvarez               |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -35,9 +35,9 @@
 |:------------------|:-----------|--:|-----:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Framber Valdez     |SP          |  1| 6.000|  2| 3.000|     10| 1.667|  3|  1|  0| 
 |Freddy Peralta     |SP          |  1| 5.000|  3| 5.400|      4| 0.800|  6|  1|  0| 
-|Hunter Brown       |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Hunter Brown       |SP          |  1| 5.000|  1| 1.800|      4| 0.800|  4|  0|  0| 
 |Shohei Ohtani      |SP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Tanner Bibee       |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Tanner Bibee       |SP          |  1| 8.000|  4| 4.500|     11| 1.375| 10|  0|  0| 
 |Tarik Skubal       |SP          |  1| 5.667|  2| 3.176|      9| 1.588|  6|  1|  0| 
 |Emmanuel Clase     |RP          |  2| 2.000|  0| 0.000|      4| 2.000|  2|  0|  2| 
 |Kyle Finnegan      |RP          |  1| 1.333|  0| 0.000|      0| 0.000|  1|  0|  0| 

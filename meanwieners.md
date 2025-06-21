@@ -6,24 +6,24 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Logan O'Hoppe     |C         |      4|  1|   0|  0|  0| 
-|Matt Olson        |1B        |      8|  3|   5|  1|  0| 
-|Luis Urías        |2B        |      4|  1|   0|  0|  0| 
-|Max Muncy         |3B        |      5|  3|   1|  0|  0| 
-|Elly De La Cruz   |SS        |      2|  1|   0|  0|  1| 
+|Matt Olson        |1B        |      9|  3|   6|  1|  0| 
+|Luis Urías        |2B        |      6|  1|   1|  0|  0| 
+|Max Muncy         |3B        |      6|  3|   1|  0|  0| 
+|Elly De La Cruz   |SS        |      3|  1|   0|  0|  1| 
 |Dansby Swanson    |MI        |      3|  2|   1|  1|  0| 
 |Christian Walker  |CI        |      7|  4|   2|  1|  0| 
-|Josh Lowe         |OF        |      4|  1|   1|  0|  1| 
-|Michael Harris II |OF        |      0|  0|   0|  0|  0| 
-|Trent Grisham     |OF        |      3|  2|   2|  1|  0| 
-|Willi Castro      |OF        |      6|  4|   0|  0|  0| 
+|Josh Lowe         |OF        |      6|  4|   2|  0|  1| 
+|Michael Harris II |OF        |      1|  0|   0|  0|  0| 
+|Trent Grisham     |OF        |      4|  3|   2|  1|  0| 
+|Willi Castro      |OF        |      7|  5|   0|  0|  0| 
 |Austin Hays       |DH        |     **| **|  **| **| **| 
-|Jake Mangum       |DH        |      4|  0|   2|  0|  0| 
+|Jake Mangum       |DH        |      5|  1|   2|  0|  0| 
 |Tommy Edman       |DH        |      7|  2|   3|  0|  0| 
-|Wilyer Abreu      |DH        |     **| **|  **| **| **| 
+|Wilyer Abreu      |DH        |      2|  1|   1|  0|  0| 
 |Andrés Giménez    |BAT BENCH |      4|  1|   0|  0|  0| 
 |Anthony Santander |BAT BENCH |     **| **|  **| **| **| 
-|Isaac Collins     |BAT BENCH |      4|  3|   5|  2|  0| 
-|Jasson Domínguez  |BAT BENCH |      3|  1|   0|  0|  1| 
+|Isaac Collins     |BAT BENCH |      6|  4|   5|  2|  0| 
+|Jasson Domínguez  |BAT BENCH |      5|  1|   1|  0|  1| 
 |Mark Vientos      |BAT BENCH |     **| **|  **| **| **| 
 |Zack Gelof        |BAT BENCH |     **| **|  **| **| **| 
 
@@ -36,12 +36,12 @@
 |players               |position    |  g|    ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:---------------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
 |Chris Sale            |SP          |  1| 8.667|  0|  0.000|      6| 0.692|  7|  1|  0| 
-|Jacob deGrom          |SP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Joe Ryan              |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Jacob deGrom          |SP          |  1| 6.000|  2|  3.000|      6| 1.000|  7|  1|  0| 
+|Joe Ryan              |SP          |  1| 5.333|  3|  5.062|      6| 1.125|  7|  0|  0| 
 |Kevin Gausman         |SP          |  1| 4.333|  7| 14.538|     10| 2.308|  4|  0|  0| 
 |Nick Lodolo           |SP          |  1| 6.000|  2|  3.000|      5| 0.833|  4|  1|  0| 
-|Nick Pivetta          |SP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Félix Bautista        |RP          |  2| 2.000|  0|  0.000|      0| 0.000|  3|  0|  1| 
+|Nick Pivetta          |SP          |  1| 4.667|  4|  7.714|      8| 1.714|  3|  0|  0| 
+|Félix Bautista        |RP          |  3| 3.000|  0|  0.000|      0| 0.000|  5|  0|  2| 
 |Will Vest             |RP          |  1| 1.000|  0|  0.000|      2| 2.000|  3|  0|  0| 
 |Abner Uribe           |OP          |  1| 1.000|  2| 18.000|      3| 3.000|  1|  0|  0| 
 |Ben Brown             |OP          |  1| 5.000|  2|  3.600|      8| 1.600|  5|  1|  0| 
