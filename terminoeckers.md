@@ -6,22 +6,22 @@
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Adley Rutschman     |C         |      2|  0|   0|  0|  0| 
-|Rhys Hoskins        |1B        |      5|  2|   1|  1|  0| 
-|Brandon Lowe        |2B        |      6|  3|   2|  1|  0| 
-|Manny Machado       |3B        |      6|  3|   1|  1|  0| 
-|Trea Turner         |SS        |      5|  2|   2|  1|  0| 
-|Jonathan Aranda     |MI        |      7|  2|   2|  0|  0| 
-|Miguel Vargas       |CI        |      5|  3|   1|  0|  1| 
-|Ian Happ            |OF        |      4|  3|   3|  2|  0| 
-|Juan Soto           |OF        |      6|  1|   1|  1|  0| 
-|Kyle Tucker         |OF        |      7|  3|   0|  0|  0| 
+|Rhys Hoskins        |1B        |      6|  3|   1|  1|  0| 
+|Brandon Lowe        |2B        |      7|  4|   3|  1|  0| 
+|Manny Machado       |3B        |      8|  3|   1|  1|  0| 
+|Trea Turner         |SS        |      5|  3|   2|  1|  0| 
+|Jonathan Aranda     |MI        |      8|  3|   2|  0|  0| 
+|Miguel Vargas       |CI        |      7|  4|   1|  0|  1| 
+|Ian Happ            |OF        |      7|  5|   7|  4|  0| 
+|Juan Soto           |OF        |     10|  3|   5|  3|  0| 
+|Kyle Tucker         |OF        |      9|  4|   1|  1|  0| 
 |Lawrence Butler     |OF        |      5|  1|   2|  1|  0| 
-|Andy Pages          |DH        |      8|  3|   5|  2|  0| 
-|Nick Kurtz          |DH        |      7|  5|   6|  3|  0| 
-|Pete Crow-Armstrong |DH        |      5|  3|   3|  2|  0| 
-|Trevor Story        |DH        |      1|  1|   2|  1|  0| 
-|Lars Nootbaar       |BAT BENCH |      8|  2|   3|  1|  0| 
-|Victor Scott II     |BAT BENCH |      6|  4|   2|  1|  2| 
+|Andy Pages          |DH        |      9|  4|   6|  3|  0| 
+|Nick Kurtz          |DH        |      8|  5|   6|  3|  0| 
+|Pete Crow-Armstrong |DH        |      7|  5|   4|  3|  0| 
+|Trevor Story        |DH        |      4|  2|   2|  1|  0| 
+|Lars Nootbaar       |BAT BENCH |     10|  2|   3|  1|  0| 
+|Victor Scott II     |BAT BENCH |      8|  5|   2|  1|  2| 
 
 
 * * *
@@ -42,12 +42,12 @@
 |Casey Mize      |OP          |  1| 6.000|  2|  3.000|      5| 0.833|  4|  1|  0| 
 |Clay Holmes     |OP          |  1| 4.667|  3|  5.786|     10| 2.143|  5|  0|  0| 
 |Jameson Taillon |OP          |  1| 4.000|  5| 11.250|      9| 2.250|  2|  0|  0| 
-|José Soriano    |OP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Shelby Miller   |OP          |  2| 1.333|  2| 13.500|      2| 1.500|  3|  0|  0| 
+|José Soriano    |OP          |  1| 6.667|  1|  1.350|      6| 0.900| 10|  1|  0| 
+|Shelby Miller   |OP          |  3| 2.333|  2|  7.714|      3| 1.286|  6|  0|  1| 
 |Bailey Ober     |PITCH BENCH |  1| 5.667|  4|  6.353|      9| 1.588|  5|  0|  0| 
 |Bubba Chandler  |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Gavin Williams  |PITCH BENCH |  1| 6.000|  0|  0.000|      5| 0.833|  6|  0|  0| 
-|Jordan Romano   |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Jordan Romano   |PITCH BENCH |  1| 1.000|  0|  0.000|      0| 0.000|  1|  0|  0| 
 |Walker Buehler  |PITCH BENCH |  1| 3.333|  8| 21.600|     12| 3.600|  2|  0|  0| 
 
 
