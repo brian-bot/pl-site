@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Logan O'Hoppe     |C         |      6|  3|   4|  2|  0| 
-|Matt Olson        |1B        |     10|  3|   6|  1|  0| 
+|Logan O'Hoppe     |C         |      7|  4|   6|  3|  0| 
+|Matt Olson        |1B        |     12|  3|   6|  1|  0| 
 |Luis Urías        |2B        |      8|  1|   1|  0|  0| 
-|Max Muncy         |3B        |      7|  3|   1|  0|  0| 
-|Elly De La Cruz   |SS        |      5|  2|   2|  1|  1| 
+|Max Muncy         |3B        |      9|  5|   8|  2|  0| 
+|Elly De La Cruz   |SS        |      6|  3|   2|  1|  1| 
 |Dansby Swanson    |MI        |      5|  3|   1|  1|  0| 
-|Christian Walker  |CI        |      8|  4|   3|  1|  0| 
+|Christian Walker  |CI        |     10|  4|   4|  1|  0| 
 |Josh Lowe         |OF        |      7|  5|   3|  0|  1| 
 |Michael Harris II |OF        |      2|  0|   1|  0|  1| 
-|Trent Grisham     |OF        |      7|  4|   3|  2|  0| 
+|Trent Grisham     |OF        |      8|  4|   3|  2|  0| 
 |Willi Castro      |OF        |      7|  5|   0|  0|  0| 
 |Austin Hays       |DH        |     **| **|  **| **| **| 
-|Jake Mangum       |DH        |      5|  1|   2|  0|  0| 
+|Jake Mangum       |DH        |      8|  2|   2|  0|  0| 
 |Tommy Edman       |DH        |      9|  2|   3|  0|  0| 
 |Wilyer Abreu      |DH        |      4|  1|   2|  0|  0| 
-|Andrés Giménez    |BAT BENCH |      4|  1|   0|  0|  0| 
+|Andrés Giménez    |BAT BENCH |      5|  1|   0|  0|  0| 
 |Anthony Santander |BAT BENCH |     **| **|  **| **| **| 
-|Isaac Collins     |BAT BENCH |      8|  6|   8|  2|  0| 
+|Isaac Collins     |BAT BENCH |     10|  7|   8|  2|  1| 
 |Jasson Domínguez  |BAT BENCH |      7|  3|   1|  0|  1| 
 |Mark Vientos      |BAT BENCH |     **| **|  **| **| **| 
 |Zack Gelof        |BAT BENCH |     **| **|  **| **| **| 
@@ -43,10 +43,10 @@
 |Nick Pivetta          |SP          |  1| 4.667|  4|  7.714|      8| 1.714|  3|  0|  0| 
 |Félix Bautista        |RP          |  3| 3.000|  0|  0.000|      0| 0.000|  5|  0|  2| 
 |Will Vest             |RP          |  1| 1.000|  0|  0.000|      2| 2.000|  3|  0|  0| 
-|Abner Uribe           |OP          |  1| 1.000|  2| 18.000|      3| 3.000|  1|  0|  0| 
+|Abner Uribe           |OP          |  2| 2.000|  3| 13.500|      4| 2.000|  1|  0|  0| 
 |Ben Brown             |OP          |  1| 5.000|  2|  3.600|      8| 1.600|  5|  1|  0| 
 |Grant Holmes          |OP          |  1| 5.667|  0|  0.000|     10| 1.765|  5|  1|  0| 
-|Matt Strahm           |OP          |  1| 1.000|  1|  9.000|      3| 3.000|  2|  0|  1| 
+|Matt Strahm           |OP          |  2| 2.000|  1|  4.500|      3| 1.500|  3|  0|  1| 
 |Spencer Schwellenbach |OP          |  1| 7.000|  4|  5.143|      8| 1.143|  8|  0|  0| 
 |Tyler Glasnow         |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 
