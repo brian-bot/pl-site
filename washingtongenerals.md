@@ -10,17 +10,17 @@
 |Jose Altuve         |2B        |     10|  2|   3|  1|  0| 
 |Rafael Devers       |3B        |      8|  2|   3|  1|  0| 
 |Bo Bichette         |SS        |     12|  5|   7|  3|  0| 
-|Masyn Winn          |MI        |      8|  5|   3|  0|  1| 
-|Josh Naylor         |CI        |      9|  5|   1|  0|  1| 
-|Aaron Judge         |OF        |     10|  2|   1|  1|  0| 
+|Masyn Winn          |MI        |      9|  6|   3|  0|  1| 
+|Josh Naylor         |CI        |     10|  5|   3|  0|  1| 
+|Aaron Judge         |OF        |     12|  3|   2|  2|  0| 
 |Jackson Chourio     |OF        |      9|  7|   4|  0|  2| 
-|Jarren Duran        |OF        |      3|  1|   0|  0|  1| 
-|Lourdes Gurriel Jr. |OF        |      8|  1|   2|  0|  1| 
-|Colton Cowser       |DH        |      8|  4|   8|  3|  1| 
+|Jarren Duran        |OF        |      4|  1|   0|  0|  1| 
+|Lourdes Gurriel Jr. |OF        |      9|  1|   2|  0|  1| 
+|Colton Cowser       |DH        |      9|  4|   8|  3|  1| 
 |Jake Burger         |DH        |      2|  0|   1|  0|  0| 
-|Jake Cronenworth    |DH        |      7|  1|   3|  0|  1| 
-|William Contreras   |DH        |     12|  1|   3|  0|  0| 
-|Gavin Lux           |BAT BENCH |      5|  1|   4|  1|  0| 
+|Jake Cronenworth    |DH        |      9|  2|   4|  1|  1| 
+|William Contreras   |DH        |     14|  2|   3|  0|  0| 
+|Gavin Lux           |BAT BENCH |      6|  2|   5|  2|  0| 
 |JJ Bleday           |BAT BENCH |      2|  1|   0|  0|  0| 
 |Kyren Paris         |BAT BENCH |     **| **|  **| **| **| 
 
@@ -33,9 +33,9 @@
 |players          |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Bowden Francis   |SP          | **|     **| **|    **|     **|    **| **| **| **| 
-|Chad Patrick     |SP          |  1|  5.000|  4| 7.200|      8| 1.600|  5|  0|  0| 
+|Chad Patrick     |SP          |  2| 10.000|  8| 7.200|     18| 1.800| 14|  0|  0| 
 |Luis Castillo    |SP          |  1|  6.000|  3| 4.500|      5| 0.833|  5|  0|  0| 
-|Mitchell Parker  |SP          |  1|  6.000|  1| 1.500|      6| 1.000|  8|  0|  0| 
+|Mitchell Parker  |SP          |  2| 12.000|  4| 3.000|     14| 1.167|  9|  1|  0| 
 |Noah Cameron     |SP          |  1|  5.333|  2| 3.375|      8| 1.500|  2|  0|  0| 
 |Zack Littell     |SP          |  2| 11.000|  4| 3.273|     11| 1.000|  8|  0|  0| 
 |Jhoan Duran      |RP          |  2|  1.333|  0| 0.000|      1| 0.750|  0|  0|  0| 

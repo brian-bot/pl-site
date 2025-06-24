@@ -7,20 +7,20 @@
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Salvador Perez     |C         |      8|  3|   7|  3|  0| 
 |Yandy Díaz         |1B        |     14|  5|   3|  2|  0| 
-|Ozzie Albies       |2B        |      7|  1|   2|  0|  0| 
+|Ozzie Albies       |2B        |      9|  2|   2|  0|  1| 
 |Jazz Chisholm Jr.  |3B        |     11|  4|   4|  1|  0| 
-|Gunnar Henderson   |SS        |     12|  4|   3|  0|  0| 
-|Jackson Holliday   |MI        |      9|  2|   1|  0|  1| 
+|Gunnar Henderson   |SS        |     13|  4|   3|  0|  0| 
+|Jackson Holliday   |MI        |     12|  3|   5|  1|  1| 
 |Ryan O'Hearn       |CI        |      8|  1|   2|  0|  0| 
 |Brent Rooker       |OF        |     10|  3|   0|  0|  0| 
-|Christian Yelich   |OF        |     12|  2|  11|  0|  2| 
-|Fernando Tatis Jr. |OF        |     10|  3|   3|  1|  0| 
+|Christian Yelich   |OF        |     15|  4|  13|  1|  2| 
+|Fernando Tatis Jr. |OF        |     11|  4|   6|  2|  0| 
 |Steven Kwan        |OF        |     11|  3|   1|  0|  1| 
-|Brandon Nimmo      |DH        |     10|  2|   2|  2|  1| 
-|Giancarlo Stanton  |DH        |      6|  0|   1|  0|  0| 
+|Brandon Nimmo      |DH        |     12|  3|   2|  2|  1| 
+|Giancarlo Stanton  |DH        |      7|  0|   1|  0|  0| 
 |Josh Smith         |DH        |      3|  2|   1|  0|  0| 
-|Sal Frelick        |DH        |      8|  5|   4|  0|  0| 
-|Brendan Donovan    |BAT BENCH |      8|  5|   1|  0|  0| 
+|Sal Frelick        |DH        |      9|  6|   4|  0|  0| 
+|Brendan Donovan    |BAT BENCH |      9|  6|   3|  1|  0| 
 |Brenton Doyle      |BAT BENCH |      4|  4|   0|  0|  1| 
 |Jung Hoo Lee       |BAT BENCH |      3|  2|   0|  0|  0| 
 
@@ -43,7 +43,7 @@
 |Ben Casparius   |OP          |  1|  5.000|  3|  5.400|      6| 1.200|  2|  1|  0| 
 |Cade Smith      |OP          |  4|  3.333|  1|  2.700|      7| 2.100|  6|  0|  0| 
 |Griffin Jax     |OP          |  2|  1.333|  0|  0.000|      2| 1.500|  2|  0|  0| 
-|Mark Leiter Jr. |OP          |  2|  1.667|  0|  0.000|      2| 1.200|  1|  0|  0| 
+|Mark Leiter Jr. |OP          |  3|  2.667|  1|  3.375|      4| 1.500|  3|  0|  0| 
 |Shane Baz       |OP          |  1|  5.333|  5|  8.438|      8| 1.500|  6|  1|  0| 
 |Blake Snell     |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Roki Sasaki     |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 

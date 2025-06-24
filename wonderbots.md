@@ -8,17 +8,17 @@
 |Agustín Ramírez  |C         |      6|  1|   5|  1|  0| 
 |Alec Bohm        |1B        |     10|  3|   3|  0|  0| 
 |Connor Norby     |2B        |      7|  2|   1|  1|  1| 
-|Austin Riley     |3B        |      6|  4|   4|  1|  0| 
-|Zach Neto        |SS        |      7|  3|   1|  1|  0| 
+|Austin Riley     |3B        |      9|  4|   4|  1|  0| 
+|Zach Neto        |SS        |     11|  5|   3|  2|  1| 
 |Anthony Volpe    |MI        |      5|  2|   2|  1|  0| 
-|Luis Arraez      |CI        |      9|  5|   3|  0|  0| 
-|Bryan Reynolds   |OF        |      4|  1|   0|  0|  0| 
+|Luis Arraez      |CI        |     10|  5|   3|  0|  0| 
+|Bryan Reynolds   |OF        |      6|  3|   0|  0|  0| 
 |Corbin Carroll   |OF        |      6|  2|   0|  0|  0| 
 |Jac Caglianone   |OF        |      6|  2|   2|  2|  0| 
 |Mookie Betts     |OF        |      5|  2|   2|  0|  0| 
 |Ben Rice         |DH        |      6|  2|   2|  1|  0| 
 |Marcus Semien    |DH        |      8|  2|   2|  0|  0| 
-|Mike Trout       |DH        |     11|  3|   1|  1|  0| 
+|Mike Trout       |DH        |     14|  5|   1|  1|  0| 
 |Ryan McMahon     |DH        |      7|  3|   2|  2|  0| 
 |Ezequiel Tovar   |BAT BENCH |     **| **|  **| **| **| 
 |Michael Conforto |BAT BENCH |      1|  1|   0|  0|  0| 
@@ -38,8 +38,8 @@
 |Ranger Suárez    |SP          |  1| 7.000|  1|  1.286|      6| 0.857|  8|  1|  0| 
 |Tyler Anderson   |SP          |  1| 6.000|  4|  6.000|     10| 1.667|  4|  0|  0| 
 |Aroldis Chapman  |RP          |  2| 2.000|  0|  0.000|      0| 0.000|  3|  0|  1| 
-|Dylan Lee        |RP          |  3| 3.333|  0|  0.000|      1| 0.300|  3|  0|  0| 
-|David Bednar     |OP          |  2| 2.667|  0|  0.000|      1| 0.375|  4|  1|  0| 
+|Dylan Lee        |RP          |  4| 4.667|  0|  0.000|      1| 0.214|  5|  0|  1| 
+|David Bednar     |OP          |  3| 3.667|  0|  0.000|      3| 0.818|  5|  1|  1| 
 |Landen Roupp     |OP          |  1| 6.000|  0|  0.000|      6| 1.000|  7|  1|  0| 
 |Luis L. Ortiz    |OP          |  1| 6.000|  0|  0.000|      4| 0.667| 10|  1|  0| 
 |Tomoyuki Sugano  |OP          |  1| 3.667|  3|  7.364|     10| 2.727|  4|  0|  0| 

@@ -7,14 +7,14 @@
 |:---------------|:---------|------:|--:|---:|--:|--:| 
 |Carlos Narváez  |C         |      3|  0|   0|  0|  0| 
 |Bryce Harper    |1B        |     **| **|  **| **| **| 
-|Nico Hoerner    |2B        |      5|  2|   2|  0|  0| 
+|Nico Hoerner    |2B        |      7|  2|   2|  0|  0| 
 |Maikel Garcia   |3B        |     10|  4|   5|  1|  2| 
 |Bobby Witt Jr.  |SS        |     11|  6|   2|  2|  0| 
 |Willy Adames    |MI        |     10|  5|   1|  1|  0| 
 |Jordan Westburg |CI        |      4|  3|   0|  0|  1| 
 |Byron Buxton    |OF        |     13|  7|   6|  6|  1| 
 |Evan Carter     |OF        |      5|  0|   0|  0|  1| 
-|Julio Rodríguez |OF        |      6|  3|   1|  0|  0| 
+|Julio Rodríguez |OF        |      8|  5|   5|  1|  0| 
 |Kyle Schwarber  |OF        |     10|  6|   3|  2|  1| 
 |Alejandro Kirk  |DH        |      5|  2|   3|  2|  0| 
 |Gleyber Torres  |DH        |     13|  3|   4|  0|  0| 
@@ -35,9 +35,9 @@
 |Carlos Rodón       |SP          |  1|  6.000|  3|  4.500|      5| 0.833|  7|  1|  0| 
 |Chris Bassitt      |SP          |  2| 12.000|  4|  3.000|     11| 0.917| 12|  0|  0| 
 |Jacob Misiorowski  |SP          |  1|  6.000|  2|  3.000|      2| 0.333|  6|  1|  0| 
-|Matthew Liberatore |SP          |  1|  6.000|  2|  3.000|      5| 0.833|  4|  1|  0| 
+|Matthew Liberatore |SP          |  2| 13.000|  4|  2.769|     12| 0.923|  9|  2|  0| 
 |Ryan Pepiot        |SP          |  1|  5.000|  1|  1.800|      5| 1.000|  7|  1|  0| 
-|Edwin Díaz         |RP          |  1|  1.000|  0|  0.000|      0| 0.000|  1|  0|  0| 
+|Edwin Díaz         |RP          |  2|  2.000|  0|  0.000|      2| 1.000|  3|  0|  0| 
 |Josh Hader         |RP          |  3|  3.333|  2|  5.400|      3| 0.900|  5|  1|  1| 
 |Brandon Walter     |OP          |  1|  6.000|  7| 10.500|     10| 1.667|  6|  0|  0| 
 |Eury Pérez         |OP          |  1|  4.667|  3|  5.786|      6| 1.286|  6|  0|  0| 

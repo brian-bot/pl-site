@@ -7,18 +7,18 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith        |C         |      8|  5|   4|  3|  0| 
 |Freddie Freeman   |1B        |      5|  3|   0|  0|  0| 
-|Chase Meidroth    |2B        |      6|  3|   0|  0|  1| 
+|Chase Meidroth    |2B        |      7|  3|   0|  0|  1| 
 |Matt Chapman      |3B        |     **| **|  **| **| **| 
-|Matt McLain       |SS        |     11|  5|   2|  1|  0| 
-|Carlos Correa     |MI        |     12|  2|   2|  0|  0| 
+|Matt McLain       |SS        |     13|  6|   2|  1|  0| 
+|Carlos Correa     |MI        |     14|  3|   3|  1|  0| 
 |Isaac Paredes     |CI        |     12|  3|   3|  1|  0| 
-|Marcell Ozuna     |OF        |      7|  1|   5|  0|  0| 
+|Marcell Ozuna     |OF        |      9|  1|   5|  0|  0| 
 |Matt Wallner      |OF        |      5|  2|   2|  1|  0| 
-|Oneil Cruz        |OF        |      3|  1|   1|  0|  1| 
+|Oneil Cruz        |OF        |      4|  1|   1|  0|  1| 
 |Riley Greene      |OF        |     13|  7|  10|  3|  0| 
 |Max Kepler        |DH        |      5|  1|   1|  0|  0| 
 |Nick Castellanos  |DH        |      9|  5|   5|  1|  0| 
-|Roman Anthony     |DH        |      9|  3|   1|  0|  1| 
+|Roman Anthony     |DH        |     11|  4|   1|  0|  1| 
 |Shohei Ohtani     |DH        |      9|  3|   6|  1|  0| 
 |Jonathan India    |BAT BENCH |      4|  2|   4|  1|  0| 
 |Jurickson Profar  |BAT BENCH |     **| **|  **| **| **| 

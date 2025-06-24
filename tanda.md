@@ -7,19 +7,19 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Iván Herrera      |C         |      4|  1|   4|  0|  0| 
 |Pete Alonso       |1B        |      8|  1|   1|  1|  0| 
-|Ketel Marte       |2B        |     13|  8|   7|  1|  0| 
+|Ketel Marte       |2B        |     16| 10|   8|  2|  0| 
 |José Ramírez      |3B        |      9|  0|   2|  0|  0| 
-|Francisco Lindor  |SS        |      5|  2|   4|  2|  0| 
-|CJ Abrams         |MI        |     13|  7|   4|  2|  2| 
+|Francisco Lindor  |SS        |      7|  2|   4|  2|  0| 
+|CJ Abrams         |MI        |     16| 10|   4|  2|  3| 
 |Spencer Torkelson |CI        |      4|  3|   2|  0|  0| 
 |George Springer   |OF        |      6|  2|   1|  0|  0| 
-|Randy Arozarena   |OF        |      9|  5|   3|  0|  0| 
-|Taylor Ward       |OF        |      7|  4|   5|  1|  0| 
-|TJ Friedl         |OF        |      8|  3|   4|  0|  0| 
-|Adolis García     |DH        |     10|  4|   3|  1|  0| 
-|Eugenio Suárez    |DH        |     13|  5|  10|  4|  0| 
-|Jo Adell          |DH        |      8|  4|   4|  3|  0| 
-|Luis Robert Jr.   |DH        |      3|  1|   3|  1|  1| 
+|Randy Arozarena   |OF        |     11|  6|   3|  0|  0| 
+|Taylor Ward       |OF        |     11|  5|   6|  1|  0| 
+|TJ Friedl         |OF        |     10|  3|   4|  0|  0| 
+|Adolis García     |DH        |     11|  4|   3|  1|  0| 
+|Eugenio Suárez    |DH        |     14|  5|  10|  4|  0| 
+|Jo Adell          |DH        |      9|  5|   5|  3|  0| 
+|Luis Robert Jr.   |DH        |      5|  1|   3|  1|  1| 
 |Xavier Edwards    |BAT BENCH |     10|  3|   1|  0|  3| 
 
 
@@ -40,7 +40,7 @@
 |Camilo Doval        |RP          |  3|  3.000|  2| 6.000|      3| 1.000|  3|  0|  2| 
 |Charlie Morton      |OP          |  1|  6.000|  1| 1.500|      6| 1.000|  7|  1|  0| 
 |Daniel Palencia     |OP          |  2|  2.000|  1| 4.500|      3| 1.500|  2|  0|  1| 
-|Eduardo Rodriguez   |OP          |  1|  4.667|  1| 1.929|      9| 1.929|  4|  0|  0| 
+|Eduardo Rodriguez   |OP          |  2| 10.667|  1| 0.844|     16| 1.500| 14|  1|  0| 
 |Lucas Giolito       |OP          |  1|  6.000|  2| 3.000|      6| 1.000|  5|  0|  0| 
 |Slade Cecconi       |OP          |  2| 12.000|  2| 1.500|     14| 1.167|  9|  2|  0| 
 |Aaron Nola          |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
