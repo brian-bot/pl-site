@@ -7,18 +7,18 @@
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Adley Rutschman     |C         |      2|  0|   0|  0|  0| 
 |Rhys Hoskins        |1B        |     10|  5|   3|  2|  0| 
-|Brandon Lowe        |2B        |     10|  4|   3|  1|  0| 
+|Brandon Lowe        |2B        |     11|  5|   4|  2|  0| 
 |Manny Machado       |3B        |     10|  4|   2|  2|  0| 
 |Trea Turner         |SS        |      9|  4|   2|  1|  0| 
-|Jonathan Aranda     |MI        |     13|  4|   2|  0|  0| 
+|Jonathan Aranda     |MI        |     14|  5|   2|  0|  0| 
 |Miguel Vargas       |CI        |     10|  5|   3|  0|  2| 
-|Ian Happ            |OF        |     13|  7|  10|  5|  0| 
-|Juan Soto           |OF        |     16|  7|   9|  6|  1| 
+|Ian Happ            |OF        |     15|  7|  11|  5|  0| 
+|Juan Soto           |OF        |     18|  9|   9|  6|  1| 
 |Kyle Tucker         |OF        |     18|  8|   6|  3|  1| 
 |Lawrence Butler     |OF        |      8|  2|   2|  1|  1| 
 |Andy Pages          |DH        |     14|  5|   8|  3|  0| 
-|Nick Kurtz          |DH        |     13|  6|   9|  4|  0| 
-|Pete Crow-Armstrong |DH        |     12|  7|   4|  3|  1| 
+|Nick Kurtz          |DH        |     14|  6|   9|  4|  0| 
+|Pete Crow-Armstrong |DH        |     13|  8|   4|  3|  1| 
 |Trevor Story        |DH        |      7|  4|   5|  2|  0| 
 |Lars Nootbaar       |BAT BENCH |     13|  4|   7|  3|  0| 
 |Victor Scott II     |BAT BENCH |     10|  6|   2|  1|  3| 
@@ -38,7 +38,7 @@
 |Max Fried       |SP          |  2| 13.000|  3|  2.077|     12| 0.923| 14|  1|  0| 
 |Seth Lugo       |SP          |  2| 12.333|  2|  1.459|      6| 0.486| 16|  1|  0| 
 |Mason Miller    |RP          |  3|  3.333|  1|  2.700|      3| 0.900|  4|  0|  1| 
-|Tanner Scott    |RP          |  3|  3.333|  1|  2.700|      3| 0.900|  1|  0|  3| 
+|Tanner Scott    |RP          |  4|  4.333|  1|  2.077|      4| 0.923|  2|  0|  4| 
 |Casey Mize      |OP          |  2| 11.000|  3|  2.455|     11| 1.000|  9|  1|  0| 
 |Clay Holmes     |OP          |  2|  9.667|  4|  3.724|     17| 1.759|  7|  1|  0| 
 |Jameson Taillon |OP          |  2|  8.000| 13| 14.625|     19| 2.375|  5|  0|  0| 

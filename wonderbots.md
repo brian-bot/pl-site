@@ -5,9 +5,9 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Agustín Ramírez  |C         |      9|  3|   5|  1|  0| 
+|Agustín Ramírez  |C         |     12|  5|   8|  2|  0| 
 |Alec Bohm        |1B        |     11|  3|   3|  0|  0| 
-|Connor Norby     |2B        |     11|  3|   3|  1|  2| 
+|Connor Norby     |2B        |     13|  4|   4|  1|  2| 
 |Austin Riley     |3B        |     11|  5|   5|  1|  0| 
 |Zach Neto        |SS        |     12|  5|   3|  2|  1| 
 |Anthony Volpe    |MI        |      7|  2|   5|  1|  0| 
@@ -15,7 +15,7 @@
 |Bryan Reynolds   |OF        |      9|  4|   0|  0|  0| 
 |Corbin Carroll   |OF        |      6|  2|   0|  0|  0| 
 |Jac Caglianone   |OF        |      7|  2|   2|  2|  0| 
-|Mookie Betts     |OF        |      7|  2|   3|  0|  0| 
+|Mookie Betts     |OF        |      9|  3|   4|  0|  0| 
 |Ben Rice         |DH        |     10|  4|   3|  2|  0| 
 |Marcus Semien    |DH        |     12|  4|   3|  0|  0| 
 |Mike Trout       |DH        |     19|  6|   2|  1|  0| 

@@ -5,22 +5,22 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |     10|  6|   4|  3|  0| 
-|Freddie Freeman   |1B        |      6|  5|   0|  0|  0| 
+|Will Smith        |C         |     11|  6|   4|  3|  0| 
+|Freddie Freeman   |1B        |      7|  5|   1|  0|  0| 
 |Chase Meidroth    |2B        |      9|  3|   1|  0|  1| 
 |Matt Chapman      |3B        |     **| **|  **| **| **| 
 |Matt McLain       |SS        |     13|  7|   2|  1|  0| 
-|Carlos Correa     |MI        |     16|  4|   3|  1|  0| 
-|Isaac Paredes     |CI        |     14|  3|   4|  1|  0| 
-|Marcell Ozuna     |OF        |     13|  2|   5|  0|  0| 
-|Matt Wallner      |OF        |      7|  2|   2|  1|  0| 
+|Carlos Correa     |MI        |     17|  5|   5|  1|  0| 
+|Isaac Paredes     |CI        |     15|  4|   4|  1|  0| 
+|Marcell Ozuna     |OF        |     14|  2|   5|  0|  0| 
+|Matt Wallner      |OF        |      9|  3|   4|  2|  0| 
 |Oneil Cruz        |OF        |      4|  2|   1|  0|  1| 
 |Riley Greene      |OF        |     19|  9|  12|  3|  0| 
 |Max Kepler        |DH        |      5|  1|   1|  0|  0| 
-|Nick Castellanos  |DH        |     10|  5|   5|  1|  0| 
+|Nick Castellanos  |DH        |     11|  5|   5|  1|  0| 
 |Roman Anthony     |DH        |     12|  4|   1|  0|  1| 
-|Shohei Ohtani     |DH        |     13|  6|   8|  2|  0| 
-|Jonathan India    |BAT BENCH |      6|  2|   4|  1|  0| 
+|Shohei Ohtani     |DH        |     15|  7|   9|  3|  0| 
+|Jonathan India    |BAT BENCH |      8|  2|   4|  1|  0| 
 |Jurickson Profar  |BAT BENCH |     **| **|  **| **| **| 
 |Kristian Campbell |BAT BENCH |      0|  0|   0|  0|  0| 
 
