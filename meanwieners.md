@@ -6,25 +6,25 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Logan O'Hoppe     |C         |     10|  4|   6|  3|  0| 
-|Matt Olson        |1B        |     22|  5|   9|  1|  0| 
-|Luis Urías        |2B        |      9|  1|   1|  0|  0| 
-|Max Muncy         |3B        |     15| 10|  16|  4|  0| 
-|Elly De La Cruz   |SS        |     15|  8|   6|  2|  2| 
-|Dansby Swanson    |MI        |     10|  6|   1|  1|  0| 
-|Christian Walker  |CI        |     13|  4|   4|  1|  0| 
-|Josh Lowe         |OF        |     14|  7|   5|  1|  2| 
+|Matt Olson        |1B        |     24|  5|   9|  1|  0| 
+|Luis Urías        |2B        |     10|  1|   1|  0|  0| 
+|Max Muncy         |3B        |     18| 11|  17|  4|  0| 
+|Elly De La Cruz   |SS        |     17|  8|   6|  2|  2| 
+|Dansby Swanson    |MI        |     14|  6|   2|  1|  0| 
+|Christian Walker  |CI        |     14|  4|   4|  1|  0| 
+|Josh Lowe         |OF        |     16|  9|   5|  1|  2| 
 |Michael Harris II |OF        |      3|  1|   2|  0|  1| 
 |Trent Grisham     |OF        |     13|  5|   4|  2|  0| 
 |Willi Castro      |OF        |     12|  7|   3|  0|  1| 
 |Austin Hays       |DH        |      1|  1|   1|  0|  0| 
-|Jake Mangum       |DH        |     11|  3|   5|  0|  0| 
-|Tommy Edman       |DH        |     13|  5|   3|  0|  0| 
-|Wilyer Abreu      |DH        |      8|  1|   4|  0|  0| 
+|Jake Mangum       |DH        |     14|  4|   5|  0|  0| 
+|Tommy Edman       |DH        |     14|  6|   3|  0|  0| 
+|Wilyer Abreu      |DH        |     10|  3|   8|  1|  0| 
 |Andrés Giménez    |BAT BENCH |     11|  1|   3|  0|  0| 
 |Anthony Santander |BAT BENCH |     **| **|  **| **| **| 
 |Isaac Collins     |BAT BENCH |     17| 11|   8|  2|  1| 
 |Jasson Domínguez  |BAT BENCH |     13|  5|   1|  0|  3| 
-|Mark Vientos      |BAT BENCH |      0|  0|   0|  0|  0| 
+|Mark Vientos      |BAT BENCH |      1|  0|   0|  0|  0| 
 |Zack Gelof        |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -47,7 +47,7 @@
 |Ben Brown             |OP          |  2| 10.000| 10| 9.000|     19| 1.900|  8|  1|  0| 
 |Grant Holmes          |OP          |  2| 10.667|  2| 1.687|     19| 1.781| 11|  1|  0| 
 |Matt Strahm           |OP          |  3|  3.000|  2| 6.000|      4| 1.333|  4|  0|  1| 
-|Spencer Schwellenbach |OP          |  2| 14.000|  6| 3.857|     13| 0.929| 12|  1|  0| 
+|Spencer Schwellenbach |OP          |  3| 21.000|  7| 3.000|     17| 0.810| 24|  2|  0| 
 |Tyler Glasnow         |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 
 

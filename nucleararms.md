@@ -5,22 +5,22 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez     |C         |     13|  3|   8|  3|  0| 
-|Yandy Díaz         |1B        |     23|  7|   3|  2|  0| 
-|Ozzie Albies       |2B        |     14|  3|   3|  0|  1| 
+|Salvador Perez     |C         |     14|  3|   9|  3|  0| 
+|Yandy Díaz         |1B        |     26|  8|   6|  3|  0| 
+|Ozzie Albies       |2B        |     15|  4|   3|  0|  1| 
 |Jazz Chisholm Jr.  |3B        |     15|  7|   7|  3|  0| 
 |Gunnar Henderson   |SS        |     18|  7|   5|  1|  0| 
-|Jackson Holliday   |MI        |     15|  4|   6|  2|  1| 
-|Ryan O'Hearn       |CI        |     12|  4|   3|  1|  0| 
-|Brent Rooker       |OF        |     14|  5|   2|  1|  0| 
-|Christian Yelich   |OF        |     19|  4|  16|  1|  2| 
-|Fernando Tatis Jr. |OF        |     12|  4|   6|  2|  1| 
-|Steven Kwan        |OF        |     17|  5|   1|  0|  2| 
-|Brandon Nimmo      |DH        |     16|  3|   3|  2|  2| 
+|Jackson Holliday   |MI        |     18|  4|   6|  2|  2| 
+|Ryan O'Hearn       |CI        |     13|  4|   3|  1|  0| 
+|Brent Rooker       |OF        |     16|  7|   3|  2|  0| 
+|Christian Yelich   |OF        |     20|  5|  16|  1|  2| 
+|Fernando Tatis Jr. |OF        |     13|  4|   6|  2|  1| 
+|Steven Kwan        |OF        |     18|  5|   2|  0|  2| 
+|Brandon Nimmo      |DH        |     18|  3|   4|  2|  2| 
 |Giancarlo Stanton  |DH        |     10|  1|   2|  0|  0| 
-|Josh Smith         |DH        |      8|  4|   1|  0|  0| 
-|Sal Frelick        |DH        |     16|  7|   7|  0|  1| 
-|Brendan Donovan    |BAT BENCH |     13|  7|   3|  1|  0| 
+|Josh Smith         |DH        |     10|  5|   1|  0|  0| 
+|Sal Frelick        |DH        |     17|  7|   7|  0|  1| 
+|Brendan Donovan    |BAT BENCH |     16|  9|   5|  2|  0| 
 |Brenton Doyle      |BAT BENCH |      6|  6|   1|  1|  1| 
 |Jung Hoo Lee       |BAT BENCH |      9|  4|   0|  0|  0| 
 
@@ -40,7 +40,7 @@
 |Taj Bradley     |SP          |  2|  8.000|  6| 6.750|     10| 1.250|  6|  1|  0| 
 |Carlos Estévez  |RP          |  4|  4.000|  1| 2.250|      1| 0.250|  2|  0|  3| 
 |Devin Williams  |RP          |  4|  4.000|  0| 0.000|      1| 0.250|  5|  0|  2| 
-|Ben Casparius   |OP          |  1|  5.000|  3| 5.400|      6| 1.200|  2|  1|  0| 
+|Ben Casparius   |OP          |  2|  9.000|  9| 9.000|     15| 1.667|  6|  1|  0| 
 |Cade Smith      |OP          |  4|  3.333|  1| 2.700|      7| 2.100|  6|  0|  0| 
 |Griffin Jax     |OP          |  5|  4.333|  1| 2.077|      5| 1.154|  8|  0|  0| 
 |Mark Leiter Jr. |OP          |  4|  3.667|  1| 2.455|      7| 1.909|  3|  0|  0| 
