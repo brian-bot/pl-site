@@ -5,22 +5,22 @@
  
 |players                      |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------------------|:---------|------:|--:|---:|--:|--:| 
-|Cal Raleigh                  |C         |     28| 14|  15|  6|  2| 
-|Tyler Soderstrom             |1B        |     12|  4|   2|  0|  1| 
-|Bryson Stott                 |2B        |     15|  4|   7|  1|  1| 
-|Junior Caminero              |3B        |     16|  8|   6|  3|  0| 
+|Cal Raleigh                  |C         |     29| 15|  17|  7|  2| 
+|Tyler Soderstrom             |1B        |     13|  4|   2|  0|  1| 
+|Bryson Stott                 |2B        |     16|  5|   8|  1|  2| 
+|Junior Caminero              |3B        |     17|  9|   8|  4|  0| 
 |Jeremy Peña                  |SS        |     18|  6|   6|  2|  0| 
-|Geraldo Perdomo              |MI        |     20|  9|   8|  2|  2| 
+|Geraldo Perdomo              |MI        |     21|  9|   9|  2|  2| 
 |Josh Jung                    |CI        |      9|  2|   8|  1|  0| 
 |Jackson Merrill              |OF        |     11|  3|   0|  0|  0| 
 |Lane Thomas                  |OF        |     13|  4|   4|  2|  2| 
 |Seiya Suzuki                 |OF        |     15|  7|  11|  5|  0| 
 |Wyatt Langford               |OF        |      6|  2|   1|  0|  0| 
 |Cam Smith                    |DH        |     23|  9|  10|  4|  1| 
-|Christian Encarnacion-Strand |DH        |      4|  0|   3|  0|  0| 
+|Christian Encarnacion-Strand |DH        |      5|  1|   3|  0|  0| 
 |Matt Shaw                    |DH        |     12|  3|   5|  0|  3| 
 |Nolan Schanuel               |DH        |     15|  6|   9|  3|  0| 
-|Chandler Simpson             |BAT BENCH |      9|  2|   1|  0|  2| 
+|Chandler Simpson             |BAT BENCH |      9|  2|   1|  0|  3| 
 |Dylan Crews                  |BAT BENCH |     **| **|  **| **| **| 
 |Kyle Manzardo                |BAT BENCH |     12|  3|   2|  2|  0| 
 |Yordan Alvarez               |BAT BENCH |     **| **|  **| **| **| 

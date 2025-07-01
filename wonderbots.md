@@ -6,23 +6,23 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Agustín Ramírez  |C         |     19|  9|  11|  2|  0| 
-|Alec Bohm        |1B        |     15|  4|   4|  0|  0| 
+|Alec Bohm        |1B        |     17|  4|   4|  0|  0| 
 |Connor Norby     |2B        |     16|  6|   4|  1|  2| 
 |Austin Riley     |3B        |     15|  6|   6|  1|  0| 
 |Zach Neto        |SS        |     12|  5|   3|  2|  1| 
-|Anthony Volpe    |MI        |     13|  4|   5|  1|  1| 
-|Luis Arraez      |CI        |     19|  7|   5|  1|  0| 
-|Bryan Reynolds   |OF        |     14|  8|   6|  2|  0| 
+|Anthony Volpe    |MI        |     14|  4|   5|  1|  1| 
+|Luis Arraez      |CI        |     21|  7|   5|  1|  0| 
+|Bryan Reynolds   |OF        |     16|  9|   6|  2|  0| 
 |Corbin Carroll   |OF        |      6|  2|   0|  0|  0| 
 |Jac Caglianone   |OF        |      8|  2|   2|  2|  0| 
 |Mookie Betts     |OF        |     10|  3|   5|  0|  0| 
 |Ben Rice         |DH        |     14|  5|   3|  2|  0| 
-|Marcus Semien    |DH        |     16|  5|   5|  0|  0| 
+|Marcus Semien    |DH        |     21|  7|   7|  1|  0| 
 |Mike Trout       |DH        |     23|  8|   4|  2|  0| 
 |Ryan McMahon     |DH        |     13|  6|   2|  2|  1| 
 |Ezequiel Tovar   |BAT BENCH |     **| **|  **| **| **| 
 |Michael Conforto |BAT BENCH |      6|  4|   4|  2|  0| 
-|Shea Langeliers  |BAT BENCH |     **| **|  **| **| **| 
+|Shea Langeliers  |BAT BENCH |      1|  1|   3|  1|  0| 
 
 * * *
 
@@ -33,8 +33,8 @@
 |:----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |David Festa      |SP          |  3| 14.000| 10|  6.429|     22| 1.571| 13|  1|  0| 
 |Dylan Cease      |SP          |  2| 10.667|  4|  3.375|     14| 1.312| 12|  1|  0| 
-|George Kirby     |SP          |  2| 11.000|  5|  4.091|     12| 1.091|  6|  0|  0| 
-|Logan Webb       |SP          |  2| 13.000|  3|  2.077|     16| 1.231| 15|  1|  0| 
+|George Kirby     |SP          |  3| 17.000|  6|  3.176|     15| 0.882| 11|  1|  0| 
+|Logan Webb       |SP          |  3| 19.333|  6|  2.793|     24| 1.241| 22|  1|  0| 
 |Ranger Suárez    |SP          |  3| 21.667|  3|  1.246|     17| 0.785| 23|  2|  0| 
 |Tyler Anderson   |SP          |  2| 10.667|  5|  4.219|     14| 1.312|  9|  0|  0| 
 |Aroldis Chapman  |RP          |  4|  4.000|  0|  0.000|      2| 0.500|  8|  0|  1| 
