@@ -7,20 +7,20 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Iván Herrera      |C         |      4|  1|   4|  0|  0| 
 |Pete Alonso       |1B        |     17|  5|   2|  1|  1| 
-|Ketel Marte       |2B        |     22| 13|  14|  5|  0| 
+|Ketel Marte       |2B        |     23| 13|  14|  5|  0| 
 |José Ramírez      |3B        |     13|  0|   4|  0|  1| 
 |Francisco Lindor  |SS        |     10|  4|   5|  2|  0| 
 |CJ Abrams         |MI        |     25| 11|   9|  3|  4| 
 |Spencer Torkelson |CI        |     12|  6|   3|  1|  0| 
-|George Springer   |OF        |     18|  7|   9|  1|  2| 
-|Randy Arozarena   |OF        |     23| 13|   9|  2|  1| 
-|Taylor Ward       |OF        |     20|  9|  10|  2|  0| 
-|TJ Friedl         |OF        |     17|  4|   5|  0|  0| 
-|Adolis García     |DH        |     15|  5|  11|  2|  1| 
-|Eugenio Suárez    |DH        |     20|  6|  12|  5|  0| 
-|Jo Adell          |DH        |     21| 10|   9|  5|  0| 
+|George Springer   |OF        |     22|  9|  16|  3|  2| 
+|Randy Arozarena   |OF        |     25| 14|  10|  3|  1| 
+|Taylor Ward       |OF        |     23| 10|  10|  2|  0| 
+|TJ Friedl         |OF        |     18|  4|   5|  0|  0| 
+|Adolis García     |DH        |     18|  6|  15|  2|  1| 
+|Eugenio Suárez    |DH        |     21|  8|  12|  5|  0| 
+|Jo Adell          |DH        |     23| 11|  10|  5|  0| 
 |Luis Robert Jr.   |DH        |      6|  2|   4|  2|  1| 
-|Xavier Edwards    |BAT BENCH |     18|  5|   4|  0|  3| 
+|Xavier Edwards    |BAT BENCH |     19|  5|   4|  0|  3| 
 
 
 * * *
@@ -31,7 +31,7 @@
 |players             |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:-------------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Clayton Kershaw     |SP          |  2| 11.000|  3|  2.455|     10| 0.909|  9|  2|  0| 
-|Edward Cabrera      |SP          |  2| 11.667|  3|  2.314|     11| 0.943| 11|  0|  0| 
+|Edward Cabrera      |SP          |  3| 18.667|  3|  1.446|     14| 0.750| 17|  1|  0| 
 |MacKenzie Gore      |SP          |  2| 11.667|  6|  4.629|     19| 1.629| 10|  0|  0| 
 |Michael Wacha       |SP          |  3| 17.000|  9|  4.765|     24| 1.412| 15|  1|  0| 
 |Will Warren         |SP          |  3| 17.333|  5|  2.596|     20| 1.154| 24|  1|  0| 
@@ -39,7 +39,7 @@
 |Andrés Muñoz        |RP          |  4|  3.333|  0|  0.000|      5| 1.500|  5|  1|  0| 
 |Camilo Doval        |RP          |  5|  4.667|  5|  9.643|      7| 1.500|  5|  0|  3| 
 |Charlie Morton      |OP          |  2| 11.000|  4|  3.273|     12| 1.091| 10|  1|  0| 
-|Daniel Palencia     |OP          |  3|  3.000|  1|  3.000|      4| 1.333|  5|  0|  2| 
+|Daniel Palencia     |OP          |  4|  4.000|  1|  2.250|      4| 1.000|  7|  0|  3| 
 |Eduardo Rodriguez   |OP          |  3| 16.000|  2|  1.125|     23| 1.438| 20|  1|  0| 
 |Lucas Giolito       |OP          |  2| 13.000|  2|  1.385|     13| 1.000| 10|  1|  0| 
 |Slade Cecconi       |OP          |  3| 16.667|  5|  2.700|     21| 1.260| 14|  2|  0| 
