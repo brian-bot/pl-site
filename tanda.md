@@ -6,21 +6,21 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Iván Herrera      |C         |      4|  1|   4|  0|  0| 
-|Pete Alonso       |1B        |     19|  5|   3|  1|  1| 
-|Ketel Marte       |2B        |     26| 14|  16|  6|  0| 
+|Pete Alonso       |1B        |     21|  5|   4|  1|  1| 
+|Ketel Marte       |2B        |     27| 15|  17|  7|  0| 
 |José Ramírez      |3B        |     13|  0|   4|  0|  1| 
-|Francisco Lindor  |SS        |     14|  5|   8|  3|  0| 
-|CJ Abrams         |MI        |     28| 13|   9|  3|  4| 
-|Spencer Torkelson |CI        |     16|  9|   5|  2|  0| 
-|George Springer   |OF        |     25| 11|  16|  3|  3| 
+|Francisco Lindor  |SS        |     15|  6|   8|  3|  0| 
+|CJ Abrams         |MI        |     30| 15|   9|  3|  5| 
+|Spencer Torkelson |CI        |     17| 10|   8|  3|  0| 
+|George Springer   |OF        |     29| 14|  20|  5|  3| 
 |Randy Arozarena   |OF        |     27| 15|  12|  4|  1| 
-|Taylor Ward       |OF        |     25| 11|  10|  2|  0| 
+|Taylor Ward       |OF        |     27| 11|  11|  2|  0| 
 |TJ Friedl         |OF        |     22|  5|   5|  0|  0| 
 |Adolis García     |DH        |     19|  6|  15|  2|  1| 
-|Eugenio Suárez    |DH        |     21|  8|  12|  5|  0| 
-|Jo Adell          |DH        |     24| 11|  12|  5|  0| 
+|Eugenio Suárez    |DH        |     22|  9|  13|  6|  0| 
+|Jo Adell          |DH        |     27| 11|  13|  5|  0| 
 |Luis Robert Jr.   |DH        |      6|  2|   4|  2|  1| 
-|Xavier Edwards    |BAT BENCH |     21|  5|   4|  0|  3| 
+|Xavier Edwards    |BAT BENCH |     23|  7|   4|  0|  4| 
 
 
 * * *

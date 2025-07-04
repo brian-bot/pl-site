@@ -12,9 +12,9 @@
 |Trea Turner         |SS        |     19|  9|   6|  3|  2| 
 |Jonathan Aranda     |MI        |     21|  7|   6|  2|  0| 
 |Miguel Vargas       |CI        |     13|  6|   3|  0|  2| 
-|Ian Happ            |OF        |     18|  9|  12|  5|  0| 
-|Juan Soto           |OF        |     26| 11|  11|  7|  2| 
-|Kyle Tucker         |OF        |     26| 14|   9|  4|  3| 
+|Ian Happ            |OF        |     19|  9|  12|  5|  0| 
+|Juan Soto           |OF        |     28| 11|  12|  7|  2| 
+|Kyle Tucker         |OF        |     27| 14|   9|  4|  3| 
 |Lawrence Butler     |OF        |     16|  4|   4|  1|  3| 
 |Andy Pages          |DH        |     21|  9|  12|  4|  0| 
 |Nick Kurtz          |DH        |     22| 10|  13|  5|  0| 
@@ -36,13 +36,13 @@
 |Jack Flaherty   |SP          |  3| 13.333| 14|  9.450|     25| 1.875| 19|  0|  0| 
 |Kris Bubic      |SP          |  3| 16.333|  7|  3.857|     23| 1.408| 19|  1|  0| 
 |Max Fried       |SP          |  3| 19.000|  7|  3.316|     17| 0.895| 16|  1|  0| 
-|Seth Lugo       |SP          |  3| 18.000|  2|  1.000|     15| 0.833| 24|  2|  0| 
+|Seth Lugo       |SP          |  4| 24.333|  3|  1.110|     23| 0.945| 31|  3|  0| 
 |Mason Miller    |RP          |  5|  5.333|  1|  1.688|      5| 0.938|  7|  0|  3| 
-|Tanner Scott    |RP          |  5|  5.333|  1|  1.688|      7| 1.312|  3|  0|  5| 
+|Tanner Scott    |RP          |  6|  6.333|  1|  1.421|      8| 1.263|  5|  0|  5| 
 |Casey Mize      |OP          |  3| 17.667|  5|  2.547|     17| 0.962| 14|  2|  0| 
 |Clay Holmes     |OP          |  3| 15.000|  6|  3.600|     24| 1.600|  8|  1|  0| 
 |Jameson Taillon |OP          |  3| 12.667| 15| 10.658|     25| 1.974|  9|  0|  0| 
-|José Soriano    |OP          |  2| 10.667|  9|  7.594|     17| 1.594| 14|  1|  0| 
+|José Soriano    |OP          |  3| 17.667|  9|  4.585|     22| 1.245| 21|  2|  0| 
 |Shelby Miller   |OP          |  7|  6.667|  3|  4.050|      5| 0.750| 10|  0|  3| 
 |Bailey Ober     |PITCH BENCH |  3| 18.333| 18|  8.836|     28| 1.527| 17|  0|  0| 
 |Bubba Chandler  |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 

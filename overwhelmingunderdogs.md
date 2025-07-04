@@ -6,22 +6,22 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith        |C         |     19| 10|   6|  5|  0| 
-|Freddie Freeman   |1B        |     14|  7|   3|  1|  0| 
-|Chase Meidroth    |2B        |     17|  6|   1|  0|  3| 
+|Freddie Freeman   |1B        |     16|  8|   6|  1|  0| 
+|Chase Meidroth    |2B        |     18|  6|   1|  0|  3| 
 |Matt Chapman      |3B        |     **| **|  **| **| **| 
 |Matt McLain       |SS        |     24| 10|   7|  1|  1| 
 |Carlos Correa     |MI        |     21|  6|   8|  2|  0| 
-|Isaac Paredes     |CI        |     23|  6|   4|  2|  0| 
-|Marcell Ozuna     |OF        |     19|  3|   5|  0|  0| 
-|Matt Wallner      |OF        |     12|  4|   5|  2|  0| 
+|Isaac Paredes     |CI        |     25|  7|   5|  2|  0| 
+|Marcell Ozuna     |OF        |     21|  3|   5|  0|  0| 
+|Matt Wallner      |OF        |     13|  5|   6|  3|  0| 
 |Oneil Cruz        |OF        |     12|  7|   5|  2|  3| 
-|Riley Greene      |OF        |     25| 14|  20|  7|  0| 
+|Riley Greene      |OF        |     26| 14|  20|  7|  0| 
 |Max Kepler        |DH        |     14|  3|   4|  1|  0| 
 |Nick Castellanos  |DH        |     19|  7|  10|  3|  0| 
 |Roman Anthony     |DH        |     22|  9|   4|  0|  1| 
-|Shohei Ohtani     |DH        |     20| 11|  13|  5|  1| 
-|Jonathan India    |BAT BENCH |     19|  7|   5|  1|  0| 
-|Jurickson Profar  |BAT BENCH |      2|  2|   1|  1|  0| 
+|Shohei Ohtani     |DH        |     22| 13|  13|  5|  1| 
+|Jonathan India    |BAT BENCH |     22|  8|   5|  1|  0| 
+|Jurickson Profar  |BAT BENCH |      3|  3|   2|  2|  0| 
 |Kristian Campbell |BAT BENCH |      0|  0|   0|  0|  0| 
 
 
@@ -42,12 +42,12 @@
 |Trevor Megill      |RP          |  4|  5.333|  1|  1.688|      5| 0.938|  6|  0|  3| 
 |Drew Rasmussen     |OP          |  3| 13.333|  6|  4.050|     17| 1.275| 12|  1|  0| 
 |Erick Fedde        |OP          |  3| 13.667| 15|  9.878|     31| 2.268|  6|  0|  0| 
-|Jeff Hoffman       |OP          |  7|  6.333|  0|  0.000|      6| 0.947|  7|  1|  3| 
+|Jeff Hoffman       |OP          |  8|  7.333|  0|  0.000|      7| 0.955|  7|  1|  4| 
 |Justin Verlander   |OP          |  3| 15.667|  7|  4.021|     21| 1.340| 14|  0|  0| 
 |Mick Abel          |OP          |  2|  4.667|  9| 17.357|     13| 2.786|  4|  0|  0| 
 |JP Sears           |PITCH BENCH |  3| 14.000|  8|  5.143|     22| 1.571|  9|  1|  0| 
 |Kodai Senga        |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Ronny Henriquez    |PITCH BENCH |  8|  8.000|  1|  1.125|      6| 0.750| 12|  1|  3| 
+|Ronny Henriquez    |PITCH BENCH |  9|  9.000|  1|  1.000|      6| 0.667| 13|  1|  4| 
 |Shane Bieber       |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 
 
