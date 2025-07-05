@@ -9,7 +9,7 @@
 |Freddie Freeman   |1B        |     17|  8|   6|  1|  0| 
 |Chase Meidroth    |2B        |     19|  6|   1|  0|  3| 
 |Matt Chapman      |3B        |     **| **|  **| **| **| 
-|Matt McLain       |SS        |     25| 11|   7|  1|  1| 
+|Matt McLain       |SS        |     25| 11|   6|  1|  1| 
 |Carlos Correa     |MI        |     21|  6|   8|  2|  0| 
 |Isaac Paredes     |CI        |     27|  9|   6|  3|  0| 
 |Marcell Ozuna     |OF        |     22|  3|   5|  0|  0| 
@@ -18,7 +18,7 @@
 |Riley Greene      |OF        |     27| 14|  20|  7|  0| 
 |Max Kepler        |DH        |     14|  3|   4|  1|  0| 
 |Nick Castellanos  |DH        |     20|  8|  13|  4|  0| 
-|Roman Anthony     |DH        |     27| 10|   4|  0|  1| 
+|Roman Anthony     |DH        |     26|  9|   3|  0|  1| 
 |Shohei Ohtani     |DH        |     23| 13|  13|  5|  1| 
 |Jonathan India    |BAT BENCH |     25| 10|   5|  1|  0| 
 |Jurickson Profar  |BAT BENCH |      4|  4|   2|  2|  0| 

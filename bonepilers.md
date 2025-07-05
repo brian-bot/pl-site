@@ -17,7 +17,7 @@
 |Seiya Suzuki                 |OF        |     22| 10|  16|  7|  0| 
 |Wyatt Langford               |OF        |      6|  2|   1|  0|  0| 
 |Cam Smith                    |DH        |     33| 13|  16|  4|  1| 
-|Christian Encarnacion-Strand |DH        |      9|  3|   7|  1|  0| 
+|Christian Encarnacion-Strand |DH        |      8|  3|   7|  1|  0| 
 |Matt Shaw                    |DH        |     15|  4|   6|  0|  3| 
 |Nolan Schanuel               |DH        |     22|  8|  11|  4|  0| 
 |Chandler Simpson             |BAT BENCH |     14|  4|   2|  0|  5| 

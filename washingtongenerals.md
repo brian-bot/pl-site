@@ -14,13 +14,13 @@
 |Josh Naylor         |CI        |     16|  6|   7|  1|  1| 
 |Aaron Judge         |OF        |     36| 14|  11|  6|  0| 
 |Jackson Chourio     |OF        |     22| 13|  10|  2|  2| 
-|Jarren Duran        |OF        |     19| 10|   4|  1|  1| 
+|Jarren Duran        |OF        |     18|  9|   4|  1|  1| 
 |Lourdes Gurriel Jr. |OF        |     20|  6|   6|  2|  2| 
 |Colton Cowser       |DH        |     20|  9|  12|  4|  1| 
 |Jake Burger         |DH        |      3|  0|   1|  0|  0| 
 |Jake Cronenworth    |DH        |     17|  4|   8|  2|  1| 
 |William Contreras   |DH        |     25|  6|   4|  0|  0| 
-|Gavin Lux           |BAT BENCH |     18|  8|   8|  2|  0| 
+|Gavin Lux           |BAT BENCH |     17|  7|   8|  2|  0| 
 |JJ Bleday           |BAT BENCH |      3|  2|   0|  0|  0| 
 |Kyren Paris         |BAT BENCH |      0|  0|   0|  0|  0| 
 

@@ -19,7 +19,7 @@
 |Andy Pages          |DH        |     23|  9|  12|  4|  0| 
 |Nick Kurtz          |DH        |     23| 11|  15|  6|  0| 
 |Pete Crow-Armstrong |DH        |     23| 13|   9|  5|  3| 
-|Trevor Story        |DH        |     23| 11|  16|  4|  3| 
+|Trevor Story        |DH        |     22| 11|  15|  4|  3| 
 |Lars Nootbaar       |BAT BENCH |     19|  6|   8|  3|  0| 
 |Victor Scott II     |BAT BENCH |     17|  8|   6|  2|  3| 
 

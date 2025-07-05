@@ -15,7 +15,7 @@
 |George Springer   |OF        |     31| 15|  20|  5|  3| 
 |Randy Arozarena   |OF        |     29| 16|  13|  5|  1| 
 |Taylor Ward       |OF        |     29| 12|  11|  2|  0| 
-|TJ Friedl         |OF        |     24|  6|   5|  0|  0| 
+|TJ Friedl         |OF        |     22|  6|   5|  0|  0| 
 |Adolis García     |DH        |     19|  6|  15|  2|  1| 
 |Eugenio Suárez    |DH        |     24| 10|  15|  7|  0| 
 |Jo Adell          |DH        |     29| 12|  16|  6|  0| 

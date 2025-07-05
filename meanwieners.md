@@ -19,7 +19,7 @@
 |Austin Hays       |DH        |      5|  4|   5|  1|  0| 
 |Jake Mangum       |DH        |     17|  6|   6|  1|  1| 
 |Tommy Edman       |DH        |     21|  7|   3|  0|  0| 
-|Wilyer Abreu      |DH        |     20| 10|  18|  4|  2| 
+|Wilyer Abreu      |DH        |     17|  9|  17|  4|  1| 
 |Andrés Giménez    |BAT BENCH |     20|  5|   9|  1|  1| 
 |Anthony Santander |BAT BENCH |     **| **|  **| **| **| 
 |Isaac Collins     |BAT BENCH |     24| 14|   9|  3|  1| 
