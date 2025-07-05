@@ -5,27 +5,27 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Logan O'Hoppe     |C         |     13|  4|   6|  3|  0| 
+|Logan O'Hoppe     |C         |     14|  4|   6|  3|  0| 
 |Matt Olson        |1B        |     32|  6|  13|  2|  0| 
 |Luis Urías        |2B        |     13|  1|   2|  0|  0| 
 |Max Muncy         |3B        |     20| 13|  18|  4|  0| 
-|Elly De La Cruz   |SS        |     22| 10|   8|  2|  2| 
-|Dansby Swanson    |MI        |     21|  8|   2|  1|  0| 
-|Christian Walker  |CI        |     20|  4|   6|  1|  0| 
-|Josh Lowe         |OF        |     20| 10|   6|  2|  2| 
-|Michael Harris II |OF        |      6|  2|   2|  0|  2| 
+|Elly De La Cruz   |SS        |     24| 11|  10|  2|  2| 
+|Dansby Swanson    |MI        |     23| 10|   4|  2|  0| 
+|Christian Walker  |CI        |     25|  7|  10|  2|  0| 
+|Josh Lowe         |OF        |     22| 11|   7|  2|  2| 
+|Michael Harris II |OF        |      7|  2|   2|  0|  2| 
 |Trent Grisham     |OF        |     20|  9|   5|  3|  0| 
-|Willi Castro      |OF        |     17|  8|   3|  0|  4| 
-|Austin Hays       |DH        |      4|  3|   4|  1|  0| 
+|Willi Castro      |OF        |     20|  8|   3|  0|  5| 
+|Austin Hays       |DH        |      5|  4|   5|  1|  0| 
 |Jake Mangum       |DH        |     17|  6|   6|  1|  1| 
-|Tommy Edman       |DH        |     19|  7|   3|  0|  0| 
-|Wilyer Abreu      |DH        |     19|  8|  17|  4|  2| 
-|Andrés Giménez    |BAT BENCH |     19|  5|   8|  1|  1| 
+|Tommy Edman       |DH        |     21|  7|   3|  0|  0| 
+|Wilyer Abreu      |DH        |     20| 10|  18|  4|  2| 
+|Andrés Giménez    |BAT BENCH |     20|  5|   9|  1|  1| 
 |Anthony Santander |BAT BENCH |     **| **|  **| **| **| 
-|Isaac Collins     |BAT BENCH |     23| 13|   9|  3|  1| 
-|Jasson Domínguez  |BAT BENCH |     23|  8|   4|  0|  4| 
+|Isaac Collins     |BAT BENCH |     24| 14|   9|  3|  1| 
+|Jasson Domínguez  |BAT BENCH |     26| 10|   7|  2|  5| 
 |Mark Vientos      |BAT BENCH |      2|  0|   0|  0|  0| 
-|Zack Gelof        |BAT BENCH |     **| **|  **| **| **| 
+|Zack Gelof        |BAT BENCH |      0|  1|   1|  0|  0| 
 
 
 * * *
@@ -41,9 +41,9 @@
 |Kevin Gausman         |SP          |  3| 17.333|  9| 4.673|     23| 1.327| 13|  1|  0| 
 |Nick Lodolo           |SP          |  3| 15.667|  4| 2.298|     20| 1.277| 15|  1|  0| 
 |Nick Pivetta          |SP          |  3| 17.667|  5| 2.547|     18| 1.019| 19|  2|  0| 
-|Félix Bautista        |RP          |  6|  6.000|  1| 1.500|      4| 0.667| 12|  0|  2| 
-|Will Vest             |RP          |  4|  3.667|  0| 0.000|      2| 0.545|  6|  0|  1| 
-|Abner Uribe           |OP          |  7|  6.667|  5| 6.750|     11| 1.650| 11|  0|  0| 
+|Félix Bautista        |RP          |  7|  7.000|  1| 1.286|      4| 0.571| 12|  0|  3| 
+|Will Vest             |RP          |  5|  5.000|  0| 0.000|      4| 0.800|  7|  0|  2| 
+|Abner Uribe           |OP          |  8|  7.667|  5| 5.870|     11| 1.435| 12|  0|  0| 
 |Ben Brown             |OP          |  2| 10.000| 10| 9.000|     19| 1.900|  8|  1|  0| 
 |Grant Holmes          |OP          |  3| 16.667|  2| 1.080|     25| 1.500| 21|  1|  0| 
 |Matt Strahm           |OP          |  5|  5.000|  2| 3.600|      7| 1.400|  6|  0|  2| 
