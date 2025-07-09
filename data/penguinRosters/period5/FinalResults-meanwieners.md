@@ -13,7 +13,7 @@
 |Max Muncy         |3B        |     20| 13|  18|  4|  0| 
 |Elly De La Cruz   |SS        |     26| 11|  10|  2|  2| 
 |Dansby Swanson    |MI        |     26| 12|   4|  2|  0| 
-|Christian Walker  |CI        |     27|  8|  12|  3|  0| 
+|Christian Walker  |CI        |     28|  8|  12|  3|  0| 
 |Josh Lowe         |OF        |     24| 11|   8|  2|  2| 
 |Michael Harris II |OF        |      7|  2|   2|  0|  2| 
 |Trent Grisham     |OF        |     24| 10|   5|  3|  0| 

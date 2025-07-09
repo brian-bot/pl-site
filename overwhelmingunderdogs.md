@@ -5,24 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |     25| 11|   7|  6|  0| 
-|Freddie Freeman   |1B        |     18|  8|   6|  1|  1| 
-|Chase Meidroth    |2B        |     21|  6|   2|  0|  3| 
+|Will Smith        |C         |      2|  0|   0|  0|  0| 
+|Freddie Freeman   |1B        |      1|  0|   0|  0|  0| 
+|Jonathan India    |2B        |      2|  2|   0|  0|  0| 
 |Matt Chapman      |3B        |      3|  2|   0|  0|  0| 
-|Matt McLain       |SS        |     25| 11|   6|  1|  1| 
-|Carlos Correa     |MI        |     25|  8|   8|  2|  0| 
-|Isaac Paredes     |CI        |     30|  9|   6|  3|  0| 
-|Marcell Ozuna     |OF        |     22|  3|   5|  0|  0| 
-|Matt Wallner      |OF        |     17|  6|   6|  3|  0| 
-|Oneil Cruz        |OF        |     13|  7|   5|  2|  3| 
-|Riley Greene      |OF        |     29| 15|  22|  8|  0| 
-|Max Kepler        |DH        |     16|  3|   4|  1|  0| 
-|Nick Castellanos  |DH        |     21|  8|  13|  4|  0| 
-|Roman Anthony     |DH        |     29| 10|   5|  0|  1| 
-|Shohei Ohtani     |DH        |     25| 13|  13|  5|  1| 
-|Jonathan India    |BAT BENCH |     27| 10|   5|  1|  0| 
-|Jurickson Profar  |BAT BENCH |      6|  4|   3|  2|  0| 
-|Kristian Campbell |BAT BENCH |      0|  0|   0|  0|  0| 
+|Matt McLain       |SS        |      1|  1|   1|  1|  0| 
+|Carlos Correa     |MI        |      2|  1|   0|  0|  0| 
+|Isaac Paredes     |CI        |      4|  3|   1|  1|  0| 
+|Marcell Ozuna     |OF        |      1|  0|   0|  0|  0| 
+|Matt Wallner      |OF        |     **| **|  **| **| **| 
+|Oneil Cruz        |OF        |      1|  1|   1|  1|  0| 
+|Riley Greene      |OF        |      1|  0|   1|  0|  0| 
+|Jurickson Profar  |DH        |      0|  0|   0|  0|  0| 
+|Nick Castellanos  |DH        |      2|  0|   0|  0|  0| 
+|Roman Anthony     |DH        |      5|  4|   3|  1|  0| 
+|Shohei Ohtani     |DH        |      4|  2|   1|  1|  0| 
+|Chase Meidroth    |BAT BENCH |      1|  0|   0|  0|  0| 
+|Kristian Campbell |BAT BENCH |     **| **|  **| **| **| 
 
 
 * * *
@@ -30,25 +29,26 @@
 ### Pitchers
 
  
-|players            |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
-|:------------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Jesús Luzardo      |SP          |  4| 18.667| 11|  5.304|     33| 1.768| 22|  1|  0| 
-|Logan Gilbert      |SP          |  3| 15.000|  9|  5.400|     20| 1.333| 20|  1|  0| 
-|Merrill Kelly      |SP          |  3| 17.000|  8|  4.235|     24| 1.412| 17|  1|  0| 
-|Sonny Gray         |SP          |  3| 20.333|  5|  2.213|     14| 0.689| 22|  1|  0| 
-|Spencer Strider    |SP          |  4| 24.000|  9|  3.375|     28| 1.167| 26|  2|  0| 
-|Yoshinobu Yamamoto |SP          |  3| 18.333|  4|  1.964|     13| 0.709| 19|  2|  0| 
-|Ryan Helsley       |RP          |  5|  5.000|  0|  0.000|      2| 0.400|  5|  0|  4| 
-|Trevor Megill      |RP          |  6|  7.333|  1|  1.227|      7| 0.955|  9|  0|  5| 
-|Drew Rasmussen     |OP          |  4| 15.333|  7|  4.109|     20| 1.304| 14|  1|  0| 
-|Erick Fedde        |OP          |  4| 15.000| 18| 10.800|     37| 2.467|  6|  0|  0| 
-|Jeff Hoffman       |OP          |  9|  8.333|  0|  0.000|      7| 0.840|  8|  1|  5| 
-|Justin Verlander   |OP          |  4| 18.667| 13|  6.268|     29| 1.554| 19|  0|  0| 
-|Mick Abel          |OP          |  2|  4.667|  9| 17.357|     13| 2.786|  4|  0|  0| 
-|JP Sears           |PITCH BENCH |  4| 20.000|  8|  3.600|     27| 1.350| 15|  2|  0| 
-|Kodai Senga        |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Ronny Henriquez    |PITCH BENCH | 10| 10.000|  1|  0.900|      6| 0.600| 15|  2|  4| 
-|Shane Bieber       |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
+|players            |position    |  g|    ip| er|    era| hitsbb|  whip| so|  w| sv| 
+|:------------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
+|Jesús Luzardo      |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Logan Gilbert      |SP          |  1| 5.333|  5|  8.438|      9| 1.688|  5|  0|  0| 
+|Merrill Kelly      |SP          |  1| 7.000|  1|  1.286|      4| 0.571|  4|  0|  0| 
+|Sonny Gray         |SP          |  1| 5.000|  2|  3.600|      6| 1.200|  6|  1|  0| 
+|Spencer Strider    |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Yoshinobu Yamamoto |SP          |  1| 0.667|  3| 40.500|      6| 9.000|  0|  0|  0| 
+|Ryan Helsley       |RP          |  1| 1.000|  0|  0.000|      2| 2.000|  0|  0|  1| 
+|Trevor Megill      |RP          |  1| 1.000|  0|  0.000|      0| 0.000|  2|  0|  1| 
+|Jeff Hoffman       |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Jeffrey Springs    |OP          |  1| 6.000|  1|  1.500|      7| 1.167|  2|  1|  0| 
+|JP Sears           |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Kodai Senga        |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Ronny Henriquez    |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Drew Rasmussen     |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Erick Fedde        |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Joe Boyle          |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Justin Verlander   |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Shane Bieber       |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 
 
 * * *
