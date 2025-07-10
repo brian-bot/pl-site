@@ -6,22 +6,22 @@
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
 |William Contreras     |C         |      5|  3|   0|  0|  0| 
-|Cody Bellinger        |1B        |      3|  2|   0|  0|  0| 
-|Brice Turang          |2B        |      3|  1|   2|  0|  0| 
+|Cody Bellinger        |1B        |      5|  4|   1|  0|  0| 
+|Brice Turang          |2B        |      4|  1|   2|  0|  0| 
 |Vladimir Guerrero Jr. |3B        |      3|  1|   0|  0|  1| 
 |Jacob Wilson          |SS        |      1|  0|   0|  0|  0| 
 |Luis García Jr.       |MI        |      1|  0|   1|  0|  0| 
-|Vinnie Pasquantino    |CI        |      2|  1|   1|  1|  0| 
-|Heliot Ramos          |OF        |      1|  0|   0|  0|  0| 
-|James Wood            |OF        |      1|  0|   1|  0|  0| 
-|Ronald Acuña Jr.      |OF        |     **| **|  **| **| **| 
-|Teoscar Hernández     |OF        |     **| **|  **| **| **| 
+|Vinnie Pasquantino    |CI        |      3|  1|   1|  1|  0| 
+|Heliot Ramos          |OF        |      2|  0|   0|  0|  0| 
+|James Wood            |OF        |      2|  1|   2|  1|  0| 
+|Ronald Acuña Jr.      |OF        |      3|  2|   2|  2|  0| 
+|Teoscar Hernández     |OF        |      1|  0|   0|  0|  0| 
 |Cedric Mullins        |DH        |      1|  1|   0|  0|  1| 
-|Corey Seager          |DH        |      6|  4|   3|  2|  0| 
-|Gavin Sheets          |DH        |      1|  0|   0|  0|  0| 
+|Corey Seager          |DH        |      9|  5|   3|  2|  0| 
+|Gavin Sheets          |DH        |      2|  1|   1|  1|  0| 
 |Hunter Goodman        |DH        |      2|  1|   2|  1|  0| 
 |Brooks Lee            |BAT BENCH |      1|  0|   0|  0|  0| 
-|Paul Goldschmidt      |BAT BENCH |      3|  2|   2|  0|  0| 
+|Paul Goldschmidt      |BAT BENCH |      4|  2|   2|  0|  0| 
 |Pavin Smith           |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -42,7 +42,7 @@
 |Robert Suarez   |RP          |  1| 1.000|  0| 0.000|      0| 0.000|  1|  0|  1| 
 |Calvin Faucher  |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Jack Leiter     |OP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Jose Quintana   |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Jose Quintana   |OP          |  1| 6.000|  1| 1.500|      6| 1.000|  4|  0|  0| 
 |Matthew Boyd    |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Shane Smith     |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Jason Adam      |PITCH BENCH |  1| 1.000|  0| 0.000|      1| 1.000|  0|  0|  0| 
