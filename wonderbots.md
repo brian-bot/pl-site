@@ -14,8 +14,8 @@
 |Luis Arraez      |CI        |      3|  1|   1|  1|  0| 
 |Bryan Reynolds   |OF        |      2|  1|   1|  0|  0| 
 |Corbin Carroll   |OF        |      5|  3|   2|  1|  0| 
-|Jac Caglianone   |OF        |      3|  2|   3|  2|  0| 
 |Mike Trout       |OF        |      4|  2|   4|  2|  0| 
+|Mookie Betts     |OF        |      1|  0|   1|  0|  0| 
 |Ben Rice         |DH        |     **| **|  **| **| **| 
 |Kyle Stowers     |DH        |      3|  1|   2|  0|  0| 
 |Ryan McMahon     |DH        |      2|  0|   1|  0|  0| 
