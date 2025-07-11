@@ -5,25 +5,25 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Carson Kelly        |C         |      1|  0|   0|  0|  0| 
-|Nick Kurtz          |1B        |      3|  2|   4|  1|  0| 
+|Carson Kelly        |C         |      3|  1|   0|  0|  0| 
+|Nick Kurtz          |1B        |      6|  4|   5|  2|  0| 
 |Brandon Lowe        |2B        |     **| **|  **| **| **| 
-|Manny Machado       |3B        |      3|  1|   1|  1|  0| 
+|Manny Machado       |3B        |      6|  2|   2|  2|  0| 
 |Trea Turner         |SS        |      2|  1|   1|  0|  2| 
-|Jonathan Aranda     |MI        |      7|  3|   2|  1|  0| 
+|Jonathan Aranda     |MI        |      8|  3|   2|  1|  0| 
 |Miguel Vargas       |CI        |      3|  1|   0|  0|  0| 
 |Ian Happ            |OF        |      2|  0|   0|  0|  0| 
-|Juan Soto           |OF        |      3|  1|   1|  0|  0| 
-|Kyle Tucker         |OF        |      4|  1|   0|  0|  0| 
-|Lawrence Butler     |OF        |      4|  3|   3|  2|  0| 
+|Juan Soto           |OF        |      6|  2|   2|  0|  1| 
+|Kyle Tucker         |OF        |      5|  2|   0|  0|  0| 
+|Lawrence Butler     |OF        |      5|  3|   3|  2|  0| 
 |Andy Pages          |DH        |      2|  0|   0|  0|  0| 
-|Otto Lopez          |DH        |      2|  1|   0|  0|  1| 
-|Pete Crow-Armstrong |DH        |      0|  0|   0|  0|  0| 
-|Trevor Story        |DH        |      3|  3|   4|  1|  0| 
+|Otto Lopez          |DH        |      3|  1|   0|  0|  1| 
+|Pete Crow-Armstrong |DH        |      4|  3|   3|  2|  0| 
+|Trevor Story        |DH        |      4|  4|   4|  1|  1| 
 |Adley Rutschman     |BAT BENCH |     **| **|  **| **| **| 
-|Lars Nootbaar       |BAT BENCH |      4|  2|   1|  1|  0| 
+|Lars Nootbaar       |BAT BENCH |      5|  3|   1|  1|  0| 
 |Rhys Hoskins        |BAT BENCH |     **| **|  **| **| **| 
-|Victor Scott II     |BAT BENCH |      1|  1|   0|  0|  0| 
+|Victor Scott II     |BAT BENCH |      1|  2|   1|  0|  1| 
 
 
 * * *
@@ -39,7 +39,7 @@
 |Kris Bubic      |SP          |  1| 5.667|  3|  4.765|      8| 1.412|  6|  0|  0| 
 |Max Fried       |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Seth Lugo       |SP          |  1| 6.000|  2|  3.000|      5| 0.833|  5|  0|  0| 
-|Mason Miller    |RP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Mason Miller    |RP          |  1| 1.000|  0|  0.000|      0| 0.000|  1|  0|  0| 
 |Tanner Scott    |RP          |  1| 1.333|  1|  6.750|      3| 2.250|  2|  0|  0| 
 |Casey Mize      |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Corbin Burnes   |OP          | **|    **| **|     **|     **|    **| **| **| **| 

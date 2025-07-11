@@ -5,21 +5,21 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Willson Contreras   |C         |      3|  1|   0|  0|  0| 
-|Michael Busch       |1B        |      3|  0|   0|  0|  0| 
+|Willson Contreras   |C         |      5|  3|   1|  1|  0| 
+|Michael Busch       |1B        |      4|  0|   2|  0|  0| 
 |Jose Altuve         |2B        |      4|  1|   5|  0|  0| 
 |Rafael Devers       |3B        |      3|  0|   0|  0|  0| 
 |Bo Bichette         |SS        |      6|  1|   1|  0|  0| 
-|Masyn Winn          |MI        |      4|  1|   1|  0|  0| 
-|Josh Naylor         |CI        |      5|  2|   2|  1|  1| 
-|Aaron Judge         |OF        |      5|  3|   3|  1|  0| 
+|Masyn Winn          |MI        |      6|  1|   2|  0|  0| 
+|Josh Naylor         |CI        |      8|  2|   2|  1|  1| 
+|Aaron Judge         |OF        |      5|  3|   4|  1|  0| 
 |Jackson Chourio     |OF        |      4|  2|   1|  0|  0| 
-|Jarren Duran        |OF        |      6|  3|   6|  2|  0| 
+|Jarren Duran        |OF        |      7|  3|   6|  2|  0| 
 |Lourdes Gurriel Jr. |OF        |      6|  2|   1|  0|  0| 
-|Colton Cowser       |DH        |      2|  0|   0|  0|  0| 
+|Colton Cowser       |DH        |      4|  1|   1|  0|  0| 
 |Gavin Lux           |DH        |      3|  1|   0|  0|  0| 
-|Jake Burger         |DH        |      3|  3|   5|  1|  0| 
-|Jake Cronenworth    |DH        |      4|  1|   0|  0|  0| 
+|Jake Burger         |DH        |      4|  4|   6|  1|  0| 
+|Jake Cronenworth    |DH        |      5|  1|   1|  0|  0| 
 |JJ Bleday           |BAT BENCH |     **| **|  **| **| **| 
 
 
