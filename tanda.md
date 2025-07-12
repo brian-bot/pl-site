@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Sean Murphy       |C         |      1|  1|   1|  0|  0| 
-|Pete Alonso       |1B        |      3|  1|   3|  1|  0| 
-|Ketel Marte       |2B        |      6|  1|   0|  0|  0| 
-|José Ramírez      |3B        |      7|  6|   6|  3|  3| 
-|Francisco Lindor  |SS        |      4|  3|   2|  1|  0| 
-|CJ Abrams         |MI        |      4|  2|   0|  0|  0| 
+|Sean Murphy       |C         |      4|  3|   4|  2|  0| 
+|Pete Alonso       |1B        |      4|  1|   4|  1|  0| 
+|Ketel Marte       |2B        |      9|  1|   0|  0|  0| 
+|José Ramírez      |3B        |     10|  8|   8|  4|  4| 
+|Francisco Lindor  |SS        |      7|  5|   5|  2|  0| 
+|CJ Abrams         |MI        |      6|  2|   1|  0|  0| 
 |Eugenio Suárez    |CI        |      5|  1|   2|  1|  0| 
-|George Springer   |OF        |      0|  0|   0|  0|  0| 
+|George Springer   |OF        |      0|  1|   0|  0|  1| 
 |Jo Adell          |OF        |      5|  0|   1|  0|  0| 
-|Randy Arozarena   |OF        |      4|  2|   2|  1|  0| 
-|Taylor Ward       |OF        |      5|  2|   4|  1|  0| 
-|Addison Barger    |DH        |      1|  1|   2|  1|  0| 
-|Adolis García     |DH        |      7|  4|   4|  1|  1| 
-|Spencer Steer     |DH        |      3|  1|   1|  1|  0| 
-|Spencer Torkelson |DH        |      5|  2|   2|  1|  0| 
-|Luis Robert Jr.   |BAT BENCH |      1|  0|   0|  0|  0| 
-|TJ Friedl         |BAT BENCH |      5|  2|   0|  0|  0| 
+|Randy Arozarena   |OF        |      5|  2|   2|  1|  0| 
+|Taylor Ward       |OF        |      5|  2|   5|  1|  0| 
+|Addison Barger    |DH        |      2|  2|   2|  1|  1| 
+|Adolis García     |DH        |      9|  5|   5|  2|  1| 
+|Spencer Steer     |DH        |      4|  1|   1|  1|  0| 
+|Spencer Torkelson |DH        |      5|  2|   3|  1|  0| 
+|Luis Robert Jr.   |BAT BENCH |      4|  1|   2|  1|  0| 
+|TJ Friedl         |BAT BENCH |      6|  2|   1|  0|  1| 
 |Xavier Edwards    |BAT BENCH |      7|  2|   3|  0|  1| 
 
 
@@ -33,13 +33,13 @@
 |players            |position    |  g|    ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:------------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
 |Clayton Kershaw    |SP          |  1| 6.000|  2|  3.000|      7| 1.167|  3|  0|  0| 
-|Edward Cabrera     |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Edward Cabrera     |SP          |  1| 4.000|  4|  9.000|      8| 2.000|  6|  0|  0| 
 |MacKenzie Gore     |SP          |  1| 6.000|  1|  1.500|      6| 1.000|  7|  1|  0| 
-|Michael Wacha      |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Michael Wacha      |SP          |  1| 5.000|  1|  1.800|      5| 1.000|  5|  0|  0| 
 |Will Warren        |SP          |  1| 5.667|  0|  0.000|      6| 1.059|  4|  1|  0| 
 |Yusei Kikuchi      |SP          |  1| 5.000|  4|  7.200|      8| 1.600|  4|  0|  0| 
 |Andrés Muñoz       |RP          |  1| 1.000|  2| 18.000|      4| 4.000|  0|  0|  0| 
-|Camilo Doval       |RP          |  1| 1.000|  0|  0.000|      1| 1.000|  0|  0|  1| 
+|Camilo Doval       |RP          |  2| 2.000|  0|  0.000|      3| 1.500|  0|  0|  2| 
 |Charlie Morton     |OP          |  1| 6.000|  1|  1.500|      7| 1.167|  4|  0|  0| 
 |Daniel Palencia    |OP          |  1| 1.000|  0|  0.000|      0| 0.000|  2|  0|  0| 
 |Lucas Giolito      |OP          |  1| 6.000|  0|  0.000|      4| 0.667|  6|  1|  0| 
