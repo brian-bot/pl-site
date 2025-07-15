@@ -16,7 +16,7 @@
 |Josh Lowe         |OF        |      5|  1|   3|  0|  0| 
 |Trent Grisham     |OF        |      3|  1|   0|  0|  0| 
 |Willi Castro      |OF        |      7|  3|   4|  2|  0| 
-|Austin Hays       |DH        |      9|  2|   6|  0|  0| 
+|Austin Hays       |DH        |     10|  2|   6|  0|  0| 
 |Isaac Collins     |DH        |      7|  2|   2|  0|  2| 
 |Jake Mangum       |DH        |     10|  3|   1|  0|  2| 
 |Wilyer Abreu      |DH        |      6|  4|   3|  1|  0| 

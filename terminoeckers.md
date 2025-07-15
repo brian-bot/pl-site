@@ -16,7 +16,7 @@
 |Juan Soto           |OF        |     10|  5|   5|  2|  1| 
 |Kyle Tucker         |OF        |      9|  3|   1|  0|  0| 
 |Lawrence Butler     |OF        |     11|  4|   4|  2|  2| 
-|Andy Pages          |DH        |      7|  0|   1|  0|  0| 
+|Andy Pages          |DH        |      7|  0|   1|  0|  1| 
 |Otto Lopez          |DH        |      8|  3|   4|  2|  1| 
 |Pete Crow-Armstrong |DH        |      5|  3|   4|  2|  0| 
 |Trevor Story        |DH        |     10|  6|   5|  1|  2| 

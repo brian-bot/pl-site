@@ -12,7 +12,7 @@
 |Geraldo Perdomo              |SS        |     11|  3|   6|  1|  0| 
 |Matt Shaw                    |MI        |      0|  0|   1|  0|  0| 
 |Cam Smith                    |CI        |      8|  2|   0|  0|  0| 
-|Jackson Merrill              |OF        |      6|  4|   3|  2|  0| 
+|Jackson Merrill              |OF        |      7|  4|   3|  2|  0| 
 |Lane Thomas                  |OF        |     **| **|  **| **| **| 
 |Seiya Suzuki                 |OF        |      8|  5|   0|  0|  0| 
 |Wyatt Langford               |OF        |     14|  7|   7|  2|  4| 
