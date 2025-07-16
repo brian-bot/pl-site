@@ -2,7 +2,7 @@
 
 ## Period 6 scores
 
-Through games on 2025-07-14 ([website build status](https://github.com/brian-bot/pl-site/actions))
+Through games on 2025-07-15 ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 
 |team                   | points|  r| hitsbb| hr| rbi| sb|  w| sv| so|   era|  whip|
@@ -15,7 +15,7 @@ Through games on 2025-07-14 ([website build status](https://github.com/brian-bot
 |[Bone Pilers](./bonepilers)|   56.0| 36|    105| 15|  45|  9|  8|  3| 86| 3.572| 1.062|
 |[Washington Generals](./washingtongenerals)|   43.5| 42|    126| 10|  49|  5|  9|  3| 53| 4.832| 1.326|
 |[Wonderbots](./wonderbots)|   46.5| 59|    112| 16|  45|  4|  3|  3| 76| 5.167| 1.321|
-|[Boys of Summer](./boysofsummer)|   80.0| 57|    127| 15|  55| 11|  9|  3| 89| 3.413| 1.037|
+|[Boys of Summer](./boysofsummer)|   80.0| 57|    127| 15|  55| 11|  9|  3| 89| 3.312| 1.037|
 |[Mean Wieners](./meanwieners)|   37.0| 35|    100|  4|  36|  8|  2|  3| 63| 2.866| 1.123|
 
 * * *
