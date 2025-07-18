@@ -9,7 +9,7 @@
 |Cody Bellinger        |1B        |     10|  9|   7|  3|  0| 
 |Brice Turang          |2B        |      6|  2|   3|  1|  0| 
 |Vladimir Guerrero Jr. |3B        |      9|  4|   0|  0|  2| 
-|Jacob Wilson          |SS        |      3|  1|   0|  0|  0| 
+|Jacob Wilson          |SS        |      2|  1|   0|  0|  0| 
 |Luis García Jr.       |MI        |      4|  1|   1|  0|  0| 
 |Vinnie Pasquantino    |CI        |      7|  1|   1|  1|  0| 
 |Heliot Ramos          |OF        |      4|  0|   0|  0|  0| 

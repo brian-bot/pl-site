@@ -2,7 +2,7 @@
 
 ## Period 6 scores
 
-Through games on 2025-07-16 ([website build status](https://github.com/brian-bot/pl-site/actions))
+Through games on 2025-07-17 ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 
 |team                   | points|  r| hitsbb| hr| rbi| sb|  w| sv| so|   era|  whip|
@@ -11,8 +11,8 @@ Through games on 2025-07-16 ([website build status](https://github.com/brian-bot
 |[Overwhelming Underdogs](./overwhelmingunderdogs)|   58.0| 50|    117| 14|  36|  4|  6|  3| 88| 2.865| 1.078|
 |[Terminoeckers](./terminoeckers)|   50.0| 46|    119| 18|  44| 10|  1|  3| 80| 4.440| 1.347|
 |[T and A](./tanda)     |   71.5| 57|    116| 24|  64| 13|  5|  4| 62| 2.906| 1.211|
-|[Vass Deferens](./vassdeferens)|   43.5| 46|    105| 13|  31|  5|  2|  3| 69| 3.057| 1.005|
-|[Bone Pilers](./bonepilers)|   56.0| 36|    105| 15|  45|  9|  8|  3| 86| 3.572| 1.062|
+|[Vass Deferens](./vassdeferens)|   43.0| 46|    104| 13|  31|  5|  2|  3| 69| 3.057| 1.005|
+|[Bone Pilers](./bonepilers)|   56.5| 36|    105| 15|  45|  9|  8|  3| 86| 3.572| 1.062|
 |[Washington Generals](./washingtongenerals)|   43.5| 42|    126| 10|  49|  5|  9|  3| 53| 4.832| 1.326|
 |[Wonderbots](./wonderbots)|   46.5| 59|    112| 16|  45|  4|  3|  3| 76| 5.167| 1.321|
 |[Boys of Summer](./boysofsummer)|   80.0| 57|    127| 15|  55| 11|  9|  3| 89| 3.312| 1.037|
