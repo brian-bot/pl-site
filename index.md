@@ -2,21 +2,21 @@
 
 ## Period 6 scores
 
-Through games on 2025-07-17 ([website build status](https://github.com/brian-bot/pl-site/actions))
+Through games on 2025-07-18 ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 
-|team                   | points|  r| hitsbb| hr| rbi| sb|  w| sv| so|   era|  whip|
-|:----------------------|------:|--:|------:|--:|---:|--:|--:|--:|--:|-----:|-----:|
-|[Nuclear Arms](./nucleararms)|   64.0| 60|    146| 17|  52|  8|  6|  2| 74| 3.530| 1.145|
-|[Overwhelming Underdogs](./overwhelmingunderdogs)|   58.0| 50|    117| 14|  36|  4|  6|  3| 88| 2.865| 1.078|
-|[Terminoeckers](./terminoeckers)|   50.0| 46|    119| 18|  44| 10|  1|  3| 80| 4.440| 1.347|
-|[T and A](./tanda)     |   71.5| 57|    116| 24|  64| 13|  5|  4| 62| 2.906| 1.211|
-|[Vass Deferens](./vassdeferens)|   43.0| 46|    104| 13|  31|  5|  2|  3| 69| 3.057| 1.005|
-|[Bone Pilers](./bonepilers)|   56.5| 36|    105| 15|  45|  9|  8|  3| 86| 3.572| 1.062|
-|[Washington Generals](./washingtongenerals)|   43.5| 42|    126| 10|  49|  5|  9|  3| 53| 4.832| 1.326|
-|[Wonderbots](./wonderbots)|   46.5| 59|    112| 16|  45|  4|  3|  3| 76| 5.167| 1.321|
-|[Boys of Summer](./boysofsummer)|   80.0| 57|    127| 15|  55| 11|  9|  3| 89| 3.312| 1.037|
-|[Mean Wieners](./meanwieners)|   37.0| 35|    100|  4|  36|  8|  2|  3| 63| 2.866| 1.123|
+|team                   | points|  r| hitsbb| hr| rbi| sb|  w| sv|  so|   era|  whip|
+|:----------------------|------:|--:|------:|--:|---:|--:|--:|--:|---:|-----:|-----:|
+|[Nuclear Arms](./nucleararms)|   65.0| 71|    167| 19|  60| 10|  7|  2|  83| 3.407| 1.126|
+|[Overwhelming Underdogs](./overwhelmingunderdogs)|   55.0| 54|    135| 15|  41|  6|  7|  4| 112| 3.262| 1.128|
+|[Terminoeckers](./terminoeckers)|   42.0| 56|    132| 20|  51| 10|  1|  3|  85| 4.667| 1.346|
+|[T and A](./tanda)     |   71.5| 67|    137| 28|  71| 14|  6|  5|  80| 3.715| 1.208|
+|[Vass Deferens](./vassdeferens)|   43.5| 48|    118| 13|  35|  7|  2|  4|  73| 3.096| 1.005|
+|[Bone Pilers](./bonepilers)|   59.5| 44|    121| 18|  55| 12|  9|  4|  98| 3.774| 1.097|
+|[Washington Generals](./washingtongenerals)|   44.0| 48|    148| 10|  50|  6| 10|  5|  65| 4.578| 1.317|
+|[Wonderbots](./wonderbots)|   50.0| 70|    134| 20|  56|  4|  3|  3|  94| 4.537| 1.254|
+|[Boys of Summer](./boysofsummer)|   79.0| 69|    150| 20|  64| 13| 10|  3|  97| 3.233| 1.097|
+|[Mean Wieners](./meanwieners)|   40.5| 41|    121|  7|  45|  9|  3|  3|  70| 2.883| 1.078|
 
 * * *
 * * *
