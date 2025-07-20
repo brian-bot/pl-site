@@ -6,24 +6,24 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Logan O'Hoppe     |C         |      8|  2|   0|  0|  1| 
-|Matt Olson        |1B        |     10|  4|   4|  0|  0| 
+|Matt Olson        |1B        |     12|  4|   5|  0|  0| 
 |Zack Gelof        |2B        |      3|  2|   0|  0|  0| 
-|Mark Vientos      |3B        |      7|  0|   3|  0|  0| 
+|Mark Vientos      |3B        |      8|  0|   4|  0|  0| 
 |Elly De La Cruz   |SS        |     16|  4|   4|  0|  3| 
-|Dansby Swanson    |MI        |      7|  3|   5|  1|  0| 
-|Christian Walker  |CI        |      1|  1|   2|  0|  0| 
+|Dansby Swanson    |MI        |      8|  4|   5|  1|  0| 
+|Christian Walker  |CI        |      5|  1|   4|  0|  1| 
 |Jasson Domínguez  |OF        |      7|  4|   1|  0|  0| 
-|Josh Lowe         |OF        |      6|  1|   4|  0|  0| 
-|Trent Grisham     |OF        |      6|  1|   0|  0|  0| 
-|Willi Castro      |OF        |      8|  4|   7|  3|  0| 
-|Austin Hays       |DH        |     14|  4|   9|  2|  0| 
-|Isaac Collins     |DH        |      9|  3|   2|  0|  2| 
+|Josh Lowe         |OF        |      7|  1|   5|  0|  0| 
+|Trent Grisham     |OF        |      8|  3|   5|  1|  0| 
+|Willi Castro      |OF        |     10|  5|   7|  3|  0| 
+|Austin Hays       |DH        |     16|  6|   9|  2|  0| 
+|Isaac Collins     |DH        |     12|  5|   3|  1|  3| 
 |Jake Mangum       |DH        |     12|  4|   1|  0|  3| 
 |Wilyer Abreu      |DH        |      7|  4|   3|  1|  0| 
 |Anthony Santander |BAT BENCH |     **| **|  **| **| **| 
 |Max Muncy         |BAT BENCH |     **| **|  **| **| **| 
-|Michael Harris II |BAT BENCH |      5|  3|   1|  0|  0| 
-|Tommy Edman       |BAT BENCH |      0|  0|   1|  0|  0| 
+|Michael Harris II |BAT BENCH |      7|  4|   3|  1|  0| 
+|Tommy Edman       |BAT BENCH |      2|  2|   2|  1|  0| 
 
 
 * * *
@@ -43,9 +43,9 @@
 |Will Vest             |RP          |  3|  3.000|  1|  3.000|      6| 2.000|  4|  0|  1| 
 |Abner Uribe           |OP          |  4|  4.333|  2|  4.154|      3| 0.692|  2|  0|  0| 
 |Alex Vesia            |OP          |  4|  3.667|  0|  0.000|      1| 0.273|  6|  0|  0| 
-|Bryan Abreu           |OP          |  1|  1.000|  1|  9.000|      1| 1.000|  2|  0|  0| 
+|Bryan Abreu           |OP          |  2|  2.000|  2|  9.000|      2| 1.000|  4|  0|  0| 
 |Kirby Yates           |OP          |  3|  2.333|  2|  7.714|      5| 2.143|  2|  0|  0| 
-|Matt Strahm           |OP          |  3|  3.000|  0|  0.000|      2| 0.667|  4|  0|  1| 
+|Matt Strahm           |OP          |  4|  4.000|  0|  0.000|      2| 0.500|  5|  0|  1| 
 |Chris Sale            |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Spencer Schwellenbach |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Tyler Glasnow         |PITCH BENCH |  2| 11.000|  1|  0.818|     10| 0.909| 11|  0|  0| 

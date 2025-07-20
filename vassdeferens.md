@@ -5,23 +5,23 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras     |C         |     11|  6|   2|  0|  0| 
-|Cody Bellinger        |1B        |     11|  9|   8|  3|  0| 
-|Brice Turang          |2B        |      7|  2|   3|  1|  1| 
-|Vladimir Guerrero Jr. |3B        |     10|  4|   0|  0|  2| 
-|Jacob Wilson          |SS        |      2|  1|   0|  0|  0| 
-|Luis García Jr.       |MI        |      5|  1|   1|  0|  0| 
-|Vinnie Pasquantino    |CI        |      8|  1|   1|  1|  0| 
-|Heliot Ramos          |OF        |      6|  0|   0|  0|  0| 
+|William Contreras     |C         |     12|  7|   4|  0|  0| 
+|Cody Bellinger        |1B        |     13| 11|   9|  4|  0| 
+|Brice Turang          |2B        |     10|  4|   3|  1|  1| 
+|Vladimir Guerrero Jr. |3B        |     11|  4|   0|  0|  2| 
+|Jacob Wilson          |SS        |      4|  2|   2|  1|  0| 
+|Luis García Jr.       |MI        |      6|  1|   1|  0|  0| 
+|Vinnie Pasquantino    |CI        |      9|  1|   1|  1|  0| 
+|Heliot Ramos          |OF        |      7|  0|   1|  0|  0| 
 |James Wood            |OF        |      5|  1|   2|  1|  1| 
-|Ronald Acuña Jr.      |OF        |     11|  7|   5|  3|  0| 
-|Teoscar Hernández     |OF        |      4|  1|   3|  0|  0| 
-|Cedric Mullins        |DH        |      6|  2|   0|  0|  3| 
-|Corey Seager          |DH        |     19|  8|   7|  2|  0| 
+|Ronald Acuña Jr.      |OF        |     12|  8|   5|  3|  0| 
+|Teoscar Hernández     |OF        |      6|  1|   4|  0|  0| 
+|Cedric Mullins        |DH        |      7|  2|   1|  0|  4| 
+|Corey Seager          |DH        |     20|  8|   8|  2|  0| 
 |Gavin Sheets          |DH        |      8|  3|   1|  1|  0| 
-|Hunter Goodman        |DH        |      5|  2|   2|  1|  0| 
-|Brooks Lee            |BAT BENCH |      3|  0|   1|  0|  0| 
-|Paul Goldschmidt      |BAT BENCH |      8|  3|   4|  0|  0| 
+|Hunter Goodman        |DH        |      8|  4|   5|  2|  0| 
+|Brooks Lee            |BAT BENCH |      4|  1|   1|  0|  0| 
+|Paul Goldschmidt      |BAT BENCH |     10|  4|   4|  0|  0| 
 |Pavin Smith           |BAT BENCH |     **| **|  **| **| **| 
 
 
