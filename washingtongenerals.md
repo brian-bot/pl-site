@@ -5,21 +5,21 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Willson Contreras   |C         |     10|  3|   4|  1|  0| 
+|Willson Contreras   |C         |     11|  3|   4|  1|  0| 
 |Michael Busch       |1B        |      9|  3|   4|  2|  0| 
-|Jose Altuve         |2B        |     14|  4|   7|  1|  0| 
-|Rafael Devers       |3B        |      8|  1|   1|  0|  0| 
-|Bo Bichette         |SS        |     13|  3|   2|  0|  0| 
-|Masyn Winn          |MI        |     13|  4|   2|  0|  2| 
-|Josh Naylor         |CI        |     15|  6|   2|  1|  1| 
-|Aaron Judge         |OF        |     13|  7|   7|  2|  0| 
-|Jackson Chourio     |OF        |     12|  6|   7|  1|  0| 
-|Jarren Duran        |OF        |     14|  4|   6|  2|  1| 
+|Jose Altuve         |2B        |     16|  6|   7|  1|  0| 
+|Rafael Devers       |3B        |      9|  2|   1|  0|  0| 
+|Bo Bichette         |SS        |     15|  4|   4|  0|  0| 
+|Masyn Winn          |MI        |     14|  5|   2|  0|  2| 
+|Josh Naylor         |CI        |     17|  7|   2|  1|  1| 
+|Aaron Judge         |OF        |     15|  9|   8|  3|  0| 
+|Jackson Chourio     |OF        |     13|  7|   7|  1|  1| 
+|Jarren Duran        |OF        |     16|  4|   6|  2|  1| 
 |Lourdes Gurriel Jr. |OF        |     10|  4|   1|  0|  0| 
-|Colton Cowser       |DH        |     10|  1|   1|  0|  2| 
+|Colton Cowser       |DH        |     11|  1|   1|  0|  3| 
 |Gavin Lux           |DH        |      7|  1|   0|  0|  0| 
 |Jake Burger         |DH        |      5|  5|   6|  1|  0| 
-|Jake Cronenworth    |DH        |     11|  3|   2|  0|  0| 
+|Jake Cronenworth    |DH        |     13|  4|   3|  0|  0| 
 |JJ Bleday           |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -36,10 +36,10 @@
 |Nathan Eovaldi   |SP          |  2| 13.667|  1|  0.659|     11| 0.805| 14|  2|  0| 
 |Noah Cameron     |SP          |  2| 13.667|  2|  1.317|     13| 0.951| 15|  1|  0| 
 |Zack Littell     |SP          |  2| 11.667|  5|  3.857|     15| 1.286|  7|  1|  0| 
-|Jhoan Duran      |RP          |  3|  3.000|  1|  3.000|      4| 1.333|  4|  0|  2| 
+|Jhoan Duran      |RP          |  4|  4.000|  1|  2.250|      5| 1.250|  5|  0|  2| 
 |Pete Fairbanks   |RP          |  3|  2.333|  3| 11.571|      5| 2.143|  2|  0|  1| 
 |Andre Pallante   |OP          |  2| 10.667| 12| 10.125|     20| 1.875|  4|  0|  0| 
-|Dennis Santana   |OP          |  2|  2.333|  1|  3.857|      4| 1.714|  1|  1|  0| 
+|Dennis Santana   |OP          |  3|  3.333|  1|  2.700|      4| 1.200|  3|  1|  0| 
 |Jacob Lopez      |OP          |  1|  5.000|  2|  3.600|      6| 1.200|  5|  1|  0| 
 |Kenley Jansen    |OP          |  4|  4.000|  0|  0.000|      2| 0.500|  2|  2|  2| 
 |Seth Halvorsen   |OP          |  2|  1.000|  5| 45.000|      6| 6.000|  2|  0|  1| 
