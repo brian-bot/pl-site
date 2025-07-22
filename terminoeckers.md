@@ -5,25 +5,25 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Carson Kelly        |C         |      9|  3|   2|  1|  0| 
-|Nick Kurtz          |1B        |     20| 12|  13|  5|  1| 
+|Carson Kelly        |C         |     12|  4|   3|  2|  0| 
+|Nick Kurtz          |1B        |     23| 14|  14|  6|  1| 
 |Brandon Lowe        |2B        |      1|  1|   0|  0|  0| 
 |Manny Machado       |3B        |     15|  7|   8|  4|  0| 
-|Trea Turner         |SS        |     11|  3|   2|  0|  3| 
-|Jonathan Aranda     |MI        |     12|  4|   3|  1|  0| 
-|Miguel Vargas       |CI        |     12|  7|   4|  1|  0| 
-|Ian Happ            |OF        |      9|  2|   3|  1|  0| 
-|Juan Soto           |OF        |     13|  7|   6|  3|  2| 
-|Kyle Tucker         |OF        |     13|  5|   2|  1|  0| 
+|Trea Turner         |SS        |     12|  3|   2|  0|  3| 
+|Jonathan Aranda     |MI        |     14|  4|   3|  1|  0| 
+|Miguel Vargas       |CI        |     15|  9|   6|  2|  0| 
+|Ian Happ            |OF        |     10|  2|   3|  1|  0| 
+|Juan Soto           |OF        |     14|  7|   8|  3|  2| 
+|Kyle Tucker         |OF        |     14|  5|   2|  1|  0| 
 |Lawrence Butler     |OF        |     11|  4|   4|  2|  2| 
-|Andy Pages          |DH        |      9|  1|   1|  0|  1| 
-|Otto Lopez          |DH        |     13|  4|   8|  2|  1| 
+|Andy Pages          |DH        |     10|  2|   2|  1|  1| 
+|Otto Lopez          |DH        |     15|  4|   8|  2|  1| 
 |Pete Crow-Armstrong |DH        |     10|  4|   5|  3|  1| 
-|Trevor Story        |DH        |     11|  7|   5|  1|  2| 
+|Trevor Story        |DH        |     13|  7|   6|  1|  3| 
 |Adley Rutschman     |BAT BENCH |     **| **|  **| **| **| 
 |Lars Nootbaar       |BAT BENCH |      6|  4|   1|  1|  0| 
 |Rhys Hoskins        |BAT BENCH |     **| **|  **| **| **| 
-|Victor Scott II     |BAT BENCH |      9|  5|   5|  1|  3| 
+|Victor Scott II     |BAT BENCH |     10|  5|   5|  1|  3| 
 
 
 * * *
@@ -34,13 +34,13 @@
 |players         |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:---------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Garrett Crochet |SP          |  2| 15.000|  1|  0.600|     13| 0.867| 14|  2|  0| 
-|Jack Flaherty   |SP          |  2| 11.333|  4|  3.176|     14| 1.235| 15|  0|  0| 
+|Jack Flaherty   |SP          |  3| 14.333|  7|  4.395|     23| 1.605| 21|  0|  0| 
 |José Soriano    |SP          |  3| 16.000|  8|  4.500|     24| 1.500| 12|  1|  0| 
 |Kris Bubic      |SP          |  2| 10.667|  3|  2.531|     12| 1.125|  8|  1|  0| 
 |Max Fried       |SP          |  1|  3.000|  3|  9.000|      9| 3.000|  2|  0|  0| 
 |Seth Lugo       |SP          |  2| 12.000|  7|  5.250|     13| 1.083| 10|  0|  0| 
-|Mason Miller    |RP          |  3|  3.000|  0|  0.000|      2| 0.667|  4|  0|  2| 
-|Tanner Scott    |RP          |  4|  4.333|  3|  6.231|      7| 1.615|  5|  0|  1| 
+|Mason Miller    |RP          |  4|  3.333|  0|  0.000|      2| 0.600|  4|  0|  2| 
+|Tanner Scott    |RP          |  5|  5.000|  4|  7.200|      9| 1.800|  5|  0|  1| 
 |Casey Mize      |OP          |  1|  3.000|  6| 18.000|      7| 2.333|  4|  0|  0| 
 |Chase Burns     |OP          |  1|  6.000|  2|  3.000|      7| 1.167| 10|  0|  0| 
 |Gavin Williams  |OP          |  2| 12.000|  4|  3.000|     14| 1.167| 16|  1|  0| 

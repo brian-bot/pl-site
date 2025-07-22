@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Sean Murphy       |C         |     13|  8|   7|  3|  0| 
-|Pete Alonso       |1B        |      9|  2|   4|  1|  0| 
-|Ketel Marte       |2B        |      9|  1|   0|  0|  0| 
-|José Ramírez      |3B        |     18| 13|  13|  5|  7| 
-|Francisco Lindor  |SS        |      8|  6|   5|  2|  1| 
-|CJ Abrams         |MI        |      9|  3|   5|  1|  1| 
-|Eugenio Suárez    |CI        |     17| 10|  12|  7|  0| 
-|George Springer   |OF        |      7|  3|   1|  1|  2| 
-|Jo Adell          |OF        |     10|  3|   5|  2|  0| 
+|Sean Murphy       |C         |     15|  8|   7|  3|  0| 
+|Pete Alonso       |1B        |     10|  2|   4|  1|  0| 
+|Ketel Marte       |2B        |     11|  2|   0|  0|  0| 
+|José Ramírez      |3B        |     20| 16|  16|  6|  7| 
+|Francisco Lindor  |SS        |      8|  7|   6|  2|  2| 
+|CJ Abrams         |MI        |     10|  4|   5|  1|  1| 
+|Eugenio Suárez    |CI        |     19| 11|  13|  8|  0| 
+|George Springer   |OF        |      8|  4|   1|  1|  2| 
+|Jo Adell          |OF        |     11|  3|   6|  2|  0| 
 |Randy Arozarena   |OF        |     17| 10|   7|  4|  1| 
-|Taylor Ward       |OF        |     13|  5|  14|  3|  0| 
+|Taylor Ward       |OF        |     15|  6|  17|  3|  0| 
 |Addison Barger    |DH        |      9|  6|   6|  3|  1| 
 |Adolis García     |DH        |     14|  8|   7|  3|  2| 
-|Spencer Steer     |DH        |     11|  3|   3|  1|  0| 
-|Spencer Torkelson |DH        |     13|  4|   3|  1|  0| 
-|Luis Robert Jr.   |BAT BENCH |     14|  8|   6|  2|  3| 
-|TJ Friedl         |BAT BENCH |     15|  8|   2|  1|  1| 
-|Xavier Edwards    |BAT BENCH |     15|  9|   7|  1|  1| 
+|Spencer Steer     |DH        |     12|  4|   4|  1|  0| 
+|Spencer Torkelson |DH        |     14|  4|   3|  1|  0| 
+|Luis Robert Jr.   |BAT BENCH |     16|  8|   8|  2|  3| 
+|TJ Friedl         |BAT BENCH |     17|  8|   2|  1|  1| 
+|Xavier Edwards    |BAT BENCH |     18|  9|   7|  1|  2| 
 
 
 * * *
@@ -39,7 +39,7 @@
 |Will Warren        |SP          |  3| 14.667|  7| 4.295|     23| 1.568| 10|  1|  0| 
 |Yusei Kikuchi      |SP          |  3| 15.667|  9| 5.170|     23| 1.468| 17|  1|  0| 
 |Andrés Muñoz       |RP          |  3|  3.000|  2| 6.000|      5| 1.667|  3|  0|  0| 
-|Camilo Doval       |RP          |  3|  3.000|  0| 0.000|      4| 1.333|  2|  0|  2| 
+|Camilo Doval       |RP          |  4|  4.000|  0| 0.000|      6| 1.500|  4|  0|  2| 
 |Charlie Morton     |OP          |  2| 11.333|  8| 6.353|     18| 1.588|  8|  0|  0| 
 |Daniel Palencia    |OP          |  4|  3.667|  0| 0.000|      1| 0.273|  4|  0|  3| 
 |Lucas Giolito      |OP          |  2| 11.333|  4| 3.176|     11| 0.971| 12|  1|  0| 
