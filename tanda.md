@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Sean Murphy       |C         |     15|  8|   7|  3|  0| 
-|Pete Alonso       |1B        |     10|  2|   4|  1|  0| 
-|Ketel Marte       |2B        |     11|  2|   0|  0|  0| 
-|José Ramírez      |3B        |     24| 17|  17|  7|  8| 
-|Francisco Lindor  |SS        |      8|  7|   6|  2|  2| 
+|Sean Murphy       |C         |     16|  8|   8|  3|  0| 
+|Pete Alonso       |1B        |     12|  3|   7|  2|  0| 
+|Ketel Marte       |2B        |     13|  4|   1|  1|  0| 
+|José Ramírez      |3B        |     25| 18|  17|  7|  8| 
+|Francisco Lindor  |SS        |     10|  8|   8|  2|  2| 
 |CJ Abrams         |MI        |     11|  4|   6|  1|  1| 
-|Eugenio Suárez    |CI        |     19| 11|  13|  8|  0| 
-|George Springer   |OF        |     12|  6|   2|  1|  2| 
-|Jo Adell          |OF        |     11|  3|   6|  2|  0| 
+|Eugenio Suárez    |CI        |     20| 11|  13|  8|  0| 
+|George Springer   |OF        |     15|  8|   2|  1|  2| 
+|Jo Adell          |OF        |     12|  3|   6|  2|  0| 
 |Randy Arozarena   |OF        |     18| 10|   7|  4|  1| 
-|Taylor Ward       |OF        |     16|  6|  17|  3|  0| 
-|Addison Barger    |DH        |     11|  6|   8|  3|  1| 
+|Taylor Ward       |OF        |     19|  6|  17|  3|  0| 
+|Addison Barger    |DH        |     12|  6|   8|  3|  1| 
 |Adolis García     |DH        |     15|  9|   8|  4|  2| 
 |Spencer Steer     |DH        |     12|  4|   4|  1|  0| 
-|Spencer Torkelson |DH        |     17|  5|   3|  1|  0| 
-|Luis Robert Jr.   |BAT BENCH |     16|  8|   8|  2|  3| 
-|TJ Friedl         |BAT BENCH |     18|  8|   2|  1|  1| 
-|Xavier Edwards    |BAT BENCH |     19|  9|   7|  1|  2| 
+|Spencer Torkelson |DH        |     18|  6|   3|  1|  0| 
+|Luis Robert Jr.   |BAT BENCH |     18| 10|   9|  2|  4| 
+|TJ Friedl         |BAT BENCH |     20|  9|   2|  1|  1| 
+|Xavier Edwards    |BAT BENCH |     21| 10|   7|  1|  2| 
 
 
 * * *
@@ -42,9 +42,9 @@
 |Camilo Doval       |RP          |  4|  4.000|  0| 0.000|      6| 1.500|  4|  0|  2| 
 |Charlie Morton     |OP          |  2| 11.333|  8| 6.353|     18| 1.588|  8|  0|  0| 
 |Daniel Palencia    |OP          |  5|  4.667|  0| 0.000|      3| 0.643|  5|  0|  3| 
-|Lucas Giolito      |OP          |  2| 11.333|  4| 3.176|     11| 0.971| 12|  1|  0| 
+|Lucas Giolito      |OP          |  3| 15.333|  9| 5.283|     18| 1.174| 14|  1|  0| 
 |Reese Olson        |OP          |  2| 10.000|  2| 1.800|     11| 1.100|  7|  0|  0| 
-|Slade Cecconi      |OP          |  2| 15.333|  8| 4.696|     15| 0.978| 11|  2|  0| 
+|Slade Cecconi      |OP          |  3| 21.333| 10| 4.219|     22| 1.031| 13|  2|  0| 
 |Aaron Nola         |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 |Hunter Greene      |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 |Spencer Arrighetti |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
