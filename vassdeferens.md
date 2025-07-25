@@ -8,7 +8,7 @@
 |William Contreras     |C         |     19|  8|   7|  0|  0| 
 |Cody Bellinger        |1B        |     17| 13|  10|  5|  0| 
 |Brice Turang          |2B        |     16|  7|   6|  1|  1| 
-|Vladimir Guerrero Jr. |3B        |     22|  9|   4|  1|  2| 
+|Vladimir Guerrero Jr. |3B        |     25| 11|   6|  1|  2| 
 |Jacob Wilson          |SS        |      4|  3|   2|  1|  0| 
 |Luis García Jr.       |MI        |     11|  2|   1|  0|  1| 
 |Vinnie Pasquantino    |CI        |     14|  5|   6|  3|  0| 
@@ -18,7 +18,7 @@
 |Teoscar Hernández     |OF        |      9|  1|   4|  0|  0| 
 |Cedric Mullins        |DH        |      9|  2|   1|  0|  4| 
 |Corey Seager          |DH        |     27| 10|  13|  4|  0| 
-|Gavin Sheets          |DH        |     12|  4|   2|  1|  0| 
+|Gavin Sheets          |DH        |     13|  4|   3|  1|  0| 
 |Hunter Goodman        |DH        |     13|  4|   6|  2|  0| 
 |Brooks Lee            |BAT BENCH |      6|  2|   1|  0|  1| 
 |Paul Goldschmidt      |BAT BENCH |     13|  5|   5|  0|  0| 

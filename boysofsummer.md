@@ -11,10 +11,10 @@
 |Maikel Garcia    |3B        |     12|  8|   2|  0|  1| 
 |Bobby Witt Jr.   |SS        |     14|  6|   7|  2|  3| 
 |Willy Adames     |MI        |     17| 10|   8|  4|  0| 
-|Alec Burleson    |CI        |     20|  5|   6|  1|  1| 
+|Alec Burleson    |CI        |     21|  6|   6|  1|  1| 
 |Byron Buxton     |OF        |     20| 11|   5|  3|  1| 
 |Jordan Beck      |OF        |     16|  4|   3|  1|  1| 
-|Julio Rodríguez  |OF        |     20| 12|   8|  3|  4| 
+|Julio Rodríguez  |OF        |     22| 13|   9|  4|  5| 
 |Kyle Schwarber   |OF        |     18|  9|  15|  7|  1| 
 |Alejandro Kirk   |DH        |     14|  4|   4|  0|  0| 
 |Ceddanne Rafaela |DH        |     16|  8|  10|  3|  3| 
@@ -22,7 +22,7 @@
 |Gleyber Torres   |DH        |     20|  5|   1|  0|  0| 
 |Alex Bregman     |BAT BENCH |      6|  2|   3|  1|  0| 
 |Carlos Narváez   |BAT BENCH |     10|  4|   5|  2|  0| 
-|Jordan Westburg  |BAT BENCH |     15| 10|   4|  1|  0| 
+|Jordan Westburg  |BAT BENCH |     17| 11|   4|  1|  0| 
 |Kerry Carpenter  |BAT BENCH |     **| **|  **| **| **| 
 |Royce Lewis      |BAT BENCH |     15|  7|   8|  3|  1| 
 

@@ -8,18 +8,18 @@
 |Sean Murphy       |C         |     16|  8|   8|  3|  0| 
 |Pete Alonso       |1B        |     12|  3|   7|  2|  0| 
 |Ketel Marte       |2B        |     13|  4|   1|  1|  0| 
-|José Ramírez      |3B        |     25| 18|  17|  7|  8| 
+|José Ramírez      |3B        |     28| 18|  17|  7|  9| 
 |Francisco Lindor  |SS        |     10|  8|   8|  2|  2| 
 |CJ Abrams         |MI        |     11|  4|   6|  1|  1| 
 |Eugenio Suárez    |CI        |     20| 11|  13|  8|  0| 
-|George Springer   |OF        |     15|  8|   2|  1|  2| 
+|George Springer   |OF        |     17|  9|   2|  1|  2| 
 |Jo Adell          |OF        |     12|  3|   6|  2|  0| 
-|Randy Arozarena   |OF        |     18| 10|   7|  4|  1| 
-|Taylor Ward       |OF        |     19|  6|  17|  3|  0| 
-|Addison Barger    |DH        |     12|  6|   8|  3|  1| 
+|Randy Arozarena   |OF        |     19| 11|   9|  5|  1| 
+|Taylor Ward       |OF        |     20|  6|  17|  3|  0| 
+|Addison Barger    |DH        |     14|  8|  10|  3|  1| 
 |Adolis García     |DH        |     15|  9|   8|  4|  2| 
 |Spencer Steer     |DH        |     12|  4|   4|  1|  0| 
-|Spencer Torkelson |DH        |     18|  6|   3|  1|  0| 
+|Spencer Torkelson |DH        |     19|  7|   4|  2|  0| 
 |Luis Robert Jr.   |BAT BENCH |     18| 10|   9|  2|  4| 
 |TJ Friedl         |BAT BENCH |     20|  9|   2|  1|  1| 
 |Xavier Edwards    |BAT BENCH |     21| 10|   7|  1|  2| 
@@ -37,13 +37,13 @@
 |MacKenzie Gore     |SP          |  2|  8.333|  9| 9.720|     17| 2.040|  9|  1|  0| 
 |Michael Wacha      |SP          |  2| 11.000|  2| 1.636|      9| 0.818|  6|  0|  0| 
 |Will Warren        |SP          |  3| 14.667|  7| 4.295|     23| 1.568| 10|  1|  0| 
-|Yusei Kikuchi      |SP          |  3| 15.667|  9| 5.170|     23| 1.468| 17|  1|  0| 
-|Andrés Muñoz       |RP          |  4|  4.000|  2| 4.500|      7| 1.750|  5|  0|  1| 
+|Yusei Kikuchi      |SP          |  4| 20.333| 12| 5.311|     32| 1.574| 21|  1|  0| 
+|Andrés Muñoz       |RP          |  5|  5.000|  2| 3.600|      9| 1.800|  6|  0|  2| 
 |Camilo Doval       |RP          |  4|  4.000|  0| 0.000|      6| 1.500|  4|  0|  2| 
-|Charlie Morton     |OP          |  2| 11.333|  8| 6.353|     18| 1.588|  8|  0|  0| 
+|Charlie Morton     |OP          |  3| 18.000| 11| 5.500|     27| 1.500| 15|  1|  0| 
 |Daniel Palencia    |OP          |  5|  4.667|  0| 0.000|      3| 0.643|  5|  0|  3| 
 |Lucas Giolito      |OP          |  3| 15.333|  9| 5.283|     18| 1.174| 14|  1|  0| 
-|Reese Olson        |OP          |  2| 10.000|  2| 1.800|     11| 1.100|  7|  0|  0| 
+|Reese Olson        |OP          |  3| 15.667|  7| 4.021|     19| 1.213| 11|  0|  0| 
 |Slade Cecconi      |OP          |  3| 21.333| 10| 4.219|     22| 1.031| 13|  2|  0| 
 |Aaron Nola         |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 |Hunter Greene      |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 

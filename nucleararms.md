@@ -7,15 +7,15 @@
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Salvador Perez     |C         |     22| 13|  12|  8|  0| 
 |Yandy Díaz         |1B        |     22|  8|   8|  3|  0| 
-|Brendan Donovan    |2B        |     17|  5|   7|  1|  0| 
+|Brendan Donovan    |2B        |     20|  7|  10|  2|  0| 
 |Jazz Chisholm Jr.  |3B        |     17|  7|  10|  3|  0| 
-|Gunnar Henderson   |SS        |     16|  6|   6|  1|  3| 
+|Gunnar Henderson   |SS        |     19|  6|   7|  1|  3| 
 |Jackson Holliday   |MI        |     18|  8|   5|  3|  0| 
-|Ryan O'Hearn       |CI        |     14|  4|   7|  1|  0| 
-|Brent Rooker       |OF        |     19|  9|   8|  3|  1| 
+|Ryan O'Hearn       |CI        |     15|  4|   7|  1|  0| 
+|Brent Rooker       |OF        |     21| 10|   8|  3|  1| 
 |Christian Yelich   |OF        |     16|  6|   5|  2|  2| 
-|Fernando Tatis Jr. |OF        |     22|  5|   3|  1|  3| 
-|Steven Kwan        |OF        |     14|  8|   5|  0|  0| 
+|Fernando Tatis Jr. |OF        |     25|  7|   4|  2|  3| 
+|Steven Kwan        |OF        |     17| 10|   7|  2|  0| 
 |Brandon Nimmo      |DH        |     22|  9|   5|  1|  2| 
 |Giancarlo Stanton  |DH        |     15|  8|  10|  4|  0| 
 |Josh Smith         |DH        |     16|  7|   3|  0|  1| 
@@ -40,7 +40,7 @@
 |Taj Bradley             |SP          |  3| 13.667|  5| 3.293|     16| 1.171| 11|  1|  0| 
 |Carlos Estévez          |RP          |  6|  4.667|  4| 7.714|      9| 1.929|  3|  2|  2| 
 |Devin Williams          |RP          |  6|  6.000|  2| 3.000|      4| 0.667| 10|  1|  3| 
-|Eric Lauer              |OP          |  2| 10.000|  4| 3.600|      7| 0.700| 14|  1|  0| 
+|Eric Lauer              |OP          |  3| 18.000|  5| 2.500|     12| 0.667| 20|  2|  0| 
 |Jake Irvin              |OP          |  3| 14.667|  9| 5.523|     24| 1.636|  9|  0|  0| 
 |Michael Soroka          |OP          |  3| 14.667|  4| 2.455|     16| 1.091| 13|  0|  0| 
 |Shane Baz               |OP          |  3| 16.333| 12| 6.612|     26| 1.592| 14|  0|  0| 

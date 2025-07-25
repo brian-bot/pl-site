@@ -9,17 +9,17 @@
 |Alec Bohm        |1B        |      8|  4|   1|  0|  0| 
 |Marcus Semien    |2B        |     15| 11|   8|  4|  1| 
 |Austin Riley     |3B        |      5|  4|   3|  1|  0| 
-|Zach Neto        |SS        |     24| 14|   5|  2|  3| 
+|Zach Neto        |SS        |     27| 14|   6|  2|  3| 
 |Anthony Volpe    |MI        |      9|  4|   6|  3|  0| 
-|Luis Arraez      |CI        |     15|  4|   3|  1|  1| 
+|Luis Arraez      |CI        |     18|  6|   4|  1|  1| 
 |Bryan Reynolds   |OF        |     14|  6|   5|  0|  0| 
 |Corbin Carroll   |OF        |     16|  9|   6|  1|  3| 
-|Mike Trout       |OF        |     23|  8|  13|  4|  0| 
+|Mike Trout       |OF        |     27|  9|  13|  4|  0| 
 |Mookie Betts     |OF        |     10|  5|   1|  0|  0| 
 |Ben Rice         |DH        |      9|  5|   1|  1|  0| 
 |Kyle Stowers     |DH        |     25|  9|  15|  6|  1| 
 |Ryan McMahon     |DH        |     16|  6|  10|  4|  0| 
-|Shea Langeliers  |DH        |     13|  4|   6|  2|  0| 
+|Shea Langeliers  |DH        |     13|  4|   7|  2|  0| 
 |Connor Norby     |BAT BENCH |      7|  3|   2|  1|  0| 
 |Ezequiel Tovar   |BAT BENCH |      6|  4|   4|  2|  0| 
 |Michael Conforto |BAT BENCH |     10|  4|   2|  1|  0| 
@@ -43,7 +43,7 @@
 |David Bednar     |OP          |  6|  5.333|  0| 0.000|      5| 0.938|  6|  0|  3| 
 |Landen Roupp     |OP          |  3| 16.000|  2| 1.125|     19| 1.188| 17|  1|  0| 
 |Tomoyuki Sugano  |OP          |  2|  9.667|  6| 5.586|     17| 1.759|  6|  1|  0| 
-|Yu Darvish       |OP          |  3| 13.333|  9| 6.075|     20| 1.500|  8|  0|  0| 
+|Yu Darvish       |OP          |  4| 16.667| 17| 9.180|     30| 1.800| 11|  0|  0| 
 |Luis L. Ortiz    |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 |Luke Weaver      |PITCH BENCH |  4|  6.333|  0| 0.000|      3| 0.474|  6|  1|  0| 
 |Tanner Houck     |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 

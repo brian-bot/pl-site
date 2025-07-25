@@ -5,11 +5,11 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Willson Contreras   |C         |     17|  6|   6|  2|  0| 
+|Willson Contreras   |C         |     20|  7|  10|  3|  0| 
 |Michael Busch       |1B        |     12|  4|   4|  2|  0| 
-|Jose Altuve         |2B        |     20|  7|   7|  1|  0| 
+|Jose Altuve         |2B        |     22|  8|   7|  1|  0| 
 |Rafael Devers       |3B        |     17|  7|   6|  2|  0| 
-|Bo Bichette         |SS        |     18|  6|   8|  1|  0| 
+|Bo Bichette         |SS        |     19|  7|   8|  1|  0| 
 |Masyn Winn          |MI        |     19|  5|   4|  0|  2| 
 |Josh Naylor         |CI        |     21|  7|   3|  1|  1| 
 |Aaron Judge         |OF        |     18| 10|  10|  4|  0| 

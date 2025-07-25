@@ -11,7 +11,7 @@
 |Mark Vientos      |3B        |     13|  0|   4|  0|  0| 
 |Elly De La Cruz   |SS        |     23|  9|   5|  0|  5| 
 |Dansby Swanson    |MI        |     15|  7|   5|  1|  1| 
-|Christian Walker  |CI        |     13|  4|   7|  1|  1| 
+|Christian Walker  |CI        |     13|  4|   8|  1|  1| 
 |Jasson Domínguez  |OF        |      8|  5|   2|  1|  0| 
 |Josh Lowe         |OF        |     10|  2|   6|  0|  0| 
 |Trent Grisham     |OF        |     12|  5|   5|  1|  0| 

@@ -15,7 +15,7 @@
 |Marcell Ozuna     |OF        |      6|  2|   2|  2|  0| 
 |Matt Wallner      |OF        |     13|  5|   5|  3|  0| 
 |Oneil Cruz        |OF        |     15|  4|   5|  1|  5| 
-|Riley Greene      |OF        |      9|  4|   8|  3|  0| 
+|Riley Greene      |OF        |     11|  5|   8|  3|  0| 
 |Jurickson Profar  |DH        |     18|  8|   5|  1|  1| 
 |Nick Castellanos  |DH        |     13|  6|   6|  2|  2| 
 |Roman Anthony     |DH        |     22|  9|   5|  1|  1| 
@@ -34,10 +34,10 @@
 |Jesús Luzardo      |SP          |  3| 16.667| 10|  5.400|     20| 1.200| 21|  1|  0| 
 |Logan Gilbert      |SP          |  3| 17.000|  4|  2.118|     18| 1.059| 24|  1|  0| 
 |Merrill Kelly      |SP          |  3| 18.000|  4|  2.000|     16| 0.889| 15|  2|  0| 
-|Sonny Gray         |SP          |  3| 11.333| 11|  8.735|     20| 1.765| 16|  1|  0| 
+|Sonny Gray         |SP          |  4| 16.333| 17|  9.367|     31| 1.898| 21|  2|  0| 
 |Spencer Strider    |SP          |  3| 17.667|  6|  3.057|     22| 1.245| 26|  1|  0| 
 |Yoshinobu Yamamoto |SP          |  3| 12.667|  4|  2.842|     17| 1.342| 15|  0|  0| 
-|Ryan Helsley       |RP          |  4|  4.000|  1|  2.250|      7| 1.750|  2|  0|  2| 
+|Ryan Helsley       |RP          |  5|  5.000|  1|  1.800|      8| 1.600|  4|  0|  3| 
 |Trevor Megill      |RP          |  4|  4.000|  0|  0.000|      0| 0.000|  5|  1|  3| 
 |Jeff Hoffman       |OP          |  5|  5.000|  4|  7.200|      6| 1.200|  9|  0|  2| 
 |Jeffrey Springs    |OP          |  3| 16.667|  9|  4.860|     19| 1.140| 11|  2|  0| 

@@ -5,21 +5,21 @@
  
 |players                      |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------------------|:---------|------:|--:|---:|--:|--:| 
-|Cal Raleigh                  |C         |     14|  6|  10|  4|  2| 
-|Tyler Soderstrom             |1B        |     13|  5|   8|  3|  1| 
+|Cal Raleigh                  |C         |     16|  7|  10|  4|  3| 
+|Tyler Soderstrom             |1B        |     14|  5|   8|  3|  1| 
 |Bryson Stott                 |2B        |      8|  3|   2|  1|  2| 
 |Junior Caminero              |3B        |     18|  7|  11|  5|  0| 
 |Geraldo Perdomo              |SS        |     25|  6|  13|  1|  2| 
 |Matt Shaw                    |MI        |      9|  4|   7|  3|  2| 
-|Cam Smith                    |CI        |     12|  2|   3|  0|  1| 
-|Jackson Merrill              |OF        |     12|  7|   6|  2|  0| 
+|Cam Smith                    |CI        |     13|  2|   4|  0|  1| 
+|Jackson Merrill              |OF        |     14|  8|   7|  2|  0| 
 |Lane Thomas                  |OF        |     **| **|  **| **| **| 
 |Seiya Suzuki                 |OF        |     13|  6|   4|  1|  1| 
 |Wyatt Langford               |OF        |     17|  9|   7|  2|  4| 
 |Chandler Simpson             |DH        |     19|  6|   1|  0|  7| 
 |Christian Encarnacion-Strand |DH        |      1|  0|   0|  0|  0| 
-|Kyle Manzardo                |DH        |     11|  3|   9|  3|  0| 
-|Nolan Schanuel               |DH        |     23|  5|   6|  0|  1| 
+|Kyle Manzardo                |DH        |     13|  3|   9|  3|  0| 
+|Nolan Schanuel               |DH        |     25|  5|   7|  0|  1| 
 |Dylan Crews                  |BAT BENCH |     **| **|  **| **| **| 
 |Jeremy Peña                  |BAT BENCH |     **| **|  **| **| **| 
 |Josh Jung                    |BAT BENCH |      5|  4|   1|  1|  0| 
@@ -43,7 +43,7 @@
 |Kyle Finnegan      |RP          |  5|  3.667| 10| 24.545|     13| 3.545|  4|  0|  1| 
 |Cristopher Sánchez |OP          |  3| 23.333|  3|  1.157|     21| 0.900| 26|  2|  0| 
 |Emilio Pagán       |OP          |  5|  4.333|  1|  2.077|      7| 1.615|  6|  1|  2| 
-|Logan Allen        |OP          |  2| 11.333|  5|  3.971|     12| 1.059|  9|  1|  0| 
+|Logan Allen        |OP          |  3| 17.667|  9|  4.585|     19| 1.075| 13|  1|  0| 
 |Luke Jackson       |OP          |  4|  4.667|  3|  5.786|      8| 1.714|  2|  0|  0| 
 |Quinn Priester     |OP          |  3| 19.000|  4|  1.895|     17| 0.895| 21|  3|  0| 
 |Cade Horton        |PITCH BENCH |  2| 10.333|  4|  3.484|     13| 1.258|  9|  0|  0| 
