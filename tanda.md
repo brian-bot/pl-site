@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Sean Murphy       |C         |     16|  8|   8|  3|  0| 
-|Pete Alonso       |1B        |     12|  3|   7|  2|  0| 
-|Ketel Marte       |2B        |     13|  4|   1|  1|  0| 
+|Sean Murphy       |C         |     17|  9|   8|  3|  0| 
+|Pete Alonso       |1B        |     12|  3|   8|  2|  0| 
+|Ketel Marte       |2B        |     16|  4|   1|  1|  0| 
 |José Ramírez      |3B        |     28| 18|  17|  7|  9| 
-|Francisco Lindor  |SS        |     10|  8|   8|  2|  2| 
+|Francisco Lindor  |SS        |     13| 11|   9|  3|  3| 
 |CJ Abrams         |MI        |     11|  4|   6|  1|  1| 
-|Eugenio Suárez    |CI        |     20| 11|  13|  8|  0| 
-|George Springer   |OF        |     17|  9|   2|  1|  2| 
-|Jo Adell          |OF        |     12|  3|   6|  2|  0| 
-|Randy Arozarena   |OF        |     19| 11|   9|  5|  1| 
+|Eugenio Suárez    |CI        |     20| 11|  14|  8|  0| 
+|George Springer   |OF        |     20| 10|   2|  1|  2| 
+|Jo Adell          |OF        |     13|  3|   8|  2|  0| 
+|Randy Arozarena   |OF        |     21| 11|   9|  5|  1| 
 |Taylor Ward       |OF        |     20|  6|  17|  3|  0| 
-|Addison Barger    |DH        |     14|  8|  10|  3|  1| 
-|Adolis García     |DH        |     15|  9|   8|  4|  2| 
-|Spencer Steer     |DH        |     12|  4|   4|  1|  0| 
-|Spencer Torkelson |DH        |     19|  7|   4|  2|  0| 
+|Addison Barger    |DH        |     16|  9|  11|  3|  1| 
+|Adolis García     |DH        |     16| 10|   8|  4|  2| 
+|Spencer Steer     |DH        |     14|  4|   4|  1|  0| 
+|Spencer Torkelson |DH        |     20|  8|   5|  3|  0| 
 |Luis Robert Jr.   |BAT BENCH |     18| 10|   9|  2|  4| 
-|TJ Friedl         |BAT BENCH |     20|  9|   2|  1|  1| 
-|Xavier Edwards    |BAT BENCH |     21| 10|   7|  1|  2| 
+|TJ Friedl         |BAT BENCH |     22| 10|   4|  2|  1| 
+|Xavier Edwards    |BAT BENCH |     22| 11|   7|  1|  2| 
 
 
 * * *
@@ -34,12 +34,12 @@
 |:------------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Clayton Kershaw    |SP          |  2| 10.333|  3| 2.613|     13| 1.258|  5|  0|  0| 
 |Edward Cabrera     |SP          |  2|  9.667|  5| 4.655|     13| 1.345| 12|  1|  0| 
-|MacKenzie Gore     |SP          |  2|  8.333|  9| 9.720|     17| 2.040|  9|  1|  0| 
+|MacKenzie Gore     |SP          |  3| 13.333| 10| 6.750|     24| 1.800| 13|  1|  0| 
 |Michael Wacha      |SP          |  2| 11.000|  2| 1.636|      9| 0.818|  6|  0|  0| 
-|Will Warren        |SP          |  3| 14.667|  7| 4.295|     23| 1.568| 10|  1|  0| 
+|Will Warren        |SP          |  4| 20.333|  9| 3.984|     31| 1.525| 17|  1|  0| 
 |Yusei Kikuchi      |SP          |  4| 20.333| 12| 5.311|     32| 1.574| 21|  1|  0| 
-|Andrés Muñoz       |RP          |  5|  5.000|  2| 3.600|      9| 1.800|  6|  0|  2| 
-|Camilo Doval       |RP          |  4|  4.000|  0| 0.000|      6| 1.500|  4|  0|  2| 
+|Andrés Muñoz       |RP          |  6|  6.000|  2| 3.000|      9| 1.500|  8|  0|  2| 
+|Camilo Doval       |RP          |  5|  5.000|  2| 3.600|      8| 1.600|  7|  0|  2| 
 |Charlie Morton     |OP          |  3| 18.000| 11| 5.500|     27| 1.500| 15|  1|  0| 
 |Daniel Palencia    |OP          |  5|  4.667|  0| 0.000|      3| 0.643|  5|  0|  3| 
 |Lucas Giolito      |OP          |  3| 15.333|  9| 5.283|     18| 1.174| 14|  1|  0| 
