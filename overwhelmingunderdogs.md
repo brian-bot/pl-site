@@ -5,22 +5,22 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith        |C         |     16|  8|   3|  2|  0| 
-|Freddie Freeman   |1B        |     18|  5|   4|  0|  1| 
-|Jonathan India    |2B        |     15|  6|   4|  0|  0| 
-|Matt Chapman      |3B        |     17| 10|   8|  2|  0| 
-|Matt McLain       |SS        |     20|  8|   4|  2|  2| 
-|Carlos Correa     |MI        |     21|  6|   2|  0|  0| 
+|Will Smith        |C         |     18|  8|   3|  2|  0| 
+|Freddie Freeman   |1B        |     19|  5|   4|  0|  1| 
+|Jonathan India    |2B        |     17|  7|   7|  1|  0| 
+|Matt Chapman      |3B        |     18| 10|   8|  2|  0| 
+|Matt McLain       |SS        |     23|  9|   5|  2|  2| 
+|Carlos Correa     |MI        |     22|  6|   2|  0|  0| 
 |Isaac Paredes     |CI        |     13|  5|   2|  1|  0| 
 |Marcell Ozuna     |OF        |      7|  2|   2|  2|  0| 
-|Matt Wallner      |OF        |     14|  6|   5|  3|  0| 
-|Oneil Cruz        |OF        |     16|  4|   5|  1|  6| 
-|Riley Greene      |OF        |     12|  5|   8|  3|  0| 
-|Jurickson Profar  |DH        |     21|  8|   6|  1|  1| 
+|Matt Wallner      |OF        |     14|  6|   6|  3|  0| 
+|Oneil Cruz        |OF        |     17|  5|   7|  2|  6| 
+|Riley Greene      |OF        |     12|  5|   9|  3|  0| 
+|Jurickson Profar  |DH        |     23|  9|   7|  1|  2| 
 |Nick Castellanos  |DH        |     15|  8|   7|  2|  2| 
-|Roman Anthony     |DH        |     23|  9|   5|  1|  1| 
-|Shohei Ohtani     |DH        |     21| 12|  14|  7|  1| 
-|Chase Meidroth    |BAT BENCH |     16|  7|   4|  1|  0| 
+|Roman Anthony     |DH        |     27|  9|   6|  1|  1| 
+|Shohei Ohtani     |DH        |     22| 13|  15|  8|  1| 
+|Chase Meidroth    |BAT BENCH |     18|  7|   4|  1|  0| 
 |Kristian Campbell |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -33,7 +33,7 @@
 |:------------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Jesús Luzardo      |SP          |  3| 16.667| 10|  5.400|     20| 1.200| 21|  1|  0| 
 |Logan Gilbert      |SP          |  3| 17.000|  4|  2.118|     18| 1.059| 24|  1|  0| 
-|Merrill Kelly      |SP          |  3| 18.000|  4|  2.000|     16| 0.889| 15|  2|  0| 
+|Merrill Kelly      |SP          |  4| 24.667|  5|  1.824|     23| 0.932| 18|  2|  0| 
 |Sonny Gray         |SP          |  4| 16.333| 17|  9.367|     31| 1.898| 21|  2|  0| 
 |Spencer Strider    |SP          |  3| 17.667|  6|  3.057|     22| 1.245| 26|  1|  0| 
 |Yoshinobu Yamamoto |SP          |  3| 12.667|  4|  2.842|     17| 1.342| 15|  0|  0| 
