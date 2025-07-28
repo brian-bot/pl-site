@@ -5,25 +5,25 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Carson Kelly        |C         |     16|  6|   5|  2|  0| 
+|Carson Kelly        |C         |     18|  7|   5|  2|  0| 
 |Nick Kurtz          |1B        |     38| 21|  24| 10|  2| 
 |Brandon Lowe        |2B        |      1|  1|   0|  0|  0| 
-|Manny Machado       |3B        |     26|  8|  11|  5|  0| 
+|Manny Machado       |3B        |     30|  8|  14|  5|  0| 
 |Trea Turner         |SS        |     23| 10|   5|  0|  3| 
-|Jonathan Aranda     |MI        |     21|  6|   4|  1|  0| 
-|Miguel Vargas       |CI        |     21| 12|   7|  2|  0| 
-|Ian Happ            |OF        |     16|  6|   4|  2|  0| 
-|Juan Soto           |OF        |     20|  8|  10|  3|  4| 
-|Kyle Tucker         |OF        |     19|  6|   3|  1|  1| 
+|Jonathan Aranda     |MI        |     22|  6|   4|  1|  0| 
+|Miguel Vargas       |CI        |     22| 12|   7|  2|  0| 
+|Ian Happ            |OF        |     17|  7|   4|  2|  1| 
+|Juan Soto           |OF        |     22|  9|  11|  4|  4| 
+|Kyle Tucker         |OF        |     22|  7|   3|  1|  1| 
 |Lawrence Butler     |OF        |     15|  8|   8|  4|  3| 
 |Andy Pages          |DH        |     18|  4|   6|  2|  1| 
 |Otto Lopez          |DH        |     21|  6|  10|  2|  1| 
-|Pete Crow-Armstrong |DH        |     14|  7|   7|  4|  1| 
-|Trevor Story        |DH        |     17|  8|   7|  1|  3| 
+|Pete Crow-Armstrong |DH        |     16|  7|   9|  4|  2| 
+|Trevor Story        |DH        |     17|  8|   8|  1|  3| 
 |Adley Rutschman     |BAT BENCH |     **| **|  **| **| **| 
 |Lars Nootbaar       |BAT BENCH |      6|  4|   1|  1|  0| 
 |Rhys Hoskins        |BAT BENCH |     **| **|  **| **| **| 
-|Victor Scott II     |BAT BENCH |     15|  8|   5|  1|  4| 
+|Victor Scott II     |BAT BENCH |     16|  8|   5|  1|  4| 
 
 
 * * *
@@ -34,7 +34,7 @@
 |players         |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:---------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Garrett Crochet |SP          |  3| 21.000|  3|  1.286|     23| 1.095| 24|  3|  0| 
-|Jack Flaherty   |SP          |  3| 14.333|  7|  4.395|     23| 1.605| 21|  0|  0| 
+|Jack Flaherty   |SP          |  4| 20.333|  7|  3.098|     29| 1.426| 28|  1|  0| 
 |José Soriano    |SP          |  4| 22.000| 10|  4.091|     29| 1.318| 17|  1|  0| 
 |Kris Bubic      |SP          |  3| 13.333|  6|  4.050|     19| 1.425|  9|  1|  0| 
 |Max Fried       |SP          |  2|  8.333|  7|  7.560|     18| 2.160|  5|  0|  0| 

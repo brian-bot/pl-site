@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Sean Murphy       |C         |     17|  9|   9|  3|  0| 
+|Sean Murphy       |C         |     18|  9|  10|  3|  0| 
 |Pete Alonso       |1B        |     13|  3|   8|  2|  0| 
-|Ketel Marte       |2B        |     17|  4|   1|  1|  0| 
-|José Ramírez      |3B        |     32| 20|  17|  7|  9| 
-|Francisco Lindor  |SS        |     15| 11|   9|  3|  3| 
-|CJ Abrams         |MI        |     12|  4|   9|  1|  1| 
-|Eugenio Suárez    |CI        |     21| 11|  14|  8|  0| 
-|George Springer   |OF        |     23| 12|   3|  2|  2| 
+|Ketel Marte       |2B        |     19|  4|   1|  1|  0| 
+|José Ramírez      |3B        |     33| 20|  17|  7|  9| 
+|Francisco Lindor  |SS        |     15| 11|  10|  3|  3| 
+|CJ Abrams         |MI        |     16|  7|  10|  2|  4| 
+|Eugenio Suárez    |CI        |     22| 11|  14|  8|  0| 
+|George Springer   |OF        |     25| 13|   4|  2|  2| 
 |Jo Adell          |OF        |     15|  3|   8|  2|  0| 
 |Randy Arozarena   |OF        |     23| 13|  10|  6|  2| 
-|Taylor Ward       |OF        |     22|  7|  18|  4|  0| 
-|Addison Barger    |DH        |     16|  9|  11|  3|  1| 
-|Adolis García     |DH        |     18| 11|  10|  4|  2| 
+|Taylor Ward       |OF        |     24|  7|  18|  4|  0| 
+|Addison Barger    |DH        |     17|  9|  12|  3|  1| 
+|Adolis García     |DH        |     21| 13|  10|  4|  2| 
 |Spencer Steer     |DH        |     15|  5|   4|  1|  0| 
-|Spencer Torkelson |DH        |     20|  8|   5|  3|  0| 
-|Luis Robert Jr.   |BAT BENCH |     18| 10|   9|  2|  4| 
-|TJ Friedl         |BAT BENCH |     26| 12|   5|  2|  1| 
-|Xavier Edwards    |BAT BENCH |     25| 12|   7|  1|  2| 
+|Spencer Torkelson |DH        |     21|  9|   6|  3|  0| 
+|Luis Robert Jr.   |BAT BENCH |     19| 10|   9|  2|  4| 
+|TJ Friedl         |BAT BENCH |     28| 13|   5|  2|  1| 
+|Xavier Edwards    |BAT BENCH |     28| 13|   7|  1|  2| 
 
 
 * * *
@@ -41,7 +41,7 @@
 |Andrés Muñoz       |RP          |  6|  6.000|  2| 3.000|      9| 1.500|  8|  0|  2| 
 |Camilo Doval       |RP          |  5|  5.000|  2| 3.600|      8| 1.600|  7|  0|  2| 
 |Charlie Morton     |OP          |  3| 18.000| 11| 5.500|     27| 1.500| 15|  1|  0| 
-|Daniel Palencia    |OP          |  5|  4.667|  0| 0.000|      3| 0.643|  5|  0|  3| 
+|Daniel Palencia    |OP          |  6|  6.000|  0| 0.000|      3| 0.500|  6|  0|  4| 
 |Lucas Giolito      |OP          |  3| 15.333|  9| 5.283|     18| 1.174| 14|  1|  0| 
 |Reese Olson        |OP          |  3| 15.667|  7| 4.021|     19| 1.213| 11|  0|  0| 
 |Slade Cecconi      |OP          |  3| 21.333| 10| 4.219|     22| 1.031| 13|  2|  0| 
