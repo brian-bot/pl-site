@@ -5,24 +5,24 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez     |C         |     24| 13|  12|  8|  0| 
-|Yandy Díaz         |1B        |     24|  9|   9|  4|  0| 
-|Brendan Donovan    |2B        |     22|  7|  10|  2|  0| 
-|Jazz Chisholm Jr.  |3B        |     22|  9|  10|  3|  0| 
-|Gunnar Henderson   |SS        |     25| 10|   9|  1|  4| 
+|Salvador Perez     |C         |     26| 13|  13|  8|  0| 
+|Yandy Díaz         |1B        |     26| 10|  10|  4|  0| 
+|Brendan Donovan    |2B        |     23|  8|  10|  2|  0| 
+|Jazz Chisholm Jr.  |3B        |     23|  9|  11|  3|  0| 
+|Gunnar Henderson   |SS        |     26| 11|   9|  1|  4| 
 |Jackson Holliday   |MI        |     23|  9|   6|  3|  0| 
-|Ryan O'Hearn       |CI        |     17|  5|   9|  1|  0| 
-|Brent Rooker       |OF        |     24| 11|   9|  3|  1| 
-|Christian Yelich   |OF        |     18|  6|   5|  2|  2| 
-|Fernando Tatis Jr. |OF        |     31| 10|   5|  2|  3| 
-|Steven Kwan        |OF        |     21| 13|   9|  3|  0| 
-|Brandon Nimmo      |DH        |     25| 10|   8|  1|  3| 
-|Giancarlo Stanton  |DH        |     19| 11|  13|  6|  0| 
-|Josh Smith         |DH        |     21| 10|   6|  1|  1| 
-|Sal Frelick        |DH        |     11|  6|   3|  1|  2| 
-|Brenton Doyle      |BAT BENCH |     12|  3|   2|  0|  1| 
-|Jung Hoo Lee       |BAT BENCH |     22|  1|   6|  0|  0| 
-|Ozzie Albies       |BAT BENCH |     18|  6|  12|  3|  2| 
+|Ryan O'Hearn       |CI        |     19|  7|  10|  1|  0| 
+|Brent Rooker       |OF        |     25| 11|  10|  3|  1| 
+|Christian Yelich   |OF        |     20|  8|   8|  3|  2| 
+|Fernando Tatis Jr. |OF        |     33| 11|   5|  2|  3| 
+|Steven Kwan        |OF        |     23| 14|   9|  3|  0| 
+|Brandon Nimmo      |DH        |     26| 11|   8|  1|  3| 
+|Giancarlo Stanton  |DH        |     20| 11|  13|  6|  0| 
+|Josh Smith         |DH        |     23| 11|   6|  1|  1| 
+|Sal Frelick        |DH        |     14|  8|   4|  2|  2| 
+|Brenton Doyle      |BAT BENCH |     13|  4|   2|  0|  1| 
+|Jung Hoo Lee       |BAT BENCH |     25|  1|   7|  0|  1| 
+|Ozzie Albies       |BAT BENCH |     21|  7|  12|  3|  2| 
 
 
 * * *
@@ -44,10 +44,10 @@
 |Jake Irvin              |OP          |  4| 21.667| 11| 4.569|     29| 1.338| 11|  1|  0| 
 |Michael Soroka          |OP          |  3| 14.667|  4| 2.455|     16| 1.091| 13|  0|  0| 
 |Shane Baz               |OP          |  4| 21.333| 14| 5.906|     33| 1.547| 19|  0|  0| 
-|Simeon Woods Richardson |OP          |  3| 12.667|  4| 2.842|     19| 1.500|  9|  1|  0| 
+|Simeon Woods Richardson |OP          |  4| 17.333|  7| 3.635|     28| 1.615| 14|  1|  0| 
 |Blake Snell             |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 |Emmet Sheehan           |PITCH BENCH |  3| 12.333|  8| 5.838|     18| 1.459| 11|  2|  0| 
-|Griffin Jax             |PITCH BENCH |  7|  6.667|  2| 2.700|      8| 1.200|  8|  0|  0| 
+|Griffin Jax             |PITCH BENCH |  8|  7.667|  2| 2.348|      8| 1.043| 10|  0|  0| 
 |Roki Sasaki             |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 
 
