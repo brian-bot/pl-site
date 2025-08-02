@@ -7,7 +7,7 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras     |C         |     25| 12|   8|  0|  0| 
+|William Contreras     |C         |     26| 12|   8|  0|  0| 
 |Cody Bellinger        |1B        |     24| 16|  14|  7|  0| 
 |Brice Turang          |2B        |     20|  7|   8|  1|  2| 
 |Vladimir Guerrero Jr. |3B        |     38| 16|  10|  3|  2| 
