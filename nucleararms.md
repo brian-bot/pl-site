@@ -5,24 +5,24 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez     |C         |      2|  1|   2|  1|  0| 
-|Yandy Díaz         |1B        |      3|  0|   0|  0|  0| 
-|Jackson Holliday   |2B        |      4|  2|   0|  0|  1| 
-|Jazz Chisholm Jr.  |3B        |      4|  2|   0|  0|  4| 
-|Gunnar Henderson   |SS        |      3|  2|   1|  0|  0| 
+|Salvador Perez     |C         |      4|  2|   3|  2|  0| 
+|Yandy Díaz         |1B        |      6|  2|   3|  2|  0| 
+|Jackson Holliday   |2B        |      4|  3|   0|  0|  1| 
+|Jazz Chisholm Jr.  |3B        |      5|  2|   0|  0|  4| 
+|Gunnar Henderson   |SS        |      5|  3|   4|  1|  0| 
 |Ozzie Albies       |MI        |      7|  2|   3|  0|  1| 
-|Brendan Donovan    |CI        |      2|  0|   0|  0|  0| 
+|Brendan Donovan    |CI        |      3|  1|   0|  0|  0| 
 |Brent Rooker       |OF        |      3|  2|   2|  1|  1| 
-|Christian Yelich   |OF        |      3|  1|   1|  0|  0| 
+|Christian Yelich   |OF        |      7|  4|   3|  1|  0| 
 |Fernando Tatis Jr. |OF        |      4|  3|   0|  0|  0| 
 |Steven Kwan        |OF        |      3|  2|   0|  0|  0| 
-|Brandon Nimmo      |DH        |      2|  1|   0|  0|  0| 
+|Brandon Nimmo      |DH        |      6|  3|   3|  0|  0| 
 |Drake Baldwin      |DH        |      2|  0|   0|  0|  0| 
-|Giancarlo Stanton  |DH        |      3|  2|   6|  2|  0| 
-|Sal Frelick        |DH        |      0|  0|   1|  0|  0| 
+|Giancarlo Stanton  |DH        |      4|  2|   6|  2|  0| 
+|Sal Frelick        |DH        |      2|  1|   1|  0|  0| 
 |Josh Smith         |BAT BENCH |      2|  1|   1|  0|  0| 
-|Jung Hoo Lee       |BAT BENCH |      1|  1|   1|  0|  0| 
-|Lars Nootbaar      |BAT BENCH |     **| **|  **| **| **| 
+|Jung Hoo Lee       |BAT BENCH |      4|  2|   1|  0|  0| 
+|Lars Nootbaar      |BAT BENCH |      1|  0|   0|  0|  0| 
 |Ryan O'Hearn       |BAT BENCH |      3|  1|   2|  1|  0| 
 
 
@@ -33,7 +33,7 @@
  
 |players                 |position    |  g|    ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:-----------------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
-|Blake Snell             |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Blake Snell             |SP          |  1| 5.000|  3|  5.400|      5| 1.000|  8|  0|  0| 
 |José Berríos            |SP          |  1| 4.333|  2|  4.154|      6| 1.385|  3|  0|  0| 
 |Michael Soroka          |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Shane Baz               |SP          |  1| 5.000|  5|  9.000|     10| 2.000|  8|  0|  0| 
@@ -45,8 +45,8 @@
 |Emmet Sheehan           |OP          |  1| 3.667|  0|  0.000|      4| 1.091|  5|  0|  0| 
 |Eric Lauer              |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Griffin Jax             |OP          |  1| 0.000|  3|    Inf|      3|   Inf|  0|  0|  0| 
-|Jake Irvin              |OP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Colton Gordon           |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Jake Irvin              |OP          |  1| 4.000|  5| 11.250|     10| 2.500|  2|  0|  0| 
+|Colton Gordon           |PITCH BENCH |  1| 4.000|  6| 13.500|      8| 2.000|  6|  0|  0| 
 |Roki Sasaki             |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Taj Bradley             |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 
