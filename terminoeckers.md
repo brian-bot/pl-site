@@ -5,21 +5,21 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman     |C         |      3|  0|   2|  0|  0| 
-|Nick Kurtz          |1B        |      6|  2|   0|  0|  0| 
-|Otto Lopez          |2B        |      4|  1|   0|  0|  0| 
-|Manny Machado       |3B        |      4|  0|   3|  0|  1| 
+|Adley Rutschman     |C         |      4|  1|   2|  0|  0| 
+|Nick Kurtz          |1B        |      7|  2|   2|  0|  0| 
+|Otto Lopez          |2B        |      6|  2|   0|  0|  1| 
+|Manny Machado       |3B        |      5|  1|   3|  0|  1| 
 |Trea Turner         |SS        |      1|  0|   1|  0|  0| 
-|Trevor Story        |MI        |      8|  4|   4|  2|  1| 
+|Trevor Story        |MI        |     10|  5|   5|  2|  1| 
 |Jonathan Aranda     |CI        |      2|  0|   2|  0|  0| 
-|Juan Soto           |OF        |      3|  0|   1|  0|  1| 
-|Kyle Tucker         |OF        |      5|  1|   2|  0|  0| 
+|Juan Soto           |OF        |      4|  0|   1|  0|  1| 
+|Kyle Tucker         |OF        |      7|  1|   2|  0|  0| 
 |Lawrence Butler     |OF        |      3|  1|   0|  0|  0| 
 |Pete Crow-Armstrong |OF        |      5|  2|   1|  0|  0| 
-|Andy Pages          |DH        |      1|  0|   0|  0|  0| 
-|Brandon Lowe        |DH        |      6|  1|   1|  0|  0| 
-|Ian Happ            |DH        |      2|  2|   2|  1|  0| 
-|Victor Scott II     |DH        |      3|  1|   0|  0|  0| 
+|Andy Pages          |DH        |      3|  0|   1|  0|  1| 
+|Brandon Lowe        |DH        |      7|  1|   1|  0|  0| 
+|Ian Happ            |DH        |      3|  2|   3|  1|  0| 
+|Victor Scott II     |DH        |      4|  1|   0|  0|  0| 
 |Miguel Vargas       |BAT BENCH |      3|  2|   3|  1|  0| 
 
 
@@ -34,12 +34,12 @@
 |Jack Flaherty   |SP          |  1| 6.000|  1|  1.500|      5| 0.833|  7|  0|  0| 
 |José Soriano    |SP          |  1| 7.000|  1|  1.286|      7| 1.000|  7|  0|  0| 
 |Max Fried       |SP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Seth Lugo       |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Seth Lugo       |SP          |  1| 4.667|  2|  3.857|      8| 1.714|  3|  0|  0| 
 |Zebby Matthews  |SP          |  1| 4.333|  5| 10.385|      8| 1.846|  4|  0|  0| 
 |Cade Smith      |RP          |  2| 3.000|  0|  0.000|      0| 0.000|  3|  1|  0| 
 |Mason Miller    |RP          |  1| 1.000|  0|  0.000|      2| 2.000|  1|  0|  0| 
-|Blake Treinen   |OP          |  1| 0.333|  0|  0.000|      2| 6.000|  1|  0|  0| 
-|Chase Burns     |OP          |  1| 1.000|  0|  0.000|      0| 0.000|  2|  0|  0| 
+|Blake Treinen   |OP          |  2| 1.000|  0|  0.000|      5| 5.000|  3|  0|  0| 
+|Chase Burns     |OP          |  2| 2.000|  0|  0.000|      0| 0.000|  4|  0|  0| 
 |Gavin Williams  |OP          |  1| 6.000|  0|  0.000|      6| 1.000|  8|  0|  0| 
 |Ryne Nelson     |OP          |  1| 5.333|  1|  1.688|      6| 1.125|  8|  0|  0| 
 |Trevor Rogers   |OP          |  1| 8.000|  1|  1.125|      4| 0.500|  8|  0|  0| 
