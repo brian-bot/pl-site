@@ -5,21 +5,21 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Willson Contreras   |C         |      4|  3|   2|  1|  0| 
+|Willson Contreras   |C         |      5|  3|   2|  1|  0| 
 |Michael Busch       |1B        |      3|  2|   1|  1|  0| 
-|Jose Altuve         |2B        |      7|  3|   3|  1|  0| 
-|Rafael Devers       |3B        |      7|  2|   4|  1|  0| 
-|Bo Bichette         |SS        |      9|  2|   3|  0|  0| 
-|Masyn Winn          |MI        |      3|  1|   2|  0|  0| 
+|Jose Altuve         |2B        |      8|  4|   3|  1|  1| 
+|Rafael Devers       |3B        |      8|  3|   4|  1|  0| 
+|Bo Bichette         |SS        |     12|  4|   9|  2|  0| 
+|Masyn Winn          |MI        |      5|  2|   3|  1|  0| 
 |Josh Naylor         |CI        |      5|  1|   1|  0|  2| 
 |Aaron Judge         |OF        |     **| **|  **| **| **| 
 |Jackson Chourio     |OF        |     **| **|  **| **| **| 
-|Jarren Duran        |OF        |      4|  3|   4|  1|  0| 
-|Lourdes Gurriel Jr. |OF        |      4|  0|   2|  0|  1| 
+|Jarren Duran        |OF        |      5|  4|   7|  2|  0| 
+|Lourdes Gurriel Jr. |OF        |      6|  0|   4|  0|  1| 
 |Colton Cowser       |DH        |      4|  2|   2|  0|  0| 
 |Gavin Lux           |DH        |      5|  1|   0|  0|  0| 
-|Jake Cronenworth    |DH        |      5|  2|   2|  1|  0| 
-|Tyler Freeman       |DH        |      7|  4|   2|  0|  1| 
+|Jake Cronenworth    |DH        |      6|  2|   3|  1|  0| 
+|Tyler Freeman       |DH        |      8|  5|   2|  0|  1| 
 |Jake Burger         |BAT BENCH |     **| **|  **| **| **| 
 |JJ Bleday           |BAT BENCH |      4|  3|   1|  1|  0| 
 

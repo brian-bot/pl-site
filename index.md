@@ -2,21 +2,21 @@
 
 ## Period 7 scores
 
-Through games on 2025-08-03 ([website build status](https://github.com/brian-bot/pl-site/actions))
+Through games on 2025-08-04 ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 
 |team                   | points|  r| hitsbb| hr| rbi| sb|  w| sv| so|   era|  whip|
 |:----------------------|------:|--:|------:|--:|---:|--:|--:|--:|--:|-----:|-----:|
-|[Nuclear Arms](./nucleararms)|   52.0| 39|     89| 10|  32|  7|  1|  0| 39| 6.568| 1.514|
-|[T and A](./tanda)     |   79.0| 36|     80| 12|  35|  7|  5|  2| 43| 2.602| 0.904|
-|[Terminoeckers](./terminoeckers)|   40.5| 19|     71|  3|  24|  5|  1|  0| 56| 2.048| 1.055|
-|[Wonderbots](./wonderbots)|   75.5| 32|     80|  9|  35|  9|  4|  1| 63| 2.963| 0.878|
-|[Vass Deferens](./vassdeferens)|   55.0| 29|     68| 10|  25|  2|  2|  5| 71| 3.857| 1.183|
-|[Overwhelming Underdogs](./overwhelmingunderdogs)|   62.0| 36|     84|  7|  23|  2|  3|  2| 47| 2.288| 0.839|
-|[Washington Generals](./washingtongenerals)|   33.0| 26|     67|  6|  28|  4|  3|  2| 34| 4.872| 1.534|
-|[Boys of Summer](./boysofsummer)|   59.5| 28|     76| 12|  39|  5|  2|  3| 42| 4.355| 1.432|
-|[Bone Pilers](./bonepilers)|   53.0| 22|     75|  7|  29|  6|  4|  2| 48| 4.418| 1.218|
-|[Mean Wieners](./meanwieners)|   40.5| 30|     68|  7|  27| 10|  1|  0| 25| 5.283| 1.043|
+|[Nuclear Arms](./nucleararms)|   48.5| 44|    103| 11|  34|  7|  2|  0| 47| 5.870| 1.457|
+|[T and A](./tanda)     |   80.0| 46|    100| 14|  42|  8|  6|  2| 59| 2.959| 0.932|
+|[Terminoeckers](./terminoeckers)|   37.5| 26|     83|  3|  25|  6|  2|  0| 65| 2.470| 1.189|
+|[Wonderbots](./wonderbots)|   66.0| 33|     91|  9|  39|  9|  4|  2| 65| 2.859| 0.847|
+|[Vass Deferens](./vassdeferens)|   57.0| 38|     87| 12|  28|  4|  2|  5| 71| 3.857| 1.183|
+|[Overwhelming Underdogs](./overwhelmingunderdogs)|   68.0| 42|    103| 10|  27|  3|  4|  3| 63| 2.319| 0.755|
+|[Washington Generals](./washingtongenerals)|   36.5| 33|     80| 10|  41|  5|  3|  2| 34| 4.872| 1.534|
+|[Boys of Summer](./boysofsummer)|   64.0| 36|     96| 17|  53|  6|  3|  3| 49| 3.835| 1.398|
+|[Bone Pilers](./bonepilers)|   52.0| 28|     93|  7|  33|  6|  5|  4| 56| 3.938| 1.125|
+|[Mean Wieners](./meanwieners)|   40.5| 34|     80|  9|  36| 11|  1|  0| 34| 4.137| 0.992|
 
 * * *
 * * *
