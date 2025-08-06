@@ -5,25 +5,25 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Yainer Diaz      |C         |      7|  1|   6|  1|  0| 
+|Yainer Diaz      |C         |      8|  2|   9|  2|  0| 
 |Bryce Harper     |1B        |      8|  4|   3|  2|  0| 
 |Gleyber Torres   |2B        |      4|  3|   5|  2|  0| 
-|Alex Bregman     |3B        |      6|  1|   1|  0|  0| 
-|Bobby Witt Jr.   |SS        |      8|  3|   3|  1|  1| 
-|Willy Adames     |MI        |      4|  3|   2|  1|  0| 
-|Maikel Garcia    |CI        |      7|  2|   3|  1|  1| 
+|Alex Bregman     |3B        |      8|  3|   1|  0|  0| 
+|Bobby Witt Jr.   |SS        |      9|  4|   3|  1|  1| 
+|Willy Adames     |MI        |      6|  4|   4|  2|  0| 
+|Maikel Garcia    |CI        |     10|  3|   4|  1|  1| 
 |Ceddanne Rafaela |OF        |      8|  2|   2|  0|  1| 
-|Jordan Beck      |OF        |      9|  4|   6|  2|  1| 
-|Julio Rodríguez  |OF        |      4|  2|   4|  2|  1| 
-|Kyle Schwarber   |OF        |      7|  3|   8|  3|  1| 
-|Alec Burleson    |DH        |      6|  2|   1|  0|  0| 
-|Jordan Westburg  |DH        |      7|  4|   4|  2|  0| 
-|Nico Hoerner     |DH        |      6|  1|   3|  0|  0| 
-|Royce Lewis      |DH        |      5|  1|   2|  0|  0| 
-|Alejandro Kirk   |BAT BENCH |      3|  0|   0|  0|  0| 
+|Jordan Beck      |OF        |     12|  5|   6|  2|  2| 
+|Julio Rodríguez  |OF        |      6|  3|   4|  2|  1| 
+|Kyle Schwarber   |OF        |      9|  3|   8|  3|  1| 
+|Alec Burleson    |DH        |      6|  2|   2|  0|  0| 
+|Jordan Westburg  |DH        |     10|  4|   4|  2|  0| 
+|Nico Hoerner     |DH        |      7|  1|   3|  0|  0| 
+|Royce Lewis      |DH        |      6|  1|   2|  0|  0| 
+|Alejandro Kirk   |BAT BENCH |      6|  2|   0|  0|  0| 
 |Byron Buxton     |BAT BENCH |     **| **|  **| **| **| 
 |Carlos Narváez   |BAT BENCH |      1|  0|   0|  0|  0| 
-|Luke Keaschall   |BAT BENCH |     **| **|  **| **| **| 
+|Luke Keaschall   |BAT BENCH |      2|  1|   3|  1|  0| 
 
 * * *
 
@@ -37,9 +37,9 @@
 |Chris Bassitt      |SP          |  1|  6.000|  1|  1.500|      4| 0.667|  5|  0|  0| 
 |Jacob Misiorowski  |SP          | **|     **| **|     **|     **|    **| **| **| **| 
 |Matthew Liberatore |SP          |  1|  4.333|  1|  2.077|      6| 1.385|  1|  0|  0| 
-|Ryan Pepiot        |SP          |  1|  4.000|  7| 15.750|      9| 2.250|  4|  0|  0| 
+|Ryan Pepiot        |SP          |  2|  9.667|  9|  8.379|     16| 1.655| 10|  1|  0| 
 |Edwin Díaz         |RP          |  2|  2.000|  0|  0.000|      3| 1.500|  3|  0|  0| 
-|Josh Hader         |RP          |  1|  1.000|  0|  0.000|      2| 2.000|  1|  0|  0| 
+|Josh Hader         |RP          |  2|  2.000|  0|  0.000|      3| 1.500|  3|  0|  0| 
 |Bailey Ober        |OP          |  1|  5.000|  4|  7.200|      7| 1.400|  4|  0|  0| 
 |Brayan Bello       |OP          |  2| 13.000|  1|  0.692|     16| 1.231|  9|  2|  0| 
 |Eury Pérez         |OP          |  1|  6.000|  0|  0.000|      5| 0.833|  5|  1|  0| 
