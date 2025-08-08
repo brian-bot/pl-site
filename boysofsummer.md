@@ -14,7 +14,7 @@
 |Maikel Garcia    |CI        |     11|  3|   4|  1|  1| 
 |Ceddanne Rafaela |OF        |      8|  2|   2|  0|  1| 
 |Jordan Beck      |OF        |     14|  5|   6|  2|  2| 
-|Julio Rodríguez  |OF        |      8|  5|   7|  3|  1| 
+|Julio Rodríguez  |OF        |      9|  5|   7|  3|  2| 
 |Kyle Schwarber   |OF        |      9|  3|   8|  3|  1| 
 |Alec Burleson    |DH        |      8|  3|   2|  0|  0| 
 |Jordan Westburg  |DH        |     10|  4|   4|  2|  0| 
@@ -42,9 +42,9 @@
 |Josh Hader         |RP          |  2|  2.000|  0|  0.000|      3| 1.500|  3|  0|  0| 
 |Bailey Ober        |OP          |  1|  5.000|  4|  7.200|      7| 1.400|  4|  0|  0| 
 |Brayan Bello       |OP          |  2| 13.000|  1|  0.692|     16| 1.231|  9|  2|  0| 
-|Eury Pérez         |OP          |  1|  6.000|  0|  0.000|      5| 0.833|  5|  1|  0| 
+|Eury Pérez         |OP          |  2| 11.333|  5|  3.971|     14| 1.235|  6|  1|  0| 
 |Luis Gil           |OP          |  1|  3.333|  5| 13.500|      9| 2.700|  3|  0|  0| 
-|Raisel Iglesias    |OP          |  5|  5.000|  0|  0.000|      5| 1.000|  5|  0|  3| 
+|Raisel Iglesias    |OP          |  6|  6.000|  0|  0.000|      5| 0.833|  7|  0|  4| 
 |Cole Ragans        |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Sandy Alcantara    |PITCH BENCH |  1|  7.000|  6|  7.714|     10| 1.429|  5|  0|  0| 
 |Zac Gallen         |PITCH BENCH |  1|  6.000|  2|  3.000|      9| 1.500|  3|  1|  0| 

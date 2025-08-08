@@ -5,21 +5,21 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Agustín Ramírez  |C         |     11|  3|   5|  2|  4| 
+|Agustín Ramírez  |C         |     12|  3|   6|  2|  4| 
 |Luis Arraez      |1B        |     10|  2|   1|  0|  0| 
 |Marcus Semien    |2B        |      9|  2|   4|  0|  1| 
 |Austin Riley     |3B        |      1|  1|   1|  0|  0| 
 |Zach Neto        |SS        |      7|  1|   5|  1|  0| 
 |Anthony Volpe    |MI        |     10|  5|   4|  2|  3| 
 |Ryan McMahon     |CI        |     10|  2|   2|  0|  0| 
-|Bryan Reynolds   |OF        |     11|  1|   2|  0|  0| 
+|Bryan Reynolds   |OF        |     14|  2|   3|  1|  0| 
 |Corbin Carroll   |OF        |     11|  4|   6|  2|  1| 
 |Mike Trout       |OF        |      8|  6|   3|  1|  0| 
 |Mookie Betts     |OF        |      6|  3|   2|  0|  1| 
 |Ezequiel Tovar   |DH        |     11|  5|   4|  0|  1| 
-|Kyle Stowers     |DH        |      7|  3|   8|  2|  0| 
+|Kyle Stowers     |DH        |      8|  3|   8|  2|  0| 
 |Michael Conforto |DH        |      4|  1|   1|  0|  0| 
-|Shea Langeliers  |DH        |     13|  7|   5|  4|  1| 
+|Shea Langeliers  |DH        |     14|  7|   6|  4|  1| 
 |Alec Bohm        |BAT BENCH |     **| **|  **| **| **| 
 |Ben Rice         |BAT BENCH |      8|  1|   3|  1|  0| 
 |Connor Norby     |BAT BENCH |     **| **|  **| **| **| 
@@ -38,7 +38,7 @@
 |Ranger Suárez    |SP          |  2| 13.333|  8| 5.400|     13| 0.975|  8|  0|  0| 
 |Tyler Anderson   |SP          |  2| 10.000|  8| 7.200|     13| 1.300| 10|  0|  0| 
 |Aroldis Chapman  |RP          |  3|  2.667|  0| 0.000|      0| 0.000|  3|  0|  2| 
-|Dylan Lee        |RP          |  4|  3.667|  3| 7.364|      7| 1.909|  3|  0|  0| 
+|Dylan Lee        |RP          |  5|  4.667|  3| 5.786|      7| 1.500|  5|  0|  0| 
 |David Bednar     |OP          |  3|  4.333|  2| 4.154|      7| 1.615|  8|  0|  1| 
 |Landen Roupp     |OP          | **|     **| **|    **|     **|    **| **| **| **| 
 |Nestor Cortes    |OP          |  1|  4.667|  2| 3.857|      6| 1.286|  3|  0|  0| 

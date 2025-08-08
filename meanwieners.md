@@ -6,10 +6,10 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Logan O'Hoppe     |C         |      4|  1|   0|  0|  0| 
-|Matt Olson        |1B        |      6|  2|   1|  0|  0| 
+|Matt Olson        |1B        |      9|  3|   1|  0|  0| 
 |Willi Castro      |2B        |      4|  3|   0|  0|  0| 
 |Mark Vientos      |3B        |      4|  2|   1|  0|  0| 
-|Elly De La Cruz   |SS        |      9|  2|   5|  1|  2| 
+|Elly De La Cruz   |SS        |     10|  2|   5|  1|  2| 
 |Dansby Swanson    |MI        |      4|  4|   5|  2|  0| 
 |Christian Walker  |CI        |     10|  6|   6|  3|  0| 
 |Jasson Domínguez  |OF        |     10|  3|   1|  0|  3| 
@@ -45,7 +45,7 @@
 |Alex Vesia            |OP          |  3|  2.667|  1|  3.375|      4| 1.500|  2|  0|  0| 
 |Bryan Abreu           |OP          |  3|  3.000|  0|  0.000|      3| 1.000|  0|  0|  0| 
 |Kirby Yates           |OP          | **|     **| **|     **|     **|    **| **| **| **| 
-|Matt Brash            |OP          |  2|  1.667|  1|  5.400|      3| 1.800|  1|  0|  0| 
+|Matt Brash            |OP          |  3|  2.667|  1|  3.375|      5| 1.875|  3|  0|  0| 
 |Chris Sale            |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Félix Bautista        |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Spencer Schwellenbach |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 

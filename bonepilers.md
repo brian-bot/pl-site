@@ -5,8 +5,8 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Cal Raleigh      |C         |      6|  4|   3|  1|  1| 
-|Tyler Soderstrom |1B        |      9|  2|   6|  1|  0| 
+|Cal Raleigh      |C         |      7|  4|   3|  1|  1| 
+|Tyler Soderstrom |1B        |     10|  3|   7|  2|  0| 
 |Bryson Stott     |2B        |      6|  1|   3|  0|  1| 
 |Junior Caminero  |3B        |      8|  4|   6|  3|  0| 
 |Jeremy Peña      |SS        |      8|  1|   3|  0|  0| 

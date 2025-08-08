@@ -6,8 +6,8 @@
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Adley Rutschman     |C         |      9|  3|   2|  0|  0| 
-|Nick Kurtz          |1B        |     13|  6|   2|  0|  0| 
-|Otto Lopez          |2B        |      9|  2|   1|  0|  1| 
+|Nick Kurtz          |1B        |     15|  6|   3|  0|  0| 
+|Otto Lopez          |2B        |     10|  3|   1|  0|  1| 
 |Manny Machado       |3B        |     10|  4|   3|  0|  1| 
 |Trea Turner         |SS        |      7|  1|   2|  0|  0| 
 |Trevor Story        |MI        |     16|  7|   9|  2|  2| 
