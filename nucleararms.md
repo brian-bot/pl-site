@@ -6,24 +6,24 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Salvador Perez     |C         |      9|  4|   3|  2|  0| 
-|Yandy Díaz         |1B        |      9|  4|   4|  2|  0| 
-|Jackson Holliday   |2B        |      6|  3|   1|  0|  1| 
+|Yandy Díaz         |1B        |     11|  5|   4|  2|  0| 
+|Jackson Holliday   |2B        |      8|  4|   1|  0|  1| 
 |Jazz Chisholm Jr.  |3B        |      9|  4|   2|  1|  4| 
-|Gunnar Henderson   |SS        |     11|  5|   5|  1|  1| 
-|Ozzie Albies       |MI        |     13|  5|   3|  0|  2| 
+|Gunnar Henderson   |SS        |     12|  6|   8|  2|  1| 
+|Ozzie Albies       |MI        |     14|  5|   4|  0|  2| 
 |Brendan Donovan    |CI        |      7|  2|   1|  0|  0| 
-|Brent Rooker       |OF        |     12|  5|   5|  1|  2| 
+|Brent Rooker       |OF        |     14|  6|   9|  2|  2| 
 |Christian Yelich   |OF        |     16| 10|   5|  1|  0| 
-|Fernando Tatis Jr. |OF        |     10|  5|   1|  0|  0| 
-|Steven Kwan        |OF        |      8|  5|   1|  0|  0| 
+|Fernando Tatis Jr. |OF        |     12|  6|   1|  0|  2| 
+|Steven Kwan        |OF        |      9|  6|   1|  0|  0| 
 |Brandon Nimmo      |DH        |     11|  3|   3|  0|  0| 
-|Drake Baldwin      |DH        |     14|  3|   5|  2|  0| 
-|Giancarlo Stanton  |DH        |      9|  4|   8|  3|  0| 
-|Sal Frelick        |DH        |      5|  1|   1|  0|  0| 
+|Drake Baldwin      |DH        |     18|  5|  10|  2|  0| 
+|Giancarlo Stanton  |DH        |     12|  4|  10|  3|  0| 
+|Sal Frelick        |DH        |      5|  1|   2|  0|  0| 
 |Josh Smith         |BAT BENCH |      8|  3|   2|  0|  0| 
-|Jung Hoo Lee       |BAT BENCH |     13|  8|   3|  0|  1| 
-|Lars Nootbaar      |BAT BENCH |      5|  0|   3|  0|  0| 
-|Ryan O'Hearn       |BAT BENCH |      8|  2|   3|  2|  0| 
+|Jung Hoo Lee       |BAT BENCH |     14|  8|   3|  0|  1| 
+|Lars Nootbaar      |BAT BENCH |      6|  1|   3|  0|  0| 
+|Ryan O'Hearn       |BAT BENCH |     12|  2|   4|  2|  0| 
 
 
 * * *
@@ -33,13 +33,13 @@
  
 |players                 |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:-----------------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Blake Snell             |SP          |  1|  5.000|  3|  5.400|      5| 1.000|  8|  0|  0| 
+|Blake Snell             |SP          |  2| 10.000|  3|  2.700|     11| 1.100| 18|  1|  0| 
 |José Berríos            |SP          |  2|  9.667|  5|  4.655|     14| 1.448|  8|  1|  0| 
 |Michael Soroka          |SP          |  1|  2.000|  1|  4.500|      2| 1.000|  3|  0|  0| 
 |Shane Baz               |SP          |  2|  9.000|  9|  9.000|     17| 1.889| 17|  0|  0| 
 |Shota Imanaga           |SP          |  2| 11.333|  4|  3.176|      8| 0.706| 15|  1|  0| 
 |Simeon Woods Richardson |SP          | **|     **| **|     **|     **|    **| **| **| **| 
-|Carlos Estévez          |RP          |  3|  3.000|  1|  3.000|      3| 1.000|  3|  0|  0| 
+|Carlos Estévez          |RP          |  4|  4.000|  1|  2.250|      3| 0.750|  5|  0|  1| 
 |Devin Williams          |RP          |  4|  3.667|  7| 17.182|      9| 2.455|  2|  0|  0| 
 |David Peterson          |OP          |  2| 12.000|  6|  4.500|     13| 1.083| 11|  0|  0| 
 |Emmet Sheehan           |OP          |  2|  8.667|  0|  0.000|      9| 1.038| 10|  1|  0| 
