@@ -7,21 +7,21 @@
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Willson Contreras   |C         |     11|  5|   4|  2|  0| 
 |Michael Busch       |1B        |      6|  4|   4|  2|  0| 
-|Jose Altuve         |2B        |     17|  7|   8|  3|  2| 
+|Jose Altuve         |2B        |     21| 10|   9|  4|  2| 
 |Rafael Devers       |3B        |     19|  6|   7|  3|  0| 
-|Bo Bichette         |SS        |     17|  8|  13|  3|  0| 
+|Bo Bichette         |SS        |     19| 10|  13|  3|  0| 
 |Masyn Winn          |MI        |     10|  3|   3|  1|  1| 
-|Josh Naylor         |CI        |     12|  5|   5|  2|  7| 
-|Aaron Judge         |OF        |      6|  2|   1|  0|  0| 
+|Josh Naylor         |CI        |     15|  7|   6|  3|  7| 
+|Aaron Judge         |OF        |      7|  2|   1|  0|  0| 
 |Jackson Chourio     |OF        |     **| **|  **| **| **| 
-|Jarren Duran        |OF        |     13|  8|   9|  2|  0| 
-|Lourdes Gurriel Jr. |OF        |     11|  3|  11|  2|  2| 
+|Jarren Duran        |OF        |     14|  9|   9|  2|  0| 
+|Lourdes Gurriel Jr. |OF        |     13|  5|  11|  2|  2| 
 |Colton Cowser       |DH        |      5|  2|   2|  0|  0| 
-|Gavin Lux           |DH        |     11|  3|   0|  0|  0| 
-|Jake Cronenworth    |DH        |     15|  4|   6|  1|  0| 
+|Gavin Lux           |DH        |     12|  4|   0|  0|  0| 
+|Jake Cronenworth    |DH        |     18|  5|   7|  1|  0| 
 |Tyler Freeman       |DH        |     12|  6|   2|  0|  2| 
 |Jake Burger         |BAT BENCH |      2|  0|   0|  0|  0| 
-|JJ Bleday           |BAT BENCH |     12|  6|   7|  2|  0| 
+|JJ Bleday           |BAT BENCH |     13|  6|   7|  2|  0| 
 
 
 * * *
@@ -36,8 +36,8 @@
 |Mitchell Parker  |SP          |  2|  9.000| 12| 12.000|     22| 2.444|  7|  0|  0| 
 |Nathan Eovaldi   |SP          |  2| 15.000|  1|  0.600|      9| 0.600| 10|  2|  0| 
 |Noah Cameron     |SP          |  2| 12.000|  4|  3.000|     15| 1.250|  5|  1|  0| 
-|Zack Littell     |SP          |  2| 12.000|  1|  0.750|     11| 0.917| 12|  1|  0| 
-|Jhoan Duran      |RP          |  3|  3.000|  0|  0.000|      0| 0.000|  2|  0|  3| 
+|Zack Littell     |SP          |  3| 16.667|  5|  2.700|     20| 1.200| 15|  1|  0| 
+|Jhoan Duran      |RP          |  4|  4.000|  0|  0.000|      1| 0.250|  3|  0|  4| 
 |Pete Fairbanks   |RP          |  4|  4.000|  1|  2.250|      2| 0.500|  7|  0|  1| 
 |Dennis Santana   |OP          |  4|  3.667|  7| 17.182|      8| 2.182|  2|  0|  1| 
 |Jacob Lopez      |OP          |  2| 12.667|  0|  0.000|     10| 0.789| 15|  2|  0| 
@@ -47,7 +47,7 @@
 |Bryce Miller     |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Chad Patrick     |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Michael King     |PITCH BENCH |  1|  2.000|  2|  9.000|      6| 3.000|  1|  0|  0| 
-|Sean Newcomb     |PITCH BENCH |  3|  4.000|  0|  0.000|      2| 0.500|  5|  0|  0| 
+|Sean Newcomb     |PITCH BENCH |  4|  5.000|  0|  0.000|      4| 0.800|  5|  0|  0| 
 |Shane McClanahan |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 
 
