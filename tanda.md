@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Iván Herrera      |C         |     13|  4|   3|  1|  1| 
+|Iván Herrera      |C         |     14|  4|   3|  1|  1| 
 |Pete Alonso       |1B        |     13|  6|  12|  4|  0| 
-|Ketel Marte       |2B        |     15|  8|   6|  1|  0| 
+|Ketel Marte       |2B        |     16|  9|   6|  1|  0| 
 |José Ramírez      |3B        |     14|  8|   5|  2|  2| 
 |Francisco Lindor  |SS        |     13|  7|   5|  1|  1| 
 |CJ Abrams         |MI        |     10|  4|   4|  1|  0| 
 |Eugenio Suárez    |CI        |      7|  5|   5|  1|  1| 
-|Adolis García     |OF        |     11|  5|   3|  2|  0| 
+|Adolis García     |OF        |     12|  5|   3|  2|  0| 
 |George Springer   |OF        |     **| **|  **| **| **| 
 |Randy Arozarena   |OF        |     18|  9|   5|  3|  2| 
-|Taylor Ward       |OF        |     16|  4|   9|  2|  1| 
+|Taylor Ward       |OF        |     18|  5|   9|  2|  1| 
 |Addison Barger    |DH        |     13|  7|   9|  3|  0| 
 |Luis Robert Jr.   |DH        |     15|  7|   3|  1|  5| 
-|Spencer Torkelson |DH        |     11|  4|   2|  2|  1| 
+|Spencer Torkelson |DH        |     13|  5|   3|  3|  1| 
 |Xavier Edwards    |DH        |     22|  7|   6|  0|  5| 
 |Jo Adell          |BAT BENCH |      7|  4|   9|  4|  0| 
-|TJ Friedl         |BAT BENCH |     18|  1|   3|  0|  1| 
+|TJ Friedl         |BAT BENCH |     19|  2|   3|  0|  1| 
 |Tyler O'Neill     |BAT BENCH |      1|  1|   2|  1|  0| 
 
 
@@ -36,7 +36,7 @@
 |MacKenzie Gore     |SP          |  3| 14.333| 14|  8.791|     26| 1.814| 14|  1|  0| 
 |Max Scherzer       |SP          |  2| 12.000|  3|  2.250|     14| 1.167| 10|  1|  0| 
 |Michael Wacha      |SP          |  2| 14.000|  3|  1.929|      8| 0.571|  8|  2|  0| 
-|Will Warren        |SP          |  2| 11.000|  1|  0.818|     13| 1.182|  9|  0|  0| 
+|Will Warren        |SP          |  3| 17.667|  3|  1.528|     16| 0.906| 16|  1|  0| 
 |Yusei Kikuchi      |SP          |  2| 11.000|  5|  4.091|     16| 1.455| 14|  2|  0| 
 |Andrés Muñoz       |RP          |  5|  5.000|  1|  1.800|      7| 1.400|  5|  0|  3| 
 |Daniel Palencia    |RP          |  4|  4.000|  2|  4.500|      6| 1.500|  4|  1|  1| 
