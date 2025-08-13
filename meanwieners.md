@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Logan O'Hoppe     |C         |      6|  1|   2|  0|  0| 
-|Matt Olson        |1B        |     17|  7|   3|  1|  0| 
-|Willi Castro      |2B        |      4|  3|   0|  0|  0| 
+|Logan O'Hoppe     |C         |      7|  1|   2|  0|  0| 
+|Matt Olson        |1B        |     19|  7|   4|  1|  0| 
+|Willi Castro      |2B        |      5|  3|   0|  0|  0| 
 |Mark Vientos      |3B        |      5|  2|   1|  0|  0| 
-|Elly De La Cruz   |SS        |     14|  4|   6|  1|  3| 
-|Dansby Swanson    |MI        |     10|  7|   5|  2|  1| 
+|Elly De La Cruz   |SS        |     15|  4|   6|  1|  3| 
+|Dansby Swanson    |MI        |     12|  8|   5|  2|  2| 
 |Christian Walker  |CI        |     17|  9|  10|  3|  0| 
 |Jasson Domínguez  |OF        |     10|  3|   1|  0|  3| 
 |Josh Lowe         |OF        |     12|  5|   3|  1|  4| 
-|Trent Grisham     |OF        |     16|  7|   7|  4|  1| 
-|Wilyer Abreu      |OF        |     13|  7|   8|  1|  0| 
-|Alex Freeland     |DH        |     12|  3|   2|  0|  0| 
-|Austin Hays       |DH        |      8|  4|   4|  0|  2| 
-|Isaac Collins     |DH        |     22| 10|  10|  2|  1| 
+|Trent Grisham     |OF        |     17|  7|   7|  4|  1| 
+|Wilyer Abreu      |OF        |     16|  7|  11|  1|  0| 
+|Alex Freeland     |DH        |     13|  4|   2|  0|  0| 
+|Austin Hays       |DH        |      9|  5|   4|  0|  2| 
+|Isaac Collins     |DH        |     22| 10|  11|  2|  1| 
 |Jake Mangum       |DH        |      7|  2|   2|  0|  1| 
 |Anthony Santander |BAT BENCH |     **| **|  **| **| **| 
-|Max Muncy         |BAT BENCH |     16|  5|   9|  4|  0| 
-|Michael Harris II |BAT BENCH |     18|  8|   6|  3|  1| 
+|Max Muncy         |BAT BENCH |     17|  5|   9|  4|  0| 
+|Michael Harris II |BAT BENCH |     20|  9|   6|  3|  1| 
 |Tommy Edman       |BAT BENCH |      2|  1|   0|  0|  0| 
 
 
@@ -42,7 +42,7 @@
 |Matt Strahm           |RP          |  5|  4.667|  3| 5.786|      6| 1.286|  5|  0|  0| 
 |Will Vest             |RP          |  5|  4.333|  2| 4.154|      6| 1.385|  6|  0|  1| 
 |Abner Uribe           |OP          |  5|  5.000|  0| 0.000|      4| 0.800|  8|  0|  0| 
-|Alex Vesia            |OP          |  4|  3.667|  2| 4.909|      6| 1.636|  4|  0|  0| 
+|Alex Vesia            |OP          |  5|  4.333|  3| 6.231|     10| 2.308|  4|  0|  0| 
 |Bryan Abreu           |OP          |  5|  5.667|  0| 0.000|      4| 0.706|  3|  0|  0| 
 |Kirby Yates           |OP          | **|     **| **|    **|     **|    **| **| **| **| 
 |Matt Brash            |OP          |  5|  4.667|  1| 1.929|      5| 1.071|  7|  0|  2| 
