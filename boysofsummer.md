@@ -5,25 +5,25 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Yainer Diaz      |C         |     12|  4|   9|  2|  0| 
+|Yainer Diaz      |C         |     14|  5|  12|  3|  0| 
 |Bryce Harper     |1B        |     13|  5|   5|  3|  0| 
 |Gleyber Torres   |2B        |     12|  6|   7|  2|  0| 
 |Alex Bregman     |3B        |     22|  8|   6|  2|  0| 
-|Bobby Witt Jr.   |SS        |     18|  7|   5|  2|  2| 
+|Bobby Witt Jr.   |SS        |     21|  9|   7|  2|  2| 
 |Willy Adames     |MI        |     10|  5|   4|  2|  0| 
-|Maikel Garcia    |CI        |     23|  8|   5|  1|  3| 
-|Ceddanne Rafaela |OF        |     14|  6|   2|  0|  3| 
-|Jordan Beck      |OF        |     19|  7|   6|  2|  2| 
-|Julio Rodríguez  |OF        |     16|  8|  10|  5|  2| 
-|Kyle Schwarber   |OF        |     14|  5|  11|  5|  1| 
-|Alec Burleson    |DH        |     14|  4|   4|  0|  1| 
-|Jordan Westburg  |DH        |     12|  6|   5|  3|  0| 
-|Nico Hoerner     |DH        |     14|  2|   4|  0|  0| 
-|Royce Lewis      |DH        |      9|  2|   5|  0|  0| 
+|Maikel Garcia    |CI        |     25|  8|   5|  1|  3| 
+|Ceddanne Rafaela |OF        |     15|  6|   3|  0|  4| 
+|Jordan Beck      |OF        |     21|  7|   6|  2|  2| 
+|Julio Rodríguez  |OF        |     18| 10|  10|  5|  3| 
+|Kyle Schwarber   |OF        |     15|  5|  11|  5|  1| 
+|Alec Burleson    |DH        |     16|  5|   6|  1|  1| 
+|Jordan Westburg  |DH        |     14|  6|   5|  3|  0| 
+|Nico Hoerner     |DH        |     16|  2|   4|  0|  2| 
+|Royce Lewis      |DH        |     10|  2|   6|  0|  0| 
 |Alejandro Kirk   |BAT BENCH |      9|  2|   1|  0|  0| 
-|Byron Buxton     |BAT BENCH |      2|  1|   1|  1|  0| 
+|Byron Buxton     |BAT BENCH |      5|  2|   1|  1|  0| 
 |Carlos Narváez   |BAT BENCH |      3|  2|   3|  1|  0| 
-|Luke Keaschall   |BAT BENCH |     10|  2|  10|  2|  0| 
+|Luke Keaschall   |BAT BENCH |     11|  3|  11|  2|  0| 
 
 * * *
 
@@ -42,12 +42,12 @@
 |Josh Hader         |RP          |  3|  4.000|  0| 0.000|      5| 1.250|  3|  1|  0| 
 |Bailey Ober        |OP          |  2| 11.000|  5| 4.091|     12| 1.091|  8|  0|  0| 
 |Brayan Bello       |OP          |  3| 18.667|  6| 2.893|     25| 1.339| 16|  2|  0| 
-|Eury Pérez         |OP          |  2| 11.333|  5| 3.971|     14| 1.235|  6|  1|  0| 
+|Eury Pérez         |OP          |  3| 16.333|  9| 4.959|     17| 1.041| 14|  2|  0| 
 |Luis Gil           |OP          |  2|  8.667|  7| 7.269|     16| 1.846| 10|  0|  0| 
-|Raisel Iglesias    |OP          |  7|  7.000|  0| 0.000|      5| 0.714|  8|  0|  5| 
+|Raisel Iglesias    |OP          |  8|  8.000|  0| 0.000|      6| 0.750|  8|  0|  5| 
 |Cole Ragans        |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 |Sandy Alcantara    |PITCH BENCH |  2| 12.000| 11| 8.250|     21| 1.750|  9|  0|  0| 
-|Zac Gallen         |PITCH BENCH |  2| 12.000|  3| 2.250|     16| 1.333|  9|  2|  0| 
+|Zac Gallen         |PITCH BENCH |  3| 17.000|  6| 3.176|     23| 1.353| 10|  2|  0| 
 
 
 * * *
