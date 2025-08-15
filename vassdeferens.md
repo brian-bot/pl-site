@@ -8,15 +8,15 @@
 |William Contreras     |C         |     28| 13|  16|  6|  0| 
 |Cody Bellinger        |1B        |     15|  5|   8|  2|  1| 
 |Brice Turang          |2B        |     16|  9|  12|  6|  2| 
-|Vladimir Guerrero Jr. |3B        |     22|  9|   9|  4|  0| 
+|Vladimir Guerrero Jr. |3B        |     23| 10|  11|  5|  0| 
 |Corey Seager          |SS        |     19|  7|   5|  2|  2| 
 |Luis García Jr.       |MI        |     10|  5|   4|  0|  0| 
 |Vinnie Pasquantino    |CI        |     15|  5|  15|  4|  0| 
 |Heliot Ramos          |OF        |     20|  6|   1|  0|  0| 
-|Hunter Goodman        |OF        |     14|  7|   9|  5|  0| 
-|James Wood            |OF        |     17|  8|   7|  1|  1| 
-|Teoscar Hernández     |OF        |     12|  2|   7|  2|  0| 
-|Brooks Lee            |DH        |     10|  3|   1|  1|  0| 
+|Hunter Goodman        |OF        |     16|  7|   9|  5|  0| 
+|James Wood            |OF        |     18|  8|   7|  1|  1| 
+|Teoscar Hernández     |OF        |     11|  2|   7|  2|  0| 
+|Brooks Lee            |DH        |     11|  3|   1|  1|  0| 
 |Cedric Mullins        |DH        |     13|  6|   4|  1|  2| 
 |Gavin Sheets          |DH        |      5|  2|   2|  1|  1| 
 |Paul Goldschmidt      |DH        |      8|  7|   2|  2|  0| 
@@ -43,7 +43,7 @@
 |Calvin Faucher  |OP          |  6|  6.000|  1|  1.500|      5| 0.833|  5|  0|  2| 
 |Jack Leiter     |OP          |  3| 12.667|  4|  2.842|     19| 1.500| 13|  0|  0| 
 |Kevin Ginkel    |OP          |  1|  1.000|  0|  0.000|      1| 1.000|  2|  0|  0| 
-|Matthew Boyd    |OP          |  2| 12.000|  3|  2.250|     11| 0.917| 11|  0|  0| 
+|Matthew Boyd    |OP          |  3| 19.000|  5|  2.368|     14| 0.737| 16|  0|  0| 
 |Randy Vásquez   |OP          |  1|  4.000|  5| 11.250|      8| 2.000|  3|  0|  0| 
 |Hayden Birdsong |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Jason Adam      |PITCH BENCH |  7|  7.667|  0|  0.000|      4| 0.522| 10|  2|  0| 

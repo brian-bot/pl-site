@@ -7,17 +7,17 @@
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Salvador Perez     |C         |     13|  6|   5|  3|  0| 
 |Yandy Díaz         |1B        |     18|  6|   5|  2|  0| 
-|Jackson Holliday   |2B        |     13|  4|   2|  0|  1| 
+|Jackson Holliday   |2B        |     14|  5|   2|  0|  1| 
 |Jazz Chisholm Jr.  |3B        |     16|  8|   3|  2|  7| 
-|Gunnar Henderson   |SS        |     16|  6|   8|  2|  2| 
-|Ozzie Albies       |MI        |     17|  6|   4|  0|  2| 
+|Gunnar Henderson   |SS        |     17|  6|   9|  2|  2| 
+|Ozzie Albies       |MI        |     20|  7|   7|  1|  2| 
 |Brendan Donovan    |CI        |     10|  2|   3|  0|  0| 
 |Brent Rooker       |OF        |     19|  9|   9|  2|  2| 
 |Christian Yelich   |OF        |     24| 13|  12|  3|  0| 
 |Fernando Tatis Jr. |OF        |     24| 10|   5|  0|  2| 
-|Steven Kwan        |OF        |     11|  7|   2|  1|  0| 
-|Brandon Nimmo      |DH        |     17|  7|   6|  1|  0| 
-|Drake Baldwin      |DH        |     18|  5|  11|  2|  0| 
+|Steven Kwan        |OF        |     13|  9|   2|  1|  1| 
+|Brandon Nimmo      |DH        |     18|  7|   7|  1|  0| 
+|Drake Baldwin      |DH        |     19|  6|  11|  2|  0| 
 |Giancarlo Stanton  |DH        |     20|  6|  14|  5|  0| 
 |Sal Frelick        |DH        |     14|  9|   7|  1|  1| 
 |Josh Smith         |BAT BENCH |     12|  5|   2|  0|  0| 

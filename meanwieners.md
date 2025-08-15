@@ -6,11 +6,11 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Logan O'Hoppe     |C         |      9|  2|   4|  0|  0| 
-|Matt Olson        |1B        |     21|  9|   4|  1|  0| 
+|Matt Olson        |1B        |     23|  9|   4|  1|  0| 
 |Willi Castro      |2B        |      5|  3|   0|  0|  0| 
 |Mark Vientos      |3B        |      5|  2|   1|  0|  0| 
 |Elly De La Cruz   |SS        |     17|  6|   6|  1|  3| 
-|Dansby Swanson    |MI        |     12|  8|   5|  2|  2| 
+|Dansby Swanson    |MI        |     13|  8|   5|  2|  2| 
 |Christian Walker  |CI        |     18|  9|  10|  3|  0| 
 |Jasson Domínguez  |OF        |     10|  3|   1|  0|  3| 
 |Josh Lowe         |OF        |     13|  7|   4|  1|  5| 
@@ -22,7 +22,7 @@
 |Jake Mangum       |DH        |      8|  3|   3|  0|  2| 
 |Anthony Santander |BAT BENCH |     **| **|  **| **| **| 
 |Max Muncy         |BAT BENCH |     17|  5|   9|  4|  0| 
-|Michael Harris II |BAT BENCH |     22| 11|  10|  4|  1| 
+|Michael Harris II |BAT BENCH |     25| 12|  11|  4|  2| 
 |Tommy Edman       |BAT BENCH |      2|  1|   0|  0|  0| 
 
 
