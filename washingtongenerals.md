@@ -8,20 +8,20 @@
 |Willson Contreras   |C         |     13|  5|   4|  2|  0| 
 |Michael Busch       |1B        |     10|  6|   8|  4|  0| 
 |Jose Altuve         |2B        |     24| 11|   9|  4|  2| 
-|Rafael Devers       |3B        |     22|  7|   8|  4|  0| 
-|Bo Bichette         |SS        |     22| 11|  13|  3|  0| 
-|Masyn Winn          |MI        |     13|  4|   3|  1|  1| 
+|Rafael Devers       |3B        |     23|  7|   8|  4|  0| 
+|Bo Bichette         |SS        |     23| 12|  14|  3|  0| 
+|Masyn Winn          |MI        |     15|  4|   4|  1|  1| 
 |Josh Naylor         |CI        |     19|  8|   9|  3|  7| 
-|Aaron Judge         |OF        |     12|  4|   3|  1|  1| 
+|Aaron Judge         |OF        |     13|  4|   4|  1|  1| 
 |Jackson Chourio     |OF        |     **| **|  **| **| **| 
-|Jarren Duran        |OF        |     20| 10|   9|  2|  1| 
-|Lourdes Gurriel Jr. |OF        |     17|  6|  14|  3|  3| 
+|Jarren Duran        |OF        |     21| 10|   9|  2|  1| 
+|Lourdes Gurriel Jr. |OF        |     18|  7|  14|  3|  3| 
 |Colton Cowser       |DH        |      5|  2|   2|  0|  0| 
-|Gavin Lux           |DH        |     15|  4|   1|  0|  0| 
-|Jake Cronenworth    |DH        |     24|  7|  11|  1|  0| 
-|Tyler Freeman       |DH        |     19|  7|   2|  0|  4| 
+|Gavin Lux           |DH        |     17|  5|   3|  0|  0| 
+|Jake Cronenworth    |DH        |     25|  7|  11|  1|  0| 
+|Tyler Freeman       |DH        |     21|  8|   2|  0|  4| 
 |Jake Burger         |BAT BENCH |      6|  2|   3|  1|  0| 
-|JJ Bleday           |BAT BENCH |     14|  6|   7|  2|  0| 
+|JJ Bleday           |BAT BENCH |     15|  6|   7|  2|  0| 
 
 
 * * *
@@ -31,18 +31,18 @@
  
 |players          |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Andre Pallante   |SP          |  2|  6.667|  8| 10.800|     16| 2.400|  4|  0|  0| 
-|Luis Castillo    |SP          |  2| 11.333|  4|  3.176|     10| 0.882|  9|  0|  0| 
+|Andre Pallante   |SP          |  3| 11.667| 12|  9.257|     25| 2.143| 12|  0|  0| 
+|Luis Castillo    |SP          |  3| 15.333| 10|  5.870|     20| 1.304| 14|  0|  0| 
 |Mitchell Parker  |SP          |  3| 14.333| 17| 10.674|     27| 1.884| 10|  0|  0| 
 |Nathan Eovaldi   |SP          |  3| 20.000|  6|  2.700|     18| 0.900| 13|  2|  0| 
-|Noah Cameron     |SP          |  2| 12.000|  4|  3.000|     15| 1.250|  5|  1|  0| 
+|Noah Cameron     |SP          |  3| 17.333|  5|  2.596|     23| 1.327|  7|  2|  0| 
 |Zack Littell     |SP          |  3| 16.667|  5|  2.700|     20| 1.200| 15|  1|  0| 
-|Jhoan Duran      |RP          |  4|  4.000|  0|  0.000|      1| 0.250|  3|  0|  4| 
-|Pete Fairbanks   |RP          |  5|  5.000|  1|  1.800|      3| 0.600|  8|  0|  2| 
-|Dennis Santana   |OP          |  5|  4.667|  7| 13.500|      9| 1.929|  3|  0|  1| 
+|Jhoan Duran      |RP          |  5|  4.000|  0|  0.000|      2| 0.500|  3|  0|  4| 
+|Pete Fairbanks   |RP          |  6|  6.000|  1|  1.500|      4| 0.667|  8|  0|  3| 
+|Dennis Santana   |OP          |  6|  6.000|  7| 10.500|     10| 1.667|  3|  1|  1| 
 |Jacob Lopez      |OP          |  3| 19.667|  0|  0.000|     14| 0.712| 24|  3|  0| 
 |Kenley Jansen    |OP          |  6|  6.000|  1|  1.500|      4| 0.667|  6|  1|  3| 
-|Michael Kelly    |OP          |  6|  5.000|  3|  5.400|      9| 1.800|  6|  0|  0| 
+|Michael Kelly    |OP          |  7|  6.000|  3|  4.500|     10| 1.667|  8|  0|  0| 
 |Seth Halvorsen   |OP          |  1|  0.000|  0|     **|      1|   Inf|  0|  0|  0| 
 |Bryce Miller     |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Chad Patrick     |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
