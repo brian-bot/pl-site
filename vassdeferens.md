@@ -5,24 +5,24 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras     |C         |     29| 14|  16|  6|  0| 
+|William Contreras     |C         |     32| 14|  16|  6|  1| 
 |Cody Bellinger        |1B        |     15|  5|   8|  2|  1| 
-|Brice Turang          |2B        |     18|  9|  13|  6|  2| 
-|Vladimir Guerrero Jr. |3B        |     25| 11|  11|  5|  0| 
+|Brice Turang          |2B        |     21| 11|  14|  6|  2| 
+|Vladimir Guerrero Jr. |3B        |     26| 11|  11|  5|  0| 
 |Corey Seager          |SS        |     20|  7|   5|  2|  2| 
 |Luis García Jr.       |MI        |     11|  5|   4|  0|  0| 
 |Vinnie Pasquantino    |CI        |     16|  5|  15|  4|  0| 
 |Heliot Ramos          |OF        |     21|  6|   2|  0|  0| 
-|Hunter Goodman        |OF        |     18|  8|  10|  6|  0| 
-|James Wood            |OF        |     19|  9|   7|  1|  1| 
-|Teoscar Hernández     |OF        |     12|  3|   8|  3|  0| 
-|Brooks Lee            |DH        |     13|  3|   1|  1|  0| 
-|Cedric Mullins        |DH        |     14|  7|   4|  1|  2| 
+|Hunter Goodman        |OF        |     19|  9|  10|  6|  0| 
+|James Wood            |OF        |     20|  9|   9|  1|  1| 
+|Teoscar Hernández     |OF        |     13|  4|  10|  4|  0| 
+|Brooks Lee            |DH        |     14|  4|   4|  1|  0| 
+|Cedric Mullins        |DH        |     15|  7|   4|  1|  2| 
 |Gavin Sheets          |DH        |      5|  2|   2|  1|  1| 
 |Paul Goldschmidt      |DH        |      8|  7|   2|  2|  0| 
 |Jacob Wilson          |BAT BENCH |     **| **|  **| **| **| 
 |Pavin Smith           |BAT BENCH |     **| **|  **| **| **| 
-|Ronald Acuña Jr.      |BAT BENCH |      1|  0|   0|  0|  0| 
+|Ronald Acuña Jr.      |BAT BENCH |      3|  1|   0|  0|  0| 
 
 
 * * *
@@ -33,7 +33,7 @@
 |players         |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:---------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Brady Singer    |SP          |  3| 15.667|  4|  2.298|     18| 1.149| 18|  2|  0| 
-|Bryan Woo       |SP          |  3| 19.333|  9|  4.190|     19| 0.983| 24|  2|  0| 
+|Bryan Woo       |SP          |  4| 25.333| 10|  3.553|     27| 1.066| 32|  2|  0| 
 |Jose Quintana   |SP          |  3| 17.000|  6|  3.176|     19| 1.118| 14|  3|  0| 
 |Paul Skenes     |SP          |  3| 15.000|  8|  4.800|     22| 1.467| 20|  1|  0| 
 |Robbie Ray      |SP          |  3| 19.000|  7|  3.316|     21| 1.105| 18|  0|  0| 

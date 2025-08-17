@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Iván Herrera      |C         |     18|  4|   3|  1|  2| 
-|Pete Alonso       |1B        |     21|  9|  18|  6|  0| 
-|Ketel Marte       |2B        |     27| 12|  14|  3|  1| 
+|Iván Herrera      |C         |     19|  4|   4|  1|  2| 
+|Pete Alonso       |1B        |     22|  9|  19|  6|  0| 
+|Ketel Marte       |2B        |     29| 14|  14|  3|  1| 
 |José Ramírez      |3B        |     21| 13|   8|  4|  4| 
-|Francisco Lindor  |SS        |     25| 14|  10|  4|  2| 
-|CJ Abrams         |MI        |     15|  6|   7|  2|  0| 
-|Eugenio Suárez    |CI        |     12|  7|   6|  1|  2| 
+|Francisco Lindor  |SS        |     27| 14|  11|  4|  3| 
+|CJ Abrams         |MI        |     16|  6|   7|  2|  0| 
+|Eugenio Suárez    |CI        |     13|  8|   7|  2|  2| 
 |Adolis García     |OF        |     12|  5|   4|  2|  0| 
-|George Springer   |OF        |     **| **|  **| **| **| 
+|George Springer   |OF        |      2|  1|   0|  0|  0| 
 |Randy Arozarena   |OF        |     22| 12|   6|  3|  4| 
-|Taylor Ward       |OF        |     24| 10|  12|  4|  1| 
+|Taylor Ward       |OF        |     25| 10|  12|  4|  1| 
 |Addison Barger    |DH        |     16|  7|   9|  3|  0| 
-|Luis Robert Jr.   |DH        |     18|  7|   4|  1|  5| 
-|Spencer Torkelson |DH        |     19|  7|   3|  3|  1| 
-|Xavier Edwards    |DH        |     29| 12|   7|  1|  6| 
+|Luis Robert Jr.   |DH        |     20|  8|   4|  1|  5| 
+|Spencer Torkelson |DH        |     22|  7|   4|  3|  1| 
+|Xavier Edwards    |DH        |     30| 12|   7|  1|  6| 
 |Jo Adell          |BAT BENCH |      9|  4|  11|  4|  0| 
-|TJ Friedl         |BAT BENCH |     23|  5|   3|  0|  1| 
+|TJ Friedl         |BAT BENCH |     24|  5|   3|  0|  1| 
 |Tyler O'Neill     |BAT BENCH |      1|  1|   2|  1|  0| 
 
 
@@ -44,7 +44,7 @@
 |Dean Kremer        |OP          |  3| 19.000|  8| 3.789|     23| 1.211| 17|  0|  0| 
 |Lucas Giolito      |OP          |  3| 19.000|  6| 2.842|     23| 1.211| 10|  1|  0| 
 |Sean Manaea        |OP          |  3| 14.667| 13| 7.977|     22| 1.500| 15|  0|  0| 
-|Slade Cecconi      |OP          |  2|  9.000|  7| 7.000|     14| 1.556| 10|  0|  0| 
+|Slade Cecconi      |OP          |  3| 13.667| 13| 8.561|     26| 1.902| 13|  0|  0| 
 |Aaron Nola         |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 |Camilo Doval       |PITCH BENCH |  8|  6.667|  4| 5.400|     13| 1.950| 10|  0|  0| 
 |Hunter Greene      |PITCH BENCH |  1|  6.000|  0| 0.000|      3| 0.500|  6|  1|  0| 
