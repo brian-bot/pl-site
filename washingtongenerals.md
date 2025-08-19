@@ -5,20 +5,20 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Willson Contreras   |C         |     13|  5|   4|  2|  0| 
+|Willson Contreras   |C         |     15|  6|   5|  2|  0| 
 |Michael Busch       |1B        |     11|  6|   8|  4|  0| 
-|Jose Altuve         |2B        |     27| 12|  10|  5|  3| 
-|Rafael Devers       |3B        |     26|  8|   8|  4|  0| 
-|Bo Bichette         |SS        |     28| 13|  16|  3|  0| 
+|Jose Altuve         |2B        |     28| 12|  10|  5|  3| 
+|Rafael Devers       |3B        |     28|  9|   9|  5|  0| 
+|Bo Bichette         |SS        |     29| 13|  17|  3|  0| 
 |Masyn Winn          |MI        |     17|  5|   7|  2|  1| 
-|Josh Naylor         |CI        |     19|  8|   9|  3|  7| 
+|Josh Naylor         |CI        |     20|  9|   9|  3|  7| 
 |Aaron Judge         |OF        |     20|  6|   6|  2|  1| 
 |Jackson Chourio     |OF        |     **| **|  **| **| **| 
-|Jarren Duran        |OF        |     26| 12|  10|  2|  2| 
-|Lourdes Gurriel Jr. |OF        |     21|  9|  18|  4|  3| 
+|Jarren Duran        |OF        |     27| 12|  13|  2|  2| 
+|Lourdes Gurriel Jr. |OF        |     23|  9|  18|  4|  3| 
 |Colton Cowser       |DH        |      6|  2|   2|  0|  0| 
-|Gavin Lux           |DH        |     17|  5|   3|  0|  0| 
-|Jake Cronenworth    |DH        |     26|  8|  11|  1|  0| 
+|Gavin Lux           |DH        |     19|  6|   5|  1|  0| 
+|Jake Cronenworth    |DH        |     27|  8|  11|  1|  0| 
 |Tyler Freeman       |DH        |     22|  9|   5|  1|  4| 
 |Jake Burger         |BAT BENCH |     11|  3|   6|  1|  0| 
 |JJ Bleday           |BAT BENCH |     16|  6|   7|  2|  0| 
@@ -39,7 +39,7 @@
 |Zack Littell     |SP          |  4| 22.667|  6|  2.382|     25| 1.103| 18|  1|  0| 
 |Jhoan Duran      |RP          |  6|  4.667|  0|  0.000|      2| 0.429|  4|  0|  5| 
 |Pete Fairbanks   |RP          |  7|  7.000|  1|  1.286|      5| 0.714| 11|  0|  4| 
-|Dennis Santana   |OP          |  6|  6.000|  7| 10.500|     10| 1.667|  3|  1|  1| 
+|Dennis Santana   |OP          |  7|  7.000|  7|  9.000|     10| 1.429|  4|  1|  2| 
 |Jacob Lopez      |OP          |  3| 19.667|  0|  0.000|     14| 0.712| 24|  3|  0| 
 |Kenley Jansen    |OP          |  7|  7.000|  1|  1.286|      7| 1.000|  8|  2|  3| 
 |Michael Kelly    |OP          |  8|  6.333|  6|  8.526|     12| 1.895|  8|  0|  0| 

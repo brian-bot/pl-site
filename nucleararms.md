@@ -7,23 +7,23 @@
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Salvador Perez     |C         |     16|  9|   7|  4|  0| 
 |Yandy Díaz         |1B        |     23|  6|   9|  2|  0| 
-|Jackson Holliday   |2B        |     20| 10|   5|  1|  1| 
+|Jackson Holliday   |2B        |     22| 11|   5|  1|  1| 
 |Jazz Chisholm Jr.  |3B        |     21| 12|   7|  3| 11| 
-|Gunnar Henderson   |SS        |     21|  7|  13|  2|  2| 
-|Ozzie Albies       |MI        |     23|  8|   8|  1|  2| 
+|Gunnar Henderson   |SS        |     24| 10|  15|  3|  2| 
+|Ozzie Albies       |MI        |     25|  9|   8|  1|  2| 
 |Brendan Donovan    |CI        |     10|  2|   3|  0|  0| 
 |Brent Rooker       |OF        |     26| 13|  11|  3|  2| 
-|Christian Yelich   |OF        |     29| 16|  17|  5|  0| 
+|Christian Yelich   |OF        |     30| 16|  17|  5|  0| 
 |Fernando Tatis Jr. |OF        |     29| 10|   6|  0|  2| 
-|Steven Kwan        |OF        |     19| 11|   2|  1|  2| 
+|Steven Kwan        |OF        |     20| 11|   2|  1|  3| 
 |Brandon Nimmo      |DH        |     23|  8|   7|  1|  0| 
 |Drake Baldwin      |DH        |     20|  8|  12|  2|  0| 
 |Giancarlo Stanton  |DH        |     21|  6|  14|  5|  0| 
-|Sal Frelick        |DH        |     17| 10|   7|  1|  1| 
+|Sal Frelick        |DH        |     21| 12|   7|  1|  1| 
 |Josh Smith         |BAT BENCH |     17|  6|   2|  0|  0| 
-|Jung Hoo Lee       |BAT BENCH |     22| 10|   3|  0|  3| 
-|Lars Nootbaar      |BAT BENCH |     12|  5|   4|  1|  0| 
-|Ryan O'Hearn       |BAT BENCH |     15|  4|   7|  2|  0| 
+|Jung Hoo Lee       |BAT BENCH |     23| 10|   3|  0|  3| 
+|Lars Nootbaar      |BAT BENCH |     14|  6|   5|  1|  0| 
+|Ryan O'Hearn       |BAT BENCH |     16|  5|   9|  3|  0| 
 
 
 * * *
@@ -39,7 +39,7 @@
 |Shane Baz               |SP          |  3| 16.000| 13|  7.312|     25| 1.562| 24|  0|  0| 
 |Shota Imanaga           |SP          |  4| 25.000|  8|  2.880|     17| 0.680| 30|  1|  0| 
 |Simeon Woods Richardson |SP          | **|     **| **|     **|     **|    **| **| **| **| 
-|Carlos Estévez          |RP          |  9|  8.667|  4|  4.154|      9| 1.038|  9|  0|  3| 
+|Carlos Estévez          |RP          | 10|  9.667|  4|  3.724|      9| 0.931|  9|  0|  4| 
 |Devin Williams          |RP          |  8|  7.000|  7|  9.000|     10| 1.429| 10|  0|  0| 
 |David Peterson          |OP          |  3| 15.333| 12|  7.043|     23| 1.500| 16|  0|  0| 
 |Emmet Sheehan           |OP          |  3| 13.667|  5|  3.293|     16| 1.171| 16|  1|  0| 
