@@ -22,7 +22,7 @@
 |Kyle Stowers     |DH        |     20|  8|  10|  2|  0| 
 |Michael Conforto |DH        |     11|  3|   3|  0|  0| 
 |Shea Langeliers  |DH        |     27| 17|  15|  9|  1| 
-|Alec Bohm        |BAT BENCH |      7|  2|   3|  1|  0| 
+|Alec Bohm        |BAT BENCH |      8|  2|   3|  1|  0| 
 |Ben Rice         |BAT BENCH |     27|  6|  14|  4|  0| 
 |Connor Norby     |BAT BENCH |     **| **|  **| **| **| 
 

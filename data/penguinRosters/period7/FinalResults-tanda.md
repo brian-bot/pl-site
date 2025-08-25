@@ -21,7 +21,7 @@
 |Addison Barger    |DH        |     19|  9|   9|  3|  0| 
 |Luis Robert Jr.   |DH        |     22| 10|   9|  2|  5| 
 |Spencer Torkelson |DH        |     26|  8|   4|  3|  1| 
-|Xavier Edwards    |DH        |     32| 15|   7|  1|  6| 
+|Xavier Edwards    |DH        |     31| 15|   7|  1|  6| 
 |Jo Adell          |BAT BENCH |     16|  9|  17|  7|  0| 
 |TJ Friedl         |BAT BENCH |     27|  7|   4|  0|  1| 
 |Tyler O'Neill     |BAT BENCH |      1|  1|   2|  1|  0| 

@@ -11,7 +11,7 @@
 |Nick Kurtz          |1B        |     35| 15|   8|  2|  0| 
 |Otto Lopez          |2B        |     21|  8|   3|  0|  1| 
 |Manny Machado       |3B        |     24|  8|   4|  0|  2| 
-|Trea Turner         |SS        |     33| 12|  13|  2|  4| 
+|Trea Turner         |SS        |     34| 12|  13|  2|  4| 
 |Trevor Story        |MI        |     30| 16|  15|  3|  5| 
 |Jonathan Aranda     |CI        |      2|  0|   2|  0|  0| 
 |Juan Soto           |OF        |     30| 14|  10|  6|  5| 
