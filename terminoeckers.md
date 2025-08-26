@@ -6,23 +6,23 @@
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Kyle Teel           |C         |      8|  4|   3|  0|  0| 
-|Nick Kurtz          |1B        |      8|  3|   1|  1|  0| 
-|Brandon Lowe        |2B        |      6|  3|   2|  1|  0| 
+|Nick Kurtz          |1B        |      9|  4|   3|  2|  0| 
+|Brandon Lowe        |2B        |      8|  4|   2|  1|  0| 
 |Manny Machado       |3B        |      7|  5|   5|  1|  1| 
-|Trea Turner         |SS        |      8|  4|   4|  1|  3| 
+|Trea Turner         |SS        |      9|  5|   4|  1|  3| 
 |Trevor Story        |MI        |      8|  3|   3|  1|  0| 
-|Lenyn Sosa          |CI        |      2|  0|   2|  0|  0| 
+|Lenyn Sosa          |CI        |      4|  1|   4|  0|  0| 
 |Ian Happ            |OF        |      7|  2|   0|  0|  0| 
-|Juan Soto           |OF        |     11|  5|   5|  1|  1| 
+|Juan Soto           |OF        |     14|  6|   5|  1|  1| 
 |Kyle Tucker         |OF        |      8|  4|   7|  3|  0| 
 |Pete Crow-Armstrong |OF        |      3|  1|   3|  1|  0| 
-|Andy Pages          |DH        |      4|  4|   1|  1|  1| 
+|Andy Pages          |DH        |      6|  6|   5|  3|  1| 
 |Brenton Doyle       |DH        |      7|  2|   6|  2|  1| 
 |Jakob Marsee        |DH        |      6|  2|   5|  0|  1| 
-|Lawrence Butler     |DH        |      3|  1|   3|  0|  0| 
+|Lawrence Butler     |DH        |      4|  2|   3|  0|  0| 
 |Adley Rutschman     |BAT BENCH |     **| **|  **| **| **| 
 |Miguel Andujar      |BAT BENCH |      3|  1|   0|  0|  0| 
-|Spencer Steer       |BAT BENCH |      2|  1|   3|  1|  0| 
+|Spencer Steer       |BAT BENCH |      3|  1|   3|  1|  0| 
 
 
 * * *
@@ -34,7 +34,7 @@
 |:---------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
 |Garrett Crochet |SP          |  1| 7.000|  1|  1.286|      6| 0.857| 11|  1|  0| 
 |Jack Flaherty   |SP          |  1| 5.000|  8| 14.400|     10| 2.000|  3|  0|  0| 
-|José Soriano    |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|José Soriano    |SP          |  1| 5.667|  0|  0.000|      5| 0.882|  6|  1|  0| 
 |Max Fried       |SP          |  1| 6.000|  0|  0.000|      7| 1.167|  7|  0|  0| 
 |Nolan McLean    |SP          |  1| 7.000|  2|  2.571|      4| 0.571|  7|  1|  0| 
 |Zebby Matthews  |SP          |  1| 4.667|  4|  7.714|     11| 2.357|  4|  0|  0| 
