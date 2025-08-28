@@ -5,22 +5,22 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Iván Herrera      |C         |      6|  2|   1|  0|  0| 
-|Pete Alonso       |1B        |     10|  5|   5|  1|  0| 
+|Iván Herrera      |C         |      8|  2|   1|  0|  0| 
+|Pete Alonso       |1B        |     12|  6|   6|  1|  0| 
 |Ketel Marte       |2B        |      8|  4|   4|  0|  0| 
 |José Ramírez      |3B        |      4|  0|   2|  0|  0| 
-|Francisco Lindor  |SS        |     16|  6|   1|  1|  4| 
-|CJ Abrams         |MI        |     10|  4|   3|  1|  0| 
-|Eugenio Suárez    |CI        |      8|  4|   5|  3|  0| 
-|George Springer   |OF        |     13|  8|   6|  4|  1| 
+|Francisco Lindor  |SS        |     18|  7|   2|  1|  4| 
+|CJ Abrams         |MI        |     11|  4|   4|  1|  0| 
+|Eugenio Suárez    |CI        |     10|  6|   8|  4|  1| 
+|George Springer   |OF        |     16| 10|   6|  4|  2| 
 |Luis Robert Jr.   |OF        |      6|  3|   1|  1|  2| 
 |Randy Arozarena   |OF        |      6|  5|   5|  2|  0| 
-|Taylor Ward       |OF        |      6|  4|   2|  1|  0| 
-|Jo Adell          |DH        |      8|  2|   3|  2|  1| 
+|Taylor Ward       |OF        |      8|  5|   2|  1|  0| 
+|Jo Adell          |DH        |      9|  2|   4|  2|  1| 
 |Kerry Carpenter   |DH        |      6|  2|   0|  0|  0| 
-|Spencer Torkelson |DH        |      7|  3|   3|  2|  0| 
+|Spencer Torkelson |DH        |      8|  3|   3|  2|  0| 
 |Xavier Edwards    |DH        |      4|  2|   0|  0|  0| 
-|Addison Barger    |BAT BENCH |      2|  1|   0|  0|  0| 
+|Addison Barger    |BAT BENCH |      3|  1|   2|  0|  0| 
 |Daulton Varsho    |BAT BENCH |      5|  3|   8|  2|  0| 
 
 
@@ -37,7 +37,7 @@
 |Michael Wacha      |SP          |  1|  6.000|  3|  4.500|      9| 1.500|  4|  0|  0| 
 |Will Warren        |SP          |  1|  4.000|  5| 11.250|     10| 2.500|  3|  0|  0| 
 |Yusei Kikuchi      |SP          |  2| 11.000|  7|  5.727|     14| 1.273|  7|  0|  0| 
-|Andrés Muñoz       |RP          |  3|  3.000|  1|  3.000|      5| 1.667|  5|  0|  1| 
+|Andrés Muñoz       |RP          |  4|  4.000|  2|  4.500|      7| 1.750|  5|  0|  2| 
 |Daniel Palencia    |RP          |  3|  3.000|  1|  3.000|      6| 2.000|  7|  0|  3| 
 |Charlie Morton     |OP          |  2| 11.000|  7|  5.727|     15| 1.364| 15|  1|  0| 
 |Cristian Javier    |OP          |  1|  2.000|  3| 13.500|      7| 3.500|  3|  0|  0| 

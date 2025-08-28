@@ -5,24 +5,24 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Alejandro Kirk   |C         |     10|  4|   4|  1|  0| 
-|Bryce Harper     |1B        |     11|  2|   3|  0|  1| 
-|Luke Keaschall   |2B        |     12|  2|   3|  1|  1| 
-|Alex Bregman     |3B        |     11|  1|   1|  0|  0| 
-|Bobby Witt Jr.   |SS        |     13|  6|   3|  1|  2| 
+|Alejandro Kirk   |C         |     11|  5|   4|  1|  0| 
+|Bryce Harper     |1B        |     12|  2|   3|  0|  1| 
+|Luke Keaschall   |2B        |     14|  3|   4|  2|  1| 
+|Alex Bregman     |3B        |     12|  1|   1|  0|  0| 
+|Bobby Witt Jr.   |SS        |     15|  7|   5|  1|  2| 
 |Jordan Westburg  |MI        |     **| **|  **| **| **| 
-|Maikel Garcia    |CI        |     10|  3|   4|  1|  0| 
-|Byron Buxton     |OF        |      6|  2|   1|  0|  1| 
-|Jordan Beck      |OF        |      7|  1|   0|  0|  0| 
-|Julio Rodríguez  |OF        |      9|  4|   3|  1|  0| 
+|Maikel Garcia    |CI        |     12|  4|   5|  1|  0| 
+|Byron Buxton     |OF        |      8|  5|   3|  2|  1| 
+|Jordan Beck      |OF        |      8|  1|   0|  0|  0| 
+|Julio Rodríguez  |OF        |     11|  5|   3|  1|  1| 
 |Kyle Schwarber   |OF        |      9|  3|   6|  1|  0| 
 |Alec Burleson    |DH        |      8|  4|   3|  1|  0| 
-|Ceddanne Rafaela |DH        |      5|  5|   1|  0|  1| 
-|Gleyber Torres   |DH        |      9|  5|   2|  1|  0| 
-|Nico Hoerner     |DH        |      6|  2|   1|  0|  0| 
-|Royce Lewis      |BAT BENCH |      7|  3|   6|  2|  1| 
+|Ceddanne Rafaela |DH        |      7|  6|   3|  1|  1| 
+|Gleyber Torres   |DH        |     11|  5|   2|  1|  0| 
+|Nico Hoerner     |DH        |      9|  3|   4|  1|  0| 
+|Royce Lewis      |BAT BENCH |      8|  3|   7|  2|  2| 
 |Samuel Basallo   |BAT BENCH |      5|  0|   0|  0|  0| 
-|Victor Robles    |BAT BENCH |      2|  1|   2|  0|  1| 
+|Victor Robles    |BAT BENCH |      3|  1|   2|  0|  1| 
 |Yainer Diaz      |BAT BENCH |      9|  2|   2|  1|  0| 
 
 * * *
@@ -33,7 +33,7 @@
 |players           |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Andrew Abbott     |SP          |  1|  4.000|  6| 13.500|      8| 2.000|  6|  0|  0| 
-|Brayan Bello      |SP          |  1|  7.000|  0|  0.000|      4| 0.571|  5|  1|  0| 
+|Brayan Bello      |SP          |  2| 13.667|  1|  0.659|     10| 0.732| 11|  1|  0| 
 |Carlos Rodón      |SP          |  1|  5.667|  2|  3.176|      6| 1.059|  3|  1|  0| 
 |Eury Pérez        |SP          |  1|  6.000|  2|  3.000|      4| 0.667|  4|  1|  0| 
 |Jacob Misiorowski |SP          |  2|  9.000|  6|  6.000|      9| 1.000| 15|  0|  0| 

@@ -5,25 +5,25 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Drake Baldwin      |C         |      5|  2|   4|  1|  0| 
-|Yandy Díaz         |1B        |      7|  2|   3|  2|  0| 
+|Drake Baldwin      |C         |      8|  4|   4|  1|  0| 
+|Yandy Díaz         |1B        |     10|  3|   3|  2|  0| 
 |Jackson Holliday   |2B        |      6|  2|   1|  0|  1| 
-|Jazz Chisholm Jr.  |3B        |      8|  5|   7|  3|  1| 
-|Gunnar Henderson   |SS        |      9|  4|   2|  1|  3| 
-|Ozzie Albies       |MI        |      6|  5|   4|  2|  0| 
-|Salvador Perez     |CI        |      9|  2|   4|  0|  0| 
-|Brent Rooker       |OF        |      7|  5|   2|  1|  0| 
-|Christian Yelich   |OF        |     14|  6|   3|  0|  0| 
-|Fernando Tatis Jr. |OF        |     12|  7|   3|  1|  1| 
-|Steven Kwan        |OF        |      3|  2|   0|  0|  0| 
-|Brandon Nimmo      |DH        |      3|  2|   3|  0|  0| 
+|Jazz Chisholm Jr.  |3B        |     11|  6|   7|  3|  2| 
+|Gunnar Henderson   |SS        |      9|  4|   2|  1|  4| 
+|Ozzie Albies       |MI        |      8|  7|   9|  3|  0| 
+|Salvador Perez     |CI        |     11|  4|   7|  1|  0| 
+|Brent Rooker       |OF        |      9|  5|   3|  1|  0| 
+|Christian Yelich   |OF        |     15|  6|   3|  0|  0| 
+|Fernando Tatis Jr. |OF        |     14|  7|   4|  1|  2| 
+|Steven Kwan        |OF        |      6|  2|   1|  0|  0| 
+|Brandon Nimmo      |DH        |      6|  3|   3|  0|  0| 
 |Giancarlo Stanton  |DH        |      7|  5|   8|  3|  0| 
-|Lars Nootbaar      |DH        |      8|  2|   2|  0|  0| 
+|Lars Nootbaar      |DH        |     10|  2|   2|  0|  0| 
 |Sal Frelick        |DH        |     10|  1|   2|  0|  0| 
 |Brendan Donovan    |BAT BENCH |     **| **|  **| **| **| 
-|Josh Smith         |BAT BENCH |      7|  0|   2|  0|  0| 
-|Jung Hoo Lee       |BAT BENCH |      6|  0|   0|  0|  0| 
-|Ryan O'Hearn       |BAT BENCH |     12|  5|   2|  1|  0| 
+|Josh Smith         |BAT BENCH |      8|  1|   2|  0|  0| 
+|Jung Hoo Lee       |BAT BENCH |      7|  0|   0|  0|  0| 
+|Ryan O'Hearn       |BAT BENCH |     13|  6|   2|  1|  0| 
 
 
 * * *
@@ -44,11 +44,11 @@
 |Ben Casparius           |OP          |  3| 2.333|  2|  7.714|      3| 1.286|  3|  0|  0| 
 |David Peterson          |OP          |  1| 5.667|  2|  3.176|      9| 1.588|  8|  0|  0| 
 |Emmet Sheehan           |OP          |  1| 7.000|  0|  0.000|      3| 0.429| 10|  1|  0| 
-|Eric Lauer              |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Eric Lauer              |OP          |  1| 4.667|  6| 11.571|     10| 2.143|  4|  0|  0| 
 |Jake Irvin              |OP          |  1| 2.333|  3| 11.571|      8| 3.429|  2|  0|  0| 
 |Colton Gordon           |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Roki Sasaki             |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
-|Simeon Woods Richardson |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Simeon Woods Richardson |PITCH BENCH |  1| 3.667|  5| 12.273|      7| 1.909|  2|  0|  0| 
 
 
 * * *
