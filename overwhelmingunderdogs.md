@@ -11,14 +11,14 @@
 |Matt Chapman      |3B        |      8|  5|   4|  2|  2| 
 |Carlos Correa     |SS        |     14|  4|   4|  1|  0| 
 |Colt Keith        |MI        |      3|  2|   1|  1|  0| 
-|Chase Meidroth    |CI        |      5|  3|   1|  0|  1| 
-|Marcell Ozuna     |OF        |      5|  2|   2|  0|  0| 
+|Chase Meidroth    |CI        |      6|  4|   1|  0|  1| 
+|Marcell Ozuna     |OF        |      6|  2|   2|  0|  0| 
 |Matt Wallner      |OF        |      8|  4|   7|  4|  1| 
-|Oneil Cruz        |OF        |      2|  1|   1|  0|  0| 
+|Oneil Cruz        |OF        |      4|  1|   1|  0|  1| 
 |Riley Greene      |OF        |     12|  7|   7|  3|  1| 
-|Jurickson Profar  |DH        |     16|  7|   8|  2|  2| 
+|Jurickson Profar  |DH        |     17|  8|   8|  2|  2| 
 |Nick Castellanos  |DH        |      7|  4|   0|  0|  0| 
-|Roman Anthony     |DH        |     11|  7|   6|  3|  0| 
+|Roman Anthony     |DH        |     14|  8|   6|  3|  0| 
 |Shohei Ohtani     |DH        |      9|  3|   2|  1|  0| 
 |Isaac Paredes     |BAT BENCH |     **| **|  **| **| **| 
 |Kristian Campbell |BAT BENCH |     **| **|  **| **| **| 
@@ -43,7 +43,7 @@
 |Drew Rasmussen     |OP          |  2| 12.000|  4|  3.000|     12| 1.000| 11|  0|  0| 
 |Jeffrey Springs    |OP          |  1|  5.333|  1|  1.688|      4| 0.750|  3|  0|  0| 
 |Kodai Senga        |OP          |  2|  9.000|  7|  7.000|     17| 1.889|  8|  0|  0| 
-|Ronny Henriquez    |OP          |  3|  2.333|  0|  0.000|      1| 0.429|  2|  0|  0| 
+|Ronny Henriquez    |OP          |  4|  4.000|  0|  0.000|      2| 0.500|  4|  0|  0| 
 |Shane Bieber       |OP          |  1|  6.000|  1|  1.500|      2| 0.333|  9|  1|  0| 
 |JP Sears           |PITCH BENCH |  2|  9.667|  4|  3.724|     11| 1.138|  4|  1|  0| 
 |Justin Verlander   |PITCH BENCH |  2| 10.333|  8|  6.968|     16| 1.548|  9|  1|  0| 

@@ -7,9 +7,9 @@
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Cal Raleigh      |C         |      7|  4|   5|  3|  0| 
 |Tyler Soderstrom |1B        |     18|  5|   4|  1|  1| 
-|Bryson Stott     |2B        |      7|  3|   4|  1|  3| 
+|Bryson Stott     |2B        |      8|  4|   5|  1|  3| 
 |Junior Caminero  |3B        |     10|  7|   9|  4|  2| 
-|Jeremy Peña      |SS        |     12|  3|   5|  1|  2| 
+|Jeremy Peña      |SS        |     13|  3|   5|  1|  2| 
 |Geraldo Perdomo  |MI        |     14|  8|   6|  2|  1| 
 |Kyle Manzardo    |CI        |      6|  1|   2|  0|  0| 
 |Chandler Simpson |OF        |     10|  4|   2|  0|  4| 
@@ -23,8 +23,8 @@
 |Cam Smith        |BAT BENCH |      2|  3|   1|  1|  1| 
 |Dylan Crews      |BAT BENCH |      9|  6|   2|  0|  0| 
 |Josh Jung        |BAT BENCH |     10|  5|   4|  1|  0| 
-|Matt Shaw        |BAT BENCH |      6|  3|   2|  1|  0| 
-|Yordan Alvarez   |BAT BENCH |      5|  2|   2|  1|  0| 
+|Matt Shaw        |BAT BENCH |      7|  3|   2|  1|  0| 
+|Yordan Alvarez   |BAT BENCH |      6|  2|   2|  1|  0| 
 
 * * *
 
@@ -40,7 +40,7 @@
 |Tanner Bibee       |SP          |  1|  6.000|  5|  7.500|     11| 1.833|  3|  0|  0| 
 |Tarik Skubal       |SP          |  1|  6.667|  1|  1.350|      7| 1.050| 12|  0|  0| 
 |Bennett Sousa      |RP          | **|     **| **|     **|     **|    **| **| **| **| 
-|JoJo Romero        |RP          |  2|  2.333|  0|  0.000|      3| 1.286|  3|  0|  1| 
+|JoJo Romero        |RP          |  3|  3.333|  0|  0.000|      4| 1.200|  3|  0|  2| 
 |Cade Horton        |OP          |  1|  6.000|  0|  0.000|      4| 0.667|  7|  1|  0| 
 |Cristopher Sánchez |OP          |  1|  5.333|  5|  8.438|     11| 2.062|  4|  0|  0| 
 |Emilio Pagán       |OP          |  2|  2.000|  0|  0.000|      1| 0.500|  2|  0|  0| 

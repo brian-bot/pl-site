@@ -6,20 +6,20 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Alejandro Kirk   |C         |     11|  5|   4|  1|  0| 
-|Bryce Harper     |1B        |     12|  2|   3|  0|  1| 
+|Bryce Harper     |1B        |     15|  5|   4|  1|  1| 
 |Luke Keaschall   |2B        |     14|  3|   4|  2|  1| 
 |Alex Bregman     |3B        |     12|  1|   1|  0|  0| 
 |Bobby Witt Jr.   |SS        |     15|  7|   5|  1|  2| 
 |Jordan Westburg  |MI        |     **| **|  **| **| **| 
 |Maikel Garcia    |CI        |     12|  4|   5|  1|  0| 
 |Byron Buxton     |OF        |      8|  5|   3|  2|  1| 
-|Jordan Beck      |OF        |      8|  1|   0|  0|  0| 
+|Jordan Beck      |OF        |      9|  1|   0|  0|  0| 
 |Julio Rodríguez  |OF        |     11|  5|   3|  1|  1| 
-|Kyle Schwarber   |OF        |      9|  3|   6|  1|  0| 
-|Alec Burleson    |DH        |      8|  4|   3|  1|  0| 
-|Ceddanne Rafaela |DH        |      7|  6|   3|  1|  1| 
+|Kyle Schwarber   |OF        |     13|  7|  15|  5|  0| 
+|Alec Burleson    |DH        |      9|  4|   3|  1|  0| 
+|Ceddanne Rafaela |DH        |      8|  6|   3|  1|  1| 
 |Gleyber Torres   |DH        |     11|  5|   2|  1|  0| 
-|Nico Hoerner     |DH        |      9|  3|   4|  1|  0| 
+|Nico Hoerner     |DH        |     10|  3|   4|  1|  0| 
 |Royce Lewis      |BAT BENCH |      8|  3|   7|  2|  2| 
 |Samuel Basallo   |BAT BENCH |      5|  0|   0|  0|  0| 
 |Victor Robles    |BAT BENCH |      3|  1|   2|  0|  1| 
