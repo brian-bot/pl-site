@@ -5,25 +5,25 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Drake Baldwin      |C         |     11|  5|   4|  1|  0| 
+|Drake Baldwin      |C         |     13|  6|   6|  2|  0| 
 |Yandy Díaz         |1B        |     12|  4|   3|  2|  0| 
-|Jackson Holliday   |2B        |     14|  4|   2|  0|  2| 
-|Jazz Chisholm Jr.  |3B        |     17| 10|  10|  4|  4| 
-|Gunnar Henderson   |SS        |     13|  6|   3|  1|  4| 
-|Ozzie Albies       |MI        |     13|  7|  10|  3|  0| 
+|Jackson Holliday   |2B        |     18|  5|   3|  0|  3| 
+|Jazz Chisholm Jr.  |3B        |     18| 10|  10|  4|  4| 
+|Gunnar Henderson   |SS        |     15|  6|   4|  1|  4| 
+|Ozzie Albies       |MI        |     14|  7|  10|  3|  0| 
 |Salvador Perez     |CI        |     11|  4|   7|  1|  0| 
-|Brent Rooker       |OF        |     14|  6|   6|  2|  0| 
-|Christian Yelich   |OF        |     19|  9|   5|  1|  0| 
+|Brent Rooker       |OF        |     14|  6|   7|  2|  0| 
+|Christian Yelich   |OF        |     20|  9|   5|  1|  0| 
 |Fernando Tatis Jr. |OF        |     19|  8|   6|  1|  2| 
-|Steven Kwan        |OF        |      8|  2|   3|  0|  0| 
-|Brandon Nimmo      |DH        |     13|  8|   9|  2|  0| 
-|Giancarlo Stanton  |DH        |      7|  6|   8|  3|  0| 
-|Lars Nootbaar      |DH        |     15|  3|   2|  0|  0| 
-|Sal Frelick        |DH        |     14|  3|   4|  1|  0| 
+|Steven Kwan        |OF        |      9|  3|   3|  0|  0| 
+|Brandon Nimmo      |DH        |     15|  8|   9|  2|  0| 
+|Giancarlo Stanton  |DH        |      9|  6|   8|  3|  0| 
+|Lars Nootbaar      |DH        |     17|  5|   2|  0|  0| 
+|Sal Frelick        |DH        |     16|  3|   4|  1|  0| 
 |Brendan Donovan    |BAT BENCH |     **| **|  **| **| **| 
-|Josh Smith         |BAT BENCH |      9|  1|   2|  0|  0| 
+|Josh Smith         |BAT BENCH |     14|  3|   3|  0|  0| 
 |Jung Hoo Lee       |BAT BENCH |     11|  2|   1|  0|  0| 
-|Ryan O'Hearn       |BAT BENCH |     15|  8|   3|  1|  0| 
+|Ryan O'Hearn       |BAT BENCH |     16|  8|   3|  1|  0| 
 
 
 * * *

@@ -6,22 +6,22 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Alejandro Kirk   |C         |     13|  5|   4|  1|  0| 
-|Bryce Harper     |1B        |     17|  5|   4|  1|  1| 
-|Luke Keaschall   |2B        |     15|  3|   4|  2|  2| 
-|Alex Bregman     |3B        |     12|  1|   1|  0|  0| 
+|Bryce Harper     |1B        |     18|  5|   4|  1|  1| 
+|Luke Keaschall   |2B        |     18|  5|   5|  2|  2| 
+|Alex Bregman     |3B        |     14|  2|   1|  0|  0| 
 |Bobby Witt Jr.   |SS        |     19|  9|   7|  2|  2| 
 |Jordan Westburg  |MI        |     **| **|  **| **| **| 
-|Maikel Garcia    |CI        |     15|  6|   8|  3|  0| 
-|Byron Buxton     |OF        |     11|  6|   7|  3|  3| 
-|Jordan Beck      |OF        |     10|  1|   0|  0|  0| 
-|Julio Rodríguez  |OF        |     14|  7|   6|  2|  1| 
-|Kyle Schwarber   |OF        |     15|  9|  15|  5|  0| 
+|Maikel Garcia    |CI        |     17|  6|   8|  3|  0| 
+|Byron Buxton     |OF        |     13|  8|   9|  4|  3| 
+|Jordan Beck      |OF        |     11|  1|   0|  0|  0| 
+|Julio Rodríguez  |OF        |     16|  7|   8|  2|  1| 
+|Kyle Schwarber   |OF        |     16|  9|  15|  5|  0| 
 |Alec Burleson    |DH        |      9|  4|   3|  1|  0| 
-|Ceddanne Rafaela |DH        |     11|  6|   3|  1|  1| 
-|Gleyber Torres   |DH        |     15|  6|   3|  1|  0| 
+|Ceddanne Rafaela |DH        |     12|  6|   4|  1|  1| 
+|Gleyber Torres   |DH        |     18|  6|   4|  1|  0| 
 |Nico Hoerner     |DH        |     13|  5|   5|  1|  0| 
-|Royce Lewis      |BAT BENCH |     11|  5|   8|  3|  2| 
-|Samuel Basallo   |BAT BENCH |      7|  2|   1|  1|  0| 
+|Royce Lewis      |BAT BENCH |     13|  5|  10|  3|  2| 
+|Samuel Basallo   |BAT BENCH |      8|  2|   1|  1|  0| 
 |Victor Robles    |BAT BENCH |      3|  1|   2|  0|  1| 
 |Yainer Diaz      |BAT BENCH |     10|  2|   2|  1|  0| 
 
@@ -39,12 +39,12 @@
 |Jacob Misiorowski |SP          |  2|  9.000|  6| 6.000|      9| 1.000| 15|  0|  0| 
 |Ryan Pepiot       |SP          |  2| 10.000|  0| 0.000|      6| 0.600|  9|  2|  0| 
 |Edwin Díaz        |RP          |  3|  3.667|  2| 4.909|      5| 1.364|  9|  1|  0| 
-|Raisel Iglesias   |RP          |  3|  3.000|  1| 3.000|      3| 1.000|  2|  0|  2| 
+|Raisel Iglesias   |RP          |  4|  4.000|  1| 2.250|      3| 0.750|  4|  0|  3| 
 |Bailey Ober       |OP          |  2| 10.667|  6| 5.062|     14| 1.312| 10|  0|  0| 
 |Chris Bassitt     |OP          |  2| 11.333|  4| 3.176|     15| 1.324| 16|  0|  0| 
 |Jameson Taillon   |OP          |  1|  5.000|  1| 1.800|      3| 0.600|  3|  1|  0| 
 |Jordan Leasure    |OP          |  5|  4.333|  2| 4.154|      4| 0.923|  7|  0|  0| 
-|Luis Gil          |OP          |  2| 10.000|  2| 1.800|     18| 1.800|  8|  1|  0| 
+|Luis Gil          |OP          |  3| 15.333|  4| 2.348|     24| 1.565| 15|  1|  0| 
 |Chase Burns       |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 |Cole Ragans       |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 |Zac Gallen        |PITCH BENCH |  2| 12.000|  1| 0.750|     10| 0.833| 15|  1|  0| 
