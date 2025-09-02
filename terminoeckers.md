@@ -5,21 +5,21 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Kyle Teel           |C         |     16|  4|   4|  0|  0| 
+|Kyle Teel           |C         |     19|  4|   4|  0|  0| 
 |Nick Kurtz          |1B        |     15|  8|   3|  2|  0| 
-|Brandon Lowe        |2B        |     14|  8|  10|  4|  0| 
+|Brandon Lowe        |2B        |     15|  9|  11|  4|  0| 
 |Manny Machado       |3B        |     13|  7|   6|  1|  1| 
-|Trea Turner         |SS        |     18|  8|   7|  1|  6| 
-|Trevor Story        |MI        |     14|  7|   5|  3|  2| 
+|Trea Turner         |SS        |     20|  8|   9|  1|  7| 
+|Trevor Story        |MI        |     18|  8|   7|  4|  2| 
 |Lenyn Sosa          |CI        |     11|  2|   6|  1|  0| 
-|Ian Happ            |OF        |     17|  6|   7|  2|  0| 
-|Juan Soto           |OF        |     27| 13|  12|  4|  6| 
+|Ian Happ            |OF        |     20|  8|   8|  3|  1| 
+|Juan Soto           |OF        |     31| 15|  18|  5|  6| 
 |Kyle Tucker         |OF        |     22|  9|   8|  3|  0| 
-|Pete Crow-Armstrong |OF        |      9|  3|   4|  1|  1| 
+|Pete Crow-Armstrong |OF        |     10|  4|   4|  1|  1| 
 |Andy Pages          |DH        |     12|  7|   7|  3|  1| 
-|Brenton Doyle       |DH        |     14|  3|   9|  2|  3| 
+|Brenton Doyle       |DH        |     17|  4|   9|  2|  3| 
 |Jakob Marsee        |DH        |     21|  8|   7|  0|  3| 
-|Lawrence Butler     |DH        |     12|  4|   5|  1|  0| 
+|Lawrence Butler     |DH        |     15|  6|   6|  1|  0| 
 |Adley Rutschman     |BAT BENCH |     **| **|  **| **| **| 
 |Miguel Andujar      |BAT BENCH |      9|  2|   2|  0|  0| 
 |Spencer Steer       |BAT BENCH |     11|  4|   4|  2|  0| 
@@ -43,7 +43,7 @@
 |Casey Mize      |OP          |  2|  9.000|  8|  8.000|     19| 2.111|  4|  0|  0| 
 |Gavin Williams  |OP          |  2| 10.333|  4|  3.484|     12| 1.161| 11|  1|  0| 
 |Randy Rodríguez |OP          |  1|  1.000|  1|  9.000|      1| 1.000|  1|  0|  0| 
-|Ryne Nelson     |OP          |  2| 12.000|  4|  3.000|     12| 1.000|  9|  1|  0| 
+|Ryne Nelson     |OP          |  3| 18.000|  7|  3.500|     17| 0.944| 16|  1|  0| 
 |Trevor Rogers   |OP          |  2| 14.000|  2|  1.286|     13| 0.929| 14|  2|  0| 
 |Bubba Chandler  |PITCH BENCH |  2|  8.000|  0|  0.000|      4| 0.500|  6|  1|  1| 
 |Clay Holmes     |PITCH BENCH |  2| 11.333|  4|  3.176|     11| 0.971|  6|  1|  0| 

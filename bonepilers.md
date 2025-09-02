@@ -5,26 +5,26 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Cal Raleigh      |C         |     12|  5|   5|  3|  0| 
-|Tyler Soderstrom |1B        |     20|  6|   5|  1|  1| 
-|Bryson Stott     |2B        |     12|  4|   5|  1|  3| 
-|Junior Caminero  |3B        |     13|  8|   9|  4|  2| 
-|Jeremy Peña      |SS        |     17|  4|   5|  1|  2| 
-|Geraldo Perdomo  |MI        |     16|  9|   6|  2|  2| 
-|Kyle Manzardo    |CI        |     10|  3|   5|  2|  0| 
-|Chandler Simpson |OF        |     12|  4|   3|  0|  4| 
-|Jackson Merrill  |OF        |     **| **|  **| **| **| 
-|Ramón Laureano   |OF        |     14|  7|  11|  3|  0| 
-|Seiya Suzuki     |OF        |     17|  2|   3|  0|  1| 
+|Cal Raleigh      |C         |     14|  5|   5|  3|  0| 
+|Tyler Soderstrom |1B        |     22|  6|   8|  1|  1| 
+|Bryson Stott     |2B        |     14|  5|   6|  1|  3| 
+|Junior Caminero  |3B        |     16|  8|  11|  4|  2| 
+|Jeremy Peña      |SS        |     20|  5|   6|  1|  3| 
+|Geraldo Perdomo  |MI        |     17| 10|   7|  3|  2| 
+|Kyle Manzardo    |CI        |     11|  4|   6|  3|  0| 
+|Chandler Simpson |OF        |     13|  5|   3|  0|  4| 
+|Jackson Merrill  |OF        |      0|  0|   0|  0|  0| 
+|Ramón Laureano   |OF        |     15|  7|  12|  3|  0| 
+|Seiya Suzuki     |OF        |     18|  3|   3|  0|  2| 
 |Andrew Vaughn    |DH        |     11|  3|   4|  0|  0| 
-|Noelvi Marte     |DH        |     14|  5|   3|  2|  0| 
+|Noelvi Marte     |DH        |     15|  5|   5|  2|  0| 
 |Nolan Schanuel   |DH        |      1|  0|   0|  0|  0| 
-|Wyatt Langford   |DH        |     25| 14|   7|  3|  2| 
-|Cam Smith        |BAT BENCH |      6|  4|   1|  1|  1| 
+|Wyatt Langford   |DH        |     26| 15|   8|  4|  2| 
+|Cam Smith        |BAT BENCH |      8|  6|   1|  1|  3| 
 |Dylan Crews      |BAT BENCH |     14|  7|   2|  0|  2| 
-|Josh Jung        |BAT BENCH |     18|  9|   8|  2|  0| 
-|Matt Shaw        |BAT BENCH |      9|  4|   3|  1|  0| 
-|Yordan Alvarez   |BAT BENCH |     11|  3|   3|  1|  0| 
+|Josh Jung        |BAT BENCH |     19|  9|   8|  2|  0| 
+|Matt Shaw        |BAT BENCH |     12|  4|   4|  1|  1| 
+|Yordan Alvarez   |BAT BENCH |     14|  4|   4|  1|  0| 
 
 * * *
 
@@ -43,7 +43,7 @@
 |JoJo Romero        |RP          |  5|  5.000|  0|  0.000|      6| 1.200|  3|  0|  2| 
 |Cade Horton        |OP          |  2| 11.000|  2|  1.636|     12| 1.091| 11|  2|  0| 
 |Cristopher Sánchez |OP          |  2| 12.333|  7|  5.108|     18| 1.459| 12|  0|  0| 
-|Emilio Pagán       |OP          |  4|  4.000|  0|  0.000|      3| 0.750|  6|  0|  1| 
+|Emilio Pagán       |OP          |  5|  4.333|  3|  6.231|      6| 1.385|  6|  0|  1| 
 |Mitch Keller       |OP          |  2| 11.000|  3|  2.455|      9| 0.818| 16|  1|  0| 
 |Quinn Priester     |OP          |  2| 10.333|  1|  0.871|     13| 1.258|  7|  0|  0| 
 |Anthony Bender     |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
