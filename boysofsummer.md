@@ -5,25 +5,25 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Alejandro Kirk   |C         |     14|  5|   5|  1|  0| 
+|Alejandro Kirk   |C         |     17|  5|   8|  1|  0| 
 |Bryce Harper     |1B        |     20|  6|   5|  2|  1| 
 |Luke Keaschall   |2B        |     19|  5|   5|  2|  2| 
-|Alex Bregman     |3B        |     15|  3|   1|  0|  0| 
-|Bobby Witt Jr.   |SS        |     19|  9|   7|  2|  2| 
+|Alex Bregman     |3B        |     16|  4|   2|  0|  0| 
+|Bobby Witt Jr.   |SS        |     21| 10|   7|  2|  2| 
 |Jordan Westburg  |MI        |     **| **|  **| **| **| 
-|Maikel Garcia    |CI        |     17|  6|   8|  3|  0| 
-|Byron Buxton     |OF        |     15|  9|  11|  4|  3| 
+|Maikel Garcia    |CI        |     18|  6|   8|  3|  0| 
+|Byron Buxton     |OF        |     16| 10|  11|  4|  3| 
 |Jordan Beck      |OF        |     13|  1|   0|  0|  0| 
-|Julio Rodríguez  |OF        |     16|  7|   8|  2|  1| 
+|Julio Rodríguez  |OF        |     17|  8|   9|  3|  1| 
 |Kyle Schwarber   |OF        |     17|  9|  15|  5|  0| 
 |Alec Burleson    |DH        |      9|  4|   3|  1|  0| 
-|Ceddanne Rafaela |DH        |     13|  6|   4|  1|  1| 
+|Ceddanne Rafaela |DH        |     15|  9|   8|  2|  1| 
 |Gleyber Torres   |DH        |     20|  7|   4|  1|  0| 
-|Nico Hoerner     |DH        |     14|  6|   5|  1|  0| 
+|Nico Hoerner     |DH        |     16|  7|   5|  1|  0| 
 |Royce Lewis      |BAT BENCH |     14|  7|  11|  4|  2| 
-|Samuel Basallo   |BAT BENCH |     10|  2|   3|  1|  0| 
+|Samuel Basallo   |BAT BENCH |     11|  2|   3|  1|  0| 
 |Victor Robles    |BAT BENCH |      3|  1|   2|  0|  1| 
-|Yainer Diaz      |BAT BENCH |     11|  3|   2|  1|  0| 
+|Yainer Diaz      |BAT BENCH |     12|  3|   3|  1|  0| 
 
 * * *
 
