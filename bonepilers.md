@@ -5,26 +5,26 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Cal Raleigh      |C         |     15|  6|   6|  4|  0| 
-|Tyler Soderstrom |1B        |     23|  6|   8|  1|  1| 
+|Cal Raleigh      |C         |     16|  7|   7|  4|  0| 
+|Tyler Soderstrom |1B        |     24|  6|   8|  1|  1| 
 |Bryson Stott     |2B        |     14|  5|   6|  1|  3| 
-|Junior Caminero  |3B        |     19|  9|  15|  5|  2| 
-|Jeremy Peña      |SS        |     21|  5|   6|  1|  3| 
+|Junior Caminero  |3B        |     21| 11|  17|  5|  2| 
+|Jeremy Peña      |SS        |     24|  6|   8|  2|  3| 
 |Geraldo Perdomo  |MI        |     18| 10|   7|  3|  2| 
-|Kyle Manzardo    |CI        |     12|  5|   6|  3|  0| 
-|Chandler Simpson |OF        |     14|  6|   3|  0|  5| 
-|Jackson Merrill  |OF        |      0|  0|   0|  0|  0| 
-|Ramón Laureano   |OF        |     17|  7|  12|  3|  1| 
-|Seiya Suzuki     |OF        |     19|  4|   3|  0|  2| 
+|Kyle Manzardo    |CI        |     13|  5|   6|  3|  0| 
+|Chandler Simpson |OF        |     17|  7|   3|  0|  5| 
+|Jackson Merrill  |OF        |      1|  0|   0|  0|  0| 
+|Ramón Laureano   |OF        |     21|  8|  12|  3|  1| 
+|Seiya Suzuki     |OF        |     20|  4|   3|  0|  2| 
 |Andrew Vaughn    |DH        |     11|  3|   4|  0|  0| 
-|Noelvi Marte     |DH        |     17|  7|   5|  2|  0| 
+|Noelvi Marte     |DH        |     19|  7|   8|  2|  0| 
 |Nolan Schanuel   |DH        |      1|  0|   0|  0|  0| 
-|Wyatt Langford   |DH        |     26| 15|   9|  4|  2| 
+|Wyatt Langford   |DH        |     27| 15|   9|  4|  2| 
 |Cam Smith        |BAT BENCH |     10|  6|   1|  1|  3| 
 |Dylan Crews      |BAT BENCH |     16|  7|   2|  0|  2| 
 |Josh Jung        |BAT BENCH |     19|  9|   8|  2|  0| 
-|Matt Shaw        |BAT BENCH |     13|  4|   4|  1|  1| 
-|Yordan Alvarez   |BAT BENCH |     14|  4|   4|  1|  0| 
+|Matt Shaw        |BAT BENCH |     14|  4|   4|  1|  1| 
+|Yordan Alvarez   |BAT BENCH |     18|  5|   5|  1|  0| 
 
 * * *
 
@@ -40,8 +40,8 @@
 |Tanner Bibee       |SP          |  2| 12.333|  9| 6.568|     19| 1.541|  7|  0|  0| 
 |Tarik Skubal       |SP          |  2| 13.667|  1| 0.659|     13| 0.951| 16|  1|  0| 
 |Bennett Sousa      |RP          | **|     **| **|    **|     **|    **| **| **| **| 
-|JoJo Romero        |RP          |  6|  6.000|  0| 0.000|      6| 1.000|  4|  0|  3| 
-|Cade Horton        |OP          |  2| 11.000|  2| 1.636|     12| 1.091| 11|  2|  0| 
+|JoJo Romero        |RP          |  7|  7.667|  0| 0.000|      8| 1.043|  5|  0|  4| 
+|Cade Horton        |OP          |  3| 16.000|  2| 1.125|     13| 0.812| 17|  2|  0| 
 |Cristopher Sánchez |OP          |  2| 12.333|  7| 5.108|     18| 1.459| 12|  0|  0| 
 |Emilio Pagán       |OP          |  5|  4.333|  3| 6.231|      6| 1.385|  6|  0|  1| 
 |Mitch Keller       |OP          |  2| 11.000|  3| 2.455|      9| 0.818| 16|  1|  0| 
