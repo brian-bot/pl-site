@@ -7,21 +7,21 @@
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Willson Contreras   |C         |     16|  8|  12|  4|  0| 
 |Michael Busch       |1B        |     17|  9|   6|  2|  0| 
-|Jose Altuve         |2B        |     14|  5|   5|  2|  0| 
+|Jose Altuve         |2B        |     16|  5|   5|  2|  0| 
 |Rafael Devers       |3B        |     25| 15|  15|  6|  0| 
 |Bo Bichette         |SS        |     28| 10|   9|  2|  0| 
 |Masyn Winn          |MI        |     12|  6|   5|  0|  0| 
 |Josh Naylor         |CI        |     13|  4|   4|  1|  1| 
-|Aaron Judge         |OF        |     25| 13|   5|  3|  2| 
+|Aaron Judge         |OF        |     28| 13|   5|  3|  2| 
 |Jarren Duran        |OF        |     18|  5|   8|  2|  2| 
-|JJ Bleday           |OF        |      8|  9|   3|  2|  0| 
+|JJ Bleday           |OF        |      9|  9|   3|  2|  0| 
 |Lourdes Gurriel Jr. |OF        |     13|  8|  11|  3|  0| 
 |Gavin Lux           |DH        |     12|  4|   2|  0|  0| 
 |Jake Burger         |DH        |      2|  1|   1|  0|  0| 
 |Jake Cronenworth    |DH        |     24|  7|   7|  1|  0| 
 |Tyler Freeman       |DH        |     21|  7|   4|  0|  1| 
 |Colton Cowser       |BAT BENCH |     16|  6|  10|  4|  2| 
-|Jackson Chourio     |BAT BENCH |      8|  5|   2|  1|  0| 
+|Jackson Chourio     |BAT BENCH |      9|  5|   2|  1|  0| 
 
 
 * * *
@@ -35,10 +35,10 @@
 |Jacob Lopez      |SP          |  1|  2.000|  9| 40.500|     12| 6.000|  2|  0|  0| 
 |Luis Castillo    |SP          |  3| 13.000| 13|  9.000|     27| 2.077| 13|  0|  0| 
 |Nathan Eovaldi   |SP          |  1|  7.000|  1|  1.286|      4| 0.571|  9|  0|  0| 
-|Noah Cameron     |SP          |  2|  9.667|  8|  7.448|     14| 1.448|  5|  0|  0| 
+|Noah Cameron     |SP          |  3| 14.667| 11|  6.750|     24| 1.636| 10|  0|  0| 
 |Zack Littell     |SP          |  3| 14.333| 11|  6.907|     21| 1.465| 13|  0|  0| 
-|Jhoan Duran      |RP          |  6|  5.000|  2|  3.600|      8| 1.600|  8|  0|  3| 
-|Pete Fairbanks   |RP          |  5|  5.000|  3|  5.400|      7| 1.400|  9|  0|  2| 
+|Jhoan Duran      |RP          |  7|  6.000|  2|  3.000|      8| 1.333|  9|  0|  4| 
+|Pete Fairbanks   |RP          |  6|  6.000|  5|  7.500|      9| 1.500| 10|  0|  2| 
 |Chad Patrick     |OP          |  1|  5.333|  2|  3.375|      6| 1.125|  7|  0|  0| 
 |Dennis Santana   |OP          |  7|  6.667|  2|  2.700|      7| 1.050|  7|  0|  5| 
 |Kenley Jansen    |OP          |  5|  5.000|  1|  1.800|      3| 0.600|  2|  0|  2| 

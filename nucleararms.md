@@ -11,13 +11,13 @@
 |Jazz Chisholm Jr.  |3B        |     22| 12|  13|  6|  5| 
 |Gunnar Henderson   |SS        |     19|  7|   4|  1|  4| 
 |Ozzie Albies       |MI        |     21| 11|  13|  5|  0| 
-|Salvador Perez     |CI        |     12|  4|   7|  1|  0| 
+|Salvador Perez     |CI        |     13|  5|   8|  2|  0| 
 |Brent Rooker       |OF        |     18|  6|   8|  2|  1| 
 |Christian Yelich   |OF        |     22| 10|   5|  1|  0| 
 |Fernando Tatis Jr. |OF        |     21|  9|   7|  2|  2| 
 |Steven Kwan        |OF        |     15|  5|   4|  0|  0| 
 |Brandon Nimmo      |DH        |     20| 10|  10|  2|  0| 
-|Giancarlo Stanton  |DH        |     10|  7|   9|  4|  0| 
+|Giancarlo Stanton  |DH        |     11|  7|   9|  4|  0| 
 |Lars Nootbaar      |DH        |     22|  7|   2|  0|  0| 
 |Sal Frelick        |DH        |     20|  5|   5|  1|  0| 
 |Brendan Donovan    |BAT BENCH |     **| **|  **| **| **| 
@@ -33,13 +33,13 @@
  
 |players                 |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:-----------------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Blake Snell             |SP          |  2| 12.333|  5|  3.649|     15| 1.216| 13|  0|  0| 
+|Blake Snell             |SP          |  3| 17.333| 10|  5.192|     27| 1.558| 19|  0|  0| 
 |Jack Perkins            |SP          |  1|  5.000|  2|  3.600|      7| 1.400|  2|  1|  0| 
 |José Berríos            |SP          |  2|  8.333|  4|  4.320|     11| 1.320| 10|  0|  0| 
 |Michael Soroka          |SP          | **|     **| **|     **|     **|    **| **| **| **| 
 |Shane Baz               |SP          |  2| 12.000|  3|  2.250|     12| 1.000| 13|  1|  0| 
 |Shota Imanaga           |SP          |  3| 20.000|  8|  3.600|     17| 0.850| 12|  1|  0| 
-|Carlos Estévez          |RP          |  4|  4.000|  0|  0.000|      1| 0.250|  4|  0|  4| 
+|Carlos Estévez          |RP          |  5|  5.000|  0|  0.000|      2| 0.400|  6|  0|  5| 
 |Devin Williams          |RP          |  6|  5.667|  5|  7.941|      8| 1.412| 14|  0|  1| 
 |Ben Casparius           |OP          |  5|  4.667|  3|  5.786|      7| 1.500|  5|  0|  0| 
 |David Peterson          |OP          |  2|  7.667| 10| 11.739|     20| 2.609|  9|  0|  0| 

@@ -5,21 +5,21 @@
  
 |players             |position  | hitsbb|  r| rbi| hr| sb| 
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
-|Kyle Teel           |C         |     23|  6|   5|  1|  0| 
+|Kyle Teel           |C         |     26|  9|   9|  2|  1| 
 |Nick Kurtz          |1B        |     18|  9|   5|  3|  0| 
-|Brandon Lowe        |2B        |     18| 11|  13|  4|  0| 
+|Brandon Lowe        |2B        |     19| 11|  13|  4|  0| 
 |Manny Machado       |3B        |     15|  8|   8|  2|  1| 
-|Trea Turner         |SS        |     23|  8|  10|  1|  7| 
+|Trea Turner         |SS        |     24|  8|  11|  1|  7| 
 |Trevor Story        |MI        |     20|  8|   9|  4|  3| 
-|Lenyn Sosa          |CI        |     14|  3|   7|  2|  0| 
+|Lenyn Sosa          |CI        |     15|  5|   7|  2|  0| 
 |Ian Happ            |OF        |     23|  9|   9|  3|  1| 
 |Juan Soto           |OF        |     36| 18|  19|  6|  7| 
 |Kyle Tucker         |OF        |     24| 10|  11|  4|  0| 
 |Pete Crow-Armstrong |OF        |     10|  4|   4|  1|  1| 
-|Andy Pages          |DH        |     13|  8|   8|  4|  1| 
+|Andy Pages          |DH        |     14|  8|   9|  4|  1| 
 |Brenton Doyle       |DH        |     18|  4|  10|  2|  3| 
 |Jakob Marsee        |DH        |     24|  8|   7|  0|  3| 
-|Lawrence Butler     |DH        |     17|  6|   6|  1|  0| 
+|Lawrence Butler     |DH        |     18|  6|   6|  1|  0| 
 |Adley Rutschman     |BAT BENCH |     **| **|  **| **| **| 
 |Miguel Andujar      |BAT BENCH |      9|  2|   2|  0|  0| 
 |Spencer Steer       |BAT BENCH |     13|  6|   5|  2|  0| 
