@@ -2,21 +2,21 @@
 
 ## Period 8 scores
 
-Through games on 2025-09-04 ([website build status](https://github.com/brian-bot/pl-site/actions))
+Through games on 2025-09-05 ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 
 |team                   | points|   r| hitsbb| hr| rbi| sb|  w| sv|  so|   era|  whip|
 |:----------------------|------:|---:|------:|--:|---:|--:|--:|--:|---:|-----:|-----:|
-|[Nuclear Arms](./nucleararms)|   53.5| 117|    287| 31| 103| 15|  4|  6| 117| 4.953| 1.331|
-|[Wonderbots](./wonderbots)|   29.0|  92|    223| 22|  69| 14| 10|  6| 141| 5.575| 1.478|
-|[Terminoeckers](./terminoeckers)|   85.0| 125|    304| 39| 137| 28| 15|  2| 155| 3.294| 1.098|
-|[Mean Wieners](./meanwieners)|   55.5| 103|    238| 37| 118| 20|  4|  7| 128| 4.128| 1.165|
-|[Vass Deferens](./vassdeferens)|   78.0| 111|    267| 35| 113| 11| 13|  8| 187| 3.265| 1.031|
-|[Boys of Summer](./boysofsummer)|   56.0|  98|    256| 30|  99| 12| 12|  6| 157| 3.790| 1.186|
-|[Washington Generals](./washingtongenerals)|   33.5| 111|    254| 28|  97|  6|  2| 13|  96| 5.717| 1.378|
-|[T and A](./tanda)     |   58.0| 118|    266| 38|  94| 21|  6|  8| 142| 5.190| 1.497|
-|[Bone Pilers](./bonepilers)|   57.5|  96|    256| 29| 100| 21|  7|  5| 147| 3.035| 1.138|
-|[Overwhelming Underdogs](./overwhelmingunderdogs)|   44.0|  93|    234| 29|  80| 12|  9|  4| 166| 4.028| 1.119|
+|[Nuclear Arms](./nucleararms)|   54.0| 123|    308| 32| 110| 22|  5|  7| 123| 5.341| 1.374|
+|[Wonderbots](./wonderbots)|   26.5|  98|    238| 23|  72| 15| 10|  6| 142| 5.561| 1.489|
+|[Terminoeckers](./terminoeckers)|   81.5| 136|    327| 41| 144| 32| 16|  2| 165| 3.673| 1.169|
+|[Mean Wieners](./meanwieners)|   60.5| 109|    258| 39| 125| 21|  5|  8| 148| 3.691| 1.109|
+|[Vass Deferens](./vassdeferens)|   78.5| 123|    287| 39| 124| 11| 14|  8| 195| 3.543| 1.059|
+|[Boys of Summer](./boysofsummer)|   56.5| 103|    270| 32| 107| 12| 12|  9| 167| 3.873| 1.205|
+|[Washington Generals](./washingtongenerals)|   33.5| 117|    268| 31| 106|  6|  2| 14|  96| 5.661| 1.384|
+|[T and A](./tanda)     |   56.0| 125|    284| 39| 100| 21|  7|  8| 151| 4.969| 1.460|
+|[Bone Pilers](./bonepilers)|   59.5| 103|    276| 32| 108| 21|  9|  5| 165| 2.851| 1.118|
+|[Overwhelming Underdogs](./overwhelmingunderdogs)|   43.5|  98|    250| 31|  84| 13|  9|  4| 180| 3.836| 1.105|
 
 * * *
 * * *

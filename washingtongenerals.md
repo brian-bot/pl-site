@@ -7,17 +7,17 @@
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Willson Contreras   |C         |     16|  8|  12|  4|  0| 
 |Michael Busch       |1B        |     17|  9|   6|  2|  0| 
-|Jose Altuve         |2B        |     16|  5|   5|  2|  0| 
-|Rafael Devers       |3B        |     25| 15|  15|  6|  0| 
-|Bo Bichette         |SS        |     28| 10|   9|  2|  0| 
+|Jose Altuve         |2B        |     17|  6|   5|  2|  0| 
+|Rafael Devers       |3B        |     28| 16|  17|  7|  0| 
+|Bo Bichette         |SS        |     32| 11|  11|  2|  0| 
 |Masyn Winn          |MI        |     12|  6|   5|  0|  0| 
 |Josh Naylor         |CI        |     13|  4|   4|  1|  1| 
-|Aaron Judge         |OF        |     28| 13|   5|  3|  2| 
-|Jarren Duran        |OF        |     18|  5|   8|  2|  2| 
-|JJ Bleday           |OF        |      9|  9|   3|  2|  0| 
+|Aaron Judge         |OF        |     30| 13|   5|  3|  2| 
+|Jarren Duran        |OF        |     19|  6|   8|  2|  2| 
+|JJ Bleday           |OF        |     10| 10|   6|  3|  0| 
 |Lourdes Gurriel Jr. |OF        |     13|  8|  11|  3|  0| 
-|Gavin Lux           |DH        |     12|  4|   2|  0|  0| 
-|Jake Burger         |DH        |      2|  1|   1|  0|  0| 
+|Gavin Lux           |DH        |     13|  4|   2|  0|  0| 
+|Jake Burger         |DH        |      3|  2|   3|  1|  0| 
 |Jake Cronenworth    |DH        |     24|  7|   7|  1|  0| 
 |Tyler Freeman       |DH        |     21|  7|   4|  0|  1| 
 |Colton Cowser       |BAT BENCH |     16|  6|  10|  4|  2| 
@@ -43,9 +43,9 @@
 |Dennis Santana   |OP          |  7|  6.667|  2|  2.700|      7| 1.050|  7|  0|  5| 
 |Kenley Jansen    |OP          |  5|  5.000|  1|  1.800|      3| 0.600|  2|  0|  2| 
 |Sean Newcomb     |OP          |  5|  7.333|  2|  2.455|      9| 1.227|  5|  0|  0| 
-|Victor Vodnik    |OP          |  4|  4.000|  0|  0.000|      1| 0.250|  2|  0|  0| 
+|Victor Vodnik    |OP          |  5|  5.000|  0|  0.000|      3| 0.600|  2|  0|  1| 
 |Andre Pallante   |PITCH BENCH |  3| 15.333| 14|  8.217|     30| 1.957| 13|  0|  0| 
-|Michael Kelly    |PITCH BENCH |  6|  5.333|  3|  5.062|      9| 1.688|  2|  2|  0| 
+|Michael Kelly    |PITCH BENCH |  7|  6.333|  3|  4.263|      9| 1.421|  5|  2|  0| 
 |Michael King     |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Mitchell Parker  |PITCH BENCH |  3| 16.000| 11|  6.188|     21| 1.312| 14|  0|  0| 
 |Shane McClanahan |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
