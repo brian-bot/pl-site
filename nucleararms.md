@@ -5,25 +5,25 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Drake Baldwin      |C         |     18|  8|   7|  2|  0| 
-|Yandy Díaz         |1B        |     24|  9|   5|  2|  0| 
-|Jackson Holliday   |2B        |     26|  7|   4|  1|  4| 
-|Jazz Chisholm Jr.  |3B        |     22| 12|  13|  6|  5| 
-|Gunnar Henderson   |SS        |     20|  7|   4|  1|  5| 
+|Drake Baldwin      |C         |     19|  9|   7|  2|  0| 
+|Yandy Díaz         |1B        |     25|  9|   6|  2|  0| 
+|Jackson Holliday   |2B        |     27|  8|   5|  2|  4| 
+|Jazz Chisholm Jr.  |3B        |     23| 13|  13|  6|  5| 
+|Gunnar Henderson   |SS        |     21|  8|   4|  1|  5| 
 |Ozzie Albies       |MI        |     24| 12|  14|  5|  2| 
-|Salvador Perez     |CI        |     13|  5|   8|  2|  0| 
-|Brent Rooker       |OF        |     20|  6|   9|  2|  1| 
+|Salvador Perez     |CI        |     15|  6|  11|  3|  0| 
+|Brent Rooker       |OF        |     21|  7|  10|  2|  1| 
 |Christian Yelich   |OF        |     22| 10|   5|  1|  0| 
-|Fernando Tatis Jr. |OF        |     22|  9|   7|  2|  2| 
-|Steven Kwan        |OF        |     18|  7|   6|  0|  2| 
-|Brandon Nimmo      |DH        |     21| 10|  11|  2|  0| 
+|Fernando Tatis Jr. |OF        |     24| 10|  10|  3|  2| 
+|Steven Kwan        |OF        |     21|  7|   7|  0|  4| 
+|Brandon Nimmo      |DH        |     22| 10|  12|  2|  0| 
 |Giancarlo Stanton  |DH        |     13|  8|  10|  5|  0| 
-|Lars Nootbaar      |DH        |     22|  7|   2|  0|  0| 
-|Sal Frelick        |DH        |     23|  6|   5|  1|  1| 
+|Lars Nootbaar      |DH        |     23|  7|   2|  0|  0| 
+|Sal Frelick        |DH        |     25|  7|   5|  1|  1| 
 |Brendan Donovan    |BAT BENCH |     **| **|  **| **| **| 
-|Josh Smith         |BAT BENCH |     18|  3|   3|  0|  1| 
-|Jung Hoo Lee       |BAT BENCH |     20|  5|   2|  0|  0| 
-|Ryan O'Hearn       |BAT BENCH |     20|  9|   3|  1|  0| 
+|Josh Smith         |BAT BENCH |     20|  3|   3|  0|  1| 
+|Jung Hoo Lee       |BAT BENCH |     22|  5|   2|  0|  0| 
+|Ryan O'Hearn       |BAT BENCH |     25| 11|   3|  1|  0| 
 
 
 * * *
@@ -37,7 +37,7 @@
 |Jack Perkins            |SP          |  1|  5.000|  2|  3.600|      7| 1.400|  2|  1|  0| 
 |José Berríos            |SP          |  2|  8.333|  4|  4.320|     11| 1.320| 10|  0|  0| 
 |Michael Soroka          |SP          | **|     **| **|     **|     **|    **| **| **| **| 
-|Shane Baz               |SP          |  2| 12.000|  3|  2.250|     12| 1.000| 13|  1|  0| 
+|Shane Baz               |SP          |  3| 17.000|  5|  2.647|     18| 1.059| 21|  1|  0| 
 |Shota Imanaga           |SP          |  3| 20.000|  8|  3.600|     17| 0.850| 12|  1|  0| 
 |Carlos Estévez          |RP          |  6|  6.000|  0|  0.000|      3| 0.500|  6|  0|  6| 
 |Devin Williams          |RP          |  6|  5.667|  5|  7.941|      8| 1.412| 14|  0|  1| 
