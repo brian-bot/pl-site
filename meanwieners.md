@@ -5,20 +5,20 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Logan O'Hoppe     |C         |      7|  2|   1|  1|  0| 
-|Matt Olson        |1B        |     24|  9|   7|  3|  0| 
-|Casey Schmitt     |2B        |     17|  7|  10|  3|  0| 
+|Logan O'Hoppe     |C         |      8|  2|   1|  1|  0| 
+|Matt Olson        |1B        |     25|  9|   7|  3|  0| 
+|Casey Schmitt     |2B        |     18|  7|  10|  3|  0| 
 |Mark Vientos      |3B        |     28| 14|  18|  7|  0| 
-|Elly De La Cruz   |SS        |     16|  6|   3|  0|  1| 
-|Dansby Swanson    |MI        |     20| 10|  13|  4|  2| 
-|Christian Walker  |CI        |     18| 10|  11|  6|  1| 
+|Elly De La Cruz   |SS        |     17|  7|   4|  0|  1| 
+|Dansby Swanson    |MI        |     21| 10|  13|  4|  3| 
+|Christian Walker  |CI        |     19| 11|  11|  6|  1| 
 |Josh Lowe         |OF        |     24| 13|   8|  3|  5| 
-|Michael Harris II |OF        |     11|  4|  10|  1|  1| 
-|Trent Grisham     |OF        |     27| 14|  18|  9|  2| 
+|Michael Harris II |OF        |     11|  4|  11|  1|  1| 
+|Trent Grisham     |OF        |     28| 14|  18|  9|  2| 
 |Wilyer Abreu      |OF        |     **| **|  **| **| **| 
-|Austin Hays       |DH        |     18|  8|  13|  4|  2| 
+|Austin Hays       |DH        |     19|  8|  15|  4|  2| 
 |Dylan Beavers     |DH        |     21|  8|   5|  1|  1| 
-|Isaac Collins     |DH        |     19|  4|  13|  1|  3| 
+|Isaac Collins     |DH        |     21|  5|  13|  1|  3| 
 |Jake Mangum       |DH        |     21|  5|   3|  0|  4| 
 |Alex Freeland     |BAT BENCH |     10|  4|   3|  2|  0| 
 |Anthony Santander |BAT BENCH |     **| **|  **| **| **| 
@@ -42,7 +42,7 @@
 |Nick Pivetta  |SP          |  3| 17.000|  6| 3.176|     19| 1.118| 18|  0|  0| 
 |Tyler Glasnow |SP          |  2| 11.000|  6| 4.909|     10| 0.909|  9|  0|  0| 
 |Bryan Abreu   |RP          |  7|  7.000|  6| 7.714|     11| 1.571| 14|  0|  3| 
-|Will Vest     |RP          |  5|  5.000|  3| 5.400|      9| 1.800|  3|  0|  2| 
+|Will Vest     |RP          |  6|  6.000|  3| 4.500|     11| 1.833|  4|  0|  2| 
 |Abner Uribe   |OP          |  9|  9.000|  2| 2.000|     11| 1.222|  8|  0|  3| 
 |Alex Vesia    |OP          |  1|  1.000|  0| 0.000|      1| 1.000|  2|  0|  0| 
 |Cade Povich   |OP          |  3| 14.667| 10| 6.136|     23| 1.568| 13|  1|  0| 

@@ -5,23 +5,23 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Drake Baldwin      |C         |     19|  9|   7|  2|  0| 
-|Yandy Díaz         |1B        |     25|  9|   6|  2|  0| 
+|Drake Baldwin      |C         |     20|  9|   7|  2|  0| 
+|Yandy Díaz         |1B        |     26|  9|   6|  2|  0| 
 |Jackson Holliday   |2B        |     27|  8|   5|  2|  4| 
-|Jazz Chisholm Jr.  |3B        |     23| 13|  13|  6|  5| 
-|Gunnar Henderson   |SS        |     21|  8|   4|  1|  5| 
-|Ozzie Albies       |MI        |     24| 12|  14|  5|  2| 
+|Jazz Chisholm Jr.  |3B        |     24| 13|  13|  6|  6| 
+|Gunnar Henderson   |SS        |     22|  9|   4|  1|  5| 
+|Ozzie Albies       |MI        |     25| 13|  14|  5|  2| 
 |Salvador Perez     |CI        |     15|  6|  11|  3|  0| 
-|Brent Rooker       |OF        |     21|  7|  10|  2|  1| 
+|Brent Rooker       |OF        |     22|  7|  10|  2|  1| 
 |Christian Yelich   |OF        |     22| 10|   5|  1|  0| 
-|Fernando Tatis Jr. |OF        |     24| 10|  10|  3|  2| 
-|Steven Kwan        |OF        |     21|  7|   7|  0|  4| 
-|Brandon Nimmo      |DH        |     22| 10|  12|  2|  0| 
+|Fernando Tatis Jr. |OF        |     26| 10|  10|  3|  2| 
+|Steven Kwan        |OF        |     23|  7|   7|  0|  5| 
+|Brandon Nimmo      |DH        |     24| 10|  12|  2|  0| 
 |Giancarlo Stanton  |DH        |     13|  8|  10|  5|  0| 
-|Lars Nootbaar      |DH        |     23|  7|   2|  0|  0| 
+|Lars Nootbaar      |DH        |     24|  8|   3|  0|  0| 
 |Sal Frelick        |DH        |     25|  7|   5|  1|  1| 
 |Brendan Donovan    |BAT BENCH |     **| **|  **| **| **| 
-|Josh Smith         |BAT BENCH |     20|  3|   3|  0|  1| 
+|Josh Smith         |BAT BENCH |     21|  3|   3|  0|  2| 
 |Jung Hoo Lee       |BAT BENCH |     22|  5|   2|  0|  0| 
 |Ryan O'Hearn       |BAT BENCH |     25| 11|   3|  1|  0| 
 
@@ -40,7 +40,7 @@
 |Shane Baz               |SP          |  3| 17.000|  5|  2.647|     18| 1.059| 21|  1|  0| 
 |Shota Imanaga           |SP          |  3| 20.000|  8|  3.600|     17| 0.850| 12|  1|  0| 
 |Carlos Estévez          |RP          |  6|  6.000|  0|  0.000|      3| 0.500|  6|  0|  6| 
-|Devin Williams          |RP          |  6|  5.667|  5|  7.941|      8| 1.412| 14|  0|  1| 
+|Devin Williams          |RP          |  7|  6.667|  5|  6.750|     10| 1.500| 15|  0|  1| 
 |Ben Casparius           |OP          |  6|  5.333|  3|  5.062|      8| 1.500|  5|  0|  0| 
 |David Peterson          |OP          |  3| 13.000| 14|  9.692|     28| 2.154| 13|  1|  0| 
 |Emmet Sheehan           |OP          |  2| 11.667|  2|  1.543|     10| 0.857| 16|  1|  0| 
