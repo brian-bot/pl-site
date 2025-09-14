@@ -16,13 +16,13 @@
 |Maikel Garcia    |CI        |     24|  9|  11|  4|  0| 
 |Byron Buxton     |OF        |     21| 12|  13|  5|  3| 
 |Jordan Beck      |OF        |     20|  4|   6|  1|  2| 
-|Julio Rodríguez  |OF        |     26| 14|  20|  6|  2| 
+|Julio Rodríguez  |OF        |     25| 14|  17|  6|  2| 
 |Kyle Schwarber   |OF        |     27| 11|  16|  5|  0| 
 |Alec Burleson    |DH        |     10|  5|   5|  2|  0| 
 |Ceddanne Rafaela |DH        |     17| 10|   8|  2|  1| 
 |Gleyber Torres   |DH        |     25| 10|   7|  2|  0| 
 |Nico Hoerner     |DH        |     24| 11|   7|  2|  1| 
-|Royce Lewis      |BAT BENCH |     23|  9|  16|  6|  6| 
+|Royce Lewis      |BAT BENCH |     24|  9|  17|  6|  6| 
 |Samuel Basallo   |BAT BENCH |     13|  3|   4|  2|  0| 
 |Victor Robles    |BAT BENCH |      8|  3|   2|  0|  1| 
 |Yainer Diaz      |BAT BENCH |     16|  5|   7|  1|  0| 

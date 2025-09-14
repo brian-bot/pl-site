@@ -5,49 +5,49 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Alejandro Kirk   |C         |     22|  8|   9|  2|  0| 
-|Bryce Harper     |1B        |     25|  7|   8|  3|  1| 
-|Luke Keaschall   |2B        |     31| 10|  10|  2|  6| 
-|Alex Bregman     |3B        |     21|  7|   5|  0|  0| 
-|Bobby Witt Jr.   |SS        |     24| 11|   8|  3|  2| 
-|Jordan Westburg  |MI        |     **| **|  **| **| **| 
-|Maikel Garcia    |CI        |     24|  9|  11|  4|  0| 
-|Byron Buxton     |OF        |     21| 12|  13|  5|  3| 
-|Jordan Beck      |OF        |     20|  4|   6|  1|  2| 
-|Julio Rodríguez  |OF        |     26| 14|  20|  6|  2| 
-|Kyle Schwarber   |OF        |     27| 11|  16|  5|  0| 
-|Alec Burleson    |DH        |     10|  5|   5|  2|  0| 
-|Ceddanne Rafaela |DH        |     17| 10|   8|  2|  1| 
-|Gleyber Torres   |DH        |     25| 10|   7|  2|  0| 
-|Nico Hoerner     |DH        |     24| 11|   7|  2|  1| 
-|Royce Lewis      |BAT BENCH |     23|  9|  16|  6|  6| 
-|Samuel Basallo   |BAT BENCH |     13|  3|   4|  2|  0| 
-|Victor Robles    |BAT BENCH |      8|  3|   2|  0|  1| 
-|Yainer Diaz      |BAT BENCH |     16|  5|   7|  1|  0| 
+|Alejandro Kirk   |C         |      2|  0|   2|  0|  0| 
+|Bryce Harper     |1B        |     11|  5|   5|  2|  0| 
+|Luke Keaschall   |2B        |      5|  2|   2|  0|  0| 
+|Alex Bregman     |3B        |      7|  3|   1|  1|  0| 
+|Bobby Witt Jr.   |SS        |      6|  2|   1|  0|  2| 
+|Alec Burleson    |MI        |      5|  1|   1|  0|  0| 
+|Maikel Garcia    |CI        |      6|  2|   3|  0|  1| 
+|Byron Buxton     |OF        |      8|  2|   2|  1|  1| 
+|Julio Rodríguez  |OF        |      9|  2|   2|  0|  1| 
+|Kyle Schwarber   |OF        |     13|  5|   6|  2|  0| 
+|Victor Robles    |OF        |      4|  1|   0|  0|  1| 
+|Ceddanne Rafaela |DH        |      3|  1|   0|  0|  0| 
+|Gleyber Torres   |DH        |      9|  2|   6|  0|  0| 
+|Jordan Beck      |DH        |      7|  2|   1|  0|  1| 
+|Nico Hoerner     |DH        |     10|  5|   0|  0|  3| 
+|Jordan Westburg  |BAT BENCH |     **| **|  **| **| **| 
+|Samuel Basallo   |BAT BENCH |      3|  1|   2|  0|  0| 
+|Yainer Diaz      |BAT BENCH |      8|  2|   4|  1|  0| 
 
 * * *
 
 ### Pitchers
 
  
-|players           |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
-|:-----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Andrew Abbott     |SP          |  3| 13.667| 13|  8.561|     25| 1.829| 18|  0|  0| 
-|Brayan Bello      |SP          |  4| 24.667|  7|  2.554|     24| 0.973| 17|  2|  0| 
-|Carlos Rodón      |SP          |  3| 17.667|  4|  2.038|     20| 1.132| 11|  3|  0| 
-|Eury Pérez        |SP          |  3| 10.667| 14| 11.812|     18| 1.688|  6|  1|  0| 
-|Jacob Misiorowski |SP          |  4| 20.333| 10|  4.426|     21| 1.033| 27|  1|  0| 
-|Ryan Pepiot       |SP          |  3| 15.000|  0|  0.000|      8| 0.533| 15|  3|  0| 
-|Edwin Díaz        |RP          |  5|  6.000|  2|  3.000|      8| 1.333| 13|  1|  2| 
-|Raisel Iglesias   |RP          |  7|  7.000|  1|  1.286|      5| 0.714|  7|  0|  5| 
-|Bailey Ober       |OP          |  4| 21.000| 11|  4.714|     27| 1.286| 19|  1|  0| 
-|Chris Bassitt     |OP          |  4| 22.333|  6|  2.418|     28| 1.254| 25|  0|  0| 
-|Jameson Taillon   |OP          |  1|  5.000|  1|  1.800|      3| 0.600|  3|  1|  0| 
-|Jordan Leasure    |OP          |  9|  9.333|  2|  1.929|      7| 0.750| 13|  0|  3| 
-|Luis Gil          |OP          |  4| 21.333|  5|  2.109|     31| 1.453| 16|  2|  0| 
-|Chase Burns       |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Cole Ragans       |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Zac Gallen        |PITCH BENCH |  3| 18.000|  1|  0.500|     15| 0.833| 20|  2|  0| 
+|players           |position    |  g|    ip| er|   era| hitsbb|  whip| so|  w| sv| 
+|:-----------------|:-----------|--:|-----:|--:|-----:|------:|-----:|--:|--:|--:| 
+|Brayan Bello      |SP          |  1| 5.000|  4| 7.200|      8| 1.600|  4|  0|  0| 
+|Carlos Rodón      |SP          |  1| 6.000|  2| 3.000|      6| 1.000|  6|  0|  0| 
+|Chris Bassitt     |SP          |  1| 5.000|  1| 1.800|      3| 0.600|  6|  0|  0| 
+|Jacob Misiorowski |SP          |  1| 5.000|  4| 7.200|      8| 1.600|  4|  0|  0| 
+|Ryan Pepiot       |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Zac Gallen        |SP          |  1| 6.667|  5| 6.750|      8| 1.200|  3|  0|  0| 
+|Edwin Díaz        |RP          |  2| 2.333|  1| 3.857|      4| 1.714|  2|  0|  0| 
+|Raisel Iglesias   |RP          |  1| 1.000|  0| 0.000|      3| 3.000|  0|  0|  0| 
+|Andrew Abbott     |OP          |  1| 8.000|  1| 1.125|      7| 0.875|  6|  1|  0| 
+|Luis Gil          |OP          |  1| 6.000|  0| 0.000|      4| 0.667|  4|  1|  0| 
+|Martín Pérez      |OP          |  1| 6.667|  3| 4.050|      6| 0.900|  3|  0|  0| 
+|Pablo López       |OP          |  1| 5.000|  0| 0.000|      7| 1.400|  6|  0|  0| 
+|Ryan Walker       |OP          |  2| 2.000|  0| 0.000|      2| 1.000|  0|  0|  1| 
+|Cole Ragans       |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
+|Eury Pérez        |PITCH BENCH |  1| 5.667|  3| 4.765|      7| 1.235|  7|  0|  0| 
+|Jordan Leasure    |PITCH BENCH |  2| 2.000|  0| 0.000|      0| 0.000|  1|  1|  0| 
+|Payton Tolle      |PITCH BENCH |  1| 2.000|  2| 9.000|      3| 1.500|  2|  0|  0| 
 
 
 * * *
