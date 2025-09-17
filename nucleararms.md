@@ -5,12 +5,12 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Drake Baldwin      |C         |      3|  1|   4|  1|  0| 
+|Drake Baldwin      |C         |      4|  2|   5|  1|  0| 
 |Yandy Díaz         |1B        |     16|  6|   3|  2|  0| 
 |Jackson Holliday   |2B        |     16|  3|   2|  0|  2| 
 |Jazz Chisholm Jr.  |3B        |     11|  3|   5|  1|  3| 
 |Gunnar Henderson   |SS        |     12|  3|   3|  0|  2| 
-|Ozzie Albies       |MI        |      7|  1|   4|  0|  0| 
+|Ozzie Albies       |MI        |      7|  1|   5|  0|  0| 
 |Salvador Perez     |CI        |      7|  3|   8|  3|  0| 
 |Brent Rooker       |OF        |     10|  3|   3|  2|  0| 
 |Christian Yelich   |OF        |      7|  3|   7|  2|  1| 
@@ -21,7 +21,7 @@
 |Lars Nootbaar      |DH        |      8|  0|   2|  0|  0| 
 |Sal Frelick        |DH        |     10|  6|   4|  0|  0| 
 |Brendan Donovan    |BAT BENCH |      7|  3|   2|  1|  0| 
-|Josh Smith         |BAT BENCH |     11|  6|   1|  0|  1| 
+|Josh Smith         |BAT BENCH |     12|  6|   1|  0|  1| 
 |Jung Hoo Lee       |BAT BENCH |      4|  2|   1|  0|  0| 
 |Ryan O'Hearn       |BAT BENCH |      4|  1|   0|  0|  0| 
 

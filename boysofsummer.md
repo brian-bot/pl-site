@@ -6,7 +6,7 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Alejandro Kirk   |C         |      6|  1|   3|  0|  0| 
-|Bryce Harper     |1B        |     15|  6|   6|  3|  1| 
+|Bryce Harper     |1B        |     17|  7|   8|  3|  1| 
 |Luke Keaschall   |2B        |      9|  2|   3|  0|  1| 
 |Alex Bregman     |3B        |      8|  4|   2|  1|  0| 
 |Bobby Witt Jr.   |SS        |     11|  4|   2|  1|  2| 
@@ -14,15 +14,15 @@
 |Maikel Garcia    |CI        |      9|  3|   3|  0|  1| 
 |Byron Buxton     |OF        |     12|  5|   2|  1|  3| 
 |Julio Rodríguez  |OF        |     14|  5|   6|  0|  2| 
-|Kyle Schwarber   |OF        |     16|  7|   8|  4|  0| 
+|Kyle Schwarber   |OF        |     18|  8|   8|  4|  0| 
 |Victor Robles    |OF        |      6|  1|   1|  0|  1| 
 |Ceddanne Rafaela |DH        |      4|  1|   0|  0|  0| 
 |Gleyber Torres   |DH        |     11|  4|   7|  1|  0| 
-|Jordan Beck      |DH        |      7|  2|   1|  0|  1| 
+|Jordan Beck      |DH        |      8|  2|   1|  0|  1| 
 |Nico Hoerner     |DH        |     17|  6|   3|  0|  3| 
 |Jordan Westburg  |BAT BENCH |      2|  1|   0|  0|  0| 
 |Samuel Basallo   |BAT BENCH |      6|  4|   4|  1|  0| 
-|Yainer Diaz      |BAT BENCH |      9|  2|   5|  1|  0| 
+|Yainer Diaz      |BAT BENCH |     10|  3|   6|  1|  0| 
 
 * * *
 
@@ -43,9 +43,9 @@
 |Luis Gil          |OP          |  1|  6.000|  0|  0.000|      4| 0.667|  4|  1|  0| 
 |Martín Pérez      |OP          |  1|  6.667|  3|  4.050|      6| 0.900|  3|  0|  0| 
 |Pablo López       |OP          |  1|  5.000|  0|  0.000|      7| 1.400|  6|  0|  0| 
-|Ryan Walker       |OP          |  2|  2.000|  0|  0.000|      2| 1.000|  0|  0|  1| 
+|Ryan Walker       |OP          |  3|  2.333|  1|  3.857|      5| 2.143|  0|  0|  1| 
 |Cole Ragans       |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Eury Pérez        |PITCH BENCH |  1|  5.667|  3|  4.765|      7| 1.235|  7|  0|  0| 
+|Eury Pérez        |PITCH BENCH |  2| 10.667|  3|  2.531|      8| 0.750| 13|  1|  0| 
 |Jordan Leasure    |PITCH BENCH |  2|  2.000|  0|  0.000|      0| 0.000|  1|  1|  0| 
 |Payton Tolle      |PITCH BENCH |  1|  2.000|  2|  9.000|      3| 1.500|  2|  0|  0| 
 

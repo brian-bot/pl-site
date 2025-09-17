@@ -10,15 +10,15 @@
 |Brandon Lowe        |2B        |      6|  3|   5|  1|  0| 
 |Manny Machado       |3B        |      7|  4|   4|  2|  1| 
 |Trevor Story        |SS        |      8|  2|   1|  0|  3| 
-|Otto Lopez          |MI        |      6|  1|   3|  0|  0| 
+|Otto Lopez          |MI        |      6|  1|   4|  0|  0| 
 |Lenyn Sosa          |CI        |      7|  3|   5|  0|  0| 
-|Harrison Bader      |OF        |     15|  8|   4|  1|  1| 
+|Harrison Bader      |OF        |     16|  9|   4|  1|  1| 
 |Ian Happ            |OF        |     15|  4|   4|  2|  0| 
 |Juan Soto           |OF        |      9|  5|   5|  2|  3| 
 |Pete Crow-Armstrong |OF        |      8|  3|   5|  1|  3| 
-|Andy Pages          |DH        |      9|  6|   2|  1|  0| 
-|Brenton Doyle       |DH        |      1|  0|   0|  0|  0| 
-|Jakob Marsee        |DH        |     10|  3|   1|  0|  0| 
+|Andy Pages          |DH        |     11|  7|   2|  1|  0| 
+|Brenton Doyle       |DH        |      2|  1|   0|  0|  0| 
+|Jakob Marsee        |DH        |     11|  3|   3|  0|  0| 
 |Lawrence Butler     |DH        |      8|  3|   3|  1|  3| 
 |Kyle Tucker         |BAT BENCH |     **| **|  **| **| **| 
 |Trea Turner         |BAT BENCH |     **| **|  **| **| **| 

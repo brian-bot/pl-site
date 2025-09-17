@@ -7,7 +7,7 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Iván Herrera      |C         |     15|  5|   3|  2|  2| 
 |Pete Alonso       |1B        |      8|  3|   5|  2|  0| 
-|Ketel Marte       |2B        |      3|  0|   1|  0|  0| 
+|Ketel Marte       |2B        |      5|  0|   2|  0|  0| 
 |José Ramírez      |3B        |      9|  5|   3|  1|  2| 
 |Francisco Lindor  |SS        |      9|  6|   1|  1|  2| 
 |CJ Abrams         |MI        |      7|  2|   2|  0|  2| 
@@ -19,7 +19,7 @@
 |Jo Adell          |DH        |      2|  1|   1|  1|  0| 
 |Jorge Polanco     |DH        |     13|  3|   5|  0|  0| 
 |Royce Lewis       |DH        |      5|  2|   1|  0|  4| 
-|Willy Adames      |DH        |      8|  2|   4|  1|  1| 
+|Willy Adames      |DH        |      9|  2|   4|  1|  1| 
 |Addison Barger    |BAT BENCH |     11|  2|   7|  1|  0| 
 |Spencer Torkelson |BAT BENCH |     16|  6|   2|  1|  0| 
 |TJ Friedl         |BAT BENCH |     11|  2|   1|  0|  0| 

@@ -5,17 +5,17 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Agustín Ramírez  |C         |      8|  2|   3|  1|  0| 
+|Agustín Ramírez  |C         |     10|  3|   3|  1|  0| 
 |Luis Arraez      |1B        |      8|  2|   1|  0|  1| 
-|Connor Norby     |2B        |     **| **|  **| **| **| 
+|Connor Norby     |2B        |      1|  0|   0|  0|  0| 
 |Ryan McMahon     |3B        |      4|  2|   1|  0|  1| 
 |Zach Neto        |SS        |      4|  1|   2|  1|  1| 
 |Anthony Volpe    |MI        |      3|  2|   1|  0|  0| 
 |Ben Rice         |CI        |     10|  3|   3|  0|  0| 
 |Bryan Reynolds   |OF        |      8|  1|   1|  0|  0| 
-|Corbin Carroll   |OF        |     11|  4|   2|  0|  2| 
+|Corbin Carroll   |OF        |     14|  5|   3|  0|  2| 
 |Mike Trout       |OF        |      9|  6|   3|  1|  0| 
-|Mookie Betts     |OF        |     15|  8|  11|  3|  0| 
+|Mookie Betts     |OF        |     16|  8|  11|  3|  0| 
 |Ezequiel Tovar   |DH        |      4|  2|   1|  0|  1| 
 |Kyle Stowers     |DH        |     **| **|  **| **| **| 
 |Michael Conforto |DH        |      7|  2|   5|  1|  0| 
