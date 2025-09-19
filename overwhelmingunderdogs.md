@@ -6,11 +6,11 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith        |C         |      1|  1|   0|  0|  0| 
-|Freddie Freeman   |1B        |     13|  5|   5|  2|  0| 
+|Freddie Freeman   |1B        |     14|  5|   6|  2|  0| 
 |Jonathan India    |2B        |      9|  3|   1|  0|  0| 
-|Matt Chapman      |3B        |      8|  5|   2|  0|  0| 
+|Matt Chapman      |3B        |     10|  5|   2|  0|  0| 
 |Carlos Correa     |SS        |     16|  6|   3|  2|  0| 
-|Matt McLain       |MI        |      5|  2|   2|  0|  1| 
+|Matt McLain       |MI        |      6|  2|   2|  0|  1| 
 |Chase Meidroth    |CI        |     13|  6|   2|  1|  0| 
 |Marcell Ozuna     |OF        |     12|  3|   3|  0|  0| 
 |Matt Wallner      |OF        |      6|  3|   1|  1|  1| 
@@ -19,8 +19,8 @@
 |Jurickson Profar  |DH        |     15|  6|   3|  1|  1| 
 |Nick Castellanos  |DH        |      6|  2|   3|  0|  0| 
 |Roman Anthony     |DH        |     **| **|  **| **| **| 
-|Shohei Ohtani     |DH        |     18|  9|   5|  3|  2| 
-|Colt Keith        |BAT BENCH |     10|  3|   3|  1|  0| 
+|Shohei Ohtani     |DH        |     20| 10|   5|  3|  2| 
+|Colt Keith        |BAT BENCH |     11|  3|   4|  1|  0| 
 |Isaac Paredes     |BAT BENCH |     **| **|  **| **| **| 
 |Kristian Campbell |BAT BENCH |     **| **|  **| **| **| 
 
@@ -33,11 +33,11 @@
 |players            |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:------------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Jesús Luzardo      |SP          |  2| 15.000|  8| 4.800|     12| 0.800| 16|  1|  0| 
-|Logan Gilbert      |SP          |  2| 10.333|  3| 2.613|     13| 1.258| 13|  1|  0| 
+|Logan Gilbert      |SP          |  2| 10.333|  3| 2.613|     14| 1.355| 13|  1|  0| 
 |Merrill Kelly      |SP          |  2|  8.667|  9| 9.346|     20| 2.308|  7|  1|  0| 
 |Sonny Gray         |SP          |  1|  5.000|  2| 3.600|      5| 1.000|  8|  0|  0| 
 |Spencer Strider    |SP          |  2| 13.000|  3| 2.077|     15| 1.154| 14|  1|  0| 
-|Yoshinobu Yamamoto |SP          |  1|  7.000|  1| 1.286|      2| 0.286| 10|  0|  0| 
+|Yoshinobu Yamamoto |SP          |  2| 12.333|  1| 0.730|      9| 0.730| 17|  0|  0| 
 |Jeff Hoffman       |RP          |  4|  3.667|  1| 2.455|      4| 1.091|  5|  1|  1| 
 |Ronny Henriquez    |RP          |  4|  4.333|  1| 2.077|      7| 1.615|  5|  0|  1| 
 |Drew Rasmussen     |OP          |  1|  5.000|  3| 5.400|      7| 1.400|  5|  0|  0| 

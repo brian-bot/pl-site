@@ -5,18 +5,18 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Cal Raleigh      |C         |     20|  9|   5|  3|  0| 
-|Tyler Soderstrom |1B        |      5|  2|   3|  0|  0| 
+|Cal Raleigh      |C         |     21|  9|   5|  3|  0| 
+|Tyler Soderstrom |1B        |      7|  2|   4|  0|  0| 
 |Bryson Stott     |2B        |     14|  6|   5|  2|  0| 
 |Junior Caminero  |3B        |     12|  4|   5|  3|  0| 
 |Jeremy Peña      |SS        |     14|  8|   4|  1|  0| 
 |Geraldo Perdomo  |MI        |     23|  7|   6|  2|  2| 
 |Kyle Manzardo    |CI        |      9|  1|   2|  1|  0| 
-|Chandler Simpson |OF        |     15|  6|   2|  0|  3| 
+|Chandler Simpson |OF        |     18|  6|   4|  0|  3| 
 |Jackson Merrill  |OF        |     11|  7|   7|  4|  0| 
 |Ramón Laureano   |OF        |      8|  2|   5|  1|  0| 
-|Seiya Suzuki     |OF        |      6|  0|   1|  0|  0| 
-|Andrew Vaughn    |DH        |      6|  0|   1|  0|  0| 
+|Seiya Suzuki     |OF        |      7|  0|   1|  0|  0| 
+|Andrew Vaughn    |DH        |      8|  1|   2|  0|  0| 
 |Noelvi Marte     |DH        |      7|  3|   1|  1|  0| 
 |Wyatt Langford   |DH        |     13|  3|   2|  0|  3| 
 |Yordan Alvarez   |DH        |      9|  2|   0|  0|  0| 
@@ -34,8 +34,8 @@
 |Framber Valdez     |SP          |  1|  4.000|  5| 11.250|     10| 2.500|  2|  0|  0| 
 |Freddy Peralta     |SP          |  2| 11.000|  6|  4.909|     12| 1.091| 19|  1|  0| 
 |Hunter Brown       |SP          |  1|  6.667|  2|  2.700|      5| 0.750|  2|  1|  0| 
-|Quinn Priester     |SP          |  1|  5.333|  2|  3.375|      6| 1.125|  5|  1|  0| 
-|Tarik Skubal       |SP          |  1|  3.333|  4| 10.800|      4| 1.200|  2|  0|  0| 
+|Quinn Priester     |SP          |  2| 11.000|  4|  3.273|     11| 1.000| 15|  1|  0| 
+|Tarik Skubal       |SP          |  2|  9.333|  5|  4.821|     13| 1.393| 11|  0|  0| 
 |Emilio Pagán       |RP          |  3|  3.000|  0|  0.000|      2| 0.667|  5|  0|  1| 
 |JoJo Romero        |RP          |  4|  4.333|  2|  4.154|      6| 1.385|  4|  0|  0| 
 |Andrew Saalfrank   |OP          |  3|  2.667|  1|  3.375|      4| 1.500|  1|  1|  0| 
@@ -47,7 +47,7 @@
 |Cade Cavalli       |PITCH BENCH |  1|  5.000|  3|  5.400|      7| 1.400|  2|  0|  0| 
 |Luis Garcia        |PITCH BENCH |  1|  1.667|  0|  0.000|      1| 0.600|  1|  0|  0| 
 |Mitch Keller       |PITCH BENCH |  1|  5.333|  2|  3.375|      5| 0.938|  4|  0|  0| 
-|Tanner Bibee       |PITCH BENCH |  1|  9.000|  0|  0.000|      2| 0.222| 10|  1|  0| 
+|Tanner Bibee       |PITCH BENCH |  2| 15.000|  1|  0.600|      8| 0.533| 18|  2|  0| 
 
 
 * * *
