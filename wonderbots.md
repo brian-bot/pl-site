@@ -5,22 +5,22 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Agustín Ramírez  |C         |     14|  6|   6|  2|  0| 
-|Luis Arraez      |1B        |     12|  3|   2|  0|  1| 
-|Connor Norby     |2B        |      3|  0|   0|  0|  0| 
+|Agustín Ramírez  |C         |     15|  8|   6|  2|  0| 
+|Luis Arraez      |1B        |     13|  3|   3|  0|  1| 
+|Connor Norby     |2B        |      5|  0|   0|  0|  0| 
 |Ryan McMahon     |3B        |      5|  2|   2|  0|  1| 
 |Zach Neto        |SS        |      4|  1|   2|  1|  1| 
 |Anthony Volpe    |MI        |      4|  3|   1|  0|  1| 
-|Ben Rice         |CI        |     11|  4|   3|  0|  0| 
-|Bryan Reynolds   |OF        |      8|  1|   1|  0|  0| 
-|Corbin Carroll   |OF        |     16|  5|   4|  0|  3| 
+|Ben Rice         |CI        |     12|  4|   3|  0|  0| 
+|Bryan Reynolds   |OF        |     11|  2|   2|  0|  0| 
+|Corbin Carroll   |OF        |     18|  6|   4|  0|  3| 
 |Mike Trout       |OF        |     11|  6|   3|  1|  0| 
-|Mookie Betts     |OF        |     17|  8|  11|  3|  0| 
-|Ezequiel Tovar   |DH        |      6|  3|   1|  0|  1| 
+|Mookie Betts     |OF        |     18|  9|  12|  4|  0| 
+|Ezequiel Tovar   |DH        |      7|  4|   2|  0|  1| 
 |Kyle Stowers     |DH        |     **| **|  **| **| **| 
 |Michael Conforto |DH        |      7|  2|   5|  1|  0| 
 |Shea Langeliers  |DH        |     13|  6|   1|  1|  1| 
-|Alec Bohm        |BAT BENCH |     **| **|  **| **| **| 
+|Alec Bohm        |BAT BENCH |      2|  1|   3|  0|  0| 
 |Austin Riley     |BAT BENCH |     **| **|  **| **| **| 
 |Marcus Semien    |BAT BENCH |     **| **|  **| **| **| 
 
@@ -32,7 +32,7 @@
 |players          |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Brandon Woodruff |SP          |  1|  5.000|  1|  1.800|      2| 0.400|  9|  1|  0| 
-|Dylan Cease      |SP          |  1|  6.000|  1|  1.500|      6| 1.000|  6|  1|  0| 
+|Dylan Cease      |SP          |  2| 12.000|  5|  3.750|     13| 1.083| 12|  1|  0| 
 |George Kirby     |SP          |  2| 10.333|  5|  4.355|     12| 1.161| 16|  1|  0| 
 |Logan Webb       |SP          |  2| 11.000|  7|  5.727|     17| 1.545| 10|  0|  0| 
 |Ranger Suárez    |SP          |  2| 12.000|  3|  2.250|     13| 1.083| 17|  1|  0| 

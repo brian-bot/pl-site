@@ -5,25 +5,25 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Drake Baldwin      |C         |      6|  4|   6|  1|  0| 
-|Yandy Díaz         |1B        |     21|  6|   4|  2|  0| 
+|Drake Baldwin      |C         |      9|  5|   9|  2|  0| 
+|Yandy Díaz         |1B        |     25|  8|   5|  3|  0| 
 |Jackson Holliday   |2B        |     16|  3|   2|  0|  2| 
-|Jazz Chisholm Jr.  |3B        |     12|  3|   5|  1|  3| 
-|Gunnar Henderson   |SS        |     15|  4|   3|  0|  5| 
-|Ozzie Albies       |MI        |      9|  2|   6|  0|  0| 
-|Salvador Perez     |CI        |     12|  4|  11|  4|  0| 
+|Jazz Chisholm Jr.  |3B        |     13|  4|   7|  2|  3| 
+|Gunnar Henderson   |SS        |     18|  5|   4|  0|  5| 
+|Ozzie Albies       |MI        |     13|  3|   8|  0|  0| 
+|Salvador Perez     |CI        |     14|  5|  14|  5|  0| 
 |Brent Rooker       |OF        |     13|  4|   5|  3|  0| 
-|Christian Yelich   |OF        |     10|  5|   8|  2|  1| 
-|Fernando Tatis Jr. |OF        |     16|  9|   3|  2|  2| 
-|Steven Kwan        |OF        |     11|  3|   1|  0|  1| 
-|Brandon Nimmo      |DH        |      9|  4|   6|  2|  0| 
-|Giancarlo Stanton  |DH        |      7|  2|   5|  1|  0| 
-|Lars Nootbaar      |DH        |     10|  1|   2|  0|  0| 
-|Sal Frelick        |DH        |     12|  7|   7|  1|  0| 
-|Brendan Donovan    |BAT BENCH |      7|  3|   2|  1|  0| 
+|Christian Yelich   |OF        |     12|  5|   8|  2|  1| 
+|Fernando Tatis Jr. |OF        |     17|  9|   3|  2|  2| 
+|Steven Kwan        |OF        |     13|  5|   2|  0|  1| 
+|Brandon Nimmo      |DH        |     11|  5|   8|  2|  0| 
+|Giancarlo Stanton  |DH        |      8|  2|   5|  1|  0| 
+|Lars Nootbaar      |DH        |     12|  1|   3|  0|  0| 
+|Sal Frelick        |DH        |     13|  8|   8|  2|  0| 
+|Brendan Donovan    |BAT BENCH |     10|  5|   2|  1|  0| 
 |Josh Smith         |BAT BENCH |     12|  6|   1|  0|  1| 
 |Jung Hoo Lee       |BAT BENCH |      5|  4|   1|  0|  0| 
-|Ryan O'Hearn       |BAT BENCH |      4|  1|   0|  0|  0| 
+|Ryan O'Hearn       |BAT BENCH |      5|  1|   1|  0|  0| 
 
 
 * * *
@@ -38,12 +38,12 @@
 |Emmet Sheehan           |SP          |  2| 12.667|  2| 1.421|      8| 0.632| 16|  1|  0| 
 |José Berríos            |SP          |  2|  9.333|  5| 4.821|     12| 1.286|  4|  0|  0| 
 |Shane Baz               |SP          |  2|  7.333|  5| 6.136|     12| 1.636|  9|  1|  0| 
-|Shota Imanaga           |SP          |  1|  5.000|  3| 5.400|      7| 1.400|  9|  0|  0| 
+|Shota Imanaga           |SP          |  2| 10.000|  6| 5.400|     13| 1.300| 13|  0|  0| 
 |Carlos Estévez          |RP          |  3|  2.667|  1| 3.375|      4| 1.500|  0|  0|  2| 
 |Devin Williams          |RP          |  4|  4.000|  0| 0.000|      2| 0.500|  6|  0|  0| 
 |Ben Casparius           |OP          | **|     **| **|    **|     **|    **| **| **| **| 
 |Justin Topa             |OP          | **|     **| **|    **|     **|    **| **| **| **| 
-|Keegan Akin             |OP          |  5|  4.000|  1| 2.250|      8| 2.000|  4|  0|  3| 
+|Keegan Akin             |OP          |  6|  5.000|  1| 1.800|      8| 1.600|  6|  0|  4| 
 |Ryan Bergert            |OP          |  1|  4.000|  3| 6.750|      7| 1.750|  5|  0|  0| 
 |Simeon Woods Richardson |OP          |  1|  6.000|  0| 0.000|      5| 0.833| 11|  1|  0| 
 |Jake Irvin              |PITCH BENCH |  2| 11.000|  8| 6.545|     15| 1.364|  9|  0|  0| 
