@@ -5,24 +5,24 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Alejandro Kirk   |C         |      7|  1|   4|  0|  0| 
+|Alejandro Kirk   |C         |      8|  1|   4|  0|  0| 
 |Bryce Harper     |1B        |     22|  8|   8|  3|  1| 
-|Luke Keaschall   |2B        |     11|  4|   4|  0|  1| 
-|Alex Bregman     |3B        |     14|  5|   3|  2|  0| 
-|Bobby Witt Jr.   |SS        |     15|  5|   4|  1|  3| 
-|Alec Burleson    |MI        |     17|  5|   4|  1|  0| 
+|Luke Keaschall   |2B        |     12|  4|   4|  0|  1| 
+|Alex Bregman     |3B        |     16|  6|   4|  2|  0| 
+|Bobby Witt Jr.   |SS        |     17|  6|   5|  2|  3| 
+|Alec Burleson    |MI        |     18|  5|   4|  1|  0| 
 |Maikel Garcia    |CI        |     12|  5|   3|  0|  1| 
-|Byron Buxton     |OF        |     13|  6|   2|  1|  3| 
-|Julio Rodríguez  |OF        |     16|  6|   7|  1|  2| 
-|Kyle Schwarber   |OF        |     19|  8|   8|  4|  0| 
-|Victor Robles    |OF        |      8|  3|   2|  1|  1| 
-|Ceddanne Rafaela |DH        |      9|  4|   1|  0|  0| 
-|Gleyber Torres   |DH        |     16|  4|   7|  1|  0| 
-|Jordan Beck      |DH        |     10|  2|   2|  0|  1| 
-|Nico Hoerner     |DH        |     21| 10|   3|  0|  4| 
+|Byron Buxton     |OF        |     15|  6|   2|  1|  3| 
+|Julio Rodríguez  |OF        |     18|  8|   7|  1|  3| 
+|Kyle Schwarber   |OF        |     21|  9|   9|  4|  0| 
+|Victor Robles    |OF        |      9|  3|   3|  1|  2| 
+|Ceddanne Rafaela |DH        |     11|  6|   1|  0|  0| 
+|Gleyber Torres   |DH        |     19|  5|   7|  1|  0| 
+|Jordan Beck      |DH        |     11|  2|   2|  0|  2| 
+|Nico Hoerner     |DH        |     23| 10|   3|  0|  4| 
 |Jordan Westburg  |BAT BENCH |      3|  3|   0|  0|  0| 
 |Samuel Basallo   |BAT BENCH |      7|  4|   5|  1|  0| 
-|Yainer Diaz      |BAT BENCH |     11|  3|   8|  1|  0| 
+|Yainer Diaz      |BAT BENCH |     13|  4|   8|  1|  0| 
 
 * * *
 
@@ -32,13 +32,13 @@
 |players           |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Brayan Bello      |SP          |  2|  9.000|  7|  7.000|     15| 1.667|  7|  0|  0| 
-|Carlos Rodón      |SP          |  2| 12.000|  4|  3.000|     12| 1.000| 10|  0|  0| 
+|Carlos Rodón      |SP          |  3| 19.000|  5|  2.368|     17| 0.895| 18|  1|  0| 
 |Chris Bassitt     |SP          |  2|  9.333|  4|  3.857|     13| 1.393|  9|  0|  0| 
 |Jacob Misiorowski |SP          |  2|  8.667|  6|  6.231|     16| 1.846|  7|  0|  0| 
 |Ryan Pepiot       |SP          |  1|  1.667|  4| 21.600|      7| 4.200|  3|  0|  0| 
-|Zac Gallen        |SP          |  2| 12.667|  6|  4.263|     11| 0.868|  9|  1|  0| 
-|Edwin Díaz        |RP          |  4|  4.333|  1|  2.077|      5| 1.154|  4|  0|  0| 
-|Raisel Iglesias   |RP          |  3|  3.000|  0|  0.000|      4| 1.333|  4|  0|  1| 
+|Zac Gallen        |SP          |  3| 19.667|  9|  4.119|     17| 0.864| 18|  2|  0| 
+|Edwin Díaz        |RP          |  5|  5.333|  1|  1.688|      5| 0.938|  5|  0|  0| 
+|Raisel Iglesias   |RP          |  4|  4.000|  0|  0.000|      4| 1.000|  4|  0|  2| 
 |Andrew Abbott     |OP          |  2| 12.667|  4|  2.842|     15| 1.184| 13|  1|  0| 
 |Luis Gil          |OP          |  2| 10.667|  4|  3.375|     15| 1.406|  6|  1|  0| 
 |Martín Pérez      |OP          |  2| 10.333|  6|  5.226|     13| 1.258|  5|  0|  0| 
