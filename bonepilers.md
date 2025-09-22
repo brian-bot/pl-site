@@ -5,22 +5,22 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Cal Raleigh      |C         |     25| 11|   6|  4|  0| 
-|Tyler Soderstrom |1B        |      8|  2|   4|  0|  0| 
-|Bryson Stott     |2B        |     17|  6|   5|  2|  0| 
-|Junior Caminero  |3B        |     13|  4|   5|  3|  0| 
+|Cal Raleigh      |C         |     26| 12|   8|  5|  0| 
+|Tyler Soderstrom |1B        |      9|  2|   4|  0|  0| 
+|Bryson Stott     |2B        |     19|  6|   5|  2|  0| 
+|Junior Caminero  |3B        |     16|  6|   5|  3|  0| 
 |Jeremy Peña      |SS        |     17|  9|   8|  2|  0| 
-|Geraldo Perdomo  |MI        |     26|  8|   6|  2|  2| 
-|Kyle Manzardo    |CI        |     11|  3|   3|  1|  1| 
-|Chandler Simpson |OF        |     18|  6|   4|  0|  3| 
-|Jackson Merrill  |OF        |     15| 10|   8|  5|  0| 
-|Ramón Laureano   |OF        |      9|  4|   5|  1|  1| 
-|Seiya Suzuki     |OF        |      9|  0|   1|  0|  0| 
+|Geraldo Perdomo  |MI        |     28|  8|   6|  2|  2| 
+|Kyle Manzardo    |CI        |     12|  3|   3|  1|  1| 
+|Chandler Simpson |OF        |     20|  7|   4|  0|  4| 
+|Jackson Merrill  |OF        |     16| 11|   8|  5|  0| 
+|Ramón Laureano   |OF        |     10|  4|   5|  1|  1| 
+|Seiya Suzuki     |OF        |     10|  0|   1|  0|  0| 
 |Andrew Vaughn    |DH        |     11|  1|   3|  0|  0| 
-|Noelvi Marte     |DH        |      8|  4|   1|  1|  1| 
-|Wyatt Langford   |DH        |     13|  3|   2|  0|  3| 
+|Noelvi Marte     |DH        |      9|  4|   1|  1|  2| 
+|Wyatt Langford   |DH        |     16|  4|   3|  1|  4| 
 |Yordan Alvarez   |DH        |      9|  2|   0|  0|  0| 
-|Josh Jung        |BAT BENCH |     11|  5|   6|  1|  0| 
+|Josh Jung        |BAT BENCH |     12|  6|   6|  1|  0| 
 |Matt Shaw        |BAT BENCH |     11|  3|   5|  1|  0| 
 
 * * *

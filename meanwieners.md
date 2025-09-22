@@ -6,26 +6,26 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Austin Wells      |C         |     10|  4|   3|  1|  0| 
-|Matt Olson        |1B        |     22| 12|  13|  5|  0| 
+|Matt Olson        |1B        |     25| 13|  13|  5|  0| 
 |Casey Schmitt     |2B        |     11|  3|   3|  1|  0| 
 |Mark Vientos      |3B        |      9|  2|   4|  1|  0| 
-|Elly De La Cruz   |SS        |     15|  4|   2|  1|  4| 
-|Dansby Swanson    |MI        |     15|  5|   6|  1|  3| 
-|Christian Walker  |CI        |     10|  4|   6|  1|  0| 
+|Elly De La Cruz   |SS        |     16|  4|   2|  1|  4| 
+|Dansby Swanson    |MI        |     16|  5|   6|  1|  4| 
+|Christian Walker  |CI        |     11|  4|   6|  1|  0| 
 |Austin Hays       |OF        |     12|  4|   0|  0|  1| 
-|Isaac Collins     |OF        |      4|  1|   0|  0|  0| 
-|Michael Harris II |OF        |      9|  3|   0|  0|  0| 
-|Trent Grisham     |OF        |     13|  5|   8|  3|  0| 
-|Dylan Beavers     |DH        |     16|  3|   7|  2|  1| 
-|Jake Mangum       |DH        |     14|  1|   2|  0|  3| 
+|Isaac Collins     |OF        |      6|  1|   0|  0|  0| 
+|Michael Harris II |OF        |     11|  3|   1|  0|  0| 
+|Trent Grisham     |OF        |     14|  7|   8|  3|  0| 
+|Dylan Beavers     |DH        |     17|  3|   7|  2|  1| 
+|Jake Mangum       |DH        |     14|  1|   3|  0|  3| 
 |Josh Lowe         |DH        |      5|  3|   3|  1|  1| 
-|Max Muncy         |DH        |      8|  3|   3|  2|  0| 
+|Max Muncy         |DH        |     10|  4|   3|  2|  0| 
 |Anthony Santander |BAT BENCH |     **| **|  **| **| **| 
-|Jasson Domínguez  |BAT BENCH |      5|  2|   1|  0|  2| 
-|Logan O'Hoppe     |BAT BENCH |      4|  0|   0|  0|  0| 
+|Jasson Domínguez  |BAT BENCH |      6|  2|   1|  0|  2| 
+|Logan O'Hoppe     |BAT BENCH |      5|  0|   0|  0|  0| 
 |Tommy Edman       |BAT BENCH |      7|  5|   4|  1|  0| 
 |Willi Castro      |BAT BENCH |     11|  4|   0|  0|  0| 
-|Wilyer Abreu      |BAT BENCH |     **| **|  **| **| **| 
+|Wilyer Abreu      |BAT BENCH |      0|  0|   0|  0|  0| 
 
 
 * * *
@@ -46,9 +46,9 @@
 |Abner Uribe   |OP          |  4|  4.000|  0| 0.000|      3| 0.750|  7|  1|  0| 
 |Cade Povich   |OP          |  2| 10.667|  5| 4.219|     16| 1.500| 11|  0|  0| 
 |Chris Sale    |OP          |  2| 13.000|  3| 2.077|     11| 0.846| 18|  0|  0| 
-|Matt Brash    |OP          |  5|  4.667|  5| 9.643|     11| 2.357|  6|  0|  1| 
+|Matt Brash    |OP          |  6|  5.667|  5| 7.941|     11| 1.941|  7|  0|  1| 
 |Matt Strahm   |OP          |  3|  3.000|  1| 3.000|      3| 1.000|  2|  0|  0| 
-|Alex Vesia    |PITCH BENCH |  5|  4.667|  1| 1.929|      2| 0.429|  7|  0|  1| 
+|Alex Vesia    |PITCH BENCH |  6|  5.000|  1| 1.800|      2| 0.400|  7|  0|  1| 
 
 
 * * *

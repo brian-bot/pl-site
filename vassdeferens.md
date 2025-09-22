@@ -6,22 +6,22 @@
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
 |William Contreras     |C         |     14|  4|   7|  0|  0| 
-|Cody Bellinger        |1B        |     16|  6|   9|  2|  2| 
+|Cody Bellinger        |1B        |     17|  7|   9|  2|  2| 
 |Brice Turang          |2B        |     14|  6|   4|  1|  1| 
-|Vladimir Guerrero Jr. |3B        |     16|  1|   2|  0|  0| 
-|Colson Montgomery     |SS        |     11|  3|   3|  0|  0| 
+|Vladimir Guerrero Jr. |3B        |     18|  2|   4|  0|  0| 
+|Colson Montgomery     |SS        |     13|  3|   3|  0|  0| 
 |Luis García Jr.       |MI        |      5|  1|   1|  0|  0| 
-|Vinnie Pasquantino    |CI        |     21|  8|   8|  2|  0| 
+|Vinnie Pasquantino    |CI        |     22| 10|   8|  2|  0| 
 |Heliot Ramos          |OF        |     12|  6|   1|  1|  0| 
 |Hunter Goodman        |OF        |     14|  5|   2|  1|  0| 
-|James Wood            |OF        |     12|  5|   2|  0|  0| 
-|Ronald Acuña Jr.      |OF        |     23| 10|   4|  3|  2| 
-|Brooks Lee            |DH        |      8|  4|   5|  1|  0| 
-|Cedric Mullins        |DH        |      7|  3|   1|  1|  1| 
-|Gavin Sheets          |DH        |     11|  1|   5|  0|  0| 
+|James Wood            |OF        |     13|  5|   2|  0|  0| 
+|Ronald Acuña Jr.      |OF        |     26| 11|   5|  3|  2| 
+|Brooks Lee            |DH        |     10|  5|   7|  2|  0| 
+|Cedric Mullins        |DH        |      8|  3|   2|  1|  1| 
+|Gavin Sheets          |DH        |     12|  2|   5|  0|  0| 
 |Jacob Wilson          |DH        |     16|  5|   3|  1|  0| 
 |Corey Seager          |BAT BENCH |     **| **|  **| **| **| 
-|Paul Goldschmidt      |BAT BENCH |     13|  3|   1|  0|  0| 
+|Paul Goldschmidt      |BAT BENCH |     14|  3|   1|  0|  0| 
 |Teoscar Hernández     |BAT BENCH |     17|  9|   7|  3|  0| 
 
 
@@ -39,12 +39,12 @@
 |Robbie Ray      |SP          |  3| 13.667| 12|  7.902|     22| 1.610| 15|  1|  0| 
 |Shane Smith     |SP          |  2| 10.000|  6|  5.400|     15| 1.500| 11|  1|  0| 
 |Jose A. Ferrer  |RP          |  4|  4.333|  5| 10.385|     10| 2.308|  6|  0|  2| 
-|Robert Suarez   |RP          |  5|  5.000|  3|  5.400|      5| 1.000|  5|  0|  3| 
-|Cam Schlittler  |OP          |  2| 10.667|  5|  4.219|     15| 1.406| 13|  1|  0| 
+|Robert Suarez   |RP          |  6|  6.000|  3|  4.500|      5| 0.833|  7|  0|  4| 
+|Cam Schlittler  |OP          |  3| 16.000|  6|  3.375|     19| 1.188| 19|  1|  0| 
 |Jack Leiter     |OP          |  3| 17.000| 10|  5.294|     24| 1.412| 12|  0|  0| 
 |Joey Wentz      |OP          |  2|  9.000|  4|  4.000|     15| 1.667| 12|  0|  0| 
 |Matthew Boyd    |OP          |  2|  8.000|  8|  9.000|     16| 2.000|  6|  1|  0| 
-|Shawn Armstrong |OP          |  6|  6.667|  1|  1.350|      5| 0.750|  8|  0|  2| 
+|Shawn Armstrong |OP          |  7|  7.333|  1|  1.227|      6| 0.818|  9|  0|  2| 
 |Calvin Faucher  |PITCH BENCH |  5|  4.333|  1|  2.077|      4| 0.923|  4|  0|  2| 
 |Hayden Birdsong |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Ryan Garcia     |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 

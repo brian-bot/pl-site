@@ -5,25 +5,25 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Iván Herrera      |C         |     18|  7|   3|  2|  2| 
-|Pete Alonso       |1B        |     18|  7|   9|  4|  0| 
-|Ketel Marte       |2B        |      9|  1|   4|  1|  0| 
-|José Ramírez      |3B        |     20| 11|   6|  3|  3| 
-|Francisco Lindor  |SS        |     19| 12|   2|  1|  3| 
+|Iván Herrera      |C         |     21|  9|   5|  3|  2| 
+|Pete Alonso       |1B        |     20|  7|   9|  4|  0| 
+|Ketel Marte       |2B        |     12|  3|   6|  1|  0| 
+|José Ramírez      |3B        |     21| 11|   6|  3|  3| 
+|Francisco Lindor  |SS        |     20| 13|   3|  2|  3| 
 |CJ Abrams         |MI        |     11|  4|   5|  1|  3| 
-|Eugenio Suárez    |CI        |     12|  5|   4|  2|  0| 
-|Daulton Varsho    |OF        |      9|  6|   4|  1|  0| 
-|George Springer   |OF        |     20|  9|   7|  3|  0| 
-|Randy Arozarena   |OF        |     12|  5|   4|  1|  1| 
-|Taylor Ward       |OF        |     14|  7|   6|  4|  1| 
-|Jo Adell          |DH        |      5|  3|   1|  1|  0| 
-|Jorge Polanco     |DH        |     17|  4|   7|  0|  0| 
-|Royce Lewis       |DH        |     10|  2|   3|  0|  5| 
-|Willy Adames      |DH        |     17|  4|   4|  1|  2| 
-|Addison Barger    |BAT BENCH |     11|  2|   7|  1|  0| 
+|Eugenio Suárez    |CI        |     14|  6|   4|  2|  0| 
+|Daulton Varsho    |OF        |     10|  7|   4|  1|  0| 
+|George Springer   |OF        |     23|  9|   8|  3|  0| 
+|Randy Arozarena   |OF        |     13|  6|   4|  1|  1| 
+|Taylor Ward       |OF        |     15|  7|   6|  4|  1| 
+|Jo Adell          |DH        |      7|  3|   2|  1|  0| 
+|Jorge Polanco     |DH        |     18|  5|   7|  0|  0| 
+|Royce Lewis       |DH        |     11|  3|   6|  1|  5| 
+|Willy Adames      |DH        |     18|  4|   5|  1|  2| 
+|Addison Barger    |BAT BENCH |     12|  2|   8|  1|  0| 
 |Spencer Torkelson |BAT BENCH |     22|  9|   6|  3|  0| 
 |TJ Friedl         |BAT BENCH |     14|  4|   3|  1|  0| 
-|Xavier Edwards    |BAT BENCH |     10|  4|   5|  1|  0| 
+|Xavier Edwards    |BAT BENCH |     11|  5|   5|  1|  2| 
 
 
 * * *
@@ -42,12 +42,12 @@
 |Andrés Muñoz    |RP          |  6|  6.000|  0|  0.000|      4| 0.667| 11|  0|  4| 
 |Ian Seymour     |RP          |  2| 12.333|  2|  1.459|     11| 0.892|  8|  1|  0| 
 |Clayton Kershaw |OP          |  2|  7.333|  6|  7.364|     17| 2.318|  8|  0|  0| 
-|Kyle Bradish    |OP          |  2| 12.000|  2|  1.500|     14| 1.167| 15|  1|  0| 
+|Kyle Bradish    |OP          |  3| 18.000|  3|  1.500|     18| 1.000| 24|  1|  0| 
 |Luis Severino   |OP          |  2| 10.000|  6|  5.400|     16| 1.600|  5|  1|  0| 
 |Max Scherzer    |OP          |  2|  5.667|  9| 14.294|     14| 2.471|  7|  0|  0| 
-|Sean Manaea     |OP          |  2| 10.000|  5|  4.500|     10| 1.000|  9|  1|  0| 
+|Sean Manaea     |OP          |  3| 13.000|  8|  5.538|     14| 1.077| 12|  1|  0| 
 |Cristian Javier |PITCH BENCH |  2| 12.000|  6|  4.500|     13| 1.083| 10|  1|  0| 
-|Michael Wacha   |PITCH BENCH |  1|  2.667|  7| 23.625|      9| 3.375|  0|  0|  0| 
+|Michael Wacha   |PITCH BENCH |  2|  7.667| 13| 15.261|     18| 2.348|  4|  0|  0| 
 |Yusei Kikuchi   |PITCH BENCH |  2| 11.667|  3|  2.314|     13| 1.114|  5|  0|  0| 
 
 
