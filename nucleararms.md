@@ -5,25 +5,25 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Drake Baldwin      |C         |     13|  7|  12|  3|  0| 
+|Drake Baldwin      |C         |     16|  9|  14|  3|  0| 
 |Yandy Díaz         |1B        |     30| 10|   6|  3|  0| 
 |Jackson Holliday   |2B        |     17|  3|   2|  0|  2| 
 |Jazz Chisholm Jr.  |3B        |     16|  5|   9|  3|  3| 
 |Gunnar Henderson   |SS        |     20|  5|   4|  0|  6| 
-|Ozzie Albies       |MI        |     15|  5|   9|  0|  0| 
+|Ozzie Albies       |MI        |     16|  6|   9|  0|  0| 
 |Salvador Perez     |CI        |     16|  5|  15|  5|  0| 
 |Brent Rooker       |OF        |     15|  4|   5|  3|  0| 
-|Christian Yelich   |OF        |     12|  5|   8|  2|  1| 
+|Christian Yelich   |OF        |     16|  5|  10|  2|  1| 
 |Fernando Tatis Jr. |OF        |     20| 12|   4|  3|  4| 
 |Steven Kwan        |OF        |     19|  6|   7|  1|  2| 
 |Brandon Nimmo      |DH        |     12|  6|   8|  2|  0| 
 |Giancarlo Stanton  |DH        |     11|  3|   8|  2|  0| 
-|Lars Nootbaar      |DH        |     12|  1|   3|  0|  0| 
-|Sal Frelick        |DH        |     14|  8|   8|  2|  0| 
+|Lars Nootbaar      |DH        |     14|  2|   3|  0|  0| 
+|Sal Frelick        |DH        |     14|  9|   9|  2|  0| 
 |Brendan Donovan    |BAT BENCH |     11|  5|   3|  1|  0| 
 |Josh Smith         |BAT BENCH |     12|  6|   1|  0|  1| 
 |Jung Hoo Lee       |BAT BENCH |      7|  4|   1|  0|  0| 
-|Ryan O'Hearn       |BAT BENCH |     11|  1|   4|  0|  0| 
+|Ryan O'Hearn       |BAT BENCH |     13|  1|   4|  0|  0| 
 
 
 * * *

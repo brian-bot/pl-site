@@ -8,7 +8,7 @@
 |Kyle Teel           |C         |     13|  3|   6|  2|  0| 
 |Nick Kurtz          |1B        |     12|  7|   8|  4|  0| 
 |Brandon Lowe        |2B        |     10|  6|   7|  2|  0| 
-|Manny Machado       |3B        |     12|  6|   9|  3|  2| 
+|Manny Machado       |3B        |     14|  7|   9|  3|  2| 
 |Trevor Story        |SS        |     16|  8|   5|  1|  4| 
 |Otto Lopez          |MI        |     12|  5|   7|  1|  2| 
 |Lenyn Sosa          |CI        |      8|  4|   6|  1|  0| 

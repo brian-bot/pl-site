@@ -6,7 +6,7 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Agustín Ramírez  |C         |     19|  8|   7|  2|  2| 
-|Luis Arraez      |1B        |     16|  3|   4|  0|  1| 
+|Luis Arraez      |1B        |     17|  4|   5|  0|  1| 
 |Connor Norby     |2B        |      7|  2|   1|  1|  0| 
 |Ryan McMahon     |3B        |      6|  2|   2|  0|  1| 
 |Zach Neto        |SS        |      4|  1|   2|  1|  1| 

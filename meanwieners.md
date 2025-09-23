@@ -7,14 +7,14 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Austin Wells      |C         |     10|  4|   3|  1|  0| 
 |Matt Olson        |1B        |     25| 13|  13|  5|  0| 
-|Casey Schmitt     |2B        |     11|  3|   3|  1|  0| 
+|Casey Schmitt     |2B        |     12|  4|   3|  1|  0| 
 |Mark Vientos      |3B        |      9|  2|   4|  1|  0| 
 |Elly De La Cruz   |SS        |     16|  4|   2|  1|  4| 
 |Dansby Swanson    |MI        |     16|  5|   6|  1|  4| 
 |Christian Walker  |CI        |     11|  4|   6|  1|  0| 
 |Austin Hays       |OF        |     12|  4|   0|  0|  1| 
-|Isaac Collins     |OF        |      6|  1|   0|  0|  0| 
-|Michael Harris II |OF        |     11|  3|   1|  0|  0| 
+|Isaac Collins     |OF        |      8|  2|   0|  0|  0| 
+|Michael Harris II |OF        |     14|  4|   4|  0|  3| 
 |Trent Grisham     |OF        |     14|  7|   8|  3|  0| 
 |Dylan Beavers     |DH        |     17|  3|   7|  2|  1| 
 |Jake Mangum       |DH        |     14|  1|   3|  0|  3| 
@@ -39,13 +39,13 @@
 |Joe Ryan      |SP          |  2|  9.000|  6| 6.000|     14| 1.556|  9|  0|  0| 
 |Kevin Gausman |SP          |  2| 15.000|  1| 0.600|     11| 0.733| 15|  1|  0| 
 |Nick Lodolo   |SP          |  2| 10.000|  9| 8.100|     19| 1.900| 12|  0|  0| 
-|Nick Pivetta  |SP          |  2| 11.667|  3| 2.314|     12| 1.029| 13|  0|  0| 
+|Nick Pivetta  |SP          |  3| 17.333|  6| 3.115|     21| 1.212| 18|  0|  0| 
 |Tyler Glasnow |SP          |  2| 11.667|  5| 3.857|     17| 1.457| 11|  2|  0| 
 |Bryan Abreu   |RP          |  5|  5.333|  2| 3.375|     11| 2.062|  6|  0|  3| 
 |Will Vest     |RP          |  4|  4.667|  5| 9.643|     13| 2.786|  5|  0|  1| 
-|Abner Uribe   |OP          |  4|  4.000|  0| 0.000|      3| 0.750|  7|  1|  0| 
+|Abner Uribe   |OP          |  5|  5.000|  0| 0.000|      4| 0.800|  7|  1|  0| 
 |Cade Povich   |OP          |  2| 10.667|  5| 4.219|     16| 1.500| 11|  0|  0| 
-|Chris Sale    |OP          |  2| 13.000|  3| 2.077|     11| 0.846| 18|  0|  0| 
+|Chris Sale    |OP          |  3| 18.000|  8| 4.000|     16| 0.889| 24|  1|  0| 
 |Matt Brash    |OP          |  6|  5.667|  5| 7.941|     11| 1.941|  7|  0|  1| 
 |Matt Strahm   |OP          |  3|  3.000|  1| 3.000|      3| 1.000|  2|  0|  0| 
 |Alex Vesia    |PITCH BENCH |  6|  5.000|  1| 1.800|      2| 0.400|  7|  0|  1| 

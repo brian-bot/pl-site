@@ -8,7 +8,7 @@
 |Willson Contreras   |C         |     11|  4|   2|  0|  1| 
 |Michael Busch       |1B        |     17|  8|   6|  4|  0| 
 |Jose Altuve         |2B        |     12|  4|   6|  2|  1| 
-|Rafael Devers       |3B        |     14|  6|   5|  1|  0| 
+|Rafael Devers       |3B        |     16|  7|   6|  2|  0| 
 |Bo Bichette         |SS        |     **| **|  **| **| **| 
 |Masyn Winn          |MI        |     **| **|  **| **| **| 
 |Josh Naylor         |CI        |     20| 10|   9|  2|  3| 
@@ -17,7 +17,7 @@
 |Jarren Duran        |OF        |     17|  7|   4|  2|  1| 
 |Lourdes Gurriel Jr. |OF        |     **| **|  **| **| **| 
 |Colton Cowser       |DH        |     10|  4|   4|  2|  4| 
-|Jake Cronenworth    |DH        |     15|  5|   5|  1|  1| 
+|Jake Cronenworth    |DH        |     16|  5|   5|  1|  1| 
 |JJ Bleday           |DH        |      3|  0|   0|  0|  0| 
 |Tyler Freeman       |DH        |     16|  6|   3|  0|  1| 
 |Gavin Lux           |BAT BENCH |     14|  4|   1|  0|  0| 

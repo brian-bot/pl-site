@@ -10,7 +10,7 @@
 |Luke Keaschall   |2B        |     13|  5|   4|  0|  1| 
 |Alex Bregman     |3B        |     20|  6|   5|  2|  0| 
 |Bobby Witt Jr.   |SS        |     18|  6|   5|  2|  3| 
-|Alec Burleson    |MI        |     20|  5|   4|  1|  0| 
+|Alec Burleson    |MI        |     23|  6|   5|  1|  0| 
 |Maikel Garcia    |CI        |     14|  6|   4|  0|  1| 
 |Byron Buxton     |OF        |     17|  7|   2|  1|  3| 
 |Julio Rodríguez  |OF        |     19|  8|   7|  1|  3| 

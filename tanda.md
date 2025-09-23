@@ -5,7 +5,7 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Iván Herrera      |C         |     21|  9|   5|  3|  2| 
+|Iván Herrera      |C         |     24| 10|   7|  4|  2| 
 |Pete Alonso       |1B        |     20|  7|   9|  4|  0| 
 |Ketel Marte       |2B        |     12|  3|   6|  1|  0| 
 |José Ramírez      |3B        |     21| 11|   6|  3|  3| 
@@ -13,7 +13,7 @@
 |CJ Abrams         |MI        |     11|  4|   5|  1|  3| 
 |Eugenio Suárez    |CI        |     14|  6|   4|  2|  0| 
 |Daulton Varsho    |OF        |     10|  7|   4|  1|  0| 
-|George Springer   |OF        |     23|  9|   8|  3|  0| 
+|George Springer   |OF        |     24|  9|   8|  3|  0| 
 |Randy Arozarena   |OF        |     13|  6|   4|  1|  1| 
 |Taylor Ward       |OF        |     15|  7|   6|  4|  1| 
 |Jo Adell          |DH        |      7|  3|   2|  1|  0| 
