@@ -8,20 +8,20 @@
 |Alejandro Kirk   |C         |      9|  1|   4|  0|  0| 
 |Bryce Harper     |1B        |     23|  8|   8|  3|  1| 
 |Luke Keaschall   |2B        |     14|  5|   4|  0|  2| 
-|Alex Bregman     |3B        |     20|  6|   5|  2|  0| 
+|Alex Bregman     |3B        |     22|  7|   5|  2|  0| 
 |Bobby Witt Jr.   |SS        |     20|  7|   7|  2|  3| 
-|Alec Burleson    |MI        |     25|  6|   7|  1|  0| 
+|Alec Burleson    |MI        |     26|  6|   7|  1|  0| 
 |Maikel Garcia    |CI        |     18|  9|   5|  0|  1| 
-|Byron Buxton     |OF        |     17|  8|   3|  1|  3| 
-|Julio Rodríguez  |OF        |     21|  9|   7|  1|  3| 
-|Kyle Schwarber   |OF        |     23| 10|  10|  5|  0| 
-|Victor Robles    |OF        |     10|  4|   4|  1|  2| 
-|Ceddanne Rafaela |DH        |     13|  6|   2|  0|  0| 
-|Gleyber Torres   |DH        |     22|  6|   8|  1|  0| 
+|Byron Buxton     |OF        |     18|  9|   4|  2|  3| 
+|Julio Rodríguez  |OF        |     24| 10|   8|  2|  3| 
+|Kyle Schwarber   |OF        |     27| 12|  12|  7|  0| 
+|Victor Robles    |OF        |     11|  6|   4|  1|  2| 
+|Ceddanne Rafaela |DH        |     16|  7|   2|  0|  0| 
+|Gleyber Torres   |DH        |     23|  6|   8|  1|  0| 
 |Jordan Beck      |DH        |     13|  3|   2|  0|  3| 
-|Nico Hoerner     |DH        |     26| 14|   4|  0|  5| 
-|Jordan Westburg  |BAT BENCH |      5|  4|   1|  0|  0| 
-|Samuel Basallo   |BAT BENCH |      9|  6|   6|  2|  0| 
+|Nico Hoerner     |DH        |     28| 15|   4|  0|  5| 
+|Jordan Westburg  |BAT BENCH |      6|  4|   3|  0|  0| 
+|Samuel Basallo   |BAT BENCH |     10|  6|   6|  2|  0| 
 |Yainer Diaz      |BAT BENCH |     14|  4|   8|  1|  0| 
 
 * * *
@@ -47,7 +47,7 @@
 |Cole Ragans       |PITCH BENCH |  2|  8.667|  4|  4.154|      7| 0.808| 14|  1|  0| 
 |Eury Pérez        |PITCH BENCH |  3| 14.667|  3|  1.841|     11| 0.750| 22|  1|  0| 
 |Jordan Leasure    |PITCH BENCH |  6|  7.000|  0|  0.000|      2| 0.286|  5|  1|  0| 
-|Payton Tolle      |PITCH BENCH |  3|  6.000|  3|  4.500|      9| 1.500|  7|  0|  0| 
+|Payton Tolle      |PITCH BENCH |  4|  7.000|  4|  5.143|     11| 1.571|  8|  0|  0| 
 
 
 * * *
