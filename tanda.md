@@ -6,24 +6,24 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Iván Herrera      |C         |     30| 13|  11|  5|  2| 
-|Pete Alonso       |1B        |     21|  8|  10|  4|  0| 
-|Ketel Marte       |2B        |     16|  5|   6|  1|  0| 
-|José Ramírez      |3B        |     25| 12|   9|  3|  3| 
-|Francisco Lindor  |SS        |     22| 14|   6|  3|  3| 
+|Pete Alonso       |1B        |     22|  9|  10|  4|  0| 
+|Ketel Marte       |2B        |     17|  5|   6|  1|  0| 
+|José Ramírez      |3B        |     27| 12|  10|  3|  3| 
+|Francisco Lindor  |SS        |     24| 16|   7|  4|  3| 
 |CJ Abrams         |MI        |     13|  5|   6|  1|  3| 
-|Eugenio Suárez    |CI        |     15|  7|   5|  3|  0| 
-|Daulton Varsho    |OF        |     11|  7|   4|  1|  0| 
-|George Springer   |OF        |     25|  9|   8|  3|  0| 
-|Randy Arozarena   |OF        |     14|  6|   5|  1|  1| 
+|Eugenio Suárez    |CI        |     18|  8|   8|  4|  0| 
+|Daulton Varsho    |OF        |     13|  8|   8|  2|  0| 
+|George Springer   |OF        |     27| 10|  10|  4|  0| 
+|Randy Arozarena   |OF        |     16|  6|   7|  1|  2| 
 |Taylor Ward       |OF        |     17|  9|   8|  6|  1| 
-|Jo Adell          |DH        |      8|  4|   2|  1|  0| 
-|Jorge Polanco     |DH        |     21|  6|   8|  1|  0| 
-|Royce Lewis       |DH        |     12|  3|   7|  1|  5| 
+|Jo Adell          |DH        |     10|  5|   3|  2|  0| 
+|Jorge Polanco     |DH        |     21|  7|   8|  1|  0| 
+|Royce Lewis       |DH        |     14|  3|   7|  1|  5| 
 |Willy Adames      |DH        |     21|  5|   6|  1|  3| 
-|Addison Barger    |BAT BENCH |     13|  2|   7|  1|  0| 
-|Spencer Torkelson |BAT BENCH |     24|  9|   6|  3|  0| 
-|TJ Friedl         |BAT BENCH |     18|  5|   3|  1|  0| 
-|Xavier Edwards    |BAT BENCH |     12|  5|   6|  1|  2| 
+|Addison Barger    |BAT BENCH |     15|  3|   7|  1|  0| 
+|Spencer Torkelson |BAT BENCH |     25|  9|   6|  3|  0| 
+|TJ Friedl         |BAT BENCH |     21|  6|   3|  1|  0| 
+|Xavier Edwards    |BAT BENCH |     15|  5|   6|  1|  2| 
 
 
 * * *

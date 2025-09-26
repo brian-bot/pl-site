@@ -7,20 +7,20 @@
 |:-------------------|:---------|------:|--:|---:|--:|--:| 
 |Willson Contreras   |C         |     11|  4|   2|  0|  1| 
 |Michael Busch       |1B        |     21| 10|   8|  5|  0| 
-|Jose Altuve         |2B        |     14|  4|   6|  2|  1| 
+|Jose Altuve         |2B        |     17|  6|   8|  2|  1| 
 |Rafael Devers       |3B        |     19|  8|   7|  3|  0| 
 |Bo Bichette         |SS        |     **| **|  **| **| **| 
 |Masyn Winn          |MI        |     **| **|  **| **| **| 
-|Josh Naylor         |CI        |     23| 10|  13|  2|  4| 
-|Aaron Judge         |OF        |     38| 19|  12|  8|  1| 
+|Josh Naylor         |CI        |     26| 12|  13|  2|  4| 
+|Aaron Judge         |OF        |     42| 20|  12|  8|  1| 
 |Jackson Chourio     |OF        |     17|  8|   6|  1|  1| 
-|Jarren Duran        |OF        |     18|  7|   4|  2|  1| 
+|Jarren Duran        |OF        |     20|  8|   4|  2|  1| 
 |Lourdes Gurriel Jr. |OF        |     **| **|  **| **| **| 
-|Colton Cowser       |DH        |     14|  7|   6|  3|  5| 
+|Colton Cowser       |DH        |     15|  7|   6|  3|  5| 
 |Jake Cronenworth    |DH        |     17|  5|   5|  1|  1| 
-|JJ Bleday           |DH        |      3|  0|   0|  0|  0| 
+|JJ Bleday           |DH        |      4|  1|   1|  0|  0| 
 |Tyler Freeman       |DH        |     16|  6|   3|  0|  1| 
-|Gavin Lux           |BAT BENCH |     15|  4|   2|  0|  0| 
+|Gavin Lux           |BAT BENCH |     17|  4|   3|  0|  0| 
 |Jake Burger         |BAT BENCH |      6|  4|   4|  2|  0| 
 
 

@@ -6,18 +6,18 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Alejandro Kirk   |C         |      9|  1|   4|  0|  0| 
-|Bryce Harper     |1B        |     23|  8|   8|  3|  1| 
+|Bryce Harper     |1B        |     24|  8|   8|  3|  1| 
 |Luke Keaschall   |2B        |     14|  5|   4|  0|  2| 
-|Alex Bregman     |3B        |     22|  7|   5|  2|  0| 
-|Bobby Witt Jr.   |SS        |     20|  7|   7|  2|  3| 
+|Alex Bregman     |3B        |     23|  7|   5|  2|  0| 
+|Bobby Witt Jr.   |SS        |     24|  9|   8|  2|  3| 
 |Alec Burleson    |MI        |     26|  6|   7|  1|  0| 
-|Maikel Garcia    |CI        |     18|  9|   5|  0|  1| 
-|Byron Buxton     |OF        |     18|  9|   4|  2|  3| 
+|Maikel Garcia    |CI        |     20| 11|   5|  0|  1| 
+|Byron Buxton     |OF        |     20| 11|   8|  4|  3| 
 |Julio Rodríguez  |OF        |     24| 10|   8|  2|  3| 
-|Kyle Schwarber   |OF        |     27| 12|  12|  7|  0| 
+|Kyle Schwarber   |OF        |     28| 12|  12|  7|  0| 
 |Victor Robles    |OF        |     11|  6|   4|  1|  2| 
 |Ceddanne Rafaela |DH        |     16|  7|   2|  0|  0| 
-|Gleyber Torres   |DH        |     23|  6|   8|  1|  0| 
+|Gleyber Torres   |DH        |     24|  6|   8|  1|  0| 
 |Jordan Beck      |DH        |     13|  3|   2|  0|  3| 
 |Nico Hoerner     |DH        |     28| 15|   4|  0|  5| 
 |Jordan Westburg  |BAT BENCH |      6|  4|   3|  0|  0| 
@@ -31,13 +31,13 @@
  
 |players           |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Brayan Bello      |SP          |  2|  9.000|  7|  7.000|     15| 1.667|  7|  0|  0| 
-|Carlos Rodón      |SP          |  3| 19.000|  5|  2.368|     17| 0.895| 18|  1|  0| 
+|Brayan Bello      |SP          |  3| 14.000|  9|  5.786|     21| 1.500| 10|  0|  0| 
+|Carlos Rodón      |SP          |  4| 25.000|  8|  2.880|     22| 0.880| 23|  2|  0| 
 |Chris Bassitt     |SP          |  2|  9.333|  4|  3.857|     13| 1.393|  9|  0|  0| 
 |Jacob Misiorowski |SP          |  2|  8.667|  6|  6.231|     16| 1.846|  7|  0|  0| 
 |Ryan Pepiot       |SP          |  2|  4.667|  7| 13.500|     11| 2.357|  6|  0|  0| 
 |Zac Gallen        |SP          |  3| 19.667|  9|  4.119|     17| 0.864| 18|  2|  0| 
-|Edwin Díaz        |RP          |  7|  8.333|  1|  1.080|      5| 0.600| 13|  0|  1| 
+|Edwin Díaz        |RP          |  8|  9.333|  1|  0.964|      6| 0.643| 13|  0|  2| 
 |Raisel Iglesias   |RP          |  6|  5.667|  0|  0.000|      5| 0.882|  6|  0|  3| 
 |Andrew Abbott     |OP          |  3| 17.333|  4|  2.077|     21| 1.212| 15|  1|  0| 
 |Luis Gil          |OP          |  3| 16.667|  6|  3.240|     21| 1.260|  9|  1|  0| 
