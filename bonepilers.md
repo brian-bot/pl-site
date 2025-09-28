@@ -5,23 +5,23 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Cal Raleigh      |C         |     33| 14|  12|  7|  0| 
+|Cal Raleigh      |C         |     33| 15|  12|  7|  0| 
 |Tyler Soderstrom |1B        |     16|  5|   7|  1|  0| 
-|Bryson Stott     |2B        |     22|  8|   6|  3|  1| 
-|Junior Caminero  |3B        |     23|  8|   7|  4|  0| 
+|Bryson Stott     |2B        |     23|  8|   6|  3|  1| 
+|Junior Caminero  |3B        |     26|  8|   7|  4|  0| 
 |Jeremy Peña      |SS        |     17|  9|   8|  2|  0| 
-|Geraldo Perdomo  |MI        |     35|  9|   7|  2|  3| 
-|Kyle Manzardo    |CI        |     14|  4|   5|  2|  1| 
-|Chandler Simpson |OF        |     23|  9|   4|  0|  5| 
+|Geraldo Perdomo  |MI        |     36| 10|   8|  3|  3| 
+|Kyle Manzardo    |CI        |     15|  4|   5|  2|  1| 
+|Chandler Simpson |OF        |     24|  9|   4|  0|  5| 
 |Jackson Merrill  |OF        |     20| 12|  10|  6|  0| 
 |Ramón Laureano   |OF        |     12|  5|   5|  1|  1| 
-|Seiya Suzuki     |OF        |     15|  3|  11|  3|  0| 
-|Andrew Vaughn    |DH        |     16|  2|   4|  0|  0| 
-|Noelvi Marte     |DH        |     12|  6|   3|  2|  2| 
+|Seiya Suzuki     |OF        |     18|  5|  12|  4|  0| 
+|Andrew Vaughn    |DH        |     17|  3|   4|  0|  0| 
+|Noelvi Marte     |DH        |     12|  7|   3|  2|  2| 
 |Wyatt Langford   |DH        |     16|  4|   3|  1|  4| 
 |Yordan Alvarez   |DH        |      9|  2|   0|  0|  0| 
-|Josh Jung        |BAT BENCH |     15|  6|   6|  1|  0| 
-|Matt Shaw        |BAT BENCH |     17|  8|   7|  2|  1| 
+|Josh Jung        |BAT BENCH |     17|  6|   7|  1|  0| 
+|Matt Shaw        |BAT BENCH |     18| 10|   7|  2|  1| 
 
 * * *
 
@@ -36,7 +36,7 @@
 |Hunter Brown       |SP          |  3| 17.667|  8| 4.075|     20| 1.132| 16|  1|  0| 
 |Quinn Priester     |SP          |  3| 16.000|  7| 3.938|     21| 1.312| 19|  1|  0| 
 |Tarik Skubal       |SP          |  3| 15.333|  6| 3.522|     20| 1.304| 19|  0|  0| 
-|Emilio Pagán       |RP          |  8|  8.000|  0| 0.000|      6| 0.750|  8|  0|  5| 
+|Emilio Pagán       |RP          |  9|  9.000|  0| 0.000|      6| 0.667|  9|  0|  6| 
 |JoJo Romero        |RP          |  7|  7.667|  2| 2.348|      8| 1.043|  6|  0|  1| 
 |Andrew Saalfrank   |OP          |  5|  4.667|  1| 1.929|      7| 1.500|  1|  1|  0| 
 |Braxton Ashcraft   |OP          |  4| 14.333|  6| 3.767|     21| 1.465| 19|  0|  0| 
