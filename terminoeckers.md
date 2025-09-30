@@ -17,7 +17,7 @@
 |Juan Soto           |OF        |     29| 11|  12|  5|  9| 
 |Pete Crow-Armstrong |OF        |     18|  7|  10|  3|  3| 
 |Andy Pages          |DH        |     21| 11|   7|  3|  1| 
-|Brenton Doyle       |DH        |      9|  4|   2|  1|  2| 
+|Brenton Doyle       |DH        |      8|  4|   2|  1|  2| 
 |Jakob Marsee        |DH        |     25|  8|   7|  0|  4| 
 |Lawrence Butler     |DH        |     17|  7|   7|  2|  5| 
 |Kyle Tucker         |BAT BENCH |      2|  2|   0|  0|  0| 

@@ -2,14 +2,14 @@
 
 ## Period 9 scores
 
-Through games on 2025-09-28 ([website build status](https://github.com/brian-bot/pl-site/actions))
+Through games on 2025-09-29 ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 
 |team                   | points|   r| hitsbb| hr| rbi| sb|  w| sv|  so|   era|  whip|
 |:----------------------|------:|---:|------:|--:|---:|--:|--:|--:|---:|-----:|-----:|
 |[Nuclear Arms](./nucleararms)|   62.0| 113|    337| 37| 146| 23|  7|  8| 150| 3.729| 1.097|
 |[Mean Wieners](./meanwieners)|   40.5|  92|    270| 34|  92| 23|  8|  9| 203| 3.966| 1.288|
-|[Terminoeckers](./terminoeckers)|   77.5| 130|    302| 39| 126| 33| 15|  8| 217| 3.687| 1.183|
+|[Terminoeckers](./terminoeckers)|   77.5| 130|    301| 39| 126| 33| 15|  8| 217| 3.687| 1.183|
 |[Vass Deferens](./vassdeferens)|   55.0| 113|    318| 32| 111|  8| 11| 10| 208| 4.214| 1.214|
 |[Washington Generals](./washingtongenerals)|   53.0| 109|    259| 34|  94| 19|  8| 20| 135| 3.225| 0.966|
 |[Bone Pilers](./bonepilers)|   55.5| 109|    308| 37| 100| 17|  9|  7| 202| 3.151| 1.115|
