@@ -49,7 +49,7 @@
 |Zach Eflin            |OP          |  3| 15.333| 14|  8.217|     24| 1.565| 10|  1|  0| 
 |Brandon Woodruff      |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |George Kirby          |PITCH BENCH |  1|  3.667|  5| 12.273|      7| 1.909|  4|  0|  0| 
-|Luis L. Ortiz         |PITCH BENCH |  2| 11.000|  4|  3.273|     15| 1.364| 12|  0|  0| 
+|Luis L. Ortiz         |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 
 
 * * *
