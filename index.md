@@ -2,7 +2,7 @@
 
 ## Period 9 scores
 
-Through games on 2025-11-29 ([website build status](https://github.com/brian-bot/pl-site/actions))
+Through games on 2025-11-30 ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 
 |team                   | points|   r| hitsbb| hr| rbi| sb|  w| sv|  so|   era|  whip|
@@ -30,11 +30,11 @@ Through games on 2025-11-29 ([website build status](https://github.com/brian-bot
 |Terminoeckers          |  6|  2|  1|  625.0|
 |Boys of Summer         |  6|  3|  0|  564.0|
 |T and A                |  6|  3|  0|  558.5|
-|Vass Deferens          |  6|  3|  0|  538.5|
-|Nuclear Arms           |  4|  5|  0|  437.0|
-|Overwhelming Underdogs |  3|  6|  0|  455.5|
-|Washington Generals    |  3|  6|  0|  435.5|
-|Wonderbots             |  2|  7|  0|  371.0|
+|Vass Deferens          |  6|  3|  0|  539.5|
+|Nuclear Arms           |  4|  5|  0|  436.0|
+|Overwhelming Underdogs |  3|  6|  0|  456.0|
+|Washington Generals    |  3|  6|  0|  436.0|
+|Wonderbots             |  2|  7|  0|  370.0|
 |Mean Wieners           |  1|  8|  0|  405.5|
 
 
