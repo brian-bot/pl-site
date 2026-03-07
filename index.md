@@ -2,7 +2,7 @@
 
 ## Period 9 scores
 
-Through games on 2026-03-05 ([website build status](https://github.com/brian-bot/pl-site/actions))
+Through games on 2026-03-06 ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 
 |team                   | points|   r| hitsbb| hr| rbi| sb|  w| sv|  so|   era|  whip|
@@ -26,16 +26,16 @@ Through games on 2026-03-05 ([website build status](https://github.com/brian-bot
 
 |team                   |  w|  l|  t| points|
 |:----------------------|--:|--:|--:|------:|
-|Terminoeckers          |  7|  2|  0|  626.5|
-|Bone Pilers            |  7|  2|  0|  560.0|
-|Boys of Summer         |  6|  3|  0|  566.0|
-|T and A                |  6|  3|  0|  560.0|
-|Vass Deferens          |  6|  3|  0|  542.0|
-|Nuclear Arms           |  4|  5|  0|  441.0|
-|Overwhelming Underdogs |  3|  6|  0|  458.5|
+|Terminoeckers          |  7|  2|  0|  626.0|
+|Bone Pilers            |  7|  2|  0|  560.5|
+|Boys of Summer         |  6|  3|  0|  565.5|
+|T and A                |  6|  3|  0|  560.5|
+|Vass Deferens          |  6|  3|  0|  540.0|
+|Nuclear Arms           |  4|  5|  0|  439.5|
+|Overwhelming Underdogs |  3|  6|  0|  458.0|
 |Washington Generals    |  3|  6|  0|  438.0|
-|Wonderbots             |  2|  7|  0|  350.5|
-|Mean Wieners           |  1|  8|  0|  407.5|
+|Wonderbots             |  2|  7|  0|  355.0|
+|Mean Wieners           |  1|  8|  0|  407.0|
 
 
 
