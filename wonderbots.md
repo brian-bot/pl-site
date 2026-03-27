@@ -5,7 +5,7 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Abrahan Ramirez    |C         |     **| **|  **| **| **| 
+|Agustín Ramírez    |C         |     **| **|  **| **| **| 
 |Salvador Perez     |1B        |     **| **|  **| **| **| 
 |Ceddanne Rafaela   |2B        |      2|  0|   1|  0|  0| 
 |Junior Caminero    |3B        |      5|  1|   0|  0|  0| 
