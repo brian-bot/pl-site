@@ -17,12 +17,12 @@
 |Kyle Schwarber  |OF        |      1|  1|   2|  1|  0| 
 |Oneil Cruz      |OF        |      1|  1|   0|  0|  0| 
 |Bryce Harper    |DH        |      1|  0|   1|  0|  0| 
+|Cole Young      |DH        |      2|  2|   3|  1|  0| 
 |Lane Thomas     |DH        |      2|  0|   0|  0|  0| 
 |Marcell Ozuna   |DH        |      2|  0|   0|  0|  0| 
-|Mickey Moniak   |DH        |     **| **|  **| **| **| 
 |Carlos Correa   |BAT BENCH |      5|  1|   2|  0|  0| 
-|Cole Young      |BAT BENCH |      2|  2|   3|  1|  0| 
 |Kevin McGonigle |BAT BENCH |      6|  2|   4|  0|  0| 
+|Mickey Moniak   |BAT BENCH |     **| **|  **| **| **| 
 
 * * *
 
