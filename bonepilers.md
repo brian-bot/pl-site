@@ -5,23 +5,23 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Drake Baldwin    |C         |      3|  2|   1|  1|  0| 
+|Drake Baldwin    |C         |      5|  3|   2|  2|  0| 
 |Tyler Soderstrom |1B        |      3|  0|   1|  0|  0| 
-|Brandon Lowe     |2B        |      3|  2|   3|  2|  0| 
+|Brandon Lowe     |2B        |      7|  3|   4|  3|  0| 
 |Manny Machado    |3B        |      6|  1|   0|  0|  0| 
 |Jeremy Peña      |SS        |      2|  1|   0|  0|  1| 
-|Luis García Jr.  |MI        |      1|  1|   0|  0|  0| 
+|Luis García Jr.  |MI        |      2|  1|   0|  0|  0| 
 |Kyle Manzardo    |CI        |      3|  0|   1|  0|  0| 
-|Chandler Simpson |OF        |      3|  2|   1|  0|  0| 
+|Chandler Simpson |OF        |      6|  3|   1|  0|  0| 
 |Jackson Merrill  |OF        |      3|  1|   1|  0|  0| 
-|Julio Rodríguez  |OF        |      3|  0|   1|  0|  0| 
-|Yordan Alvarez   |OF        |      6|  2|   1|  1|  0| 
+|Julio Rodríguez  |OF        |      4|  2|   1|  0|  0| 
+|Yordan Alvarez   |OF        |     10|  3|   2|  1|  1| 
 |Carson Benge     |DH        |      3|  2|   1|  1|  1| 
-|Ian Happ         |DH        |      2|  1|   3|  1|  0| 
-|Nolan Schanuel   |DH        |      6|  2|   4|  2|  0| 
-|Sal Frelick      |DH        |      3|  2|   2|  1|  0| 
-|Chase DeLauter   |BAT BENCH |      5|  5|   5|  4|  0| 
-|Victor Scott II  |BAT BENCH |      3|  2|   0|  0|  2| 
+|Ian Happ         |DH        |      4|  2|   4|  2|  0| 
+|Nolan Schanuel   |DH        |      9|  3|   5|  2|  0| 
+|Sal Frelick      |DH        |      6|  3|   2|  1|  0| 
+|Chase DeLauter   |BAT BENCH |      6|  5|   5|  4|  0| 
+|Victor Scott II  |BAT BENCH |      5|  2|   0|  0|  2| 
 
 * * *
 
@@ -42,8 +42,8 @@
 |Cody Ponce           |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Kyle Harrison        |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Parker Messick       |OP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Seranthony Domínguez |OP          |  1| 1.000|  0|  0.000|      1| 1.000|  0|  0|  0| 
-|Brandon Sproat       |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Seranthony Domínguez |OP          |  2| 1.333|  2| 13.500|      4| 3.000|  0|  0|  0| 
+|Brandon Sproat       |PITCH BENCH |  1| 3.000|  7| 21.000|     10| 3.333|  3|  0|  0| 
 |Hunter Greene        |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Jameson Taillon      |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Konnor Griffin       |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 

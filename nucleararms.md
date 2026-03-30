@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Shea Langeliers   |C         |      6|  3|   6|  3|  0| 
-|Yandy Díaz        |1B        |      5|  1|   1|  0|  0| 
-|Ozzie Albies      |2B        |      3|  2|   1|  1|  0| 
+|Shea Langeliers   |C         |      7|  3|   6|  3|  0| 
+|Yandy Díaz        |1B        |     10|  3|   5|  0|  0| 
+|Ozzie Albies      |2B        |      5|  2|   1|  1|  0| 
 |Austin Riley      |3B        |      5|  1|   0|  0|  0| 
-|Gunnar Henderson  |SS        |      1|  0|   0|  0|  1| 
-|Colson Montgomery |MI        |      2|  0|   0|  0|  0| 
-|Pete Alonso       |CI        |      2|  0|   0|  0|  0| 
-|Bryan Reynolds    |OF        |      4|  1|   1|  0|  0| 
-|Luis Robert Jr.   |OF        |      5|  2|   5|  1|  0| 
+|Gunnar Henderson  |SS        |      3|  1|   0|  0|  1| 
+|Colson Montgomery |MI        |      5|  1|   5|  1|  0| 
+|Pete Alonso       |CI        |      5|  1|   1|  0|  0| 
+|Bryan Reynolds    |OF        |      4|  2|   1|  0|  0| 
+|Luis Robert Jr.   |OF        |      8|  3|   5|  1|  0| 
 |Ronald Acuña Jr.  |OF        |      2|  0|   0|  0|  0| 
 |Teoscar Hernández |OF        |      1|  1|   0|  0|  0| 
 |Alejandro Kirk    |DH        |      2|  2|   1|  1|  0| 
-|Cedric Mullins    |DH        |      0|  0|   0|  0|  0| 
+|Cedric Mullins    |DH        |      1|  0|   2|  0|  0| 
 |Giancarlo Stanton |DH        |      6|  2|   2|  1|  0| 
-|Marcus Semien     |DH        |      3|  0|   1|  0|  0| 
+|Marcus Semien     |DH        |      3|  0|   2|  0|  0| 
 |Anthony Volpe     |BAT BENCH |     **| **|  **| **| **| 
 |Colt Keith        |BAT BENCH |      6|  2|   0|  0|  0| 
 |Jackson Holliday  |BAT BENCH |     **| **|  **| **| **| 
@@ -37,13 +37,13 @@
 |George Kirby     |SP          |  1| 6.000|  1|   1.500|      4|  0.667|  6|  1|  0| 
 |Sandy Alcantara  |SP          |  1| 7.000|  0|   0.000|      6|  0.857|  5|  1|  0| 
 |Taj Bradley      |SP          |  1| 4.333|  1|   2.077|      6|  1.385|  9|  0|  0| 
-|Tatsuya Imai     |SP          | **|    **| **|      **|     **|     **| **| **| **| 
+|Tatsuya Imai     |SP          |  1| 2.667|  4|  13.500|      7|  2.625|  4|  0|  0| 
 |Tyler Glasnow    |SP          |  1| 6.000|  2|   3.000|      5|  0.833|  6|  0|  0| 
 |Abner Uribe      |RP          |  1| 1.000|  0|   0.000|      0|  0.000|  2|  0|  0| 
 |Carlos Estévez   |RP          |  1| 0.333|  6| 162.000|      6| 18.000|  0|  0|  0| 
 |Brayan Bello     |OP          | **|    **| **|      **|     **|     **| **| **| **| 
 |Justin Verlander |OP          | **|    **| **|      **|     **|     **| **| **| **| 
-|Max Meyer        |OP          | **|    **| **|      **|     **|     **| **| **| **| 
+|Max Meyer        |OP          |  1| 5.000|  3|   5.400|      7|  1.400|  5|  0|  0| 
 |Roki Sasaki      |OP          | **|    **| **|      **|     **|     **| **| **| **| 
 |Yusei Kikuchi    |OP          |  1| 4.333|  2|   4.154|      9|  2.077|  3|  0|  0| 
 |Josh Hader       |PITCH BENCH | **|    **| **|      **|     **|     **| **| **| **| 
