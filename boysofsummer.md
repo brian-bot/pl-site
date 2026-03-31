@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras |C         |      6|  2|   3|  0|  0| 
+|William Contreras |C         |      8|  3|   5|  1|  0| 
 |Nick Kurtz        |1B        |      5|  3|   0|  0|  1| 
-|Ketel Marte       |2B        |      4|  1|   1|  1|  0| 
+|Ketel Marte       |2B        |      6|  2|   2|  1|  0| 
 |Noelvi Marte      |3B        |      0|  0|   0|  0|  0| 
-|Trea Turner       |SS        |      3|  3|   0|  0|  0| 
-|Otto Lopez        |MI        |      4|  1|   1|  0|  1| 
+|Trea Turner       |SS        |      4|  3|   0|  0|  0| 
+|Otto Lopez        |MI        |      6|  1|   1|  0|  1| 
 |Royce Lewis       |CI        |      4|  3|   3|  2|  1| 
-|Brenton Doyle     |OF        |      1|  0|   0|  0|  1| 
+|Brenton Doyle     |OF        |      3|  2|   0|  0|  1| 
 |Byron Buxton      |OF        |      5|  2|   0|  0|  0| 
 |Michael Harris II |OF        |      4|  2|   3|  1|  0| 
-|Riley Greene      |OF        |      3|  2|   1|  0|  0| 
+|Riley Greene      |OF        |      5|  3|   2|  0|  0| 
 |Heliot Ramos      |DH        |      4|  0|   0|  0|  0| 
-|Iván Herrera      |DH        |      1|  0|   2|  0|  0| 
+|Iván Herrera      |DH        |      2|  0|   2|  0|  0| 
 |Jacob Wilson      |DH        |      2|  1|   0|  0|  0| 
-|Yainer Diaz       |DH        |      3|  1|   2|  0|  0| 
+|Yainer Diaz       |DH        |      4|  1|   3|  0|  0| 
 |Bryce Eldridge    |BAT BENCH |     **| **|  **| **| **| 
-|Gabriel Moreno    |BAT BENCH |      2|  1|   0|  0|  0| 
+|Gabriel Moreno    |BAT BENCH |      5|  2|   1|  0|  0| 
 
 
 * * *
@@ -32,7 +32,7 @@
 |players         |position    |  g|    ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:---------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
 |Cade Horton     |SP          |  1| 6.333|  2|  2.842|      5| 0.789|  4|  1|  0| 
-|Luis Castillo   |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Luis Castillo   |SP          |  1| 6.000|  0|  0.000|      4| 0.667|  7|  0|  0| 
 |MacKenzie Gore  |SP          |  1| 5.333|  2|  3.375|      5| 0.938|  7|  1|  0| 
 |Nick Pivetta    |SP          |  1| 3.000|  6| 18.000|     10| 3.333|  4|  0|  0| 
 |Nolan McLean    |SP          |  1| 5.000|  2|  3.600|      6| 1.200|  8|  0|  0| 

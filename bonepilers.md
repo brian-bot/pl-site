@@ -5,22 +5,22 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Drake Baldwin    |C         |      5|  3|   2|  2|  0| 
-|Tyler Soderstrom |1B        |      3|  0|   1|  0|  0| 
-|Brandon Lowe     |2B        |      7|  3|   4|  3|  0| 
+|Drake Baldwin    |C         |      6|  4|   2|  2|  0| 
+|Tyler Soderstrom |1B        |      5|  0|   1|  0|  0| 
+|Brandon Lowe     |2B        |     10|  3|   4|  3|  0| 
 |Manny Machado    |3B        |      6|  1|   0|  0|  0| 
 |Jeremy Peña      |SS        |      2|  1|   0|  0|  1| 
-|Luis García Jr.  |MI        |      2|  1|   0|  0|  0| 
+|Luis García Jr.  |MI        |      4|  2|   3|  0|  0| 
 |Kyle Manzardo    |CI        |      3|  0|   1|  0|  0| 
-|Chandler Simpson |OF        |      6|  3|   1|  0|  0| 
-|Jackson Merrill  |OF        |      3|  1|   1|  0|  0| 
+|Chandler Simpson |OF        |      7|  3|   1|  0|  1| 
+|Jackson Merrill  |OF        |      4|  2|   3|  1|  0| 
 |Julio Rodríguez  |OF        |      4|  2|   1|  0|  0| 
-|Yordan Alvarez   |OF        |     10|  3|   2|  1|  1| 
-|Carson Benge     |DH        |      3|  2|   1|  1|  1| 
-|Ian Happ         |DH        |      4|  2|   4|  2|  0| 
-|Nolan Schanuel   |DH        |      9|  3|   5|  2|  0| 
-|Sal Frelick      |DH        |      6|  3|   2|  1|  0| 
-|Chase DeLauter   |BAT BENCH |      6|  5|   5|  4|  0| 
+|Yordan Alvarez   |OF        |     12|  4|   4|  2|  1| 
+|Carson Benge     |DH        |      5|  3|   1|  1|  2| 
+|Ian Happ         |DH        |      6|  4|   5|  3|  0| 
+|Nolan Schanuel   |DH        |     11|  3|   5|  2|  0| 
+|Sal Frelick      |DH        |      7|  3|   2|  1|  0| 
+|Chase DeLauter   |BAT BENCH |      7|  5|   5|  4|  0| 
 |Victor Scott II  |BAT BENCH |      5|  2|   0|  0|  2| 
 
 * * *
@@ -38,10 +38,10 @@
 |Shane Smith          |SP          |  1| 1.667|  3| 16.200|      5| 3.000|  2|  0|  0| 
 |Andrés Muñoz         |RP          |  2| 2.000|  2|  9.000|      3| 1.500|  3|  0|  0| 
 |Kenley Jansen        |RP          |  1| 1.000|  0|  0.000|      0| 0.000|  3|  0|  1| 
-|Chase Burns          |OP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Cody Ponce           |OP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Kyle Harrison        |OP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Parker Messick       |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Chase Burns          |OP          |  1| 5.000|  0|  0.000|      4| 0.800|  7|  1|  0| 
+|Cody Ponce           |OP          |  1| 2.333|  1|  3.857|      2| 0.857|  3|  0|  0| 
+|Kyle Harrison        |OP          |  1| 5.000|  1|  1.800|      5| 1.000|  8|  0|  0| 
+|Parker Messick       |OP          |  1| 6.000|  0|  0.000|      5| 0.833|  5|  1|  0| 
 |Seranthony Domínguez |OP          |  2| 1.333|  2| 13.500|      4| 3.000|  0|  0|  0| 
 |Brandon Sproat       |PITCH BENCH |  1| 3.000|  7| 21.000|     10| 3.333|  3|  0|  0| 
 |Hunter Greene        |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
