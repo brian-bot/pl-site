@@ -5,19 +5,19 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Drake Baldwin    |C         |      8|  5|   3|  3|  0| 
+|Drake Baldwin    |C         |     11|  6|   7|  3|  0| 
 |Tyler Soderstrom |1B        |      5|  0|   1|  0|  0| 
 |Brandon Lowe     |2B        |     10|  3|   4|  3|  0| 
-|Manny Machado    |3B        |      8|  2|   0|  0|  0| 
+|Manny Machado    |3B        |     10|  3|   0|  0|  0| 
 |Jeremy Peña      |SS        |      3|  2|   0|  0|  1| 
-|Luis García Jr.  |MI        |      4|  2|   3|  0|  0| 
+|Luis García Jr.  |MI        |      5|  2|   3|  0|  0| 
 |Kyle Manzardo    |CI        |      5|  1|   1|  0|  0| 
-|Chandler Simpson |OF        |      9|  3|   1|  0|  2| 
-|Jackson Merrill  |OF        |      6|  3|   4|  1|  0| 
+|Chandler Simpson |OF        |     12|  3|   1|  0|  2| 
+|Jackson Merrill  |OF        |      7|  4|   4|  1|  0| 
 |Julio Rodríguez  |OF        |      6|  2|   1|  0|  0| 
-|Yordan Alvarez   |OF        |     15|  6|   6|  3|  1| 
+|Yordan Alvarez   |OF        |     18|  8|   6|  3|  1| 
 |Carson Benge     |DH        |      5|  3|   1|  1|  2| 
-|Ian Happ         |DH        |      8|  4|   5|  3|  0| 
+|Ian Happ         |DH        |      9|  5|   5|  3|  0| 
 |Nolan Schanuel   |DH        |     11|  3|   5|  2|  0| 
 |Sal Frelick      |DH        |      8|  3|   2|  1|  0| 
 |Chase DeLauter   |BAT BENCH |      7|  5|   5|  4|  0| 
@@ -31,11 +31,11 @@
 |players              |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:--------------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Eury Pérez           |SP          |  1|  7.000|  3|  3.857|      6| 0.857|  8|  0|  0| 
-|Freddy Peralta       |SP          |  1|  5.000|  4|  7.200|      6| 1.200|  7|  1|  0| 
-|Garrett Crochet      |SP          |  1|  6.000|  0|  0.000|      5| 0.833|  8|  1|  0| 
+|Freddy Peralta       |SP          |  2| 10.333|  5|  4.355|     11| 1.065| 14|  1|  0| 
+|Garrett Crochet      |SP          |  2| 11.000|  4|  3.273|     11| 1.000| 15|  1|  0| 
 |Hunter Brown         |SP          |  2| 10.667|  1|  0.844|     11| 1.031| 17|  1|  0| 
-|Kevin Gausman        |SP          |  1|  6.000|  1|  1.500|      1| 0.167| 11|  0|  0| 
-|Shane Smith          |SP          |  1|  1.667|  3| 16.200|      5| 3.000|  2|  0|  0| 
+|Kevin Gausman        |SP          |  2| 12.000|  1|  0.750|      3| 0.250| 21|  0|  0| 
+|Shane Smith          |SP          |  2|  4.667| 10| 19.286|     15| 3.214|  3|  0|  0| 
 |Andrés Muñoz         |RP          |  2|  2.000|  2|  9.000|      3| 1.500|  3|  0|  0| 
 |Kenley Jansen        |RP          |  2|  1.333|  1|  6.750|      1| 0.750|  4|  0|  1| 
 |Chase Burns          |OP          |  1|  5.000|  0|  0.000|      4| 0.800|  7|  1|  0| 
