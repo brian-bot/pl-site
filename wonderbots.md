@@ -6,7 +6,7 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Agustín Ramírez    |C         |      7|  2|   0|  0|  1| 
-|Salvador Perez     |1B        |      5|  2|   1|  1|  0| 
+|Salvador Perez     |1B        |      6|  2|   1|  1|  0| 
 |Ceddanne Rafaela   |2B        |      5|  2|   2|  1|  0| 
 |Junior Caminero    |3B        |     11|  2|   0|  0|  0| 
 |Zach Neto          |SS        |     13|  7|   3|  2|  1| 

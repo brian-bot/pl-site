@@ -6,15 +6,15 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith       |C         |      4|  3|   5|  2|  0| 
-|Rafael Devers    |1B        |      8|  1|   0|  0|  0| 
-|Maikel Garcia    |2B        |      9|  2|   3|  0|  1| 
-|Matt Chapman     |3B        |      7|  3|   2|  1|  0| 
-|Francisco Lindor |SS        |     11|  5|   0|  0|  0| 
+|Rafael Devers    |1B        |     10|  2|   1|  1|  0| 
+|Maikel Garcia    |2B        |     11|  3|   3|  0|  1| 
+|Matt Chapman     |3B        |      9|  4|   3|  1|  0| 
+|Francisco Lindor |SS        |     13|  5|   0|  0|  0| 
 |Xavier Edwards   |MI        |     10|  6|   0|  0|  1| 
 |Alex Bregman     |CI        |      9|  2|   3|  2|  0| 
 |George Springer  |OF        |      7|  2|   3|  2|  0| 
 |Jakob Marsee     |OF        |      6|  3|   2|  0|  1| 
-|Juan Soto        |OF        |     12|  2|   5|  1|  0| 
+|Juan Soto        |OF        |     13|  3|   5|  1|  0| 
 |Roman Anthony    |OF        |      8|  2|   2|  1|  0| 
 |Brendan Donovan  |DH        |     16|  4|   4|  2|  1| 
 |Christian Walker |DH        |     11|  3|   7|  0|  0| 
@@ -46,7 +46,7 @@
 |Grayson Rodriguez  |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Merrill Kelly      |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Michael Soroka     |PITCH BENCH |  1|  5.000|  0|  0.000|      5| 1.000| 10|  1|  0| 
-|Sean Manaea        |PITCH BENCH |  1|  1.333|  0|  0.000|      3| 2.250|  2|  0|  0| 
+|Sean Manaea        |PITCH BENCH |  2|  5.000|  1|  1.800|      9| 1.800|  4|  0|  0| 
 |Victor Vodnik      |PITCH BENCH |  2|  2.000|  2|  9.000|      4| 2.000|  1|  0|  0| 
 
 

@@ -9,7 +9,7 @@
 |Ben Rice          |1B        |     11|  6|   5|  1|  0| 
 |Jazz Chisholm Jr. |2B        |      5|  1|   1|  0|  2| 
 |Isaac Paredes     |3B        |      9|  4|   5|  0|  0| 
-|Bo Bichette       |SS        |      4|  1|   3|  0|  0| 
+|Bo Bichette       |SS        |      5|  1|   4|  0|  0| 
 |Matt McLain       |MI        |     10|  2|   1|  0|  0| 
 |Alec Burleson     |CI        |     10|  3|   5|  1|  1| 
 |Andy Pages        |OF        |      9|  1|   5|  1|  0| 
@@ -20,8 +20,8 @@
 |Shohei Ohtani     |DH        |     11|  2|   0|  0|  0| 
 |Steven Kwan       |DH        |     10|  2|   2|  0|  1| 
 |Wilyer Abreu      |DH        |     10|  3|   6|  3|  0| 
-|Isaac Collins     |BAT BENCH |      5|  3|   2|  1|  0| 
-|Jung Hoo Lee      |BAT BENCH |      7|  2|   3|  0|  0| 
+|Isaac Collins     |BAT BENCH |      7|  3|   2|  1|  0| 
+|Jung Hoo Lee      |BAT BENCH |      8|  3|   4|  0|  0| 
 |TJ Friedl         |BAT BENCH |      7|  2|   0|  0|  1| 
 |Willi Castro      |BAT BENCH |      5|  4|   2|  0|  0| 
 
@@ -33,7 +33,7 @@
  
 |players            |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:------------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Cole Ragans        |SP          |  1|  4.000|  4|  9.000|     10| 2.500|  5|  0|  0| 
+|Cole Ragans        |SP          |  2| 10.000|  4|  3.600|     15| 1.500| 13|  0|  0| 
 |Edward Cabrera     |SP          |  1|  6.000|  0|  0.000|      2| 0.333|  5|  1|  0| 
 |Matthew Boyd       |SP          |  2|  9.333|  7|  6.750|     11| 1.179| 17|  1|  0| 
 |Michael King       |SP          |  1|  5.000|  0|  0.000|      5| 1.000|  6|  0|  0| 

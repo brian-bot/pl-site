@@ -5,7 +5,7 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Drake Baldwin    |C         |     11|  6|   7|  3|  0| 
+|Drake Baldwin    |C         |     12|  9|   8|  3|  0| 
 |Tyler Soderstrom |1B        |      5|  0|   1|  0|  0| 
 |Brandon Lowe     |2B        |     10|  3|   4|  3|  0| 
 |Manny Machado    |3B        |     10|  3|   0|  0|  0| 

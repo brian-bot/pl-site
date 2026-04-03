@@ -11,17 +11,17 @@
 |Noelvi Marte      |3B        |      2|  1|   0|  0|  0| 
 |Trea Turner       |SS        |      7|  5|   0|  0|  1| 
 |Otto Lopez        |MI        |     10|  5|   2|  1|  1| 
-|Royce Lewis       |CI        |      5|  5|   3|  2|  1| 
+|Royce Lewis       |CI        |      6|  5|   3|  2|  1| 
 |Brenton Doyle     |OF        |      5|  3|   0|  0|  1| 
-|Byron Buxton      |OF        |      5|  2|   0|  0|  0| 
-|Michael Harris II |OF        |      5|  2|   3|  1|  0| 
+|Byron Buxton      |OF        |      5|  2|   1|  0|  0| 
+|Michael Harris II |OF        |      7|  3|   5|  1|  0| 
 |Riley Greene      |OF        |      7|  4|   4|  0|  0| 
-|Heliot Ramos      |DH        |      6|  1|   2|  0|  0| 
+|Heliot Ramos      |DH        |      7|  3|   2|  0|  0| 
 |Iván Herrera      |DH        |      8|  0|   4|  0|  0| 
 |Jacob Wilson      |DH        |      5|  1|   2|  0|  0| 
 |Yainer Diaz       |DH        |      4|  1|   3|  0|  0| 
 |Bryce Eldridge    |BAT BENCH |     **| **|  **| **| **| 
-|Gabriel Moreno    |BAT BENCH |      6|  2|   2|  0|  0| 
+|Gabriel Moreno    |BAT BENCH |      7|  3|   2|  0|  0| 
 
 
 * * *

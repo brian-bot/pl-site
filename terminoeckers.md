@@ -11,13 +11,13 @@
 |Eugenio Suárez    |3B        |      6|  3|   6|  2|  0| 
 |Elly De La Cruz   |SS        |      8|  3|   2|  2|  0| 
 |Trevor Story      |MI        |      4|  1|   2|  1|  0| 
-|Jac Caglianone    |CI        |      7|  3|   0|  0|  0| 
+|Jac Caglianone    |CI        |      8|  3|   0|  0|  0| 
 |Addison Barger    |OF        |      2|  0|   2|  0|  0| 
 |Brandon Nimmo     |OF        |     12|  6|   4|  1|  1| 
 |Kyle Tucker       |OF        |      6|  4|   2|  0|  2| 
 |Wyatt Langford    |OF        |      4|  2|   1|  0|  0| 
 |Carter Jensen     |DH        |      3|  1|   2|  1|  0| 
-|Dansby Swanson    |DH        |      7|  2|   3|  0|  0| 
+|Dansby Swanson    |DH        |      8|  2|   3|  0|  0| 
 |Jake Burger       |DH        |     10|  5|   6|  2|  0| 
 |Kazuma Okamoto    |DH        |     10|  4|   3|  2|  0| 
 |Kyle Stowers      |BAT BENCH |     **| **|  **| **| **| 
@@ -41,7 +41,7 @@
 |Bryan Abreu        |OP          |  3|  2.333|  5| 19.286|      6| 2.571|  6|  0|  1| 
 |Matthew Liberatore |OP          |  2| 11.000|  2|  1.636|     13| 1.182|  4|  0|  0| 
 |Robert Suarez      |OP          |  3|  3.000|  0|  0.000|      4| 1.333|  2|  0|  0| 
-|Ryne Nelson        |OP          |  1|  4.667|  4|  7.714|      5| 1.071|  4|  0|  0| 
+|Ryne Nelson        |OP          |  2|  9.333|  6|  5.786|     11| 1.179|  7|  0|  0| 
 |Slade Cecconi      |OP          |  1|  4.333|  6| 12.462|      9| 2.077|  5|  0|  0| 
 |Andrew Painter     |PITCH BENCH |  1|  5.333|  1|  1.688|      5| 0.938|  8|  1|  0| 
 |Bryce Miller       |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
