@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Shea Langeliers   |C         |     10|  5|   8|  5|  0| 
-|Yandy Díaz        |1B        |     13|  5|   8|  2|  0| 
-|Ozzie Albies      |2B        |     11|  5|   2|  1|  0| 
+|Shea Langeliers   |C         |     12|  6|   8|  5|  0| 
+|Yandy Díaz        |1B        |     16|  6|   8|  2|  0| 
+|Ozzie Albies      |2B        |     14|  6|   3|  2|  0| 
 |Austin Riley      |3B        |     10|  2|   2|  0|  0| 
-|Gunnar Henderson  |SS        |      7|  2|   4|  1|  1| 
-|Colson Montgomery |MI        |      6|  1|   5|  1|  0| 
-|Pete Alonso       |CI        |     10|  3|   2|  1|  0| 
-|Bryan Reynolds    |OF        |      7|  5|   4|  2|  0| 
-|Luis Robert Jr.   |OF        |     12|  3|   5|  1|  0| 
-|Ronald Acuña Jr.  |OF        |     10|  1|   2|  0|  1| 
-|Teoscar Hernández |OF        |      5|  1|   1|  0|  0| 
-|Alejandro Kirk    |DH        |      4|  2|   1|  1|  0| 
-|Cedric Mullins    |DH        |      2|  0|   2|  0|  0| 
+|Gunnar Henderson  |SS        |     10|  4|   6|  2|  1| 
+|Colson Montgomery |MI        |      8|  2|   5|  1|  1| 
+|Pete Alonso       |CI        |     11|  3|   2|  1|  0| 
+|Bryan Reynolds    |OF        |      8|  6|   4|  2|  0| 
+|Luis Robert Jr.   |OF        |     15|  4|   6|  1|  0| 
+|Ronald Acuña Jr.  |OF        |     11|  1|   2|  0|  2| 
+|Teoscar Hernández |OF        |      8|  4|   2|  0|  0| 
+|Alejandro Kirk    |DH        |      5|  2|   2|  1|  0| 
+|Cedric Mullins    |DH        |      3|  0|   3|  0|  0| 
 |Giancarlo Stanton |DH        |     10|  2|   4|  1|  0| 
-|Marcus Semien     |DH        |      7|  0|   2|  0|  0| 
+|Marcus Semien     |DH        |     10|  1|   5|  1|  0| 
 |Anthony Volpe     |BAT BENCH |     **| **|  **| **| **| 
 |Colt Keith        |BAT BENCH |     10|  4|   2|  0|  0| 
 |Jackson Holliday  |BAT BENCH |     **| **|  **| **| **| 
@@ -33,7 +33,7 @@
  
 |players          |position    |  g|     ip| er|     era| hitsbb|   whip| so|  w| sv| 
 |:----------------|:-----------|--:|------:|--:|-------:|------:|------:|--:|--:|--:| 
-|Dylan Cease      |SP          |  1|  5.333|  1|   1.688|      5|  0.938| 12|  0|  0| 
+|Dylan Cease      |SP          |  2|  9.667|  3|   2.793|     13|  1.345| 18|  0|  0| 
 |George Kirby     |SP          |  2| 12.000|  5|   3.750|     12|  1.000| 12|  1|  0| 
 |Sandy Alcantara  |SP          |  2| 16.000|  0|   0.000|      9|  0.562| 12|  2|  0| 
 |Taj Bradley      |SP          |  2| 10.333|  1|   0.871|     12|  1.161| 12|  1|  0| 
