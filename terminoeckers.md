@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Hunter Goodman    |C         |      9|  4|   2|  1|  0| 
-|Willson Contreras |1B        |     12|  3|   2|  1|  0| 
-|Brice Turang      |2B        |     15|  7|   6|  1|  2| 
-|Eugenio Suárez    |3B        |      8|  4|   6|  2|  0| 
-|Elly De La Cruz   |SS        |     10|  5|   4|  3|  0| 
-|Trevor Story      |MI        |      4|  1|   2|  1|  0| 
+|Hunter Goodman    |C         |     11|  5|   2|  1|  0| 
+|Willson Contreras |1B        |     13|  4|   2|  1|  0| 
+|Brice Turang      |2B        |     17|  8|   6|  1|  3| 
+|Eugenio Suárez    |3B        |     10|  4|   7|  2|  0| 
+|Elly De La Cruz   |SS        |     12|  6|   5|  3|  1| 
+|Trevor Story      |MI        |      5|  1|   2|  1|  0| 
 |Jac Caglianone    |CI        |     12|  3|   0|  0|  0| 
 |Addison Barger    |OF        |      4|  1|   2|  0|  0| 
-|Brandon Nimmo     |OF        |     17|  7|   4|  1|  1| 
-|Kyle Tucker       |OF        |     13|  8|   5|  1|  2| 
-|Wyatt Langford    |OF        |      6|  2|   2|  0|  0| 
+|Brandon Nimmo     |OF        |     19|  7|   4|  1|  1| 
+|Kyle Tucker       |OF        |     13|  8|   6|  1|  2| 
+|Wyatt Langford    |OF        |      6|  2|   2|  0|  1| 
 |Carter Jensen     |DH        |      6|  2|   4|  1|  0| 
-|Dansby Swanson    |DH        |      8|  2|   3|  0|  0| 
-|Jake Burger       |DH        |     13|  5|   6|  2|  0| 
-|Kazuma Okamoto    |DH        |     12|  4|   3|  2|  0| 
+|Dansby Swanson    |DH        |      9|  3|   5|  1|  0| 
+|Jake Burger       |DH        |     14|  5|   6|  2|  0| 
+|Kazuma Okamoto    |DH        |     13|  4|   3|  2|  0| 
 |Kyle Stowers      |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -37,12 +37,12 @@
 |Drew Rasmussen     |SP          |  2| 10.000|  2|  1.800|      7| 0.700| 10|  0|  0| 
 |Kyle Bradish       |SP          |  2|  8.667|  6|  6.231|     14| 1.615| 10|  0|  0| 
 |Aroldis Chapman    |RP          |  4|  4.000|  1|  2.250|      3| 0.750|  3|  0|  2| 
-|Daniel Palencia    |RP          |  2|  2.000|  0|  0.000|      3| 1.500|  2|  0|  0| 
-|Bryan Abreu        |OP          |  3|  2.333|  5| 19.286|      6| 2.571|  6|  0|  1| 
+|Daniel Palencia    |RP          |  3|  3.000|  0|  0.000|      3| 1.000|  3|  0|  1| 
+|Bryan Abreu        |OP          |  4|  2.667|  7| 23.625|      9| 3.375|  6|  0|  1| 
 |Matthew Liberatore |OP          |  2| 11.000|  2|  1.636|     13| 1.182|  4|  0|  0| 
-|Robert Suarez      |OP          |  4|  4.000|  0|  0.000|      4| 1.000|  2|  1|  0| 
+|Robert Suarez      |OP          |  5|  5.000|  0|  0.000|      4| 0.800|  5|  1|  0| 
 |Ryne Nelson        |OP          |  2|  9.333|  6|  5.786|     11| 1.179|  7|  0|  0| 
-|Slade Cecconi      |OP          |  1|  4.333|  6| 12.462|      9| 2.077|  5|  0|  0| 
+|Slade Cecconi      |OP          |  2| 10.333|  6|  5.226|     11| 1.065| 11|  0|  0| 
 |Andrew Painter     |PITCH BENCH |  1|  5.333|  1|  1.688|      5| 0.938|  8|  1|  0| 
 |Bryce Miller       |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Cade Cavalli       |PITCH BENCH |  2|  9.667|  3|  2.793|     13| 1.345|  8|  0|  0| 
