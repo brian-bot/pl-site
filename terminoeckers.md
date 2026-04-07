@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Hunter Goodman    |C         |     11|  5|   2|  1|  0| 
-|Willson Contreras |1B        |     13|  4|   2|  1|  0| 
-|Brice Turang      |2B        |     17|  8|   6|  1|  3| 
+|Hunter Goodman    |C         |     12|  6|   3|  1|  0| 
+|Willson Contreras |1B        |     18|  5|   4|  2|  0| 
+|Brice Turang      |2B        |     19| 10|   7|  1|  4| 
 |Eugenio Suárez    |3B        |     10|  4|   7|  2|  0| 
-|Elly De La Cruz   |SS        |     12|  6|   5|  3|  1| 
-|Trevor Story      |MI        |      5|  1|   2|  1|  0| 
-|Jac Caglianone    |CI        |     12|  3|   0|  0|  0| 
+|Elly De La Cruz   |SS        |     14|  7|   5|  3|  1| 
+|Trevor Story      |MI        |      6|  1|   4|  1|  0| 
+|Jac Caglianone    |CI        |     13|  3|   0|  0|  0| 
 |Addison Barger    |OF        |      4|  1|   2|  0|  0| 
-|Brandon Nimmo     |OF        |     19|  7|   4|  1|  1| 
-|Kyle Tucker       |OF        |     13|  8|   6|  1|  2| 
-|Wyatt Langford    |OF        |      6|  2|   2|  0|  1| 
-|Carter Jensen     |DH        |      6|  2|   4|  1|  0| 
-|Dansby Swanson    |DH        |      9|  3|   5|  1|  0| 
-|Jake Burger       |DH        |     14|  5|   6|  2|  0| 
-|Kazuma Okamoto    |DH        |     13|  4|   3|  2|  0| 
+|Brandon Nimmo     |OF        |     20|  7|   4|  1|  1| 
+|Kyle Tucker       |OF        |     16| 11|   7|  1|  3| 
+|Wyatt Langford    |OF        |      7|  3|   2|  0|  1| 
+|Carter Jensen     |DH        |      8|  4|   5|  2|  0| 
+|Dansby Swanson    |DH        |     10|  4|   5|  1|  0| 
+|Jake Burger       |DH        |     15|  5|   7|  2|  0| 
+|Kazuma Okamoto    |DH        |     15|  4|   3|  2|  0| 
 |Kyle Stowers      |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -31,7 +31,7 @@
 |players            |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:------------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Bryan Woo          |SP          |  2| 13.000|  2|  1.385|      7| 0.538| 15|  0|  0| 
-|Bubba Chandler     |SP          |  1|  4.333|  0|  0.000|      6| 1.385|  6|  0|  0| 
+|Bubba Chandler     |SP          |  2|  8.667|  3|  3.115|     15| 1.731| 10|  0|  0| 
 |Cam Schlittler     |SP          |  2| 11.667|  0|  0.000|      3| 0.257| 15|  2|  0| 
 |Connelly Early     |SP          |  2|  9.333|  3|  2.893|     14| 1.500| 10|  0|  0| 
 |Drew Rasmussen     |SP          |  2| 10.000|  2|  1.800|      7| 0.700| 10|  0|  0| 
@@ -43,7 +43,7 @@
 |Robert Suarez      |OP          |  5|  5.000|  0|  0.000|      4| 0.800|  5|  1|  0| 
 |Ryne Nelson        |OP          |  2|  9.333|  6|  5.786|     11| 1.179|  7|  0|  0| 
 |Slade Cecconi      |OP          |  2| 10.333|  6|  5.226|     11| 1.065| 11|  0|  0| 
-|Andrew Painter     |PITCH BENCH |  1|  5.333|  1|  1.688|      5| 0.938|  8|  1|  0| 
+|Andrew Painter     |PITCH BENCH |  2|  9.333|  5|  4.821|     15| 1.607|  9|  1|  0| 
 |Bryce Miller       |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Cade Cavalli       |PITCH BENCH |  2|  9.667|  3|  2.793|     13| 1.345|  8|  0|  0| 
 |Dustin May         |PITCH BENCH |  2|  7.333| 13| 15.955|     20| 2.727|  7|  0|  0| 

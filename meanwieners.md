@@ -10,20 +10,20 @@
 |Jazz Chisholm Jr. |2B        |      9|  2|   3|  0|  4| 
 |Isaac Paredes     |3B        |      9|  4|   5|  0|  0| 
 |Bo Bichette       |SS        |     11|  4|   6|  0|  0| 
-|Matt McLain       |MI        |     15|  4|   1|  0|  1| 
-|Alec Burleson     |CI        |     14|  4|   6|  1|  1| 
-|Andy Pages        |OF        |     18|  6|  10|  3|  1| 
+|Matt McLain       |MI        |     16|  4|   1|  0|  1| 
+|Alec Burleson     |CI        |     15|  4|   7|  1|  1| 
+|Andy Pages        |OF        |     20|  6|  12|  3|  1| 
 |Brent Rooker      |OF        |     10|  4|   7|  2|  0| 
-|Jo Adell          |OF        |     11|  4|   3|  0|  0| 
-|Randy Arozarena   |OF        |     20|  9|   3|  0|  2| 
-|Caleb Durbin      |DH        |      4|  0|   1|  0|  0| 
-|Shohei Ohtani     |DH        |     17|  5|   6|  2|  0| 
-|Steven Kwan       |DH        |     13|  4|   2|  0|  1| 
-|Wilyer Abreu      |DH        |     16|  6|   7|  3|  0| 
+|Jo Adell          |OF        |     13|  5|   5|  1|  0| 
+|Randy Arozarena   |OF        |     21|  9|   3|  0|  2| 
+|Caleb Durbin      |DH        |      6|  1|   1|  0|  0| 
+|Shohei Ohtani     |DH        |     19|  7|   7|  3|  0| 
+|Steven Kwan       |DH        |     15|  5|   3|  1|  1| 
+|Wilyer Abreu      |DH        |     17|  6|   8|  3|  0| 
 |Isaac Collins     |BAT BENCH |     11|  5|   3|  1|  0| 
-|Jung Hoo Lee      |BAT BENCH |     10|  3|   4|  0|  0| 
-|TJ Friedl         |BAT BENCH |     10|  2|   0|  0|  2| 
-|Willi Castro      |BAT BENCH |      8|  4|   3|  0|  0| 
+|Jung Hoo Lee      |BAT BENCH |     11|  3|   4|  0|  0| 
+|TJ Friedl         |BAT BENCH |     12|  2|   0|  0|  2| 
+|Willi Castro      |BAT BENCH |     11|  6|   4|  0|  0| 
 
 
 * * *
@@ -46,7 +46,7 @@
 |Grant Holmes       |OP          |  2| 11.000|  3|  2.455|     11| 1.000|  8|  0|  0| 
 |Will Warren        |OP          |  2| 10.000|  3|  2.700|     11| 1.100|  9|  1|  0| 
 |Zach Eflin         |OP          |  1|  3.667|  1|  2.455|      6| 1.636|  7|  0|  0| 
-|José Alvarado      |PITCH BENCH |  4|  2.667|  4| 13.500|      8| 3.000|  4|  0|  0| 
+|José Alvarado      |PITCH BENCH |  5|  3.667|  4|  9.818|      8| 2.182|  5|  0|  0| 
 |Nick Lodolo        |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Payton Tolle       |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 

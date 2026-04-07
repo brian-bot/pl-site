@@ -5,23 +5,23 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Drake Baldwin    |C         |     17| 10|  12|  4|  0| 
+|Drake Baldwin    |C         |     19| 11|  13|  5|  0| 
 |Tyler Soderstrom |1B        |     12|  5|   6|  0|  0| 
-|Brandon Lowe     |2B        |     14|  4|   4|  3|  0| 
-|Manny Machado    |3B        |     15|  5|   3|  1|  0| 
-|Jeremy Peña      |SS        |      8|  3|   0|  0|  1| 
-|Luis García Jr.  |MI        |     11|  4|   6|  1|  0| 
-|Kyle Manzardo    |CI        |      7|  1|   1|  0|  0| 
-|Chandler Simpson |OF        |     16|  4|   1|  0|  2| 
-|Jackson Merrill  |OF        |     10|  7|   6|  2|  0| 
-|Julio Rodríguez  |OF        |     11|  4|   2|  0|  0| 
-|Yordan Alvarez   |OF        |     26| 10|  10|  4|  1| 
+|Brandon Lowe     |2B        |     16|  4|   4|  3|  0| 
+|Manny Machado    |3B        |     17|  6|   4|  1|  0| 
+|Jeremy Peña      |SS        |     10|  4|   0|  0|  1| 
+|Luis García Jr.  |MI        |     12|  5|   6|  1|  0| 
+|Kyle Manzardo    |CI        |      8|  1|   1|  0|  0| 
+|Chandler Simpson |OF        |     18|  5|   1|  0|  4| 
+|Jackson Merrill  |OF        |     12|  7|   7|  2|  1| 
+|Julio Rodríguez  |OF        |     12|  4|   2|  0|  0| 
+|Yordan Alvarez   |OF        |     27| 10|  10|  4|  1| 
 |Carson Benge     |DH        |      7|  3|   3|  1|  4| 
-|Ian Happ         |DH        |     11|  6|   7|  4|  0| 
+|Ian Happ         |DH        |     13|  7|   7|  4|  0| 
 |Nolan Schanuel   |DH        |     13|  3|   7|  2|  0| 
-|Sal Frelick      |DH        |     11|  3|   2|  1|  0| 
-|Chase DeLauter   |BAT BENCH |     12|  7|   9|  5|  0| 
-|Victor Scott II  |BAT BENCH |      9|  4|   1|  0|  2| 
+|Sal Frelick      |DH        |     14|  4|   3|  1|  0| 
+|Chase DeLauter   |BAT BENCH |     13|  7|   9|  5|  0| 
+|Victor Scott II  |BAT BENCH |      9|  4|   2|  0|  2| 
 
 * * *
 
@@ -45,7 +45,7 @@
 |Seranthony Domínguez |OP          |  4|  3.667|  2|  4.909|      6| 1.636|  3|  1|  1| 
 |Brandon Sproat       |PITCH BENCH |  2|  6.667| 11| 14.850|     17| 2.550|  7|  0|  0| 
 |Hunter Greene        |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Jameson Taillon      |PITCH BENCH |  1|  4.667|  0|  0.000|      6| 1.286|  3|  0|  0| 
+|Jameson Taillon      |PITCH BENCH |  2| 10.667|  3|  2.531|     13| 1.219|  7|  0|  0| 
 |Konnor Griffin       |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Zack Wheeler         |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 
