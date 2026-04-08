@@ -5,23 +5,23 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|Cal Raleigh           |C         |     12|  2|   5|  1|  1| 
+|Cal Raleigh           |C         |     13|  2|   6|  1|  1| 
 |Vladimir Guerrero Jr. |1B        |     18|  3|   4|  1|  0| 
-|Luke Keaschall        |2B        |     13|  4|   5|  1|  1| 
+|Luke Keaschall        |2B        |     14|  5|   6|  1|  1| 
 |José Ramírez          |3B        |     11|  2|   5|  1|  2| 
-|Willy Adames          |SS        |     13|  3|   3|  1|  0| 
-|Jorge Polanco         |MI        |     11|  2|   1|  0|  0| 
-|Matt Olson            |CI        |     17|  6|   6|  2|  0| 
-|Christian Yelich      |OF        |     18| 10|   9|  1|  1| 
-|Cody Bellinger        |OF        |     17|  8|   3|  1|  2| 
-|Daulton Varsho        |OF        |     10|  3|   1|  0|  0| 
-|Pete Crow-Armstrong   |OF        |     10|  5|   3|  0|  3| 
+|Willy Adames          |SS        |     15|  4|   3|  1|  0| 
+|Jorge Polanco         |MI        |     13|  2|   1|  0|  0| 
+|Matt Olson            |CI        |     19|  8|   6|  2|  0| 
+|Christian Yelich      |OF        |     18| 10|  10|  1|  2| 
+|Cody Bellinger        |OF        |     18|  9|   3|  1|  2| 
+|Daulton Varsho        |OF        |     11|  3|   1|  0|  0| 
+|Pete Crow-Armstrong   |OF        |     13|  8|   4|  1|  4| 
 |Alec Bohm             |DH        |     13|  3|   8|  1|  0| 
 |Kerry Carpenter       |DH        |     11|  3|   6|  2|  0| 
 |Ramón Laureano        |DH        |     11|  4|   6|  2|  1| 
-|Spencer Steer         |DH        |      8|  2|   3|  1|  0| 
-|Francisco Alvarez     |BAT BENCH |     10|  5|   3|  3|  0| 
-|Xander Bogaerts       |BAT BENCH |     12|  0|   3|  0|  0| 
+|Spencer Steer         |DH        |      8|  3|   3|  1|  0| 
+|Francisco Alvarez     |BAT BENCH |     12|  6|   3|  3|  0| 
+|Xander Bogaerts       |BAT BENCH |     13|  1|   4|  1|  0| 
 
 
 * * *
@@ -33,12 +33,12 @@
 |:---------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Framber Valdez  |SP          |  2| 12.000|  1| 0.750|     13| 1.083| 10|  1|  0| 
 |Logan Webb      |SP          |  3| 18.000| 10| 5.000|     25| 1.389| 15|  1|  0| 
-|Mike Burrows    |SP          |  2| 10.667|  7| 5.906|     19| 1.781| 12|  1|  0| 
+|Mike Burrows    |SP          |  3| 16.000| 10| 5.625|     28| 1.750| 15|  1|  0| 
 |Tanner Bibee    |SP          |  3| 13.667|  5| 3.293|     18| 1.317| 14|  0|  0| 
-|Trevor Rogers   |SP          |  2| 13.000|  2| 1.385|     14| 1.077|  8|  2|  0| 
-|Zac Gallen      |SP          |  2| 10.000|  4| 3.600|     11| 1.100|  4|  1|  0| 
-|Emilio Pagán    |RP          |  6|  6.333|  5| 7.105|      9| 1.421|  6|  0|  4| 
-|Raisel Iglesias |RP          |  4|  4.000|  0| 0.000|      1| 0.250|  2|  0|  1| 
+|Trevor Rogers   |SP          |  3| 19.000|  4| 1.895|     20| 1.053| 14|  2|  0| 
+|Zac Gallen      |SP          |  3| 15.000|  5| 3.000|     20| 1.333|  9|  1|  0| 
+|Emilio Pagán    |RP          |  7|  7.333|  5| 6.136|     11| 1.500|  8|  1|  4| 
+|Raisel Iglesias |RP          |  5|  5.667|  0| 0.000|      3| 0.529|  5|  0|  2| 
 |David Peterson  |OP          |  2|  9.667|  5| 4.655|     19| 1.966|  8|  0|  0| 
 |Michael Wacha   |OP          |  2| 13.000|  1| 0.692|     10| 0.769| 10|  1|  0| 
 |Mitch Keller    |OP          |  2| 12.000|  2| 1.500|     13| 1.083|  7|  1|  0| 
