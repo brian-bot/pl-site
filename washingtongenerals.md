@@ -7,22 +7,22 @@
 |:---------------|:---------|------:|--:|---:|--:|--:| 
 |J.T. Realmuto   |C         |     13|  4|   1|  1|  0| 
 |Michael Busch   |1B        |     13|  6|   2|  0|  0| 
-|Nico Hoerner    |2B        |     21|  6|   7|  0|  5| 
-|Max Muncy       |3B        |     12|  6|   1|  1|  0| 
-|Bobby Witt Jr.  |SS        |     17|  1|   3|  0|  7| 
-|Corey Seager    |MI        |     16|  7|   6|  3|  1| 
-|Freddie Freeman |CI        |     15|  6|  12|  3|  0| 
+|Nico Hoerner    |2B        |     24|  8|   9|  1|  5| 
+|Max Muncy       |3B        |     14|  6|   1|  1|  0| 
+|Bobby Witt Jr.  |SS        |     19|  1|   4|  0|  7| 
+|Corey Seager    |MI        |     17|  7|   7|  3|  1| 
+|Freddie Freeman |CI        |     17|  6|  13|  3|  0| 
 |Jarren Duran    |OF        |     12|  6|   4|  0|  2| 
 |Jordan Beck     |OF        |      4|  1|   4|  0|  1| 
-|Kyle Schwarber  |OF        |     18|  5|   6|  3|  0| 
-|Oneil Cruz      |OF        |     16|  9|  12|  4|  1| 
-|Bryce Harper    |DH        |     15|  5|   7|  2|  0| 
-|Cole Young      |DH        |     14|  8|   8|  2|  0| 
-|Lane Thomas     |DH        |      5|  1|   1|  0|  1| 
+|Kyle Schwarber  |OF        |     21|  5|   6|  3|  0| 
+|Oneil Cruz      |OF        |     17|  9|  12|  4|  1| 
+|Bryce Harper    |DH        |     17|  5|   7|  2|  0| 
+|Cole Young      |DH        |     15|  8|   8|  2|  0| 
+|Lane Thomas     |DH        |      7|  2|   1|  0|  1| 
 |Marcell Ozuna   |DH        |      6|  1|   0|  0|  0| 
 |Carlos Correa   |BAT BENCH |     17|  9|   9|  1|  1| 
-|Kevin McGonigle |BAT BENCH |     19|  6|   7|  0|  1| 
-|Mickey Moniak   |BAT BENCH |      5|  4|   4|  3|  0| 
+|Kevin McGonigle |BAT BENCH |     20|  7|   7|  0|  1| 
+|Mickey Moniak   |BAT BENCH |      7|  4|   5|  3|  0| 
 
 * * *
 
@@ -31,12 +31,12 @@
  
 |players            |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:------------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Aaron Nola         |SP          |  2| 11.333|  4| 3.176|     13| 1.147| 16|  1|  0| 
+|Aaron Nola         |SP          |  3| 17.333|  7| 3.635|     19| 1.096| 19|  1|  0| 
 |Kodai Senga        |SP          |  2| 11.667|  4| 3.086|     14| 1.200| 16|  0|  0| 
-|Luis Severino      |SP          |  2|  8.333|  6| 6.480|     15| 1.800| 10|  0|  0| 
+|Luis Severino      |SP          |  3| 13.333|  8| 5.400|     24| 1.800| 17|  0|  0| 
 |Nathan Eovaldi     |SP          |  3| 14.667| 13| 7.977|     27| 1.841| 19|  1|  0| 
 |Randy Vásquez      |SP          |  2| 12.000|  1| 0.750|     12| 1.000| 11|  1|  0| 
-|Sonny Gray         |SP          |  2| 10.000|  5| 4.500|     11| 1.100|  8|  1|  0| 
+|Sonny Gray         |SP          |  3| 16.333|  5| 2.755|     16| 0.980| 10|  2|  0| 
 |Dennis Santana     |RP          |  6|  6.000|  0| 0.000|      3| 0.500|  4|  2|  0| 
 |Ryan Walker        |RP          |  5|  4.333|  2| 4.154|      6| 1.385|  5|  0|  1| 
 |Garrett Cleavinger |OP          |  3|  2.333|  2| 7.714|      7| 3.000|  3|  1|  0| 
