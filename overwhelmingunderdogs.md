@@ -7,20 +7,20 @@
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith       |C         |     14|  6|   7|  2|  0| 
 |Rafael Devers    |1B        |     15|  4|   6|  2|  0| 
-|Maikel Garcia    |2B        |     20|  6|   7|  1|  1| 
+|Maikel Garcia    |2B        |     23|  6|   7|  1|  1| 
 |Matt Chapman     |3B        |     19|  7|   7|  1|  0| 
-|Francisco Lindor |SS        |     18|  9|   0|  0|  1| 
-|Xavier Edwards   |MI        |     21| 10|   6|  1|  2| 
+|Francisco Lindor |SS        |     19|  9|   0|  0|  1| 
+|Xavier Edwards   |MI        |     24| 11|   6|  1|  2| 
 |Alex Bregman     |CI        |     15|  3|   3|  2|  0| 
 |George Springer  |OF        |     15|  3|   5|  2|  1| 
-|Jakob Marsee     |OF        |     15|  8|   3|  0|  5| 
+|Jakob Marsee     |OF        |     16|  9|   3|  0|  6| 
 |Juan Soto        |OF        |     14|  3|   5|  1|  0| 
 |Roman Anthony    |OF        |     16|  5|   2|  1|  1| 
 |Brendan Donovan  |DH        |     19|  5|   5|  3|  1| 
 |Christian Walker |DH        |     22|  9|  13|  3|  0| 
 |Jonathan Aranda  |DH        |     19|  6|  11|  3|  0| 
 |Trent Grisham    |DH        |     17|  7|   4|  0|  1| 
-|Miguel Vargas    |BAT BENCH |     17|  8|   7|  1|  3| 
+|Miguel Vargas    |BAT BENCH |     18|  8|   7|  1|  3| 
 |Ryan Jeffers     |BAT BENCH |     13|  5|   3|  0|  0| 
 
 * * *
@@ -47,7 +47,7 @@
 |Merrill Kelly      |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Michael Soroka     |PITCH BENCH |  2| 10.000|  1|  0.900|     12| 1.200| 13|  2|  0| 
 |Sean Manaea        |PITCH BENCH |  3|  9.000|  3|  3.000|     16| 1.778|  6|  0|  0| 
-|Victor Vodnik      |PITCH BENCH |  4|  4.000|  2|  4.500|      7| 1.750|  4|  0|  1| 
+|Victor Vodnik      |PITCH BENCH |  5|  6.000|  2|  3.000|     10| 1.667|  4|  0|  1| 
 
 
 * * *

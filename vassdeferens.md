@@ -8,18 +8,18 @@
 |Adley Rutschman    |C         |     12|  3|   3|  0|  0| 
 |Vinnie Pasquantino |1B        |     16|  3|   5|  0|  0| 
 |Jose Altuve        |2B        |     27| 12|   6|  2|  1| 
-|Munetaka Murakami  |3B        |     16|  8|   7|  4|  0| 
-|Geraldo Perdomo    |SS        |     13|  3|   4|  1|  2| 
-|Gleyber Torres     |MI        |     22| 10|   3|  1|  0| 
+|Munetaka Murakami  |3B        |     18|  9|   7|  4|  0| 
+|Geraldo Perdomo    |SS        |     15|  5|   4|  1|  2| 
+|Gleyber Torres     |MI        |     23| 10|   4|  1|  0| 
 |Josh Naylor        |CI        |      9|  0|   2|  0|  0| 
 |Bryson Stott       |OF        |      8|  1|   2|  0|  2| 
 |Corbin Carroll     |OF        |     20|  9|  11|  2|  1| 
-|Lawrence Butler    |OF        |     10|  5|   4|  1|  1| 
+|Lawrence Butler    |OF        |     11|  5|   4|  1|  1| 
 |Taylor Ward        |OF        |     26|  5|   8|  0|  0| 
 |Daylen Lile        |DH        |     18|  9|   5|  0|  0| 
 |JJ Wetherholt      |DH        |     20| 10|   5|  1|  3| 
-|Matt Wallner       |DH        |     14|  7|   5|  3|  0| 
-|Spencer Torkelson  |DH        |     16|  4|   3|  0|  0| 
+|Matt Wallner       |DH        |     16|  8|   5|  3|  0| 
+|Spencer Torkelson  |DH        |     17|  4|   3|  0|  0| 
 |Coby Mayo          |BAT BENCH |     10|  2|   1|  0|  1| 
 |Jackson Chourio    |BAT BENCH |     **| **|  **| **| **| 
 |Jordan Lawlar      |BAT BENCH |      8|  3|   2|  1|  1| 
@@ -45,10 +45,10 @@
 |Jeff Hoffman  |OP          |  7|  6.667|  2| 2.700|     10| 1.500| 15|  1|  2| 
 |José Soriano  |OP          |  3| 20.000|  1| 0.450|     13| 0.650| 21|  3|  0| 
 |Paul Sewald   |OP          |  6|  4.333|  2| 4.154|      3| 0.692|  7|  0|  3| 
-|Seth Lugo     |OP          |  2| 11.333|  2| 1.588|     11| 0.971| 10|  1|  0| 
+|Seth Lugo     |OP          |  3| 17.667|  3| 1.528|     19| 1.075| 14|  1|  0| 
 |Jonah Tong    |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 |Jordan Romano |PITCH BENCH |  6|  5.000|  0| 0.000|      2| 0.400|  7|  0|  4| 
-|Rhett Lowder  |PITCH BENCH |  2| 11.000|  2| 1.636|     10| 0.909|  9|  1|  0| 
+|Rhett Lowder  |PITCH BENCH |  3| 16.333|  6| 3.306|     20| 1.224| 11|  1|  0| 
 
 
 * * *

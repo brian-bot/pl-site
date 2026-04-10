@@ -9,7 +9,7 @@
 |Michael Busch   |1B        |     13|  6|   2|  0|  0| 
 |Nico Hoerner    |2B        |     24|  8|   9|  1|  5| 
 |Max Muncy       |3B        |     14|  6|   1|  1|  0| 
-|Bobby Witt Jr.  |SS        |     19|  1|   4|  0|  7| 
+|Bobby Witt Jr.  |SS        |     21|  1|   4|  0|  8| 
 |Corey Seager    |MI        |     17|  7|   7|  3|  1| 
 |Freddie Freeman |CI        |     17|  6|  13|  3|  0| 
 |Jarren Duran    |OF        |     12|  6|   4|  0|  2| 
@@ -18,7 +18,7 @@
 |Oneil Cruz      |OF        |     17|  9|  12|  4|  1| 
 |Bryce Harper    |DH        |     17|  5|   7|  2|  0| 
 |Cole Young      |DH        |     15|  8|   8|  2|  0| 
-|Lane Thomas     |DH        |      7|  2|   1|  0|  1| 
+|Lane Thomas     |DH        |      8|  2|   1|  0|  1| 
 |Marcell Ozuna   |DH        |      6|  1|   0|  0|  0| 
 |Carlos Correa   |BAT BENCH |     17|  9|   9|  1|  1| 
 |Kevin McGonigle |BAT BENCH |     20|  7|   7|  0|  1| 
@@ -35,7 +35,7 @@
 |Kodai Senga        |SP          |  2| 11.667|  4| 3.086|     14| 1.200| 16|  0|  0| 
 |Luis Severino      |SP          |  3| 13.333|  8| 5.400|     24| 1.800| 17|  0|  0| 
 |Nathan Eovaldi     |SP          |  3| 14.667| 13| 7.977|     27| 1.841| 19|  1|  0| 
-|Randy Vásquez      |SP          |  2| 12.000|  1| 0.750|     12| 1.000| 11|  1|  0| 
+|Randy Vásquez      |SP          |  3| 17.667|  2| 1.019|     19| 1.075| 19|  1|  0| 
 |Sonny Gray         |SP          |  3| 16.333|  5| 2.755|     16| 0.980| 10|  2|  0| 
 |Dennis Santana     |RP          |  6|  6.000|  0| 0.000|      3| 0.500|  4|  2|  0| 
 |Ryan Walker        |RP          |  5|  4.333|  2| 4.154|      6| 1.385|  5|  0|  1| 

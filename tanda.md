@@ -19,9 +19,9 @@
 |Alec Bohm             |DH        |     13|  3|   8|  1|  0| 
 |Kerry Carpenter       |DH        |     13|  3|   7|  2|  0| 
 |Ramón Laureano        |DH        |     13|  5|   6|  2|  3| 
-|Spencer Steer         |DH        |      8|  3|   3|  1|  0| 
+|Spencer Steer         |DH        |     10|  3|   3|  1|  0| 
 |Francisco Alvarez     |BAT BENCH |     14|  6|   3|  3|  0| 
-|Xander Bogaerts       |BAT BENCH |     14|  2|   4|  1|  0| 
+|Xander Bogaerts       |BAT BENCH |     16|  4|   8|  2|  2| 
 
 
 * * *
@@ -43,7 +43,7 @@
 |Michael Wacha   |OP          |  2| 13.000|  1| 0.692|     10| 0.769| 10|  1|  0| 
 |Mitch Keller    |OP          |  3| 18.000|  2| 1.000|     17| 0.944| 11|  1|  0| 
 |Pete Fairbanks  |OP          |  4|  4.000|  3| 6.750|      5| 1.250|  6|  0|  2| 
-|Ryan Weathers   |OP          |  2|  8.000|  4| 4.500|     15| 1.875| 11|  0|  0| 
+|Ryan Weathers   |OP          |  3| 16.000|  5| 2.812|     22| 1.375| 18|  0|  0| 
 |Brandon Pfaadt  |PITCH BENCH |  2| 10.667|  8| 6.750|     15| 1.406|  5|  0|  0| 
 |Clay Holmes     |PITCH BENCH |  2| 12.667|  2| 1.421|     12| 0.947|  9|  2|  0| 
 |Gerrit Cole     |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 

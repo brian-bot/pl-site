@@ -6,14 +6,14 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Drake Baldwin    |C         |     23| 12|  15|  5|  0| 
-|Tyler Soderstrom |1B        |     14|  5|   7|  0|  1| 
+|Tyler Soderstrom |1B        |     15|  5|   8|  0|  1| 
 |Brandon Lowe     |2B        |     16|  4|   4|  3|  0| 
-|Manny Machado    |3B        |     18|  6|   4|  1|  0| 
+|Manny Machado    |3B        |     20|  7|   5|  1|  1| 
 |Jeremy Peña      |SS        |     12|  4|   0|  0|  1| 
 |Luis García Jr.  |MI        |     13|  5|   7|  1|  0| 
 |Kyle Manzardo    |CI        |      9|  1|   1|  0|  0| 
 |Chandler Simpson |OF        |     21|  5|   1|  0|  5| 
-|Jackson Merrill  |OF        |     12|  7|   7|  2|  2| 
+|Jackson Merrill  |OF        |     14|  8|   7|  2|  2| 
 |Julio Rodríguez  |OF        |     14|  4|   2|  0|  0| 
 |Yordan Alvarez   |OF        |     29| 10|  10|  4|  1| 
 |Carson Benge     |DH        |      9|  3|   3|  1|  4| 
@@ -42,7 +42,7 @@
 |Cody Ponce           |OP          |  1|  2.333|  1|  3.857|      2| 0.857|  3|  0|  0| 
 |Kyle Harrison        |OP          |  2| 10.333|  3|  2.613|     10| 0.968| 14|  1|  0| 
 |Parker Messick       |OP          |  2| 11.000|  1|  0.818|     10| 0.909| 11|  1|  0| 
-|Seranthony Domínguez |OP          |  4|  3.667|  2|  4.909|      6| 1.636|  3|  1|  1| 
+|Seranthony Domínguez |OP          |  5|  4.667|  2|  3.857|      7| 1.500|  5|  1|  2| 
 |Brandon Sproat       |PITCH BENCH |  2|  6.667| 11| 14.850|     17| 2.550|  7|  0|  0| 
 |Hunter Greene        |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Jameson Taillon      |PITCH BENCH |  2| 10.667|  3|  2.531|     13| 1.219|  7|  0|  0| 

@@ -5,23 +5,23 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Agustín Ramírez    |C         |     17|  6|   2|  0|  1| 
-|Salvador Perez     |1B        |     11|  4|   2|  2|  0| 
+|Agustín Ramírez    |C         |     19|  7|   4|  0|  1| 
+|Salvador Perez     |1B        |     12|  4|   2|  2|  0| 
 |Ceddanne Rafaela   |2B        |     14|  5|   4|  1|  0| 
 |Junior Caminero    |3B        |     18|  5|   3|  2|  0| 
 |Zach Neto          |SS        |     20| 10|   6|  4|  1| 
 |Mookie Betts       |MI        |      9|  7|   7|  2|  0| 
-|Sal Stewart        |CI        |     24|  7|   8|  3|  3| 
+|Sal Stewart        |CI        |     26|  8|   9|  4|  3| 
 |Aaron Judge        |OF        |     16|  9|   7|  3|  1| 
-|Fernando Tatis Jr. |OF        |     15|  6|   4|  0|  3| 
+|Fernando Tatis Jr. |OF        |     17|  6|   5|  0|  3| 
 |James Wood         |OF        |     19| 11|  10|  4|  1| 
 |Mike Trout         |OF        |     21|  9|   3|  2|  2| 
 |Adolis García      |DH        |     15|  3|   4|  2|  1| 
 |Andrew Vaughn      |DH        |      1|  0|   1|  0|  0| 
 |CJ Abrams          |DH        |     19|  8|  14|  4|  4| 
-|Ezequiel Tovar     |DH        |     13|  3|   6|  1|  1| 
+|Ezequiel Tovar     |DH        |     15|  3|   6|  1|  1| 
 |Jordan Westburg    |BAT BENCH |     **| **|  **| **| **| 
-|José Caballero     |BAT BENCH |      8|  3|   1|  0|  4| 
+|José Caballero     |BAT BENCH |      8|  3|   1|  0|  5| 
 |Sung-Mun Song      |BAT BENCH |     **| **|  **| **| **| 
 
 

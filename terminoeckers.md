@@ -5,13 +5,13 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Hunter Goodman    |C         |     16|  9|   4|  2|  1| 
+|Hunter Goodman    |C         |     17|  9|   4|  2|  1| 
 |Willson Contreras |1B        |     23|  7|   5|  2|  0| 
 |Brice Turang      |2B        |     19| 10|   7|  1|  4| 
-|Eugenio Suárez    |3B        |     13|  4|   8|  2|  0| 
-|Elly De La Cruz   |SS        |     17|  9|   6|  3|  3| 
+|Eugenio Suárez    |3B        |     14|  4|   8|  2|  0| 
+|Elly De La Cruz   |SS        |     18|  9|   6|  3|  3| 
 |Trevor Story      |MI        |      8|  1|   8|  1|  0| 
-|Jac Caglianone    |CI        |     13|  3|   0|  0|  0| 
+|Jac Caglianone    |CI        |     15|  3|   0|  0|  0| 
 |Addison Barger    |OF        |      4|  1|   2|  0|  0| 
 |Brandon Nimmo     |OF        |     22|  7|   4|  1|  1| 
 |Kyle Tucker       |OF        |     20| 11|   8|  1|  3| 
@@ -47,7 +47,7 @@
 |Bryce Miller       |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Cade Cavalli       |PITCH BENCH |  3| 14.333|  4|  2.512|     21| 1.465| 11|  0|  0| 
 |Dustin May         |PITCH BENCH |  2|  7.333| 13| 15.955|     20| 2.727|  7|  0|  0| 
-|Mick Abel          |PITCH BENCH |  2|  7.333|  9| 11.045|     21| 2.864|  7|  0|  0| 
+|Mick Abel          |PITCH BENCH |  3| 13.333|  9|  6.075|     28| 2.100| 13|  0|  0| 
 |Ryan Pepiot        |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 
 
