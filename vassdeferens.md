@@ -5,25 +5,25 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Adley Rutschman    |C         |     12|  3|   3|  0|  0| 
+|Adley Rutschman    |C         |     15|  3|   3|  0|  0| 
 |Vinnie Pasquantino |1B        |     16|  3|   5|  0|  0| 
 |Jose Altuve        |2B        |     27| 12|   6|  2|  1| 
 |Munetaka Murakami  |3B        |     18|  9|   7|  4|  0| 
-|Geraldo Perdomo    |SS        |     15|  5|   4|  1|  2| 
+|Geraldo Perdomo    |SS        |     17|  5|   4|  1|  3| 
 |Gleyber Torres     |MI        |     23| 10|   4|  1|  0| 
-|Josh Naylor        |CI        |      9|  0|   2|  0|  0| 
-|Bryson Stott       |OF        |      8|  1|   2|  0|  2| 
+|Josh Naylor        |CI        |     11|  1|   2|  0|  0| 
+|Bryson Stott       |OF        |     10|  1|   2|  0|  3| 
 |Corbin Carroll     |OF        |     20|  9|  11|  2|  1| 
-|Lawrence Butler    |OF        |     11|  5|   4|  1|  1| 
-|Taylor Ward        |OF        |     26|  5|   8|  0|  0| 
-|Daylen Lile        |DH        |     18|  9|   5|  0|  0| 
-|JJ Wetherholt      |DH        |     20| 10|   5|  1|  3| 
+|Lawrence Butler    |OF        |     12|  5|   4|  1|  1| 
+|Taylor Ward        |OF        |     27|  5|   8|  0|  0| 
+|Daylen Lile        |DH        |     19|  9|   5|  0|  1| 
+|JJ Wetherholt      |DH        |     22| 10|   5|  1|  3| 
 |Matt Wallner       |DH        |     16|  8|   5|  3|  0| 
-|Spencer Torkelson  |DH        |     17|  4|   3|  0|  0| 
+|Spencer Torkelson  |DH        |     18|  4|   4|  0|  0| 
 |Coby Mayo          |BAT BENCH |     10|  2|   1|  0|  1| 
 |Jackson Chourio    |BAT BENCH |     **| **|  **| **| **| 
 |Jordan Lawlar      |BAT BENCH |      8|  3|   2|  1|  1| 
-|Logan O'Hoppe      |BAT BENCH |     13|  3|   5|  0|  0| 
+|Logan O'Hoppe      |BAT BENCH |     15|  4|   5|  0|  0| 
 
 
 * * *
@@ -44,7 +44,7 @@
 |Jack Leiter   |OP          |  2| 11.000|  3| 2.455|     11| 1.000| 17|  1|  0| 
 |Jeff Hoffman  |OP          |  7|  6.667|  2| 2.700|     10| 1.500| 15|  1|  2| 
 |José Soriano  |OP          |  3| 20.000|  1| 0.450|     13| 0.650| 21|  3|  0| 
-|Paul Sewald   |OP          |  6|  4.333|  2| 4.154|      3| 0.692|  7|  0|  3| 
+|Paul Sewald   |OP          |  7|  5.333|  2| 3.375|      4| 0.750|  7|  0|  4| 
 |Seth Lugo     |OP          |  3| 17.667|  3| 1.528|     19| 1.075| 14|  1|  0| 
 |Jonah Tong    |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 |Jordan Romano |PITCH BENCH |  6|  5.000|  0| 0.000|      2| 0.400|  7|  0|  4| 
