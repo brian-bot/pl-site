@@ -6,18 +6,18 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Hunter Goodman    |C         |     18| 10|   5|  2|  1| 
-|Willson Contreras |1B        |     23|  7|   5|  2|  0| 
-|Brice Turang      |2B        |     21| 11|   7|  1|  5| 
-|Eugenio Suárez    |3B        |     16|  4|   8|  2|  0| 
-|Elly De La Cruz   |SS        |     20| 10|   7|  4|  3| 
-|Trevor Story      |MI        |      8|  2|   9|  1|  1| 
+|Willson Contreras |1B        |     26|  7|   8|  2|  0| 
+|Brice Turang      |2B        |     22| 11|   7|  1|  5| 
+|Eugenio Suárez    |3B        |     18|  5|   8|  2|  0| 
+|Elly De La Cruz   |SS        |     24| 11|   7|  4|  5| 
+|Trevor Story      |MI        |      9|  3|   9|  1|  1| 
 |Jac Caglianone    |CI        |     16|  3|   0|  0|  0| 
 |Addison Barger    |OF        |      4|  1|   2|  0|  0| 
-|Brandon Nimmo     |OF        |     24|  8|   4|  1|  1| 
+|Brandon Nimmo     |OF        |     27| 10|   7|  3|  1| 
 |Kyle Tucker       |OF        |     22| 11|   8|  1|  3| 
 |Wyatt Langford    |OF        |     10|  4|   3|  1|  1| 
 |Carter Jensen     |DH        |     11|  6|   7|  4|  0| 
-|Dansby Swanson    |DH        |     14|  7|   5|  1|  1| 
+|Dansby Swanson    |DH        |     16|  8|   6|  1|  1| 
 |Jake Burger       |DH        |     15|  5|   7|  2|  0| 
 |Kazuma Okamoto    |DH        |     16|  4|   3|  2|  0| 
 |Kyle Stowers      |BAT BENCH |     **| **|  **| **| **| 
@@ -37,8 +37,8 @@
 |Drew Rasmussen     |SP          |  2| 10.000|  2|  1.800|      8| 0.800| 10|  0|  0| 
 |Kyle Bradish       |SP          |  3| 13.667|  8|  5.268|     23| 1.683| 17|  1|  0| 
 |Aroldis Chapman    |RP          |  5|  5.000|  1|  1.800|      4| 0.800|  3|  0|  3| 
-|Daniel Palencia    |RP          |  3|  3.000|  0|  0.000|      3| 1.000|  3|  0|  1| 
-|Bryan Abreu        |OP          |  5|  3.667|  8| 19.636|     12| 3.273|  8|  0|  1| 
+|Daniel Palencia    |RP          |  4|  4.000|  0|  0.000|      4| 1.000|  3|  0|  1| 
+|Bryan Abreu        |OP          |  6|  4.000|  9| 20.250|     16| 4.000|  9|  0|  1| 
 |Matthew Liberatore |OP          |  3| 16.000|  6|  3.375|     24| 1.500| 10|  0|  0| 
 |Robert Suarez      |OP          |  6|  6.000|  0|  0.000|      5| 0.833|  7|  1|  0| 
 |Ryne Nelson        |OP          |  3| 15.000|  7|  4.200|     16| 1.067| 12|  1|  0| 

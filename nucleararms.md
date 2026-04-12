@@ -5,25 +5,25 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Shea Langeliers   |C         |     17|  7|   9|  5|  0| 
-|Yandy Díaz        |1B        |     27|  9|  12|  3|  1| 
-|Ozzie Albies      |2B        |     19|  8|   6|  3|  0| 
-|Austin Riley      |3B        |     19|  7|   4|  0|  1| 
-|Gunnar Henderson  |SS        |     21| 10|  11|  5|  1| 
+|Shea Langeliers   |C         |     19|  9|  10|  5|  0| 
+|Yandy Díaz        |1B        |     29|  9|  13|  3|  1| 
+|Ozzie Albies      |2B        |     20|  8|   6|  3|  0| 
+|Austin Riley      |3B        |     20|  7|   4|  0|  1| 
+|Gunnar Henderson  |SS        |     23| 11|  12|  6|  2| 
 |Colson Montgomery |MI        |     16|  3|   7|  2|  1| 
-|Pete Alonso       |CI        |     15|  4|   3|  1|  0| 
-|Bryan Reynolds    |OF        |     20| 11|   7|  3|  0| 
-|Luis Robert Jr.   |OF        |     25|  8|   7|  2|  2| 
-|Ronald Acuña Jr.  |OF        |     20|  4|   4|  1|  2| 
-|Teoscar Hernández |OF        |     15|  8|   8|  2|  1| 
+|Pete Alonso       |CI        |     16|  4|   3|  1|  1| 
+|Bryan Reynolds    |OF        |     22| 11|   8|  3|  0| 
+|Luis Robert Jr.   |OF        |     27|  9|   7|  2|  2| 
+|Ronald Acuña Jr.  |OF        |     21|  4|   4|  1|  2| 
+|Teoscar Hernández |OF        |     17| 10|  11|  3|  1| 
 |Alejandro Kirk    |DH        |      5|  2|   2|  1|  0| 
-|Cedric Mullins    |DH        |      9|  3|   5|  1|  2| 
-|Giancarlo Stanton |DH        |     19|  4|   7|  1|  1| 
-|Marcus Semien     |DH        |     15|  2|   6|  1|  0| 
+|Cedric Mullins    |DH        |      9|  4|   5|  1|  2| 
+|Giancarlo Stanton |DH        |     20|  4|   7|  1|  1| 
+|Marcus Semien     |DH        |     16|  2|   6|  1|  0| 
 |Anthony Volpe     |BAT BENCH |     **| **|  **| **| **| 
-|Colt Keith        |BAT BENCH |     19|  8|   3|  0|  0| 
+|Colt Keith        |BAT BENCH |     20|  9|   4|  0|  0| 
 |Jackson Holliday  |BAT BENCH |     **| **|  **| **| **| 
-|Seiya Suzuki      |BAT BENCH |      2|  0|   0|  0|  0| 
+|Seiya Suzuki      |BAT BENCH |      3|  0|   0|  0|  0| 
 
 
 * * *
