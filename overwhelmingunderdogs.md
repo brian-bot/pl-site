@@ -5,22 +5,22 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith       |C         |     19|  8|   7|  2|  0| 
-|Rafael Devers    |1B        |     17|  6|   6|  2|  0| 
-|Maikel Garcia    |2B        |     26|  9|   8|  2|  1| 
+|Will Smith       |C         |     20|  8|   7|  2|  0| 
+|Rafael Devers    |1B        |     18|  6|   6|  2|  0| 
+|Maikel Garcia    |2B        |     27| 10|   8|  2|  1| 
 |Matt Chapman     |3B        |     23|  8|   7|  1|  0| 
-|Francisco Lindor |SS        |     21| 10|   0|  0|  1| 
-|Xavier Edwards   |MI        |     25| 11|   6|  1|  2| 
-|Alex Bregman     |CI        |     18|  3|   4|  2|  0| 
+|Francisco Lindor |SS        |     23| 10|   0|  0|  1| 
+|Xavier Edwards   |MI        |     26| 11|   6|  1|  2| 
+|Alex Bregman     |CI        |     20|  3|   6|  2|  0| 
 |George Springer  |OF        |     18|  4|   6|  2|  1| 
-|Jakob Marsee     |OF        |     17|  9|   3|  0|  6| 
+|Jakob Marsee     |OF        |     18| 10|   3|  0|  6| 
 |Juan Soto        |OF        |     14|  3|   5|  1|  0| 
-|Roman Anthony    |OF        |     18|  7|   2|  1|  1| 
-|Brendan Donovan  |DH        |     20|  5|   5|  3|  1| 
+|Roman Anthony    |OF        |     18|  7|   3|  1|  1| 
+|Brendan Donovan  |DH        |     21|  6|   6|  3|  1| 
 |Christian Walker |DH        |     24| 10|  13|  3|  0| 
 |Jonathan Aranda  |DH        |     20|  7|  14|  3|  0| 
 |Trent Grisham    |DH        |     19|  7|   4|  0|  1| 
-|Miguel Vargas    |BAT BENCH |     19|  8|   7|  1|  3| 
+|Miguel Vargas    |BAT BENCH |     20|  8|   7|  1|  3| 
 |Ryan Jeffers     |BAT BENCH |     18|  7|   7|  1|  0| 
 
 * * *
@@ -30,8 +30,8 @@
  
 |players            |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:------------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Brandon Woodruff   |SP          |  2| 10.667|  7|  5.906|     14| 1.312| 10|  1|  0| 
-|Chris Sale         |SP          |  3| 16.000|  7|  3.938|     14| 0.875| 16|  2|  0| 
+|Brandon Woodruff   |SP          |  3| 16.667|  8|  4.320|     18| 1.080| 16|  1|  0| 
+|Chris Sale         |SP          |  4| 22.000|  8|  3.273|     23| 1.045| 22|  3|  0| 
 |Cristopher Sánchez |SP          |  3| 16.333|  3|  1.653|     22| 1.347| 23|  1|  0| 
 |Emmet Sheehan      |SP          |  3| 15.000| 11|  6.600|     22| 1.467| 14|  2|  0| 
 |Jesús Luzardo      |SP          |  3| 17.333| 12|  6.231|     20| 1.154| 26|  1|  0| 
@@ -46,8 +46,8 @@
 |Grayson Rodriguez  |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Merrill Kelly      |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Michael Soroka     |PITCH BENCH |  3| 15.667|  5|  2.872|     19| 1.213| 23|  3|  0| 
-|Sean Manaea        |PITCH BENCH |  3|  9.000|  3|  3.000|     16| 1.778|  6|  0|  0| 
-|Victor Vodnik      |PITCH BENCH |  5|  6.000|  2|  3.000|     10| 1.667|  4|  0|  1| 
+|Sean Manaea        |PITCH BENCH |  4| 12.000|  3|  2.250|     16| 1.333| 10|  0|  0| 
+|Victor Vodnik      |PITCH BENCH |  6|  7.000|  2|  2.571|     11| 1.571|  5|  0|  1| 
 
 
 * * *
