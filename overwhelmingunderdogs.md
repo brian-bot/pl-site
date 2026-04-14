@@ -5,23 +5,23 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith       |C         |     20|  8|   7|  2|  0| 
+|Will Smith       |C         |     22|  8|   8|  2|  0| 
 |Rafael Devers    |1B        |     18|  6|   6|  2|  0| 
 |Maikel Garcia    |2B        |     27| 10|   8|  2|  1| 
 |Matt Chapman     |3B        |     23|  8|   7|  1|  0| 
 |Francisco Lindor |SS        |     23| 10|   0|  0|  1| 
-|Xavier Edwards   |MI        |     26| 11|   6|  1|  2| 
-|Alex Bregman     |CI        |     20|  3|   6|  2|  0| 
+|Xavier Edwards   |MI        |     29| 14|   6|  1|  2| 
+|Alex Bregman     |CI        |     22|  3|   6|  2|  0| 
 |George Springer  |OF        |     18|  4|   6|  2|  1| 
-|Jakob Marsee     |OF        |     18| 10|   3|  0|  6| 
+|Jakob Marsee     |OF        |     20| 12|   3|  0|  7| 
 |Juan Soto        |OF        |     14|  3|   5|  1|  0| 
-|Roman Anthony    |OF        |     18|  7|   3|  1|  1| 
-|Brendan Donovan  |DH        |     21|  6|   6|  3|  1| 
-|Christian Walker |DH        |     24| 10|  13|  3|  0| 
+|Roman Anthony    |OF        |     22|  9|   3|  1|  1| 
+|Brendan Donovan  |DH        |     24|  6|   6|  3|  1| 
+|Christian Walker |DH        |     25| 10|  13|  3|  0| 
 |Jonathan Aranda  |DH        |     20|  7|  14|  3|  0| 
-|Trent Grisham    |DH        |     19|  7|   4|  0|  1| 
+|Trent Grisham    |DH        |     21|  9|   9|  2|  1| 
 |Miguel Vargas    |BAT BENCH |     20|  8|   7|  1|  3| 
-|Ryan Jeffers     |BAT BENCH |     18|  7|   7|  1|  0| 
+|Ryan Jeffers     |BAT BENCH |     22| 10|  10|  2|  0| 
 
 * * *
 
@@ -32,11 +32,11 @@
 |:------------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Brandon Woodruff   |SP          |  3| 16.667|  8|  4.320|     18| 1.080| 16|  1|  0| 
 |Chris Sale         |SP          |  4| 22.000|  8|  3.273|     23| 1.045| 22|  3|  0| 
-|Cristopher Sánchez |SP          |  3| 16.333|  3|  1.653|     22| 1.347| 23|  1|  0| 
+|Cristopher Sánchez |SP          |  4| 22.333|  5|  2.015|     31| 1.388| 31|  2|  0| 
 |Emmet Sheehan      |SP          |  3| 15.000| 11|  6.600|     22| 1.467| 14|  2|  0| 
 |Jesús Luzardo      |SP          |  3| 17.333| 12|  6.231|     20| 1.154| 26|  1|  0| 
 |Shane McClanahan   |SP          |  2|  8.667|  4|  4.154|     10| 1.154|  9|  0|  0| 
-|Cade Smith         |RP          |  7|  7.000|  5|  6.429|     10| 1.429| 10|  2|  3| 
+|Cade Smith         |RP          |  8|  8.000|  5|  5.625|     11| 1.375| 10|  2|  3| 
 |Trevor Megill      |RP          |  5|  4.000|  5| 11.250|      8| 2.000|  5|  0|  3| 
 |Brady Singer       |OP          |  3| 11.667| 10|  7.714|     24| 2.057| 13|  0|  0| 
 |Clayton Beeter     |OP          |  7|  7.667|  3|  3.522|      9| 1.174|  6|  0|  2| 

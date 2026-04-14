@@ -5,22 +5,22 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|Cal Raleigh           |C         |     16|  4|  10|  2|  1| 
+|Cal Raleigh           |C         |     18|  6|  10|  2|  1| 
 |Vladimir Guerrero Jr. |1B        |     29|  6|   5|  1|  1| 
-|Luke Keaschall        |2B        |     18|  9|   7|  1|  3| 
-|José Ramírez          |3B        |     19|  5|   7|  2|  5| 
+|Luke Keaschall        |2B        |     20| 11|   8|  1|  3| 
+|José Ramírez          |3B        |     22|  6|   7|  2|  7| 
 |Willy Adames          |SS        |     21|  7|   5|  2|  0| 
-|Jorge Polanco         |MI        |     14|  3|   2|  1|  0| 
-|Matt Olson            |CI        |     27| 13|  11|  4|  0| 
+|Jorge Polanco         |MI        |     15|  3|   2|  1|  0| 
+|Matt Olson            |CI        |     29| 14|  11|  4|  0| 
 |Christian Yelich      |OF        |     21| 10|  10|  1|  3| 
-|Cody Bellinger        |OF        |     22|  9|   6|  1|  3| 
+|Cody Bellinger        |OF        |     23|  9|   6|  1|  3| 
 |Daulton Varsho        |OF        |     19|  6|   6|  2|  1| 
-|Pete Crow-Armstrong   |OF        |     15|  8|   4|  1|  4| 
-|Alec Bohm             |DH        |     14|  4|   8|  1|  0| 
+|Pete Crow-Armstrong   |OF        |     16|  9|   5|  1|  4| 
+|Alec Bohm             |DH        |     15|  4|  10|  1|  0| 
 |Kerry Carpenter       |DH        |     18|  4|   9|  3|  0| 
 |Ramón Laureano        |DH        |     21| 10|  11|  4|  3| 
 |Spencer Steer         |DH        |     12|  5|   4|  2|  0| 
-|Francisco Alvarez     |BAT BENCH |     18|  7|   4|  4|  0| 
+|Francisco Alvarez     |BAT BENCH |     19|  7|   4|  4|  0| 
 |Xander Bogaerts       |BAT BENCH |     20|  4|   8|  2|  2| 
 
 
@@ -33,13 +33,13 @@
 |:---------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Framber Valdez  |SP          |  3| 17.000|  9| 4.765|     25| 1.471| 12|  1|  0| 
 |Logan Webb      |SP          |  4| 24.000| 14| 5.250|     33| 1.375| 21|  1|  0| 
-|Mike Burrows    |SP          |  3| 16.000| 10| 5.625|     28| 1.750| 15|  1|  0| 
+|Mike Burrows    |SP          |  4| 22.000| 16| 6.545|     40| 1.818| 18|  1|  0| 
 |Tanner Bibee    |SP          |  4| 18.333| 13| 6.382|     30| 1.636| 18|  0|  0| 
 |Trevor Rogers   |SP          |  3| 19.000|  4| 1.895|     20| 1.053| 14|  2|  0| 
 |Zac Gallen      |SP          |  4| 20.000|  8| 3.600|     29| 1.450| 11|  1|  0| 
 |Emilio Pagán    |RP          |  8|  8.333|  5| 5.400|     12| 1.440|  8|  1|  4| 
 |Raisel Iglesias |RP          |  5|  5.667|  0| 0.000|      3| 0.529|  5|  0|  2| 
-|David Peterson  |OP          |  3| 14.667| 10| 6.136|     27| 1.841| 14|  0|  0| 
+|David Peterson  |OP          |  4| 19.667| 14| 6.407|     36| 1.831| 21|  0|  0| 
 |Michael Wacha   |OP          |  3| 21.000|  1| 0.429|     15| 0.714| 17|  2|  0| 
 |Mitch Keller    |OP          |  3| 18.000|  2| 1.000|     17| 0.944| 11|  1|  0| 
 |Pete Fairbanks  |OP          |  4|  4.000|  3| 6.750|      5| 1.250|  6|  0|  2| 

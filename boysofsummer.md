@@ -6,20 +6,20 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |William Contreras |C         |     23|  9|   9|  2|  0| 
-|Nick Kurtz        |1B        |     24|  8|   3|  1|  2| 
-|Ketel Marte       |2B        |     18|  7|   7|  2|  0| 
+|Nick Kurtz        |1B        |     25|  8|   3|  1|  2| 
+|Ketel Marte       |2B        |     20|  9|   9|  4|  0| 
 |Noelvi Marte      |3B        |      6|  2|   0|  0|  1| 
-|Trea Turner       |SS        |     20| 11|   5|  1|  1| 
-|Otto Lopez        |MI        |     23| 10|   6|  2|  2| 
+|Trea Turner       |SS        |     21| 12|   5|  1|  1| 
+|Otto Lopez        |MI        |     24| 10|   7|  2|  2| 
 |Royce Lewis       |CI        |     17|  6|   8|  2|  2| 
 |Brenton Doyle     |OF        |     13|  8|   1|  1|  2| 
-|Byron Buxton      |OF        |     16|  9|   1|  0|  0| 
-|Michael Harris II |OF        |     14|  5|   7|  2|  1| 
+|Byron Buxton      |OF        |     18| 11|   2|  1|  0| 
+|Michael Harris II |OF        |     17|  5|   7|  2|  1| 
 |Riley Greene      |OF        |     24| 11|  10|  1|  1| 
 |Heliot Ramos      |DH        |     16|  5|   6|  0|  0| 
-|Iván Herrera      |DH        |     26|  4|   6|  0|  0| 
+|Iván Herrera      |DH        |     27|  4|   6|  0|  0| 
 |Jacob Wilson      |DH        |     15|  5|   3|  0|  0| 
-|Yainer Diaz       |DH        |     13|  4|   8|  1|  0| 
+|Yainer Diaz       |DH        |     14|  4|   9|  1|  0| 
 |Bryce Eldridge    |BAT BENCH |     **| **|  **| **| **| 
 |Gabriel Moreno    |BAT BENCH |     15|  6|   5|  0|  0| 
 

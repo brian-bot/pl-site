@@ -5,19 +5,19 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Drake Baldwin    |C         |     27| 15|  17|  5|  0| 
-|Tyler Soderstrom |1B        |     18|  7|  13|  2|  1| 
-|Brandon Lowe     |2B        |     22|  7|   9|  5|  0| 
+|Drake Baldwin    |C         |     29| 16|  17|  5|  0| 
+|Tyler Soderstrom |1B        |     19|  7|  13|  2|  1| 
+|Brandon Lowe     |2B        |     26|  9|  14|  6|  0| 
 |Manny Machado    |3B        |     25|  9|   9|  2|  1| 
 |Jeremy Peña      |SS        |     14|  5|   0|  0|  1| 
 |Luis García Jr.  |MI        |     14|  7|   8|  1|  0| 
 |Kyle Manzardo    |CI        |     11|  2|   2|  1|  0| 
 |Chandler Simpson |OF        |     26|  9|   4|  0|  7| 
 |Jackson Merrill  |OF        |     19| 12|  11|  3|  3| 
-|Julio Rodríguez  |OF        |     20|  6|   5|  1|  1| 
-|Yordan Alvarez   |OF        |     36| 12|  14|  6|  1| 
+|Julio Rodríguez  |OF        |     22|  8|   5|  1|  1| 
+|Yordan Alvarez   |OF        |     37| 12|  14|  6|  1| 
 |Carson Benge     |DH        |     12|  4|   3|  1|  5| 
-|Ian Happ         |DH        |     18|  7|   7|  4|  0| 
+|Ian Happ         |DH        |     20|  8|   7|  4|  0| 
 |Nolan Schanuel   |DH        |     21|  4|  11|  2|  0| 
 |Sal Frelick      |DH        |     17|  5|   3|  1|  0| 
 |Chase DeLauter   |BAT BENCH |     22|  9|  12|  5|  0| 
@@ -30,9 +30,9 @@
  
 |players              |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:--------------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Eury Pérez           |SP          |  3| 16.000|  9|  5.062|     22| 1.375| 18|  1|  0| 
+|Eury Pérez           |SP          |  4| 20.000| 12|  5.400|     31| 1.550| 20|  1|  0| 
 |Freddy Peralta       |SP          |  4| 21.000|  9|  3.857|     24| 1.143| 25|  1|  0| 
-|Garrett Crochet      |SP          |  3| 17.333|  6|  3.115|     18| 1.038| 22|  2|  0| 
+|Garrett Crochet      |SP          |  4| 19.000| 16|  7.579|     30| 1.579| 22|  2|  0| 
 |Hunter Brown         |SP          |  2| 10.667|  1|  0.844|     11| 1.031| 17|  1|  0| 
 |Kevin Gausman        |SP          |  3| 17.333|  4|  2.077|     11| 0.635| 26|  0|  0| 
 |Shane Smith          |SP          |  3|  8.333| 10| 10.800|     21| 2.520| 11|  0|  0| 
