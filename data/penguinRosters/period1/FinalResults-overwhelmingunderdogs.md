@@ -9,7 +9,7 @@
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith       |C         |     24|  8|   8|  2|  0| 
 |Rafael Devers    |1B        |     21|  7|   6|  2|  0| 
-|Maikel Garcia    |2B        |     27| 10|   8|  2|  1| 
+|Maikel Garcia    |2B        |     28| 10|   8|  2|  1| 
 |Matt Chapman     |3B        |     24|  9|   7|  1|  0| 
 |Francisco Lindor |SS        |     25| 11|   1|  1|  2| 
 |Xavier Edwards   |MI        |     32| 14|   6|  1|  2| 
