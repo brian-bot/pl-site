@@ -10,15 +10,15 @@
 |Nico Hoerner    |2B        |      3|  1|   2|  1|  0| 
 |Max Muncy       |3B        |      3|  2|   3|  2|  0| 
 |Bobby Witt Jr.  |SS        |      3|  3|   1|  0|  0| 
-|Corey Seager    |MI        |     **| **|  **| **| **| 
+|Corey Seager    |MI        |      3|  2|   0|  0|  0| 
 |Freddie Freeman |CI        |      3|  1|   0|  0|  0| 
-|Evan Carter     |OF        |      0|  0|   0|  0|  0| 
+|Evan Carter     |OF        |      1|  0|   0|  0|  0| 
 |Jarren Duran    |OF        |      1|  1|   0|  0|  1| 
 |Kyle Schwarber  |OF        |      1|  0|   0|  0|  0| 
 |Oneil Cruz      |OF        |      4|  2|   3|  1|  2| 
 |Bryce Harper    |DH        |      3|  0|   0|  0|  0| 
 |Carlos Correa   |DH        |      2|  1|   0|  0|  0| 
-|Cole Young      |DH        |      1|  1|   0|  0|  0| 
+|Cole Young      |DH        |      4|  1|   0|  0|  0| 
 |Kevin McGonigle |DH        |      3|  2|   0|  0|  0| 
 |Marcell Ozuna   |BAT BENCH |      5|  2|   3|  1|  0| 
 
@@ -38,12 +38,12 @@
 |Dennis Santana   |RP          |  2| 2.000|  0|  0.0|      3|  1.5|  1|  0|  0| 
 |Ryan Walker      |RP          |  1| 1.000|  0|  0.0|      0|  0.0|  1|  0|  0| 
 |Gregory Soto     |OP          |  1| 1.000|  0|  0.0|      0|  0.0|  0|  0|  0| 
-|Jacob deGrom     |OP          | **|    **| **|   **|     **|   **| **| **| **| 
+|Jacob deGrom     |OP          |  1| 4.000|  0|  0.0|      6|  1.5|  3|  0|  0| 
 |Justin Wrobleski |OP          | **|    **| **|   **|     **|   **| **| **| **| 
 |Luis Gil         |OP          | **|    **| **|   **|     **|   **| **| **| **| 
 |Reynaldo López   |OP          | **|    **| **|   **|     **|   **| **| **| **| 
 |Cole Sands       |PITCH BENCH |  1| 1.000|  0|  0.0|      1|  1.0|  2|  0|  0| 
-|Cole Winn        |PITCH BENCH | **|    **| **|   **|     **|   **| **| **| **| 
+|Cole Winn        |PITCH BENCH |  1| 1.000|  0|  0.0|      1|  1.0|  1|  0|  0| 
 |Didier Fuentes   |PITCH BENCH | **|    **| **|   **|     **|   **| **| **| **| 
 |Griffin Canning  |PITCH BENCH | **|    **| **|   **|     **|   **| **| **| **| 
 |Justin Steele    |PITCH BENCH | **|    **| **|   **|     **|   **| **| **| **| 

@@ -5,12 +5,12 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|Cal Raleigh           |C         |      2|  0|   1|  0|  0| 
-|Vladimir Guerrero Jr. |1B        |      1|  0|   0|  0|  0| 
+|Cal Raleigh           |C         |      3|  0|   1|  0|  0| 
+|Vladimir Guerrero Jr. |1B        |      2|  0|   1|  0|  0| 
 |Luke Keaschall        |2B        |      0|  0|   0|  0|  0| 
 |José Ramírez          |3B        |      7|  3|   2|  1|  1| 
 |Willy Adames          |SS        |      4|  2|   0|  0|  0| 
-|Xander Bogaerts       |MI        |      0|  0|   0|  0|  0| 
+|Xander Bogaerts       |MI        |      1|  0|   0|  0|  0| 
 |Matt Olson            |CI        |      4|  1|   1|  0|  0| 
 |Cody Bellinger        |OF        |      3|  2|   0|  0|  0| 
 |Daulton Varsho        |OF        |      1|  0|   0|  0|  0| 

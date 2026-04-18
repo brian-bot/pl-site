@@ -12,14 +12,14 @@
 |Elly De La Cruz   |SS        |      2|  1|   0|  0|  0| 
 |Trevor Story      |MI        |      0|  0|   0|  0|  0| 
 |Jac Caglianone    |CI        |      2|  1|   1|  0|  0| 
-|Brandon Nimmo     |OF        |      3|  0|   1|  0|  0| 
+|Brandon Nimmo     |OF        |      5|  1|   2|  1|  0| 
 |Jordan Walker     |OF        |      2|  1|   1|  0|  0| 
 |Kyle Tucker       |OF        |      1|  1|   0|  0|  0| 
-|Wyatt Langford    |OF        |      2|  1|   0|  0|  1| 
+|Wyatt Langford    |OF        |      5|  2|   1|  0|  1| 
 |Carter Jensen     |DH        |      4|  0|   1|  0|  0| 
 |Dansby Swanson    |DH        |      2|  2|   1|  0|  0| 
 |Jake Bauers       |DH        |      4|  3|   0|  0|  1| 
-|Jake Burger       |DH        |      1|  1|   1|  0|  0| 
+|Jake Burger       |DH        |      4|  2|   2|  0|  0| 
 |Addison Barger    |BAT BENCH |     **| **|  **| **| **| 
 |Kazuma Okamoto    |BAT BENCH |      0|  0|   0|  0|  0| 
 |Kyle Stowers      |BAT BENCH |     **| **|  **| **| **| 

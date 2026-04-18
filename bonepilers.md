@@ -8,13 +8,13 @@
 |Drake Baldwin    |C         |      2|  1|   0|  0|  0| 
 |Tyler Soderstrom |1B        |      1|  1|   0|  0|  0| 
 |Brandon Lowe     |2B        |      5|  0|   3|  0|  0| 
-|Manny Machado    |3B        |      2|  0|   1|  0|  0| 
+|Manny Machado    |3B        |      3|  0|   1|  0|  0| 
 |Konnor Griffin   |SS        |      4|  2|   1|  0|  1| 
-|Andrés Giménez   |MI        |      2|  1|   0|  0|  0| 
-|Nolan Schanuel   |CI        |      0|  0|   0|  0|  0| 
+|Andrés Giménez   |MI        |      3|  1|   0|  0|  1| 
+|Nolan Schanuel   |CI        |      3|  1|   1|  0|  0| 
 |Chandler Simpson |OF        |      1|  1|   0|  0|  0| 
 |Jackson Merrill  |OF        |      1|  0|   0|  0|  0| 
-|Julio Rodríguez  |OF        |      2|  0|   1|  0|  0| 
+|Julio Rodríguez  |OF        |      3|  0|   1|  0|  0| 
 |Yordan Alvarez   |OF        |      4|  2|   2|  1|  0| 
 |Carson Benge     |DH        |      1|  0|   0|  0|  0| 
 |Chase DeLauter   |DH        |      3|  2|   0|  0|  0| 

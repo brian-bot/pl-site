@@ -13,11 +13,11 @@
 |Matt McLain       |MI        |      1|  0|   0|  0|  0| 
 |Alec Burleson     |CI        |      3|  1|   0|  0|  0| 
 |Andy Pages        |OF        |      2|  1|   1|  0|  0| 
-|Jo Adell          |OF        |      3|  3|   4|  1|  0| 
+|Jo Adell          |OF        |      4|  3|   6|  1|  0| 
 |Randy Arozarena   |OF        |      2|  0|   0|  0|  0| 
 |Wilyer Abreu      |OF        |      0|  0|   0|  0|  0| 
 |Rece Hinds        |DH        |      0|  0|   0|  0|  0| 
-|Sam Antonacci     |DH        |      0|  0|   0|  0|  0| 
+|Sam Antonacci     |DH        |      2|  0|   0|  0|  0| 
 |Shohei Ohtani     |DH        |      2|  1|   0|  0|  0| 
 |Steven Kwan       |DH        |      4|  1|   1|  0|  0| 
 |Brent Rooker      |BAT BENCH |     **| **|  **| **| **| 
