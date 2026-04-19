@@ -13,7 +13,7 @@
 |Junior Caminero    |3B        |     27|  9|   6|  3|  0| 
 |Zach Neto          |SS        |     33| 17|   9|  5|  1| 
 |Mookie Betts       |MI        |      9|  7|   7|  2|  0| 
-|Sal Stewart        |CI        |     33| 13|  17|  7|  3| 
+|Sal Stewart        |CI        |     33| 13|  18|  7|  3| 
 |Aaron Judge        |OF        |     25| 15|  13|  7|  3| 
 |Fernando Tatis Jr. |OF        |     24|  7|   8|  0|  4| 
 |James Wood         |OF        |     33| 15|  14|  5|  3| 
