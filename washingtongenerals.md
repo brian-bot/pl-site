@@ -7,20 +7,20 @@
 |:---------------|:---------|------:|--:|---:|--:|--:| 
 |J.T. Realmuto   |C         |      2|  0|   0|  0|  0| 
 |Michael Busch   |1B        |      4|  2|   0|  0|  0| 
-|Nico Hoerner    |2B        |      3|  1|   2|  1|  0| 
-|Max Muncy       |3B        |      3|  2|   3|  2|  0| 
-|Bobby Witt Jr.  |SS        |      4|  3|   1|  0|  0| 
-|Corey Seager    |MI        |      4|  2|   0|  0|  0| 
+|Nico Hoerner    |2B        |      5|  1|   3|  1|  1| 
+|Max Muncy       |3B        |      6|  2|   3|  2|  0| 
+|Bobby Witt Jr.  |SS        |      7|  3|   1|  0|  0| 
+|Corey Seager    |MI        |      5|  3|   0|  0|  0| 
 |Freddie Freeman |CI        |      6|  1|   0|  0|  0| 
-|Evan Carter     |OF        |      3|  0|   1|  0|  0| 
+|Evan Carter     |OF        |      4|  0|   2|  0|  0| 
 |Jarren Duran    |OF        |      1|  1|   0|  0|  1| 
-|Kyle Schwarber  |OF        |      2|  0|   0|  0|  0| 
-|Oneil Cruz      |OF        |      5|  2|   3|  1|  2| 
-|Bryce Harper    |DH        |      3|  0|   0|  0|  0| 
-|Carlos Correa   |DH        |      4|  1|   0|  0|  0| 
-|Cole Young      |DH        |      7|  2|   2|  0|  1| 
+|Kyle Schwarber  |OF        |      5|  1|   2|  1|  0| 
+|Oneil Cruz      |OF        |      6|  2|   3|  1|  2| 
+|Bryce Harper    |DH        |      5|  0|   0|  0|  0| 
+|Carlos Correa   |DH        |      5|  1|   1|  0|  0| 
+|Cole Young      |DH        |      8|  2|   2|  0|  1| 
 |Kevin McGonigle |DH        |      5|  3|   1|  0|  0| 
-|Marcell Ozuna   |BAT BENCH |      7|  3|   5|  2|  0| 
+|Marcell Ozuna   |BAT BENCH |      8|  3|   5|  2|  0| 
 
 * * *
 

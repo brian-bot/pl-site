@@ -7,21 +7,21 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Shea Langeliers   |C         |      9|  4|   0|  0|  0| 
 |Yandy Díaz        |1B        |      5|  2|   0|  0|  0| 
-|Ozzie Albies      |2B        |      3|  1|   1|  0|  0| 
-|Austin Riley      |3B        |      4|  2|   5|  2|  0| 
-|Gunnar Henderson  |SS        |      2|  1|   2|  1|  0| 
-|Colson Montgomery |MI        |      7|  1|   3|  1|  0| 
-|Pete Alonso       |CI        |      4|  1|   1|  0|  0| 
-|Bryan Reynolds    |OF        |      4|  1|   0|  0|  0| 
-|Luis Robert Jr.   |OF        |      3|  0|   0|  0|  0| 
-|Ronald Acuña Jr.  |OF        |      4|  2|   0|  0|  0| 
+|Ozzie Albies      |2B        |      5|  1|   2|  0|  0| 
+|Austin Riley      |3B        |      6|  2|   6|  2|  0| 
+|Gunnar Henderson  |SS        |      3|  1|   2|  1|  0| 
+|Colson Montgomery |MI        |      9|  2|   4|  2|  0| 
+|Pete Alonso       |CI        |      5|  2|   1|  0|  0| 
+|Bryan Reynolds    |OF        |      6|  1|   3|  0|  0| 
+|Luis Robert Jr.   |OF        |      4|  0|   0|  0|  0| 
+|Ronald Acuña Jr.  |OF        |      6|  3|   0|  0|  0| 
 |Teoscar Hernández |OF        |      1|  0|   0|  0|  0| 
-|Cedric Mullins    |DH        |      4|  2|   3|  1|  0| 
+|Cedric Mullins    |DH        |      5|  2|   3|  1|  0| 
 |Giancarlo Stanton |DH        |      1|  1|   2|  1|  0| 
-|Marcus Semien     |DH        |      4|  1|   1|  0|  0| 
+|Marcus Semien     |DH        |      6|  1|   1|  0|  1| 
 |Seiya Suzuki      |DH        |      4|  3|   1|  0|  0| 
 |Anthony Volpe     |BAT BENCH |     **| **|  **| **| **| 
-|Dillon Dingler    |BAT BENCH |      3|  1|   2|  1|  0| 
+|Dillon Dingler    |BAT BENCH |      7|  2|   6|  2|  0| 
 |Jackson Holliday  |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -41,10 +41,10 @@
 |Abner Uribe       |RP          |  2| 1.667|  0| 0.000|      2| 1.200|  1|  1|  1| 
 |Joel Kuhnel       |RP          |  1| 1.333|  0| 0.000|      1| 0.750|  0|  0|  0| 
 |Brayan Bello      |OP          |  1| 4.000|  4| 9.000|      8| 2.000|  4|  0|  0| 
-|Bryan King        |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Bryan King        |OP          |  1| 2.000|  1| 4.500|      2| 1.000|  1|  0|  0| 
 |Carmen Mlodzinski |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Max Meyer         |OP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Roki Sasaki       |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Roki Sasaki       |OP          |  1| 4.667|  3| 5.786|      9| 1.929|  2|  0|  0| 
 |Carlos Estévez    |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
 |Josh Hader        |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
 |Spencer Strider   |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
