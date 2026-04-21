@@ -5,20 +5,20 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Drake Baldwin    |C         |      4|  2|   0|  0|  0| 
-|Tyler Soderstrom |1B        |      4|  2|   1|  0|  0| 
+|Drake Baldwin    |C         |      7|  4|   2|  0|  0| 
+|Tyler Soderstrom |1B        |      6|  3|   1|  0|  0| 
 |Brandon Lowe     |2B        |      6|  1|   3|  0|  0| 
 |Manny Machado    |3B        |      3|  0|   1|  0|  0| 
 |Konnor Griffin   |SS        |      6|  2|   3|  0|  3| 
 |Andrés Giménez   |MI        |      4|  2|   1|  0|  1| 
-|Nolan Schanuel   |CI        |      6|  1|   2|  0|  0| 
-|Chandler Simpson |OF        |      4|  1|   0|  0|  0| 
+|Nolan Schanuel   |CI        |      7|  2|   3|  0|  0| 
+|Chandler Simpson |OF        |      6|  2|   0|  0|  0| 
 |Jackson Merrill  |OF        |      1|  0|   0|  0|  0| 
-|Julio Rodríguez  |OF        |      6|  1|   2|  0|  0| 
-|Yordan Alvarez   |OF        |      8|  4|   4|  3|  0| 
+|Julio Rodríguez  |OF        |      8|  2|   2|  0|  1| 
+|Yordan Alvarez   |OF        |      9|  4|   4|  3|  0| 
 |Carson Benge     |DH        |      2|  0|   0|  0|  0| 
-|Chase DeLauter   |DH        |      3|  2|   0|  0|  0| 
-|Ian Happ         |DH        |      8|  3|   3|  2|  0| 
+|Chase DeLauter   |DH        |      4|  2|   0|  0|  0| 
+|Ian Happ         |DH        |     10|  4|   3|  2|  0| 
 |Sal Frelick      |DH        |      3|  1|   1|  0|  0| 
 |Bryce Eldridge   |BAT BENCH |     **| **|  **| **| **| 
 |Jeremy Peña      |BAT BENCH |     **| **|  **| **| **| 
@@ -43,7 +43,7 @@
 |Chad Patrick         |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Kyle Harrison        |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Seranthony Domínguez |OP          |  3| 2.333|  3| 11.571|      6| 2.571|  3|  0|  1| 
-|Spencer Arrighetti   |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Spencer Arrighetti   |OP          |  1| 5.000|  2|  3.600|      9| 1.800|  3|  1|  0| 
 |Zack Wheeler         |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Hunter Brown         |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Hunter Greene        |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 

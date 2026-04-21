@@ -5,25 +5,25 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Samuel Basallo    |C         |      0|  0|   0|  0|  0| 
+|Samuel Basallo    |C         |      4|  1|   2|  0|  0| 
 |Ben Rice          |1B        |      9|  6|   5|  4|  0| 
 |Jazz Chisholm Jr. |2B        |      5|  0|   0|  0|  1| 
-|Isaac Paredes     |3B        |      3|  0|   2|  0|  0| 
+|Isaac Paredes     |3B        |      6|  2|   4|  2|  0| 
 |Bo Bichette       |SS        |      2|  1|   0|  0|  0| 
-|Matt McLain       |MI        |      3|  0|   0|  0|  0| 
+|Matt McLain       |MI        |      4|  1|   0|  0|  0| 
 |Alec Burleson     |CI        |      5|  2|   1|  1|  0| 
-|Andy Pages        |OF        |      4|  2|   1|  0|  0| 
-|Jo Adell          |OF        |      5|  3|   6|  1|  0| 
+|Andy Pages        |OF        |      5|  3|   1|  0|  1| 
+|Jo Adell          |OF        |      6|  3|   6|  1|  0| 
 |Randy Arozarena   |OF        |      5|  2|   2|  1|  0| 
-|Wilyer Abreu      |OF        |      3|  2|   0|  0|  0| 
-|Rece Hinds        |DH        |      3|  1|   3|  0|  0| 
+|Wilyer Abreu      |OF        |      4|  2|   1|  0|  0| 
+|Rece Hinds        |DH        |      4|  1|   5|  0|  0| 
 |Sam Antonacci     |DH        |      4|  0|   0|  0|  0| 
-|Shohei Ohtani     |DH        |      5|  3|   1|  0|  0| 
-|Steven Kwan       |DH        |      4|  1|   2|  0|  0| 
+|Shohei Ohtani     |DH        |      8|  5|   1|  0|  1| 
+|Steven Kwan       |DH        |      5|  1|   2|  0|  0| 
 |Brent Rooker      |BAT BENCH |     **| **|  **| **| **| 
-|Caleb Durbin      |BAT BENCH |      3|  0|   1|  0|  0| 
+|Caleb Durbin      |BAT BENCH |      6|  1|   1|  0|  0| 
 |Jung Hoo Lee      |BAT BENCH |      7|  3|   1|  0|  0| 
-|TJ Friedl         |BAT BENCH |      3|  0|   3|  0|  1| 
+|TJ Friedl         |BAT BENCH |      4|  1|   3|  0|  1| 
 
 
 * * *

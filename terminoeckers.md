@@ -6,23 +6,23 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Hunter Goodman    |C         |      6|  3|   1|  1|  0| 
-|Willson Contreras |1B        |      3|  1|   1|  1|  0| 
+|Willson Contreras |1B        |      4|  1|   1|  1|  0| 
 |Brice Turang      |2B        |      8|  3|   3|  1|  0| 
-|Eugenio Suárez    |3B        |      6|  3|   2|  0|  0| 
-|Elly De La Cruz   |SS        |      4|  3|   1|  0|  0| 
-|Trevor Story      |MI        |      2|  0|   0|  0|  1| 
-|Jac Caglianone    |CI        |      3|  2|   1|  0|  0| 
+|Eugenio Suárez    |3B        |      7|  4|   2|  0|  0| 
+|Elly De La Cruz   |SS        |      5|  3|   2|  0|  0| 
+|Trevor Story      |MI        |      4|  2|   0|  0|  1| 
+|Jac Caglianone    |CI        |      5|  3|   2|  1|  0| 
 |Brandon Nimmo     |OF        |      8|  1|   2|  1|  0| 
-|Jordan Walker     |OF        |      5|  2|   1|  0|  1| 
+|Jordan Walker     |OF        |      7|  4|   1|  0|  2| 
 |Kyle Tucker       |OF        |      5|  2|   2|  1|  0| 
 |Wyatt Langford    |OF        |      9|  4|   1|  0|  1| 
-|Carter Jensen     |DH        |      7|  2|   3|  1|  0| 
-|Dansby Swanson    |DH        |      2|  2|   1|  0|  0| 
+|Carter Jensen     |DH        |      9|  2|   3|  1|  0| 
+|Dansby Swanson    |DH        |      3|  3|   4|  1|  0| 
 |Jake Bauers       |DH        |      4|  3|   0|  0|  1| 
 |Jake Burger       |DH        |      5|  2|   2|  0|  0| 
 |Addison Barger    |BAT BENCH |     **| **|  **| **| **| 
-|Kazuma Okamoto    |BAT BENCH |      5|  2|   4|  1|  0| 
-|Kyle Stowers      |BAT BENCH |      3|  0|   0|  0|  0| 
+|Kazuma Okamoto    |BAT BENCH |      6|  2|   4|  1|  0| 
+|Kyle Stowers      |BAT BENCH |      5|  2|   0|  0|  0| 
 
 
 * * *
@@ -37,8 +37,8 @@
 |Cam Schlittler  |SP          |  1| 6.000|  0|   0.000|      5|  0.833|  6|  0|  0| 
 |Connelly Early  |SP          | **|    **| **|      **|     **|     **| **| **| **| 
 |Drew Rasmussen  |SP          |  1| 3.667|  4|   9.818|      4|  1.091|  3|  0|  0| 
-|Kyle Bradish    |SP          | **|    **| **|      **|     **|     **| **| **| **| 
-|Aroldis Chapman |RP          |  1| 1.000|  0|   0.000|      3|  3.000|  1|  0|  0| 
+|Kyle Bradish    |SP          |  1| 5.333|  1|   1.688|     13|  2.438|  7|  0|  0| 
+|Aroldis Chapman |RP          |  2| 1.667|  0|   0.000|      4|  2.400|  2|  0|  1| 
 |Daniel Palencia |RP          | **|    **| **|      **|     **|     **| **| **| **| 
 |Andrew Painter  |OP          |  1| 4.000|  3|   6.750|      6|  1.500|  4|  0|  0| 
 |Mick Abel       |OP          | **|    **| **|      **|     **|     **| **| **| **| 
