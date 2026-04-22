@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Hunter Goodman    |C         |      6|  3|   1|  1|  0| 
-|Willson Contreras |1B        |      4|  1|   1|  1|  0| 
-|Brice Turang      |2B        |      8|  3|   3|  1|  0| 
+|Hunter Goodman    |C         |      7|  3|   1|  1|  0| 
+|Willson Contreras |1B        |      5|  1|   1|  1|  0| 
+|Brice Turang      |2B        |     10|  3|   7|  1|  0| 
 |Eugenio Suárez    |3B        |      7|  4|   2|  0|  0| 
-|Elly De La Cruz   |SS        |      5|  3|   2|  0|  0| 
-|Trevor Story      |MI        |      4|  2|   0|  0|  1| 
+|Elly De La Cruz   |SS        |      8|  6|   7|  2|  1| 
+|Trevor Story      |MI        |      5|  2|   0|  0|  1| 
 |Jac Caglianone    |CI        |      5|  3|   2|  1|  0| 
 |Brandon Nimmo     |OF        |      8|  1|   2|  1|  0| 
 |Jordan Walker     |OF        |      7|  4|   1|  0|  2| 
 |Kyle Tucker       |OF        |      5|  2|   2|  1|  0| 
-|Wyatt Langford    |OF        |      9|  4|   1|  0|  1| 
-|Carter Jensen     |DH        |      9|  2|   3|  1|  0| 
-|Dansby Swanson    |DH        |      3|  3|   4|  1|  0| 
-|Jake Bauers       |DH        |      4|  3|   0|  0|  1| 
-|Jake Burger       |DH        |      5|  2|   2|  0|  0| 
+|Wyatt Langford    |OF        |     10|  4|   1|  0|  2| 
+|Carter Jensen     |DH        |     12|  3|   3|  1|  0| 
+|Dansby Swanson    |DH        |      6|  3|   4|  1|  0| 
+|Jake Bauers       |DH        |      6|  3|   1|  0|  1| 
+|Jake Burger       |DH        |      6|  2|   2|  0|  0| 
 |Addison Barger    |BAT BENCH |     **| **|  **| **| **| 
 |Kazuma Okamoto    |BAT BENCH |      6|  2|   4|  1|  0| 
-|Kyle Stowers      |BAT BENCH |      5|  2|   0|  0|  0| 
+|Kyle Stowers      |BAT BENCH |      6|  2|   0|  0|  0| 
 
 
 * * *
@@ -35,7 +35,7 @@
 |Bryan Woo       |SP          |  1| 7.000|  2|   2.571|      5|  0.714|  6|  1|  0| 
 |Bubba Chandler  |SP          |  1| 6.000|  1|   1.500|      4|  0.667|  3|  1|  0| 
 |Cam Schlittler  |SP          |  1| 6.000|  0|   0.000|      5|  0.833|  6|  0|  0| 
-|Connelly Early  |SP          | **|    **| **|      **|     **|     **| **| **| **| 
+|Connelly Early  |SP          |  1| 5.333|  3|   5.062|      8|  1.500|  4|  0|  0| 
 |Drew Rasmussen  |SP          |  1| 3.667|  4|   9.818|      4|  1.091|  3|  0|  0| 
 |Kyle Bradish    |SP          |  1| 5.333|  1|   1.688|     13|  2.438|  7|  0|  0| 
 |Aroldis Chapman |RP          |  2| 1.667|  0|   0.000|      4|  2.400|  2|  0|  1| 
@@ -44,11 +44,11 @@
 |Mick Abel       |OP          | **|    **| **|      **|     **|     **| **| **| **| 
 |Robert Suarez   |OP          |  2| 2.000|  0|   0.000|      0|  0.000|  3|  0|  1| 
 |Ryne Nelson     |OP          |  1| 0.333|  8| 216.000|      9| 27.000|  1|  0|  0| 
-|Steven Matz     |OP          |  1| 5.333|  2|   3.375|      7|  1.312|  4|  0|  0| 
+|Steven Matz     |OP          |  2| 8.333|  6|   6.480|     15|  1.800|  8|  0|  0| 
 |Bryan Abreu     |PITCH BENCH |  1| 1.000|  3|  27.000|      3|  3.000|  0|  0|  0| 
 |Bryce Miller    |PITCH BENCH | **|    **| **|      **|     **|     **| **| **| **| 
 |Ryan Pepiot     |PITCH BENCH | **|    **| **|      **|     **|     **| **| **| **| 
-|Tanner Scott    |PITCH BENCH | **|    **| **|      **|     **|     **| **| **| **| 
+|Tanner Scott    |PITCH BENCH |  1| 1.000|  0|   0.000|      1|  1.000|  1|  0|  0| 
 
 
 * * *
