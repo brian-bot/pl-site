@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Hunter Goodman    |C         |      7|  3|   1|  1|  0| 
-|Willson Contreras |1B        |      5|  1|   1|  1|  0| 
-|Brice Turang      |2B        |     10|  3|   7|  1|  0| 
+|Hunter Goodman    |C         |     11|  5|   2|  2|  0| 
+|Willson Contreras |1B        |      6|  1|   1|  1|  0| 
+|Brice Turang      |2B        |     12|  4|   7|  1|  1| 
 |Eugenio Suárez    |3B        |      7|  4|   2|  0|  0| 
 |Elly De La Cruz   |SS        |      8|  6|   7|  2|  1| 
-|Trevor Story      |MI        |      5|  2|   0|  0|  1| 
-|Jac Caglianone    |CI        |      5|  3|   2|  1|  0| 
-|Brandon Nimmo     |OF        |      8|  1|   2|  1|  0| 
+|Trevor Story      |MI        |      6|  3|   0|  0|  1| 
+|Jac Caglianone    |CI        |      6|  3|   2|  1|  0| 
+|Brandon Nimmo     |OF        |      9|  2|   2|  1|  0| 
 |Jordan Walker     |OF        |      7|  4|   1|  0|  2| 
 |Kyle Tucker       |OF        |      5|  2|   2|  1|  0| 
 |Wyatt Langford    |OF        |     10|  4|   1|  0|  2| 
-|Carter Jensen     |DH        |     12|  3|   3|  1|  0| 
-|Dansby Swanson    |DH        |      6|  3|   4|  1|  0| 
-|Jake Bauers       |DH        |      6|  3|   1|  0|  1| 
-|Jake Burger       |DH        |      6|  2|   2|  0|  0| 
+|Carter Jensen     |DH        |     15|  5|   5|  2|  0| 
+|Dansby Swanson    |DH        |      7|  3|   4|  1|  0| 
+|Jake Bauers       |DH        |      7|  3|   2|  0|  1| 
+|Jake Burger       |DH        |      7|  2|   4|  0|  0| 
 |Addison Barger    |BAT BENCH |     **| **|  **| **| **| 
-|Kazuma Okamoto    |BAT BENCH |      6|  2|   4|  1|  0| 
+|Kazuma Okamoto    |BAT BENCH |      8|  3|   4|  1|  0| 
 |Kyle Stowers      |BAT BENCH |      6|  2|   0|  0|  0| 
 
 
@@ -42,7 +42,7 @@
 |Daniel Palencia |RP          | **|    **| **|      **|     **|     **| **| **| **| 
 |Andrew Painter  |OP          |  1| 4.000|  3|   6.750|      6|  1.500|  4|  0|  0| 
 |Mick Abel       |OP          | **|    **| **|      **|     **|     **| **| **| **| 
-|Robert Suarez   |OP          |  2| 2.000|  0|   0.000|      0|  0.000|  3|  0|  1| 
+|Robert Suarez   |OP          |  3| 3.000|  0|   0.000|      1|  0.333|  3|  0|  2| 
 |Ryne Nelson     |OP          |  1| 0.333|  8| 216.000|      9| 27.000|  1|  0|  0| 
 |Steven Matz     |OP          |  2| 8.333|  6|   6.480|     15|  1.800|  8|  0|  0| 
 |Bryan Abreu     |PITCH BENCH |  1| 1.000|  3|  27.000|      3|  3.000|  0|  0|  0| 

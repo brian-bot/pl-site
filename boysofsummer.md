@@ -5,22 +5,22 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras |C         |      7|  2|   2|  0|  0| 
-|Nick Kurtz        |1B        |     16|  4|   7|  2|  1| 
-|Ketel Marte       |2B        |      6|  4|   0|  0|  0| 
-|Max Muncy         |3B        |      5|  2|   2|  0|  0| 
-|Trea Turner       |SS        |      6|  1|   0|  0|  2| 
-|Otto Lopez        |MI        |      7|  6|   3|  1|  1| 
-|TJ Rumfield       |CI        |      4|  1|   3|  1|  0| 
-|Byron Buxton      |OF        |      6|  3|   2|  1|  0| 
-|Garrett Mitchell  |OF        |     10|  5|   5|  0|  1| 
-|Michael Harris II |OF        |     10|  4|   4|  2|  0| 
-|Riley Greene      |OF        |     13|  4|   4|  0|  0| 
-|Heliot Ramos      |DH        |      9|  3|   6|  2|  0| 
-|Iván Herrera      |DH        |      9|  4|   4|  1|  0| 
-|Jacob Wilson      |DH        |      9|  4|   5|  1|  1| 
-|Josh Bell         |DH        |      6|  2|   1|  0|  0| 
-|Ernie Clement     |BAT BENCH |      9|  2|   0|  0|  0| 
+|William Contreras |C         |      8|  2|   3|  0|  0| 
+|Nick Kurtz        |1B        |     19|  6|   8|  3|  1| 
+|Ketel Marte       |2B        |      8|  5|   0|  0|  0| 
+|Max Muncy         |3B        |      7|  2|   2|  0|  0| 
+|Trea Turner       |SS        |      7|  1|   0|  0|  2| 
+|Otto Lopez        |MI        |      8|  7|   3|  1|  1| 
+|TJ Rumfield       |CI        |      6|  1|   5|  1|  0| 
+|Byron Buxton      |OF        |      7|  4|   3|  2|  0| 
+|Garrett Mitchell  |OF        |     11|  5|   5|  0|  2| 
+|Michael Harris II |OF        |     12|  6|   7|  4|  0| 
+|Riley Greene      |OF        |     15|  5|   4|  0|  0| 
+|Heliot Ramos      |DH        |     11|  4|   6|  2|  0| 
+|Iván Herrera      |DH        |     11|  5|   5|  2|  0| 
+|Jacob Wilson      |DH        |     11|  4|   6|  1|  1| 
+|Josh Bell         |DH        |      7|  2|   1|  0|  0| 
+|Ernie Clement     |BAT BENCH |     12|  2|   1|  0|  0| 
 |Yainer Diaz       |BAT BENCH |      3|  1|   1|  0|  0| 
 
 
@@ -34,7 +34,7 @@
 |Jack Flaherty    |SP          |  1|  3.333|  0|  0.000|      9| 2.700|  3|  0|  0| 
 |Luis Castillo    |SP          |  2| 10.333|  3|  2.613|     17| 1.645|  9|  0|  0| 
 |MacKenzie Gore   |SP          |  1|  5.000|  5|  9.000|      8| 1.600|  5|  0|  0| 
-|Nick Martinez    |SP          |  1|  5.333|  2|  3.375|     11| 2.062|  3|  0|  0| 
+|Nick Martinez    |SP          |  2| 13.333|  3|  2.025|     17| 1.275|  9|  1|  0| 
 |Nolan McLean     |SP          |  1|  6.667|  3|  4.050|      5| 0.750| 10|  0|  0| 
 |Tarik Skubal     |SP          |  1|  6.000|  1|  1.500|      6| 1.000| 10|  1|  0| 
 |Edwin Díaz       |RP          |  1|  0.000|  3|    Inf|      4|   Inf|  0|  0|  0| 

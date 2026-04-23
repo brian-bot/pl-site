@@ -5,23 +5,23 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith       |C         |      4|  2|   3|  0|  0| 
-|Rafael Devers    |1B        |      5|  0|   3|  0|  0| 
+|Will Smith       |C         |      5|  2|   3|  0|  0| 
+|Rafael Devers    |1B        |      7|  0|   3|  0|  0| 
 |Maikel Garcia    |2B        |      9|  4|   2|  0|  1| 
-|Matt Chapman     |3B        |      9|  4|   5|  0|  0| 
-|Francisco Lindor |SS        |      6|  2|   3|  1|  0| 
+|Matt Chapman     |3B        |     11|  4|   5|  0|  0| 
+|Francisco Lindor |SS        |      8|  3|   4|  1|  0| 
 |Xavier Edwards   |MI        |     12|  4|   1|  0|  0| 
-|Alex Bregman     |CI        |      8|  2|   0|  0|  0| 
+|Alex Bregman     |CI        |     11|  3|   0|  0|  0| 
 |Brendan Donovan  |OF        |      3|  1|   0|  0|  0| 
-|Jakob Marsee     |OF        |      9|  3|   1|  1|  0| 
+|Jakob Marsee     |OF        |     11|  3|   3|  1|  1| 
 |Roman Anthony    |OF        |      8|  0|   1|  0|  1| 
 |Trent Grisham    |OF        |      4|  1|   3|  1|  0| 
-|Christian Walker |DH        |      7|  4|   2|  1|  0| 
-|Jonathan Aranda  |DH        |     12|  4|   4|  1|  0| 
-|Miguel Vargas    |DH        |     10|  6|   4|  3|  0| 
-|Ryan Jeffers     |DH        |      4|  1|   2|  0|  0| 
+|Christian Walker |DH        |      9|  4|   2|  1|  0| 
+|Jonathan Aranda  |DH        |     14|  4|   4|  1|  0| 
+|Miguel Vargas    |DH        |     13|  9|   5|  4|  1| 
+|Ryan Jeffers     |DH        |      5|  1|   2|  0|  0| 
 |George Springer  |BAT BENCH |     **| **|  **| **| **| 
-|Juan Soto        |BAT BENCH |     **| **|  **| **| **| 
+|Juan Soto        |BAT BENCH |      2|  0|   0|  0|  0| 
 
 * * *
 
@@ -47,7 +47,7 @@
 |Grayson Rodriguez  |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Ian Seymour        |PITCH BENCH |  3| 4.000|  1|  2.250|      5| 1.250|  5|  0|  0| 
 |Trevor Megill      |PITCH BENCH |  3| 3.000|  0|  0.000|      1| 0.333|  5|  0|  1| 
-|Tyler Mahle        |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Tyler Mahle        |PITCH BENCH |  1| 7.000|  0|  0.000|      5| 0.714|  5|  1|  0| 
 
 
 * * *

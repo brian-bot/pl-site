@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Shea Langeliers   |C         |     13|  6|   2|  2|  0| 
-|Yandy Díaz        |1B        |      7|  2|   1|  0|  0| 
-|Ozzie Albies      |2B        |      7|  2|   3|  0|  0| 
+|Shea Langeliers   |C         |     14|  7|   2|  2|  0| 
+|Yandy Díaz        |1B        |     10|  3|   2|  0|  0| 
+|Ozzie Albies      |2B        |      8|  3|   3|  0|  0| 
 |Austin Riley      |3B        |      8|  3|   7|  2|  0| 
 |Gunnar Henderson  |SS        |      6|  2|   2|  1|  0| 
-|Colson Montgomery |MI        |     11|  4|   7|  3|  0| 
-|Pete Alonso       |CI        |      8|  2|   1|  0|  0| 
-|Bryan Reynolds    |OF        |      7|  1|   3|  0|  0| 
+|Colson Montgomery |MI        |     12|  5|   9|  4|  0| 
+|Pete Alonso       |CI        |     10|  4|   3|  1|  0| 
+|Bryan Reynolds    |OF        |      9|  2|   4|  0|  0| 
 |Luis Robert Jr.   |OF        |      4|  0|   0|  0|  0| 
-|Ronald Acuña Jr.  |OF        |      9|  4|   0|  0|  0| 
+|Ronald Acuña Jr.  |OF        |     10|  5|   1|  0|  0| 
 |Teoscar Hernández |OF        |      4|  1|   1|  0|  0| 
 |Cedric Mullins    |DH        |      6|  2|   3|  1|  1| 
-|Giancarlo Stanton |DH        |      3|  2|   5|  2|  0| 
-|Marcus Semien     |DH        |      7|  2|   1|  0|  1| 
-|Seiya Suzuki      |DH        |      8|  4|   3|  1|  0| 
+|Giancarlo Stanton |DH        |      5|  3|   5|  2|  0| 
+|Marcus Semien     |DH        |      8|  2|   1|  0|  2| 
+|Seiya Suzuki      |DH        |     10|  5|   5|  2|  0| 
 |Anthony Volpe     |BAT BENCH |     **| **|  **| **| **| 
 |Dillon Dingler    |BAT BENCH |      8|  3|   6|  2|  0| 
 |Jackson Holliday  |BAT BENCH |     **| **|  **| **| **| 
@@ -39,7 +39,7 @@
 |Tyler Glasnow     |SP          |  1| 7.000|  1|  1.286|      4| 0.571|  7|  1|  0| 
 |Yusei Kikuchi     |SP          |  1| 6.000|  0|  0.000|      5| 0.833|  8|  0|  0| 
 |Abner Uribe       |RP          |  2| 1.667|  0|  0.000|      2| 1.200|  1|  1|  1| 
-|Joel Kuhnel       |RP          |  2| 2.333|  1|  3.857|      3| 1.286|  0|  0|  1| 
+|Joel Kuhnel       |RP          |  3| 3.000|  2|  6.000|      7| 2.333|  0|  0|  1| 
 |Brayan Bello      |OP          |  1| 4.000|  4|  9.000|      8| 2.000|  4|  0|  0| 
 |Bryan King        |OP          |  2| 2.667|  4| 13.500|      6| 2.250|  1|  0|  0| 
 |Carmen Mlodzinski |OP          |  1| 4.333|  5| 10.385|      8| 1.846|  6|  0|  0| 
