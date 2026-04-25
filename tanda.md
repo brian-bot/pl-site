@@ -5,24 +5,24 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|Cal Raleigh           |C         |     12|  4|   4|  3|  1| 
-|Vladimir Guerrero Jr. |1B        |     11|  6|   5|  1|  0| 
+|Cal Raleigh           |C         |     13|  4|   4|  3|  1| 
+|Vladimir Guerrero Jr. |1B        |     11|  6|   6|  1|  0| 
 |Luke Keaschall        |2B        |      4|  0|   3|  0|  2| 
-|José Ramírez          |3B        |     16|  9|   4|  3|  3| 
+|José Ramírez          |3B        |     18| 10|   4|  3|  3| 
 |Willy Adames          |SS        |      6|  4|   0|  0|  0| 
 |Xander Bogaerts       |MI        |     12|  4|   3|  1|  0| 
-|Matt Olson            |CI        |     11|  7|   8|  2|  0| 
-|Cody Bellinger        |OF        |     13|  7|   7|  2|  0| 
+|Matt Olson            |CI        |     13|  7|   8|  2|  0| 
+|Cody Bellinger        |OF        |     14|  8|   7|  2|  0| 
 |Daulton Varsho        |OF        |      5|  0|   0|  0|  0| 
-|Pete Crow-Armstrong   |OF        |      9|  2|   2|  0|  1| 
+|Pete Crow-Armstrong   |OF        |     11|  4|   2|  0|  1| 
 |Ramón Laureano        |OF        |      7|  1|   5|  0|  0| 
-|Angel Martínez        |DH        |      3|  2|   1|  1|  0| 
-|Cam Smith             |DH        |      5|  3|   1|  0|  1| 
-|Jorge Soler           |DH        |      4|  0|   1|  0|  0| 
-|Kerry Carpenter       |DH        |      7|  2|   4|  2|  0| 
+|Angel Martínez        |DH        |      5|  4|   5|  3|  0| 
+|Cam Smith             |DH        |      6|  3|   2|  0|  1| 
+|Jorge Soler           |DH        |      6|  0|   1|  0|  0| 
+|Kerry Carpenter       |DH        |      8|  3|   6|  3|  0| 
 |Christian Yelich      |BAT BENCH |     **| **|  **| **| **| 
-|Francisco Alvarez     |BAT BENCH |      5|  1|   3|  0|  0| 
-|Royce Lewis           |BAT BENCH |      1|  0|   0|  0|  0| 
+|Francisco Alvarez     |BAT BENCH |      6|  1|   3|  0|  0| 
+|Royce Lewis           |BAT BENCH |      2|  1|   1|  1|  0| 
 
 
 * * *
@@ -33,7 +33,7 @@
 |players         |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:---------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Bryce Elder     |SP          |  1|  6.667|  3|  4.050|      5| 0.750|  6|  1|  0| 
-|Framber Valdez  |SP          |  1|  6.000|  1|  1.500|      5| 0.833|  7|  1|  0| 
+|Framber Valdez  |SP          |  2| 10.333|  3|  2.613|     14| 1.355| 11|  1|  0| 
 |Jeffrey Springs |SP          |  1|  5.000|  7| 12.600|     10| 2.000|  7|  0|  0| 
 |Logan Webb      |SP          |  2| 13.000|  6|  4.154|     18| 1.385| 11|  1|  0| 
 |Tanner Bibee    |SP          |  2| 12.000|  2|  1.500|     14| 1.167|  8|  0|  0| 
