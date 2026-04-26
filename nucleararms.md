@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Shea Langeliers   |C         |     14|  7|   2|  2|  0| 
-|Yandy Díaz        |1B        |     11|  3|   2|  0|  0| 
-|Ozzie Albies      |2B        |     13|  5|   7|  1|  0| 
-|Austin Riley      |3B        |     11|  5|   7|  2|  0| 
+|Shea Langeliers   |C         |     16|  8|   2|  2|  0| 
+|Yandy Díaz        |1B        |     13|  5|   2|  0|  0| 
+|Ozzie Albies      |2B        |     16|  6|   8|  1|  0| 
+|Austin Riley      |3B        |     12|  5|   8|  2|  0| 
 |Gunnar Henderson  |SS        |      9|  5|   3|  2|  0| 
-|Colson Montgomery |MI        |     17|  5|  10|  4|  0| 
+|Colson Montgomery |MI        |     19|  7|  10|  4|  0| 
 |Pete Alonso       |CI        |     11|  4|   3|  1|  0| 
-|Bryan Reynolds    |OF        |     11|  2|   4|  0|  0| 
+|Bryan Reynolds    |OF        |     14|  4|   5|  0|  0| 
 |Luis Robert Jr.   |OF        |      5|  1|   1|  0|  0| 
-|Ronald Acuña Jr.  |OF        |     14|  6|   3|  1|  0| 
-|Teoscar Hernández |OF        |      4|  1|   1|  0|  0| 
-|Cedric Mullins    |DH        |      7|  2|   3|  1|  2| 
+|Ronald Acuña Jr.  |OF        |     15|  6|   3|  1|  1| 
+|Teoscar Hernández |OF        |      7|  3|   3|  0|  0| 
+|Cedric Mullins    |DH        |      8|  3|   3|  1|  3| 
 |Giancarlo Stanton |DH        |      6|  3|   6|  2|  0| 
 |Marcus Semien     |DH        |     10|  4|   1|  0|  3| 
-|Seiya Suzuki      |DH        |     15|  7|   6|  3|  0| 
+|Seiya Suzuki      |DH        |     18|  8|   7|  4|  0| 
 |Anthony Volpe     |BAT BENCH |     **| **|  **| **| **| 
 |Dillon Dingler    |BAT BENCH |     10|  3|   7|  2|  0| 
 |Jackson Holliday  |BAT BENCH |     **| **|  **| **| **| 
@@ -38,13 +38,13 @@
 |Taj Bradley       |SP          |  2| 12.333|  8|  5.838|     17| 1.378|  8|  0|  0| 
 |Tyler Glasnow     |SP          |  2| 15.000|  1|  0.600|      6| 0.400| 16|  2|  0| 
 |Yusei Kikuchi     |SP          |  2| 11.000|  5|  4.091|     12| 1.091| 13|  0|  0| 
-|Abner Uribe       |RP          |  3|  2.000|  1|  4.500|      3| 1.500|  2|  1|  1| 
+|Abner Uribe       |RP          |  4|  3.000|  1|  3.000|      3| 1.000|  3|  1|  1| 
 |Joel Kuhnel       |RP          |  3|  3.000|  2|  6.000|      7| 2.333|  0|  0|  1| 
 |Brayan Bello      |OP          |  2|  7.333| 12| 14.727|     22| 3.000|  6|  0|  0| 
 |Bryan King        |OP          |  2|  2.667|  4| 13.500|      6| 2.250|  1|  0|  0| 
 |Carmen Mlodzinski |OP          |  1|  4.333|  5| 10.385|      8| 1.846|  6|  0|  0| 
 |Max Meyer         |OP          |  1|  5.333|  2|  3.375|      5| 0.938|  8|  0|  0| 
-|Roki Sasaki       |OP          |  1|  4.667|  3|  5.786|      9| 1.929|  2|  0|  0| 
+|Roki Sasaki       |OP          |  2|  9.667|  7|  6.517|     17| 1.759|  7|  1|  0| 
 |Carlos Estévez    |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Josh Hader        |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Spencer Strider   |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 

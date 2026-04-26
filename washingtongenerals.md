@@ -6,21 +6,21 @@
 |players         |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------|:---------|------:|--:|---:|--:|--:| 
 |J.T. Realmuto   |C         |      2|  0|   0|  0|  0| 
-|Michael Busch   |1B        |     13|  6|   7|  2|  0| 
-|Nico Hoerner    |2B        |     12|  4|   5|  2|  1| 
-|Max Muncy       |3B        |     17|  9|   5|  4|  0| 
-|Bobby Witt Jr.  |SS        |     14|  4|   3|  0|  1| 
-|Corey Seager    |MI        |     10|  6|   4|  1|  0| 
-|Freddie Freeman |CI        |     11|  1|   0|  0|  0| 
-|Evan Carter     |OF        |     10|  1|   5|  1|  1| 
-|Jarren Duran    |OF        |      6|  1|   1|  0|  2| 
-|Kyle Schwarber  |OF        |      9|  3|   3|  2|  0| 
+|Michael Busch   |1B        |     14|  6|   8|  2|  0| 
+|Nico Hoerner    |2B        |     14|  4|   5|  2|  1| 
+|Max Muncy       |3B        |     20| 10|   7|  5|  0| 
+|Bobby Witt Jr.  |SS        |     17|  5|   3|  0|  1| 
+|Corey Seager    |MI        |     12|  7|   5|  1|  0| 
+|Freddie Freeman |CI        |     12|  2|   1|  0|  0| 
+|Evan Carter     |OF        |     11|  2|   5|  1|  1| 
+|Jarren Duran    |OF        |      7|  2|   1|  0|  2| 
+|Kyle Schwarber  |OF        |     11|  4|   3|  2|  0| 
 |Oneil Cruz      |OF        |      9|  5|   8|  3|  3| 
-|Bryce Harper    |DH        |     11|  3|   3|  2|  0| 
-|Carlos Correa   |DH        |     12|  3|   4|  0|  0| 
-|Cole Young      |DH        |     11|  3|   3|  0|  1| 
-|Kevin McGonigle |DH        |     15|  8|   3|  0|  1| 
-|Marcell Ozuna   |BAT BENCH |     10|  3|   6|  2|  0| 
+|Bryce Harper    |DH        |     14|  5|   7|  2|  0| 
+|Carlos Correa   |DH        |     15|  5|   5|  1|  0| 
+|Cole Young      |DH        |     15|  6|   4|  1|  1| 
+|Kevin McGonigle |DH        |     18|  9|   4|  1|  1| 
+|Marcell Ozuna   |BAT BENCH |     11|  3|   6|  2|  0| 
 
 * * *
 
@@ -35,15 +35,15 @@
 |Nathan Eovaldi   |SP          |  2| 11.000|  8|  6.545|     16| 1.455|  6|  0|  0| 
 |Randy Vásquez    |SP          |  1|  7.000|  0|  0.000|      3| 0.429|  5|  1|  0| 
 |Sonny Gray       |SP          |  1|  2.667|  1|  3.375|      4| 1.500|  2|  0|  0| 
-|Dennis Santana   |RP          |  3|  3.000|  0|  0.000|      3| 1.000|  3|  0|  0| 
-|Ryan Walker      |RP          |  4|  5.000|  1|  1.800|      6| 1.200|  5|  0|  2| 
-|Gregory Soto     |OP          |  3|  3.000|  2|  6.000|      4| 1.333|  4|  1|  0| 
+|Dennis Santana   |RP          |  4|  4.000|  0|  0.000|      5| 1.250|  4|  0|  0| 
+|Ryan Walker      |RP          |  5|  6.000|  1|  1.500|      7| 1.167|  5|  0|  2| 
+|Gregory Soto     |OP          |  4|  4.000|  2|  4.500|      4| 1.000|  5|  2|  0| 
 |Jacob deGrom     |OP          |  2|  9.667|  1|  0.931|     12| 1.241| 13|  1|  0| 
 |Justin Wrobleski |OP          |  1|  7.000|  1|  1.286|      8| 1.143|  3|  1|  0| 
 |Luis Gil         |OP          |  1|  6.333|  0|  0.000|      5| 0.789|  2|  1|  0| 
 |Reynaldo López   |OP          |  1|  1.000|  4| 36.000|      8| 8.000|  1|  0|  0| 
 |Cole Sands       |PITCH BENCH |  3|  4.000|  1|  2.250|      3| 0.750|  5|  1|  0| 
-|Cole Winn        |PITCH BENCH |  3|  2.333|  3| 11.571|      4| 1.714|  4|  0|  0| 
+|Cole Winn        |PITCH BENCH |  4|  3.333|  3|  8.100|      4| 1.200|  5|  1|  0| 
 |Didier Fuentes   |PITCH BENCH |  1|  3.000|  4| 12.000|      8| 2.667|  7|  0|  0| 
 |Griffin Canning  |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Justin Steele    |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
