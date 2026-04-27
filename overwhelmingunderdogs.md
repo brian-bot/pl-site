@@ -6,22 +6,22 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith       |C         |      6|  3|   6|  1|  0| 
-|Rafael Devers    |1B        |      7|  0|   3|  0|  0| 
-|Maikel Garcia    |2B        |      9|  4|   2|  0|  1| 
-|Matt Chapman     |3B        |     15|  5|   5|  0|  0| 
+|Rafael Devers    |1B        |      9|  1|   4|  0|  0| 
+|Maikel Garcia    |2B        |     10|  5|   2|  0|  1| 
+|Matt Chapman     |3B        |     18|  6|   5|  0|  0| 
 |Francisco Lindor |SS        |      8|  3|   4|  1|  0| 
-|Xavier Edwards   |MI        |     18|  5|   3|  0|  2| 
-|Alex Bregman     |CI        |     15|  4|   1|  1|  0| 
+|Xavier Edwards   |MI        |     19|  6|   3|  0|  2| 
+|Alex Bregman     |CI        |     17|  4|   1|  1|  0| 
 |Brendan Donovan  |OF        |      3|  1|   0|  0|  0| 
 |Jakob Marsee     |OF        |     13|  4|   4|  1|  2| 
-|Roman Anthony    |OF        |      8|  0|   1|  0|  1| 
+|Roman Anthony    |OF        |      9|  0|   1|  0|  1| 
 |Trent Grisham    |OF        |     10|  5|   5|  2|  0| 
-|Christian Walker |DH        |     12|  5|   3|  2|  0| 
-|Jonathan Aranda  |DH        |     16|  6|   6|  3|  0| 
-|Miguel Vargas    |DH        |     20| 11|   6|  4|  2| 
-|Ryan Jeffers     |DH        |      9|  2|   6|  1|  0| 
+|Christian Walker |DH        |     15|  6|   7|  3|  0| 
+|Jonathan Aranda  |DH        |     17|  7|   8|  3|  0| 
+|Miguel Vargas    |DH        |     21| 11|   6|  4|  2| 
+|Ryan Jeffers     |DH        |     11|  2|   6|  1|  0| 
 |George Springer  |BAT BENCH |     **| **|  **| **| **| 
-|Juan Soto        |BAT BENCH |      5|  0|   0|  0|  0| 
+|Juan Soto        |BAT BENCH |      9|  0|   0|  0|  0| 
 
 * * *
 
@@ -31,7 +31,7 @@
 |players            |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:------------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Brandon Woodruff   |SP          |  2| 12.000|  4|  3.000|     11| 0.917|  7|  1|  0| 
-|Chris Sale         |SP          |  1|  7.000|  1|  1.286|      6| 0.857|  7|  1|  0| 
+|Chris Sale         |SP          |  2| 13.000|  1|  0.692|      9| 0.692| 16|  2|  0| 
 |Cristopher Sánchez |SP          |  2| 11.333|  6|  4.765|     23| 2.029| 12|  0|  0| 
 |Emmet Sheehan      |SP          |  2| 11.333|  3|  2.382|     11| 0.971| 14|  0|  0| 
 |Jesús Luzardo      |SP          |  1|  4.667|  1|  1.929|      9| 1.929|  3|  0|  0| 
@@ -39,14 +39,14 @@
 |Cade Smith         |RP          |  4|  4.000|  1|  2.250|      7| 1.750|  4|  0|  3| 
 |Clayton Beeter     |RP          |  2|  2.000|  1|  4.500|      4| 2.000|  3|  1|  0| 
 |Andrew Abbott      |OP          |  2|  8.667|  8|  8.308|     17| 1.962|  7|  0|  0| 
-|Emerson Hancock    |OP          |  1|  5.000|  3|  5.400|      7| 1.400|  3|  0|  0| 
-|Joey Cantillo      |OP          |  2|  9.667|  6|  5.586|     15| 1.552| 10|  0|  0| 
+|Emerson Hancock    |OP          |  2| 11.000|  5|  4.091|     16| 1.455|  7|  0|  0| 
+|Joey Cantillo      |OP          |  2|  9.667|  5|  4.655|     15| 1.552| 10|  0|  0| 
 |Merrill Kelly      |OP          |  1|  4.333|  8| 16.615|     13| 3.000|  5|  0|  0| 
 |Michael Soroka     |OP          |  2| 12.000|  3|  2.250|     13| 1.083| 11|  1|  0| 
 |Brady Singer       |PITCH BENCH |  2| 11.333|  5|  3.971|     17| 1.500|  5|  1|  0| 
 |Grayson Rodriguez  |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Ian Seymour        |PITCH BENCH |  3|  4.000|  1|  2.250|      5| 1.250|  5|  0|  0| 
-|Trevor Megill      |PITCH BENCH |  4|  4.000|  0|  0.000|      1| 0.250|  5|  0|  1| 
+|Trevor Megill      |PITCH BENCH |  5|  5.000|  0|  0.000|      3| 0.600|  7|  0|  1| 
 |Tyler Mahle        |PITCH BENCH |  1|  7.000|  0|  0.000|      5| 0.714|  5|  1|  0| 
 
 
