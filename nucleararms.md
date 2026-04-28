@@ -6,20 +6,20 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Shea Langeliers   |C         |     18|  8|   2|  2|  0| 
-|Yandy Díaz        |1B        |     15|  6|   4|  1|  0| 
+|Yandy Díaz        |1B        |     17|  7|   4|  1|  0| 
 |Ozzie Albies      |2B        |     17|  6|   8|  1|  0| 
 |Austin Riley      |3B        |     12|  5|   8|  2|  0| 
 |Gunnar Henderson  |SS        |     11|  6|   5|  3|  0| 
-|Colson Montgomery |MI        |     20|  7|  10|  4|  0| 
+|Colson Montgomery |MI        |     21|  7|  10|  4|  0| 
 |Pete Alonso       |CI        |     11|  4|   3|  1|  0| 
 |Bryan Reynolds    |OF        |     16|  4|   5|  0|  0| 
 |Luis Robert Jr.   |OF        |      6|  1|   1|  0|  0| 
 |Ronald Acuña Jr.  |OF        |     18|  8|   3|  1|  2| 
-|Teoscar Hernández |OF        |      8|  4|   3|  0|  0| 
+|Teoscar Hernández |OF        |     11|  4|   5|  0|  0| 
 |Cedric Mullins    |DH        |      8|  3|   3|  1|  3| 
 |Giancarlo Stanton |DH        |      6|  3|   6|  2|  0| 
 |Marcus Semien     |DH        |     11|  4|   1|  0|  3| 
-|Seiya Suzuki      |DH        |     18|  8|   7|  4|  0| 
+|Seiya Suzuki      |DH        |     20| 10|   8|  5|  0| 
 |Anthony Volpe     |BAT BENCH |     **| **|  **| **| **| 
 |Dillon Dingler    |BAT BENCH |     10|  3|   7|  2|  0| 
 |Jackson Holliday  |BAT BENCH |     **| **|  **| **| **| 
@@ -32,7 +32,7 @@
  
 |players           |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Dylan Cease       |SP          |  1|  5.000|  2|  3.600|      7| 1.400| 12|  1|  0| 
+|Dylan Cease       |SP          |  2| 10.667|  6|  5.062|     17| 1.594| 17|  1|  0| 
 |George Kirby      |SP          |  2| 11.667|  3|  2.314|     15| 1.286|  7|  2|  0| 
 |Sandy Alcantara   |SP          |  2| 11.000|  5|  4.091|     20| 1.818|  5|  1|  0| 
 |Taj Bradley       |SP          |  2| 12.333|  8|  5.838|     17| 1.378|  8|  0|  0| 
