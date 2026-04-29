@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Shea Langeliers   |C         |     18|  8|   2|  2|  0| 
-|Yandy Díaz        |1B        |     17|  7|   4|  1|  0| 
-|Ozzie Albies      |2B        |     17|  6|   8|  1|  0| 
+|Shea Langeliers   |C         |     21|  8|   2|  2|  0| 
+|Yandy Díaz        |1B        |     18|  7|   4|  1|  0| 
+|Ozzie Albies      |2B        |     19|  7|  10|  2|  0| 
 |Austin Riley      |3B        |     12|  5|   8|  2|  0| 
-|Gunnar Henderson  |SS        |     11|  6|   5|  3|  0| 
-|Colson Montgomery |MI        |     21|  7|  10|  4|  0| 
-|Pete Alonso       |CI        |     11|  4|   3|  1|  0| 
-|Bryan Reynolds    |OF        |     16|  4|   5|  0|  0| 
+|Gunnar Henderson  |SS        |     13|  8|   5|  3|  1| 
+|Colson Montgomery |MI        |     23|  8|  11|  5|  0| 
+|Pete Alonso       |CI        |     12|  5|   5|  2|  0| 
+|Bryan Reynolds    |OF        |     19|  6|   5|  0|  0| 
 |Luis Robert Jr.   |OF        |      6|  1|   1|  0|  0| 
-|Ronald Acuña Jr.  |OF        |     18|  8|   3|  1|  2| 
+|Ronald Acuña Jr.  |OF        |     20|  9|   4|  1|  2| 
 |Teoscar Hernández |OF        |     11|  4|   5|  0|  0| 
 |Cedric Mullins    |DH        |      8|  3|   3|  1|  3| 
 |Giancarlo Stanton |DH        |      6|  3|   6|  2|  0| 
-|Marcus Semien     |DH        |     11|  4|   1|  0|  3| 
-|Seiya Suzuki      |DH        |     20| 10|   8|  5|  0| 
+|Marcus Semien     |DH        |     12|  5|   2|  0|  3| 
+|Seiya Suzuki      |DH        |     23| 11|   8|  5|  0| 
 |Anthony Volpe     |BAT BENCH |     **| **|  **| **| **| 
-|Dillon Dingler    |BAT BENCH |     10|  3|   7|  2|  0| 
+|Dillon Dingler    |BAT BENCH |     13|  3|   7|  2|  0| 
 |Jackson Holliday  |BAT BENCH |     **| **|  **| **| **| 
 
 
