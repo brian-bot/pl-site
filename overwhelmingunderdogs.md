@@ -10,18 +10,18 @@
 |Maikel Garcia    |2B        |     12|  5|   2|  0|  1| 
 |Matt Chapman     |3B        |     18|  6|   5|  0|  0| 
 |Francisco Lindor |SS        |      8|  3|   4|  1|  0| 
-|Xavier Edwards   |MI        |     24|  7|   3|  0|  2| 
-|Alex Bregman     |CI        |     20|  6|   2|  1|  0| 
+|Xavier Edwards   |MI        |     25|  8|   3|  0|  2| 
+|Alex Bregman     |CI        |     23|  6|   2|  1|  0| 
 |Brendan Donovan  |OF        |      3|  1|   0|  0|  0| 
-|Jakob Marsee     |OF        |     17|  5|   4|  1|  2| 
-|Roman Anthony    |OF        |     11|  0|   2|  0|  1| 
+|Jakob Marsee     |OF        |     18|  5|   4|  1|  2| 
+|Roman Anthony    |OF        |     12|  0|   2|  0|  1| 
 |Trent Grisham    |OF        |     12|  6|   5|  2|  0| 
 |Christian Walker |DH        |     17|  7|   7|  3|  0| 
 |Jonathan Aranda  |DH        |     19|  8|  10|  4|  0| 
-|Miguel Vargas    |DH        |     26| 12|   7|  5|  2| 
-|Ryan Jeffers     |DH        |     14|  4|   8|  1|  1| 
-|George Springer  |BAT BENCH |     **| **|  **| **| **| 
-|Juan Soto        |BAT BENCH |     10|  1|   2|  1|  0| 
+|Miguel Vargas    |DH        |     28| 13|   8|  5|  2| 
+|Ryan Jeffers     |DH        |     16|  5|   8|  1|  1| 
+|George Springer  |BAT BENCH |      1|  0|   1|  0|  0| 
+|Juan Soto        |BAT BENCH |     13|  2|   3|  2|  0| 
 
 * * *
 
@@ -36,7 +36,7 @@
 |Emmet Sheehan      |SP          |  2| 11.333|  3|  2.382|     11| 0.971| 14|  0|  0| 
 |Jesús Luzardo      |SP          |  2| 11.667|  1|  0.771|     11| 0.943| 11|  1|  0| 
 |Shane McClanahan   |SP          |  2|  9.333|  4|  3.857|     13| 1.393| 12|  1|  0| 
-|Cade Smith         |RP          |  4|  4.000|  1|  2.250|      7| 1.750|  4|  0|  3| 
+|Cade Smith         |RP          |  5|  5.000|  1|  1.800|      8| 1.600|  6|  0|  4| 
 |Clayton Beeter     |RP          |  2|  2.000|  1|  4.500|      4| 2.000|  3|  1|  0| 
 |Andrew Abbott      |OP          |  2|  8.667|  8|  8.308|     17| 1.962|  7|  0|  0| 
 |Emerson Hancock    |OP          |  2| 11.000|  5|  4.091|     16| 1.455|  7|  0|  0| 

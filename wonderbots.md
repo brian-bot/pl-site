@@ -6,20 +6,20 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Agustín Ramírez    |C         |     11|  4|   3|  1|  2| 
-|Salvador Perez     |1B        |     12|  6|   8|  3|  0| 
+|Salvador Perez     |1B        |     13|  6|   9|  3|  0| 
 |Ceddanne Rafaela   |2B        |     13|  4|   5|  0|  0| 
-|Junior Caminero    |3B        |     15|  8|   9|  5|  0| 
+|Junior Caminero    |3B        |     16|  8|   9|  5|  0| 
 |Zach Neto          |SS        |     18|  4|   6|  0|  4| 
-|Ezequiel Tovar     |MI        |      5|  1|   0|  0|  1| 
-|Sal Stewart        |CI        |     15|  6|  11|  2|  4| 
+|Ezequiel Tovar     |MI        |      7|  2|   2|  0|  1| 
+|Sal Stewart        |CI        |     16|  6|  11|  2|  4| 
 |Aaron Judge        |OF        |     26| 10|   7|  5|  2| 
-|Fernando Tatis Jr. |OF        |     17|  4|   4|  0|  3| 
-|James Wood         |OF        |     25| 12|   7|  5|  2| 
-|Mike Trout         |OF        |     28| 10|   5|  3|  3| 
+|Fernando Tatis Jr. |OF        |     18|  4|   5|  0|  4| 
+|James Wood         |OF        |     28| 15|  10|  5|  2| 
+|Mike Trout         |OF        |     29| 11|   6|  4|  3| 
 |Adolis García      |DH        |     14|  3|   4|  1|  0| 
-|CJ Abrams          |DH        |     13|  3|   2|  1|  1| 
-|Colt Keith         |DH        |     10|  4|   2|  0|  0| 
-|José Caballero     |DH        |     19|  6|   3|  2|  6| 
+|CJ Abrams          |DH        |     17|  3|   4|  1|  1| 
+|Colt Keith         |DH        |     11|  4|   2|  0|  0| 
+|José Caballero     |DH        |     20|  6|   3|  2|  6| 
 |Andrew Vaughn      |BAT BENCH |     **| **|  **| **| **| 
 |Jordan Westburg    |BAT BENCH |     **| **|  **| **| **| 
 |Mookie Betts       |BAT BENCH |     **| **|  **| **| **| 
@@ -33,7 +33,7 @@
  
 |players           |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Gavin Williams    |SP          |  2| 13.000|  7| 4.846|     13| 1.000| 15|  2|  0| 
+|Gavin Williams    |SP          |  3| 20.667|  7| 3.048|     18| 0.871| 24|  3|  0| 
 |Jacob Misiorowski |SP          |  2| 11.000|  4| 3.273|     14| 1.273| 18|  0|  0| 
 |Joe Ryan          |SP          |  3| 17.000|  7| 3.706|     19| 1.118| 17|  0|  0| 
 |Kris Bubic        |SP          |  3| 15.667|  9| 5.170|     25| 1.596| 12|  0|  0| 
