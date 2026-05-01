@@ -9,17 +9,17 @@
 |Michael Busch   |1B        |     21|  7|   8|  2|  0| 
 |Nico Hoerner    |2B        |     20|  4|   8|  2|  1| 
 |Max Muncy       |3B        |     22| 11|   7|  5|  0| 
-|Bobby Witt Jr.  |SS        |     22|  9|   8|  2|  2| 
+|Bobby Witt Jr.  |SS        |     24|  9|   8|  2|  2| 
 |Corey Seager    |MI        |     15|  7|   5|  1|  0| 
 |Freddie Freeman |CI        |     16|  3|   1|  0|  0| 
 |Evan Carter     |OF        |     12|  2|   5|  1|  2| 
 |Jarren Duran    |OF        |      8|  4|   1|  0|  3| 
-|Kyle Schwarber  |OF        |     15|  6|   5|  3|  0| 
-|Oneil Cruz      |OF        |     12|  7|  10|  4|  3| 
-|Bryce Harper    |DH        |     16|  6|   8|  2|  0| 
-|Carlos Correa   |DH        |     18|  6|   5|  1|  0| 
+|Kyle Schwarber  |OF        |     23|  9|   8|  5|  0| 
+|Oneil Cruz      |OF        |     14|  9|  10|  4|  3| 
+|Bryce Harper    |DH        |     20|  6|   8|  2|  0| 
+|Carlos Correa   |DH        |     19|  6|   5|  1|  0| 
 |Cole Young      |DH        |     22|  8|  10|  1|  2| 
-|Kevin McGonigle |DH        |     23| 10|   5|  1|  1| 
+|Kevin McGonigle |DH        |     26| 10|   5|  1|  1| 
 |Marcell Ozuna   |BAT BENCH |     13|  3|   6|  2|  0| 
 
 * * *
@@ -36,7 +36,7 @@
 |Randy Vásquez    |SP          |  2| 12.000|  5|  3.750|     11| 0.917|  9|  2|  0| 
 |Sonny Gray       |SP          |  1|  2.667|  1|  3.375|      4| 1.500|  2|  0|  0| 
 |Dennis Santana   |RP          |  6|  5.667|  4|  6.353|     11| 1.941|  4|  0|  0| 
-|Ryan Walker      |RP          |  5|  6.000|  1|  1.500|      7| 1.167|  5|  0|  2| 
+|Ryan Walker      |RP          |  6|  6.667|  3|  4.050|     10| 1.500|  6|  0|  2| 
 |Gregory Soto     |OP          |  5|  5.000|  2|  3.600|      5| 1.000|  5|  2|  0| 
 |Jacob deGrom     |OP          |  3| 15.667|  2|  1.149|     15| 0.957| 18|  1|  0| 
 |Justin Wrobleski |OP          |  2| 13.000|  1|  0.692|     16| 1.231|  9|  2|  0| 

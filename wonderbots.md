@@ -6,19 +6,19 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Agustín Ramírez    |C         |     11|  4|   3|  1|  2| 
-|Salvador Perez     |1B        |     13|  6|   9|  3|  0| 
+|Salvador Perez     |1B        |     15|  6|   9|  3|  0| 
 |Ceddanne Rafaela   |2B        |     13|  4|   5|  0|  0| 
 |Junior Caminero    |3B        |     16|  8|   9|  5|  0| 
 |Zach Neto          |SS        |     18|  4|   6|  0|  4| 
-|Ezequiel Tovar     |MI        |      7|  2|   2|  0|  1| 
-|Sal Stewart        |CI        |     16|  6|  11|  2|  4| 
+|Ezequiel Tovar     |MI        |      9|  2|   2|  0|  1| 
+|Sal Stewart        |CI        |     17|  7|  11|  2|  4| 
 |Aaron Judge        |OF        |     26| 10|   7|  5|  2| 
 |Fernando Tatis Jr. |OF        |     18|  4|   5|  0|  4| 
-|James Wood         |OF        |     28| 15|  10|  5|  2| 
+|James Wood         |OF        |     29| 15|  10|  5|  2| 
 |Mike Trout         |OF        |     29| 11|   6|  4|  3| 
-|Adolis García      |DH        |     14|  3|   4|  1|  0| 
-|CJ Abrams          |DH        |     17|  3|   4|  1|  1| 
-|Colt Keith         |DH        |     11|  4|   2|  0|  0| 
+|Adolis García      |DH        |     18|  5|   6|  1|  0| 
+|CJ Abrams          |DH        |     20|  4|   7|  2|  1| 
+|Colt Keith         |DH        |     13|  4|   2|  0|  0| 
 |José Caballero     |DH        |     20|  6|   3|  2|  6| 
 |Andrew Vaughn      |BAT BENCH |     **| **|  **| **| **| 
 |Jordan Westburg    |BAT BENCH |     **| **|  **| **| **| 
@@ -43,7 +43,7 @@
 |Jakob Junis       |RP          |  6|  6.333|  3| 4.263|      7| 1.105|  0|  0|  0| 
 |Braxton Ashcraft  |OP          |  3| 17.000| 10| 5.294|     22| 1.294| 19|  0|  0| 
 |Bryan Baker       |OP          |  5|  5.000|  1| 1.800|      6| 1.200|  6|  0|  4| 
-|Noah Cameron      |OP          |  2| 10.333|  8| 6.968|     20| 1.935|  9|  1|  0| 
+|Noah Cameron      |OP          |  3| 15.667| 12| 6.894|     31| 1.979| 14|  1|  0| 
 |Reid Detmers      |OP          |  2| 11.000|  7| 5.727|     13| 1.182| 10|  0|  0| 
 |Shane Baz         |OP          |  3| 18.000|  9| 4.500|     26| 1.444| 16|  1|  0| 
 |Casey Mize        |PITCH BENCH |  3| 15.000|  3| 1.800|     14| 0.933| 17|  1|  0| 

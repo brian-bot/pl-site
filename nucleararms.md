@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Shea Langeliers   |C         |     23|  8|   2|  2|  0| 
+|Shea Langeliers   |C         |     26| 10|   3|  2|  0| 
 |Yandy Díaz        |1B        |     20|  8|   4|  1|  0| 
-|Ozzie Albies      |2B        |     21|  9|  12|  3|  0| 
+|Ozzie Albies      |2B        |     23| 10|  12|  3|  0| 
 |Austin Riley      |3B        |     12|  5|   8|  2|  0| 
-|Gunnar Henderson  |SS        |     13|  8|   5|  3|  1| 
+|Gunnar Henderson  |SS        |     15|  9|   6|  3|  1| 
 |Colson Montgomery |MI        |     24|  8|  12|  5|  0| 
-|Pete Alonso       |CI        |     12|  5|   5|  2|  0| 
-|Bryan Reynolds    |OF        |     20|  6|   5|  0|  0| 
+|Pete Alonso       |CI        |     15|  8|   6|  2|  0| 
+|Bryan Reynolds    |OF        |     23|  7|   7|  0|  0| 
 |Luis Robert Jr.   |OF        |      6|  1|   1|  0|  0| 
-|Ronald Acuña Jr.  |OF        |     21|  9|   4|  1|  2| 
+|Ronald Acuña Jr.  |OF        |     22|  9|   4|  1|  2| 
 |Teoscar Hernández |OF        |     11|  4|   5|  0|  0| 
 |Cedric Mullins    |DH        |      8|  3|   3|  1|  3| 
 |Giancarlo Stanton |DH        |      6|  3|   6|  2|  0| 
 |Marcus Semien     |DH        |     14|  5|   2|  0|  3| 
 |Seiya Suzuki      |DH        |     23| 11|   8|  5|  0| 
 |Anthony Volpe     |BAT BENCH |     **| **|  **| **| **| 
-|Dillon Dingler    |BAT BENCH |     13|  3|   7|  2|  0| 
+|Dillon Dingler    |BAT BENCH |     14|  3|   8|  2|  0| 
 |Jackson Holliday  |BAT BENCH |     **| **|  **| **| **| 
 
 
