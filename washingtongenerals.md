@@ -6,21 +6,21 @@
 |players         |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------|:---------|------:|--:|---:|--:|--:| 
 |J.T. Realmuto   |C         |      2|  0|   0|  0|  0| 
-|Michael Busch   |1B        |     21|  7|   8|  2|  0| 
-|Nico Hoerner    |2B        |     20|  4|   8|  2|  1| 
-|Max Muncy       |3B        |     22| 11|   7|  5|  0| 
-|Bobby Witt Jr.  |SS        |     24|  9|   8|  2|  2| 
-|Corey Seager    |MI        |     15|  7|   5|  1|  0| 
-|Freddie Freeman |CI        |     16|  3|   1|  0|  0| 
-|Evan Carter     |OF        |     12|  2|   5|  1|  2| 
-|Jarren Duran    |OF        |      8|  4|   1|  0|  3| 
+|Michael Busch   |1B        |     23|  7|  10|  2|  0| 
+|Nico Hoerner    |2B        |     21|  5|   8|  2|  1| 
+|Max Muncy       |3B        |     24| 11|   8|  5|  0| 
+|Bobby Witt Jr.  |SS        |     26| 10|   8|  2|  2| 
+|Corey Seager    |MI        |     18|  7|   5|  1|  0| 
+|Freddie Freeman |CI        |     18|  4|   1|  0|  0| 
+|Evan Carter     |OF        |     13|  3|   5|  1|  2| 
+|Jarren Duran    |OF        |      9|  5|   4|  1|  3| 
 |Kyle Schwarber  |OF        |     23|  9|   8|  5|  0| 
-|Oneil Cruz      |OF        |     14|  9|  10|  4|  3| 
-|Bryce Harper    |DH        |     20|  6|   8|  2|  0| 
-|Carlos Correa   |DH        |     19|  6|   5|  1|  0| 
+|Oneil Cruz      |OF        |     15|  9|  10|  4|  3| 
+|Bryce Harper    |DH        |     22|  7|   8|  2|  1| 
+|Carlos Correa   |DH        |     22|  7|   6|  2|  0| 
 |Cole Young      |DH        |     22|  8|  10|  1|  2| 
 |Kevin McGonigle |DH        |     26| 10|   5|  1|  1| 
-|Marcell Ozuna   |BAT BENCH |     13|  3|   6|  2|  0| 
+|Marcell Ozuna   |BAT BENCH |     15|  4|   8|  3|  0| 
 
 * * *
 
@@ -43,8 +43,8 @@
 |Luis Gil         |OP          |  2| 10.333|  6|  5.226|     13| 1.258|  2|  1|  0| 
 |Reynaldo López   |OP          |  2|  3.000|  4| 12.000|      8| 2.667|  3|  1|  0| 
 |Cole Sands       |PITCH BENCH |  5|  5.333|  3|  5.062|      6| 1.125|  6|  1|  0| 
-|Cole Winn        |PITCH BENCH |  5|  4.333|  4|  8.308|      5| 1.154|  6|  1|  0| 
-|Didier Fuentes   |PITCH BENCH |  2|  5.000|  4|  7.200|      9| 1.800|  8|  0|  0| 
+|Cole Winn        |PITCH BENCH |  6|  5.000|  5|  9.000|      7| 1.400|  7|  1|  0| 
+|Didier Fuentes   |PITCH BENCH |  3|  6.000|  4|  6.000|      9| 1.500|  8|  1|  0| 
 |Griffin Canning  |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Justin Steele    |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Luis Severino    |PITCH BENCH |  3| 19.000|  7|  3.316|     22| 1.158| 16|  2|  0| 

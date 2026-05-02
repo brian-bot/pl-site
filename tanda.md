@@ -5,23 +5,23 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|Cal Raleigh           |C         |     19|  7|   8|  5|  1| 
-|Vladimir Guerrero Jr. |1B        |     24| 11|   8|  1|  1| 
-|Luke Keaschall        |2B        |     13|  1|   5|  0|  4| 
-|José Ramírez          |3B        |     22| 10|   4|  3|  4| 
-|Willy Adames          |SS        |      8|  4|   0|  0|  0| 
-|Xander Bogaerts       |MI        |     18|  9|   4|  2|  1| 
-|Matt Olson            |CI        |     22| 12|  14|  4|  0| 
-|Cody Bellinger        |OF        |     19|  9|   9|  2|  0| 
-|Daulton Varsho        |OF        |     11|  4|   1|  1|  1| 
-|Pete Crow-Armstrong   |OF        |     18|  7|   8|  2|  2| 
+|Cal Raleigh           |C         |     20|  7|   8|  5|  1| 
+|Vladimir Guerrero Jr. |1B        |     25| 12|   8|  1|  1| 
+|Luke Keaschall        |2B        |     14|  1|   5|  0|  4| 
+|José Ramírez          |3B        |     24| 10|   4|  3|  4| 
+|Willy Adames          |SS        |      9|  4|   0|  0|  0| 
+|Xander Bogaerts       |MI        |     19|  9|   4|  2|  1| 
+|Matt Olson            |CI        |     25| 14|  15|  5|  0| 
+|Cody Bellinger        |OF        |     22|  9|  10|  2|  0| 
+|Daulton Varsho        |OF        |     12|  5|   1|  1|  1| 
+|Pete Crow-Armstrong   |OF        |     19|  8|   8|  2|  2| 
 |Ramón Laureano        |OF        |     13|  2|   6|  0|  0| 
-|Angel Martínez        |DH        |      9|  4|   6|  3|  1| 
+|Angel Martínez        |DH        |      9|  4|   7|  3|  1| 
 |Cam Smith             |DH        |     11|  4|   5|  1|  1| 
-|Jorge Soler           |DH        |     13|  2|   5|  1|  0| 
-|Kerry Carpenter       |DH        |     13|  5|   8|  3|  0| 
+|Jorge Soler           |DH        |     14|  3|   7|  2|  0| 
+|Kerry Carpenter       |DH        |     14|  6|   8|  3|  0| 
 |Christian Yelich      |BAT BENCH |     **| **|  **| **| **| 
-|Francisco Alvarez     |BAT BENCH |      8|  1|   3|  0|  0| 
+|Francisco Alvarez     |BAT BENCH |      9|  2|   4|  0|  0| 
 |Royce Lewis           |BAT BENCH |      6|  1|   2|  1|  0| 
 
 
@@ -46,9 +46,9 @@
 |Michael Wacha   |OP          |  3| 16.333| 12|  6.612|     27| 1.653| 16|  0|  0| 
 |Ryan Weathers   |OP          |  2| 12.667|  2|  1.421|     12| 0.947| 12|  1|  0| 
 |Gerrit Cole     |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Mike Burrows    |PITCH BENCH |  2|  9.667|  6|  5.586|     13| 1.345| 15|  0|  0| 
-|Mitch Keller    |PITCH BENCH |  2| 12.000|  5|  3.750|     12| 1.000| 11|  1|  0| 
-|Zac Gallen      |PITCH BENCH |  2|  8.667|  2|  2.077|     10| 1.154|  6|  0|  0| 
+|Mike Burrows    |PITCH BENCH |  3| 15.667|  9|  5.170|     22| 1.404| 18|  0|  0| 
+|Mitch Keller    |PITCH BENCH |  3| 19.000|  6|  2.842|     16| 0.842| 17|  2|  0| 
+|Zac Gallen      |PITCH BENCH |  3| 12.333|  8|  5.838|     20| 1.622|  9|  0|  0| 
 
 
 * * *
