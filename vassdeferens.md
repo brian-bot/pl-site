@@ -5,26 +5,26 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Liam Hicks         |C         |     17|  7|  11|  3|  0| 
-|Josh Naylor        |1B        |     21|  4|   8|  2|  4| 
-|Jose Altuve        |2B        |     14|  7|   2|  1|  0| 
+|Liam Hicks         |C         |     19|  7|  11|  3|  0| 
+|Josh Naylor        |1B        |     22|  4|   9|  2|  4| 
+|Jose Altuve        |2B        |     15|  8|   2|  1|  0| 
 |Munetaka Murakami  |3B        |     27| 11|  17|  8|  0| 
-|Geraldo Perdomo    |SS        |     18|  3|   5|  1|  0| 
-|Gleyber Torres     |MI        |     27|  8|   6|  1|  0| 
+|Geraldo Perdomo    |SS        |     19|  3|   5|  1|  0| 
+|Gleyber Torres     |MI        |     29|  8|   7|  1|  0| 
 |JJ Wetherholt      |CI        |     25| 14|   7|  4|  0| 
-|Corbin Carroll     |OF        |     18|  8|   7|  2|  3| 
+|Corbin Carroll     |OF        |     19|  8|   7|  2|  3| 
 |Daylen Lile        |OF        |     22| 10|   8|  3|  0| 
-|Lawrence Butler    |OF        |     12|  3|   6|  1|  3| 
-|Taylor Ward        |OF        |     30|  9|   3|  1|  0| 
+|Lawrence Butler    |OF        |     15|  3|   6|  1|  3| 
+|Taylor Ward        |OF        |     32| 10|   4|  1|  0| 
 |Bryson Stott       |DH        |     10|  5|   5|  1|  2| 
 |Matt Wallner       |DH        |      9|  1|   1|  0|  0| 
 |Mickey Moniak      |DH        |     26| 11|   9|  4|  1| 
-|Ryan O'Hearn       |DH        |     21|  8|   8|  2|  0| 
+|Ryan O'Hearn       |DH        |     24| 11|  11|  2|  0| 
 |Adley Rutschman    |BAT BENCH |     11|  6|  14|  4|  0| 
 |Jackson Chourio    |BAT BENCH |     **| **|  **| **| **| 
 |Logan O'Hoppe      |BAT BENCH |      8|  4|   0|  0|  0| 
 |Spencer Torkelson  |BAT BENCH |     21|  7|   7|  5|  0| 
-|Vinnie Pasquantino |BAT BENCH |     17|  9|   9|  4|  0| 
+|Vinnie Pasquantino |BAT BENCH |     18|  9|   9|  4|  0| 
 
 
 * * *
@@ -45,8 +45,8 @@
 |Jack Leiter      |OP          |  3| 16.667| 10|  5.400|     26| 1.560| 12|  0|  0| 
 |José Soriano     |OP          |  3| 15.667|  3|  1.723|     22| 1.404| 18|  1|  0| 
 |Paul Sewald      |OP          |  4|  3.667|  3|  7.364|      5| 1.364|  3|  0|  1| 
-|Rhett Lowder     |OP          |  2| 11.000|  3|  2.455|     14| 1.273| 10|  1|  0| 
-|Seth Lugo        |OP          |  2| 13.333|  7|  4.725|     20| 1.500| 10|  0|  0| 
+|Rhett Lowder     |OP          |  3| 12.333| 11|  8.027|     23| 1.865| 11|  1|  0| 
+|Seth Lugo        |OP          |  3| 19.333|  9|  4.190|     29| 1.500| 16|  0|  0| 
 |Jeff Hoffman     |PITCH BENCH |  6|  5.333|  6| 10.125|     11| 2.062| 10|  0|  1| 
 |Jordan Romano    |PITCH BENCH |  3|  2.667|  4| 13.500|      7| 2.625|  5|  0|  0| 
 

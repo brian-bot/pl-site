@@ -6,21 +6,21 @@
 |players         |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------|:---------|------:|--:|---:|--:|--:| 
 |J.T. Realmuto   |C         |      2|  0|   0|  0|  0| 
-|Michael Busch   |1B        |     23|  7|  10|  2|  0| 
+|Michael Busch   |1B        |     25|  7|  10|  2|  0| 
 |Nico Hoerner    |2B        |     21|  5|   8|  2|  1| 
-|Max Muncy       |3B        |     24| 11|   8|  5|  0| 
-|Bobby Witt Jr.  |SS        |     26| 10|   8|  2|  2| 
-|Corey Seager    |MI        |     18|  7|   5|  1|  0| 
-|Freddie Freeman |CI        |     18|  4|   1|  0|  0| 
+|Max Muncy       |3B        |     27| 11|   9|  5|  0| 
+|Bobby Witt Jr.  |SS        |     27| 10|   8|  2|  2| 
+|Corey Seager    |MI        |     19|  7|   5|  1|  0| 
+|Freddie Freeman |CI        |     19|  4|   1|  0|  0| 
 |Evan Carter     |OF        |     13|  3|   5|  1|  2| 
-|Jarren Duran    |OF        |      9|  5|   4|  1|  3| 
+|Jarren Duran    |OF        |     11|  5|   4|  1|  3| 
 |Kyle Schwarber  |OF        |     23|  9|   8|  5|  0| 
-|Oneil Cruz      |OF        |     15|  9|  10|  4|  3| 
+|Oneil Cruz      |OF        |     17| 11|  11|  4|  3| 
 |Bryce Harper    |DH        |     22|  7|   8|  2|  1| 
-|Carlos Correa   |DH        |     22|  7|   6|  2|  0| 
+|Carlos Correa   |DH        |     25|  8|   7|  2|  0| 
 |Cole Young      |DH        |     22|  8|  10|  1|  2| 
-|Kevin McGonigle |DH        |     26| 10|   5|  1|  1| 
-|Marcell Ozuna   |BAT BENCH |     15|  4|   8|  3|  0| 
+|Kevin McGonigle |DH        |     27| 11|   6|  1|  2| 
+|Marcell Ozuna   |BAT BENCH |     19|  7|  11|  3|  0| 
 
 * * *
 
@@ -37,7 +37,7 @@
 |Sonny Gray       |SP          |  1|  2.667|  1|  3.375|      4| 1.500|  2|  0|  0| 
 |Dennis Santana   |RP          |  6|  5.667|  4|  6.353|     11| 1.941|  4|  0|  0| 
 |Ryan Walker      |RP          |  6|  6.667|  3|  4.050|     10| 1.500|  6|  0|  2| 
-|Gregory Soto     |OP          |  5|  5.000|  2|  3.600|      5| 1.000|  5|  2|  0| 
+|Gregory Soto     |OP          |  6|  6.000|  2|  3.000|      5| 0.833|  6|  2|  0| 
 |Jacob deGrom     |OP          |  3| 15.667|  2|  1.149|     15| 0.957| 18|  1|  0| 
 |Justin Wrobleski |OP          |  2| 13.000|  1|  0.692|     16| 1.231|  9|  2|  0| 
 |Luis Gil         |OP          |  2| 10.333|  6|  5.226|     13| 1.258|  2|  1|  0| 
