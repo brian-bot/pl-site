@@ -6,20 +6,20 @@
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
 |Cal Raleigh           |C         |     20|  7|   8|  5|  1| 
-|Vladimir Guerrero Jr. |1B        |     26| 13|   8|  1|  1| 
-|Luke Keaschall        |2B        |     16|  2|   5|  0|  4| 
-|José Ramírez          |3B        |     25| 11|   6|  3|  5| 
-|Willy Adames          |SS        |      9|  4|   0|  0|  0| 
-|Xander Bogaerts       |MI        |     20|  9|   4|  2|  1| 
-|Matt Olson            |CI        |     26| 15|  16|  6|  0| 
-|Cody Bellinger        |OF        |     26| 12|  14|  4|  1| 
-|Daulton Varsho        |OF        |     13|  6|   1|  1|  1| 
-|Pete Crow-Armstrong   |OF        |     20|  8|   8|  2|  2| 
-|Ramón Laureano        |OF        |     14|  2|   6|  0|  0| 
+|Vladimir Guerrero Jr. |1B        |     28| 14|   8|  1|  1| 
+|Luke Keaschall        |2B        |     18|  3|   6|  0|  4| 
+|José Ramírez          |3B        |     27| 11|   6|  3|  5| 
+|Willy Adames          |SS        |     10|  4|   0|  0|  0| 
+|Xander Bogaerts       |MI        |     22| 10|   5|  2|  2| 
+|Matt Olson            |CI        |     29| 17|  17|  6|  0| 
+|Cody Bellinger        |OF        |     28| 12|  14|  4|  1| 
+|Daulton Varsho        |OF        |     16|  6|   2|  1|  1| 
+|Pete Crow-Armstrong   |OF        |     21|  8|   8|  2|  2| 
+|Ramón Laureano        |OF        |     15|  3|   6|  0|  1| 
 |Angel Martínez        |DH        |     12|  5|   7|  3|  1| 
-|Cam Smith             |DH        |     12|  5|   5|  1|  1| 
-|Jorge Soler           |DH        |     17|  4|   7|  2|  0| 
-|Kerry Carpenter       |DH        |     14|  6|   8|  3|  0| 
+|Cam Smith             |DH        |     15|  5|   7|  1|  1| 
+|Jorge Soler           |DH        |     18|  4|   8|  2|  0| 
+|Kerry Carpenter       |DH        |     15|  7|   8|  3|  0| 
 |Christian Yelich      |BAT BENCH |     **| **|  **| **| **| 
 |Francisco Alvarez     |BAT BENCH |     10|  2|   4|  0|  0| 
 |Royce Lewis           |BAT BENCH |      6|  1|   2|  1|  0| 
@@ -40,7 +40,7 @@
 |Trevor Rogers   |SP          |  2|  6.667|  8| 10.800|     14| 2.100|  7|  0|  0| 
 |Pete Fairbanks  |RP          |  5|  4.000|  4|  9.000|      5| 1.250|  6|  0|  3| 
 |Raisel Iglesias |RP          |  1|  1.000|  0|  0.000|      2| 2.000|  1|  0|  1| 
-|Clay Holmes     |OP          |  2| 13.000|  2|  1.385|     10| 0.769|  9|  1|  0| 
+|Clay Holmes     |OP          |  3| 19.667|  3|  1.373|     17| 0.864| 15|  2|  0| 
 |Emilio Pagán    |OP          |  4|  4.000|  3|  6.750|      6| 1.500|  1|  1|  1| 
 |Landen Roupp    |OP          |  4| 23.000|  8|  3.130|     23| 1.000| 25|  3|  0| 
 |Michael Wacha   |OP          |  3| 16.333| 12|  6.612|     27| 1.653| 16|  0|  0| 

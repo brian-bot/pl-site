@@ -7,19 +7,19 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Shea Langeliers   |C         |     31| 13|   6|  4|  0| 
 |Yandy Díaz        |1B        |     21|  9|   5|  2|  0| 
-|Ozzie Albies      |2B        |     27| 11|  13|  3|  0| 
-|Austin Riley      |3B        |     16|  8|  11|  3|  1| 
+|Ozzie Albies      |2B        |     31| 14|  14|  3|  0| 
+|Austin Riley      |3B        |     17|  8|  12|  3|  1| 
 |Gunnar Henderson  |SS        |     16| 10|   6|  3|  1| 
-|Colson Montgomery |MI        |     27| 10|  13|  6|  0| 
-|Pete Alonso       |CI        |     19| 11|   8|  4|  0| 
-|Bryan Reynolds    |OF        |     30| 12|  10|  1|  0| 
+|Colson Montgomery |MI        |     29| 10|  13|  6|  0| 
+|Pete Alonso       |CI        |     21| 12|   8|  4|  0| 
+|Bryan Reynolds    |OF        |     31| 12|  10|  1|  0| 
 |Luis Robert Jr.   |OF        |      6|  1|   1|  0|  0| 
 |Ronald Acuña Jr.  |OF        |     26| 11|   4|  1|  3| 
-|Teoscar Hernández |OF        |     16|  5|   5|  0|  0| 
+|Teoscar Hernández |OF        |     18|  5|   5|  0|  0| 
 |Cedric Mullins    |DH        |     10|  3|   4|  1|  3| 
 |Giancarlo Stanton |DH        |      6|  3|   6|  2|  0| 
 |Marcus Semien     |DH        |     16|  6|   4|  0|  4| 
-|Seiya Suzuki      |DH        |     24| 11|   9|  5|  0| 
+|Seiya Suzuki      |DH        |     26| 12|   9|  5|  0| 
 |Anthony Volpe     |BAT BENCH |     **| **|  **| **| **| 
 |Dillon Dingler    |BAT BENCH |     17|  4|  11|  3|  0| 
 |Jackson Holliday  |BAT BENCH |     **| **|  **| **| **| 
@@ -39,7 +39,7 @@
 |Tyler Glasnow     |SP          |  3| 20.667|  3|  1.306|     15| 0.726| 25|  2|  0| 
 |Yusei Kikuchi     |SP          |  3| 13.000|  5|  3.462|     15| 1.154| 14|  0|  0| 
 |Abner Uribe       |RP          |  6|  5.000|  1|  1.800|      4| 0.800|  6|  1|  2| 
-|Joel Kuhnel       |RP          |  6|  7.000|  3|  3.857|     12| 1.714|  2|  0|  1| 
+|Joel Kuhnel       |RP          |  7|  8.000|  3|  3.375|     13| 1.625|  2|  0|  1| 
 |Brayan Bello      |OP          |  3| 11.000| 16| 13.091|     30| 2.727|  8|  0|  0| 
 |Bryan King        |OP          |  5|  5.667|  4|  6.353|      8| 1.412|  2|  0|  1| 
 |Carmen Mlodzinski |OP          |  3| 13.667| 14|  9.220|     24| 1.756| 20|  1|  0| 
@@ -47,7 +47,7 @@
 |Roki Sasaki       |OP          |  3| 15.667| 10|  5.745|     24| 1.532| 11|  1|  0| 
 |Carlos Estévez    |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Josh Hader        |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Spencer Strider   |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
+|Spencer Strider   |PITCH BENCH |  1|  3.333|  3|  8.100|      9| 2.700|  6|  0|  0| 
 |Tatsuya Imai      |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 
 
