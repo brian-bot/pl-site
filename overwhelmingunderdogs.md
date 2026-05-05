@@ -5,23 +5,23 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith       |C         |     12|  3|   7|  1|  0| 
-|Rafael Devers    |1B        |     15|  2|   6|  0|  0| 
+|Will Smith       |C         |     15|  4|   8|  1|  0| 
+|Rafael Devers    |1B        |     17|  2|   8|  0|  0| 
 |Maikel Garcia    |2B        |     19|  8|   5|  1|  3| 
 |Matt Chapman     |3B        |     23|  7|   5|  0|  0| 
 |Francisco Lindor |SS        |      8|  3|   4|  1|  0| 
-|Xavier Edwards   |MI        |     29|  9|   5|  1|  2| 
-|Alex Bregman     |CI        |     25|  8|   3|  1|  0| 
+|Xavier Edwards   |MI        |     30|  9|   5|  1|  2| 
+|Alex Bregman     |CI        |     27|  9|   3|  1|  0| 
 |Brendan Donovan  |OF        |      3|  1|   0|  0|  0| 
-|Jakob Marsee     |OF        |     21|  6|   4|  1|  2| 
+|Jakob Marsee     |OF        |     23|  6|   4|  1|  2| 
 |Roman Anthony    |OF        |     19|  1|   2|  0|  1| 
-|Trent Grisham    |OF        |     16|  9|   8|  3|  0| 
+|Trent Grisham    |OF        |     20| 12|   9|  3|  0| 
 |Christian Walker |DH        |     28| 10|  10|  4|  0| 
-|Jonathan Aranda  |DH        |     25|  8|  13|  4|  0| 
-|Miguel Vargas    |DH        |     31| 13|  10|  5|  2| 
+|Jonathan Aranda  |DH        |     28|  9|  13|  4|  0| 
+|Miguel Vargas    |DH        |     33| 14|  11|  6|  2| 
 |Ryan Jeffers     |DH        |     19|  7|  11|  2|  1| 
 |George Springer  |BAT BENCH |      5|  0|   1|  0|  0| 
-|Juan Soto        |BAT BENCH |     20|  5|   3|  2|  1| 
+|Juan Soto        |BAT BENCH |     21|  6|   3|  2|  1| 
 
 * * *
 
@@ -45,7 +45,7 @@
 |Michael Soroka     |OP          |  3| 15.000| 11|  6.600|     25| 1.667| 13|  1|  0| 
 |Brady Singer       |PITCH BENCH |  3| 14.667|  9|  5.523|     26| 1.773|  6|  1|  0| 
 |Grayson Rodriguez  |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Ian Seymour        |PITCH BENCH |  7|  7.667|  1|  1.174|      9| 1.174|  8|  1|  0| 
+|Ian Seymour        |PITCH BENCH |  8|  9.000|  1|  1.000|     12| 1.333| 10|  1|  0| 
 |Trevor Megill      |PITCH BENCH |  7|  7.000|  0|  0.000|      3| 0.429|  8|  0|  1| 
 |Tyler Mahle        |PITCH BENCH |  3| 17.333|  5|  2.596|     19| 1.096| 13|  1|  0| 
 

@@ -6,17 +6,17 @@
 |players         |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------|:---------|------:|--:|---:|--:|--:| 
 |J.T. Realmuto   |C         |      3|  1|   1|  0|  0| 
-|Michael Busch   |1B        |     28|  8|  14|  2|  0| 
-|Nico Hoerner    |2B        |     23|  6|   8|  2|  1| 
-|Max Muncy       |3B        |     29| 12|   9|  5|  0| 
-|Bobby Witt Jr.  |SS        |     28| 11|   8|  2|  2| 
+|Michael Busch   |1B        |     29|  8|  14|  2|  0| 
+|Nico Hoerner    |2B        |     24|  6|   9|  2|  1| 
+|Max Muncy       |3B        |     31| 12|   9|  5|  0| 
+|Bobby Witt Jr.  |SS        |     29| 13|   9|  3|  3| 
 |Corey Seager    |MI        |     20|  7|   5|  1|  0| 
-|Freddie Freeman |CI        |     21|  4|   2|  0|  0| 
+|Freddie Freeman |CI        |     23|  4|   4|  0|  0| 
 |Evan Carter     |OF        |     13|  3|   5|  1|  2| 
-|Jarren Duran    |OF        |     13|  6|   5|  2|  3| 
+|Jarren Duran    |OF        |     16|  7|   8|  3|  4| 
 |Kyle Schwarber  |OF        |     26| 10|   8|  5|  0| 
 |Oneil Cruz      |OF        |     19| 11|  12|  4|  4| 
-|Bryce Harper    |DH        |     24|  8|   8|  2|  1| 
+|Bryce Harper    |DH        |     27|  9|   9|  3|  1| 
 |Carlos Correa   |DH        |     27|  8|   7|  2|  0| 
 |Cole Young      |DH        |     23|  8|  10|  1|  2| 
 |Kevin McGonigle |DH        |     29| 12|   8|  1|  2| 
@@ -29,11 +29,11 @@
  
 |players          |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Aaron Nola       |SP          |  2|  9.000| 11| 11.000|     20| 2.222| 11|  0|  0| 
+|Aaron Nola       |SP          |  3| 15.000| 11|  6.600|     25| 1.667| 16|  1|  0| 
 |Dustin May       |SP          |  3| 17.333|  6|  3.115|     25| 1.442| 10|  1|  0| 
 |Kodai Senga      |SP          |  2|  6.000|  9| 13.500|     15| 2.500|  4|  0|  0| 
 |Nathan Eovaldi   |SP          |  3| 18.000|  8|  4.000|     21| 1.167| 13|  1|  0| 
-|Randy Vásquez    |SP          |  2| 12.000|  5|  3.750|     11| 0.917|  9|  2|  0| 
+|Randy Vásquez    |SP          |  3| 17.667|  8|  4.075|     18| 1.019| 11|  2|  0| 
 |Sonny Gray       |SP          |  1|  2.667|  1|  3.375|      4| 1.500|  2|  0|  0| 
 |Dennis Santana   |RP          |  6|  5.667|  4|  6.353|     11| 1.941|  4|  0|  0| 
 |Ryan Walker      |RP          |  7|  7.667|  4|  4.696|     12| 1.565|  6|  0|  2| 

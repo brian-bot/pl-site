@@ -7,21 +7,21 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Shea Langeliers   |C         |     31| 13|   6|  4|  0| 
 |Yandy Díaz        |1B        |     21|  9|   5|  2|  0| 
-|Ozzie Albies      |2B        |     31| 14|  14|  3|  0| 
-|Austin Riley      |3B        |     17|  8|  12|  3|  1| 
-|Gunnar Henderson  |SS        |     16| 10|   6|  3|  1| 
-|Colson Montgomery |MI        |     29| 10|  13|  6|  0| 
-|Pete Alonso       |CI        |     21| 12|   8|  4|  0| 
+|Ozzie Albies      |2B        |     32| 15|  15|  4|  0| 
+|Austin Riley      |3B        |     19|  9|  13|  4|  1| 
+|Gunnar Henderson  |SS        |     17| 10|   6|  3|  1| 
+|Colson Montgomery |MI        |     30| 10|  14|  6|  0| 
+|Pete Alonso       |CI        |     22| 12|   8|  4|  0| 
 |Bryan Reynolds    |OF        |     31| 12|  10|  1|  0| 
 |Luis Robert Jr.   |OF        |      6|  1|   1|  0|  0| 
 |Ronald Acuña Jr.  |OF        |     26| 11|   4|  1|  3| 
-|Teoscar Hernández |OF        |     18|  5|   5|  0|  0| 
-|Cedric Mullins    |DH        |     10|  3|   4|  1|  3| 
+|Teoscar Hernández |OF        |     19|  5|   5|  0|  0| 
+|Cedric Mullins    |DH        |     11|  3|   4|  1|  3| 
 |Giancarlo Stanton |DH        |      6|  3|   6|  2|  0| 
 |Marcus Semien     |DH        |     16|  6|   4|  0|  4| 
-|Seiya Suzuki      |DH        |     26| 12|   9|  5|  0| 
+|Seiya Suzuki      |DH        |     29| 13|  12|  6|  0| 
 |Anthony Volpe     |BAT BENCH |     **| **|  **| **| **| 
-|Dillon Dingler    |BAT BENCH |     17|  4|  11|  3|  0| 
+|Dillon Dingler    |BAT BENCH |     18|  4|  13|  3|  0| 
 |Jackson Holliday  |BAT BENCH |     **| **|  **| **| **| 
 
 

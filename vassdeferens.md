@@ -6,25 +6,25 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Liam Hicks         |C         |     19|  7|  11|  3|  0| 
-|Josh Naylor        |1B        |     23|  4|  10|  2|  4| 
-|Jose Altuve        |2B        |     16|  9|   2|  1|  0| 
-|Munetaka Murakami  |3B        |     27| 11|  17|  8|  0| 
+|Josh Naylor        |1B        |     25|  4|  10|  2|  4| 
+|Jose Altuve        |2B        |     17|  9|   3|  1|  0| 
+|Munetaka Murakami  |3B        |     31| 14|  19|  9|  0| 
 |Geraldo Perdomo    |SS        |     20|  3|   5|  1|  0| 
 |Gleyber Torres     |MI        |     29|  8|   7|  1|  0| 
-|JJ Wetherholt      |CI        |     26| 14|   7|  4|  0| 
+|JJ Wetherholt      |CI        |     29| 15|   9|  4|  0| 
 |Corbin Carroll     |OF        |     20|  8|   7|  2|  3| 
 |Daylen Lile        |OF        |     22| 10|   8|  3|  0| 
 |Lawrence Butler    |OF        |     15|  3|   6|  1|  3| 
 |Taylor Ward        |OF        |     33| 10|   4|  1|  0| 
 |Bryson Stott       |DH        |     11|  6|   8|  2|  2| 
 |Matt Wallner       |DH        |     11|  1|   2|  0|  0| 
-|Mickey Moniak      |DH        |     29| 13|  12|  6|  1| 
+|Mickey Moniak      |DH        |     31| 13|  12|  6|  1| 
 |Ryan O'Hearn       |DH        |     24| 11|  11|  2|  0| 
-|Adley Rutschman    |BAT BENCH |     11|  6|  14|  4|  0| 
-|Jackson Chourio    |BAT BENCH |     **| **|  **| **| **| 
+|Adley Rutschman    |BAT BENCH |     12|  6|  14|  4|  0| 
+|Jackson Chourio    |BAT BENCH |      5|  1|   0|  0|  0| 
 |Logan O'Hoppe      |BAT BENCH |      8|  4|   0|  0|  0| 
 |Spencer Torkelson  |BAT BENCH |     22|  8|   9|  6|  0| 
-|Vinnie Pasquantino |BAT BENCH |     20| 10|   9|  4|  0| 
+|Vinnie Pasquantino |BAT BENCH |     22| 11|  10|  4|  1| 
 
 
 * * *
@@ -43,7 +43,7 @@
 |Jhoan Duran      |RP          | **|     **| **|     **|     **|    **| **| **| **| 
 |Ryan Helsley     |RP          |  4|  3.333|  1|  2.700|      3| 0.900|  4|  0|  2| 
 |Jack Leiter      |OP          |  4| 23.333| 15|  5.786|     32| 1.371| 22|  0|  0| 
-|José Soriano     |OP          |  3| 15.667|  3|  1.723|     22| 1.404| 18|  1|  0| 
+|José Soriano     |OP          |  4| 19.667|  8|  3.661|     33| 1.678| 23|  1|  0| 
 |Paul Sewald      |OP          |  5|  4.333|  3|  6.231|      5| 1.154|  5|  0|  1| 
 |Rhett Lowder     |OP          |  3| 12.333| 11|  8.027|     23| 1.865| 11|  1|  0| 
 |Seth Lugo        |OP          |  3| 19.333|  9|  4.190|     29| 1.500| 16|  0|  0| 
