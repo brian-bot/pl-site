@@ -6,22 +6,22 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Drake Baldwin      |C         |      1|  0|   0|  0|  0| 
-|Tyler Soderstrom   |1B        |      1|  1|   1|  1|  0| 
-|Brandon Lowe       |2B        |      2|  1|   1|  1|  0| 
-|Manny Machado      |3B        |      1|  1|   0|  0|  0| 
+|Tyler Soderstrom   |1B        |      4|  3|   1|  1|  0| 
+|Brandon Lowe       |2B        |      5|  3|   2|  2|  0| 
+|Manny Machado      |3B        |      2|  2|   0|  0|  0| 
 |Konnor Griffin     |SS        |      1|  0|   0|  0|  1| 
-|Travis Bazzana     |MI        |     **| **|  **| **| **| 
+|Travis Bazzana     |MI        |      3|  1|   0|  0|  2| 
 |Nolan Schanuel     |CI        |      1|  2|   0|  0|  0| 
-|Chandler Simpson   |OF        |      1|  0|   1|  0|  0| 
-|Jackson Merrill    |OF        |      2|  0|   0|  0|  0| 
+|Chandler Simpson   |OF        |      3|  0|   4|  0|  0| 
+|Jackson Merrill    |OF        |      3|  0|   0|  0|  0| 
 |Julio Rodríguez    |OF        |      1|  1|   1|  1|  0| 
 |Yordan Alvarez     |OF        |      0|  0|   0|  0|  0| 
-|Chase DeLauter     |DH        |      2|  0|   2|  0|  0| 
-|Ian Happ           |DH        |      3|  2|   2|  1|  1| 
-|Moisés Ballesteros |DH        |      0|  0|   0|  0|  0| 
-|Nasim Nuñez        |DH        |      1|  0|   1|  0|  0| 
+|Chase DeLauter     |DH        |      4|  0|   2|  0|  0| 
+|Ian Happ           |DH        |      4|  3|   2|  1|  1| 
+|Moisés Ballesteros |DH        |      0|  0|   1|  0|  0| 
+|Nasim Nuñez        |DH        |      1|  0|   2|  0|  0| 
 |Bryce Eldridge     |BAT BENCH |      0|  0|   0|  0|  0| 
-|Carson Benge       |BAT BENCH |      2|  2|   2|  0|  0| 
+|Carson Benge       |BAT BENCH |      3|  2|   2|  0|  0| 
 |Jeremy Peña        |BAT BENCH |     **| **|  **| **| **| 
 
 

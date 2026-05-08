@@ -6,17 +6,17 @@
 |players         |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------|:---------|------:|--:|---:|--:|--:| 
 |J.T. Realmuto   |C         |      2|  0|   0|  0|  0| 
-|Michael Busch   |1B        |      3|  0|   1|  0|  0| 
-|Nico Hoerner    |2B        |      0|  1|   0|  0|  0| 
+|Michael Busch   |1B        |      4|  0|   1|  0|  0| 
+|Nico Hoerner    |2B        |      2|  2|   1|  0|  0| 
 |Max Muncy       |3B        |      1|  1|   0|  0|  0| 
-|Bobby Witt Jr.  |SS        |      0|  1|   0|  0|  1| 
-|Corey Seager    |MI        |      2|  1|   2|  1|  0| 
+|Bobby Witt Jr.  |SS        |      5|  2|   1|  1|  1| 
+|Corey Seager    |MI        |      4|  1|   2|  1|  0| 
 |Freddie Freeman |CI        |      3|  1|   1|  0|  0| 
-|Jarren Duran    |OF        |      2|  0|   0|  0|  1| 
-|Kyle Schwarber  |OF        |      2|  1|   0|  0|  0| 
-|Oneil Cruz      |OF        |      0|  0|   0|  0|  1| 
-|Spencer Steer   |OF        |      1|  1|   1|  1|  0| 
-|Bryce Harper    |DH        |      0|  1|   0|  0|  0| 
+|Jarren Duran    |OF        |      3|  1|   0|  0|  1| 
+|Kyle Schwarber  |OF        |      4|  2|   1|  1|  0| 
+|Oneil Cruz      |OF        |      2|  0|   0|  0|  2| 
+|Spencer Steer   |OF        |      4|  1|   1|  1|  0| 
+|Bryce Harper    |DH        |      1|  1|   0|  0|  0| 
 |Cole Young      |DH        |      3|  0|   1|  0|  0| 
 |Kevin McGonigle |DH        |      0|  0|   0|  0|  0| 
 |Marcell Ozuna   |DH        |      1|  0|   0|  0|  0| 
@@ -38,11 +38,11 @@
 |Brad Keller      |RP          |  1|  1|  0|  0.000|      3| 3.000|  1|  0|  1| 
 |Jacob Latz       |RP          |  1|  1|  0|  0.000|      1| 1.000|  1|  0|  0| 
 |Aaron Nola       |OP          | **| **| **|     **|     **|    **| **| **| **| 
-|Gregory Soto     |OP          |  1|  1|  0|  0.000|      1| 1.000|  1|  0|  1| 
+|Gregory Soto     |OP          |  2|  2|  0|  0.000|      1| 0.500|  2|  0|  2| 
 |Justin Wrobleski |OP          | **| **| **|     **|     **|    **| **| **| **| 
 |Luis Severino    |OP          | **| **| **|     **|     **|    **| **| **| **| 
 |Tony Santillan   |OP          | **| **| **|     **|     **|    **| **| **| **| 
-|Dennis Santana   |PITCH BENCH | **| **| **|     **|     **|    **| **| **| **| 
+|Dennis Santana   |PITCH BENCH |  1|  1|  0|  0.000|      1| 1.000|  0|  0|  0| 
 |Kodai Senga      |PITCH BENCH | **| **| **|     **|     **|    **| **| **| **| 
 |Luis Gil         |PITCH BENCH | **| **| **|     **|     **|    **| **| **| **| 
 |Reynaldo López   |PITCH BENCH | **| **| **|     **|     **|    **| **| **| **| 
