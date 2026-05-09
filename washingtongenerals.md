@@ -5,21 +5,21 @@
  
 |players         |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto   |C         |      2|  0|   0|  0|  0| 
-|Michael Busch   |1B        |      4|  0|   1|  0|  0| 
+|J.T. Realmuto   |C         |      3|  0|   1|  0|  0| 
+|Michael Busch   |1B        |      7|  1|   4|  0|  1| 
 |Nico Hoerner    |2B        |      2|  2|   1|  0|  0| 
 |Max Muncy       |3B        |      1|  1|   0|  0|  0| 
-|Bobby Witt Jr.  |SS        |      5|  2|   1|  1|  1| 
+|Bobby Witt Jr.  |SS        |      7|  2|   1|  1|  1| 
 |Corey Seager    |MI        |      4|  1|   2|  1|  0| 
-|Freddie Freeman |CI        |      3|  1|   1|  0|  0| 
-|Jarren Duran    |OF        |      3|  1|   0|  0|  1| 
-|Kyle Schwarber  |OF        |      4|  2|   1|  1|  0| 
-|Oneil Cruz      |OF        |      2|  0|   0|  0|  2| 
+|Freddie Freeman |CI        |      4|  2|   2|  1|  0| 
+|Jarren Duran    |OF        |      4|  1|   0|  0|  2| 
+|Kyle Schwarber  |OF        |      5|  3|   2|  2|  0| 
+|Oneil Cruz      |OF        |      4|  1|   0|  0|  2| 
 |Spencer Steer   |OF        |      4|  1|   1|  1|  0| 
-|Bryce Harper    |DH        |      1|  1|   0|  0|  0| 
-|Cole Young      |DH        |      3|  0|   1|  0|  0| 
-|Kevin McGonigle |DH        |      0|  0|   0|  0|  0| 
-|Marcell Ozuna   |DH        |      1|  0|   0|  0|  0| 
+|Bryce Harper    |DH        |      5|  2|   0|  0|  0| 
+|Cole Young      |DH        |      5|  0|   2|  0|  0| 
+|Kevin McGonigle |DH        |      2|  0|   0|  0|  1| 
+|Marcell Ozuna   |DH        |      4|  1|   1|  1|  0| 
 |Carlos Correa   |BAT BENCH |     **| **|  **| **| **| 
 
 * * *
@@ -27,27 +27,27 @@
 ### Pitchers
 
  
-|players          |position    |  g| ip| er|    era| hitsbb|  whip| so|  w| sv| 
-|:----------------|:-----------|--:|--:|--:|------:|------:|-----:|--:|--:|--:| 
-|Dustin May       |SP          | **| **| **|     **|     **|    **| **| **| **| 
-|Griffin Canning  |SP          | **| **| **|     **|     **|    **| **| **| **| 
-|Jacob deGrom     |SP          | **| **| **|     **|     **|    **| **| **| **| 
-|JR Ritchie       |SP          | **| **| **|     **|     **|    **| **| **| **| 
-|Nathan Eovaldi   |SP          |  1|  8|  1|  1.125|      3| 0.375|  8|  1|  0| 
-|Randy Vásquez    |SP          | **| **| **|     **|     **|    **| **| **| **| 
-|Brad Keller      |RP          |  1|  1|  0|  0.000|      3| 3.000|  1|  0|  1| 
-|Jacob Latz       |RP          |  1|  1|  0|  0.000|      1| 1.000|  1|  0|  0| 
-|Aaron Nola       |OP          | **| **| **|     **|     **|    **| **| **| **| 
-|Gregory Soto     |OP          |  2|  2|  0|  0.000|      1| 0.500|  2|  0|  2| 
-|Justin Wrobleski |OP          | **| **| **|     **|     **|    **| **| **| **| 
-|Luis Severino    |OP          | **| **| **|     **|     **|    **| **| **| **| 
-|Tony Santillan   |OP          | **| **| **|     **|     **|    **| **| **| **| 
-|Dennis Santana   |PITCH BENCH |  1|  1|  0|  0.000|      1| 1.000|  0|  0|  0| 
-|Kodai Senga      |PITCH BENCH | **| **| **|     **|     **|    **| **| **| **| 
-|Luis Gil         |PITCH BENCH | **| **| **|     **|     **|    **| **| **| **| 
-|Reynaldo López   |PITCH BENCH | **| **| **|     **|     **|    **| **| **| **| 
-|Ryan Walker      |PITCH BENCH |  1|  1|  2| 18.000|      4| 4.000|  0|  0|  0| 
-|Sonny Gray       |PITCH BENCH |  1|  5|  0|  0.000|      6| 1.200|  2|  1|  0| 
+|players          |position    |  g|    ip| er|    era| hitsbb|  whip| so|  w| sv| 
+|:----------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
+|Dustin May       |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Griffin Canning  |SP          |  1| 4.333|  6| 12.462|      9| 2.077|  5|  0|  0| 
+|Jacob deGrom     |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|JR Ritchie       |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Nathan Eovaldi   |SP          |  1| 8.000|  1|  1.125|      3| 0.375|  8|  1|  0| 
+|Randy Vásquez    |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Brad Keller      |RP          |  2| 2.000|  1|  4.500|      6| 3.000|  3|  0|  1| 
+|Jacob Latz       |RP          |  1| 1.000|  0|  0.000|      1| 1.000|  1|  0|  0| 
+|Aaron Nola       |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Gregory Soto     |OP          |  2| 2.000|  0|  0.000|      1| 0.500|  2|  0|  2| 
+|Justin Wrobleski |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Luis Severino    |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Tony Santillan   |OP          |  1| 0.000|  4|    Inf|      4|   Inf|  0|  0|  0| 
+|Dennis Santana   |PITCH BENCH |  1| 1.000|  0|  0.000|      1| 1.000|  0|  0|  0| 
+|Kodai Senga      |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Luis Gil         |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Reynaldo López   |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Ryan Walker      |PITCH BENCH |  1| 1.000|  2| 18.000|      4| 4.000|  0|  0|  0| 
+|Sonny Gray       |PITCH BENCH |  1| 5.000|  0|  0.000|      6| 1.200|  2|  1|  0| 
 
 
 * * *
