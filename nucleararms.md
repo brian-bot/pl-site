@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Shea Langeliers   |C         |      3|  2|   2|  1|  0| 
+|Shea Langeliers   |C         |      6|  4|   4|  1|  0| 
 |Yandy Díaz        |1B        |      4|  0|   1|  0|  0| 
-|Ozzie Albies      |2B        |      1|  0|   0|  0|  0| 
-|Austin Riley      |3B        |      2|  0|   1|  0|  0| 
-|Gunnar Henderson  |SS        |      2|  0|   1|  0|  0| 
-|Colson Montgomery |MI        |      2|  1|   3|  0|  0| 
+|Ozzie Albies      |2B        |      3|  1|   2|  0|  0| 
+|Austin Riley      |3B        |      4|  1|   2|  0|  0| 
+|Gunnar Henderson  |SS        |      4|  0|   1|  0|  0| 
+|Colson Montgomery |MI        |      3|  2|   5|  1|  0| 
 |Pete Alonso       |CI        |      3|  2|   5|  2|  0| 
-|Bryan Reynolds    |OF        |      4|  1|   0|  0|  1| 
+|Bryan Reynolds    |OF        |      6|  1|   1|  0|  1| 
 |Giancarlo Stanton |OF        |     **| **|  **| **| **| 
-|Seiya Suzuki      |OF        |      5|  3|   3|  1|  0| 
-|Teoscar Hernández |OF        |      2|  1|   0|  0|  0| 
+|Seiya Suzuki      |OF        |      7|  3|   3|  1|  0| 
+|Teoscar Hernández |OF        |      4|  1|   0|  0|  0| 
 |David Hamilton    |DH        |      1|  0|   0|  0|  0| 
 |Dillon Dingler    |DH        |      0|  1|   0|  0|  0| 
-|Nathan Church     |DH        |      3|  1|   0|  0|  0| 
-|TJ Rumfield       |DH        |      7|  3|   2|  1|  0| 
+|Nathan Church     |DH        |      6|  1|   1|  0|  0| 
+|TJ Rumfield       |DH        |      9|  3|   2|  1|  0| 
 |Anthony Volpe     |BAT BENCH |     **| **|  **| **| **| 
 |Jackson Holliday  |BAT BENCH |     **| **|  **| **| **| 
 |Luis Robert Jr.   |BAT BENCH |     **| **|  **| **| **| 
@@ -36,7 +36,7 @@
 |Dylan Cease       |SP          |  1| 7.000|  0| 0.0|      5| 0.714| 10|  1|  0| 
 |George Kirby      |SP          | **|    **| **|  **|     **|    **| **| **| **| 
 |Sandy Alcantara   |SP          | **|    **| **|  **|     **|    **| **| **| **| 
-|Spencer Strider   |SP          | **|    **| **|  **|     **|    **| **| **| **| 
+|Spencer Strider   |SP          |  1| 6.000|  0| 0.0|      3| 0.500|  8|  1|  0| 
 |Taj Bradley       |SP          | **|    **| **|  **|     **|    **| **| **| **| 
 |Tyler Glasnow     |SP          |  1| 1.000|  1| 9.0|      1| 1.000|  2|  0|  0| 
 |Abner Uribe       |RP          |  1| 1.000|  1| 9.0|      1| 1.000|  0|  0|  0| 

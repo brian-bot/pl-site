@@ -7,18 +7,18 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Hunter Goodman    |C         |      6|  1|   2|  1|  0| 
 |Willson Contreras |1B        |      4|  0|   1|  0|  0| 
-|Brice Turang      |2B        |      3|  1|   0|  0|  0| 
-|Kazuma Okamoto    |3B        |      4|  0|   1|  0|  0| 
-|Elly De La Cruz   |SS        |      3|  0|   3|  0|  0| 
+|Brice Turang      |2B        |      4|  2|   0|  0|  1| 
+|Kazuma Okamoto    |3B        |      5|  1|   2|  0|  0| 
+|Elly De La Cruz   |SS        |      5|  0|   4|  0|  0| 
 |Trevor Story      |MI        |      1|  1|   0|  0|  1| 
-|Jac Caglianone    |CI        |      2|  1|   0|  0|  0| 
-|Brandon Nimmo     |OF        |      5|  1|   0|  0|  0| 
-|Jordan Walker     |OF        |      6|  1|   0|  0|  1| 
-|Kyle Stowers      |OF        |      1|  1|   0|  0|  0| 
+|Jac Caglianone    |CI        |      3|  2|   0|  0|  0| 
+|Brandon Nimmo     |OF        |      6|  1|   0|  0|  0| 
+|Jordan Walker     |OF        |      7|  2|   0|  0|  1| 
+|Kyle Stowers      |OF        |      4|  3|   2|  1|  0| 
 |Kyle Tucker       |OF        |      4|  2|   1|  0|  0| 
-|Addison Barger    |DH        |     **| **|  **| **| **| 
-|Carter Jensen     |DH        |      2|  1|   0|  0|  0| 
-|Dansby Swanson    |DH        |      3|  1|   1|  0|  1| 
+|Addison Barger    |DH        |      2|  1|   0|  0|  0| 
+|Carter Jensen     |DH        |      4|  2|   0|  0|  0| 
+|Dansby Swanson    |DH        |      4|  1|   1|  0|  1| 
 |Jake Burger       |DH        |      2|  1|   0|  0|  0| 
 |Eugenio Suárez    |BAT BENCH |     **| **|  **| **| **| 
 |Wyatt Langford    |BAT BENCH |     **| **|  **| **| **| 
@@ -33,7 +33,7 @@
 |:---------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
 |Bryan Woo       |SP          |  1| 6.000|  0|  0.000|      3| 0.500|  9|  1|  0| 
 |Bubba Chandler  |SP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Cam Schlittler  |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Cam Schlittler  |SP          |  1| 6.000|  0|  0.000|      2| 0.333|  6|  0|  0| 
 |Connelly Early  |SP          |  1| 7.000|  0|  0.000|      5| 0.714|  8|  1|  0| 
 |Drew Rasmussen  |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Kyle Bradish    |SP          |  1| 7.000|  3|  3.857|      6| 0.857| 10|  0|  0| 

@@ -5,20 +5,20 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith       |C         |      0|  0|   0|  0|  0| 
+|Will Smith       |C         |      2|  0|   0|  0|  0| 
 |Rafael Devers    |1B        |      3|  3|   2|  2|  0| 
-|Maikel Garcia    |2B        |      6|  0|   2|  0|  0| 
-|Matt Chapman     |3B        |      0|  0|   0|  0|  0| 
+|Maikel Garcia    |2B        |      8|  1|   2|  0|  0| 
+|Matt Chapman     |3B        |      2|  0|   0|  0|  0| 
 |Brendan Donovan  |SS        |      1|  1|   0|  0|  0| 
-|Xavier Edwards   |MI        |      3|  1|   2|  1|  0| 
+|Xavier Edwards   |MI        |      4|  2|   3|  2|  0| 
 |Alex Bregman     |CI        |      4|  3|   0|  0|  0| 
-|George Springer  |OF        |      1|  1|   0|  0|  0| 
-|Jakob Marsee     |OF        |      2|  1|   2|  0|  0| 
-|Juan Soto        |OF        |      2|  1|   2|  1|  0| 
+|George Springer  |OF        |      3|  1|   0|  0|  0| 
+|Jakob Marsee     |OF        |      4|  2|   5|  1|  0| 
+|Juan Soto        |OF        |      3|  1|   2|  1|  0| 
 |Trent Grisham    |OF        |      4|  2|   3|  0|  1| 
 |Christian Walker |DH        |      1|  1|   0|  0|  0| 
 |Jonathan Aranda  |DH        |      5|  1|   0|  0|  0| 
-|Miguel Vargas    |DH        |      3|  2|   0|  0|  0| 
+|Miguel Vargas    |DH        |      6|  4|   3|  2|  0| 
 |Roman Anthony    |DH        |     **| **|  **| **| **| 
 |Francisco Lindor |BAT BENCH |     **| **|  **| **| **| 
 |Ryan Jeffers     |BAT BENCH |      6|  3|   2|  1|  0| 
@@ -47,7 +47,7 @@
 |Brandon Woodruff   |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Clayton Beeter     |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Grayson Rodriguez  |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
-|Merrill Kelly      |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Merrill Kelly      |PITCH BENCH |  1| 7.000|  1|  1.286|      6| 0.857|  6|  1|  0| 
 
 
 * * *
