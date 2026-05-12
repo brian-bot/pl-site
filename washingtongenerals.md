@@ -8,16 +8,16 @@
 |J.T. Realmuto   |C         |      4|  1|   1|  0|  0| 
 |Michael Busch   |1B        |     10|  1|   4|  0|  1| 
 |Nico Hoerner    |2B        |      4|  2|   1|  0|  1| 
-|Max Muncy       |3B        |      2|  2|   2|  1|  0| 
+|Max Muncy       |3B        |      4|  3|   4|  2|  0| 
 |Bobby Witt Jr.  |SS        |     10|  4|   3|  2|  1| 
-|Corey Seager    |MI        |      5|  1|   2|  1|  0| 
-|Freddie Freeman |CI        |      5|  2|   2|  1|  0| 
+|Corey Seager    |MI        |      6|  1|   2|  1|  0| 
+|Freddie Freeman |CI        |      7|  3|   2|  1|  0| 
 |Jarren Duran    |OF        |      5|  1|   0|  0|  2| 
 |Kyle Schwarber  |OF        |      9|  6|   7|  5|  0| 
 |Oneil Cruz      |OF        |      9|  6|   1|  1|  4| 
 |Spencer Steer   |OF        |      6|  3|   2|  2|  1| 
 |Bryce Harper    |DH        |      6|  3|   1|  1|  0| 
-|Cole Young      |DH        |      6|  0|   2|  0|  0| 
+|Cole Young      |DH        |      7|  0|   3|  0|  0| 
 |Kevin McGonigle |DH        |      6|  1|   0|  0|  1| 
 |Marcell Ozuna   |DH        |      9|  2|   1|  1|  0| 
 |Carlos Correa   |BAT BENCH |     **| **|  **| **| **| 

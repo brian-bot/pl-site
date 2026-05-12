@@ -7,16 +7,16 @@
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Liam Hicks         |C         |      6|  1|   3|  1|  0| 
 |Josh Naylor        |1B        |      8|  4|   3|  1|  1| 
-|Jose Altuve        |2B        |      4|  2|   0|  0|  0| 
+|Jose Altuve        |2B        |      7|  3|   0|  0|  0| 
 |Munetaka Murakami  |3B        |      4|  2|   1|  1|  0| 
-|Geraldo Perdomo    |SS        |      5|  2|   0|  0|  0| 
+|Geraldo Perdomo    |SS        |      7|  2|   1|  0|  0| 
 |Bryson Stott       |MI        |      5|  3|   2|  0|  1| 
 |JJ Wetherholt      |CI        |      6|  2|   2|  0|  1| 
-|Corbin Carroll     |OF        |      5|  2|   1|  1|  0| 
+|Corbin Carroll     |OF        |      8|  3|   1|  1|  0| 
 |Daylen Lile        |OF        |      8|  2|   1|  0|  1| 
 |Mickey Moniak      |OF        |      3|  1|   0|  0|  0| 
-|Taylor Ward        |OF        |      9|  4|   0|  0|  0| 
-|Adley Rutschman    |DH        |      8|  3|   3|  1|  0| 
+|Taylor Ward        |OF        |     10|  4|   0|  0|  0| 
+|Adley Rutschman    |DH        |      9|  4|   3|  1|  0| 
 |Jackson Chourio    |DH        |      5|  0|   3|  0|  0| 
 |Ryan O'Hearn       |DH        |      6|  2|   2|  0|  0| 
 |Spencer Torkelson  |DH        |      5|  1|   1|  0|  0| 
@@ -43,7 +43,7 @@
 |Jhoan Duran      |RP          |  2| 2.000|  0|  0.000|      1| 0.500|  4|  0|  0| 
 |Jack Leiter      |OP          |  1| 4.667|  0|  0.000|      8| 1.714|  6|  0|  0| 
 |José Soriano     |OP          |  1| 7.667|  1|  1.174|      6| 0.783|  7|  1|  0| 
-|Paul Sewald      |OP          |  2| 2.000|  0|  0.000|      1| 0.500|  2|  0|  1| 
+|Paul Sewald      |OP          |  3| 3.000|  0|  0.000|      1| 0.333|  3|  0|  2| 
 |Ryan Zeferjahn   |OP          |  1| 1.000|  0|  0.000|      0| 0.000|  2|  0|  0| 
 |Seth Lugo        |OP          |  1| 4.000|  4|  9.000|     11| 2.750|  5|  0|  0| 
 |Jeff Hoffman     |PITCH BENCH |  1| 1.000|  0|  0.000|      1| 1.000|  1|  0|  0| 

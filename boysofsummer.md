@@ -7,8 +7,8 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |William Contreras |C         |      7|  1|   3|  0|  0| 
 |Nick Kurtz        |1B        |     11|  4|   4|  0|  2| 
-|Ketel Marte       |2B        |      3|  0|   2|  0|  0| 
-|Casey Schmitt     |3B        |      1|  0|   0|  0|  0| 
+|Ketel Marte       |2B        |      4|  0|   2|  0|  0| 
+|Casey Schmitt     |3B        |      5|  3|   0|  0|  1| 
 |Trea Turner       |SS        |      5|  1|   1|  0|  1| 
 |Otto Lopez        |MI        |      8|  3|   1|  0|  0| 
 |Ildemaro Vargas   |CI        |      4|  2|   2|  0|  1| 
@@ -16,7 +16,7 @@
 |Garrett Mitchell  |OF        |      1|  1|   1|  0|  0| 
 |Michael Harris II |OF        |      6|  2|   1|  0|  0| 
 |Riley Greene      |OF        |     11|  2|   1|  0|  0| 
-|Heliot Ramos      |DH        |      7|  5|   3|  1|  0| 
+|Heliot Ramos      |DH        |     10|  6|   5|  1|  0| 
 |Iván Herrera      |DH        |      8|  1|   1|  0|  0| 
 |Jacob Wilson      |DH        |      6|  2|   4|  1|  1| 
 |Troy Johnston     |DH        |      6|  3|   2|  0|  0| 
