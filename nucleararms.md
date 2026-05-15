@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Shea Langeliers   |C         |     11|  6|   7|  2|  0| 
+|Shea Langeliers   |C         |     14|  6|   9|  2|  0| 
 |Yandy Díaz        |1B        |      8|  0|   2|  0|  0| 
 |Ozzie Albies      |2B        |      4|  1|   2|  0|  0| 
-|Austin Riley      |3B        |      7|  3|   3|  1|  0| 
+|Austin Riley      |3B        |      9|  3|   3|  1|  0| 
 |Gunnar Henderson  |SS        |      6|  0|   2|  0|  0| 
 |Colson Montgomery |MI        |      7|  5|   6|  2|  0| 
 |Pete Alonso       |CI        |      6|  2|   6|  2|  0| 
-|Bryan Reynolds    |OF        |      9|  1|   3|  0|  1| 
+|Bryan Reynolds    |OF        |     10|  2|   4|  0|  1| 
 |Giancarlo Stanton |OF        |     **| **|  **| **| **| 
 |Seiya Suzuki      |OF        |      8|  3|   3|  1|  0| 
-|Teoscar Hernández |OF        |      9|  2|   1|  0|  0| 
-|David Hamilton    |DH        |      2|  1|   0|  0|  0| 
-|Dillon Dingler    |DH        |      6|  3|   1|  1|  0| 
+|Teoscar Hernández |OF        |     12|  3|   1|  0|  0| 
+|David Hamilton    |DH        |      4|  2|   0|  0|  1| 
+|Dillon Dingler    |DH        |      7|  4|   2|  2|  0| 
 |Nathan Church     |DH        |      8|  1|   2|  0|  0| 
-|TJ Rumfield       |DH        |     12|  5|   3|  2|  0| 
+|TJ Rumfield       |DH        |     15|  6|   3|  2|  0| 
 |Anthony Volpe     |BAT BENCH |      0|  0|   0|  0|  0| 
 |Jackson Holliday  |BAT BENCH |     **| **|  **| **| **| 
 |Luis Robert Jr.   |BAT BENCH |     **| **|  **| **| **| 
@@ -42,7 +42,7 @@
 |Abner Uribe       |RP          |  4|  4.000|  4|  9.000|      6| 1.500|  3|  1|  1| 
 |Gus Varland       |RP          |  3|  2.667|  3| 10.125|      6| 2.250|  3|  1|  1| 
 |Bryan King        |OP          |  2|  2.000|  1|  4.500|      5| 2.500|  0|  0|  0| 
-|Carmen Mlodzinski |OP          |  1|  6.000|  2|  3.000|      7| 1.167|  1|  0|  0| 
+|Carmen Mlodzinski |OP          |  2| 11.000|  4|  3.273|     14| 1.273|  3|  1|  0| 
 |Jack Flaherty     |OP          |  2|  8.667|  5|  5.192|     13| 1.500| 12|  0|  0| 
 |Max Meyer         |OP          |  2| 10.667|  6|  5.062|     17| 1.594| 14|  1|  0| 
 |Roki Sasaki       |OP          |  1|  5.000|  3|  5.400|      7| 1.400|  5|  0|  0| 

@@ -5,21 +5,21 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Liam Hicks         |C         |      7|  2|   6|  1|  0| 
-|Josh Naylor        |1B        |     11|  4|   3|  1|  2| 
+|Liam Hicks         |C         |      9|  2|   6|  1|  0| 
+|Josh Naylor        |1B        |     13|  4|   3|  1|  2| 
 |Jose Altuve        |2B        |     10|  4|   2|  0|  0| 
-|Munetaka Murakami  |3B        |      7|  2|   1|  1|  0| 
+|Munetaka Murakami  |3B        |     10|  3|   1|  1|  0| 
 |Geraldo Perdomo    |SS        |      9|  3|   1|  0|  0| 
-|Bryson Stott       |MI        |      7|  3|   3|  0|  2| 
-|JJ Wetherholt      |CI        |     12|  4|   4|  1|  1| 
+|Bryson Stott       |MI        |      8|  3|   4|  0|  2| 
+|JJ Wetherholt      |CI        |     14|  5|   4|  1|  1| 
 |Corbin Carroll     |OF        |     14|  5|   1|  1|  1| 
 |Daylen Lile        |OF        |     13|  5|   8|  3|  2| 
-|Mickey Moniak      |OF        |      7|  2|   5|  1|  0| 
+|Mickey Moniak      |OF        |      8|  2|   5|  1|  0| 
 |Taylor Ward        |OF        |     14|  6|   0|  0|  0| 
 |Adley Rutschman    |DH        |     10|  5|   6|  2|  0| 
 |Jackson Chourio    |DH        |      8|  0|   3|  0|  1| 
-|Ryan O'Hearn       |DH        |      8|  4|   3|  1|  0| 
-|Spencer Torkelson  |DH        |      6|  1|   2|  0|  0| 
+|Ryan O'Hearn       |DH        |     11|  6|   5|  2|  0| 
+|Spencer Torkelson  |DH        |      7|  1|   2|  0|  0| 
 |Carlos Cortes      |BAT BENCH |      6|  1|   2|  0|  1| 
 |Gleyber Torres     |BAT BENCH |     **| **|  **| **| **| 
 |Lawrence Butler    |BAT BENCH |      8|  4|   0|  0|  0| 
@@ -40,7 +40,7 @@
 |Robbie Ray       |SP          |  2| 10.667|  4|  3.375|     17| 1.594|  9|  1|  0| 
 |Shohei Ohtani    |SP          |  1|  7.000|  0|  0.000|      6| 0.857|  8|  1|  0| 
 |Caleb Kilian     |RP          |  3|  3.333|  1|  2.700|      5| 1.500|  1|  0|  1| 
-|Jhoan Duran      |RP          |  3|  3.000|  0|  0.000|      3| 1.000|  6|  0|  1| 
+|Jhoan Duran      |RP          |  4|  4.000|  0|  0.000|      4| 1.000|  9|  0|  2| 
 |Jack Leiter      |OP          |  1|  4.667|  0|  0.000|      9| 1.929|  6|  0|  0| 
 |José Soriano     |OP          |  1|  7.667|  1|  1.174|      6| 0.783|  7|  1|  0| 
 |Paul Sewald      |OP          |  4|  3.667|  3|  7.364|      5| 1.364|  4|  0|  2| 

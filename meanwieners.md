@@ -8,22 +8,22 @@
 |Samuel Basallo    |C         |      9|  4|   2|  0|  0| 
 |Ben Rice          |1B        |      5|  1|   2|  1|  0| 
 |Jazz Chisholm Jr. |2B        |      5|  0|   1|  0|  0| 
-|Isaac Paredes     |3B        |      8|  0|   2|  0|  0| 
-|Bo Bichette       |SS        |      8|  1|   3|  0|  0| 
-|Matt McLain       |MI        |     10|  2|   5|  1|  0| 
+|Isaac Paredes     |3B        |      9|  0|   2|  0|  0| 
+|Bo Bichette       |SS        |      9|  1|   3|  0|  0| 
+|Matt McLain       |MI        |     13|  5|   7|  2|  0| 
 |Alec Burleson     |CI        |     10|  3|   2|  1|  1| 
-|Andy Pages        |OF        |      9|  4|   8|  4|  0| 
+|Andy Pages        |OF        |     10|  4|   8|  4|  0| 
 |Jo Adell          |OF        |     10|  2|   5|  2|  0| 
-|Randy Arozarena   |OF        |     17|  7|   4|  1|  3| 
-|Wilyer Abreu      |OF        |      8|  2|   2|  1|  1| 
-|Brent Rooker      |DH        |     13|  2|   6|  2|  0| 
-|Sam Antonacci     |DH        |      9|  4|   2|  0|  2| 
+|Randy Arozarena   |OF        |     19|  8|   4|  1|  3| 
+|Wilyer Abreu      |OF        |     10|  2|   3|  1|  1| 
+|Brent Rooker      |DH        |     15|  2|   6|  2|  0| 
+|Sam Antonacci     |DH        |     10|  5|   2|  0|  2| 
 |Shohei Ohtani     |DH        |      8|  4|   3|  1|  1| 
 |Steven Kwan       |DH        |     10|  3|   0|  0|  0| 
-|Caleb Durbin      |BAT BENCH |      3|  0|   2|  0|  1| 
-|Jung Hoo Lee      |BAT BENCH |      9|  2|   2|  0|  0| 
-|Masyn Winn        |BAT BENCH |      6|  1|   2|  0|  0| 
-|Royce Lewis       |BAT BENCH |      4|  2|   1|  0|  1| 
+|Caleb Durbin      |BAT BENCH |      5|  0|   2|  0|  1| 
+|Jung Hoo Lee      |BAT BENCH |     11|  3|   4|  1|  0| 
+|Masyn Winn        |BAT BENCH |      9|  2|   2|  0|  0| 
+|Royce Lewis       |BAT BENCH |      5|  3|   1|  0|  1| 
 |TJ Friedl         |BAT BENCH |      5|  1|   0|  0|  1| 
 
 
@@ -40,7 +40,7 @@
 |Michael King       |SP          |  2| 11.667|  2|  1.543|     11| 0.943| 11|  0|  0| 
 |Shota Imanaga      |SP          |  2| 13.000|  3|  2.077|     14| 1.077| 16|  1|  0| 
 |Yoshinobu Yamamoto |SP          |  1|  6.333|  5|  7.105|      6| 0.947|  8|  0|  0| 
-|Alex Vesia         |RP          |  2|  0.667|  3| 40.500|      4| 6.000|  1|  1|  0| 
+|Alex Vesia         |RP          |  3|  1.667|  3| 16.200|      5| 3.000|  2|  1|  0| 
 |Devin Williams     |RP          |  3|  2.667|  0|  0.000|      1| 0.375|  4|  1|  1| 
 |Aaron Ashby        |OP          |  4|  6.000|  0|  0.000|      4| 0.667|  9|  2|  0| 
 |Grant Holmes       |OP          |  1|  4.000|  2|  4.500|      5| 1.250|  5|  0|  0| 
