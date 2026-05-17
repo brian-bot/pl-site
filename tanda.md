@@ -6,24 +6,24 @@
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
 |Cal Raleigh           |C         |      4|  3|   0|  0|  0| 
-|Vladimir Guerrero Jr. |1B        |      8|  3|   3|  0|  1| 
+|Vladimir Guerrero Jr. |1B        |      8|  4|   3|  0|  1| 
 |Luke Keaschall        |2B        |     12|  4|   0|  0|  2| 
-|José Ramírez          |3B        |     17|  5|   3|  0|  5| 
-|Xander Bogaerts       |SS        |      8|  4|   3|  1|  1| 
-|J.P. Crawford         |MI        |     14|  5|   4|  1|  0| 
+|José Ramírez          |3B        |     20|  6|   3|  0|  7| 
+|Xander Bogaerts       |SS        |      9|  5|   3|  1|  1| 
+|J.P. Crawford         |MI        |     16|  6|   5|  2|  0| 
 |Matt Olson            |CI        |      7|  1|   4|  1|  1| 
 |Cody Bellinger        |OF        |     14|  5|   4|  0|  1| 
-|Jorge Soler           |OF        |      8|  2|   1|  0|  0| 
-|Pete Crow-Armstrong   |OF        |     12|  2|   5|  1|  4| 
-|Ramón Laureano        |OF        |      8|  2|   0|  0|  0| 
-|Brandon Marsh         |DH        |     15|  7|   4|  0|  0| 
-|Daulton Varsho        |DH        |     10|  4|   4|  1|  1| 
-|Josh Jung             |DH        |     10|  6|   1|  1|  0| 
+|Jorge Soler           |OF        |     11|  3|   1|  0|  0| 
+|Pete Crow-Armstrong   |OF        |     14|  3|   7|  2|  4| 
+|Ramón Laureano        |OF        |      9|  3|   0|  0|  0| 
+|Brandon Marsh         |DH        |     16|  7|   4|  0|  0| 
+|Daulton Varsho        |DH        |     13|  4|   5|  1|  1| 
+|Josh Jung             |DH        |     11|  6|   1|  1|  0| 
 |Kerry Carpenter       |DH        |      1|  0|   0|  0|  0| 
 |Cam Smith             |BAT BENCH |      6|  1|   0|  0|  2| 
 |Christian Yelich      |BAT BENCH |      0|  0|   0|  0|  0| 
 |Jasson Domínguez      |BAT BENCH |      0|  0|   0|  0|  0| 
-|Willy Adames          |BAT BENCH |     13|  2|   5|  0|  0| 
+|Willy Adames          |BAT BENCH |     16|  2|   7|  0|  0| 
 
 
 * * *
@@ -33,7 +33,7 @@
  
 |players         |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:---------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Bryce Elder     |SP          |  1|  5.667|  0|  0.000|      5| 0.882|  8|  1|  0| 
+|Bryce Elder     |SP          |  2| 13.667|  3|  1.976|     12| 0.878| 11|  1|  0| 
 |Clay Holmes     |SP          |  2| 10.000|  6|  5.400|     16| 1.600| 14|  0|  0| 
 |Framber Valdez  |SP          |  1|  6.667|  2|  2.700|      7| 1.050|  7|  0|  0| 
 |Landen Roupp    |SP          |  2|  9.333|  5|  4.821|     14| 1.500| 15|  0|  0| 
