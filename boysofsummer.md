@@ -5,22 +5,22 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras |C         |     13|  3|   4|  0|  0| 
-|Nick Kurtz        |1B        |     22| 10|  13|  3|  2| 
+|William Contreras |C         |     15|  3|   4|  0|  0| 
+|Nick Kurtz        |1B        |     25| 10|  13|  3|  2| 
 |Ketel Marte       |2B        |     10|  2|   2|  0|  0| 
-|Casey Schmitt     |3B        |      9|  5|   3|  2|  1| 
-|Trea Turner       |SS        |     11|  6|   2|  0|  3| 
-|Otto Lopez        |MI        |     15|  3|   4|  0|  0| 
-|Ildemaro Vargas   |CI        |     11|  5|   8|  1|  1| 
+|Casey Schmitt     |3B        |     11|  6|   3|  2|  1| 
+|Trea Turner       |SS        |     12|  6|   3|  0|  3| 
+|Otto Lopez        |MI        |     18|  4|   5|  0|  2| 
+|Ildemaro Vargas   |CI        |     12|  6|   9|  1|  1| 
 |Byron Buxton      |OF        |     12|  7|   6|  4|  2| 
-|Garrett Mitchell  |OF        |      6|  2|   1|  0|  1| 
-|Michael Harris II |OF        |     11|  4|   2|  1|  0| 
+|Garrett Mitchell  |OF        |      7|  3|   2|  1|  1| 
+|Michael Harris II |OF        |     11|  5|   2|  1|  0| 
 |Riley Greene      |OF        |     20|  3|   4|  0|  0| 
 |Heliot Ramos      |DH        |     13|  7|   5|  1|  0| 
-|Iván Herrera      |DH        |     16|  4|   3|  0|  0| 
+|Iván Herrera      |DH        |     17|  4|   3|  0|  0| 
 |Jacob Wilson      |DH        |      6|  2|   4|  1|  1| 
-|Troy Johnston     |DH        |     10|  4|   4|  0|  0| 
-|Dalton Rushing    |BAT BENCH |      3|  1|   0|  0|  0| 
+|Troy Johnston     |DH        |     13|  6|   5|  0|  0| 
+|Dalton Rushing    |BAT BENCH |      5|  1|   0|  0|  0| 
 
 
 * * *
@@ -41,7 +41,7 @@
 |Carlos Rodón     |OP          |  2|  8.000|  5|  5.625|     13| 1.625| 10|  0|  0| 
 |Davis Martin     |OP          |  2| 12.000|  2|  1.500|     10| 0.833| 16|  1|  0| 
 |Keider Montero   |OP          |  2| 10.667|  5|  4.219|     10| 0.937|  6|  0|  0| 
-|Lucas Erceg      |OP          |  3|  3.000|  1|  3.000|      6| 2.000|  3|  1|  0| 
+|Lucas Erceg      |OP          |  4|  4.000|  1|  2.250|      7| 1.750|  3|  1|  1| 
 |Michael McGreevy |OP          |  2| 12.000|  1|  0.750|      9| 0.750| 12|  1|  0| 
 |Blake Snell      |PITCH BENCH |  1|  3.000|  4| 12.000|      8| 2.667|  5|  0|  0| 
 |Edwin Díaz       |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
