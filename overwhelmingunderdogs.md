@@ -7,21 +7,21 @@
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith       |C         |     11|  4|   3|  1|  0| 
 |Rafael Devers    |1B        |     18|  9|   5|  3|  0| 
-|Maikel Garcia    |2B        |     18|  7|   5|  0|  0| 
+|Maikel Garcia    |2B        |     19|  7|   5|  0|  0| 
 |Matt Chapman     |3B        |     11|  1|   4|  0|  0| 
 |Brendan Donovan  |SS        |      8|  2|   0|  0|  0| 
-|Xavier Edwards   |MI        |     15|  9|   5|  2|  2| 
+|Xavier Edwards   |MI        |     17| 11|   7|  3|  2| 
 |Alex Bregman     |CI        |     17|  9|   3|  1|  1| 
-|George Springer  |OF        |      7|  5|   1|  0|  0| 
-|Jakob Marsee     |OF        |     19|  6|   6|  2|  3| 
-|Juan Soto        |OF        |     15|  7|   6|  3|  3| 
-|Trent Grisham    |OF        |     11|  4|   7|  1|  1| 
-|Christian Walker |DH        |      8|  4|   3|  2|  0| 
-|Jonathan Aranda  |DH        |     18|  6|   5|  1|  0| 
+|George Springer  |OF        |      9|  6|   2|  1|  0| 
+|Jakob Marsee     |OF        |     23|  9|   6|  2|  3| 
+|Juan Soto        |OF        |     19|  8|   8|  3|  3| 
+|Trent Grisham    |OF        |     12|  5|   7|  1|  2| 
+|Christian Walker |DH        |     10|  4|   4|  2|  0| 
+|Jonathan Aranda  |DH        |     19|  7|   6|  1|  0| 
 |Miguel Vargas    |DH        |     18| 10|  11|  4|  0| 
 |Roman Anthony    |DH        |     **| **|  **| **| **| 
 |Francisco Lindor |BAT BENCH |     **| **|  **| **| **| 
-|Ryan Jeffers     |BAT BENCH |     16|  7|   5|  3|  0| 
+|Ryan Jeffers     |BAT BENCH |     17|  8|   5|  3|  0| 
 
 * * *
 
@@ -34,7 +34,7 @@
 |Cristopher Sánchez |SP          |  2| 16.000|  0|  0.000|     12| 0.750| 20|  2|  0| 
 |Emmet Sheehan      |SP          |  2| 10.667|  3|  2.531|     11| 1.031| 13|  1|  0| 
 |Jesús Luzardo      |SP          |  2|  9.000|  5|  5.000|     14| 1.556| 10|  0|  0| 
-|Shane McClanahan   |SP          |  2| 10.667|  0|  0.000|      5| 0.469| 11|  1|  0| 
+|Shane McClanahan   |SP          |  3| 15.667|  4|  2.298|     13| 0.830| 17|  2|  0| 
 |Tyler Mahle        |SP          |  2| 10.667|  9|  7.594|     18| 1.687| 14|  0|  0| 
 |Cade Smith         |RP          |  6|  6.333|  1|  1.421|      4| 0.632| 13|  0|  6| 
 |Trevor Megill      |RP          |  4|  4.000|  2|  4.500|      5| 1.250|  7|  0|  1| 
