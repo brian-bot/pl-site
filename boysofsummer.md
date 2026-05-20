@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras |C         |     17|  4|   4|  0|  0| 
-|Nick Kurtz        |1B        |     26| 10|  13|  3|  2| 
-|Ketel Marte       |2B        |     12|  4|   4|  0|  0| 
-|Casey Schmitt     |3B        |     12|  6|   3|  2|  1| 
-|Trea Turner       |SS        |     13|  7|   3|  0|  4| 
-|Otto Lopez        |MI        |     18|  4|   5|  0|  2| 
-|Ildemaro Vargas   |CI        |     14|  8|   9|  1|  1| 
-|Byron Buxton      |OF        |     12|  7|   6|  4|  2| 
-|Garrett Mitchell  |OF        |      7|  3|   2|  1|  1| 
-|Michael Harris II |OF        |     11|  5|   2|  1|  0| 
-|Riley Greene      |OF        |     24|  3|   5|  0|  0| 
+|William Contreras |C         |     18|  5|   4|  0|  0| 
+|Nick Kurtz        |1B        |     29| 12|  18|  3|  3| 
+|Ketel Marte       |2B        |     13|  5|   7|  1|  0| 
+|Casey Schmitt     |3B        |     13|  6|   3|  2|  1| 
+|Trea Turner       |SS        |     14|  8|   4|  1|  4| 
+|Otto Lopez        |MI        |     22|  6|   5|  0|  3| 
+|Ildemaro Vargas   |CI        |     16|  9|   9|  1|  1| 
+|Byron Buxton      |OF        |     14|  8|   6|  4|  2| 
+|Garrett Mitchell  |OF        |      9|  3|   3|  1|  1| 
+|Michael Harris II |OF        |     13|  6|   4|  2|  1| 
+|Riley Greene      |OF        |     28|  5|   5|  0|  0| 
 |Heliot Ramos      |DH        |     13|  7|   5|  1|  0| 
-|Iván Herrera      |DH        |     17|  4|   3|  0|  0| 
+|Iván Herrera      |DH        |     18|  5|   6|  1|  0| 
 |Jacob Wilson      |DH        |      6|  2|   4|  1|  1| 
-|Troy Johnston     |DH        |     13|  6|   5|  0|  0| 
+|Troy Johnston     |DH        |     15|  6|   5|  0|  0| 
 |Dalton Rushing    |BAT BENCH |      5|  1|   0|  0|  0| 
 
 
@@ -34,18 +34,18 @@
 |MacKenzie Gore   |SP          |  3| 14.333|  8|  5.023|     18| 1.256| 10|  1|  0| 
 |Nick Martinez    |SP          |  2| 11.667|  1|  0.771|     13| 1.114|  7|  1|  0| 
 |Noah Schultz     |SP          |  3| 13.333| 13|  8.775|     23| 1.725| 12|  0|  0| 
-|Nolan McLean     |SP          |  2| 13.000|  4|  2.769|     13| 1.000| 13|  1|  0| 
+|Nolan McLean     |SP          |  3| 18.667| 10|  4.821|     23| 1.232| 18|  1|  0| 
 |Trey Yesavage    |SP          |  2| 10.000|  2|  1.800|     13| 1.300| 12|  0|  0| 
-|Mason Miller     |RP          |  5|  5.667|  0|  0.000|      8| 1.412| 13|  0|  4| 
-|Riley O'Brien    |RP          |  5|  5.000|  2|  3.600|      4| 0.800|  6|  0|  3| 
+|Mason Miller     |RP          |  6|  6.333|  0|  0.000|      9| 1.421| 13|  0|  4| 
+|Riley O'Brien    |RP          |  6|  6.000|  4|  6.000|      7| 1.167|  6|  0|  3| 
 |Carlos Rodón     |OP          |  2|  8.000|  5|  5.625|     13| 1.625| 10|  0|  0| 
 |Davis Martin     |OP          |  2| 12.000|  2|  1.500|     10| 0.833| 16|  1|  0| 
-|Keider Montero   |OP          |  2| 10.667|  5|  4.219|     10| 0.937|  6|  0|  0| 
+|Keider Montero   |OP          |  3| 15.667|  8|  4.596|     16| 1.021|  7|  0|  0| 
 |Lucas Erceg      |OP          |  4|  4.000|  1|  2.250|      7| 1.750|  3|  1|  1| 
 |Michael McGreevy |OP          |  2| 12.000|  1|  0.750|      9| 0.750| 12|  1|  0| 
 |Blake Snell      |PITCH BENCH |  1|  3.000|  4| 12.000|      8| 2.667|  5|  0|  0| 
 |Edwin Díaz       |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Luis Castillo    |PITCH BENCH |  2|  9.667|  7|  6.517|     12| 1.241| 12|  1|  0| 
+|Luis Castillo    |PITCH BENCH |  3| 12.000|  9|  6.750|     15| 1.250| 16|  1|  0| 
 |Nick Pivetta     |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Tarik Skubal     |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 
