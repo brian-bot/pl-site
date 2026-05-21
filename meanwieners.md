@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Samuel Basallo    |C         |     13|  7|   3|  1|  0| 
+|Samuel Basallo    |C         |     15|  8|   4|  2|  0| 
 |Ben Rice          |1B        |     12|  6|   6|  4|  0| 
-|Jazz Chisholm Jr. |2B        |     18|  5|   5|  1|  1| 
+|Jazz Chisholm Jr. |2B        |     21|  5|   5|  1|  1| 
 |Isaac Paredes     |3B        |     14|  2|   5|  2|  0| 
-|Bo Bichette       |SS        |     17|  7|  10|  3|  0| 
+|Bo Bichette       |SS        |     18|  8|  10|  3|  0| 
 |Matt McLain       |MI        |     19|  7|  11|  3|  2| 
-|Alec Burleson     |CI        |     17|  6|   6|  2|  1| 
+|Alec Burleson     |CI        |     20|  6|   6|  2|  1| 
 |Andy Pages        |OF        |     15|  8|  15|  5|  0| 
-|Jo Adell          |OF        |     13|  2|   7|  2|  0| 
-|Randy Arozarena   |OF        |     26|  9|   7|  1|  4| 
-|Wilyer Abreu      |OF        |     14|  3|   3|  1|  1| 
-|Brent Rooker      |DH        |     21|  5|  12|  4|  0| 
-|Sam Antonacci     |DH        |     16|  7|   2|  0|  2| 
-|Shohei Ohtani     |DH        |     23|  8|  11|  1|  2| 
-|Steven Kwan       |DH        |     21|  8|   2|  0|  0| 
+|Jo Adell          |OF        |     15|  3|   8|  3|  0| 
+|Randy Arozarena   |OF        |     29| 12|   9|  2|  6| 
+|Wilyer Abreu      |OF        |     15|  3|   3|  1|  1| 
+|Brent Rooker      |DH        |     22|  5|  12|  4|  0| 
+|Sam Antonacci     |DH        |     18|  8|   2|  0|  3| 
+|Shohei Ohtani     |DH        |     25| 10|  12|  2|  2| 
+|Steven Kwan       |DH        |     23|  8|   2|  0|  0| 
 |Caleb Durbin      |BAT BENCH |      6|  0|   3|  0|  1| 
 |Jung Hoo Lee      |BAT BENCH |     15|  5|   5|  1|  0| 
 |Masyn Winn        |BAT BENCH |     12|  3|   3|  0|  0| 
@@ -35,7 +35,7 @@
 |players            |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:------------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Cole Ragans        |SP          |  1|  3.000|  0| 0.000|      3| 1.000|  4|  0|  0| 
-|Edward Cabrera     |SP          |  2|  9.667|  8| 7.448|     14| 1.448|  8|  0|  0| 
+|Edward Cabrera     |SP          |  3| 12.667|  9| 6.395|     20| 1.579| 10|  0|  0| 
 |Matthew Boyd       |SP          | **|     **| **|    **|     **|    **| **| **| **| 
 |Michael King       |SP          |  3| 18.667|  2| 0.964|     17| 0.911| 20|  1|  0| 
 |Shota Imanaga      |SP          |  3| 17.333| 11| 5.712|     26| 1.500| 18|  1|  0| 

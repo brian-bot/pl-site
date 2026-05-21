@@ -5,25 +5,25 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Shea Langeliers   |C         |     21|  9|   9|  2|  0| 
+|Shea Langeliers   |C         |     23| 10|   9|  2|  0| 
 |Yandy Díaz        |1B        |     20|  7|  11|  3|  0| 
-|Ozzie Albies      |2B        |      9|  2|   3|  0|  0| 
-|Austin Riley      |3B        |     13|  6|   6|  2|  0| 
-|Gunnar Henderson  |SS        |     14|  1|   5|  1|  1| 
-|Colson Montgomery |MI        |     13|  8|   8|  4|  0| 
-|Pete Alonso       |CI        |     12|  2|   9|  2|  1| 
-|Bryan Reynolds    |OF        |     16|  4|   6|  0|  2| 
+|Ozzie Albies      |2B        |     11|  4|   4|  0|  0| 
+|Austin Riley      |3B        |     15|  7|   9|  3|  0| 
+|Gunnar Henderson  |SS        |     17|  1|   5|  1|  1| 
+|Colson Montgomery |MI        |     14|  8|   8|  4|  0| 
+|Pete Alonso       |CI        |     14|  3|  11|  3|  1| 
+|Bryan Reynolds    |OF        |     17|  4|   8|  0|  2| 
 |Giancarlo Stanton |OF        |     **| **|  **| **| **| 
-|Seiya Suzuki      |OF        |     16|  6|   5|  1|  0| 
-|Teoscar Hernández |OF        |     19|  7|   6|  1|  0| 
-|David Hamilton    |DH        |      7|  3|   0|  0|  3| 
-|Dillon Dingler    |DH        |     15|  6|   2|  2|  0| 
-|Nathan Church     |DH        |     13|  3|   2|  0|  1| 
-|TJ Rumfield       |DH        |     22|  8|   5|  2|  0| 
+|Seiya Suzuki      |OF        |     17|  6|   5|  1|  0| 
+|Teoscar Hernández |OF        |     21|  8|   8|  2|  0| 
+|David Hamilton    |DH        |     10|  5|   1|  0|  3| 
+|Dillon Dingler    |DH        |     16|  6|   2|  2|  0| 
+|Nathan Church     |DH        |     14|  3|   2|  0|  1| 
+|TJ Rumfield       |DH        |     24|  8|   6|  2|  0| 
 |Anthony Volpe     |BAT BENCH |     12|  2|   3|  0|  2| 
 |Jackson Holliday  |BAT BENCH |      0|  0|   0|  0|  0| 
 |Luis Robert Jr.   |BAT BENCH |     **| **|  **| **| **| 
-|Ronald Acuña Jr.  |BAT BENCH |      3|  3|   0|  0|  0| 
+|Ronald Acuña Jr.  |BAT BENCH |      4|  4|   0|  0|  0| 
 
 
 * * *
@@ -42,7 +42,7 @@
 |Abner Uribe       |RP          |  6|  6.000|  4| 6.000|      8| 1.333|  5|  1|  2| 
 |Gus Varland       |RP          |  5|  5.333|  3| 5.062|      9| 1.688|  4|  1|  1| 
 |Bryan King        |OP          |  5|  5.333|  1| 1.688|      8| 1.500|  2|  0|  1| 
-|Carmen Mlodzinski |OP          |  2| 11.000|  4| 3.273|     14| 1.273|  3|  1|  0| 
+|Carmen Mlodzinski |OP          |  3| 16.000|  4| 2.250|     19| 1.188|  4|  2|  0| 
 |Jack Flaherty     |OP          |  3| 14.667|  9| 5.523|     18| 1.227| 16|  0|  0| 
 |Max Meyer         |OP          |  3| 16.667|  6| 3.240|     22| 1.320| 20|  2|  0| 
 |Roki Sasaki       |OP          |  2| 12.000|  4| 3.000|     11| 0.917| 13|  1|  0| 
