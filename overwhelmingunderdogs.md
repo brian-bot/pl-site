@@ -10,11 +10,11 @@
 |Maikel Garcia    |2B        |     20|  7|   5|  0|  0| 
 |Matt Chapman     |3B        |     15|  4|   4|  0|  0| 
 |Brendan Donovan  |SS        |      8|  2|   0|  0|  0| 
-|Xavier Edwards   |MI        |     19| 13|   8|  4|  2| 
+|Xavier Edwards   |MI        |     20| 13|   8|  4|  2| 
 |Alex Bregman     |CI        |     18|  9|   3|  1|  1| 
-|George Springer  |OF        |     11|  6|   2|  1|  1| 
-|Jakob Marsee     |OF        |     23|  9|   6|  2|  3| 
-|Juan Soto        |OF        |     23| 12|  12|  6|  3| 
+|George Springer  |OF        |     13|  7|   3|  2|  1| 
+|Jakob Marsee     |OF        |     22|  9|   6|  2|  3| 
+|Juan Soto        |OF        |     24| 12|  12|  6|  4| 
 |Trent Grisham    |OF        |     15|  6|   7|  1|  2| 
 |Christian Walker |DH        |     10|  4|   4|  2|  0| 
 |Jonathan Aranda  |DH        |     22|  9|   8|  1|  0| 
@@ -40,12 +40,12 @@
 |Trevor Megill      |RP          |  5|  5.000|  2|  3.600|      5| 1.000|  9|  0|  1| 
 |Andrew Abbott      |OP          |  3| 16.333|  2|  1.102|     17| 1.041| 10|  3|  0| 
 |Emerson Hancock    |OP          |  3| 17.000|  8|  4.235|     22| 1.294| 14|  1|  0| 
-|Joey Cantillo      |OP          |  3| 16.000|  5|  2.812|     20| 1.250|  9|  2|  0| 
+|Joey Cantillo      |OP          |  4| 21.667|  5|  2.077|     26| 1.200| 15|  3|  0| 
 |Michael Soroka     |OP          |  3| 18.333|  3|  1.473|     21| 1.145| 19|  2|  0| 
 |Rico Garcia        |OP          |  6|  4.667|  1|  1.929|      6| 1.286|  7|  0|  2| 
 |Brady Singer       |PITCH BENCH |  3| 13.667| 12|  7.902|     22| 1.610| 14|  0|  0| 
 |Brandon Woodruff   |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Clayton Beeter     |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
+|Clayton Beeter     |PITCH BENCH |  1|  1.000|  0|  0.000|      1| 1.000|  2|  0|  0| 
 |Grayson Rodriguez  |PITCH BENCH |  1|  3.667|  7| 17.182|     11| 3.000|  4|  0|  0| 
 |Merrill Kelly      |PITCH BENCH |  3| 22.000|  5|  2.045|     18| 0.818| 13|  3|  0| 
 

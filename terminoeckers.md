@@ -13,8 +13,8 @@
 |Trevor Story      |MI        |      6|  3|   1|  1|  1| 
 |Jac Caglianone    |CI        |     12|  4|   2|  1|  0| 
 |Brandon Nimmo     |OF        |     18|  5|   4|  1|  0| 
-|Jordan Walker     |OF        |     19|  6|   7|  3|  1| 
-|Kyle Stowers      |OF        |     16|  6|   5|  1|  1| 
+|Jordan Walker     |OF        |     20|  6|   8|  3|  1| 
+|Kyle Stowers      |OF        |     18|  8|   7|  3|  1| 
 |Kyle Tucker       |OF        |     22|  8|   5|  0|  1| 
 |Addison Barger    |DH        |      2|  1|   0|  0|  0| 
 |Carter Jensen     |DH        |     15|  5|   2|  0|  0| 
@@ -41,11 +41,11 @@
 |Daniel Palencia |RP          |  5|  3.667|  2| 4.909|      8| 2.182|  6|  0|  2| 
 |Andrew Painter  |OP          |  3| 14.667| 11| 6.750|     19| 1.295|  9|  0|  0| 
 |Chase Dollander |OP          |  2|  6.667|  5| 6.750|     14| 2.100|  5|  0|  0| 
-|Robert Suarez   |OP          |  4|  4.667|  0| 0.000|      4| 0.857|  3|  1|  0| 
+|Robert Suarez   |OP          |  5|  5.667|  0| 0.000|      4| 0.706|  4|  1|  0| 
 |Ryne Nelson     |OP          |  3| 20.667|  7| 3.048|     17| 0.823| 18|  0|  0| 
 |Tanner Scott    |OP          |  5|  5.333|  0| 0.000|      2| 0.375|  5|  1|  2| 
 |Bryce Miller    |PITCH BENCH |  2| 11.000|  2| 1.636|     11| 1.000| 10|  0|  0| 
-|Cade Cavalli    |PITCH BENCH |  2| 12.000|  5| 3.750|     13| 1.083| 12|  1|  0| 
+|Cade Cavalli    |PITCH BENCH |  3| 19.000|  7| 3.316|     18| 0.947| 21|  1|  0| 
 |Jared Jones     |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 |Mick Abel       |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 |Steven Matz     |PITCH BENCH |  1|  4.000|  1| 2.250|      5| 1.250|  5|  0|  0| 

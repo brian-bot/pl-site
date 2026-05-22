@@ -6,12 +6,12 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Drake Baldwin      |C         |     19|  6|   8|  4|  0| 
-|Tyler Soderstrom   |1B        |     11|  5|   4|  1|  0| 
-|Brandon Lowe       |2B        |     18|  8|  10|  4|  0| 
+|Tyler Soderstrom   |1B        |     13|  5|   4|  1|  0| 
+|Brandon Lowe       |2B        |     21|  9|  11|  5|  0| 
 |Manny Machado      |3B        |      9|  6|   4|  2|  0| 
-|Konnor Griffin     |SS        |     19| 10|   4|  1|  3| 
+|Konnor Griffin     |SS        |     20| 12|   4|  1|  4| 
 |Travis Bazzana     |MI        |     26|  6|   7|  2|  5| 
-|Nolan Schanuel     |CI        |     15|  5|   0|  0|  0| 
+|Nolan Schanuel     |CI        |     16|  6|   2|  1|  0| 
 |Chandler Simpson   |OF        |     14|  7|   5|  0|  2| 
 |Jackson Merrill    |OF        |     11|  1|   1|  0|  2| 
 |Julio Rodríguez    |OF        |     18| 10|   5|  4|  2| 
@@ -21,7 +21,7 @@
 |Moisés Ballesteros |DH        |      1|  0|   2|  0|  0| 
 |Nasim Nuñez        |DH        |     12|  4|   3|  0|  7| 
 |Bryce Eldridge     |BAT BENCH |      6|  1|   2|  1|  0| 
-|Carson Benge       |BAT BENCH |     26| 13|   9|  0|  2| 
+|Carson Benge       |BAT BENCH |     27| 13|   9|  0|  2| 
 |Jeremy Peña        |BAT BENCH |      4|  1|   1|  0|  0| 
 
 

@@ -6,18 +6,18 @@
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
 |Cal Raleigh           |C         |      4|  3|   0|  0|  0| 
-|Vladimir Guerrero Jr. |1B        |     14|  7|   6|  1|  1| 
+|Vladimir Guerrero Jr. |1B        |     17|  8|   6|  1|  2| 
 |Luke Keaschall        |2B        |     17|  5|   2|  0|  2| 
-|José Ramírez          |3B        |     29|  9|   9|  2|  7| 
+|José Ramírez          |3B        |     30|  9|  10|  2|  7| 
 |Xander Bogaerts       |SS        |     11|  6|   3|  1|  3| 
 |J.P. Crawford         |MI        |     18|  6|   5|  2|  0| 
 |Matt Olson            |CI        |     14|  2|   9|  1|  1| 
-|Cody Bellinger        |OF        |     23|  9|   6|  1|  1| 
+|Cody Bellinger        |OF        |     25|  9|   6|  1|  1| 
 |Jorge Soler           |OF        |     13|  4|   3|  1|  0| 
 |Pete Crow-Armstrong   |OF        |     17|  4|   7|  2|  5| 
 |Ramón Laureano        |OF        |     11|  4|   0|  0|  1| 
 |Brandon Marsh         |DH        |     19|  9|   4|  0|  1| 
-|Daulton Varsho        |DH        |     22|  7|   6|  1|  2| 
+|Daulton Varsho        |DH        |     23|  7|   7|  1|  2| 
 |Josh Jung             |DH        |     19|  9|   2|  1|  0| 
 |Kerry Carpenter       |DH        |      1|  0|   0|  0|  0| 
 |Cam Smith             |BAT BENCH |     11|  2|   0|  0|  2| 

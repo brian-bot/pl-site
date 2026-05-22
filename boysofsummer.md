@@ -6,20 +6,20 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |William Contreras |C         |     22|  6|   4|  0|  1| 
-|Nick Kurtz        |1B        |     32| 14|  19|  3|  3| 
-|Ketel Marte       |2B        |     17|  8|   9|  2|  0| 
+|Nick Kurtz        |1B        |     35| 15|  20|  3|  3| 
+|Ketel Marte       |2B        |     20|  8|   9|  2|  0| 
 |Casey Schmitt     |3B        |     14|  7|   4|  3|  1| 
 |Trea Turner       |SS        |     17|  9|   4|  1|  6| 
 |Otto Lopez        |MI        |     24|  6|   5|  0|  3| 
-|Ildemaro Vargas   |CI        |     16|  9|  10|  1|  1| 
+|Ildemaro Vargas   |CI        |     17|  9|  10|  1|  1| 
 |Byron Buxton      |OF        |     15|  8|   6|  4|  2| 
 |Garrett Mitchell  |OF        |      9|  3|   3|  1|  1| 
-|Michael Harris II |OF        |     15|  7|   4|  2|  1| 
+|Michael Harris II |OF        |     17|  9|   7|  4|  1| 
 |Riley Greene      |OF        |     29|  5|   5|  0|  0| 
 |Heliot Ramos      |DH        |     13|  7|   5|  1|  0| 
-|Iván Herrera      |DH        |     18|  5|   6|  1|  0| 
+|Iván Herrera      |DH        |     20|  7|   7|  2|  0| 
 |Jacob Wilson      |DH        |      6|  2|   4|  1|  1| 
-|Troy Johnston     |DH        |     16|  7|   6|  0|  0| 
+|Troy Johnston     |DH        |     17|  8|   6|  0|  0| 
 |Dalton Rushing    |BAT BENCH |      5|  1|   0|  0|  0| 
 
 
@@ -38,7 +38,7 @@
 |Trey Yesavage    |SP          |  3| 16.000|  2|  1.125|     15| 0.938| 20|  1|  0| 
 |Mason Miller     |RP          |  6|  6.333|  0|  0.000|      9| 1.421| 13|  0|  4| 
 |Riley O'Brien    |RP          |  6|  6.000|  4|  6.000|      7| 1.167|  6|  0|  3| 
-|Carlos Rodón     |OP          |  2|  8.000|  5|  5.625|     13| 1.625| 10|  0|  0| 
+|Carlos Rodón     |OP          |  3| 13.000|  6|  4.154|     19| 1.462| 17|  0|  0| 
 |Davis Martin     |OP          |  2| 12.000|  2|  1.500|     10| 0.833| 16|  1|  0| 
 |Keider Montero   |OP          |  3| 15.667|  8|  4.596|     16| 1.021|  7|  0|  0| 
 |Lucas Erceg      |OP          |  4|  4.000|  1|  2.250|      7| 1.750|  3|  1|  1| 
