@@ -2,21 +2,21 @@
 
 ## Period 3 scores
 
-Through games on 2026-05-21 ([website build status](https://github.com/brian-bot/pl-site/actions))
+Through games on 2026-05-22 ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 
 |team                   | points|   r| hitsbb| hr| rbi| sb|  w| sv|  so|   era|  whip|
 |:----------------------|------:|---:|------:|--:|---:|--:|--:|--:|---:|-----:|-----:|
-|[Washington Generals](./washingtongenerals)|   52.5|  96|    277| 31|  87| 24|  8|  7| 145| 5.108| 1.257|
-|[Boys of Summer](./boysofsummer)|   62.5| 109|    275| 23|  99| 20|  8|  8| 154| 3.532| 1.215|
-|[Vass Deferens](./vassdeferens)|   51.0|  94|    272| 26|  94| 20|  9|  8| 151| 4.555| 1.274|
-|[Wonderbots](./wonderbots)|   59.0| 104|    280| 26|  85| 12|  7|  5| 186| 3.628| 1.117|
-|[Overwhelming Underdogs](./overwhelmingunderdogs)|   77.0| 107|    240| 28|  80| 14| 15| 11| 201| 2.772| 1.110|
-|[Nuclear Arms](./nucleararms)|   40.0|  83|    240| 24|  91|  8| 11|  4| 140| 3.604| 1.194|
-|[Mean Wieners](./meanwieners)|   60.0|  99|    289| 34| 112| 16| 12|  3| 137| 4.093| 1.218|
-|[Terminoeckers](./terminoeckers)|   49.5|  85|    229| 20|  74|  9| 11|  9| 159| 2.955| 1.030|
-|[Bone Pilers](./bonepilers)|   62.5|  89|    236| 26|  74| 25| 15|  6| 163| 2.728| 1.131|
-|[T and A](./tanda)     |   36.0|  85|    239| 13|  64| 25|  6|  2| 168| 4.231| 1.181|
+|[Washington Generals](./washingtongenerals)|   49.0|  99|    288| 32|  89| 25|  8|  7| 152| 5.481| 1.314|
+|[Boys of Summer](./boysofsummer)|   61.0| 115|    286| 25| 107| 20| 10|  8| 169| 3.452| 1.231|
+|[Vass Deferens](./vassdeferens)|   49.0|  99|    285| 26|  97| 22|  9|  8| 152| 4.582| 1.279|
+|[Wonderbots](./wonderbots)|   66.0| 114|    300| 29|  91| 12|  8|  6| 215| 3.225| 1.075|
+|[Overwhelming Underdogs](./overwhelmingunderdogs)|   75.0| 112|    258| 29|  84| 15| 15| 12| 211| 2.603| 1.074|
+|[Nuclear Arms](./nucleararms)|   36.5|  89|    254| 25|  97|  8| 11|  5| 148| 3.649| 1.209|
+|[Mean Wieners](./meanwieners)|   62.0| 103|    304| 34| 116| 17| 12|  3| 146| 4.072| 1.204|
+|[Terminoeckers](./terminoeckers)|   48.5|  91|    239| 21|  77| 11| 11|  9| 170| 2.957| 1.035|
+|[Bone Pilers](./bonepilers)|   67.0|  94|    253| 27|  77| 26| 18|  9| 186| 2.621| 1.088|
+|[T and A](./tanda)     |   36.0|  93|    258| 15|  69| 25|  6|  2| 176| 4.172| 1.161|
 
 * * *
 * * *

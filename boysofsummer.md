@@ -5,22 +5,22 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras |C         |     22|  6|   4|  0|  1| 
-|Nick Kurtz        |1B        |     35| 15|  20|  3|  3| 
-|Ketel Marte       |2B        |     20|  8|   9|  2|  0| 
-|Casey Schmitt     |3B        |     14|  7|   4|  3|  1| 
+|William Contreras |C         |     25|  8|   7|  1|  1| 
+|Nick Kurtz        |1B        |     38| 16|  21|  3|  3| 
+|Ketel Marte       |2B        |     21|  8|   9|  2|  0| 
+|Casey Schmitt     |3B        |     14|  7|   5|  3|  1| 
 |Trea Turner       |SS        |     17|  9|   4|  1|  6| 
 |Otto Lopez        |MI        |     24|  6|   5|  0|  3| 
 |Ildemaro Vargas   |CI        |     17|  9|  10|  1|  1| 
-|Byron Buxton      |OF        |     15|  8|   6|  4|  2| 
+|Byron Buxton      |OF        |     17|  9|   9|  5|  2| 
 |Garrett Mitchell  |OF        |      9|  3|   3|  1|  1| 
-|Michael Harris II |OF        |     17|  9|   7|  4|  1| 
-|Riley Greene      |OF        |     29|  5|   5|  0|  0| 
+|Michael Harris II |OF        |     18| 10|   7|  4|  1| 
+|Riley Greene      |OF        |     30|  6|   5|  0|  0| 
 |Heliot Ramos      |DH        |     13|  7|   5|  1|  0| 
 |Iván Herrera      |DH        |     20|  7|   7|  2|  0| 
 |Jacob Wilson      |DH        |      6|  2|   4|  1|  1| 
 |Troy Johnston     |DH        |     17|  8|   6|  0|  0| 
-|Dalton Rushing    |BAT BENCH |      5|  1|   0|  0|  0| 
+|Dalton Rushing    |BAT BENCH |      6|  1|   0|  0|  0| 
 
 
 * * *
@@ -30,16 +30,16 @@
  
 |players          |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Logan Henderson  |SP          |  2| 10.000|  3|  2.700|     12| 1.200| 12|  1|  0| 
+|Logan Henderson  |SP          |  3| 15.000|  3|  1.800|     17| 1.133| 19|  2|  0| 
 |MacKenzie Gore   |SP          |  3| 14.333|  8|  5.023|     18| 1.256| 10|  1|  0| 
-|Nick Martinez    |SP          |  2| 11.667|  1|  0.771|     13| 1.114|  7|  1|  0| 
+|Nick Martinez    |SP          |  3| 17.667|  2|  1.019|     23| 1.302|  8|  1|  0| 
 |Noah Schultz     |SP          |  3| 13.333| 13|  8.775|     23| 1.725| 12|  0|  0| 
 |Nolan McLean     |SP          |  3| 18.667| 10|  4.821|     23| 1.232| 18|  1|  0| 
 |Trey Yesavage    |SP          |  3| 16.000|  2|  1.125|     15| 0.938| 20|  1|  0| 
 |Mason Miller     |RP          |  6|  6.333|  0|  0.000|      9| 1.421| 13|  0|  4| 
 |Riley O'Brien    |RP          |  6|  6.000|  4|  6.000|      7| 1.167|  6|  0|  3| 
 |Carlos Rodón     |OP          |  3| 13.000|  6|  4.154|     19| 1.462| 17|  0|  0| 
-|Davis Martin     |OP          |  2| 12.000|  2|  1.500|     10| 0.833| 16|  1|  0| 
+|Davis Martin     |OP          |  3| 17.667|  6|  3.057|     18| 1.019| 23|  2|  0| 
 |Keider Montero   |OP          |  3| 15.667|  8|  4.596|     16| 1.021|  7|  0|  0| 
 |Lucas Erceg      |OP          |  4|  4.000|  1|  2.250|      7| 1.750|  3|  1|  1| 
 |Michael McGreevy |OP          |  3| 17.000|  4|  2.118|     20| 1.176| 13|  1|  0| 
