@@ -5,22 +5,22 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Hunter Goodman    |C         |     17|  5|   4|  2|  2| 
-|Willson Contreras |1B        |     16|  4|   9|  2|  0| 
-|Brice Turang      |2B        |     22| 12|   7|  2|  2| 
+|Hunter Goodman    |C         |     19|  6|   4|  2|  2| 
+|Willson Contreras |1B        |     19|  5|   9|  2|  0| 
+|Brice Turang      |2B        |     25| 13|   8|  2|  2| 
 |Kazuma Okamoto    |3B        |     13|  6|   4|  0|  0| 
-|Elly De La Cruz   |SS        |     23|  9|   7|  1|  1| 
+|Elly De La Cruz   |SS        |     26| 10|  10|  2|  1| 
 |Trevor Story      |MI        |      6|  3|   1|  1|  1| 
-|Jac Caglianone    |CI        |     12|  4|   2|  1|  0| 
-|Brandon Nimmo     |OF        |     20|  6|   6|  2|  0| 
-|Jordan Walker     |OF        |     20|  6|   8|  3|  1| 
+|Jac Caglianone    |CI        |     13|  4|   3|  1|  1| 
+|Brandon Nimmo     |OF        |     21|  6|   6|  2|  0| 
+|Jordan Walker     |OF        |     25|  9|  15|  5|  1| 
 |Kyle Stowers      |OF        |     18|  8|   7|  3|  1| 
-|Kyle Tucker       |OF        |     23|  8|   5|  0|  1| 
+|Kyle Tucker       |OF        |     25| 10|   5|  0|  1| 
 |Addison Barger    |DH        |      2|  1|   0|  0|  0| 
-|Carter Jensen     |DH        |     15|  5|   2|  0|  0| 
-|Dansby Swanson    |DH        |     10|  5|   3|  1|  1| 
-|Jake Burger       |DH        |     22|  9|  12|  3|  1| 
-|Eugenio Suárez    |BAT BENCH |     **| **|  **| **| **| 
+|Carter Jensen     |DH        |     17|  6|   4|  0|  0| 
+|Dansby Swanson    |DH        |     11|  5|   3|  1|  1| 
+|Jake Burger       |DH        |     23|  9|  12|  3|  1| 
+|Eugenio Suárez    |BAT BENCH |      1|  0|   0|  0|  0| 
 |Wyatt Langford    |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -43,7 +43,7 @@
 |Chase Dollander |OP          |  2|  6.667|  5| 6.750|     14| 2.100|  5|  0|  0| 
 |Robert Suarez   |OP          |  6|  6.667|  1| 1.350|      6| 0.900|  4|  1|  0| 
 |Ryne Nelson     |OP          |  3| 20.667|  7| 3.048|     17| 0.823| 18|  0|  0| 
-|Tanner Scott    |OP          |  5|  5.333|  0| 0.000|      2| 0.375|  5|  1|  2| 
+|Tanner Scott    |OP          |  6|  6.333|  0| 0.000|      3| 0.474|  8|  1|  2| 
 |Bryce Miller    |PITCH BENCH |  2| 11.000|  2| 1.636|     11| 1.000| 10|  0|  0| 
 |Cade Cavalli    |PITCH BENCH |  3| 19.000|  7| 3.316|     18| 0.947| 21|  1|  0| 
 |Jared Jones     |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 

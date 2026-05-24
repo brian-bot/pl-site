@@ -5,20 +5,20 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith       |C         |     12|  4|   3|  1|  0| 
-|Rafael Devers    |1B        |     21| 10|   6|  4|  0| 
-|Maikel Garcia    |2B        |     22|  7|   5|  0|  0| 
-|Matt Chapman     |3B        |     17|  5|   4|  0|  0| 
+|Will Smith       |C         |     14|  5|   4|  1|  0| 
+|Rafael Devers    |1B        |     22| 11|   6|  4|  0| 
+|Maikel Garcia    |2B        |     23|  8|   5|  0|  0| 
+|Matt Chapman     |3B        |     20|  7|   4|  0|  0| 
 |Brendan Donovan  |SS        |      8|  2|   0|  0|  0| 
-|Xavier Edwards   |MI        |     20| 13|   8|  4|  2| 
-|Alex Bregman     |CI        |     21|  9|   3|  1|  1| 
-|George Springer  |OF        |     15|  8|   5|  2|  1| 
-|Jakob Marsee     |OF        |     22|  9|   6|  2|  3| 
-|Juan Soto        |OF        |     26| 13|  13|  7|  4| 
+|Xavier Edwards   |MI        |     21| 13|   8|  4|  2| 
+|Alex Bregman     |CI        |     22|  9|   3|  1|  1| 
+|George Springer  |OF        |     17|  9|   6|  3|  1| 
+|Jakob Marsee     |OF        |     23| 10|   6|  2|  3| 
+|Juan Soto        |OF        |     27| 13|  13|  7|  4| 
 |Trent Grisham    |OF        |     18|  6|   7|  1|  2| 
-|Christian Walker |DH        |     11|  5|   4|  2|  0| 
+|Christian Walker |DH        |     15|  7|   7|  4|  0| 
 |Jonathan Aranda  |DH        |     23| 10|   9|  1|  0| 
-|Miguel Vargas    |DH        |     22| 11|  11|  4|  2| 
+|Miguel Vargas    |DH        |     24| 11|  12|  4|  2| 
 |Roman Anthony    |DH        |     **| **|  **| **| **| 
 |Francisco Lindor |BAT BENCH |     **| **|  **| **| **| 
 |Ryan Jeffers     |BAT BENCH |     17|  8|   5|  3|  0| 
