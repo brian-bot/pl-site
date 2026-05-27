@@ -18,7 +18,7 @@
 |Fernando Tatis Jr. |OF        |     28|  6|   3|  0|  4| 
 |James Wood         |OF        |     40| 17|  10|  4|  3| 
 |Mike Trout         |OF        |     23|  7|   6|  2|  0| 
-|Adolis García      |DH        |     16|  7|   3|  1|  1| 
+|Adolis García      |DH        |     17|  7|   3|  1|  1| 
 |Colt Keith         |DH        |     11|  1|   1|  0|  0| 
 |JJ Bleday          |DH        |     28|  9|  16|  3|  1| 
 |José Caballero     |DH        |      9|  1|   1|  0|  0| 
@@ -35,7 +35,7 @@
  
 |players           |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Gavin Williams    |SP          |  3| 20.000|  7| 3.150|     23| 1.150| 24|  2|  0| 
+|Gavin Williams    |SP          |  3| 20.000|  7| 3.150|     24| 1.200| 24|  2|  0| 
 |Jacob Misiorowski |SP          |  4| 26.000|  1| 0.346|     15| 0.577| 41|  3|  0| 
 |Joe Ryan          |SP          |  3| 18.000|  3| 1.500|     14| 0.778| 21|  1|  0| 
 |Kris Bubic        |SP          |  2|  9.667|  8| 7.448|     16| 1.655|  9|  0|  0| 

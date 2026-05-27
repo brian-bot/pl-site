@@ -9,7 +9,7 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Samuel Basallo    |C         |     17|  8|   5|  2|  0| 
 |Ben Rice          |1B        |     14|  6|   6|  4|  0| 
-|Jazz Chisholm Jr. |2B        |     26|  6|   6|  1|  2| 
+|Jazz Chisholm Jr. |2B        |     25|  6|   6|  1|  2| 
 |Isaac Paredes     |3B        |     20|  3|   5|  2|  0| 
 |Bo Bichette       |SS        |     23|  8|  12|  3|  0| 
 |Matt McLain       |MI        |     19|  7|  11|  3|  2| 
