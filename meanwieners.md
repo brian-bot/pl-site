@@ -42,7 +42,7 @@
 |Devin Williams     |RP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Aaron Ashby        |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Brandon Sproat     |OP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Connor Scott       |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Christian Scott    |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Grant Holmes       |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Spencer Miles      |OP          |  1| 4.333|  1| 2.077|      4| 0.923|  3|  1|  0| 
 |Cole Ragans        |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
