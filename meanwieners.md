@@ -6,23 +6,23 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Samuel Basallo    |C         |      1|  2|   3|  1|  0| 
-|Ben Rice          |1B        |      4|  3|   1|  0|  0| 
+|Ben Rice          |1B        |      7|  4|   4|  0|  0| 
 |Jazz Chisholm Jr. |2B        |      3|  2|   1|  1|  0| 
 |Isaac Paredes     |3B        |      1|  0|   0|  0|  0| 
-|Bo Bichette       |SS        |      1|  1|   0|  0|  0| 
+|Bo Bichette       |SS        |      2|  1|   0|  0|  0| 
 |Matt McLain       |MI        |      1|  1|   0|  0|  0| 
 |Alec Burleson     |CI        |      1|  0|   0|  0|  0| 
-|Andy Pages        |OF        |      4|  3|   3|  1|  1| 
+|Andy Pages        |OF        |      6|  4|   4|  2|  1| 
 |Jo Adell          |OF        |      1|  1|   1|  1|  0| 
-|Randy Arozarena   |OF        |      1|  0|   0|  0|  0| 
-|Wilyer Abreu      |OF        |      1|  1|   0|  0|  0| 
+|Randy Arozarena   |OF        |      2|  0|   0|  0|  0| 
+|Wilyer Abreu      |OF        |      2|  1|   2|  0|  1| 
 |Brent Rooker      |DH        |      1|  0|   0|  0|  0| 
-|Brett Baty        |DH        |      1|  0|   0|  0|  0| 
-|Sam Antonacci     |DH        |      2|  0|   0|  0|  1| 
-|Shohei Ohtani     |DH        |      1|  1|   0|  0|  0| 
+|Brett Baty        |DH        |      1|  1|   0|  0|  0| 
+|Sam Antonacci     |DH        |      6|  2|   3|  0|  1| 
+|Shohei Ohtani     |DH        |      2|  2|   1|  1|  0| 
 |Brooks Lee        |BAT BENCH |      2|  0|   3|  0|  0| 
-|Masyn Winn        |BAT BENCH |      0|  0|   0|  0|  0| 
-|Steven Kwan       |BAT BENCH |      2|  2|   0|  0|  0| 
+|Masyn Winn        |BAT BENCH |      1|  0|   0|  0|  1| 
+|Steven Kwan       |BAT BENCH |      3|  2|   0|  0|  0| 
 
 
 * * *
@@ -39,8 +39,8 @@
 |Will Warren        |SP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Yoshinobu Yamamoto |SP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Alex Vesia         |RP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Devin Williams     |RP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Aaron Ashby        |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Devin Williams     |RP          |  1| 1.000|  0| 0.000|      3| 3.000|  3|  0|  1| 
+|Aaron Ashby        |OP          |  1| 2.000|  0| 0.000|      2| 1.000|  2|  1|  0| 
 |Brandon Sproat     |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Christian Scott    |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Grant Holmes       |OP          | **|    **| **|    **|     **|    **| **| **| **| 

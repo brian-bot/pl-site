@@ -5,25 +5,25 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Shea Langeliers   |C         |      1|  0|   0|  0|  0| 
-|Yandy Díaz        |1B        |      1|  0|   0|  0|  0| 
+|Shea Langeliers   |C         |      2|  0|   0|  0|  0| 
+|Yandy Díaz        |1B        |      3|  0|   0|  0|  0| 
 |Jackson Holliday  |2B        |      2|  1|   1|  0|  0| 
-|Austin Riley      |3B        |      2|  1|   0|  0|  0| 
-|Gunnar Henderson  |SS        |      0|  1|   0|  0|  0| 
-|Colson Montgomery |MI        |      2|  0|   0|  0|  0| 
-|Pete Alonso       |CI        |      1|  0|   0|  0|  0| 
-|Bryan Reynolds    |OF        |      2|  2|   2|  0|  0| 
-|Ronald Acuña Jr.  |OF        |      1|  0|   1|  0|  0| 
-|Seiya Suzuki      |OF        |      1|  0|   0|  0|  0| 
+|Austin Riley      |3B        |      3|  1|   0|  0|  0| 
+|Gunnar Henderson  |SS        |      2|  3|   3|  2|  0| 
+|Colson Montgomery |MI        |      4|  1|   1|  0|  0| 
+|Pete Alonso       |CI        |      2|  1|   0|  0|  0| 
+|Bryan Reynolds    |OF        |      5|  2|   2|  0|  0| 
+|Ronald Acuña Jr.  |OF        |      2|  0|   1|  0|  1| 
+|Seiya Suzuki      |OF        |      2|  1|   0|  0|  0| 
 |Teoscar Hernández |OF        |      1|  1|   0|  0|  0| 
-|Anthony Volpe     |DH        |      3|  3|   2|  1|  0| 
-|Dillon Dingler    |DH        |      2|  0|   0|  0|  0| 
+|Anthony Volpe     |DH        |      4|  4|   2|  1|  0| 
+|Dillon Dingler    |DH        |      5|  0|   1|  0|  0| 
 |Dylan Crews       |DH        |      1|  0|   0|  0|  0| 
-|TJ Rumfield       |DH        |     **| **|  **| **| **| 
-|Cedric Mullins    |BAT BENCH |      0|  0|   0|  0|  0| 
+|TJ Rumfield       |DH        |      2|  1|   0|  0|  0| 
+|Cedric Mullins    |BAT BENCH |      1|  0|   0|  0|  0| 
 |Giancarlo Stanton |BAT BENCH |     **| **|  **| **| **| 
 |Luis Robert Jr.   |BAT BENCH |     **| **|  **| **| **| 
-|Ozzie Albies      |BAT BENCH |      0|  0|   0|  0|  0| 
+|Ozzie Albies      |BAT BENCH |      2|  0|   0|  0|  0| 
 
 
 * * *
@@ -40,8 +40,8 @@
 |Taj Bradley       |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Tatsuya Imai      |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Abner Uribe       |RP          |  1| 1.000|  0|  0.000|      2| 2.000|  2|  0|  0| 
-|Gus Varland       |RP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Bryan King        |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Gus Varland       |RP          |  1| 1.000|  0|  0.000|      0| 0.000|  0|  0|  0| 
+|Bryan King        |OP          |  1| 0.333|  1| 27.000|      2| 6.000|  1|  0|  0| 
 |Carmen Mlodzinski |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Jack Flaherty     |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Max Meyer         |OP          | **|    **| **|     **|     **|    **| **| **| **| 
