@@ -7,18 +7,18 @@
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Carson Kelly     |C         |      5|  1|   0|  0|  0| 
 |Tyler Soderstrom |1B        |      4|  1|   1|  1|  0| 
-|Brandon Lowe     |2B        |      3|  3|   3|  1|  0| 
+|Brandon Lowe     |2B        |      4|  3|   3|  1|  0| 
 |Manny Machado    |3B        |      2|  1|   2|  1|  0| 
 |Konnor Griffin   |SS        |      3|  3|   1|  1|  0| 
 |Travis Bazzana   |MI        |      5|  1|   1|  0|  0| 
 |Nolan Schanuel   |CI        |     **| **|  **| **| **| 
 |Chandler Simpson |OF        |      4|  1|   0|  0|  0| 
-|Ian Happ         |OF        |      3|  1|   6|  1|  0| 
+|Ian Happ         |OF        |      6|  2|   8|  2|  0| 
 |Julio Rodríguez  |OF        |      2|  1|   4|  1|  0| 
-|Yordan Alvarez   |OF        |      6|  4|   6|  4|  0| 
+|Yordan Alvarez   |OF        |      7|  5|   6|  4|  0| 
 |Carson Benge     |DH        |      2|  0|   2|  0|  0| 
 |Chase DeLauter   |DH        |      3|  1|   1|  0|  0| 
-|Jeremy Peña      |DH        |      3|  2|   1|  1|  0| 
+|Jeremy Peña      |DH        |      5|  3|   2|  2|  0| 
 |Nasim Nuñez      |DH        |      1|  1|   0|  0|  0| 
 |Colt Emerson     |BAT BENCH |      3|  1|   2|  0|  0| 
 |Drake Baldwin    |BAT BENCH |     **| **|  **| **| **| 
@@ -35,10 +35,10 @@
 |Kevin Gausman        |SP          |  1| 5.000|  1| 1.800|      8| 1.600|  5|  0|  0| 
 |Kyle Harrison        |SP          |  1| 6.000|  0| 0.000|      4| 0.667|  2|  1|  0| 
 |Parker Messick       |SP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Spencer Arrighetti   |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Spencer Arrighetti   |SP          |  1| 6.000|  1| 1.500|      4| 0.667|  3|  1|  0| 
 |Zack Wheeler         |SP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Andrés Muñoz         |RP          |  1| 1.000|  1| 9.000|      2| 2.000|  1|  0|  0| 
-|Louis Varland        |RP          |  1| 1.000|  0| 0.000|      2| 2.000|  1|  0|  0| 
+|Louis Varland        |RP          |  2| 2.333|  0| 0.000|      3| 1.286|  1|  0|  1| 
 |Chad Patrick         |OP          |  1| 4.000|  1| 2.250|      6| 1.500|  4|  0|  0| 
 |Chase Burns          |OP          |  1| 5.333|  2| 3.375|      6| 1.125|  8|  1|  0| 
 |Eury Pérez           |OP          |  1| 4.000|  0| 0.000|      3| 0.750|  9|  0|  0| 

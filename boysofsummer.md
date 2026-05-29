@@ -11,10 +11,10 @@
 |Nolan Arenado     |3B        |      2|  1|   0|  0|  0| 
 |Trea Turner       |SS        |      3|  2|   3|  2|  2| 
 |Otto Lopez        |MI        |      5|  0|   1|  0|  2| 
-|Spencer Horwitz   |CI        |      3|  2|   2|  1|  0| 
-|Byron Buxton      |OF        |      2|  2|   1|  1|  0| 
-|Michael Harris II |OF        |      4|  2|   3|  1|  0| 
-|Riley Greene      |OF        |      3|  0|   1|  0|  0| 
+|Spencer Horwitz   |CI        |      5|  2|   2|  1|  0| 
+|Byron Buxton      |OF        |      4|  2|   1|  1|  0| 
+|Michael Harris II |OF        |      6|  4|   4|  2|  0| 
+|Riley Greene      |OF        |      4|  0|   1|  0|  0| 
 |Ryan Waldschmidt  |OF        |      2|  1|   0|  0|  0| 
 |Casey Schmitt     |DH        |      2|  1|   2|  1|  1| 
 |Iván Herrera      |DH        |      4|  0|   0|  0|  0| 
@@ -31,7 +31,7 @@
  
 |players          |position    |  g|    ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
-|Davis Martin     |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Davis Martin     |SP          |  1| 6.000|  1|  1.500|      4| 0.667|  5|  1|  0| 
 |Logan Henderson  |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |MacKenzie Gore   |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Nick Martinez    |SP          | **|    **| **|     **|     **|    **| **| **| **| 

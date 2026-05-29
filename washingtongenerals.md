@@ -6,15 +6,15 @@
 |players         |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------|:---------|------:|--:|---:|--:|--:| 
 |J.T. Realmuto   |C         |      4|  1|   1|  1|  0| 
-|Michael Busch   |1B        |      6|  1|   1|  0|  0| 
-|Nico Hoerner    |2B        |      4|  1|   1|  0|  0| 
+|Michael Busch   |1B        |      8|  3|   1|  0|  0| 
+|Nico Hoerner    |2B        |      5|  1|   1|  0|  0| 
 |Max Muncy       |3B        |      0|  0|   0|  0|  0| 
 |Bobby Witt Jr.  |SS        |      1|  1|   1|  1|  0| 
 |Kevin McGonigle |MI        |      7|  3|   2|  0|  0| 
 |Freddie Freeman |CI        |      5|  3|   2|  1|  0| 
-|Jarren Duran    |OF        |      6|  3|   2|  2|  0| 
+|Jarren Duran    |OF        |      7|  3|   3|  2|  0| 
 |Kyle Schwarber  |OF        |      3|  0|   1|  0|  0| 
-|Oneil Cruz      |OF        |      4|  1|   1|  0|  1| 
+|Oneil Cruz      |OF        |      5|  1|   1|  0|  1| 
 |Spencer Steer   |OF        |      3|  1|   0|  0|  0| 
 |Bryce Harper    |DH        |      3|  2|   1|  1|  0| 
 |Cole Young      |DH        |      3|  3|   1|  0|  0| 
@@ -31,7 +31,7 @@
 |:----------------|:-----------|--:|-----:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Dustin May       |SP          |  1| 7.000|  1| 1.286|      2| 0.286|  9|  0|  0| 
 |Jacob deGrom     |SP          |  1| 6.000|  2| 3.000|      5| 0.833|  6|  0|  0| 
-|Nathan Eovaldi   |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Nathan Eovaldi   |SP          |  1| 7.000|  5| 6.429|      6| 0.857|  6|  0|  0| 
 |Randy Vásquez    |SP          |  1| 5.667|  4| 6.353|      9| 1.588|  2|  0|  0| 
 |Sonny Gray       |SP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Troy Melton      |SP          | **|    **| **|    **|     **|    **| **| **| **| 
@@ -47,7 +47,7 @@
 |Griffin Canning  |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
 |JR Ritchie       |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
 |Kodai Senga      |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
-|Reynaldo López   |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
+|Reynaldo López   |PITCH BENCH |  1| 2.000|  0| 0.000|      1| 0.500|  0|  0|  0| 
 
 
 * * *

@@ -6,22 +6,22 @@
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
 |Gabriel Moreno        |C         |      2|  0|   2|  0|  0| 
-|Vladimir Guerrero Jr. |1B        |      3|  0|   0|  0|  1| 
+|Vladimir Guerrero Jr. |1B        |      4|  0|   0|  0|  1| 
 |Zack Gelof            |2B        |      4|  0|   0|  0|  0| 
 |José Ramírez          |3B        |      2|  0|   3|  0|  0| 
 |Willy Adames          |SS        |      4|  3|   1|  1|  0| 
 |Xander Bogaerts       |MI        |      2|  0|   0|  0|  1| 
-|Matt Olson            |CI        |      3|  1|   2|  1|  0| 
+|Matt Olson            |CI        |      5|  3|   2|  1|  0| 
 |Christian Yelich      |OF        |      4|  1|   1|  0|  0| 
 |Cody Bellinger        |OF        |      2|  1|   3|  1|  0| 
-|Daulton Varsho        |OF        |      3|  2|   0|  0|  0| 
-|Pete Crow-Armstrong   |OF        |      4|  1|   1|  0|  0| 
+|Daulton Varsho        |OF        |      4|  2|   0|  0|  0| 
+|Pete Crow-Armstrong   |OF        |      6|  2|   1|  0|  0| 
 |Angel Martínez        |DH        |      2|  0|   1|  0|  0| 
 |Brandon Marsh         |DH        |      2|  0|   0|  0|  0| 
 |Brayan Rocchio        |DH        |      5|  1|   0|  0|  0| 
-|Jorge Soler           |DH        |      2|  0|   0|  0|  0| 
+|Jorge Soler           |DH        |      3|  0|   1|  0|  0| 
 |Cal Raleigh           |BAT BENCH |     **| **|  **| **| **| 
-|Josh Jung             |BAT BENCH |      3|  1|   0|  0|  0| 
+|Josh Jung             |BAT BENCH |      6|  2|   1|  1|  0| 
 |Luke Keaschall        |BAT BENCH |      2|  1|   0|  0|  0| 
 |Ramón Laureano        |BAT BENCH |      2|  1|   1|  1|  0| 
 

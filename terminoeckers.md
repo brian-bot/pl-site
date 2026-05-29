@@ -6,20 +6,20 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Hunter Goodman    |C         |      2|  1|   1|  1|  0| 
-|Willson Contreras |1B        |      3|  0|   0|  0|  0| 
+|Willson Contreras |1B        |      6|  0|   0|  0|  0| 
 |Brice Turang      |2B        |      1|  1|   0|  0|  0| 
 |Eugenio Suárez    |3B        |      4|  0|   2|  0|  0| 
 |Elly De La Cruz   |SS        |      3|  1|   2|  0|  0| 
 |Curtis Mead       |MI        |      3|  1|   0|  0|  0| 
 |Jac Caglianone    |CI        |      1|  0|   0|  0|  0| 
-|Brandon Nimmo     |OF        |      2|  1|   1|  0|  0| 
+|Brandon Nimmo     |OF        |      3|  1|   1|  0|  0| 
 |Jordan Walker     |OF        |      3|  1|   0|  0|  0| 
 |Kyle Stowers      |OF        |      2|  0|   0|  0|  0| 
 |Kyle Tucker       |OF        |      1|  1|   0|  0|  0| 
 |A.J. Ewing        |DH        |      1|  0|   0|  0|  0| 
-|Dansby Swanson    |DH        |      4|  2|   0|  0|  1| 
+|Dansby Swanson    |DH        |      5|  2|   0|  0|  1| 
 |Jake Burger       |DH        |      1|  2|   2|  0|  0| 
-|Kazuma Okamoto    |DH        |      4|  1|   2|  1|  0| 
+|Kazuma Okamoto    |DH        |      5|  1|   2|  1|  0| 
 |Addison Barger    |BAT BENCH |     **| **|  **| **| **| 
 |Carter Jensen     |BAT BENCH |      1|  0|   0|  0|  0| 
 |Trevor Story      |BAT BENCH |     **| **|  **| **| **| 
