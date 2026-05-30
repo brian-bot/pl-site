@@ -5,21 +5,21 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Liam Hicks         |C         |      1|  0|   0|  0|  0| 
-|Josh Naylor        |1B        |      4|  2|   0|  0|  0| 
-|JJ Wetherholt      |2B        |      1|  0|   0|  0|  0| 
+|Liam Hicks         |C         |      3|  0|   0|  0|  0| 
+|Josh Naylor        |1B        |      6|  2|   0|  0|  0| 
+|JJ Wetherholt      |2B        |      2|  0|   0|  0|  0| 
 |Munetaka Murakami  |3B        |      7|  6|   4|  2|  1| 
-|Geraldo Perdomo    |SS        |      3|  2|   1|  0|  0| 
+|Geraldo Perdomo    |SS        |      6|  5|   2|  1|  0| 
 |Bryson Stott       |MI        |      0|  0|   0|  0|  0| 
-|Spencer Torkelson  |CI        |      4|  1|   1|  1|  0| 
+|Spencer Torkelson  |CI        |      5|  1|   1|  1|  0| 
 |Carlos Cortes      |OF        |      3|  0|   0|  0|  0| 
-|Corbin Carroll     |OF        |      2|  1|   0|  0|  1| 
-|Daylen Lile        |OF        |      2|  1|   1|  0|  0| 
-|Taylor Ward        |OF        |      4|  1|   1|  0|  1| 
-|Adley Rutschman    |DH        |      5|  1|   0|  0|  0| 
-|Jackson Chourio    |DH        |      2|  1|   0|  0|  0| 
-|Jacob Young        |DH        |      1|  1|   0|  0|  0| 
-|Vinnie Pasquantino |DH        |      1|  0|   0|  0|  0| 
+|Corbin Carroll     |OF        |      4|  2|   0|  0|  1| 
+|Daylen Lile        |OF        |      3|  1|   1|  0|  0| 
+|Taylor Ward        |OF        |      6|  2|   1|  0|  1| 
+|Adley Rutschman    |DH        |      6|  1|   1|  0|  0| 
+|Jackson Chourio    |DH        |      4|  3|   2|  1|  0| 
+|Jacob Young        |DH        |      3|  1|   1|  0|  0| 
+|Vinnie Pasquantino |DH        |      4|  0|   1|  0|  0| 
 |Gleyber Torres     |BAT BENCH |     **| **|  **| **| **| 
 |Jose Altuve        |BAT BENCH |     **| **|  **| **| **| 
 |Mickey Moniak      |BAT BENCH |     **| **|  **| **| **| 
@@ -39,7 +39,7 @@
 |Robbie Ray       |SP          | **|    **| **|     **|     **|     **| **| **| **| 
 |Shohei Ohtani    |SP          |  1| 6.000|  1|  1.500|      4|  0.667|  7|  1|  0| 
 |Zebby Matthews   |SP          | **|    **| **|     **|     **|     **| **| **| **| 
-|Caleb Kilian     |RP          |  1| 2.000|  0|  0.000|      0|  0.000|  1|  0|  0| 
+|Caleb Kilian     |RP          |  2| 2.667|  5| 16.875|      5|  1.875|  2|  0|  0| 
 |Jhoan Duran      |RP          |  1| 1.000|  0|  0.000|      0|  0.000|  2|  0|  1| 
 |Jack Kochanowicz |OP          |  1| 4.000|  5| 11.250|      8|  2.000|  4|  0|  0| 
 |José Soriano     |OP          |  1| 5.000|  3|  5.400|     11|  2.200|  4|  0|  0| 

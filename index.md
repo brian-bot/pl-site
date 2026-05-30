@@ -2,21 +2,21 @@
 
 ## Period 4 scores
 
-Through games on 2026-05-28 ([website build status](https://github.com/brian-bot/pl-site/actions))
+Through games on 2026-05-29 ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 
 |team                   | points|  r| hitsbb| hr| rbi| sb|  w| sv| so|   era|  whip|
 |:----------------------|------:|--:|------:|--:|---:|--:|--:|--:|--:|-----:|-----:|
-|[Washington Generals](./washingtongenerals)|   62.5| 22|     58|  6|  16|  2|  0|  1| 33| 4.364| 1.000|
-|[Wonderbots](./wonderbots)|   69.5| 14|     53|  4|  19|  5|  3|  0| 39| 2.357| 1.024|
-|[Vass Deferens](./vassdeferens)|   47.0| 17|     40|  3|   8|  3|  2|  3| 34| 4.547| 1.326|
-|[Mean Wieners](./meanwieners)|   61.5| 25|     42|  7|  21|  3|  2|  1| 15| 2.250| 1.333|
-|[Overwhelming Underdogs](./overwhelmingunderdogs)|   66.5| 21|     50|  4|  12|  5|  4|  2| 31| 2.829| 1.114|
-|[T and A](./tanda)     |   41.0| 13|     51|  3|  15|  2|  2|  1| 20| 4.000| 1.389|
-|[Boys of Summer](./boysofsummer)|   44.5| 17|     46|  9|  19|  5|  1|  0| 18| 5.745| 1.468|
-|[Bone Pilers](./bonepilers)|   78.5| 24|     53| 13|  31|  0|  3|  1| 33| 1.573| 1.078|
-|[Terminoeckers](./terminoeckers)|   33.5| 12|     41|  2|  10|  1|  2|  0| 21| 2.700| 1.150|
-|[Nuclear Arms](./nucleararms)|   45.5| 20|     53|  5|  19|  4|  1|  0| 21| 7.232| 1.500|
+|[Washington Generals](./washingtongenerals)|   60.5| 27|     73| 10|  24|  2|  2|  1| 45| 3.306| 0.898|
+|[Wonderbots](./wonderbots)|   73.0| 24|     81|  5|  25|  6|  3|  1| 46| 2.204| 1.102|
+|[Vass Deferens](./vassdeferens)|   36.5| 24|     62|  5|  14|  3|  2|  3| 35| 5.845| 1.454|
+|[Mean Wieners](./meanwieners)|   50.0| 32|     59| 10|  30|  5|  2|  1| 25| 4.243| 1.329|
+|[Overwhelming Underdogs](./overwhelmingunderdogs)|   76.5| 36|     79|  7|  21|  5|  4|  4| 37| 2.605| 1.079|
+|[T and A](./tanda)     |   28.0| 23|     69|  3|  23|  2|  2|  1| 26| 4.974| 1.618|
+|[Boys of Summer](./boysofsummer)|   62.0| 22|     65| 11|  26|  5|  4|  2| 31| 3.375| 1.205|
+|[Bone Pilers](./bonepilers)|   73.0| 30|     72| 15|  38|  3|  3|  1| 44| 2.489| 1.128|
+|[Terminoeckers](./terminoeckers)|   37.0| 22|     63|  6|  23|  3|  2|  1| 28| 3.908| 1.263|
+|[Nuclear Arms](./nucleararms)|   53.5| 31|     73| 12|  30|  4|  2|  0| 38| 6.873| 1.473|
 
 * * *
 * * *
