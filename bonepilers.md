@@ -6,23 +6,23 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Carson Kelly     |C         |      5|  1|   0|  0|  0| 
-|Tyler Soderstrom |1B        |     11|  2|   2|  2|  0| 
-|Brandon Lowe     |2B        |      6|  5|   3|  1|  0| 
+|Tyler Soderstrom |1B        |     13|  3|   2|  2|  0| 
+|Brandon Lowe     |2B        |      7|  6|   4|  1|  0| 
 |Manny Machado    |3B        |      6|  2|   5|  2|  0| 
 |Konnor Griffin   |SS        |      7|  4|   2|  1|  2| 
 |Travis Bazzana   |MI        |      8|  2|   1|  0|  1| 
 |Nolan Schanuel   |CI        |     **| **|  **| **| **| 
-|Chandler Simpson |OF        |      6|  2|   0|  0|  0| 
+|Chandler Simpson |OF        |      6|  3|   0|  0|  0| 
 |Ian Happ         |OF        |     10|  4|  11|  3|  0| 
 |Julio Rodríguez  |OF        |      7|  3|   7|  3|  0| 
-|Yordan Alvarez   |OF        |     11|  7|   6|  4|  0| 
-|Carson Benge     |DH        |      6|  1|   2|  0|  0| 
-|Chase DeLauter   |DH        |      5|  2|   1|  0|  0| 
-|Jeremy Peña      |DH        |      8|  6|   4|  3|  1| 
-|Nasim Nuñez      |DH        |      2|  1|   0|  0|  0| 
-|Colt Emerson     |BAT BENCH |      4|  2|   3|  1|  0| 
+|Yordan Alvarez   |OF        |     12|  7|   6|  4|  0| 
+|Carson Benge     |DH        |      8|  3|   3|  1|  0| 
+|Chase DeLauter   |DH        |      8|  2|   2|  0|  0| 
+|Jeremy Peña      |DH        |      9|  6|   4|  3|  1| 
+|Nasim Nuñez      |DH        |      2|  2|   0|  0|  0| 
+|Colt Emerson     |BAT BENCH |      6|  2|   3|  1|  0| 
 |Drake Baldwin    |BAT BENCH |     **| **|  **| **| **| 
-|Jackson Merrill  |BAT BENCH |      5|  1|   2|  1|  0| 
+|Jackson Merrill  |BAT BENCH |      8|  2|   2|  1|  0| 
 
 * * *
 

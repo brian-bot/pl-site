@@ -5,20 +5,20 @@
  
 |players         |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------|:---------|------:|--:|---:|--:|--:| 
-|J.T. Realmuto   |C         |      4|  1|   1|  1|  0| 
-|Michael Busch   |1B        |     12|  4|   5|  0|  0| 
-|Nico Hoerner    |2B        |      8|  1|   2|  0|  1| 
-|Max Muncy       |3B        |      1|  1|   1|  1|  0| 
-|Bobby Witt Jr.  |SS        |      3|  2|   2|  1|  0| 
-|Kevin McGonigle |MI        |      8|  3|   2|  0|  0| 
-|Freddie Freeman |CI        |      7|  4|   3|  2|  0| 
-|Jarren Duran    |OF        |     10|  4|   7|  3|  0| 
-|Kyle Schwarber  |OF        |      5|  1|   2|  1|  0| 
-|Oneil Cruz      |OF        |      9|  3|   6|  2|  3| 
-|Spencer Steer   |OF        |      6|  2|   0|  0|  0| 
-|Bryce Harper    |DH        |      6|  3|   2|  1|  0| 
-|Cole Young      |DH        |      5|  3|   2|  0|  0| 
-|Henry Bolte     |DH        |      5|  0|   0|  0|  1| 
+|J.T. Realmuto   |C         |      5|  1|   1|  1|  0| 
+|Michael Busch   |1B        |     14|  4|   5|  0|  0| 
+|Nico Hoerner    |2B        |      9|  1|   2|  0|  1| 
+|Max Muncy       |3B        |      3|  3|   2|  2|  0| 
+|Bobby Witt Jr.  |SS        |      5|  2|   2|  1|  1| 
+|Kevin McGonigle |MI        |     11|  4|   2|  0|  1| 
+|Freddie Freeman |CI        |      8|  5|   5|  2|  0| 
+|Jarren Duran    |OF        |     13|  6|   8|  4|  0| 
+|Kyle Schwarber  |OF        |      6|  1|   2|  1|  0| 
+|Oneil Cruz      |OF        |     11|  5|   7|  2|  3| 
+|Spencer Steer   |OF        |      9|  4|   0|  0|  0| 
+|Bryce Harper    |DH        |      7|  3|   2|  1|  0| 
+|Cole Young      |DH        |      6|  4|   3|  1|  0| 
+|Henry Bolte     |DH        |      6|  1|   0|  0|  1| 
 |Marcell Ozuna   |DH        |      2|  0|   1|  0|  0| 
 |Corey Seager    |BAT BENCH |     **| **|  **| **| **| 
 
@@ -36,7 +36,7 @@
 |Sonny Gray       |SP          |  1| 6.000|  1| 1.500|      7| 1.167|  7|  1|  0| 
 |Troy Melton      |SP          |  1| 7.000|  1| 1.286|      7| 1.000|  1|  0|  0| 
 |Gregory Soto     |RP          |  2| 2.333|  0| 0.000|      1| 0.429|  1|  1|  1| 
-|Jacob Latz       |RP          |  1| 1.333|  1| 6.750|      1| 0.750|  2|  0|  1| 
+|Jacob Latz       |RP          |  2| 2.333|  1| 3.857|      2| 0.857|  3|  0|  2| 
 |Ben Brown        |OP          |  1| 7.000|  1| 1.286|      4| 0.571|  6|  1|  0| 
 |Brad Keller      |OP          |  2| 2.000|  1| 4.500|      3| 1.500|  2|  0|  0| 
 |Jeffrey Springs  |OP          |  1| 5.000|  2| 3.600|      7| 1.400|  7|  0|  0| 
@@ -44,10 +44,10 @@
 |Luis Severino    |OP          |  1| 1.000|  0| 0.000|      3| 3.000|  1|  0|  0| 
 |Aaron Nola       |PITCH BENCH |  1| 6.000|  2| 3.000|      3| 0.500|  5|  1|  0| 
 |Dennis Santana   |PITCH BENCH |  3| 3.000|  0| 0.000|      4| 1.333|  4|  0|  0| 
-|Griffin Canning  |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
+|Griffin Canning  |PITCH BENCH |  1| 5.000|  3| 5.400|      8| 1.600|  3|  0|  0| 
 |JR Ritchie       |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
 |Kodai Senga      |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
-|Reynaldo López   |PITCH BENCH |  1| 2.000|  0| 0.000|      1| 0.500|  0|  0|  0| 
+|Reynaldo López   |PITCH BENCH |  2| 3.000|  0| 0.000|      2| 0.667|  2|  0|  0| 
 
 
 * * *
