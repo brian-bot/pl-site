@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras |C         |      3|  1|   3|  0|  0| 
+|William Contreras |C         |      4|  2|   5|  0|  0| 
 |Nick Kurtz        |1B        |      8|  4|   4|  2|  0| 
-|Ketel Marte       |2B        |      6|  1|   3|  1|  0| 
-|Nolan Arenado     |3B        |      4|  1|   0|  0|  0| 
+|Ketel Marte       |2B        |      7|  2|   5|  2|  0| 
+|Nolan Arenado     |3B        |      5|  2|   1|  1|  0| 
 |Trea Turner       |SS        |      5|  2|   3|  2|  2| 
-|Otto Lopez        |MI        |      6|  1|   2|  0|  2| 
+|Otto Lopez        |MI        |     10|  2|   2|  0|  2| 
 |Spencer Horwitz   |CI        |     11|  5|   3|  2|  0| 
-|Byron Buxton      |OF        |      7|  4|   1|  1|  0| 
+|Byron Buxton      |OF        |      8|  4|   1|  1|  1| 
 |Michael Harris II |OF        |     14|  5|   7|  2|  0| 
-|Riley Greene      |OF        |      7|  0|   1|  0|  0| 
+|Riley Greene      |OF        |     11|  1|   4|  1|  0| 
 |Ryan Waldschmidt  |OF        |      5|  1|   0|  0|  0| 
 |Casey Schmitt     |DH        |      7|  2|   4|  1|  2| 
 |Iván Herrera      |DH        |      9|  4|   1|  1|  0| 
-|Jake Bauers       |DH        |      6|  2|   4|  2|  0| 
-|Troy Johnston     |DH        |      5|  3|   1|  0|  1| 
+|Jake Bauers       |DH        |     10|  3|   4|  2|  0| 
+|Troy Johnston     |DH        |      7|  3|   2|  0|  1| 
 |Heliot Ramos      |BAT BENCH |     **| **|  **| **| **| 
 |Ildemaro Vargas   |BAT BENCH |      4|  1|   5|  0|  0| 
 
@@ -43,7 +43,7 @@
 |Keider Montero   |OP          |  2| 11.667|  4|  3.086|     11| 0.943| 11|  0|  0| 
 |Lucas Erceg      |OP          |  1|  0.000|  3|    Inf|      5|   Inf|  0|  0|  0| 
 |Martín Pérez     |OP          |  1|  5.000|  2|  3.600|      7| 1.400|  2|  1|  0| 
-|Michael McGreevy |OP          |  1|  4.000|  5| 11.250|     10| 2.500|  6|  0|  0| 
+|Michael McGreevy |OP          |  2| 10.000|  7|  6.300|     17| 1.700|  7|  0|  0| 
 |Blake Snell      |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Connor Prielipp  |PITCH BENCH |  1|  4.333|  6| 12.462|     11| 2.538|  5|  0|  0| 
 |Edwin Díaz       |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 

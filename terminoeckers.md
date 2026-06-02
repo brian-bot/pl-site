@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Hunter Goodman    |C         |      7|  4|   4|  2|  0| 
+|Hunter Goodman    |C         |      9|  5|   7|  3|  0| 
 |Willson Contreras |1B        |     10|  1|   0|  0|  0| 
-|Brice Turang      |2B        |      4|  2|   1|  0|  0| 
-|Eugenio Suárez    |3B        |      5|  1|   4|  1|  0| 
+|Brice Turang      |2B        |      8|  4|   3|  0|  0| 
+|Eugenio Suárez    |3B        |      7|  1|   4|  1|  0| 
 |Elly De La Cruz   |SS        |      7|  3|   2|  0|  1| 
-|Curtis Mead       |MI        |      8|  4|   5|  1|  0| 
-|Jac Caglianone    |CI        |      5|  0|   0|  0|  0| 
-|Brandon Nimmo     |OF        |      5|  3|   3|  1|  0| 
+|Curtis Mead       |MI        |     10|  4|   6|  1|  0| 
+|Jac Caglianone    |CI        |      8|  2|   2|  1|  0| 
+|Brandon Nimmo     |OF        |      7|  4|   3|  1|  1| 
 |Jordan Walker     |OF        |      5|  2|   1|  0|  0| 
-|Kyle Stowers      |OF        |      6|  1|   1|  0|  0| 
-|Kyle Tucker       |OF        |      3|  2|   1|  0|  0| 
+|Kyle Stowers      |OF        |      7|  2|   3|  1|  0| 
+|Kyle Tucker       |OF        |      4|  2|   1|  0|  0| 
 |A.J. Ewing        |DH        |      4|  2|   2|  0|  1| 
 |Dansby Swanson    |DH        |      9|  4|   0|  0|  2| 
 |Jake Burger       |DH        |      9|  6|   3|  0|  0| 
 |Kazuma Okamoto    |DH        |      9|  3|   6|  2|  0| 
 |Addison Barger    |BAT BENCH |     **| **|  **| **| **| 
-|Carter Jensen     |BAT BENCH |      4|  2|   3|  1|  0| 
+|Carter Jensen     |BAT BENCH |      5|  3|   3|  1|  0| 
 |Trevor Story      |BAT BENCH |     **| **|  **| **| **| 
 |Wyatt Langford    |BAT BENCH |     **| **|  **| **| **| 
 
