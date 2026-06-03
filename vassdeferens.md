@@ -5,25 +5,25 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Liam Hicks         |C         |      9|  2|   2|  1|  0| 
+|Liam Hicks         |C         |     11|  3|   2|  1|  0| 
 |Josh Naylor        |1B        |      8|  3|   1|  1|  0| 
-|JJ Wetherholt      |2B        |      8|  3|   0|  0|  1| 
+|JJ Wetherholt      |2B        |     10|  4|   0|  0|  1| 
 |Munetaka Murakami  |3B        |      7|  6|   4|  2|  1| 
-|Geraldo Perdomo    |SS        |      7|  6|   2|  1|  0| 
-|Bryson Stott       |MI        |      1|  1|   1|  1|  0| 
-|Spencer Torkelson  |CI        |     10|  1|   2|  1|  0| 
+|Geraldo Perdomo    |SS        |      8|  6|   2|  1|  0| 
+|Bryson Stott       |MI        |      2|  1|   1|  1|  0| 
+|Spencer Torkelson  |CI        |     13|  3|   2|  1|  0| 
 |Carlos Cortes      |OF        |      4|  1|   0|  0|  0| 
-|Corbin Carroll     |OF        |      6|  3|   0|  0|  1| 
-|Daylen Lile        |OF        |      4|  1|   2|  0|  0| 
-|Taylor Ward        |OF        |      9|  4|   2|  0|  1| 
-|Adley Rutschman    |DH        |      9|  2|   3|  0|  0| 
-|Jackson Chourio    |DH        |      9|  5|   6|  1|  0| 
-|Jacob Young        |DH        |      5|  2|   3|  1|  1| 
+|Corbin Carroll     |OF        |      8|  4|   1|  1|  1| 
+|Daylen Lile        |OF        |      7|  2|   2|  0|  0| 
+|Taylor Ward        |OF        |     10|  4|   2|  0|  1| 
+|Adley Rutschman    |DH        |     11|  3|   3|  0|  0| 
+|Jackson Chourio    |DH        |     12|  7|   7|  1|  0| 
+|Jacob Young        |DH        |      6|  2|   3|  1|  1| 
 |Vinnie Pasquantino |DH        |     11|  0|   3|  0|  0| 
-|Gleyber Torres     |BAT BENCH |     **| **|  **| **| **| 
+|Gleyber Torres     |BAT BENCH |      2|  1|   1|  1|  0| 
 |Jose Altuve        |BAT BENCH |     **| **|  **| **| **| 
 |Mickey Moniak      |BAT BENCH |     **| **|  **| **| **| 
-|Ryan O'Hearn       |BAT BENCH |      2|  1|   1|  1|  0| 
+|Ryan O'Hearn       |BAT BENCH |      4|  2|   1|  1|  0| 
 
 
 * * *
@@ -39,12 +39,12 @@
 |Robbie Ray       |SP          |  1|  4.000|  1|  2.250|      7| 1.750|  6|  0|  0| 
 |Shohei Ohtani    |SP          |  1|  6.000|  1|  1.500|      4| 0.667|  7|  1|  0| 
 |Zebby Matthews   |SP          |  1|  4.333|  7| 14.538|      8| 1.846|  7|  0|  0| 
-|Caleb Kilian     |RP          |  3|  3.667|  5| 12.273|      6| 1.636|  4|  1|  0| 
-|Jhoan Duran      |RP          |  2|  2.000|  0|  0.000|      0| 0.000|  2|  0|  2| 
+|Caleb Kilian     |RP          |  4|  4.333|  5| 10.385|      8| 1.846|  4|  1|  0| 
+|Jhoan Duran      |RP          |  3|  3.000|  0|  0.000|      0| 0.000|  5|  0|  3| 
 |Jack Kochanowicz |OP          |  2|  6.333|  8| 11.368|     17| 2.684|  5|  0|  0| 
 |José Soriano     |OP          |  2|  9.667|  5|  4.655|     21| 2.172| 11|  0|  0| 
 |Paul Sewald      |OP          |  3|  3.000|  1|  3.000|      1| 0.333|  2|  0|  3| 
-|Richard Lovelady |OP          |  2|  1.000|  3| 27.000|      6| 6.000|  0|  0|  0| 
+|Richard Lovelady |OP          |  3|  3.000|  3|  9.000|      9| 3.000|  2|  0|  0| 
 |Seth Lugo        |OP          |  1|  6.000|  1|  1.500|      6| 1.000|  6|  0|  0| 
 |Max Fried        |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Pierce Johnson   |PITCH BENCH |  1|  0.667|  0|  0.000|      1| 1.500|  0|  0|  0| 

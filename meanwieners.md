@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Samuel Basallo    |C         |      9|  4|   6|  2|  0| 
-|Ben Rice          |1B        |     16|  8|  11|  1|  0| 
-|Jazz Chisholm Jr. |2B        |      4|  2|   1|  1|  1| 
-|Isaac Paredes     |3B        |      6|  2|   4|  1|  0| 
-|Bo Bichette       |SS        |      6|  4|   1|  0|  0| 
+|Samuel Basallo    |C         |     10|  4|   6|  2|  0| 
+|Ben Rice          |1B        |     18|  9|  11|  1|  0| 
+|Jazz Chisholm Jr. |2B        |      5|  3|   1|  1|  1| 
+|Isaac Paredes     |3B        |      7|  2|   4|  1|  0| 
+|Bo Bichette       |SS        |      7|  4|   1|  0|  0| 
 |Matt McLain       |MI        |      4|  2|   1|  0|  0| 
-|Alec Burleson     |CI        |      6|  1|   3|  0|  0| 
-|Andy Pages        |OF        |     10|  6|   4|  2|  1| 
+|Alec Burleson     |CI        |      8|  1|   4|  0|  0| 
+|Andy Pages        |OF        |     11|  6|   5|  2|  1| 
 |Jo Adell          |OF        |      5|  4|   6|  2|  1| 
-|Randy Arozarena   |OF        |      6|  3|   1|  0|  3| 
-|Wilyer Abreu      |OF        |      8|  3|   4|  0|  1| 
-|Brent Rooker      |DH        |      5|  3|   1|  1|  0| 
-|Brett Baty        |DH        |      4|  2|   2|  0|  0| 
+|Randy Arozarena   |OF        |      7|  4|   1|  0|  3| 
+|Wilyer Abreu      |OF        |      8|  3|   5|  0|  1| 
+|Brent Rooker      |DH        |      6|  4|   1|  1|  0| 
+|Brett Baty        |DH        |      5|  2|   2|  0|  0| 
 |Sam Antonacci     |DH        |     11|  5|   3|  0|  2| 
-|Shohei Ohtani     |DH        |     11|  4|   2|  2|  0| 
-|Brooks Lee        |BAT BENCH |      8|  3|   7|  2|  0| 
-|Masyn Winn        |BAT BENCH |      6|  1|   3|  1|  1| 
-|Steven Kwan       |BAT BENCH |      3|  2|   0|  0|  0| 
+|Shohei Ohtani     |DH        |     14|  6|   4|  2|  0| 
+|Brooks Lee        |BAT BENCH |      9|  3|   8|  2|  0| 
+|Masyn Winn        |BAT BENCH |      8|  1|   3|  1|  1| 
+|Steven Kwan       |BAT BENCH |      5|  4|   0|  0|  0| 
 
 
 * * *
@@ -40,7 +40,7 @@
 |Yoshinobu Yamamoto |SP          |  1|  5.333|  0|  0.000|      6| 1.125| 10|  1|  0| 
 |Alex Vesia         |RP          |  3|  1.667|  0|  0.000|      1| 0.600|  3|  0|  0| 
 |Devin Williams     |RP          |  3|  3.000|  0|  0.000|      3| 1.000|  6|  0|  1| 
-|Aaron Ashby        |OP          |  2|  3.000|  0|  0.000|      3| 1.000|  4|  1|  0| 
+|Aaron Ashby        |OP          |  3|  4.333|  1|  2.077|      6| 1.385|  5|  1|  0| 
 |Brandon Sproat     |OP          |  1|  4.333|  5| 10.385|      6| 1.385|  4|  0|  0| 
 |Christian Scott    |OP          |  1|  5.000|  1|  1.800|      7| 1.400|  8|  1|  0| 
 |Grant Holmes       |OP          |  1|  4.667|  3|  5.786|      8| 1.714|  5|  0|  0| 
