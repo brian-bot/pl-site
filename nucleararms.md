@@ -5,16 +5,16 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Shea Langeliers   |C         |      5|  2|   2|  1|  0| 
+|Shea Langeliers   |C         |      7|  4|   5|  3|  0| 
 |Yandy Díaz        |1B        |     14|  4|   6|  3|  0| 
-|Jackson Holliday  |2B        |      9|  4|   3|  1|  1| 
+|Jackson Holliday  |2B        |     11|  4|   3|  1|  1| 
 |Austin Riley      |3B        |      7|  3|   1|  0|  1| 
-|Gunnar Henderson  |SS        |      9|  4|   6|  2|  0| 
+|Gunnar Henderson  |SS        |     11|  5|   6|  2|  0| 
 |Colson Montgomery |MI        |     11|  4|   4|  2|  0| 
-|Pete Alonso       |CI        |     11|  5|   5|  2|  0| 
-|Bryan Reynolds    |OF        |     20|  9|   6|  2|  1| 
-|Ronald Acuña Jr.  |OF        |     17|  6|  10|  5|  6| 
-|Seiya Suzuki      |OF        |      9|  4|   3|  1|  0| 
+|Pete Alonso       |CI        |     14|  6|   5|  2|  0| 
+|Bryan Reynolds    |OF        |     21| 10|   7|  2|  1| 
+|Ronald Acuña Jr.  |OF        |     18|  7|  10|  5|  7| 
+|Seiya Suzuki      |OF        |     10|  5|   3|  1|  0| 
 |Teoscar Hernández |OF        |      1|  1|   0|  0|  0| 
 |Anthony Volpe     |DH        |      6|  6|   3|  1|  3| 
 |Dillon Dingler    |DH        |     14|  6|  12|  4|  0| 
@@ -42,7 +42,7 @@
 |Abner Uribe       |RP          |  4|  4.000|  1| 2.250|      7| 1.750|  4|  1|  0| 
 |Gus Varland       |RP          |  3|  2.333|  2| 7.714|      7| 3.000|  1|  0|  0| 
 |Bryan King        |OP          |  3|  3.000|  1| 3.000|      5| 1.667|  2|  0|  0| 
-|Carmen Mlodzinski |OP          | **|     **| **|    **|     **|    **| **| **| **| 
+|Carmen Mlodzinski |OP          |  1|  4.000|  1| 2.250|      4| 1.000|  3|  0|  1| 
 |Jack Flaherty     |OP          |  2| 10.667|  3| 2.531|     14| 1.312| 15|  1|  0| 
 |Max Meyer         |OP          |  2| 13.000|  6| 4.154|     13| 1.000| 13|  1|  0| 
 |Roki Sasaki       |OP          |  1|  5.333|  1| 1.688|      4| 0.750|  7|  0|  0| 

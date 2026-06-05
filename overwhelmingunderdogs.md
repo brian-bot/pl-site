@@ -5,19 +5,19 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith       |C         |     11|  5|   3|  2|  0| 
-|Rafael Devers    |1B        |     11|  5|   3|  0|  0| 
-|Maikel Garcia    |2B        |      6|  1|   1|  0|  0| 
-|Matt Chapman     |3B        |     10|  4|   5|  1|  0| 
+|Will Smith       |C         |     13|  5|   3|  2|  0| 
+|Rafael Devers    |1B        |     12|  6|   3|  0|  0| 
+|Maikel Garcia    |2B        |      7|  1|   1|  0|  0| 
+|Matt Chapman     |3B        |     13|  5|   7|  1|  0| 
 |Xavier Edwards   |SS        |     15|  2|   1|  0|  4| 
 |Marcus Semien    |MI        |      9|  4|   4|  2|  0| 
-|Alex Bregman     |CI        |     12|  6|   3|  1|  0| 
-|George Springer  |OF        |      8|  3|   1|  0|  1| 
+|Alex Bregman     |CI        |     13|  7|   3|  1|  0| 
+|George Springer  |OF        |     10|  3|   1|  0|  1| 
 |Jakob Marsee     |OF        |     12|  5|   1|  0|  2| 
 |Juan Soto        |OF        |     11|  6|   8|  3|  1| 
-|Trent Grisham    |OF        |     13|  6|   4|  1|  1| 
+|Trent Grisham    |OF        |     15|  6|   4|  1|  1| 
 |Austin Martin    |DH        |      5|  4|   2|  0|  1| 
-|Christian Walker |DH        |      6|  5|   5|  1|  0| 
+|Christian Walker |DH        |      7|  5|   5|  1|  0| 
 |Jonathan Aranda  |DH        |     16|  5|   3|  2|  0| 
 |Miguel Vargas    |DH        |     15|  9|  10|  3|  1| 
 |Brendan Donovan  |BAT BENCH |     **| **|  **| **| **| 
@@ -32,7 +32,7 @@
  
 |players            |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:------------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Chris Sale         |SP          |  1|  5.000|  2|  3.600|      9| 1.800|  8|  1|  0| 
+|Chris Sale         |SP          |  2| 10.667|  5|  4.219|     21| 1.969| 14|  1|  0| 
 |Cristopher Sánchez |SP          |  2| 14.000|  1|  0.643|     11| 0.786| 17|  2|  0| 
 |Emmet Sheehan      |SP          |  1|  6.333|  2|  2.842|      3| 0.474|  3|  0|  0| 
 |Jesús Luzardo      |SP          |  1|  5.333|  2|  3.375|      9| 1.688|  6|  0|  0| 
