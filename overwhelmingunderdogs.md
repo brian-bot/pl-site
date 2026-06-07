@@ -6,20 +6,20 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith       |C         |     14|  5|   3|  2|  0| 
-|Rafael Devers    |1B        |     14|  7|   4|  0|  0| 
-|Maikel Garcia    |2B        |      7|  1|   2|  0|  0| 
-|Matt Chapman     |3B        |     15|  7|  15|  3|  0| 
-|Xavier Edwards   |SS        |     15|  2|   1|  0|  4| 
-|Marcus Semien    |MI        |      9|  4|   4|  2|  0| 
-|Alex Bregman     |CI        |     14|  7|   3|  1|  0| 
-|George Springer  |OF        |     12|  4|   1|  0|  1| 
+|Rafael Devers    |1B        |     16|  8|   5|  1|  0| 
+|Maikel Garcia    |2B        |      8|  1|   2|  0|  0| 
+|Matt Chapman     |3B        |     17|  7|  16|  3|  0| 
+|Xavier Edwards   |SS        |     16|  2|   1|  0|  4| 
+|Marcus Semien    |MI        |     12|  6|   5|  3|  0| 
+|Alex Bregman     |CI        |     15|  7|   3|  1|  0| 
+|George Springer  |OF        |     14|  4|   1|  0|  1| 
 |Jakob Marsee     |OF        |     13|  5|   1|  0|  2| 
 |Juan Soto        |OF        |     11|  6|   8|  3|  1| 
 |Trent Grisham    |OF        |     16|  7|   5|  2|  1| 
-|Austin Martin    |DH        |      6|  4|   2|  0|  1| 
-|Christian Walker |DH        |      9|  6|   6|  1|  0| 
-|Jonathan Aranda  |DH        |     19|  5|   4|  2|  0| 
-|Miguel Vargas    |DH        |     18|  9|  10|  3|  1| 
+|Austin Martin    |DH        |      8|  5|   2|  0|  1| 
+|Christian Walker |DH        |     11|  7|   6|  1|  0| 
+|Jonathan Aranda  |DH        |     20|  5|   4|  2|  0| 
+|Miguel Vargas    |DH        |     20| 10|  10|  3|  1| 
 |Brendan Donovan  |BAT BENCH |     **| **|  **| **| **| 
 |Francisco Lindor |BAT BENCH |     **| **|  **| **| **| 
 |Roman Anthony    |BAT BENCH |     **| **|  **| **| **| 
@@ -37,7 +37,7 @@
 |Emmet Sheehan      |SP          |  1|  6.333|  2|  2.842|      3| 0.474|  3|  0|  0| 
 |Jesús Luzardo      |SP          |  2| 11.333|  7|  5.559|     18| 1.588|  8|  0|  0| 
 |Merrill Kelly      |SP          |  2| 10.333|  9|  7.839|     19| 1.839|  6|  0|  0| 
-|Shane McClanahan   |SP          |  1|  5.000|  1|  1.800|      4| 0.800|  3|  1|  0| 
+|Shane McClanahan   |SP          |  2| 10.000|  5|  4.500|     14| 1.400|  9|  1|  0| 
 |Cade Smith         |RP          |  3|  3.000|  2|  6.000|      4| 1.333|  6|  0|  3| 
 |Trevor Megill      |RP          |  6|  6.000|  2|  3.000|      6| 1.000|  7|  1|  3| 
 |Andrew Abbott      |OP          |  2| 12.000|  6|  4.500|     16| 1.333|  9|  0|  0| 
