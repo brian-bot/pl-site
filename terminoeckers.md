@@ -6,11 +6,11 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Hunter Goodman    |C         |     18|  9|  12|  6|  2| 
-|Willson Contreras |1B        |     20|  4|   6|  2|  0| 
-|Brice Turang      |2B        |     19|  8|   9|  2|  2| 
+|Willson Contreras |1B        |     21|  4|   6|  2|  0| 
+|Brice Turang      |2B        |     21| 10|  12|  3|  2| 
 |Eugenio Suárez    |3B        |      9|  1|   5|  1|  0| 
 |Elly De La Cruz   |SS        |      7|  3|   2|  0|  1| 
-|Curtis Mead       |MI        |     16|  7|   8|  2|  0| 
+|Curtis Mead       |MI        |     17|  7|   8|  2|  0| 
 |Jac Caglianone    |CI        |     17|  3|   4|  1|  1| 
 |Brandon Nimmo     |OF        |     11|  5|   4|  1|  1| 
 |Jordan Walker     |OF        |     16|  7|   5|  1|  3| 
@@ -36,7 +36,7 @@
 |Bryan Woo       |SP          |  2| 13.333|  5|  3.375|     11| 0.825| 16|  1|  0| 
 |Bubba Chandler  |SP          |  3| 15.333| 10|  5.870|     21| 1.370| 15|  1|  0| 
 |Cam Schlittler  |SP          |  3| 16.000|  6|  3.375|     14| 0.875| 14|  1|  0| 
-|Connelly Early  |SP          |  2| 12.333|  4|  2.919|     14| 1.135| 13|  1|  0| 
+|Connelly Early  |SP          |  3| 17.000|  6|  3.176|     23| 1.353| 19|  1|  0| 
 |Drew Rasmussen  |SP          |  2| 11.000|  5|  4.091|      7| 0.636| 13|  1|  0| 
 |Kyle Bradish    |SP          |  2| 11.000|  5|  4.091|     19| 1.727|  7|  1|  0| 
 |Aroldis Chapman |RP          |  2|  2.000|  0|  0.000|      3| 1.500|  3|  0|  1| 

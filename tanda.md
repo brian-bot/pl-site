@@ -7,18 +7,18 @@
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
 |Gabriel Moreno        |C         |     15|  5|   6|  1|  0| 
 |Vladimir Guerrero Jr. |1B        |     16|  6|   3|  0|  1| 
-|Zack Gelof            |2B        |     18|  2|   4|  0|  0| 
-|José Ramírez          |3B        |     16|  9|   9|  2|  3| 
+|Zack Gelof            |2B        |     20|  4|   5|  1|  0| 
+|José Ramírez          |3B        |     17| 10|   9|  2|  3| 
 |Willy Adames          |SS        |     18| 10|  12|  5|  0| 
-|Xander Bogaerts       |MI        |     10|  3|   3|  1|  1| 
+|Xander Bogaerts       |MI        |     12|  5|   3|  1|  1| 
 |Matt Olson            |CI        |     17| 10|   5|  3|  1| 
-|Christian Yelich      |OF        |     22| 11|   5|  0|  1| 
-|Cody Bellinger        |OF        |     15|  5|   8|  2|  2| 
+|Christian Yelich      |OF        |     24| 13|   5|  0|  2| 
+|Cody Bellinger        |OF        |     17|  5|  10|  2|  2| 
 |Daulton Varsho        |OF        |     10|  3|   1|  0|  0| 
 |Pete Crow-Armstrong   |OF        |     26|  9|   9|  5|  2| 
-|Angel Martínez        |DH        |      7|  1|   2|  0|  1| 
-|Brandon Marsh         |DH        |     17|  5|   6|  3|  1| 
-|Brayan Rocchio        |DH        |     13|  4|   2|  1|  2| 
+|Angel Martínez        |DH        |      9|  2|   4|  1|  1| 
+|Brandon Marsh         |DH        |     18|  6|   6|  3|  1| 
+|Brayan Rocchio        |DH        |     16|  4|   3|  1|  2| 
 |Jorge Soler           |DH        |     10|  3|   3|  0|  0| 
 |Cal Raleigh           |BAT BENCH |     **| **|  **| **| **| 
 |Josh Jung             |BAT BENCH |     22|  9|   8|  3|  0| 
@@ -36,7 +36,7 @@
 |Bryce Elder     |SP          |  3| 16.000| 10|  5.625|     21| 1.312| 11|  1|  0| 
 |Framber Valdez  |SP          |  2| 11.667|  5|  3.857|     15| 1.286|  9|  1|  0| 
 |Gerrit Cole     |SP          |  2| 12.000|  4|  3.000|     11| 0.917| 12|  1|  0| 
-|Logan Webb      |SP          |  2| 11.333|  1|  0.794|      8| 0.706|  9|  1|  0| 
+|Logan Webb      |SP          |  3| 19.333|  2|  0.931|     13| 0.672| 16|  1|  0| 
 |Michael Wacha   |SP          |  2| 10.667| 10|  8.437|     20| 1.875|  7|  0|  0| 
 |Mitch Keller    |SP          |  2|  8.667| 13| 13.500|     21| 2.423|  9|  0|  0| 
 |Pete Fairbanks  |RP          |  5|  4.000|  3|  6.750|      7| 1.750|  3|  0|  1| 
