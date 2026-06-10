@@ -6,20 +6,20 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith       |C         |     14|  5|   3|  2|  0| 
-|Rafael Devers    |1B        |     18|  9|   5|  1|  0| 
-|Maikel Garcia    |2B        |     10|  2|   3|  0|  0| 
-|Matt Chapman     |3B        |     23|  7|  18|  3|  0| 
-|Xavier Edwards   |SS        |     17|  2|   1|  0|  5| 
+|Rafael Devers    |1B        |     19| 10|   5|  1|  0| 
+|Maikel Garcia    |2B        |     11|  3|   4|  0|  0| 
+|Matt Chapman     |3B        |     26|  7|  18|  3|  0| 
+|Xavier Edwards   |SS        |     20|  3|   3|  0|  5| 
 |Marcus Semien    |MI        |     14|  7|   6|  4|  0| 
-|Alex Bregman     |CI        |     15|  7|   3|  1|  0| 
+|Alex Bregman     |CI        |     17|  8|   4|  1|  0| 
 |George Springer  |OF        |     14|  4|   1|  0|  1| 
-|Jakob Marsee     |OF        |     16|  6|   1|  0|  3| 
-|Juan Soto        |OF        |     13|  6|   9|  3|  1| 
-|Trent Grisham    |OF        |     22| 10|   6|  2|  2| 
-|Austin Martin    |DH        |      8|  5|   2|  0|  1| 
+|Jakob Marsee     |OF        |     17|  6|   1|  0|  3| 
+|Juan Soto        |OF        |     15|  6|   9|  3|  1| 
+|Trent Grisham    |OF        |     23| 10|   6|  2|  2| 
+|Austin Martin    |DH        |     10|  5|   2|  0|  1| 
 |Christian Walker |DH        |     14|  7|   8|  1|  0| 
 |Jonathan Aranda  |DH        |     22|  5|   5|  2|  0| 
-|Miguel Vargas    |DH        |     21| 10|  10|  3|  1| 
+|Miguel Vargas    |DH        |     23| 12|  12|  4|  1| 
 |Brendan Donovan  |BAT BENCH |     **| **|  **| **| **| 
 |Francisco Lindor |BAT BENCH |     **| **|  **| **| **| 
 |Roman Anthony    |BAT BENCH |     **| **|  **| **| **| 
@@ -44,9 +44,9 @@
 |Emerson Hancock    |OP          |  3| 17.000|  3|  1.588|     10| 0.588| 13|  2|  0| 
 |Joey Cantillo      |OP          |  3| 11.000| 15| 12.273|     27| 2.455| 12|  0|  0| 
 |Michael Soroka     |OP          |  3| 19.000|  7|  3.316|     16| 0.842| 15|  2|  0| 
-|Rico Garcia        |OP          |  4|  3.667|  1|  2.455|      2| 0.545|  4|  0|  1| 
+|Rico Garcia        |OP          |  5|  4.667|  2|  3.857|      3| 0.643|  4|  0|  1| 
 |Brandon Woodruff   |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Clayton Beeter     |PITCH BENCH |  5|  6.000|  4|  6.000|     11| 1.833|  5|  1|  2| 
+|Clayton Beeter     |PITCH BENCH |  6|  7.000|  4|  5.143|     11| 1.571|  6|  1|  2| 
 |Peter Lambert      |PITCH BENCH |  2| 10.333|  3|  2.613|     17| 1.645|  7|  2|  0| 
 
 

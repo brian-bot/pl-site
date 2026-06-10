@@ -6,20 +6,20 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |William Contreras |C         |     14|  8|  11|  2|  0| 
-|Nick Kurtz        |1B        |     21| 10|  11|  6|  1| 
-|Ketel Marte       |2B        |      9|  4|   7|  3|  0| 
-|Nolan Arenado     |3B        |     10|  4|   3|  1|  0| 
-|Trea Turner       |SS        |     15|  8|   5|  2|  5| 
-|Otto Lopez        |MI        |     18|  5|   5|  1|  2| 
+|Nick Kurtz        |1B        |     24| 11|  12|  7|  1| 
+|Ketel Marte       |2B        |     12|  4|  10|  3|  0| 
+|Nolan Arenado     |3B        |     12|  4|   3|  1|  0| 
+|Trea Turner       |SS        |     16|  9|   5|  2|  5| 
+|Otto Lopez        |MI        |     21|  9|   6|  1|  3| 
 |Spencer Horwitz   |CI        |     21|  7|   4|  3|  0| 
-|Byron Buxton      |OF        |     12|  5|   2|  2|  1| 
-|Michael Harris II |OF        |     20|  7|  11|  2|  0| 
-|Riley Greene      |OF        |     19|  3|   5|  2|  0| 
-|Ryan Waldschmidt  |OF        |     11|  1|   1|  0|  0| 
+|Byron Buxton      |OF        |     13|  6|   3|  3|  1| 
+|Michael Harris II |OF        |     23|  8|  11|  2|  0| 
+|Riley Greene      |OF        |     21|  5|   7|  3|  0| 
+|Ryan Waldschmidt  |OF        |     12|  2|   1|  0|  0| 
 |Casey Schmitt     |DH        |     16|  6|   9|  4|  2| 
-|Iván Herrera      |DH        |     16|  7|   2|  1|  0| 
-|Jake Bauers       |DH        |     24| 10|  14|  5|  1| 
-|Troy Johnston     |DH        |     15|  5|   5|  0|  2| 
+|Iván Herrera      |DH        |     21| 10|   2|  1|  0| 
+|Jake Bauers       |DH        |     26| 11|  14|  5|  1| 
+|Troy Johnston     |DH        |     16|  6|   5|  0|  2| 
 |Heliot Ramos      |BAT BENCH |     **| **|  **| **| **| 
 |Ildemaro Vargas   |BAT BENCH |      7|  1|   5|  0|  0| 
 
@@ -34,10 +34,10 @@
 |Davis Martin     |SP          |  2| 10.667|  7|  5.906|     17| 1.594|  7|  1|  0| 
 |Logan Henderson  |SP          | **|     **| **|     **|     **|    **| **| **| **| 
 |MacKenzie Gore   |SP          |  2| 11.000|  4|  3.273|     17| 1.545|  8|  1|  0| 
-|Nick Martinez    |SP          |  2| 11.000|  8|  6.545|     18| 1.636|  6|  1|  0| 
+|Nick Martinez    |SP          |  3| 18.000| 11|  5.500|     24| 1.333|  8|  2|  0| 
 |Nolan McLean     |SP          |  2| 11.000|  2|  1.636|     13| 1.182|  7|  1|  0| 
 |Trey Yesavage    |SP          |  2| 10.667|  7|  5.906|     16| 1.500|  9|  0|  0| 
-|Mason Miller     |RP          |  4|  4.000|  1|  2.250|      5| 1.250|  7|  0|  2| 
+|Mason Miller     |RP          |  5|  5.000|  1|  1.800|      5| 1.000|  9|  0|  2| 
 |Riley O'Brien    |RP          |  5|  5.000|  4|  7.200|     10| 2.000|  4|  0|  4| 
 |Carlos Rodón     |OP          |  2| 12.000|  2|  1.500|     11| 0.917| 10|  1|  0| 
 |Keider Montero   |OP          |  3| 16.667|  8|  4.320|     18| 1.080| 12|  0|  0| 
