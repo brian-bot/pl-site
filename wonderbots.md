@@ -6,22 +6,22 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Salvador Perez     |C         |      8|  1|   1|  0|  0| 
-|Andrew Vaughn      |1B        |     15|  5|   9|  1|  0| 
-|Ceddanne Rafaela   |2B        |     17|  4|   4|  1|  3| 
-|Junior Caminero    |3B        |     26|  9|   3|  1|  0| 
+|Andrew Vaughn      |1B        |     18|  5|  10|  1|  0| 
+|Ceddanne Rafaela   |2B        |     18|  5|   7|  2|  3| 
+|Junior Caminero    |3B        |     28|  9|   3|  1|  0| 
 |Zach Neto          |SS        |     20| 11|   8|  3|  3| 
-|CJ Abrams          |MI        |     20|  9|   5|  2|  3| 
-|Sal Stewart        |CI        |     20|  3|   8|  1|  0| 
+|CJ Abrams          |MI        |     21|  9|   5|  2|  3| 
+|Sal Stewart        |CI        |     22|  3|   8|  1|  0| 
 |Aaron Judge        |OF        |      8|  2|   6|  0|  0| 
-|Fernando Tatis Jr. |OF        |     22|  5|   3|  1|  2| 
-|James Wood         |OF        |     24| 13|   6|  3|  4| 
-|Mike Trout         |OF        |     23| 10|   3|  1|  0| 
-|Adolis García      |DH        |      8|  4|   6|  3|  1| 
-|JJ Bleday          |DH        |     19|  6|   7|  3|  1| 
-|José Caballero     |DH        |     10|  5|   2|  1|  2| 
+|Fernando Tatis Jr. |OF        |     24|  6|   5|  2|  2| 
+|James Wood         |OF        |     26| 15|   8|  4|  4| 
+|Mike Trout         |OF        |     25| 11|   4|  2|  1| 
+|Adolis García      |DH        |      9|  4|   6|  3|  1| 
+|JJ Bleday          |DH        |     22|  8|   8|  4|  1| 
+|José Caballero     |DH        |     12|  6|   4|  1|  2| 
 |Mookie Betts       |DH        |     16|  7|   7|  2|  0| 
 |Colt Keith         |BAT BENCH |      9|  4|   0|  0|  1| 
-|Ezequiel Tovar     |BAT BENCH |     11|  6|   7|  3|  1| 
+|Ezequiel Tovar     |BAT BENCH |     13|  6|   7|  3|  1| 
 
 
 * * *
@@ -43,7 +43,7 @@
 |Casey Mize        |OP          |  1|  4.000|  0| 0.000|      3| 0.750|  6|  0|  0| 
 |Kirby Yates       |OP          |  6|  5.000|  3| 5.400|      7| 1.400|  6|  0|  0| 
 |Noah Cameron      |OP          |  3| 18.000|  3| 1.500|      9| 0.500| 19|  1|  0| 
-|Reid Detmers      |OP          |  2| 11.000|  3| 2.455|     12| 1.091| 13|  1|  0| 
+|Reid Detmers      |OP          |  3| 18.000|  4| 2.000|     13| 0.722| 22|  1|  0| 
 |Ben Joyce         |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 |Corbin Burnes     |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 |Griffin Jax       |PITCH BENCH |  3| 11.000|  7| 5.727|     17| 1.545| 12|  0|  0| 
