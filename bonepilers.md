@@ -5,22 +5,22 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Carson Kelly     |C         |     10|  2|   1|  0|  0| 
+|Carson Kelly     |C         |     11|  3|   2|  1|  0| 
 |Tyler Soderstrom |1B        |     30|  7|  12|  6|  0| 
-|Brandon Lowe     |2B        |     15| 11|  10|  2|  0| 
+|Brandon Lowe     |2B        |     17| 12|  12|  3|  0| 
 |Manny Machado    |3B        |     12|  3|   9|  3|  0| 
 |Konnor Griffin   |SS        |      7|  4|   2|  1|  2| 
 |Travis Bazzana   |MI        |     17|  4|   7|  1|  3| 
 |Nolan Schanuel   |CI        |      3|  1|   1|  0|  0| 
 |Chandler Simpson |OF        |      9|  4|   0|  0|  0| 
-|Ian Happ         |OF        |     20|  8|  15|  5|  0| 
-|Julio Rodríguez  |OF        |     17|  9|  10|  4|  4| 
+|Ian Happ         |OF        |     22|  9|  16|  5|  1| 
+|Julio Rodríguez  |OF        |     20|  9|  11|  4|  4| 
 |Yordan Alvarez   |OF        |     32| 14|  15|  6|  0| 
-|Carson Benge     |DH        |     19|  9|   8|  4|  1| 
+|Carson Benge     |DH        |     20| 10|   8|  4|  1| 
 |Chase DeLauter   |DH        |     15|  4|   4|  0|  0| 
 |Jeremy Peña      |DH        |     24| 14|   8|  3|  3| 
 |Nasim Nuñez      |DH        |      9|  4|   4|  0|  3| 
-|Colt Emerson     |BAT BENCH |     12|  5|   6|  3|  0| 
+|Colt Emerson     |BAT BENCH |     13|  6|   6|  3|  0| 
 |Drake Baldwin    |BAT BENCH |     **| **|  **| **| **| 
 |Jackson Merrill  |BAT BENCH |     17|  6|   6|  2|  0| 
 

@@ -5,7 +5,7 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|Gabriel Moreno        |C         |     21|  6|   7|  2|  0| 
+|Gabriel Moreno        |C         |     22|  6|   7|  2|  0| 
 |Vladimir Guerrero Jr. |1B        |     20|  6|   4|  0|  1| 
 |Zack Gelof            |2B        |     22|  6|   6|  2|  0| 
 |José Ramírez          |3B        |     20| 11|   9|  2|  4| 
@@ -15,7 +15,7 @@
 |Christian Yelich      |OF        |     28| 15|   6|  0|  2| 
 |Cody Bellinger        |OF        |     20|  6|  10|  2|  3| 
 |Daulton Varsho        |OF        |     10|  4|   1|  0|  1| 
-|Pete Crow-Armstrong   |OF        |     28| 10|   9|  5|  2| 
+|Pete Crow-Armstrong   |OF        |     30| 12|   9|  5|  3| 
 |Angel Martínez        |DH        |     13|  3|   6|  2|  1| 
 |Brandon Marsh         |DH        |     20|  6|   7|  3|  1| 
 |Brayan Rocchio        |DH        |     17|  4|   4|  1|  2| 
@@ -37,9 +37,9 @@
 |Framber Valdez  |SP          |  3| 16.667|  9|  4.860|     23| 1.380| 11|  1|  0| 
 |Gerrit Cole     |SP          |  3| 16.000|  6|  3.375|     18| 1.125| 16|  1|  0| 
 |Logan Webb      |SP          |  3| 19.333|  2|  0.931|     13| 0.672| 16|  1|  0| 
-|Michael Wacha   |SP          |  2| 10.667| 10|  8.437|     20| 1.875|  7|  0|  0| 
-|Mitch Keller    |SP          |  2|  8.667| 13| 13.500|     21| 2.423|  9|  0|  0| 
-|Pete Fairbanks  |RP          |  6|  5.000|  3|  5.400|      9| 1.800|  5|  1|  1| 
+|Michael Wacha   |SP          |  3| 17.667| 14|  7.132|     30| 1.698|  9|  0|  0| 
+|Mitch Keller    |SP          |  3| 12.667| 18| 12.789|     32| 2.526| 12|  0|  0| 
+|Pete Fairbanks  |RP          |  7|  6.000|  3|  4.500|      9| 1.500|  7|  1|  2| 
 |Raisel Iglesias |RP          |  6|  6.667|  3|  4.050|     10| 1.500|  7|  0|  5| 
 |Cade Cavalli    |OP          |  3| 16.000|  7|  3.938|     23| 1.438| 15|  1|  0| 
 |Foster Griffin  |OP          |  3| 16.000|  5|  2.812|     15| 0.938| 14|  1|  0| 

@@ -9,19 +9,19 @@
 |Ben Rice          |1B        |     28| 13|  12|  2|  0| 
 |Jazz Chisholm Jr. |2B        |     13| 11|  10|  4|  4| 
 |Isaac Paredes     |3B        |     20|  8|  13|  4|  0| 
-|Bo Bichette       |SS        |     16|  6|   5|  0|  0| 
+|Bo Bichette       |SS        |     17|  7|   7|  1|  0| 
 |Matt McLain       |MI        |     15|  8|   5|  3|  3| 
-|Alec Burleson     |CI        |     20|  9|  12|  3|  0| 
-|Andy Pages        |OF        |     18| 10|  10|  4|  1| 
+|Alec Burleson     |CI        |     21| 10|  13|  4|  0| 
+|Andy Pages        |OF        |     20| 12|  10|  4|  1| 
 |Jo Adell          |OF        |     15| 11|  11|  3|  1| 
-|Randy Arozarena   |OF        |     22|  7|   8|  1|  4| 
+|Randy Arozarena   |OF        |     23|  8|   8|  1|  4| 
 |Wilyer Abreu      |OF        |     15|  5|   9|  1|  1| 
 |Brent Rooker      |DH        |     13|  8|   4|  3|  0| 
 |Brett Baty        |DH        |     11|  4|   4|  0|  1| 
 |Sam Antonacci     |DH        |     25| 10|   5|  0|  2| 
-|Shohei Ohtani     |DH        |     27| 12|  10|  4|  0| 
+|Shohei Ohtani     |DH        |     31| 14|  11|  5|  0| 
 |Brooks Lee        |BAT BENCH |     16|  6|  11|  4|  0| 
-|Masyn Winn        |BAT BENCH |     16|  3|   7|  1|  2| 
+|Masyn Winn        |BAT BENCH |     17|  4|   7|  1|  2| 
 |Steven Kwan       |BAT BENCH |     11|  7|   0|  0|  1| 
 
 
@@ -38,16 +38,16 @@
 |Shota Imanaga      |SP          |  3| 16.333| 11|  6.061|     17| 1.041| 14|  0|  0| 
 |Will Warren        |SP          |  2| 10.333|  2|  1.742|     14| 1.355| 10|  1|  0| 
 |Yoshinobu Yamamoto |SP          |  2| 13.333|  1|  0.675|      8| 0.600| 14|  2|  0| 
-|Alex Vesia         |RP          |  6|  3.333|  2|  5.400|      5| 1.500|  5|  0|  0| 
-|Devin Williams     |RP          |  4|  4.000|  1|  2.250|      5| 1.250|  8|  0|  1| 
+|Alex Vesia         |RP          |  7|  3.667|  2|  4.909|      5| 1.364|  6|  0|  0| 
+|Devin Williams     |RP          |  5|  5.000|  1|  1.800|      5| 1.000| 10|  0|  2| 
 |Aaron Ashby        |OP          |  6|  8.000|  5|  5.625|     14| 1.750|  9|  1|  0| 
 |Brandon Sproat     |OP          |  3| 15.333|  9|  5.283|     20| 1.304|  9|  0|  0| 
-|Christian Scott    |OP          |  2| 10.667|  1|  0.844|     12| 1.125| 11|  2|  0| 
+|Christian Scott    |OP          |  3| 15.333|  5|  2.935|     20| 1.304| 17|  2|  0| 
 |Grant Holmes       |OP          |  3| 14.333|  8|  5.023|     21| 1.465| 11|  1|  0| 
 |Spencer Miles      |OP          |  4| 13.333|  9|  6.075|     15| 1.125| 12|  2|  0| 
 |Cole Ragans        |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Eduardo Rodriguez  |PITCH BENCH |  3| 18.333|  7|  3.436|     21| 1.145| 14|  1|  0| 
-|Edward Cabrera     |PITCH BENCH |  1|  3.667|  8| 19.636|      9| 2.455|  6|  0|  0| 
+|Edward Cabrera     |PITCH BENCH |  2|  9.000| 10| 10.000|     16| 1.778| 11|  1|  0| 
 |Matthew Boyd       |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 
 

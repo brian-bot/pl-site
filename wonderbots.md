@@ -19,8 +19,8 @@
 |Adolis García      |DH        |      9|  4|   6|  3|  1| 
 |JJ Bleday          |DH        |     22|  8|   8|  4|  1| 
 |José Caballero     |DH        |     12|  6|   4|  1|  2| 
-|Mookie Betts       |DH        |     16|  7|   7|  2|  0| 
-|Colt Keith         |BAT BENCH |      9|  4|   0|  0|  1| 
+|Mookie Betts       |DH        |     18|  7|   7|  2|  0| 
+|Colt Keith         |BAT BENCH |     11|  6|   3|  1|  2| 
 |Ezequiel Tovar     |BAT BENCH |     13|  6|   7|  3|  1| 
 
 
