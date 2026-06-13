@@ -5,24 +5,24 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|Gabriel Moreno        |C         |     22|  6|   7|  2|  0| 
-|Vladimir Guerrero Jr. |1B        |     20|  6|   4|  0|  1| 
-|Zack Gelof            |2B        |     22|  6|   6|  2|  0| 
+|Gabriel Moreno        |C         |     24|  7|   7|  2|  1| 
+|Vladimir Guerrero Jr. |1B        |     21|  7|   5|  0|  1| 
+|Zack Gelof            |2B        |     23|  7|   6|  2|  0| 
 |José Ramírez          |3B        |     20| 11|   9|  2|  4| 
 |Willy Adames          |SS        |     19| 10|  12|  5|  0| 
-|Xander Bogaerts       |MI        |     12|  5|   3|  1|  1| 
-|Matt Olson            |CI        |     22| 12|   8|  5|  1| 
-|Christian Yelich      |OF        |     28| 15|   6|  0|  2| 
-|Cody Bellinger        |OF        |     20|  6|  10|  2|  3| 
+|Xander Bogaerts       |MI        |     14|  5|   3|  1|  1| 
+|Matt Olson            |CI        |     23| 13|   9|  6|  1| 
+|Christian Yelich      |OF        |     29| 16|   6|  0|  2| 
+|Cody Bellinger        |OF        |     21|  7|  12|  3|  3| 
 |Daulton Varsho        |OF        |     10|  4|   1|  0|  1| 
-|Pete Crow-Armstrong   |OF        |     30| 12|   9|  5|  3| 
-|Angel Martínez        |DH        |     13|  3|   6|  2|  1| 
+|Pete Crow-Armstrong   |OF        |     31| 12|   9|  5|  3| 
+|Angel Martínez        |DH        |     14|  4|   6|  2|  1| 
 |Brandon Marsh         |DH        |     20|  6|   7|  3|  1| 
-|Brayan Rocchio        |DH        |     17|  4|   4|  1|  2| 
+|Brayan Rocchio        |DH        |     18|  4|   5|  1|  2| 
 |Jorge Soler           |DH        |     10|  3|   3|  0|  0| 
 |Cal Raleigh           |BAT BENCH |     **| **|  **| **| **| 
-|Josh Jung             |BAT BENCH |     26|  9|   9|  3|  0| 
-|Luke Keaschall        |BAT BENCH |     18|  6|   3|  0|  0| 
+|Josh Jung             |BAT BENCH |     27|  9|   9|  3|  0| 
+|Luke Keaschall        |BAT BENCH |     19|  7|   3|  0|  0| 
 |Ramón Laureano        |BAT BENCH |      4|  2|   1|  1|  2| 
 
 
@@ -43,11 +43,11 @@
 |Raisel Iglesias |RP          |  6|  6.667|  3|  4.050|     10| 1.500|  7|  0|  5| 
 |Cade Cavalli    |OP          |  3| 16.000|  7|  3.938|     23| 1.438| 15|  1|  0| 
 |Foster Griffin  |OP          |  3| 16.000|  5|  2.812|     15| 0.938| 14|  1|  0| 
-|Landen Roupp    |OP          |  2|  9.667|  9|  8.379|     19| 1.966|  9|  0|  0| 
+|Landen Roupp    |OP          |  3| 14.333| 13|  8.163|     25| 1.744| 14|  0|  0| 
 |Lucas Giolito   |OP          |  3| 10.667|  7|  5.906|     23| 2.156|  9|  0|  0| 
-|Ryan Weathers   |OP          |  2| 12.667| 10|  7.105|     17| 1.342| 14|  0|  0| 
+|Ryan Weathers   |OP          |  3| 17.000| 16|  8.471|     23| 1.353| 16|  0|  0| 
 |J.T. Ginn       |PITCH BENCH |  3| 17.667|  6|  3.057|     21| 1.189| 17|  2|  0| 
-|Tanner Bibee    |PITCH BENCH |  2| 14.000|  3|  1.929|     12| 0.857|  8|  1|  0| 
+|Tanner Bibee    |PITCH BENCH |  3| 21.000|  5|  2.143|     16| 0.762| 16|  2|  0| 
 |Zac Gallen      |PITCH BENCH |  3| 15.333| 13|  7.630|     30| 1.957|  6|  0|  0| 
 
 

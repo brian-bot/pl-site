@@ -6,24 +6,24 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Hunter Goodman    |C         |     24| 11|  14|  7|  2| 
-|Willson Contreras |1B        |     22|  4|   6|  2|  0| 
-|Brice Turang      |2B        |     21| 10|  12|  3|  2| 
-|Eugenio Suárez    |3B        |     12|  2|   7|  2|  0| 
+|Willson Contreras |1B        |     26|  6|   8|  3|  0| 
+|Brice Turang      |2B        |     22| 11|  12|  3|  3| 
+|Eugenio Suárez    |3B        |     14|  2|   7|  2|  0| 
 |Elly De La Cruz   |SS        |      7|  3|   2|  0|  1| 
 |Curtis Mead       |MI        |     19|  9|   9|  3|  0| 
 |Jac Caglianone    |CI        |     27|  8|   8|  3|  2| 
 |Brandon Nimmo     |OF        |     17|  6|   5|  1|  1| 
-|Jordan Walker     |OF        |     20|  8|  10|  2|  3| 
-|Kyle Stowers      |OF        |     17|  4|  10|  2|  0| 
-|Kyle Tucker       |OF        |     15|  6|   8|  1|  1| 
+|Jordan Walker     |OF        |     21|  8|  13|  2|  3| 
+|Kyle Stowers      |OF        |     20|  5|  11|  2|  0| 
+|Kyle Tucker       |OF        |     16|  7|   8|  1|  1| 
 |A.J. Ewing        |DH        |     17|  6|   3|  0|  4| 
-|Dansby Swanson    |DH        |     14|  7|   1|  0|  3| 
+|Dansby Swanson    |DH        |     15|  7|   1|  0|  3| 
 |Jake Burger       |DH        |     22|  8|   7|  1|  0| 
-|Kazuma Okamoto    |DH        |     22|  7|  11|  3|  0| 
+|Kazuma Okamoto    |DH        |     23|  8|  13|  4|  0| 
 |Addison Barger    |BAT BENCH |     **| **|  **| **| **| 
-|Carter Jensen     |BAT BENCH |     10|  7|   8|  2|  0| 
+|Carter Jensen     |BAT BENCH |     12|  8|   9|  2|  0| 
 |Trevor Story      |BAT BENCH |     **| **|  **| **| **| 
-|Wyatt Langford    |BAT BENCH |      5|  4|   1|  1|  0| 
+|Wyatt Langford    |BAT BENCH |      7|  4|   2|  1|  0| 
 
 
 * * *
@@ -41,8 +41,8 @@
 |Kyle Bradish    |SP          |  3| 15.000| 10|  6.000|     29| 1.933| 12|  1|  0| 
 |Aroldis Chapman |RP          |  2|  2.000|  0|  0.000|      3| 1.500|  3|  0|  1| 
 |Daniel Palencia |RP          |  7|  6.000|  3|  4.500|      8| 1.333|  5|  0|  0| 
-|Andrew Painter  |OP          |  2|  8.000| 10| 11.250|     18| 2.250|  7|  0|  0| 
-|Bryce Miller    |OP          |  2| 11.000|  0|  0.000|      5| 0.455| 15|  1|  0| 
+|Andrew Painter  |OP          |  3| 13.000| 15| 10.385|     26| 2.000| 10|  0|  0| 
+|Bryce Miller    |OP          |  3| 19.000|  2|  0.947|      9| 0.474| 22|  2|  0| 
 |Jared Jones     |OP          |  3| 13.333|  7|  4.725|     19| 1.425| 14|  1|  0| 
 |Ryne Nelson     |OP          |  3| 16.333| 13|  7.163|     23| 1.408|  8|  0|  0| 
 |Tanner Scott    |OP          |  8|  7.333|  5|  6.136|      9| 1.227| 10|  0|  3| 
