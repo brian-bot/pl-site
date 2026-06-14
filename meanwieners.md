@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Samuel Basallo    |C         |     14|  7|  10|  3|  0| 
-|Ben Rice          |1B        |     30| 14|  12|  2|  0| 
-|Jazz Chisholm Jr. |2B        |     15| 11|  10|  4|  5| 
-|Isaac Paredes     |3B        |     22|  8|  13|  4|  0| 
-|Bo Bichette       |SS        |     19|  9|  13|  3|  0| 
-|Matt McLain       |MI        |     15|  8|   5|  3|  3| 
-|Alec Burleson     |CI        |     23| 12|  15|  5|  0| 
-|Andy Pages        |OF        |     20| 12|  10|  4|  1| 
-|Jo Adell          |OF        |     16| 12|  11|  3|  1| 
+|Samuel Basallo    |C         |     16|  8|  10|  3|  0| 
+|Ben Rice          |1B        |     31| 14|  12|  2|  0| 
+|Jazz Chisholm Jr. |2B        |     16| 11|  10|  4|  5| 
+|Isaac Paredes     |3B        |     23|  9|  13|  4|  0| 
+|Bo Bichette       |SS        |     21| 10|  13|  3|  0| 
+|Matt McLain       |MI        |     16|  9|   5|  3|  3| 
+|Alec Burleson     |CI        |     24| 13|  15|  5|  0| 
+|Andy Pages        |OF        |     22| 12|  10|  4|  1| 
+|Jo Adell          |OF        |     20| 15|  11|  3|  1| 
 |Randy Arozarena   |OF        |     24|  9|   8|  1|  5| 
-|Wilyer Abreu      |OF        |     18|  8|  12|  2|  1| 
+|Wilyer Abreu      |OF        |     19|  8|  13|  2|  1| 
 |Brent Rooker      |DH        |     13|  8|   4|  3|  0| 
 |Brett Baty        |DH        |     11|  4|   4|  0|  1| 
 |Sam Antonacci     |DH        |     27| 11|   6|  0|  3| 
-|Shohei Ohtani     |DH        |     31| 14|  11|  5|  0| 
-|Brooks Lee        |BAT BENCH |     17|  7|  12|  5|  0| 
-|Masyn Winn        |BAT BENCH |     18|  5|   7|  1|  2| 
+|Shohei Ohtani     |DH        |     35| 16|  12|  6|  0| 
+|Brooks Lee        |BAT BENCH |     19|  8|  12|  5|  0| 
+|Masyn Winn        |BAT BENCH |     19|  6|   8|  1|  2| 
 |Steven Kwan       |BAT BENCH |     13|  7|   1|  0|  1| 
 
 
@@ -37,8 +37,8 @@
 |Payton Tolle       |SP          |  3| 16.667|  6|  3.240|     26| 1.560| 15|  1|  0| 
 |Shota Imanaga      |SP          |  3| 16.333| 11|  6.061|     17| 1.041| 14|  0|  0| 
 |Will Warren        |SP          |  2| 10.333|  3|  2.613|     15| 1.452| 10|  1|  0| 
-|Yoshinobu Yamamoto |SP          |  2| 13.333|  1|  0.675|      8| 0.600| 14|  2|  0| 
-|Alex Vesia         |RP          |  7|  3.667|  2|  4.909|      5| 1.364|  6|  0|  0| 
+|Yoshinobu Yamamoto |SP          |  3| 21.667|  2|  0.831|      9| 0.415| 21|  3|  0| 
+|Alex Vesia         |RP          |  8|  4.333|  2|  4.154|      5| 1.154|  6|  0|  0| 
 |Devin Williams     |RP          |  6|  6.333|  1|  1.421|      7| 1.105| 12|  0|  3| 
 |Aaron Ashby        |OP          |  6|  8.000|  5|  5.625|     14| 1.750|  9|  1|  0| 
 |Brandon Sproat     |OP          |  3| 15.333|  9|  5.283|     20| 1.304|  9|  0|  0| 
