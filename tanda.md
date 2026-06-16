@@ -5,25 +5,25 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|Gabriel Moreno        |C         |     28|  8|   8|  3|  1| 
-|Vladimir Guerrero Jr. |1B        |     21|  7|   5|  0|  1| 
-|Zack Gelof            |2B        |     28| 10|   8|  3|  1| 
-|José Ramírez          |3B        |     21| 12|   9|  2|  4| 
-|Willy Adames          |SS        |     20| 10|  12|  5|  0| 
-|Xander Bogaerts       |MI        |     17|  7|   3|  1|  1| 
-|Matt Olson            |CI        |     25| 14|   9|  6|  1| 
-|Christian Yelich      |OF        |     31| 17|   7|  0|  2| 
-|Cody Bellinger        |OF        |     22|  8|  12|  3|  3| 
-|Daulton Varsho        |OF        |     10|  4|   1|  0|  1| 
-|Pete Crow-Armstrong   |OF        |     36| 14|  10|  6|  4| 
-|Angel Martínez        |DH        |     14|  4|   6|  2|  1| 
-|Brandon Marsh         |DH        |     23|  8|   8|  3|  2| 
-|Brayan Rocchio        |DH        |     18|  4|   5|  1|  3| 
-|Jorge Soler           |DH        |     10|  3|   3|  0|  0| 
-|Cal Raleigh           |BAT BENCH |     **| **|  **| **| **| 
-|Josh Jung             |BAT BENCH |     32| 10|   9|  3|  0| 
-|Luke Keaschall        |BAT BENCH |     22| 10|   5|  1|  0| 
-|Ramón Laureano        |BAT BENCH |      4|  2|   1|  1|  2| 
+|Cal Raleigh           |C         |     **| **|  **| **| **| 
+|Matt Olson            |1B        |     **| **|  **| **| **| 
+|Ozzie Albies          |2B        |     **| **|  **| **| **| 
+|Josh Jung             |3B        |      0|  0|   0|  0|  0| 
+|Willy Adames          |SS        |     **| **|  **| **| **| 
+|Zack Gelof            |MI        |      1|  1|   1|  0|  0| 
+|Vladimir Guerrero Jr. |CI        |     **| **|  **| **| **| 
+|Brandon Marsh         |OF        |      2|  1|   0|  0|  0| 
+|Christian Yelich      |OF        |     **| **|  **| **| **| 
+|Cody Bellinger        |OF        |     **| **|  **| **| **| 
+|Pete Crow-Armstrong   |OF        |      4|  1|   2|  1|  0| 
+|Gabriel Moreno        |DH        |      1|  0|   1|  0|  0| 
+|Jasson Domínguez      |DH        |     **| **|  **| **| **| 
+|Lars Nootbaar         |DH        |      3|  1|   0|  0|  0| 
+|Noelvi Marte          |DH        |      0|  0|   0|  0|  0| 
+|Angel Martínez        |BAT BENCH |     **| **|  **| **| **| 
+|J.P. Crawford         |BAT BENCH |     **| **|  **| **| **| 
+|José Ramírez          |BAT BENCH |     **| **|  **| **| **| 
+|Xander Bogaerts       |BAT BENCH |      0|  0|   0|  0|  0| 
 
 
 * * *
@@ -31,24 +31,24 @@
 ### Pitchers
 
  
-|players         |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
-|:---------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Bryce Elder     |SP          |  4| 20.000| 16|  7.200|     33| 1.650| 13|  1|  0| 
-|Framber Valdez  |SP          |  3| 16.667|  9|  4.860|     23| 1.380| 11|  1|  0| 
-|Gerrit Cole     |SP          |  3| 16.000|  6|  3.375|     18| 1.125| 16|  1|  0| 
-|Logan Webb      |SP          |  4| 27.333|  2|  0.659|     20| 0.732| 23|  2|  0| 
-|Michael Wacha   |SP          |  3| 17.667| 14|  7.132|     30| 1.698|  9|  0|  0| 
-|Mitch Keller    |SP          |  3| 12.667| 18| 12.789|     32| 2.526| 12|  0|  0| 
-|Pete Fairbanks  |RP          |  8|  7.000|  4|  5.143|     10| 1.429|  9|  1|  3| 
-|Raisel Iglesias |RP          |  7|  7.667|  3|  3.522|     12| 1.565|  8|  0|  6| 
-|Cade Cavalli    |OP          |  4| 21.000| 10|  4.286|     27| 1.286| 20|  2|  0| 
-|Foster Griffin  |OP          |  3| 16.000|  5|  2.812|     15| 0.938| 14|  1|  0| 
-|Landen Roupp    |OP          |  3| 14.333| 13|  8.163|     25| 1.744| 14|  0|  0| 
-|Lucas Giolito   |OP          |  3| 10.667|  7|  5.906|     23| 2.156|  9|  0|  0| 
-|Ryan Weathers   |OP          |  3| 17.000| 16|  8.471|     23| 1.353| 16|  0|  0| 
-|J.T. Ginn       |PITCH BENCH |  3| 17.667|  6|  3.057|     21| 1.189| 17|  2|  0| 
-|Tanner Bibee    |PITCH BENCH |  3| 21.000|  5|  2.143|     16| 0.762| 16|  2|  0| 
-|Zac Gallen      |PITCH BENCH |  4| 21.333| 16|  6.750|     38| 1.781| 10|  0|  0| 
+|players         |position    |  g| ip| er| era| hitsbb|  whip| so|  w| sv| 
+|:---------------|:-----------|--:|--:|--:|---:|------:|-----:|--:|--:|--:| 
+|Bryce Elder     |SP          | **| **| **|  **|     **|    **| **| **| **| 
+|Foster Griffin  |SP          | **| **| **|  **|     **|    **| **| **| **| 
+|Framber Valdez  |SP          | **| **| **|  **|     **|    **| **| **| **| 
+|Gerrit Cole     |SP          | **| **| **|  **|     **|    **| **| **| **| 
+|Logan Webb      |SP          | **| **| **|  **|     **|    **| **| **| **| 
+|Tanner Bibee    |SP          | **| **| **|  **|     **|    **| **| **| **| 
+|Pete Fairbanks  |RP          | **| **| **|  **|     **|    **| **| **| **| 
+|Raisel Iglesias |RP          | **| **| **|  **|     **|    **| **| **| **| 
+|Alex Lange      |OP          | **| **| **|  **|     **|    **| **| **| **| 
+|Brandon Young   |OP          | **| **| **|  **|     **|    **| **| **| **| 
+|Cade Cavalli    |OP          | **| **| **|  **|     **|    **| **| **| **| 
+|J.T. Ginn       |OP          |  1|  6|  0|   0|      8| 1.333|  3|  1|  0| 
+|Ryan Weathers   |OP          | **| **| **|  **|     **|    **| **| **| **| 
+|Emilio Pagán    |PITCH BENCH | **| **| **|  **|     **|    **| **| **| **| 
+|Michael Wacha   |PITCH BENCH | **| **| **|  **|     **|    **| **| **| **| 
+|Shane Bieber    |PITCH BENCH | **| **| **|  **|     **|    **| **| **| **| 
 
 
 * * *
