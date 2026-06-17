@@ -31,14 +31,14 @@ jobs:
           sudo apt-get install libcurl4-openssl-dev
           
       - name: Cache R packages
-        id: cache-rpkgall25
+        id: cache-rpkgall26
         uses: actions/cache@v4
         with:
           path: ${{ env.R_LIBS_USER }}
-          key: ${{ runner.os }}-rpkgall25
+          key: ${{ runner.os }}-rpkgall26
 
       - name: Install dependencies
-        if: steps.cache-rpkgall25.outputs.cache-hit != 'true'
+        if: steps.cache-rpkgall26.outputs.cache-hit != 'true'
         run: |
           install.packages(c("plyr", "dplyr", "remotes", "knitr", "DT", "webshot"))
           require("remotes")
