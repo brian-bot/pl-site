@@ -8,7 +8,7 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Hunter Goodman    |C         |     29| 14|  18|  9|  2| 
-|Willson Contreras |1B        |     31|  9|  10|  5|  0| 
+|Willson Contreras |1B        |     30|  9|  10|  5|  0| 
 |Brice Turang      |2B        |     22| 11|  12|  3|  3| 
 |Eugenio Suárez    |3B        |     15|  2|   8|  2|  0| 
 |Elly De La Cruz   |SS        |      7|  3|   2|  0|  1| 
@@ -43,7 +43,7 @@
 |Kyle Bradish    |SP          |  3| 15.000| 10|  6.000|     29| 1.933| 12|  1|  0| 
 |Aroldis Chapman |RP          |  3|  3.000|  0|  0.000|      4| 1.333|  5|  0|  2| 
 |Daniel Palencia |RP          |  7|  6.000|  3|  4.500|      8| 1.333|  5|  0|  0| 
-|Andrew Painter  |OP          |  3| 13.000| 15| 10.385|     26| 2.000| 10|  0|  0| 
+|Andrew Painter  |OP          |  3| 13.000| 15| 10.385|     27| 2.077| 10|  0|  0| 
 |Bryce Miller    |OP          |  3| 19.000|  2|  0.947|      9| 0.474| 22|  2|  0| 
 |Jared Jones     |OP          |  3| 13.333|  7|  4.725|     19| 1.425| 14|  1|  0| 
 |Ryne Nelson     |OP          |  3| 16.333| 13|  7.163|     23| 1.408|  8|  0|  0| 
