@@ -12,7 +12,7 @@
 |Ceddanne Rafaela   |2B        |     23|  8|  12|  3|  4| 
 |Junior Caminero    |3B        |     31| 10|   5|  2|  0| 
 |Zach Neto          |SS        |     22| 12|   8|  3|  4| 
-|CJ Abrams          |MI        |     25| 12|   7|  2|  3| 
+|CJ Abrams          |MI        |     25| 12|   7|  2|  4| 
 |Sal Stewart        |CI        |     24|  3|   8|  1|  0| 
 |Aaron Judge        |OF        |      8|  2|   6|  0|  0| 
 |Fernando Tatis Jr. |OF        |     29|  8|   8|  2|  4| 

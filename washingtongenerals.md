@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Francisco Alvarez |C         |      4|  0|   0|  0|  0| 
-|Michael Busch     |1B        |      4|  0|   0|  0|  0| 
-|Nico Hoerner      |2B        |      1|  0|   0|  0|  0| 
+|Francisco Alvarez |C         |      7|  1|   1|  0|  0| 
+|Michael Busch     |1B        |      5|  0|   0|  0|  0| 
+|Nico Hoerner      |2B        |      2|  1|   0|  0|  0| 
 |Max Muncy         |3B        |      2|  1|   0|  0|  0| 
-|Bobby Witt Jr.    |SS        |      5|  2|   1|  0|  1| 
-|Kevin McGonigle   |MI        |      6|  2|   1|  1|  0| 
-|Freddie Freeman   |CI        |      4|  0|   0|  0|  0| 
-|Henry Bolte       |OF        |      2|  2|   0|  0|  1| 
-|Jarren Duran      |OF        |      2|  1|   1|  1|  0| 
+|Bobby Witt Jr.    |SS        |      7|  2|   2|  0|  2| 
+|Kevin McGonigle   |MI        |      7|  3|   2|  2|  0| 
+|Freddie Freeman   |CI        |      6|  2|   2|  1|  0| 
+|Henry Bolte       |OF        |      3|  3|   1|  1|  1| 
+|Jarren Duran      |OF        |      4|  1|   1|  1|  0| 
 |Kyle Schwarber    |OF        |      5|  2|   1|  1|  0| 
 |Spencer Steer     |OF        |      3|  1|   2|  1|  0| 
-|Bryce Harper      |DH        |      2|  1|   1|  0|  0| 
-|Cole Young        |DH        |      0|  0|   0|  0|  0| 
+|Bryce Harper      |DH        |      4|  2|   1|  0|  0| 
+|Cole Young        |DH        |      1|  1|   1|  1|  0| 
 |Corey Seager      |DH        |     **| **|  **| **| **| 
-|Luis Arraez       |DH        |      2|  1|   0|  0|  0| 
+|Luis Arraez       |DH        |      6|  4|   4|  1|  1| 
 |J.T. Realmuto     |BAT BENCH |      1|  1|   2|  1|  0| 
 |Oneil Cruz        |BAT BENCH |     **| **|  **| **| **| 
 
@@ -39,7 +39,7 @@
 |Troy Melton       |SP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Gregory Soto      |RP          |  1| 1.000|  0|  0.00|      2| 2.000|  2|  0|  1| 
 |Jacob Latz        |RP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Anthony Kay       |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Anthony Kay       |OP          |  1| 4.000|  4|  9.00|      7| 1.750|  2|  0|  0| 
 |Ben Brown         |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Grant Taylor      |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Justin Wrobleski  |OP          |  1| 6.000|  0|  0.00|      3| 0.500|  5|  1|  0| 
