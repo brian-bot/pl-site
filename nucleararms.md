@@ -5,20 +5,20 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Shea Langeliers   |C         |      4|  1|   0|  0|  0| 
+|Shea Langeliers   |C         |      5|  2|   3|  1|  0| 
 |Yandy Díaz        |1B        |      5|  1|   1|  0|  0| 
-|Jackson Holliday  |2B        |      2|  2|   1|  1|  0| 
+|Jackson Holliday  |2B        |      3|  2|   1|  1|  0| 
 |Austin Riley      |3B        |      4|  0|   1|  0|  0| 
-|Gunnar Henderson  |SS        |      1|  1|   2|  1|  0| 
-|Colson Montgomery |MI        |      2|  2|   4|  2|  0| 
+|Gunnar Henderson  |SS        |      2|  1|   2|  1|  0| 
+|Colson Montgomery |MI        |      5|  3|   5|  3|  0| 
 |Pete Alonso       |CI        |      3|  1|   0|  0|  0| 
 |Bryan Reynolds    |OF        |      8|  4|   5|  2|  0| 
 |Jake McCarthy     |OF        |      6|  2|   0|  0|  0| 
 |Ronald Acuña Jr.  |OF        |     **| **|  **| **| **| 
 |Seiya Suzuki      |OF        |      7|  2|   1|  0|  0| 
-|Blaze Jordan      |DH        |      2|  1|   1|  0|  0| 
+|Blaze Jordan      |DH        |      4|  3|   1|  0|  0| 
 |Dillon Dingler    |DH        |      4|  3|   1|  0|  0| 
-|Luke Keaschall    |DH        |      3|  1|   1|  0|  0| 
+|Luke Keaschall    |DH        |      7|  2|   1|  0|  1| 
 |TJ Rumfield       |DH        |      2|  1|   3|  1|  0| 
 |Giancarlo Stanton |BAT BENCH |     **| **|  **| **| **| 
 |Teoscar Hernández |BAT BENCH |     **| **|  **| **| **| 
