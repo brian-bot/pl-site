@@ -6,22 +6,22 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Samuel Basallo    |C         |      4|  0|   1|  0|  0| 
-|Ben Rice          |1B        |      6|  2|   2|  1|  0| 
-|Jazz Chisholm Jr. |2B        |      3|  2|   1|  1|  0| 
-|Isaac Paredes     |3B        |      7|  1|   3|  1|  0| 
+|Ben Rice          |1B        |      8|  3|   5|  2|  0| 
+|Jazz Chisholm Jr. |2B        |      5|  4|   2|  2|  1| 
+|Isaac Paredes     |3B        |      9|  2|   3|  1|  0| 
 |Bo Bichette       |SS        |      9|  3|   2|  0|  0| 
 |Matt McLain       |MI        |      5|  2|   0|  0|  1| 
-|Alec Burleson     |CI        |      4|  0|   3|  0|  0| 
-|Andy Pages        |OF        |      4|  1|   0|  0|  0| 
-|Jo Adell          |OF        |      3|  1|   1|  0|  0| 
+|Alec Burleson     |CI        |      5|  0|   3|  0|  0| 
+|Andy Pages        |OF        |      5|  1|   1|  0|  0| 
+|Jo Adell          |OF        |      4|  2|   1|  0|  0| 
 |Randy Arozarena   |OF        |     **| **|  **| **| **| 
-|Wilyer Abreu      |OF        |      4|  0|   0|  0|  1| 
+|Wilyer Abreu      |OF        |      5|  0|   0|  0|  1| 
 |Braden Montgomery |DH        |      1|  0|   0|  0|  0| 
 |Kyle Manzardo     |DH        |      5|  2|   1|  1|  0| 
-|Sam Antonacci     |DH        |      4|  2|   1|  1|  0| 
+|Sam Antonacci     |DH        |      6|  3|   1|  1|  0| 
 |Shohei Ohtani     |DH        |      1|  1|   1|  1|  0| 
 |Brent Rooker      |BAT BENCH |     **| **|  **| **| **| 
-|Brooks Lee        |BAT BENCH |      3|  1|   3|  1|  0| 
+|Brooks Lee        |BAT BENCH |      4|  2|   3|  1|  0| 
 
 
 * * *

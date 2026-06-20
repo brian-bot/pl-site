@@ -5,21 +5,21 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Liam Hicks         |C         |      5|  1|   1|  0|  0| 
-|Josh Naylor        |1B        |      1|  1|   0|  0|  0| 
+|Liam Hicks         |C         |      6|  1|   2|  0|  0| 
+|Josh Naylor        |1B        |      2|  1|   0|  0|  0| 
 |Gleyber Torres     |2B        |      0|  0|   0|  0|  0| 
 |JJ Wetherholt      |3B        |     10|  1|   0|  0|  1| 
-|Geraldo Perdomo    |SS        |      6|  2|   1|  0|  0| 
+|Geraldo Perdomo    |SS        |      8|  4|   1|  0|  0| 
 |Bryson Stott       |MI        |      7|  3|   2|  0|  2| 
 |Spencer Torkelson  |CI        |      3|  2|   1|  1|  0| 
-|Corbin Carroll     |OF        |      3|  2|   4|  1|  1| 
+|Corbin Carroll     |OF        |      7|  3|   8|  1|  1| 
 |Daylen Lile        |OF        |      3|  0|   0|  0|  0| 
 |Ryan O'Hearn       |OF        |      7|  2|   6|  1|  0| 
-|Taylor Ward        |OF        |      2|  1|   0|  0|  0| 
+|Taylor Ward        |OF        |      3|  1|   0|  0|  0| 
 |Adley Rutschman    |DH        |      1|  0|   0|  0|  0| 
-|Jackson Chourio    |DH        |      3|  1|   2|  1|  0| 
+|Jackson Chourio    |DH        |      5|  1|   2|  1|  0| 
 |Jacob Young        |DH        |      2|  0|   0|  0|  1| 
-|Jose Altuve        |DH        |      1|  1|   1|  1|  0| 
+|Jose Altuve        |DH        |      3|  2|   5|  2|  0| 
 |Mickey Moniak      |BAT BENCH |     **| **|  **| **| **| 
 |Munetaka Murakami  |BAT BENCH |     **| **|  **| **| **| 
 |Vinnie Pasquantino |BAT BENCH |     **| **|  **| **| **| 
@@ -42,13 +42,13 @@
 |Jhoan Duran    |RP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Brady Singer   |OP          |  1| 5.000|  1|  1.800|      6| 1.200|  5|  1|  0| 
 |Gabe Speier    |OP          | **|    **| **|     **|     **|    **| **| **| **| 
-|José Soriano   |OP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Paul Sewald    |OP          |  1| 1.000|  1|  9.000|      1| 1.000|  2|  0|  1| 
+|José Soriano   |OP          |  1| 5.000|  4|  7.200|     10| 2.000|  6|  0|  0| 
+|Paul Sewald    |OP          |  2| 2.000|  1|  4.500|      2| 1.000|  3|  0|  1| 
 |Tony Santillan |OP          |  1| 1.000|  0|  0.000|      1| 1.000|  2|  0|  1| 
 |Bailey Ober    |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Max Fried      |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
-|Ryan Helsley   |PITCH BENCH |  1| 1.000|  2| 18.000|      2| 2.000|  2|  0|  0| 
-|Seth Lugo      |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Ryan Helsley   |PITCH BENCH |  2| 1.667|  4| 21.600|      6| 3.600|  2|  0|  0| 
+|Seth Lugo      |PITCH BENCH |  1| 6.000|  1|  1.500|      8| 1.333|  0|  1|  0| 
 
 
 * * *

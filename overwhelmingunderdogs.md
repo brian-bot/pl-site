@@ -6,20 +6,20 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Alejandro Kirk   |C         |      0|  0|   0|  0|  0| 
-|Rafael Devers    |1B        |      5|  1|   2|  1|  0| 
+|Rafael Devers    |1B        |      8|  2|   3|  2|  0| 
 |Maikel Garcia    |2B        |      2|  0|   2|  0|  0| 
-|Matt Chapman     |3B        |      0|  0|   2|  0|  0| 
+|Matt Chapman     |3B        |      1|  0|   2|  0|  0| 
 |Xavier Edwards   |SS        |      3|  0|   1|  0|  0| 
 |Marcus Semien    |MI        |      8|  2|   3|  0|  0| 
-|Alex Bregman     |CI        |      7|  1|   1|  0|  0| 
-|George Springer  |OF        |      6|  1|   3|  1|  3| 
-|Jakob Marsee     |OF        |      3|  2|   1|  1|  0| 
+|Alex Bregman     |CI        |      9|  2|   3|  0|  0| 
+|George Springer  |OF        |      8|  2|   5|  2|  3| 
+|Jakob Marsee     |OF        |      5|  2|   1|  1|  1| 
 |Juan Soto        |OF        |     10|  4|   4|  2|  0| 
-|Willi Castro     |OF        |      5|  1|   2|  0|  0| 
-|Christian Walker |DH        |      4|  1|   0|  0|  0| 
+|Willi Castro     |OF        |      7|  1|   3|  0|  0| 
+|Christian Walker |DH        |      5|  2|   0|  0|  0| 
 |Dominic Canzone  |DH        |      6|  2|   2|  1|  0| 
-|Jonathan Aranda  |DH        |      6|  1|   0|  0|  0| 
-|Miguel Vargas    |DH        |      1|  0|   0|  0|  0| 
+|Jonathan Aranda  |DH        |      7|  2|   3|  1|  0| 
+|Miguel Vargas    |DH        |      2|  0|   0|  0|  0| 
 |Brendan Donovan  |BAT BENCH |     **| **|  **| **| **| 
 |Francisco Lindor |BAT BENCH |     **| **|  **| **| **| 
 |Roman Anthony    |BAT BENCH |     **| **|  **| **| **| 
@@ -44,7 +44,7 @@
 |Andrew Abbott      |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Emerson Hancock    |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Joey Cantillo      |OP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Michael Soroka     |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Michael Soroka     |OP          |  1| 1.000|  0|  0.000|      2| 2.000|  0|  0|  0| 
 |Peter Lambert      |OP          |  1| 7.000|  1|  1.286|      2| 0.286|  5|  1|  0| 
 |Brandon Woodruff   |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Clayton Beeter     |PITCH BENCH |  1| 1.000|  0|  0.000|      1| 1.000|  2|  0|  0| 
