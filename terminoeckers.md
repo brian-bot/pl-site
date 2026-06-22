@@ -7,21 +7,21 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Hunter Goodman    |C         |      4|  2|   2|  1|  0| 
 |Willson Contreras |1B        |      6|  2|   1|  0|  0| 
-|Brice Turang      |2B        |      7|  2|   4|  1|  0| 
+|Brice Turang      |2B        |      8|  3|   5|  1|  0| 
 |Kazuma Okamoto    |3B        |      5|  4|   3|  1|  0| 
 |Elly De La Cruz   |SS        |     **| **|  **| **| **| 
 |Curtis Mead       |MI        |      6|  2|   5|  1|  0| 
-|Jac Caglianone    |CI        |      7|  4|   4|  2|  0| 
-|Brandon Nimmo     |OF        |      7|  1|   1|  0|  0| 
-|Jordan Walker     |OF        |      7|  0|   2|  0|  0| 
-|Kyle Stowers      |OF        |      8|  2|   5|  2|  0| 
+|Jac Caglianone    |CI        |     11|  7|   7|  4|  0| 
+|Brandon Nimmo     |OF        |      8|  1|   1|  0|  0| 
+|Jordan Walker     |OF        |      8|  0|   2|  0|  0| 
+|Kyle Stowers      |OF        |     10|  4|   6|  3|  0| 
 |Kyle Tucker       |OF        |      7|  2|   4|  1|  0| 
-|A.J. Ewing        |DH        |      6|  0|   3|  0|  0| 
-|Bryce Eldridge    |DH        |      6|  1|   2|  1|  0| 
-|Jake Burger       |DH        |      7|  2|   4|  1|  0| 
-|Wyatt Langford    |DH        |     10|  3|   5|  2|  1| 
+|A.J. Ewing        |DH        |      8|  0|   4|  0|  0| 
+|Bryce Eldridge    |DH        |      7|  1|   2|  1|  0| 
+|Jake Burger       |DH        |      9|  2|   4|  1|  0| 
+|Wyatt Langford    |DH        |     12|  4|   8|  3|  1| 
 |Addison Barger    |BAT BENCH |     **| **|  **| **| **| 
-|Carter Jensen     |BAT BENCH |      9|  3|   3|  1|  1| 
+|Carter Jensen     |BAT BENCH |     13|  6|   4|  2|  1| 
 |Dansby Swanson    |BAT BENCH |      8|  4|   3|  1|  3| 
 |Eugenio Suárez    |BAT BENCH |      3|  2|   6|  2|  0| 
 
@@ -43,7 +43,7 @@
 |Daniel Palencia |RP          |  1| 1.000|  0|  0.000|      1| 1.000|  3|  1|  0| 
 |Bryce Miller    |OP          |  1| 5.000|  1|  1.800|      3| 0.600|  7|  0|  0| 
 |Gage Jump       |OP          |  1| 7.000|  0|  0.000|      4| 0.571|  7|  1|  0| 
-|Jared Jones     |OP          |  1| 4.000|  5| 11.250|      9| 2.250|  4|  0|  0| 
+|Jared Jones     |OP          |  2| 7.000|  6|  7.714|     12| 1.714|  7|  0|  0| 
 |Ryne Nelson     |OP          |  1| 7.000|  2|  2.571|      9| 1.286|  5|  1|  0| 
 |Tanner Scott    |OP          |  2| 2.000|  0|  0.000|      0| 0.000|  3|  0|  2| 
 |Andrew Painter  |PITCH BENCH |  1| 2.000|  6| 27.000|      8| 4.000|  3|  0|  0| 

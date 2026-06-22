@@ -6,19 +6,19 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Alejandro Kirk   |C         |      1|  0|   1|  0|  0| 
-|Rafael Devers    |1B        |      8|  2|   3|  2|  0| 
+|Rafael Devers    |1B        |      9|  2|   3|  2|  0| 
 |Maikel Garcia    |2B        |      2|  0|   2|  0|  0| 
-|Matt Chapman     |3B        |      1|  0|   2|  0|  0| 
-|Xavier Edwards   |SS        |      3|  0|   1|  0|  0| 
+|Matt Chapman     |3B        |      2|  0|   2|  0|  0| 
+|Xavier Edwards   |SS        |      4|  0|   1|  0|  0| 
 |Marcus Semien    |MI        |      8|  2|   3|  0|  0| 
 |Alex Bregman     |CI        |     11|  3|   3|  0|  0| 
 |George Springer  |OF        |      9|  3|   5|  2|  3| 
 |Jakob Marsee     |OF        |      7|  3|   2|  1|  1| 
-|Juan Soto        |OF        |     11|  4|   4|  2|  0| 
-|Willi Castro     |OF        |      7|  1|   3|  0|  0| 
-|Christian Walker |DH        |      6|  2|   0|  0|  0| 
-|Dominic Canzone  |DH        |      6|  2|   2|  1|  0| 
-|Jonathan Aranda  |DH        |      9|  2|   3|  1|  0| 
+|Juan Soto        |OF        |     13|  4|   4|  2|  0| 
+|Willi Castro     |OF        |      8|  2|   3|  0|  0| 
+|Christian Walker |DH        |      7|  2|   0|  0|  0| 
+|Dominic Canzone  |DH        |      7|  3|   4|  2|  0| 
+|Jonathan Aranda  |DH        |     11|  2|   3|  1|  0| 
 |Miguel Vargas    |DH        |      2|  0|   0|  0|  0| 
 |Brendan Donovan  |BAT BENCH |     **| **|  **| **| **| 
 |Francisco Lindor |BAT BENCH |     **| **|  **| **| **| 
@@ -35,7 +35,7 @@
 |:------------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
 |Chris Sale         |SP          |  1| 5.667|  0|  0.000|      6| 1.059|  7|  0|  0| 
 |Cristopher Sánchez |SP          |  1| 6.000|  1|  1.500|      6| 1.000|  5|  1|  0| 
-|Emmet Sheehan      |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Emmet Sheehan      |SP          |  1| 3.333|  6| 16.200|     11| 3.300|  4|  0|  0| 
 |Jesús Luzardo      |SP          |  1| 7.000|  2|  2.571|      7| 1.000|  9|  1|  0| 
 |Merrill Kelly      |SP          |  1| 5.333|  6| 10.125|     12| 2.250|  4|  0|  0| 
 |Shane McClanahan   |SP          |  1| 3.667|  2|  4.909|      8| 2.182|  3|  0|  0| 
