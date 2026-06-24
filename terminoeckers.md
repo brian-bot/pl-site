@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Hunter Goodman    |C         |      5|  3|   2|  1|  0| 
-|Willson Contreras |1B        |      7|  3|   2|  0|  0| 
-|Brice Turang      |2B        |     10|  3|   5|  1|  0| 
-|Kazuma Okamoto    |3B        |      8|  5|   4|  2|  0| 
-|Elly De La Cruz   |SS        |     **| **|  **| **| **| 
+|Hunter Goodman    |C         |      6|  3|   2|  1|  0| 
+|Willson Contreras |1B        |      9|  3|   2|  0|  0| 
+|Brice Turang      |2B        |     12|  4|   5|  1|  1| 
+|Kazuma Okamoto    |3B        |     13|  6|   7|  2|  0| 
+|Elly De La Cruz   |SS        |      0|  0|   0|  0|  0| 
 |Curtis Mead       |MI        |      7|  3|   7|  2|  0| 
-|Jac Caglianone    |CI        |     11|  7|   7|  4|  0| 
-|Brandon Nimmo     |OF        |     12|  3|   1|  0|  1| 
-|Jordan Walker     |OF        |      8|  0|   2|  0|  0| 
-|Kyle Stowers      |OF        |     11|  4|   7|  3|  0| 
+|Jac Caglianone    |CI        |     14| 10|  10|  6|  0| 
+|Brandon Nimmo     |OF        |     14|  4|   3|  1|  1| 
+|Jordan Walker     |OF        |     10|  0|   2|  0|  0| 
+|Kyle Stowers      |OF        |     12|  4|   7|  3|  0| 
 |Kyle Tucker       |OF        |      8|  2|   4|  1|  0| 
-|A.J. Ewing        |DH        |      8|  0|   4|  0|  0| 
-|Bryce Eldridge    |DH        |      7|  1|   2|  1|  0| 
+|A.J. Ewing        |DH        |      9|  0|   4|  0|  0| 
+|Bryce Eldridge    |DH        |      8|  2|   2|  1|  0| 
 |Jake Burger       |DH        |     11|  3|   4|  1|  0| 
-|Wyatt Langford    |DH        |     13|  4|   8|  3|  1| 
+|Wyatt Langford    |DH        |     15|  5|   8|  3|  1| 
 |Addison Barger    |BAT BENCH |     **| **|  **| **| **| 
-|Carter Jensen     |BAT BENCH |     14|  6|   5|  2|  1| 
-|Dansby Swanson    |BAT BENCH |      8|  4|   3|  1|  3| 
+|Carter Jensen     |BAT BENCH |     16|  7|   5|  2|  1| 
+|Dansby Swanson    |BAT BENCH |     10|  5|   7|  2|  3| 
 |Eugenio Suárez    |BAT BENCH |      3|  2|   6|  2|  0| 
 
 
