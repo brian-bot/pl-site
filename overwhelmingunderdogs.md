@@ -6,22 +6,22 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Alejandro Kirk   |C         |      2|  0|   2|  0|  0| 
-|Rafael Devers    |1B        |     10|  2|   4|  2|  0| 
+|Rafael Devers    |1B        |     11|  3|   5|  3|  0| 
 |Maikel Garcia    |2B        |      3|  0|   2|  0|  0| 
-|Matt Chapman     |3B        |      3|  0|   3|  0|  0| 
-|Xavier Edwards   |SS        |      9|  1|   2|  0|  0| 
-|Marcus Semien    |MI        |      9|  3|   3|  0|  0| 
-|Alex Bregman     |CI        |     11|  3|   3|  0|  0| 
+|Matt Chapman     |3B        |      4|  0|   3|  0|  0| 
+|Xavier Edwards   |SS        |     10|  1|   3|  0|  0| 
+|Marcus Semien    |MI        |     10|  3|   3|  0|  0| 
+|Alex Bregman     |CI        |     13|  3|   3|  0|  0| 
 |George Springer  |OF        |     14|  5|   5|  2|  3| 
 |Jakob Marsee     |OF        |      9|  3|   2|  1|  1| 
 |Juan Soto        |OF        |     13|  4|   4|  2|  0| 
-|Willi Castro     |OF        |     11|  3|   4|  1|  0| 
+|Willi Castro     |OF        |     14|  5|   4|  1|  1| 
 |Christian Walker |DH        |      8|  2|   0|  0|  0| 
 |Dominic Canzone  |DH        |      7|  3|   4|  2|  0| 
-|Jonathan Aranda  |DH        |     15|  3|   4|  1|  0| 
-|Miguel Vargas    |DH        |      4|  1|   1|  1|  0| 
+|Jonathan Aranda  |DH        |     17|  3|   5|  1|  0| 
+|Miguel Vargas    |DH        |      7|  1|   1|  1|  0| 
 |Brendan Donovan  |BAT BENCH |     **| **|  **| **| **| 
-|Francisco Lindor |BAT BENCH |     **| **|  **| **| **| 
+|Francisco Lindor |BAT BENCH |      0|  0|   0|  0|  0| 
 |Roman Anthony    |BAT BENCH |     **| **|  **| **| **| 
 |Trent Grisham    |BAT BENCH |     **| **|  **| **| **| 
 |Will Smith       |BAT BENCH |     **| **|  **| **| **| 
@@ -39,7 +39,7 @@
 |Jesús Luzardo      |SP          |  2| 13.667|  7|  4.610|     16| 1.171| 22|  1|  0| 
 |Merrill Kelly      |SP          |  2| 11.333|  9|  7.147|     22| 1.941|  6|  0|  0| 
 |Shane McClanahan   |SP          |  2|  9.667|  4|  3.724|     15| 1.552|  7|  0|  0| 
-|Cade Smith         |RP          |  2|  3.000|  2|  6.000|      5| 1.667|  5|  0|  1| 
+|Cade Smith         |RP          |  3|  3.667|  4|  9.818|      9| 2.455|  6|  0|  1| 
 |Trevor Megill      |RP          |  4|  4.000|  0|  0.000|      0| 0.000|  4|  1|  2| 
 |Andrew Abbott      |OP          |  1|  5.000|  1|  1.800|      8| 1.600|  6|  1|  0| 
 |Emerson Hancock    |OP          |  1|  5.333|  5|  8.438|      6| 1.125|  6|  0|  0| 

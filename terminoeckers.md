@@ -5,25 +5,25 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Hunter Goodman    |C         |      6|  3|   2|  1|  0| 
-|Willson Contreras |1B        |      9|  3|   2|  0|  0| 
-|Brice Turang      |2B        |     12|  4|   5|  1|  1| 
+|Hunter Goodman    |C         |      7|  4|   2|  1|  0| 
+|Willson Contreras |1B        |     10|  3|   3|  0|  0| 
+|Brice Turang      |2B        |     13|  5|   5|  1|  1| 
 |Kazuma Okamoto    |3B        |     13|  6|   7|  2|  0| 
-|Elly De La Cruz   |SS        |      0|  0|   0|  0|  0| 
-|Curtis Mead       |MI        |      7|  3|   7|  2|  0| 
-|Jac Caglianone    |CI        |     14| 10|  10|  6|  0| 
+|Elly De La Cruz   |SS        |      3|  1|   0|  0|  0| 
+|Curtis Mead       |MI        |      8|  4|   9|  3|  0| 
+|Jac Caglianone    |CI        |     14| 11|  10|  6|  0| 
 |Brandon Nimmo     |OF        |     14|  4|   3|  1|  1| 
-|Jordan Walker     |OF        |     10|  0|   2|  0|  0| 
-|Kyle Stowers      |OF        |     12|  4|   7|  3|  0| 
+|Jordan Walker     |OF        |     11|  0|   2|  0|  0| 
+|Kyle Stowers      |OF        |     13|  4|   7|  3|  0| 
 |Kyle Tucker       |OF        |      8|  2|   4|  1|  0| 
-|A.J. Ewing        |DH        |      9|  0|   4|  0|  0| 
-|Bryce Eldridge    |DH        |      8|  2|   2|  1|  0| 
-|Jake Burger       |DH        |     11|  3|   4|  1|  0| 
-|Wyatt Langford    |DH        |     15|  5|   8|  3|  1| 
+|A.J. Ewing        |DH        |     12|  1|   6|  1|  0| 
+|Bryce Eldridge    |DH        |      9|  2|   2|  1|  0| 
+|Jake Burger       |DH        |     12|  3|   4|  1|  0| 
+|Wyatt Langford    |DH        |     17|  6|   9|  4|  2| 
 |Addison Barger    |BAT BENCH |     **| **|  **| **| **| 
-|Carter Jensen     |BAT BENCH |     16|  7|   5|  2|  1| 
-|Dansby Swanson    |BAT BENCH |     10|  5|   7|  2|  3| 
-|Eugenio Suárez    |BAT BENCH |      3|  2|   6|  2|  0| 
+|Carter Jensen     |BAT BENCH |     18|  8|   5|  2|  1| 
+|Dansby Swanson    |BAT BENCH |     15|  8|  18|  4|  4| 
+|Eugenio Suárez    |BAT BENCH |      7|  2|   7|  2|  0| 
 
 
 * * *
@@ -33,7 +33,7 @@
  
 |players         |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:---------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Bryan Woo       |SP          |  1|  7.000|  0|  0.000|      4| 0.571|  9|  1|  0| 
+|Bryan Woo       |SP          |  2| 11.000|  5|  4.091|     12| 1.091| 13|  1|  0| 
 |Bubba Chandler  |SP          |  1|  6.000|  2|  3.000|      8| 1.333|  1|  0|  0| 
 |Cam Schlittler  |SP          |  1|  6.000|  0|  0.000|      4| 0.667| 13|  1|  0| 
 |Connelly Early  |SP          |  1|  6.000|  1|  1.500|      4| 0.667|  7|  1|  0| 
@@ -42,10 +42,10 @@
 |Aroldis Chapman |RP          |  2|  1.000|  4| 36.000|      6| 6.000|  1|  0|  0| 
 |Daniel Palencia |RP          |  1|  1.000|  0|  0.000|      1| 1.000|  3|  1|  0| 
 |Bryce Miller    |OP          |  1|  5.000|  1|  1.800|      3| 0.600|  7|  0|  0| 
-|Gage Jump       |OP          |  1|  7.000|  0|  0.000|      4| 0.571|  7|  1|  0| 
+|Gage Jump       |OP          |  2| 12.000|  0|  0.000|      8| 0.667| 16|  1|  0| 
 |Jared Jones     |OP          |  2|  7.000|  6|  7.714|     12| 1.714|  7|  0|  0| 
 |Ryne Nelson     |OP          |  1|  7.000|  2|  2.571|      9| 1.286|  5|  1|  0| 
-|Tanner Scott    |OP          |  3|  3.000|  0|  0.000|      0| 0.000|  3|  0|  3| 
+|Tanner Scott    |OP          |  4|  4.000|  0|  0.000|      1| 0.250|  5|  0|  4| 
 |Andrew Painter  |PITCH BENCH |  1|  2.000|  6| 27.000|      8| 4.000|  3|  0|  0| 
 |Mick Abel       |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Robert Suarez   |PITCH BENCH |  1|  1.333|  0|  0.000|      3| 2.250|  0|  0|  0| 
