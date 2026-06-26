@@ -7,8 +7,8 @@
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Salvador Perez     |C         |      9|  4|   4|  1|  0| 
 |Andrew Vaughn      |1B        |     10|  2|   6|  0|  0| 
-|Ceddanne Rafaela   |2B        |     10|  3|   2|  0|  2| 
-|Junior Caminero    |3B        |     15|  4|   5|  1|  0| 
+|Ceddanne Rafaela   |2B        |     12|  4|   3|  0|  3| 
+|Junior Caminero    |3B        |     18|  7|  11|  4|  0| 
 |Zach Neto          |SS        |     13|  8|   7|  4|  0| 
 |CJ Abrams          |MI        |     10|  5|   4|  3|  2| 
 |Sal Stewart        |CI        |     12|  5|  13|  1|  1| 
@@ -16,10 +16,10 @@
 |James Wood         |OF        |      8|  4|   3|  0|  0| 
 |JJ Bleday          |OF        |     10|  4|   5|  1|  0| 
 |Mike Trout         |OF        |      7|  3|   4|  2|  0| 
-|Jared Young        |DH        |      3|  2|   2|  1|  0| 
-|José Caballero     |DH        |     10|  4|   6|  1|  2| 
+|Jared Young        |DH        |      5|  3|   3|  2|  0| 
+|José Caballero     |DH        |     12|  5|   7|  2|  3| 
 |Mookie Betts       |DH        |     15|  6|   3|  2|  0| 
-|Paul Goldschmidt   |DH        |     11|  6|   8|  5|  0| 
+|Paul Goldschmidt   |DH        |     14|  7|   9|  5|  0| 
 |Aaron Judge        |BAT BENCH |     **| **|  **| **| **| 
 |Ezequiel Tovar     |BAT BENCH |      4|  3|   1|  1|  0| 
 

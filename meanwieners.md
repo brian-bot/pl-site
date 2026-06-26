@@ -7,14 +7,14 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Samuel Basallo    |C         |     10|  2|   6|  2|  0| 
 |Ben Rice          |1B        |     13|  5|   6|  3|  0| 
-|Jazz Chisholm Jr. |2B        |      9|  6|   4|  3|  3| 
-|Isaac Paredes     |3B        |     18|  3|   7|  1|  0| 
-|Bo Bichette       |SS        |     16|  6|   5|  2|  0| 
+|Jazz Chisholm Jr. |2B        |     11|  7|   4|  3|  4| 
+|Isaac Paredes     |3B        |     18|  3|   8|  1|  0| 
+|Bo Bichette       |SS        |     18|  6|   5|  2|  0| 
 |Matt McLain       |MI        |      6|  2|   0|  0|  1| 
 |Alec Burleson     |CI        |     14|  3|   6|  0|  0| 
 |Andy Pages        |OF        |     13|  4|   2|  0|  1| 
 |Jo Adell          |OF        |      9|  3|   1|  0|  0| 
-|Randy Arozarena   |OF        |      0|  0|   0|  0|  0| 
+|Randy Arozarena   |OF        |      2|  0|   0|  0|  0| 
 |Wilyer Abreu      |OF        |     13|  4|   4|  2|  2| 
 |Braden Montgomery |DH        |     10|  4|   3|  1|  0| 
 |Kyle Manzardo     |DH        |     13|  3|   5|  2|  0| 
@@ -38,7 +38,7 @@
 |Will Warren        |SP          |  1|  5.667|  2| 3.176|     10| 1.765|  8|  0|  0| 
 |Yoshinobu Yamamoto |SP          |  1|  6.000|  3| 4.500|      8| 1.333|  6|  0|  0| 
 |Alex Vesia         |RP          |  4|  3.333|  0| 0.000|      6| 1.800|  6|  0|  1| 
-|Devin Williams     |RP          |  2|  2.000|  0| 0.000|      5| 2.500|  2|  0|  1| 
+|Devin Williams     |RP          |  3|  3.000|  0| 0.000|      5| 1.667|  3|  0|  1| 
 |Aaron Nola         |OP          |  2| 10.000|  4| 3.600|     13| 1.300| 11|  0|  0| 
 |Christian Scott    |OP          | **|     **| **|    **|     **|    **| **| **| **| 
 |Edward Cabrera     |OP          |  2|  9.333|  7| 6.750|     12| 1.286|  7|  1|  0| 
@@ -48,7 +48,7 @@
 |Brandon Sproat     |PITCH BENCH |  2|  9.667|  4| 3.724|      5| 0.517| 16|  1|  0| 
 |Cole Ragans        |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 |Eduardo Rodriguez  |PITCH BENCH |  2| 13.667|  1| 0.659|     15| 1.098| 10|  1|  0| 
-|Matthew Boyd       |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
+|Matthew Boyd       |PITCH BENCH |  1|  4.667|  0| 0.000|      8| 1.714|  4|  0|  0| 
 
 
 * * *

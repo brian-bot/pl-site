@@ -5,23 +5,23 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|Cal Raleigh           |C         |     11|  2|   3|  1|  0| 
+|Cal Raleigh           |C         |     13|  2|   3|  1|  0| 
 |Matt Olson            |1B        |     12|  2|   1|  0|  0| 
 |Ozzie Albies          |2B        |     11|  6|   5|  2|  0| 
 |Josh Jung             |3B        |     11|  4|   1|  0|  0| 
-|Willy Adames          |SS        |      5|  4|   2|  2|  0| 
+|Willy Adames          |SS        |      7|  6|   3|  3|  0| 
 |Zack Gelof            |MI        |     12|  9|   4|  2|  1| 
 |Vladimir Guerrero Jr. |CI        |      9|  5|   5|  1|  1| 
-|Brandon Marsh         |OF        |     13|  8|   6|  3|  1| 
+|Brandon Marsh         |OF        |     16| 10|   9|  4|  2| 
 |Christian Yelich      |OF        |      8|  4|   2|  1|  0| 
 |Cody Bellinger        |OF        |     16|  5|   4|  1|  2| 
-|Pete Crow-Armstrong   |OF        |     22|  7|  11|  5|  2| 
+|Pete Crow-Armstrong   |OF        |     24|  7|  12|  5|  2| 
 |Gabriel Moreno        |DH        |     12|  2|   3|  0|  0| 
-|Jasson Domínguez      |DH        |      8|  2|   2|  1|  4| 
+|Jasson Domínguez      |DH        |      9|  2|   3|  1|  4| 
 |Lars Nootbaar         |DH        |     15|  7|   2|  0|  0| 
 |Noelvi Marte          |DH        |      7|  2|   1|  0|  0| 
 |Angel Martínez        |BAT BENCH |     **| **|  **| **| **| 
-|J.P. Crawford         |BAT BENCH |      9|  2|   0|  0|  0| 
+|J.P. Crawford         |BAT BENCH |     10|  2|   1|  0|  0| 
 |José Ramírez          |BAT BENCH |     **| **|  **| **| **| 
 |Xander Bogaerts       |BAT BENCH |     15|  3|   3|  0|  1| 
 
@@ -43,7 +43,7 @@
 |Raisel Iglesias |RP          |  2|  2.000|  1|  4.500|      5| 2.500|  2|  0|  1| 
 |Alex Lange      |OP          |  3|  2.333|  0|  0.000|      1| 0.429|  1|  0|  2| 
 |Brandon Young   |OP          |  2| 11.000|  4|  3.273|     15| 1.364|  7|  1|  0| 
-|Cade Cavalli    |OP          |  1|  2.667|  2|  6.750|      9| 3.375|  1|  0|  0| 
+|Cade Cavalli    |OP          |  2|  8.667|  4|  4.154|     15| 1.731|  8|  0|  0| 
 |J.T. Ginn       |OP          |  2| 11.333|  4|  3.176|     18| 1.588|  8|  1|  0| 
 |Ryan Weathers   |OP          |  2| 12.333|  2|  1.459|     12| 0.973| 14|  1|  0| 
 |Emilio Pagán    |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 

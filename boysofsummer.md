@@ -6,16 +6,16 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |William Contreras |C         |     17|  6|   5|  2|  0| 
-|Nick Kurtz        |1B        |     15|  7|   9|  3|  0| 
+|Nick Kurtz        |1B        |     16|  7|  10|  3|  0| 
 |Ketel Marte       |2B        |     16|  4|   6|  2|  1| 
-|Casey Schmitt     |3B        |     13|  2|   4|  1|  1| 
-|Trea Turner       |SS        |     13|  8|   2|  0|  1| 
+|Casey Schmitt     |3B        |     14|  3|   4|  1|  1| 
+|Trea Turner       |SS        |     15|  9|   2|  0|  1| 
 |Otto Lopez        |MI        |     15|  7|   4|  1|  3| 
 |Spencer Horwitz   |CI        |     15|  7|   2|  1|  0| 
 |Byron Buxton      |OF        |     11|  7|   6|  3|  1| 
-|Jung Hoo Lee      |OF        |     11|  5|   3|  2|  2| 
+|Jung Hoo Lee      |OF        |     12|  6|   6|  2|  2| 
 |Michael Harris II |OF        |      7|  3|   1|  0|  1| 
-|Riley Greene      |OF        |     14|  4|   1|  1|  0| 
+|Riley Greene      |OF        |     16|  4|   1|  1|  0| 
 |Iván Herrera      |DH        |     18|  7|   4|  1|  1| 
 |Jake Bauers       |DH        |     13|  5|   2|  1|  0| 
 |Nolan Arenado     |DH        |      8|  4|   2|  0|  1| 
@@ -32,7 +32,7 @@
 |players         |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:---------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Davis Martin    |SP          |  2|  9.333| 10|  9.643|     19| 2.036|  8|  0|  0| 
-|MacKenzie Gore  |SP          |  2| 13.000|  5|  3.462|     13| 1.000| 16|  0|  0| 
+|MacKenzie Gore  |SP          |  3| 20.000|  8|  3.600|     18| 0.900| 21|  1|  0| 
 |Nick Martinez   |SP          |  2| 11.333|  6|  4.765|     13| 1.147| 11|  0|  0| 
 |Nolan McLean    |SP          |  2| 13.000|  6|  4.154|     13| 1.000| 18|  1|  0| 
 |Tarik Skubal    |SP          |  2| 11.667|  7|  5.400|     12| 1.029| 17|  0|  0| 
