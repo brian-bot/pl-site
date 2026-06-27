@@ -5,25 +5,25 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Hunter Goodman    |C         |      7|  4|   2|  1|  0| 
-|Willson Contreras |1B        |     10|  4|   3|  0|  0| 
-|Brice Turang      |2B        |     13|  5|   5|  1|  1| 
-|Kazuma Okamoto    |3B        |     15|  8|   9|  3|  0| 
-|Elly De La Cruz   |SS        |      3|  1|   0|  0|  0| 
-|Curtis Mead       |MI        |      9|  5|  10|  4|  0| 
-|Jac Caglianone    |CI        |     14| 11|  10|  6|  0| 
-|Brandon Nimmo     |OF        |     15|  4|   3|  1|  1| 
-|Jordan Walker     |OF        |     11|  0|   2|  0|  0| 
-|Kyle Stowers      |OF        |     13|  4|   7|  3|  0| 
+|Hunter Goodman    |C         |      8|  5|   5|  2|  0| 
+|Willson Contreras |1B        |     13|  5|   5|  1|  0| 
+|Brice Turang      |2B        |     12|  5|   5|  1|  1| 
+|Kazuma Okamoto    |3B        |     17|  9|  11|  4|  0| 
+|Elly De La Cruz   |SS        |      3|  1|   1|  0|  0| 
+|Curtis Mead       |MI        |     10|  5|  10|  4|  0| 
+|Jac Caglianone    |CI        |     16| 11|  10|  6|  0| 
+|Brandon Nimmo     |OF        |     16|  5|   4|  1|  1| 
+|Jordan Walker     |OF        |     12|  0|   2|  0|  0| 
+|Kyle Stowers      |OF        |     14|  4|   8|  3|  0| 
 |Kyle Tucker       |OF        |      8|  2|   4|  1|  0| 
-|A.J. Ewing        |DH        |     14|  2|   6|  1|  1| 
-|Bryce Eldridge    |DH        |     10|  3|   2|  1|  0| 
-|Jake Burger       |DH        |     14|  4|   6|  2|  0| 
-|Wyatt Langford    |DH        |     18|  7|  12|  5|  2| 
+|A.J. Ewing        |DH        |     16|  2|   6|  1|  1| 
+|Bryce Eldridge    |DH        |     11|  3|   2|  1|  0| 
+|Jake Burger       |DH        |     16|  5|   6|  2|  0| 
+|Wyatt Langford    |DH        |     21|  8|  12|  5|  3| 
 |Addison Barger    |BAT BENCH |     **| **|  **| **| **| 
-|Carter Jensen     |BAT BENCH |     19|  9|   7|  3|  1| 
+|Carter Jensen     |BAT BENCH |     20|  9|   7|  3|  1| 
 |Dansby Swanson    |BAT BENCH |     15|  9|  18|  4|  4| 
-|Eugenio Suárez    |BAT BENCH |      7|  2|   7|  2|  0| 
+|Eugenio Suárez    |BAT BENCH |      8|  3|   7|  2|  0| 
 
 
 * * *
