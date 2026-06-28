@@ -6,21 +6,21 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Liam Hicks         |C         |      6|  1|   2|  0|  0| 
-|Josh Naylor        |1B        |     10|  1|   1|  0|  1| 
+|Josh Naylor        |1B        |     11|  1|   1|  0|  1| 
 |Gleyber Torres     |2B        |      0|  0|   0|  0|  0| 
-|JJ Wetherholt      |3B        |     16|  4|   3|  2|  1| 
-|Geraldo Perdomo    |SS        |     16|  6|   4|  1|  0| 
-|Bryson Stott       |MI        |     17| 10|   7|  1|  4| 
-|Spencer Torkelson  |CI        |     13|  5|   3|  1|  0| 
-|Corbin Carroll     |OF        |     14|  5|   8|  1|  1| 
-|Daylen Lile        |OF        |      8|  1|   1|  0|  0| 
-|Ryan O'Hearn       |OF        |     14|  4|  10|  1|  0| 
-|Taylor Ward        |OF        |     14|  8|   2|  2|  0| 
+|JJ Wetherholt      |3B        |     18|  4|   3|  2|  1| 
+|Geraldo Perdomo    |SS        |     19|  7|   4|  1|  0| 
+|Bryson Stott       |MI        |     18| 10|   7|  1|  4| 
+|Spencer Torkelson  |CI        |     15|  6|   4|  1|  0| 
+|Corbin Carroll     |OF        |     15|  5|   9|  1|  1| 
+|Daylen Lile        |OF        |     10|  2|   2|  0|  0| 
+|Ryan O'Hearn       |OF        |     15|  4|  11|  1|  0| 
+|Taylor Ward        |OF        |     15|  8|   2|  2|  0| 
 |Adley Rutschman    |DH        |      1|  0|   0|  0|  0| 
-|Jackson Chourio    |DH        |     12|  5|   4|  1|  0| 
+|Jackson Chourio    |DH        |     13|  6|   5|  2|  1| 
 |Jacob Young        |DH        |      5|  1|   2|  0|  2| 
-|Jose Altuve        |DH        |     13|  5|   6|  2|  0| 
-|Mickey Moniak      |BAT BENCH |      2|  1|   1|  0|  0| 
+|Jose Altuve        |DH        |     14|  5|   6|  2|  0| 
+|Mickey Moniak      |BAT BENCH |      2|  1|   2|  0|  0| 
 |Munetaka Murakami  |BAT BENCH |     **| **|  **| **| **| 
 |Vinnie Pasquantino |BAT BENCH |     **| **|  **| **| **| 
 
@@ -47,7 +47,7 @@
 |Tony Santillan |OP          |  3|  4.000|  1|  2.250|      2| 0.500|  3|  0|  2| 
 |Bailey Ober    |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Max Fried      |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Ryan Helsley   |PITCH BENCH |  4|  3.667|  4|  9.818|      6| 1.636|  5|  0|  1| 
+|Ryan Helsley   |PITCH BENCH |  5|  4.667|  4|  7.714|      8| 1.714|  6|  0|  1| 
 |Seth Lugo      |PITCH BENCH |  2| 11.000|  8|  6.545|     17| 1.545|  3|  1|  0| 
 
 

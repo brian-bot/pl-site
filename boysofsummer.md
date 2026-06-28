@@ -6,19 +6,19 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |William Contreras |C         |     20|  7|   7|  3|  0| 
-|Nick Kurtz        |1B        |     18|  9|  12|  3|  0| 
-|Ketel Marte       |2B        |     16|  4|   6|  2|  1| 
-|Casey Schmitt     |3B        |     14|  4|   4|  1|  1| 
-|Trea Turner       |SS        |     17| 10|   3|  0|  1| 
-|Otto Lopez        |MI        |     15|  7|   4|  1|  3| 
+|Nick Kurtz        |1B        |     19| 10|  12|  3|  0| 
+|Ketel Marte       |2B        |     17|  5|   7|  3|  1| 
+|Casey Schmitt     |3B        |     15|  5|   4|  1|  1| 
+|Trea Turner       |SS        |     18| 11|   3|  0|  1| 
+|Otto Lopez        |MI        |     17|  8|   5|  1|  3| 
 |Spencer Horwitz   |CI        |     15|  7|   2|  1|  0| 
-|Byron Buxton      |OF        |     14|  9|   8|  3|  1| 
+|Byron Buxton      |OF        |     15|  9|   8|  3|  1| 
 |Jung Hoo Lee      |OF        |     12|  6|   6|  2|  2| 
-|Michael Harris II |OF        |      8|  3|   1|  0|  1| 
-|Riley Greene      |OF        |     16|  4|   1|  1|  0| 
-|Iván Herrera      |DH        |     19|  7|   4|  1|  1| 
+|Michael Harris II |OF        |      9|  3|   1|  0|  2| 
+|Riley Greene      |OF        |     18|  4|   1|  1|  0| 
+|Iván Herrera      |DH        |     20|  7|   4|  1|  1| 
 |Jake Bauers       |DH        |     15|  6|   2|  1|  0| 
-|Nolan Arenado     |DH        |     10|  4|   2|  0|  1| 
+|Nolan Arenado     |DH        |     11|  4|   2|  0|  1| 
 |Troy Johnston     |DH        |      8|  0|   1|  0|  0| 
 |Heliot Ramos      |BAT BENCH |     **| **|  **| **| **| 
 |Ryan Waldschmidt  |BAT BENCH |     **| **|  **| **| **| 
@@ -31,7 +31,7 @@
  
 |players         |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:---------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Davis Martin    |SP          |  2|  9.333| 10|  9.643|     19| 2.036|  8|  0|  0| 
+|Davis Martin    |SP          |  3| 14.667| 10|  6.136|     24| 1.636| 11|  0|  0| 
 |MacKenzie Gore  |SP          |  3| 20.000|  8|  3.600|     18| 0.900| 21|  1|  0| 
 |Nick Martinez   |SP          |  3| 17.000|  7|  3.706|     19| 1.118| 14|  1|  0| 
 |Nolan McLean    |SP          |  2| 13.000|  6|  4.154|     13| 1.000| 18|  1|  0| 
