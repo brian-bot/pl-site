@@ -5,22 +5,22 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras |C         |     20|  7|   7|  3|  0| 
-|Nick Kurtz        |1B        |     19| 10|  12|  3|  0| 
-|Ketel Marte       |2B        |     19|  6|   8|  4|  1| 
-|Casey Schmitt     |3B        |     15|  5|   4|  1|  1| 
-|Trea Turner       |SS        |     19| 12|   3|  0|  2| 
-|Otto Lopez        |MI        |     17|  8|   5|  1|  3| 
+|William Contreras |C         |     21|  7|   7|  3|  0| 
+|Nick Kurtz        |1B        |     21| 10|  12|  3|  0| 
+|Ketel Marte       |2B        |     21|  8|   9|  5|  1| 
+|Casey Schmitt     |3B        |     15|  5|   5|  1|  1| 
+|Trea Turner       |SS        |     21| 14|   4|  1|  2| 
+|Otto Lopez        |MI        |     19|  9|   6|  2|  3| 
 |Spencer Horwitz   |CI        |     15|  7|   2|  1|  0| 
 |Byron Buxton      |OF        |     15|  9|   8|  3|  1| 
 |Jung Hoo Lee      |OF        |     13|  6|   7|  2|  2| 
 |Michael Harris II |OF        |      9|  3|   2|  0|  2| 
 |Riley Greene      |OF        |     18|  5|   1|  1|  0| 
 |Iván Herrera      |DH        |     20|  7|   4|  1|  1| 
-|Jake Bauers       |DH        |     15|  6|   2|  1|  0| 
-|Nolan Arenado     |DH        |     11|  4|   2|  0|  1| 
-|Troy Johnston     |DH        |     10|  0|   2|  0|  0| 
-|Heliot Ramos      |BAT BENCH |      2|  1|   0|  0|  0| 
+|Jake Bauers       |DH        |     16|  6|   3|  1|  0| 
+|Nolan Arenado     |DH        |     14|  6|   3|  1|  1| 
+|Troy Johnston     |DH        |     12|  1|   2|  0|  0| 
+|Heliot Ramos      |BAT BENCH |      3|  2|   1|  1|  0| 
 |Ryan Waldschmidt  |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -36,8 +36,8 @@
 |Nick Martinez   |SP          |  3| 17.000|  7|  3.706|     19| 1.118| 14|  1|  0| 
 |Nolan McLean    |SP          |  2| 13.000|  6|  4.154|     13| 1.000| 18|  1|  0| 
 |Tarik Skubal    |SP          |  2| 11.667|  7|  5.400|     12| 1.029| 17|  0|  0| 
-|Trey Yesavage   |SP          |  2| 13.000|  4|  2.769|     11| 0.846| 11|  0|  0| 
-|Mason Miller    |RP          |  3|  4.000|  0|  0.000|      3| 0.750|  7|  1|  2| 
+|Trey Yesavage   |SP          |  3| 19.667|  5|  2.288|     14| 0.712| 14|  1|  0| 
+|Mason Miller    |RP          |  4|  4.667|  0|  0.000|      5| 1.071|  7|  1|  2| 
 |Riley O'Brien   |RP          |  4|  4.000|  2|  4.500|      3| 0.750|  2|  0|  3| 
 |Carlos Rodón    |OP          |  3| 15.333|  6|  3.522|     21| 1.370| 18|  2|  0| 
 |Hogan Harris    |OP          |  5|  4.000|  5| 11.250|     10| 2.500|  8|  0|  0| 
