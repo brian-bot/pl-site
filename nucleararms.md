@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Shea Langeliers   |C         |     15|  3|   7|  1|  1| 
-|Yandy Díaz        |1B        |     28| 11|   7|  0|  0| 
+|Shea Langeliers   |C         |     16|  4|   7|  1|  1| 
+|Yandy Díaz        |1B        |     30| 12|   7|  0|  0| 
 |Jackson Holliday  |2B        |      9|  4|   3|  2|  0| 
 |Austin Riley      |3B        |     13|  2|   3|  0|  0| 
-|Gunnar Henderson  |SS        |     17|  7|   5|  2|  0| 
-|Colson Montgomery |MI        |     14|  6|   7|  3|  0| 
-|Pete Alonso       |CI        |     20|  9|  10|  3|  0| 
+|Gunnar Henderson  |SS        |     19|  9|   5|  2|  0| 
+|Colson Montgomery |MI        |     15|  7|   9|  4|  0| 
+|Pete Alonso       |CI        |     22|  9|  11|  3|  0| 
 |Bryan Reynolds    |OF        |     26| 12|  10|  3|  0| 
-|Jake McCarthy     |OF        |     23|  9|   9|  2|  2| 
+|Jake McCarthy     |OF        |     23|  9|  10|  2|  2| 
 |Ronald Acuña Jr.  |OF        |     **| **|  **| **| **| 
-|Seiya Suzuki      |OF        |     23|  8|  11|  2|  0| 
-|Blaze Jordan      |DH        |      9|  3|   8|  0|  0| 
-|Dillon Dingler    |DH        |     18| 11|   9|  3|  0| 
+|Seiya Suzuki      |OF        |     25|  9|  11|  2|  0| 
+|Blaze Jordan      |DH        |      9|  3|   9|  0|  0| 
+|Dillon Dingler    |DH        |     20| 12|   9|  3|  0| 
 |Luke Keaschall    |DH        |     17|  8|   1|  0|  2| 
-|TJ Rumfield       |DH        |     24|  6|  11|  3|  0| 
+|TJ Rumfield       |DH        |     26|  6|  11|  3|  0| 
 |Giancarlo Stanton |BAT BENCH |     **| **|  **| **| **| 
-|Teoscar Hernández |BAT BENCH |      2|  1|   0|  0|  0| 
+|Teoscar Hernández |BAT BENCH |      3|  2|   1|  0|  0| 
 
 
 * * *
@@ -37,8 +37,8 @@
 |Roki Sasaki     |SP          |  2|  9.667|  6| 5.586|     13| 1.345|  8|  0|  0| 
 |Sandy Alcantara |SP          |  3| 18.333|  8| 3.927|     29| 1.582| 13|  3|  0| 
 |Taj Bradley     |SP          |  2| 12.000|  4| 3.000|     11| 0.917| 11|  1|  0| 
-|Elvis Alvarado  |RP          |  6|  7.333|  5| 6.136|      6| 0.818|  7|  1|  0| 
-|Josh Hader      |RP          |  7|  7.000|  1| 1.286|      6| 0.857| 12|  1|  5| 
+|Elvis Alvarado  |RP          |  7|  8.000|  5| 5.625|      6| 0.750|  7|  1|  0| 
+|Josh Hader      |RP          |  8|  8.000|  1| 1.125|      6| 0.750| 14|  1|  6| 
 |Andre Pallante  |OP          |  3| 19.667|  8| 3.661|     22| 1.119| 12|  2|  0| 
 |Slade Cecconi   |OP          |  3| 17.667|  3| 1.528|     18| 1.019|  9|  1|  0| 
 |Tatsuya Imai    |OP          |  2| 12.000|  3| 2.250|      9| 0.750| 21|  2|  0| 

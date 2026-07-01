@@ -5,20 +5,20 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Alejandro Kirk   |C         |      4|  2|   3|  1|  0| 
-|Rafael Devers    |1B        |     16|  5|  10|  5|  0| 
+|Alejandro Kirk   |C         |      5|  2|   3|  1|  0| 
+|Rafael Devers    |1B        |     19|  6|  11|  6|  0| 
 |Maikel Garcia    |2B        |      3|  0|   2|  0|  0| 
 |Matt Chapman     |3B        |     10|  0|   3|  0|  0| 
-|Xavier Edwards   |SS        |     18|  3|   4|  0|  2| 
+|Xavier Edwards   |SS        |     22|  5|   5|  0|  2| 
 |Marcus Semien    |MI        |     10|  3|   3|  0|  0| 
-|Alex Bregman     |CI        |     21|  6|   5|  0|  0| 
-|George Springer  |OF        |     18|  8|   5|  2|  3| 
+|Alex Bregman     |CI        |     24|  7|   8|  1|  0| 
+|George Springer  |OF        |     19|  8|   5|  2|  3| 
 |Jakob Marsee     |OF        |     12|  4|   4|  1|  1| 
-|Juan Soto        |OF        |     25|  6|   5|  2|  0| 
+|Juan Soto        |OF        |     27|  6|   5|  2|  0| 
 |Willi Castro     |OF        |     16|  6|   4|  1|  1| 
-|Christian Walker |DH        |     15|  4|   4|  1|  0| 
+|Christian Walker |DH        |     17|  4|   4|  1|  0| 
 |Dominic Canzone  |DH        |     12|  5|   5|  3|  0| 
-|Jonathan Aranda  |DH        |     26|  7|   9|  2|  0| 
+|Jonathan Aranda  |DH        |     30|  8|  10|  2|  0| 
 |Miguel Vargas    |DH        |     18|  5|   8|  3|  1| 
 |Brendan Donovan  |BAT BENCH |     **| **|  **| **| **| 
 |Francisco Lindor |BAT BENCH |      4|  2|   3|  1|  0| 
@@ -34,7 +34,7 @@
 |players            |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:------------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Chris Sale         |SP          |  2| 11.667|  1| 0.771|     15| 1.286| 17|  0|  0| 
-|Cristopher Sánchez |SP          |  2| 11.000|  6| 4.909|     14| 1.273| 11|  1|  0| 
+|Cristopher Sánchez |SP          |  3| 18.000|  6| 3.000|     19| 1.056| 20|  2|  0| 
 |Emmet Sheehan      |SP          |  2|  8.333|  7| 7.560|     15| 1.800|  9|  1|  0| 
 |Jesús Luzardo      |SP          |  3| 18.667|  4| 1.929|     22| 1.179| 28|  1|  0| 
 |Merrill Kelly      |SP          |  3| 17.333| 14| 7.269|     32| 1.846|  9|  0|  0| 
