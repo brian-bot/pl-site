@@ -6,21 +6,21 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Francisco Alvarez |C         |     19|  6|   7|  4|  0| 
-|Michael Busch     |1B        |     22|  3|   4|  2|  0| 
-|Nico Hoerner      |2B        |     20|  9|   2|  0|  0| 
-|Max Muncy         |3B        |     15|  5|   9|  1|  1| 
-|Bobby Witt Jr.    |SS        |     15|  8|   8|  3|  2| 
-|Kevin McGonigle   |MI        |     30|  8|   6|  2|  2| 
-|Freddie Freeman   |CI        |     29| 10|   8|  2|  0| 
-|Henry Bolte       |OF        |     21|  6|   6|  1|  6| 
+|Michael Busch     |1B        |     24|  5|   5|  3|  0| 
+|Nico Hoerner      |2B        |     21|  9|   2|  0|  0| 
+|Max Muncy         |3B        |     16|  5|   9|  1|  1| 
+|Bobby Witt Jr.    |SS        |     16|  8|   8|  3|  2| 
+|Kevin McGonigle   |MI        |     31| 10|   7|  3|  2| 
+|Freddie Freeman   |CI        |     31| 11|   9|  3|  1| 
+|Henry Bolte       |OF        |     23|  6|   7|  1|  6| 
 |Jarren Duran      |OF        |      9|  4|   3|  1|  1| 
-|Kyle Schwarber    |OF        |     24| 13|  13|  6|  1| 
-|Spencer Steer     |OF        |     10|  7|   8|  3|  0| 
-|Bryce Harper      |DH        |     28| 10|  15|  5|  0| 
+|Kyle Schwarber    |OF        |     25| 13|  13|  6|  1| 
+|Spencer Steer     |OF        |     11|  7|   8|  3|  0| 
+|Bryce Harper      |DH        |     30| 10|  17|  5|  0| 
 |Cole Young        |DH        |     17|  8|   9|  4|  0| 
 |Corey Seager      |DH        |      6|  3|   1|  1|  0| 
 |Luis Arraez       |DH        |     21|  8|   6|  2|  1| 
-|J.T. Realmuto     |BAT BENCH |     13|  7|  10|  1|  0| 
+|J.T. Realmuto     |BAT BENCH |     14|  7|  10|  1|  0| 
 |Oneil Cruz        |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -36,7 +36,7 @@
 |Nathan Eovaldi    |SP          |  2| 13.000|  3|  2.077|     14| 1.077| 18|  2|  0| 
 |Randy Vásquez     |SP          |  2|  6.667| 10| 13.500|     20| 3.000|  2|  0|  0| 
 |Sonny Gray        |SP          |  3| 21.333|  4|  1.688|     18| 0.844| 24|  1|  0| 
-|Troy Melton       |SP          |  2| 12.000|  2|  1.500|      6| 0.500| 11|  1|  0| 
+|Troy Melton       |SP          |  3| 18.333|  2|  0.982|      9| 0.491| 18|  1|  0| 
 |Gregory Soto      |RP          |  5|  4.667|  6| 11.571|     11| 2.357|  6|  0|  1| 
 |Jacob Latz        |RP          |  7|  8.667|  2|  2.077|      6| 0.692|  8|  0|  6| 
 |Anthony Kay       |OP          |  3| 13.667|  8|  5.268|     20| 1.463| 12|  0|  0| 
@@ -47,7 +47,7 @@
 |Grayson Rodriguez |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Kumar Rocker      |PITCH BENCH |  3| 14.333|  8|  5.023|     19| 1.326| 18|  0|  0| 
 |Landen Roupp      |PITCH BENCH |  3| 14.667| 10|  6.136|     26| 1.773| 17|  0|  0| 
-|Michael McGreevy  |PITCH BENCH |  2| 11.000|  5|  4.091|     15| 1.364|  6|  0|  0| 
+|Michael McGreevy  |PITCH BENCH |  3| 17.000|  7|  3.706|     19| 1.118|  9|  0|  0| 
 |Mitch Keller      |PITCH BENCH |  3| 17.333|  7|  3.635|     22| 1.269| 15|  1|  0| 
 
 

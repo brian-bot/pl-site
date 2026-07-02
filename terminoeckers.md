@@ -5,25 +5,25 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Hunter Goodman    |C         |     13|  9|  11|  6|  0| 
-|Willson Contreras |1B        |     17|  7|  10|  2|  1| 
-|Brice Turang      |2B        |     17|  6|   6|  2|  1| 
-|Kazuma Okamoto    |3B        |     18|  9|  11|  4|  0| 
-|Elly De La Cruz   |SS        |      9|  4|   3|  1|  0| 
-|Curtis Mead       |MI        |     14|  5|  10|  4|  1| 
-|Jac Caglianone    |CI        |     16| 11|  10|  6|  0| 
+|Hunter Goodman    |C         |     14| 10|  13|  7|  0| 
+|Willson Contreras |1B        |     20|  8|  10|  2|  1| 
+|Brice Turang      |2B        |     19|  7|   6|  2|  1| 
+|Kazuma Okamoto    |3B        |     21| 10|  12|  4|  0| 
+|Elly De La Cruz   |SS        |     11|  4|   3|  1|  0| 
+|Curtis Mead       |MI        |     17|  7|  10|  4|  1| 
+|Jac Caglianone    |CI        |     18| 11|  10|  6|  0| 
 |Brandon Nimmo     |OF        |     20|  7|   4|  1|  1| 
-|Jordan Walker     |OF        |     15|  1|   2|  0|  0| 
+|Jordan Walker     |OF        |     16|  1|   3|  0|  1| 
 |Kyle Stowers      |OF        |     23|  9|  12|  3|  0| 
-|Kyle Tucker       |OF        |     16|  5|   8|  2|  0| 
+|Kyle Tucker       |OF        |     20|  5|   8|  2|  0| 
 |A.J. Ewing        |DH        |     23|  4|  10|  2|  1| 
-|Bryce Eldridge    |DH        |     14|  5|   2|  1|  0| 
-|Jake Burger       |DH        |     21|  6|  10|  2|  1| 
+|Bryce Eldridge    |DH        |     15|  5|   2|  1|  0| 
+|Jake Burger       |DH        |     22|  6|  10|  2|  1| 
 |Wyatt Langford    |DH        |     21|  8|  12|  5|  3| 
 |Addison Barger    |BAT BENCH |     **| **|  **| **| **| 
 |Carter Jensen     |BAT BENCH |     25| 10|  11|  4|  1| 
-|Dansby Swanson    |BAT BENCH |     20| 12|  21|  6|  4| 
-|Eugenio Suárez    |BAT BENCH |     12|  4|  10|  3|  0| 
+|Dansby Swanson    |BAT BENCH |     23| 16|  29|  9|  4| 
+|Eugenio Suárez    |BAT BENCH |     13|  4|  10|  3|  0| 
 
 
 * * *

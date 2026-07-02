@@ -5,23 +5,23 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez     |C         |     12|  4|   4|  1|  0| 
-|Andrew Vaughn      |1B        |     14|  3|   6|  0|  0| 
-|Ceddanne Rafaela   |2B        |     16|  6|   3|  0|  3| 
-|Junior Caminero    |3B        |     27| 11|  20|  8|  0| 
+|Salvador Perez     |C         |     13|  4|   4|  1|  0| 
+|Andrew Vaughn      |1B        |     16|  4|   6|  0|  0| 
+|Ceddanne Rafaela   |2B        |     19|  7|   3|  0|  3| 
+|Junior Caminero    |3B        |     28| 12|  22|  9|  0| 
 |Zach Neto          |SS        |     18| 11|  10|  5|  0| 
 |CJ Abrams          |MI        |     13|  6|   7|  4|  2| 
-|Sal Stewart        |CI        |     20|  9|  17|  3|  1| 
+|Sal Stewart        |CI        |     21|  9|  17|  3|  1| 
 |Fernando Tatis Jr. |OF        |     21| 10|   9|  3|  2| 
-|James Wood         |OF        |     17|  7|   6|  1|  0| 
+|James Wood         |OF        |     21|  9|   9|  2|  0| 
 |JJ Bleday          |OF        |     17|  5|   7|  1|  1| 
 |Mike Trout         |OF        |      7|  3|   4|  2|  0| 
 |Jared Young        |DH        |     10|  4|   4|  2|  0| 
-|José Caballero     |DH        |     14|  6|   7|  2|  4| 
+|José Caballero     |DH        |     15|  6|   7|  2|  4| 
 |Mookie Betts       |DH        |     24|  9|  10|  4|  0| 
 |Paul Goldschmidt   |DH        |     15|  7|  10|  5|  0| 
 |Aaron Judge        |BAT BENCH |     **| **|  **| **| **| 
-|Ezequiel Tovar     |BAT BENCH |      8|  5|   3|  1|  1| 
+|Ezequiel Tovar     |BAT BENCH |      8|  6|   3|  1|  1| 
 
 
 * * *
