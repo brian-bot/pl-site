@@ -9,17 +9,17 @@
 |Rafael Devers    |1B        |     21|  7|  11|  6|  0| 
 |Maikel Garcia    |2B        |      3|  0|   2|  0|  0| 
 |Matt Chapman     |3B        |     10|  0|   3|  0|  0| 
-|Xavier Edwards   |SS        |     22|  5|   5|  0|  2| 
+|Xavier Edwards   |SS        |     23|  5|   7|  0|  2| 
 |Marcus Semien    |MI        |     10|  3|   3|  0|  0| 
 |Alex Bregman     |CI        |     25|  8|   8|  1|  0| 
 |George Springer  |OF        |     19|  8|   5|  2|  3| 
-|Jakob Marsee     |OF        |     12|  4|   4|  1|  1| 
+|Jakob Marsee     |OF        |     13|  5|   4|  1|  1| 
 |Juan Soto        |OF        |     27|  6|   5|  2|  0| 
-|Willi Castro     |OF        |     16|  6|   4|  1|  1| 
+|Willi Castro     |OF        |     18|  7|   6|  1|  1| 
 |Christian Walker |DH        |     18|  4|   4|  1|  0| 
-|Dominic Canzone  |DH        |     12|  5|   5|  3|  0| 
-|Jonathan Aranda  |DH        |     33|  9|  10|  2|  0| 
-|Miguel Vargas    |DH        |     18|  5|   8|  3|  1| 
+|Dominic Canzone  |DH        |     13|  5|   5|  3|  0| 
+|Jonathan Aranda  |DH        |     34|  9|  10|  2|  0| 
+|Miguel Vargas    |DH        |     19|  6|   8|  3|  1| 
 |Brendan Donovan  |BAT BENCH |     **| **|  **| **| **| 
 |Francisco Lindor |BAT BENCH |      6|  3|   4|  2|  0| 
 |Roman Anthony    |BAT BENCH |     **| **|  **| **| **| 

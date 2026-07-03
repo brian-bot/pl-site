@@ -10,16 +10,16 @@
 |Jazz Chisholm Jr. |2B        |     13|  8|   4|  3|  6| 
 |Isaac Paredes     |3B        |     28|  7|  12|  2|  0| 
 |Bo Bichette       |SS        |     24|  8|   6|  2|  0| 
-|Matt McLain       |MI        |      8|  2|   0|  0|  1| 
-|Alec Burleson     |CI        |     16|  3|   6|  0|  0| 
-|Andy Pages        |OF        |     26| 10|   4|  1|  1| 
+|Matt McLain       |MI        |      8|  3|   0|  0|  1| 
+|Alec Burleson     |CI        |     17|  5|   7|  1|  0| 
+|Andy Pages        |OF        |     28| 11|   6|  1|  1| 
 |Jo Adell          |OF        |     15|  5|   5|  1|  0| 
-|Randy Arozarena   |OF        |     10|  4|   4|  1|  0| 
+|Randy Arozarena   |OF        |     13|  4|   4|  1|  0| 
 |Wilyer Abreu      |OF        |     20|  7|   5|  2|  2| 
-|Braden Montgomery |DH        |     19|  7|   4|  1|  0| 
-|Kyle Manzardo     |DH        |     17|  6|   7|  3|  0| 
-|Sam Antonacci     |DH        |     26| 12|   6|  3|  2| 
-|Shohei Ohtani     |DH        |     18| 10|   9|  4|  0| 
+|Braden Montgomery |DH        |     21|  8|   4|  1|  0| 
+|Kyle Manzardo     |DH        |     19|  6|   7|  3|  0| 
+|Sam Antonacci     |DH        |     28| 13|   7|  3|  2| 
+|Shohei Ohtani     |DH        |     20| 10|   9|  4|  0| 
 |Brent Rooker      |BAT BENCH |     **| **|  **| **| **| 
 |Brooks Lee        |BAT BENCH |     22| 11|   8|  3|  2| 
 
@@ -37,7 +37,7 @@
 |Shota Imanaga      |SP          |  3| 17.333|  7| 3.635|     20| 1.154| 11|  1|  0| 
 |Will Warren        |SP          |  3| 16.667|  9| 4.860|     25| 1.500| 15|  0|  0| 
 |Yoshinobu Yamamoto |SP          |  2| 12.000|  5| 3.750|     15| 1.250| 10|  1|  0| 
-|Alex Vesia         |RP          |  6|  4.667|  1| 1.929|      7| 1.500|  8|  0|  1| 
+|Alex Vesia         |RP          |  7|  5.667|  1| 1.588|      8| 1.412|  9|  0|  1| 
 |Devin Williams     |RP          |  5|  5.000|  0| 0.000|      7| 1.400|  4|  0|  2| 
 |Aaron Nola         |OP          |  3| 14.333| 11| 6.907|     23| 1.605| 16|  0|  0| 
 |Christian Scott    |OP          |  1|  4.333|  2| 4.154|      5| 1.154|  6|  0|  0| 

@@ -9,17 +9,17 @@
 |Nick Kurtz        |1B        |     24| 11|  12|  3|  0| 
 |Ketel Marte       |2B        |     25| 10|  13|  6|  3| 
 |Casey Schmitt     |3B        |     15|  5|   5|  1|  1| 
-|Trea Turner       |SS        |     25| 18|  10|  3|  2| 
-|Otto Lopez        |MI        |     20|  9|   6|  2|  3| 
+|Trea Turner       |SS        |     26| 18|  10|  3|  2| 
+|Otto Lopez        |MI        |     23| 11|   6|  2|  3| 
 |Spencer Horwitz   |CI        |     15|  7|   2|  1|  0| 
 |Byron Buxton      |OF        |     15|  9|   8|  3|  1| 
 |Jung Hoo Lee      |OF        |     15|  8|   8|  2|  3| 
-|Michael Harris II |OF        |     12|  3|   3|  0|  2| 
-|Riley Greene      |OF        |     21|  8|   5|  3|  1| 
-|Iván Herrera      |DH        |     21|  8|   4|  1|  1| 
+|Michael Harris II |OF        |     13|  3|   3|  0|  2| 
+|Riley Greene      |OF        |     22|  8|   5|  3|  1| 
+|Iván Herrera      |DH        |     23|  9|   5|  1|  1| 
 |Jake Bauers       |DH        |     19|  9|   5|  2|  0| 
 |Nolan Arenado     |DH        |     16|  8|   3|  1|  1| 
-|Troy Johnston     |DH        |     13|  1|   2|  0|  0| 
+|Troy Johnston     |DH        |     16|  2|   4|  0|  0| 
 |Heliot Ramos      |BAT BENCH |      5|  4|   3|  2|  0| 
 |Ryan Waldschmidt  |BAT BENCH |     **| **|  **| **| **| 
 
@@ -31,7 +31,7 @@
  
 |players         |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:---------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Davis Martin    |SP          |  3| 14.667| 10|  6.136|     24| 1.636| 11|  0|  0| 
+|Davis Martin    |SP          |  4| 18.000| 12|  6.000|     35| 1.944| 11|  0|  0| 
 |MacKenzie Gore  |SP          |  4| 25.000| 13|  4.680|     26| 1.040| 28|  1|  0| 
 |Nick Martinez   |SP          |  3| 17.000|  7|  3.706|     19| 1.118| 14|  1|  0| 
 |Nolan McLean    |SP          |  3| 19.000|  6|  2.842|     20| 1.053| 25|  2|  0| 
@@ -48,7 +48,7 @@
 |Edwin Díaz      |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Logan Henderson |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Nick Pivetta    |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Stephen Kolek   |PITCH BENCH |  1|  1.667|  9| 48.600|     10| 6.000|  0|  0|  0| 
+|Stephen Kolek   |PITCH BENCH |  2|  3.667| 12| 29.455|     15| 4.091|  0|  0|  0| 
 
 
 * * *

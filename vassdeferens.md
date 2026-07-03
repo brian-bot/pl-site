@@ -5,22 +5,22 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Liam Hicks         |C         |     10|  3|   2|  0|  0| 
+|Liam Hicks         |C         |     11|  4|   3|  0|  0| 
 |Josh Naylor        |1B        |     18|  5|   2|  0|  2| 
 |Gleyber Torres     |2B        |      0|  0|   0|  0|  0| 
-|JJ Wetherholt      |3B        |     22|  4|   3|  2|  2| 
+|JJ Wetherholt      |3B        |     24|  6|   4|  2|  2| 
 |Geraldo Perdomo    |SS        |     26|  8|   7|  1|  1| 
-|Bryson Stott       |MI        |     25| 13|   7|  1|  4| 
-|Spencer Torkelson  |CI        |     23| 10|  10|  3|  0| 
+|Bryson Stott       |MI        |     26| 13|   7|  1|  4| 
+|Spencer Torkelson  |CI        |     24| 10|  10|  3|  0| 
 |Corbin Carroll     |OF        |     18|  5|  10|  1|  1| 
 |Daylen Lile        |OF        |     13|  4|   2|  0|  0| 
-|Ryan O'Hearn       |OF        |     22| 10|  16|  3|  0| 
+|Ryan O'Hearn       |OF        |     23| 10|  16|  3|  0| 
 |Taylor Ward        |OF        |     17|  8|   3|  2|  0| 
 |Adley Rutschman    |DH        |      4|  1|   3|  0|  0| 
-|Jackson Chourio    |DH        |     22|  8|   7|  3|  1| 
+|Jackson Chourio    |DH        |     23|  9|   7|  3|  1| 
 |Jacob Young        |DH        |      9|  2|   3|  0|  2| 
 |Jose Altuve        |DH        |     17|  7|   7|  2|  0| 
-|Mickey Moniak      |BAT BENCH |      7|  4|   7|  2|  0| 
+|Mickey Moniak      |BAT BENCH |     10|  7|   9|  3|  0| 
 |Munetaka Murakami  |BAT BENCH |     **| **|  **| **| **| 
 |Vinnie Pasquantino |BAT BENCH |     **| **|  **| **| **| 
 
