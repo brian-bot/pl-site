@@ -7,22 +7,22 @@
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Drake Baldwin    |C         |      9|  6|   1|  1|  0| 
 |Tyler Soderstrom |1B        |     19|  8|   2|  1|  0| 
-|Brandon Lowe     |2B        |     21|  9|  11|  3|  1| 
-|Manny Machado    |3B        |     26| 10|  13|  5|  0| 
+|Brandon Lowe     |2B        |     23| 10|  12|  3|  1| 
+|Manny Machado    |3B        |     27| 10|  13|  5|  0| 
 |Jeremy Peña      |SS        |     21|  9|   9|  3|  3| 
-|Travis Bazzana   |MI        |     23| 11|   9|  3|  1| 
-|Royce Lewis      |CI        |     18|  8|   5|  2|  2| 
-|Cole Carrigg     |OF        |     21|  9|   9|  1|  2| 
+|Travis Bazzana   |MI        |     25| 11|  10|  3|  1| 
+|Royce Lewis      |CI        |     19|  8|   5|  2|  2| 
+|Cole Carrigg     |OF        |     24| 11|  12|  1|  2| 
 |Ian Happ         |OF        |     19| 13|   4|  1|  0| 
 |Julio Rodríguez  |OF        |     22|  7|   6|  1|  3| 
-|Yordan Alvarez   |OF        |     28| 10|   6|  2|  0| 
-|Carson Benge     |DH        |     23|  8|   8|  3|  1| 
+|Yordan Alvarez   |OF        |     29| 11|   7|  3|  0| 
+|Carson Benge     |DH        |     24|  8|   8|  3|  1| 
 |Chase DeLauter   |DH        |      9|  3|   5|  0|  1| 
 |Colt Emerson     |DH        |     13|  3|   5|  1|  2| 
-|Jackson Merrill  |DH        |     17|  5|   5|  2|  7| 
+|Jackson Merrill  |DH        |     19|  7|   6|  3|  7| 
 |Chandler Simpson |BAT BENCH |     21|  3|   2|  0|  6| 
-|Konnor Griffin   |BAT BENCH |      7|  3|   1|  1|  2| 
-|Nasim Nuñez      |BAT BENCH |     25|  9|   6|  1|  7| 
+|Konnor Griffin   |BAT BENCH |     10|  3|   1|  1|  3| 
+|Nasim Nuñez      |BAT BENCH |     27| 10|   6|  1|  7| 
 
 
 * * *
@@ -34,17 +34,17 @@
 |:--------------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Freddy Peralta       |SP          |  3| 12.333| 15| 10.946|     27| 2.189| 11|  0|  0| 
 |Kevin Gausman        |SP          |  3| 14.000| 14|  9.000|     30| 2.143| 14|  0|  0| 
-|Kyle Harrison        |SP          |  2| 11.333|  4|  3.176|      8| 0.706| 16|  0|  0| 
+|Kyle Harrison        |SP          |  3| 14.000|  7|  4.500|     14| 1.000| 19|  0|  0| 
 |Parker Messick       |SP          |  3| 20.333|  8|  3.541|     19| 0.934| 24|  1|  0| 
-|Spencer Arrighetti   |SP          |  2|  9.000| 14| 14.000|     16| 1.778| 15|  0|  0| 
+|Spencer Arrighetti   |SP          |  3| 15.000| 15|  9.000|     19| 1.267| 19|  0|  0| 
 |Zack Wheeler         |SP          |  4| 23.333|  7|  2.700|     27| 1.157| 31|  3|  0| 
 |Andrés Muñoz         |RP          |  7|  7.000|  0|  0.000|      7| 1.000| 10|  0|  6| 
-|Louis Varland        |RP          |  7|  8.333|  1|  1.080|      7| 0.840| 15|  0|  5| 
-|Chad Patrick         |OP          |  6| 11.667|  7|  5.400|     14| 1.200| 13|  2|  1| 
+|Louis Varland        |RP          |  8|  9.333|  1|  0.964|      8| 0.857| 16|  0|  6| 
+|Chad Patrick         |OP          |  7| 15.000|  7|  4.200|     15| 1.000| 15|  2|  1| 
 |Chase Burns          |OP          |  4| 22.000|  8|  3.273|     30| 1.364| 28|  3|  0| 
 |Hunter Brown         |OP          |  3| 14.667|  4|  2.455|     19| 1.295| 15|  0|  0| 
 |Kenley Jansen        |OP          |  5|  4.667|  4|  7.714|      8| 1.714|  2|  0|  2| 
-|Seranthony Domínguez |OP          |  4|  3.333|  3|  8.100|      8| 2.400|  4|  0|  0| 
+|Seranthony Domínguez |OP          |  5|  3.667|  5| 12.273|     10| 2.727|  5|  0|  0| 
 |Eury Pérez           |PITCH BENCH |  2| 10.000|  2|  1.800|      9| 0.900|  9|  1|  0| 
 |Garrett Crochet      |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Hunter Greene        |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
