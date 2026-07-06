@@ -17,7 +17,7 @@
 |Andy Pages        |OF        |     31| 11|   7|  1|  1| 
 |Jo Adell          |OF        |     16|  5|   5|  1|  0| 
 |Randy Arozarena   |OF        |     17|  7|   8|  2|  0| 
-|Wilyer Abreu      |OF        |     25| 10|   7|  2|  2| 
+|Wilyer Abreu      |OF        |     25| 10|   6|  2|  2| 
 |Braden Montgomery |DH        |     23|  8|   4|  1|  0| 
 |Kyle Manzardo     |DH        |     20|  6|   7|  3|  0| 
 |Sam Antonacci     |DH        |     28| 14|   7|  3|  2| 
