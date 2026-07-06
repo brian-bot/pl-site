@@ -16,7 +16,7 @@
 |Heliot Ramos      |OF        |      2|  0|   0|  0|  0| 
 |Michael Harris II |OF        |      2|  1|   3|  0|  0| 
 |Riley Greene      |OF        |      4|  1|   4|  1|  0| 
-|Enmanuel Valdez   |DH        |     **| **|  **| **| **| 
+|Esmerlyn Valdez   |DH        |      0|  0|   0|  0|  0| 
 |Iván Herrera      |DH        |      0|  0|   0|  0|  0| 
 |Jung Hoo Lee      |DH        |      1|  0|   0|  0|  0| 
 |Troy Johnston     |DH        |      2|  0|   1|  0|  0| 
