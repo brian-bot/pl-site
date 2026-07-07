@@ -8,14 +8,14 @@
 |Shea Langeliers   |C         |     **| **|  **| **| **| 
 |Yandy Díaz        |1B        |      0|  0|   0|  0|  0| 
 |Luke Keaschall    |2B        |      2|  1|   0|  0|  0| 
-|Austin Riley      |3B        |      2|  1|   0|  0|  0| 
+|Austin Riley      |3B        |      3|  1|   0|  0|  1| 
 |Gunnar Henderson  |SS        |      0|  0|   1|  0|  0| 
 |Colson Montgomery |MI        |      2|  1|   2|  1|  0| 
 |Pete Alonso       |CI        |      0|  0|   0|  0|  0| 
 |Bryan Reynolds    |OF        |      1|  1|   1|  1|  0| 
-|Jake McCarthy     |OF        |      1|  1|   0|  0|  0| 
+|Jake McCarthy     |OF        |      3|  1|   2|  0|  0| 
 |Seiya Suzuki      |OF        |      0|  0|   0|  0|  0| 
-|Teoscar Hernández |OF        |      1|  1|   0|  0|  0| 
+|Teoscar Hernández |OF        |      2|  3|   0|  0|  0| 
 |Anthony Seigler   |DH        |      1|  1|   0|  0|  1| 
 |Dillon Dingler    |DH        |      1|  1|   1|  0|  0| 
 |Jackson Holliday  |DH        |      1|  0|   0|  0|  0| 
