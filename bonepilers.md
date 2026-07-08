@@ -5,23 +5,23 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Drake Baldwin    |C         |      6|  2|   4|  1|  0| 
-|Royce Lewis      |1B        |      3|  1|   2|  0|  0| 
-|Brandon Lowe     |2B        |      1|  1|   3|  1|  0| 
-|Manny Machado    |3B        |      5|  2|   3|  1|  1| 
+|Drake Baldwin    |C         |      7|  2|   4|  1|  0| 
+|Royce Lewis      |1B        |      4|  1|   2|  0|  0| 
+|Brandon Lowe     |2B        |      4|  3|   4|  1|  0| 
+|Manny Machado    |3B        |      6|  2|   3|  1|  1| 
 |Jeremy Peña      |SS        |     **| **|  **| **| **| 
 |Travis Bazzana   |MI        |      1|  1|   0|  0|  0| 
-|Colt Emerson     |CI        |      0|  0|   0|  0|  0| 
-|Cole Carrigg     |OF        |      3|  3|   2|  0|  0| 
+|Colt Emerson     |CI        |      1|  0|   0|  0|  0| 
+|Cole Carrigg     |OF        |      5|  5|   2|  0|  0| 
 |Ian Happ         |OF        |      1|  0|   0|  0|  0| 
 |Julio Rodríguez  |OF        |     **| **|  **| **| **| 
 |Yordan Alvarez   |OF        |      1|  0|   0|  0|  0| 
-|Carson Benge     |DH        |      3|  2|   1|  1|  0| 
-|Jackson Merrill  |DH        |      3|  0|   1|  0|  0| 
+|Carson Benge     |DH        |      7|  4|   2|  1|  1| 
+|Jackson Merrill  |DH        |      4|  1|   2|  0|  1| 
 |Konnor Griffin   |DH        |      3|  1|   2|  0|  1| 
-|Nasim Nuñez      |DH        |      3|  2|   0|  0|  1| 
+|Nasim Nuñez      |DH        |      5|  2|   0|  0|  1| 
 |Chandler Simpson |BAT BENCH |      2|  1|   0|  0|  1| 
-|Chase DeLauter   |BAT BENCH |      2|  2|   2|  1|  0| 
+|Chase DeLauter   |BAT BENCH |      5|  2|   2|  1|  0| 
 |Tyler Soderstrom |BAT BENCH |     **| **|  **| **| **| 
 
 * * *
@@ -36,9 +36,9 @@
 |Kevin Gausman      |SP          |  1| 5.333|  4| 6.750|     10| 1.875|  8|  0|  0| 
 |Kyle Harrison      |SP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Parker Messick     |SP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Zack Wheeler       |SP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Andrés Muñoz       |RP          |  1| 1.000|  0| 0.000|      1| 1.000|  1|  0|  0| 
-|Louis Varland      |RP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Zack Wheeler       |SP          |  1| 7.000|  1| 1.286|      4| 0.571| 14|  1|  0| 
+|Andrés Muñoz       |RP          |  2| 2.000|  0| 0.000|      1| 0.500|  2|  0|  0| 
+|Louis Varland      |RP          |  1| 1.000|  0| 0.000|      0| 0.000|  1|  0|  0| 
 |Chase Burns        |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Eury Pérez         |OP          |  1| 7.000|  0| 0.000|      0| 0.000|  8|  1|  0| 
 |Freddy Peralta     |OP          |  1| 4.667|  1| 1.929|      7| 1.500|  6|  0|  0| 

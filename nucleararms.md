@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Shea Langeliers   |C         |     **| **|  **| **| **| 
-|Yandy Díaz        |1B        |      0|  0|   0|  0|  0| 
-|Luke Keaschall    |2B        |      2|  1|   0|  0|  0| 
-|Austin Riley      |3B        |      3|  1|   0|  0|  1| 
-|Gunnar Henderson  |SS        |      0|  0|   1|  0|  0| 
+|Shea Langeliers   |C         |      2|  0|   1|  0|  0| 
+|Yandy Díaz        |1B        |      2|  1|   2|  1|  0| 
+|Luke Keaschall    |2B        |      4|  1|   0|  0|  0| 
+|Austin Riley      |3B        |      5|  2|   0|  0|  1| 
+|Gunnar Henderson  |SS        |      1|  0|   1|  0|  0| 
 |Colson Montgomery |MI        |      2|  1|   2|  1|  0| 
-|Pete Alonso       |CI        |      0|  0|   0|  0|  0| 
-|Bryan Reynolds    |OF        |      1|  1|   1|  1|  0| 
-|Jake McCarthy     |OF        |      3|  1|   2|  0|  0| 
+|Pete Alonso       |CI        |      1|  0|   0|  0|  0| 
+|Bryan Reynolds    |OF        |      4|  3|   1|  1|  0| 
+|Jake McCarthy     |OF        |      4|  1|   4|  0|  0| 
 |Seiya Suzuki      |OF        |      0|  0|   0|  0|  0| 
-|Teoscar Hernández |OF        |      2|  3|   0|  0|  0| 
-|Anthony Seigler   |DH        |      1|  1|   0|  0|  1| 
+|Teoscar Hernández |OF        |      3|  3|   0|  0|  0| 
+|Anthony Seigler   |DH        |      2|  1|   0|  0|  1| 
 |Dillon Dingler    |DH        |      1|  1|   1|  0|  0| 
 |Jackson Holliday  |DH        |      1|  0|   0|  0|  0| 
-|TJ Rumfield       |DH        |      3|  2|   0|  0|  0| 
+|TJ Rumfield       |DH        |      5|  2|   0|  0|  0| 
 |Giancarlo Stanton |BAT BENCH |     **| **|  **| **| **| 
 |Luis Robert Jr.   |BAT BENCH |     **| **|  **| **| **| 
 |Ronald Acuña Jr.  |BAT BENCH |     **| **|  **| **| **| 
@@ -30,25 +30,25 @@
 ### Pitchers
 
  
-|players         |position    |  g| ip| er| era| hitsbb| whip| so|  w| sv| 
-|:---------------|:-----------|--:|--:|--:|---:|------:|----:|--:|--:|--:| 
-|Dylan Cease     |SP          | **| **| **|  **|     **|   **| **| **| **| 
-|George Kirby    |SP          | **| **| **|  **|     **|   **| **| **| **| 
-|Jack Flaherty   |SP          | **| **| **|  **|     **|   **| **| **| **| 
-|Max Meyer       |SP          | **| **| **|  **|     **|   **| **| **| **| 
-|Sandy Alcantara |SP          | **| **| **|  **|     **|   **| **| **| **| 
-|Taj Bradley     |SP          | **| **| **|  **|     **|   **| **| **| **| 
-|Jacob Webb      |RP          |  1|  2|  0|   0|      2|    1|  1|  0|  1| 
-|Josh Hader      |RP          |  1|  1|  0|   0|      1|    1|  2|  0|  1| 
-|Andre Pallante  |OP          | **| **| **|  **|     **|   **| **| **| **| 
-|Noah Schultz    |OP          | **| **| **|  **|     **|   **| **| **| **| 
-|Slade Cecconi   |OP          | **| **| **|  **|     **|   **| **| **| **| 
-|Tatsuya Imai    |OP          | **| **| **|  **|     **|   **| **| **| **| 
-|Yoendrys Gómez  |OP          |  1|  1|  1|   9|      2|    2|  0|  0|  0| 
-|Carlos Estévez  |PITCH BENCH | **| **| **|  **|     **|   **| **| **| **| 
-|Roki Sasaki     |PITCH BENCH | **| **| **|  **|     **|   **| **| **| **| 
-|Spencer Strider |PITCH BENCH | **| **| **|  **|     **|   **| **| **| **| 
-|Tyler Glasnow   |PITCH BENCH | **| **| **|  **|     **|   **| **| **| **| 
+|players         |position    |  g|    ip| er|   era| hitsbb|  whip| so|  w| sv| 
+|:---------------|:-----------|--:|-----:|--:|-----:|------:|-----:|--:|--:|--:| 
+|Dylan Cease     |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|George Kirby    |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Jack Flaherty   |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Max Meyer       |SP          |  1| 5.000|  2| 3.600|      6| 1.200|  4|  0|  0| 
+|Sandy Alcantara |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Taj Bradley     |SP          |  1| 7.000|  1| 1.286|      3| 0.429| 10|  1|  0| 
+|Jacob Webb      |RP          |  2| 2.333|  0| 0.000|      3| 1.286|  2|  0|  1| 
+|Josh Hader      |RP          |  2| 1.333|  0| 0.000|      3| 2.250|  3|  0|  2| 
+|Andre Pallante  |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Noah Schultz    |OP          |  1| 5.000|  4| 7.200|     10| 2.000|  3|  0|  0| 
+|Slade Cecconi   |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Tatsuya Imai    |OP          |  1| 3.667|  2| 4.909|      7| 1.909|  3|  0|  0| 
+|Yoendrys Gómez  |OP          |  2| 1.333|  1| 6.750|      2| 1.500|  1|  0|  1| 
+|Carlos Estévez  |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
+|Roki Sasaki     |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
+|Spencer Strider |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
+|Tyler Glasnow   |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
 
 
 * * *

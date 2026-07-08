@@ -6,24 +6,24 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Francisco Alvarez |C         |      2|  0|   1|  0|  0| 
-|Michael Busch     |1B        |      3|  1|   0|  0|  0| 
-|Nico Hoerner      |2B        |      1|  1|   2|  0|  0| 
+|Michael Busch     |1B        |      5|  1|   1|  0|  0| 
+|Nico Hoerner      |2B        |      2|  2|   2|  0|  1| 
 |Max Muncy         |3B        |      3|  1|   1|  0|  0| 
-|Bobby Witt Jr.    |SS        |      5|  4|   0|  0|  1| 
-|Kevin McGonigle   |MI        |      3|  1|   0|  0|  0| 
-|Freddie Freeman   |CI        |      1|  0|   0|  0|  0| 
-|Cedric Mullins    |OF        |      0|  0|   0|  0|  0| 
-|Henry Bolte       |OF        |      0|  0|   0|  0|  0| 
-|Kyle Schwarber    |OF        |      2|  0|   0|  0|  0| 
-|Samad Taylor      |OF        |      1|  0|   0|  0|  0| 
+|Bobby Witt Jr.    |SS        |      7|  5|   2|  0|  1| 
+|Kevin McGonigle   |MI        |      6|  2|   1|  0|  0| 
+|Freddie Freeman   |CI        |      3|  0|   0|  0|  0| 
+|Cedric Mullins    |OF        |      1|  0|   0|  0|  0| 
+|Henry Bolte       |OF        |      2|  2|   1|  1|  0| 
+|Kyle Schwarber    |OF        |      4|  1|   2|  1|  0| 
+|Samad Taylor      |OF        |      2|  0|   0|  0|  0| 
 |Bryce Harper      |DH        |      3|  0|   0|  0|  0| 
-|Cole Young        |DH        |      0|  1|   0|  0|  0| 
+|Cole Young        |DH        |      2|  2|   1|  1|  0| 
 |J.T. Realmuto     |DH        |      1|  0|   0|  0|  0| 
-|Luis Arraez       |DH        |      3|  0|   0|  0|  1| 
+|Luis Arraez       |DH        |      5|  0|   1|  0|  1| 
 |Corey Seager      |BAT BENCH |     **| **|  **| **| **| 
-|Jarren Duran      |BAT BENCH |      3|  1|   2|  1|  0| 
+|Jarren Duran      |BAT BENCH |      5|  2|   3|  1|  0| 
 |Oneil Cruz        |BAT BENCH |     **| **|  **| **| **| 
-|Spencer Steer     |BAT BENCH |      1|  1|   2|  1|  0| 
+|Spencer Steer     |BAT BENCH |      2|  1|   2|  1|  0| 
 
 
 * * *
@@ -34,7 +34,7 @@
 |players          |position    |  g|    ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:-----------|--:|-----:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Dustin May       |SP          |  1| 4.667|  0| 0.000|      4| 0.857|  7|  0|  0| 
-|Jacob deGrom     |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Jacob deGrom     |SP          |  1| 5.000|  2| 3.600|      7| 1.400|  7|  0|  0| 
 |Michael McGreevy |SP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Nathan Eovaldi   |SP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Sonny Gray       |SP          | **|    **| **|    **|     **|    **| **| **| **| 
@@ -42,7 +42,7 @@
 |Gregory Soto     |RP          |  1| 2.000|  1| 4.500|      2| 1.000|  2|  1|  0| 
 |Jacob Latz       |RP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Grant Taylor     |OP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Justin Wrobleski |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Justin Wrobleski |OP          |  1| 7.000|  1| 1.286|      8| 1.143|  9|  0|  0| 
 |Kumar Rocker     |OP          |  1| 4.333|  3| 6.231|      6| 1.385|  4|  0|  0| 
 |Reynaldo López   |OP          |  1| 5.000|  1| 1.800|      5| 1.000|  5|  0|  0| 
 |Sean Burke       |OP          | **|    **| **|    **|     **|    **| **| **| **| 
