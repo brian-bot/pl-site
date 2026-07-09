@@ -14,7 +14,7 @@
 |Bobby Witt Jr.    |SS        |     16|  8|   8|  3|  3| 
 |Kevin McGonigle   |MI        |     35| 10|   7|  3|  2| 
 |Freddie Freeman   |CI        |     37| 12|  11|  4|  1| 
-|Henry Bolte       |OF        |     27|  8|   7|  1|  6| 
+|Henry Bolte       |OF        |     26|  8|   7|  1|  6| 
 |Jarren Duran      |OF        |     12|  4|   5|  1|  3| 
 |Kyle Schwarber    |OF        |     30| 13|  13|  6|  1| 
 |Spencer Steer     |OF        |     15|  8|   8|  3|  0| 

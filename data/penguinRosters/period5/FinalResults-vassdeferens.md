@@ -7,7 +7,7 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Liam Hicks         |C         |     17|  9|   3|  0|  0| 
+|Liam Hicks         |C         |     16|  9|   3|  0|  0| 
 |Josh Naylor        |1B        |     19|  5|   2|  0|  2| 
 |Gleyber Torres     |2B        |      0|  0|   0|  0|  0| 
 |JJ Wetherholt      |3B        |     30|  7|   5|  3|  2| 

@@ -6,23 +6,23 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Kyle Teel          |C         |      1|  1|   3|  1|  0| 
-|Andrew Vaughn      |1B        |      3|  1|   0|  0|  0| 
-|Ceddanne Rafaela   |2B        |      3|  2|   2|  1|  1| 
+|Andrew Vaughn      |1B        |      4|  1|   0|  0|  0| 
+|Ceddanne Rafaela   |2B        |      5|  2|   3|  1|  1| 
 |Junior Caminero    |3B        |      1|  0|   0|  0|  0| 
-|Zach Neto          |SS        |      4|  2|   2|  1|  0| 
-|CJ Abrams          |MI        |      7|  2|   5|  1|  1| 
-|Sal Stewart        |CI        |      2|  0|   1|  0|  0| 
-|Fernando Tatis Jr. |OF        |      4|  2|   1|  0|  1| 
-|James Wood         |OF        |      9|  6|   5|  2|  1| 
-|JJ Bleday          |OF        |      2|  0|   0|  0|  0| 
-|Mike Trout         |OF        |     **| **|  **| **| **| 
-|José Caballero     |DH        |      2|  2|   4|  2|  0| 
-|Mookie Betts       |DH        |      1|  0|   0|  0|  0| 
+|Zach Neto          |SS        |      7|  5|   2|  1|  0| 
+|CJ Abrams          |MI        |      9|  3|   7|  2|  1| 
+|Sal Stewart        |CI        |      5|  2|   4|  2|  0| 
+|Fernando Tatis Jr. |OF        |      7|  4|   2|  0|  3| 
+|James Wood         |OF        |     12|  8|   5|  2|  2| 
+|JJ Bleday          |OF        |      5|  2|   2|  1|  0| 
+|Mike Trout         |OF        |      2|  2|   2|  1|  0| 
+|José Caballero     |DH        |      3|  2|   4|  2|  0| 
+|Mookie Betts       |DH        |      3|  1|   1|  0|  0| 
 |Owen Caissie       |DH        |      2|  1|   1|  1|  0| 
 |Paul Goldschmidt   |DH        |      0|  0|   0|  0|  0| 
 |Aaron Judge        |BAT BENCH |     **| **|  **| **| **| 
 |Ezequiel Tovar     |BAT BENCH |      2|  2|   2|  1|  0| 
-|Salvador Perez     |BAT BENCH |      8|  2|   5|  1|  0| 
+|Salvador Perez     |BAT BENCH |      9|  2|   6|  1|  0| 
 
 
 * * *
@@ -37,8 +37,8 @@
 |Joe Ryan          |SP          |  1| 7.000|  0|  0.000|      4| 0.571|  9|  1|  0| 
 |Logan Gilbert     |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Ranger Suarez     |SP          |  1| 2.667|  3| 10.125|      6| 2.250|  5|  0|  0| 
-|Walbert Ureña     |SP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Bryan Baker       |RP          |  1| 1.000|  0|  0.000|      1| 1.000|  1|  0|  1| 
+|Walbert Ureña     |SP          |  1| 4.000|  0|  0.000|      6| 1.500|  3|  0|  0| 
+|Bryan Baker       |RP          |  2| 2.000|  0|  0.000|      2| 1.000|  4|  0|  2| 
 |David Bednar      |RP          |  1| 1.000|  0|  0.000|      0| 0.000|  1|  0|  0| 
 |Braxton Ashcraft  |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Casey Mize        |OP          |  1| 6.667|  2|  2.700|      7| 1.050|  4|  1|  0| 

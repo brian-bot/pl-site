@@ -6,20 +6,20 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Liam Hicks         |C         |      5|  1|   2|  0|  0| 
-|Josh Naylor        |1B        |      2|  1|   2|  0|  0| 
+|Josh Naylor        |1B        |      4|  1|   2|  0|  1| 
 |Jose Altuve        |2B        |      4|  2|   4|  2|  1| 
 |JJ Wetherholt      |3B        |      4|  4|   0|  0|  0| 
 |Geraldo Perdomo    |SS        |      6|  4|   1|  1|  2| 
-|Bryson Stott       |MI        |      5|  2|   0|  0|  0| 
-|Spencer Torkelson  |CI        |      3|  1|   0|  0|  0| 
-|Corbin Carroll     |OF        |      4|  1|   1|  0|  0| 
-|Daylen Lile        |OF        |      0|  0|   0|  0|  0| 
-|Ryan O'Hearn       |OF        |      8|  5|  10|  3|  0| 
-|Taylor Ward        |OF        |      4|  1|   0|  0|  0| 
-|Adley Rutschman    |DH        |      3|  0|   2|  0|  0| 
+|Bryson Stott       |MI        |      6|  2|   1|  0|  0| 
+|Spencer Torkelson  |CI        |      5|  2|   3|  1|  0| 
+|Corbin Carroll     |OF        |      5|  2|   1|  0|  0| 
+|Daylen Lile        |OF        |      2|  1|   1|  0|  0| 
+|Ryan O'Hearn       |OF        |      9|  5|  10|  3|  0| 
+|Taylor Ward        |OF        |      7|  2|   1|  0|  0| 
+|Adley Rutschman    |DH        |      5|  0|   2|  0|  0| 
 |Jackson Chourio    |DH        |      4|  1|   1|  0|  0| 
-|Javier Sanoja      |DH        |      2|  1|   0|  0|  0| 
-|Mickey Moniak      |DH        |      3|  0|   0|  0|  0| 
+|Javier Sanoja      |DH        |      3|  1|   0|  0|  0| 
+|Mickey Moniak      |DH        |      3|  0|   1|  0|  0| 
 |Gleyber Torres     |BAT BENCH |     **| **|  **| **| **| 
 |Munetaka Murakami  |BAT BENCH |     **| **|  **| **| **| 
 |Vinnie Pasquantino |BAT BENCH |     **| **|  **| **| **| 
