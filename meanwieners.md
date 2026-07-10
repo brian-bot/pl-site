@@ -6,18 +6,18 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Samuel Basallo    |C         |      1|  1|   0|  0|  0| 
-|Ben Rice          |1B        |      6|  2|   4|  2|  0| 
-|Jazz Chisholm Jr. |2B        |      3|  2|   0|  0|  0| 
+|Ben Rice          |1B        |      9|  5|   9|  4|  0| 
+|Jazz Chisholm Jr. |2B        |      4|  2|   1|  0|  0| 
 |Isaac Paredes     |3B        |      6|  2|   1|  1|  0| 
-|Bo Bichette       |SS        |      7|  3|   3|  0|  0| 
-|Mauricio Dubón    |MI        |      6|  1|   2|  0|  0| 
-|Alec Burleson     |CI        |      4|  2|   3|  1|  0| 
+|Bo Bichette       |SS        |      7|  3|   4|  0|  0| 
+|Mauricio Dubón    |MI        |      7|  1|   3|  0|  0| 
+|Alec Burleson     |CI        |      6|  4|   3|  1|  0| 
 |Andy Pages        |OF        |      4|  1|   1|  0|  0| 
-|Jo Adell          |OF        |      8|  3|   7|  2|  0| 
-|Randy Arozarena   |OF        |      5|  2|   0|  0|  0| 
-|Wilyer Abreu      |OF        |      3|  2|   1|  0|  0| 
-|Braden Montgomery |DH        |      1|  1|   0|  0|  0| 
-|Kyle Manzardo     |DH        |      1|  2|   0|  0|  0| 
+|Jo Adell          |OF        |      9|  3|   8|  2|  0| 
+|Randy Arozarena   |OF        |      8|  4|   1|  1|  0| 
+|Wilyer Abreu      |OF        |      4|  2|   1|  0|  0| 
+|Braden Montgomery |DH        |      2|  1|   0|  0|  0| 
+|Kyle Manzardo     |DH        |      2|  2|   0|  0|  0| 
 |Sam Antonacci     |DH        |      5|  0|   1|  0|  1| 
 |Shohei Ohtani     |DH        |      8|  2|   6|  2|  0| 
 |Brooks Lee        |BAT BENCH |      7|  2|   3|  0|  0| 
@@ -37,8 +37,8 @@
 |Shota Imanaga      |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Will Warren        |SP          |  1| 4.000|  6| 13.500|      9| 2.250|  3|  0|  0| 
 |Yoshinobu Yamamoto |SP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Aaron Ashby        |RP          |  2| 1.333|  1|  6.750|      5| 3.750|  1|  0|  0| 
-|Devin Williams     |RP          |  2| 1.333|  3| 20.250|      7| 5.250|  2|  0|  1| 
+|Aaron Ashby        |RP          |  3| 2.333|  1|  3.857|      7| 3.000|  2|  0|  0| 
+|Devin Williams     |RP          |  3| 2.333|  3| 11.571|      8| 3.429|  3|  0|  1| 
 |Brandon Sproat     |OP          |  1| 4.000|  1|  2.250|      8| 2.000|  4|  0|  0| 
 |Christian Scott    |OP          |  1| 5.000|  0|  0.000|      4| 0.800|  5|  0|  0| 
 |Matthew Boyd       |OP          |  1| 6.000|  0|  0.000|      5| 0.833|  7|  1|  0| 

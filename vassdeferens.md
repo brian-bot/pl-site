@@ -5,19 +5,19 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Liam Hicks         |C         |      5|  1|   2|  0|  0| 
-|Josh Naylor        |1B        |      4|  1|   2|  0|  1| 
+|Liam Hicks         |C         |      6|  2|   3|  0|  0| 
+|Josh Naylor        |1B        |      5|  2|   2|  0|  3| 
 |Jose Altuve        |2B        |      4|  2|   4|  2|  1| 
-|JJ Wetherholt      |3B        |      4|  4|   0|  0|  0| 
-|Geraldo Perdomo    |SS        |      6|  4|   1|  1|  2| 
-|Bryson Stott       |MI        |      6|  2|   1|  0|  0| 
+|JJ Wetherholt      |3B        |      7|  5|   0|  0|  0| 
+|Geraldo Perdomo    |SS        |      8|  4|   2|  1|  2| 
+|Bryson Stott       |MI        |      7|  2|   1|  0|  0| 
 |Spencer Torkelson  |CI        |      5|  2|   3|  1|  0| 
-|Corbin Carroll     |OF        |      5|  2|   1|  0|  0| 
+|Corbin Carroll     |OF        |      7|  2|   1|  0|  0| 
 |Daylen Lile        |OF        |      2|  1|   1|  0|  0| 
 |Ryan O'Hearn       |OF        |      9|  5|  10|  3|  0| 
-|Taylor Ward        |OF        |      7|  2|   1|  0|  0| 
-|Adley Rutschman    |DH        |      5|  0|   2|  0|  0| 
-|Jackson Chourio    |DH        |      4|  1|   1|  0|  0| 
+|Taylor Ward        |OF        |      9|  2|   1|  0|  0| 
+|Adley Rutschman    |DH        |      7|  0|   2|  0|  0| 
+|Jackson Chourio    |DH        |      6|  3|   1|  0|  0| 
 |Javier Sanoja      |DH        |      3|  1|   0|  0|  0| 
 |Mickey Moniak      |DH        |      3|  0|   1|  0|  0| 
 |Gleyber Torres     |BAT BENCH |     **| **|  **| **| **| 
@@ -38,14 +38,14 @@
 |Robbie Ray     |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Shohei Ohtani  |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Zebby Matthews |SP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Caleb Kilian   |RP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Jhoan Duran    |RP          |  1| 1.000|  0|  0.000|      1| 1.000|  3|  0|  1| 
-|Brady Singer   |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Caleb Kilian   |RP          |  1| 1.000|  0|  0.000|      2| 2.000|  2|  0|  0| 
+|Jhoan Duran    |RP          |  2| 2.000|  0|  0.000|      2| 1.000|  5|  0|  2| 
+|Brady Singer   |OP          |  1| 7.333|  1|  1.227|      5| 0.682|  5|  0|  0| 
 |José Soriano   |OP          |  1| 6.000|  2|  3.000|      4| 0.667|  4|  0|  0| 
-|Paul Sewald    |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Paul Sewald    |OP          |  1| 1.000|  0|  0.000|      0| 0.000|  2|  0|  1| 
 |Ryan Helsley   |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Seth Lugo      |OP          |  1| 4.333|  6| 12.462|     11| 2.538|  4|  0|  0| 
-|Bailey Ober    |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Bailey Ober    |PITCH BENCH |  1| 5.000|  1|  1.800|      4| 0.800|  5|  0|  0| 
 |Gabe Speier    |PITCH BENCH |  2| 2.000|  1|  4.500|      3| 1.500|  0|  0|  0| 
 |Max Fried      |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Tony Santillan |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 

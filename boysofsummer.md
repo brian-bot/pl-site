@@ -5,20 +5,20 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras |C         |      1|  0|   0|  0|  0| 
+|William Contreras |C         |      1|  0|   1|  0|  0| 
 |Nick Kurtz        |1B        |      0|  0|   0|  0|  0| 
 |Ketel Marte       |2B        |      6|  1|   0|  0|  0| 
-|Casey Schmitt     |3B        |      3|  1|   1|  1|  0| 
-|Trea Turner       |SS        |      4|  2|   1|  0|  0| 
-|Otto Lopez        |MI        |      7|  3|   3|  1|  0| 
-|Jake Bauers       |CI        |      7|  2|   2|  1|  0| 
+|Casey Schmitt     |3B        |      6|  3|   3|  2|  0| 
+|Trea Turner       |SS        |      5|  2|   1|  0|  0| 
+|Otto Lopez        |MI        |     10|  4|   5|  1|  0| 
+|Jake Bauers       |CI        |     10|  4|   5|  2|  0| 
 |Byron Buxton      |OF        |      1|  0|   0|  0|  0| 
-|Heliot Ramos      |OF        |      8|  5|   5|  2|  0| 
-|Michael Harris II |OF        |      8|  3|   5|  0|  0| 
+|Heliot Ramos      |OF        |      9|  6|   5|  2|  0| 
+|Michael Harris II |OF        |      9|  4|   5|  0|  1| 
 |Riley Greene      |OF        |      7|  1|   5|  1|  0| 
-|Esmerlyn Valdez   |DH        |      3|  2|   0|  0|  0| 
-|Iván Herrera      |DH        |      3|  1|   1|  1|  0| 
-|Jung Hoo Lee      |DH        |      3|  1|   0|  0|  0| 
+|Esmerlyn Valdez   |DH        |      5|  3|   1|  1|  0| 
+|Iván Herrera      |DH        |      4|  1|   1|  1|  0| 
+|Jung Hoo Lee      |DH        |      4|  1|   0|  0|  0| 
 |Troy Johnston     |DH        |      2|  0|   1|  0|  0| 
 |Charlie Condon    |BAT BENCH |     **| **|  **| **| **| 
 |Ryan Jeffers      |BAT BENCH |     **| **|  **| **| **| 
@@ -42,13 +42,13 @@
 |Riley O'Brien     |RP          |  1| 1.000|  0|  0.000|      1| 1.000|  1|  0|  0| 
 |Antonio Senzatela |OP          |  2| 2.000|  1|  4.500|      5| 2.500|  4|  0|  0| 
 |Dylan Lee         |OP          |  2| 2.000|  0|  0.000|      2| 1.000|  2|  0|  0| 
-|Garrett Whitlock  |OP          |  2| 2.000|  0|  0.000|      0| 0.000|  2|  0|  0| 
+|Garrett Whitlock  |OP          |  3| 3.000|  0|  0.000|      0| 0.000|  4|  0|  0| 
 |Keider Montero    |OP          |  1| 1.667|  0|  0.000|      3| 1.800|  1|  0|  0| 
 |Martín Pérez      |OP          |  1| 4.333|  4|  8.308|      8| 1.846|  1|  0|  0| 
 |Blake Snell       |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Carlos Rodón      |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Edwin Díaz        |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
-|Logan Henderson   |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Logan Henderson   |PITCH BENCH |  1| 5.333|  3|  5.062|      4| 0.750|  4|  1|  0| 
 
 
 * * *

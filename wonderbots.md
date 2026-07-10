@@ -6,17 +6,17 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Kyle Teel          |C         |      1|  1|   3|  1|  0| 
-|Andrew Vaughn      |1B        |      4|  1|   0|  0|  0| 
+|Andrew Vaughn      |1B        |      4|  2|   0|  0|  0| 
 |Ceddanne Rafaela   |2B        |      5|  2|   3|  1|  1| 
-|Junior Caminero    |3B        |      1|  0|   0|  0|  0| 
-|Zach Neto          |SS        |      7|  5|   2|  1|  0| 
+|Junior Caminero    |3B        |      3|  1|   1|  1|  0| 
+|Zach Neto          |SS        |      9|  6|   2|  1|  0| 
 |CJ Abrams          |MI        |      9|  3|   7|  2|  1| 
 |Sal Stewart        |CI        |      5|  2|   4|  2|  0| 
-|Fernando Tatis Jr. |OF        |      7|  4|   2|  0|  3| 
+|Fernando Tatis Jr. |OF        |      8|  4|   2|  0|  3| 
 |James Wood         |OF        |     12|  8|   5|  2|  2| 
-|JJ Bleday          |OF        |      5|  2|   2|  1|  0| 
-|Mike Trout         |OF        |      2|  2|   2|  1|  0| 
-|José Caballero     |DH        |      3|  2|   4|  2|  0| 
+|JJ Bleday          |OF        |      6|  2|   2|  1|  1| 
+|Mike Trout         |OF        |      2|  3|   3|  1|  0| 
+|José Caballero     |DH        |      4|  2|   5|  2|  1| 
 |Mookie Betts       |DH        |      3|  1|   1|  0|  0| 
 |Owen Caissie       |DH        |      2|  1|   1|  1|  0| 
 |Paul Goldschmidt   |DH        |      0|  0|   0|  0|  0| 
@@ -32,7 +32,7 @@
  
 |players           |position    |  g|    ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
-|Gavin Williams    |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Gavin Williams    |SP          |  1| 7.000|  2|  2.571|      4| 0.571| 11|  1|  0| 
 |Jacob Misiorowski |SP          |  1| 7.000|  3|  3.857|      3| 0.429| 11|  1|  0| 
 |Joe Ryan          |SP          |  1| 7.000|  0|  0.000|      4| 0.571|  9|  1|  0| 
 |Logan Gilbert     |SP          | **|    **| **|     **|     **|    **| **| **| **| 
@@ -43,8 +43,8 @@
 |Braxton Ashcraft  |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Casey Mize        |OP          |  1| 6.667|  2|  2.700|      7| 1.050|  4|  1|  0| 
 |Ian Seymour       |OP          |  1| 5.333|  3|  5.062|      5| 0.938| 12|  1|  0| 
-|Kirby Yates       |OP          |  1| 1.000|  0|  0.000|      0| 0.000|  1|  0|  0| 
-|Reid Detmers      |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Kirby Yates       |OP          |  2| 1.333|  1|  6.750|      2| 1.500|  1|  0|  0| 
+|Reid Detmers      |OP          |  1| 4.000|  5| 11.250|      8| 2.000|  6|  0|  0| 
 |Griffin Jax       |PITCH BENCH |  1| 5.000|  3|  5.400|      3| 0.600| 10|  0|  0| 
 |Kris Bubic        |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Noah Cameron      |PITCH BENCH |  1| 5.000|  1|  1.800|     11| 2.200|  7|  1|  0| 
