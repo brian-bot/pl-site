@@ -6,25 +6,25 @@
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
 |Cal Raleigh           |C         |      5|  1|   2|  0|  0| 
-|Matt Olson            |1B        |      8|  6|   4|  3|  0| 
+|Matt Olson            |1B        |      9|  6|   4|  3|  0| 
 |Ozzie Albies          |2B        |      7|  4|   2|  0|  0| 
-|Josh Jung             |3B        |      1|  1|   0|  0|  0| 
-|Willy Adames          |SS        |      7|  4|   2|  1|  0| 
+|Josh Jung             |3B        |      3|  3|   0|  0|  0| 
+|Willy Adames          |SS        |      8|  4|   2|  1|  0| 
 |Zack Gelof            |MI        |      2|  1|   0|  0|  0| 
-|Vladimir Guerrero Jr. |CI        |      5|  2|   2|  1|  0| 
-|Brandon Marsh         |OF        |      6|  0|   0|  0|  0| 
+|Vladimir Guerrero Jr. |CI        |      7|  4|   3|  1|  0| 
+|Brandon Marsh         |OF        |      7|  0|   0|  0|  0| 
 |Christian Yelich      |OF        |      6|  1|   3|  0|  0| 
-|Cody Bellinger        |OF        |      4|  1|   1|  0|  0| 
+|Cody Bellinger        |OF        |      6|  1|   1|  0|  0| 
 |Pete Crow-Armstrong   |OF        |     10|  5|   3|  2|  2| 
-|Caleb Durbin          |DH        |      6|  3|   2|  1|  1| 
-|Jasson Domínguez      |DH        |      7|  2|   0|  0|  1| 
-|Kody Clemens          |DH        |      6|  2|   3|  0|  0| 
+|Caleb Durbin          |DH        |      7|  3|   2|  1|  1| 
+|Jasson Domínguez      |DH        |      9|  4|   1|  1|  1| 
+|Kody Clemens          |DH        |      6|  2|   4|  0|  0| 
 |Luis García Jr.       |DH        |      9|  4|   6|  2|  2| 
-|Gabriel Moreno        |BAT BENCH |      9|  1|   2|  0|  0| 
-|J.P. Crawford         |BAT BENCH |      6|  1|   0|  0|  0| 
+|Gabriel Moreno        |BAT BENCH |     11|  1|   4|  0|  0| 
+|J.P. Crawford         |BAT BENCH |      8|  2|   0|  0|  0| 
 |José Ramírez          |BAT BENCH |     **| **|  **| **| **| 
 |Lars Nootbaar         |BAT BENCH |      3|  0|   1|  0|  0| 
-|Xander Bogaerts       |BAT BENCH |      2|  0|   2|  0|  1| 
+|Xander Bogaerts       |BAT BENCH |      3|  1|   4|  1|  1| 
 
 
 * * *
@@ -42,11 +42,11 @@
 |Tanner Bibee    |SP          |  1| 4.000|  6| 13.500|      7| 1.750|  1|  0|  0| 
 |Pete Fairbanks  |RP          |  3| 3.000|  2|  6.000|      6| 2.000|  5|  0|  1| 
 |Raisel Iglesias |RP          |  2| 2.000|  3| 13.500|      4| 2.000|  3|  0|  1| 
-|Brandon Young   |OP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Emilio Pagán    |OP          |  1| 1.000|  1|  9.000|      3| 3.000|  1|  0|  1| 
+|Brandon Young   |OP          |  1| 7.000|  3|  3.857|      9| 1.286|  5|  0|  0| 
+|Emilio Pagán    |OP          |  2| 2.000|  1|  4.500|      3| 1.500|  4|  0|  1| 
 |J.T. Ginn       |OP          |  1| 4.000|  2|  4.500|      4| 1.000|  4|  0|  0| 
 |Michael Wacha   |OP          |  1| 4.667|  6| 11.571|      9| 1.929|  5|  0|  0| 
-|Ryan Weathers   |OP          |  1| 4.000|  4|  9.000|      8| 2.000|  6|  0|  0| 
+|Ryan Weathers   |OP          |  2| 9.333|  5|  4.821|     14| 1.500| 12|  0|  0| 
 |Alex Lange      |PITCH BENCH |  2| 1.667|  5| 27.000|      4| 2.400|  0|  0|  1| 
 |Hurston Waldrep |PITCH BENCH |  1| 3.333|  7| 18.900|     11| 3.300|  2|  0|  0| 
 
