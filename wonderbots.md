@@ -48,7 +48,7 @@
 |Griffin Jax       |PITCH BENCH |  2| 10.000|  4|  3.600|     10| 1.000| 13|  1|  0| 
 |Kris Bubic        |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Noah Cameron      |PITCH BENCH |  2| 12.000|  6|  4.500|     18| 1.500| 16|  1|  0| 
-|Shane Baz         |PITCH BENCH |  2| 10.667|  4|  3.375|     16| 1.500| 12|  0|  0| 
+|Shane Baz         |PITCH BENCH |  2| 10.667|  5|  4.219|     17| 1.594| 12|  0|  0| 
 
 
 * * *
