@@ -9,7 +9,7 @@
 |Nick Kurtz        |1B        |      0|  0|   0|  0|  0| 
 |Ketel Marte       |2B        |      7|  2|   0|  0|  0| 
 |Casey Schmitt     |3B        |     11|  4|   6|  3|  0| 
-|Trea Turner       |SS        |      8|  2|   2|  0|  0| 
+|Trea Turner       |SS        |      9|  3|   3|  1|  0| 
 |Otto Lopez        |MI        |     11|  4|   5|  1|  0| 
 |Jake Bauers       |CI        |     16|  6|   7|  3|  1| 
 |Byron Buxton      |OF        |      1|  0|   0|  0|  0| 

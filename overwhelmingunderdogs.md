@@ -14,7 +14,7 @@
 |Alex Bregman     |CI        |      9|  4|  10|  2|  0| 
 |George Springer  |OF        |      3|  2|   1|  1|  0| 
 |Jakob Marsee     |OF        |     10|  4|   3|  0|  1| 
-|Juan Soto        |OF        |     15|  5|  10|  3|  1| 
+|Juan Soto        |OF        |     19|  5|  10|  3|  1| 
 |Trent Grisham    |OF        |      9|  6|   3|  1|  0| 
 |Christian Walker |DH        |     10|  4|   2|  1|  0| 
 |Dominic Canzone  |DH        |      4|  1|   3|  1|  0| 

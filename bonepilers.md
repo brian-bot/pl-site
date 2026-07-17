@@ -16,7 +16,7 @@
 |Ian Happ         |OF        |      9|  0|   1|  0|  0| 
 |Julio Rodríguez  |OF        |     **| **|  **| **| **| 
 |Yordan Alvarez   |OF        |     11|  3|   3|  2|  0| 
-|Carson Benge     |DH        |     15|  7|   3|  1|  4| 
+|Carson Benge     |DH        |     16|  7|   3|  1|  5| 
 |Jackson Merrill  |DH        |     12|  5|   5|  0|  1| 
 |Konnor Griffin   |DH        |      3|  1|   2|  0|  1| 
 |Nasim Nuñez      |DH        |      6|  3|   0|  0|  2| 

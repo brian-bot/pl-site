@@ -38,13 +38,13 @@
 |Will Warren        |SP          |  2|  9.000|  7|  7.000|     15| 1.667|  5|  0|  0| 
 |Yoshinobu Yamamoto |SP          |  1|  6.000|  6|  9.000|      9| 1.500|  6|  0|  0| 
 |Aaron Ashby        |RP          |  4|  3.333|  4| 10.800|     10| 3.000|  5|  0|  0| 
-|Devin Williams     |RP          |  4|  3.333|  4| 10.800|     12| 3.600|  3|  0|  1| 
+|Devin Williams     |RP          |  5|  4.333|  4|  8.308|     12| 2.769|  4|  0|  2| 
 |Brandon Sproat     |OP          |  2|  7.000|  3|  3.857|     12| 1.714|  7|  0|  0| 
-|Christian Scott    |OP          |  1|  5.000|  0|  0.000|      4| 0.800|  5|  0|  0| 
+|Christian Scott    |OP          |  2| 10.667|  0|  0.000|      7| 0.656| 12|  1|  0| 
 |Matthew Boyd       |OP          |  2| 12.333|  4|  2.919|     12| 0.973| 10|  2|  0| 
 |Robert Gasser      |OP          |  2| 10.667|  9|  7.594|     13| 1.219|  7|  1|  0| 
 |Shane Drohan       |OP          |  2| 12.333|  4|  2.919|     13| 1.054|  8|  1|  0| 
-|Aaron Nola         |PITCH BENCH |  2| 12.000|  5|  3.750|     12| 1.000| 15|  0|  0| 
+|Aaron Nola         |PITCH BENCH |  3| 18.000|  8|  4.000|     22| 1.222| 21|  0|  0| 
 |Alex Vesia         |PITCH BENCH |  3|  2.667|  0|  0.000|      5| 1.875|  4|  0|  0| 
 |Eduardo Rodriguez  |PITCH BENCH |  2| 12.000|  4|  3.000|     13| 1.083|  8|  1|  0| 
 |Edward Cabrera     |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 

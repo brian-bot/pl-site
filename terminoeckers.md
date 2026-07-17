@@ -20,7 +20,7 @@
 |Carter Jensen     |DH        |      7|  0|   2|  0|  0| 
 |Curtis Mead       |DH        |     15|  4|   5|  3|  1| 
 |Jake Burger       |DH        |      6|  3|   6|  2|  0| 
-|A.J. Ewing        |BAT BENCH |     14|  8|   5|  3|  1| 
+|A.J. Ewing        |BAT BENCH |     15|  8|   6|  3|  1| 
 |Addison Barger    |BAT BENCH |     **| **|  **| **| **| 
 |Eugenio Suárez    |BAT BENCH |      9|  4|   4|  3|  0| 
 |Wyatt Langford    |BAT BENCH |      6|  3|   2|  1|  0| 

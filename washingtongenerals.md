@@ -5,7 +5,7 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Francisco Alvarez |C         |      8|  0|   3|  0|  0| 
+|Francisco Alvarez |C         |     11|  2|   5|  2|  0| 
 |Michael Busch     |1B        |     13|  4|   2|  0|  0| 
 |Nico Hoerner      |2B        |      4|  2|   2|  0|  2| 
 |Max Muncy         |3B        |      6|  1|   1|  0|  0| 
@@ -14,11 +14,11 @@
 |Freddie Freeman   |CI        |      6|  1|   0|  0|  0| 
 |Cedric Mullins    |OF        |      2|  1|   1|  1|  0| 
 |Henry Bolte       |OF        |      3|  2|   2|  1|  0| 
-|Kyle Schwarber    |OF        |     11|  2|   4|  2|  0| 
+|Kyle Schwarber    |OF        |     12|  2|   4|  2|  0| 
 |Samad Taylor      |OF        |      2|  0|   0|  0|  0| 
-|Bryce Harper      |DH        |      9|  3|   0|  0|  0| 
+|Bryce Harper      |DH        |     11|  3|   0|  0|  0| 
 |Cole Young        |DH        |      6|  5|   2|  2|  1| 
-|J.T. Realmuto     |DH        |      7|  4|   6|  1|  0| 
+|J.T. Realmuto     |DH        |      8|  4|   6|  1|  0| 
 |Luis Arraez       |DH        |     15|  3|   2|  0|  2| 
 |Corey Seager      |BAT BENCH |     **| **|  **| **| **| 
 |Jarren Duran      |BAT BENCH |      9|  3|   4|  1|  0| 
