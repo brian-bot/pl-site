@@ -5,24 +5,24 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Kyle Teel          |C         |      5|  5|   5|  1|  0| 
+|Kyle Teel          |C         |      6|  5|   6|  1|  0| 
 |Andrew Vaughn      |1B        |      4|  2|   0|  0|  0| 
-|Ceddanne Rafaela   |2B        |      9|  4|   3|  1|  1| 
-|Junior Caminero    |3B        |     10|  4|   3|  2|  1| 
-|Zach Neto          |SS        |     13|  8|   2|  1|  1| 
-|CJ Abrams          |MI        |     12|  3|   7|  2|  1| 
-|Sal Stewart        |CI        |     10|  3|   5|  2|  0| 
-|Fernando Tatis Jr. |OF        |     11|  5|   2|  0|  3| 
-|James Wood         |OF        |     21| 12|   8|  5|  2| 
-|JJ Bleday          |OF        |     11|  5|   6|  3|  1| 
-|Mike Trout         |OF        |      6|  4|   3|  1|  0| 
+|Ceddanne Rafaela   |2B        |     11|  6|   4|  1|  2| 
+|Junior Caminero    |3B        |     13|  6|   4|  3|  1| 
+|Zach Neto          |SS        |     15|  9|   2|  1|  1| 
+|CJ Abrams          |MI        |     14|  4|   8|  2|  1| 
+|Sal Stewart        |CI        |     12|  3|   7|  2|  0| 
+|Fernando Tatis Jr. |OF        |     14|  5|   3|  0|  3| 
+|James Wood         |OF        |     23| 14|  10|  5|  2| 
+|JJ Bleday          |OF        |     13|  6|   6|  3|  1| 
+|Mike Trout         |OF        |      7|  4|   3|  1|  0| 
 |José Caballero     |DH        |      7|  3|   6|  2|  2| 
-|Mookie Betts       |DH        |      5|  1|   2|  0|  0| 
+|Mookie Betts       |DH        |      6|  2|   2|  0|  0| 
 |Owen Caissie       |DH        |      2|  1|   1|  1|  0| 
-|Paul Goldschmidt   |DH        |      4|  1|   1|  1|  0| 
+|Paul Goldschmidt   |DH        |      5|  1|   1|  1|  0| 
 |Aaron Judge        |BAT BENCH |     **| **|  **| **| **| 
 |Ezequiel Tovar     |BAT BENCH |      4|  3|   2|  1|  0| 
-|Salvador Perez     |BAT BENCH |     11|  2|   7|  1|  0| 
+|Salvador Perez     |BAT BENCH |     14|  3|   7|  1|  0| 
 
 
 * * *
@@ -43,9 +43,9 @@
 |Braxton Ashcraft  |OP          |  1|  5.000|  5|  9.000|      7| 1.400|  6|  0|  0| 
 |Casey Mize        |OP          |  2| 12.333|  5|  3.649|     14| 1.135|  9|  1|  0| 
 |Ian Seymour       |OP          |  2|  8.667|  8|  8.308|     14| 1.615| 15|  1|  0| 
-|Kirby Yates       |OP          |  3|  2.333|  1|  3.857|      3| 1.286|  1|  0|  1| 
-|Reid Detmers      |OP          |  1|  4.000|  5| 11.250|      8| 2.000|  6|  0|  0| 
-|Griffin Jax       |PITCH BENCH |  2| 10.000|  4|  3.600|     10| 1.000| 13|  1|  0| 
+|Kirby Yates       |OP          |  4|  3.000|  3|  9.000|      5| 1.667|  1|  0|  1| 
+|Reid Detmers      |OP          |  2| 10.000|  5|  4.500|     12| 1.200| 13|  0|  0| 
+|Griffin Jax       |PITCH BENCH |  3| 15.000| 11|  6.600|     19| 1.267| 19|  1|  0| 
 |Kris Bubic        |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Noah Cameron      |PITCH BENCH |  2| 12.000|  6|  4.500|     18| 1.500| 16|  1|  0| 
 |Shane Baz         |PITCH BENCH |  2| 10.667|  5|  4.219|     17| 1.594| 12|  0|  0| 

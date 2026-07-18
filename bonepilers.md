@@ -5,24 +5,24 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Drake Baldwin    |C         |     16|  3|   7|  1|  0| 
+|Drake Baldwin    |C         |     20|  5|  12|  2|  0| 
 |Royce Lewis      |1B        |     11|  7|   6|  2|  0| 
 |Brandon Lowe     |2B        |      9|  6|   4|  1|  0| 
-|Manny Machado    |3B        |     14|  4|   7|  2|  1| 
-|Jeremy Peña      |SS        |      3|  1|   1|  0|  0| 
+|Manny Machado    |3B        |     15|  4|   7|  2|  1| 
+|Jeremy Peña      |SS        |      7|  3|   1|  0|  0| 
 |Travis Bazzana   |MI        |      8|  3|   1|  0|  1| 
 |Colt Emerson     |CI        |      3|  0|   1|  0|  1| 
-|Cole Carrigg     |OF        |      8|  5|   3|  0|  0| 
-|Ian Happ         |OF        |      9|  0|   1|  0|  0| 
+|Cole Carrigg     |OF        |      9|  5|   3|  0|  0| 
+|Ian Happ         |OF        |     11|  0|   1|  0|  0| 
 |Julio Rodríguez  |OF        |     **| **|  **| **| **| 
-|Yordan Alvarez   |OF        |     11|  3|   3|  2|  0| 
+|Yordan Alvarez   |OF        |     15|  3|   4|  2|  0| 
 |Carson Benge     |DH        |     16|  7|   3|  1|  5| 
 |Jackson Merrill  |DH        |     12|  5|   5|  0|  1| 
 |Konnor Griffin   |DH        |      3|  1|   2|  0|  1| 
-|Nasim Nuñez      |DH        |      6|  3|   0|  0|  2| 
+|Nasim Nuñez      |DH        |      9|  6|   0|  0|  3| 
 |Chandler Simpson |BAT BENCH |      9|  4|   1|  0|  2| 
 |Chase DeLauter   |BAT BENCH |     14|  6|   7|  4|  0| 
-|Tyler Soderstrom |BAT BENCH |      4|  2|   1|  1|  0| 
+|Tyler Soderstrom |BAT BENCH |      5|  3|   3|  2|  0| 
 
 * * *
 
@@ -44,7 +44,7 @@
 |Freddy Peralta     |OP          |  2|  9.000|  3|  3.000|     15| 1.667| 12|  0|  0| 
 |Kenley Jansen      |OP          |  3|  3.000|  0|  0.000|      3| 1.000|  2|  0|  2| 
 |Spencer Arrighetti |OP          |  1|  4.000|  8| 18.000|     13| 3.250|  2|  0|  0| 
-|Chad Patrick       |PITCH BENCH |  3|  4.667|  2|  3.857|      3| 0.643|  4|  0|  0| 
+|Chad Patrick       |PITCH BENCH |  4|  5.667|  2|  3.176|      4| 0.706|  5|  0|  0| 
 |Garrett Crochet    |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Kade Anderson      |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Mason Montgomery   |PITCH BENCH |  3|  3.000|  0|  0.000|      2| 0.667|  5|  0|  1| 
