@@ -5,25 +5,25 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Francisco Alvarez |C         |     11|  2|   5|  2|  0| 
-|Michael Busch     |1B        |     14|  4|   3|  0|  0| 
-|Nico Hoerner      |2B        |      6|  2|   2|  0|  2| 
+|Francisco Alvarez |C         |     12|  2|   5|  2|  0| 
+|Michael Busch     |1B        |     16|  6|   4|  1|  0| 
+|Nico Hoerner      |2B        |     10|  3|   3|  0|  2| 
 |Max Muncy         |3B        |      8|  2|   3|  1|  0| 
 |Bobby Witt Jr.    |SS        |     13|  7|   3|  1|  1| 
-|Kevin McGonigle   |MI        |     12|  4|   3|  1|  0| 
+|Kevin McGonigle   |MI        |     14|  6|   3|  1|  0| 
 |Freddie Freeman   |CI        |      6|  1|   0|  0|  0| 
-|Cedric Mullins    |OF        |      4|  1|   1|  1|  0| 
+|Cedric Mullins    |OF        |      4|  1|   1|  1|  1| 
 |Henry Bolte       |OF        |      4|  2|   3|  1|  0| 
-|Kyle Schwarber    |OF        |     12|  2|   4|  2|  0| 
+|Kyle Schwarber    |OF        |     15|  4|   6|  3|  0| 
 |Samad Taylor      |OF        |      2|  0|   0|  0|  0| 
-|Bryce Harper      |DH        |     11|  3|   0|  0|  0| 
-|Cole Young        |DH        |      6|  5|   2|  2|  1| 
-|J.T. Realmuto     |DH        |      8|  4|   6|  1|  0| 
-|Luis Arraez       |DH        |     16|  3|   2|  0|  2| 
+|Bryce Harper      |DH        |     13|  3|   2|  0|  0| 
+|Cole Young        |DH        |      8|  6|   5|  3|  1| 
+|J.T. Realmuto     |DH        |     11|  4|   6|  1|  0| 
+|Luis Arraez       |DH        |     18|  3|   2|  0|  2| 
 |Corey Seager      |BAT BENCH |     **| **|  **| **| **| 
-|Jarren Duran      |BAT BENCH |     10|  4|   7|  1|  0| 
+|Jarren Duran      |BAT BENCH |     10|  5|   7|  1|  0| 
 |Oneil Cruz        |BAT BENCH |     **| **|  **| **| **| 
-|Spencer Steer     |BAT BENCH |     15|  5|   6|  3|  0| 
+|Spencer Steer     |BAT BENCH |     16|  5|   6|  3|  0| 
 
 
 * * *
@@ -33,14 +33,14 @@
  
 |players          |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Dustin May       |SP          |  2|  8.667|  2| 2.077|     10| 1.154| 11|  0|  0| 
+|Dustin May       |SP          |  3| 13.667|  7| 4.610|     22| 1.610| 17|  0|  0| 
 |Jacob deGrom     |SP          |  1|  5.000|  2| 3.600|      7| 1.400|  7|  0|  0| 
 |Michael McGreevy |SP          |  2| 12.667|  2| 1.421|     13| 1.026| 11|  1|  0| 
 |Nathan Eovaldi   |SP          |  1|  6.000|  3| 4.500|      8| 1.333| 10|  0|  0| 
 |Sonny Gray       |SP          |  1|  6.000|  1| 1.500|      6| 1.000|  3|  1|  0| 
 |Troy Melton      |SP          |  2| 11.000|  1| 0.818|     13| 1.182| 18|  1|  0| 
-|Gregory Soto     |RP          |  3|  4.000|  1| 2.250|      4| 1.000|  2|  1|  1| 
-|Jacob Latz       |RP          |  2|  2.667|  0| 0.000|      4| 1.500|  3|  1|  0| 
+|Gregory Soto     |RP          |  4|  4.667|  1| 1.929|      6| 1.286|  4|  1|  1| 
+|Jacob Latz       |RP          |  3|  4.000|  0| 0.000|      4| 1.000|  4|  1|  1| 
 |Grant Taylor     |OP          |  2|  2.667|  0| 0.000|      2| 0.750|  2|  0|  1| 
 |Justin Wrobleski |OP          |  1|  7.000|  1| 1.286|      8| 1.143|  9|  0|  0| 
 |Kumar Rocker     |OP          |  2| 10.000| 10| 9.000|     16| 1.600| 10|  0|  0| 
