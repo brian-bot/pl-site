@@ -8,18 +8,18 @@
 |Samuel Basallo    |C         |      6|  3|   4|  2|  0| 
 |Ben Rice          |1B        |     22|  7|  12|  5|  0| 
 |Jazz Chisholm Jr. |2B        |     12|  8|  10|  4|  0| 
-|Isaac Paredes     |3B        |     19|  5|   4|  1|  0| 
-|Bo Bichette       |SS        |     15|  5|   4|  0|  0| 
-|Mauricio Dubón    |MI        |     12|  5|   6|  1|  1| 
-|Alec Burleson     |CI        |     15|  8|   6|  1|  0| 
-|Andy Pages        |OF        |     17|  5|   5|  1|  0| 
-|Jo Adell          |OF        |     13|  4|  10|  3|  0| 
-|Randy Arozarena   |OF        |     20|  8|   4|  2|  0| 
+|Isaac Paredes     |3B        |     21|  6|   7|  2|  0| 
+|Bo Bichette       |SS        |     17|  6|   4|  0|  0| 
+|Mauricio Dubón    |MI        |     13|  6|   6|  1|  1| 
+|Alec Burleson     |CI        |     18|  8|   6|  1|  0| 
+|Andy Pages        |OF        |     18|  6|   5|  1|  0| 
+|Jo Adell          |OF        |     15|  5|  12|  4|  0| 
+|Randy Arozarena   |OF        |     22|  8|   4|  2|  0| 
 |Wilyer Abreu      |OF        |     19| 11|  10|  5|  0| 
 |Braden Montgomery |DH        |     12|  5|  10|  1|  1| 
-|Kyle Manzardo     |DH        |      7|  4|   1|  0|  0| 
-|Sam Antonacci     |DH        |     14|  6|   6|  2|  2| 
-|Shohei Ohtani     |DH        |     16|  6|  10|  4|  0| 
+|Kyle Manzardo     |DH        |      7|  5|   1|  0|  0| 
+|Sam Antonacci     |DH        |     15|  6|   6|  2|  2| 
+|Shohei Ohtani     |DH        |     17|  6|  10|  4|  0| 
 |Brooks Lee        |BAT BENCH |     17|  3|   5|  0|  1| 
 |Matt McLain       |BAT BENCH |      0|  0|   0|  0|  0| 
 
@@ -38,8 +38,8 @@
 |Will Warren        |SP          |  2|  9.000|  7| 7.000|     15| 1.667|  5|  0|  0| 
 |Yoshinobu Yamamoto |SP          |  2| 15.000|  8| 4.800|     13| 0.867| 13|  1|  0| 
 |Aaron Ashby        |RP          |  6|  5.333|  4| 6.750|     13| 2.438|  8|  0|  0| 
-|Devin Williams     |RP          |  5|  4.333|  4| 8.308|     12| 2.769|  4|  0|  2| 
-|Brandon Sproat     |OP          |  2|  7.000|  3| 3.857|     12| 1.714|  7|  0|  0| 
+|Devin Williams     |RP          |  6|  5.333|  4| 6.750|     13| 2.438|  4|  0|  2| 
+|Brandon Sproat     |OP          |  3| 11.667|  5| 3.857|     20| 1.714| 11|  0|  0| 
 |Christian Scott    |OP          |  2| 10.667|  0| 0.000|      7| 0.656| 12|  1|  0| 
 |Matthew Boyd       |OP          |  3| 18.333|  5| 2.455|     16| 0.873| 14|  3|  0| 
 |Robert Gasser      |OP          |  3| 15.667| 10| 5.745|     16| 1.021| 12|  1|  0| 

@@ -6,19 +6,19 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Francisco Alvarez |C         |     14|  3|   5|  2|  0| 
-|Michael Busch     |1B        |     21|  9|   6|  2|  0| 
-|Nico Hoerner      |2B        |     14|  4|   7|  0|  2| 
-|Max Muncy         |3B        |     13|  3|   4|  1|  0| 
+|Michael Busch     |1B        |     22| 10|   7|  2|  0| 
+|Nico Hoerner      |2B        |     15|  5|   7|  0|  2| 
+|Max Muncy         |3B        |     14|  4|   6|  2|  0| 
 |Bobby Witt Jr.    |SS        |     14|  7|   3|  1|  1| 
-|Kevin McGonigle   |MI        |     19|  7|   4|  2|  0| 
-|Freddie Freeman   |CI        |     10|  1|   2|  0|  0| 
-|Cedric Mullins    |OF        |      6|  2|   2|  2|  1| 
+|Kevin McGonigle   |MI        |     20|  7|   4|  2|  0| 
+|Freddie Freeman   |CI        |     11|  1|   2|  0|  0| 
+|Cedric Mullins    |OF        |      8|  4|   2|  2|  2| 
 |Henry Bolte       |OF        |      5|  2|   3|  1|  0| 
 |Kyle Schwarber    |OF        |     17|  4|   6|  3|  0| 
 |Samad Taylor      |OF        |      2|  0|   0|  0|  0| 
-|Bryce Harper      |DH        |     15|  4|   3|  1|  0| 
+|Bryce Harper      |DH        |     16|  5|   3|  1|  0| 
 |Cole Young        |DH        |     11|  8|   7|  4|  1| 
-|J.T. Realmuto     |DH        |     13|  5|   6|  1|  0| 
+|J.T. Realmuto     |DH        |     14|  5|   6|  1|  0| 
 |Luis Arraez       |DH        |     19|  3|   3|  0|  2| 
 |Corey Seager      |BAT BENCH |     **| **|  **| **| **| 
 |Jarren Duran      |BAT BENCH |     12|  5|   8|  1|  0| 
@@ -42,13 +42,13 @@
 |Gregory Soto     |RP          |  4|  4.667|  1| 1.929|      6| 1.286|  4|  1|  1| 
 |Jacob Latz       |RP          |  3|  4.000|  0| 0.000|      4| 1.000|  4|  1|  1| 
 |Grant Taylor     |OP          |  3|  3.667|  0| 0.000|      4| 1.091|  2|  0|  2| 
-|Justin Wrobleski |OP          |  1|  7.000|  1| 1.286|      8| 1.143|  9|  0|  0| 
-|Kumar Rocker     |OP          |  2| 10.000| 10| 9.000|     16| 1.600| 10|  0|  0| 
-|Reynaldo López   |OP          |  2| 10.000|  5| 4.500|     11| 1.100|  8|  0|  0| 
+|Justin Wrobleski |OP          |  2| 13.333|  2| 1.350|     14| 1.050| 16|  1|  0| 
+|Kumar Rocker     |OP          |  3| 16.000| 10| 5.625|     19| 1.188| 16|  1|  0| 
+|Reynaldo López   |OP          |  3| 14.333| 10| 6.279|     23| 1.605| 14|  0|  0| 
 |Sean Burke       |OP          |  2| 13.667|  1| 0.659|      7| 0.512| 14|  2|  0| 
 |Anthony Kay      |PITCH BENCH |  2|  9.333|  4| 3.857|     11| 1.179|  9|  0|  0| 
 |Landen Roupp     |PITCH BENCH |  2| 15.000|  1| 0.600|     10| 0.667|  7|  2|  0| 
-|Tyler Phillips   |PITCH BENCH |  2|  6.000|  2| 3.000|      9| 1.500|  4|  1|  0| 
+|Tyler Phillips   |PITCH BENCH |  3| 10.333|  4| 3.484|     15| 1.452|  6|  1|  0| 
 
 
 * * *

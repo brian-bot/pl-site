@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras |C         |      8|  2|   6|  1|  0| 
+|William Contreras |C         |      9|  2|   6|  1|  0| 
 |Nick Kurtz        |1B        |      0|  0|   0|  0|  0| 
-|Ketel Marte       |2B        |     13|  5|   4|  1|  0| 
-|Casey Schmitt     |3B        |     15|  6|   6|  3|  2| 
-|Trea Turner       |SS        |     18|  8|   9|  4|  1| 
-|Otto Lopez        |MI        |     14|  4|   6|  1|  1| 
-|Jake Bauers       |CI        |     19|  7|   7|  3|  1| 
-|Byron Buxton      |OF        |      3|  0|   0|  0|  0| 
-|Heliot Ramos      |OF        |     17|  9|   7|  3|  0| 
-|Michael Harris II |OF        |     18|  8|  11|  2|  1| 
+|Ketel Marte       |2B        |     14|  6|   5|  1|  0| 
+|Casey Schmitt     |3B        |     16|  6|   6|  3|  2| 
+|Trea Turner       |SS        |     19|  8|   9|  4|  1| 
+|Otto Lopez        |MI        |     16|  5|   6|  1|  1| 
+|Jake Bauers       |CI        |     20|  7|   7|  3|  1| 
+|Byron Buxton      |OF        |      4|  0|   0|  0|  0| 
+|Heliot Ramos      |OF        |     18|  9|   8|  3|  0| 
+|Michael Harris II |OF        |     19|  8|  11|  2|  1| 
 |Riley Greene      |OF        |     19|  7|  10|  3|  0| 
 |Esmerlyn Valdez   |DH        |     18| 11|  17|  7|  0| 
-|Iván Herrera      |DH        |     10|  4|   2|  1|  0| 
-|Jung Hoo Lee      |DH        |     11|  4|   0|  0|  0| 
-|Troy Johnston     |DH        |      7|  1|   2|  0|  0| 
+|Iván Herrera      |DH        |     11|  4|   2|  1|  0| 
+|Jung Hoo Lee      |DH        |     13|  4|   0|  0|  0| 
+|Troy Johnston     |DH        |      8|  1|   3|  0|  0| 
 |Charlie Condon    |BAT BENCH |     **| **|  **| **| **| 
-|Ryan Jeffers      |BAT BENCH |      7|  1|   5|  1|  0| 
+|Ryan Jeffers      |BAT BENCH |      8|  2|   6|  2|  0| 
 |Spencer Horwitz   |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -38,7 +38,7 @@
 |Nolan McLean      |SP          |  3| 18.000|  2| 1.000|     17| 0.944| 22|  2|  0| 
 |Tarik Skubal      |SP          |  3| 17.000|  3| 1.588|     17| 1.000| 23|  2|  0| 
 |Trey Yesavage     |SP          |  3| 13.667|  9| 5.927|     20| 1.463| 17|  0|  0| 
-|Mason Miller      |RP          |  5|  5.000|  0| 0.000|      4| 0.800|  9|  0|  4| 
+|Mason Miller      |RP          |  6|  6.000|  0| 0.000|      6| 1.000| 12|  0|  4| 
 |Riley O'Brien     |RP          |  5|  4.333|  2| 4.154|      7| 1.615|  6|  0|  3| 
 |Antonio Senzatela |OP          |  5|  5.000|  5| 9.000|     10| 2.000|  8|  1|  0| 
 |Dylan Lee         |OP          |  5|  5.333|  2| 3.375|      7| 1.312|  7|  0|  0| 
