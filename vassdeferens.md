@@ -8,11 +8,11 @@
 |Liam Hicks         |C         |     19|  5|   6|  1|  1| 
 |Josh Naylor        |1B        |     21|  7|   3|  0|  6| 
 |Jose Altuve        |2B        |     12|  6|   7|  4|  1| 
-|JJ Wetherholt      |3B        |     17| 10|   4|  2|  1| 
-|Geraldo Perdomo    |SS        |     22| 10|   5|  2|  4| 
+|JJ Wetherholt      |3B        |     19| 12|   4|  2|  1| 
+|Geraldo Perdomo    |SS        |     25| 10|   5|  2|  4| 
 |Bryson Stott       |MI        |     19|  6|   2|  0|  1| 
 |Spencer Torkelson  |CI        |     13|  8|  12|  5|  0| 
-|Corbin Carroll     |OF        |     15|  8|   4|  2|  2| 
+|Corbin Carroll     |OF        |     16|  9|   5|  2|  2| 
 |Daylen Lile        |OF        |     10|  4|   6|  1|  2| 
 |Ryan O'Hearn       |OF        |     19|  9|  13|  3|  0| 
 |Taylor Ward        |OF        |     27|  8|   4|  2|  1| 
@@ -20,9 +20,9 @@
 |Jackson Chourio    |DH        |     18| 11|   4|  0|  4| 
 |Javier Sanoja      |DH        |     12|  5|   1|  0|  0| 
 |Mickey Moniak      |DH        |     12|  5|   5|  1|  0| 
-|Gleyber Torres     |BAT BENCH |      4|  1|   0|  0|  0| 
+|Gleyber Torres     |BAT BENCH |      5|  1|   0|  0|  0| 
 |Munetaka Murakami  |BAT BENCH |     14|  6|   1|  0|  0| 
-|Vinnie Pasquantino |BAT BENCH |     11|  5|   1|  0|  1| 
+|Vinnie Pasquantino |BAT BENCH |     14|  5|   1|  0|  1| 
 
 
 * * *

@@ -12,7 +12,7 @@
 |Zach Neto          |SS        |     21| 10|   3|  1|  2| 
 |CJ Abrams          |MI        |     25|  9|  16|  6|  2| 
 |Sal Stewart        |CI        |     14|  5|  14|  4|  0| 
-|Fernando Tatis Jr. |OF        |     26| 12|  13|  3|  5| 
+|Fernando Tatis Jr. |OF        |     28| 12|  14|  3|  5| 
 |James Wood         |OF        |     27| 17|  13|  5|  2| 
 |JJ Bleday          |OF        |     17|  8|   7|  4|  2| 
 |Mike Trout         |OF        |     15|  5|   3|  1|  1| 
@@ -22,7 +22,7 @@
 |Paul Goldschmidt   |DH        |      8|  3|   1|  1|  0| 
 |Aaron Judge        |BAT BENCH |     **| **|  **| **| **| 
 |Ezequiel Tovar     |BAT BENCH |      6|  4|   2|  1|  0| 
-|Salvador Perez     |BAT BENCH |     21|  7|  13|  4|  0| 
+|Salvador Perez     |BAT BENCH |     22|  7|  13|  4|  0| 
 
 
 * * *
@@ -32,7 +32,7 @@
  
 |players           |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Gavin Williams    |SP          |  2| 13.000|  7|  4.846|     11| 0.846| 22|  1|  0| 
+|Gavin Williams    |SP          |  3| 20.000|  7|  3.150|     13| 0.650| 33|  1|  0| 
 |Jacob Misiorowski |SP          |  2| 11.000|  3|  2.455|      8| 0.727| 17|  1|  0| 
 |Joe Ryan          |SP          |  3| 17.000| 10|  5.294|     22| 1.294| 18|  1|  0| 
 |Logan Gilbert     |SP          |  2| 12.667|  7|  4.974|     16| 1.263| 15|  1|  0| 
@@ -42,7 +42,7 @@
 |David Bednar      |RP          |  5|  6.667|  0|  0.000|      4| 0.600|  5|  2|  1| 
 |Braxton Ashcraft  |OP          |  2|  8.000| 12| 13.500|     17| 2.125|  8|  0|  0| 
 |Casey Mize        |OP          |  3| 15.667|  6|  3.447|     20| 1.277| 14|  1|  0| 
-|Ian Seymour       |OP          |  3| 11.667| 11|  8.486|     18| 1.543| 19|  1|  0| 
+|Ian Seymour       |OP          |  4| 17.667| 13|  6.623|     24| 1.358| 26|  1|  0| 
 |Kirby Yates       |OP          |  5|  4.000|  3|  6.750|      6| 1.500|  3|  0|  1| 
 |Reid Detmers      |OP          |  3| 15.333|  6|  3.522|     16| 1.043| 19|  0|  0| 
 |Griffin Jax       |PITCH BENCH |  4| 21.000| 12|  5.143|     23| 1.095| 24|  2|  0| 

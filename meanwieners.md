@@ -10,8 +10,8 @@
 |Jazz Chisholm Jr. |2B        |     13|  8|  10|  4|  1| 
 |Isaac Paredes     |3B        |     23|  7|   8|  3|  0| 
 |Bo Bichette       |SS        |     18|  6|   4|  0|  0| 
-|Mauricio Dubón    |MI        |     15|  7|   6|  1|  1| 
-|Alec Burleson     |CI        |     19|  8|   6|  1|  0| 
+|Mauricio Dubón    |MI        |     16|  8|   6|  1|  1| 
+|Alec Burleson     |CI        |     22|  9|   6|  1|  0| 
 |Andy Pages        |OF        |     19|  7|   5|  1|  2| 
 |Jo Adell          |OF        |     16|  5|  12|  4|  0| 
 |Randy Arozarena   |OF        |     23|  9|   4|  2|  0| 
@@ -20,7 +20,7 @@
 |Kyle Manzardo     |DH        |     10|  7|   3|  1|  0| 
 |Sam Antonacci     |DH        |     15|  6|   6|  2|  2| 
 |Shohei Ohtani     |DH        |     18|  6|  10|  4|  0| 
-|Brooks Lee        |BAT BENCH |     19|  4|   9|  1|  1| 
+|Brooks Lee        |BAT BENCH |     19|  4|   9|  1|  2| 
 |Matt McLain       |BAT BENCH |      0|  0|   0|  0|  0| 
 
 

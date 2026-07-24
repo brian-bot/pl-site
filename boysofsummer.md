@@ -12,16 +12,16 @@
 |Trea Turner       |SS        |     20|  9|   9|  4|  1| 
 |Otto Lopez        |MI        |     17|  5|   6|  1|  1| 
 |Jake Bauers       |CI        |     20|  7|   7|  3|  1| 
-|Byron Buxton      |OF        |      4|  0|   0|  0|  0| 
+|Byron Buxton      |OF        |      6|  0|   0|  0|  0| 
 |Heliot Ramos      |OF        |     18|  9|   8|  3|  0| 
-|Michael Harris II |OF        |     19|  8|  12|  2|  1| 
-|Riley Greene      |OF        |     20|  8|  10|  3|  0| 
+|Michael Harris II |OF        |     21| 10|  13|  3|  1| 
+|Riley Greene      |OF        |     21|  8|  10|  3|  0| 
 |Esmerlyn Valdez   |DH        |     22| 11|  17|  7|  0| 
 |Iván Herrera      |DH        |     11|  4|   2|  1|  0| 
 |Jung Hoo Lee      |DH        |     14|  5|   1|  0|  0| 
 |Troy Johnston     |DH        |      8|  1|   3|  0|  0| 
 |Charlie Condon    |BAT BENCH |     **| **|  **| **| **| 
-|Ryan Jeffers      |BAT BENCH |      8|  2|   6|  2|  0| 
+|Ryan Jeffers      |BAT BENCH |      9|  3|   6|  2|  0| 
 |Spencer Horwitz   |BAT BENCH |     **| **|  **| **| **| 
 
 

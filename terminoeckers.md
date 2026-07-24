@@ -13,11 +13,11 @@
 |Dansby Swanson    |MI        |     14|  8|   1|  0|  4| 
 |Jac Caglianone    |CI        |     13|  7|   7|  2|  0| 
 |Brandon Nimmo     |OF        |     19|  6|  10|  2|  1| 
-|Jordan Walker     |OF        |     22| 11|  13|  3|  3| 
+|Jordan Walker     |OF        |     24| 12|  14|  3|  3| 
 |Kyle Stowers      |OF        |      9|  1|   4|  1|  0| 
 |Kyle Tucker       |OF        |      8|  3|   3|  0|  0| 
 |Bryce Eldridge    |DH        |     19|  6|   4|  3|  1| 
-|Carter Jensen     |DH        |     17|  3|   5|  1|  0| 
+|Carter Jensen     |DH        |     19|  3|   5|  1|  0| 
 |Curtis Mead       |DH        |     25| 10|   9|  3|  2| 
 |Jake Burger       |DH        |     12|  4|   9|  3|  0| 
 |A.J. Ewing        |BAT BENCH |     23|  8|   6|  3|  3| 
