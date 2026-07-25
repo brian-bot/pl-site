@@ -8,18 +8,18 @@
 |Samuel Basallo    |C         |      6|  3|   4|  2|  0| 
 |Ben Rice          |1B        |     23|  8|  15|  6|  0| 
 |Jazz Chisholm Jr. |2B        |     13|  8|  10|  4|  1| 
-|Isaac Paredes     |3B        |     23|  7|   8|  3|  0| 
+|Isaac Paredes     |3B        |     25|  8|   8|  3|  0| 
 |Bo Bichette       |SS        |     18|  6|   4|  0|  0| 
-|Mauricio Dubón    |MI        |     16|  8|   6|  1|  1| 
+|Mauricio Dubón    |MI        |     17|  8|   7|  1|  1| 
 |Alec Burleson     |CI        |     22|  9|   6|  1|  0| 
-|Andy Pages        |OF        |     19|  7|   5|  1|  2| 
-|Jo Adell          |OF        |     16|  5|  12|  4|  0| 
-|Randy Arozarena   |OF        |     23|  9|   4|  2|  0| 
+|Andy Pages        |OF        |     21|  7|   4|  1|  2| 
+|Jo Adell          |OF        |     17|  6|  12|  4|  0| 
+|Randy Arozarena   |OF        |     24| 10|   4|  2|  0| 
 |Wilyer Abreu      |OF        |     19| 11|  10|  5|  0| 
-|Braden Montgomery |DH        |     14|  8|  10|  1|  1| 
+|Braden Montgomery |DH        |     17|  9|  11|  1|  1| 
 |Kyle Manzardo     |DH        |     10|  7|   3|  1|  0| 
-|Sam Antonacci     |DH        |     15|  6|   6|  2|  2| 
-|Shohei Ohtani     |DH        |     18|  6|  10|  4|  0| 
+|Sam Antonacci     |DH        |     18|  7|   6|  2|  3| 
+|Shohei Ohtani     |DH        |     20|  6|  11|  4|  0| 
 |Brooks Lee        |BAT BENCH |     19|  4|   9|  1|  2| 
 |Matt McLain       |BAT BENCH |      0|  0|   0|  0|  0| 
 
@@ -41,14 +41,14 @@
 |Devin Williams     |RP          |  6|  5.333|  4| 6.750|     13| 2.438|  4|  0|  2| 
 |Brandon Sproat     |OP          |  3| 11.667|  5| 3.857|     20| 1.714| 11|  0|  0| 
 |Christian Scott    |OP          |  3| 14.333|  3| 1.884|     14| 0.977| 18|  1|  0| 
-|Matthew Boyd       |OP          |  3| 18.333|  5| 2.455|     16| 0.873| 14|  3|  0| 
+|Matthew Boyd       |OP          |  4| 25.333|  6| 2.132|     26| 1.026| 18|  3|  0| 
 |Robert Gasser      |OP          |  3| 15.667| 10| 5.745|     16| 1.021| 12|  1|  0| 
-|Shane Drohan       |OP          |  3| 18.333|  7| 3.436|     19| 1.036| 17|  2|  0| 
+|Shane Drohan       |OP          |  4| 24.333| 12| 4.438|     27| 1.110| 23|  2|  0| 
 |Aaron Nola         |PITCH BENCH |  4| 23.333| 13| 5.014|     30| 1.286| 25|  0|  0| 
 |Alex Vesia         |PITCH BENCH |  6|  5.333|  2| 3.375|     10| 1.875|  8|  0|  0| 
-|Eduardo Rodriguez  |PITCH BENCH |  3| 14.667|  9| 5.523|     22| 1.500| 11|  1|  0| 
+|Eduardo Rodriguez  |PITCH BENCH |  4| 20.667| 11| 4.790|     32| 1.548| 15|  2|  0| 
 |Edward Cabrera     |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
-|Grant Holmes       |PITCH BENCH |  2| 10.000|  3| 2.700|     13| 1.300|  7|  1|  0| 
+|Grant Holmes       |PITCH BENCH |  3| 15.000|  6| 3.600|     21| 1.400| 12|  1|  0| 
 
 
 * * *
