@@ -5,20 +5,20 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras |C         |     11|  2|   6|  1|  0| 
+|William Contreras |C         |     12|  3|   6|  1|  0| 
 |Nick Kurtz        |1B        |      0|  0|   0|  0|  0| 
 |Ketel Marte       |2B        |     17|  8|   6|  1|  0| 
-|Casey Schmitt     |3B        |     18|  8|  10|  5|  2| 
-|Trea Turner       |SS        |     20|  9|   9|  4|  1| 
-|Otto Lopez        |MI        |     18|  5|   6|  1|  2| 
-|Jake Bauers       |CI        |     21|  7|   7|  3|  1| 
+|Casey Schmitt     |3B        |     19|  9|  11|  5|  2| 
+|Trea Turner       |SS        |     22| 10|   9|  4|  1| 
+|Otto Lopez        |MI        |     20|  5|   7|  1|  3| 
+|Jake Bauers       |CI        |     24| 10|   7|  3|  2| 
 |Byron Buxton      |OF        |      7|  0|   0|  0|  0| 
-|Heliot Ramos      |OF        |     18|  9|   8|  3|  0| 
-|Michael Harris II |OF        |     23| 11|  13|  3|  1| 
-|Riley Greene      |OF        |     21|  8|  11|  3|  0| 
-|Esmerlyn Valdez   |DH        |     22| 11|  17|  7|  0| 
-|Iván Herrera      |DH        |     12|  5|   2|  1|  1| 
-|Jung Hoo Lee      |DH        |     14|  5|   1|  0|  0| 
+|Heliot Ramos      |OF        |     19| 10|   8|  3|  0| 
+|Michael Harris II |OF        |     24| 11|  13|  3|  1| 
+|Riley Greene      |OF        |     24|  9|  11|  3|  0| 
+|Esmerlyn Valdez   |DH        |     24| 11|  17|  7|  0| 
+|Iván Herrera      |DH        |     14|  6|   4|  1|  1| 
+|Jung Hoo Lee      |DH        |     17|  6|   4|  1|  0| 
 |Troy Johnston     |DH        |      8|  1|   3|  0|  0| 
 |Charlie Condon    |BAT BENCH |     **| **|  **| **| **| 
 |Ryan Jeffers      |BAT BENCH |     10|  3|   6|  2|  0| 
@@ -34,8 +34,8 @@
 |:-----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Davis Martin      |SP          |  3| 14.667| 10| 6.136|     20| 1.364| 10|  0|  0| 
 |MacKenzie Gore    |SP          |  4| 19.667| 16| 7.322|     29| 1.475| 23|  1|  0| 
-|Nick Martinez     |SP          |  2| 11.333|  3| 2.382|     12| 1.059|  1|  2|  0| 
-|Nolan McLean      |SP          |  3| 18.000|  2| 1.000|     17| 0.944| 22|  2|  0| 
+|Nick Martinez     |SP          |  3| 17.333|  3| 1.558|     16| 0.923|  6|  3|  0| 
+|Nolan McLean      |SP          |  4| 24.000|  4| 1.500|     26| 1.083| 29|  2|  0| 
 |Tarik Skubal      |SP          |  4| 24.333|  4| 1.479|     23| 0.945| 35|  3|  0| 
 |Trey Yesavage     |SP          |  4| 17.667| 12| 6.113|     26| 1.472| 26|  0|  0| 
 |Mason Miller      |RP          |  7|  7.000|  0| 0.000|      6| 0.857| 13|  0|  5| 
