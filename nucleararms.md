@@ -7,21 +7,21 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Shea Langeliers   |C         |     19|  4|   7|  3|  0| 
 |Yandy Díaz        |1B        |     21| 11|   8|  2|  1| 
-|Luke Keaschall    |2B        |     26|  6|   3|  0|  1| 
-|Austin Riley      |3B        |     23|  8|   8|  3|  2| 
+|Luke Keaschall    |2B        |     26|  6|   4|  0|  1| 
+|Austin Riley      |3B        |     25|  8|   9|  3|  2| 
 |Gunnar Henderson  |SS        |     18| 10|   6|  2|  1| 
 |Colson Montgomery |MI        |     15|  7|   8|  2|  0| 
-|Pete Alonso       |CI        |     22| 10|   6|  2|  3| 
-|Bryan Reynolds    |OF        |     20| 10|   4|  2|  1| 
+|Pete Alonso       |CI        |     25| 11|   7|  3|  3| 
+|Bryan Reynolds    |OF        |     21| 11|   4|  2|  1| 
 |Jake McCarthy     |OF        |     24|  9|  11|  1|  3| 
-|Seiya Suzuki      |OF        |     26| 11|  14|  4|  1| 
-|Teoscar Hernández |OF        |     13|  9|   1|  0|  0| 
+|Seiya Suzuki      |OF        |     27| 12|  16|  5|  1| 
+|Teoscar Hernández |OF        |     15|  9|   1|  0|  0| 
 |Anthony Seigler   |DH        |     16|  6|   6|  2|  1| 
-|Dillon Dingler    |DH        |     21|  8|   7|  3|  0| 
-|Jackson Holliday  |DH        |     21|  3|   2|  0|  0| 
-|TJ Rumfield       |DH        |     27|  6|   6|  1|  0| 
+|Dillon Dingler    |DH        |     24|  8|   9|  3|  0| 
+|Jackson Holliday  |DH        |     23|  3|   3|  0|  0| 
+|TJ Rumfield       |DH        |     28|  6|   6|  1|  0| 
 |Giancarlo Stanton |BAT BENCH |     **| **|  **| **| **| 
-|Luis Robert Jr.   |BAT BENCH |      4|  3|   2|  2|  0| 
+|Luis Robert Jr.   |BAT BENCH |      5|  4|   2|  2|  0| 
 |Ronald Acuña Jr.  |BAT BENCH |     **| **|  **| **| **| 
 
 

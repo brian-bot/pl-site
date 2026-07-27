@@ -5,25 +5,25 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|Cal Raleigh           |C         |     17|  2|   8|  1|  0| 
-|Matt Olson            |1B        |     27| 12|   9|  5|  0| 
+|Cal Raleigh           |C         |     19|  2|   8|  1|  0| 
+|Matt Olson            |1B        |     29| 13|   9|  5|  0| 
 |Ozzie Albies          |2B        |     21| 11|   8|  3|  0| 
 |Josh Jung             |3B        |     13|  5|   1|  0|  0| 
-|Willy Adames          |SS        |     18|  9|  11|  4|  0| 
+|Willy Adames          |SS        |     19| 11|  11|  4|  0| 
 |Zack Gelof            |MI        |      2|  1|   0|  0|  0| 
 |Vladimir Guerrero Jr. |CI        |     25|  8|   9|  2|  1| 
-|Brandon Marsh         |OF        |     13|  4|   1|  1|  0| 
+|Brandon Marsh         |OF        |     16|  5|   1|  1|  1| 
 |Christian Yelich      |OF        |     22|  4|   9|  1|  2| 
 |Cody Bellinger        |OF        |     23|  6|   3|  0|  0| 
-|Pete Crow-Armstrong   |OF        |     31| 14|  10|  4|  5| 
-|Caleb Durbin          |DH        |     24| 11|   7|  2|  2| 
-|Jasson Domínguez      |DH        |     18|  8|   3|  2|  1| 
-|Kody Clemens          |DH        |     14|  5|   6|  2|  1| 
-|Luis García Jr.       |DH        |     16|  5|   8|  3|  2| 
-|Gabriel Moreno        |BAT BENCH |     35| 12|  11|  1|  0| 
+|Pete Crow-Armstrong   |OF        |     32| 14|  11|  4|  5| 
+|Caleb Durbin          |DH        |     26| 12|   7|  2|  2| 
+|Jasson Domínguez      |DH        |     18|  8|   4|  2|  1| 
+|Kody Clemens          |DH        |     17|  7|   7|  2|  1| 
+|Luis García Jr.       |DH        |     18|  5|   8|  3|  2| 
+|Gabriel Moreno        |BAT BENCH |     38| 13|  13|  1|  0| 
 |J.P. Crawford         |BAT BENCH |     20|  3|   4|  0|  0| 
 |José Ramírez          |BAT BENCH |      5|  1|   2|  0|  0| 
-|Lars Nootbaar         |BAT BENCH |     17|  6|   7|  1|  1| 
+|Lars Nootbaar         |BAT BENCH |     18|  6|   7|  1|  1| 
 |Xander Bogaerts       |BAT BENCH |     18|  6|   5|  1|  4| 
 
 
@@ -36,12 +36,12 @@
 |:---------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Cade Cavalli    |SP          |  4| 20.333|  7|  3.098|     23| 1.131| 25|  2|  0| 
 |Foster Griffin  |SP          |  3| 20.667|  5|  2.177|     21| 1.016| 13|  3|  0| 
-|Framber Valdez  |SP          |  2|  7.667|  7|  8.217|     10| 1.304| 10|  1|  0| 
+|Framber Valdez  |SP          |  3| 12.667|  9|  6.395|     17| 1.342| 14|  1|  0| 
 |Gerrit Cole     |SP          |  3| 19.333|  8|  3.724|     17| 0.879| 25|  0|  0| 
 |Logan Webb      |SP          |  3| 19.667| 12|  5.492|     18| 0.915| 11|  0|  0| 
 |Tanner Bibee    |SP          |  4| 22.667| 12|  4.765|     34| 1.500| 14|  2|  0| 
-|Pete Fairbanks  |RP          |  6|  5.333|  6| 10.125|     12| 2.250|  8|  0|  1| 
-|Raisel Iglesias |RP          |  7|  6.667|  5|  6.750|      8| 1.200| 10|  0|  4| 
+|Pete Fairbanks  |RP          |  7|  6.333|  6|  8.526|     12| 1.895|  9|  0|  1| 
+|Raisel Iglesias |RP          |  8|  7.667|  5|  5.870|      9| 1.174| 11|  0|  4| 
 |Brandon Young   |OP          |  3| 20.333|  5|  2.213|     21| 1.033| 18|  1|  0| 
 |Emilio Pagán    |OP          |  6|  6.000|  2|  3.000|      5| 0.833|  9|  0|  4| 
 |J.T. Ginn       |OP          |  3| 14.667| 10|  6.136|     17| 1.159| 18|  1|  0| 
