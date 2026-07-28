@@ -6,24 +6,24 @@
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
 |Cal Raleigh           |C         |     19|  2|   8|  1|  0| 
-|Matt Olson            |1B        |     29| 13|   9|  5|  0| 
-|Ozzie Albies          |2B        |     21| 11|   8|  3|  0| 
+|Matt Olson            |1B        |     30| 14|   9|  5|  0| 
+|Ozzie Albies          |2B        |     23| 12|  11|  4|  0| 
 |Josh Jung             |3B        |     13|  5|   1|  0|  0| 
-|Willy Adames          |SS        |     19| 11|  11|  4|  0| 
+|Willy Adames          |SS        |     21| 12|  11|  4|  0| 
 |Zack Gelof            |MI        |      2|  1|   0|  0|  0| 
-|Vladimir Guerrero Jr. |CI        |     25|  8|   9|  2|  1| 
+|Vladimir Guerrero Jr. |CI        |     26|  8|   9|  2|  1| 
 |Brandon Marsh         |OF        |     16|  5|   1|  1|  1| 
 |Christian Yelich      |OF        |     22|  4|   9|  1|  2| 
 |Cody Bellinger        |OF        |     23|  6|   3|  0|  0| 
-|Pete Crow-Armstrong   |OF        |     32| 14|  11|  4|  5| 
-|Caleb Durbin          |DH        |     26| 12|   7|  2|  2| 
-|Jasson Domínguez      |DH        |     18|  8|   4|  2|  1| 
+|Pete Crow-Armstrong   |OF        |     34| 14|  11|  4|  5| 
+|Caleb Durbin          |DH        |     27| 12|   7|  2|  2| 
+|Jasson Domínguez      |DH        |     20| 10|   4|  2|  1| 
 |Kody Clemens          |DH        |     17|  7|   7|  2|  1| 
-|Luis García Jr.       |DH        |     18|  5|   8|  3|  2| 
-|Gabriel Moreno        |BAT BENCH |     38| 13|  13|  1|  0| 
-|J.P. Crawford         |BAT BENCH |     20|  3|   4|  0|  0| 
+|Luis García Jr.       |DH        |     20|  5|   9|  3|  2| 
+|Gabriel Moreno        |BAT BENCH |     39| 13|  13|  1|  0| 
+|J.P. Crawford         |BAT BENCH |     20|  3|   5|  0|  0| 
 |José Ramírez          |BAT BENCH |      5|  1|   2|  0|  0| 
-|Lars Nootbaar         |BAT BENCH |     18|  6|   7|  1|  1| 
+|Lars Nootbaar         |BAT BENCH |     19|  6|   7|  1|  1| 
 |Xander Bogaerts       |BAT BENCH |     18|  6|   5|  1|  4| 
 
 

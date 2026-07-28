@@ -6,21 +6,21 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Hunter Goodman    |C         |     25|  7|  10|  4|  0| 
-|Willson Contreras |1B        |     22|  9|  10|  3|  1| 
+|Willson Contreras |1B        |     24| 10|  10|  3|  1| 
 |Brice Turang      |2B        |     25|  8|  11|  3|  2| 
-|Kazuma Okamoto    |3B        |     16|  8|  11|  4|  0| 
+|Kazuma Okamoto    |3B        |     17|  9|  11|  4|  1| 
 |Elly De La Cruz   |SS        |     28| 14|   6|  5|  5| 
-|Dansby Swanson    |MI        |     20| 11|   4|  0|  4| 
+|Dansby Swanson    |MI        |     21| 11|   4|  0|  4| 
 |Jac Caglianone    |CI        |     13|  7|   7|  2|  0| 
-|Brandon Nimmo     |OF        |     23|  9|  10|  2|  1| 
-|Jordan Walker     |OF        |     26| 12|  14|  3|  3| 
-|Kyle Stowers      |OF        |     14|  2|   6|  2|  0| 
+|Brandon Nimmo     |OF        |     25|  9|  10|  2|  1| 
+|Jordan Walker     |OF        |     28| 13|  14|  3|  3| 
+|Kyle Stowers      |OF        |     16|  2|   6|  2|  0| 
 |Kyle Tucker       |OF        |     14|  5|   6|  2|  0| 
-|Bryce Eldridge    |DH        |     24|  8|   4|  3|  1| 
+|Bryce Eldridge    |DH        |     25|  8|   4|  3|  1| 
 |Carter Jensen     |DH        |     22|  3|   5|  1|  0| 
-|Curtis Mead       |DH        |     29| 11|   9|  3|  2| 
-|Jake Burger       |DH        |     15|  6|  12|  4|  0| 
-|A.J. Ewing        |BAT BENCH |     26| 10|   6|  3|  3| 
+|Curtis Mead       |DH        |     30| 11|   9|  3|  2| 
+|Jake Burger       |DH        |     16|  7|  14|  5|  0| 
+|A.J. Ewing        |BAT BENCH |     29| 12|   7|  3|  4| 
 |Addison Barger    |BAT BENCH |     **| **|  **| **| **| 
 |Eugenio Suárez    |BAT BENCH |     17|  8|   8|  6|  0| 
 |Wyatt Langford    |BAT BENCH |     20| 11|   9|  4|  1| 
@@ -38,8 +38,8 @@
 |Bubba Chandler  |SP          |  3| 15.000|  6| 3.600|     21| 1.400| 11|  0|  0| 
 |Cam Schlittler  |SP          |  4| 26.333|  6| 2.051|     21| 0.797| 34|  2|  0| 
 |Drew Rasmussen  |SP          |  3| 14.333|  8| 5.023|     17| 1.186| 16|  2|  0| 
-|Kyle Bradish    |SP          |  3| 20.333|  5| 2.213|     15| 0.738| 14|  2|  0| 
-|Aroldis Chapman |RP          |  8|  8.000|  1| 1.125|      9| 1.125|  9|  1|  7| 
+|Kyle Bradish    |SP          |  4| 25.000| 10| 3.600|     26| 1.040| 18|  2|  0| 
+|Aroldis Chapman |RP          |  9|  9.000|  1| 1.000|     10| 1.111| 12|  1|  8| 
 |Tanner Scott    |RP          |  7|  7.000|  3| 3.857|      9| 1.286| 10|  0|  4| 
 |Dean Kremer     |OP          |  3| 15.000| 12| 7.200|     23| 1.533| 14|  0|  0| 
 |Gage Jump       |OP          |  4| 17.000| 15| 7.941|     36| 2.118| 21|  0|  0| 

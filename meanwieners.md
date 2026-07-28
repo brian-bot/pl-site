@@ -6,19 +6,19 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Samuel Basallo    |C         |      6|  3|   4|  2|  0| 
-|Ben Rice          |1B        |     25| 10|  16|  7|  0| 
-|Jazz Chisholm Jr. |2B        |     13|  8|  10|  4|  1| 
-|Isaac Paredes     |3B        |     27|  8|  11|  3|  0| 
-|Bo Bichette       |SS        |     22|  7|   5|  0|  0| 
+|Ben Rice          |1B        |     28| 11|  17|  7|  0| 
+|Jazz Chisholm Jr. |2B        |     15| 10|  12|  4|  3| 
+|Isaac Paredes     |3B        |     28|  8|  12|  3|  0| 
+|Bo Bichette       |SS        |     25|  7|   6|  0|  0| 
 |Mauricio Dubón    |MI        |     19|  8|   8|  1|  1| 
 |Alec Burleson     |CI        |     28| 11|   8|  1|  0| 
 |Andy Pages        |OF        |     23|  9|   6|  1|  2| 
-|Jo Adell          |OF        |     20|  7|  14|  5|  0| 
-|Randy Arozarena   |OF        |     28| 11|   5|  3|  0| 
-|Wilyer Abreu      |OF        |     20| 11|  11|  5|  0| 
-|Braden Montgomery |DH        |     20|  9|  11|  1|  1| 
+|Jo Adell          |OF        |     22|  7|  15|  5|  0| 
+|Randy Arozarena   |OF        |     29| 12|   6|  4|  0| 
+|Wilyer Abreu      |OF        |     21| 12|  11|  5|  0| 
+|Braden Montgomery |DH        |     22|  9|  12|  1|  1| 
 |Kyle Manzardo     |DH        |     10|  7|   3|  1|  0| 
-|Sam Antonacci     |DH        |     21|  9|   6|  2|  3| 
+|Sam Antonacci     |DH        |     21| 10|   6|  2|  3| 
 |Shohei Ohtani     |DH        |     21|  6|  11|  4|  0| 
 |Brooks Lee        |BAT BENCH |     21|  6|   9|  1|  2| 
 |Matt McLain       |BAT BENCH |      0|  0|   0|  0|  0| 
@@ -33,13 +33,13 @@
 |:------------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Michael King       |SP          |  3| 17.000|  3| 1.588|     21| 1.235| 15|  1|  0| 
 |Nick Lodolo        |SP          |  2| 11.000|  3| 2.455|     16| 1.455|  8|  1|  0| 
-|Payton Tolle       |SP          |  3| 15.333|  5| 2.935|     16| 1.043| 22|  1|  0| 
+|Payton Tolle       |SP          |  4| 20.667|  7| 3.048|     22| 1.065| 29|  2|  0| 
 |Shota Imanaga      |SP          |  3| 18.000|  1| 0.500|     20| 1.111| 13|  2|  0| 
 |Will Warren        |SP          |  4| 12.667| 13| 9.237|     25| 1.974| 11|  0|  0| 
 |Yoshinobu Yamamoto |SP          |  3| 21.000|  9| 3.857|     21| 1.000| 18|  2|  0| 
 |Aaron Ashby        |RP          |  8|  7.667|  4| 4.696|     14| 1.826| 12|  0|  0| 
 |Devin Williams     |RP          |  7|  6.333|  4| 5.684|     14| 2.211|  7|  0|  2| 
-|Brandon Sproat     |OP          |  3| 11.667|  5| 3.857|     20| 1.714| 11|  0|  0| 
+|Brandon Sproat     |OP          |  4| 17.667|  8| 4.075|     29| 1.642| 16|  0|  0| 
 |Christian Scott    |OP          |  3| 14.333|  3| 1.884|     14| 0.977| 18|  1|  0| 
 |Matthew Boyd       |OP          |  4| 25.333|  6| 2.132|     26| 1.026| 18|  3|  0| 
 |Robert Gasser      |OP          |  4| 21.667| 12| 4.985|     21| 0.969| 16|  2|  0| 
