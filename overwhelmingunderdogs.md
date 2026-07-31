@@ -6,18 +6,18 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Alejandro Kirk   |C         |      2|  0|   0|  0|  0| 
-|Rafael Devers    |1B        |      1|  1|   0|  0|  0| 
+|Rafael Devers    |1B        |      4|  2|   1|  0|  0| 
 |Xavier Edwards   |2B        |      3|  0|   2|  0|  1| 
 |Kyle Karros      |3B        |     **| **|  **| **| **| 
 |Francisco Lindor |SS        |      3|  1|   1|  0|  0| 
-|Tommy Edman      |MI        |      0|  0|   0|  0|  0| 
+|Tommy Edman      |MI        |      1|  1|   0|  0|  0| 
 |Alex Bregman     |CI        |      4|  2|   1|  0|  0| 
 |George Springer  |OF        |      2|  1|   1|  0|  0| 
 |Jakob Marsee     |OF        |      2|  2|   1|  1|  0| 
 |Juan Soto        |OF        |     **| **|  **| **| **| 
 |Trent Grisham    |OF        |      3|  0|   1|  0|  0| 
 |Christian Walker |DH        |      2|  1|   0|  0|  0| 
-|Dominic Canzone  |DH        |      2|  1|   0|  0|  0| 
+|Dominic Canzone  |DH        |      4|  1|   0|  0|  0| 
 |Jonathan Aranda  |DH        |      2|  1|   0|  0|  0| 
 |Miguel Vargas    |DH        |      2|  0|   0|  0|  0| 
 |Brendan Donovan  |BAT BENCH |     **| **|  **| **| **| 

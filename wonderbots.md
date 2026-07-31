@@ -12,14 +12,14 @@
 |Zach Neto          |SS        |      1|  1|   0|  0|  0| 
 |CJ Abrams          |MI        |      1|  1|   0|  0|  0| 
 |Sal Stewart        |CI        |      4|  0|   1|  0|  0| 
-|Fernando Tatis Jr. |OF        |      2|  0|   0|  0|  0| 
+|Fernando Tatis Jr. |OF        |      3|  0|   0|  0|  0| 
 |James Wood         |OF        |      6|  2|   0|  0|  1| 
 |JJ Bleday          |OF        |      2|  0|   0|  0|  0| 
 |Mike Trout         |OF        |      1|  1|   0|  0|  0| 
 |José Caballero     |DH        |      2|  0|   0|  0|  2| 
-|Mookie Betts       |DH        |      1|  1|   0|  0|  0| 
+|Mookie Betts       |DH        |      3|  1|   2|  0|  0| 
 |Paul Goldschmidt   |DH        |      2|  1|   1|  0|  0| 
-|Ty France          |DH        |      2|  1|   0|  0|  0| 
+|Ty France          |DH        |      3|  2|   0|  0|  0| 
 |Aaron Judge        |BAT BENCH |     **| **|  **| **| **| 
 |Kyle Teel          |BAT BENCH |     **| **|  **| **| **| 
 |Owen Caissie       |BAT BENCH |     **| **|  **| **| **| 

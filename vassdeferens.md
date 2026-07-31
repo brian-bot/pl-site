@@ -6,7 +6,7 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Liam Hicks         |C         |      4|  0|   0|  0|  0| 
-|Josh Naylor        |1B        |      1|  0|   1|  0|  0| 
+|Josh Naylor        |1B        |      3|  0|   1|  0|  0| 
 |Jose Altuve        |2B        |      2|  1|   0|  0|  0| 
 |JJ Wetherholt      |3B        |      3|  2|   1|  1|  1| 
 |Geraldo Perdomo    |SS        |      0|  0|   0|  0|  0| 
@@ -32,20 +32,20 @@
  
 |players        |position    |  g|    ip| er| era| hitsbb|  whip| so|  w| sv| 
 |:--------------|:-----------|--:|-----:|--:|---:|------:|-----:|--:|--:|--:| 
-|Bailey Ober    |SP          |  1| 6.000|  2|   3|      6| 1.000|  3|  0|  0| 
+|Bailey Ober    |SP          |  1| 6.000|  2| 3.0|      6| 1.000|  3|  0|  0| 
 |Jack Perkins   |SP          | **|    **| **|  **|     **|    **| **| **| **| 
 |Paul Skenes    |SP          | **|    **| **|  **|     **|    **| **| **| **| 
-|Robbie Ray     |SP          | **|    **| **|  **|     **|    **| **| **| **| 
+|Robbie Ray     |SP          |  1| 6.000|  1| 1.5|      5| 0.833|  6|  1|  0| 
 |Tyler Mahle    |SP          | **|    **| **|  **|     **|    **| **| **| **| 
 |Zebby Matthews |SP          | **|    **| **|  **|     **|    **| **| **| **| 
 |Hogan Harris   |RP          | **|    **| **|  **|     **|    **| **| **| **| 
 |Jhoan Duran    |RP          | **|    **| **|  **|     **|    **| **| **| **| 
-|Brady Singer   |OP          |  1| 4.333|  0|   0|     10| 2.308|  3|  0|  0| 
+|Brady Singer   |OP          |  1| 4.333|  0| 0.0|     10| 2.308|  3|  0|  0| 
 |José Soriano   |OP          | **|    **| **|  **|     **|    **| **| **| **| 
 |Max Fried      |OP          | **|    **| **|  **|     **|    **| **| **| **| 
 |Paul Sewald    |OP          | **|    **| **|  **|     **|    **| **| **| **| 
 |Seth Lugo      |OP          | **|    **| **|  **|     **|    **| **| **| **| 
-|Caleb Kilian   |PITCH BENCH |  1| 1.000|  0|   0|      2| 2.000|  1|  0|  0| 
+|Caleb Kilian   |PITCH BENCH |  2| 2.000|  0| 0.0|      3| 1.500|  2|  0|  0| 
 |Jack Leiter    |PITCH BENCH | **|    **| **|  **|     **|    **| **| **| **| 
 |Ryan Helsley   |PITCH BENCH | **|    **| **|  **|     **|    **| **| **| **| 
 |Shohei Ohtani  |PITCH BENCH | **|    **| **|  **|     **|    **| **| **| **| 

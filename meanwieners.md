@@ -12,9 +12,9 @@
 |Bo Bichette       |SS        |      2|  1|   0|  0|  0| 
 |Mauricio Dubón    |MI        |      2|  0|   0|  0|  0| 
 |Kyle Manzardo     |CI        |      3|  1|   2|  1|  0| 
-|Andy Pages        |OF        |      3|  1|   2|  1|  0| 
+|Andy Pages        |OF        |      5|  2|   2|  1|  0| 
 |Jo Adell          |OF        |      2|  0|   2|  0|  0| 
-|Randy Arozarena   |OF        |      0|  0|   0|  0|  1| 
+|Randy Arozarena   |OF        |      4|  1|   1|  0|  1| 
 |Wilyer Abreu      |OF        |      1|  1|   1|  1|  0| 
 |Braden Montgomery |DH        |      1|  0|   0|  0|  0| 
 |Brooks Lee        |DH        |      1|  0|   0|  0|  0| 

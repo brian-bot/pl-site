@@ -9,7 +9,7 @@
 |Matt Olson            |1B        |      2|  1|   3|  1|  0| 
 |Ozzie Albies          |2B        |      3|  0|   2|  0|  0| 
 |José Ramírez          |3B        |      2|  1|   0|  0|  0| 
-|Willy Adames          |SS        |      3|  2|   0|  0|  1| 
+|Willy Adames          |SS        |      4|  3|   0|  0|  2| 
 |Luis García Jr.       |MI        |      4|  1|   3|  1|  0| 
 |Vladimir Guerrero Jr. |CI        |     **| **|  **| **| **| 
 |Brandon Marsh         |OF        |      1|  0|   0|  0|  0| 
@@ -20,7 +20,7 @@
 |Cooper Pratt          |DH        |      2|  0|   0|  0|  0| 
 |Dylan Crews           |DH        |      0|  0|   0|  0|  0| 
 |Haram Hernandez       |DH        |     **| **|  **| **| **| 
-|Cal Raleigh           |BAT BENCH |      1|  0|   0|  0|  0| 
+|Cal Raleigh           |BAT BENCH |      2|  0|   1|  0|  0| 
 |Cody Bellinger        |BAT BENCH |     **| **|  **| **| **| 
 |Zack Gelof            |BAT BENCH |     **| **|  **| **| **| 
 

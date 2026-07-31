@@ -14,10 +14,10 @@
 |Jake Burger       |CI        |      1|  0|   0|  0|  0| 
 |Brandon Nimmo     |OF        |      3|  0|   0|  0|  1| 
 |Jordan Walker     |OF        |      2|  1|   1|  0|  0| 
-|Kyle Tucker       |OF        |      0|  0|   0|  0|  0| 
+|Kyle Tucker       |OF        |      1|  1|   0|  0|  1| 
 |Wyatt Langford    |OF        |      2|  0|   1|  0|  0| 
 |A.J. Ewing        |DH        |      2|  1|   1|  0|  2| 
-|Bryce Eldridge    |DH        |      1|  2|   1|  0|  0| 
+|Bryce Eldridge    |DH        |      3|  2|   1|  0|  0| 
 |Kyle Stowers      |DH        |      3|  2|   1|  1|  0| 
 |Luis Lara         |DH        |      1|  1|   0|  0|  0| 
 |Carter Jensen     |BAT BENCH |      3|  2|   1|  0|  0| 
@@ -33,14 +33,14 @@
  
 |players         |position    |  g|    ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:---------------|:-----------|--:|-----:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Bryan Woo       |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Bryan Woo       |SP          |  1| 5.000|  5| 9.000|      7| 1.400|  8|  0|  0| 
 |Bryce Miller    |SP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Bubba Chandler  |SP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Cam Schlittler  |SP          |  1| 6.333|  1| 1.421|      3| 0.474|  8|  0|  0| 
 |Drew Rasmussen  |SP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Kyle Bradish    |SP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Aroldis Chapman |RP          |  2| 2.000|  0| 0.000|      2| 1.000|  4|  1|  1| 
-|Tanner Scott    |RP          |  1| 1.000|  1| 9.000|      2| 2.000|  1|  0|  0| 
+|Tanner Scott    |RP          |  2| 2.000|  1| 4.500|      4| 2.000|  2|  0|  0| 
 |Gage Jump       |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Jake Bennett    |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Jared Jones     |OP          |  1| 6.000|  3| 4.500|      6| 1.000|  5|  0|  0| 

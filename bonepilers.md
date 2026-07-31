@@ -19,7 +19,7 @@
 |Carson Benge     |DH        |      4|  1|   1|  0|  1| 
 |Chandler Simpson |DH        |      0|  0|   0|  0|  0| 
 |Chase DeLauter   |DH        |      3|  1|   0|  0|  1| 
-|Jackson Merrill  |DH        |      1|  0|   1|  0|  0| 
+|Jackson Merrill  |DH        |      2|  0|   1|  0|  0| 
 |Konnor Griffin   |BAT BENCH |     **| **|  **| **| **| 
 |Nasim Nuñez      |BAT BENCH |      1|  0|   0|  0|  1| 
 

@@ -13,12 +13,12 @@
 |Otto Lopez        |MI        |      2|  1|   2|  0|  0| 
 |Jake Bauers       |CI        |      2|  1|   0|  0|  0| 
 |Byron Buxton      |OF        |     **| **|  **| **| **| 
-|Heliot Ramos      |OF        |      5|  1|   3|  0|  1| 
+|Heliot Ramos      |OF        |      7|  2|   3|  0|  2| 
 |Michael Harris II |OF        |      1|  0|   0|  0|  0| 
 |Riley Greene      |OF        |      2|  1|   0|  0|  0| 
 |Esmerlyn Valdez   |DH        |      2|  0|   0|  0|  0| 
 |Garrett Mitchell  |DH        |      0|  0|   1|  0|  0| 
-|Jung Hoo Lee      |DH        |      2|  1|   3|  0|  0| 
+|Jung Hoo Lee      |DH        |      5|  1|   3|  0|  0| 
 |Ryan Jeffers      |DH        |      2|  1|   0|  0|  0| 
 |Casey Schmitt     |BAT BENCH |     **| **|  **| **| **| 
 |Iván Herrera      |BAT BENCH |      4|  0|   2|  0|  0| 
@@ -41,7 +41,7 @@
 |Trey Yesavage    |SP          |  1| 6.667|  1| 1.350|      6| 0.900|  4|  1|  0| 
 |Mason Miller     |RP          |  1| 1.000|  0| 0.000|      0| 0.000|  2|  0|  1| 
 |Riley O'Brien    |RP          |  2| 2.000|  0| 0.000|      1| 0.500|  2|  0|  0| 
-|Edwin Díaz       |OP          |  1| 1.000|  1| 9.000|      2| 2.000|  0|  0|  1| 
+|Edwin Díaz       |OP          |  2| 2.000|  1| 4.500|      3| 1.500|  2|  0|  1| 
 |Garrett Whitlock |OP          |  1| 1.000|  0| 0.000|      1| 1.000|  1|  0|  0| 
 |Keider Montero   |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Logan Henderson  |OP          | **|    **| **|    **|     **|    **| **| **| **| 

@@ -11,15 +11,15 @@
 |Max Muncy         |3B        |      1|  0|   0|  0|  0| 
 |Bobby Witt Jr.    |SS        |     **| **|  **| **| **| 
 |Kevin McGonigle   |MI        |      0|  0|   1|  0|  0| 
-|Freddie Freeman   |CI        |      2|  0|   1|  0|  0| 
+|Freddie Freeman   |CI        |      3|  0|   1|  0|  0| 
 |Cedric Mullins    |OF        |      1|  1|   1|  1|  0| 
 |Jarren Duran      |OF        |      0|  0|   0|  0|  0| 
 |Kyle Schwarber    |OF        |     **| **|  **| **| **| 
 |Spencer Steer     |OF        |     **| **|  **| **| **| 
 |Bryce Harper      |DH        |      1|  1|   1|  0|  0| 
-|Cole Young        |DH        |      3|  0|   1|  0|  0| 
+|Cole Young        |DH        |      5|  1|   1|  0|  0| 
 |J.T. Realmuto     |DH        |      1|  1|   0|  0|  0| 
-|Luis Arraez       |DH        |      4|  1|   2|  0|  1| 
+|Luis Arraez       |DH        |      5|  1|   2|  0|  1| 
 |Corey Seager      |BAT BENCH |     **| **|  **| **| **| 
 |Henry Bolte       |BAT BENCH |      1|  0|   0|  0|  0| 
 |Oneil Cruz        |BAT BENCH |     **| **|  **| **| **| 

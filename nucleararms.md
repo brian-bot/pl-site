@@ -15,7 +15,7 @@
 |Bryan Reynolds    |OF        |      2|  0|   0|  0|  0| 
 |Jake McCarthy     |OF        |      0|  0|   0|  0|  0| 
 |Seiya Suzuki      |OF        |      5|  1|   0|  0|  0| 
-|Teoscar Hernández |OF        |      1|  0|   0|  0|  0| 
+|Teoscar Hernández |OF        |      4|  2|   1|  1|  0| 
 |Jackson Holliday  |DH        |      2|  1|   3|  0|  1| 
 |Luis Robert Jr.   |DH        |      1|  0|   2|  0|  0| 
 |Ronald Acuña Jr.  |DH        |      3|  2|   1|  1|  0| 
@@ -40,7 +40,7 @@
 |Jacob Webb      |RP          |  2| 2.333|  0| 0.000|      1| 0.429|  3|  1|  0| 
 |Josh Hader      |RP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Andre Pallante  |OP          |  1| 6.333|  2| 2.842|      9| 1.421|  3|  0|  0| 
-|Roki Sasaki     |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Roki Sasaki     |OP          |  1| 5.333|  2| 3.375|      8| 1.500|  7|  1|  0| 
 |Slade Cecconi   |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Tatsuya Imai    |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Yoendrys Gómez  |OP          |  1| 1.000|  0| 0.000|      2| 2.000|  1|  1|  0| 
