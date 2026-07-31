@@ -13,14 +13,14 @@
 |Isaac Paredes     |3B        |     29|  8|  12|  3|  0| 
 |Bo Bichette       |SS        |     25|  7|   6|  0|  0| 
 |Mauricio Dubón    |MI        |     19|  8|   8|  1|  1| 
-|Alec Burleson     |CI        |     29| 12|   8|  1|  0| 
+|Alec Burleson     |CI        |     28| 12|   8|  1|  0| 
 |Andy Pages        |OF        |     24|  9|   6|  1|  2| 
 |Jo Adell          |OF        |     22|  7|  15|  5|  0| 
 |Randy Arozarena   |OF        |     29| 12|   6|  4|  0| 
 |Wilyer Abreu      |OF        |     22| 12|  12|  5|  0| 
 |Braden Montgomery |DH        |     25| 10|  12|  1|  1| 
 |Kyle Manzardo     |DH        |     13|  8|   7|  2|  0| 
-|Sam Antonacci     |DH        |     21| 10|   6|  2|  3| 
+|Sam Antonacci     |DH        |     22| 10|   6|  2|  3| 
 |Shohei Ohtani     |DH        |     25|  7|  14|  5|  0| 
 |Brooks Lee        |BAT BENCH |     23|  7|   9|  1|  2| 
 |Matt McLain       |BAT BENCH |      0|  0|   0|  0|  0| 

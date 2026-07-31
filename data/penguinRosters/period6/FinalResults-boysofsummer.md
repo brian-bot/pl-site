@@ -17,7 +17,7 @@
 |Byron Buxton      |OF        |      7|  0|   0|  0|  0| 
 |Heliot Ramos      |OF        |     22| 10|   8|  3|  1| 
 |Michael Harris II |OF        |     26| 12|  13|  3|  1| 
-|Riley Greene      |OF        |     26| 12|  12|  3|  0| 
+|Riley Greene      |OF        |     27| 12|  13|  3|  0| 
 |Esmerlyn Valdez   |DH        |     29| 13|  19|  8|  0| 
 |Iván Herrera      |DH        |     17|  7|   5|  2|  1| 
 |Jung Hoo Lee      |DH        |     18|  6|   4|  1|  0| 

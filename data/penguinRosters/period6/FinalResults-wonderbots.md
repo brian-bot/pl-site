@@ -10,7 +10,7 @@
 |Kyle Teel          |C         |      6|  5|   6|  1|  0| 
 |Andrew Vaughn      |1B        |     15|  6|   4|  2|  0| 
 |Ceddanne Rafaela   |2B        |     22| 13|  14|  4|  2| 
-|Junior Caminero    |3B        |     30|  8|   8|  3|  1| 
+|Junior Caminero    |3B        |     30|  8|   9|  3|  1| 
 |Zach Neto          |SS        |     28| 13|   3|  1|  3| 
 |CJ Abrams          |MI        |     36| 14|  22|  9|  5| 
 |Sal Stewart        |CI        |     22|  8|  19|  5|  1| 

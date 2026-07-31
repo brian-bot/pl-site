@@ -14,7 +14,7 @@
 |Geraldo Perdomo    |SS        |     33| 14|   6|  3|  5| 
 |Bryson Stott       |MI        |     25|  9|   7|  1|  1| 
 |Spencer Torkelson  |CI        |     18|  9|  14|  5|  0| 
-|Corbin Carroll     |OF        |     27| 13|   6|  2|  5| 
+|Corbin Carroll     |OF        |     26| 13|   5|  2|  5| 
 |Daylen Lile        |OF        |     15|  6|   9|  1|  2| 
 |Ryan O'Hearn       |OF        |     27| 12|  18|  4|  0| 
 |Taylor Ward        |OF        |     34| 10|   5|  2|  1| 
