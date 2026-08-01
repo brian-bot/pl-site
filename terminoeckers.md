@@ -6,21 +6,21 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Hunter Goodman    |C         |      1|  0|   0|  0|  0| 
-|Willson Contreras |1B        |      6|  1|   1|  1|  0| 
-|Brice Turang      |2B        |      2|  0|   2|  0|  0| 
-|Kazuma Okamoto    |3B        |      3|  2|   2|  0|  0| 
+|Willson Contreras |1B        |      7|  1|   1|  1|  0| 
+|Brice Turang      |2B        |      5|  1|   4|  1|  0| 
+|Kazuma Okamoto    |3B        |      4|  2|   3|  0|  0| 
 |Elly De La Cruz   |SS        |      8|  3|   1|  0|  2| 
 |Dansby Swanson    |MI        |      1|  2|   0|  0|  1| 
-|Jake Burger       |CI        |      1|  0|   0|  0|  0| 
+|Jake Burger       |CI        |      2|  0|   0|  0|  0| 
 |Brandon Nimmo     |OF        |      3|  0|   0|  0|  1| 
-|Jordan Walker     |OF        |      2|  1|   1|  0|  0| 
-|Kyle Tucker       |OF        |      1|  1|   0|  0|  1| 
-|Wyatt Langford    |OF        |      2|  0|   1|  0|  0| 
-|A.J. Ewing        |DH        |      2|  1|   1|  0|  2| 
+|Jordan Walker     |OF        |      3|  1|   2|  0|  0| 
+|Kyle Tucker       |OF        |      3|  2|   0|  0|  1| 
+|Wyatt Langford    |OF        |      3|  0|   1|  0|  0| 
+|A.J. Ewing        |DH        |      3|  1|   2|  0|  2| 
 |Bryce Eldridge    |DH        |      3|  2|   1|  0|  0| 
-|Kyle Stowers      |DH        |      3|  2|   1|  1|  0| 
-|Luis Lara         |DH        |      1|  1|   0|  0|  0| 
-|Carter Jensen     |BAT BENCH |      3|  2|   1|  0|  0| 
+|Kyle Stowers      |DH        |      5|  3|   2|  2|  0| 
+|Luis Lara         |DH        |      2|  1|   0|  0|  0| 
+|Carter Jensen     |BAT BENCH |      4|  3|   2|  1|  0| 
 |Curtis Mead       |BAT BENCH |     **| **|  **| **| **| 
 |Eugenio Suárez    |BAT BENCH |      3|  0|   0|  0|  0| 
 |Jac Caglianone    |BAT BENCH |      4|  1|   3|  1|  0| 
@@ -34,7 +34,7 @@
 |players         |position    |  g|    ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:---------------|:-----------|--:|-----:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Bryan Woo       |SP          |  1| 5.000|  5| 9.000|      7| 1.400|  8|  0|  0| 
-|Bryce Miller    |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Bryce Miller    |SP          |  1| 5.333|  2| 3.375|      5| 0.938|  3|  0|  0| 
 |Bubba Chandler  |SP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Cam Schlittler  |SP          |  1| 6.333|  1| 1.421|      3| 0.474|  8|  0|  0| 
 |Drew Rasmussen  |SP          | **|    **| **|    **|     **|    **| **| **| **| 

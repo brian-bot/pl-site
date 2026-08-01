@@ -6,20 +6,20 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Ben Rice          |C         |      5|  1|   0|  0|  0| 
-|Alec Burleson     |1B        |      3|  0|   0|  0|  0| 
+|Alec Burleson     |1B        |      5|  0|   0|  0|  0| 
 |Jazz Chisholm Jr. |2B        |      4|  0|   0|  0|  1| 
-|Isaac Paredes     |3B        |      1|  0|   0|  0|  0| 
+|Isaac Paredes     |3B        |      5|  1|   2|  1|  0| 
 |Bo Bichette       |SS        |      2|  1|   0|  0|  0| 
-|Mauricio Dubón    |MI        |      2|  0|   0|  0|  0| 
+|Mauricio Dubón    |MI        |      4|  2|   0|  0|  0| 
 |Kyle Manzardo     |CI        |      3|  1|   2|  1|  0| 
-|Andy Pages        |OF        |      5|  2|   2|  1|  0| 
+|Andy Pages        |OF        |      7|  2|   2|  1|  0| 
 |Jo Adell          |OF        |      2|  0|   2|  0|  0| 
-|Randy Arozarena   |OF        |      4|  1|   1|  0|  1| 
-|Wilyer Abreu      |OF        |      1|  1|   1|  1|  0| 
+|Randy Arozarena   |OF        |      5|  2|   1|  0|  1| 
+|Wilyer Abreu      |OF        |      3|  2|   1|  1|  0| 
 |Braden Montgomery |DH        |      1|  0|   0|  0|  0| 
-|Brooks Lee        |DH        |      1|  0|   0|  0|  0| 
-|Sam Antonacci     |DH        |      2|  1|   2|  1|  0| 
-|Shohei Ohtani     |DH        |      3|  1|   1|  0|  0| 
+|Brooks Lee        |DH        |      2|  1|   2|  1|  0| 
+|Sam Antonacci     |DH        |      3|  2|   2|  1|  0| 
+|Shohei Ohtani     |DH        |      5|  3|   3|  1|  0| 
 |Matt McLain       |BAT BENCH |      2|  2|   0|  0|  0| 
 |Samuel Basallo    |BAT BENCH |     **| **|  **| **| **| 
 
@@ -43,7 +43,7 @@
 |Christian Scott    |OP          |  1| 6.000|  1|   1.500|      6|  1.000|  7|  0|  0| 
 |Grant Holmes       |OP          |  1| 4.667|  3|   5.786|      7|  1.500|  4|  0|  0| 
 |Robert Gasser      |OP          | **|    **| **|      **|     **|     **| **| **| **| 
-|Shane Drohan       |OP          | **|    **| **|      **|     **|     **| **| **| **| 
+|Shane Drohan       |OP          |  1| 6.000|  2|   3.000|      5|  0.833|  7|  1|  0| 
 |Aaron Nola         |PITCH BENCH | **|    **| **|      **|     **|     **| **| **| **| 
 |Alex Vesia         |PITCH BENCH |  1| 1.000|  0|   0.000|      1|  1.000|  0|  0|  0| 
 |Eduardo Rodriguez  |PITCH BENCH |  1| 8.000|  0|   0.000|      6|  0.750|  2|  1|  0| 

@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras |C         |     **| **|  **| **| **| 
-|Nick Kurtz        |1B        |      2|  0|   0|  0|  0| 
-|Ketel Marte       |2B        |      1|  0|   0|  0|  0| 
+|William Contreras |C         |      2|  1|   0|  0|  0| 
+|Nick Kurtz        |1B        |      3|  0|   0|  0|  0| 
+|Ketel Marte       |2B        |      3|  0|   1|  0|  0| 
 |Nestor Gonzalez   |3B        |     **| **|  **| **| **| 
-|Trea Turner       |SS        |      2|  1|   1|  1|  0| 
+|Trea Turner       |SS        |      5|  3|   2|  2|  0| 
 |Otto Lopez        |MI        |      2|  1|   2|  0|  0| 
-|Jake Bauers       |CI        |      2|  1|   0|  0|  0| 
+|Jake Bauers       |CI        |      5|  3|   3|  1|  0| 
 |Byron Buxton      |OF        |     **| **|  **| **| **| 
 |Heliot Ramos      |OF        |      7|  2|   3|  0|  2| 
-|Michael Harris II |OF        |      1|  0|   0|  0|  0| 
-|Riley Greene      |OF        |      2|  1|   0|  0|  0| 
+|Michael Harris II |OF        |      3|  1|   3|  1|  0| 
+|Riley Greene      |OF        |      3|  1|   0|  0|  1| 
 |Esmerlyn Valdez   |DH        |      3|  1|   1|  0|  0| 
-|Garrett Mitchell  |DH        |      0|  0|   1|  0|  0| 
+|Garrett Mitchell  |DH        |      3|  0|   1|  0|  1| 
 |Jung Hoo Lee      |DH        |      5|  1|   3|  0|  0| 
-|Ryan Jeffers      |DH        |      2|  1|   0|  0|  0| 
+|Ryan Jeffers      |DH        |      3|  2|   1|  1|  0| 
 |Casey Schmitt     |BAT BENCH |     **| **|  **| **| **| 
 |Iván Herrera      |BAT BENCH |      4|  0|   2|  0|  0| 
 |Josh Jung         |BAT BENCH |     **| **|  **| **| **| 
@@ -35,7 +35,7 @@
 |:----------------|:-----------|--:|-----:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Davis Martin     |SP          |  1| 6.000|  4| 6.000|      7| 1.167|  6|  0|  0| 
 |MacKenzie Gore   |SP          |  1| 7.000|  3| 3.857|      3| 0.429|  9|  0|  0| 
-|Nick Martinez    |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Nick Martinez    |SP          |  1| 6.000|  6| 9.000|      7| 1.167|  2|  0|  0| 
 |Nolan McLean     |SP          |  1| 6.333|  2| 2.842|      8| 1.263|  6|  0|  0| 
 |Tarik Skubal     |SP          |  1| 6.667|  3| 4.050|      5| 0.750|  6|  0|  0| 
 |Trey Yesavage    |SP          |  1| 6.667|  1| 1.350|      6| 0.900|  4|  1|  0| 
