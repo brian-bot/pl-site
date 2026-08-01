@@ -9,7 +9,7 @@
 |Willson Contreras |1B        |      6|  1|   1|  1|  0| 
 |Brice Turang      |2B        |      2|  0|   2|  0|  0| 
 |Kazuma Okamoto    |3B        |      3|  2|   2|  0|  0| 
-|Elly De La Cruz   |SS        |      5|  2|   1|  0|  2| 
+|Elly De La Cruz   |SS        |      8|  3|   1|  0|  2| 
 |Dansby Swanson    |MI        |      1|  2|   0|  0|  1| 
 |Jake Burger       |CI        |      1|  0|   0|  0|  0| 
 |Brandon Nimmo     |OF        |      3|  0|   0|  0|  1| 
@@ -22,7 +22,7 @@
 |Luis Lara         |DH        |      1|  1|   0|  0|  0| 
 |Carter Jensen     |BAT BENCH |      3|  2|   1|  0|  0| 
 |Curtis Mead       |BAT BENCH |     **| **|  **| **| **| 
-|Eugenio Suárez    |BAT BENCH |      2|  0|   0|  0|  0| 
+|Eugenio Suárez    |BAT BENCH |      3|  0|   0|  0|  0| 
 |Jac Caglianone    |BAT BENCH |      4|  1|   3|  1|  0| 
 
 

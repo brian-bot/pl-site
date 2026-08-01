@@ -11,12 +11,12 @@
 |Junior Caminero    |3B        |      1|  0|   0|  0|  0| 
 |Zach Neto          |SS        |      1|  1|   0|  0|  0| 
 |CJ Abrams          |MI        |      1|  1|   0|  0|  0| 
-|Sal Stewart        |CI        |      4|  0|   1|  0|  0| 
+|Sal Stewart        |CI        |      6|  2|   5|  1|  0| 
 |Fernando Tatis Jr. |OF        |      3|  0|   0|  0|  0| 
 |James Wood         |OF        |      6|  2|   0|  0|  1| 
-|JJ Bleday          |OF        |      2|  0|   0|  0|  0| 
+|JJ Bleday          |OF        |      5|  2|   1|  1|  0| 
 |Mike Trout         |OF        |      1|  1|   0|  0|  0| 
-|José Caballero     |DH        |      2|  0|   0|  0|  2| 
+|José Caballero     |DH        |      3|  0|   0|  0|  2| 
 |Mookie Betts       |DH        |      3|  1|   2|  0|  0| 
 |Paul Goldschmidt   |DH        |      2|  1|   1|  0|  0| 
 |Ty France          |DH        |      3|  2|   0|  0|  0| 
@@ -39,7 +39,7 @@
 |Ranger Suarez     |SP          | **|    **| **|  **|     **|    **| **| **| **| 
 |Walbert Ureña     |SP          | **|    **| **|  **|     **|    **| **| **| **| 
 |Bryan Baker       |RP          |  2| 2.000|  0|   0|      3| 1.500|  2|  0|  2| 
-|David Bednar      |RP          | **|    **| **|  **|     **|    **| **| **| **| 
+|David Bednar      |RP          |  1| 1.000|  0|   0|      1| 1.000|  0|  0|  1| 
 |Braxton Ashcraft  |OP          | **|    **| **|  **|     **|    **| **| **| **| 
 |Casey Mize        |OP          | **|    **| **|  **|     **|    **| **| **| **| 
 |Griffin Jax       |OP          | **|    **| **|  **|     **|    **| **| **| **| 

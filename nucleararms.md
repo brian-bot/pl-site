@@ -12,7 +12,7 @@
 |Gunnar Henderson  |SS        |      2|  2|   0|  0|  0| 
 |Colson Montgomery |MI        |      1|  0|   0|  0|  0| 
 |Pete Alonso       |CI        |      1|  0|   0|  0|  0| 
-|Bryan Reynolds    |OF        |      2|  0|   0|  0|  0| 
+|Bryan Reynolds    |OF        |      4|  1|   0|  0|  0| 
 |Jake McCarthy     |OF        |      0|  0|   0|  0|  0| 
 |Seiya Suzuki      |OF        |      5|  1|   0|  0|  0| 
 |Teoscar Hernández |OF        |      4|  2|   1|  1|  0| 

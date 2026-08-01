@@ -14,7 +14,7 @@
 |Spencer Torkelson  |CI        |      2|  2|   2|  1|  0| 
 |Corbin Carroll     |OF        |      1|  1|   0|  0|  1| 
 |Daylen Lile        |OF        |      3|  2|   2|  2|  0| 
-|Ryan O'Hearn       |OF        |      0|  0|   0|  0|  0| 
+|Ryan O'Hearn       |OF        |      2|  0|   0|  0|  0| 
 |Taylor Ward        |OF        |      2|  1|   2|  0|  0| 
 |Gleyber Torres     |DH        |      1|  0|   0|  0|  0| 
 |Jackson Chourio    |DH        |      0|  0|   0|  0|  0| 
@@ -30,25 +30,25 @@
 ### Pitchers
 
  
-|players        |position    |  g|    ip| er| era| hitsbb|  whip| so|  w| sv| 
-|:--------------|:-----------|--:|-----:|--:|---:|------:|-----:|--:|--:|--:| 
-|Bailey Ober    |SP          |  1| 6.000|  2| 3.0|      6| 1.000|  3|  0|  0| 
-|Jack Perkins   |SP          | **|    **| **|  **|     **|    **| **| **| **| 
-|Paul Skenes    |SP          | **|    **| **|  **|     **|    **| **| **| **| 
-|Robbie Ray     |SP          |  1| 6.000|  1| 1.5|      5| 0.833|  6|  1|  0| 
-|Tyler Mahle    |SP          | **|    **| **|  **|     **|    **| **| **| **| 
-|Zebby Matthews |SP          | **|    **| **|  **|     **|    **| **| **| **| 
-|Hogan Harris   |RP          | **|    **| **|  **|     **|    **| **| **| **| 
-|Jhoan Duran    |RP          | **|    **| **|  **|     **|    **| **| **| **| 
-|Brady Singer   |OP          |  1| 4.333|  0| 0.0|     10| 2.308|  3|  0|  0| 
-|José Soriano   |OP          | **|    **| **|  **|     **|    **| **| **| **| 
-|Max Fried      |OP          | **|    **| **|  **|     **|    **| **| **| **| 
-|Paul Sewald    |OP          | **|    **| **|  **|     **|    **| **| **| **| 
-|Seth Lugo      |OP          | **|    **| **|  **|     **|    **| **| **| **| 
-|Caleb Kilian   |PITCH BENCH |  2| 2.000|  0| 0.0|      3| 1.500|  2|  0|  0| 
-|Jack Leiter    |PITCH BENCH | **|    **| **|  **|     **|    **| **| **| **| 
-|Ryan Helsley   |PITCH BENCH | **|    **| **|  **|     **|    **| **| **| **| 
-|Shohei Ohtani  |PITCH BENCH | **|    **| **|  **|     **|    **| **| **| **| 
+|players        |position    |  g|    ip| er|   era| hitsbb|  whip| so|  w| sv| 
+|:--------------|:-----------|--:|-----:|--:|-----:|------:|-----:|--:|--:|--:| 
+|Bailey Ober    |SP          |  1| 6.000|  2|  3.00|      6| 1.000|  3|  0|  0| 
+|Jack Perkins   |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Paul Skenes    |SP          |  1| 4.000|  5| 11.25|     11| 2.750|  7|  0|  0| 
+|Robbie Ray     |SP          |  1| 6.000|  1|  1.50|      5| 0.833|  6|  1|  0| 
+|Tyler Mahle    |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Zebby Matthews |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Hogan Harris   |RP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Jhoan Duran    |RP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Brady Singer   |OP          |  1| 4.333|  0|  0.00|     10| 2.308|  3|  0|  0| 
+|José Soriano   |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Max Fried      |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Paul Sewald    |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Seth Lugo      |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Caleb Kilian   |PITCH BENCH |  2| 2.000|  0|  0.00|      3| 1.500|  2|  0|  0| 
+|Jack Leiter    |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
+|Ryan Helsley   |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
+|Shohei Ohtani  |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
 
 
 * * *

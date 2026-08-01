@@ -5,7 +5,7 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Ben Rice          |C         |      4|  1|   0|  0|  0| 
+|Ben Rice          |C         |      5|  1|   0|  0|  0| 
 |Alec Burleson     |1B        |      3|  0|   0|  0|  0| 
 |Jazz Chisholm Jr. |2B        |      4|  0|   0|  0|  1| 
 |Isaac Paredes     |3B        |      1|  0|   0|  0|  0| 
@@ -20,7 +20,7 @@
 |Brooks Lee        |DH        |      1|  0|   0|  0|  0| 
 |Sam Antonacci     |DH        |      2|  1|   2|  1|  0| 
 |Shohei Ohtani     |DH        |      3|  1|   1|  0|  0| 
-|Matt McLain       |BAT BENCH |      1|  1|   0|  0|  0| 
+|Matt McLain       |BAT BENCH |      2|  2|   0|  0|  0| 
 |Samuel Basallo    |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -34,8 +34,8 @@
 |Matthew Boyd       |SP          |  1| 7.000|  0|   0.000|      6|  0.857|  5|  0|  0| 
 |Michael King       |SP          | **|    **| **|      **|     **|     **| **| **| **| 
 |Payton Tolle       |SP          | **|    **| **|      **|     **|     **| **| **| **| 
-|Shota Imanaga      |SP          | **|    **| **|      **|     **|     **| **| **| **| 
-|Will Warren        |SP          | **|    **| **|      **|     **|     **| **| **| **| 
+|Shota Imanaga      |SP          |  1| 6.667|  2|   2.700|      4|  0.600|  6|  0|  0| 
+|Will Warren        |SP          |  1| 6.667|  0|   0.000|      4|  0.600|  7|  1|  0| 
 |Yoshinobu Yamamoto |SP          | **|    **| **|      **|     **|     **| **| **| **| 
 |Aaron Ashby        |RP          |  1| 0.333|  4| 108.000|      4| 12.000|  1|  0|  0| 
 |Devin Williams     |RP          |  2| 2.000|  0|   0.000|      2|  1.000|  3|  0|  2| 

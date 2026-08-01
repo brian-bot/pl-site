@@ -7,13 +7,13 @@
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Drake Baldwin    |C         |      5|  2|   0|  0|  0| 
 |Tyler Soderstrom |1B        |      0|  0|   0|  0|  0| 
-|Brandon Lowe     |2B        |      2|  1|   1|  1|  0| 
+|Brandon Lowe     |2B        |      5|  2|   2|  1|  1| 
 |Manny Machado    |3B        |      1|  1|   0|  0|  0| 
 |Jeremy Peña      |SS        |      1|  1|   1|  1|  0| 
 |Travis Bazzana   |MI        |      2|  1|   1|  0|  0| 
 |Royce Lewis      |CI        |      2|  1|   0|  0|  0| 
 |Cole Carrigg     |OF        |      2|  0|   0|  0|  0| 
-|Ian Happ         |OF        |      1|  0|   1|  0|  0| 
+|Ian Happ         |OF        |      2|  0|   1|  0|  0| 
 |Julio Rodríguez  |OF        |      0|  0|   0|  0|  0| 
 |Yordan Alvarez   |OF        |      1|  0|   0|  0|  0| 
 |Carson Benge     |DH        |      4|  1|   1|  0|  1| 
@@ -33,7 +33,7 @@
 |:------------------|:-----------|--:|-----:|--:|----:|------:|-----:|--:|--:|--:| 
 |Eury Pérez         |SP          |  1| 6.000|  1|  1.5|      5| 0.833|  6|  0|  0| 
 |Hunter Brown       |SP          | **|    **| **|   **|     **|    **| **| **| **| 
-|Hunter Greene      |SP          | **|    **| **|   **|     **|    **| **| **| **| 
+|Hunter Greene      |SP          |  1| 6.000|  4|  6.0|      9| 1.500|  4|  0|  0| 
 |Kevin Gausman      |SP          | **|    **| **|   **|     **|    **| **| **| **| 
 |Parker Messick     |SP          | **|    **| **|   **|     **|    **| **| **| **| 
 |Zack Wheeler       |SP          | **|    **| **|   **|     **|    **| **| **| **| 
@@ -42,7 +42,7 @@
 |Chase Burns        |OP          | **|    **| **|   **|     **|    **| **| **| **| 
 |Freddy Peralta     |OP          | **|    **| **|   **|     **|    **| **| **| **| 
 |Kenley Jansen      |OP          |  1| 1.000|  0|  0.0|      1| 1.000|  1|  0|  0| 
-|Mason Montgomery   |OP          |  1| 1.000|  0|  0.0|      0| 0.000|  2|  0|  0| 
+|Mason Montgomery   |OP          |  2| 1.667|  0|  0.0|      1| 0.600|  3|  0|  0| 
 |Michael Petersen   |OP          |  1| 0.667|  2| 27.0|      3| 4.500|  1|  0|  0| 
 |Garrett Crochet    |PITCH BENCH | **|    **| **|   **|     **|    **| **| **| **| 
 |Kade Anderson      |PITCH BENCH | **|    **| **|   **|     **|    **| **| **| **| 

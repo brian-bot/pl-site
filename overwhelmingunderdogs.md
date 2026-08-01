@@ -11,7 +11,7 @@
 |Kyle Karros      |3B        |     **| **|  **| **| **| 
 |Francisco Lindor |SS        |      3|  1|   1|  0|  0| 
 |Tommy Edman      |MI        |      1|  1|   0|  0|  0| 
-|Alex Bregman     |CI        |      4|  2|   1|  0|  0| 
+|Alex Bregman     |CI        |      5|  2|   1|  0|  0| 
 |George Springer  |OF        |      2|  1|   1|  0|  0| 
 |Jakob Marsee     |OF        |      2|  2|   1|  1|  0| 
 |Juan Soto        |OF        |     **| **|  **| **| **| 
