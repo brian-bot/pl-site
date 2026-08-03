@@ -6,21 +6,21 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Ben Rice          |C         |      5|  1|   0|  0|  0| 
-|Alec Burleson     |1B        |      8|  0|   0|  0|  0| 
+|Alec Burleson     |1B        |     10|  0|   0|  0|  0| 
 |Jazz Chisholm Jr. |2B        |      4|  0|   0|  0|  1| 
 |Isaac Paredes     |3B        |      8|  1|   2|  1|  0| 
 |Bo Bichette       |SS        |      3|  1|   0|  0|  0| 
-|Mauricio Dubón    |MI        |      4|  2|   0|  0|  0| 
-|Kyle Manzardo     |CI        |      5|  3|   2|  1|  0| 
-|Andy Pages        |OF        |      8|  2|   2|  1|  0| 
-|Jo Adell          |OF        |      2|  0|   2|  0|  0| 
-|Randy Arozarena   |OF        |      8|  5|   2|  1|  1| 
-|Wilyer Abreu      |OF        |      3|  2|   1|  1|  0| 
+|Mauricio Dubón    |MI        |      5|  3|   0|  0|  1| 
+|Kyle Manzardo     |CI        |      6|  3|   3|  1|  0| 
+|Andy Pages        |OF        |     10|  2|   5|  1|  0| 
+|Jo Adell          |OF        |      3|  0|   2|  0|  0| 
+|Randy Arozarena   |OF        |     10|  6|   2|  1|  1| 
+|Wilyer Abreu      |OF        |      6|  4|   2|  2|  0| 
 |Braden Montgomery |DH        |      2|  0|   0|  0|  0| 
 |Brooks Lee        |DH        |      4|  2|   2|  1|  0| 
-|Sam Antonacci     |DH        |      4|  2|   2|  1|  0| 
-|Shohei Ohtani     |DH        |      7|  3|   3|  1|  0| 
-|Matt McLain       |BAT BENCH |      3|  2|   0|  0|  1| 
+|Sam Antonacci     |DH        |      4|  3|   2|  1|  0| 
+|Shohei Ohtani     |DH        |     10|  3|   3|  1|  0| 
+|Matt McLain       |BAT BENCH |      3|  2|   1|  0|  1| 
 |Samuel Basallo    |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -38,7 +38,7 @@
 |Will Warren        |SP          |  1| 6.667|  0|   0.000|      4|  0.600|  7|  1|  0| 
 |Yoshinobu Yamamoto |SP          |  1| 8.000|  3|   3.375|      5|  0.625|  3|  0|  0| 
 |Aaron Ashby        |RP          |  1| 0.333|  4| 108.000|      4| 12.000|  1|  0|  0| 
-|Devin Williams     |RP          |  2| 2.000|  0|   0.000|      2|  1.000|  3|  0|  2| 
+|Devin Williams     |RP          |  3| 3.000|  1|   3.000|      4|  1.333|  3|  0|  2| 
 |Brandon Sproat     |OP          | **|    **| **|      **|     **|     **| **| **| **| 
 |Christian Scott    |OP          |  1| 6.000|  1|   1.500|      6|  1.000|  7|  0|  0| 
 |Grant Holmes       |OP          |  1| 4.667|  3|   5.786|      7|  1.500|  4|  0|  0| 

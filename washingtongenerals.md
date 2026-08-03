@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Francisco Alvarez |C         |      4|  1|   1|  0|  0| 
-|Michael Busch     |1B        |      3|  0|   2|  0|  0| 
-|Nico Hoerner      |2B        |      5|  1|   1|  1|  1| 
-|Max Muncy         |3B        |      3|  0|   0|  0|  0| 
+|Francisco Alvarez |C         |      6|  1|   1|  0|  0| 
+|Michael Busch     |1B        |      5|  0|   3|  0|  0| 
+|Nico Hoerner      |2B        |      6|  1|   1|  1|  2| 
+|Max Muncy         |3B        |      5|  2|   0|  0|  0| 
 |Bobby Witt Jr.    |SS        |     **| **|  **| **| **| 
-|Kevin McGonigle   |MI        |      7|  4|   5|  2|  0| 
-|Freddie Freeman   |CI        |      9|  1|   2|  0|  0| 
+|Kevin McGonigle   |MI        |      9|  5|   5|  2|  0| 
+|Freddie Freeman   |CI        |     10|  1|   2|  0|  0| 
 |Cedric Mullins    |OF        |      2|  1|   1|  1|  0| 
-|Jarren Duran      |OF        |      4|  0|   2|  0|  0| 
-|Kyle Schwarber    |OF        |      3|  2|   0|  0|  0| 
+|Jarren Duran      |OF        |      5|  1|   3|  1|  0| 
+|Kyle Schwarber    |OF        |      4|  2|   1|  0|  0| 
 |Spencer Steer     |OF        |     **| **|  **| **| **| 
-|Bryce Harper      |DH        |      5|  2|   2|  0|  0| 
-|Cole Young        |DH        |      8|  3|   2|  1|  0| 
-|J.T. Realmuto     |DH        |      3|  3|   1|  1|  0| 
+|Bryce Harper      |DH        |      7|  3|   3|  1|  0| 
+|Cole Young        |DH        |     12|  4|   3|  1|  0| 
+|J.T. Realmuto     |DH        |      5|  4|   1|  1|  0| 
 |Luis Arraez       |DH        |      6|  1|   2|  0|  1| 
 |Corey Seager      |BAT BENCH |      4|  1|   0|  0|  0| 
-|Henry Bolte       |BAT BENCH |      7|  2|   3|  1|  0| 
+|Henry Bolte       |BAT BENCH |      8|  2|   3|  1|  0| 
 |Oneil Cruz        |BAT BENCH |     **| **|  **| **| **| 
 |Samad Taylor      |BAT BENCH |     **| **|  **| **| **| 
 
@@ -41,13 +41,13 @@
 |Troy Melton      |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Gregory Soto     |RP          |  2| 1.667|  1|  5.400|      3| 1.800|  2|  0|  1| 
 |Jacob Latz       |RP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Grant Taylor     |OP          |  1| 2.333|  0|  0.000|      0| 0.000|  1|  0|  0| 
+|Grant Taylor     |OP          |  2| 4.000|  0|  0.000|      2| 0.500|  2|  0|  0| 
 |Justin Wrobleski |OP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Landen Roupp     |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Landen Roupp     |OP          |  1| 4.667|  5|  9.643|     10| 2.143|  6|  0|  0| 
 |Reynaldo López   |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Sean Burke       |OP          |  1| 6.000|  0|  0.000|      5| 0.833| 10|  0|  0| 
-|Anthony Kay      |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
-|Kumar Rocker     |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Anthony Kay      |PITCH BENCH |  1| 6.333|  0|  0.000|      8| 1.263|  3|  1|  0| 
+|Kumar Rocker     |PITCH BENCH |  1| 5.333|  3|  5.062|     12| 2.250|  5|  0|  0| 
 |Tyler Phillips   |PITCH BENCH |  1| 5.000|  2|  3.600|      6| 1.200|  3|  1|  0| 
 
 
