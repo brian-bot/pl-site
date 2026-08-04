@@ -6,21 +6,21 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Francisco Alvarez |C         |      6|  1|   1|  0|  0| 
-|Michael Busch     |1B        |      5|  0|   3|  0|  0| 
-|Nico Hoerner      |2B        |      6|  1|   1|  1|  2| 
+|Michael Busch     |1B        |      7|  1|   6|  1|  0| 
+|Nico Hoerner      |2B        |      7|  1|   1|  1|  2| 
 |Max Muncy         |3B        |      5|  2|   0|  0|  0| 
 |Bobby Witt Jr.    |SS        |     **| **|  **| **| **| 
 |Kevin McGonigle   |MI        |      9|  5|   5|  2|  0| 
-|Freddie Freeman   |CI        |     10|  1|   2|  0|  0| 
-|Cedric Mullins    |OF        |      2|  1|   1|  1|  0| 
+|Freddie Freeman   |CI        |     11|  1|   2|  0|  0| 
+|Cedric Mullins    |OF        |      5|  3|   2|  1|  1| 
 |Jarren Duran      |OF        |      5|  1|   3|  1|  0| 
-|Kyle Schwarber    |OF        |      4|  2|   1|  0|  0| 
+|Kyle Schwarber    |OF        |      6|  2|   1|  0|  0| 
 |Spencer Steer     |OF        |     **| **|  **| **| **| 
-|Bryce Harper      |DH        |      7|  3|   3|  1|  0| 
+|Bryce Harper      |DH        |      8|  4|   5|  2|  0| 
 |Cole Young        |DH        |     12|  4|   3|  1|  0| 
 |J.T. Realmuto     |DH        |      5|  4|   1|  1|  0| 
 |Luis Arraez       |DH        |      6|  1|   2|  0|  1| 
-|Corey Seager      |BAT BENCH |      4|  1|   0|  0|  0| 
+|Corey Seager      |BAT BENCH |      6|  1|   0|  0|  0| 
 |Henry Bolte       |BAT BENCH |      8|  2|   3|  1|  0| 
 |Oneil Cruz        |BAT BENCH |     **| **|  **| **| **| 
 |Samad Taylor      |BAT BENCH |     **| **|  **| **| **| 
@@ -35,14 +35,14 @@
 |:----------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
 |Dustin May       |SP          |  1| 5.000|  0|  0.000|      3| 0.600|  3|  0|  0| 
 |Jacob deGrom     |SP          |  1| 3.333|  5| 13.500|     12| 3.600|  3|  0|  0| 
-|Michael McGreevy |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Michael McGreevy |SP          |  1| 4.333|  2|  4.154|      5| 1.154|  5|  0|  0| 
 |Nathan Eovaldi   |SP          |  1| 5.000|  6| 10.800|     11| 2.200|  5|  0|  0| 
 |Sonny Gray       |SP          |  1| 7.000|  4|  5.143|      9| 1.286|  5|  1|  0| 
 |Troy Melton      |SP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Gregory Soto     |RP          |  2| 1.667|  1|  5.400|      3| 1.800|  2|  0|  1| 
+|Gregory Soto     |RP          |  3| 3.000|  1|  3.000|      5| 1.667|  5|  0|  1| 
 |Jacob Latz       |RP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Grant Taylor     |OP          |  2| 4.000|  0|  0.000|      2| 0.500|  2|  0|  0| 
-|Justin Wrobleski |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Justin Wrobleski |OP          |  1| 4.333|  7| 14.538|     10| 2.308|  4|  0|  0| 
 |Landen Roupp     |OP          |  1| 4.667|  5|  9.643|     10| 2.143|  6|  0|  0| 
 |Reynaldo López   |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Sean Burke       |OP          |  1| 6.000|  0|  0.000|      5| 0.833| 10|  0|  0| 

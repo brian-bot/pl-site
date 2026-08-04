@@ -7,18 +7,18 @@
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Liam Hicks         |C         |      9|  0|   2|  0|  0| 
 |Josh Naylor        |1B        |      8|  0|   3|  0|  1| 
-|Jose Altuve        |2B        |      6|  3|   1|  0|  0| 
-|JJ Wetherholt      |3B        |      5|  2|   1|  1|  1| 
-|Geraldo Perdomo    |SS        |      8|  2|   4|  1|  0| 
-|Bryson Stott       |MI        |      8|  3|   3|  0|  2| 
+|Jose Altuve        |2B        |      8|  3|   1|  0|  0| 
+|JJ Wetherholt      |3B        |      8|  4|   1|  1|  1| 
+|Geraldo Perdomo    |SS        |     11|  2|   4|  1|  0| 
+|Bryson Stott       |MI        |     10|  4|   3|  0|  2| 
 |Spencer Torkelson  |CI        |     10|  6|   6|  1|  0| 
 |Corbin Carroll     |OF        |      6|  4|   3|  1|  1| 
-|Daylen Lile        |OF        |      6|  2|   2|  2|  1| 
+|Daylen Lile        |OF        |      7|  3|   4|  3|  1| 
 |Ryan O'Hearn       |OF        |      2|  0|   0|  0|  0| 
 |Taylor Ward        |OF        |      6|  1|   2|  0|  0| 
 |Gleyber Torres     |DH        |      9|  5|   4|  1|  0| 
-|Jackson Chourio    |DH        |      5|  2|   0|  0|  0| 
-|Mickey Moniak      |DH        |      4|  2|   1|  0|  0| 
+|Jackson Chourio    |DH        |      7|  3|   0|  0|  0| 
+|Mickey Moniak      |DH        |      6|  3|   3|  1|  0| 
 |Munetaka Murakami  |DH        |      8|  5|   3|  2|  0| 
 |Adley Rutschman    |BAT BENCH |     **| **|  **| **| **| 
 |Javier Sanoja      |BAT BENCH |      5|  1|   2|  1|  0| 
@@ -39,7 +39,7 @@
 |Tyler Mahle    |SP          |  1| 5.667|  5|  7.941|      7| 1.235|  9|  0|  0| 
 |Zebby Matthews |SP          |  1| 5.000|  3|  5.400|      6| 1.200| 10|  0|  0| 
 |Hogan Harris   |RP          |  1| 1.000|  0|  0.000|      2| 2.000|  1|  0|  0| 
-|Jhoan Duran    |RP          |  1| 1.000|  0|  0.000|      0| 0.000|  0|  0|  0| 
+|Jhoan Duran    |RP          |  2| 2.000|  0|  0.000|      0| 0.000|  2|  0|  1| 
 |Brady Singer   |OP          |  1| 4.333|  0|  0.000|     10| 2.308|  3|  0|  0| 
 |José Soriano   |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Max Fried      |OP          |  1| 5.333|  1|  1.688|      3| 0.562|  7|  0|  0| 

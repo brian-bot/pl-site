@@ -5,20 +5,20 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Alejandro Kirk   |C         |      6|  0|   2|  0|  0| 
+|Alejandro Kirk   |C         |      7|  1|   3|  1|  0| 
 |Rafael Devers    |1B        |     10|  5|   2|  1|  0| 
 |Xavier Edwards   |2B        |      5|  0|   4|  0|  1| 
-|Kyle Karros      |3B        |      4|  3|   2|  0|  0| 
+|Kyle Karros      |3B        |      7|  4|   4|  0|  0| 
 |Francisco Lindor |SS        |      9|  2|   2|  1|  0| 
-|Tommy Edman      |MI        |      2|  1|   0|  0|  0| 
-|Alex Bregman     |CI        |      8|  3|   1|  0|  0| 
-|George Springer  |OF        |      7|  3|   3|  0|  0| 
+|Tommy Edman      |MI        |      3|  2|   3|  1|  0| 
+|Alex Bregman     |CI        |      9|  4|   1|  0|  0| 
+|George Springer  |OF        |      8|  4|   3|  0|  0| 
 |Jakob Marsee     |OF        |      3|  3|   2|  1|  0| 
 |Juan Soto        |OF        |     **| **|  **| **| **| 
-|Trent Grisham    |OF        |      4|  0|   1|  0|  0| 
-|Christian Walker |DH        |      8|  3|   2|  1|  0| 
+|Trent Grisham    |OF        |      6|  2|   2|  1|  0| 
+|Christian Walker |DH        |      9|  3|   2|  1|  0| 
 |Dominic Canzone  |DH        |      8|  3|   0|  0|  0| 
-|Jonathan Aranda  |DH        |      3|  1|   0|  0|  0| 
+|Jonathan Aranda  |DH        |      7|  3|   2|  0|  0| 
 |Miguel Vargas    |DH        |      5|  2|   3|  2|  0| 
 |Brendan Donovan  |BAT BENCH |     **| **|  **| **| **| 
 |Maikel Garcia    |BAT BENCH |     **| **|  **| **| **| 
@@ -46,7 +46,7 @@
 |Joey Cantillo      |OP          |  1| 4.000|  0|  0.000|      5| 1.250|  8|  0|  0| 
 |Peter Lambert      |OP          |  1| 5.667|  2|  3.176|      5| 0.882|  8|  0|  0| 
 |Tyler Wells        |OP          |  2| 3.000|  0|  0.000|      1| 0.333|  0|  0|  1| 
-|Clayton Beeter     |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Clayton Beeter     |PITCH BENCH |  1| 0.333|  2| 54.000|      2| 6.000|  0|  0|  0| 
 |Michael Soroka     |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 
 
