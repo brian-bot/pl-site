@@ -5,22 +5,22 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|Gabriel Moreno        |C         |      4|  2|   4|  1|  0| 
+|Gabriel Moreno        |C         |      6|  3|   6|  1|  0| 
 |Matt Olson            |1B        |     11|  6|   6|  4|  0| 
-|Ozzie Albies          |2B        |      8|  2|   3|  1|  1| 
+|Ozzie Albies          |2B        |      9|  3|   3|  1|  1| 
 |José Ramírez          |3B        |      6|  3|   0|  0|  1| 
-|Willy Adames          |SS        |      9|  4|   2|  0|  2| 
-|Luis García Jr.       |MI        |      8|  2|   5|  2|  0| 
+|Willy Adames          |SS        |     10|  4|   2|  0|  2| 
+|Luis García Jr.       |MI        |      9|  2|   5|  2|  0| 
 |Vladimir Guerrero Jr. |CI        |      4|  2|   0|  0|  0| 
-|Brandon Marsh         |OF        |      5|  2|   3|  0|  1| 
-|Christian Yelich      |OF        |      4|  0|   0|  0|  1| 
+|Brandon Marsh         |OF        |      6|  3|   3|  0|  1| 
+|Christian Yelich      |OF        |      6|  1|   1|  0|  2| 
 |Jasson Domínguez      |OF        |      6|  1|   0|  0|  0| 
-|Pete Crow-Armstrong   |OF        |     12|  6|   4|  1|  2| 
-|Caleb Durbin          |DH        |     14|  7|   5|  1|  1| 
+|Pete Crow-Armstrong   |OF        |     15|  8|   8|  3|  2| 
+|Caleb Durbin          |DH        |     15|  7|   6|  1|  1| 
 |Cooper Pratt          |DH        |     10|  2|   2|  0|  1| 
-|Dylan Crews           |DH        |      4|  1|   1|  0|  1| 
+|Dylan Crews           |DH        |      6|  2|   1|  0|  1| 
 |Heriberto Hernández   |DH        |      7|  3|   2|  1|  1| 
-|Cal Raleigh           |BAT BENCH |      6|  1|   7|  1|  0| 
+|Cal Raleigh           |BAT BENCH |      7|  1|   7|  1|  0| 
 |Cody Bellinger        |BAT BENCH |     **| **|  **| **| **| 
 |Zack Gelof            |BAT BENCH |     **| **|  **| **| **| 
 
@@ -37,8 +37,8 @@
 |Gerrit Cole      |SP          |  1|  5.667|  1|  1.588|      7| 1.235|  5|  1|  0| 
 |Logan Webb       |SP          |  2| 12.000|  2|  1.500|     12| 1.000| 12|  2|  0| 
 |Ryan Weathers    |SP          |  2| 13.000|  0|  0.000|     11| 0.846| 10|  1|  0| 
-|Tanner Bibee     |SP          |  1|  7.333|  2|  2.455|      4| 0.545|  3|  0|  0| 
-|Emilio Pagán     |RP          |  3|  3.000|  0|  0.000|      3| 1.000|  4|  2|  1| 
+|Tanner Bibee     |SP          |  2| 13.000|  5|  3.462|      8| 0.615| 13|  0|  0| 
+|Emilio Pagán     |RP          |  4|  4.000|  0|  0.000|      3| 0.750|  5|  2|  2| 
 |Raisel Iglesias  |RP          |  4|  4.000|  2|  4.500|      6| 1.500|  1|  0|  3| 
 |AJ Smith-Shawver |OP          |  1|  4.333|  2|  4.154|      6| 1.385|  4|  0|  0| 
 |Brandon Young    |OP          |  1|  5.667|  4|  6.353|      7| 1.235|  5|  0|  0| 
