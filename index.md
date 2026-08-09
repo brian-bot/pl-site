@@ -2,21 +2,21 @@
 
 ## Period 7 scores
 
-Through games on 2026-08-07 ([website build status](https://github.com/brian-bot/pl-site/actions))
+Through games on 2026-08-08 ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 
 |team                   | points|  r| hitsbb| hr| rbi| sb|  w| sv|  so|   era|  whip|
 |:----------------------|------:|--:|------:|--:|---:|--:|--:|--:|---:|-----:|-----:|
-|[Washington Generals](./washingtongenerals)|   34.5| 59|    165| 16|  57|  7|  5|  2|  80| 4.094| 1.377|
-|[Terminoeckers](./terminoeckers)|   51.0| 58|    166| 13|  52| 12|  8|  2| 109| 4.059| 1.245|
-|[Vass Deferens](./vassdeferens)|   49.5| 67|    185| 20|  65|  8|  2|  1| 104| 5.454| 1.460|
-|[T and A](./tanda)     |   73.5| 70|    162| 16|  55| 16| 10|  5| 111| 3.176| 1.219|
-|[Overwhelming Underdogs](./overwhelmingunderdogs)|   38.0| 56|    158| 13|  56|  5|  5|  4| 102| 3.352| 1.272|
-|[Bone Pilers](./bonepilers)|   66.0| 65|    198| 14|  69| 16|  8|  5|  97| 4.066| 1.320|
-|[Boys of Summer](./boysofsummer)|   44.5| 53|    152| 10|  40| 11|  7|  4| 100| 3.696| 1.045|
-|[Wonderbots](./wonderbots)|   71.0| 65|    167| 22|  60| 11|  6|  8| 100| 3.926| 1.053|
-|[Mean Wieners](./meanwieners)|   57.5| 57|    171| 21|  57|  6|  6|  2| 115| 3.752| 1.269|
-|[Nuclear Arms](./nucleararms)|   64.5| 63|    167| 20|  67|  5|  6|  7|  87| 1.971| 1.128|
+|[Washington Generals](./washingtongenerals)|   38.0| 65|    180| 17|  60|  8|  6|  3|  92| 3.788| 1.338|
+|[Terminoeckers](./terminoeckers)|   51.0| 63|    179| 15|  57| 13| 10|  2| 134| 3.796| 1.210|
+|[Vass Deferens](./vassdeferens)|   51.0| 74|    207| 23|  71| 10|  3|  2| 112| 5.367| 1.450|
+|[T and A](./tanda)     |   73.0| 75|    176| 17|  61| 17| 11|  5| 120| 3.144| 1.200|
+|[Overwhelming Underdogs](./overwhelmingunderdogs)|   42.0| 66|    172| 13|  60|  7|  5|  5| 114| 3.334| 1.256|
+|[Bone Pilers](./bonepilers)|   67.0| 73|    216| 18|  78| 20|  9|  5| 106| 4.183| 1.310|
+|[Boys of Summer](./boysofsummer)|   40.5| 57|    172| 11|  48| 11|  8|  5| 102| 3.789| 1.061|
+|[Wonderbots](./wonderbots)|   64.0| 69|    182| 22|  62| 12|  6| 10| 110| 4.154| 1.096|
+|[Mean Wieners](./meanwieners)|   52.0| 61|    183| 22|  60|  7|  8|  2| 132| 3.525| 1.245|
+|[Nuclear Arms](./nucleararms)|   71.5| 73|    190| 24|  74|  7|  7|  7| 104| 1.994| 1.108|
 
 * * *
 * * *
