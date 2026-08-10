@@ -6,22 +6,22 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Drake Baldwin    |C         |     14|  4|   3|  0|  0| 
-|Tyler Soderstrom |1B        |     12|  5|   4|  2|  0| 
+|Tyler Soderstrom |1B        |     13|  6|   5|  2|  0| 
 |Brandon Lowe     |2B        |     15|  7|   5|  3|  1| 
-|Manny Machado    |3B        |     12|  5|   6|  0|  0| 
+|Manny Machado    |3B        |     13|  5|   6|  0|  0| 
 |Jeremy Peña      |SS        |     15|  5|   7|  2|  0| 
-|Travis Bazzana   |MI        |     11|  2|   3|  0|  2| 
+|Travis Bazzana   |MI        |     12|  2|   3|  0|  2| 
 |Royce Lewis      |CI        |     17|  6|   8|  3|  1| 
-|Cole Carrigg     |OF        |     15|  4|   4|  0|  3| 
-|Ian Happ         |OF        |      7|  2|   2|  1|  0| 
-|Julio Rodríguez  |OF        |     16|  3|   5|  2|  2| 
+|Cole Carrigg     |OF        |     18|  4|   4|  0|  3| 
+|Ian Happ         |OF        |     10|  4|   4|  2|  0| 
+|Julio Rodríguez  |OF        |     17|  3|   5|  2|  2| 
 |Yordan Alvarez   |OF        |     21|  5|   6|  0|  0| 
-|Carson Benge     |DH        |     16|  7|   6|  2|  2| 
-|Chandler Simpson |DH        |     12|  2|   3|  0|  5| 
-|Chase DeLauter   |DH        |     18|  8|   5|  1|  2| 
-|Jackson Merrill  |DH        |     15|  8|  11|  2|  2| 
+|Carson Benge     |DH        |     19|  7|   7|  2|  2| 
+|Chandler Simpson |DH        |     16|  3|   3|  0|  5| 
+|Chase DeLauter   |DH        |     20|  9|   5|  1|  2| 
+|Jackson Merrill  |DH        |     17|  9|  12|  3|  2| 
 |Konnor Griffin   |BAT BENCH |     **| **|  **| **| **| 
-|Nasim Nuñez      |BAT BENCH |      8|  0|   2|  0|  2| 
+|Nasim Nuñez      |BAT BENCH |      9|  0|   2|  0|  2| 
 
 
 * * *
@@ -41,9 +41,9 @@
 |Louis Varland      |RP          |  6|  7.667|  3|  3.522|     10| 1.304|  3|  2|  2| 
 |Chase Burns        |OP          |  2| 11.333|  6|  4.765|     13| 1.147| 15|  1|  0| 
 |Freddy Peralta     |OP          |  1|  3.667|  7| 17.182|     10| 2.727|  3|  0|  0| 
-|Kenley Jansen      |OP          |  2|  2.000|  1|  4.500|      3| 1.500|  3|  0|  1| 
-|Mason Montgomery   |OP          |  3|  2.667|  0|  0.000|      2| 0.750|  6|  0|  1| 
-|Michael Petersen   |OP          |  3|  3.000|  2|  6.000|      6| 2.000|  5|  0|  0| 
+|Kenley Jansen      |OP          |  3|  3.000|  1|  3.000|      3| 1.000|  6|  1|  1| 
+|Mason Montgomery   |OP          |  4|  3.667|  0|  0.000|      2| 0.545|  9|  0|  1| 
+|Michael Petersen   |OP          |  4|  4.000|  2|  4.500|      7| 1.750|  7|  1|  0| 
 |Garrett Crochet    |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Kade Anderson      |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Kyle Harrison      |PITCH BENCH |  1|  5.000|  0|  0.000|      2| 0.400| 10|  1|  0| 
