@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Francisco Alvarez |C         |     14|  5|   3|  1|  0| 
+|Francisco Alvarez |C         |     16|  5|   3|  1|  0| 
 |Michael Busch     |1B        |     17|  4|   6|  1|  0| 
 |Nico Hoerner      |2B        |     16|  5|   5|  2|  3| 
-|Max Muncy         |3B        |      8|  3|   3|  1|  0| 
-|Bobby Witt Jr.    |SS        |     11|  6|   3|  0|  1| 
+|Max Muncy         |3B        |      9|  3|   6|  1|  0| 
+|Bobby Witt Jr.    |SS        |     12|  7|   3|  0|  2| 
 |Kevin McGonigle   |MI        |     19| 10|   9|  3|  0| 
-|Freddie Freeman   |CI        |     15|  2|   3|  0|  0| 
-|Cedric Mullins    |OF        |     11|  6|   3|  1|  2| 
-|Jarren Duran      |OF        |     12|  6|   6|  3|  2| 
-|Kyle Schwarber    |OF        |     18|  5|   6|  2|  1| 
+|Freddie Freeman   |CI        |     18|  2|   5|  0|  0| 
+|Cedric Mullins    |OF        |     11|  7|   3|  1|  2| 
+|Jarren Duran      |OF        |     13|  6|   6|  3|  2| 
+|Kyle Schwarber    |OF        |     22|  6|   7|  2|  1| 
 |Spencer Steer     |OF        |     **| **|  **| **| **| 
-|Bryce Harper      |DH        |     23|  8|   8|  3|  1| 
+|Bryce Harper      |DH        |     25|  8|   8|  3|  1| 
 |Cole Young        |DH        |     19|  4|   4|  1|  0| 
 |J.T. Realmuto     |DH        |     10|  7|   2|  1|  0| 
 |Luis Arraez       |DH        |     14|  5|   7|  1|  1| 
-|Corey Seager      |BAT BENCH |     11|  4|   3|  1|  0| 
-|Henry Bolte       |BAT BENCH |     15|  6|   4|  2|  1| 
+|Corey Seager      |BAT BENCH |     12|  5|   3|  1|  0| 
+|Henry Bolte       |BAT BENCH |     17|  7|   4|  2|  1| 
 |Oneil Cruz        |BAT BENCH |     **| **|  **| **| **| 
 |Samad Taylor      |BAT BENCH |     **| **|  **| **| **| 
 
@@ -37,10 +37,10 @@
 |Jacob deGrom     |SP          |  2|  8.333|  6|  6.480|     16| 1.920| 12|  1|  0| 
 |Michael McGreevy |SP          |  2| 10.000|  5|  4.500|     15| 1.500|  9|  0|  0| 
 |Nathan Eovaldi   |SP          |  2| 10.333|  7|  6.097|     17| 1.645|  7|  0|  0| 
-|Sonny Gray       |SP          |  2| 13.000|  4|  2.769|     14| 1.077| 13|  2|  0| 
+|Sonny Gray       |SP          |  3| 19.000|  6|  2.842|     21| 1.105| 17|  2|  0| 
 |Troy Melton      |SP          |  2| 13.000|  0|  0.000|     10| 0.769|  9|  1|  0| 
 |Gregory Soto     |RP          |  5|  5.000|  3|  5.400|     10| 2.000|  9|  0|  1| 
-|Jacob Latz       |RP          |  2|  3.000|  1|  3.000|      6| 2.000|  4|  1|  1| 
+|Jacob Latz       |RP          |  3|  4.000|  1|  2.250|      7| 1.750|  5|  1|  2| 
 |Grant Taylor     |OP          |  4|  7.000|  0|  0.000|      5| 0.714|  4|  0|  1| 
 |Justin Wrobleski |OP          |  2|  7.667| 10| 11.739|     19| 2.478|  7|  0|  0| 
 |Landen Roupp     |OP          |  2| 10.000|  6|  5.400|     17| 1.700|  9|  0|  0| 

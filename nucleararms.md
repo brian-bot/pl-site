@@ -6,20 +6,20 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Dillon Dingler    |C         |     18|  9|  12|  4|  0| 
-|Yandy Díaz        |1B        |     14|  4|   4|  1|  1| 
-|Luke Keaschall    |2B        |     14|  4|   4|  2|  1| 
-|Austin Riley      |3B        |     13|  4|   7|  2|  1| 
-|Gunnar Henderson  |SS        |     14|  6|   2|  0|  1| 
+|Yandy Díaz        |1B        |     17|  6|   6|  2|  1| 
+|Luke Keaschall    |2B        |     17|  5|   4|  2|  1| 
+|Austin Riley      |3B        |     15|  5|   7|  2|  1| 
+|Gunnar Henderson  |SS        |     15|  7|   2|  0|  1| 
 |Colson Montgomery |MI        |     12|  5|   7|  2|  0| 
-|Pete Alonso       |CI        |     14|  5|   8|  3|  0| 
+|Pete Alonso       |CI        |     15|  6|   8|  3|  0| 
 |Bryan Reynolds    |OF        |     18|  6|   2|  0|  0| 
-|Jake McCarthy     |OF        |     17| 11|   8|  3|  3| 
+|Jake McCarthy     |OF        |     19| 11|   8|  3|  3| 
 |Seiya Suzuki      |OF        |     18|  5|   6|  1|  1| 
 |Teoscar Hernández |OF        |     11|  5|   4|  3|  0| 
-|Jackson Holliday  |DH        |     11|  5|   4|  1|  2| 
+|Jackson Holliday  |DH        |     13|  6|   4|  1|  2| 
 |Luis Robert Jr.   |DH        |      8|  3|   6|  1|  0| 
-|Ronald Acuña Jr.  |DH        |     14|  8|   6|  5|  0| 
-|TJ Rumfield       |DH        |     13|  4|   6|  0|  0| 
+|Ronald Acuña Jr.  |DH        |     16|  8|   7|  5|  0| 
+|TJ Rumfield       |DH        |     14|  4|   6|  0|  0| 
 |Giancarlo Stanton |BAT BENCH |     **| **|  **| **| **| 
 |Shea Langeliers   |BAT BENCH |     **| **|  **| **| **| 
 
@@ -38,7 +38,7 @@
 |Shane Bieber    |SP          |  2| 11.333|  6|  4.765|     20| 1.765| 10|  1|  0| 
 |Taj Bradley     |SP          |  2| 11.000|  6|  4.909|     18| 1.636|  9|  0|  0| 
 |Jacob Webb      |RP          |  6|  6.333|  0|  0.000|      2| 0.316|  6|  1|  2| 
-|Josh Hader      |RP          |  3|  3.000|  0|  0.000|      0| 0.000|  3|  0|  2| 
+|Josh Hader      |RP          |  4|  5.000|  0|  0.000|      0| 0.000|  5|  1|  2| 
 |Andre Pallante  |OP          |  2| 11.667|  3|  2.314|     15| 1.286|  7|  1|  0| 
 |Roki Sasaki     |OP          |  2| 11.333|  4|  3.176|     13| 1.147| 12|  1|  0| 
 |Slade Cecconi   |OP          |  2|  2.667|  5| 16.875|      7| 2.625|  4|  0|  0| 

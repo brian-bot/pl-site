@@ -7,18 +7,18 @@
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Liam Hicks         |C         |     18|  1|   8|  1|  0| 
 |Josh Naylor        |1B        |     15|  2|   5|  2|  2| 
-|Jose Altuve        |2B        |     17|  6|   4|  1|  0| 
-|JJ Wetherholt      |3B        |     18|  7|   5|  1|  1| 
-|Geraldo Perdomo    |SS        |     20|  4|   5|  1|  0| 
-|Bryson Stott       |MI        |     26|  8|   6|  0|  5| 
+|Jose Altuve        |2B        |     17|  6|   5|  1|  0| 
+|JJ Wetherholt      |3B        |     19|  8|   5|  1|  1| 
+|Geraldo Perdomo    |SS        |     21|  5|   5|  1|  0| 
+|Bryson Stott       |MI        |     29|  8|   6|  0|  5| 
 |Spencer Torkelson  |CI        |     21|  8|   7|  1|  0| 
-|Corbin Carroll     |OF        |     12|  8|   5|  1|  2| 
+|Corbin Carroll     |OF        |     14|  9|   6|  1|  2| 
 |Daylen Lile        |OF        |     13|  6|   9|  4|  1| 
 |Ryan O'Hearn       |OF        |      2|  0|   0|  0|  0| 
 |Taylor Ward        |OF        |     10|  2|   2|  0|  0| 
 |Gleyber Torres     |DH        |     15| 10|   6|  2|  0| 
-|Jackson Chourio    |DH        |     18|  7|   5|  4|  0| 
-|Mickey Moniak      |DH        |     10|  4|   6|  2|  0| 
+|Jackson Chourio    |DH        |     21|  7|   5|  4|  1| 
+|Mickey Moniak      |DH        |     12|  4|   6|  2|  0| 
 |Munetaka Murakami  |DH        |     16|  7|   6|  4|  0| 
 |Adley Rutschman    |BAT BENCH |     **| **|  **| **| **| 
 |Javier Sanoja      |BAT BENCH |     14|  3|   7|  1|  0| 

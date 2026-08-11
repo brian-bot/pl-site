@@ -6,19 +6,19 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Alejandro Kirk   |C         |     15|  2|   7|  1|  0| 
-|Rafael Devers    |1B        |     16|  6|   4|  2|  0| 
+|Rafael Devers    |1B        |     17|  6|   4|  2|  0| 
 |Xavier Edwards   |2B        |     12|  4|   7|  0|  1| 
 |Kyle Karros      |3B        |     13|  6|   5|  0|  2| 
-|Francisco Lindor |SS        |     18|  7|   6|  2|  1| 
-|Tommy Edman      |MI        |      6|  2|   4|  1|  0| 
+|Francisco Lindor |SS        |     21| 10|   7|  3|  1| 
+|Tommy Edman      |MI        |      7|  3|   4|  1|  0| 
 |Alex Bregman     |CI        |     18|  8|   7|  1|  1| 
-|George Springer  |OF        |     13|  5|   3|  0|  1| 
+|George Springer  |OF        |     14|  6|   3|  0|  2| 
 |Jakob Marsee     |OF        |     13|  7|   2|  1|  0| 
 |Juan Soto        |OF        |     **| **|  **| **| **| 
 |Trent Grisham    |OF        |     10|  4|   3|  2|  0| 
-|Christian Walker |DH        |     18|  7|   5|  1|  0| 
+|Christian Walker |DH        |     19|  7|   5|  1|  0| 
 |Dominic Canzone  |DH        |     13|  4|   0|  0|  0| 
-|Jonathan Aranda  |DH        |     14|  6|   7|  1|  0| 
+|Jonathan Aranda  |DH        |     17|  7|   8|  1|  0| 
 |Miguel Vargas    |DH        |     15|  6|   4|  2|  1| 
 |Brendan Donovan  |BAT BENCH |      3|  0|   0|  0|  0| 
 |Maikel Garcia    |BAT BENCH |     **| **|  **| **| **| 
@@ -45,9 +45,9 @@
 |Emerson Hancock    |OP          |  3| 15.667|  8|  4.596|     29| 1.851| 14|  0|  0| 
 |Joey Cantillo      |OP          |  3| 10.000|  3|  2.700|     17| 1.700| 16|  0|  0| 
 |Peter Lambert      |OP          |  2| 10.667|  4|  3.375|     13| 1.219| 11|  0|  0| 
-|Tyler Wells        |OP          |  4|  6.333|  0|  0.000|      3| 0.474|  5|  0|  1| 
+|Tyler Wells        |OP          |  5|  7.333|  0|  0.000|      5| 0.682|  8|  0|  1| 
 |Clayton Beeter     |PITCH BENCH |  4|  3.333|  2|  5.400|      4| 1.200|  3|  2|  1| 
-|Michael Soroka     |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
+|Michael Soroka     |PITCH BENCH |  1|  4.333|  0|  0.000|      6| 1.385|  4|  0|  0| 
 
 
 * * *
