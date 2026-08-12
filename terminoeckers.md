@@ -5,25 +5,25 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Hunter Goodman    |C         |     10|  3|   9|  3|  0| 
+|Hunter Goodman    |C         |     11|  4|   9|  3|  0| 
 |Willson Contreras |1B        |     15|  4|   4|  1|  0| 
-|Brice Turang      |2B        |     19|  4|  10|  1|  1| 
+|Brice Turang      |2B        |     20|  4|  11|  1|  1| 
 |Kazuma Okamoto    |3B        |     12|  6|   4|  0|  0| 
-|Elly De La Cruz   |SS        |     18|  7|   7|  2|  3| 
-|Dansby Swanson    |MI        |     11|  8|   2|  1|  2| 
+|Elly De La Cruz   |SS        |     19|  8|   9|  2|  3| 
+|Dansby Swanson    |MI        |     13|  8|   3|  1|  2| 
 |Jake Burger       |CI        |     12|  4|   2|  0|  0| 
-|Brandon Nimmo     |OF        |     21|  5|   8|  3|  2| 
-|Jordan Walker     |OF        |     14|  4|   6|  1|  0| 
-|Kyle Tucker       |OF        |     16|  9|   3|  2|  1| 
+|Brandon Nimmo     |OF        |     23|  6|   8|  3|  2| 
+|Jordan Walker     |OF        |     15|  5|   6|  1|  1| 
+|Kyle Tucker       |OF        |     17| 10|   3|  2|  1| 
 |Wyatt Langford    |OF        |     16|  6|   2|  1|  1| 
 |A.J. Ewing        |DH        |     15|  6|   2|  0|  3| 
-|Bryce Eldridge    |DH        |     12|  4|   3|  0|  0| 
+|Bryce Eldridge    |DH        |     13|  5|   4|  1|  0| 
 |Kyle Stowers      |DH        |     18|  6|   6|  2|  0| 
-|Luis Lara         |DH        |      9|  2|   1|  0|  0| 
-|Carter Jensen     |BAT BENCH |     13|  9|   3|  2|  0| 
+|Luis Lara         |DH        |     10|  3|   1|  0|  0| 
+|Carter Jensen     |BAT BENCH |     14|  9|   3|  2|  0| 
 |Curtis Mead       |BAT BENCH |     **| **|  **| **| **| 
-|Eugenio Suárez    |BAT BENCH |     13|  2|   4|  2|  0| 
-|Jac Caglianone    |BAT BENCH |     19|  6|  15|  5|  1| 
+|Eugenio Suárez    |BAT BENCH |     15|  3|   5|  3|  0| 
+|Jac Caglianone    |BAT BENCH |     22|  7|  16|  5|  2| 
 
 
 * * *
@@ -33,7 +33,7 @@
  
 |players         |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:---------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Bryan Woo       |SP          |  2| 12.000|  5| 3.750|     11| 0.917| 13|  1|  0| 
+|Bryan Woo       |SP          |  3| 17.000|  5| 2.647|     15| 0.882| 18|  1|  0| 
 |Bryce Miller    |SP          |  2| 10.333|  6| 5.226|     12| 1.161|  8|  0|  0| 
 |Bubba Chandler  |SP          |  2| 11.667|  2| 1.543|     12| 1.029| 10|  2|  0| 
 |Cam Schlittler  |SP          |  3| 16.333|  6| 3.306|     15| 0.918| 25|  0|  0| 

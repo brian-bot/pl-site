@@ -5,22 +5,22 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Alejandro Kirk   |C         |     15|  2|   7|  1|  0| 
-|Rafael Devers    |1B        |     17|  6|   4|  2|  0| 
-|Xavier Edwards   |2B        |     12|  4|   7|  0|  1| 
-|Kyle Karros      |3B        |     13|  6|   5|  0|  2| 
-|Francisco Lindor |SS        |     21| 10|   7|  3|  1| 
-|Tommy Edman      |MI        |      7|  3|   4|  1|  0| 
-|Alex Bregman     |CI        |     18|  8|   7|  1|  1| 
-|George Springer  |OF        |     14|  6|   3|  0|  2| 
-|Jakob Marsee     |OF        |     13|  7|   2|  1|  0| 
+|Alejandro Kirk   |C         |     18|  2|   7|  1|  0| 
+|Rafael Devers    |1B        |     19|  7|   4|  2|  0| 
+|Xavier Edwards   |2B        |     13|  4|   7|  0|  1| 
+|Kyle Karros      |3B        |     14|  7|   7|  1|  2| 
+|Francisco Lindor |SS        |     23| 10|   7|  3|  1| 
+|Tommy Edman      |MI        |      8|  3|   4|  1|  0| 
+|Alex Bregman     |CI        |     21| 11|   8|  2|  1| 
+|George Springer  |OF        |     16|  7|   3|  0|  2| 
+|Jakob Marsee     |OF        |     14|  7|   2|  1|  0| 
 |Juan Soto        |OF        |     **| **|  **| **| **| 
-|Trent Grisham    |OF        |     10|  4|   3|  2|  0| 
+|Trent Grisham    |OF        |     12|  4|   5|  2|  0| 
 |Christian Walker |DH        |     19|  7|   5|  1|  0| 
-|Dominic Canzone  |DH        |     13|  4|   0|  0|  0| 
-|Jonathan Aranda  |DH        |     17|  7|   8|  1|  0| 
-|Miguel Vargas    |DH        |     15|  6|   4|  2|  1| 
-|Brendan Donovan  |BAT BENCH |      3|  0|   0|  0|  0| 
+|Dominic Canzone  |DH        |     15|  4|   0|  0|  0| 
+|Jonathan Aranda  |DH        |     18|  7|   8|  1|  0| 
+|Miguel Vargas    |DH        |     16|  7|   5|  3|  1| 
+|Brendan Donovan  |BAT BENCH |      4|  0|   0|  0|  0| 
 |Maikel Garcia    |BAT BENCH |     **| **|  **| **| **| 
 |Matt Chapman     |BAT BENCH |     **| **|  **| **| **| 
 |Roman Anthony    |BAT BENCH |     **| **|  **| **| **| 
@@ -34,7 +34,7 @@
 |players            |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:------------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Chris Sale         |SP          |  2| 12.000|  3|  2.250|      9| 0.750| 17|  1|  0| 
-|Cristopher Sánchez |SP          |  2| 11.000|  2|  1.636|     15| 1.364| 17|  2|  0| 
+|Cristopher Sánchez |SP          |  3| 17.000|  2|  1.059|     19| 1.118| 24|  2|  0| 
 |Emmet Sheehan      |SP          |  1|  2.667|  5| 16.875|      7| 2.625|  4|  0|  0| 
 |Jesús Luzardo      |SP          |  3| 21.333|  8|  3.375|     20| 0.938| 24|  1|  0| 
 |Merrill Kelly      |SP          |  2| 10.667|  6|  5.062|     18| 1.687|  9|  0|  0| 

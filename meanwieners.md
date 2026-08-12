@@ -5,22 +5,22 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Ben Rice          |C         |     12|  3|   2|  1|  0| 
-|Alec Burleson     |1B        |     22|  7|  10|  4|  0| 
-|Jazz Chisholm Jr. |2B        |      9|  1|   2|  1|  1| 
-|Isaac Paredes     |3B        |     16|  2|   4|  1|  0| 
-|Bo Bichette       |SS        |     19|  6|   7|  1|  0| 
-|Mauricio Dubón    |MI        |     15|  6|   5|  0|  3| 
+|Ben Rice          |C         |     13|  3|   2|  1|  0| 
+|Alec Burleson     |1B        |     23|  7|  10|  4|  0| 
+|Jazz Chisholm Jr. |2B        |     11|  2|   2|  1|  2| 
+|Isaac Paredes     |3B        |     18|  2|   4|  1|  0| 
+|Bo Bichette       |SS        |     20|  6|   7|  1|  0| 
+|Mauricio Dubón    |MI        |     15|  6|   6|  0|  3| 
 |Kyle Manzardo     |CI        |      6|  3|   3|  1|  0| 
-|Andy Pages        |OF        |     20|  4|   7|  2|  1| 
-|Jo Adell          |OF        |     11|  3|   2|  0|  0| 
-|Randy Arozarena   |OF        |     15|  7|   2|  1|  1| 
-|Wilyer Abreu      |OF        |     19| 11|  11|  5|  1| 
+|Andy Pages        |OF        |     22|  4|   7|  2|  1| 
+|Jo Adell          |OF        |     14|  4|   4|  1|  0| 
+|Randy Arozarena   |OF        |     16|  8|   3|  2|  1| 
+|Wilyer Abreu      |OF        |     21| 12|  12|  6|  2| 
 |Braden Montgomery |DH        |     12|  5|   4|  1|  0| 
-|Brooks Lee        |DH        |     11|  3|   5|  2|  0| 
-|Sam Antonacci     |DH        |     12|  3|   4|  1|  0| 
-|Shohei Ohtani     |DH        |     21|  8|   8|  3|  1| 
-|Matt McLain       |BAT BENCH |     11|  6|   3|  2|  2| 
+|Brooks Lee        |DH        |     13|  3|   6|  2|  0| 
+|Sam Antonacci     |DH        |     13|  3|   5|  1|  0| 
+|Shohei Ohtani     |DH        |     21|  9|   8|  3|  1| 
+|Matt McLain       |BAT BENCH |     12|  8|   3|  2|  2| 
 |Samuel Basallo    |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -34,7 +34,7 @@
 |Matthew Boyd       |SP          |  3| 20.667|  6|  2.613|     24| 1.161| 11|  2|  0| 
 |Michael King       |SP          |  2| 11.000|  4|  3.273|     13| 1.182| 11|  1|  0| 
 |Payton Tolle       |SP          |  2| 12.000|  3|  2.250|     13| 1.083| 21|  1|  0| 
-|Shota Imanaga      |SP          |  2| 11.667|  3|  2.314|     12| 1.029| 12|  1|  0| 
+|Shota Imanaga      |SP          |  3| 16.333|  7|  3.857|     18| 1.102| 17|  1|  0| 
 |Will Warren        |SP          |  2| 12.000|  3|  2.250|     12| 1.000| 12|  1|  0| 
 |Yoshinobu Yamamoto |SP          |  2| 13.667|  3|  1.976|     11| 0.805|  9|  0|  0| 
 |Aaron Ashby        |RP          |  5|  5.333|  4|  6.750|      9| 1.688| 12|  1|  0| 
@@ -45,10 +45,10 @@
 |Robert Gasser      |OP          |  2|  9.667|  4|  3.724|     15| 1.552|  9|  0|  0| 
 |Shane Drohan       |OP          |  2| 11.000|  8|  6.545|     18| 1.636| 11|  1|  0| 
 |Aaron Nola         |PITCH BENCH |  2| 11.000|  5|  4.091|     16| 1.455| 13|  0|  0| 
-|Alex Vesia         |PITCH BENCH |  5|  4.667|  2|  3.857|      5| 1.071|  3|  0|  0| 
+|Alex Vesia         |PITCH BENCH |  6|  5.667|  2|  3.176|      6| 1.059|  4|  0|  0| 
 |Eduardo Rodriguez  |PITCH BENCH |  3| 20.667|  7|  3.048|     24| 1.161| 15|  2|  0| 
 |Edward Cabrera     |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Nick Lodolo        |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
+|Nick Lodolo        |PITCH BENCH |  1|  4.000|  4|  9.000|      5| 1.250|  5|  0|  0| 
 
 
 * * *
