@@ -5,22 +5,22 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Ben Rice          |C         |     13|  3|   2|  1|  0| 
-|Alec Burleson     |1B        |     23|  7|  10|  4|  0| 
-|Jazz Chisholm Jr. |2B        |     11|  2|   2|  1|  2| 
-|Isaac Paredes     |3B        |     18|  2|   4|  1|  0| 
-|Bo Bichette       |SS        |     20|  6|   7|  1|  0| 
+|Ben Rice          |C         |     16|  6|   3|  1|  1| 
+|Alec Burleson     |1B        |     26|  8|  13|  4|  0| 
+|Jazz Chisholm Jr. |2B        |     13|  3|   3|  1|  2| 
+|Isaac Paredes     |3B        |     18|  3|   4|  1|  0| 
+|Bo Bichette       |SS        |     21|  7|   8|  2|  0| 
 |Mauricio Dubón    |MI        |     15|  6|   6|  0|  3| 
 |Kyle Manzardo     |CI        |      6|  3|   3|  1|  0| 
-|Andy Pages        |OF        |     22|  4|   7|  2|  1| 
-|Jo Adell          |OF        |     14|  4|   4|  1|  0| 
-|Randy Arozarena   |OF        |     16|  8|   3|  2|  1| 
-|Wilyer Abreu      |OF        |     21| 12|  12|  6|  2| 
-|Braden Montgomery |DH        |     12|  5|   4|  1|  0| 
-|Brooks Lee        |DH        |     13|  3|   6|  2|  0| 
-|Sam Antonacci     |DH        |     13|  3|   5|  1|  0| 
-|Shohei Ohtani     |DH        |     21|  9|   8|  3|  1| 
-|Matt McLain       |BAT BENCH |     12|  8|   3|  2|  2| 
+|Andy Pages        |OF        |     23|  4|   7|  2|  1| 
+|Jo Adell          |OF        |     15|  5|   6|  2|  0| 
+|Randy Arozarena   |OF        |     18| 10|   5|  3|  1| 
+|Wilyer Abreu      |OF        |     22| 13|  12|  6|  2| 
+|Braden Montgomery |DH        |     13|  5|   4|  1|  0| 
+|Brooks Lee        |DH        |     15|  4|   6|  2|  0| 
+|Sam Antonacci     |DH        |     16|  3|   5|  1|  1| 
+|Shohei Ohtani     |DH        |     23| 10|  10|  4|  1| 
+|Matt McLain       |BAT BENCH |     13|  8|   3|  2|  2| 
 |Samuel Basallo    |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -35,9 +35,9 @@
 |Michael King       |SP          |  2| 11.000|  4|  3.273|     13| 1.182| 11|  1|  0| 
 |Payton Tolle       |SP          |  2| 12.000|  3|  2.250|     13| 1.083| 21|  1|  0| 
 |Shota Imanaga      |SP          |  3| 16.333|  7|  3.857|     18| 1.102| 17|  1|  0| 
-|Will Warren        |SP          |  2| 12.000|  3|  2.250|     12| 1.000| 12|  1|  0| 
+|Will Warren        |SP          |  3| 16.000|  8|  4.500|     22| 1.375| 15|  1|  0| 
 |Yoshinobu Yamamoto |SP          |  2| 13.667|  3|  1.976|     11| 0.805|  9|  0|  0| 
-|Aaron Ashby        |RP          |  5|  5.333|  4|  6.750|      9| 1.688| 12|  1|  0| 
+|Aaron Ashby        |RP          |  6|  6.000|  4|  6.000|     11| 1.833| 13|  1|  0| 
 |Devin Williams     |RP          |  4|  4.000|  3|  6.750|      8| 2.000|  3|  0|  2| 
 |Brandon Sproat     |OP          |  1|  3.000|  4| 12.000|      7| 2.333|  4|  0|  0| 
 |Christian Scott    |OP          |  3| 15.000|  8|  4.800|     22| 1.467| 20|  0|  0| 

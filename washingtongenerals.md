@@ -6,22 +6,22 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Francisco Alvarez |C         |     17|  5|   3|  1|  0| 
-|Michael Busch     |1B        |     17|  4|   6|  1|  0| 
-|Nico Hoerner      |2B        |     19|  6|   6|  2|  4| 
+|Michael Busch     |1B        |     18|  4|   6|  1|  0| 
+|Nico Hoerner      |2B        |     20|  6|   6|  2|  4| 
 |Max Muncy         |3B        |     12|  3|   7|  1|  0| 
-|Bobby Witt Jr.    |SS        |     14|  9|   3|  0|  2| 
-|Kevin McGonigle   |MI        |     21| 11|  12|  3|  0| 
-|Freddie Freeman   |CI        |     19|  2|   5|  0|  0| 
-|Cedric Mullins    |OF        |     11|  7|   3|  1|  2| 
-|Jarren Duran      |OF        |     15|  6|   6|  3|  2| 
+|Bobby Witt Jr.    |SS        |     16|  9|   3|  0|  2| 
+|Kevin McGonigle   |MI        |     23| 12|  12|  3|  0| 
+|Freddie Freeman   |CI        |     21|  2|   5|  0|  0| 
+|Cedric Mullins    |OF        |     13|  8|   4|  1|  2| 
+|Jarren Duran      |OF        |     16|  6|   7|  3|  2| 
 |Kyle Schwarber    |OF        |     24|  6|   7|  2|  1| 
 |Spencer Steer     |OF        |     **| **|  **| **| **| 
-|Bryce Harper      |DH        |     27|  8|   8|  3|  1| 
-|Cole Young        |DH        |     19|  4|   4|  1|  0| 
+|Bryce Harper      |DH        |     30|  9|   8|  3|  1| 
+|Cole Young        |DH        |     20|  5|   4|  1|  0| 
 |J.T. Realmuto     |DH        |     10|  7|   2|  1|  0| 
-|Luis Arraez       |DH        |     14|  5|   7|  1|  1| 
-|Corey Seager      |BAT BENCH |     12|  5|   3|  1|  0| 
-|Henry Bolte       |BAT BENCH |     18|  7|   4|  2|  1| 
+|Luis Arraez       |DH        |     15|  5|   8|  1|  1| 
+|Corey Seager      |BAT BENCH |     15|  6|   4|  2|  0| 
+|Henry Bolte       |BAT BENCH |     19|  7|   4|  2|  2| 
 |Oneil Cruz        |BAT BENCH |     **| **|  **| **| **| 
 |Samad Taylor      |BAT BENCH |     **| **|  **| **| **| 
 
@@ -33,7 +33,7 @@
  
 |players          |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Dustin May       |SP          |  2| 11.000|  2|  1.636|      9| 0.818|  8|  1|  0| 
+|Dustin May       |SP          |  3| 18.000|  3|  1.500|     15| 0.833| 14|  1|  0| 
 |Jacob deGrom     |SP          |  2|  8.333|  6|  6.480|     16| 1.920| 12|  1|  0| 
 |Michael McGreevy |SP          |  2| 10.000|  5|  4.500|     15| 1.500|  9|  0|  0| 
 |Nathan Eovaldi   |SP          |  2| 10.333|  7|  6.097|     17| 1.645|  7|  0|  0| 
