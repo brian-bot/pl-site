@@ -8,17 +8,17 @@
 |Gabriel Moreno        |C         |     19|  5|  10|  1|  0| 
 |Matt Olson            |1B        |     20| 14|  11|  8|  0| 
 |Ozzie Albies          |2B        |     18|  4|   4|  2|  1| 
-|José Ramírez          |3B        |     17|  8|   2|  0|  3| 
+|José Ramírez          |3B        |     18|  8|   2|  0|  3| 
 |Willy Adames          |SS        |     19|  6|   3|  1|  3| 
-|Luis García Jr.       |MI        |     13|  4|   5|  2|  0| 
-|Vladimir Guerrero Jr. |CI        |     12|  6|   2|  1|  0| 
-|Brandon Marsh         |OF        |     15|  7|   5|  0|  1| 
-|Christian Yelich      |OF        |     10|  4|   3|  1|  2| 
+|Luis García Jr.       |MI        |     15|  4|   5|  2|  0| 
+|Vladimir Guerrero Jr. |CI        |     13|  6|   2|  1|  0| 
+|Brandon Marsh         |OF        |     19|  9|   7|  1|  2| 
+|Christian Yelich      |OF        |     11|  4|   3|  1|  2| 
 |Jasson Domínguez      |OF        |      6|  1|   0|  0|  0| 
 |Pete Crow-Armstrong   |OF        |     26| 16|  12|  4|  4| 
-|Caleb Durbin          |DH        |     25| 11|  11|  1|  2| 
+|Caleb Durbin          |DH        |     28| 12|  16|  2|  2| 
 |Cooper Pratt          |DH        |     11|  3|   3|  0|  1| 
-|Dylan Crews           |DH        |     10|  5|   2|  1|  1| 
+|Dylan Crews           |DH        |     12|  6|   3|  1|  2| 
 |Heriberto Hernández   |DH        |     12|  5|   5|  2|  1| 
 |Cal Raleigh           |BAT BENCH |     13|  1|   7|  1|  0| 
 |Cody Bellinger        |BAT BENCH |     **| **|  **| **| **| 
@@ -32,7 +32,7 @@
  
 |players          |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Cade Cavalli     |SP          |  2| 12.000|  5| 3.750|     16| 1.333| 11|  1|  0| 
+|Cade Cavalli     |SP          |  3| 20.000|  5| 2.250|     19| 0.950| 21|  2|  0| 
 |Foster Griffin   |SP          |  3| 14.333| 12| 7.535|     25| 1.744| 12|  1|  0| 
 |Gerrit Cole      |SP          |  2| 12.667|  3| 2.132|     13| 1.026| 14|  2|  0| 
 |Logan Webb       |SP          |  3| 20.000|  3| 1.350|     17| 0.850| 14|  2|  0| 

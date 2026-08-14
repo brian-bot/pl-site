@@ -6,21 +6,21 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Francisco Alvarez |C         |     17|  5|   3|  1|  0| 
-|Michael Busch     |1B        |     18|  4|   6|  1|  0| 
+|Michael Busch     |1B        |     19|  4|   6|  1|  0| 
 |Nico Hoerner      |2B        |     20|  6|   6|  2|  4| 
-|Max Muncy         |3B        |     12|  3|   7|  1|  0| 
+|Max Muncy         |3B        |     13|  4|  10|  2|  0| 
 |Bobby Witt Jr.    |SS        |     16|  9|   3|  0|  2| 
-|Kevin McGonigle   |MI        |     23| 12|  12|  3|  0| 
-|Freddie Freeman   |CI        |     21|  2|   5|  0|  0| 
+|Kevin McGonigle   |MI        |     24| 13|  12|  3|  1| 
+|Freddie Freeman   |CI        |     22|  3|   5|  0|  0| 
 |Cedric Mullins    |OF        |     13|  8|   4|  1|  2| 
-|Jarren Duran      |OF        |     16|  6|   7|  3|  2| 
-|Kyle Schwarber    |OF        |     24|  6|   7|  2|  1| 
+|Jarren Duran      |OF        |     17|  6|   7|  3|  2| 
+|Kyle Schwarber    |OF        |     26|  8|  10|  4|  1| 
 |Spencer Steer     |OF        |     **| **|  **| **| **| 
-|Bryce Harper      |DH        |     30|  9|   8|  3|  1| 
+|Bryce Harper      |DH        |     32| 10|   9|  3|  1| 
 |Cole Young        |DH        |     20|  5|   4|  1|  0| 
 |J.T. Realmuto     |DH        |     10|  7|   2|  1|  0| 
-|Luis Arraez       |DH        |     15|  5|   8|  1|  1| 
-|Corey Seager      |BAT BENCH |     15|  6|   4|  2|  0| 
+|Luis Arraez       |DH        |     18|  5|   8|  1|  1| 
+|Corey Seager      |BAT BENCH |     16|  6|   4|  2|  0| 
 |Henry Bolte       |BAT BENCH |     19|  7|   4|  2|  2| 
 |Oneil Cruz        |BAT BENCH |     **| **|  **| **| **| 
 |Samad Taylor      |BAT BENCH |     **| **|  **| **| **| 
@@ -34,7 +34,7 @@
 |players          |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Dustin May       |SP          |  3| 18.000|  3|  1.500|     15| 0.833| 14|  1|  0| 
-|Jacob deGrom     |SP          |  2|  8.333|  6|  6.480|     16| 1.920| 12|  1|  0| 
+|Jacob deGrom     |SP          |  3| 10.333|  8|  6.968|     23| 2.226| 15|  1|  0| 
 |Michael McGreevy |SP          |  2| 10.000|  5|  4.500|     15| 1.500|  9|  0|  0| 
 |Nathan Eovaldi   |SP          |  2| 10.333|  7|  6.097|     17| 1.645|  7|  0|  0| 
 |Sonny Gray       |SP          |  3| 19.000|  6|  2.842|     21| 1.105| 17|  2|  0| 
@@ -48,7 +48,7 @@
 |Sean Burke       |OP          |  3| 17.333|  3|  1.558|     15| 0.865| 22|  0|  0| 
 |Anthony Kay      |PITCH BENCH |  2| 12.333|  2|  1.459|     15| 1.216|  7|  2|  0| 
 |Kumar Rocker     |PITCH BENCH |  2|  8.333|  9|  9.720|     21| 2.520| 10|  0|  0| 
-|Tyler Phillips   |PITCH BENCH |  2|  9.000|  3|  3.000|     12| 1.333|  7|  1|  0| 
+|Tyler Phillips   |PITCH BENCH |  3| 14.333|  7|  4.395|     19| 1.326| 13|  1|  0| 
 
 
 * * *

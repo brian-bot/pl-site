@@ -5,7 +5,7 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Ben Rice          |C         |     16|  6|   3|  1|  1| 
+|Ben Rice          |C         |     17|  6|   3|  1|  1| 
 |Alec Burleson     |1B        |     26|  8|  13|  4|  0| 
 |Jazz Chisholm Jr. |2B        |     13|  3|   3|  1|  2| 
 |Isaac Paredes     |3B        |     18|  3|   4|  1|  0| 
@@ -14,12 +14,12 @@
 |Kyle Manzardo     |CI        |      6|  3|   3|  1|  0| 
 |Andy Pages        |OF        |     23|  4|   7|  2|  1| 
 |Jo Adell          |OF        |     15|  5|   6|  2|  0| 
-|Randy Arozarena   |OF        |     18| 10|   5|  3|  1| 
-|Wilyer Abreu      |OF        |     22| 13|  12|  6|  2| 
-|Braden Montgomery |DH        |     13|  5|   4|  1|  0| 
+|Randy Arozarena   |OF        |     20| 10|   5|  3|  1| 
+|Wilyer Abreu      |OF        |     25| 15|  12|  6|  2| 
+|Braden Montgomery |DH        |     16|  7|   4|  1|  0| 
 |Brooks Lee        |DH        |     15|  4|   6|  2|  0| 
-|Sam Antonacci     |DH        |     16|  3|   5|  1|  1| 
-|Shohei Ohtani     |DH        |     23| 10|  10|  4|  1| 
+|Sam Antonacci     |DH        |     18|  5|   5|  1|  1| 
+|Shohei Ohtani     |DH        |     24| 10|  10|  4|  1| 
 |Matt McLain       |BAT BENCH |     13|  8|   3|  2|  2| 
 |Samuel Basallo    |BAT BENCH |     **| **|  **| **| **| 
 
@@ -33,7 +33,7 @@
 |:------------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
 |Matthew Boyd       |SP          |  3| 20.667|  6|  2.613|     24| 1.161| 11|  2|  0| 
 |Michael King       |SP          |  2| 11.000|  4|  3.273|     13| 1.182| 11|  1|  0| 
-|Payton Tolle       |SP          |  2| 12.000|  3|  2.250|     13| 1.083| 21|  1|  0| 
+|Payton Tolle       |SP          |  3| 20.000|  3|  1.350|     17| 0.850| 25|  2|  0| 
 |Shota Imanaga      |SP          |  3| 16.333|  7|  3.857|     18| 1.102| 17|  1|  0| 
 |Will Warren        |SP          |  3| 16.000|  8|  4.500|     22| 1.375| 15|  1|  0| 
 |Yoshinobu Yamamoto |SP          |  2| 13.667|  3|  1.976|     11| 0.805|  9|  0|  0| 
@@ -43,9 +43,9 @@
 |Christian Scott    |OP          |  3| 15.000|  8|  4.800|     22| 1.467| 20|  0|  0| 
 |Grant Holmes       |OP          |  3| 16.667|  3|  1.620|     18| 1.080| 11|  1|  0| 
 |Robert Gasser      |OP          |  2|  9.667|  4|  3.724|     15| 1.552|  9|  0|  0| 
-|Shane Drohan       |OP          |  2| 11.000|  8|  6.545|     18| 1.636| 11|  1|  0| 
-|Aaron Nola         |PITCH BENCH |  2| 11.000|  5|  4.091|     16| 1.455| 13|  0|  0| 
-|Alex Vesia         |PITCH BENCH |  6|  5.667|  2|  3.176|      6| 1.059|  4|  0|  0| 
+|Shane Drohan       |OP          |  3| 16.333| 11|  6.061|     24| 1.469| 16|  1|  0| 
+|Aaron Nola         |PITCH BENCH |  3| 16.000|  6|  3.375|     24| 1.500| 22|  1|  0| 
+|Alex Vesia         |PITCH BENCH |  7|  6.000|  2|  3.000|      8| 1.333|  4|  0|  0| 
 |Eduardo Rodriguez  |PITCH BENCH |  3| 20.667|  7|  3.048|     24| 1.161| 15|  2|  0| 
 |Edward Cabrera     |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Nick Lodolo        |PITCH BENCH |  1|  4.000|  4|  9.000|      5| 1.250|  5|  0|  0| 
