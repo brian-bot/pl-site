@@ -6,20 +6,20 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Salvador Perez     |C         |     14|  3|   7|  1|  0| 
-|Andrew Vaughn      |1B        |     18|  3|   6|  1|  0| 
+|Andrew Vaughn      |1B        |     19|  3|   6|  1|  0| 
 |Ceddanne Rafaela   |2B        |     26| 13|  13|  5|  3| 
-|Junior Caminero    |3B        |     21| 11|  12|  6|  0| 
-|Zach Neto          |SS        |     10|  4|   6|  1|  2| 
-|CJ Abrams          |MI        |     20|  9|   9|  2|  4| 
-|Sal Stewart        |CI        |     23| 12|  10|  4|  0| 
-|Fernando Tatis Jr. |OF        |     21| 13|   6|  4|  3| 
+|Junior Caminero    |3B        |     22| 12|  13|  6|  1| 
+|Zach Neto          |SS        |     12|  4|   7|  1|  2| 
+|CJ Abrams          |MI        |     23| 10|   9|  2|  5| 
+|Sal Stewart        |CI        |     24| 12|  10|  4|  0| 
+|Fernando Tatis Jr. |OF        |     23| 14|   7|  5|  3| 
 |James Wood         |OF        |      9|  3|   1|  0|  1| 
-|JJ Bleday          |OF        |     17|  5|   2|  2|  0| 
-|Mike Trout         |OF        |     21|  7|   5|  2|  2| 
+|JJ Bleday          |OF        |     19|  5|   2|  2|  0| 
+|Mike Trout         |OF        |     22|  7|   5|  2|  2| 
 |José Caballero     |DH        |     11|  2|   4|  2|  6| 
-|Mookie Betts       |DH        |     18|  6|   5|  2|  0| 
+|Mookie Betts       |DH        |     19|  6|   6|  2|  0| 
 |Paul Goldschmidt   |DH        |      5|  1|   1|  0|  0| 
-|Ty France          |DH        |     25| 10|   5|  1|  0| 
+|Ty France          |DH        |     28| 11|   5|  1|  0| 
 |Aaron Judge        |BAT BENCH |     **| **|  **| **| **| 
 |Kyle Teel          |BAT BENCH |     **| **|  **| **| **| 
 |Owen Caissie       |BAT BENCH |      7|  6|   2|  1|  0| 
@@ -32,7 +32,7 @@
  
 |players           |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Gavin Williams    |SP          |  2| 11.333|  2| 1.588|      7| 0.618| 17|  1|  0| 
+|Gavin Williams    |SP          |  3| 15.667|  7| 4.021|     18| 1.149| 22|  1|  0| 
 |Jacob Misiorowski |SP          |  2| 13.000|  5| 3.462|      8| 0.615| 19|  0|  0| 
 |Joe Ryan          |SP          |  2| 11.333|  8| 6.353|     17| 1.500|  7|  0|  0| 
 |Logan Gilbert     |SP          |  3| 19.667|  5| 2.288|     19| 0.966| 19|  1|  0| 
@@ -47,7 +47,7 @@
 |Reid Detmers      |OP          |  2| 10.000|  4| 3.600|     12| 1.200| 11|  0|  0| 
 |Kris Bubic        |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 |Noah Cameron      |PITCH BENCH |  3| 21.667|  5| 2.077|     15| 0.692| 18|  1|  0| 
-|Ryan Zeferjahn    |PITCH BENCH |  5|  5.000|  3| 5.400|      8| 1.600|  8|  0|  1| 
+|Ryan Zeferjahn    |PITCH BENCH |  6|  6.000|  3| 4.500|     10| 1.667| 10|  0|  1| 
 |Shane Baz         |PITCH BENCH |  3| 17.333|  8| 4.154|     21| 1.212| 15|  0|  0| 
 
 
