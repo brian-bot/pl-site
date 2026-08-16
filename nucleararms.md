@@ -6,19 +6,19 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Dillon Dingler    |C         |     18| 10|  13|  4|  0| 
-|Yandy Díaz        |1B        |     21| 10|   8|  3|  1| 
-|Luke Keaschall    |2B        |     24|  6|   6|  3|  1| 
+|Yandy Díaz        |1B        |     24| 10|   8|  3|  1| 
+|Luke Keaschall    |2B        |     26|  6|   6|  3|  1| 
 |Austin Riley      |3B        |     18|  7|   8|  3|  1| 
-|Gunnar Henderson  |SS        |     24| 12|   6|  2|  1| 
-|Colson Montgomery |MI        |     14|  7|   7|  2|  0| 
-|Pete Alonso       |CI        |     24|  8|  10|  4|  0| 
+|Gunnar Henderson  |SS        |     26| 13|   6|  2|  1| 
+|Colson Montgomery |MI        |     15|  7|   9|  2|  0| 
+|Pete Alonso       |CI        |     27|  9|  11|  5|  0| 
 |Bryan Reynolds    |OF        |     22|  9|   2|  0|  2| 
-|Jake McCarthy     |OF        |     19| 11|   8|  3|  3| 
-|Seiya Suzuki      |OF        |     25|  9|  13|  3|  1| 
-|Teoscar Hernández |OF        |     15|  5|   5|  3|  0| 
-|Jackson Holliday  |DH        |     15|  6|   5|  1|  2| 
+|Jake McCarthy     |OF        |     20| 11|   8|  3|  3| 
+|Seiya Suzuki      |OF        |     27| 10|  13|  3|  1| 
+|Teoscar Hernández |OF        |     16|  5|   5|  3|  0| 
+|Jackson Holliday  |DH        |     16|  6|   5|  1|  2| 
 |Luis Robert Jr.   |DH        |     12|  4|   7|  2|  0| 
-|Ronald Acuña Jr.  |DH        |     19| 10|   8|  5|  0| 
+|Ronald Acuña Jr.  |DH        |     21| 11|   9|  6|  0| 
 |TJ Rumfield       |DH        |     19|  5|   6|  0|  0| 
 |Giancarlo Stanton |BAT BENCH |     **| **|  **| **| **| 
 |Shea Langeliers   |BAT BENCH |     **| **|  **| **| **| 

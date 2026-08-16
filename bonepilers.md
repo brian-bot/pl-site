@@ -5,23 +5,23 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Drake Baldwin    |C         |     21|  6|   5|  0|  0| 
+|Drake Baldwin    |C         |     22|  7|   5|  0|  0| 
 |Tyler Soderstrom |1B        |     17|  8|   6|  2|  1| 
-|Brandon Lowe     |2B        |     19|  8|   8|  4|  1| 
+|Brandon Lowe     |2B        |     20|  8|   8|  4|  1| 
 |Manny Machado    |3B        |     18|  7|   6|  0|  0| 
-|Jeremy Peña      |SS        |     18|  8|   9|  2|  0| 
-|Travis Bazzana   |MI        |     14|  2|   3|  0|  2| 
-|Royce Lewis      |CI        |     24|  9|  10|  3|  1| 
-|Cole Carrigg     |OF        |     21|  4|   4|  0|  4| 
-|Ian Happ         |OF        |     14|  6|   4|  2|  0| 
-|Julio Rodríguez  |OF        |     24|  5|   6|  3|  3| 
-|Yordan Alvarez   |OF        |     30|  7|   8|  1|  0| 
-|Carson Benge     |DH        |     26|  8|   8|  2|  2| 
-|Chandler Simpson |DH        |     22|  4|   5|  0|  9| 
-|Chase DeLauter   |DH        |     28| 11|   6|  2|  3| 
+|Jeremy Peña      |SS        |     19|  9|   9|  2|  0| 
+|Travis Bazzana   |MI        |     16|  2|   3|  0|  2| 
+|Royce Lewis      |CI        |     25|  9|  11|  3|  1| 
+|Cole Carrigg     |OF        |     22|  4|   5|  0|  4| 
+|Ian Happ         |OF        |     15|  6|   4|  2|  0| 
+|Julio Rodríguez  |OF        |     26|  7|   6|  3|  3| 
+|Yordan Alvarez   |OF        |     31|  8|   8|  1|  0| 
+|Carson Benge     |DH        |     29|  9|   9|  3|  2| 
+|Chandler Simpson |DH        |     24|  4|   5|  0|  9| 
+|Chase DeLauter   |DH        |     30| 12|   6|  2|  4| 
 |Jackson Merrill  |DH        |     23| 13|  16|  4|  3| 
 |Konnor Griffin   |BAT BENCH |     **| **|  **| **| **| 
-|Nasim Nuñez      |BAT BENCH |     12|  0|   3|  0|  2| 
+|Nasim Nuñez      |BAT BENCH |     13|  0|   3|  0|  2| 
 
 
 * * *
@@ -38,12 +38,12 @@
 |Parker Messick     |SP          |  3| 17.000|  5| 2.647|     17| 1.000| 20|  1|  0| 
 |Zack Wheeler       |SP          |  3| 12.333|  8| 5.838|     20| 1.622| 14|  0|  0| 
 |Andrés Muñoz       |RP          |  6|  6.000|  5| 7.500|      8| 1.333| 11|  2|  2| 
-|Louis Varland      |RP          |  9| 10.333|  3| 2.613|     11| 1.065|  4|  2|  5| 
+|Louis Varland      |RP          | 10| 11.333|  3| 2.382|     11| 0.971|  7|  2|  6| 
 |Chase Burns        |OP          |  3| 18.333|  6| 2.945|     17| 0.927| 23|  2|  0| 
 |Freddy Peralta     |OP          |  2|  9.667| 10| 9.310|     17| 1.759|  8|  0|  0| 
 |Kenley Jansen      |OP          |  5|  5.000|  2| 3.600|      6| 1.200|  6|  1|  3| 
 |Mason Montgomery   |OP          |  5|  4.000|  0| 0.000|      2| 0.500| 10|  0|  2| 
-|Michael Petersen   |OP          |  5|  5.000|  2| 3.600|      8| 1.600|  9|  1|  0| 
+|Michael Petersen   |OP          |  6|  6.000|  2| 3.000|      8| 1.333| 10|  1|  0| 
 |Garrett Crochet    |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 |Kade Anderson      |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 |Kyle Harrison      |PITCH BENCH |  2|  9.667|  8| 7.448|     15| 1.552| 13|  1|  0| 

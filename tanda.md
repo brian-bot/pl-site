@@ -5,21 +5,21 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|Gabriel Moreno        |C         |     20|  5|  11|  1|  0| 
-|Matt Olson            |1B        |     20| 14|  11|  8|  0| 
+|Gabriel Moreno        |C         |     24|  8|  12|  1|  0| 
+|Matt Olson            |1B        |     22| 15|  11|  8|  0| 
 |Ozzie Albies          |2B        |     18|  4|   4|  2|  1| 
-|José Ramírez          |3B        |     18|  8|   2|  0|  3| 
+|José Ramírez          |3B        |     19|  9|   3|  0|  3| 
 |Willy Adames          |SS        |     19|  6|   3|  1|  3| 
-|Luis García Jr.       |MI        |     15|  4|   5|  2|  0| 
+|Luis García Jr.       |MI        |     16|  4|   5|  2|  0| 
 |Vladimir Guerrero Jr. |CI        |     14|  7|   2|  1|  0| 
 |Brandon Marsh         |OF        |     19|  9|   7|  1|  2| 
 |Christian Yelich      |OF        |     12|  4|   3|  1|  2| 
 |Jasson Domínguez      |OF        |      6|  1|   0|  0|  0| 
 |Pete Crow-Armstrong   |OF        |     26| 16|  12|  4|  4| 
-|Caleb Durbin          |DH        |     29| 13|  16|  2|  2| 
+|Caleb Durbin          |DH        |     31| 14|  16|  2|  2| 
 |Cooper Pratt          |DH        |     11|  3|   3|  0|  1| 
 |Dylan Crews           |DH        |     12|  6|   3|  1|  2| 
-|Heriberto Hernández   |DH        |     13|  5|   5|  2|  1| 
+|Heriberto Hernández   |DH        |     16|  5|   8|  2|  1| 
 |Cal Raleigh           |BAT BENCH |     15|  1|   7|  1|  0| 
 |Cody Bellinger        |BAT BENCH |     **| **|  **| **| **| 
 |Zack Gelof            |BAT BENCH |      8|  6|   3|  2|  0| 
@@ -35,7 +35,7 @@
 |Cade Cavalli     |SP          |  3| 20.000|  5| 2.250|     19| 0.950| 21|  2|  0| 
 |Foster Griffin   |SP          |  3| 14.333| 12| 7.535|     25| 1.744| 12|  1|  0| 
 |Gerrit Cole      |SP          |  3| 18.667|  4| 1.929|     20| 1.071| 19|  2|  0| 
-|Logan Webb       |SP          |  3| 20.000|  3| 1.350|     17| 0.850| 14|  2|  0| 
+|Logan Webb       |SP          |  4| 26.000|  4| 1.385|     21| 0.808| 21|  3|  0| 
 |Ryan Weathers    |SP          |  3| 18.667|  1| 0.482|     16| 0.857| 14|  1|  0| 
 |Tanner Bibee     |SP          |  3| 19.333| 10| 4.655|     15| 0.776| 17|  0|  0| 
 |Emilio Pagán     |RP          |  6|  6.000|  0| 0.000|      3| 0.500|  6|  2|  4| 
@@ -47,8 +47,8 @@
 |Michael Wacha    |OP          |  3| 18.333|  5| 2.455|     18| 0.982| 13|  0|  0| 
 |Alex Lange       |PITCH BENCH |  4|  5.000|  3| 5.400|      9| 1.800|  7|  1|  0| 
 |Clay Holmes      |PITCH BENCH |  2| 10.667|  4| 3.375|     10| 0.937|  4|  1|  0| 
-|J.T. Ginn        |PITCH BENCH |  2| 12.000|  4| 3.000|     14| 1.167|  7|  0|  0| 
-|Pete Fairbanks   |PITCH BENCH |  5|  5.000|  0| 0.000|      3| 0.600|  7|  0|  4| 
+|J.T. Ginn        |PITCH BENCH |  3| 18.000|  8| 4.000|     22| 1.222| 14|  0|  0| 
+|Pete Fairbanks   |PITCH BENCH |  6|  6.000|  0| 0.000|      3| 0.500| 10|  0|  4| 
 
 
 * * *
