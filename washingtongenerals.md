@@ -7,21 +7,21 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Francisco Alvarez |C         |     19|  5|   4|  1|  0| 
 |Michael Busch     |1B        |     22|  4|   6|  1|  0| 
-|Nico Hoerner      |2B        |     21|  7|   6|  2|  5| 
-|Max Muncy         |3B        |     15|  4|  10|  2|  0| 
-|Bobby Witt Jr.    |SS        |     19| 11|   3|  0|  2| 
-|Kevin McGonigle   |MI        |     26| 14|  12|  3|  1| 
+|Nico Hoerner      |2B        |     23|  7|   6|  2|  5| 
+|Max Muncy         |3B        |     16|  5|  11|  3|  0| 
+|Bobby Witt Jr.    |SS        |     20| 12|   4|  1|  2| 
+|Kevin McGonigle   |MI        |     27| 14|  12|  3|  1| 
 |Freddie Freeman   |CI        |     22|  3|   5|  0|  0| 
 |Cedric Mullins    |OF        |     15|  8|   5|  1|  2| 
-|Jarren Duran      |OF        |     20|  9|   7|  3|  2| 
-|Kyle Schwarber    |OF        |     26|  8|  10|  4|  1| 
+|Jarren Duran      |OF        |     21| 10|   7|  3|  2| 
+|Kyle Schwarber    |OF        |     28|  9|  10|  4|  1| 
 |Spencer Steer     |OF        |     **| **|  **| **| **| 
-|Bryce Harper      |DH        |     35| 11|   9|  3|  1| 
-|Cole Young        |DH        |     23|  8|   8|  2|  0| 
+|Bryce Harper      |DH        |     37| 13|   9|  3|  1| 
+|Cole Young        |DH        |     24|  8|   8|  2|  0| 
 |J.T. Realmuto     |DH        |     11|  8|   4|  1|  0| 
-|Luis Arraez       |DH        |     20|  7|   9|  1|  1| 
+|Luis Arraez       |DH        |     21|  7|  10|  1|  1| 
 |Corey Seager      |BAT BENCH |     20|  8|   5|  2|  0| 
-|Henry Bolte       |BAT BENCH |     22|  9|   7|  3|  2| 
+|Henry Bolte       |BAT BENCH |     25| 10|   7|  3|  2| 
 |Oneil Cruz        |BAT BENCH |     **| **|  **| **| **| 
 |Samad Taylor      |BAT BENCH |     **| **|  **| **| **| 
 
@@ -45,7 +45,7 @@
 |Justin Wrobleski |OP          |  3| 13.667| 14| 9.220|     24| 1.756| 13|  0|  0| 
 |Landen Roupp     |OP          |  3| 15.667| 10| 5.745|     25| 1.596| 14|  0|  0| 
 |Reynaldo López   |OP          | **|     **| **|    **|     **|    **| **| **| **| 
-|Sean Burke       |OP          |  3| 17.333|  3| 1.558|     15| 0.865| 22|  0|  0| 
+|Sean Burke       |OP          |  4| 21.667|  7| 2.908|     23| 1.062| 24|  0|  0| 
 |Anthony Kay      |PITCH BENCH |  3| 17.667|  5| 2.547|     22| 1.245| 11|  2|  0| 
 |Kumar Rocker     |PITCH BENCH |  3| 13.333| 12| 8.100|     30| 2.250| 13|  0|  0| 
 |Tyler Phillips   |PITCH BENCH |  3| 14.333|  7| 4.395|     19| 1.326| 13|  1|  0| 
