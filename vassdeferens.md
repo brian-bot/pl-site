@@ -3,26 +3,26 @@
 ### Batters
 
  
-|players            |position  | hitsbb|  r| rbi| hr| sb| 
-|:------------------|:---------|------:|--:|---:|--:|--:| 
-|Liam Hicks         |C         |     28|  5|  11|  2|  0| 
-|Josh Naylor        |1B        |     24|  5|   7|  2|  3| 
-|Jose Altuve        |2B        |     24|  8|   6|  1|  2| 
-|JJ Wetherholt      |3B        |     28| 14|   6|  1|  2| 
-|Geraldo Perdomo    |SS        |     27|  7|   6|  1|  0| 
-|Bryson Stott       |MI        |     40| 11|  10|  1|  6| 
-|Spencer Torkelson  |CI        |     30|  9|  11|  1|  0| 
-|Corbin Carroll     |OF        |     27| 13|   8|  3|  3| 
-|Daylen Lile        |OF        |     19|  8|  13|  4|  2| 
-|Ryan O'Hearn       |OF        |      2|  0|   0|  0|  0| 
-|Taylor Ward        |OF        |     11|  2|   2|  0|  0| 
-|Gleyber Torres     |DH        |     30| 14|  10|  3|  0| 
-|Jackson Chourio    |DH        |     28| 11|   7|  4|  1| 
-|Mickey Moniak      |DH        |     15|  5|  11|  2|  0| 
-|Munetaka Murakami  |DH        |     27| 12|   9|  6|  0| 
-|Adley Rutschman    |BAT BENCH |      8|  1|   1|  0|  0| 
-|Javier Sanoja      |BAT BENCH |     21|  5|  12|  2|  0| 
-|Vinnie Pasquantino |BAT BENCH |      1|  0|   0|  0|  0| 
+|players           |position  | hitsbb|  r| rbi| hr| sb| 
+|:-----------------|:---------|------:|--:|---:|--:|--:| 
+|Liam Hicks        |C         |      3|  2|   0|  0|  0| 
+|Josh Naylor       |1B        |      4|  0|   2|  0|  1| 
+|Jose Altuve       |2B        |      3|  0|   1|  0|  0| 
+|JJ Wetherholt     |3B        |      3|  1|   0|  0|  0| 
+|Geraldo Perdomo   |SS        |      3|  0|   0|  0|  0| 
+|Bryson Stott      |MI        |      2|  2|   2|  0|  0| 
+|Spencer Torkelson |CI        |      0|  0|   0|  0|  0| 
+|Corbin Carroll    |OF        |      4|  2|   0|  0|  0| 
+|Daylen Lile       |OF        |      1|  0|   0|  0|  0| 
+|Griffin Conine    |OF        |      2|  2|   1|  1|  0| 
+|Jackson Chourio   |OF        |      4|  1|   1|  0|  1| 
+|Eduardo Valencia  |DH        |      0|  0|   0|  0|  0| 
+|Gleyber Torres    |DH        |      3|  0|   1|  0|  0| 
+|Mickey Moniak     |DH        |      3|  1|   2|  1|  0| 
+|Munetaka Murakami |DH        |      2|  1|   1|  1|  0| 
+|Adley Rutschman   |BAT BENCH |      3|  1|   3|  1|  0| 
+|Javier Sanoja     |BAT BENCH |      4|  1|   1|  1|  0| 
+|Taylor Ward       |BAT BENCH |      1|  0|   2|  0|  0| 
 
 
 * * *
@@ -30,25 +30,25 @@
 ### Pitchers
 
  
-|players        |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
-|:--------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Bailey Ober    |SP          |  4| 22.333| 12|  4.836|     28| 1.254| 11|  0|  0| 
-|Jack Perkins   |SP          |  3| 13.333| 17| 11.475|     31| 2.325| 14|  0|  0| 
-|Paul Skenes    |SP          |  3| 14.000|  9|  5.786|     23| 1.643| 17|  0|  0| 
-|Robbie Ray     |SP          |  3| 15.000|  7|  4.200|     22| 1.467| 12|  1|  0| 
-|Tyler Mahle    |SP          |  3| 17.667|  6|  3.057|     16| 0.906| 25|  1|  0| 
-|Zebby Matthews |SP          |  3| 15.000| 10|  6.000|     23| 1.533| 18|  2|  0| 
-|Hogan Harris   |RP          |  6|  6.000|  3|  4.500|     11| 1.833|  7|  0|  3| 
-|Jhoan Duran    |RP          |  9|  9.000|  1|  1.000|     10| 1.111|  9|  0|  3| 
-|Brady Singer   |OP          |  4| 22.333| 13|  5.239|     38| 1.701| 16|  0|  0| 
-|José Soriano   |OP          |  2| 10.667|  2|  1.687|     13| 1.219|  7|  0|  0| 
-|Max Fried      |OP          |  3| 16.667|  2|  1.080|     15| 0.900| 18|  0|  0| 
-|Paul Sewald    |OP          |  4|  3.000|  5| 15.000|      6| 2.000|  2|  0|  0| 
-|Seth Lugo      |OP          |  3| 15.667| 13|  7.468|     23| 1.468| 12|  1|  0| 
-|Caleb Kilian   |PITCH BENCH |  7|  6.333|  5|  7.105|     10| 1.579|  7|  1|  0| 
-|Jack Leiter    |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Ryan Helsley   |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Shohei Ohtani  |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
+|players        |position    |  g|    ip| er|    era| hitsbb|  whip| so|  w| sv| 
+|:--------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
+|Bailey Ober    |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Janson Junk    |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Paul Skenes    |SP          |  1| 4.333|  3|  6.231|      8| 1.846|  5|  0|  0| 
+|Robbie Ray     |SP          |  1| 6.000|  1|  1.500|      6| 1.000|  4|  1|  0| 
+|Tyler Mahle    |SP          |  1| 6.667|  2|  2.700|      7| 1.050|  3|  0|  0| 
+|Zebby Matthews |SP          |  1| 5.667|  1|  1.588|      6| 1.059|  4|  1|  0| 
+|Hogan Harris   |RP          |  1| 0.667|  2| 27.000|      4| 6.000|  0|  0|  0| 
+|Jhoan Duran    |RP          |  1| 1.000|  0|  0.000|      1| 1.000|  1|  0|  1| 
+|Brady Singer   |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Jordan Romano  |OP          |  2| 2.000|  0|  0.000|      1| 0.500|  1|  0|  0| 
+|José Soriano   |OP          |  1| 5.667|  3|  4.765|      9| 1.588|  2|  1|  0| 
+|Kodai Senga    |OP          |  1| 1.000|  1|  9.000|      3| 3.000|  0|  0|  1| 
+|Seth Lugo      |OP          |  1| 6.000|  5|  7.500|      9| 1.500|  3|  0|  0| 
+|Jack Leiter    |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Jack Perkins   |PITCH BENCH |  1| 3.667|  0|  0.000|      2| 0.545|  4|  0|  0| 
+|Max Fried      |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Shohei Ohtani  |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 
 
 * * *

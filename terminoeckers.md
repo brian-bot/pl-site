@@ -5,25 +5,25 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Hunter Goodman    |C         |     12|  5|   9|  3|  0| 
-|Willson Contreras |1B        |     24|  8|   7|  3|  0| 
-|Brice Turang      |2B        |     21|  4|  11|  1|  1| 
-|Kazuma Okamoto    |3B        |     18| 10|   5|  0|  0| 
-|Elly De La Cruz   |SS        |     26| 10|  10|  2|  3| 
-|Dansby Swanson    |MI        |     19| 12|   5|  2|  3| 
-|Jake Burger       |CI        |     19|  7|   7|  2|  0| 
-|Brandon Nimmo     |OF        |     26|  7|   8|  3|  2| 
-|Jordan Walker     |OF        |     27|  9|  11|  2|  3| 
-|Kyle Tucker       |OF        |     18| 10|   3|  2|  1| 
-|Wyatt Langford    |OF        |     22|  8|   4|  2|  2| 
-|A.J. Ewing        |DH        |     20|  8|   2|  0|  4| 
-|Bryce Eldridge    |DH        |     19|  7|   7|  2|  0| 
-|Kyle Stowers      |DH        |     18|  6|   6|  2|  0| 
-|Luis Lara         |DH        |     13|  5|   1|  0|  0| 
-|Carter Jensen     |BAT BENCH |     18| 11|   4|  2|  0| 
-|Curtis Mead       |BAT BENCH |     **| **|  **| **| **| 
-|Eugenio Suárez    |BAT BENCH |     24|  5|  11|  4|  0| 
-|Jac Caglianone    |BAT BENCH |     31| 11|  23|  6|  3| 
+|Carter Jensen     |C         |      5|  1|   0|  0|  0| 
+|Willson Contreras |1B        |      5|  2|   2|  0|  0| 
+|Brice Turang      |2B        |      3|  2|   0|  0|  2| 
+|Kazuma Okamoto    |3B        |      3|  1|   2|  1|  0| 
+|Elly De La Cruz   |SS        |      1|  1|   0|  0|  0| 
+|A.J. Ewing        |MI        |      3|  1|   0|  0|  1| 
+|Jac Caglianone    |CI        |      4|  1|   0|  0|  0| 
+|Brandon Nimmo     |OF        |      2|  1|   1|  0|  0| 
+|Jordan Walker     |OF        |      3|  2|   2|  1|  0| 
+|Kyle Tucker       |OF        |      3|  2|   1|  0|  0| 
+|Wyatt Langford    |OF        |      3|  2|   0|  0|  0| 
+|Bryce Eldridge    |DH        |      2|  1|   1|  1|  0| 
+|Eugenio Suárez    |DH        |      2|  0|   0|  0|  0| 
+|Jake Burger       |DH        |      1|  0|   0|  0|  0| 
+|Zac Veen          |DH        |      1|  0|   1|  0|  0| 
+|Dansby Swanson    |BAT BENCH |     **| **|  **| **| **| 
+|Hunter Goodman    |BAT BENCH |     **| **|  **| **| **| 
+|Kyle Stowers      |BAT BENCH |     **| **|  **| **| **| 
+|Luis Lara         |BAT BENCH |      4|  3|   4|  1|  0| 
 
 
 * * *
@@ -31,24 +31,24 @@
 ### Pitchers
 
  
-|players         |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
-|:---------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Bryan Woo       |SP          |  4| 23.000|  7| 2.739|     19| 0.826| 23|  2|  0| 
-|Bryce Miller    |SP          |  3| 16.333| 11| 6.061|     21| 1.286| 13|  0|  0| 
-|Bubba Chandler  |SP          |  3| 16.667|  4| 2.160|     18| 1.080| 15|  3|  0| 
-|Cam Schlittler  |SP          |  4| 21.667|  7| 2.908|     22| 1.015| 32|  0|  0| 
-|Drew Rasmussen  |SP          |  3| 18.000|  2| 1.000|     14| 0.778| 21|  3|  0| 
-|Kyle Bradish    |SP          |  3| 15.000|  5| 3.000|     20| 1.333| 10|  0|  0| 
-|Aroldis Chapman |RP          |  6|  6.000|  2| 3.000|      6| 1.000|  7|  1|  2| 
-|Tanner Scott    |RP          |  8|  6.333|  1| 1.421|     11| 1.737|  7|  0|  0| 
-|Gage Jump       |OP          |  3| 15.000| 11| 6.600|     25| 1.667| 17|  1|  0| 
-|Jake Bennett    |OP          |  3| 15.000| 11| 6.600|     22| 1.467| 15|  1|  0| 
-|Jared Jones     |OP          |  4| 18.000| 15| 7.500|     30| 1.667| 19|  0|  0| 
-|Trevor Rogers   |OP          |  4| 22.000| 10| 4.091|     25| 1.136| 25|  2|  0| 
-|Zac Thornton    |OP          |  3| 15.667|  6| 3.447|     23| 1.468|  7|  1|  0| 
-|Connelly Early  |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
-|Daniel Palencia |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
-|Dean Kremer     |PITCH BENCH |  3| 17.333|  6| 3.115|     14| 0.808| 15|  1|  0| 
+|players         |position    |  g|    ip| er|   era| hitsbb|  whip| so|  w| sv| 
+|:---------------|:-----------|--:|-----:|--:|-----:|------:|-----:|--:|--:|--:| 
+|Bryan Woo       |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Bryce Miller    |SP          |  1| 4.667|  5| 9.643|      9| 1.929|  3|  0|  0| 
+|Bubba Chandler  |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Cam Schlittler  |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Drew Rasmussen  |SP          |  1| 5.000|  5| 9.000|      9| 1.800|  5|  1|  0| 
+|Kyle Bradish    |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Aroldis Chapman |RP          |  1| 1.000|  0| 0.000|      1| 1.000|  1|  0|  0| 
+|Tanner Scott    |RP          |  2| 2.333|  1| 3.857|      2| 0.857|  1|  0|  2| 
+|Dean Kremer     |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Gage Jump       |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Jared Jones     |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Trevor Rogers   |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Zac Thornton    |OP          |  1| 5.000|  3| 5.400|      7| 1.400|  7|  0|  0| 
+|Daniel Palencia |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
+|Jake Bennett    |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
+|Luke Weaver     |PITCH BENCH |  1| 1.000|  0| 0.000|      0| 0.000|  1|  0|  0| 
 
 
 * * *
