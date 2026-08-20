@@ -13,8 +13,8 @@
 |CJ Abrams          |MI        |      3|  0|   0|  0|  0| 
 |Sal Stewart        |CI        |      3|  1|   3|  1|  0| 
 |Fernando Tatis Jr. |OF        |      4|  2|   4|  2|  0| 
-|Jesús  Báez        |OF        |     **| **|  **| **| **| 
 |JJ Bleday          |OF        |      0|  0|   0|  0|  0| 
+|Joshua Báez        |OF        |      2|  0|   1|  0|  2| 
 |Mike Trout         |OF        |      3|  0|   0|  0|  0| 
 |José Caballero     |DH        |      1|  0|   0|  0|  0| 
 |Max Clark          |DH        |      2|  1|   0|  0|  0| 

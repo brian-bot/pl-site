@@ -7,7 +7,7 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |William Contreras |C         |      4|  3|   2|  0|  0| 
 |Nathaniel Lowe    |1B        |      1|  0|   0|  0|  0| 
-|Edward Duran      |2B        |     **| **|  **| **| **| 
+|Ezequiel Duran    |2B        |      2|  0|   0|  0|  0| 
 |Nick Gonzales     |3B        |      3|  0|   0|  0|  0| 
 |Otto Lopez        |SS        |      3|  1|   0|  0|  0| 
 |Trea Turner       |MI        |      3|  1|   1|  0|  0| 
@@ -44,11 +44,11 @@
 |Riley O'Brien    |RP          |  1| 1.000|  0|  0.000|      0|  0.0|  1|  0|  1| 
 |Brandyn Garcia   |OP          |  1| 0.667|  0|  0.000|      1|  1.5|  1|  0|  0| 
 |Carlos Rodón     |OP          |  1| 4.000|  1|  2.250|      4|  1.0|  4|  0|  0| 
-|Edwin Díaz       |OP          | **|    **| **|     **|     **|   **| **| **| **| 
+|Justin Martinez  |OP          |  1| 1.000|  0|  0.000|      1|  1.0|  0|  0|  0| 
 |Keider Montero   |OP          |  1| 5.000|  3|  5.400|      5|  1.0|  3|  0|  0| 
 |Martín Pérez     |OP          | **|    **| **|     **|     **|   **| **| **| **| 
+|Edwin Díaz       |PITCH BENCH | **|    **| **|     **|     **|   **| **| **| **| 
 |Garrett Whitlock |PITCH BENCH | **|    **| **|     **|     **|   **| **| **| **| 
-|Justin Martinez  |PITCH BENCH |  1| 1.000|  0|  0.000|      1|  1.0|  0|  0|  0| 
 
 
 * * *
