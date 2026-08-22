@@ -18,7 +18,7 @@
 |Pete Crow-Armstrong   |OF        |      5|  2|   2|  2|  0| 
 |Christian Yelich      |DH        |      6|  4|   4|  1|  0| 
 |George Lombard Jr.    |DH        |      5|  2|   2|  0|  0| 
-|Luis Garcia           |DH        |     **| **|  **| **| **| 
+|Luis García Jr.       |DH        |      4|  2|   1|  1|  0| 
 |Steven Kwan           |DH        |     11|  5|   2|  0|  0| 
 |Cal Raleigh           |BAT BENCH |      5|  1|   3|  1|  0| 
 |Cody Bellinger        |BAT BENCH |     **| **|  **| **| **| 

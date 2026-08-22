@@ -7,16 +7,16 @@ Through games on 2026-08-21 ([website build status](https://github.com/brian-bot
 
 |team                   | points|  r| hitsbb| hr| rbi| sb|  w| sv| so|   era|  whip|
 |:----------------------|------:|--:|------:|--:|---:|--:|--:|--:|--:|-----:|-----:|
-|[Washington Generals](./washingtongenerals)|   57.5| 28|     71|  6|  19|  3|  3|  2| 56| 4.447| 1.324|
-|[T and A](./tanda)     |   63.5| 27|     70|  5|  26|  4|  5|  2| 50| 3.828| 1.231|
+|[Washington Generals](./washingtongenerals)|   55.0| 28|     71|  6|  19|  3|  3|  2| 56| 4.447| 1.324|
+|[T and A](./tanda)     |   71.0| 29|     74|  6|  27|  4|  5|  2| 50| 3.828| 1.231|
 |[Vass Deferens](./vassdeferens)|   40.0| 23|     64|  3|  13|  4|  3|  2| 28| 4.304| 1.326|
 |[Nuclear Arms](./nucleararms)|   41.0| 22|     60|  4|  14|  3|  2|  3| 27| 3.734| 1.309|
 |[Overwhelming Underdogs](./overwhelmingunderdogs)|   47.0| 20|     80|  7|  29|  2|  0|  3| 42| 5.927| 1.512|
-|[Wonderbots](./wonderbots)|   86.0| 24|     73|  7|  39|  3|  6|  4| 66| 2.788| 1.027|
-|[Boys of Summer](./boysofsummer)|   51.0| 28|     76|  2|  18|  2|  0|  3| 27| 3.649| 1.176|
-|[Terminoeckers](./terminoeckers)|   60.0| 28|     69|  8|  24|  5|  3|  3| 44| 5.912| 1.577|
-|[Mean Wieners](./meanwieners)|   56.0| 32|     73|  6|  28|  4|  1|  0| 48| 4.979| 1.383|
-|[Bone Pilers](./bonepilers)|   48.0| 17|     45|  5|  16|  2|  2|  3| 58| 3.484| 1.234|
+|[Wonderbots](./wonderbots)|   85.0| 24|     73|  7|  39|  3|  6|  4| 66| 2.788| 1.027|
+|[Boys of Summer](./boysofsummer)|   50.0| 28|     76|  2|  18|  2|  0|  3| 27| 3.649| 1.176|
+|[Terminoeckers](./terminoeckers)|   59.0| 28|     69|  8|  24|  5|  3|  3| 44| 5.912| 1.577|
+|[Mean Wieners](./meanwieners)|   54.5| 32|     73|  6|  28|  4|  1|  0| 48| 4.979| 1.383|
+|[Bone Pilers](./bonepilers)|   47.5| 17|     45|  5|  16|  2|  2|  3| 58| 3.484| 1.234|
 
 * * *
 * * *
