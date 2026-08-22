@@ -2,21 +2,21 @@
 
 ## Period 8 scores
 
-Through games on 2026-08-20 ([website build status](https://github.com/brian-bot/pl-site/actions))
+Through games on 2026-08-21 ([website build status](https://github.com/brian-bot/pl-site/actions))
 
 
 |team                   | points|  r| hitsbb| hr| rbi| sb|  w| sv| so|   era|  whip|
 |:----------------------|------:|--:|------:|--:|---:|--:|--:|--:|--:|-----:|-----:|
-|[Washington Generals](./washingtongenerals)|   56.0| 23|     47|  5|  16|  2|  1|  2| 38| 4.459| 1.266|
-|[T and A](./tanda)     |   77.0| 21|     56|  4|  22|  3|  4|  2| 42| 2.500| 1.000|
-|[Vass Deferens](./vassdeferens)|   44.0| 15|     41|  3|  11|  3|  3|  2| 26| 4.400| 1.333|
-|[Nuclear Arms](./nucleararms)|   50.0| 16|     44|  2|   9|  3|  2|  3| 26| 3.857| 1.319|
-|[Overwhelming Underdogs](./overwhelmingunderdogs)|   34.0| 14|     57|  3|  20|  1|  0|  2| 15| 8.500| 1.667|
-|[Wonderbots](./wonderbots)|   80.5| 19|     54|  5|  29|  3|  4|  3| 52| 3.946| 1.015|
-|[Boys of Summer](./boysofsummer)|   42.0| 23|     55|  2|  13|  1|  0|  3| 16| 5.400| 1.500|
-|[Terminoeckers](./terminoeckers)|   52.0| 23|     53|  5|  16|  5|  1|  2| 25| 7.157| 1.771|
-|[Mean Wieners](./meanwieners)|   63.0| 22|     55|  5|  23|  3|  1|  0| 34| 4.021| 1.245|
-|[Bone Pilers](./bonepilers)|   51.5|  9|     25|  4|   8|  1|  2|  3| 47| 2.842| 1.232|
+|[Washington Generals](./washingtongenerals)|   57.5| 28|     71|  6|  19|  3|  3|  2| 56| 4.447| 1.324|
+|[T and A](./tanda)     |   63.5| 27|     70|  5|  26|  4|  5|  2| 50| 3.828| 1.231|
+|[Vass Deferens](./vassdeferens)|   40.0| 23|     64|  3|  13|  4|  3|  2| 28| 4.304| 1.326|
+|[Nuclear Arms](./nucleararms)|   41.0| 22|     60|  4|  14|  3|  2|  3| 27| 3.734| 1.309|
+|[Overwhelming Underdogs](./overwhelmingunderdogs)|   47.0| 20|     80|  7|  29|  2|  0|  3| 42| 5.927| 1.512|
+|[Wonderbots](./wonderbots)|   86.0| 24|     73|  7|  39|  3|  6|  4| 66| 2.788| 1.027|
+|[Boys of Summer](./boysofsummer)|   51.0| 28|     76|  2|  18|  2|  0|  3| 27| 3.649| 1.176|
+|[Terminoeckers](./terminoeckers)|   60.0| 28|     69|  8|  24|  5|  3|  3| 44| 5.912| 1.577|
+|[Mean Wieners](./meanwieners)|   56.0| 32|     73|  6|  28|  4|  1|  0| 48| 4.979| 1.383|
+|[Bone Pilers](./bonepilers)|   48.0| 17|     45|  5|  16|  2|  2|  3| 58| 3.484| 1.234|
 
 * * *
 * * *

@@ -7,19 +7,19 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Dillon Dingler    |C         |      0|  0|   0|  0|  0| 
 |Yandy Díaz        |1B        |      6|  3|   2|  1|  0| 
-|Luke Keaschall    |2B        |      4|  1|   0|  0|  0| 
+|Luke Keaschall    |2B        |      5|  1|   0|  0|  0| 
 |Austin Riley      |3B        |      3|  1|   2|  0|  0| 
-|Gunnar Henderson  |SS        |      4|  0|   0|  0|  1| 
-|Colson Montgomery |MI        |      5|  1|   0|  0|  0| 
-|Pete Alonso       |CI        |      4|  1|   1|  1|  0| 
-|Bryan Reynolds    |OF        |      2|  0|   1|  0|  0| 
-|Jake McCarthy     |OF        |      4|  3|   0|  0|  1| 
-|Seiya Suzuki      |OF        |      2|  0|   0|  0|  0| 
+|Gunnar Henderson  |SS        |      6|  0|   0|  0|  1| 
+|Colson Montgomery |MI        |      7|  2|   1|  1|  0| 
+|Pete Alonso       |CI        |      6|  2|   4|  2|  0| 
+|Bryan Reynolds    |OF        |      5|  1|   1|  0|  0| 
+|Jake McCarthy     |OF        |      5|  4|   0|  0|  1| 
+|Seiya Suzuki      |OF        |      3|  0|   0|  0|  0| 
 |Teoscar Hernández |OF        |      4|  3|   1|  0|  0| 
 |Avery Ortiz       |DH        |     **| **|  **| **| **| 
-|Jackson Holliday  |DH        |      1|  1|   0|  0|  1| 
-|Ronald Acuña Jr.  |DH        |      1|  0|   1|  0|  0| 
-|TJ Rumfield       |DH        |      4|  2|   1|  0|  0| 
+|Jackson Holliday  |DH        |      2|  2|   1|  0|  1| 
+|Ronald Acuña Jr.  |DH        |      2|  1|   1|  0|  0| 
+|TJ Rumfield       |DH        |      6|  2|   1|  0|  0| 
 |Giancarlo Stanton |BAT BENCH |     **| **|  **| **| **| 
 |Shea Langeliers   |BAT BENCH |     **| **|  **| **| **| 
 
@@ -37,7 +37,7 @@
 |Sandy Alcantara |SP          |  1| 6.000|  3|  4.500|      9| 1.500|  1|  0|  0| 
 |Shane Bieber    |SP          |  1| 7.000|  1|  1.286|      4| 0.571|  7|  1|  0| 
 |Taj Bradley     |SP          |  1| 5.000|  1|  1.800|      5| 1.000|  7|  0|  0| 
-|Jacob Webb      |RP          |  1| 1.000|  0|  0.000|      1| 1.000|  0|  1|  0| 
+|Jacob Webb      |RP          |  2| 2.000|  0|  0.000|      2| 1.000|  1|  1|  0| 
 |Josh Hader      |RP          |  1| 1.000|  0|  0.000|      1| 1.000|  0|  0|  1| 
 |Andre Pallante  |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Cody Bradford   |OP          | **|    **| **|     **|     **|    **| **| **| **| 
