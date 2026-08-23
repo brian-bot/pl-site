@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Francisco Alvarez |C         |      1|  0|   0|  0|  0| 
-|Michael Busch     |1B        |      4|  2|   1|  1|  0| 
-|Nico Hoerner      |2B        |      2|  0|   0|  0|  1| 
-|Max Muncy         |3B        |      3|  1|   3|  1|  0| 
-|Bobby Witt Jr.    |SS        |      9|  4|   2|  1|  0| 
+|Francisco Alvarez |C         |      3|  0|   0|  0|  0| 
+|Michael Busch     |1B        |      5|  3|   2|  2|  0| 
+|Nico Hoerner      |2B        |      4|  1|   0|  0|  1| 
+|Max Muncy         |3B        |      7|  3|   3|  1|  0| 
+|Bobby Witt Jr.    |SS        |     10|  4|   2|  1|  1| 
 |Kevin McGonigle   |MI        |      5|  0|   3|  0|  0| 
-|Freddie Freeman   |CI        |      4|  1|   3|  0|  1| 
-|Cedric Mullins    |OF        |      4|  2|   1|  0|  0| 
-|Henry Bolte       |OF        |      6|  3|   1|  0|  0| 
+|Freddie Freeman   |CI        |      6|  1|   3|  0|  1| 
+|Cedric Mullins    |OF        |      6|  2|   1|  0|  0| 
+|Henry Bolte       |OF        |      8|  3|   1|  0|  0| 
 |Jarren Duran      |OF        |      6|  2|   1|  1|  1| 
-|Kyle Schwarber    |OF        |      2|  1|   1|  0|  0| 
-|Bryce Harper      |DH        |      5|  3|   0|  0|  0| 
+|Kyle Schwarber    |OF        |      5|  3|   3|  1|  0| 
+|Bryce Harper      |DH        |      6|  4|   3|  1|  0| 
 |Cole Young        |DH        |      4|  3|   0|  0|  0| 
-|Corey Seager      |DH        |      8|  2|   1|  1|  0| 
-|Luis Arraez       |DH        |      8|  4|   2|  1|  0| 
-|J.T. Realmuto     |BAT BENCH |      4|  0|   2|  0|  0| 
-|Oneil Cruz        |BAT BENCH |      6|  2|   5|  2|  1| 
+|Corey Seager      |DH        |      9|  2|   1|  1|  0| 
+|Luis Arraez       |DH        |      9|  5|   2|  1|  0| 
+|J.T. Realmuto     |BAT BENCH |      6|  1|   3|  0|  0| 
+|Oneil Cruz        |BAT BENCH |      7|  3|   7|  2|  1| 
 |Samad Taylor      |BAT BENCH |     **| **|  **| **| **| 
 |Spencer Steer     |BAT BENCH |     **| **|  **| **| **| 
 

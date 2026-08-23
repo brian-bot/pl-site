@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Ben Rice          |C         |      7|  2|   2|  1|  0| 
-|Alec Burleson     |1B        |      6|  4|   1|  0|  0| 
-|Jazz Chisholm Jr. |2B        |      4|  2|   1|  0|  1| 
+|Ben Rice          |C         |      8|  3|   2|  1|  0| 
+|Alec Burleson     |1B        |      7|  4|   2|  0|  0| 
+|Jazz Chisholm Jr. |2B        |      6|  2|   1|  0|  2| 
 |Isaac Paredes     |3B        |      8|  2|   1|  0|  0| 
-|Bo Bichette       |SS        |      4|  3|   2|  1|  0| 
-|Brooks Lee        |MI        |      2|  0|   1|  0|  0| 
-|Josh Bell         |CI        |      5|  3|   3|  1|  0| 
+|Bo Bichette       |SS        |      6|  4|   3|  2|  0| 
+|Brooks Lee        |MI        |      5|  2|   2|  1|  0| 
+|Josh Bell         |CI        |      6|  3|   3|  1|  0| 
 |Andy Pages        |OF        |      3|  1|   0|  0|  0| 
-|Jo Adell          |OF        |      5|  1|   7|  1|  0| 
-|Randy Arozarena   |OF        |      5|  3|   1|  0|  0| 
-|Wilyer Abreu      |OF        |      7|  3|   1|  0|  0| 
-|Braden Montgomery |DH        |      2|  1|   2|  0|  0| 
-|Matt McLain       |DH        |      5|  4|   4|  1|  1| 
-|Sam Antonacci     |DH        |      5|  0|   0|  0|  1| 
-|Shohei Ohtani     |DH        |      5|  3|   2|  1|  1| 
-|Mauricio Dubón    |BAT BENCH |      6|  1|   0|  0|  0| 
-|Samuel Basallo    |BAT BENCH |      2|  0|   0|  0|  0| 
+|Jo Adell          |OF        |      7|  3|  10|  2|  0| 
+|Randy Arozarena   |OF        |      9|  5|   4|  2|  0| 
+|Wilyer Abreu      |OF        |      7|  3|   2|  0|  0| 
+|Braden Montgomery |DH        |      4|  2|   4|  1|  0| 
+|Matt McLain       |DH        |      7|  5|   6|  2|  1| 
+|Sam Antonacci     |DH        |      7|  0|   1|  0|  1| 
+|Shohei Ohtani     |DH        |      7|  3|   2|  1|  1| 
+|Mauricio Dubón    |BAT BENCH |      8|  1|   0|  0|  0| 
+|Samuel Basallo    |BAT BENCH |      3|  1|   2|  1|  0| 
 
 
 * * *
@@ -37,10 +37,10 @@
 |Shota Imanaga      |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Will Warren        |SP          |  1| 4.000|  2|  4.500|      5| 1.250|  5|  0|  0| 
 |Yoshinobu Yamamoto |SP          |  1| 6.333|  2|  2.842|      6| 0.947|  9|  0|  0| 
-|Aaron Ashby        |RP          |  1| 2.000|  0|  0.000|      2| 1.000|  4|  0|  0| 
+|Aaron Ashby        |RP          |  2| 3.000|  0|  0.000|      4| 1.333|  4|  0|  1| 
 |Alex Vesia         |RP          |  1| 1.000|  2| 18.000|      2| 2.000|  2|  0|  0| 
 |Aaron Nola         |OP          |  1| 7.000|  1|  1.286|      5| 0.714|  8|  1|  0| 
-|Christian Scott    |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Christian Scott    |OP          |  1| 4.667|  4|  7.714|      9| 1.929|  6|  0|  0| 
 |Nick Lodolo        |OP          |  1| 3.333|  6| 16.200|     12| 3.600|  2|  0|  0| 
 |Robert Gasser      |OP          |  1| 3.667|  4|  9.818|      8| 2.182|  4|  0|  0| 
 |Shane Drohan       |OP          |  1| 2.000|  0|  0.000|      3| 1.500|  1|  0|  0| 
