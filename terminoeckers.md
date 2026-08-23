@@ -45,7 +45,7 @@
 |Gage Jump       |OP          |  1| 4.000|  5| 11.250|     11| 2.750|  3|  0|  0| 
 |Jared Jones     |OP          |  1| 4.000|  2|  4.500|      8| 2.000|  5|  0|  0| 
 |Trevor Rogers   |OP          |  1| 7.000|  3|  3.857|      7| 1.000|  6|  1|  0| 
-|Zac Thornton    |OP          |  1| 5.000|  3|  5.400|      7| 1.400|  7|  0|  0| 
+|Zac Thornton    |OP          |  1| 5.000|  3|  5.400|      8| 1.600|  7|  0|  0| 
 |Daniel Palencia |PITCH BENCH |  1| 1.000|  0|  0.000|      0| 0.000|  2|  0|  0| 
 |Jake Bennett    |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Luke Weaver     |PITCH BENCH |  2| 2.000|  0|  0.000|      0| 0.000|  4|  0|  0| 

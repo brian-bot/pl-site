@@ -16,7 +16,7 @@
 |Jake McCarthy     |OF        |      7|  4|   0|  0|  2| 
 |Seiya Suzuki      |OF        |      4|  0|   0|  0|  0| 
 |Teoscar Hernández |OF        |      5|  3|   2|  0|  0| 
-|Avery Ortiz       |DH        |     **| **|  **| **| **| 
+|Abimelec Ortiz    |DH        |      3|  2|   0|  0|  0| 
 |Jackson Holliday  |DH        |      3|  3|   1|  0|  1| 
 |Ronald Acuña Jr.  |DH        |      2|  1|   1|  0|  0| 
 |TJ Rumfield       |DH        |      6|  2|   1|  0|  0| 
