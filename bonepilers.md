@@ -5,21 +5,21 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Drake Baldwin    |C         |      4|  2|   1|  1|  0| 
+|Drake Baldwin    |C         |      5|  3|   1|  1|  0| 
 |Charlie Condon   |1B        |     **| **|  **| **| **| 
-|Brandon Lowe     |2B        |      5|  4|   1|  1|  0| 
-|Manny Machado    |3B        |      8|  3|   2|  1|  0| 
-|Jeremy Peña      |SS        |      1|  0|   1|  0|  0| 
-|Travis Bazzana   |MI        |      7|  3|   3|  0|  1| 
+|Brandon Lowe     |2B        |      7|  4|   1|  1|  0| 
+|Manny Machado    |3B        |     10|  3|   2|  1|  0| 
+|Jeremy Peña      |SS        |      3|  2|   1|  0|  0| 
+|Travis Bazzana   |MI        |      8|  3|   3|  0|  1| 
 |Royce Lewis      |CI        |      1|  0|   0|  0|  1| 
 |Cole Carrigg     |OF        |      5|  0|   1|  0|  0| 
-|Ian Happ         |OF        |      4|  1|   1|  1|  0| 
+|Ian Happ         |OF        |      8|  3|   6|  2|  0| 
 |Julio Rodríguez  |OF        |      2|  0|   1|  0|  0| 
-|Yordan Alvarez   |OF        |      7|  3|   2|  0|  0| 
-|Carson Benge     |DH        |      6|  4|   4|  2|  1| 
-|Chandler Simpson |DH        |      6|  1|   2|  0|  0| 
-|Chase DeLauter   |DH        |      3|  1|   0|  0|  0| 
-|Jackson Merrill  |DH        |      3|  1|   2|  1|  0| 
+|Yordan Alvarez   |OF        |     11|  4|   2|  0|  0| 
+|Carson Benge     |DH        |      8|  5|   4|  2|  1| 
+|Chandler Simpson |DH        |      9|  1|   3|  0|  0| 
+|Chase DeLauter   |DH        |      7|  3|   2|  0|  0| 
+|Jackson Merrill  |DH        |      4|  2|   3|  2|  0| 
 |Konnor Griffin   |BAT BENCH |     **| **|  **| **| **| 
 |Nasim Nuñez      |BAT BENCH |      2|  0|   0|  0|  2| 
 |Tyler Soderstrom |BAT BENCH |     **| **|  **| **| **| 
