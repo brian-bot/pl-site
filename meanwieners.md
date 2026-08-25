@@ -10,13 +10,13 @@
 |Jazz Chisholm Jr. |2B        |      8|  4|   3|  1|  2| 
 |Isaac Paredes     |3B        |     10|  3|   4|  1|  0| 
 |Bo Bichette       |SS        |      6|  4|   3|  2|  0| 
-|Brooks Lee        |MI        |      6|  3|   3|  2|  0| 
-|Josh Bell         |CI        |      6|  3|   3|  1|  0| 
+|Brooks Lee        |MI        |      7|  4|   3|  2|  0| 
+|Josh Bell         |CI        |      8|  4|   6|  1|  0| 
 |Andy Pages        |OF        |      3|  1|   0|  0|  0| 
-|Jo Adell          |OF        |      9|  3|  12|  2|  0| 
-|Randy Arozarena   |OF        |     11|  6|   5|  3|  0| 
-|Wilyer Abreu      |OF        |      7|  3|   2|  0|  0| 
-|Braden Montgomery |DH        |      5|  2|   4|  1|  0| 
+|Jo Adell          |OF        |     11|  3|  13|  2|  0| 
+|Randy Arozarena   |OF        |     14|  7|   5|  3|  0| 
+|Wilyer Abreu      |OF        |      9|  4|   2|  0|  0| 
+|Braden Montgomery |DH        |      7|  3|   4|  1|  0| 
 |Matt McLain       |DH        |      8|  5|   6|  2|  1| 
 |Sam Antonacci     |DH        |      9|  0|   1|  0|  1| 
 |Shohei Ohtani     |DH        |      8|  4|   2|  1|  2| 
