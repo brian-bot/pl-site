@@ -6,20 +6,20 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Salvador Perez     |C         |     11|  5|   5|  1|  1| 
-|Andrew Vaughn      |1B        |      9|  2|   2|  0|  0| 
+|Andrew Vaughn      |1B        |     11|  3|   2|  0|  0| 
 |Ceddanne Rafaela   |2B        |     11|  2|   2|  0|  1| 
-|Junior Caminero    |3B        |     13|  4|   5|  0|  0| 
-|Zach Neto          |SS        |     16|  6|  10|  2|  2| 
+|Junior Caminero    |3B        |     15|  4|   5|  0|  0| 
+|Zach Neto          |SS        |     18|  7|  11|  2|  2| 
 |CJ Abrams          |MI        |      5|  2|   1|  0|  2| 
-|Sal Stewart        |CI        |     13|  6|   8|  2|  0| 
+|Sal Stewart        |CI        |     14|  7|   9|  2|  0| 
 |Fernando Tatis Jr. |OF        |     14|  6|  10|  4|  2| 
-|JJ Bleday          |OF        |      9|  3|   4|  1|  0| 
+|JJ Bleday          |OF        |     12|  4|   4|  1|  0| 
 |Joshua Báez        |OF        |      6|  1|   4|  1|  2| 
-|Mike Trout         |OF        |     14|  4|   1|  0|  1| 
-|José Caballero     |DH        |      3|  0|   2|  0|  0| 
+|Mike Trout         |OF        |     15|  4|   2|  0|  1| 
+|José Caballero     |DH        |      4|  0|   2|  0|  0| 
 |Max Clark          |DH        |      6|  4|   3|  1|  1| 
-|Mookie Betts       |DH        |      9|  3|   4|  1|  0| 
-|Ty France          |DH        |     13|  1|   5|  1|  0| 
+|Mookie Betts       |DH        |     12|  3|   5|  1|  0| 
+|Ty France          |DH        |     15|  1|   5|  1|  0| 
 |Aaron Judge        |BAT BENCH |     **| **|  **| **| **| 
 |James Wood         |BAT BENCH |     **| **|  **| **| **| 
 |Owen Caissie       |BAT BENCH |      4|  1|   0|  0|  0| 

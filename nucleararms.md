@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Dillon Dingler    |C         |      5|  0|   0|  0|  0| 
+|Dillon Dingler    |C         |      6|  0|   0|  0|  0| 
 |Yandy Díaz        |1B        |     12|  6|   2|  1|  0| 
 |Luke Keaschall    |2B        |     12|  2|   4|  1|  1| 
-|Austin Riley      |3B        |      7|  1|   2|  0|  1| 
-|Gunnar Henderson  |SS        |      8|  1|   0|  0|  1| 
+|Austin Riley      |3B        |      9|  1|   3|  0|  1| 
+|Gunnar Henderson  |SS        |      9|  2|   0|  0|  1| 
 |Colson Montgomery |MI        |      9|  3|   2|  1|  0| 
-|Pete Alonso       |CI        |     12|  4|   8|  3|  0| 
-|Bryan Reynolds    |OF        |     11|  3|   1|  0|  0| 
-|Jake McCarthy     |OF        |     11|  4|   0|  0|  3| 
-|Seiya Suzuki      |OF        |     12|  5|   1|  0|  1| 
-|Teoscar Hernández |OF        |      5|  3|   2|  0|  0| 
+|Pete Alonso       |CI        |     14|  5|  10|  4|  0| 
+|Bryan Reynolds    |OF        |     12|  3|   1|  0|  0| 
+|Jake McCarthy     |OF        |     13|  5|   0|  0|  4| 
+|Seiya Suzuki      |OF        |     14|  5|   1|  0|  1| 
+|Teoscar Hernández |OF        |      8|  3|   2|  0|  0| 
 |Abimelec Ortiz    |DH        |      6|  4|   1|  0|  0| 
 |Jackson Holliday  |DH        |      6|  5|   2|  0|  1| 
 |Ronald Acuña Jr.  |DH        |      6|  1|   1|  0|  2| 
-|TJ Rumfield       |DH        |     10|  2|   1|  0|  0| 
+|TJ Rumfield       |DH        |     14|  3|   1|  0|  0| 
 |Giancarlo Stanton |BAT BENCH |     **| **|  **| **| **| 
 |Shea Langeliers   |BAT BENCH |     **| **|  **| **| **| 
 
@@ -42,7 +42,7 @@
 |Andre Pallante  |OP          | **|     **| **|     **|     **|    **| **| **| **| 
 |Cody Bradford   |OP          |  1|  5.333|  2|  3.375|      7| 1.312|  3|  0|  0| 
 |Jacob Lopez     |OP          |  1|  6.000|  1|  1.500|      4| 0.667|  9|  0|  0| 
-|Roki Sasaki     |OP          |  1|  5.000|  2|  3.600|      8| 1.600|  6|  0|  0| 
+|Roki Sasaki     |OP          |  2|  8.333|  6|  6.480|     16| 1.920|  9|  0|  0| 
 |Yoendrys Gómez  |OP          |  3|  2.667|  4| 13.500|      6| 2.250|  2|  0|  2| 
 |Corbin Burnes   |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Max Meyer       |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
