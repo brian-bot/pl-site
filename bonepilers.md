@@ -5,23 +5,23 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Drake Baldwin    |C         |     11|  4|   3|  1|  0| 
+|Drake Baldwin    |C         |     12|  5|   4|  2|  0| 
 |Charlie Condon   |1B        |     **| **|  **| **| **| 
 |Brandon Lowe     |2B        |      9|  4|   1|  1|  0| 
 |Manny Machado    |3B        |     13|  4|   2|  1|  1| 
-|Jeremy Peña      |SS        |      5|  4|   3|  1|  0| 
+|Jeremy Peña      |SS        |      7|  6|   4|  2|  0| 
 |Travis Bazzana   |MI        |     12|  5|   6|  0|  1| 
 |Royce Lewis      |CI        |      4|  0|   1|  0|  2| 
-|Cole Carrigg     |OF        |      7|  2|   3|  1|  0| 
+|Cole Carrigg     |OF        |      8|  2|   3|  1|  1| 
 |Ian Happ         |OF        |     11|  5|  10|  3|  0| 
 |Julio Rodríguez  |OF        |      5|  3|   4|  1|  1| 
-|Yordan Alvarez   |OF        |     15|  6|   3|  0|  0| 
+|Yordan Alvarez   |OF        |     16|  6|   3|  0|  0| 
 |Carson Benge     |DH        |     13|  5|   4|  2|  1| 
 |Chandler Simpson |DH        |     12|  2|   4|  0|  0| 
 |Chase DeLauter   |DH        |      8|  3|   2|  0|  0| 
 |Jackson Merrill  |DH        |      7|  3|   4|  2|  0| 
 |Konnor Griffin   |BAT BENCH |     **| **|  **| **| **| 
-|Nasim Nuñez      |BAT BENCH |      3|  2|   0|  0|  2| 
+|Nasim Nuñez      |BAT BENCH |      4|  2|   0|  0|  3| 
 |Tyler Soderstrom |BAT BENCH |     **| **|  **| **| **| 
 
 * * *
@@ -47,7 +47,7 @@
 |Garrett Crochet    |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Kade Anderson      |PITCH BENCH |  1|  5.667|  3|  4.765|      7| 1.235|  5|  0|  0| 
 |Quinn Mathews      |PITCH BENCH |  1|  5.000|  7| 12.600|     11| 2.200|  3|  0|  0| 
-|Spencer Arrighetti |PITCH BENCH |  1|  3.333|  3|  8.100|      5| 1.500|  4|  0|  0| 
+|Spencer Arrighetti |PITCH BENCH |  2|  7.333|  6|  7.364|     12| 1.636|  8|  0|  0| 
 
 
 * * *

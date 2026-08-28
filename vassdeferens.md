@@ -9,13 +9,13 @@
 |Josh Naylor       |1B        |     12|  1|   3|  0|  1| 
 |Jose Altuve       |2B        |     11|  3|   5|  1|  0| 
 |JJ Wetherholt     |3B        |     12|  7|   2|  1|  1| 
-|Geraldo Perdomo   |SS        |     14|  2|   3|  0|  0| 
+|Geraldo Perdomo   |SS        |     17|  2|   3|  0|  1| 
 |Bryson Stott      |MI        |      8|  5|   2|  0|  0| 
 |Spencer Torkelson |CI        |      7|  1|   0|  0|  0| 
 |Corbin Carroll    |OF        |     13|  5|   1|  0|  3| 
-|Daylen Lile       |OF        |     12|  5|   7|  2|  1| 
+|Daylen Lile       |OF        |     16|  7|   9|  3|  1| 
 |Griffin Conine    |OF        |      7|  4|   1|  1|  0| 
-|Jackson Chourio   |OF        |     11|  2|   1|  0|  2| 
+|Jackson Chourio   |OF        |     15|  6|   5|  2|  3| 
 |Eduardo Valencia  |DH        |      2|  0|   0|  0|  0| 
 |Gleyber Torres    |DH        |      5|  2|   2|  0|  0| 
 |Mickey Moniak     |DH        |      7|  4|   3|  2|  0| 

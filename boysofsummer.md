@@ -5,7 +5,7 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras |C         |     16|  6|   4|  0|  0| 
+|William Contreras |C         |     17|  6|   5|  0|  0| 
 |Nathaniel Lowe    |1B        |     10|  4|   4|  0|  0| 
 |Ezequiel Duran    |2B        |     20|  3|   6|  1|  1| 
 |Nick Gonzales     |3B        |     11|  0|   3|  0|  2| 
@@ -15,12 +15,12 @@
 |Esmerlyn Valdez   |OF        |      8|  3|   1|  1|  0| 
 |Garrett Mitchell  |OF        |     13|  5|   4|  1|  0| 
 |Heliot Ramos      |OF        |      5|  1|   1|  0|  0| 
-|Michael Harris II |OF        |     12|  3|   4|  1|  1| 
+|Michael Harris II |OF        |     13|  3|   4|  1|  2| 
 |Byron Buxton      |DH        |      8|  7|   1|  0|  0| 
-|Iván Herrera      |DH        |     12|  4|   0|  0|  0| 
-|Jung Hoo Lee      |DH        |      8|  0|   1|  0|  2| 
+|Iván Herrera      |DH        |     13|  4|   0|  0|  0| 
+|Jung Hoo Lee      |DH        |      9|  1|   1|  0|  2| 
 |Ryan Jeffers      |DH        |      9|  2|   2|  0|  0| 
-|Cooper Pratt      |BAT BENCH |      3|  3|   1|  0|  1| 
+|Cooper Pratt      |BAT BENCH |      5|  4|   2|  0|  2| 
 |Josh Jung         |BAT BENCH |     **| **|  **| **| **| 
 |Ketel Marte       |BAT BENCH |     **| **|  **| **| **| 
 |Riley Greene      |BAT BENCH |     **| **|  **| **| **| 
@@ -41,7 +41,7 @@
 |Nolan McLean     |SP          |  1| 6.000|  0|  0.000|      5| 0.833|  6|  0|  0| 
 |Tarik Skubal     |SP          |  1| 7.000|  3|  3.857|      6| 0.857| 11|  1|  0| 
 |Mason Miller     |RP          |  5| 5.000|  1|  1.800|      3| 0.600|  9|  0|  2| 
-|Riley O'Brien    |RP          |  4| 3.000|  7| 21.000|     11| 3.667|  1|  0|  2| 
+|Riley O'Brien    |RP          |  5| 4.000|  7| 15.750|     12| 3.000|  2|  0|  3| 
 |Brandyn Garcia   |OP          |  3| 2.333|  0|  0.000|      3| 1.286|  3|  0|  0| 
 |Carlos Rodón     |OP          |  2| 8.000|  2|  2.250|      8| 1.000|  6|  0|  0| 
 |Justin Martinez  |OP          |  3| 3.000|  0|  0.000|      3| 1.000|  2|  1|  0| 

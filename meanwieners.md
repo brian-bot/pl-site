@@ -5,10 +5,10 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Ben Rice          |C         |     16|  7|   5|  2|  0| 
-|Alec Burleson     |1B        |     11|  5|   6|  0|  0| 
-|Jazz Chisholm Jr. |2B        |     14|  5|   5|  1|  4| 
-|Isaac Paredes     |3B        |     14|  4|   5|  1|  0| 
+|Ben Rice          |C         |     18|  8|   5|  2|  0| 
+|Alec Burleson     |1B        |     13|  7|   7|  0|  0| 
+|Jazz Chisholm Jr. |2B        |     16|  5|   5|  1|  6| 
+|Isaac Paredes     |3B        |     17|  4|   6|  1|  0| 
 |Bo Bichette       |SS        |      8|  4|   3|  2|  0| 
 |Brooks Lee        |MI        |      9|  5|   4|  3|  0| 
 |Josh Bell         |CI        |      9|  5|   6|  1|  0| 
@@ -36,7 +36,7 @@
 |Payton Tolle       |SP          |  2| 10.333|  5|  4.355|     14| 1.355| 13|  0|  0| 
 |Shota Imanaga      |SP          |  1|  2.000|  1|  4.500|      7| 3.500|  4|  0|  0| 
 |Will Warren        |SP          |  2|  9.000|  4|  4.000|     14| 1.556|  9|  0|  0| 
-|Yoshinobu Yamamoto |SP          |  1|  6.333|  2|  2.842|      6| 0.947|  9|  0|  0| 
+|Yoshinobu Yamamoto |SP          |  2| 12.667|  3|  2.132|     11| 0.868| 17|  0|  0| 
 |Aaron Ashby        |RP          |  4|  5.000|  1|  1.800|      5| 1.000|  5|  0|  1| 
 |Alex Vesia         |RP          |  3|  3.000|  2|  6.000|      3| 1.000|  3|  0|  0| 
 |Aaron Nola         |OP          |  2| 13.000|  3|  2.077|     11| 0.846| 15|  1|  0| 

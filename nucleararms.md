@@ -9,7 +9,7 @@
 |Yandy Díaz        |1B        |     12|  6|   2|  1|  0| 
 |Luke Keaschall    |2B        |     12|  2|   4|  1|  1| 
 |Austin Riley      |3B        |      9|  1|   3|  0|  1| 
-|Gunnar Henderson  |SS        |      9|  2|   0|  0|  1| 
+|Gunnar Henderson  |SS        |     10|  2|   1|  0|  1| 
 |Colson Montgomery |MI        |      9|  3|   2|  1|  0| 
 |Pete Alonso       |CI        |     14|  5|  10|  4|  0| 
 |Bryan Reynolds    |OF        |     12|  3|   1|  0|  0| 
@@ -17,9 +17,9 @@
 |Seiya Suzuki      |OF        |     14|  5|   1|  0|  1| 
 |Teoscar Hernández |OF        |      8|  3|   2|  0|  0| 
 |Abimelec Ortiz    |DH        |      6|  4|   1|  0|  0| 
-|Jackson Holliday  |DH        |      6|  5|   2|  0|  1| 
+|Jackson Holliday  |DH        |      8|  6|   2|  0|  2| 
 |Ronald Acuña Jr.  |DH        |      6|  1|   1|  0|  2| 
-|TJ Rumfield       |DH        |     14|  3|   1|  0|  0| 
+|TJ Rumfield       |DH        |     19|  3|   1|  0|  0| 
 |Giancarlo Stanton |BAT BENCH |     **| **|  **| **| **| 
 |Shea Langeliers   |BAT BENCH |     **| **|  **| **| **| 
 
@@ -38,7 +38,7 @@
 |Shane Bieber    |SP          |  1|  7.000|  0|  0.000|      3| 0.429|  7|  1|  0| 
 |Taj Bradley     |SP          |  2| 11.667|  5|  3.857|     13| 1.114| 18|  0|  0| 
 |Jacob Webb      |RP          |  4|  3.667|  5| 12.273|      7| 1.909|  1|  1|  0| 
-|Josh Hader      |RP          |  3|  3.333|  0|  0.000|      1| 0.300|  3|  0|  2| 
+|Josh Hader      |RP          |  4|  4.333|  0|  0.000|      1| 0.231|  5|  0|  2| 
 |Andre Pallante  |OP          | **|     **| **|     **|     **|    **| **| **| **| 
 |Cody Bradford   |OP          |  1|  5.333|  2|  3.375|      7| 1.312|  3|  0|  0| 
 |Jacob Lopez     |OP          |  1|  6.000|  1|  1.500|      4| 0.667|  9|  0|  0| 

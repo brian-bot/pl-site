@@ -9,9 +9,9 @@
 |Michael Busch     |1B        |     15|  8|   3|  2|  0| 
 |Nico Hoerner      |2B        |      5|  1|   1|  0|  1| 
 |Max Muncy         |3B        |     11|  3|   4|  1|  0| 
-|Bobby Witt Jr.    |SS        |     17|  5|   2|  1|  2| 
+|Bobby Witt Jr.    |SS        |     19|  8|   3|  1|  3| 
 |Kevin McGonigle   |MI        |      9|  2|   6|  1|  0| 
-|Freddie Freeman   |CI        |     11|  4|   3|  0|  1| 
+|Freddie Freeman   |CI        |     12|  4|   3|  0|  1| 
 |Cedric Mullins    |OF        |      9|  2|   2|  0|  0| 
 |Henry Bolte       |OF        |     16|  7|   1|  0|  0| 
 |Jarren Duran      |OF        |     10|  4|   5|  2|  1| 
@@ -43,7 +43,7 @@
 |Jacob Latz       |RP          |  3|  3.000|  0|  0.000|      4| 1.333|  7|  0|  2| 
 |Grant Taylor     |OP          |  5|  4.333|  1|  2.077|      7| 1.615|  8|  2|  2| 
 |Kumar Rocker     |OP          |  2| 10.667|  4|  3.375|     15| 1.406| 11|  1|  0| 
-|Landen Roupp     |OP          |  1|  5.333|  3|  5.062|      9| 1.688|  2|  0|  0| 
+|Landen Roupp     |OP          |  2| 10.333|  4|  3.484|     15| 1.452|  5|  1|  0| 
 |Sean Burke       |OP          |  2|  9.000|  6|  6.000|     17| 1.889|  7|  0|  0| 
 |Tyler Phillips   |OP          |  2|  6.667|  2|  2.700|     10| 1.500| 10|  0|  0| 
 |Justin Wrobleski |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
