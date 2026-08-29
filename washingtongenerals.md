@@ -6,22 +6,22 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Francisco Alvarez |C         |      4|  0|   1|  0|  0| 
-|Michael Busch     |1B        |     15|  8|   3|  2|  0| 
-|Nico Hoerner      |2B        |      5|  1|   1|  0|  1| 
-|Max Muncy         |3B        |     11|  3|   4|  1|  0| 
-|Bobby Witt Jr.    |SS        |     19|  8|   3|  1|  3| 
+|Michael Busch     |1B        |     17|  9|   5|  3|  0| 
+|Nico Hoerner      |2B        |      8|  2|   1|  0|  2| 
+|Max Muncy         |3B        |     12|  3|   4|  1|  0| 
+|Bobby Witt Jr.    |SS        |     20|  9|   3|  1|  3| 
 |Kevin McGonigle   |MI        |      9|  2|   6|  1|  0| 
-|Freddie Freeman   |CI        |     12|  4|   3|  0|  1| 
-|Cedric Mullins    |OF        |      9|  2|   2|  0|  0| 
-|Henry Bolte       |OF        |     16|  7|   1|  0|  0| 
+|Freddie Freeman   |CI        |     15|  4|   4|  0|  1| 
+|Cedric Mullins    |OF        |     10|  4|   4|  1|  0| 
+|Henry Bolte       |OF        |     17|  8|   1|  0|  0| 
 |Jarren Duran      |OF        |     10|  4|   5|  2|  1| 
-|Kyle Schwarber    |OF        |      9|  7|   8|  3|  0| 
-|Bryce Harper      |DH        |     16|  6|   5|  2|  0| 
-|Cole Young        |DH        |      5|  4|   1|  1|  0| 
+|Kyle Schwarber    |OF        |     12|  7|   8|  3|  0| 
+|Bryce Harper      |DH        |     17|  6|   5|  2|  0| 
+|Cole Young        |DH        |      6|  4|   1|  1|  0| 
 |Corey Seager      |DH        |     17|  4|   4|  1|  0| 
-|Luis Arraez       |DH        |     11|  5|   2|  1|  0| 
-|J.T. Realmuto     |BAT BENCH |      9|  3|   4|  1|  0| 
-|Oneil Cruz        |BAT BENCH |     10|  4|   8|  3|  1| 
+|Luis Arraez       |DH        |     13|  5|   2|  1|  0| 
+|J.T. Realmuto     |BAT BENCH |     10|  4|   4|  1|  0| 
+|Oneil Cruz        |BAT BENCH |     12|  4|   8|  3|  1| 
 |Samad Taylor      |BAT BENCH |     **| **|  **| **| **| 
 |Spencer Steer     |BAT BENCH |     **| **|  **| **| **| 
 
@@ -39,9 +39,9 @@
 |Michael McGreevy |SP          |  2| 10.333| 10|  8.710|     17| 1.645|  7|  0|  0| 
 |Sonny Gray       |SP          |  2| 11.000|  6|  4.909|     17| 1.545| 11|  1|  0| 
 |Troy Melton      |SP          |  2| 12.667|  6|  4.263|     17| 1.342|  7|  0|  0| 
-|Gregory Soto     |RP          |  4|  4.333|  0|  0.000|      4| 0.923|  4|  1|  0| 
+|Gregory Soto     |RP          |  5|  5.333|  0|  0.000|      4| 0.750|  4|  1|  0| 
 |Jacob Latz       |RP          |  3|  3.000|  0|  0.000|      4| 1.333|  7|  0|  2| 
-|Grant Taylor     |OP          |  5|  4.333|  1|  2.077|      7| 1.615|  8|  2|  2| 
+|Grant Taylor     |OP          |  6|  7.000|  1|  1.286|      8| 1.143| 11|  3|  2| 
 |Kumar Rocker     |OP          |  2| 10.667|  4|  3.375|     15| 1.406| 11|  1|  0| 
 |Landen Roupp     |OP          |  2| 10.333|  4|  3.484|     15| 1.452|  5|  1|  0| 
 |Sean Burke       |OP          |  2|  9.000|  6|  6.000|     17| 1.889|  7|  0|  0| 
