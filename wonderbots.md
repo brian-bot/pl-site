@@ -5,21 +5,21 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez     |C         |     13|  5|   6|  1|  1| 
+|Salvador Perez     |C         |     15|  5|   7|  1|  1| 
 |Andrew Vaughn      |1B        |     14|  3|   3|  0|  0| 
-|Ceddanne Rafaela   |2B        |     13|  2|   2|  0|  1| 
-|Junior Caminero    |3B        |     17|  5|   6|  0|  0| 
-|Zach Neto          |SS        |     20|  8|  11|  2|  2| 
+|Ceddanne Rafaela   |2B        |     14|  2|   3|  0|  1| 
+|Junior Caminero    |3B        |     19|  6|   7|  1|  0| 
+|Zach Neto          |SS        |     21|  9|  12|  3|  2| 
 |CJ Abrams          |MI        |      8|  4|   1|  0|  2| 
-|Sal Stewart        |CI        |     17|  9|  11|  3|  0| 
-|Fernando Tatis Jr. |OF        |     15|  6|  10|  4|  2| 
-|JJ Bleday          |OF        |     13|  5|   4|  1|  0| 
-|Joshua Báez        |OF        |      8|  2|   4|  1|  2| 
+|Sal Stewart        |CI        |     19| 10|  13|  4|  0| 
+|Fernando Tatis Jr. |OF        |     16|  7|  10|  4|  3| 
+|JJ Bleday          |OF        |     13|  5|   5|  1|  0| 
+|Joshua Báez        |OF        |      9|  3|   5|  2|  2| 
 |Mike Trout         |OF        |     16|  5|   2|  0|  1| 
-|José Caballero     |DH        |      5|  0|   2|  0|  0| 
-|Max Clark          |DH        |      8|  4|   4|  1|  1| 
-|Mookie Betts       |DH        |     16|  3|   5|  1|  0| 
-|Ty France          |DH        |     16|  2|   5|  1|  0| 
+|José Caballero     |DH        |      8|  1|   2|  0|  1| 
+|Max Clark          |DH        |      9|  4|   4|  1|  1| 
+|Mookie Betts       |DH        |     17|  3|   5|  1|  0| 
+|Ty France          |DH        |     18|  3|   7|  2|  0| 
 |Aaron Judge        |BAT BENCH |     **| **|  **| **| **| 
 |James Wood         |BAT BENCH |     **| **|  **| **| **| 
 |Owen Caissie       |BAT BENCH |      4|  1|   0|  0|  0| 
@@ -37,9 +37,9 @@
 |Jacob Misiorowski |SP          |  2| 12.000|  2| 1.500|     10| 0.833| 12|  2|  0| 
 |Logan Gilbert     |SP          |  2| 10.000|  5| 4.500|     15| 1.500| 10|  2|  0| 
 |Ranger Suarez     |SP          |  2| 10.333|  5| 4.355|     14| 1.355|  7|  1|  0| 
-|Shane Baz         |SP          |  2| 12.000|  6| 4.500|     14| 1.167| 13|  0|  0| 
+|Shane Baz         |SP          |  3| 17.667|  8| 4.075|     22| 1.245| 17|  1|  0| 
 |Walbert Ureña     |SP          |  2|  8.667|  6| 6.231|     15| 1.731| 10|  0|  0| 
-|Bryan Baker       |RP          |  4|  3.000|  1| 3.000|      3| 1.000|  3|  0|  3| 
+|Bryan Baker       |RP          |  5|  4.000|  1| 2.250|      4| 1.000|  4|  0|  4| 
 |David Bednar      |RP          |  4|  4.000|  0| 0.000|      1| 0.250|  4|  0|  4| 
 |Braxton Ashcraft  |OP          |  2| 14.000|  2| 1.286|     10| 0.714|  6|  1|  0| 
 |Casey Mize        |OP          |  2|  7.667|  6| 7.043|     12| 1.565|  1|  0|  0| 
