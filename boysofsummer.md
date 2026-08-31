@@ -6,25 +6,25 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |William Contreras |C         |     22|  8|   9|  1|  0| 
-|Nathaniel Lowe    |1B        |     10|  4|   4|  0|  0| 
-|Ezequiel Duran    |2B        |     21|  3|   6|  1|  1| 
+|Nathaniel Lowe    |1B        |     11|  5|   7|  1|  0| 
+|Ezequiel Duran    |2B        |     23|  5|   9|  2|  1| 
 |Nick Gonzales     |3B        |     16|  0|   4|  0|  2| 
-|Otto Lopez        |SS        |     14|  5|   5|  0|  5| 
-|Trea Turner       |MI        |     11|  3|   3|  0|  1| 
-|Jake Bauers       |CI        |     16|  7|   5|  2|  1| 
-|Esmerlyn Valdez   |OF        |      8|  3|   1|  1|  0| 
-|Garrett Mitchell  |OF        |     13|  7|   4|  1|  0| 
-|Heliot Ramos      |OF        |      9|  1|   1|  0|  0| 
-|Michael Harris II |OF        |     17|  5|   9|  2|  2| 
+|Otto Lopez        |SS        |     15|  6|   7|  1|  5| 
+|Trea Turner       |MI        |     13|  4|   3|  0|  1| 
+|Jake Bauers       |CI        |     18|  7|   6|  2|  1| 
+|Esmerlyn Valdez   |OF        |      9|  4|   3|  2|  0| 
+|Garrett Mitchell  |OF        |     15|  8|   4|  1|  0| 
+|Heliot Ramos      |OF        |     13|  2|   4|  1|  0| 
+|Michael Harris II |OF        |     18|  5|   9|  2|  3| 
 |Byron Buxton      |DH        |      8|  7|   1|  0|  0| 
-|Iván Herrera      |DH        |     14|  4|   0|  0|  0| 
+|Iván Herrera      |DH        |     16|  4|   2|  0|  1| 
 |Jung Hoo Lee      |DH        |     16|  3|   3|  0|  3| 
-|Ryan Jeffers      |DH        |      9|  2|   2|  0|  0| 
+|Ryan Jeffers      |DH        |     11|  4|   2|  0|  0| 
 |Cooper Pratt      |BAT BENCH |      5|  4|   3|  0|  2| 
 |Josh Jung         |BAT BENCH |     **| **|  **| **| **| 
 |Ketel Marte       |BAT BENCH |     **| **|  **| **| **| 
 |Riley Greene      |BAT BENCH |     **| **|  **| **| **| 
-|Spencer Horwitz   |BAT BENCH |      8|  0|   1|  0|  0| 
+|Spencer Horwitz   |BAT BENCH |      9|  0|   1|  0|  0| 
 
 
 * * *
@@ -40,7 +40,7 @@
 |Nick Martinez    |SP          |  3| 15.667|  9|  5.170|     19| 1.213| 13|  1|  0| 
 |Nolan McLean     |SP          |  2| 13.000|  0|  0.000|     10| 0.769| 10|  1|  0| 
 |Tarik Skubal     |SP          |  2| 13.000|  4|  2.769|     10| 0.769| 18|  1|  0| 
-|Mason Miller     |RP          |  5|  5.000|  1|  1.800|      3| 0.600|  9|  0|  2| 
+|Mason Miller     |RP          |  6|  6.000|  3|  4.500|      5| 0.833| 11|  0|  2| 
 |Riley O'Brien    |RP          |  5|  4.000|  7| 15.750|     12| 3.000|  2|  0|  3| 
 |Brandyn Garcia   |OP          |  5|  4.333|  0|  0.000|      3| 0.692|  6|  0|  0| 
 |Carlos Rodón     |OP          |  3| 12.667|  4|  2.842|     12| 0.947| 11|  0|  0| 
