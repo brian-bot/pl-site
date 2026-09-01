@@ -5,24 +5,24 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras |C         |     22|  8|   9|  1|  0| 
+|William Contreras |C         |     24|  8|   9|  1|  0| 
 |Nathaniel Lowe    |1B        |     11|  5|   7|  1|  0| 
-|Ezequiel Duran    |2B        |     23|  5|   9|  2|  1| 
+|Ezequiel Duran    |2B        |     25|  6|   9|  2|  1| 
 |Nick Gonzales     |3B        |     16|  0|   4|  0|  2| 
-|Otto Lopez        |SS        |     15|  6|   7|  1|  5| 
-|Trea Turner       |MI        |     13|  4|   3|  0|  1| 
-|Jake Bauers       |CI        |     18|  7|   6|  2|  1| 
+|Otto Lopez        |SS        |     16|  6|   7|  1|  5| 
+|Trea Turner       |MI        |     14|  4|   3|  0|  1| 
+|Jake Bauers       |CI        |     20|  7|   6|  2|  1| 
 |Esmerlyn Valdez   |OF        |      9|  4|   3|  2|  0| 
-|Garrett Mitchell  |OF        |     15|  8|   4|  1|  0| 
+|Garrett Mitchell  |OF        |     16|  8|   4|  1|  0| 
 |Heliot Ramos      |OF        |     13|  2|   4|  1|  0| 
-|Michael Harris II |OF        |     18|  5|   9|  2|  3| 
+|Michael Harris II |OF        |     20|  6|  10|  3|  3| 
 |Byron Buxton      |DH        |      8|  7|   1|  0|  0| 
 |Iván Herrera      |DH        |     16|  4|   2|  0|  1| 
-|Jung Hoo Lee      |DH        |     16|  3|   3|  0|  3| 
-|Ryan Jeffers      |DH        |     11|  4|   2|  0|  0| 
-|Cooper Pratt      |BAT BENCH |      5|  4|   3|  0|  2| 
+|Jung Hoo Lee      |DH        |     17|  3|   3|  0|  4| 
+|Ryan Jeffers      |DH        |     14|  6|   6|  2|  0| 
+|Cooper Pratt      |BAT BENCH |      7|  5|   5|  1|  2| 
 |Josh Jung         |BAT BENCH |     **| **|  **| **| **| 
-|Ketel Marte       |BAT BENCH |     **| **|  **| **| **| 
+|Ketel Marte       |BAT BENCH |      2|  0|   0|  0|  0| 
 |Riley Greene      |BAT BENCH |     **| **|  **| **| **| 
 |Spencer Horwitz   |BAT BENCH |      9|  0|   1|  0|  0| 
 

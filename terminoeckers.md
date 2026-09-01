@@ -8,22 +8,22 @@
 |Carter Jensen     |C         |     20|  6|   5|  3|  1| 
 |Willson Contreras |1B        |     15|  4|   6|  1|  0| 
 |Brice Turang      |2B        |     13|  7|   3|  1|  2| 
-|Kazuma Okamoto    |3B        |     18|  7|   7|  4|  0| 
-|Elly De La Cruz   |SS        |     22| 12|   3|  1|  3| 
-|A.J. Ewing        |MI        |      9|  3|   0|  0|  6| 
+|Kazuma Okamoto    |3B        |     17|  7|   7|  4|  0| 
+|Elly De La Cruz   |SS        |     24| 12|   3|  1|  3| 
+|A.J. Ewing        |MI        |     11|  3|   0|  0|  6| 
 |Jac Caglianone    |CI        |     15|  7|   6|  1|  0| 
-|Brandon Nimmo     |OF        |     13|  4|   4|  1|  1| 
+|Brandon Nimmo     |OF        |     15|  5|   6|  1|  1| 
 |Jordan Walker     |OF        |     15| 11|   9|  3|  1| 
 |Kyle Tucker       |OF        |     14|  5|   3|  0|  2| 
-|Wyatt Langford    |OF        |     23|  7|   3|  1|  1| 
-|Bryce Eldridge    |DH        |     19|  3|  10|  2|  0| 
-|Eugenio Suárez    |DH        |     18|  4|   9|  2|  0| 
-|Jake Burger       |DH        |     12|  2|   4|  2|  1| 
+|Wyatt Langford    |OF        |     24|  8|   3|  1|  1| 
+|Bryce Eldridge    |DH        |     21|  3|  11|  2|  0| 
+|Eugenio Suárez    |DH        |     19|  4|   9|  2|  0| 
+|Jake Burger       |DH        |     14|  3|   5|  2|  1| 
 |Zac Veen          |DH        |      6|  1|   1|  0|  1| 
 |Dansby Swanson    |BAT BENCH |     **| **|  **| **| **| 
-|Hunter Goodman    |BAT BENCH |      8|  4|   4|  2|  0| 
-|Kyle Stowers      |BAT BENCH |      8|  2|   2|  0|  0| 
-|Luis Lara         |BAT BENCH |     17|  6|   8|  1|  1| 
+|Hunter Goodman    |BAT BENCH |     10|  5|   4|  2|  0| 
+|Kyle Stowers      |BAT BENCH |     10|  2|   4|  0|  0| 
+|Luis Lara         |BAT BENCH |     18|  7|   8|  1|  1| 
 
 
 * * *
@@ -39,10 +39,10 @@
 |Cam Schlittler  |SP          |  2| 11.667|  1|  0.771|     16| 1.371| 12|  2|  0| 
 |Drew Rasmussen  |SP          |  3| 17.000|  8|  4.235|     18| 1.059| 16|  2|  0| 
 |Kyle Bradish    |SP          |  2| 10.000| 10|  9.000|     21| 2.100|  9|  0|  0| 
-|Aroldis Chapman |RP          |  4|  4.000|  0|  0.000|      3| 0.750|  6|  0|  3| 
+|Aroldis Chapman |RP          |  5|  5.000|  0|  0.000|      3| 0.600|  8|  1|  3| 
 |Tanner Scott    |RP          |  6|  6.000|  3|  4.500|      7| 1.167|  5|  0|  4| 
 |Dean Kremer     |OP          |  2|  9.333|  7|  6.750|     16| 1.714|  8|  0|  0| 
-|Gage Jump       |OP          |  2| 10.333|  7|  6.097|     16| 1.548| 12|  1|  0| 
+|Gage Jump       |OP          |  3| 14.667| 14|  8.591|     25| 1.705| 14|  1|  0| 
 |Jared Jones     |OP          |  2|  8.667|  5|  5.192|     16| 1.846| 11|  0|  0| 
 |Trevor Rogers   |OP          |  2| 12.000|  9|  6.750|     15| 1.250| 13|  1|  0| 
 |Zac Thornton    |OP          |  3| 16.000|  6|  3.375|     21| 1.312| 16|  0|  0| 

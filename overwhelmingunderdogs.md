@@ -6,23 +6,23 @@
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Alejandro Kirk   |C         |     17|  6|  10|  3|  1| 
-|Rafael Devers    |1B        |     23| 12|   9|  4|  0| 
+|Rafael Devers    |1B        |     26| 14|  10|  5|  0| 
 |Xavier Edwards   |2B        |     14|  0|   5|  0|  1| 
 |Kyle Karros      |3B        |      2|  0|   0|  0|  0| 
 |Francisco Lindor |SS        |     10|  6|   2|  2|  0| 
 |Maikel Garcia    |MI        |      4|  1|   1|  0|  0| 
-|Alex Bregman     |CI        |     16|  8|  12|  4|  0| 
+|Alex Bregman     |CI        |     19| 11|  16|  7|  0| 
 |Brendan Donovan  |OF        |     10|  2|   3|  0|  0| 
 |George Springer  |OF        |     22|  7|   8|  2|  2| 
-|Jakob Marsee     |OF        |     16|  6|   2|  1|  2| 
+|Jakob Marsee     |OF        |     18|  6|   2|  1|  2| 
 |Trent Grisham    |OF        |     17|  7|   6|  2|  2| 
-|Christian Walker |DH        |     10|  3|   4|  1|  0| 
-|Dominic Canzone  |DH        |     12|  4|   7|  1|  1| 
-|Jonathan Aranda  |DH        |     12|  4|   3|  2|  0| 
-|Miguel Vargas    |DH        |     29|  8|   4|  1|  1| 
+|Christian Walker |DH        |     11|  3|   5|  1|  0| 
+|Dominic Canzone  |DH        |     14|  4|   9|  1|  1| 
+|Jonathan Aranda  |DH        |     13|  5|   3|  2|  0| 
+|Miguel Vargas    |DH        |     31|  8|   4|  1|  1| 
 |Juan Soto        |BAT BENCH |      3|  2|   2|  1|  0| 
 |Matt Chapman     |BAT BENCH |     **| **|  **| **| **| 
-|Roman Anthony    |BAT BENCH |      2|  0|   0|  0|  0| 
+|Roman Anthony    |BAT BENCH |      5|  2|   0|  0|  0| 
 |Tommy Edman      |BAT BENCH |     16|  6|   4|  1|  1| 
 |Will Smith       |BAT BENCH |     **| **|  **| **| **| 
 
@@ -44,7 +44,7 @@
 |Andrew Abbott      |OP          |  3| 15.333| 13|  7.630|     25| 1.630| 13|  0|  0| 
 |Emerson Hancock    |OP          |  2| 10.667|  8|  6.750|     16| 1.500|  7|  0|  0| 
 |Joey Cantillo      |OP          |  2| 10.667|  3|  2.531|     17| 1.594|  6|  0|  0| 
-|Peter Lambert      |OP          |  2|  9.333| 11| 10.607|     20| 2.143|  8|  0|  0| 
+|Peter Lambert      |OP          |  3| 14.000| 13|  8.357|     28| 2.000| 14|  0|  0| 
 |Tyler Wells        |OP          |  4|  5.000|  0|  0.000|      2| 0.400|  4|  1|  1| 
 |Clayton Beeter     |PITCH BENCH |  6|  6.333|  2|  2.842|     11| 1.737|  6|  0|  0| 
 |Emmet Sheehan      |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
