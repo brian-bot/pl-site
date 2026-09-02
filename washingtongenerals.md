@@ -6,23 +6,23 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Francisco Alvarez |C         |      6|  0|   4|  0|  0| 
-|Michael Busch     |1B        |     19| 10|   5|  3|  0| 
-|Nico Hoerner      |2B        |     13|  3|   4|  1|  2| 
+|Michael Busch     |1B        |     20| 10|   5|  3|  0| 
+|Nico Hoerner      |2B        |     14|  4|   4|  1|  2| 
 |Max Muncy         |3B        |     14|  3|   5|  1|  0| 
-|Bobby Witt Jr.    |SS        |     21| 10|   3|  1|  3| 
-|Kevin McGonigle   |MI        |     13|  2|   8|  1|  0| 
-|Freddie Freeman   |CI        |     20|  7|   5|  0|  1| 
+|Bobby Witt Jr.    |SS        |     22| 10|   4|  1|  4| 
+|Kevin McGonigle   |MI        |     14|  3|   8|  1|  0| 
+|Freddie Freeman   |CI        |     21|  8|   5|  0|  1| 
 |Cedric Mullins    |OF        |     13|  5|   4|  1|  0| 
-|Henry Bolte       |OF        |     21|  9|   1|  0|  0| 
-|Jarren Duran      |OF        |     12|  5|   7|  3|  1| 
-|Kyle Schwarber    |OF        |     16|  8|   9|  3|  0| 
-|Bryce Harper      |DH        |     24|  6|   7|  2|  0| 
-|Cole Young        |DH        |      9|  6|   1|  1|  0| 
-|Corey Seager      |DH        |     23|  8|   4|  1|  0| 
-|Luis Arraez       |DH        |     14|  5|   3|  1|  0| 
-|J.T. Realmuto     |BAT BENCH |     13|  7|   5|  2|  0| 
-|Oneil Cruz        |BAT BENCH |     16|  7|   8|  3|  3| 
-|Samad Taylor      |BAT BENCH |      1|  1|   0|  0|  0| 
+|Henry Bolte       |OF        |     23|  9|   1|  0|  0| 
+|Jarren Duran      |OF        |     13|  5|   7|  3|  1| 
+|Kyle Schwarber    |OF        |     17|  9|  10|  3|  0| 
+|Bryce Harper      |DH        |     29|  7|   8|  2|  0| 
+|Cole Young        |DH        |     12|  7|   1|  1|  0| 
+|Corey Seager      |DH        |     26| 11|   5|  1|  0| 
+|Luis Arraez       |DH        |     17|  5|   3|  1|  0| 
+|J.T. Realmuto     |BAT BENCH |     14|  8|   5|  2|  0| 
+|Oneil Cruz        |BAT BENCH |     20|  8|  12|  3|  3| 
+|Samad Taylor      |BAT BENCH |      4|  2|   0|  0|  1| 
 |Spencer Steer     |BAT BENCH |     **| **|  **| **| **| 
 
 
@@ -36,17 +36,17 @@
 |Anthony Kay      |SP          |  3| 15.333| 11|  6.457|     22| 1.435| 15|  0|  0| 
 |Dustin May       |SP          |  3|  6.667| 11| 14.850|     18| 2.700|  5|  0|  0| 
 |Jacob deGrom     |SP          |  3| 16.667|  8|  4.320|     14| 0.840| 20|  2|  0| 
-|Michael McGreevy |SP          |  2| 10.333| 10|  8.710|     17| 1.645|  7|  0|  0| 
+|Michael McGreevy |SP          |  3| 15.333| 14|  8.217|     24| 1.565| 11|  1|  0| 
 |Sonny Gray       |SP          |  2| 11.000|  6|  4.909|     17| 1.545| 11|  1|  0| 
-|Troy Melton      |SP          |  2| 12.667|  6|  4.263|     17| 1.342|  7|  0|  0| 
-|Gregory Soto     |RP          |  6|  6.333|  0|  0.000|      5| 0.789|  4|  1|  0| 
-|Jacob Latz       |RP          |  4|  4.000|  0|  0.000|      4| 1.000|  8|  0|  3| 
-|Grant Taylor     |OP          |  6|  7.000|  1|  1.286|      8| 1.143| 11|  3|  2| 
+|Troy Melton      |SP          |  3| 18.000| 11|  5.500|     24| 1.333| 11|  0|  0| 
+|Gregory Soto     |RP          |  7|  7.000|  0|  0.000|      5| 0.714|  5|  1|  0| 
+|Jacob Latz       |RP          |  5|  4.667|  0|  0.000|      4| 0.857| 10|  0|  4| 
+|Grant Taylor     |OP          |  7|  8.000|  1|  1.125|      8| 1.000| 13|  3|  2| 
 |Kumar Rocker     |OP          |  3| 13.667|  6|  3.951|     23| 1.683| 18|  1|  0| 
 |Landen Roupp     |OP          |  2| 10.333|  4|  3.484|     15| 1.452|  5|  1|  0| 
-|Sean Burke       |OP          |  2|  9.000|  6|  6.000|     17| 1.889|  7|  0|  0| 
-|Tyler Phillips   |OP          |  2|  6.667|  2|  2.700|     10| 1.500| 10|  0|  0| 
-|Justin Wrobleski |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
+|Sean Burke       |OP          |  3| 14.667|  6|  3.682|     22| 1.500| 13|  1|  0| 
+|Tyler Phillips   |OP          |  3| 11.667|  2|  1.543|     13| 1.114| 14|  1|  0| 
+|Justin Wrobleski |PITCH BENCH |  1|  2.000|  2|  9.000|      3| 1.500|  4|  0|  0| 
 |Nathan Eovaldi   |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Reynaldo López   |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 

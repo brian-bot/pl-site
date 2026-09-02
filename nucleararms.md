@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Dillon Dingler    |C         |      8|  0|   0|  0|  0| 
-|Yandy Díaz        |1B        |     18|  8|   5|  2|  0| 
-|Luke Keaschall    |2B        |     22|  8|   5|  2|  2| 
+|Dillon Dingler    |C         |      9|  1|   0|  0|  0| 
+|Yandy Díaz        |1B        |     21| 10|   6|  3|  0| 
+|Luke Keaschall    |2B        |     24|  9|   7|  2|  2| 
 |Austin Riley      |3B        |     13|  2|   3|  0|  2| 
 |Gunnar Henderson  |SS        |     17|  6|   6|  2|  1| 
-|Colson Montgomery |MI        |     16|  6|   6|  3|  0| 
-|Pete Alonso       |CI        |     19|  7|  10|  4|  0| 
-|Bryan Reynolds    |OF        |     17|  4|   1|  0|  0| 
-|Jake McCarthy     |OF        |     19|  7|   2|  1|  5| 
-|Seiya Suzuki      |OF        |     25| 13|   6|  2|  1| 
-|Teoscar Hernández |OF        |     14|  6|   4|  1|  0| 
+|Colson Montgomery |MI        |     19|  7|   8|  3|  0| 
+|Pete Alonso       |CI        |     21|  7|  10|  4|  0| 
+|Bryan Reynolds    |OF        |     19|  7|   1|  0|  0| 
+|Jake McCarthy     |OF        |     21|  7|   3|  1|  5| 
+|Seiya Suzuki      |OF        |     27| 14|   6|  2|  1| 
+|Teoscar Hernández |OF        |     15|  6|   4|  1|  0| 
 |Abimelec Ortiz    |DH        |     11|  6|   1|  0|  0| 
-|Jackson Holliday  |DH        |     10|  7|   2|  0|  2| 
-|Ronald Acuña Jr.  |DH        |     17|  4|   2|  0|  3| 
-|TJ Rumfield       |DH        |     27|  3|   2|  0|  0| 
+|Jackson Holliday  |DH        |     13|  8|   3|  1|  2| 
+|Ronald Acuña Jr.  |DH        |     17|  5|   2|  0|  3| 
+|TJ Rumfield       |DH        |     29|  4|   4|  1|  0| 
 |Giancarlo Stanton |BAT BENCH |     **| **|  **| **| **| 
 |Shea Langeliers   |BAT BENCH |     **| **|  **| **| **| 
 
@@ -47,7 +47,7 @@
 |Corbin Burnes   |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 |Max Meyer       |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 |Spencer Strider |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
-|Tatsuya Imai    |PITCH BENCH |  1|  3.000|  2| 6.000|      4| 1.333|  3|  0|  0| 
+|Tatsuya Imai    |PITCH BENCH |  2|  6.000|  4| 6.000|      9| 1.500|  8|  0|  0| 
 |Tyler Glasnow   |PITCH BENCH |  2| 12.000|  4| 3.000|      9| 0.750| 13|  1|  0| 
 
 

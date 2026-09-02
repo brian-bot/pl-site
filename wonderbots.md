@@ -6,24 +6,24 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Salvador Perez     |C         |     16|  5|   8|  1|  1| 
-|Andrew Vaughn      |1B        |     15|  3|   4|  0|  0| 
+|Andrew Vaughn      |1B        |     16|  3|   5|  0|  0| 
 |Ceddanne Rafaela   |2B        |     16|  2|   6|  0|  1| 
-|Junior Caminero    |3B        |     23|  8|   8|  2|  0| 
-|Zach Neto          |SS        |     23| 11|  13|  3|  2| 
-|CJ Abrams          |MI        |      8|  4|   1|  0|  2| 
-|Sal Stewart        |CI        |     22| 11|  14|  5|  0| 
-|Fernando Tatis Jr. |OF        |     17|  8|  10|  4|  3| 
-|JJ Bleday          |OF        |     16|  5|   5|  1|  0| 
-|Joshua Báez        |OF        |      9|  3|   5|  2|  2| 
+|Junior Caminero    |3B        |     25|  8|   9|  2|  0| 
+|Zach Neto          |SS        |     25| 12|  13|  3|  3| 
+|CJ Abrams          |MI        |     11|  5|   3|  0|  3| 
+|Sal Stewart        |CI        |     24| 12|  14|  5|  0| 
+|Fernando Tatis Jr. |OF        |     19| 10|  12|  6|  3| 
+|JJ Bleday          |OF        |     17|  5|   6|  1|  0| 
+|Joshua Báez        |OF        |     11|  5|   6|  3|  2| 
 |Mike Trout         |OF        |     20|  6|   5|  0|  1| 
 |José Caballero     |DH        |     11|  4|   5|  1|  1| 
-|Max Clark          |DH        |      9|  4|   4|  1|  1| 
-|Mookie Betts       |DH        |     18|  4|   5|  1|  0| 
+|Max Clark          |DH        |     11|  4|   4|  1|  1| 
+|Mookie Betts       |DH        |     22|  5|   9|  1|  0| 
 |Ty France          |DH        |     23|  5|   9|  2|  0| 
 |Aaron Judge        |BAT BENCH |     **| **|  **| **| **| 
 |James Wood         |BAT BENCH |     **| **|  **| **| **| 
-|Owen Caissie       |BAT BENCH |      4|  1|   0|  0|  0| 
-|Paul Goldschmidt   |BAT BENCH |      6|  3|   4|  2|  0| 
+|Owen Caissie       |BAT BENCH |      5|  2|   0|  0|  0| 
+|Paul Goldschmidt   |BAT BENCH |      6|  3|   5|  2|  0| 
 
 
 * * *
@@ -33,7 +33,7 @@
  
 |players           |position    |  g|     ip| er|   era| hitsbb|  whip| so|  w| sv| 
 |:-----------------|:-----------|--:|------:|--:|-----:|------:|-----:|--:|--:|--:| 
-|Gavin Williams    |SP          |  2|  7.000|  7| 9.000|     14| 2.000| 14|  1|  0| 
+|Gavin Williams    |SP          |  3| 14.000|  7| 4.500|     17| 1.214| 27|  2|  0| 
 |Jacob Misiorowski |SP          |  2| 12.000|  2| 1.500|     10| 0.833| 12|  2|  0| 
 |Logan Gilbert     |SP          |  3| 15.000|  8| 4.800|     22| 1.467| 14|  2|  0| 
 |Ranger Suarez     |SP          |  3| 15.667| 11| 6.319|     25| 1.596|  9|  1|  0| 
