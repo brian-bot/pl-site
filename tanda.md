@@ -7,23 +7,23 @@
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
 |Gabriel Moreno        |C         |     18|  5|  11|  2|  1| 
 |Matt Olson            |1B        |     14|  6|   3|  1|  1| 
-|Ozzie Albies          |2B        |     19|  3|   4|  1|  1| 
+|Ozzie Albies          |2B        |     21|  4|   4|  1|  1| 
 |José Ramírez          |3B        |     17|  7|  10|  1|  2| 
 |Willy Adames          |SS        |      8|  3|   3|  2|  0| 
-|Zack Gelof            |MI        |     17|  8|   4|  0|  2| 
-|Caleb Durbin          |CI        |     16|  5|   1|  0|  1| 
+|Zack Gelof            |MI        |     19|  9|   5|  1|  2| 
+|Caleb Durbin          |CI        |     18|  5|   1|  0|  1| 
 |Brandon Marsh         |OF        |     12|  3|   3|  0|  0| 
-|Heriberto Hernández   |OF        |     20|  6|   8|  4|  2| 
-|Lawrence Butler       |OF        |     29|  6|  11|  1|  1| 
-|Pete Crow-Armstrong   |OF        |     20| 11|  13|  8|  1| 
-|Christian Yelich      |DH        |     20|  8|   9|  2|  1| 
+|Heriberto Hernández   |OF        |     23|  7|  10|  4|  2| 
+|Lawrence Butler       |OF        |     31|  6|  11|  1|  1| 
+|Pete Crow-Armstrong   |OF        |     23| 13|  13|  8|  1| 
+|Christian Yelich      |DH        |     22| 10|   9|  2|  1| 
 |George Lombard Jr.    |DH        |     12|  5|   3|  0|  0| 
 |Luis García Jr.       |DH        |     22| 10|   9|  4|  1| 
 |Steven Kwan           |DH        |     28| 14|   4|  0|  0| 
 |Cal Raleigh           |BAT BENCH |     22|  8|  11|  7|  0| 
-|Cody Bellinger        |BAT BENCH |     13|  7|   6|  1|  0| 
-|Dylan Crews           |BAT BENCH |     18|  5|   7|  0|  0| 
-|Vladimir Guerrero Jr. |BAT BENCH |      9|  2|   2|  0|  0| 
+|Cody Bellinger        |BAT BENCH |     16|  9|   7|  1|  0| 
+|Dylan Crews           |BAT BENCH |     19|  5|   7|  0|  0| 
+|Vladimir Guerrero Jr. |BAT BENCH |     12|  3|   7|  1|  0| 
 
 
 * * *
@@ -39,7 +39,7 @@
 |J.T. Ginn       |SP          |  2| 11.000|  7|  5.727|     16| 1.455|  7|  1|  0| 
 |Logan Webb      |SP          |  3| 10.667| 16| 13.500|     26| 2.438|  9|  0|  0| 
 |Ryan Weathers   |SP          |  1|  3.333|  2|  5.400|      8| 2.400|  3|  0|  0| 
-|Emilio Pagán    |RP          |  6|  6.000|  4|  6.000|      6| 1.000|  4|  0|  5| 
+|Emilio Pagán    |RP          |  7|  7.000|  4|  5.143|      6| 0.857|  5|  0|  5| 
 |Raisel Iglesias |RP          |  5|  5.333|  0|  0.000|      5| 0.938|  3|  0|  4| 
 |Brandon Pfaadt  |OP          |  3| 18.333| 11|  5.400|     21| 1.145| 12|  0|  0| 
 |Clay Holmes     |OP          |  3| 18.333|  1|  0.491|     19| 1.036| 14|  1|  0| 
