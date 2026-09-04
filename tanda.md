@@ -8,22 +8,22 @@
 |Gabriel Moreno        |C         |     18|  5|  11|  2|  1| 
 |Matt Olson            |1B        |     14|  6|   3|  1|  1| 
 |Ozzie Albies          |2B        |     21|  4|   4|  1|  1| 
-|José Ramírez          |3B        |     17|  7|  10|  1|  2| 
+|José Ramírez          |3B        |     18|  7|  10|  1|  2| 
 |Willy Adames          |SS        |      8|  3|   3|  2|  0| 
-|Zack Gelof            |MI        |     19|  9|   5|  1|  2| 
-|Caleb Durbin          |CI        |     18|  5|   1|  0|  1| 
+|Zack Gelof            |MI        |     21| 11|   6|  2|  3| 
+|Caleb Durbin          |CI        |     20|  5|   1|  0|  2| 
 |Brandon Marsh         |OF        |     12|  3|   3|  0|  0| 
-|Heriberto Hernández   |OF        |     23|  7|  10|  4|  2| 
-|Lawrence Butler       |OF        |     31|  6|  11|  1|  1| 
-|Pete Crow-Armstrong   |OF        |     23| 13|  13|  8|  1| 
-|Christian Yelich      |DH        |     22| 10|   9|  2|  1| 
+|Heriberto Hernández   |OF        |     24|  8|  11|  5|  2| 
+|Lawrence Butler       |OF        |     33|  6|  13|  1|  1| 
+|Pete Crow-Armstrong   |OF        |     24| 14|  15|  9|  1| 
+|Christian Yelich      |DH        |     23| 10|   9|  2|  1| 
 |George Lombard Jr.    |DH        |     12|  5|   3|  0|  0| 
 |Luis García Jr.       |DH        |     22| 10|   9|  4|  1| 
-|Steven Kwan           |DH        |     28| 14|   4|  0|  0| 
-|Cal Raleigh           |BAT BENCH |     22|  8|  11|  7|  0| 
+|Steven Kwan           |DH        |     30| 14|   4|  0|  0| 
+|Cal Raleigh           |BAT BENCH |     24|  9|  12|  7|  0| 
 |Cody Bellinger        |BAT BENCH |     16|  9|   7|  1|  0| 
 |Dylan Crews           |BAT BENCH |     19|  5|   7|  0|  0| 
-|Vladimir Guerrero Jr. |BAT BENCH |     12|  3|   7|  1|  0| 
+|Vladimir Guerrero Jr. |BAT BENCH |     13|  4|   8|  1|  0| 
 
 
 * * *
@@ -45,10 +45,10 @@
 |Clay Holmes     |OP          |  3| 18.333|  1|  0.491|     19| 1.036| 14|  1|  0| 
 |Kyle Leahy      |OP          |  3| 12.000|  1|  0.750|     12| 1.000| 13|  1|  0| 
 |Pete Fairbanks  |OP          |  3|  2.000|  2|  9.000|      4| 2.000|  3|  1|  0| 
-|Tanner Bibee    |OP          |  2| 12.000|  3|  2.250|     15| 1.250| 11|  1|  0| 
-|Brandon Young   |PITCH BENCH |  2| 12.667|  3|  2.132|     15| 1.184|  7|  0|  0| 
+|Tanner Bibee    |OP          |  3| 16.000|  8|  4.500|     24| 1.500| 15|  1|  0| 
+|Brandon Young   |PITCH BENCH |  3| 19.333|  6|  2.793|     21| 1.086| 14|  0|  0| 
 |Framber Valdez  |PITCH BENCH |  2| 12.000|  6|  4.500|     17| 1.417|  5|  0|  0| 
-|Michael Wacha   |PITCH BENCH |  2| 15.000|  1|  0.600|      8| 0.533| 16|  2|  0| 
+|Michael Wacha   |PITCH BENCH |  3| 21.000|  4|  1.714|     16| 0.762| 23|  3|  0| 
 
 
 * * *

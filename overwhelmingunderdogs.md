@@ -11,20 +11,20 @@
 |Kyle Karros      |3B        |      2|  0|   0|  0|  0| 
 |Francisco Lindor |SS        |     13|  7|   4|  3|  0| 
 |Maikel Garcia    |MI        |      4|  1|   1|  0|  0| 
-|Alex Bregman     |CI        |     22| 13|  20|  8|  0| 
+|Alex Bregman     |CI        |     23| 13|  20|  8|  0| 
 |Brendan Donovan  |OF        |     10|  2|   3|  0|  0| 
 |George Springer  |OF        |     23|  8|   9|  2|  2| 
-|Jakob Marsee     |OF        |     21|  8|   3|  2|  2| 
+|Jakob Marsee     |OF        |     22|  9|   3|  2|  2| 
 |Trent Grisham    |OF        |     19|  7|   8|  2|  2| 
-|Christian Walker |DH        |     11|  3|   5|  1|  0| 
-|Dominic Canzone  |DH        |     18|  6|  11|  2|  1| 
-|Jonathan Aranda  |DH        |     14|  5|   4|  2|  0| 
-|Miguel Vargas    |DH        |     34|  9|   4|  1|  1| 
+|Christian Walker |DH        |     13|  3|   6|  1|  0| 
+|Dominic Canzone  |DH        |     20|  6|  11|  2|  1| 
+|Jonathan Aranda  |DH        |     15|  5|   4|  2|  0| 
+|Miguel Vargas    |DH        |     36|  9|   4|  1|  3| 
 |Juan Soto        |BAT BENCH |      5|  3|   3|  2|  0| 
 |Matt Chapman     |BAT BENCH |     **| **|  **| **| **| 
-|Roman Anthony    |BAT BENCH |     10|  4|   1|  1|  0| 
-|Tommy Edman      |BAT BENCH |     21|  9|   6|  1|  1| 
-|Will Smith       |BAT BENCH |      1|  2|   2|  0|  0| 
+|Roman Anthony    |BAT BENCH |     12|  5|   2|  2|  0| 
+|Tommy Edman      |BAT BENCH |     25| 11|   6|  1|  2| 
+|Will Smith       |BAT BENCH |      2|  2|   2|  0|  0| 
 
 * * *
 
@@ -38,7 +38,7 @@
 |Jesús Luzardo      |SP          |  3| 19.333|  3|  1.397|     17| 0.879| 24|  2|  0| 
 |Merrill Kelly      |SP          |  3| 16.667|  9|  4.860|     25| 1.500| 13|  1|  0| 
 |Michael Soroka     |SP          |  1|  3.333|  6| 16.200|      9| 2.700|  3|  0|  0| 
-|Shane McClanahan   |SP          |  2| 10.667|  3|  2.531|     10| 0.937|  9|  1|  0| 
+|Shane McClanahan   |SP          |  3| 15.667|  7|  4.021|     17| 1.085| 12|  1|  0| 
 |Cade Smith         |RP          |  6|  6.000|  2|  3.000|      5| 0.833|  9|  0|  4| 
 |Trevor Megill      |RP          |  5|  5.333|  0|  0.000|      5| 0.938|  5|  0|  3| 
 |Andrew Abbott      |OP          |  3| 15.333| 13|  7.630|     25| 1.630| 13|  0|  0| 

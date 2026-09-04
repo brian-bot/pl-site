@@ -6,16 +6,16 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Dillon Dingler    |C         |      9|  1|   0|  0|  0| 
-|Yandy Díaz        |1B        |     23| 10|   6|  3|  0| 
+|Yandy Díaz        |1B        |     25| 10|   6|  3|  0| 
 |Luke Keaschall    |2B        |     27|  9|   8|  2|  2| 
 |Austin Riley      |3B        |     15|  2|   5|  0|  2| 
-|Gunnar Henderson  |SS        |     18|  6|   6|  2|  1| 
-|Colson Montgomery |MI        |     20|  7|   8|  3|  0| 
-|Pete Alonso       |CI        |     23|  8|  11|  4|  0| 
-|Bryan Reynolds    |OF        |     21|  9|   1|  0|  0| 
+|Gunnar Henderson  |SS        |     19|  7|   6|  2|  1| 
+|Colson Montgomery |MI        |     20|  8|   8|  3|  0| 
+|Pete Alonso       |CI        |     24|  9|  13|  5|  0| 
+|Bryan Reynolds    |OF        |     22| 10|   1|  0|  0| 
 |Jake McCarthy     |OF        |     24|  7|   4|  1|  5| 
 |Seiya Suzuki      |OF        |     29| 14|   6|  2|  1| 
-|Teoscar Hernández |OF        |     18|  6|   4|  1|  1| 
+|Teoscar Hernández |OF        |     22|  6|   6|  1|  1| 
 |Abimelec Ortiz    |DH        |     11|  6|   1|  0|  0| 
 |Jackson Holliday  |DH        |     15|  9|   3|  1|  2| 
 |Ronald Acuña Jr.  |DH        |     20|  7|   5|  1|  4| 
@@ -34,7 +34,7 @@
 |David Peterson  |SP          |  3| 14.667| 10|  6.136|     26| 1.773| 18|  0|  0| 
 |Dylan Cease     |SP          |  3| 18.667|  2|  0.964|     16| 0.857| 20|  3|  0| 
 |George Kirby    |SP          |  3| 16.000| 12|  6.750|     27| 1.688| 14|  1|  0| 
-|Sandy Alcantara |SP          |  3| 19.000|  8|  3.789|     26| 1.368| 10|  0|  0| 
+|Sandy Alcantara |SP          |  4| 25.000| 12|  4.320|     33| 1.320| 12|  0|  0| 
 |Shane Bieber    |SP          |  1|  7.000|  0|  0.000|      3| 0.429|  7|  1|  0| 
 |Taj Bradley     |SP          |  3| 18.667|  6|  2.893|     20| 1.071| 27|  1|  0| 
 |Jacob Webb      |RP          |  6|  5.000|  7| 12.600|      9| 1.800|  2|  1|  0| 

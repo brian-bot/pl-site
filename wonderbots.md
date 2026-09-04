@@ -5,8 +5,8 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez     |C         |     18|  6|  10|  2|  1| 
-|Andrew Vaughn      |1B        |     18|  4|   6|  0|  0| 
+|Salvador Perez     |C         |     19|  6|  11|  2|  1| 
+|Andrew Vaughn      |1B        |     19|  5|   7|  1|  0| 
 |Ceddanne Rafaela   |2B        |     17|  2|   6|  0|  1| 
 |Junior Caminero    |3B        |     25|  8|   9|  2|  0| 
 |Zach Neto          |SS        |     25| 12|  13|  3|  3| 
@@ -14,11 +14,11 @@
 |Sal Stewart        |CI        |     24| 12|  14|  5|  0| 
 |Fernando Tatis Jr. |OF        |     21| 11|  13|  6|  3| 
 |JJ Bleday          |OF        |     20|  7|   8|  2|  0| 
-|Joshua Báez        |OF        |     13|  6|   8|  3|  2| 
+|Joshua Báez        |OF        |     15|  6|   9|  3|  2| 
 |Mike Trout         |OF        |     21|  6|   5|  0|  1| 
 |José Caballero     |DH        |     12|  5|   5|  1|  1| 
 |Max Clark          |DH        |     16|  7|   5|  1|  1| 
-|Mookie Betts       |DH        |     24|  6|  11|  2|  0| 
+|Mookie Betts       |DH        |     26|  7|  11|  2|  0| 
 |Ty France          |DH        |     26|  6|  11|  3|  0| 
 |Aaron Judge        |BAT BENCH |     **| **|  **| **| **| 
 |James Wood         |BAT BENCH |      1|  0|   0|  0|  0| 
