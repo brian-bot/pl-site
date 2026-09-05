@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Francisco Alvarez |C         |      6|  0|   4|  0|  0| 
-|Michael Busch     |1B        |     20| 10|   5|  3|  0| 
-|Nico Hoerner      |2B        |     14|  4|   4|  1|  2| 
-|Max Muncy         |3B        |     16|  3|   5|  1|  0| 
-|Bobby Witt Jr.    |SS        |     25| 11|   4|  1|  5| 
-|Kevin McGonigle   |MI        |     15|  4|   8|  1|  0| 
+|Francisco Alvarez |C         |      8|  2|   6|  2|  0| 
+|Michael Busch     |1B        |     22| 12|   6|  4|  0| 
+|Nico Hoerner      |2B        |     17|  4|   5|  1|  2| 
+|Max Muncy         |3B        |     17|  3|   5|  1|  0| 
+|Bobby Witt Jr.    |SS        |     27| 12|   5|  2|  5| 
+|Kevin McGonigle   |MI        |     19|  5|   9|  1|  0| 
 |Freddie Freeman   |CI        |     26|  9|   8|  1|  1| 
-|Cedric Mullins    |OF        |     16|  6|   5|  1|  0| 
-|Henry Bolte       |OF        |     31| 12|   5|  2|  1| 
-|Jarren Duran      |OF        |     13|  5|   7|  3|  1| 
+|Cedric Mullins    |OF        |     17|  6|   6|  1|  0| 
+|Henry Bolte       |OF        |     33| 13|   5|  2|  1| 
+|Jarren Duran      |OF        |     14|  5|   7|  3|  1| 
 |Kyle Schwarber    |OF        |     17|  9|  10|  3|  0| 
 |Bryce Harper      |DH        |     32|  7|   8|  2|  0| 
-|Cole Young        |DH        |     15|  8|   1|  1|  0| 
-|Corey Seager      |DH        |     27| 12|   7|  2|  0| 
-|Luis Arraez       |DH        |     17|  5|   3|  1|  0| 
-|J.T. Realmuto     |BAT BENCH |     14|  8|   5|  2|  0| 
-|Oneil Cruz        |BAT BENCH |     25|  9|  14|  3|  5| 
+|Cole Young        |DH        |     16|  9|   2|  1|  0| 
+|Corey Seager      |DH        |     29| 12|   7|  2|  0| 
+|Luis Arraez       |DH        |     19|  6|   3|  1|  0| 
+|J.T. Realmuto     |BAT BENCH |     15|  8|   5|  2|  0| 
+|Oneil Cruz        |BAT BENCH |     26|  9|  14|  3|  5| 
 |Samad Taylor      |BAT BENCH |      5|  2|   0|  0|  1| 
 |Spencer Steer     |BAT BENCH |     **| **|  **| **| **| 
 
@@ -41,8 +41,8 @@
 |Troy Melton      |SP          |  3| 18.000| 11|  5.500|     24| 1.333| 11|  0|  0| 
 |Gregory Soto     |RP          |  7|  7.000|  0|  0.000|      5| 0.714|  5|  1|  0| 
 |Jacob Latz       |RP          |  5|  4.667|  0|  0.000|      4| 0.857| 10|  0|  4| 
-|Grant Taylor     |OP          |  7|  8.000|  1|  1.125|      8| 1.000| 13|  3|  2| 
-|Kumar Rocker     |OP          |  3| 13.667|  6|  3.951|     23| 1.683| 18|  1|  0| 
+|Grant Taylor     |OP          |  8|  9.000|  2|  2.000|     11| 1.222| 13|  3|  2| 
+|Kumar Rocker     |OP          |  4| 18.667| 11|  5.304|     32| 1.714| 21|  1|  0| 
 |Landen Roupp     |OP          |  3| 15.333|  5|  2.935|     19| 1.239|  9|  1|  0| 
 |Sean Burke       |OP          |  3| 14.667|  6|  3.682|     22| 1.500| 13|  1|  0| 
 |Tyler Phillips   |OP          |  3| 11.667|  2|  1.543|     13| 1.114| 14|  1|  0| 
