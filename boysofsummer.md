@@ -5,26 +5,25 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras |C         |     31| 14|  13|  2|  0| 
-|Nathaniel Lowe    |1B        |     18|  6|   8|  1|  0| 
-|Ezequiel Duran    |2B        |     36| 10|  14|  4|  2| 
-|Nick Gonzales     |3B        |     26|  1|   6|  0|  2| 
-|Otto Lopez        |SS        |     24| 10|   9|  1|  6| 
-|Trea Turner       |MI        |     19|  7|   4|  0|  1| 
-|Jake Bauers       |CI        |     33| 11|   8|  3|  1| 
-|Esmerlyn Valdez   |OF        |     12|  5|   4|  2|  0| 
-|Garrett Mitchell  |OF        |     20| 11|   5|  1|  0| 
-|Heliot Ramos      |OF        |     15|  2|   4|  1|  0| 
-|Michael Harris II |OF        |     23|  8|  12|  4|  3| 
-|Byron Buxton      |DH        |      8|  7|   1|  0|  0| 
-|Iván Herrera      |DH        |     29| 11|  11|  2|  1| 
-|Jung Hoo Lee      |DH        |     20|  4|   7|  0|  4| 
-|Ryan Jeffers      |DH        |     19|  9|  13|  4|  0| 
-|Cooper Pratt      |BAT BENCH |     15|  8|  12|  1|  3| 
-|Josh Jung         |BAT BENCH |     **| **|  **| **| **| 
-|Ketel Marte       |BAT BENCH |      8|  2|   1|  1|  0| 
-|Riley Greene      |BAT BENCH |      8|  4|   8|  2|  0| 
-|Spencer Horwitz   |BAT BENCH |     16|  3|   4|  0|  0| 
+|William Contreras |C         |      0|  0|   0|  0|  0| 
+|Jake Bauers       |1B        |      1|  0|   0|  0|  0| 
+|Ketel Marte       |2B        |      2|  1|   0|  0|  0| 
+|Nick Gonzales     |3B        |     **| **|  **| **| **| 
+|Trea Turner       |SS        |      1|  0|   0|  0|  0| 
+|Otto Lopez        |MI        |      1|  0|   0|  0|  0| 
+|Mickey Gasper     |CI        |      1|  0|   0|  0|  0| 
+|Garrett Mitchell  |OF        |      2|  1|   1|  0|  0| 
+|Jung Hoo Lee      |OF        |      2|  0|   0|  0|  0| 
+|Michael Harris II |OF        |      1|  0|   0|  0|  0| 
+|Riley Greene      |OF        |      3|  1|   2|  1|  0| 
+|Ezequiel Duran    |DH        |     **| **|  **| **| **| 
+|Iván Herrera      |DH        |      2|  0|   0|  0|  0| 
+|Ryan Jeffers      |DH        |      1|  0|   1|  0|  0| 
+|Byron Buxton      |BAT BENCH |     **| **|  **| **| **| 
+|Esmerlyn Valdez   |BAT BENCH |     **| **|  **| **| **| 
+|Heliot Ramos      |BAT BENCH |     **| **|  **| **| **| 
+|Nathaniel Lowe    |BAT BENCH |      1|  1|   3|  1|  0| 
+|Spencer Horwitz   |BAT BENCH |     **| **|  **| **| **| 
 
 
 * * *
@@ -32,23 +31,23 @@
 ### Pitchers
 
  
-|players          |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
-|:----------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Blake Snell      |SP          |  3| 17.000|  1|  0.529|     18| 1.059| 23|  2|  0| 
-|Logan Henderson  |SP          |  3| 20.000|  4|  1.800|     11| 0.550| 18|  2|  0| 
-|MacKenzie Gore   |SP          |  4| 18.000| 10|  5.000|     34| 1.889| 16|  1|  0| 
-|Nick Martinez    |SP          |  4| 22.000| 12|  4.909|     26| 1.182| 17|  2|  0| 
-|Nolan McLean     |SP          |  3| 19.000|  2|  0.947|     20| 1.053| 17|  2|  0| 
-|Tarik Skubal     |SP          |  3| 18.667|  6|  2.893|     21| 1.125| 24|  1|  0| 
-|Mason Miller     |RP          |  8|  9.000|  3|  3.000|      7| 0.778| 18|  1|  3| 
-|Riley O'Brien    |RP          |  8|  6.333|  9| 12.789|     16| 2.526|  5|  0|  5| 
-|Brandyn Garcia   |OP          |  8|  6.667|  0|  0.000|      4| 0.600| 10|  0|  1| 
-|Carlos Rodón     |OP          |  4| 17.667|  5|  2.547|     17| 0.962| 18|  1|  0| 
-|Justin Martinez  |OP          |  6|  5.667|  0|  0.000|      6| 1.059|  7|  1|  0| 
-|Keider Montero   |OP          |  3| 14.333| 10|  6.279|     19| 1.326| 10|  0|  0| 
-|Martín Pérez     |OP          |  3| 13.333|  6|  4.050|     25| 1.875| 11|  0|  0| 
-|Edwin Díaz       |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Garrett Whitlock |PITCH BENCH |  3|  3.000|  0|  0.000|      1| 0.333|  3|  0|  0| 
+|players          |position    |  g| ip| er| era| hitsbb| whip| so|  w| sv| 
+|:----------------|:-----------|--:|--:|--:|---:|------:|----:|--:|--:|--:| 
+|Blake Snell      |SP          | **| **| **|  **|     **|   **| **| **| **| 
+|Logan Henderson  |SP          | **| **| **|  **|     **|   **| **| **| **| 
+|MacKenzie Gore   |SP          | **| **| **|  **|     **|   **| **| **| **| 
+|Nick Martinez    |SP          | **| **| **|  **|     **|   **| **| **| **| 
+|Nolan McLean     |SP          | **| **| **|  **|     **|   **| **| **| **| 
+|Tarik Skubal     |SP          | **| **| **|  **|     **|   **| **| **| **| 
+|Mason Miller     |RP          |  1|  1|  0|   0|      1|    1|  2|  0|  1| 
+|Riley O'Brien    |RP          |  1|  1|  0|   0|      3|    3|  0|  0|  0| 
+|Carlos Rodón     |OP          | **| **| **|  **|     **|   **| **| **| **| 
+|Cesar Perdomo    |OP          | **| **| **|  **|     **|   **| **| **| **| 
+|Davis Martin     |OP          | **| **| **|  **|     **|   **| **| **| **| 
+|Keider Montero   |OP          | **| **| **|  **|     **|   **| **| **| **| 
+|Martín Pérez     |OP          | **| **| **|  **|     **|   **| **| **| **| 
+|Brandyn Garcia   |PITCH BENCH |  1|  1|  0|   0|      1|    1|  2|  0|  0| 
+|Garrett Whitlock |PITCH BENCH |  1|  1|  0|   0|      0|    0|  2|  0|  1| 
 
 
 * * *
