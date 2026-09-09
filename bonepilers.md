@@ -5,24 +5,24 @@
  
 |players                      |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------------------|:---------|------:|--:|---:|--:|--:| 
-|Drake Baldwin                |C         |      0|  0|   0|  0|  0| 
+|Drake Baldwin                |C         |      1|  0|   1|  0|  0| 
 |Royce Lewis                  |1B        |      0|  0|   0|  0|  0| 
-|Brandon Lowe                 |2B        |     **| **|  **| **| **| 
-|Manny Machado                |3B        |      2|  2|   1|  0|  0| 
-|Jeremy Peña                  |SS        |     **| **|  **| **| **| 
-|Travis Bazzana               |MI        |     **| **|  **| **| **| 
-|Nolan Arenado                |CI        |      3|  0|   1|  0|  0| 
-|Cole Carrigg                 |OF        |     **| **|  **| **| **| 
+|Brandon Lowe                 |2B        |      3|  2|   0|  0|  0| 
+|Manny Machado                |3B        |      5|  4|   3|  0|  0| 
+|Jeremy Peña                  |SS        |      1|  0|   1|  0|  0| 
+|Travis Bazzana               |MI        |      2|  1|   3|  1|  0| 
+|Nolan Arenado                |CI        |      5|  0|   1|  0|  0| 
+|Cole Carrigg                 |OF        |      0|  0|   0|  0|  0| 
 |Ian Happ                     |OF        |      1|  0|   0|  0|  0| 
-|Julio Rodríguez              |OF        |     **| **|  **| **| **| 
-|Yordan Alvarez               |OF        |     **| **|  **| **| **| 
-|Carson Benge                 |DH        |      2|  2|   0|  0|  1| 
-|Chandler Simpson             |DH        |     **| **|  **| **| **| 
+|Julio Rodríguez              |OF        |      0|  0|   0|  0|  0| 
+|Yordan Alvarez               |OF        |      0|  0|   0|  0|  0| 
+|Carson Benge                 |DH        |      4|  2|   0|  0|  2| 
+|Chandler Simpson             |DH        |      1|  1|   0|  0|  1| 
 |Chase DeLauter               |DH        |     **| **|  **| **| **| 
-|Jackson Merrill              |DH        |      3|  0|   2|  0|  1| 
+|Jackson Merrill              |DH        |      3|  0|   3|  0|  1| 
 |Charlie Condon               |BAT BENCH |     **| **|  **| **| **| 
-|Christian Encarnacion-Strand |BAT BENCH |      1|  1|   0|  0|  0| 
-|Konnor Griffin               |BAT BENCH |     **| **|  **| **| **| 
+|Christian Encarnacion-Strand |BAT BENCH |      2|  1|   0|  0|  0| 
+|Konnor Griffin               |BAT BENCH |      3|  1|   0|  0|  0| 
 |Nasim Nuñez                  |BAT BENCH |      0|  0|   0|  0|  0| 
 
 
@@ -42,13 +42,13 @@
 |Andrés Muñoz     |RP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Louis Varland    |RP          |  1| 0.667|  1| 13.50|      4| 6.000|  0|  0|  0| 
 |Chase Burns      |OP          |  1| 3.000|  0|  0.00|      1| 0.333|  5|  0|  0| 
-|Freddy Peralta   |OP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Freddy Peralta   |OP          |  1| 6.000|  1|  1.50|      6| 1.000|  2|  1|  0| 
 |Kade Anderson    |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Kenley Jansen    |OP          |  1| 1.000|  0|  0.00|      1| 1.000|  0|  0|  1| 
 |Mason Montgomery |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Ben Joyce        |PITCH BENCH |  1| 1.000|  0|  0.00|      1| 1.000|  0|  0|  0| 
 |Garrett Crochet  |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
-|Quinn Mathews    |PITCH BENCH | **|    **| **|    **|     **|    **| **| **| **| 
+|Quinn Mathews    |PITCH BENCH |  1| 6.000|  2|  3.00|      7| 1.167|  4|  0|  0| 
 
 
 * * *
