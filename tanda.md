@@ -5,25 +5,25 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|Cal Raleigh           |C         |      1|  1|   0|  0|  0| 
-|Matt Olson            |1B        |      2|  0|   0|  0|  0| 
+|Cal Raleigh           |C         |      2|  2|   0|  0|  0| 
+|Matt Olson            |1B        |      3|  0|   1|  0|  0| 
 |Ozzie Albies          |2B        |      1|  0|   0|  0|  0| 
-|José Ramírez          |3B        |      2|  2|   0|  0|  0| 
-|Trevor Story          |SS        |      1|  1|   0|  0|  0| 
-|Luis García Jr.       |MI        |      2|  0|   0|  0|  0| 
-|Vinnie Pasquantino    |CI        |      4|  0|   1|  0|  0| 
-|Cody Bellinger        |OF        |      1|  2|   0|  0|  0| 
-|Heriberto Hernández   |OF        |      1|  0|   0|  0|  0| 
+|José Ramírez          |3B        |      3|  2|   0|  0|  0| 
+|Trevor Story          |SS        |      2|  1|   0|  0|  0| 
+|Luis García Jr.       |MI        |      4|  2|   1|  1|  0| 
+|Vinnie Pasquantino    |CI        |      5|  0|   1|  0|  0| 
+|Cody Bellinger        |OF        |      2|  3|   1|  1|  0| 
+|Heriberto Hernández   |OF        |      3|  1|   0|  0|  0| 
 |Lawrence Butler       |OF        |      0|  0|   0|  0|  0| 
-|Pete Crow-Armstrong   |OF        |      4|  2|   1|  1|  3| 
-|Christian Yelich      |DH        |      1|  1|   1|  0|  0| 
+|Pete Crow-Armstrong   |OF        |      6|  4|   1|  1|  3| 
+|Christian Yelich      |DH        |      2|  2|   4|  1|  0| 
 |Gabriel Moreno        |DH        |      4|  1|   1|  0|  0| 
-|Steven Kwan           |DH        |      3|  2|   0|  0|  0| 
+|Steven Kwan           |DH        |      5|  3|   0|  0|  0| 
 |Zack Gelof            |DH        |      2|  2|   2|  0|  2| 
-|Brandon Marsh         |BAT BENCH |      2|  0|   1|  0|  0| 
-|Caleb Durbin          |BAT BENCH |      4|  1|   0|  0|  0| 
+|Brandon Marsh         |BAT BENCH |      3|  0|   1|  0|  0| 
+|Caleb Durbin          |BAT BENCH |      5|  1|   0|  0|  0| 
 |Luis Robert Jr.       |BAT BENCH |     **| **|  **| **| **| 
-|Vladimir Guerrero Jr. |BAT BENCH |      3|  1|   0|  0|  0| 
+|Vladimir Guerrero Jr. |BAT BENCH |      4|  1|   0|  0|  0| 
 
 
 * * *
@@ -35,7 +35,7 @@
 |:---------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
 |Cade Cavalli    |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Cal Quantrill   |SP          |  1| 6.000|  3|  4.500|      6| 1.000|  4|  1|  0| 
-|Foster Griffin  |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Foster Griffin  |SP          |  1| 2.333|  8| 30.857|      9| 3.857|  4|  0|  0| 
 |Gerrit Cole     |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Hayden Wesneski |SP          |  1| 6.000|  3|  4.500|      5| 0.833|  3|  1|  0| 
 |Michael Wacha   |SP          |  1| 6.000|  0|  0.000|      7| 1.167|  4|  0|  0| 
@@ -48,7 +48,7 @@
 |Yusei Kikuchi   |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Clay Holmes     |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |J.T. Ginn       |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
-|Walker Buehler  |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Walker Buehler  |PITCH BENCH |  1| 2.333|  2|  7.714|      5| 2.143|  4|  0|  0| 
 
 
 * * *

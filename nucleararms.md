@@ -5,21 +5,21 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Dillon Dingler    |C         |      0|  0|   0|  0|  0| 
-|Yandy Díaz        |1B        |      2|  1|   2|  1|  0| 
-|Luke Keaschall    |2B        |      6|  2|   0|  0|  1| 
+|Dillon Dingler    |C         |      1|  0|   2|  0|  0| 
+|Yandy Díaz        |1B        |      3|  1|   3|  1|  0| 
+|Luke Keaschall    |2B        |      7|  2|   0|  0|  1| 
 |Austin Riley      |3B        |      2|  0|   0|  0|  0| 
 |Gunnar Henderson  |SS        |      2|  0|   0|  0|  0| 
 |Colson Montgomery |MI        |      0|  0|   1|  0|  0| 
-|Pete Alonso       |CI        |      5|  1|   3|  1|  0| 
+|Pete Alonso       |CI        |      8|  2|   3|  1|  0| 
 |Bryan Reynolds    |OF        |      2|  2|   2|  0|  0| 
-|Jake McCarthy     |OF        |      1|  0|   0|  0|  0| 
-|Seiya Suzuki      |OF        |      3|  1|   0|  0|  0| 
-|Teoscar Hernández |OF        |      7|  3|   4|  1|  1| 
-|Dylan Crews       |DH        |      4|  1|   2|  1|  0| 
-|Jackson Holliday  |DH        |      3|  3|   1|  0|  0| 
-|Ronald Acuña Jr.  |DH        |      2|  1|   0|  0|  0| 
-|TJ Rumfield       |DH        |      2|  1|   0|  0|  0| 
+|Jake McCarthy     |OF        |      2|  0|   0|  0|  0| 
+|Seiya Suzuki      |OF        |      4|  2|   0|  0|  0| 
+|Teoscar Hernández |OF        |      9|  4|   6|  1|  1| 
+|Dylan Crews       |DH        |      6|  1|   3|  1|  0| 
+|Jackson Holliday  |DH        |      4|  4|   2|  0|  0| 
+|Ronald Acuña Jr.  |DH        |      3|  1|   0|  0|  0| 
+|TJ Rumfield       |DH        |      3|  1|   0|  0|  0| 
 |Abimelec Ortiz    |BAT BENCH |      2|  2|   0|  0|  0| 
 |Giancarlo Stanton |BAT BENCH |     **| **|  **| **| **| 
 |Shea Langeliers   |BAT BENCH |     **| **|  **| **| **| 
@@ -40,15 +40,15 @@
 |Tyler Glasnow   |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Jacob Webb      |RP          |  2| 1.667|  2| 10.800|      3| 1.800|  2|  0|  0| 
 |Josh Hader      |RP          |  1| 1.000|  1|  9.000|      2| 2.000|  0|  0|  1| 
-|Andre Pallante  |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Andre Pallante  |OP          |  1| 5.000|  1|  1.800|      5| 1.000|  4|  0|  0| 
 |Brayan Bello    |OP          |  1| 5.000|  0|  0.000|      6| 1.200|  7|  1|  0| 
-|Cody Bradford   |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Cody Bradford   |OP          |  1| 4.000|  3|  6.750|      6| 1.500|  1|  0|  0| 
 |Jacob Lopez     |OP          |  1| 6.000|  4|  6.000|      8| 1.333|  1|  0|  0| 
 |Yoendrys Gómez  |OP          |  1| 1.000|  0|  0.000|      0| 0.000|  1|  0|  1| 
 |Corbin Burnes   |PITCH BENCH |  1| 3.000|  0|  0.000|      4| 1.333|  2|  0|  0| 
 |Max Meyer       |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Roki Sasaki     |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
-|Tatsuya Imai    |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
+|Tatsuya Imai    |PITCH BENCH |  1| 2.000|  0|  0.000|      4| 2.000|  3|  0|  0| 
 
 
 * * *

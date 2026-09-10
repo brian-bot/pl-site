@@ -48,7 +48,7 @@
 |Ian Seymour       |OP          |  4| 20.000| 12|  5.400|     26| 1.300| 25|  0|  0| 
 |Noah Cameron      |OP          |  3| 16.000|  6|  3.375|     19| 1.188| 12|  2|  0| 
 |Reid Detmers      |OP          |  3| 19.000|  2|  0.947|     21| 1.105| 15|  0|  0| 
-|Griffin Jax       |PITCH BENCH |  1|  2.667|  3| 10.125|      9| 3.375|  1|  0|  0| 
+|Griffin Jax       |PITCH BENCH |  1|  2.667|  6| 20.250|      9| 3.375|  1|  0|  0| 
 |Joe Ryan          |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 |Kris Bubic        |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 
