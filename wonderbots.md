@@ -8,7 +8,7 @@
 |Salvador Perez     |C         |      5|  0|   3|  0|  0| 
 |Andrew Vaughn      |1B        |      2|  0|   0|  0|  0| 
 |Fernando Tatis Jr. |2B        |      7|  3|   1|  0|  1| 
-|Junior Caminero    |3B        |      5|  2|   1|  1|  0| 
+|Junior Caminero    |3B        |      6|  2|   1|  1|  0| 
 |Zach Neto          |SS        |      8|  2|   5|  2|  0| 
 |CJ Abrams          |MI        |      1|  1|   0|  0|  0| 
 |Sal Stewart        |CI        |      3|  0|   0|  0|  0| 
@@ -35,7 +35,7 @@
 |:-----------------|:-----------|--:|-----:|--:|-----:|------:|-----:|--:|--:|--:| 
 |Gavin Williams    |SP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Jacob Misiorowski |SP          |  1| 6.333|  1| 1.421|      6| 0.947|  9|  0|  0| 
-|Logan Gilbert     |SP          | **|    **| **|    **|     **|    **| **| **| **| 
+|Logan Gilbert     |SP          |  1| 7.000|  3| 3.857|      5| 0.714| 11|  1|  0| 
 |Ranger Suarez     |SP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Shane Baz         |SP          |  1| 5.667|  5| 7.941|      7| 1.235|  5|  1|  0| 
 |Walbert Ureña     |SP          | **|    **| **|    **|     **|    **| **| **| **| 

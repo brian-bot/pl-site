@@ -8,17 +8,17 @@
 |Will Smith       |C         |      4|  3|   2|  1|  0| 
 |Rafael Devers    |1B        |      4|  1|   1|  0|  0| 
 |Tommy Edman      |2B        |      2|  0|   1|  0|  0| 
-|Kyle Karros      |3B        |      1|  0|   0|  0|  0| 
+|Kyle Karros      |3B        |      2|  1|   1|  1|  0| 
 |Francisco Lindor |SS        |      6|  5|   4|  2|  0| 
 |Thomas Saggese   |MI        |      4|  1|   0|  0|  0| 
 |Alex Bregman     |CI        |      5|  0|   1|  0|  0| 
-|Dominic Canzone  |OF        |      2|  0|   1|  0|  0| 
+|Dominic Canzone  |OF        |      3|  1|   2|  0|  0| 
 |George Springer  |OF        |      0|  0|   0|  0|  0| 
 |Jakob Marsee     |OF        |      9|  3|   4|  0|  0| 
 |Juan Soto        |OF        |      7|  4|   3|  1|  0| 
-|Christian Walker |DH        |      3|  1|   3|  1|  0| 
+|Christian Walker |DH        |      4|  2|   3|  1|  0| 
 |Jonathan Aranda  |DH        |      3|  1|   0|  0|  0| 
-|Miguel Vargas    |DH        |      0|  0|   0|  0|  0| 
+|Miguel Vargas    |DH        |      1|  0|   0|  0|  1| 
 |Roman Anthony    |DH        |      3|  2|   2|  1|  0| 
 |Alejandro Kirk   |BAT BENCH |      5|  1|   2|  1|  0| 
 |Brendan Donovan  |BAT BENCH |     **| **|  **| **| **| 

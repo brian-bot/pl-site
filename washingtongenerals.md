@@ -14,12 +14,12 @@
 |Freddie Freeman   |CI        |      1|  1|   0|  0|  1| 
 |Cedric Mullins    |OF        |      1|  1|   1|  0|  0| 
 |Henry Bolte       |OF        |      7|  4|   2|  2|  3| 
-|Kyle Schwarber    |OF        |      4|  3|   6|  2|  0| 
-|Oneil Cruz        |OF        |      4|  1|   2|  0|  0| 
+|Kyle Schwarber    |OF        |      5|  3|   6|  2|  0| 
+|Oneil Cruz        |OF        |      7|  2|   4|  1|  0| 
 |Bryce Harper      |DH        |      4|  1|   2|  0|  0| 
-|Cole Young        |DH        |      3|  1|   2|  0|  0| 
+|Cole Young        |DH        |      4|  1|   2|  0|  0| 
 |Corey Seager      |DH        |      4|  2|   2|  2|  0| 
-|Luis Arraez       |DH        |      5|  1|   1|  0|  0| 
+|Luis Arraez       |DH        |      6|  2|   1|  0|  0| 
 |Francisco Alvarez |BAT BENCH |      3|  1|   1|  0|  0| 
 |Jarren Duran      |BAT BENCH |      5|  3|   1|  1|  0| 
 |Samad Taylor      |BAT BENCH |      2|  1|   0|  0|  0| 
@@ -35,7 +35,7 @@
 |:----------------|:-----------|--:|-----:|--:|------:|------:|-----:|--:|--:|--:| 
 |Anthony Kay      |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Dustin May       |SP          | **|    **| **|     **|     **|    **| **| **| **| 
-|Jacob deGrom     |SP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Jacob deGrom     |SP          |  1| 6.000|  0|  0.000|      1| 0.167| 12|  0|  0| 
 |Michael McGreevy |SP          |  1| 6.667|  2|  2.700|      8| 1.200|  4|  0|  0| 
 |Sonny Gray       |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Troy Melton      |SP          |  1| 5.667|  4|  6.353|      8| 1.412|  3|  1|  0| 

@@ -5,15 +5,15 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Ben Rice          |C         |      2|  1|   0|  0|  0| 
+|Ben Rice          |C         |      3|  2|   0|  0|  0| 
 |Alec Burleson     |1B        |      7|  3|   1|  1|  0| 
 |Jazz Chisholm Jr. |2B        |      2|  0|   0|  0|  0| 
-|Isaac Paredes     |3B        |      5|  1|   3|  1|  0| 
+|Isaac Paredes     |3B        |      6|  1|   3|  1|  0| 
 |Bo Bichette       |SS        |      8|  1|   2|  0|  0| 
 |Brooks Lee        |MI        |      3|  1|   0|  0|  1| 
 |Josh Bell         |CI        |      3|  1|   2|  1|  0| 
 |Jo Adell          |OF        |      6|  2|   2|  0|  0| 
-|Randy Arozarena   |OF        |      3|  1|   1|  0|  0| 
+|Randy Arozarena   |OF        |      5|  2|   1|  0|  0| 
 |Sam Antonacci     |OF        |      2|  0|   1|  0|  0| 
 |Wilyer Abreu      |OF        |      5|  1|   1|  1|  0| 
 |Braden Montgomery |DH        |      4|  1|   1|  0|  0| 

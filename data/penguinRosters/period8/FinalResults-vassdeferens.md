@@ -15,7 +15,7 @@
 |Bryson Stott      |MI        |     13|  7|   4|  1|  1| 
 |Spencer Torkelson |CI        |     15|  3|   3|  2|  0| 
 |Corbin Carroll    |OF        |     21|  8|   4|  1|  4| 
-|Daylen Lile       |OF        |     32| 13|  17|  5|  2| 
+|Daylen Lile       |OF        |     31| 13|  16|  5|  2| 
 |Griffin Conine    |OF        |     23| 10|   5|  2|  2| 
 |Jackson Chourio   |OF        |     29| 16|  10|  4|  4| 
 |Eduardo Valencia  |DH        |      6|  2|   1|  0|  0| 

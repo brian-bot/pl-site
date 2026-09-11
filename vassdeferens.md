@@ -7,10 +7,10 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Liam Hicks        |C         |      4|  1|   3|  1|  0| 
 |Josh Naylor       |1B        |      2|  2|   0|  0|  0| 
-|Jose Altuve       |2B        |      1|  1|   0|  0|  0| 
+|Jose Altuve       |2B        |      3|  1|   0|  0|  0| 
 |JJ Wetherholt     |3B        |     **| **|  **| **| **| 
 |Geraldo Perdomo   |SS        |      4|  1|   2|  0|  0| 
-|Bryson Stott      |MI        |      3|  2|   0|  0|  0| 
+|Bryson Stott      |MI        |      3|  2|   1|  0|  0| 
 |Spencer Torkelson |CI        |      1|  1|   0|  0|  0| 
 |Corbin Carroll    |OF        |      0|  1|   0|  0|  0| 
 |Daylen Lile       |OF        |      0|  0|   0|  0|  0| 
@@ -22,7 +22,7 @@
 |Munetaka Murakami |DH        |      2|  1|   1|  1|  0| 
 |Adley Rutschman   |BAT BENCH |      1|  1|   3|  1|  0| 
 |Eduardo Valencia  |BAT BENCH |      1|  0|   0|  0|  0| 
-|Taylor Ward       |BAT BENCH |      2|  1|   1|  0|  0| 
+|Taylor Ward       |BAT BENCH |      3|  1|   1|  0|  0| 
 
 
 * * *
@@ -39,12 +39,12 @@
 |Tyler Mahle    |SP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Zebby Matthews |SP          |  1| 2.333|  5| 19.286|      6| 2.571|  2|  0|  0| 
 |Hogan Harris   |RP          |  2| 2.333|  1|  3.857|      2| 0.857|  1|  1|  0| 
-|Jhoan Duran    |RP          |  1| 1.000|  0|  0.000|      0| 0.000|  2|  0|  0| 
+|Jhoan Duran    |RP          |  2| 2.000|  1|  4.500|      1| 0.500|  3|  0|  0| 
 |Brady Singer   |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |Jordan Romano  |OP          | **|    **| **|     **|     **|    **| **| **| **| 
 |José Soriano   |OP          |  1| 7.000|  2|  2.571|      7| 1.000|  3|  1|  0| 
 |Kodai Senga    |OP          |  1| 1.000|  1|  9.000|      2| 2.000|  2|  0|  1| 
-|Max Fried      |OP          | **|    **| **|     **|     **|    **| **| **| **| 
+|Max Fried      |OP          |  1| 3.333|  1|  2.700|      3| 0.900|  7|  0|  0| 
 |Jack Leiter    |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
 |Jack Perkins   |PITCH BENCH |  1| 5.000|  4|  7.200|      7| 1.400|  3|  0|  0| 
 |Seth Lugo      |PITCH BENCH | **|    **| **|     **|     **|    **| **| **| **| 
