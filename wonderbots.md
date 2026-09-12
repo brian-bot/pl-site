@@ -5,25 +5,25 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez     |C         |      5|  0|   3|  0|  0| 
-|Andrew Vaughn      |1B        |      2|  0|   0|  0|  0| 
-|Fernando Tatis Jr. |2B        |      7|  3|   1|  0|  1| 
-|Junior Caminero    |3B        |      6|  2|   1|  1|  0| 
+|Salvador Perez     |C         |      7|  0|   4|  0|  0| 
+|Andrew Vaughn      |1B        |      4|  1|   1|  0|  0| 
+|Fernando Tatis Jr. |2B        |      9|  3|   1|  0|  1| 
+|Junior Caminero    |3B        |      7|  3|   3|  2|  0| 
 |Zach Neto          |SS        |      8|  2|   5|  2|  0| 
-|CJ Abrams          |MI        |      1|  1|   0|  0|  0| 
-|Sal Stewart        |CI        |      3|  0|   0|  0|  0| 
-|James Wood         |OF        |      3|  0|   0|  0|  0| 
+|CJ Abrams          |MI        |      3|  2|   0|  0|  0| 
+|Sal Stewart        |CI        |      5|  0|   0|  0|  0| 
+|James Wood         |OF        |      5|  0|   1|  0|  1| 
 |JJ Bleday          |OF        |      1|  0|   0|  0|  0| 
-|Joshua Báez        |OF        |      2|  2|   0|  0|  0| 
-|Mike Trout         |OF        |      4|  2|   0|  0|  0| 
-|Aaron Judge        |DH        |      2|  1|   0|  0|  0| 
-|Max Clark          |DH        |      4|  2|   0|  0|  1| 
-|Mookie Betts       |DH        |      5|  4|   2|  1|  0| 
+|Joshua Báez        |OF        |      5|  4|   2|  0|  0| 
+|Mike Trout         |OF        |      6|  3|   1|  1|  0| 
+|Aaron Judge        |DH        |      4|  1|   0|  0|  0| 
+|Max Clark          |DH        |      7|  4|   1|  1|  2| 
+|Mookie Betts       |DH        |      6|  5|   2|  1|  0| 
 |Ty France          |DH        |      6|  2|   1|  0|  0| 
 |Ceddanne Rafaela   |BAT BENCH |     **| **|  **| **| **| 
-|José Caballero     |BAT BENCH |      0|  0|   0|  0|  0| 
-|Owen Caissie       |BAT BENCH |      4|  3|   2|  1|  0| 
-|Paul Goldschmidt   |BAT BENCH |     **| **|  **| **| **| 
+|José Caballero     |BAT BENCH |      0|  1|   0|  0|  0| 
+|Owen Caissie       |BAT BENCH |      4|  3|   3|  1|  0| 
+|Paul Goldschmidt   |BAT BENCH |      0|  0|   0|  0|  0| 
 
 
 * * *
@@ -39,8 +39,8 @@
 |Ranger Suarez     |SP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Shane Baz         |SP          |  1| 5.667|  5| 7.941|      7| 1.235|  5|  1|  0| 
 |Walbert Ureña     |SP          | **|    **| **|    **|     **|    **| **| **| **| 
-|Bryan Baker       |RP          |  1| 1.000|  0| 0.000|      0| 0.000|  0|  0|  0| 
-|David Bednar      |RP          |  1| 0.333|  0| 0.000|      0| 0.000|  1|  0|  1| 
+|Bryan Baker       |RP          |  2| 2.000|  0| 0.000|      1| 0.500|  1|  1|  0| 
+|David Bednar      |RP          |  2| 2.000|  1| 4.500|      2| 1.000|  2|  0|  2| 
 |Braxton Ashcraft  |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Ian Seymour       |OP          | **|    **| **|    **|     **|    **| **| **| **| 
 |Joe Ryan          |OP          |  1| 4.000|  2| 4.500|      4| 1.000|  7|  0|  0| 
