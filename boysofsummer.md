@@ -6,23 +6,23 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |William Contreras |C         |     10|  6|  12|  3|  0| 
-|Jake Bauers       |1B        |      5|  3|   4|  1|  0| 
-|Ketel Marte       |2B        |      8|  4|   5|  0|  0| 
-|Nick Gonzales     |3B        |      4|  0|   0|  0|  0| 
-|Trea Turner       |SS        |      6|  3|   4|  2|  1| 
-|Otto Lopez        |MI        |     15|  4|   4|  0|  0| 
+|Jake Bauers       |1B        |      6|  4|   5|  2|  0| 
+|Ketel Marte       |2B        |     10|  4|   5|  0|  0| 
+|Nick Gonzales     |3B        |      5|  1|   1|  0|  0| 
+|Trea Turner       |SS        |      9|  4|   5|  2|  1| 
+|Otto Lopez        |MI        |     16|  4|   6|  0|  0| 
 |Mickey Gasper     |CI        |      3|  2|   1|  1|  0| 
-|Garrett Mitchell  |OF        |      9|  7|   9|  2|  2| 
+|Garrett Mitchell  |OF        |     10|  7|   9|  2|  2| 
 |Jung Hoo Lee      |OF        |      5|  1|   2|  0|  0| 
-|Michael Harris II |OF        |      6|  2|   3|  1|  1| 
-|Riley Greene      |OF        |     10|  3|   6|  1|  0| 
-|Ezequiel Duran    |DH        |      3|  1|   2|  0|  0| 
-|Iván Herrera      |DH        |      8|  2|   0|  0|  0| 
+|Michael Harris II |OF        |      9|  4|   3|  1|  1| 
+|Riley Greene      |OF        |     12|  4|   9|  2|  0| 
+|Ezequiel Duran    |DH        |      5|  2|   2|  0|  0| 
+|Iván Herrera      |DH        |      8|  3|   0|  0|  0| 
 |Ryan Jeffers      |DH        |      5|  0|   1|  0|  0| 
 |Byron Buxton      |BAT BENCH |     **| **|  **| **| **| 
 |Esmerlyn Valdez   |BAT BENCH |      4|  2|   2|  1|  0| 
 |Heliot Ramos      |BAT BENCH |      2|  1|   3|  1|  0| 
-|Nathaniel Lowe    |BAT BENCH |      4|  3|   5|  2|  0| 
+|Nathaniel Lowe    |BAT BENCH |      6|  3|   6|  2|  0| 
 |Spencer Horwitz   |BAT BENCH |      6|  1|   3|  0|  0| 
 
 
@@ -46,8 +46,8 @@
 |Davis Martin     |OP          |  1| 5.000|  1| 1.800|      6| 1.200|  1|  0|  0| 
 |Keider Montero   |OP          |  1| 4.000|  2| 4.500|      4| 1.000|  2|  0|  0| 
 |Martín Pérez     |OP          |  1| 7.000|  0| 0.000|      6| 0.857|  4|  0|  0| 
-|Brandyn Garcia   |PITCH BENCH |  1| 1.000|  0| 0.000|      1| 1.000|  2|  0|  0| 
-|Garrett Whitlock |PITCH BENCH |  2| 2.000|  0| 0.000|      0| 0.000|  5|  0|  1| 
+|Brandyn Garcia   |PITCH BENCH |  2| 2.000|  0| 0.000|      1| 0.500|  3|  0|  0| 
+|Garrett Whitlock |PITCH BENCH |  3| 2.667|  0| 0.000|      1| 0.375|  6|  1|  1| 
 
 
 * * *
