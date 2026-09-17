@@ -6,23 +6,23 @@
 |players                      |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------------------|:---------|------:|--:|---:|--:|--:| 
 |Drake Baldwin                |C         |     14|  5|   8|  2|  0| 
-|Royce Lewis                  |1B        |      4|  1|   2|  0|  1| 
-|Brandon Lowe                 |2B        |     10|  4|   3|  1|  0| 
-|Manny Machado                |3B        |     12|  7|   6|  2|  0| 
-|Jeremy Peña                  |SS        |      9|  4|   3|  2|  0| 
+|Royce Lewis                  |1B        |      4|  1|   3|  0|  1| 
+|Brandon Lowe                 |2B        |     13|  5|   5|  2|  0| 
+|Manny Machado                |3B        |     13|  8|   6|  2|  0| 
+|Jeremy Peña                  |SS        |     12|  4|   3|  2|  0| 
 |Travis Bazzana               |MI        |     15|  8|   9|  4|  1| 
-|Nolan Arenado                |CI        |     17|  4|   6|  3|  0| 
+|Nolan Arenado                |CI        |     19|  5|   7|  4|  0| 
 |Cole Carrigg                 |OF        |     10|  3|   6|  3|  0| 
-|Ian Happ                     |OF        |      9|  3|   1|  0|  0| 
-|Julio Rodríguez              |OF        |     11|  3|   5|  1|  1| 
-|Yordan Alvarez               |OF        |      7|  2|   3|  1|  0| 
+|Ian Happ                     |OF        |     10|  3|   1|  0|  0| 
+|Julio Rodríguez              |OF        |     14|  3|   5|  1|  2| 
+|Yordan Alvarez               |OF        |      8|  2|   3|  1|  0| 
 |Carson Benge                 |DH        |     14|  7|   4|  2|  2| 
-|Chandler Simpson             |DH        |     10|  6|   2|  0|  2| 
+|Chandler Simpson             |DH        |     12|  6|   3|  0|  3| 
 |Chase DeLauter               |DH        |      7|  1|   2|  1|  1| 
-|Jackson Merrill              |DH        |     18|  6|  13|  3|  2| 
+|Jackson Merrill              |DH        |     21|  7|  13|  3|  2| 
 |Charlie Condon               |BAT BENCH |     **| **|  **| **| **| 
-|Christian Encarnacion-Strand |BAT BENCH |     11|  5|   2|  1|  0| 
-|Konnor Griffin               |BAT BENCH |      9|  3|   2|  0|  2| 
+|Christian Encarnacion-Strand |BAT BENCH |     14|  8|   4|  2|  0| 
+|Konnor Griffin               |BAT BENCH |     11|  4|   2|  0|  2| 
 |Nasim Nuñez                  |BAT BENCH |      3|  1|   0|  0|  1| 
 
 
@@ -37,10 +37,10 @@
 |Hunter Brown     |SP          |  2| 10.000|  5| 4.500|     12| 1.200| 17|  1|  0| 
 |Kevin Gausman    |SP          |  2|  9.667|  8| 7.448|     15| 1.552| 12|  0|  0| 
 |Kyle Harrison    |SP          |  1|  0.000|  4|   Inf|      4|   Inf|  0|  0|  0| 
-|Parker Messick   |SP          |  1|  5.333|  1| 1.688|      5| 0.938|  5|  0|  0| 
-|Zack Wheeler     |SP          |  1|  7.000|  1| 1.286|      7| 1.000|  9|  0|  0| 
-|Andrés Muñoz     |RP          |  3|  2.667|  2| 6.750|      5| 1.875|  3|  0|  2| 
-|Louis Varland    |RP          |  4|  4.333|  2| 4.154|      7| 1.615|  6|  0|  0| 
+|Parker Messick   |SP          |  2| 11.333|  4| 3.176|     12| 1.059| 13|  1|  0| 
+|Zack Wheeler     |SP          |  2| 14.000|  1| 0.643|     12| 0.857| 14|  1|  0| 
+|Andrés Muñoz     |RP          |  4|  3.667|  2| 4.909|      7| 1.909|  4|  0|  2| 
+|Louis Varland    |RP          |  5|  5.333|  2| 3.375|      7| 1.312|  8|  0|  1| 
 |Chase Burns      |OP          |  2|  6.000|  2| 3.000|      6| 1.000| 10|  0|  0| 
 |Freddy Peralta   |OP          |  2| 11.000|  1| 0.818|      9| 0.818|  6|  2|  0| 
 |Kade Anderson    |OP          |  2| 10.333|  6| 5.226|     14| 1.355| 10|  1|  0| 

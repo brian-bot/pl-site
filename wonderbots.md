@@ -6,24 +6,24 @@
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
 |Salvador Perez     |C         |     10|  0|   4|  0|  0| 
-|Andrew Vaughn      |1B        |      4|  1|   0|  0|  0| 
-|Fernando Tatis Jr. |2B        |     19|  8|   7|  3|  4| 
-|Junior Caminero    |3B        |     10|  5|   4|  3|  0| 
-|Zach Neto          |SS        |     13|  6|   7|  3|  1| 
-|CJ Abrams          |MI        |      7|  4|   1|  0|  1| 
-|Sal Stewart        |CI        |      9|  2|   0|  0|  0| 
+|Andrew Vaughn      |1B        |      5|  1|   1|  0|  0| 
+|Fernando Tatis Jr. |2B        |     20|  9|   7|  3|  4| 
+|Junior Caminero    |3B        |     11|  6|   4|  3|  0| 
+|Zach Neto          |SS        |     17|  7|   7|  3|  2| 
+|CJ Abrams          |MI        |      8|  4|   1|  0|  1| 
+|Sal Stewart        |CI        |     12|  3|   1|  0|  0| 
 |James Wood         |OF        |     10|  1|   1|  0|  3| 
-|JJ Bleday          |OF        |      6|  2|   1|  0|  0| 
+|JJ Bleday          |OF        |      7|  2|   1|  0|  0| 
 |Joshua Báez        |OF        |      5|  4|   2|  0|  0| 
-|Mike Trout         |OF        |     14|  5|   1|  1|  0| 
+|Mike Trout         |OF        |     16|  5|   1|  1|  0| 
 |Aaron Judge        |DH        |      5|  2|   3|  1|  0| 
-|Max Clark          |DH        |     16|  9|   6|  1|  3| 
-|Mookie Betts       |DH        |     11|  6|   4|  2|  1| 
-|Ty France          |DH        |      9|  3|   2|  0|  0| 
+|Max Clark          |DH        |     17|  9|   6|  1|  3| 
+|Mookie Betts       |DH        |     15|  7|   4|  2|  1| 
+|Ty France          |DH        |     10|  3|   4|  0|  0| 
 |Ceddanne Rafaela   |BAT BENCH |     **| **|  **| **| **| 
-|José Caballero     |BAT BENCH |      4|  3|   3|  1|  1| 
+|José Caballero     |BAT BENCH |      4|  4|   4|  1|  1| 
 |Owen Caissie       |BAT BENCH |      5|  4|   3|  1|  0| 
-|Paul Goldschmidt   |BAT BENCH |      1|  1|   0|  0|  0| 
+|Paul Goldschmidt   |BAT BENCH |      2|  1|   0|  0|  0| 
 
 
 * * *
@@ -40,7 +40,7 @@
 |Shane Baz         |SP          |  2|  9.667|  8| 7.448|     16| 1.655|  7|  1|  0| 
 |Walbert Ureña     |SP          |  1|  6.000|  4| 6.000|     11| 1.833|  7|  0|  0| 
 |Bryan Baker       |RP          |  4|  4.333|  0| 0.000|      2| 0.462|  2|  2|  1| 
-|David Bednar      |RP          |  3|  3.000|  1| 3.000|      3| 1.000|  3|  0|  3| 
+|David Bednar      |RP          |  4|  5.000|  1| 1.800|      6| 1.200|  5|  0|  3| 
 |Braxton Ashcraft  |OP          | **|     **| **|    **|     **|    **| **| **| **| 
 |Ian Seymour       |OP          |  1|  6.000|  2| 3.000|      5| 0.833| 10|  0|  0| 
 |Joe Ryan          |OP          |  2|  8.000|  6| 6.750|     12| 1.500|  8|  0|  0| 
@@ -48,7 +48,7 @@
 |Reid Detmers      |OP          |  2| 12.000|  3| 2.250|     10| 0.833| 17|  2|  0| 
 |Casey Mize        |PITCH BENCH |  2| 10.667|  5| 4.219|     15| 1.406|  7|  1|  0| 
 |Griffin Jax       |PITCH BENCH |  2| 10.000|  1| 0.900|      5| 0.500|  9|  1|  0| 
-|Kris Bubic        |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
+|Kris Bubic        |PITCH BENCH |  1|  1.000|  0| 0.000|      1| 1.000|  2|  0|  0| 
 
 
 * * *
