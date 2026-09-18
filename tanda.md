@@ -9,19 +9,19 @@
 |Matt Olson            |1B        |     13|  2|   6|  2|  0| 
 |Ozzie Albies          |2B        |      8|  7|   3|  1|  1| 
 |José Ramírez          |3B        |      6|  2|   1|  0|  2| 
-|Trevor Story          |SS        |      9|  2|   2|  0|  1| 
+|Trevor Story          |SS        |     11|  3|   5|  1|  1| 
 |Luis García Jr.       |MI        |      9|  4|   3|  2|  0| 
 |Vinnie Pasquantino    |CI        |      9|  1|   3|  1|  0| 
 |Cody Bellinger        |OF        |     17|  9|   9|  4|  2| 
 |Heriberto Hernández   |OF        |     14|  2|   1|  0|  0| 
-|Lawrence Butler       |OF        |      8|  3|   6|  3|  0| 
+|Lawrence Butler       |OF        |     10|  4|   7|  4|  0| 
 |Pete Crow-Armstrong   |OF        |     16|  9|   9|  4|  4| 
 |Christian Yelich      |DH        |      8|  6|   7|  1|  0| 
 |Gabriel Moreno        |DH        |     19|  6|   6|  3|  1| 
 |Steven Kwan           |DH        |     17|  7|   3|  1|  1| 
-|Zack Gelof            |DH        |      7|  5|   4|  1|  2| 
-|Brandon Marsh         |BAT BENCH |      3|  1|   1|  0|  0| 
-|Caleb Durbin          |BAT BENCH |     14|  5|   2|  1|  2| 
+|Zack Gelof            |DH        |      8|  5|   4|  1|  2| 
+|Brandon Marsh         |BAT BENCH |      4|  2|   1|  0|  0| 
+|Caleb Durbin          |BAT BENCH |     15|  5|   2|  1|  2| 
 |Luis Robert Jr.       |BAT BENCH |     **| **|  **| **| **| 
 |Vladimir Guerrero Jr. |BAT BENCH |     16|  4|   2|  1|  0| 
 
@@ -42,7 +42,7 @@
 |Emilio Pagán    |RP          |  3|  3.000|  0|  0.000|      2| 0.667|  5|  0|  1| 
 |Raisel Iglesias |RP          |  3|  3.000|  1|  3.000|      3| 1.000|  2|  0|  2| 
 |Brandon Young   |OP          |  2|  8.667|  7|  7.269|     20| 2.308|  8|  0|  0| 
-|Framber Valdez  |OP          |  1|  6.000|  0|  0.000|      8| 1.333|  2|  1|  0| 
+|Framber Valdez  |OP          |  2| 11.000|  3|  2.455|     15| 1.364| 10|  1|  0| 
 |Logan Webb      |OP          |  2| 11.000|  7|  5.727|     14| 1.273| 15|  0|  0| 
 |Tanner Bibee    |OP          |  2| 11.000|  7|  5.727|     13| 1.182|  8|  1|  0| 
 |Yusei Kikuchi   |OP          |  2|  8.333|  5|  5.400|     17| 2.040|  9|  0|  0| 

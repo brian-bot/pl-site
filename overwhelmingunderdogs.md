@@ -7,19 +7,19 @@
 |:----------------|:---------|------:|--:|---:|--:|--:| 
 |Will Smith       |C         |     11|  4|   4|  1|  0| 
 |Rafael Devers    |1B        |      7|  3|   7|  2|  0| 
-|Tommy Edman      |2B        |      7|  2|   2|  0|  0| 
-|Kyle Karros      |3B        |     10|  3|   3|  2|  0| 
-|Francisco Lindor |SS        |     15|  7|   9|  4|  0| 
+|Tommy Edman      |2B        |      8|  2|   2|  0|  0| 
+|Kyle Karros      |3B        |     11|  3|   4|  2|  0| 
+|Francisco Lindor |SS        |     16|  7|   9|  4|  0| 
 |Thomas Saggese   |MI        |     10|  5|   1|  0|  1| 
 |Alex Bregman     |CI        |     17|  4|   7|  2|  0| 
 |Dominic Canzone  |OF        |     13|  5|   5|  1|  0| 
 |George Springer  |OF        |     13|  4|   5|  1|  0| 
 |Jakob Marsee     |OF        |     19|  8|   7|  2|  1| 
-|Juan Soto        |OF        |     15|  7|   5|  2|  1| 
+|Juan Soto        |OF        |     17|  7|   5|  2|  1| 
 |Christian Walker |DH        |      5|  2|   3|  1|  0| 
-|Jonathan Aranda  |DH        |     10|  3|   3|  2|  0| 
-|Miguel Vargas    |DH        |     10|  3|   5|  1|  3| 
-|Roman Anthony    |DH        |      9|  3|   3|  1|  0| 
+|Jonathan Aranda  |DH        |     12|  4|   4|  2|  0| 
+|Miguel Vargas    |DH        |     11|  3|   5|  1|  3| 
+|Roman Anthony    |DH        |     10|  3|   4|  1|  0| 
 |Alejandro Kirk   |BAT BENCH |     13|  3|   7|  2|  0| 
 |Brendan Donovan  |BAT BENCH |     **| **|  **| **| **| 
 |Trent Grisham    |BAT BENCH |     **| **|  **| **| **| 
