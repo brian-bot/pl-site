@@ -5,25 +5,25 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras |C         |     12|  7|  12|  3|  0| 
-|Jake Bauers       |1B        |     10|  6|   5|  2|  1| 
+|William Contreras |C         |     14|  8|  13|  3|  0| 
+|Jake Bauers       |1B        |     11|  6|   5|  2|  1| 
 |Ketel Marte       |2B        |     14|  4|   6|  0|  0| 
-|Nick Gonzales     |3B        |      8|  1|   1|  0|  0| 
-|Trea Turner       |SS        |     13|  7|   5|  2|  2| 
-|Otto Lopez        |MI        |     20|  5|   6|  0|  1| 
-|Mickey Gasper     |CI        |      5|  2|   1|  1|  0| 
+|Nick Gonzales     |3B        |     10|  2|   1|  0|  0| 
+|Trea Turner       |SS        |     14|  7|   5|  2|  2| 
+|Otto Lopez        |MI        |     22|  6|   6|  0|  1| 
+|Mickey Gasper     |CI        |      6|  2|   1|  1|  0| 
 |Garrett Mitchell  |OF        |     14|  8|   9|  2|  2| 
-|Jung Hoo Lee      |OF        |      8|  2|   2|  0|  0| 
-|Michael Harris II |OF        |     12|  6|   3|  1|  1| 
-|Riley Greene      |OF        |     18|  6|  11|  2|  0| 
-|Ezequiel Duran    |DH        |      8|  3|   4|  0|  0| 
-|Iván Herrera      |DH        |     10|  4|   1|  0|  0| 
-|Ryan Jeffers      |DH        |      7|  0|   1|  0|  0| 
+|Jung Hoo Lee      |OF        |      9|  3|   3|  1|  0| 
+|Michael Harris II |OF        |     15|  7|   5|  2|  1| 
+|Riley Greene      |OF        |     20|  7|  13|  3|  0| 
+|Ezequiel Duran    |DH        |      9|  4|   5|  0|  0| 
+|Iván Herrera      |DH        |     11|  4|   2|  0|  0| 
+|Ryan Jeffers      |DH        |      8|  0|   2|  0|  0| 
 |Byron Buxton      |BAT BENCH |     **| **|  **| **| **| 
 |Esmerlyn Valdez   |BAT BENCH |      4|  2|   2|  1|  0| 
-|Heliot Ramos      |BAT BENCH |      6|  3|   4|  1|  0| 
-|Nathaniel Lowe    |BAT BENCH |      8|  3|   6|  2|  0| 
-|Spencer Horwitz   |BAT BENCH |      6|  1|   3|  0|  0| 
+|Heliot Ramos      |BAT BENCH |      8|  5|   4|  1|  0| 
+|Nathaniel Lowe    |BAT BENCH |     10|  3|   6|  2|  0| 
+|Spencer Horwitz   |BAT BENCH |      9|  3|   5|  0|  0| 
 
 
 * * *
@@ -42,7 +42,7 @@
 |Mason Miller     |RP          |  4|  4.000|  0| 0.000|      5| 1.250|  8|  0|  4| 
 |Riley O'Brien    |RP          |  5|  5.000|  3| 5.400|     10| 2.000|  5|  0|  1| 
 |Carlos Rodón     |OP          |  2| 12.333|  3| 2.189|     11| 0.892| 13|  1|  0| 
-|Cesar Perdomo    |OP          |  1|  4.667|  5| 9.643|     12| 2.571|  3|  0|  0| 
+|Cesar Perdomo    |OP          |  2|  9.333|  7| 6.750|     21| 2.250|  4|  0|  0| 
 |Davis Martin     |OP          |  2| 10.333|  2| 1.742|     11| 1.065|  1|  0|  0| 
 |Keider Montero   |OP          |  2|  8.000|  4| 4.500|     12| 1.500|  6|  0|  0| 
 |Martín Pérez     |OP          |  2| 13.000|  2| 1.385|     15| 1.154|  6|  1|  0| 
