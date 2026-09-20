@@ -5,25 +5,25 @@
  
 |players          |position  | hitsbb|  r| rbi| hr| sb| 
 |:----------------|:---------|------:|--:|---:|--:|--:| 
-|Will Smith       |C         |     13|  5|   5|  2|  0| 
+|Will Smith       |C         |     16|  7|   7|  3|  0| 
 |Rafael Devers    |1B        |      7|  3|   7|  2|  0| 
-|Tommy Edman      |2B        |      8|  2|   2|  0|  0| 
-|Kyle Karros      |3B        |     12|  3|   4|  2|  0| 
-|Francisco Lindor |SS        |     18|  8|   9|  4|  0| 
-|Thomas Saggese   |MI        |     11|  5|   1|  0|  1| 
-|Alex Bregman     |CI        |     17|  4|   7|  2|  0| 
-|Dominic Canzone  |OF        |     15|  6|   6|  1|  0| 
+|Tommy Edman      |2B        |      9|  2|   4|  0|  0| 
+|Kyle Karros      |3B        |     14|  3|   4|  2|  0| 
+|Francisco Lindor |SS        |     19|  9|  10|  4|  0| 
+|Thomas Saggese   |MI        |     12|  5|   1|  0|  1| 
+|Alex Bregman     |CI        |     18|  4|   7|  2|  0| 
+|Dominic Canzone  |OF        |     18|  7|   6|  1|  0| 
 |George Springer  |OF        |     13|  4|   5|  1|  0| 
-|Jakob Marsee     |OF        |     21|  8|   7|  2|  1| 
-|Juan Soto        |OF        |     20|  8|   8|  3|  1| 
-|Christian Walker |DH        |      5|  2|   3|  1|  0| 
-|Jonathan Aranda  |DH        |     13|  4|   5|  2|  0| 
-|Miguel Vargas    |DH        |     13|  4|   8|  2|  3| 
-|Roman Anthony    |DH        |     12|  4|   7|  2|  0| 
-|Alejandro Kirk   |BAT BENCH |     14|  3|   7|  2|  0| 
+|Jakob Marsee     |OF        |     25| 10|   7|  2|  1| 
+|Juan Soto        |OF        |     21|  8|   9|  3|  1| 
+|Christian Walker |DH        |      7|  2|   3|  1|  0| 
+|Jonathan Aranda  |DH        |     14|  5|   6|  3|  0| 
+|Miguel Vargas    |DH        |     16|  6|   9|  3|  4| 
+|Roman Anthony    |DH        |     13|  4|   8|  2|  0| 
+|Alejandro Kirk   |BAT BENCH |     16|  3|   8|  2|  0| 
 |Brendan Donovan  |BAT BENCH |     **| **|  **| **| **| 
 |Trent Grisham    |BAT BENCH |     **| **|  **| **| **| 
-|Xavier Edwards   |BAT BENCH |      6|  2|   1|  0|  1| 
+|Xavier Edwards   |BAT BENCH |      7|  2|   1|  0|  1| 
 
 * * *
 
@@ -42,7 +42,7 @@
 |Trevor Megill      |RP          |  5|  4.333|  5| 10.385|      9| 2.077|  4|  1|  2| 
 |Andrew Abbott      |OP          |  2|  6.667|  8| 10.800|     17| 2.550|  5|  0|  0| 
 |Emmet Sheehan      |OP          |  2| 11.667|  1|  0.771|      7| 0.600| 15|  1|  0| 
-|Kevin Ginkel       |OP          |  4|  4.000|  2|  4.500|      4| 1.000|  5|  1|  0| 
+|Kevin Ginkel       |OP          |  5|  5.000|  4|  7.200|      6| 1.200|  6|  1|  0| 
 |Peter Lambert      |OP          |  2| 11.333|  5|  3.971|     13| 1.147| 10|  0|  0| 
 |Tyler Wells        |OP          |  2|  2.000|  0|  0.000|      2| 1.000|  3|  1|  0| 
 |Clayton Beeter     |PITCH BENCH |  2|  2.000|  1|  4.500|      2| 1.000|  2|  1|  0| 

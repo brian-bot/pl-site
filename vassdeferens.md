@@ -5,22 +5,22 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Liam Hicks        |C         |     10|  2|   5|  1|  0| 
+|Liam Hicks        |C         |     12|  2|   5|  1|  0| 
 |Josh Naylor       |1B        |     15|  6|   5|  0|  3| 
-|Jose Altuve       |2B        |      9|  2|   0|  0|  1| 
-|JJ Wetherholt     |3B        |      1|  0|   0|  0|  0| 
-|Geraldo Perdomo   |SS        |     18|  3|   2|  0|  0| 
-|Bryson Stott      |MI        |     12|  5|   4|  0|  1| 
+|Jose Altuve       |2B        |     12|  2|   0|  0|  1| 
+|JJ Wetherholt     |3B        |      2|  0|   1|  0|  0| 
+|Geraldo Perdomo   |SS        |     19|  3|   2|  0|  0| 
+|Bryson Stott      |MI        |     13|  5|   4|  0|  1| 
 |Spencer Torkelson |CI        |     19|  7|   6|  2|  1| 
-|Corbin Carroll    |OF        |      8|  5|   8|  3|  0| 
-|Daylen Lile       |OF        |      7|  4|   5|  1|  1| 
-|Griffin Conine    |OF        |     10|  5|   3|  1|  0| 
+|Corbin Carroll    |OF        |      9|  5|   9|  3|  0| 
+|Daylen Lile       |OF        |      8|  5|   7|  2|  1| 
+|Griffin Conine    |OF        |     11|  6|   4|  2|  0| 
 |Jackson Chourio   |OF        |     20| 11|  11|  3|  4| 
 |Gleyber Torres    |DH        |     12|  4|   2|  0|  0| 
-|Javier Sanoja     |DH        |     16|  8|   9|  1|  2| 
+|Javier Sanoja     |DH        |     17|  8|   9|  1|  2| 
 |Mickey Moniak     |DH        |      7|  1|   0|  0|  0| 
-|Munetaka Murakami |DH        |     12|  4|   6|  2|  0| 
-|Adley Rutschman   |BAT BENCH |      7|  4|   4|  1|  0| 
+|Munetaka Murakami |DH        |     13|  4|   7|  2|  0| 
+|Adley Rutschman   |BAT BENCH |      8|  4|   4|  1|  0| 
 |Eduardo Valencia  |BAT BENCH |     10|  5|   0|  0|  0| 
 |Taylor Ward       |BAT BENCH |      5|  1|   1|  0|  0| 
 
@@ -42,7 +42,7 @@
 |Jhoan Duran    |RP          |  4|  4.000|  1|  2.250|      2| 0.500|  7|  0|  2| 
 |Brady Singer   |OP          |  2|  7.333| 15| 18.409|     26| 3.545|  5|  0|  0| 
 |Jordan Romano  |OP          |  4|  4.000|  3|  6.750|      6| 1.500|  5|  0|  0| 
-|José Soriano   |OP          |  2| 13.333|  6|  4.050|     13| 0.975|  8|  1|  0| 
+|José Soriano   |OP          |  3| 18.333| 11|  5.400|     18| 0.982| 16|  1|  0| 
 |Kodai Senga    |OP          |  3|  3.000|  2|  6.000|      5| 1.667|  7|  0|  1| 
 |Max Fried      |OP          |  2| 10.333|  2|  1.742|      9| 0.871| 13|  1|  0| 
 |Jack Leiter    |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
