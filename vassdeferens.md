@@ -7,21 +7,21 @@
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Liam Hicks        |C         |     12|  2|   5|  1|  0| 
 |Josh Naylor       |1B        |     15|  6|   5|  0|  3| 
-|Jose Altuve       |2B        |     12|  2|   0|  0|  1| 
-|JJ Wetherholt     |3B        |      2|  0|   1|  0|  0| 
-|Geraldo Perdomo   |SS        |     19|  3|   2|  0|  0| 
-|Bryson Stott      |MI        |     13|  5|   4|  0|  1| 
-|Spencer Torkelson |CI        |     19|  7|   6|  2|  1| 
-|Corbin Carroll    |OF        |      9|  5|   9|  3|  0| 
-|Daylen Lile       |OF        |      8|  5|   7|  2|  1| 
-|Griffin Conine    |OF        |     11|  6|   4|  2|  0| 
-|Jackson Chourio   |OF        |     20| 11|  11|  3|  4| 
-|Gleyber Torres    |DH        |     12|  4|   2|  0|  0| 
-|Javier Sanoja     |DH        |     17|  8|   9|  1|  2| 
+|Jose Altuve       |2B        |     14|  3|   1|  1|  1| 
+|JJ Wetherholt     |3B        |      3|  0|   2|  0|  0| 
+|Geraldo Perdomo   |SS        |     21|  4|   4|  0|  0| 
+|Bryson Stott      |MI        |     14|  6|   4|  0|  1| 
+|Spencer Torkelson |CI        |     22|  7|   6|  2|  1| 
+|Corbin Carroll    |OF        |     11|  6|  11|  3|  0| 
+|Daylen Lile       |OF        |     10|  6|   7|  2|  1| 
+|Griffin Conine    |OF        |     12|  6|   4|  2|  0| 
+|Jackson Chourio   |OF        |     22| 11|  11|  3|  6| 
+|Gleyber Torres    |DH        |     13|  4|   2|  0|  0| 
+|Javier Sanoja     |DH        |     18|  9|  12|  2|  2| 
 |Mickey Moniak     |DH        |      7|  1|   0|  0|  0| 
-|Munetaka Murakami |DH        |     13|  4|   7|  2|  0| 
-|Adley Rutschman   |BAT BENCH |      8|  4|   4|  1|  0| 
-|Eduardo Valencia  |BAT BENCH |     10|  5|   0|  0|  0| 
+|Munetaka Murakami |DH        |     16|  4|   8|  2|  0| 
+|Adley Rutschman   |BAT BENCH |      9|  4|   4|  1|  0| 
+|Eduardo Valencia  |BAT BENCH |     13|  5|   0|  0|  0| 
 |Taylor Ward       |BAT BENCH |      5|  1|   1|  0|  0| 
 
 
@@ -32,7 +32,7 @@
  
 |players        |position    |  g|     ip| er|    era| hitsbb|  whip| so|  w| sv| 
 |:--------------|:-----------|--:|------:|--:|------:|------:|-----:|--:|--:|--:| 
-|Bailey Ober    |SP          |  1|  5.333|  3|  5.062|     11| 2.062|  3|  0|  0| 
+|Bailey Ober    |SP          |  2|  8.333|  3|  3.240|     12| 1.440|  6|  0|  1| 
 |Janson Junk    |SP          |  2|  6.000|  9| 13.500|     15| 2.500|  4|  0|  0| 
 |Paul Skenes    |SP          |  2| 13.000|  7|  4.846|     12| 0.923| 11|  0|  0| 
 |Robbie Ray     |SP          |  2| 11.000|  8|  6.545|     13| 1.182| 11|  2|  0| 
@@ -43,10 +43,10 @@
 |Brady Singer   |OP          |  2|  7.333| 15| 18.409|     26| 3.545|  5|  0|  0| 
 |Jordan Romano  |OP          |  4|  4.000|  3|  6.750|      6| 1.500|  5|  0|  0| 
 |José Soriano   |OP          |  3| 18.333| 11|  5.400|     18| 0.982| 16|  1|  0| 
-|Kodai Senga    |OP          |  3|  3.000|  2|  6.000|      5| 1.667|  7|  0|  1| 
+|Kodai Senga    |OP          |  4|  3.333|  5| 13.500|     10| 3.000|  7|  0|  1| 
 |Max Fried      |OP          |  2| 10.333|  2|  1.742|      9| 0.871| 13|  1|  0| 
 |Jack Leiter    |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
-|Jack Perkins   |PITCH BENCH |  2| 11.667|  4|  3.086|     12| 1.029| 11|  0|  0| 
+|Jack Perkins   |PITCH BENCH |  3| 17.667|  5|  2.547|     17| 0.962| 15|  0|  0| 
 |Seth Lugo      |PITCH BENCH |  2| 10.000|  6|  5.400|     18| 1.800| 12|  1|  0| 
 |Shohei Ohtani  |PITCH BENCH | **|     **| **|     **|     **|    **| **| **| **| 
 
