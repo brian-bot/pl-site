@@ -5,18 +5,18 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Dillon Dingler    |C         |      6|  3|   6|  1|  0| 
+|Dillon Dingler    |C         |      9|  5|   6|  1|  0| 
 |Yandy Díaz        |1B        |      9|  5|   4|  1|  0| 
 |Luke Keaschall    |2B        |     23|  7|   2|  0|  3| 
 |Austin Riley      |3B        |     12|  5|   3|  1|  0| 
-|Gunnar Henderson  |SS        |     17|  4|   1|  1|  0| 
+|Gunnar Henderson  |SS        |     20|  5|   2|  2|  0| 
 |Colson Montgomery |MI        |     13|  4|   5|  0|  0| 
-|Pete Alonso       |CI        |     20|  6|  11|  5|  0| 
+|Pete Alonso       |CI        |     22|  8|  14|  7|  0| 
 |Bryan Reynolds    |OF        |     14|  5|   4|  1|  0| 
 |Jake McCarthy     |OF        |     21|  7|   8|  0|  2| 
 |Seiya Suzuki      |OF        |     17|  7|   5|  1|  0| 
 |Teoscar Hernández |OF        |     22| 10|  11|  3|  2| 
-|Dylan Crews       |DH        |     12|  4|   7|  2|  0| 
+|Dylan Crews       |DH        |     14|  4|   7|  2|  0| 
 |Jackson Holliday  |DH        |      6|  5|   2|  0|  0| 
 |Ronald Acuña Jr.  |DH        |     21|  8|  10|  4|  0| 
 |TJ Rumfield       |DH        |     20|  2|   3|  0|  0| 

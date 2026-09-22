@@ -13,14 +13,14 @@
 |Thomas Saggese   |MI        |     12|  5|   1|  0|  1| 
 |Alex Bregman     |CI        |     20|  5|   8|  2|  0| 
 |Dominic Canzone  |OF        |     20|  7|   8|  1|  0| 
-|George Springer  |OF        |     13|  4|   5|  1|  0| 
+|George Springer  |OF        |     15|  4|   6|  1|  0| 
 |Jakob Marsee     |OF        |     26| 11|   7|  2|  1| 
 |Juan Soto        |OF        |     22|  8|   9|  3|  1| 
 |Christian Walker |DH        |      8|  2|   3|  1|  0| 
 |Jonathan Aranda  |DH        |     14|  5|   6|  3|  0| 
 |Miguel Vargas    |DH        |     20|  6|   9|  3|  4| 
 |Roman Anthony    |DH        |     15|  4|   8|  2|  0| 
-|Alejandro Kirk   |BAT BENCH |     16|  3|   8|  2|  0| 
+|Alejandro Kirk   |BAT BENCH |     18|  4|   8|  2|  0| 
 |Brendan Donovan  |BAT BENCH |     **| **|  **| **| **| 
 |Trent Grisham    |BAT BENCH |     **| **|  **| **| **| 
 |Xavier Edwards   |BAT BENCH |      7|  2|   1|  0|  1| 

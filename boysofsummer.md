@@ -15,7 +15,7 @@
 |Garrett Mitchell  |OF        |     17|  8|   9|  2|  2| 
 |Jung Hoo Lee      |OF        |     13|  3|   4|  1|  0| 
 |Michael Harris II |OF        |     17|  8|   5|  2|  1| 
-|Riley Greene      |OF        |     24|  8|  13|  3|  0| 
+|Riley Greene      |OF        |     25|  9|  13|  3|  0| 
 |Ezequiel Duran    |DH        |     10|  5|   5|  0|  0| 
 |Iván Herrera      |DH        |     17|  6|   4|  2|  0| 
 |Ryan Jeffers      |DH        |      8|  0|   2|  0|  0| 
@@ -44,7 +44,7 @@
 |Carlos Rodón     |OP          |  2| 12.333|  3| 2.189|     11| 0.892| 13|  1|  0| 
 |Cesar Perdomo    |OP          |  2|  9.333|  7| 6.750|     21| 2.250|  4|  0|  0| 
 |Davis Martin     |OP          |  3| 14.667|  2| 1.227|     16| 1.091|  7|  0|  0| 
-|Keider Montero   |OP          |  2|  8.000|  4| 4.500|     12| 1.500|  6|  0|  0| 
+|Keider Montero   |OP          |  3| 12.000|  4| 3.000|     14| 1.167| 11|  1|  0| 
 |Martín Pérez     |OP          |  3| 17.333|  3| 1.558|     23| 1.327|  8|  1|  0| 
 |Brandyn Garcia   |PITCH BENCH |  5|  6.667|  0| 0.000|      3| 0.450|  6|  0|  0| 
 |Garrett Whitlock |PITCH BENCH |  5|  4.333|  0| 0.000|      5| 1.154|  7|  1|  2| 

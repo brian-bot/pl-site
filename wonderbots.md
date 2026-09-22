@@ -12,7 +12,7 @@
 |Zach Neto          |SS        |     22|  9|   7|  3|  2| 
 |CJ Abrams          |MI        |     11|  6|   4|  1|  5| 
 |Sal Stewart        |CI        |     15|  5|   3|  1|  0| 
-|James Wood         |OF        |     14|  2|   2|  0|  3| 
+|James Wood         |OF        |     15|  3|   2|  0|  3| 
 |JJ Bleday          |OF        |     12|  5|   2|  1|  0| 
 |Joshua Báez        |OF        |      5|  4|   2|  0|  0| 
 |Mike Trout         |OF        |     24|  6|   2|  1|  0| 
@@ -37,7 +37,7 @@
 |Jacob Misiorowski |SP          |  3| 14.333|  1| 0.628|     13| 0.907| 20|  1|  0| 
 |Logan Gilbert     |SP          |  2| 13.000|  5| 3.462|     13| 1.000| 18|  1|  0| 
 |Ranger Suarez     |SP          |  2| 12.667|  2| 1.421|     13| 1.026| 13|  2|  0| 
-|Shane Baz         |SP          |  2|  9.667|  8| 7.448|     16| 1.655|  7|  1|  0| 
+|Shane Baz         |SP          |  3| 16.333| 11| 6.061|     24| 1.469|  9|  1|  0| 
 |Walbert Ureña     |SP          |  2| 13.000|  4| 2.769|     15| 1.154| 16|  0|  0| 
 |Bryan Baker       |RP          |  5|  5.333|  0| 0.000|      4| 0.750|  2|  3|  1| 
 |David Bednar      |RP          |  4|  5.000|  1| 1.800|      6| 1.200|  5|  0|  3| 

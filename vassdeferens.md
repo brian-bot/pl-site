@@ -11,17 +11,17 @@
 |JJ Wetherholt     |3B        |      3|  0|   2|  0|  0| 
 |Geraldo Perdomo   |SS        |     21|  4|   4|  0|  0| 
 |Bryson Stott      |MI        |     14|  6|   4|  0|  1| 
-|Spencer Torkelson |CI        |     22|  7|   6|  2|  1| 
+|Spencer Torkelson |CI        |     23|  8|   8|  3|  1| 
 |Corbin Carroll    |OF        |     11|  6|  11|  3|  0| 
 |Daylen Lile       |OF        |     10|  6|   7|  2|  1| 
 |Griffin Conine    |OF        |     12|  6|   4|  2|  0| 
 |Jackson Chourio   |OF        |     22| 11|  11|  3|  6| 
-|Gleyber Torres    |DH        |     13|  4|   2|  0|  0| 
+|Gleyber Torres    |DH        |     14|  5|   2|  0|  0| 
 |Javier Sanoja     |DH        |     18|  9|  12|  2|  2| 
 |Mickey Moniak     |DH        |      7|  1|   0|  0|  0| 
 |Munetaka Murakami |DH        |     16|  4|   8|  2|  0| 
 |Adley Rutschman   |BAT BENCH |      9|  4|   4|  1|  0| 
-|Eduardo Valencia  |BAT BENCH |     13|  5|   0|  0|  0| 
+|Eduardo Valencia  |BAT BENCH |     16|  6|   0|  0|  0| 
 |Taylor Ward       |BAT BENCH |      5|  1|   1|  0|  0| 
 
 
@@ -37,7 +37,7 @@
 |Paul Skenes    |SP          |  2| 13.000|  7|  4.846|     12| 0.923| 11|  0|  0| 
 |Robbie Ray     |SP          |  2| 11.000|  8|  6.545|     13| 1.182| 11|  2|  0| 
 |Tyler Mahle    |SP          |  2| 13.000|  2|  1.385|     10| 0.769|  9|  2|  0| 
-|Zebby Matthews |SP          |  2|  8.333|  5|  5.400|     10| 1.200| 10|  0|  0| 
+|Zebby Matthews |SP          |  3| 13.333| 10|  6.750|     18| 1.350| 19|  0|  0| 
 |Hogan Harris   |RP          |  6|  6.000|  2|  3.000|      6| 1.000|  3|  1|  0| 
 |Jhoan Duran    |RP          |  4|  4.000|  1|  2.250|      2| 0.500|  7|  0|  2| 
 |Brady Singer   |OP          |  2|  7.333| 15| 18.409|     26| 3.545|  5|  0|  0| 

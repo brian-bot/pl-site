@@ -10,7 +10,7 @@
 |Jazz Chisholm Jr. |2B        |      2|  0|   0|  0|  0| 
 |Isaac Paredes     |3B        |     18|  6|  11|  4|  0| 
 |Bo Bichette       |SS        |     19|  4|   5|  1|  0| 
-|Brooks Lee        |MI        |     18|  8|   2|  0|  1| 
+|Brooks Lee        |MI        |     19|  9|   3|  1|  1| 
 |Josh Bell         |CI        |     16|  4|   7|  2|  0| 
 |Jo Adell          |OF        |     17|  8|   9|  2|  0| 
 |Randy Arozarena   |OF        |     23| 14|  10|  4|  2| 

@@ -8,7 +8,7 @@
 |Hunter Goodman    |C         |     10|  4|   6|  3|  0| 
 |Willson Contreras |1B        |      8|  2|   2|  1|  0| 
 |Brice Turang      |2B        |     27| 11|   8|  2|  1| 
-|Kazuma Okamoto    |3B        |     19|  6|   8|  5|  0| 
+|Kazuma Okamoto    |3B        |     20|  6|   8|  5|  0| 
 |Elly De La Cruz   |SS        |     23| 10|   8|  5|  4| 
 |A.J. Ewing        |MI        |     21|  7|  10|  2|  2| 
 |Jac Caglianone    |CI        |      9|  2|   1|  0|  1| 

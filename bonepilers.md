@@ -21,7 +21,7 @@
 |Chase DeLauter               |DH        |     13|  3|   5|  2|  1| 
 |Jackson Merrill              |DH        |     26| 10|  16|  4|  2| 
 |Charlie Condon               |BAT BENCH |     **| **|  **| **| **| 
-|Christian Encarnacion-Strand |BAT BENCH |     16|  8|   5|  2|  0| 
+|Christian Encarnacion-Strand |BAT BENCH |     17|  8|   5|  2|  0| 
 |Konnor Griffin               |BAT BENCH |     19|  6|   6|  0|  2| 
 |Nasim Nuñez                  |BAT BENCH |      5|  2|   1|  0|  1| 
 
