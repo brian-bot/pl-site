@@ -5,23 +5,23 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|Hunter Goodman    |C         |     10|  4|   6|  3|  0| 
+|Hunter Goodman    |C         |     12|  4|   7|  3|  0| 
 |Willson Contreras |1B        |      8|  2|   2|  1|  0| 
-|Brice Turang      |2B        |     28| 11|   8|  2|  1| 
-|Kazuma Okamoto    |3B        |     20|  6|   8|  5|  0| 
+|Brice Turang      |2B        |     30| 13|   9|  3|  1| 
+|Kazuma Okamoto    |3B        |     21|  7|   8|  5|  0| 
 |Elly De La Cruz   |SS        |     27| 11|  10|  6|  5| 
-|A.J. Ewing        |MI        |     23|  7|  10|  2|  3| 
-|Jac Caglianone    |CI        |     11|  4|   1|  0|  1| 
-|Brandon Nimmo     |OF        |     15|  6|   3|  0|  0| 
-|Jordan Walker     |OF        |     10|  4|   0|  0|  1| 
-|Kyle Tucker       |OF        |     23| 14|  11|  5|  1| 
-|Wyatt Langford    |OF        |     22|  9|   7|  2|  4| 
+|A.J. Ewing        |MI        |     25|  7|  10|  2|  3| 
+|Jac Caglianone    |CI        |     12|  4|   1|  0|  1| 
+|Brandon Nimmo     |OF        |     16|  7|   3|  0|  0| 
+|Jordan Walker     |OF        |     11|  4|   0|  0|  2| 
+|Kyle Tucker       |OF        |     25| 14|  11|  5|  2| 
+|Wyatt Langford    |OF        |     21|  9|   7|  2|  4| 
 |Bryce Eldridge    |DH        |     17|  4|  12|  2|  0| 
-|Carter Jensen     |DH        |     19|  9|   9|  3|  0| 
-|Eugenio Suárez    |DH        |     14|  8|   8|  4|  0| 
-|Jake Burger       |DH        |     17|  9|   6|  2|  1| 
-|Dansby Swanson    |BAT BENCH |      4|  3|   1|  1|  0| 
-|Kyle Stowers      |BAT BENCH |     18|  6|   3|  1|  0| 
+|Carter Jensen     |DH        |     22| 10|   9|  3|  0| 
+|Eugenio Suárez    |DH        |     15|  8|   8|  4|  0| 
+|Jake Burger       |DH        |     18| 10|   7|  2|  1| 
+|Dansby Swanson    |BAT BENCH |      6|  3|   3|  1|  0| 
+|Kyle Stowers      |BAT BENCH |     19|  7|   5|  2|  0| 
 |Luis Lara         |BAT BENCH |      9|  5|   4|  0|  0| 
 |Zac Veen          |BAT BENCH |      7|  2|   2|  0|  1| 
 
@@ -39,7 +39,7 @@
 |Drew Rasmussen  |SP          |  3| 18.667|  2|  0.964|     18| 0.964| 18|  2|  0| 
 |Jake Bennett    |SP          |  2| 10.000|  9|  8.100|     19| 1.900|  9|  0|  0| 
 |Kyle Bradish    |SP          |  1|  3.000|  5| 15.000|     10| 3.333|  2|  0|  0| 
-|Aroldis Chapman |RP          |  2|  2.000|  0|  0.000|      3| 1.500|  3|  0|  1| 
+|Aroldis Chapman |RP          |  3|  3.000|  0|  0.000|      3| 1.000|  6|  0|  2| 
 |Tanner Scott    |RP          |  5|  4.333|  3|  6.231|      7| 1.615|  8|  0|  2| 
 |Andrew Painter  |OP          |  3| 15.333| 10|  5.870|     27| 1.761| 16|  0|  0| 
 |Gage Jump       |OP          |  1|  2.000|  5| 22.500|      6| 3.000|  2|  0|  0| 
