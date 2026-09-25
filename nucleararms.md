@@ -6,23 +6,23 @@
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
 |Dillon Dingler    |C         |     10|  5|   6|  1|  0| 
-|Yandy Díaz        |1B        |     11|  5|   8|  1|  0| 
+|Yandy Díaz        |1B        |     14|  7|   8|  1|  0| 
 |Luke Keaschall    |2B        |     25|  9|   5|  1|  3| 
-|Austin Riley      |3B        |     15|  6|   4|  2|  0| 
+|Austin Riley      |3B        |     17|  7|   6|  3|  0| 
 |Gunnar Henderson  |SS        |     22|  5|   2|  2|  0| 
 |Colson Montgomery |MI        |     13|  4|   5|  0|  0| 
 |Pete Alonso       |CI        |     25| 10|  16|  8|  0| 
-|Bryan Reynolds    |OF        |     16|  5|   4|  1|  0| 
-|Jake McCarthy     |OF        |     22|  7|   8|  0|  3| 
-|Seiya Suzuki      |OF        |     20|  8|   5|  1|  0| 
-|Teoscar Hernández |OF        |     26| 12|  11|  3|  2| 
+|Bryan Reynolds    |OF        |     17|  5|   4|  1|  0| 
+|Jake McCarthy     |OF        |     23|  7|   8|  0|  3| 
+|Seiya Suzuki      |OF        |     23|  9|   6|  2|  0| 
+|Teoscar Hernández |OF        |     27| 12|  11|  3|  2| 
 |Dylan Crews       |DH        |     16|  5|   7|  2|  2| 
 |Jackson Holliday  |DH        |      6|  5|   2|  0|  0| 
-|Ronald Acuña Jr.  |DH        |     21|  8|  10|  4|  0| 
-|TJ Rumfield       |DH        |     20|  2|   3|  0|  0| 
+|Ronald Acuña Jr.  |DH        |     23|  9|  10|  4|  1| 
+|TJ Rumfield       |DH        |     23|  4|   4|  0|  0| 
 |Abimelec Ortiz    |BAT BENCH |      6|  3|   2|  0|  0| 
 |Giancarlo Stanton |BAT BENCH |     **| **|  **| **| **| 
-|Shea Langeliers   |BAT BENCH |     11|  2|   7|  0|  1| 
+|Shea Langeliers   |BAT BENCH |     12|  3|   7|  0|  1| 
 
 
 * * *
@@ -37,7 +37,7 @@
 |George Kirby    |SP          |  3| 15.333| 10|  5.870|     30| 1.957| 15|  0|  0| 
 |Sandy Alcantara |SP          |  5| 17.333| 15|  7.788|     31| 1.788| 10|  0|  2| 
 |Taj Bradley     |SP          |  3| 19.000|  4|  1.895|     17| 0.895| 21|  1|  0| 
-|Tyler Glasnow   |SP          |  2| 10.000|  6|  5.400|     14| 1.400| 17|  1|  0| 
+|Tyler Glasnow   |SP          |  3| 16.333|  9|  4.959|     19| 1.163| 28|  1|  0| 
 |Jacob Webb      |RP          |  6|  6.000|  4|  6.000|     10| 1.667|  7|  0|  0| 
 |Josh Hader      |RP          |  5|  5.333|  2|  3.375|      9| 1.688|  2|  0|  3| 
 |Andre Pallante  |OP          |  3| 16.000|  8|  4.500|     20| 1.250|  8|  0|  0| 

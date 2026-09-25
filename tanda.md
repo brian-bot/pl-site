@@ -5,23 +5,23 @@
  
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
-|Cal Raleigh           |C         |     16|  8|   9|  2|  0| 
-|Matt Olson            |1B        |     21|  5|  10|  4|  0| 
-|Ozzie Albies          |2B        |     12|  8|   4|  1|  1| 
-|José Ramírez          |3B        |     15|  6|   3|  1|  5| 
+|Cal Raleigh           |C         |     18|  9|   9|  2|  0| 
+|Matt Olson            |1B        |     21|  5|  11|  4|  0| 
+|Ozzie Albies          |2B        |     13|  8|   5|  1|  1| 
+|José Ramírez          |3B        |     17|  6|   3|  1|  6| 
 |Trevor Story          |SS        |     15|  5|   6|  2|  1| 
 |Luis García Jr.       |MI        |     12|  6|   3|  2|  0| 
 |Vinnie Pasquantino    |CI        |     18|  8|  14|  4|  0| 
 |Cody Bellinger        |OF        |     20| 11|  11|  5|  2| 
-|Heriberto Hernández   |OF        |     21|  4|   1|  0|  1| 
-|Lawrence Butler       |OF        |     20|  9|   9|  4|  0| 
-|Pete Crow-Armstrong   |OF        |     24| 13|  11|  5|  6| 
+|Heriberto Hernández   |OF        |     21|  4|   1|  0|  2| 
+|Lawrence Butler       |OF        |     23|  9|   9|  4|  0| 
+|Pete Crow-Armstrong   |OF        |     26| 13|  11|  5|  7| 
 |Christian Yelich      |DH        |     11|  8|   9|  2|  0| 
-|Gabriel Moreno        |DH        |     28| 10|   9|  3|  1| 
-|Steven Kwan           |DH        |     28|  8|   4|  1|  1| 
-|Zack Gelof            |DH        |     19|  9|  10|  3|  4| 
+|Gabriel Moreno        |DH        |     29| 11|  12|  4|  1| 
+|Steven Kwan           |DH        |     29|  8|   4|  1|  1| 
+|Zack Gelof            |DH        |     22| 11|  12|  5|  4| 
 |Brandon Marsh         |BAT BENCH |      8|  4|   4|  1|  0| 
-|Caleb Durbin          |BAT BENCH |     23|  7|   2|  1|  3| 
+|Caleb Durbin          |BAT BENCH |     24|  7|   2|  1|  3| 
 |Luis Robert Jr.       |BAT BENCH |     **| **|  **| **| **| 
 |Vladimir Guerrero Jr. |BAT BENCH |     21|  4|   2|  1|  0| 
 
@@ -39,7 +39,7 @@
 |Gerrit Cole     |SP          |  3| 16.000|  9| 5.062|     19| 1.188| 18|  2|  0| 
 |Hayden Wesneski |SP          |  3| 14.333|  7| 4.395|     20| 1.395|  8|  1|  0| 
 |Michael Wacha   |SP          |  3| 17.667|  6| 3.057|     20| 1.132| 11|  0|  0| 
-|Emilio Pagán    |RP          |  5|  5.000|  0| 0.000|      4| 0.800|  7|  0|  2| 
+|Emilio Pagán    |RP          |  6|  6.000|  0| 0.000|      5| 0.833|  8|  0|  3| 
 |Raisel Iglesias |RP          |  6|  6.000|  1| 1.500|      3| 0.500|  9|  0|  3| 
 |Brandon Young   |OP          |  3| 14.667|  9| 5.523|     26| 1.773| 17|  0|  0| 
 |Framber Valdez  |OP          |  3| 16.333|  5| 2.755|     22| 1.347| 16|  1|  0| 
