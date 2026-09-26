@@ -6,24 +6,24 @@
 |players               |position  | hitsbb|  r| rbi| hr| sb| 
 |:---------------------|:---------|------:|--:|---:|--:|--:| 
 |Cal Raleigh           |C         |     18|  9|   9|  2|  0| 
-|Matt Olson            |1B        |     21|  5|  11|  4|  0| 
+|Matt Olson            |1B        |     22|  5|  11|  4|  0| 
 |Ozzie Albies          |2B        |     13|  8|   5|  1|  1| 
-|José Ramírez          |3B        |     17|  6|   3|  1|  6| 
-|Trevor Story          |SS        |     15|  5|   6|  2|  1| 
-|Luis García Jr.       |MI        |     12|  6|   3|  2|  0| 
-|Vinnie Pasquantino    |CI        |     18|  8|  14|  4|  0| 
+|José Ramírez          |3B        |     19|  8|   5|  1|  6| 
+|Trevor Story          |SS        |     16|  5|   6|  2|  1| 
+|Luis García Jr.       |MI        |     14|  7|   4|  2|  0| 
+|Vinnie Pasquantino    |CI        |     20|  8|  14|  4|  0| 
 |Cody Bellinger        |OF        |     20| 11|  11|  5|  2| 
-|Heriberto Hernández   |OF        |     21|  4|   1|  0|  2| 
-|Lawrence Butler       |OF        |     23|  9|   9|  4|  0| 
-|Pete Crow-Armstrong   |OF        |     26| 13|  11|  5|  7| 
-|Christian Yelich      |DH        |     11|  8|   9|  2|  0| 
-|Gabriel Moreno        |DH        |     29| 11|  12|  4|  1| 
-|Steven Kwan           |DH        |     29|  8|   4|  1|  1| 
-|Zack Gelof            |DH        |     22| 11|  12|  5|  4| 
+|Heriberto Hernández   |OF        |     22|  4|   2|  0|  2| 
+|Lawrence Butler       |OF        |     24|  9|  10|  4|  0| 
+|Pete Crow-Armstrong   |OF        |     28| 13|  11|  5|  8| 
+|Christian Yelich      |DH        |     14|  9|   9|  2|  0| 
+|Gabriel Moreno        |DH        |     32| 13|  13|  4|  1| 
+|Steven Kwan           |DH        |     31| 10|   4|  1|  1| 
+|Zack Gelof            |DH        |     22| 12|  12|  5|  4| 
 |Brandon Marsh         |BAT BENCH |      8|  4|   4|  1|  0| 
 |Caleb Durbin          |BAT BENCH |     24|  7|   2|  1|  3| 
 |Luis Robert Jr.       |BAT BENCH |     **| **|  **| **| **| 
-|Vladimir Guerrero Jr. |BAT BENCH |     21|  4|   2|  1|  0| 
+|Vladimir Guerrero Jr. |BAT BENCH |     22|  5|   3|  1|  0| 
 
 
 * * *
@@ -41,12 +41,12 @@
 |Michael Wacha   |SP          |  3| 17.667|  6| 3.057|     20| 1.132| 11|  0|  0| 
 |Emilio Pagán    |RP          |  6|  6.000|  0| 0.000|      5| 0.833|  8|  0|  3| 
 |Raisel Iglesias |RP          |  6|  6.000|  1| 1.500|      3| 0.500|  9|  0|  3| 
-|Brandon Young   |OP          |  3| 14.667|  9| 5.523|     26| 1.773| 17|  0|  0| 
+|Brandon Young   |OP          |  4| 19.667| 10| 4.576|     31| 1.576| 23|  0|  0| 
 |Framber Valdez  |OP          |  3| 16.333|  5| 2.755|     22| 1.347| 16|  1|  0| 
 |Logan Webb      |OP          |  2| 11.000|  7| 5.727|     14| 1.273| 15|  0|  0| 
 |Tanner Bibee    |OP          |  3| 15.667| 13| 7.468|     25| 1.596| 10|  1|  0| 
 |Yusei Kikuchi   |OP          |  3| 13.667|  7| 4.610|     25| 1.829| 11|  0|  0| 
-|Clay Holmes     |PITCH BENCH |  2| 11.000|  8| 6.545|     17| 1.545| 10|  0|  0| 
+|Clay Holmes     |PITCH BENCH |  3| 15.333| 10| 5.870|     25| 1.630| 13|  0|  0| 
 |J.T. Ginn       |PITCH BENCH | **|     **| **|    **|     **|    **| **| **| **| 
 |Walker Buehler  |PITCH BENCH |  3| 13.667|  7| 4.610|     18| 1.317| 11|  1|  0| 
 

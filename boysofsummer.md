@@ -5,25 +5,25 @@
  
 |players           |position  | hitsbb|  r| rbi| hr| sb| 
 |:-----------------|:---------|------:|--:|---:|--:|--:| 
-|William Contreras |C         |     20|  9|  19|  4|  0| 
-|Jake Bauers       |1B        |     17|  9|   6|  2|  1| 
-|Ketel Marte       |2B        |     22|  9|   7|  0|  0| 
-|Nick Gonzales     |3B        |     14|  3|   1|  0|  0| 
-|Trea Turner       |SS        |     23| 10|   6|  2|  3| 
-|Otto Lopez        |MI        |     30|  9|   8|  1|  4| 
+|William Contreras |C         |     21|  9|  20|  4|  0| 
+|Jake Bauers       |1B        |     18| 10|   8|  2|  1| 
+|Ketel Marte       |2B        |     23| 10|   7|  0|  0| 
+|Nick Gonzales     |3B        |     16|  4|   2|  0|  0| 
+|Trea Turner       |SS        |     24| 10|   6|  2|  3| 
+|Otto Lopez        |MI        |     32|  9|   8|  1|  4| 
 |Mickey Gasper     |CI        |      8|  3|   2|  2|  0| 
-|Garrett Mitchell  |OF        |     19| 10|   9|  2|  2| 
+|Garrett Mitchell  |OF        |     20| 12|   9|  2|  2| 
 |Jung Hoo Lee      |OF        |     13|  3|   4|  1|  0| 
 |Michael Harris II |OF        |     22|  9|   6|  2|  2| 
-|Riley Greene      |OF        |     27|  9|  13|  3|  0| 
-|Ezequiel Duran    |DH        |     11|  6|   5|  0|  0| 
-|Iván Herrera      |DH        |     20|  7|   4|  2|  0| 
-|Ryan Jeffers      |DH        |      9|  0|   2|  0|  0| 
+|Riley Greene      |OF        |     30| 10|  13|  3|  0| 
+|Ezequiel Duran    |DH        |     12|  6|   5|  0|  0| 
+|Iván Herrera      |DH        |     21|  8|   5|  3|  0| 
+|Ryan Jeffers      |DH        |     10|  1|   2|  0|  0| 
 |Byron Buxton      |BAT BENCH |     **| **|  **| **| **| 
 |Esmerlyn Valdez   |BAT BENCH |      4|  2|   2|  1|  0| 
-|Heliot Ramos      |BAT BENCH |     14|  8|   7|  3|  0| 
-|Nathaniel Lowe    |BAT BENCH |     10|  3|   7|  2|  0| 
-|Spencer Horwitz   |BAT BENCH |     12|  4|   7|  0|  0| 
+|Heliot Ramos      |BAT BENCH |     18| 10|   8|  3|  0| 
+|Nathaniel Lowe    |BAT BENCH |     11|  3|   7|  2|  0| 
+|Spencer Horwitz   |BAT BENCH |     13|  4|   8|  0|  0| 
 
 
 * * *
@@ -38,7 +38,7 @@
 |MacKenzie Gore   |SP          |  3| 13.000|  8| 5.538|     18| 1.385|  4|  0|  0| 
 |Nick Martinez    |SP          |  3| 17.333|  4| 2.077|     13| 0.750| 13|  1|  0| 
 |Nolan McLean     |SP          |  3| 18.000|  8| 4.000|     25| 1.389| 15|  1|  0| 
-|Tarik Skubal     |SP          |  3| 19.333|  6| 2.793|     20| 1.034| 17|  3|  0| 
+|Tarik Skubal     |SP          |  4| 26.333|  6| 2.051|     23| 0.873| 27|  4|  0| 
 |Mason Miller     |RP          |  8|  8.667|  2| 2.077|      8| 0.923| 16|  0|  5| 
 |Riley O'Brien    |RP          |  7|  7.000|  3| 3.857|     11| 1.571|  7|  0|  2| 
 |Carlos Rodón     |OP          |  3| 20.333|  3| 1.328|     14| 0.689| 21|  2|  0| 
