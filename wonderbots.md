@@ -5,21 +5,21 @@
  
 |players            |position  | hitsbb|  r| rbi| hr| sb| 
 |:------------------|:---------|------:|--:|---:|--:|--:| 
-|Salvador Perez     |C         |     18|  2|   9|  2|  0| 
+|Salvador Perez     |C         |     19|  2|   9|  2|  0| 
 |Andrew Vaughn      |1B        |      6|  1|   1|  0|  0| 
-|Fernando Tatis Jr. |2B        |     36| 14|  11|  5|  7| 
-|Junior Caminero    |3B        |     22| 10|   7|  3|  0| 
-|Zach Neto          |SS        |     32| 12|  10|  4|  5| 
+|Fernando Tatis Jr. |2B        |     37| 15|  12|  5|  7| 
+|Junior Caminero    |3B        |     25| 13|   9|  4|  0| 
+|Zach Neto          |SS        |     34| 12|  10|  4|  5| 
 |CJ Abrams          |MI        |     18|  9|  10|  3|  6| 
-|Sal Stewart        |CI        |     20|  7|   4|  1|  0| 
-|James Wood         |OF        |     20|  4|   3|  0|  3| 
-|JJ Bleday          |OF        |     14|  5|   2|  1|  0| 
+|Sal Stewart        |CI        |     21|  7|   4|  1|  0| 
+|James Wood         |OF        |     22|  4|   3|  0|  3| 
+|JJ Bleday          |OF        |     16|  7|   3|  2|  0| 
 |Joshua Báez        |OF        |      5|  4|   2|  0|  0| 
-|Mike Trout         |OF        |     33| 10|   3|  2|  0| 
+|Mike Trout         |OF        |     34| 10|   3|  2|  0| 
 |Aaron Judge        |DH        |      5|  2|   3|  1|  0| 
-|Max Clark          |DH        |     29| 12|   7|  1|  3| 
-|Mookie Betts       |DH        |     32| 13|  10|  4|  1| 
-|Ty France          |DH        |     22|  6|   8|  1|  0| 
+|Max Clark          |DH        |     30| 13|   7|  1|  3| 
+|Mookie Betts       |DH        |     33| 14|  11|  5|  1| 
+|Ty France          |DH        |     24|  7|   9|  1|  0| 
 |Ceddanne Rafaela   |BAT BENCH |      2|  0|   0|  0|  0| 
 |José Caballero     |BAT BENCH |     10|  5|   4|  1|  3| 
 |Owen Caissie       |BAT BENCH |      5|  4|   3|  1|  0| 
@@ -47,8 +47,8 @@
 |Noah Cameron      |OP          |  4| 23.000| 11| 4.304|     30| 1.304| 20|  0|  0| 
 |Reid Detmers      |OP          |  4| 23.000|  7| 2.739|     20| 0.870| 29|  3|  0| 
 |Casey Mize        |PITCH BENCH |  4| 17.667| 17| 8.660|     34| 1.925| 10|  1|  0| 
-|Griffin Jax       |PITCH BENCH |  3| 15.000|  1| 0.600|     10| 0.667| 14|  2|  0| 
-|Kris Bubic        |PITCH BENCH |  4|  3.667|  0| 0.000|      3| 0.818|  4|  1|  0| 
+|Griffin Jax       |PITCH BENCH |  4| 18.000|  1| 0.500|     12| 0.667| 15|  2|  0| 
+|Kris Bubic        |PITCH BENCH |  5|  4.667|  0| 0.000|      4| 0.857|  5|  1|  0| 
 
 
 * * *
