@@ -89,7 +89,7 @@ periods <- list(
          c(4, 8),
          c(6, 7))),
   list(startDate = as.Date("2026-09-07"),
-       endDate = as.Date("2026-09-27"),
+       endDate = as.Date("2026-09-28"),
        matchups = list(
          c(1, 10),
          c(2, 3),
