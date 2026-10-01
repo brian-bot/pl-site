@@ -11,7 +11,7 @@
 |Yandy Díaz        |1B        |     17| 10|   8|  1|  0| 
 |Luke Keaschall    |2B        |     35| 17|   8|  1|  4| 
 |Austin Riley      |3B        |     18|  7|   6|  3|  0| 
-|Gunnar Henderson  |SS        |     24|  5|   3|  2|  0| 
+|Gunnar Henderson  |SS        |     23|  5|   2|  2|  0| 
 |Colson Montgomery |MI        |     13|  4|   5|  0|  0| 
 |Pete Alonso       |CI        |     31| 14|  19| 10|  0| 
 |Bryan Reynolds    |OF        |     21|  6|   5|  1|  0| 

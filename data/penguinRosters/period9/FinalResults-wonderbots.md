@@ -13,7 +13,7 @@
 |Junior Caminero    |3B        |     25| 13|   9|  4|  0| 
 |Zach Neto          |SS        |     36| 13|  10|  4|  5| 
 |CJ Abrams          |MI        |     19|  9|  11|  3|  6| 
-|Sal Stewart        |CI        |     21|  7|   4|  1|  0| 
+|Sal Stewart        |CI        |     21|  7|   5|  1|  0| 
 |James Wood         |OF        |     23|  5|   3|  0|  3| 
 |JJ Bleday          |OF        |     18|  7|   3|  2|  0| 
 |Joshua Báez        |OF        |      5|  4|   2|  0|  0| 
@@ -22,7 +22,7 @@
 |Max Clark          |DH        |     30| 13|   7|  1|  3| 
 |Mookie Betts       |DH        |     33| 14|  11|  5|  1| 
 |Ty France          |DH        |     27|  9|  10|  1|  0| 
-|Ceddanne Rafaela   |BAT BENCH |      3|  0|   0|  0|  0| 
+|Ceddanne Rafaela   |BAT BENCH |      4|  0|   0|  0|  0| 
 |José Caballero     |BAT BENCH |     10|  5|   4|  1|  3| 
 |Owen Caissie       |BAT BENCH |      5|  4|   3|  1|  0| 
 |Paul Goldschmidt   |BAT BENCH |      6|  3|   2|  0|  0| 
